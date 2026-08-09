@@ -92,6 +92,23 @@ def confidence_threshold() -> int:
     )
 
 
+def origin() -> str:
+    """Jen doména, bez cesty. Např. https://jvojtasek.github.io"""
+    from urllib.parse import urlparse
+    u = urlparse(site()["brand"]["url"].rstrip("/"))
+    return f"{u.scheme}://{u.netloc}"
+
+
+def base_path() -> str:
+    """Podsložka, ve které web běží. Prázdné, když běží na kořeni domény.
+
+    U GitHub Pages projektu je to '/nazev-repozitare'. Bez tohohle by
+    všechny odkazy na styly a obrázky mířily mimo web.
+    """
+    from urllib.parse import urlparse
+    return urlparse(site()["brand"]["url"].rstrip("/")).path.rstrip("/")
+
+
 def today() -> str:
     return dt.date.today().isoformat()
 

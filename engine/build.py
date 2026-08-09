@@ -169,7 +169,7 @@ def _html(text: str) -> str:
 
 
 def _url(meta: dict) -> str:
-    return f"/{meta['lang']}/{meta['section']}/{meta['slug']}/"
+    return f"{config.base_path()}/{meta['lang']}/{meta['section']}/{meta['slug']}/"
 
 
 def _view(meta: dict, body: str) -> dict:
@@ -242,14 +242,14 @@ def _faq_jsonld(a: dict) -> str:
 
 
 def _breadcrumbs(a: dict, site: dict) -> str:
-    base = site["brand"]["url"]
+    base = config.origin() + config.base_path() + "/"
     return json.dumps({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": site["brand"]["name_en"],
-             "item": f"{base}/{a['lang']}/"},
+             "item": f"{base}{a['lang']}/"},
             {"@type": "ListItem", "position": 2, "name": a.get("section_label", ""),
-             "item": f"{base}/{a['lang']}/{a['section']}/"},
+             "item": f"{base}{a['lang']}/{a['section']}/"},
             {"@type": "ListItem", "position": 3, "name": a.get("title", "")},
         ]}, ensure_ascii=False)
 
@@ -264,8 +264,8 @@ def _jsonld(a: dict, site: dict) -> str:
         "dateModified": a.get("date", ""),
         "articleSection": a.get("section_label", ""),
         "inLanguage": a.get("lang", "en"),
-        "mainEntityOfPage": {"@type": "WebPage", "@id": brand["url"] + a["url"]},
-        "image": [brand["url"] + a.get("image", "")],
+        "mainEntityOfPage": {"@type": "WebPage", "@id": config.origin() + a["url"]},
+        "image": [config.origin() + a.get("image", "")],
         "author": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
         "publisher": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
         "isAccessibleForFree": True,
@@ -281,7 +281,7 @@ def _jsonld(a: dict, site: dict) -> str:
 def _republish_html(a: dict, site: dict) -> str:
     """Hotový kus HTML, který si jiné médium jen zkopíruje."""
     r = site.get("republish", {})
-    brand, url = site["brand"], site["brand"]["url"] + a["url"]
+    brand, url = site["brand"], config.origin() + a["url"]
     parts = [f"<h1>{a['title']}</h1>", f"<p><em>{a.get('dek', '')}</em></p>"]
     for layer in a.get("layers", []):
         parts.append(f"<h2>{layer['label']}</h2>")
@@ -293,7 +293,7 @@ def _republish_html(a: dict, site: dict) -> str:
         f'<a href="{url}">{brand["name_en"]}</a> and is republished under a '
         f'<a href="{r.get("license_url", "")}">{r.get("license", "")}</a> licence.</em></p>'
     )
-    parts.append(f'<img src="{brand["url"]}/px.gif?a={a["slug"]}" alt="" width="1" height="1">')
+    parts.append(f'<img src="{config.origin()}{config.base_path()}/px.gif?a={a["slug"]}" alt="" width="1" height="1">')
     return "\n".join(parts)
 
 
@@ -336,7 +336,7 @@ def run() -> None:
         common = dict(
             lang=lang, brand=brand, tagline=tagline, t=t,
             sections=nav, all_sections=site["sections"], all_langs=langs,
-            site_url=site["brand"]["url"], current_section=None,
+            site_url=config.origin(), base=config.base_path(), current_section=None,
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
             nl_headline=(site.get("newsletter", {}).get(f"headline_{lang}")
                          or site.get("newsletter", {}).get("headline_en", "")),
@@ -427,23 +427,24 @@ def run() -> None:
 
     # --- kořen webu ---
     master = site["languages"]["master"]
+    bp = config.base_path()
     _write(out / "index.html",
            f'<!doctype html><meta charset="utf-8">'
-           f'<meta http-equiv="refresh" content="0; url=/{master}/">'
-           f'<link rel="canonical" href="/{master}/">'
+           f'<meta http-equiv="refresh" content="0; url={bp}/{master}/">'
+           f'<link rel="canonical" href="{bp}/{master}/">'
            f'<title>{site["brand"]["name_en"]}</title>'
-           f'<p>→ <a href="/{master}/">{site["brand"]["name_en"]}</a></p>')
+           f'<p>→ <a href="{bp}/{master}/">{site["brand"]["name_en"]}</a></p>')
     _write(out / "robots.txt",
-           f"User-agent: *\nAllow: /\nDisallow: /admin/\n"
+           f"User-agent: *\nAllow: /\nDisallow: {config.base_path()}/admin/\n"
            f"Sitemap: {site['brand']['url']}/sitemap.xml\n")
 
     # admin sekce — bez tokenu je to prázdná stránka, proto může být veřejně
     admin_src = config.ROOT / "admin"
     if admin_src.exists():
         shutil.copytree(admin_src, out / "admin")
-    _write(out / "sitemap-pages.xml", _sitemap(out, site["brand"]["url"]))
+    _write(out / "sitemap-pages.xml", _sitemap(out, config.origin() + config.base_path()))
     _write(out / "sitemap-news.xml", _news_sitemap(site))
-    base = site["brand"]["url"]
+    base = config.origin() + config.base_path()
     _write(out / "sitemap.xml",
            '<?xml version="1.0" encoding="UTF-8"?>'
            '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
@@ -501,7 +502,7 @@ def _news_sitemap(site: dict) -> str:
         for m, _, _ in article.load_all(lang):
             if m.get("status") != "published" or m.get("date", "") < cutoff:
                 continue
-            loc = f"{brand['url']}/{lang}/{m['section']}/{m['slug']}/"
+            loc = f"{config.origin()}{config.base_path()}/{lang}/{m['section']}/{m['slug']}/"
             rows.append(
                 f"<url><loc>{loc}</loc><news:news>"
                 f"<news:publication><news:name>{sx.escape(brand['name_en'])}</news:name>"

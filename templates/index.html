@@ -48,7 +48,7 @@
 {% for row in rows %}
 <section class="row">
   <div class="wide">
-    <h2 class="rowhead"><a href="/{{ lang }}/{{ row.id }}/">{{ row.icon }} {{ row.label }}</a></h2>
+    <h2 class="rowhead"><a href="{{ base }}/{{ lang }}/{{ row.id }}/">{{ row.icon }} {{ row.label }}</a></h2>
     <div class="grid tight">
       {% for a in row.articles %}
       <div class="card small">

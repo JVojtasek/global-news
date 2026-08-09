@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{% block title %}{{ brand }}{% endblock %}</title>
 <meta name="description" content="{% block description %}{{ tagline }}{% endblock %}">
-<link rel="stylesheet" href="/style.css">
-<link rel="alternate" type="application/rss+xml" title="{{ brand }}" href="/{{ lang }}/feed.xml">
-{% for l in all_langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ site_url }}/{{ l }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
-{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site_url }}/{{ all_langs[0] }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
+<link rel="stylesheet" href="{{ base }}/style.css">
+<link rel="alternate" type="application/rss+xml" title="{{ brand }}" href="{{ base }}/{{ lang }}/feed.xml">
+{% for l in all_langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ site_url }}{{ base }}/{{ l }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site_url }}{{ base }}/{{ all_langs[0] }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
 <meta name="twitter:card" content="summary_large_image">
 {% if seo.twitter_handle %}<meta name="twitter:site" content="{{ seo.twitter_handle }}">{% endif %}
 {% if seo.google_verification %}<meta name="google-site-verification" content="{{ seo.google_verification }}">{% endif %}
@@ -18,12 +18,12 @@
 <body>
 <header class="site">
   <div class="inner">
-    <a class="logo" href="/{{ lang }}/">{{ brand }}<small>{{ tagline }}</small></a>
+    <a class="logo" href="{{ base }}/{{ lang }}/">{{ brand }}<small>{{ tagline }}</small></a>
     <nav class="sections">
-      {% for s in sections %}<a href="/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s.icon }} {{ s[lang] or s.en }}</a>{% endfor %}
+      {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s.icon }} {{ s[lang] or s.en }}</a>{% endfor %}
     </nav>
     <div class="langs">
-      {% for l in all_langs %}<a href="/{{ l }}/" {% if l == lang %}class="on"{% endif %}>{{ l|upper }}</a>{% endfor %}
+      {% for l in all_langs %}<a href="{{ base }}/{{ l }}/" {% if l == lang %}class="on"{% endif %}>{{ l|upper }}</a>{% endfor %}
     </div>
   </div>
 </header>
@@ -48,7 +48,7 @@
   <div class="cols">
     <div>
       <strong>{{ brand }}</strong><br>{{ tagline }}<br>
-      <a href="/{{ lang }}/about/">{{ t.about }}</a> · <a href="/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="/{{ lang }}/feed.xml">RSS</a>
+      <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
     </div>
     <div style="max-width:26rem">{{ t.footer_note }}</div>
   </div>

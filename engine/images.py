@@ -120,13 +120,13 @@ def ensure(meta: dict) -> dict:
     manual = config.STATIC / "covers" / f"{slug}.jpg"
     if manual.exists():
         out.write_bytes(manual.read_bytes())
-        return {"src": f"/img/{slug}.jpg", "credit": None}
+        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None}
 
     # 2) obrázek stažený při některém dřívějším běhu
     if cache.exists():
         out.write_bytes(cache.read_bytes())
         cred = json.loads(credits.read_text(encoding="utf-8")) if credits.exists() else None
-        return {"src": f"/img/{slug}.jpg", "credit": cred}
+        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": cred}
 
     # 3) volné zdroje na internetu
     cfg = config.site().get("images", {})
@@ -144,8 +144,8 @@ def ensure(meta: dict) -> dict:
                 }
                 credits.write_text(json.dumps(cred, ensure_ascii=False), encoding="utf-8")
                 out.write_bytes(cache.read_bytes())
-                return {"src": f"/img/{slug}.jpg", "credit": cred}
+                return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": cred}
 
     # 4) typografická obálka — vždycky funguje
     cover(meta, out)
-    return {"src": f"/img/{slug}.jpg", "credit": None}
+    return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None}

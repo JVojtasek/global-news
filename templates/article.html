@@ -67,14 +67,14 @@
     {% if a.republish %}
     <details class="republish">
       <summary>♻︎ {{ t.republish_offer }}</summary>
-      <p class="muted">{{ t.republish_help }} <a href="/{{ lang }}/republish/">{{ t.republish_title }}</a></p>
+      <p class="muted">{{ t.republish_help }} <a href="{{ base }}/{{ lang }}/republish/">{{ t.republish_title }}</a></p>
       <textarea readonly onclick="this.select()">{{ a.republish }}</textarea>
     </details>
     {% endif %}
 
     <div class="nextstep">
       <p>{{ t.nextstep_q }}</p>
-      <a href="/{{ lang }}/start/">{{ t.nextstep_cta }}</a>
+      <a href="{{ base }}/{{ lang }}/start/">{{ t.nextstep_cta }}</a>
     </div>
   </div>
 </article>
