@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% block title %}{{ brand }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ tagline }}{% endblock %}">
+<link rel="stylesheet" href="/style.css">
+<link rel="alternate" type="application/rss+xml" title="{{ brand }}" href="/{{ lang }}/feed.xml">
+{% for l in all_langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ site_url }}/{{ l }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site_url }}/{{ all_langs[0] }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
+<meta name="twitter:card" content="summary_large_image">
+{% if seo.twitter_handle %}<meta name="twitter:site" content="{{ seo.twitter_handle }}">{% endif %}
+{% if seo.google_verification %}<meta name="google-site-verification" content="{{ seo.google_verification }}">{% endif %}
+{% if seo.bing_verification %}<meta name="msvalidate.01" content="{{ seo.bing_verification }}">{% endif %}
+{% block head %}{% endblock %}
+</head>
+<body>
+<header class="site">
+  <div class="inner">
+    <a class="logo" href="/{{ lang }}/">{{ brand }}<small>{{ tagline }}</small></a>
+    <nav class="sections">
+      {% for s in sections %}<a href="/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s.icon }} {{ s[lang] or s.en }}</a>{% endfor %}
+    </nav>
+    <div class="langs">
+      {% for l in all_langs %}<a href="/{{ l }}/" {% if l == lang %}class="on"{% endif %}>{{ l|upper }}</a>{% endfor %}
+    </div>
+  </div>
+</header>
+{% block body %}{% endblock %}
+{% if newsletter.enabled %}
+<section class="signup">
+  <div class="wrap">
+    <h2>{{ nl_headline }}</h2>
+    <p>{{ nl_text }}</p>
+    {% if newsletter.form_action %}
+    <form action="{{ newsletter.form_action }}" method="post" target="_blank">
+      <input type="email" name="{{ newsletter.field_name }}" required placeholder="your@email.com" aria-label="e-mail">
+      <button type="submit">{{ nl_button }}</button>
+    </form>
+    {% else %}
+    <p class="soon">{{ t.newsletter_soon }}</p>
+    {% endif %}
+  </div>
+</section>
+{% endif %}
+<footer class="site">
+  <div class="cols">
+    <div>
+      <strong>{{ brand }}</strong><br>{{ tagline }}<br>
+      <a href="/{{ lang }}/about/">{{ t.about }}</a> · <a href="/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="/{{ lang }}/feed.xml">RSS</a>
+    </div>
+    <div style="max-width:26rem">{{ t.footer_note }}</div>
+  </div>
+</footer>
+</body>
+</html>

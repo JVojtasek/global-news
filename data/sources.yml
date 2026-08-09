@@ -1,0 +1,82 @@
+# =====================================================================
+#  ZDROJE ZPRÁV
+#  weight  = důvěryhodnost 1-10 (ovlivňuje skóre události)
+#  section = nápověda, do které rubriky zdroj obvykle patří
+#  Přidat zdroj = přidat řádek. Odebrat = smazat řádek.
+# =====================================================================
+
+# ---------- SVĚT ----------
+- {name: "Reuters World",     url: "https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml", weight: 10, section: world}
+- {name: "BBC World",         url: "https://feeds.bbci.co.uk/news/world/rss.xml",   weight: 9,  section: world}
+- {name: "The Guardian World",url: "https://www.theguardian.com/world/rss",         weight: 8,  section: world}
+- {name: "NPR News",          url: "https://feeds.npr.org/1001/rss.xml",            weight: 8,  section: world}
+- {name: "DW News",           url: "https://rss.dw.com/rdf/rss-en-all",             weight: 8,  section: world}
+- {name: "Al Jazeera",        url: "https://www.aljazeera.com/xml/rss/all.xml",     weight: 7,  section: world}
+- {name: "France 24",         url: "https://www.france24.com/en/rss",               weight: 7,  section: world}
+- {name: "AP Top News",       url: "https://rsshub.app/apnews/topics/apf-topnews",  weight: 10, section: world}
+
+# ---------- BYZNYS A PENÍZE ----------
+- {name: "BBC Business",      url: "https://feeds.bbci.co.uk/news/business/rss.xml", weight: 9, section: business}
+- {name: "Guardian Business", url: "https://www.theguardian.com/uk/business/rss",    weight: 8, section: business}
+- {name: "CNBC Top",          url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", weight: 7, section: business}
+- {name: "Investing.com",     url: "https://www.investing.com/rss/news.rss",         weight: 6, section: business}
+- {name: "Economist Finance", url: "https://www.economist.com/finance-and-economics/rss.xml", weight: 9, section: business}
+
+# ---------- TECHNOLOGIE ----------
+- {name: "BBC Technology",    url: "https://feeds.bbci.co.uk/news/technology/rss.xml", weight: 9, section: tech}
+- {name: "Ars Technica",      url: "https://feeds.arstechnica.com/arstechnica/index",  weight: 8, section: tech}
+- {name: "MIT Tech Review",   url: "https://www.technologyreview.com/feed/",           weight: 8, section: tech}
+- {name: "The Verge",         url: "https://www.theverge.com/rss/index.xml",           weight: 7, section: tech}
+- {name: "TechCrunch",        url: "https://techcrunch.com/feed/",                     weight: 7, section: tech}
+- {name: "Hacker News Best",  url: "https://hnrss.org/best",                           weight: 6, section: tech}
+
+# ---------- VĚDA ----------
+- {name: "Nature News",       url: "https://www.nature.com/nature.rss",                weight: 9, section: science}
+- {name: "ScienceDaily",      url: "https://www.sciencedaily.com/rss/top/science.xml", weight: 7, section: science}
+- {name: "BBC Science",       url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", weight: 9, section: science}
+- {name: "Phys.org",          url: "https://phys.org/rss-feed/",                       weight: 7, section: science}
+- {name: "NASA",              url: "https://www.nasa.gov/rss/dyn/breaking_news.rss",   weight: 9, section: science}
+
+# ---------- ZDRAVÍ ----------
+- {name: "ScienceDaily Health", url: "https://www.sciencedaily.com/rss/health_medicine.xml", weight: 7, section: health}
+- {name: "Harvard Health",      url: "https://www.health.harvard.edu/blog/feed",            weight: 8, section: health}
+- {name: "BBC Health",          url: "https://feeds.bbci.co.uk/news/health/rss.xml",        weight: 9, section: health}
+- {name: "Medical Xpress",      url: "https://medicalxpress.com/rss-feed/",                 weight: 7, section: health}
+
+# ---------- KULTURA ----------
+- {name: "Guardian Culture",  url: "https://www.theguardian.com/culture/rss",          weight: 8, section: culture}
+- {name: "BBC Entertainment", url: "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", weight: 8, section: culture}
+- {name: "Smithsonian Mag",   url: "https://www.smithsonianmag.com/rss/latest_articles/", weight: 8, section: culture}
+
+# ---------- CESTOVÁNÍ ----------
+- {name: "BBC Travel",        url: "https://www.bbc.com/travel/feed.rss",              weight: 8, section: travel}
+- {name: "Guardian Travel",   url: "https://www.theguardian.com/travel/rss",           weight: 7, section: travel}
+- {name: "Atlas Obscura",     url: "https://www.atlasobscura.com/feeds/latest",        weight: 7, section: travel}
+
+# ---------- AUTO-MOTO ----------
+- {name: "Autoblog",          url: "https://www.autoblog.com/rss.xml",                 weight: 6, section: motoring}
+- {name: "Electrek",          url: "https://electrek.co/feed/",                        weight: 6, section: motoring}
+
+# ---------- SPORT ----------
+- {name: "BBC Sport",         url: "https://feeds.bbci.co.uk/sport/rss.xml",           weight: 8, section: sport}
+- {name: "Guardian Sport",    url: "https://www.theguardian.com/sport/rss",            weight: 7, section: sport}
+
+# ---------- JÍDLO ----------
+- {name: "Guardian Food",     url: "https://www.theguardian.com/food/rss",             weight: 7, section: food}
+- {name: "Serious Eats",      url: "https://feeds.feedburner.com/seriouseats/recipes", weight: 6, section: food}
+
+# ---------- DOBRÉ ZPRÁVY ----------
+- {name: "Positive News",     url: "https://www.positive.news/feed/",                  weight: 6, section: goodnews}
+- {name: "Good News Network", url: "https://www.goodnewsnetwork.org/feed/",            weight: 5, section: goodnews}
+- {name: "Reasons to be Cheerful", url: "https://reasonstobecheerful.world/feed/",     weight: 6, section: goodnews}
+
+# ---------- HISTORIE A KOŘENY ----------
+- {name: "Biblical Archaeology", url: "https://www.biblicalarchaeology.org/feed/",     weight: 7, section: history}
+- {name: "Archaeology.org",      url: "https://www.archaeology.org/news.rss",          weight: 7, section: history}
+- {name: "Ancient Origins",      url: "https://www.ancient-origins.net/rss.xml",       weight: 5, section: history}
+- {name: "History Today",        url: "https://www.historytoday.com/feed/rss.xml",     weight: 8, section: history}
+
+# ---------- MYSL A SMYSL ----------
+- {name: "Psyche",             url: "https://psyche.co/feed",                          weight: 8, section: meaning}
+- {name: "Aeon",               url: "https://aeon.co/feed.rss",                        weight: 8, section: questions}
+- {name: "Greater Good",       url: "https://greatergood.berkeley.edu/feeds/all.rss",  weight: 7, section: meaning}

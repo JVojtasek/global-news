@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}{{ t.forecasts_title }} — {{ brand }}{% endblock %}
+{% block body %}
+<article class="post"><div class="wrap">
+  <h1>{{ t.forecasts_title }}</h1>
+  <p class="dek">{{ t.forecasts_intro }}</p>
+
+  <div class="scorebox">
+    <div><strong>{{ score.resolved }}</strong><span>{{ t.fc_resolved }}</span></div>
+    <div><strong>{{ "%.3f"|format(score.brier) }}</strong><span>{{ t.fc_brier }}</span></div>
+    <div><strong>{{ score.verdict }}</strong><span>{{ t.fc_verdict }}</span></div>
+  </div>
+  <p class="fineprint">{{ t.fc_explain }}</p>
+
+  {% if open %}
+  <h2>{{ t.fc_open }}</h2>
+  <ul class="fclist">
+    {% for f in open %}
+    <li>
+      <span class="prob">{{ (f.probability * 100)|round|int }}%</span>
+      <div><b>{{ f.question }}</b>
+        <em>{{ t.fc_by }} {{ f.resolve_by }}{% if f.reasoning %} · {{ f.reasoning }}{% endif %}</em>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if resolved %}
+  <h2>{{ t.fc_done }}</h2>
+  <ul class="fclist">
+    {% for f in resolved %}
+    <li class="{{ 'hit' if (f.probability > 0.5) == f.outcome else 'miss' }}">
+      <span class="prob">{{ (f.probability * 100)|round|int }}%</span>
+      <div><b>{{ f.question }}</b>
+        <em>{{ t.fc_outcome }}: <b>{{ t.fc_yes if f.outcome else t.fc_no }}</b>
+          · Brier {{ f.brier }}{% if f.explanation %} · {{ f.explanation }}{% endif %}</em>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if void %}
+  <h2>{{ t.fc_void }}</h2>
+  <ul class="fclist">
+    {% for f in void %}<li><span class="prob">—</span><div><b>{{ f.question }}</b>
+      <em>{{ f.explanation }}</em></div></li>{% endfor %}
+  </ul>
+  {% endif %}
+</div></article>
+{% endblock %}

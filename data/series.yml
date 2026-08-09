@@ -1,0 +1,126 @@
+# =====================================================================
+#  PLÁN DELŠÍCH ČLÁNKŮ (rubriky History & Origins, Big Questions, Mind & Meaning)
+#  Systém bere položky odshora dolů. Až dojdou, doplň další.
+#  angle = úhel pohledu, který z toho dělá čtivý článek i pro nevěřícího
+# =====================================================================
+
+- id: jericho-city
+  series: Cities of the Bible
+  section: history
+  title_hint: 'Jericho: the oldest walled city on earth'
+  passage: Joshua 2; Joshua 6
+  angle: Archaeology and daily life in the oldest continuously inhabited city we know
+    of. What did it actually look like, who lived there, what did they eat, who did
+    they worship?
+- id: jericho-battle
+  series: Great Battles of the Bible
+  section: history
+  title_hint: The seven days at Jericho, step by step
+  passage: Joshua 6
+  angle: A military campaign with no siege engines. Reconstruct the seven days hour
+    by hour, then honestly compare the text with what excavation can and cannot confirm.
+- id: rahab
+  series: People of the Bible
+  section: history
+  title_hint: 'Rahab: the woman everyone had written off'
+  passage: Joshua 2; Matthew 1:5; Hebrews 11:31
+  angle: A foreign woman with a disgraced profession ends up in the family line of
+    Jesus. Follow the thread from Jericho to Matthew 1 without moralising.
+- id: goliath
+  series: Great Battles of the Bible
+  section: history
+  title_hint: 'David and Goliath: what the sling actually did'
+  passage: 1 Samuel 17
+  angle: Ancient warfare, the real physics of a shepherd's sling, Philistine armour,
+    and why single combat existed at all.
+- id: exodus-route
+  series: Hard Questions
+  section: history
+  title_hint: Did the Exodus happen? What the evidence can and cannot show
+  passage: Exodus 12-14
+  angle: Lay out the archaeological debate fairly, including the strongest objections,
+    and be explicit about what remains genuinely unresolved.
+- id: babylon
+  series: Cities of the Bible
+  section: history
+  title_hint: 'Babylon: the city that swallowed a nation'
+  passage: 2 Kings 25; Daniel 1
+  angle: What deportation actually meant for a teenager taken from Jerusalem. The
+    city, the schooling, the pressure to assimilate.
+- id: daniel-lions
+  series: People of the Bible
+  section: history
+  title_hint: 'Daniel: a believer inside a hostile empire'
+  passage: Daniel 1; Daniel 6
+  angle: Persian court politics, the legal trap set for him, and what integrity costs
+    when the law itself turns against you.
+- id: canaan-question
+  series: Hard Questions
+  section: history
+  title_hint: How can a good God command the destruction of Canaan?
+  passage: Deuteronomy 7; Joshua 6-11
+  angle: Do not soften this. Present the sceptic's objection at full strength, the
+    range of serious answers, and what genuinely stays difficult.
+- id: crucifixion
+  series: If You Had Been There
+  section: history
+  title_hint: If you had stood at the cross
+  passage: Mark 15; John 19
+  angle: Roman execution as a medical and legal reality, the geography of Jerusalem
+    that week, and what the witnesses actually reported.
+- id: resurrection-evidence
+  series: Hard Questions
+  section: history
+  title_hint: 'The resurrection: examining the earliest evidence'
+  passage: 1 Corinthians 15:3-8; Mark 16
+  angle: Treat it like a historical inquiry. Sources, dating, the alternative explanations
+    and their weaknesses, and where honest people still disagree.
+- id: gideon
+  series: Great Battles of the Bible
+  section: history
+  title_hint: 'Gideon''s 300: the strangest military reduction in history'
+  passage: Judges 6-7
+  angle: Midianite raiding economics, night tactics with torches and jars, and a commander
+    who kept asking for proof.
+- id: nineveh
+  series: Cities of the Bible
+  section: history
+  title_hint: 'Nineveh: the superpower capital that got a warning'
+  passage: Jonah 3; Nahum
+  angle: Assyrian brutality documented in their own reliefs, the size of the city,
+    and a prophet who did not want his mission to succeed.
+- id: why-we-forgive
+  series: Mind & Meaning
+  section: meaning
+  title_hint: What actually happens in the brain when we forgive
+  passage: ''
+  angle: 'The research on forgiveness and health: what has replicated, what has not,
+    and what people who study it say it costs.'
+- id: loneliness-epidemic
+  series: Mind & Meaning
+  section: meaning
+  title_hint: Loneliness is measurable, and it is getting worse
+  passage: ''
+  angle: The epidemiology of loneliness, why it damages the body, and which interventions
+    have actual evidence behind them.
+- id: does-life-have-meaning
+  series: Big Questions
+  section: questions
+  title_hint: Can a life have meaning if the universe does not?
+  passage: ''
+  angle: Present the strongest case from four positions — absurdism, humanism, Stoicism,
+    theism — fairly and without a winner.
+- id: why-suffering
+  series: Big Questions
+  section: questions
+  title_hint: The problem of suffering, stated at full strength
+  passage: Job 38-42
+  angle: Do not soften it. Give the sceptic's argument its best form, then the serious
+    replies, then what genuinely stays unresolved.
+- id: gratitude-science
+  series: Mind & Meaning
+  section: meaning
+  title_hint: 'Gratitude: the most over-claimed finding in psychology, examined'
+  passage: ''
+  angle: Separate what the studies actually show from what wellness culture claims.
+    Effect sizes, replication, and honest limits.

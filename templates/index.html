@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}{{ brand }} — {{ tagline }}{% endblock %}
+{% block body %}
+
+{% if briefing %}
+<section class="briefing">
+  <div class="wide">
+    <h2>{{ t.briefing_title }}</h2>
+    <ol>
+      {% for a in briefing %}
+      <li><a href="{{ a.url }}">{{ a.title }}</a><span>{{ a.dek }}</span></li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+{% endif %}
+
+{% if lead %}
+<div class="wide">
+  <div class="hero">
+    <a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>
+    <div class="hero-text">
+      <div class="kicker">{{ lead.section_label }}</div>
+      <h1><a href="{{ lead.url }}">{{ lead.title }}</a></h1>
+      <p class="dek">{{ lead.dek }}</p>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% if articles %}
+<div class="wide">
+  <div class="grid">
+    {% for a in articles %}
+    <div class="card">
+      <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
+      <div class="body">
+        <div class="kicker">{{ a.section_label }}</div>
+        <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+        <p>{{ a.dek }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% for row in rows %}
+<section class="row">
+  <div class="wide">
+    <h2 class="rowhead"><a href="/{{ lang }}/{{ row.id }}/">{{ row.icon }} {{ row.label }}</a></h2>
+    <div class="grid tight">
+      {% for a in row.articles %}
+      <div class="card small">
+        <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
+        <div class="body">
+          <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endfor %}
+{% endblock %}

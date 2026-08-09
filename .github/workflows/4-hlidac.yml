@@ -1,0 +1,47 @@
+# Hlídač. Jednou týdně zkontroluje, jestli je všechno v pořádku,
+# a když ne, založí ti na GitHubu úkol (Issue), abys o tom věděl.
+name: "4 · Hlídač"
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"         # každé pondělí ráno
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - id: check
+        continue-on-error: true
+        run: |
+          python -m engine.doctor > zprava.txt 2>&1
+          echo "exit=$?" >> $GITHUB_OUTPUT
+          cat zprava.txt
+
+      - name: Založit úkol, když je problém
+        if: steps.check.outputs.exit != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('zprava.txt', 'utf8');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Redakce hlásí problém — ${new Date().toISOString().slice(0,10)}`,
+              body: "Týdenní kontrola našla něco, co potřebuje tvou pozornost:\n\n```\n" + body + "\n```"
+            });

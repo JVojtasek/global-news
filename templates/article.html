@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block title %}{{ a.title }} — {{ brand }}{% endblock %}
+{% block description %}{{ a.dek }}{% endblock %}
+{% block head %}
+{% if a.origin %}<link rel="canonical" href="{{ a.origin.url }}">{% elif a.syndicated %}<link rel="canonical" href="{{ a.syndicated.url }}">{% else %}<link rel="canonical" href="{{ site_url }}{{ a.url }}">{% endif %}
+{% if a.jsonld %}<script type="application/ld+json">{{ a.jsonld|safe }}</script>{% endif %}
+{% if a.crumbs %}<script type="application/ld+json">{{ a.crumbs|safe }}</script>{% endif %}
+{% if a.faq %}<script type="application/ld+json">{{ a.faq|safe }}</script>{% endif %}
+<meta property="og:title" content="{{ a.title }}">
+<meta property="og:description" content="{{ a.dek }}">
+<meta property="og:image" content="{{ site_url }}{{ a.image }}">
+<meta property="og:type" content="article">
+{% endblock %}
+{% block body %}
+<article class="post">
+  <div class="wrap">
+    <div class="kicker">{{ a.section_label }}{% if a.series %} · {{ a.series }}{% endif %}</div>
+    <h1>{{ a.title }}</h1>
+    <p class="dek">{{ a.dek }}</p>
+    <div class="meta">
+      <span>{{ a.date }}</span>
+      {% if seo.reading_time and a.reading_time %}<span>{{ a.reading_time }} min</span>{% endif %}
+      {% if a.passage %}<span>{{ a.passage }}</span>{% endif %}
+      {% if a.sources %}<span>{{ a.sources|length }} {{ t.sources_word }}</span>{% endif %}
+      {% if a.confidence %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
+    </div>
+    <figure class="cover">
+      <img src="{{ a.image }}" alt="">
+      {% if a.credit %}<figcaption>{{ a.credit.text }} · <a href="{{ a.credit.url }}" rel="nofollow noopener" target="_blank">{{ a.credit.provider }}</a></figcaption>{% endif %}
+    </figure>
+
+    {% if a.syndicated %}
+    <div class="syndicated-note">{{ a.syndicated.attribution|safe }}
+      {% if a.syndicated.license_url %}<a href="{{ a.syndicated.license_url }}" rel="nofollow noopener" target="_blank">{{ a.syndicated.license }}</a>{% else %}{{ a.syndicated.license }}{% endif %}
+    </div>
+    {% endif %}
+
+    {% if a.body_html %}<div class="layer body">{{ a.body_html|safe }}</div>{% endif %}
+
+    {% for layer in a.layers %}
+    <section class="layer layer-{{ layer.id|lower }}">
+      <h2>{{ layer.icon }} {{ layer.label }}</h2>
+      {{ layer.html|safe }}
+    </section>
+    {% endfor %}
+
+    {% if a.sources %}
+    <div class="sources">
+      <h3>{{ t.sources }}</h3>
+      <ul>{% for s in a.sources %}<li>{{ s.name }} — <a href="{{ s.url }}" rel="nofollow noopener" target="_blank">{{ s.url|truncate(70) }}</a></li>{% endfor %}</ul>
+      <p style="color:var(--ink-soft);margin-top:1rem">{{ t.sources_note }}</p>
+    </div>
+    {% endif %}
+
+    {% if a.related %}
+    <section class="related">
+      <h3>{{ t.related }}</h3>
+      <ul>
+        {% for r in a.related %}
+        <li><a href="{{ r.url }}"><span class="kicker">{{ r.section_label }}</span>{{ r.title }}</a>
+          <em>{{ r.dek }}</em></li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    {% if a.republish %}
+    <details class="republish">
+      <summary>♻︎ {{ t.republish_offer }}</summary>
+      <p class="muted">{{ t.republish_help }} <a href="/{{ lang }}/republish/">{{ t.republish_title }}</a></p>
+      <textarea readonly onclick="this.select()">{{ a.republish }}</textarea>
+    </details>
+    {% endif %}
+
+    <div class="nextstep">
+      <p>{{ t.nextstep_q }}</p>
+      <a href="/{{ lang }}/start/">{{ t.nextstep_cta }}</a>
+    </div>
+  </div>
+</article>
+{% endblock %}

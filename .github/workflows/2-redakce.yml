@@ -1,0 +1,97 @@
+# Hlavní denní běh redakce.
+#  1) přijme články, které dodala naplánovaná Claude úloha (content/inbox/)
+#  2) když je nastavený API klíč, dopíše chybějící články sám
+#  3) vydá jeden článek ze zásoby
+#  4) přeloží, co je potřeba
+name: "2 · Redakce"
+
+on:
+  schedule:
+    - cron: "35 4 * * *"        # 06:35 středoevropského letního času
+  workflow_dispatch:
+    inputs:
+      pocet_zprav:
+        description: "Kolik zpravodajských článků napsat (prázdné = podle nastavení)"
+        required: false
+      pocet_biblickych:
+        description: "Kolik biblických článků napsat"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsroom-write
+  cancel-in-progress: false
+
+jobs:
+  newsroom:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      OPENAI_API_KEY:    ${{ secrets.OPENAI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Převzít vlastní články z QMA
+        continue-on-error: true
+        run: python -m engine.qma
+
+      - name: Převzít články ze zdrojů, které to dovolují
+        continue-on-error: true
+        run: python -m engine.syndicate
+
+      - name: Přijmout články z inboxu
+        run: python -m engine.inbox
+
+      - name: Napsat chybějící články (jen když je API klíč)
+        if: env.ANTHROPIC_API_KEY != '' || env.OPENAI_API_KEY != ''
+        continue-on-error: true
+        run: python -m engine.write ${{ inputs.pocet_zprav }} ${{ inputs.pocet_biblickych }}
+
+      - name: Vyhodnotit splatné předpovědi a navrhnout nové
+        if: env.ANTHROPIC_API_KEY != '' || env.OPENAI_API_KEY != ''
+        continue-on-error: true
+        run: |
+          python -m engine.analyst resolve
+          python -m engine.analyst propose
+
+      - name: Vydat článek ze zásoby
+        run: python -m engine.release
+
+      - name: Přeložit
+        if: env.ANTHROPIC_API_KEY != '' || env.OPENAI_API_KEY != ''
+        continue-on-error: true
+        run: python -m engine.translate 6
+
+      - name: Sdílet na sociální sítě
+        continue-on-error: true
+        env:
+          BLUESKY_HANDLE:       ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN:   ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:     ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python -m engine.social prepare
+          python -m engine.social send
+
+      - name: Kontrola zdraví
+        continue-on-error: true
+        run: python -m engine.doctor
+
+      - name: Uložit
+        run: |
+          git config user.name  "newsroom-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add content/ data/
+          git diff --staged --quiet || git commit -m "[bot] redakce $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash || true
+          git push

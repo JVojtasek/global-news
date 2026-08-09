@@ -1,0 +1,43 @@
+# =====================================================================
+#  ZDROJE, ZE KTERÝCH SMÍME PŘEBÍRAT CELÉ ČLÁNKY
+#
+#  Sem patří JEN zdroje, u kterých je licence ověřená a dovoluje to.
+#  U každého je uvedeno, co přesně smíme — a systém to dodržuje.
+#
+#  may_translate: false  → článek se nikdy nepřeloží (licence to zakazuje)
+#  may_edit: false       → text se nesmí zkracovat ani upravovat
+#  keep_images: false    → obrázky z článku se zahodí (nejsou pod licencí)
+#
+#  ⚠️ NEPŘIDÁVEJ SEM NIC, U ČEHO SIS LICENCI NEOVĚŘIL.
+#     Špatný řádek tady = porušení autorských práv na tvém webu.
+# =====================================================================
+
+- name: "Global Voices"
+  url: "https://globalvoices.org/feed/"
+  section: world
+  license: "CC BY 3.0"
+  license_url: "https://creativecommons.org/licenses/by/3.0/"
+  may_translate: true
+  may_edit: true
+  keep_images: false        # fotky v jejich článcích pod licencí nejsou
+  attribution: "This article by {author} was originally published on <a href=\"{url}\">Global Voices</a> and is republished here under a Creative Commons Attribution licence."
+
+- name: "Global Voices Advox"
+  url: "https://advox.globalvoices.org/feed/"
+  section: world
+  license: "CC BY 3.0"
+  license_url: "https://creativecommons.org/licenses/by/3.0/"
+  may_translate: true
+  may_edit: true
+  keep_images: false
+  attribution: "This article by {author} was originally published on <a href=\"{url}\">Global Voices Advox</a> and is republished here under a Creative Commons Attribution licence."
+
+- name: "NASA"
+  url: "https://www.nasa.gov/news-release/feed/"
+  section: science
+  license: "Public domain (U.S. Government work)"
+  license_url: "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+  may_translate: true
+  may_edit: true
+  keep_images: true         # snímky NASA jsou ve veřejném vlastnictví
+  attribution: "Originally published by <a href=\"{url}\">NASA</a>. NASA material is generally not subject to copyright protection."

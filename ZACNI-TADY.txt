@@ -1,0 +1,39 @@
+==========================================================
+  THE DEEPER STORY
+  autonomni zpravodajsky portal
+==========================================================
+
+CO TED UDELAT - v tomto poradi:
+
+
+1) ZALOZ REPOZITAR NA GITHUBU
+   Otevri https://github.com/new
+     Repository name:  global-news
+     Public
+     NEZASKRTAVEJ "Add a README file"
+   Klikni Create repository.
+
+
+2) SPUST SOUBOR  NAHRAJ-NA-GITHUB.bat
+   (dvojklik). Zepta se te na uzivatelske jmeno a nazev
+   repozitare a zbytek udela sam.
+
+
+3) ZAPNI WEB
+   Na GitHubu: Settings - Pages - Source: GitHub Actions
+
+
+4) POKRACUJ PODLE NAVODU
+   Otevri NAVOD.md (da se cist v poznamkovem bloku)
+   a pokracuj krokem 4.
+
+
+==========================================================
+  KDYZ SI NEBUDES VEDET RADY
+==========================================================
+
+Vsechno je popsane v NAVOD.md, krok za krokem, cesky.
+Technicky prehled je v README.md.
+
+Nic z toho neni nevratne. Kdyz neco pokazis, smazes
+repozitar na GitHubu a zacnes znovu.

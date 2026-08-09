@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}{{ section_label }} — {{ brand }}{% endblock %}
+{% block body %}
+<div class="wrap lead">
+  <div class="kicker">{{ t.section }}</div>
+  <h1>{{ section_icon }} {{ section_label }}</h1>
+</div>
+<div class="wide">
+  <div class="grid">
+    {% for a in articles %}
+    <div class="card">
+      <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
+      <div class="body">
+        <div class="kicker">{{ a.date }}</div>
+        <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+        <p>{{ a.dek }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% if not articles %}<p class="wrap" style="color:var(--ink-soft)">{{ t.empty }}</p>{% endif %}
+</div>
+{% endblock %}

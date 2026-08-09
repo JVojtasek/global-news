@@ -1,0 +1,248 @@
+# =====================================================================
+#  THE DEEPER STORY — základní nastavení
+#  Tohle je jediný soubor, který budeš pravidelně měnit ty.
+# =====================================================================
+
+brand:
+  name_en: "The Deeper Story"
+  name_cs: "The Deeper Story"
+  tagline_en: "See beyond the headline."
+  tagline_cs: "Za každým titulkem je víc."
+  url: "https://example.pages.dev"     # ZMĚŇ, až budeš mít doménu
+  email: "hello@example.com"           # ZMĚŇ
+
+languages:
+  master: en
+  translations: [cs]
+
+ai:
+  providers: [anthropic, openai]
+  anthropic_model: "claude-sonnet-4-5"
+  openai_model: "gpt-4.1-mini"
+  max_usd_per_day: 2.0
+
+# ---------------------------------------------------------------------
+# REDAKČNÍ PRAVIDLA
+# ---------------------------------------------------------------------
+editorial:
+  news_per_day: 4
+  bible_days: [wed, sun]        # kdy vychází článek z rubriky History & Origins
+  min_sources: 2
+  min_score: 44
+
+  confidence_threshold_normal: 82
+  confidence_threshold_autonomous: 93
+  autonomous_after_days: 14
+
+  always_review:
+    - prophecy
+    - death_toll
+    - accusation
+    - abuse
+    - election
+
+  reserve_target: 30
+  reserve_emergency: 5
+
+  # --- ČLÁNEK DNE ---------------------------------------------------
+  # Každý den jeden pořádně propracovaný původní článek. Rubriky se
+  # střídají podle pořadí níž, takže žádná nezůstane hluchá.
+  # Tyhle články procházejí delší kontrolou než běžné zpravodajství:
+  # podklady → draft → ověření faktů → teologie → skeptik → přepis.
+  daily_feature:
+    enabled: true
+    rotation:
+      - tech
+      - relationships
+      - science
+      - parenting
+      - meaning
+      - history
+      - health
+      - questions
+      - business
+      - culture
+    min_words: 1100
+    max_words: 1900
+
+  # --- ZÁVĚREČNÁ VRSTVA ------------------------------------------------
+  # Tohle je to, co web odlišuje. Každý článek končí sekcí "The deeper story".
+  # depth_ratio = v kolika procentech článků je ta vrstva výslovně biblická.
+  #   0.0 = nikdy   0.35 = v třetině   1.0 = vždy
+  # Zbytek článků má vrstvu obecně myšlenkovou (filosofie, historie, psychologie).
+  # Doporučení: začni na 0.3 a podle ohlasu upravuj.
+  depth_ratio: 0.3
+
+  # Rubriky, kde je biblická vrstva vždy (tam ji čtenář čeká)
+  depth_always: [history, questions, meaning]
+
+  # Rubriky, kde biblická vrstva NIKDY nebude (bylo by to trapné)
+  depth_never: [sport, food, motoring, travel]
+
+# ---------------------------------------------------------------------
+# RUBRIKY
+#   primary: true  = vždy v horním menu
+#   primary: false = objeví se v menu, teprve až v ní bude aspoň jeden článek
+# ---------------------------------------------------------------------
+sections:
+  - {id: world,     en: "World",        cs: "Svět",         primary: true,  icon: "🌍"}
+  - {id: business,  en: "Business",     cs: "Byznys",       primary: true,  icon: "💰"}
+  - {id: tech,      en: "Technology",   cs: "Technologie",  primary: true,  icon: "🤖"}
+  - {id: science,   en: "Science",      cs: "Věda",         primary: true,  icon: "🔬"}
+  - {id: health,    en: "Health",       cs: "Zdraví",       primary: true,  icon: "🩺"}
+  - {id: culture,   en: "Culture",      cs: "Kultura",      primary: false, icon: "🎭"}
+  - {id: travel,    en: "Travel",       cs: "Cestování",    primary: false, icon: "✈️"}
+  - {id: motoring,  en: "Motoring",     cs: "Auto-moto",    primary: false, icon: "🚗"}
+  - {id: sport,     en: "Sport",        cs: "Sport",        primary: false, icon: "⚽"}
+  - {id: food,      en: "Food",         cs: "Jídlo",        primary: false, icon: "🍲"}
+  - {id: goodnews,  en: "Good News",    cs: "Dobré zprávy", primary: true,  icon: "🌱"}
+  - {id: history,   en: "History & Origins", cs: "Historie a kořeny", primary: true, icon: "🏺"}
+  - {id: questions, en: "Big Questions",     cs: "Velké otázky",      primary: true, icon: "❓"}
+  - {id: meaning,   en: "Mind & Meaning",    cs: "Mysl a smysl",      primary: true, icon: "🧠"}
+  - {id: relationships, en: "Relationships",  cs: "Vztahy",            primary: true, icon: "💞"}
+  - {id: parenting, en: "Family & Parenting", cs: "Rodina a výchova",  primary: true, icon: "👨‍👩‍👧"}
+
+# ---------------------------------------------------------------------
+# OBRÁZKY
+# ---------------------------------------------------------------------
+images:
+  # Pořadí, ve kterém se hledá obrázek. Generování AI tu schválně není.
+  order: [manual, library, openverse, wikimedia, typographic]
+  # Přijímáme jen tyhle licence. Vždy uvádíme autora a licenci u obrázku.
+  allowed_licenses: [pdm, cc0, "by", "by-sa"]
+  max_per_run: 12          # kolik obrázků se smí stáhnout při jednom běhu
+
+# ---------------------------------------------------------------------
+# HLEDÁNÍ TÉMAT, PO KTERÝCH JE POPTÁVKA
+#   Nejde o honění denních trendů — ty jsou z devadesáti procent sport
+#   a celebrity a nikdy je nevyhrajeme. Jde o otázky, které lidé píší
+#   do vyhledávače pořád dokola a nikdo na ně pořádně neodpověděl.
+# ---------------------------------------------------------------------
+topics:
+  enabled: true
+  geos: [US, GB]
+  per_day: 1            # kolik článků denně psát na poptávané téma
+
+  # Stálá témata, ze kterých se dolují otázky i ve dnech, kdy jsou
+  # trendy k ničemu. Klidně si sem dopiš vlastní.
+  evergreen_seeds:
+    # peníze a práce
+    - "inflation"
+    - "interest rates"
+    - "investing for beginners"
+    - "artificial intelligence jobs"
+    # technika a věda
+    - "quantum computing"
+    - "electric car battery"
+    - "space telescope"
+    - "crispr gene editing"
+    - "nuclear fusion"
+    # zdraví a mysl
+    - "sleep"
+    - "burnout"
+    - "loneliness"
+    - "anxiety"
+    - "gut microbiome"
+    - "intermittent fasting"
+    # vztahy
+    - "why relationships fail"
+    - "attachment style"
+    - "how to apologise"
+    - "long distance relationship"
+    - "marriage counselling"
+    # rodina a výchova
+    - "toddler tantrums"
+    - "screen time children"
+    - "how to talk to teenagers"
+    - "sibling rivalry"
+    - "raising confident children"
+    - "working mother guilt"
+    # smysl a historie
+    - "forgiveness"
+    - "meaning of life"
+    - "ancient rome"
+    - "dead sea scrolls"
+    - "why do people believe in god"
+
+# ---------------------------------------------------------------------
+# PŘEBÍRÁNÍ VLASTNÍCH ČLÁNKŮ
+#   Tohle jsou tvoje články z jiného tvého webu. Nejde o cizí obsah,
+#   takže se nepřebírají pod licencí, ale pod tvým jménem s odkazem
+#   na původní vydání.
+# ---------------------------------------------------------------------
+import:
+  qma:
+    enabled: true
+    name: "QMA"
+    sitemap: "https://quantummarketanalyzer.com/sitemap.xml"
+    paths: ["/magazin/analyza/"]     # které rubriky brát
+    min_depth: 5
+    section: business                # do které rubriky to na novém webu patří
+    lang: cs                         # v jakém jazyce jsou původní články
+    max_per_run: 5                   # kolik jich stáhnout při jednom běhu
+    add_disclaimer: true             # připojit upozornění „není investiční doporučení"
+    note: "Originally published on QMA."
+
+# ---------------------------------------------------------------------
+# SEO A ZÍSKÁVÁNÍ ČTENÁŘŮ
+#   Trychtýř má čtyři patra a každé má na webu své místo:
+#     1. PŘIJDE   — z vyhledávače nebo ze sítě na konkrétní článek
+#     2. ZŮSTANE  — související články na konci textu
+#     3. VRÁTÍ SE — přihlásí se k odběru
+#     4. POSUNE SE — otevře stránku „What we are doing here"
+# ---------------------------------------------------------------------
+seo:
+  # Ověřovací kódy z Google Search Console a Bing (vyplň, až je budeš mít)
+  google_verification: ""
+  bing_verification: ""
+  # Účty na sítích — kvůli náhledům při sdílení
+  twitter_handle: ""
+  # Kolik souvisejících článků nabídnout na konci textu
+  related_count: 3
+  # Vypsat u článku odhad doby čtení
+  reading_time: true
+
+newsletter:
+  enabled: true
+  # Sem patří adresa formuláře od tvé e-mailové služby (MailerLite, Buttondown,
+  # Mailchimp, Listmonk…). Dokud je prázdná, ukáže se jen text „připravujeme“.
+  # Návod, kde tu adresu vzít, je v NAVOD.md, krok 8.
+  form_action: ""
+  field_name: "email"
+  headline_en: "One good piece of thinking a day"
+  headline_cs: "Jedna dobrá myšlenka denně"
+  text_en: "The day's most worthwhile story, and the question underneath it. No spam, one click to leave."
+  text_cs: "Nejzajímavější příběh dne a otázka, která pod ním leží. Žádný spam, odhlášení jedním kliknutím."
+  button_en: "Subscribe"
+  button_cs: "Odebírat"
+
+# ---------------------------------------------------------------------
+# NABÍDKA K PŘEVZETÍ  (aby tvoje články přebírala jiná média)
+#   Tohle je model, kterým se ProPublica dostala do velkých novin:
+#   dáš obsah pod licenci, výslovně vyzveš k převzetí a usnadníš to.
+#   Podmínkou je uvedení autora a odkaz zpět.
+# ---------------------------------------------------------------------
+republish:
+  enabled: true
+  license: "CC BY-ND 4.0"
+  license_url: "https://creativecommons.org/licenses/by-nd/4.0/"
+  # ND = nesmí se upravovat. Chrání tě to před tím, aby ti někdo
+  # článek přepsal a nechal pod ním tvoje jméno.
+  allow_translation: false
+  # Které typy článků nabízet. Převzaté cizí články sem samozřejmě nepatří.
+  types: [news, feature, analysis, demand, daily]
+
+# ---------------------------------------------------------------------
+# SOCIÁLNÍ SÍTĚ
+#   Publikuje se přes oficiální rozhraní platforem. Nic se nemaskuje.
+# ---------------------------------------------------------------------
+social:
+  # mode: review = poloautomat. Systém texty připraví, ale odešle je až
+  #                potom, co je v adminu odklikneš. Doporučeno na začátek.
+  #       auto   = odesílá rovnou bez ptaní.
+  mode: review
+
+  enabled: [bluesky, telegram]                 # tyhle umí systém odeslat sám
+  export: [facebook, instagram, x, linkedin]   # tyhle ti připraví k vložení
+  posts_per_day: 3
+  include_link: true

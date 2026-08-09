@@ -1,0 +1,54 @@
+# Sbírá zprávy ze světa a připraví zadání pro redakci.
+# Nestojí to nic a nepoužívá to žádnou AI.
+name: "1 · Sběr zpráv"
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"      # každé 3 hodiny
+  workflow_dispatch:            # + tlačítko na ruční spuštění
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsroom-write
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Posbírat zprávy
+        run: python -m engine.collect
+
+      - name: Zanést události do dlouhodobé paměti
+        run: python -m engine.memory
+
+      - name: Najít témata, po kterých je poptávka
+        continue-on-error: true
+        run: python -m engine.trends
+
+      - name: Připravit analytické zadání
+        run: python -m engine.analyst brief
+
+      - name: Připravit zadání pro redakci
+        run: python -m engine.brief
+
+      - name: Uložit
+        run: |
+          git config user.name  "newsroom-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "[bot] sběr zpráv $(date -u +%Y-%m-%d\ %H:%M)"
+          git pull --rebase --autostash || true
+          git push

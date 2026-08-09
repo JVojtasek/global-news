@@ -1,0 +1,209 @@
+/* =====================================================================
+   Beyond the Headline — vzhled webu
+   Klidný, čitelný, bez blikání. Světlý i tmavý režim.
+   ===================================================================== */
+:root{
+  --bg:#faf8f4; --bg-soft:#f2eee6; --card:#ffffff;
+  --ink:#1a1714; --ink-soft:#5c554c; --line:#e2dbd0;
+  --accent:#8a5a2b; --accent-soft:#f0e4d4;
+  --scripture-bg:#f6efe3; --scripture-line:#c9a874;
+  --max:44rem;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#14120f; --bg-soft:#1c1915; --card:#1b1815;
+    --ink:#efe9e0; --ink-soft:#a89e91; --line:#302a24;
+    --accent:#d9a566; --accent-soft:#2a2119;
+    --scripture-bg:#211b14; --scripture-line:#8a6a3c;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font:17px/1.65 Georgia,"Iowan Old Style","Times New Roman",serif;
+}
+a{color:inherit}
+img{max-width:100%;display:block}
+
+.wrap{max-width:var(--max);margin:0 auto;padding:0 1.25rem}
+.wide{max-width:64rem;margin:0 auto;padding:0 1.25rem}
+
+/* ---------- hlavička ---------- */
+header.site{border-bottom:1px solid var(--line);background:var(--bg)}
+header.site .inner{
+  max-width:64rem;margin:0 auto;padding:1.1rem 1.25rem;
+  display:flex;align-items:baseline;gap:1rem;flex-wrap:wrap
+}
+.logo{font-weight:700;font-size:1.35rem;letter-spacing:-.02em;text-decoration:none}
+.logo small{display:block;font-weight:400;font-size:.72rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-soft);margin-top:.15rem}
+nav.sections{margin-left:auto;display:flex;gap:.9rem;flex-wrap:wrap;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.83rem}
+nav.sections a{color:var(--ink-soft);text-decoration:none;padding:.15rem 0;border-bottom:2px solid transparent}
+nav.sections a:hover,nav.sections a.on{color:var(--ink);border-color:var(--accent)}
+.langs{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;color:var(--ink-soft)}
+.langs a{text-decoration:none;padding:.1rem .35rem;border:1px solid var(--line);border-radius:4px}
+.langs a.on{background:var(--accent-soft);border-color:var(--accent)}
+
+/* ---------- denní přehled ---------- */
+.briefing{background:var(--bg-soft);border-bottom:1px solid var(--line);padding:2rem 0}
+.briefing h2{font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;
+  font-family:ui-sans-serif,system-ui,sans-serif;color:var(--accent);margin:0 0 1rem}
+.briefing ol{margin:0;padding-left:1.3rem}
+.briefing li{margin-bottom:.7rem}
+.briefing li a{text-decoration:none;font-weight:600}
+.briefing li a:hover{text-decoration:underline}
+.briefing li span{display:block;color:var(--ink-soft);font-size:.92rem;font-weight:400}
+
+/* ---------- výpis článků ---------- */
+.lead{padding:2.5rem 0 1rem}
+.lead h1{font-size:clamp(1.9rem,5vw,2.9rem);line-height:1.12;letter-spacing:-.02em;margin:.4rem 0 .6rem}
+.lead h1 a{text-decoration:none}
+.lead .dek{color:var(--ink-soft);font-size:1.12rem}
+
+.grid{display:grid;gap:1.6rem;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));padding:1.5rem 0 3rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;
+  display:flex;flex-direction:column;transition:transform .15s ease}
+.card:hover{transform:translateY(-2px)}
+.card img{aspect-ratio:1200/630;object-fit:cover}
+.card .body{padding:.9rem 1rem 1.1rem}
+.card h3{margin:.2rem 0 .4rem;font-size:1.08rem;line-height:1.25}
+.card h3 a{text-decoration:none}
+.card p{margin:0;color:var(--ink-soft);font-size:.92rem}
+
+.kicker{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.7rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--accent)}
+
+/* ---------- článek ---------- */
+article.post{padding:2.5rem 0 4rem}
+article.post h1{font-size:clamp(1.8rem,4.6vw,2.6rem);line-height:1.15;letter-spacing:-.02em;margin:.5rem 0 .7rem}
+article.post .dek{font-size:1.18rem;color:var(--ink-soft);margin-bottom:1.2rem}
+.meta{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.8rem;color:var(--ink-soft);
+  display:flex;gap:.9rem;flex-wrap:wrap;align-items:center;border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);padding:.7rem 0;margin-bottom:2rem}
+.badge{display:inline-block;padding:.1rem .5rem;border-radius:99px;font-size:.72rem;
+  background:var(--accent-soft);color:var(--accent);border:1px solid var(--line)}
+.cover{border-radius:10px;margin-bottom:2rem}
+
+.layer{margin:0 0 2.6rem}
+.layer > h2{font-size:.76rem;letter-spacing:.17em;text-transform:uppercase;
+  font-family:ui-sans-serif,system-ui,sans-serif;color:var(--accent);
+  margin:0 0 .8rem;display:flex;align-items:center;gap:.5rem}
+.layer p{margin:0 0 1rem}
+
+.sources{border-top:1px solid var(--line);padding-top:1.2rem;margin-top:2.5rem;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.86rem}
+.sources h3{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 .6rem}
+.sources li{margin-bottom:.35rem;color:var(--ink-soft)}
+.sources a{color:var(--accent)}
+
+.nextstep{margin-top:3rem;padding:1.6rem 1.5rem;border:1px dashed var(--line);border-radius:10px;
+  text-align:center;background:var(--bg-soft)}
+.nextstep p{margin:0 0 .8rem;color:var(--ink-soft)}
+.nextstep a{display:inline-block;padding:.6rem 1.2rem;border-radius:99px;text-decoration:none;
+  background:var(--accent);color:#fff;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.9rem}
+
+/* ---------- patička ---------- */
+footer.site{border-top:1px solid var(--line);margin-top:3rem;padding:2.5rem 0;
+  color:var(--ink-soft);font-size:.88rem;font-family:ui-sans-serif,system-ui,sans-serif}
+footer.site a{color:var(--ink-soft)}
+footer.site .cols{max-width:64rem;margin:0 auto;padding:0 1.25rem;display:flex;gap:2.5rem;flex-wrap:wrap}
+
+blockquote{border-left:3px solid var(--scripture-line);margin:1.2rem 0;padding:.2rem 0 .2rem 1.1rem;
+  color:var(--ink-soft);font-style:italic}
+hr{border:0;border-top:1px solid var(--line);margin:2rem 0}
+code{background:var(--bg-soft);padding:.1rem .3rem;border-radius:4px;font-size:.9em}
+
+
+/* ---------- portálová titulní strana ---------- */
+.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:2rem;align-items:center;padding:2.5rem 0 1rem}
+.hero-img img{border-radius:10px;aspect-ratio:1200/630;object-fit:cover}
+.hero-text h1{font-size:clamp(1.7rem,3.4vw,2.6rem);line-height:1.12;letter-spacing:-.02em;margin:.4rem 0 .6rem}
+.hero-text h1 a{text-decoration:none}
+.hero-text .dek{color:var(--ink-soft);font-size:1.08rem;margin:0}
+@media (max-width:760px){.hero{grid-template-columns:1fr;gap:1rem;padding-top:1.5rem}}
+
+.grid.tight{gap:1.1rem;grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));padding:.6rem 0 0}
+.card.small h3{font-size:.98rem;line-height:1.3;margin:.15rem 0 0}
+.card.small .body{padding:.7rem .8rem .9rem}
+
+.row{border-top:1px solid var(--line);margin-top:2.2rem;padding-top:1.4rem}
+.rowhead{font-size:1.05rem;letter-spacing:.02em;margin:0}
+.rowhead a{text-decoration:none;color:var(--ink)}
+.rowhead a:hover{color:var(--accent)}
+
+/* ---------- kredit pod obrázkem ---------- */
+figure.cover{margin:0 0 2rem}
+figure.cover img{border-radius:10px}
+figure.cover figcaption{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;
+  color:var(--ink-soft);margin-top:.45rem;text-align:right}
+figure.cover figcaption a{color:var(--ink-soft)}
+
+/* ---------- závěrečná vrstva ---------- */
+.layer-deeper{background:var(--scripture-bg);border-left:3px solid var(--scripture-line);
+  padding:1.7rem 1.6rem .9rem;border-radius:0 8px 8px 0}
+.layer-reflect{background:var(--card);border:1px solid var(--line);
+  padding:1.6rem 1.5rem .9rem;border-radius:10px}
+.layer-reflect ul{padding-left:1.2rem}
+.layer-reflect li{margin-bottom:.5rem}
+
+
+/* ---------- převzatý článek ---------- */
+.syndicated-note{background:var(--bg-soft);border:1px solid var(--line);border-radius:8px;
+  padding:.85rem 1rem;margin:0 0 2rem;font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:.83rem;color:var(--ink-soft);line-height:1.5}
+.syndicated-note a{color:var(--accent)}
+.layer.body h3{font-size:1.15rem;margin:2rem 0 .6rem}
+
+
+/* ---------- tabule předpovědí ---------- */
+.scorebox{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:1.5rem 0 .8rem;
+  background:var(--bg-soft);border:1px solid var(--line);border-radius:10px;padding:1.2rem}
+.scorebox div{text-align:center}
+.scorebox strong{display:block;font-size:1.5rem;line-height:1.2}
+.scorebox span{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;
+  text-transform:uppercase;letter-spacing:.1em;color:var(--ink-soft)}
+.fineprint{font-size:.86rem;color:var(--ink-soft)}
+.fclist{list-style:none;padding:0;margin:1rem 0 2.5rem}
+.fclist li{display:flex;gap:1rem;align-items:flex-start;border-top:1px solid var(--line);padding:.9rem 0}
+.fclist .prob{flex:0 0 3.6rem;text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+.fclist em{display:block;font-style:normal;font-size:.86rem;color:var(--ink-soft);margin-top:.25rem}
+.fclist li.hit .prob{color:#3f7d4f}
+.fclist li.miss .prob{color:#a8503f}
+
+
+/* ---------- nabídka k převzetí ---------- */
+details.republish{margin-top:2.5rem;border:1px solid var(--line);border-radius:10px;
+  padding:.9rem 1.1rem;background:var(--bg-soft)}
+details.republish summary{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.85rem;
+  color:var(--accent);cursor:pointer}
+details.republish .muted{font-size:.82rem;color:var(--ink-soft);margin:.6rem 0 .5rem}
+details.republish textarea{width:100%;min-height:9rem;font-family:ui-monospace,monospace;
+  font-size:.72rem;line-height:1.5;background:var(--card);color:var(--ink);
+  border:1px solid var(--line);border-radius:7px;padding:.6rem}
+
+
+/* ---------- související články ---------- */
+.related{border-top:1px solid var(--line);margin-top:3rem;padding-top:1.4rem}
+.related h3{font-size:.78rem;letter-spacing:.16em;text-transform:uppercase;
+  font-family:ui-sans-serif,system-ui,sans-serif;color:var(--accent);margin:0 0 .9rem}
+.related ul{list-style:none;padding:0;margin:0}
+.related li{padding:.75rem 0;border-bottom:1px solid var(--line)}
+.related li:last-child{border-bottom:0}
+.related li a{text-decoration:none;font-weight:600;display:block}
+.related li a:hover{color:var(--accent)}
+.related .kicker{display:block;margin-bottom:.15rem}
+.related em{display:block;font-style:normal;color:var(--ink-soft);font-size:.9rem;margin-top:.2rem}
+
+/* ---------- přihlášení k odběru ---------- */
+.signup{background:var(--bg-soft);border-top:1px solid var(--line);padding:2.8rem 0;margin-top:3rem}
+.signup h2{font-size:1.35rem;margin:0 0 .4rem;letter-spacing:-.01em}
+.signup p{color:var(--ink-soft);margin:0 0 1.1rem;max-width:34rem}
+.signup form{display:flex;gap:.6rem;flex-wrap:wrap;max-width:30rem}
+.signup input{flex:1;min-width:12rem;padding:.65rem .8rem;border:1px solid var(--line);
+  border-radius:8px;background:var(--card);color:var(--ink);font:inherit;font-size:.95rem}
+.signup button{padding:.65rem 1.3rem;border:0;border-radius:8px;background:var(--accent);
+  color:#fff;font:inherit;font-size:.95rem;cursor:pointer}
+.signup button:hover{filter:brightness(1.08)}
+.signup .soon{font-size:.9rem;font-style:italic}

@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Redakce — admin</title>
+<style>
+:root{--bg:#f7f6f3;--card:#fff;--ink:#1a1714;--soft:#6b6259;--line:#e2dbd0;--accent:#8a5a2b;
+ --ok:#3f7d4f;--warn:#b07d2a;--bad:#a8503f;--accent-soft:#f2e7d8}
+@media (prefers-color-scheme:dark){:root{--bg:#141210;--card:#1c1916;--ink:#efe9e0;--soft:#a3998c;
+ --line:#302a24;--accent:#d9a566;--accent-soft:#2a2119}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:15px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent)}
+header{background:var(--card);border-bottom:1px solid var(--line);padding:.9rem 1.1rem;
+ display:flex;gap:1rem;align-items:center;flex-wrap:wrap;position:sticky;top:0;z-index:20}
+header b{font-size:1.05rem}
+header .who{margin-left:auto;color:var(--soft);font-size:.85rem}
+nav.tabs{display:flex;gap:.3rem;flex-wrap:wrap;padding:.6rem 1.1rem;background:var(--card);
+ border-bottom:1px solid var(--line);position:sticky;top:3.3rem;z-index:19}
+nav.tabs button{background:none;border:1px solid transparent;border-radius:8px;padding:.42rem .8rem;
+ font:inherit;font-size:.9rem;color:var(--soft);cursor:pointer}
+nav.tabs button:hover{background:var(--bg)}
+nav.tabs button.on{background:var(--accent-soft);color:var(--accent);border-color:var(--line);font-weight:600}
+nav.tabs .badge{background:var(--bad);color:#fff;border-radius:99px;padding:0 .4rem;font-size:.72rem;margin-left:.35rem}
+main{max-width:60rem;margin:0 auto;padding:1.4rem 1.1rem 5rem}
+h2{font-size:1.15rem;margin:0 0 .3rem}
+.sub{color:var(--soft);font-size:.88rem;margin:0 0 1.2rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:1rem 1.1rem;margin-bottom:.9rem}
+.row{display:flex;gap:.8rem;align-items:flex-start;flex-wrap:wrap}
+.row .grow{flex:1;min-width:14rem}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(9rem,1fr));gap:.8rem;margin-bottom:1.4rem}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:11px;padding:.9rem 1rem}
+.tile b{display:block;font-size:1.7rem;line-height:1.15}
+.tile span{color:var(--soft);font-size:.76rem;text-transform:uppercase;letter-spacing:.08em}
+button.act{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:.45rem .9rem;
+ font:inherit;font-size:.88rem;cursor:pointer}
+button.act:hover{filter:brightness(1.08)}
+button.ghost{background:none;border:1px solid var(--line);color:var(--ink)}
+button.danger{background:var(--bad)}
+button:disabled{opacity:.5;cursor:default}
+input,select,textarea{font:inherit;background:var(--bg);color:var(--ink);border:1px solid var(--line);
+ border-radius:8px;padding:.45rem .6rem;width:100%}
+textarea{min-height:7rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.84rem;line-height:1.5}
+label{display:block;font-size:.8rem;color:var(--soft);margin:.7rem 0 .25rem}
+.pill{display:inline-block;padding:.08rem .5rem;border-radius:99px;font-size:.74rem;border:1px solid var(--line)}
+.pill.review{background:#f5e2c8;color:#7a5410;border-color:#e3c99c}
+.pill.published{background:#dcecdf;color:#2c5c3a;border-color:#bcd9c3}
+.pill.reserve{background:#e0e6ef;color:#3c4a63;border-color:#c3cee0}
+.pill.syndicated{background:#eae2f0;color:#54407a;border-color:#d3c6e0}
+.muted{color:var(--soft);font-size:.85rem}
+.empty{text-align:center;color:var(--soft);padding:2.5rem 1rem}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:1.2rem;background:var(--ink);
+ color:var(--bg);padding:.6rem 1.1rem;border-radius:99px;font-size:.88rem;z-index:50;opacity:0;
+ transition:opacity .2s;pointer-events:none}
+.toast.show{opacity:1}
+.gate{max-width:31rem;margin:12vh auto;padding:0 1.1rem}
+pre.copy{background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:.7rem .8rem;
+ white-space:pre-wrap;font-size:.82rem;margin:.4rem 0;font-family:ui-monospace,monospace}
+details summary{cursor:pointer;color:var(--soft);font-size:.86rem}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:.8rem}
+@media(max-width:640px){.split{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<div id="gate" class="gate">
+  <h2>Přihlášení do redakce</h2>
+  <p class="sub">Tahle stránka nic neukládá na server — mluví přímo s tvým GitHubem.
+     Bez tokenu je úplně nepoužitelná, takže nevadí, že je veřejně dostupná.</p>
+  <div class="card">
+    <label>Repozitář (uživatel/název)</label>
+    <input id="g-repo" placeholder="jarda/newsroom" autocomplete="off">
+    <label>Přístupový token</label>
+    <input id="g-token" type="password" placeholder="github_pat_..." autocomplete="off">
+    <p class="muted" style="margin:.7rem 0 0">
+      Token si vyrobíš na <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens</a>.
+      Vyber <b>jen tenhle jeden repozitář</b> a v oprávněních nastav
+      <b>Contents: Read and write</b> a <b>Actions: Read and write</b>.
+    </p>
+    <label style="display:flex;gap:.5rem;align-items:center;margin-top:.9rem">
+      <input type="checkbox" id="g-remember" checked style="width:auto"> Zapamatovat si mě na tomhle zařízení
+    </label>
+    <div style="margin-top:1rem"><button class="act" onclick="login()">Přihlásit</button></div>
+    <p class="muted" style="margin-top:.9rem">
+      Token se uloží jen do tvého prohlížeče. Kdybys přišel o počítač, zruš ho
+      na stejné stránce, kde jsi ho vyrobil — tím okamžitě přestane platit.</p>
+  </div>
+</div>
+
+<div id="app" style="display:none">
+<header>
+  <b>Redakce</b>
+  <span class="muted" id="repo-label"></span>
+  <span class="who"><span id="rate"></span> · <a href="#" onclick="logout();return false">odhlásit</a></span>
+</header>
+<nav class="tabs" id="tabs"></nav>
+<main id="view"><div class="empty">Načítám…</div></main>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const API = "https://api.github.com";
+let S = { repo:"", token:"", tab:"dash", data:{} };
+
+/* ---------------- pomocné ---------------- */
+const $ = s => document.querySelector(s);
+const esc = s => String(s??"").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function toast(msg, ms=2600){ const t=$("#toast"); t.textContent=msg; t.classList.add("show");
+  clearTimeout(t._t); t._t=setTimeout(()=>t.classList.remove("show"), ms); }
+function b64encode(str){ const b=new TextEncoder().encode(str); let s=""; b.forEach(c=>s+=String.fromCharCode(c)); return btoa(s); }
+function b64decode(b64){ const bin=atob(b64.replace(/\s/g,"")); const arr=Uint8Array.from(bin,c=>c.charCodeAt(0));
+  return new TextDecoder("utf-8").decode(arr); }
+
+async function gh(path, opts={}){
+  const r = await fetch(API + path, { ...opts, headers:{
+    "Authorization":"Bearer "+S.token, "Accept":"application/vnd.github+json",
+    "X-GitHub-Api-Version":"2022-11-28", ...(opts.headers||{}) }});
+  const rem = r.headers.get("x-ratelimit-remaining");
+  if (rem) $("#rate") && ($("#rate").textContent = "API "+rem);
+  if (r.status === 401) { toast("Token neplatí nebo vypršel."); throw new Error("401"); }
+  if (r.status === 403) { toast("Tokenu chybí oprávnění."); throw new Error("403"); }
+  if (!r.ok && r.status !== 404) { const t = await r.text(); throw new Error(r.status+" "+t.slice(0,180)); }
+  return r.status === 404 ? null : (r.status === 204 ? {} : r.json());
+}
+async function getFile(path){
+  const j = await gh(`/repos/${S.repo}/contents/${path}?ref=main`);
+  if (!j) return null;
+  return { text: b64decode(j.content), sha: j.sha };
+}
+async function putFile(path, text, sha, message){
+  return gh(`/repos/${S.repo}/contents/${path}`, { method:"PUT",
+    body: JSON.stringify({ message, content:b64encode(text), sha, branch:"main" }) });
+}
+async function dispatch(file){
+  await gh(`/repos/${S.repo}/actions/workflows/${file}/dispatches`, {
+    method:"POST", body: JSON.stringify({ ref:"main" }) });
+}
+
+/* ---------------- přihlášení ---------------- */
+function login(){
+  const repo = $("#g-repo").value.trim().replace(/^https?:\/\/github.com\//,"").replace(/\/$/,"");
+  const token = $("#g-token").value.trim();
+  if (!repo.includes("/") || !token) { toast("Vyplň repozitář i token."); return; }
+  S.repo = repo; S.token = token;
+  if ($("#g-remember").checked) { localStorage.setItem("ds_repo", repo); localStorage.setItem("ds_token", token); }
+  start();
+}
+function logout(){ localStorage.removeItem("ds_token"); localStorage.removeItem("ds_repo"); location.reload(); }
+
+async function start(){
+  $("#gate").style.display="none"; $("#app").style.display="block";
+  $("#repo-label").textContent = S.repo;
+  try { await loadAll(); } catch(e){ $("#view").innerHTML =
+    `<div class="card"><b>Nepodařilo se načíst data.</b><p class="muted">${esc(e.message)}</p>
+     <button class="act ghost" onclick="logout()">Přihlásit se znovu</button></div>`; return; }
+  renderTabs(); render();
+}
+
+async function loadAll(){
+  const [idx, queue, fc, site, brief] = await Promise.all([
+    getFile("data/admin-index.json").catch(()=>null),
+    getFile("data/social/queue.json").catch(()=>null),
+    getFile("data/forecasts.json").catch(()=>null),
+    getFile("data/site.yml"),
+    getFile("data/brief.md").catch(()=>null),
+  ]);
+  S.data.index  = idx ? JSON.parse(idx.text) : {articles:[]};
+  S.data.queue  = queue ? {...JSON.parse(queue.text), _sha:queue.sha} : {items:[], _sha:null};
+  S.data.fc     = fc ? {...JSON.parse(fc.text), _sha:fc.sha} : {forecasts:[], _sha:null};
+  S.data.site   = site;
+  S.data.brief  = brief ? brief.text : "";
+}
+
+/* ---------------- záložky ---------------- */
+const TABS = [
+  {id:"dash",   name:"Přehled"},
+  {id:"review", name:"Ke schválení", count:()=> S.data.index.articles.filter(a=>a.status==="review"&&a.lang==="en").length},
+  {id:"social", name:"Sociální sítě", count:()=> S.data.queue.items.filter(i=>i.status==="pending").length},
+  {id:"posts",  name:"Články"},
+  {id:"fc",     name:"Předpovědi"},
+  {id:"set",    name:"Nastavení"},
+  {id:"run",    name:"Spustit"},
+];
+function renderTabs(){
+  $("#tabs").innerHTML = TABS.map(t=>{
+    const n = t.count ? t.count() : 0;
+    return `<button class="${S.tab===t.id?'on':''}" onclick="go('${t.id}')">${t.name}${
+      n ? `<span class="badge">${n}</span>` : ""}</button>`;
+  }).join("");
+}
+function go(t){ S.tab=t; renderTabs(); render(); }
+
+function render(){ ({dash:vDash, review:vReview, social:vSocial, posts:vPosts,
+                     fc:vForecasts, set:vSettings, run:vRun})[S.tab](); }
+
+/* ---------------- přehled ---------------- */
+function vDash(){
+  const a = S.data.index.articles.filter(x=>x.lang==="en");
+  const pub = a.filter(x=>x.status==="published").length;
+  const rev = a.filter(x=>x.status==="review").length;
+  const res = a.filter(x=>x.status==="reserve").length;
+  const pend = S.data.queue.items.filter(i=>i.status==="pending").length;
+  const open = S.data.fc.forecasts.filter(f=>f.status==="open").length;
+  const done = S.data.fc.forecasts.filter(f=>f.status==="resolved"&&f.brier!=null);
+  const brier = done.length ? (done.reduce((s,f)=>s+f.brier,0)/done.length).toFixed(3) : "—";
+  const warn = [];
+  if (res <= 5) warn.push(`Zásoba delších článků je nízká (${res}). Web brzy nebude mít co vydávat.`);
+  if (rev) warn.push(`${rev} článků čeká na tvoje schválení.`);
+  if (pend) warn.push(`${pend} příspěvků čeká na odklepnutí do sociálních sítí.`);
+
+  $("#view").innerHTML = `
+  <h2>Přehled</h2>
+  <p class="sub">Aktualizováno ${esc((S.data.index.generated||"").replace("T"," ").slice(0,16))}</p>
+  <div class="tiles">
+    <div class="tile"><b>${pub}</b><span>vydáno</span></div>
+    <div class="tile"><b>${rev}</b><span>ke schválení</span></div>
+    <div class="tile"><b>${res}</b><span>v zásobě</span></div>
+    <div class="tile"><b>${open}</b><span>otevřených předpovědí</span></div>
+    <div class="tile"><b>${brier}</b><span>Brierovo skóre</span></div>
+  </div>
+  ${warn.length ? `<div class="card"><b>Co si zaslouží pozornost</b><ul style="margin:.5rem 0 0">
+      ${warn.map(w=>`<li>${esc(w)}</li>`).join("")}</ul></div>` : ""}
+  <div class="card"><b>Dnešní objednávka práce</b>
+    <details style="margin-top:.5rem"><summary>zobrazit celé zadání</summary>
+      <pre class="copy" style="max-height:26rem;overflow:auto">${esc(S.data.brief || "zatím nic")}</pre>
+    </details></div>`;
+}
+
+/* ---------------- ke schválení ---------------- */
+async function vReview(){
+  const list = S.data.index.articles.filter(a=>a.status==="review" && a.lang==="en");
+  if (!list.length){ $("#view").innerHTML =
+    `<h2>Ke schválení</h2><div class="empty">Nic nečeká. Všechno prošlo automaticky.</div>`; return; }
+  $("#view").innerHTML = `<h2>Ke schválení</h2>
+    <p class="sub">Systém si u těchhle článků nebyl dost jistý, tak je nevydal sám.</p>` +
+    list.map(a=>`<div class="card" id="c-${esc(a.slug)}">
+      <div class="row"><div class="grow">
+        <span class="pill review">jistota ${a.confidence||"?"}/100</span>
+        <span class="pill">${esc(a.section)}</span> <span class="pill">${esc(a.type)}</span>
+        <div style="font-weight:600;margin:.45rem 0 .2rem">${esc(a.title)}</div>
+        <div class="muted">${esc(a.dek)}</div>
+        ${a.problems&&a.problems.length ? `<div class="muted" style="margin-top:.4rem;color:var(--bad)">
+           ⚠ ${a.problems.map(esc).join(" · ")}</div>`:""}
+        ${a.review&&a.review.sceptic_verdict ? `<div class="muted" style="margin-top:.4rem">
+           Skeptik: „${esc(a.review.sceptic_verdict)}“</div>`:""}
+      </div></div>
+      <div class="row" style="margin-top:.8rem">
+        <button class="act" onclick="approve('${esc(a.path)}','${esc(a.slug)}')">Vydat</button>
+        <button class="act ghost" onclick="openEditor('${esc(a.path)}')">Otevřít a upravit</button>
+        <button class="act danger" onclick="reject('${esc(a.path)}','${esc(a.slug)}')">Zahodit</button>
+      </div>
+      <div id="ed-${esc(a.slug)}"></div></div>`).join("");
+}
+
+async function approve(path, slug){
+  try{
+    const f = await getFile(path);
+    const text = f.text.replace(/^status:\s*\w+/m, "status: published");
+    await putFile(path, text, f.sha, "admin: vydán článek "+slug);
+    toast("Vydáno. Web se přestaví do dvou minut.");
+    await loadAll(); renderTabs(); render();
+  } catch(e){ toast("Nepovedlo se: "+e.message); }
+}
+async function reject(path, slug){
+  if (!confirm("Opravdu zahodit? Článek se smaže z repozitáře.")) return;
+  try{
+    const f = await gh(`/repos/${S.repo}/contents/${path}?ref=main`);
+    await gh(`/repos/${S.repo}/contents/${path}`, { method:"DELETE",
+      body: JSON.stringify({ message:"admin: zahozen článek "+slug, sha:f.sha, branch:"main" })});
+    toast("Zahozeno.");
+    await loadAll(); renderTabs(); render();
+  } catch(e){ toast("Nepovedlo se: "+e.message); }
+}
+async function openEditor(path){
+  const slug = path.split("/").pop().replace(/\.md$/,"").replace(/^\d{4}-\d{2}-\d{2}-/,"");
+  const box = document.getElementById("ed-"+slug) || $("#view");
+  box.innerHTML = `<div class="muted" style="margin-top:.8rem">Načítám…</div>`;
+  const f = await getFile(path);
+  box.innerHTML = `<label>Text článku (Markdown)</label>
+    <textarea id="t-${esc(slug)}" style="min-height:24rem">${esc(f.text)}</textarea>
+    <div class="row" style="margin-top:.6rem">
+      <button class="act" onclick="saveArticle('${esc(path)}','${esc(f.sha)}','${esc(slug)}')">Uložit</button>
+      <button class="act ghost" onclick="document.getElementById('ed-${esc(slug)}').innerHTML=''">Zavřít</button>
+    </div>`;
+}
+async function saveArticle(path, sha, slug){
+  try{
+    await putFile(path, document.getElementById("t-"+slug).value, sha, "admin: úprava "+slug);
+    toast("Uloženo.");
+    await loadAll(); renderTabs(); render();
+  } catch(e){ toast("Nepovedlo se: "+e.message); }
+}
+
+/* ---------------- sociální sítě ---------------- */
+function vSocial(){
+  const items = S.data.queue.items || [];
+  const pending = items.filter(i=>i.status==="pending");
+  const rest = items.filter(i=>i.status!=="pending");
+  $("#view").innerHTML = `<h2>Sociální sítě</h2>
+    <p class="sub">Bluesky a Telegram odešle systém sám, jakmile příspěvek schválíš.
+       Facebook, Instagram, X a LinkedIn si zkopíruj a vlož ručně.</p>
+    ${pending.length ? "" : `<div class="empty">Nic nečeká na schválení.</div>`}
+    ${pending.map((i,n)=>socialCard(i,n)).join("")}
+    ${rest.length ? `<details style="margin-top:1.5rem"><summary>Historie (${rest.length})</summary>
+      ${rest.map(i=>`<div class="card"><span class="pill">${esc(i.status)}</span>
+        ${esc(i.title)} <span class="muted">${esc((i.sent||[]).join(", "))}</span></div>`).join("")}
+      </details>`:""}`;
+}
+function socialCard(i, n){
+  const nets = ["bluesky","telegram","facebook","instagram","x","linkedin"];
+  return `<div class="card">
+    <div style="font-weight:600">${esc(i.title)}</div>
+    <div class="muted" style="margin-bottom:.6rem"><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.url)}</a></div>
+    ${nets.filter(k=>i.posts&&i.posts[k]).map(k=>`
+      <label style="margin-top:.6rem">${k}</label>
+      <textarea id="s-${n}-${k}" style="min-height:5.5rem">${esc(i.posts[k])}</textarea>
+      <div style="text-align:right"><button class="act ghost" style="font-size:.78rem;padding:.2rem .6rem"
+        onclick="copyBox('s-${n}-${k}')">kopírovat</button></div>`).join("")}
+    <div class="row" style="margin-top:.8rem">
+      <button class="act" onclick="approveSocial(${n})">Schválit a odeslat</button>
+      <button class="act danger" onclick="rejectSocial(${n})">Nesdílet</button>
+    </div></div>`;
+}
+function copyBox(id){ const el=document.getElementById(id); el.select();
+  navigator.clipboard.writeText(el.value).then(()=>toast("Zkopírováno.")); }
+async function setSocial(idx, status){
+  const q = S.data.queue;
+  const pending = q.items.filter(i=>i.status==="pending");
+  const item = pending[idx]; if(!item) return;
+  const nets = ["bluesky","telegram","facebook","instagram","x","linkedin"];
+  nets.forEach(k=>{ const el=document.getElementById(`s-${idx}-${k}`); if(el) item.posts[k]=el.value; });
+  item.status = status;
+  const body = JSON.stringify({items:q.items}, null, 1);
+  try{
+    await putFile("data/social/queue.json", body, q._sha, "admin: "+status+" — "+item.slug);
+    toast(status==="approved" ? "Schváleno. Odejde při nejbližším běhu." : "Nebude se sdílet.");
+    await loadAll(); renderTabs(); render();
+  } catch(e){ toast("Nepovedlo se: "+e.message); }
+}
+const approveSocial = n => setSocial(n, "approved");
+const rejectSocial  = n => setSocial(n, "skipped");
+
+/* ---------------- články ---------------- */
+function vPosts(){
+  const a = S.data.index.articles.filter(x=>x.lang==="en").slice(0,80);
+  $("#view").innerHTML = `<h2>Články</h2><p class="sub">Posledních ${a.length}. Klikni na název pro úpravu.</p>` +
+    a.map(x=>`<div class="card"><div class="row">
+      <div class="grow">
+        <span class="pill ${esc(x.status)}">${esc(x.status)}</span>
+        <span class="pill">${esc(x.section)}</span>
+        ${x.type==="syndicated"?`<span class="pill syndicated">převzato</span>`:""}
+        <span class="muted"> ${esc(x.date)}</span>
+        <div style="font-weight:600;margin-top:.35rem;cursor:pointer" onclick="openEditor('${esc(x.path)}')">${esc(x.title)}</div>
+      </div>
+      ${x.url?`<a class="muted" href="${esc(x.url)}" target="_blank" rel="noopener">otevřít →</a>`:""}
+    </div><div id="ed-${esc(x.slug)}"></div></div>`).join("");
+}
+
+/* ---------------- předpovědi ---------------- */
+function vForecasts(){
+  const f = S.data.fc.forecasts||[];
+  const open = f.filter(x=>x.status==="open");
+  const done = f.filter(x=>x.status!=="open");
+  $("#view").innerHTML = `<h2>Předpovědi</h2>
+    <p class="sub">Otevřené můžeš rozhodnout ručně, když systém nedokáže sám.</p>
+    ${open.map((x,n)=>`<div class="card">
+      <div class="row"><div class="grow">
+        <b>${Math.round(x.probability*100)} %</b> — ${esc(x.question)}
+        <div class="muted">rozhodne se do ${esc(x.resolve_by)} · ${esc(x.resolution_criteria||"")}</div>
+      </div></div>
+      <div class="row" style="margin-top:.7rem">
+        <button class="act" onclick="resolveFc('${esc(x.id)}',true)">Stalo se</button>
+        <button class="act ghost" onclick="resolveFc('${esc(x.id)}',false)">Nestalo se</button>
+        <button class="act ghost" onclick="resolveFc('${esc(x.id)}',null)">Nelze rozhodnout</button>
+      </div></div>`).join("") || `<div class="empty">Zatím žádné otevřené předpovědi.</div>`}
+    ${done.length?`<details style="margin-top:1.4rem"><summary>Vyhodnocené (${done.length})</summary>
+      ${done.map(x=>`<div class="card"><b>${Math.round(x.probability*100)} %</b> — ${esc(x.question)}
+        <div class="muted">${x.status==="void"?"zrušeno":(x.outcome?"stalo se":"nestalo se")}
+        ${x.brier!=null?` · Brier ${x.brier}`:""}</div></div>`).join("")}</details>`:""}`;
+}
+async function resolveFc(id, outcome){
+  const d = S.data.fc; const x = d.forecasts.find(f=>f.id===id); if(!x) return;
+  if (outcome===null){ x.status="void"; x.explanation="Rozhodnuto ručně: nešlo posoudit."; }
+  else { x.status="resolved"; x.outcome=outcome; x.resolved_on=new Date().toISOString().slice(0,10);
+         x.brier=Math.round(Math.pow(x.probability-(outcome?1:0),2)*10000)/10000;
+         x.explanation="Rozhodnuto ručně."; }
+  try{
+    await putFile("data/forecasts.json", JSON.stringify({forecasts:d.forecasts},null,1), d._sha, "admin: vyhodnocena předpověď");
+    toast("Uloženo."); await loadAll(); render();
+  } catch(e){ toast("Nepovedlo se: "+e.message); }
+}
+
+/* ---------------- nastavení ---------------- */
+const FIELDS = [
+  ["news_per_day",  "Kolik zpravodajských článků denně", "number"],
+  ["depth_ratio",   "V kolika procentech článků je závěrečná vrstva biblická (0–1)", "text"],
+  ["min_score",     "Od jaké důležitosti se událost zpracuje (0–100)", "number"],
+  ["news_per_day",  null, null],
+  ["confidence_threshold_normal", "Práh jistoty pro automatické vydání", "number"],
+  ["reserve_target","Kolik článků držet v zásobě", "number"],
+  ["posts_per_day", "Kolik příspěvků denně na sítě", "number"],
+];
+function readYamlValue(text, key){
+  const m = text.match(new RegExp("^(\\s*"+key+":\\s*)([^#\\n]+)", "m"));
+  return m ? m[2].trim() : "";
+}
+function vSettings(){
+  const t = S.data.site.text;
+  const mode = readYamlValue(t,"mode");
+  const seen = new Set();
+  const rows = FIELDS.filter(([k,l])=>l && !seen.has(k) && seen.add(k)).map(([k,label,type])=>`
+    <label>${esc(label)}</label>
+    <input id="f-${k}" type="${type}" step="0.05" value="${esc(readYamlValue(t,k))}">`).join("");
+  $("#view").innerHTML = `<h2>Nastavení</h2>
+    <p class="sub">Nejčastěji měněné hodnoty. Všechno ostatní je v souboru dole.</p>
+    <div class="card">${rows}
+      <label>Sociální sítě</label>
+      <select id="f-mode">
+        <option value="review" ${mode==="review"?"selected":""}>Poloautomat — odešle se až po mém schválení</option>
+        <option value="auto" ${mode==="auto"?"selected":""}>Automat — odesílá rovnou</option>
+      </select>
+      <div style="margin-top:1rem"><button class="act" onclick="saveSettings()">Uložit nastavení</button></div>
+    </div>
+    <details class="card"><summary>Upravit celý soubor site.yml ručně</summary>
+      <textarea id="raw-site" style="min-height:26rem;margin-top:.7rem">${esc(t)}</textarea>
+      <div style="margin-top:.6rem"><button class="act ghost" onclick="saveRaw()">Uložit soubor</button></div>
+    </details>`;
+}
+async function saveSettings(){
+  let t = S.data.site.text;
+  const seen=new Set();
+  FIELDS.filter(([k,l])=>l && !seen.has(k) && seen.add(k)).forEach(([k])=>{
+    const el = document.getElementById("f-"+k); if(!el||el.value==="") return;
+    t = t.replace(new RegExp("^(\\s*"+k+":\\s*)([^#\\n]+)","m"), (m,p1)=>p1+el.value);
+  });
+  const mode = document.getElementById("f-mode").value;
+  t = t.replace(/^(\s*mode:\s*)([^#\n]+)/m, (m,p1)=>p1+mode);
+  try{
+    await putFile("data/site.yml", t, S.data.site.sha, "admin: změna nastavení");
+    toast("Uloženo."); await loadAll(); render();
+  } catch(e){ toast("Nepovedlo se: "+e.message); }
+}
+async function saveRaw(){
+  try{
+    await putFile("data/site.yml", document.getElementById("raw-site").value, S.data.site.sha, "admin: úprava site.yml");
+    toast("Uloženo."); await loadAll(); render();
+  } catch(e){ toast("Nepovedlo se: "+e.message); }
+}
+
+/* ---------------- spustit ---------------- */
+const FLOWS = [
+  ["1-sber-zprav.yml", "Posbírat zprávy teď", "Projde všechny zdroje, doplní paměť a připraví novou objednávku práce. Trvá ~2 minuty."],
+  ["2-redakce.yml", "Spustit redakci teď", "Převezme články, přijme co dodala Claude úloha, vydá ze zásoby, přeloží a rozešle schválené příspěvky."],
+  ["3-publikace.yml", "Přestavět web teď", "Postaví web znovu a vystaví ho. Použij, když se něco nezobrazuje."],
+  ["4-hlidac.yml", "Kontrola zdraví", "Projde celý systém a nahlásí, co nesedí."],
+];
+function vRun(){
+  $("#view").innerHTML = `<h2>Spustit ručně</h2>
+    <p class="sub">Normálně běží všechno samo. Tohle je, když nechceš čekat.</p>` +
+    FLOWS.map(([f,name,desc])=>`<div class="card"><div class="row">
+      <div class="grow"><b>${esc(name)}</b><div class="muted">${esc(desc)}</div></div>
+      <button class="act" onclick="runFlow('${f}',this)">Spustit</button></div></div>`).join("") +
+    `<p class="muted">Průběh uvidíš na
+      <a href="https://github.com/${esc(S.repo)}/actions" target="_blank" rel="noopener">GitHubu v sekci Actions</a>.</p>`;
+}
+async function runFlow(file, btn){
+  btn.disabled = true; btn.textContent = "Spouštím…";
+  try { await dispatch(file); toast("Spuštěno. Za pár minut bude hotovo."); btn.textContent="Spuštěno"; }
+  catch(e){ toast("Nepovedlo se: "+e.message); btn.disabled=false; btn.textContent="Spustit"; }
+}
+
+/* ---------------- start ---------------- */
+(function(){
+  const r = localStorage.getItem("ds_repo"), t = localStorage.getItem("ds_token");
+  if (r && t) { S.repo=r; S.token=t; start(); }
+})();
+</script>
+</body>
+</html>
