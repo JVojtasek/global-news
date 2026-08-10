@@ -15,35 +15,52 @@
 </section>
 {% endif %}
 
-{% if lead %}
-<div class="wide">
-  <div class="hero">
-    <a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>
-    <div class="hero-text">
-      <div class="kicker">{{ lead.section_label }}</div>
-      <h1><a href="{{ lead.url }}">{{ lead.title }}</a></h1>
-      <p class="dek">{{ lead.dek }}</p>
-    </div>
-  </div>
-</div>
-{% endif %}
+<div class="wide withside">
+  <div class="mainside">
 
-{% if articles %}
-<div class="wide">
-  <div class="grid">
-    {% for a in articles %}
-    <div class="card">
-      <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
-      <div class="body">
-        <div class="kicker">{{ a.section_label }}</div>
-        <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
-        <p>{{ a.dek }}</p>
+    {% if lead %}
+    <div class="hero">
+      <a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>
+      <div class="hero-text">
+        <div class="kicker">{{ lead.section_label }}</div>
+        <h1><a href="{{ lead.url }}">{{ lead.title }}</a></h1>
+        <p class="dek">{{ lead.dek }}</p>
       </div>
     </div>
-    {% endfor %}
+    {% endif %}
+
+    {% if articles %}
+    <div class="grid">
+      {% for a in articles %}
+      <div class="card">
+        <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
+        <div class="body">
+          <div class="kicker">{{ a.section_label }}</div>
+          <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+          <p>{{ a.dek }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
   </div>
+
+  {% if ticker %}
+  <aside class="ticker">
+    <h2>{{ t.ticker_title }}</h2>
+    <ol>
+      {% for i in ticker %}
+      <li{% if i.hot %} class="hot"{% endif %}>
+        <a href="{{ i.url }}" rel="nofollow noopener" target="_blank">{{ i.headline }}</a>
+        <em>{{ i.source }}{% if i.sources_count > 1 %} · {{ i.sources_count }} {{ t.sources_word }}{% endif %}</em>
+      </li>
+      {% endfor %}
+    </ol>
+    <p class="note">{{ t.ticker_note }}</p>
+  </aside>
+  {% endif %}
 </div>
-{% endif %}
 
 {% for row in rows %}
 <section class="row">

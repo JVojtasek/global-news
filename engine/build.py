@@ -82,6 +82,8 @@ translation at all.
 ## Anything else
 
 Write to {email}. We answer.""",
+        "ticker_title": "Live now",
+        "ticker_note": "Headlines gathered from our sources every three hours. Links go to the original reporting.",
         "related": "Keep reading",
         "newsletter_soon": "The newsletter opens shortly.",
         "republish_offer": "Free to republish",
@@ -152,6 +154,8 @@ pečlivě napsané věty je horší než žádný.
 ## Cokoli dalšího
 
 Pište na {email}. Odpovídáme.""",
+        "ticker_title": "Právě se děje",
+        "ticker_note": "Titulky z našich zdrojů, aktualizované každé tři hodiny. Odkazy vedou na původní zpravodajství.",
         "related": "Čtěte dál",
         "newsletter_soon": "Odběr spouštíme zanedlouho.",
         "republish_offer": "Volně k převzetí",
@@ -196,6 +200,45 @@ def _view(meta: dict, body: str) -> dict:
         **({"image": (_img := images.ensure(meta))["src"], "credit": _img["credit"]}),
         "section_label": section_label,
     }
+
+
+def _ticker(site: dict, lang: str, limit: int = 14) -> list:
+    """Rychlé zprávy do postranního sloupce.
+
+    Systém posbírá 300 událostí denně, ale článků napíše pár. Zbytek
+    by se jinak zahodil — tady z něj děláme živý proužek toho, co se
+    právě děje, s odkazem vždy na původní zdroj.
+    """
+    p = config.DATA / "events.json"
+    if not p.exists():
+        return []
+    try:
+        events = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return []
+
+    labels = {s["id"]: (s.get(lang) or s["en"]) for s in site["sections"]}
+    out, seen = [], set()
+    for e in events:
+        head = e.get("headline", "").strip()
+        key = head.lower()[:60]
+        if not head or key in seen or len(head) < 25:
+            continue
+        item = (e.get("items") or [{}])[0]
+        if not item.get("url"):
+            continue
+        seen.add(key)
+        out.append({
+            "headline": head[:130],
+            "url": item["url"],
+            "source": item.get("source", ""),
+            "section": labels.get(e.get("section", ""), ""),
+            "sources_count": e.get("sources_count", 1),
+            "hot": e.get("score", 0) >= 70,
+        })
+        if len(out) >= limit:
+            break
+    return out
 
 
 def _related(a: dict, pool: list, n: int) -> list:
@@ -378,7 +421,7 @@ def run() -> None:
         _write(out / lang / "index.html",
                env.get_template("index.html").render(
                    briefing=briefing, lead=lead, articles=arts[1:9],
-                   rows=rows, **common))
+                   rows=rows, ticker=_ticker(site, lang), **common))
 
         # --- rubriky ---
         for s in site["sections"]:
