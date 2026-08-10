@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+{% block title %}{{ t.mem_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.mem_intro }}{% endblock %}
+{% block body %}
+<article class="post">
+  <div class="wrap">
+    <div class="kicker">{{ t.mem_link }}</div>
+    <h1>{{ t.mem_title }}</h1>
+    <p class="dek">{{ t.mem_intro }}</p>
+
+    {# Poctivá věta na začátek: statický web stránku nezamkne a my to
+       nebudeme předstírat. Kdo si tohle přečte, ví přesně, co kupuje. #}
+    <p>{{ t.mem_honest }}</p>
+
+    <h2>{{ t.mem_tiers }}</h2>
+    <div class="grid">
+      {% for tier in tiers %}
+      <div class="card">
+        <div class="body">
+          <div class="kicker">{% if tier.price %}{{ t.mem_price|format(tier.price) }}{% else %}{{ t.mem_free }}{% endif %}</div>
+          <h3>{{ tier.name }}</h3>
+          <p>{{ tier.blurb }}</p>
+          <ul>
+            {% for perk in tier.perks %}<li>{{ perk }}</li>{% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</article>
+
+<section class="signup" id="join">
+  <div class="wrap">
+    <h2>{{ t.mem_join_head }}</h2>
+    <p>{{ t.mem_join_why }}</p>
+    {% if mem.form_action %}
+    <form action="{{ mem.form_action }}" method="post" target="_blank">
+      <input type="email" name="{{ mem.field_name }}" required placeholder="{{ t.mem_email_ph }}" aria-label="e-mail">
+      <button type="submit">{{ t.mem_join }}</button>
+    </form>
+    {% else %}
+    <p class="soon">{{ t.mem_soon }}</p>
+    {% endif %}
+  </div>
+</section>
+
+<article class="post">
+  <div class="wrap">
+    <section class="related">
+      <h3>{{ t.mem_early_list }}</h3>
+      <p>{{ t.mem_early_note }}</p>
+      {% if early %}
+      <ul>
+        {% for item in early %}
+        <li>
+          <a href="{{ item.url }}"><span class="kicker">{{ item.section_label }}</span>{{ item.title }}</a>
+          <em>{{ item.dek }}</em>
+          <em>{% if item.days_left == 1 %}{{ t.mem_opens_tomorrow }}{% elif item.days_left > 1 and item.opens_label %}{{ t.mem_opens_on|format(item.opens_label) }}{% else %}{{ t.mem_opens_today }}{% endif %}</em>
+        </li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p>{{ t.mem_none }}</p>
+      {% endif %}
+    </section>
+
+    {% if by_mail %}
+    {# Texty jen pro členy nemají na webu stránku, takže tady schválně
+       není odkaz — jen titulek a perex, ať je vidět, co se posílá. #}
+    <section class="related">
+      <h3>{{ t.mem_only_list }}</h3>
+      <p>{{ t.mem_only_note }}</p>
+      <ul>
+        {% for item in by_mail %}
+        <li>
+          <span class="kicker">{{ item.date }}</span>
+          <strong>{{ item.title }}</strong>
+          <em>{{ item.dek }}</em>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    <section class="sources">
+      <h3>{{ t.mem_ads }}</h3>
+      <p>{{ t.mem_ads_note }}</p>
+      <p><a href="{{ base }}/{{ lang }}/terms/">{{ t.mem_terms }}</a> · <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a></p>
+    </section>
+  </div>
+</article>
+{% endblock %}

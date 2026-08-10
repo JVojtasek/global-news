@@ -8,6 +8,7 @@ depth: scripture
 lang: cs
 date: '2026-08-10'
 status: published
+access: public
 confidence: 92
 image_query: quiet stone path through morning mist
 series: soul

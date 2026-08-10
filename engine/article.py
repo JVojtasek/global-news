@@ -9,6 +9,29 @@ import yaml
 
 from . import config
 
+# ---------------------------------------------------------------------
+# HLAVIČKA ČLÁNKU — pole, která smí obsahovat.
+# Delší výklad je v engine/prompts/FORMAT.md, tohle je závazný seznam:
+#
+#   slug, title, dek, section, type, depth, lang, date, status,
+#   confidence, load, topics, event_id, series, image_query, sources
+#
+#   access   public (výchozí) | early | members
+#            Kdy si text může přečíst kdokoli. `early` znamená, že
+#            se prvních pár dní postaví jen jako shrnutí a nabídka
+#            členství — zbytek textu v HTML vůbec není — a pak se sám
+#            otevře všem. `members` znamená, že se na web nevydá vůbec
+#            a členové ho dostanou e-mailem. Chybí-li pole, je článek
+#            veřejný: mlčení nikdy neznamená zamčeno.
+#            Počítá to engine/members.py, nastavuje data/members.yml.
+#
+#   tier     free | patron | partner
+#            Od které úrovně členství text patří. Slouží rozesílce
+#            e-mailů — na webu nic nezamyká a zamknout ani nemůže,
+#            statický web žádné přihlašování nemá.
+# ---------------------------------------------------------------------
+ACCESS = ("public", "early", "members")
+
 # BRIEFLY je první vrstva: klidné shrnutí v pěti bodech. Kdo si nastaví
 # šetrný režim, uvidí jenom ji — zbytek si může rozkliknout.
 LAYERS = ["BRIEFLY", "FACTS", "CONTEXT", "PEOPLE", "DEEPER", "REFLECT"]
@@ -116,6 +139,11 @@ def validate(meta: dict, body: str) -> list[str]:
         problems.append(f"neznámá rubrika '{meta.get('section')}'")
     if meta.get("type") == "news" and not meta.get("sources"):
         problems.append("zpravodajský článek bez uvedených zdrojů")
+    if meta.get("access") is not None and str(meta["access"]).strip().lower() not in ACCESS:
+        # Překlep v tomhle poli by text určený jen členům tiše vydal
+        # veřejně. Radši ať se článek zastaví na kontrole.
+        problems.append(f"neznámý režim přístupu '{meta.get('access')}' "
+                        f"(smí být: {', '.join(ACCESS)})")
     return problems
 
 

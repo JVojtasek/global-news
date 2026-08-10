@@ -14,7 +14,7 @@ import xml.sax.saxutils as sx
 import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import analyst, article, config, images, interests, quotes, reader
+from . import analyst, article, config, images, interests, members, quotes, reader
 
 STRINGS = {
     "en": {
@@ -173,10 +173,45 @@ Write to {email}. We answer.""",
         "foryou_outside_help": "A newspaper that only ever agreed with you would be a mirror, not a newspaper. These are picked from everything else.",
         "foryou_health_note": "Health is a topic here, not advice. We report what research shows, name the source, and say what is still unknown. For anything about your own health, ask a doctor.",
         "picked": "Picked for you",
+        "privacy_link": "Privacy",
         "related": "Keep reading",
         "newsletter_soon": "The newsletter opens shortly.",
         "republish_offer": "Free to republish",
         "republish_help": "Copy this HTML into your CMS. Credit line and licence are included.",
+        "mem_link": "Membership",
+        "mem_title": "Become a member",
+        "mem_intro": "Almost everything here is free to read and stays that way. Membership is for readers "
+                     "who want the long pieces first, want the ones that only go out by e-mail, and want "
+                     "this to keep existing without advertising.",
+        "mem_honest": "One thing we would rather say ourselves than have you find out: this site is a set "
+                      "of plain files with no server behind it, so we cannot lock a page and we are not "
+                      "going to pretend otherwise. What we can honestly do is give members a head start "
+                      "and send them things by e-mail. That is the whole of it.",
+        "mem_tiers": "What you can join",
+        "mem_free": "Free",
+        "mem_price": "€%s a month",
+        "mem_join_head": "Join, and read the long pieces a week early",
+        "mem_join_why": "One e-mail address is all it takes. No account, no password, and one click to leave.",
+        "mem_join": "Join",
+        "mem_email_ph": "your@email.com",
+        "mem_soon": "Membership opens shortly. Nothing is being taken yet.",
+        "mem_early_badge": "Early access · members",
+        "mem_early_lead": "Members are reading this in full today. Here is the summary, so you know what is in it.",
+        "mem_opens_on": "It opens to everyone on %s, in full and unchanged.",
+        "mem_opens_tomorrow": "It opens to everyone tomorrow, in full and unchanged.",
+        "mem_opens_today": "It opens to everyone later today, in full and unchanged.",
+        "mem_early_list": "In early access right now",
+        "mem_early_note": "Members have these in full today. Everyone else gets the same text on the date "
+                          "shown — nothing cut, nothing rewritten.",
+        "mem_only_list": "Sent to members by e-mail",
+        "mem_only_note": "These are not published on the site at all. Members get them in full in their "
+                         "inbox. They are listed here so you can see what you would be getting.",
+        "mem_none": "Nothing is in early access at the moment.",
+        "mem_ads": "No advertising, and no selling you on",
+        "mem_ads_note": "We do not run advertising and we never sell, rent or share reader data. Your "
+                        "e-mail address is used to send you what you signed up for and nothing else. "
+                        "What you tick in your reading settings stays in your browser and never reaches us.",
+        "mem_terms": "Membership terms",
     },
     "cs": {
         "briefing_title": "Svět dnes za pět minut",
@@ -333,10 +368,44 @@ Pište na {email}. Odpovídáme.""",
         "foryou_outside_help": "Noviny, které by ti jen přitakávaly, jsou zrcadlo, ne noviny. Tohle je vybrané ze všeho ostatního.",
         "foryou_health_note": "Zdraví je tady téma, ne rada. Píšeme, co ukazuje výzkum, uvádíme zdroj a říkáme, co se zatím neví. Na cokoli ohledně svého zdraví se ptej lékaře.",
         "picked": "Vybráno pro tebe",
+        "privacy_link": "Soukromí",
         "related": "Čtěte dál",
         "newsletter_soon": "Odběr spouštíme zanedlouho.",
         "republish_offer": "Volně k převzetí",
         "republish_help": "Zkopírujte HTML do svého systému. Uvedení zdroje i licence je součástí.",
+        "mem_link": "Členství",
+        "mem_title": "Staň se členem",
+        "mem_intro": "Skoro všechno je tu ke čtení zadarmo a tak to zůstane. Členství je pro ty, kdo chtějí "
+                     "dlouhé texty dřív, chtějí i ty, které vycházejí jen e-mailem, a chtějí, aby tenhle web "
+                     "mohl existovat dál bez reklamy.",
+        "mem_honest": "Jednu věc radši řekneme sami, než abys na ni přišel: tenhle web jsou obyčejné soubory "
+                      "bez serveru za zády. Stránku tady nejde zamknout a nebudeme dělat, že jde. Co umíme "
+                      "poctivě nabídnout, je náskok a e-mail. Nic víc v tom není.",
+        "mem_tiers": "Z čeho si vybrat",
+        "mem_free": "Zdarma",
+        "mem_price": "%s € měsíčně",
+        "mem_join_head": "Přidej se a čti dlouhé texty o týden dřív",
+        "mem_join_why": "Stačí e-mailová adresa. Žádný účet, žádné heslo a odhlášení jedním kliknutím.",
+        "mem_join": "Chci se přidat",
+        "mem_email_ph": "tvuj@email.cz",
+        "mem_soon": "Členství spouštíme zanedlouho. Zatím se nic neplatí.",
+        "mem_early_badge": "Předčasný přístup · pro členy",
+        "mem_early_lead": "Členové ho dnes čtou celý. Tady je shrnutí, ať víš, o čem to je.",
+        "mem_opens_on": "Všem se otevře %s, celý a beze změn.",
+        "mem_opens_tomorrow": "Všem se otevře zítra, celý a beze změn.",
+        "mem_opens_today": "Všem se otevře ještě dnes, celý a beze změn.",
+        "mem_early_list": "Právě teď v předčasném přístupu",
+        "mem_early_note": "Členové je dnes mají celé. Ostatní dostanou přesně stejný text v uvedený den — "
+                          "nic se nekrátí a nic nepřepisuje.",
+        "mem_only_list": "Posíláme jen členům e-mailem",
+        "mem_only_note": "Tyhle texty na web nejdou vůbec. Členové je dostanou celé do schránky. Tady jsou "
+                         "vypsané, abys viděl, o co jde.",
+        "mem_none": "V předčasném přístupu teď nic není.",
+        "mem_ads": "Žádná reklama a žádné prodávání čtenářů",
+        "mem_ads_note": "Nemáme reklamu a nikdy neprodáváme, nepronajímáme ani nesdílíme data o čtenářích. "
+                        "E-mailová adresa slouží k tomu, co sis objednal, a k ničemu jinému. Co si "
+                        "zaškrtneš v nastavení čtení, zůstane v tvém prohlížeči a k nám se nedostane.",
+        "mem_terms": "Podmínky členství",
     },
 }
 STRINGS.setdefault("sk", STRINGS["cs"])
@@ -387,6 +456,11 @@ def _view(meta: dict, body: str) -> dict:
         "body_html": _html(body) if not layers else "",
         **({"image": (_img := images.ensure(meta))["src"], "credit": _img["credit"]}),
         "section_label": section_label,
+        # public = běžný článek, early = zatím jen shrnutí a nabídka členství,
+        # members = na web se nevydá vůbec (viz engine/members.py)
+        "access_state": members.state(meta),
+        "days_left": members.days_left(meta),
+        "opens_label": _date_words(members.opens_on(meta), lang),
     }
 
 
@@ -499,7 +573,10 @@ def _jsonld(a: dict, site: dict) -> str:
         **({"image": [config.origin() + a["image"]]} if a.get("image") else {}),
         "author": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
         "publisher": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
-        "isAccessibleForFree": True,
+        # U článku v předčasném přístupu je na stránce jen shrnutí, takže
+        # se tvrdit, že je volně dostupný celý, nebude. Za pár dní se to
+        # samo přepne zpátky.
+        "isAccessibleForFree": a.get("access_state") != "early",
     }
     if a.get("origin"):
         data["author"] = {"@type": "Person", "name": brand.get("author", brand["name_en"])}
@@ -540,6 +617,18 @@ DAYS = {
 }
 
 
+def _date_words(iso: str, lang: str) -> str:
+    """'2026-08-17' → '17 August' / '17. srpna'. Prázdné vstupu nevadí."""
+    try:
+        d = dt.date.fromisoformat(str(iso)[:10])
+    except (TypeError, ValueError):
+        return ""
+    months = MONTHS.get(lang, MONTHS["en"])
+    if lang == "cs":
+        return f"{d.day}. {months[d.month - 1]}"
+    return f"{d.day} {months[d.month - 1]}"
+
+
 def _date_label(lang: str) -> str:
     d = dt.date.today()
     days, months = DAYS.get(lang, DAYS["en"]), MONTHS.get(lang, MONTHS["en"])
@@ -574,12 +663,26 @@ def run() -> None:
         brand = site["brand"]["name_cs"] if lang == "cs" else site["brand"]["name_en"]
         tagline = site["brand"]["tagline_cs"] if lang == "cs" else site["brand"]["tagline_en"]
 
-        arts = [
-            _view(m, b)
+        published = [
+            (m, b, members.state(m, today))
             for m, b, _ in article.load_all(lang)
             if m.get("status") == "published" and m.get("date", "9999") <= today
         ]
+        # Text psaný jen pro členy se na web nevydá vůbec: nemá stránku,
+        # není v sitemapě, ve zdroji RSS, v articles.json ani v žádném
+        # výpisu. Na stránce pro členy je z něj vidět titulek a perex,
+        # aby bylo poznat, co se posílá e-mailem.
+        arts = [_view(m, b) for m, b, st in published if st != "members"]
         arts.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
+
+        by_mail = sorted(
+            ({"title": m.get("title", ""), "dek": m.get("dek", ""),
+              "date": m.get("date", ""), "section": m.get("section", ""),
+              "tier": m.get("tier", "")}
+             for m, _, st in published if st == "members"),
+            key=lambda a: a["date"], reverse=True,
+        )
+        in_early = [a for a in arts if a["access_state"] == "early"]
 
         filled = {a["section"] for a in arts}
         nav = [s for s in site["sections"] if s.get("primary") or s["id"] in filled]
@@ -598,19 +701,25 @@ def run() -> None:
                      or site.get("newsletter", {}).get("text_en", "")),
             nl_button=(site.get("newsletter", {}).get(f"button_{lang}")
                        or site.get("newsletter", {}).get("button_en", "")),
+            mem=members.cfg(),
         )
 
         # --- článek ---
         rep_cfg = site.get("republish", {})
         seo = site.get("seo", {})
         for a in arts:
+            early = a["access_state"] == "early"
             a["jsonld"] = _jsonld(a, site)
-            a["faq"] = _faq_jsonld(a)
+            # Otázky a odpovědi pro vyhledávač i hotové HTML k převzetí
+            # se skládají z vrstev článku. U předčasného přístupu by tím
+            # celý text propadl do stránky zadními dveřmi.
+            a["faq"] = "" if early else _faq_jsonld(a)
             a["crumbs"] = _breadcrumbs(a, site)
             a["related"] = _related(a, arts, int(seo.get("related_count", 3)))
             a["republish"] = (
                 _republish_html(a, site)
-                if rep_cfg.get("enabled") and a.get("type") in rep_cfg.get("types", [])
+                if not early and rep_cfg.get("enabled")
+                and a.get("type") in rep_cfg.get("types", [])
                 and not a.get("syndicated")
                 else ""
             )
@@ -685,13 +794,22 @@ def run() -> None:
         _write(out / lang / "foryou" / "index.html",
                env.get_template("foryou.html").render(**common))
 
+        # --- členství -------------------------------------------------
+        # Jediná stránka, kde je vidět, co členství je: úrovně, co se
+        # právě drží v předčasném přístupu a co vychází jen e-mailem.
+        if members.enabled():
+            _write(out / lang / "members" / "index.html",
+                   env.get_template("members.html").render(
+                       tiers=members.tiers(lang), early=in_early,
+                       by_mail=by_mail, **common))
+
         # --- statické stránky ---
-        for name in ("about", "start", "privacy"):
+        for name in ("about", "start", "privacy", "terms"):
             src = config.DATA / "pages" / f"{name}.{lang}.md"
             if not src.exists():
                 src = config.DATA / "pages" / f"{name}.en.md"
             if src.exists():
-                raw = src.read_text(encoding="utf-8")
+                raw = src.read_text(encoding="utf-8").replace("{email}", site["brand"]["email"])
                 title = raw.splitlines()[0].lstrip("# ").strip()
                 _write(out / lang / name / "index.html",
                        env.get_template("page.html").render(
@@ -748,6 +866,7 @@ def run() -> None:
     index = []
     for lang in langs:
         for m, _, path in article.load_all(lang):
+            st = members.state(m)
             index.append({
                 "lang": lang, "slug": m.get("slug", ""), "title": m.get("title", ""),
                 "dek": m.get("dek", ""), "date": m.get("date", ""),
@@ -755,7 +874,10 @@ def run() -> None:
                 "type": m.get("type", ""), "depth": m.get("depth", ""),
                 "confidence": m.get("confidence", 0),
                 "path": f"content/{lang}/{path.name}",
-                "url": _url(m) if m.get("status") == "published" else "",
+                "access": st,
+                # text jen pro členy nemá na webu stránku, tak ať se na
+                # ni z adminu neodkazuje
+                "url": _url(m) if m.get("status") == "published" and st != "members" else "",
                 "review": m.get("review", {}), "problems": m.get("problems", []),
             })
     index.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
@@ -788,6 +910,11 @@ def _news_sitemap(site: dict) -> str:
     for lang in [site["languages"]["master"], *site["languages"]["translations"]]:
         for m, _, _ in article.load_all(lang):
             if m.get("status") != "published" or m.get("date", "") < cutoff:
+                continue
+            # Text jen pro členy tady nemá co dělat — nemá stránku.
+            # Článek v předčasném přístupu má `noindex`, takže by bylo
+            # rovnou proti sobě hlásit ho do zpravodajské sitemapy.
+            if members.state(m) != "public":
                 continue
             loc = f"{config.origin()}{config.base_path()}/{lang}/{m['section']}/{m['slug']}/"
             rows.append(

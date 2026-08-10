@@ -1,0 +1,114 @@
+# =====================================================================
+#  ČLENSTVÍ A PŘEDČASNÝ PŘÍSTUP
+#
+#  Tenhle web je statický: žádný server, žádná databáze, žádné účty.
+#  Plyne z toho jedna nepříjemná pravda, kterou je lepší říct nahlas —
+#  stránku, kterou prohlížeč jednou dostane, už nejde zamknout.
+#  Text schovaný přes CSS nebo JavaScript si každý přečte ve zdrojovém
+#  kódu za pět vteřin. Placená zeď, která žádná není, je lež, na kterou
+#  se přijde hned.
+#
+#  Proto tady děláme jenom dvě věci, které bez serveru opravdu fungují:
+#
+#    1. ČAS    — článek s `access: early` se prvních pár dní postaví
+#                jen jako shrnutí (vrstva BRIEFLY) a nabídka členství.
+#                Zbytek textu v HTML vůbec není, takže není co obcházet.
+#                Po uplynutí lhůty se při nejbližší stavbě webu vydá
+#                celý a je z něj normální veřejný článek.
+#    2. E-MAIL — článek s `access: members` se na web nevydá vůbec.
+#                Členové ho dostanou celý e-mailem od poskytovatele
+#                rozesílky. Na stránce pro členy je vidět jen titulek
+#                a perex, aby bylo poznat, co se posílá.
+#
+#  Kdo je člen, ví poskytovatel rozesílky. Web to nevidí, nepozná
+#  a nepotřebuje vědět. Nic z toho nevyžaduje účet ani přihlašování.
+#
+#  V článku se to nastavuje jediným řádkem v hlavičce:
+#      access: public    (výchozí, nemusíš psát — normální článek)
+#      access: early     (nejdřív pro členy, pak sám zveřejní)
+#      access: members   (jen e-mailem, na web nejde vůbec)
+# =====================================================================
+
+# Vypnutím se předčasný přístup přestane uplatňovat a články `early`
+# vyjdou rovnou celé. Články `members` zůstanou i tak mimo web —
+# přepnutí vypínače nesmí zveřejnit text, který na web nikdy neměl jít.
+enabled: true
+
+# Poskytovatel, který drží seznam odběratelů a rozesílá e-maily.
+# Sem se vyplní jen adresa formuláře — klíč k API nikdy do repozitáře
+# nepatří. Kdo repozitář vidí, viděl by i klíč, a je veřejný.
+provider: ""            # mailerlite | beehiiv | buttondown | ghost | ""
+form_action: ""         # adresa formuláře od poskytovatele
+field_name: "email"     # jak se u něj jmenuje políčko na e-mail
+
+# Kolik dní je článek `access: early` jen pro členy, než se otevře všem.
+# Sedm dní je rozumný začátek: člen má týden náskok, vyhledávač o text
+# nepřijde. Po tu dobu má stránka `noindex`, aby se do vyhledávače
+# nedostala v okleštěné podobě a nekazila si tam pozici.
+early_days: 7
+
+# ---------------------------------------------------------------------
+# ÚROVNĚ ČLENSTVÍ
+#   Sliby v `perks` se dají splnit i bez serveru — jsou to e-maily,
+#   pořadí vydání a ruční práce. Nikdy sem nepiš nic, co by potřebovalo
+#   účet, přihlášení nebo databázi. Co slíbíš tady, to čtenář čeká.
+#
+#   POZOR na osobní digest: témata si člen vybere u poskytovatele
+#   rozesílky sám a znovu. Nikdy se tam neposílá to, co si naklikal
+#   v prohlížeči — a zdravotní zájmy tam nesmí být vůbec, ty zařízení
+#   neopouštějí (viz data/EDITORIAL-CODE.md, oddíl 5).
+#
+#   POZOR na stránku podporovatelů: než ji slíbíš, musí existovat.
+#   Je to obyčejná ruční stránka se jmény těch, kdo si to přáli.
+# ---------------------------------------------------------------------
+tiers:
+  - id: free
+    price_eur: 0
+    en: "Reader"
+    cs: "Čtenář"
+    blurb_en: "Free, and it stays free. Everything on this site is open to read — this is how the best of it finds you."
+    blurb_cs: "Zdarma a zdarma to zůstane. Číst se tu dá všechno i tak — tohle je způsob, jak se k tobě to nejlepší dostane samo."
+    perks_en:
+      - "Everything on the site, free to read. That does not change."
+      - "The daily letter: one piece worth your time and the question underneath it."
+      - "No advertising, no tracking, no selling your address on."
+      - "One click to leave, and we do not ask why."
+    perks_cs:
+      - "Všechno na webu volně ke čtení. To se nemění."
+      - "Denní e-mail: jeden text, který stojí za čas, a otázka, co pod ním leží."
+      - "Žádná reklama, žádné sledování, adresa se nikam neprodává."
+      - "Odhlášení jedním kliknutím a neptáme se proč."
+
+  - id: patron
+    price_eur: 4
+    en: "Patron"
+    cs: "Podporovatel"
+    blurb_en: "The price of one coffee a month. You get the long pieces first, and the ones that never go on the site at all."
+    blurb_cs: "Cena jedné kávy měsíčně. Dlouhé texty dostaneš dřív a k tomu i ty, které na web vůbec nejdou."
+    perks_en:
+      - "Everything in Reader."
+      - "The weekly deep essay a week before everyone else."
+      - "The full archive by e-mail, including pieces written only for members."
+      - "A weekly digest built from the topics you pick yourself when you sign up."
+      - "No advertising. Not now, not later, on any tier."
+    perks_cs:
+      - "Všechno, co má Čtenář."
+      - "Týdenní velký text o týden dřív než ostatní."
+      - "Celý archiv e-mailem včetně textů psaných jen pro členy."
+      - "Týdenní výběr sestavený podle témat, která si sám vybereš při přihlášení."
+      - "Žádná reklama. Ani teď, ani potom, na žádné úrovni."
+
+  - id: partner
+    price_eur: 9
+    en: "Partner"
+    cs: "Partner"
+    blurb_en: "For readers who want this to keep existing — and want a say in what it covers."
+    blurb_cs: "Pro čtenáře, kteří chtějí, aby tenhle web existoval dál — a chtějí mu mluvit do toho, o čem píše."
+    perks_en:
+      - "Everything in Patron."
+      - "Your name on the supporters page, if you want it there."
+      - "Ask for a topic. Every suggestion gets read and answered, and we say plainly when we are not going to write it."
+    perks_cs:
+      - "Všechno, co má Podporovatel."
+      - "Jméno na stránce podporovatelů, pokud o to stojíš."
+      - "Můžeš navrhnout téma. Každý návrh si přečteme a odpovíme na něj — a když ho psát nebudeme, řekneme to rovnou."

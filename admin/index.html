@@ -103,7 +103,9 @@ details summary{cursor:pointer;color:var(--soft);font-size:.86rem}
 
 <script>
 const API = "https://api.github.com";
-let S = { repo:"", token:"", tab:"dash", data:{} };
+let S = { repo:"", token:"", tab:"dash", data:{},
+  mem:{ cfg:null, list:[], groups:[], total:null, loaded:false, busy:false, err:null,
+        camp:{subject:"", preheader:"", body:"", target:""} } };
 
 /* ---------------- pomocné ---------------- */
 const $ = s => document.querySelector(s);
@@ -179,6 +181,7 @@ const TABS = [
   {id:"dash",   name:"Přehled"},
   {id:"review", name:"Ke schválení", count:()=> S.data.index.articles.filter(a=>a.status==="review"&&a.lang==="en").length},
   {id:"social", name:"Sociální sítě", count:()=> S.data.queue.items.filter(i=>i.status==="pending").length},
+  {id:"members",name:"Členové"},
   {id:"posts",  name:"Články"},
   {id:"fc",     name:"Předpovědi"},
   {id:"set",    name:"Nastavení"},
@@ -193,7 +196,7 @@ function renderTabs(){
 }
 function go(t){ S.tab=t; renderTabs(); render(); }
 
-function render(){ ({dash:vDash, review:vReview, social:vSocial, posts:vPosts,
+function render(){ ({dash:vDash, review:vReview, social:vSocial, members:vMembers, posts:vPosts,
                      fc:vForecasts, set:vSettings, run:vRun})[S.tab](); }
 
 /* ---------------- přehled ---------------- */
@@ -342,6 +345,430 @@ async function setSocial(idx, status){
 }
 const approveSocial = n => setSocial(n, "approved");
 const rejectSocial  = n => setSocial(n, "skipped");
+
+/* ---------------- členové ---------------- */
+const MEM_STORE = "tds-admin-provider";
+const MEM_CAP = 500, MEM_PAGE = 100;
+
+const PROVIDERS = {
+  mailerlite:{ name:"MailerLite", idLabel:"", draft:true, groupWord:"skupina",
+    keyWhere:"V MailerLite: Integrations → API → vygeneruj nový token. Stačí mu právo na odběratele a kampaně.",
+    keyUrl:"https://dashboard.mailerlite.com/integrations/api",
+    subsUrl:"https://dashboard.mailerlite.com/subscribers",
+    campUrl:"https://dashboard.mailerlite.com/campaigns" },
+  beehiiv:{ name:"beehiiv", idLabel:"ID publikace (pub_…)", draft:false, groupWord:"úroveň",
+    draftWhy:"beehiiv přes API koncepty zakládat neumí — nové číslo se píše přímo v jeho editoru. Tlačítko vedle ti ho otevře.",
+    keyWhere:"V beehiiv: Settings → API → vytvoř klíč. ID publikace najdeš na stejné stránce, začíná na pub_.",
+    keyUrl:"https://app.beehiiv.com/settings/publication/api",
+    subsUrl:"https://app.beehiiv.com/", campUrl:"https://app.beehiiv.com/" },
+  buttondown:{ name:"Buttondown", idLabel:"", draft:true, groupWord:"štítek",
+    keyWhere:"V Buttondownu: Settings → API.",
+    keyUrl:"https://buttondown.com/settings/programming",
+    subsUrl:"https://buttondown.com/subscribers", campUrl:"https://buttondown.com/emails" },
+  ghost:{ name:"Ghost", idLabel:"Adresa webu (https://…)", draft:false, off:true, groupWord:"úroveň",
+    offWhy:"Ghost tudy nepůjde, a je poctivější to říct rovnou. Jeho administrátorské API chce u každého dotazu podepsaný token (JWT) a zároveň nepouští dotazy z cizí stránky v prohlížeči. Muselo by to jít přes server, který tenhle web nemá — takže členy u Ghostu spravuj přímo v jeho administraci.",
+    keyWhere:"", keyUrl:"", subsUrl:"", campUrl:"" }
+};
+
+const MEM_STATE = {
+  active:["active","confirmed","subscribed","regular","premium","gifted","paid","comped","free"],
+  unconfirmed:["unconfirmed","pending","validating","unactivated","unverified"],
+  unsubscribed:["unsubscribed","inactive","removed","cancelled","canceled","churned"]
+};
+const MEM_LABEL = {active:"aktivní", unconfirmed:"nepotvrzený", unsubscribed:"odhlášený"};
+const MEM_PILL  = {active:"published", unconfirmed:"review", unsubscribed:"reserve"};
+
+function memState(raw){
+  const s = String(raw||"").toLowerCase().trim();
+  for (const k of Object.keys(MEM_STATE)) if (MEM_STATE[k].indexOf(s) >= 0) return k;
+  return "other";
+}
+function memWhen(v){
+  if (v===null || v===undefined || v==="") return null;
+  if (typeof v === "number") return v < 1e11 ? v*1000 : v;
+  let s = String(v).trim();
+  if (/^\d{9,13}$/.test(s)) { const n = Number(s); return n < 1e11 ? n*1000 : n; }
+  if (/^\d{4}-\d{2}-\d{2} \d{2}:/.test(s)) s = s.replace(" ", "T");
+  const t = Date.parse(s);
+  return isNaN(t) ? null : t;
+}
+const memDay = ts => ts ? new Date(ts).toISOString().slice(0,10) : "";
+function memRow(email, status, when, group){
+  const ts = memWhen(when), st = memState(status);
+  return { email:String(email||"—"), state:st,
+    status: MEM_LABEL[st] || (status ? String(status) : "neznámý"),
+    ts, joined: memDay(ts), group: String(group||"") };
+}
+
+/* nastavení poskytovatele — klíč jen v tomhle prohlížeči, nikdy v repozitáři */
+function memCfgRead(){
+  let j = {};
+  try { j = JSON.parse(localStorage.getItem(MEM_STORE) || "{}") || {}; } catch(e){ j = {}; }
+  const s = k => typeof j[k] === "string" ? j[k] : "";
+  return { provider: PROVIDERS[j.provider] ? j.provider : "mailerlite",
+           key:s("key"), pubId:s("pubId"), fromName:s("fromName"), fromEmail:s("fromEmail") };
+}
+function memCfgWrite(){ localStorage.setItem(MEM_STORE, JSON.stringify(S.mem.cfg)); }
+function memFormRead(){
+  const c = S.mem.cfg, g = id => { const el = document.getElementById(id); return el ? el.value.trim() : null; };
+  const pairs = [["mem-key","key"],["mem-pub","pubId"],["mem-fname","fromName"],["mem-femail","fromEmail"]];
+  pairs.forEach(([id,k])=>{ const v = g(id); if (v !== null) c[k] = v; });
+}
+function memReset(){ S.mem.list=[]; S.mem.groups=[]; S.mem.total=null; S.mem.loaded=false; S.mem.err=null; }
+function memPick(v){ memFormRead(); S.mem.cfg.provider = PROVIDERS[v] ? v : "mailerlite"; memReset(); memSetup(); memBody(); }
+function memSave(){ memFormRead(); memCfgWrite(); S.mem.err=null; toast("Uloženo do tohohle prohlížeče."); memSetup(); memBody(); }
+function memForget(){
+  memFormRead(); S.mem.cfg.key = ""; memCfgWrite(); memReset();
+  toast("Klíč smazán z tohohle prohlížeče."); memSetup(); memBody();
+}
+function memProviderUrl(kind){
+  const c = S.mem.cfg, p = PROVIDERS[c.provider] || {};
+  if (c.provider === "ghost"){
+    const base = (c.pubId||"").trim().replace(/\/+$/,"");
+    return /^https?:\/\//.test(base) ? base + (kind==="subs" ? "/ghost/#/members" : "/ghost/#/posts") : "";
+  }
+  return kind === "subs" ? (p.subsUrl||"") : (p.campUrl||"");
+}
+function memOpen(kind){
+  const u = memProviderUrl(kind);
+  if (!u) { toast("Nevím kam — vyplň adresu webu."); return; }
+  window.open(u, "_blank", "noopener");
+}
+
+/* volání poskytovatele — klíč vždy jen v hlavičce, nikdy v adrese */
+function memErr(msg, hint){ const e = new Error(msg); e.hint = hint; return e; }
+function memMsg(b){
+  if (!b || typeof b !== "object") return "";
+  for (const k of ["message","error","detail","error_description"]) if (typeof b[k] === "string") return b[k];
+  if (Array.isArray(b.errors)) return b.errors.map(x=>typeof x==="string"?x:JSON.stringify(x)).join("; ").slice(0,300);
+  if (b.errors && typeof b.errors === "object")
+    return Object.keys(b.errors).map(k=>k+": "+[].concat(b.errors[k]).join(", ")).join("; ").slice(0,300);
+  return "";
+}
+async function memApi(url, opts={}){
+  const c = S.mem.cfg;
+  if (!c.key) throw memErr("Není vyplněný klíč k API.", "Vyplň ho nahoře a ulož.");
+  const headers = Object.assign({ "Accept":"application/json" }, opts.headers||{});
+  headers["Authorization"] = (c.provider === "buttondown" ? "Token " : "Bearer ") + c.key;
+  let r;
+  try { r = await fetch(url, Object.assign({}, opts, {headers})); }
+  catch(e){ throw memErr("Spojení se vůbec nenavázalo.",
+    "Skoro vždycky to znamená, že poskytovatel nepouští dotazy přímo z prohlížeče (blokuje je přes CORS), nebo jsi bez připojení. Zkus to z jiné sítě, a když to nepomůže, použij tlačítko „Otevřít u poskytovatele“ — přes web poskytovatele funguje všechno."); }
+  let text = "", body = null;
+  try { text = await r.text(); body = text ? JSON.parse(text) : null; } catch(e){ body = null; }
+  if (!r.ok){
+    const msg = memMsg(body) || (text ? text.replace(/<[^>]*>/g," ").trim().slice(0,200) : "") || "bez bližší hlášky";
+    let hint = "Poskytovatel dotaz odmítl.";
+    if (r.status===401 || r.status===403) hint = "Klíč nesedí, vypršel, nebo mu chybí oprávnění. Zkontroluj ho u poskytovatele a ulož znovu.";
+    else if (r.status===404) hint = "Adresa nesedí. U beehiiv zkontroluj ID publikace, jinak nejspíš poskytovatel své API změnil.";
+    else if (r.status===400 || r.status===422) hint = "Poskytovatel nepřijal data — jeho hláška je o řádek výš.";
+    else if (r.status===429) hint = "Moc dotazů za sebou, poskytovatel tě přibrzdil. Zkus to za pár minut.";
+    else if (r.status>=500) hint = "Výpadek na straně poskytovatele. Za tohle nemůžeš, zkus to později.";
+    throw memErr("HTTP "+r.status+": "+msg, hint);
+  }
+  return body;
+}
+
+async function memGroups(){
+  const c = S.mem.cfg;
+  try{
+    if (c.provider === "mailerlite"){
+      const j = await memApi("https://connect.mailerlite.com/api/groups?limit=100");
+      const rows = (j && Array.isArray(j.data)) ? j.data : [];
+      return rows.map(g=>({ id:String(g&&g.id!=null?g.id:""), name:String((g&&g.name)||"") })).filter(g=>g.id&&g.name);
+    }
+    if (c.provider === "buttondown"){
+      const j = await memApi("https://api.buttondown.com/v1/tags");
+      const rows = (j && Array.isArray(j.results)) ? j.results : (Array.isArray(j) ? j : []);
+      return rows.map(g=>({ id:String(g&&g.id!=null?g.id:""), name:String((g&&g.name)||"") })).filter(g=>g.id&&g.name);
+    }
+  } catch(e){ /* skupiny nejsou povinné — když se nenačtou, jde se dál */ }
+  return [];
+}
+const memGroupName = id => { const g = S.mem.groups.find(x=>x.id===String(id)); return g ? g.name : String(id||""); };
+function memGroupsFromList(list){
+  const seen = [];
+  list.forEach(x=>{ String(x.group||"").split(", ").forEach(g=>{ if (g && seen.indexOf(g)<0) seen.push(g); }); });
+  return seen.map(g=>({id:g, name:g}));
+}
+
+async function memFetchML(){
+  const out = []; let url = "https://connect.mailerlite.com/api/subscribers?limit="+MEM_PAGE, total = null, pages = 0;
+  while (url && out.length < MEM_CAP && pages < 20){
+    const j = await memApi(url); pages++;
+    const rows = (j && Array.isArray(j.data)) ? j.data : [];
+    rows.forEach(s=>{ if (!s || typeof s !== "object") return;
+      const g = Array.isArray(s.groups) ? s.groups.map(x=>x&&x.name?String(x.name):"").filter(Boolean).join(", ") : "";
+      out.push(memRow(s.email, s.status, s.subscribed_at || s.created_at || s.opted_in_at, g)); });
+    if (j && j.meta && typeof j.meta.total === "number") total = j.meta.total;
+    const cur = j && j.meta && j.meta.next_cursor;
+    url = (cur && rows.length) ? "https://connect.mailerlite.com/api/subscribers?limit="+MEM_PAGE+"&cursor="+encodeURIComponent(cur) : "";
+  }
+  return { list:out, total };
+}
+async function memFetchBH(){
+  const c = S.mem.cfg;
+  if (!c.pubId) throw memErr("Chybí ID publikace.", "Najdeš ho v beehiiv v Settings → API, začíná na pub_.");
+  const base = "https://api.beehiiv.com/v2/publications/"+encodeURIComponent(c.pubId)+"/subscriptions";
+  const out = []; let page = 1, total = null, pages = 0;
+  while (out.length < MEM_CAP && pages < 20){
+    const j = await memApi(base+"?limit="+MEM_PAGE+"&page="+page); pages++;
+    const rows = (j && Array.isArray(j.data)) ? j.data : [];
+    rows.forEach(s=>{ if (!s || typeof s !== "object") return;
+      out.push(memRow(s.email, s.status, s.created!=null?s.created:s.created_at,
+        s.subscription_tier || s.tier || "")); });
+    if (j && typeof j.total_results === "number") total = j.total_results;
+    const tp = (j && typeof j.total_pages === "number") ? j.total_pages : null;
+    if (!rows.length || (tp !== null && page >= tp)) break;
+    page++;
+  }
+  return { list:out, total };
+}
+async function memFetchBD(){
+  const out = []; let url = "https://api.buttondown.com/v1/subscribers?page=1", total = null, pages = 0;
+  while (url && out.length < MEM_CAP && pages < 20){
+    const j = await memApi(url); pages++;
+    const rows = (j && Array.isArray(j.results)) ? j.results : (Array.isArray(j) ? j : []);
+    rows.forEach(s=>{ if (!s || typeof s !== "object") return;
+      const tags = Array.isArray(s.tags)
+        ? s.tags.map(t=>typeof t==="string" ? memGroupName(t) : String((t&&t.name)||"")).filter(Boolean).join(", ") : "";
+      out.push(memRow(s.email, s.type || s.subscriber_type, s.creation_date || s.created, tags)); });
+    if (j && typeof j.count === "number") total = j.count;
+    const nx = (j && typeof j.next === "string") ? j.next : "";
+    url = (rows.length && /^https:\/\/api\.buttondown\.(com|email)\//.test(nx)) ? nx : "";
+  }
+  return { list:out, total };
+}
+async function memLoad(){
+  const c = S.mem.cfg, p = PROVIDERS[c.provider];
+  if (p.off || !c.key) return;
+  S.mem.busy = true; S.mem.err = null; memBody();
+  try{
+    S.mem.groups = await memGroups();
+    const r = c.provider==="mailerlite" ? await memFetchML()
+            : c.provider==="beehiiv"    ? await memFetchBH()
+            : await memFetchBD();
+    r.list.sort((a,b)=>(b.ts||0)-(a.ts||0));
+    S.mem.list = r.list;
+    S.mem.total = typeof r.total === "number" ? r.total : null;
+    if (!S.mem.groups.length) S.mem.groups = memGroupsFromList(r.list);
+    S.mem.loaded = true;
+    toast("Načteno "+r.list.length+" členů.");
+  } catch(e){ S.mem.err = e; S.mem.loaded = false; }
+  S.mem.busy = false; memBody();
+}
+
+/* kampaně — jen koncept, odesílá se u poskytovatele */
+function memHidden(t){ return `<div style="display:none;max-height:0;overflow:hidden;opacity:0">${esc(t)}</div>`; }
+function memMdHtml(md, pre){
+  const inline = s => esc(s)
+    .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2">$1</a>');
+  const out = []; let list = false;
+  const closeList = () => { if (list) { out.push("</ul>"); list = false; } };
+  String(md).replace(/\r/g,"").split("\n").forEach(ln=>{
+    const t = ln.trim();
+    if (!t) { closeList(); return; }
+    const h = t.match(/^(#{1,3})\s+(.*)$/);
+    if (h) { closeList(); out.push("<h"+h[1].length+">"+inline(h[2])+"</h"+h[1].length+">"); return; }
+    if (/^[-*]\s+/.test(t)) { if (!list) { out.push("<ul>"); list = true; }
+      out.push("<li>"+inline(t.replace(/^[-*]\s+/,""))+"</li>"); return; }
+    closeList(); out.push("<p>"+inline(t)+"</p>");
+  });
+  closeList();
+  return (pre && pre.trim() ? memHidden(pre)+"\n" : "") + out.join("\n");
+}
+function memCampRead(){
+  const k = S.mem.camp, g = id => { const el = document.getElementById(id); return el ? el.value : null; };
+  [["mem-subj","subject"],["mem-pre","preheader"],["mem-text","body"],["mem-target","target"]]
+    .forEach(([id,f])=>{ const v = g(id); if (v !== null) k[f] = v; });
+}
+async function memDraftML(){
+  const c = S.mem.cfg, k = S.mem.camp;
+  const body = { name: k.subject.slice(0,120), type:"regular",
+    emails:[{ subject:k.subject, from_name:c.fromName, from:c.fromEmail, content: memMdHtml(k.body, k.preheader) }] };
+  if (k.target) body.groups = [k.target];
+  await memApi("https://connect.mailerlite.com/api/campaigns",
+    { method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(body) });
+  return "";
+}
+async function memDraftBD(){
+  const k = S.mem.camp;
+  const md = (k.preheader.trim() ? memHidden(k.preheader)+"\n\n" : "") + k.body;
+  const send = extra => memApi("https://api.buttondown.com/v1/emails",
+    { method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify(Object.assign({ subject:k.subject, body:md, status:"draft" }, extra)) });
+  if (!k.target) { await send({}); return ""; }
+  try {
+    await send({ filters:{ predicate:"and", groups:[],
+      filters:[{ field:"tag", operator:"equals", value: memGroupName(k.target) }] } });
+    return "";
+  } catch(e){
+    await send({});
+    return "Cílení na štítek Buttondown takhle nepřijal, koncept je proto zatím pro všechny — štítek si u něj doklikni.";
+  }
+}
+async function memMakeDraft(btn){
+  memCampRead();
+  const c = S.mem.cfg, p = PROVIDERS[c.provider], k = S.mem.camp;
+  const out = document.getElementById("mem-draft-out");
+  if (!p.draft) return;
+  if (!k.subject.trim() || !k.body.trim()) { toast("Vyplň předmět i text."); return; }
+  if (c.provider === "mailerlite" && (!c.fromName.trim() || !c.fromEmail.trim())){
+    toast("MailerLite chce odesílatele — vyplň ho nahoře v nastavení poskytovatele."); return; }
+  btn.disabled = true; const label = btn.textContent; btn.textContent = "Zakládám…";
+  if (out) out.innerHTML = "";
+  try{
+    const note = c.provider === "mailerlite" ? await memDraftML() : await memDraftBD();
+    toast("Koncept založen.");
+    if (out) out.innerHTML = `<p class="muted" style="margin:.6rem 0 0">Koncept „${esc(k.subject)}“ leží u poskytovatele.
+      ${note ? esc(note)+" " : ""}Otevři si ho, přečti celý a odešli ho odtamtud.</p>`;
+  } catch(e){ if (out) out.innerHTML = memErrBox(e); else toast("Nepovedlo se: "+e.message); }
+  btn.disabled = false; btn.textContent = label;
+}
+
+/* výpis */
+function memErrBox(e){
+  return `<div class="card" style="border-color:var(--bad)"><b>Nepovedlo se</b>
+    <p class="muted" style="margin:.35rem 0 0">${esc(e.message||String(e))}</p>
+    ${e.hint ? `<p class="muted" style="margin:.35rem 0 0">${esc(e.hint)}</p>` : ""}</div>`;
+}
+function vMembers(){
+  if (!S.mem.cfg) S.mem.cfg = memCfgRead();
+  $("#view").innerHTML = `<h2>Členové</h2>
+    <p class="sub">Čtenáři, kteří ti dali svůj e-mail. Web je statický a nic o nich neví — seznam žije
+       u poskytovatele rozesílky a tahle stránka s ním mluví přímo z tvého prohlížeče.</p>
+    <div id="mem-setup"></div><div id="mem-body"></div>`;
+  memSetup(); memBody();
+}
+function memSetup(){
+  const box = document.getElementById("mem-setup"); if (!box) return;
+  const c = S.mem.cfg, p = PROVIDERS[c.provider];
+  box.innerHTML = `<div class="card">
+    <div class="split">
+      <div><label>Poskytovatel rozesílky</label>
+        <select id="mem-prov" onchange="memPick(this.value)">
+          ${Object.keys(PROVIDERS).map(k=>`<option value="${k}" ${c.provider===k?"selected":""}>${
+            esc(PROVIDERS[k].name)}${PROVIDERS[k].off?" — tudy to nejde":""}</option>`).join("")}
+        </select></div>
+      <div><label>Klíč k API</label>
+        <input id="mem-key" type="password" autocomplete="off" placeholder="vlož klíč"></div>
+    </div>
+    ${p.idLabel ? `<label>${esc(p.idLabel)}</label><input id="mem-pub" autocomplete="off">` : ""}
+    <p class="muted" style="margin:.7rem 0 0">Klíč zůstane jen v tomhle prohlížeči (v položce
+      <b>tds-admin-provider</b>). Nikdy ho nevkládej do žádného souboru v repozitáři — ten je veřejný
+      a kdokoli by pak mohl psát tvým čtenářům tvým jménem.</p>
+    ${c.provider==="mailerlite" ? `<details style="margin-top:.8rem">
+      <summary>Odesílatel konceptů — MailerLite ho vyžaduje</summary>
+      <div class="split">
+        <div><label>Jméno odesílatele</label><input id="mem-fname" autocomplete="off"></div>
+        <div><label>E-mail odesílatele</label><input id="mem-femail" autocomplete="off" placeholder="redakce@tvujweb.cz"></div>
+      </div></details>` : ""}
+    <div class="row" style="margin-top:1rem">
+      <button class="act" onclick="memSave()">Uložit</button>
+      <button class="act ghost" onclick="memForget()">Zapomenout klíč</button>
+    </div></div>`;
+  [["mem-key",c.key],["mem-pub",c.pubId],["mem-fname",c.fromName],["mem-femail",c.fromEmail]]
+    .forEach(([id,v])=>{ const el = document.getElementById(id); if (el) el.value = v || ""; });
+}
+function memBody(){
+  memCampRead();
+  const box = document.getElementById("mem-body"); if (!box) return;
+  const c = S.mem.cfg, p = PROVIDERS[c.provider];
+  if (p.off){
+    box.innerHTML = `<div class="card"><b>${esc(p.name)} se odsud ovládat nedá</b>
+      <p class="muted" style="margin:.4rem 0 0">${esc(p.offWhy)}</p>
+      <div class="row" style="margin-top:.9rem">
+        <button class="act ghost" onclick="memOpen('subs')">Otevřít administraci Ghostu</button></div>
+      ${memProviderUrl("subs") ? "" : `<p class="muted" style="margin:.6rem 0 0">Vyplň výš adresu webu
+        (celou, i s https://) a tlačítko tě do administrace pustí jedním klikem.</p>`}</div>`;
+    return;
+  }
+  if (!c.key){
+    box.innerHTML = `<div class="card"><b>Zatím tu nic není — chybí klíč</b>
+      <p class="muted" style="margin:.4rem 0 .7rem">Až ho vyplníš, uvidíš tady seznam přihlášených čtenářů
+        (e-mail, stav, datum přihlášení a ${esc(p.groupWord)}), kolik jich přibylo za týden a za měsíc,
+        a připravíš si tu koncept newsletteru. Nic z toho se neukládá do repozitáře.</p>
+      <p class="muted" style="margin:0">${esc(p.keyWhere)}</p>
+      ${p.keyUrl ? `<p class="muted" style="margin:.4rem 0 0">
+        <a href="${esc(p.keyUrl)}" target="_blank" rel="noopener">${esc(p.keyUrl)}</a></p>` : ""}</div>`;
+    return;
+  }
+  box.innerHTML = `
+    <div class="card"><div class="row">
+      <div class="grow"><b>Seznam členů</b>
+        <div class="muted">Načte se nejvýš ${MEM_CAP} členů, po ${MEM_PAGE} na stránku, od nejnovějších.
+          Čísla níž počítám z toho, co se načetlo.</div></div>
+      <button class="act" onclick="memLoad()" ${S.mem.busy?"disabled":""}>${
+        S.mem.busy ? "Načítám…" : (S.mem.loaded ? "Načíst znovu" : "Načíst členy")}</button>
+      <button class="act ghost" onclick="memOpen('subs')">Otevřít u poskytovatele</button>
+    </div></div>
+    ${S.mem.err ? memErrBox(S.mem.err) : ""}
+    ${S.mem.loaded ? memTiles() + memList() : ""}
+    ${memCampaign()}`;
+  [["mem-subj",S.mem.camp.subject],["mem-pre",S.mem.camp.preheader],
+   ["mem-text",S.mem.camp.body],["mem-target",S.mem.camp.target]]
+    .forEach(([id,v])=>{ const el = document.getElementById(id); if (el) el.value = v || ""; });
+}
+function memTiles(){
+  const l = S.mem.list, now = Date.now();
+  const since = d => l.filter(x=>x.ts && x.ts >= now - d*86400000).length;
+  const cnt = k => l.filter(x=>x.state===k).length;
+  const fromProvider = typeof S.mem.total === "number" && S.mem.total >= l.length;
+  const total = fromProvider ? S.mem.total : l.length;
+  const nodate = l.filter(x=>!x.ts).length;
+  return `<div class="tiles">
+      <div class="tile"><b>${total}</b><span>členů celkem</span></div>
+      <div class="tile"><b>${cnt("active")}</b><span>aktivních</span></div>
+      <div class="tile"><b>${since(7)}</b><span>nových za 7 dní</span></div>
+      <div class="tile"><b>${since(30)}</b><span>nových za 30 dní</span></div>
+      <div class="tile"><b>${cnt("unconfirmed")}</b><span>nepotvrzených</span></div>
+    </div>
+    <p class="muted" style="margin:-.8rem 0 1rem">${
+      fromProvider ? "Celkový počet hlásí poskytovatel" : "Poskytovatel celkový počet neposlal, tak je to počet načtených"
+      }; zbytek počítám z ${l.length} načtených záznamů${
+      nodate ? ", u "+nodate+" z nich poskytovatel neuvedl datum přihlášení" : ""}.</p>`;
+}
+function memList(){
+  const l = S.mem.list;
+  if (!l.length) return `<div class="empty">Poskytovatel nevrátil žádné členy.</div>`;
+  const p = PROVIDERS[S.mem.cfg.provider];
+  return `<div class="card">
+    <div class="row" style="font-size:.74rem;color:var(--soft);text-transform:uppercase;letter-spacing:.08em">
+      <div class="grow">e-mail</div><div style="width:7rem">stav</div>
+      <div style="width:6.5rem">přihlášen</div><div style="width:8rem">${esc(p.groupWord)}</div></div>
+    ${l.map(x=>`<div class="row" style="border-top:1px solid var(--line);padding:.45rem 0;align-items:center">
+      <div class="grow" style="word-break:break-all">${esc(x.email)}</div>
+      <div style="width:7rem"><span class="pill ${MEM_PILL[x.state]||""}">${esc(x.status)}</span></div>
+      <div style="width:6.5rem" class="muted">${esc(x.joined||"—")}</div>
+      <div style="width:8rem" class="muted">${esc(x.group||"—")}</div></div>`).join("")}
+    ${(l.length >= MEM_CAP || (typeof S.mem.total === "number" && S.mem.total > l.length))
+      ? `<p class="muted" style="margin:.7rem 0 0">Zobrazeno prvních ${l.length} — dál už se sem nechodí,
+         strop je ${MEM_CAP}. Celý seznam je u poskytovatele.</p>` : ""}</div>`;
+}
+function memCampaign(){
+  const p = PROVIDERS[S.mem.cfg.provider], k = S.mem.camp;
+  return `<div class="card"><b>Nová kampaň</b>
+    <p class="muted" style="margin:.3rem 0 0">Text se ukládá jako koncept. Markdown se cestou převede
+      na jednoduché HTML a náhledový text se vloží na začátek jako skrytý řádek.</p>
+    <label>Předmět</label><input id="mem-subj" autocomplete="off">
+    <label>Náhledový text (preheader)</label><input id="mem-pre" autocomplete="off">
+    <label>Text (Markdown)</label><textarea id="mem-text" style="min-height:12rem"></textarea>
+    <label>Komu</label>
+    <select id="mem-target"><option value="">Všem odběratelům</option>${
+      S.mem.groups.map(g=>`<option value="${esc(g.id)}" ${k.target===g.id?"selected":""}>${esc(g.name)}</option>`).join("")}
+    </select>
+    ${S.mem.groups.length ? "" : `<p class="muted" style="margin:.35rem 0 0">Nabídka se doplní,
+      až načteš členy — bere se z toho, co hlásí poskytovatel (${esc(p.groupWord)}).</p>`}
+    <div class="row" style="margin-top:1rem">
+      <button class="act" onclick="memMakeDraft(this)" ${p.draft?"":"disabled"}>Uložit jako koncept</button>
+      <button class="act ghost" onclick="memOpen('camp')">Otevřít u poskytovatele</button>
+    </div>
+    <p class="muted" style="margin:.55rem 0 0">Odesílat se odsud nedá schválně: koncept si u poskytovatele
+      přečti celý a rozešli ho až odtamtud. Rozeslaný e-mail se nedá vzít zpátky.</p>
+    ${p.draft ? "" : `<p class="muted" style="margin:.45rem 0 0">${esc(p.draftWhy||"")}</p>`}
+    <div id="mem-draft-out"></div></div>`;
+}
 
 /* ---------------- články ---------------- */
 function vPosts(){

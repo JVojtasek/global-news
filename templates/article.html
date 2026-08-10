@@ -10,11 +10,12 @@
 <meta property="og:description" content="{{ a.dek }}">
 {% if a.image %}<meta property="og:image" content="{{ site_url }}{{ a.image }}">{% endif %}
 <meta property="og:type" content="article">
+{% if a.access_state == "early" %}<meta name="robots" content="noindex">{% endif %}
 {% endblock %}
 {% block body %}
 <article class="post" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-brief="{{ 1 if a.has_brief else 0 }}">
   <div class="wrap">
-    <div class="kicker">{{ a.section_label }}{% if a.series %} · {{ a.series }}{% endif %}</div>
+    <div class="kicker">{{ a.section_label }}{% if a.series and a.series|lower != a.section|lower and a.series|lower != a.section_label|lower %} · {{ a.series }}{% endif %}</div>
     <h1>{{ a.title }}</h1>
     <p class="dek">{{ a.dek }}</p>
     <div class="meta">
@@ -23,11 +24,49 @@
       {% if a.passage %}<span>{{ a.passage }}</span>{% endif %}
       {% if a.sources %}<span>{{ a.sources|length }} {{ t.sources_word }}</span>{% endif %}
       {% if a.confidence %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
+      {% if a.access_state == "early" %}<span class="badge">{{ t.mem_early_badge }}</span>{% endif %}
     </div>
     {% if a.image %}<figure class="cover">
       <img src="{{ a.image }}" alt="">
       {% if a.credit %}<figcaption>{{ a.credit.text }} · <a href="{{ a.credit.url }}" rel="nofollow noopener" target="_blank">{{ a.credit.provider }}</a></figcaption>{% endif %}
     </figure>{% endif %}
+
+    {% if a.access_state == "early" %}
+    {# --------------------------------------------------------------
+       Předčasný přístup. Ze článku se staví jen shrnutí a nabídka
+       členství — ostatní vrstvy tady vůbec nejsou, ani schované.
+       Statický web nic nezamkne, takže co je v HTML, to je venku.
+       Za pár dní se text vydá celý a tahle větev se přestane používat.
+       -------------------------------------------------------------- #}
+    <p class="dek">{{ t.mem_early_lead }}</p>
+
+    {% for layer in a.layers %}{% if layer.id == "BRIEFLY" %}
+    <section class="layer layer-briefly" data-layer="BRIEFLY">
+      <h2>{{ layer.icon }} {{ layer.label }}</h2>
+      {{ layer.html|safe }}
+    </section>
+    {% endif %}{% endfor %}
+
+    <section class="signup" id="join">
+      <div class="wrap">
+        <h2>{{ t.mem_join_head }}</h2>
+        <p>{{ t.mem_join_why }}</p>
+        {% if mem.form_action %}
+        <form action="{{ mem.form_action }}" method="post" target="_blank">
+          <input type="email" name="{{ mem.field_name }}" required placeholder="{{ t.mem_email_ph }}" aria-label="e-mail">
+          <button type="submit">{{ t.mem_join }}</button>
+        </form>
+        {% else %}
+        <p class="soon">{{ t.mem_soon }}</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <div class="nextstep">
+      <p>{% if a.days_left == 1 %}{{ t.mem_opens_tomorrow }}{% elif a.days_left > 1 and a.opens_label %}{{ t.mem_opens_on|format(a.opens_label) }}{% else %}{{ t.mem_opens_today }}{% endif %}</p>
+      <a href="{{ base }}/{{ lang }}/members/">{{ t.mem_link }}</a>
+    </div>
+    {% else %}
 
     {% if a.syndicated %}
     <div class="syndicated-note">{{ a.syndicated.attribution|safe }}
@@ -82,6 +121,7 @@
       <p>{{ t.nextstep_q }}</p>
       <a href="{{ base }}/{{ lang }}/start/">{{ t.nextstep_cta }}</a>
     </div>
+    {% endif %}
   </div>
 </article>
 {% endblock %}
