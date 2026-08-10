@@ -7,7 +7,7 @@ slug: kratky-nazev-bez-diakritiky
 title: "Nadpis článku"
 dek: "Jedna věta, která řekne, o co jde."
 section: tech       # world|business|tech|science|health|culture|travel|motoring|sport|food|goodnews|history|questions|meaning
-type: news          # news nebo feature
+type: news          # news | daily (článek dne) | demand | feature | analysis
 depth: open         # open  = závěrečná vrstva je obecně myšlenková
                     # scripture = závěrečná vrstva pracuje s biblickým textem
 lang: en

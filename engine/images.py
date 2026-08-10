@@ -146,6 +146,8 @@ def ensure(meta: dict) -> dict:
                 out.write_bytes(cache.read_bytes())
                 return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": cred}
 
-    # 4) typografická obálka — vždycky funguje
-    cover(meta, out)
-    return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None}
+    # 4) když se skutečná fotka nenašla
+    if cfg.get("fallback", "none") == "typographic":
+        cover(meta, out)
+        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None}
+    return {"src": None, "credit": None}

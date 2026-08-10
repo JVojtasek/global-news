@@ -82,6 +82,7 @@ translation at all.
 ## Anything else
 
 Write to {email}. We answer.""",
+        "theme": "Light / dark",
         "ticker_title": "Live now",
         "ticker_note": "Headlines gathered from our sources every three hours. Links go to the original reporting.",
         "related": "Keep reading",
@@ -154,6 +155,7 @@ pečlivě napsané věty je horší než žádný.
 ## Cokoli dalšího
 
 Pište na {email}. Odpovídáme.""",
+        "theme": "Světlý / tmavý režim",
         "ticker_title": "Právě se děje",
         "ticker_note": "Titulky z našich zdrojů, aktualizované každé tři hodiny. Odkazy vedou na původní zpravodajství.",
         "related": "Čtěte dál",
@@ -308,7 +310,7 @@ def _jsonld(a: dict, site: dict) -> str:
         "articleSection": a.get("section_label", ""),
         "inLanguage": a.get("lang", "en"),
         "mainEntityOfPage": {"@type": "WebPage", "@id": config.origin() + a["url"]},
-        "image": [config.origin() + a.get("image", "")],
+        **({"image": [config.origin() + a["image"]]} if a.get("image") else {}),
         "author": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
         "publisher": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
         "isAccessibleForFree": True,
@@ -407,8 +409,14 @@ def run() -> None:
                    env.get_template("article.html").render(a=a, **common))
 
         # --- titulní strana ---
-        briefing = [a for a in arts if a["type"] == "news"][:7]
-        lead = arts[0] if arts else None
+        briefing = [a for a in arts if a["type"] in ("news", "daily", "demand")][:7]
+        # v čele webu má stát náš vlastní článek dne, ne převzatý text
+        prio = {"daily": 0, "feature": 1, "demand": 2, "analysis": 3, "news": 4,
+                "syndicated": 8, "imported": 9}
+        lead = min(
+            arts,
+            key=lambda a: (a["date"] < today, prio.get(a.get("type"), 5), -a.get("words", 0)),
+        ) if arts else None
         used = {lead["slug"]} if lead else set()
         rows = []
         for sec in nav:

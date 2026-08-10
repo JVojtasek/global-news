@@ -141,32 +141,50 @@ def find(meta: dict) -> dict | None:
     allowed = cfg.get("allowed_licenses", ["pdm", "cc0", "by", "by-sa"])
     order = cfg.get("order", ["library", "openverse", "wikimedia"])
 
-    query = (meta.get("image_query") or "").strip()
-    if not query:
-        query = " ".join(_keywords(meta.get("title", "")))
-    if not query:
+    # zkusíme několik dotazů od nejpřesnějšího k nejobecnějšímu
+    tries = []
+    if meta.get("image_query"):
+        tries.append(meta["image_query"].strip())
+    kws = _keywords(meta.get("title", ""))
+    if kws:
+        tries.append(" ".join(kws[:3]))
+        tries.append(" ".join(kws[:2]))
+    generic = {
+        "world": "city skyline street people", "business": "office finance charts",
+        "tech": "circuit board computer server", "science": "laboratory research microscope",
+        "health": "hospital medicine doctor", "culture": "museum gallery art",
+        "travel": "landscape mountains travel", "motoring": "car road highway",
+        "sport": "stadium athletics", "food": "kitchen cooking ingredients",
+        "goodnews": "sunrise nature hands", "history": "ancient ruins archaeology",
+        "questions": "library books philosophy", "meaning": "quiet window light",
+        "relationships": "two people hands together", "parenting": "child family home",
+    }
+    tries.append(generic.get(meta.get("section", ""), "abstract texture light"))
+    tries = [t for t in dict.fromkeys(tries) if t]
+    if not tries:
         return None
 
     lib = _library()
-    key = hashlib.sha1(query.lower().encode()).hexdigest()[:12]
 
-    for step in order:
-        if step == "library" and key in lib:
-            config.log(f"    z knihovny: {query}")
-            return lib[key]
-        if step == "openverse":
-            hit = _openverse(query, allowed)
-        elif step == "wikimedia":
-            hit = _wikimedia(query)
-        else:
-            continue
-        if hit:
-            hit["query"] = query
-            lib[key] = hit
-            _save_library(lib)
-            config.log(f"    nalezeno ({hit['source']}): {hit['title'][:50]} · {hit['license_label']}")
-            time.sleep(1)   # slušnost vůči cizím službám
-            return hit
+    for query in tries:
+        key = hashlib.sha1(query.lower().encode()).hexdigest()[:12]
+        for step in order:
+            if step == "library" and key in lib:
+                config.log(f"    z knihovny: {query}")
+                return lib[key]
+            if step == "openverse":
+                hit = _openverse(query, allowed)
+            elif step == "wikimedia":
+                hit = _wikimedia(query)
+            else:
+                continue
+            if hit:
+                hit["query"] = query
+                lib[key] = hit
+                _save_library(lib)
+                config.log(f"    nalezeno ({hit['source']}): {hit['title'][:46]} · {hit['license_label']}")
+                time.sleep(0.7)
+                return hit
     return None
 
 

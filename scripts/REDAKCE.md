@@ -20,8 +20,10 @@ neptej, a na konci napiš krátké shrnutí česky.
 V tomhle pořadí a **nejvýš tři články celkem**:
 
   1. ČLÁNEK DNE z oddílu A2 — nejdůležitější, věnuj mu nejvíc práce
+     (v hlavičce nastav `type: daily`, ať ho web dá do čela)
   2. jeden zpravodajský rozbor z oddílu A — vyber ten s nejvyšším skóre
-  3. jedno téma z oddílu B (poptávka), pokud tam něco je
+     (`type: news`)
+  3. jedno téma z oddílu B (poptávka), pokud tam něco je (`type: demand`)
 
 Když je zadání prázdné, nic si nevymýšlej a jdi dál.
 

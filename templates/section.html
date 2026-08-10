@@ -8,8 +8,8 @@
 <div class="wide">
   <div class="grid">
     {% for a in articles %}
-    <div class="card">
-      <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
+    <div class="card{% if not a.image %} nopic{% endif %}">
+      {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
       <div class="body">
         <div class="kicker">{{ a.date }}</div>
         <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>

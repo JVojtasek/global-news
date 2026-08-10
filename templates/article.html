@@ -8,7 +8,7 @@
 {% if a.faq %}<script type="application/ld+json">{{ a.faq|safe }}</script>{% endif %}
 <meta property="og:title" content="{{ a.title }}">
 <meta property="og:description" content="{{ a.dek }}">
-<meta property="og:image" content="{{ site_url }}{{ a.image }}">
+{% if a.image %}<meta property="og:image" content="{{ site_url }}{{ a.image }}">{% endif %}
 <meta property="og:type" content="article">
 {% endblock %}
 {% block body %}
@@ -24,10 +24,10 @@
       {% if a.sources %}<span>{{ a.sources|length }} {{ t.sources_word }}</span>{% endif %}
       {% if a.confidence %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
     </div>
-    <figure class="cover">
+    {% if a.image %}<figure class="cover">
       <img src="{{ a.image }}" alt="">
       {% if a.credit %}<figcaption>{{ a.credit.text }} · <a href="{{ a.credit.url }}" rel="nofollow noopener" target="_blank">{{ a.credit.provider }}</a></figcaption>{% endif %}
-    </figure>
+    </figure>{% endif %}
 
     {% if a.syndicated %}
     <div class="syndicated-note">{{ a.syndicated.attribution|safe }}

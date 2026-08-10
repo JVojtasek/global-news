@@ -9,8 +9,14 @@
   --scripture-bg:#f6efe3; --scripture-line:#c9a874;
   --max:44rem;
 }
+html[data-theme="dark"]{
+  --bg:#14120f; --bg-soft:#1c1915; --card:#1b1815;
+  --ink:#efe9e0; --ink-soft:#a89e91; --line:#302a24;
+  --accent:#d9a566; --accent-soft:#2a2119;
+  --scripture-bg:#211b14; --scripture-line:#8a6a3c;
+}
 @media (prefers-color-scheme: dark){
-  :root{
+  html[data-theme="auto"]{
     --bg:#14120f; --bg-soft:#1c1915; --card:#1b1815;
     --ink:#efe9e0; --ink-soft:#a89e91; --line:#302a24;
     --accent:#d9a566; --accent-soft:#2a2119;
@@ -238,3 +244,40 @@ aside.ticker .note{font-size:.72rem;color:var(--ink-soft);margin:.9rem 0 0;line-
 .withside .hero-img img{aspect-ratio:16/8}
 .withside .hero-text h1{font-size:clamp(1.6rem,2.6vw,2.2rem)}
 .withside .grid{grid-template-columns:repeat(auto-fill,minmax(13rem,1fr))}
+
+
+/* ---------- přepínač světlý / tmavý ---------- */
+.themebtn{margin-left:.45rem;background:none;border:1px solid var(--line);border-radius:6px;
+  color:var(--ink-soft);cursor:pointer;padding:.2rem .35rem;line-height:0;vertical-align:middle}
+.themebtn:hover{color:var(--accent);border-color:var(--accent)}
+.themebtn .moon{display:none}
+html[data-theme="dark"] .themebtn .sun{display:none}
+html[data-theme="dark"] .themebtn .moon{display:block}
+@media (prefers-color-scheme:dark){
+  html[data-theme="auto"] .themebtn .sun{display:none}
+  html[data-theme="auto"] .themebtn .moon{display:block}
+}
+
+/* ---------- karty bez fotky: textové, jako v novinách ---------- */
+.card.notext{}
+.card.nopic{background:none;border:0;border-top:2px solid var(--ink);border-radius:0;padding-top:.7rem}
+.card.nopic .body{padding:0}
+.card.nopic h3{font-size:1.12rem;line-height:1.25;margin:.3rem 0 .35rem}
+.card.nopic p{font-size:.9rem}
+.card.nopic:hover{transform:none}
+.card.nopic:hover h3 a{color:var(--accent)}
+
+.hero.nopic{grid-template-columns:1fr;border-top:3px solid var(--ink);padding-top:1.2rem}
+.hero.nopic .hero-text h1{font-size:clamp(1.9rem,3.4vw,2.7rem)}
+
+.row .card.small.nopic{border-top:1px solid var(--line);padding-top:.6rem}
+.row .card.small.nopic h3{font-size:.98rem}
+
+/* ---------- typografické doladění ---------- */
+body{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+h1,h2,h3{text-wrap:balance}
+.lead h1,.hero-text h1,article.post h1{letter-spacing:-.021em}
+article.post .layer p{margin:0 0 1.15rem}
+.card h3 a{transition:color .12s ease}
+.grid{align-items:start}
+figure.cover img{box-shadow:0 1px 2px rgba(0,0,0,.06)}

@@ -107,10 +107,17 @@ sections:
 # ---------------------------------------------------------------------
 images:
   # Pořadí, ve kterém se hledá obrázek. Generování AI tu schválně není.
-  order: [manual, library, openverse, wikimedia, typographic]
+  order: [manual, library, openverse, wikimedia]
   # Přijímáme jen tyhle licence. Vždy uvádíme autora a licenci u obrázku.
   allowed_licenses: [pdm, cc0, "by", "by-sa"]
-  max_per_run: 12          # kolik obrázků se smí stáhnout při jednom běhu
+  max_per_run: 40          # kolik obrázků se smí stáhnout při jednom běhu
+
+  # Co udělat, když se skutečná fotka nenajde:
+  #   none        = žádný obrázek. Článek se zobrazí jako textový —
+  #                 vypadá to jako v pořádných novinách.
+  #   typographic = barevná obálka s nadpisem. Vypadá to lacině,
+  #                 nedoporučuju.
+  fallback: none
 
 # ---------------------------------------------------------------------
 # HLEDÁNÍ TÉMAT, PO KTERÝCH JE POPTÁVKA

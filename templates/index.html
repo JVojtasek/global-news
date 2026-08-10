@@ -19,8 +19,8 @@
   <div class="mainside">
 
     {% if lead %}
-    <div class="hero">
-      <a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>
+    <div class="hero{% if not lead.image %} nopic{% endif %}">
+      {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>{% endif %}
       <div class="hero-text">
         <div class="kicker">{{ lead.section_label }}</div>
         <h1><a href="{{ lead.url }}">{{ lead.title }}</a></h1>
@@ -32,8 +32,8 @@
     {% if articles %}
     <div class="grid">
       {% for a in articles %}
-      <div class="card">
-        <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
+      <div class="card{% if not a.image %} nopic{% endif %}">
+        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
         <div class="body">
           <div class="kicker">{{ a.section_label }}</div>
           <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
@@ -68,8 +68,8 @@
     <h2 class="rowhead"><a href="{{ base }}/{{ lang }}/{{ row.id }}/">{{ row.icon }} {{ row.label }}</a></h2>
     <div class="grid tight">
       {% for a in row.articles %}
-      <div class="card small">
-        <a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>
+      <div class="card small{% if not a.image %} nopic{% endif %}">
+        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
         <div class="body">
           <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
         </div>
