@@ -142,9 +142,9 @@
 ### artificial intelligence jobs
 - rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
 
 ---
 
@@ -165,15 +165,16 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Typhoon Dolphin batters Japan's Okinawa before bearing down on China
-- id: `aa62f1322260`  ·  rubrika: `world`  ·  záznamů v ose: 3  ·  **depth: `scripture`**
+- id: `aa62f1322260`  ·  rubrika: `world`  ·  záznamů v ose: 4  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Typhoon Dolphin batters Japan's Okinawa before bearing down on China
-rubrika: world · sledováno od 2026-08-09 · záznamů: 3
+rubrika: world · sledováno od 2026-08-09 · záznamů: 4
   2026-08-09  (4 zdrojů, síla 66)  Typhoon Dolphin batters Japan's Okinawa before bearing down on China
   2026-08-10  (1 zdrojů, síla 42)  Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
   2026-08-10  (2 zdrojů, síla 42)  China: Typhoon Dolphin prompts mass evacuation, canceled flights
+  2026-08-10  (2 zdrojů, síla 47)  One million evacuated as Typhoon Dolphin pummels east China: What we know
 ```
 
 ---

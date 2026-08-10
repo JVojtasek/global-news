@@ -5,17 +5,18 @@
    "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
    "section": "world",
    "entities": [
-    "china",
+    "typhoon",
     "shanghai",
     "japan's",
-    "dolphin",
-    "typhoon",
-    "okinawa"
+    "okinawa",
+    "china",
+    "dolphin"
    ],
    "event_ids": [
     "aa62f1322260",
     "d0bc31a1d209",
-    "1309af9aeefc"
+    "1309af9aeefc",
+    "d26892b57594"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-10",
@@ -52,6 +53,18 @@
      "links": [
       "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "One million evacuated as Typhoon Dolphin pummels east China: What we know",
+     "sources": 2,
+     "score": 47,
+     "event_id": "d26892b57594",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/10/one-million-evacuated-as-typhoon-dolphin-pummels-east-china-what-we-know?traffic_source=rss",
+      "https://www.france24.com/en/video/20260810-dolphin-tropical-storm-causes-some-flooding-in-eastern-china",
+      "https://www.france24.com/en/video/20260810-typhoon-dolphin-the-biggest-storm-china-has-seen-this-year"
      ]
     }
    ]
@@ -136,6 +149,50 @@
      "links": [
       "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "639e1a78a571",
+   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+   "section": "world",
+   "entities": [
+    "hormuz",
+    "oman",
+    "east",
+    "middle",
+    "iran"
+   ],
+   "event_ids": [
+    "639e1a78a571",
+    "0624eb1ba208"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-10",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+     "sources": 6,
+     "score": 83,
+     "event_id": "639e1a78a571",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0624eb1ba208",
+     "links": [
+      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
      ]
     }
    ]
@@ -287,30 +344,29 @@
    ]
   },
   {
-   "id": "639e1a78a571",
-   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-   "section": "world",
+   "id": "73892c222554",
+   "title": "Consortium advances talks for stake in Liverpool",
+   "section": "business",
    "entities": [
-    "hormuz",
-    "oman",
-    "iran"
+    "consortium",
+    "liverpool"
    ],
    "event_ids": [
-    "639e1a78a571"
+    "73892c222554"
    ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-09",
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
    "timeline": [
     {
-     "date": "2026-08-09",
-     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-     "sources": 6,
-     "score": 83,
-     "event_id": "639e1a78a571",
+     "date": "2026-08-10",
+     "headline": "Consortium advances talks for stake in Liverpool",
+     "sources": 5,
+     "score": 69,
+     "event_id": "73892c222554",
      "links": [
-      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
+      "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group",
+      "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -491,5 +547,5 @@
    ]
   }
  ],
- "updated": "2026-08-10T12:32:56+00:00"
+ "updated": "2026-08-10T15:35:27+00:00"
 }
