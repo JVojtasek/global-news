@@ -50,7 +50,26 @@ def parse(raw: str) -> tuple[dict, str]:
         meta = yaml.safe_load(m.group(1)) or {}
     except yaml.YAMLError:
         meta = {}
-    return meta, m.group(2).strip()
+    return _coerce(meta), m.group(2).strip()
+
+
+def _coerce(meta: dict) -> dict:
+    """YAML si z `date: 2026-08-10` udělá datum, ne text.
+
+    Celý systém s daty pracuje jako s řetězci, takže je tady srovnáme.
+    Bez toho spadne stavba webu, jakmile někdo napíše datum bez uvozovek.
+    """
+    import datetime as _dt
+
+    for key, val in list(meta.items()):
+        if isinstance(val, (_dt.datetime, _dt.date)):
+            meta[key] = val.isoformat()[:10]
+        elif isinstance(val, list):
+            meta[key] = [
+                v.isoformat()[:10] if isinstance(v, (_dt.datetime, _dt.date)) else v
+                for v in val
+            ]
+    return meta
 
 
 def dump(meta: dict, body: str) -> str:
