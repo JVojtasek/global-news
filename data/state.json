@@ -1,10 +1,17 @@
 {
  "done_series": [],
  "last_run": {
-  "collect": "2026-08-10T03:55:58+00:00"
+  "collect": "2026-08-10T03:55:58+00:00",
+  "syndicate": "2026-08-10T06:30:23+00:00"
  },
  "posted_slugs": [],
- "qma_urls": [],
+ "qma_urls": [
+  "https://quantummarketanalyzer.com/magazin/analyza/clipper-realty-proc-lepsi-kvartal-nemusi-stacit-na-dividendu-analyza-336345",
+  "https://quantummarketanalyzer.com/magazin/analyza/silna-vyroba-a-nizsi-nezamestnanost-kdy-rust-objednavek-zdra-analyza-336613",
+  "https://quantummarketanalyzer.com/magazin/analyza/hormuz-proc-nerozhoduje-jen-cena-ropy-ale-i-fyzicky-tok-poji-analyza-336760",
+  "https://quantummarketanalyzer.com/magazin/analyza/dve-cipove-firmy-prekonaly-ocekavani-co-to-pro-zbytek-trhu-z-analyza-336611",
+  "https://quantummarketanalyzer.com/magazin/analyza/rally-u-rekordu-nestaci-na-inflaci-zvladne-zisky-i-cash-flow-analyza-336751"
+ ],
  "seen_urls": [
   "https://www.theguardian.com/books/2026/aug/07/what-happened-to-liberal-democracy-by-daron-acemoglu-review-how-to-fix-the-system",
   "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
@@ -1152,7 +1159,20 @@
   "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism"
  ],
  "spend": {},
- "syndicated_urls": [],
+ "syndicated_urls": [
+  "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat/",
+  "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/",
+  "https://globalvoices.org/2026/08/09/can-ai-help-build-peace-african-youth-are-showing-a-path-forward/",
+  "https://globalvoices.org/2026/08/07/what-does-home-mean-for-people-with-no-single-territory-connecting-them/",
+  "https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/",
+  "https://advox.globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
+  "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/",
+  "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
+  "https://advox.globalvoices.org/2026/06/05/the-signal-we-cannot-ignore-what-the-londa-2025-report-reveals-about-africas-digital-rights/",
+  "https://advox.globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
+  "https://advox.globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
+  "https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/"
+ ],
  "used_events": [],
  "used_topics": []
 }
