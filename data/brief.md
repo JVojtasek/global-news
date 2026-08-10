@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-09
+# ZADÁNÍ PRO REDAKCI — 2026-08-10
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -134,33 +134,26 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### quantum computing
-- rubrika: `tech`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „why does quantum computing need to be cold“
-  - „why does quantum computing matter“
-  - „why does quantum computing threaten bitcoin“
-  - „why is quantum computing important“
-  - „why is quantum computing stock down“
-  - „why is quantum computing a threat to bitcoin“
+### why relationships fail
+- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Quantum computing — <https://en.wikipedia.org/wiki/Quantum_computing>
-  - Superconducting quantum computing — <https://en.wikipedia.org/wiki/Superconducting_quantum_computing>
-  - Timeline of quantum computing and communication — <https://en.wikipedia.org/wiki/Timeline_of_quantum_computing_and_communication>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
 ## B) TÉMATA, PO KTERÝCH JE POPTÁVKA
 
-### 1. electric car battery
-- rubrika: `motoring`  ·  signál: evergreen  ·  síla: 50  ·  **depth: `open`**
+### 1. inflation
+- rubrika: `business`  ·  signál: evergreen  ·  síla: 46  ·  **depth: `scripture`**
 - OTÁZKY, KTERÉ LIDÉ SKUTEČNĚ PÍŠÍ (odpověz na ně, ne na to, co si myslíš, že chtějí):
-  - „how does electric car battery lease work“
-  - „how does electric car battery look like“
-  - „how much electric car battery cost“
-  - „how much electric car battery replacement cost“
-  - „how much electric car battery“
-  - „what happens if electric car battery dies“
+  - „why does inflation occur“
+  - „why does inflation exist“
+  - „why does inflation keep going up“
+  - „why is inflation so high“
+  - „why is inflation a thing“
+  - „why is inflation good“
 
 ---
 
