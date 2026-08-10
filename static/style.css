@@ -37,19 +37,35 @@ img{max-width:100%;display:block}
 
 /* ---------- hlavička ---------- */
 header.site{border-bottom:1px solid var(--line);background:var(--bg)}
+/* --- hlavička jako v tištěných novinách --- */
+.masthead{max-width:64rem;margin:0 auto;padding:1.5rem 1.25rem .9rem;text-align:center;position:relative}
+.mast-date{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.68rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--ink-soft);margin-bottom:.55rem}
+.logo{display:inline-block;font-size:clamp(1.9rem,4.4vw,2.9rem);font-weight:700;
+  letter-spacing:-.028em;text-decoration:none;line-height:1.05}
+.mast-tag{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.7rem;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--ink-soft);margin-top:.5rem}
 header.site .inner{
-  max-width:64rem;margin:0 auto;padding:1.1rem 1.25rem;
-  display:flex;align-items:baseline;gap:1rem;flex-wrap:wrap
+  max-width:64rem;margin:0 auto;padding:.6rem 1.25rem .7rem;
+  border-top:1px solid var(--line);display:flex;justify-content:center
 }
-.logo{font-weight:700;font-size:1.35rem;letter-spacing:-.02em;text-decoration:none}
-.logo small{display:block;font-weight:400;font-size:.72rem;letter-spacing:.13em;
-  text-transform:uppercase;color:var(--ink-soft);margin-top:.15rem}
-nav.sections{margin-left:auto;display:flex;gap:.9rem;flex-wrap:wrap;
-  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.83rem}
-nav.sections a{color:var(--ink-soft);text-decoration:none;padding:.15rem 0;border-bottom:2px solid transparent}
+nav.sections{display:flex;gap:1.15rem;flex-wrap:wrap;justify-content:center;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.76rem;letter-spacing:.07em;
+  text-transform:uppercase;white-space:nowrap;-webkit-overflow-scrolling:touch}
+nav.sections::-webkit-scrollbar{display:none}
+nav.sections a{color:var(--ink-soft);text-decoration:none;padding:.3rem 0;
+  border-bottom:2px solid transparent;transition:color .12s}
 nav.sections a:hover,nav.sections a.on{color:var(--ink);border-color:var(--accent)}
-.langs{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;color:var(--ink-soft)}
-.langs a{text-decoration:none;padding:.1rem .35rem;border:1px solid var(--line);border-radius:4px}
+@media (max-width:700px){
+  .masthead{padding:1.1rem 1.25rem .7rem}
+  nav.sections{gap:1rem;font-size:.72rem}
+}
+.langs{position:absolute;top:1.15rem;right:1.25rem;display:flex;align-items:center;gap:.3rem;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;color:var(--ink-soft)}
+@media (max-width:600px){.langs{top:.7rem;right:.8rem}}
+.langs a{text-decoration:none;padding:.12rem .38rem;border:1px solid var(--line);border-radius:5px;
+  color:var(--ink-soft)}
+.langs a:hover{color:var(--accent);border-color:var(--accent)}
 .langs a.on{background:var(--accent-soft);border-color:var(--accent)}
 
 /* ---------- denní přehled ---------- */

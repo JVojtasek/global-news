@@ -82,6 +82,7 @@ translation at all.
 ## Anything else
 
 Write to {email}. We answer.""",
+        "today": "",
         "theme": "Light / dark",
         "ticker_title": "Live now",
         "ticker_note": "Headlines gathered from our sources every three hours. Links go to the original reporting.",
@@ -155,6 +156,7 @@ pečlivě napsané věty je horší než žádný.
 ## Cokoli dalšího
 
 Pište na {email}. Odpovídáme.""",
+        "today": "",
         "theme": "Světlý / tmavý režim",
         "ticker_title": "Právě se děje",
         "ticker_note": "Titulky z našich zdrojů, aktualizované každé tři hodiny. Odkazy vedou na původní zpravodajství.",
@@ -342,6 +344,26 @@ def _republish_html(a: dict, site: dict) -> str:
     return "\n".join(parts)
 
 
+MONTHS = {
+    "en": ["January", "February", "March", "April", "May", "June", "July",
+           "August", "September", "October", "November", "December"],
+    "cs": ["ledna", "února", "března", "dubna", "května", "června", "července",
+           "srpna", "září", "října", "listopadu", "prosince"],
+}
+DAYS = {
+    "en": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "cs": ["Pondělí", "Úterý", "Středa", "Čtvrtek", "Pátek", "Sobota", "Neděle"],
+}
+
+
+def _date_label(lang: str) -> str:
+    d = dt.date.today()
+    days, months = DAYS.get(lang, DAYS["en"]), MONTHS.get(lang, MONTHS["en"])
+    if lang == "cs":
+        return f"{days[d.weekday()]} {d.day}. {months[d.month - 1]} {d.year}"
+    return f"{days[d.weekday()]}, {d.day} {months[d.month - 1]} {d.year}"
+
+
 def _write(path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
@@ -383,6 +405,7 @@ def run() -> None:
             sections=nav, all_sections=site["sections"], all_langs=langs,
             site_url=config.origin(), base=config.base_path(), current_section=None,
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
+            today_label=_date_label(lang),
             nl_headline=(site.get("newsletter", {}).get(f"headline_{lang}")
                          or site.get("newsletter", {}).get("headline_en", "")),
             nl_text=(site.get("newsletter", {}).get(f"text_{lang}")
@@ -423,7 +446,7 @@ def run() -> None:
             sub = [a for a in arts if a["section"] == sec["id"] and a["slug"] not in used][:4]
             if len(sub) >= 1:
                 rows.append({
-                    "id": sec["id"], "icon": sec["icon"],
+                    "id": sec["id"],
                     "label": sec.get(lang) or sec["en"], "articles": sub,
                 })
         _write(out / lang / "index.html",
@@ -437,7 +460,7 @@ def run() -> None:
             _write(out / lang / s["id"] / "index.html",
                    env.get_template("section.html").render(
                        articles=sub, section_label=s.get(lang) or s["en"],
-                       section_icon=s["icon"], **{**common, "current_section": s["id"]}))
+                       **{**common, "current_section": s["id"]}))
 
         # --- stránka pro média, která chtějí naše články převzít ---
         if site.get("republish", {}).get("enabled"):

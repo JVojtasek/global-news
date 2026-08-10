@@ -49,6 +49,9 @@ SECTION_HINTS = {
                      "conflict communication breakup friendship attachment jealousy apology",
     "parenting": "children child parents parenting toddler teenager baby school homework "
                  "discipline screen time family mother father siblings adolescence upbringing",
+    "wonder": "species discovered animal ocean deep insect bird whale fossil galaxy universe "
+              "telescope nebula cells neurons immune body organ evolution symbiosis migration "
+              "extraordinary remarkable astonishing rare unique phenomenon",
     "meaning": "psychology loneliness happiness gratitude burnout anxiety resilience purpose habits "
                "attention mindfulness relationships forgiveness compassion",
 }

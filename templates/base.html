@@ -18,17 +18,21 @@
 </head>
 <body>
 <header class="site">
-  <div class="inner">
-    <a class="logo" href="{{ base }}/{{ lang }}/">{{ brand }}<small>{{ tagline }}</small></a>
-    <nav class="sections">
-      {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s.icon }} {{ s[lang] or s.en }}</a>{% endfor %}
-    </nav>
+  <div class="masthead">
     <div class="langs">
       {% for l in all_langs %}<a href="{{ base }}/{{ l }}/" {% if l == lang %}class="on"{% endif %}>{{ l|upper }}</a>{% endfor %}
       <button class="themebtn" type="button" onclick="tdsTheme()" aria-label="{{ t.theme }}" title="{{ t.theme }}">
         <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path class="sun" d="M12 4V2m0 20v-2m8-8h2M2 12h2m13.66-5.66 1.41-1.41M4.93 19.07l1.41-1.41m11.32 1.41 1.41 1.41M4.93 4.93l1.41 1.41M12 8a4 4 0 100 8 4 4 0 000-8z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path class="moon" d="M20 14.5A8.5 8.5 0 019.5 4a8.5 8.5 0 1010.5 10.5z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg>
       </button>
     </div>
+    <div class="mast-date">{{ today_label }}</div>
+    <a class="logo" href="{{ base }}/{{ lang }}/">{{ brand }}</a>
+    <div class="mast-tag">{{ tagline }}</div>
+  </div>
+  <div class="inner">
+    <nav class="sections">
+      {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s[lang] or s.en }}</a>{% endfor %}
+    </nav>
   </div>
 </header>
 {% block body %}{% endblock %}
@@ -52,7 +56,7 @@
   <div class="cols">
     <div>
       <strong>{{ brand }}</strong><br>{{ tagline }}<br>
-      <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
+      <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/republish/">{{ t.republish_offer }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
     </div>
     <div style="max-width:26rem">{{ t.footer_note }}</div>
   </div>
