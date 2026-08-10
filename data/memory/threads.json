@@ -198,6 +198,48 @@
    ]
   },
   {
+   "id": "b01a2d5e7018",
+   "title": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
+   "section": "business",
+   "entities": [
+    "apple",
+    "street",
+    "don't",
+    "wall"
+   ],
+   "event_ids": [
+    "b01a2d5e7018",
+    "799e4686df1a"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
+     "sources": 3,
+     "score": 58,
+     "event_id": "b01a2d5e7018",
+     "links": [
+      "https://www.cnbc.com/2026/08/10/dont-let-a-wall-street-analysts-downgrade-of-apple-scare-you-out-of-the-stock.html",
+      "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changedas-hormuz-reopening-doubts-grow-4847793"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Can prediction markets win over Wall Street?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "799e4686df1a",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street",
+      "https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "227e86739973",
    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
    "section": "safety",
@@ -547,5 +589,5 @@
    ]
   }
  ],
- "updated": "2026-08-10T15:35:27+00:00"
+ "updated": "2026-08-10T18:33:56+00:00"
 }

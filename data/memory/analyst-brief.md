@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-10
 
-Paměť obsahuje **16 vláken**. Aktivních za posledních 14 dní: **4**.
+Paměť obsahuje **17 vláken**. Aktivních za posledních 14 dní: **5**.
 
 ---
 
@@ -31,3 +31,9 @@ Paměť obsahuje **16 vláken**. Aktivních za posledních 14 dní: **4**.
 - časová osa:
   - **2026-08-09** (6 zdrojů) Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   - **2026-08-10** (3 zdrojů) Middle East: Iran wants US concessions before opening Hormuz
+
+### Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock
+- rubrika `business` · sledováno 0 dní · 2 záznamů
+- časová osa:
+  - **2026-08-10** (3 zdrojů) Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock
+  - **2026-08-10** (2 zdrojů) Can prediction markets win over Wall Street?
