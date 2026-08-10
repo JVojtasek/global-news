@@ -13,6 +13,17 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: oil tanker strait
+impact:
+  areas: [money, life]
+  line: >-
+    The route by which this reaches a household is fuel, transport and
+    energy-linked bills, not the oil price alone. Insurance, tanker rerouting
+    and refining margins sit between the barrel and the pump, and they move
+    first.
+  todo: >-
+    Watch whether physical flow is actually constrained or only the risk
+    premium, and whether pump prices are rising faster than crude — that gap is
+    the crack spread.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-proc-nerozhoduje-jen-cena-ropy-ale-i-fyzicky-tok-poji-analyza-336760

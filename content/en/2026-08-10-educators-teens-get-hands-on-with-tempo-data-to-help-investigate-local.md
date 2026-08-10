@@ -13,6 +13,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Educators & Teens Get Hands-On With
+impact:
+  areas: [health, life]
+  line: >-
+    TEMPO measures pollution over North America, hourly, in daylight — so it
+    does not cover Europe. What is new is that the data are free and public:
+    TEMPO-Lab puts near-real-time air quality readings in anyone's browser,
+    including a beta ground-level ozone product.
+  todo: >-
+    TEMPO-Lab is at projects.cosmicds.cfa.harvard.edu/tempo-lab; the case
+    studies built on it cover wildfire smoke, rush-hour traffic, power plants
+    and agriculture.
 syndicated:
   source: NASA
   author: the original author

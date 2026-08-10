@@ -13,6 +13,16 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: stock exchange trading floor
+impact:
+  areas: [money, life]
+  line: >-
+    The number that decides this week is the US CPI, and specifically core
+    services, which move more stubbornly than goods. When inflation stays
+    sticky, money stays expensive — and that reaches people through mortgages,
+    loans and shop prices.
+  todo: >-
+    Separate nominal retail sales from real ones, and read core inflation rather
+    than the headline; both are in the official CPI and PPI releases.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rally-u-rekordu-nestaci-na-inflaci-zvladne-zisky-i-cash-flow-analyza-336751

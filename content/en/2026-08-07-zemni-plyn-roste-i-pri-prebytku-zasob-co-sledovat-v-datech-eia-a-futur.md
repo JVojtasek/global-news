@@ -13,6 +13,17 @@ date: '2026-08-07'
 status: published
 confidence: 100
 image_query: natural gas pipeline
+impact:
+  areas: [money]
+  line: >-
+    This is the US gas market: EIA inventories, production, LNG feedgas, the
+    futures curve. What travels beyond it is the reading — a storage surplus and
+    a rising price can be true at once, because the market prices the missing
+    molecule, not the average one.
+  todo: >-
+    The weekly EIA storage report is public; compare stocks with the five-year
+    average for the same week, and the front contract with next heating
+    season's.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zemni-plyn-roste-i-pri-prebytku-zasob-co-sledovat-v-datech-e-analyza-335927

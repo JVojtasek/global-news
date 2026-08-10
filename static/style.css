@@ -640,3 +640,34 @@ nav.sections a.nav-you:hover{border-color:var(--accent)}
   color:var(--accent);cursor:pointer;text-decoration:underline;text-underline-offset:3px}
 .reader-again-btn:hover{filter:brightness(1.1)}
 .reader-again-btn:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+
+/* --- Co to znamená pro tebe ------------------------------------------ */
+.imprail{border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+  background:var(--bg-soft,transparent);padding:1.6rem 0 1.4rem;margin:0 0 1.6rem}
+.imprail-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1.4rem}
+.imprail-item h3{font-size:1.06rem;line-height:1.25;margin:.35rem 0 .4rem}
+.imprail-more{margin:1.1rem 0 0;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.85rem}
+.imp-areas{display:flex;gap:.35rem;flex-wrap:wrap}
+.imp-tag{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.66rem;letter-spacing:.09em;
+  text-transform:uppercase;padding:.15rem .5rem;border:1px solid var(--line);border-radius:999px;
+  color:var(--ink-soft)}
+.imp-money{border-color:var(--accent);color:var(--accent)}
+.imp-line{margin:.35rem 0 .3rem;font-size:.95rem}
+.imp-todo{margin:.2rem 0 0;font-size:.9rem;color:var(--ink-soft)}
+.imp-todo b{color:var(--ink)}
+.imp-filter{display:flex;gap:.45rem;align-items:center;flex-wrap:wrap;margin:1rem 0 1.4rem}
+.imp-filter-label{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;
+  letter-spacing:.09em;text-transform:uppercase;color:var(--ink-soft);margin-right:.3rem}
+.imp-chip{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;
+  padding:.3rem .85rem;cursor:pointer;font:inherit;font-size:.85rem}
+.imp-chip.on{border-color:var(--accent);color:var(--accent)}
+.imp-list{list-style:none;padding:0;margin:0}
+.imp-item{border-top:1px solid var(--line);padding:1.2rem 0}
+.imp-item h2{font-size:1.25rem;line-height:1.25;margin:.4rem 0 .45rem}
+.imp-meta{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.75rem;color:var(--ink-soft);margin-top:.5rem}
+.partners{max-width:20rem}
+.partners strong{display:block;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;
+  letter-spacing:.09em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:.4rem}
+.partners ul{list-style:none;padding:0;margin:0}
+.partners li{margin-bottom:.4rem;font-size:.85rem}
+.partners li span{display:block;color:var(--ink-soft);font-size:.8rem}

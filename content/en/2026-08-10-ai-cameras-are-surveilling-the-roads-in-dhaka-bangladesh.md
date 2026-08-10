@@ -12,6 +12,15 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: AI cameras are surveilling the roads
+impact:
+  areas: [safety, money, life]
+  line: >-
+    If you own a vehicle in Dhaka, the camera files the case against you, not
+    the driver, and the points come off your licence. Fraudsters are already
+    ringing owners to demand payment for invented fines.
+  todo: >-
+    Police say fines are paid only through official banking channels, never to a
+    person; a notice includes video of the violation, viewable online.
 syndicated:
   source: Global Voices Advox
   author: Advox

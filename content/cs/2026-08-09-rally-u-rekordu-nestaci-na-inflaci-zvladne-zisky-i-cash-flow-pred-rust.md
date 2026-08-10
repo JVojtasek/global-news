@@ -13,6 +13,16 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: Rally u rekordů nestačí na
+impact:
+  areas: [money, life]
+  line: >-
+    Číslo, které tenhle týden rozhoduje, je americké CPI, konkrétně jádrové
+    služby, které se hýbou tvrdošíjněji než zboží. Když inflace zůstává lepkavá,
+    peníze zůstávají drahé — a k lidem se to dostane přes hypotéky, úvěry a ceny
+    v obchodech.
+  todo: >-
+    Oddělte nominální maloobchodní tržby od reálných a čtěte jádrovou inflaci
+    místo hlavního čísla; obojí je v oficiálních datech CPI a PPI.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rally-u-rekordu-nestaci-na-inflaci-zvladne-zisky-i-cash-flow-analyza-336751

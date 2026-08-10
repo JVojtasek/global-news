@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 88
 image_query: 'clinic nurse preparing injection'
+impact:
+  areas: [health]
+  line: >-
+    Tohle je zavádění v devíti afrických zemích, ne změna péče v Evropě:
+    lenacapavir brání nákaze HIV dvěma injekcemi ročně a dodáno bylo 191 620
+    dávek. Generikum za zhruba 40 dolarů ročně se do 120 zemí dostane až od roku
+    2027.
+  todo: >-
+    O dostupnosti rozhodují národní programy, ne jednotlivci; UNAIDS, Globální
+    fond a americký FDA zveřejňují čísla, schválené použití i varování v černém
+    rámečku.
 sources:
 - name: 'aidsmap — Nearly 200,000 lenacapavir shots given across Africa (AIDS 2026)'
   url: https://www.aidsmap.com/news/jul-2026/nearly-200000-lenacapavir-shots-given-across-africa-supply-issues-pose-challenges

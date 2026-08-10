@@ -11,6 +11,15 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: 'Dvě čipové firmy překonaly očekávání:'
+impact:
+  areas: [money]
+  line: >-
+    Dvě polovodičové firmy tvoří necelou třetinu jihokorejského indexu Kospi.
+    Když držíte široký indexový fond, „široký“ může znamenat koncentrovanou
+    sázku na pár jmen — Kospi klesl o 3,9 %, zatímco americké indexy vyčkávaly.
+  todo: >-
+    Podívejte se do factsheetu svého fondu na váhu deseti největších pozic;
+    správci ji zveřejňují každý měsíc.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/dve-cipove-firmy-prekonaly-ocekavani-co-to-pro-zbytek-trhu-z-analyza-336611

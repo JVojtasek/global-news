@@ -291,3 +291,15 @@ social:
   export: [facebook, instagram, x, linkedin]   # tyhle ti připraví k vložení
   posts_per_day: 3
   include_link: true
+
+# ---------------------------------------------------------------------
+# SPŘÁTELENÉ WEBY
+#   Odkazy v patičce na weby, za které se umíme postavit. Není to
+#   reklama a neplatí se za to — proto se sem dostane jen to, co bys
+#   čtenáři doporučil i osobně.
+# ---------------------------------------------------------------------
+partners:
+  - name: "QMA Magazín"
+    url: "https://quantummarketanalyzer.com/magazin"
+    en: "Markets and money, explained without hype. Our sister publication."
+    cs: "Trhy a peníze vysvětlené bez humbuku. Náš sesterský magazín."

@@ -12,6 +12,16 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: 'Silná výroba a nižší nezaměstnanost:'
+impact:
+  areas: [money, life]
+  line: >-
+    Pro každého, kdo čeká na levnější úvěr: silná ekonomika nejsou levné peníze.
+    Americká nezaměstnanost klesla na 4,1 % a průmysl rostl nejrychleji za víc
+    než čtyři roky, což dává centrální bance míň důvodů spěchat se snižováním
+    sazeb.
+  todo: >-
+    Sledujte příběh o diskontní sazbě, ne o růstu: jestli trh počítá s „vyššími
+    sazbami déle“, ukáže se to na výnosech krátkých státních dluhopisů.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/silna-vyroba-a-nizsi-nezamestnanost-kdy-rust-objednavek-zdra-analyza-336613

@@ -104,6 +104,44 @@ Nikdy si dobrou zprávu nevymýšlej a nikdy nenafukuj malý výsledek.
      ani tvrzení, které v článku není, se v BRIEFLY objevit nesmí.
      Tvar je ve FORMAT.md. U `type: news` a `type: analysis` je povinná.
 
+## 3b. BLOK `impact:` — CO Z TOHO PLYNE PRO CTENARE
+
+Rubrika „Co to znamena pro tebe" stoji na bloku `impact:` v hlavicce.
+Vypln ho **u kazdeho clanku, ktery napises**, a navic ho doplnn
+u **peti prevzatych clanku** ze `content/en/`, ktere ho jeste nemaji
+(a zrcadlove i do ceske verze, kdyz existuje).
+
+```yaml
+impact:
+  areas: [money, health, life, safety]   # jedno az tri, jen tyhle ctyri
+  line: "Jedna dve vety: co to konkretne meni a komu."
+  todo: "Jedna veta: co si ctenar muze overit, koho se zeptat, co sledovat."
+```
+
+Pravidla, ktera se neporusuji:
+
+  - Nikdy si dopad nevymysli. Kdyz pro ctenare v Evrope zprava nemeni nic,
+    napis to primo — „Denne se tim pro vas nemeni nic; podstatne je, ze…"
+    Prave tahle poctivost je smysl te rubriky.
+  - `line` nejvyse 45 slov, konkretne, bez „mohlo by potencialne".
+    Pojmenuj, koho se to tyka.
+  - `todo` nejvyse 30 slov a **nikdy** to neni lekarska, pravni ani
+    investicni rada. Je to: co si overit, koho se zeptat, kde jsou
+    oficialni informace, jake cislo sledovat.
+  - Kdyz to nejde napsat poctive, blok vynech. Prazdno je lepsi nez vata.
+
+## 3c. PREKLAD PREVZATYCH CLANKU DO CESTINY
+
+Ceska verze zaostava za anglickou. Kazdou smenu prelozit **az osm**
+prevzatych clanku z `content/en/`, ktere jeste nemaji cesky protejsek —
+ale **jen ty, u kterych to licence dovoluje**: v hlavicce musi byt
+`syndicated.may_translate: true`, nebo to musi byt nas vlastni text
+(`type: news|daily|demand|feature|analysis|imported`). U ostatnich se
+preklad NESMI porizovat, ani castecny.
+
+Pravidla prekladu jsou v oddilu 4b. Blok `syndicated` a `sources` nech
+byte po bytu stejny — nese licenci a autora.
+
 ## 4. KAM TO ULOŽIT
 
 Každý hotový článek jako samostatný soubor:

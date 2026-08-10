@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Meta removes Bangladeshi community archivists’ pages
+impact:
+  areas: [safety, life]
+  line: >-
+    Takhle může o stránku přijít každý, kdo ji na Facebooku spravuje:
+    vymyšlenými nároky na autorská práva podanými z jednorázových e-mailů. Meta
+    na jejich základě smazala stránky s 547 000 a 300 000 odběrateli a
+    automatické odvolání vrátilo jen část.
+  todo: >-
+    Nechte si vlastní kopii všeho, co publikujete jen na platformě; postup
+    odvolání i zprávy o transparentnosti má Meta na svých nápovědních stránkách.
 syndicated:
   source: Global Voices Advox
   author: Advox

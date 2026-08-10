@@ -10,6 +10,15 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Brazil opens investigation on Google over
+impact:
+  areas: [life, money]
+  line: >-
+    Pro vás jako čtenáře se dnes nemění nic, je to brazilský antimonopolní
+    případ. Zajímavý je tím, že se úřad pokusí vyčíslit, co shrnutí od AI berou
+    redakcím, které shrnují — číslo, které Google nikdy nezveřejnil.
+  todo: >-
+    Cade zveřejňuje svá rozhodnutí i spisy a vyjádření Googlu je veřejné. Termín
+    vyšetřování zatím stanovený není.
 syndicated:
   source: Global Voices Advox
   author: Advox

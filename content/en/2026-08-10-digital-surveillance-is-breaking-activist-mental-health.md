@@ -12,6 +12,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Digital surveillance is breaking activist mental
+impact:
+  areas: [health, safety]
+  line: >-
+    If you organise, report or campaign in a country that buys spyware, the
+    documented cost is not only your data. The UN rapporteur's study across 84
+    countries records depression, burnout and PTSD, and colleagues who stop
+    messaging anyone known to be infected.
+  todo: >-
+    The report and the accompanying Global Study come from the UN Special
+    Rapporteur on the rights to freedom of assembly and of association.
 syndicated:
   source: Global Voices Advox
   author: Gina Romero

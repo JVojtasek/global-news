@@ -13,6 +13,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Whose conservation, whose development? The Maasai
+impact:
+  areas: [life, money]
+  line: >-
+    If you book a safari in northern Tanzania, the land is contested: the
+    government proposed taking 1,500 square kilometres of village land in
+    Loliondo, and enforcing it in 2022 left people injured and arrested, a
+    police officer dead and a Maasai man missing.
+  todo: >-
+    IUCN sets out the conservation case; Maasai representatives and rights
+    groups dispute it. A tour operator can be asked whose land the camp stands
+    on.
 syndicated:
   source: Global Voices
   author: Peace News

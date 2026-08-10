@@ -13,6 +13,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Cocoa farmers in southeast Cameroon are
+impact:
+  areas: [money, life]
+  line: >-
+    From next year, every bar of chocolate sold in the EU must come from cocoa
+    traceable to a mapped, deforestation-free plot. The work of proving it falls
+    on smallholders in Cameroon, who are paid less than half the 2023 price.
+  todo: >-
+    The rule is the EU Deforestation Regulation (EUDR); the European Commission
+    publishes its scope and start date. A brand can be asked whether its cocoa
+    plots are geo-mapped.
 syndicated:
   source: Global Voices
   author: Leocadia Bongben

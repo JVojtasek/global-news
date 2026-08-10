@@ -12,6 +12,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'Reporting when the internet goes dark:'
+impact:
+  areas: [life, safety]
+  line: >-
+    If you travel to, or have family in, a country under unrest, the connection
+    can be switched off deliberately: Iran went almost fully dark in January
+    2026, and Kashmir had 552 days without reliable service.
+  todo: >-
+    Access Now's STOP dataset and NetBlocks track shutdowns as they happen; OONI
+    Probe is a free app that tests whether specific sites are blocked on your
+    network.
 syndicated:
   source: Global Voices Advox
   author: Advox

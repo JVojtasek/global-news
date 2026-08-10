@@ -13,6 +13,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Meta removes Bangladeshi community archivists’ pages
+impact:
+  areas: [safety, life]
+  line: >-
+    Anyone who runs a Facebook page can lose it this way: fabricated copyright
+    strikes filed from throwaway email addresses. Meta removed pages with
+    547,000 and 300,000 followers on such claims, and the automated appeal
+    restored only some of them.
+  todo: >-
+    Keep your own copy of anything you publish only on a platform; Meta's
+    copyright appeal route and its transparency reports are on its own help
+    pages.
 syndicated:
   source: Global Voices Advox
   author: Advox

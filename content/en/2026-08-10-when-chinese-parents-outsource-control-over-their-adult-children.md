@@ -12,6 +12,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: When Chinese parents outsource control over
+impact:
+  areas: [health, safety]
+  line: >-
+    Nothing here reaches a European household directly. It matters because of
+    how a label works: internet addiction is not in the ICD-11, yet in China it
+    was enough to have a legally independent adult confined by a private company
+    her family paid.
+  todo: >-
+    The ICD-11 is public and searchable; it is the reference that decides
+    whether a term is a recognised diagnosis at all.
 syndicated:
   source: Global Voices
   author: Lina Ma

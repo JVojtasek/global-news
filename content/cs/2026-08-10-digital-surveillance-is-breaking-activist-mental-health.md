@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Digital surveillance is breaking activist mental
+impact:
+  areas: [health, safety]
+  line: >-
+    Když organizujete, píšete nebo se angažujete v zemi, která nakupuje
+    špionážní software, doloženou cenou nejsou jen data. Studie zpravodajky OSN
+    z 84 zemí popisuje deprese, vyhoření a PTSD — a kolegy, kteří přestanou psát
+    komukoli, o kom se ví, že je nakažený.
+  todo: >-
+    Zprávu i doprovodnou globální studii vydala zvláštní zpravodajka OSN pro
+    právo na svobodu shromažďování a sdružování.
 syndicated:
   source: Global Voices Advox
   author: Gina Romero

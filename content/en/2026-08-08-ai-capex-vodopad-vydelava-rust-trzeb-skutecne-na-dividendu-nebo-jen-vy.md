@@ -13,6 +13,16 @@ date: '2026-08-08'
 status: published
 confidence: 100
 image_query: data centre servers racks
+impact:
+  areas: [money]
+  line: >-
+    Hyperscaler capital spending on AI is set to rise 90% this year, and the
+    bill is physical: cooling, backup power, electricity. For a dividend
+    investor, the payout is what is left after that spending, not a reward for
+    being in the trade.
+  todo: >-
+    Compare free cash flow with the dividend paid, and check whether the gap is
+    being closed with new debt; both are in the cash flow statement.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-capex-vodopad-vydelava-rust-trzeb-skutecne-na-dividendu-n-analyza-336314

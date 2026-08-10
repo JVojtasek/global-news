@@ -12,6 +12,16 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: 'Hormuz: proč nerozhoduje jen cena'
+impact:
+  areas: [money, life]
+  line: >-
+    Cesta, kterou se tohle dostane do domácnosti, vede přes palivo, dopravu a
+    účty navázané na energie — ne jen přes cenu ropy. Mezi barelem a stojanem
+    stojí pojištění, objížďky tankerů a rafinérské marže, a ty se hýbou první.
+  todo: >-
+    Sledujte, jestli je opravdu omezený fyzický tok, nebo roste jen riziková
+    prémie, a jestli ceny paliv rostou rychleji než ropa — ten rozdíl je crack
+    spread.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-proc-nerozhoduje-jen-cena-ropy-ale-i-fyzicky-tok-poji-analyza-336760

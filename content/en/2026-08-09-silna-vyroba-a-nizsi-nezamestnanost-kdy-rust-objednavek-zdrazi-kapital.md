@@ -13,6 +13,16 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: factory production line
+impact:
+  areas: [money, life]
+  line: >-
+    For anyone waiting on a cheaper loan: a strong economy is not cheap money.
+    US unemployment fell to 4.1% and manufacturing grew at its fastest pace in
+    over four years, which gives a central bank less reason to hurry with cuts.
+  todo: >-
+    Watch the discount rate story, not the growth story: whether the market is
+    pricing higher for longer, which shows in short-dated government bond
+    yields.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/silna-vyroba-a-nizsi-nezamestnanost-kdy-rust-objednavek-zdra-analyza-336613

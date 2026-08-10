@@ -13,6 +13,15 @@ date: '2026-08-08'
 status: published
 confidence: 100
 image_query: 'AI capex vodopád: vydělává růst'
+impact:
+  areas: [money]
+  line: >-
+    Investice hyperscalerů do AI mají letos vzrůst o 90 % a účet je fyzický:
+    chlazení, záložní napájení, elektřina. Pro dividendového investora je
+    výplata to, co po těch investicích zbude — ne odměna za to, že je u toho.
+  todo: >-
+    Porovnejte volný cash flow s vyplacenou dividendou a ověřte, jestli se
+    rozdíl nedorovnává novým dluhem; obojí je ve výkazu peněžních toků.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-capex-vodopad-vydelava-rust-trzeb-skutecne-na-dividendu-n-analyza-336314

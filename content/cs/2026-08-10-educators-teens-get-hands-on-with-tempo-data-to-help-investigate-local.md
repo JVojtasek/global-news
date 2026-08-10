@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Educators & Teens Get Hands-On With
+impact:
+  areas: [health, life]
+  line: >-
+    TEMPO měří znečištění nad Severní Amerikou, každou hodinu za denního světla
+    — Evropu tedy nepokrývá. Nové je, že data jsou zdarma a veřejná: TEMPO-Lab
+    dá měření kvality ovzduší téměř v reálném čase do prohlížeče komukoli,
+    včetně beta verze přízemního ozonu.
+  todo: >-
+    TEMPO-Lab najdete na projects.cosmicds.cfa.harvard.edu/tempo-lab; případové
+    studie na něm postavené pokrývají kouř z požárů, dopravní špičku, elektrárny
+    a zemědělství.
 syndicated:
   source: NASA
   author: the original author

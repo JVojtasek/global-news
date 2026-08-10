@@ -13,6 +13,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Brazil opens investigation on Google over
+impact:
+  areas: [life, money]
+  line: >-
+    Nothing changes for you as a reader today; this is a Brazilian competition
+    case. It matters because the regulator will try to put a number on what AI
+    summaries take from the newsrooms they summarise — a figure Google has never
+    disclosed.
+  todo: >-
+    Cade publishes its rulings and case files, and Google's response is on the
+    record. No deadline for the investigation has been set.
 syndicated:
   source: Global Voices Advox
   author: Advox

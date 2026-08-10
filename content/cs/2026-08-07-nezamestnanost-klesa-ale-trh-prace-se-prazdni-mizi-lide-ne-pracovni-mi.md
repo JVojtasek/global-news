@@ -11,6 +11,15 @@ date: '2026-08-07'
 status: published
 confidence: 100
 image_query: Nezaměstnanost klesá, ale trh práce
+impact:
+  areas: [money, life]
+  line: >-
+    Klesající nezaměstnanost může znamenat, že práci hledá míň lidí, ne že jich
+    víc pracuje. V USA v červenci ubylo 23 000 pracovních míst, míra klesla na
+    4,1 % a pracovní síla se zmenšila o 264 000 lidí.
+  todo: >-
+    Čtěte míru participace vedle hlavního čísla; stejnou dvojici zveřejňuje pro
+    vaši zemi i její statistický úřad.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nezamestnanost-klesa-ale-trh-prace-se-prazdni-mizi-lide-ne-p-analyza-335929

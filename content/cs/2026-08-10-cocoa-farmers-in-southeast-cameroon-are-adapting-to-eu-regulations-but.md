@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Cocoa farmers in southeast Cameroon are
+impact:
+  areas: [money, life]
+  line: >-
+    Od příštího roku musí každá tabulka čokolády prodaná v EU pocházet z kakaa,
+    které jde dohledat k zaměřenému pozemku bez odlesňování. Dokazování nesou
+    drobní pěstitelé v Kamerunu, kterým dnes platí míň než polovinu ceny z roku
+    2023.
+  todo: >-
+    Jde o nařízení EU o odlesňování (EUDR); rozsah a datum účinnosti zveřejňuje
+    Evropská komise. Značky se dá zeptat, jestli má u kakaa zaměřené pozemky.
 syndicated:
   source: Global Voices
   author: Leocadia Bongben

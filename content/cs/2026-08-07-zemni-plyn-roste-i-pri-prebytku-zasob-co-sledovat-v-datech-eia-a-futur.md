@@ -13,6 +13,17 @@ date: '2026-08-07'
 status: published
 confidence: 100
 image_query: Zemní plyn roste i při
+impact:
+  areas: [money]
+  line: >-
+    Tohle je americký trh s plynem: zásoby podle EIA, těžba, plyn mířící do LNG
+    terminálů, křivka futures. Přenositelné je jen to čtení — přebytek zásob a
+    rostoucí cena můžou platit naráz, protože trh oceňuje chybějící molekulu, ne
+    průměrnou.
+  todo: >-
+    Týdenní zpráva EIA o zásobách je veřejná; porovnejte stav s pětiletým
+    průměrem pro stejný týden a nejbližší kontrakt s kontraktem na příští topnou
+    sezonu.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zemni-plyn-roste-i-pri-prebytku-zasob-co-sledovat-v-datech-e-analyza-335927

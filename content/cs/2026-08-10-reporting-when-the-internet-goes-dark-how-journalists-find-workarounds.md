@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'Reporting when the internet goes dark:'
+impact:
+  areas: [life, safety]
+  line: >-
+    Když cestujete do země s nepokoji nebo tam máte rodinu, může být připojení
+    schválně vypnuté: Írán byl v lednu 2026 téměř úplně offline a Kašmír zůstal
+    552 dní bez spolehlivého signálu.
+  todo: >-
+    Výpadky sledují dataset STOP od Access Now a NetBlocks; OONI Probe je
+    bezplatná aplikace, která otestuje, jestli jsou konkrétní weby ve vaší síti
+    blokované.
 syndicated:
   source: Global Voices Advox
   author: Advox

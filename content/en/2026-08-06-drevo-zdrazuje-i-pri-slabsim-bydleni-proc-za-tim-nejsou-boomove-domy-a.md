@@ -14,6 +14,15 @@ date: '2026-08-06'
 status: published
 confidence: 100
 image_query: stacked timber at sawmill
+impact:
+  areas: [money, life]
+  line: >-
+    US sawmills, not a building boom: timber is rising while housing is weak
+    because mills have cut shifts. If you are pricing a renovation, a fence or a
+    roof, this is the reason a quiet market need not mean cheap material.
+  todo: >-
+    Check whether it is only prompt delivery getting dearer: compare the nearby
+    CME contract with later ones, and whether OSB and plywood are moving too.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/drevo-zdrazuje-i-pri-slabsim-bydleni-proc-za-tim-nejsou-boom-analyza-335127

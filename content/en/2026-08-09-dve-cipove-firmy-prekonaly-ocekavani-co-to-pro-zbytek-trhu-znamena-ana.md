@@ -13,6 +13,15 @@ date: '2026-08-09'
 status: published
 confidence: 100
 image_query: semiconductor wafer manufacturing
+impact:
+  areas: [money]
+  line: >-
+    Two semiconductor companies make up just under a third of South Korea's
+    Kospi. If you hold a broad index fund, broad can mean a concentrated bet on
+    a handful of names — the Kospi fell 3.9% while US indices waited.
+  todo: >-
+    Check your fund's factsheet for the weight of its ten largest holdings;
+    providers publish it monthly.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/dve-cipove-firmy-prekonaly-ocekavani-co-to-pro-zbytek-trhu-z-analyza-336611

@@ -13,6 +13,17 @@ confidence: 83
 event_id: ''
 series: ''
 image_query: empty chairs kitchen table
+impact:
+  areas: [life, health]
+  line: >-
+    If the same argument keeps coming back, the thing you name — money, chores,
+    lateness — is usually not the load-bearing one. And a relationship that has
+    gone quiet is not necessarily at peace: it can mean someone stopped raising
+    things.
+  todo: >-
+    The five whys came from Toyota and has serious critics — Alan J. Card argues
+    the fifth why is an arbitrary stopping point. Gottman's work is the standard
+    reference.
 sources:
 - name: Wikipedia — Five whys
   url: https://en.wikipedia.org/wiki/Five_whys

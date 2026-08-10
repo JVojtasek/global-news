@@ -14,7 +14,7 @@ import xml.sax.saxutils as sx
 import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import analyst, article, config, images, interests, members, quotes, reader
+from . import analyst, article, config, images, impact, interests, members, quotes, reader
 
 STRINGS = {
     "en": {
@@ -177,6 +177,17 @@ Write to {email}. We answer.""",
         "foryou_outside_help": "A newspaper that only ever agreed with you would be a mirror, not a newspaper. These are picked from everything else.",
         "foryou_health_note": "Health is a topic here, not advice. We report what research shows, name the source, and say what is still unknown. For anything about your own health, ask a doctor.",
         "picked": "Picked for you",
+        "imp_link": "What it means for you",
+        "imp_title": "What this means for you",
+        "imp_intro": "The news, turned into the only question that matters at your kitchen table: does this touch my money, my health, my everyday life or my safety — and what can I actually do about it?",
+        "imp_rail": "What it means for you",
+        "imp_more": "All practical impacts",
+        "imp_todo": "What you can do",
+        "imp_none": "Nothing here yet. A story appears here only once we can say honestly what it changes for a reader.",
+        "imp_areas": {"money": "Money", "health": "Health", "life": "Everyday life", "safety": "Safety"},
+        "imp_filter": "Show only",
+        "imp_all": "Everything",
+        "partners_title": "Worth reading",
         "archive_title": "Everything we have published",
         "archive_intro": "Every article, oldest kept as carefully as newest. Nothing here is ever quietly deleted — if we correct something, the correction stays visible on the piece itself.",
         "archive_search": "Search the archive…",
@@ -390,6 +401,17 @@ Pište na {email}. Odpovídáme.""",
         "foryou_outside_help": "Noviny, které by ti jen přitakávaly, jsou zrcadlo, ne noviny. Tohle je vybrané ze všeho ostatního.",
         "foryou_health_note": "Zdraví je tady téma, ne rada. Píšeme, co ukazuje výzkum, uvádíme zdroj a říkáme, co se zatím neví. Na cokoli ohledně svého zdraví se ptej lékaře.",
         "picked": "Vybráno pro tebe",
+        "imp_link": "Co to znamená pro tebe",
+        "imp_title": "Co to pro tebe znamená",
+        "imp_intro": "Zprávy převedené na jedinou otázku, která vás doopravdy zajímá u kuchyňského stolu: sáhne mi to na peníze, na zdraví, na běžný život nebo na bezpečí — a co s tím můžu udělat?",
+        "imp_rail": "Co to znamená pro tebe",
+        "imp_more": "Všechny praktické dopady",
+        "imp_todo": "Co s tím můžeš udělat",
+        "imp_none": "Zatím tu nic není. Zpráva se sem dostane, teprve když umíme poctivě říct, co konkrétně mění.",
+        "imp_areas": {"money": "Peníze", "health": "Zdraví", "life": "Běžný život", "safety": "Bezpečí"},
+        "imp_filter": "Zobrazit jen",
+        "imp_all": "Všechno",
+        "partners_title": "Stojí za přečtení",
         "archive_title": "Všechno, co jsme vydali",
         "archive_intro": "Každý článek, o ty starší se staráme stejně jako o nové. Nic tady potichu nemizí — když něco opravíme, oprava zůstane vidět přímo u textu.",
         "archive_search": "Hledat v archivu…",
@@ -517,6 +539,7 @@ def _view(meta: dict, body: str, path=None) -> dict:
         "band": reader.band(w["load"]),
         "topics_csv": ",".join(w["topics"]),
         "tags_csv": ",".join(interests.tags(meta, body)),
+        "impact": impact.read(meta, body),
         "published_iso": _published_iso(meta, path),
         "published_label": _published_label(meta, path, lang),
         "body_html": _html(body) if not layers else "",
@@ -760,6 +783,7 @@ def run() -> None:
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
             wit=quotes.wit(),
             interest_groups=interests.catalogue(),
+            partners=site.get("partners", []),
             brand_email=site["brand"].get("email", ""),
             today_label=_date_label(lang),
             nl_headline=(site.get("newsletter", {}).get(f"headline_{lang}")
@@ -813,6 +837,7 @@ def run() -> None:
                 })
         _write(out / lang / "index.html",
                env.get_template("index.html").render(
+                   impact_rail=[a for a in arts if a.get("impact")][:4],
                    briefing=briefing, lead=lead, articles=arts[1:9],
                    rows=rows, ticker=_ticker(site, lang),
                    thought=quotes.thought(), **common))
@@ -872,9 +897,18 @@ def run() -> None:
             "g": a.get("tags_csv", ""), "p": a.get("topics_csv", ""),
             "l": a.get("load", 0), "b": a.get("band", "mid"),
             "i": a.get("image") or "", "y": a.get("type", ""),
+            "im": (a.get("impact") or {}).get("line", ""),
+            "ia": ",".join((a.get("impact") or {}).get("areas", [])),
+            "it": (a.get("impact") or {}).get("todo", ""),
         } for a in arts]
         _write(out / lang / "articles.json",
                json.dumps(index, ensure_ascii=False, separators=(",", ":")))
+
+        # --- co to znamená pro tebe ------------------------------------
+        with_impact = [a for a in arts if a.get("impact")]
+        _write(out / lang / "impact" / "index.html",
+               env.get_template("impact.html").render(
+                   articles=with_impact, areas=impact.AREAS, **common))
 
         # --- osobní výběr ---------------------------------------------
         _write(out / lang / "foryou" / "index.html",

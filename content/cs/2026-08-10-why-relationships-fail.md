@@ -12,6 +12,17 @@ confidence: 83
 event_id: ''
 series: ''
 image_query: empty chairs kitchen table
+impact:
+  areas: [life, health]
+  line: >-
+    Když se stejná hádka vrací pořád dokola, věc, kterou pojmenujete — peníze,
+    domácnost, chození pozdě — obvykle není ta nosná. A vztah, ve kterém se
+    přestalo hádat, nemusí být v klidu: může to znamenat, že to někdo přestal
+    přinášet.
+  todo: >-
+    Metoda pěti proč pochází z Toyoty a má vážné kritiky — Alan J. Card tvrdí,
+    že páté „proč“ je libovolné místo, kde se člověk zastaví. Standardní
+    referencí je Gottman.
 sources:
 - name: Wikipedia — Five whys
   url: https://en.wikipedia.org/wiki/Five_whys

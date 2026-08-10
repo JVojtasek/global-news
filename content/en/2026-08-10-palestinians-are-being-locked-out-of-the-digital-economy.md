@@ -12,6 +12,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Palestinians are being locked out of
+impact:
+  areas: [money, life]
+  line: >-
+    For a reader in Europe this changes nothing day to day. It matters if you
+    hire or pay someone there: Palestinians in the West Bank and Gaza cannot use
+    PayPal, Gaza runs largely on 2G, and 81% of its telecoms network is
+    destroyed.
+  todo: >-
+    The figures come from the 7amleh report on access to digital economy
+    platforms and from the EU and UN rapid damage assessment published in April
+    2026.
 syndicated:
   source: Global Voices Advox
   author: Advox

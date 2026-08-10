@@ -12,6 +12,15 @@ date: '2026-08-07'
 status: published
 confidence: 100
 image_query: empty office desks
+impact:
+  areas: [money, life]
+  line: >-
+    A falling jobless rate can mean fewer people looking, not more people
+    working. In the US in July, payrolls fell by 23,000, the rate improved to
+    4.1%, and the labour force shrank by 264,000.
+  todo: >-
+    Read the participation rate next to the headline; the same pair is published
+    for your own country by its statistics office.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nezamestnanost-klesa-ale-trh-prace-se-prazdni-mizi-lide-ne-p-analyza-335929

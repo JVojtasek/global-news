@@ -36,6 +36,7 @@
     <nav class="sections">
       <a class="nav-you" href="{{ base }}/{{ lang }}/foryou/">{{ t.foryou }}</a>
       {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s[lang] or s.en }}</a>{% endfor %}
+      <a href="{{ base }}/{{ lang }}/impact/">{{ t.imp_link }}</a>
       <a href="{{ base }}/{{ lang }}/weather/">{{ t.weather_title }}</a>
     </nav>
   </div>
@@ -101,6 +102,16 @@
       <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/archive/">{{ t.archive_link }}</a> · <a href="{{ base }}/{{ lang }}/members/">{{ t.mem_link }}</a> · <a href="{{ base }}/{{ lang }}/privacy/">{{ t.privacy_link }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/republish/">{{ t.republish_offer }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
     </div>
     <div style="max-width:26rem">{{ t.footer_note }}</div>
+    {% if partners %}
+    <div class="partners">
+      <strong>{{ t.partners_title }}</strong>
+      <ul>
+        {% for p in partners %}
+        <li><a href="{{ p.url }}" rel="noopener">{{ p.name }}</a><span>{{ p[lang] or p.en }}</span></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
   </div>
 </footer>
 <script>

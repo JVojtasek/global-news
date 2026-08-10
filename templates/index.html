@@ -28,6 +28,25 @@
 </section>
 {% endif %}
 
+{% if impact_rail %}
+<section class="imprail">
+  <div class="wide">
+    <h2 class="rowhead">{{ t.imp_rail }}</h2>
+    <div class="imprail-grid">
+      {% for a in impact_rail %}
+      <article class="imprail-item" data-areas="{{ a.impact.areas|join(',') }}">
+        <div class="imp-areas">{% for ar in a.impact.areas %}<span class="imp-tag imp-{{ ar }}">{{ t.imp_areas[ar] }}</span>{% endfor %}</div>
+        <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+        <p class="imp-line">{{ a.impact.line }}</p>
+        {% if a.impact.todo %}<p class="imp-todo"><b>{{ t.imp_todo }}.</b> {{ a.impact.todo }}</p>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+    <p class="imprail-more"><a href="{{ base }}/{{ lang }}/impact/">{{ t.imp_more }} →</a></p>
+  </div>
+</section>
+{% endif %}
+
 <div class="wide withside">
   <div class="mainside">
 

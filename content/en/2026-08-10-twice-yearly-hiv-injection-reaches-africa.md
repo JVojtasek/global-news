@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 88
 image_query: 'clinic nurse preparing injection'
+impact:
+  areas: [health]
+  line: >-
+    This is a rollout in nine African countries, not a change to care in Europe:
+    lenacapavir prevents HIV with two injections a year, and 191,620 doses have
+    been delivered. The generic, at about USD 40 a year, reaches 120 countries
+    from 2027.
+  todo: >-
+    Availability is set by national programmes, not individuals; UNAIDS, the
+    Global Fund and the FDA publish rollout figures, approved use and the boxed
+    warning.
 sources:
 - name: 'aidsmap — Nearly 200,000 lenacapavir shots given across Africa (AIDS 2026)'
   url: https://www.aidsmap.com/news/jul-2026/nearly-200000-lenacapavir-shots-given-across-africa-supply-issues-pose-challenges

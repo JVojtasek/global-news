@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: AI cameras are surveilling the roads
+impact:
+  areas: [safety, money, life]
+  line: >-
+    Když v Dháce vlastníte auto, kamera podá případ na vás, ne na řidiče, a body
+    se strhnou z vašeho řidičáku. Podvodníci už majitelům volají a chtějí po
+    nich zaplatit vymyšlené pokuty.
+  todo: >-
+    Policie upozorňuje, že pokuty se platí jen oficiálním bankovním kanálem,
+    nikdy jednotlivci; součástí výzvy je video přestupku, které jde přehrát
+    online.
 syndicated:
   source: Global Voices Advox
   author: Advox

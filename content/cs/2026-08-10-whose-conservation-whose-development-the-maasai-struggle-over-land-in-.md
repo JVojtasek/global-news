@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Whose conservation, whose development? The Maasai
+impact:
+  areas: [life, money]
+  line: >-
+    Když si rezervujete safari v severní Tanzanii, půda pod ním je sporná: vláda
+    navrhla vyjmout 1 500 čtverečních kilometrů obecní půdy v Loliondu a pokus
+    prosadit to v roce 2022 skončil zraněnými, zatčenými, mrtvým policistou a
+    pohřešovaným Masajem.
+  todo: >-
+    Argumenty pro ochranu přírody shrnuje IUCN, zástupci Masajů a lidskoprávní
+    organizace je zpochybňují. Cestovky se dá zeptat, na čí půdě kemp stojí.
 syndicated:
   source: Global Voices
   author: Peace News

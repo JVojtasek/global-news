@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Palestinians are being locked out of
+impact:
+  areas: [money, life]
+  line: >-
+    Čtenáři v Evropě to na běžném dni nic nemění. Týká se vás to, když tam
+    někoho najímáte nebo mu platíte: Palestinci na Západním břehu a v Gaze
+    nemůžou používat PayPal, Gaza jede hlavně na 2G a 81 % její telekomunikační
+    sítě je zničeno.
+  todo: >-
+    Čísla jsou ze zprávy organizace 7amleh o přístupu k platformám digitální
+    ekonomiky a ze společného hodnocení škod EU a OSN z dubna 2026.
 syndicated:
   source: Global Voices Advox
   author: Advox

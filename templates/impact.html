@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}{{ t.imp_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.imp_intro }}{% endblock %}
+{% block body %}
+<div class="wide">
+  <h1 class="page-h1">{{ t.imp_title }}</h1>
+  <p class="dek">{{ t.imp_intro }}</p>
+
+  {% if articles %}
+  <div class="imp-filter" role="group">
+    <span class="imp-filter-label">{{ t.imp_filter }}</span>
+    <button type="button" class="imp-chip on" data-area="">{{ t.imp_all }}</button>
+    {% for a in areas %}<button type="button" class="imp-chip" data-area="{{ a }}">{{ t.imp_areas[a] }}</button>{% endfor %}
+  </div>
+
+  <ol class="imp-list">
+    {% for a in articles %}
+    <li class="imp-item" data-areas="{{ a.impact.areas|join(',') }}">
+      <div class="imp-areas">
+        {% for ar in a.impact.areas %}<span class="imp-tag imp-{{ ar }}">{{ t.imp_areas[ar] }}</span>{% endfor %}
+      </div>
+      <h2><a href="{{ a.url }}">{{ a.title }}</a></h2>
+      <p class="imp-line">{{ a.impact.line }}</p>
+      {% if a.impact.todo %}<p class="imp-todo"><b>{{ t.imp_todo }}.</b> {{ a.impact.todo }}</p>{% endif %}
+      <div class="imp-meta">{{ a.section_label }} · <time datetime="{{ a.published_iso }}">{{ a.date }}</time></div>
+    </li>
+    {% endfor %}
+  </ol>
+  {% else %}
+  <p class="dek">{{ t.imp_none }}</p>
+  {% endif %}
+</div>
+<script>
+(function(){
+  var chips = document.querySelectorAll(".imp-chip");
+  if(!chips.length) return;
+  chips.forEach(function(c){
+    c.addEventListener("click", function(){
+      var a = c.getAttribute("data-area");
+      chips.forEach(function(x){ x.classList.toggle("on", x === c); });
+      document.querySelectorAll(".imp-item").forEach(function(li){
+        li.hidden = !!a && (","+li.getAttribute("data-areas")+",").indexOf(","+a+",") < 0;
+      });
+    });
+  });
+})();
+</script>
+{% endblock %}

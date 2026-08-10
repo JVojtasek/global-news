@@ -13,6 +13,16 @@ date: '2026-08-06'
 status: published
 confidence: 100
 image_query: Dřevo zdražuje i při slabším
+impact:
+  areas: [money, life]
+  line: >-
+    Americké pily, ne stavební boom: dřevo zdražuje i při slabém bydlení proto,
+    že pily omezily směny. Když počítáte cenu rekonstrukce, plotu nebo střechy,
+    tohle je důvod, proč tichý trh nemusí znamenat levný materiál.
+  todo: >-
+    Ověřte, jestli zdražuje jen materiál k okamžitému dodání: porovnejte
+    nejbližší kontrakt na CME se vzdálenějšími a sledujte, jestli se hýbou i OSB
+    desky a překližka.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/drevo-zdrazuje-i-pri-slabsim-bydleni-proc-za-tim-nejsou-boom-analyza-335127
