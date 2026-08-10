@@ -1,0 +1,18 @@
+﻿V┼íechny t┼Öi ─Źl├ínky jsou hotov├ę a ulo┼żen├ę v `content/inbox/`. Souhrn pro p┼Öed├ín├ş:
+
+## Shrnut├ş rann├ş sm─Ťny
+
+**Naps├íno: 3 ─Źl├ínky** (maximum dle zad├ín├ş)
+
+1. **─îl├ínek dne** ÔÇö *Why Relationships Fail: It's Rarely the Reason You Think* (`relationships`, depth: scripture, confidence 83) ÔÇö postaveno na metod─Ť "five whys" a psychologii vztah┼» l├ísky-nen├ívisti z podklad┼». Jeden z podklad┼» (Fianna F├íil, irsk├í politick├í strana) se zadan├Żm t├ęmatem v┼»bec nesouvisel, tak┼że jsem ho nepou┼żil ÔÇö nech├íno bez fabrikace.
+
+2. **Zpravodajsk├Ż rozbor** ÔÇö *Israel Rejects Trump's 15-Point Gaza Plan, Netanyahu Says* (`world`, depth: scripture, confidence 84) ÔÇö vybr├íno jako nejv├Ż┼íe sk├│rovan├í zpr├íva (83 body, nejv├şc nez├ívisl├Żch zdroj┼» ze t┼Ö├ş shodn─Ť sk├│rovan├Żch). Vy┼Öadil jsem dva potenci├íln─Ť stranick├ę prvky ze zdroj┼» (jednostrannou citaci palestinsk├ęho politika prezentovanou jako "analytici" a nekorigovan├í obvin─Ťn├ş o "fragmentaci Gazy"), aby text z┼»stal nestrann├Ż.
+
+3. **Popt├ívkov├ę t├ęma** ÔÇö *Why Inflation Happens ÔÇö and Why Prices Almost Never Go Back Down* (`business`, depth: scripture, confidence 82) ÔÇö odpov├şd├í p┼Ö├şmo na v┼íech ┼íest zadan├Żch vyhled├ívac├şch ot├ízek hned v prvn├şm odstavci.
+
+**Co v zad├ín├ş ned├ívalo ├║pln─Ť smysl:**
+- U `daily_assignment` byl mezi t┼Öemi podklady jeden zcela nerelevantn├ş (irsk├í strana Fianna F├íil) ÔÇö nepou┼żil jsem ho.
+- `FORMAT.md` uv├íd├ş `section: relationships` mimo sv┼»j vlastn├ş v├Ż─Źet povolen├Żch rubrik (world|business|tech|...) ÔÇö ponechal jsem `relationships`, jak zad├ív├í brief.json, ale st├ílo by za to sjednotit taxonomii.
+- `FORMAT.md` u pole `status` p├ş┼íe "NEM─Ü┼ç ru─Źn─Ť", zat├şmco instrukce k dne┼ín├ş sm─Ťn─Ť v├Żslovn─Ť ┼ż├ídaj├ş nastavit `status: review/published` podle confidence ÔÇö ┼Ö├şdil jsem se konkr├ętn├ş instrukc├ş pro tuto sm─Ťnu.
+
+V┼íechny t┼Öi maj├ş confidence Ôëą 82, tak┼że `status: published`. ┼Ż├ídn├ę jin├ę soubory v repozit├í┼Öi nebyly m─Ťn─Ťny.

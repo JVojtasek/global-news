@@ -67,6 +67,23 @@ Každý hotový článek jako samostatný soubor:
 **Nesahej na žádné jiné soubory v repozitáři.** Nic nepřepisuj, nemaž,
 needituj kód ani nastavení. Tvoje jediná práce je psát články do inboxu.
 
+
+## 4b. PREKLAD DO CESTINY
+
+Kdyz jsi napsal clanky, prelozit je do cestiny. Pro kazdy clanek, ktery
+jsi ulozil do content/inbox/, vytvor cesky protejsek:
+
+  content/cs/RRRR-MM-DD-stejny-nazev.md
+
+Pravidla prekladu:
+  - prekladej smysl, ne slova; vysledek musi znit, jako by to tak bylo napsane
+  - biblicke citace prelozi podle beznego ceskeho uzu (styl Ceskeho studijniho prekladu)
+  - vlastni jmena v ceske podobe (Joshua -> Jozue, Nineveh -> Ninive)
+  - hlavicku zachovej, jen prelozi `title` a `dek` a zmen `lang` na `cs`
+  - nadpisy sekci (## FACTS atd.) NEPREKLADEJ, nech je anglicky
+  - nic nepridavej, nic nevynechavej
+
+Cesky preklad uloz rovnou do content/cs/, ne do inboxu.
 ## 5. ABSOLUTNÍ ZÁKAZY
 
   - tvrdit, že konkrétní událost naplňuje proroctví

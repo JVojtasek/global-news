@@ -3,6 +3,8 @@
 name: "3 · Publikace webu"
 
 on:
+  schedule:
+    - cron: "25 */2 * * *"      # kazde 2 hodiny, aby web nikdy nezustal pozadu
   push:
     branches: [main]
     paths: ["content/**", "templates/**", "static/**", "data/**", "engine/**"]

@@ -46,7 +46,7 @@ foreach ($f in $nove) { Zapis ("  - " + $f.Name) }
 
 # 4) odeslat na GitHub
 Zapis "Odesilam na GitHub..."
-git add content/inbox 2>&1 | Out-Null
+git add content/inbox content/cs 2>&1 | Out-Null
 git -c user.email="redakce@users.noreply.github.com" -c user.name="redakce" commit -qm "[bot] redakce dodala $($nove.Count) clanku" 2>&1 | Out-Null
 git pull --rebase --autostash -q origin main 2>&1 | Out-Null
 $push = git push origin main 2>&1
