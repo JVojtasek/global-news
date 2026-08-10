@@ -229,8 +229,9 @@ async function wxAir(p, daily){
   box.innerHTML = bits.join("");
 }
 
-async function wxShow(p){
-  document.getElementById("wx-hint").style.display = "none";
+async function wxShow(p, isDefault){
+  // u výchozího města necháme nápovědu svítit, ať je jasné, že se dá změnit
+  document.getElementById("wx-hint").style.display = isDefault ? "" : "none";
   const out = document.getElementById("wx-out");
   out.innerHTML = "<p class='wx-hint'>…</p>";
   try{
@@ -352,9 +353,14 @@ async function wxMapTo(lat, lon, label){
   if(!RV.frames.length) await wxRadarLoad();
 }
 
+// Než si čtenář vybere svoje místo, ukážeme něco rozumného — prázdná
+// stránka s hláškou „vyber si město" je zbytečně nepříjemná.
+const WX_DEFAULT = {{ weather_default|safe }};
+
 (function(){
   const p = wxLoad();
-  if(p){ wxShow(p); } else { try{ wxMapTo(50.08, 14.44, ""); }catch(e){} }
+  if(p){ wxShow(p); }
+  else { wxShow(WX_DEFAULT, true); }
 })();
 </script>
 {% endblock %}

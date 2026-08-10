@@ -660,8 +660,12 @@ def run() -> None:
                            email=site["brand"]["email"])), **common))
 
         # --- počasí ---
+        # výchozí místo, dokud si čtenář nevybere svoje
+        wx_default = {"cs": {"name": "Praha", "country": "", "admin": "", "lat": 50.08, "lon": 14.44}}.get(
+            lang, {"name": "London", "country": "", "admin": "", "lat": 51.51, "lon": -0.13})
         _write(out / lang / "weather" / "index.html",
-               env.get_template("weather.html").render(**common))
+               env.get_template("weather.html").render(
+                   weather_default=json.dumps(wx_default, ensure_ascii=False), **common))
 
         # --- seznam všech článků pro prohlížeč ------------------------
         # Web nemá server ani databázi, takže osobní výběr musí sestavit
