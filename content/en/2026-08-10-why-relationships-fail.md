@@ -1,7 +1,8 @@
 ---
 slug: why-relationships-fail
-title: "Why Relationships Fail: It's Rarely the Reason You Think"
-dek: "The complaint that ends a relationship is almost never the reason it ended — here's how to find the one underneath it."
+title: 'Why Relationships Fail: It''s Rarely the Reason You Think'
+dek: The complaint that ends a relationship is almost never the reason it ended —
+  here's how to find the one underneath it.
 section: relationships
 type: feature
 depth: scripture
@@ -9,14 +10,14 @@ lang: en
 date: 2026-08-10
 status: published
 confidence: 83
-event_id: ""
-series: ""
-image_query: "empty chairs kitchen table"
+event_id: ''
+series: ''
+image_query: empty chairs kitchen table
 sources:
-  - name: "Wikipedia — Five whys"
-    url: "https://en.wikipedia.org/wiki/Five_whys"
-  - name: "Wikipedia — Love–hate relationship"
-    url: "https://en.wikipedia.org/wiki/Love–hate_relationship"
+- name: Wikipedia — Five whys
+  url: https://en.wikipedia.org/wiki/Five_whys
+- name: Wikipedia — Love–hate relationship
+  url: https://en.wikipedia.org/wiki/Love–hate_relationship
 ---
 
 ## FACTS

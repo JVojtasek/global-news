@@ -1,7 +1,8 @@
 ---
 slug: why-inflation-happens
-title: "Why Inflation Happens — and Why Prices Almost Never Go Back Down"
-dek: "Inflation isn't one thing with one cause — here's the actual mechanism, why a slower rate doesn't mean cheaper prices, and why economists want some of it."
+title: Why Inflation Happens — and Why Prices Almost Never Go Back Down
+dek: Inflation isn't one thing with one cause — here's the actual mechanism, why a
+  slower rate doesn't mean cheaper prices, and why economists want some of it.
 section: business
 type: feature
 depth: scripture
@@ -9,9 +10,9 @@ lang: en
 date: 2026-08-10
 status: published
 confidence: 82
-event_id: ""
-series: ""
-image_query: "grocery receipt shopping cart"
+event_id: ''
+series: ''
+image_query: grocery receipt shopping cart
 sources: []
 ---
 

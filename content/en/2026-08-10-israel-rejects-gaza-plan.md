@@ -1,7 +1,9 @@
 ---
 slug: israel-rejects-gaza-plan
-title: "Israel Rejects Trump's 15-Point Gaza Plan, Netanyahu Says"
-dek: "Netanyahu says Israeli forces will not leave Gaza until Hamas is disarmed, breaking publicly with a US-backed peace plan just over a week after Washington called a deal with Hamas 'historic.'"
+title: Israel Rejects Trump's 15-Point Gaza Plan, Netanyahu Says
+dek: Netanyahu says Israeli forces will not leave Gaza until Hamas is disarmed, breaking
+  publicly with a US-backed peace plan just over a week after Washington called a
+  deal with Hamas 'historic.'
 section: world
 type: news
 depth: scripture
@@ -9,18 +11,18 @@ lang: en
 date: 2026-08-10
 status: published
 confidence: 84
-event_id: "6e0f12b732f6"
-series: ""
-image_query: "military vehicle border checkpoint"
+event_id: 6e0f12b732f6
+series: ''
+image_query: military vehicle border checkpoint
 sources:
-  - name: "BBC World"
-    url: "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
-  - name: "The Guardian World"
-    url: "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu"
-  - name: "NPR News"
-    url: "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas"
-  - name: "Al Jazeera"
-    url: "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
+- name: BBC World
+  url: https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss
+- name: The Guardian World
+  url: https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu
+- name: NPR News
+  url: https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas
+- name: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss
 ---
 
 ## FACTS
