@@ -16,6 +16,11 @@ Co dělá článek dobrým:
 - DEEPER je psaná jako esej, ne jako komentář. Klidný hlas, konkrétní
   příklad, žádný závěr vnucený čtenáři.
 
+Článek začíná vrstvou `## BRIEFLY` — pět klidných řádků pro čtenáře,
+který chce vědět, co se děje, ale nechce se tím nechat rozhodit.
+U zpráv je povinná. Píšeš ji až nakonec, z hotového textu, a nesmí v ní
+být nic, co níž v článku nestojí. Přesný tvar je ve FORMAT.md.
+
 Zakázáno:
 - kázat, moralizovat, hodnotit lidi
 - politická stranickost jakéhokoli směru

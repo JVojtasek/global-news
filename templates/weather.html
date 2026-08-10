@@ -15,13 +15,32 @@
   cursor:pointer;font-size:.92rem;background:var(--card)}
 .wx-hits li:hover{border-color:var(--accent);color:var(--accent)}
 .wx-now{display:grid;grid-template-columns:auto 1fr;gap:1.4rem;align-items:center;
-  background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1.4rem 1.5rem;margin:1.4rem 0}
+  background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1.4rem 1.5rem;margin:1.4rem 0 .8rem}
 .wx-temp{font-size:3.4rem;line-height:1;font-weight:700;letter-spacing:-.03em}
 .wx-place{font-size:1.15rem;font-weight:600;margin-bottom:.2rem}
 .wx-desc{color:var(--ink-soft)}
 .wx-meta{display:flex;gap:1.4rem;flex-wrap:wrap;margin-top:.7rem;
   font-family:ui-sans-serif,system-ui,sans-serif;font-size:.82rem;color:var(--ink-soft)}
-.wx-days{display:grid;grid-template-columns:repeat(auto-fit,minmax(6.5rem,1fr));gap:.6rem;margin:1.2rem 0 2rem}
+
+/* proužek nejbližších dvou hodin — tohle je to, co jiné weby nemají */
+.wx-cast{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);
+  border-radius:10px;padding:.9rem 1.1rem;margin:.8rem 0 1.2rem}
+.wx-cast b{font-size:1.02rem}
+.wx-bars{display:flex;align-items:flex-end;gap:2px;height:2.6rem;margin-top:.6rem}
+.wx-bars i{flex:1;background:var(--line);border-radius:2px 2px 0 0;min-height:2px;display:block}
+.wx-bars i.on{background:var(--accent)}
+.wx-scale{display:flex;justify-content:space-between;font-size:.7rem;color:var(--ink-soft);
+  font-family:ui-sans-serif,system-ui,sans-serif;margin-top:.3rem}
+
+.wx-hours{display:flex;gap:.45rem;overflow-x:auto;padding-bottom:.5rem;margin:.4rem 0 1.4rem}
+.wx-hour{flex:0 0 auto;width:3.6rem;text-align:center;background:var(--card);
+  border:1px solid var(--line);border-radius:9px;padding:.5rem .2rem}
+.wx-hour b{display:block;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.7rem;
+  color:var(--ink-soft);letter-spacing:.05em;margin-bottom:.3rem}
+.wx-hour .tt{font-size:1rem;font-weight:600}
+.wx-hour .pp{font-size:.68rem;color:var(--accent);font-family:ui-sans-serif,system-ui,sans-serif}
+
+.wx-days{display:grid;grid-template-columns:repeat(auto-fit,minmax(6.5rem,1fr));gap:.6rem;margin:1.2rem 0 1.6rem}
 .wx-day{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem .5rem;text-align:center}
 .wx-day b{display:block;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;
   letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:.4rem}
@@ -29,9 +48,24 @@
 .wx-day .lo{color:var(--ink-soft);font-size:.92rem}
 .wx-day .rain{font-size:.75rem;color:var(--accent);margin-top:.25rem;
   font-family:ui-sans-serif,system-ui,sans-serif}
+
+.wx-strip{display:flex;gap:.6rem;flex-wrap:wrap;margin:0 0 1.6rem}
+.wx-chip{background:var(--card);border:1px solid var(--line);border-radius:9px;
+  padding:.55rem .9rem;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.82rem}
+.wx-chip s{display:block;text-decoration:none;color:var(--ink-soft);font-size:.7rem;
+  letter-spacing:.07em;text-transform:uppercase}
+
 #wx-map{height:26rem;border-radius:12px;border:1px solid var(--line);margin:.6rem 0 .5rem}
+.wx-ctl{display:flex;align-items:center;gap:.8rem;margin:.2rem 0 .5rem;flex-wrap:wrap}
+.wx-ctl button{border:1px solid var(--line);background:var(--card);color:var(--ink);
+  border-radius:8px;padding:.4rem .9rem;cursor:pointer;font:inherit;font-size:.85rem}
+.wx-ctl input[type=range]{flex:1;min-width:12rem;accent-color:var(--accent)}
+.wx-stamp{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.85rem;font-weight:600;
+  min-width:7.5rem;text-align:right}
+.wx-stamp.fut{color:var(--accent)}
 .wx-note{font-size:.78rem;color:var(--ink-soft);font-family:ui-sans-serif,system-ui,sans-serif}
 .wx-hint{color:var(--ink-soft);font-size:.9rem}
+h2.wx-h{margin-top:2rem;font-size:1.25rem}
 </style>
 {% endblock %}
 {% block body %}
@@ -49,7 +83,12 @@
 
   <div id="wx-out"></div>
 
-  <h2 style="margin-top:2.2rem">{{ t.weather_radar }}</h2>
+  <h2 class="wx-h">{{ t.weather_radar }}</h2>
+  <div class="wx-ctl">
+    <button id="wx-play" onclick="wxToggle()">▶ {{ t.weather_play }}</button>
+    <input type="range" id="wx-slider" min="0" max="0" value="0" oninput="wxFrame(+this.value, true)">
+    <span class="wx-stamp" id="wx-stamp">—</span>
+  </div>
   <div id="wx-map"></div>
   <p class="wx-note">{{ t.weather_credit }}</p>
 </div></article>
@@ -60,12 +99,22 @@ const WXT = {
   days: {{ t.weather_days|safe }},
   codes: {{ t.weather_codes|safe }},
   feels: "{{ t.weather_feels }}", wind: "{{ t.weather_wind }}",
-  hum: "{{ t.weather_hum }}", rainc: "{{ t.weather_rainc }}"
+  hum: "{{ t.weather_hum }}", rainc: "{{ t.weather_rainc }}",
+  now: "{{ t.weather_now }}", play: "{{ t.weather_play }}", pause: "{{ t.weather_pause }}",
+  dry: "{{ t.weather_nowcast_dry }}", start: "{{ t.weather_nowcast_start }}",
+  stop: "{{ t.weather_nowcast_stop }}", raining: "{{ t.weather_nowcast_now }}",
+  hours: "{{ t.weather_hours }}", best: "{{ t.weather_best }}",
+  bestTxt: "{{ t.weather_best_txt }}", bestNone: "{{ t.weather_best_none }}",
+  air: "{{ t.weather_air }}", aqi: "{{ t.weather_aqi }}", pollen: "{{ t.weather_pollen }}",
+  uv: "{{ t.weather_uv }}", sun: "{{ t.weather_sun }}",
+  aqiLabels: {{ t.weather_aqi_labels|safe }},
+  low: "{{ t.weather_low }}", med: "{{ t.weather_med }}", high: "{{ t.weather_high }}"
 };
-let wxMap, wxRadar, wxMarker;
+let wxMap, wxMarker;
 
 function wxSave(p){ try{ localStorage.setItem("tds-wx", JSON.stringify(p)); }catch(e){} }
 function wxLoad(){ try{ return JSON.parse(localStorage.getItem("tds-wx")||"null"); }catch(e){ return null; } }
+function hhmm(d){ return String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0"); }
 
 async function wxSearch(){
   const q = document.getElementById("wx-q").value.trim();
@@ -91,13 +140,93 @@ function wxHere(){
   if(!navigator.geolocation) return;
   navigator.geolocation.getCurrentPosition(async pos=>{
     const {latitude:lat, longitude:lon} = pos.coords;
-    let name = "";
-    try{
-      const r = await fetch(`https://geocoding-api.open-meteo.com/v1/search?count=1&language={{ lang }}&name=&latitude=${lat}&longitude=${lon}`);
-    }catch(e){}
-    const p = {name: name || "📍", country:"", admin:"", lat, lon};
+    // Schválně tu není žádná služba, která by ze souřadnic udělala název
+    // města. Znamenalo by to poslat tvoji přesnou polohu někomu třetímu
+    // jen kvůli popisku. Předpověď si Open-Meteo vezme ze souřadnic sama.
+    const p = {name: "{{ t.weather_here }}", country:"", admin:"", lat, lon};
     wxSave(p); wxShow(p);
   });
+}
+
+/* ---------- nejbližší dvě hodiny po čtvrthodinách ---------------------
+   Tohle je ta věc, kvůli které se člověk vrací: neříkáme „dnes déšť",
+   ale „déšť začne asi za 35 minut". Open-Meteo to dává zdarma. */
+function wxNowcast(m){
+  if(!m || !m.time) return "";
+  const now = Date.now();
+  const rows = m.time.map((t,i)=>({t:new Date(t).getTime(), p:m.precipitation[i]||0}))
+                     .filter(r=>r.t >= now - 15*60000).slice(0, 8);
+  if(!rows.length) return "";
+  const wet = rows.map(r=>r.p > 0.05);
+  let head;
+  if(wet[0]){
+    const off = wet.indexOf(false);
+    head = off < 0 ? WXT.raining
+         : WXT.stop.replace("%d", Math.max(5, Math.round((rows[off].t-now)/60000)));
+  } else {
+    const off = wet.indexOf(true);
+    head = off < 0 ? WXT.dry
+         : WXT.start.replace("%d", Math.max(5, Math.round((rows[off].t-now)/60000)));
+  }
+  const mx = Math.max(0.4, ...rows.map(r=>r.p));
+  const bars = rows.map(r=>
+    `<i class="${r.p>0.05?"on":""}" style="height:${Math.max(4, Math.round(r.p/mx*100))}%"></i>`).join("");
+  return `<div class="wx-cast"><b>${head}</b>
+    <div class="wx-bars">${bars}</div>
+    <div class="wx-scale"><span>${WXT.now}</span><span>+2 h</span></div></div>`;
+}
+
+/* ---------- nejlepší okno dne ---------------------------------------
+   Praktická odpověď na otázku, kterou lidé opravdu mají: kdy jít ven,
+   kdy pověsit prádlo, kdy vyjet na kole. */
+function wxBest(h){
+  const now = new Date(), out = [];
+  for(let i=0;i<h.time.length;i++){
+    const d = new Date(h.time[i]);
+    if(d < now || d.getDate() !== now.getDate()) continue;
+    if(d.getHours() < 6 || d.getHours() > 21) continue;
+    out.push({i, d, score:(h.precipitation_probability[i]||0)*1.6 + (h.wind_speed_10m[i]||0)*0.7
+                        + Math.abs((h.temperature_2m[i]||18) - 20)*1.1});
+  }
+  if(out.length < 3) return "";
+  let bi = 0, bs = 1e9;
+  for(let k=0;k+2<out.length;k++){
+    const s = out[k].score + out[k+1].score + out[k+2].score;
+    if(s < bs){ bs = s; bi = k; }
+  }
+  const worst = Math.max(...out.map(o=>o.score));
+  const txt = (worst - bs/3 < 6)
+    ? WXT.bestNone
+    : WXT.bestTxt.replace("%s", hhmm(out[bi].d)).replace("%s", hhmm(new Date(out[bi+2].d.getTime()+3600000)));
+  return `<div class="wx-chip" style="flex:1"><s>${WXT.best}</s>${txt}</div>`;
+}
+
+function wxLevel(v, a, b){ return v < a ? WXT.low : (v < b ? WXT.med : WXT.high); }
+
+async function wxAir(p, daily){
+  const box = document.getElementById("wx-air");
+  if(!box) return;
+  const bits = [];
+  if(daily && daily.sunrise){
+    bits.push(`<div class="wx-chip"><s>${WXT.sun}</s>${daily.sunrise[0].slice(11,16)} – ${daily.sunset[0].slice(11,16)}</div>`);
+  }
+  if(daily && daily.uv_index_max){
+    bits.push(`<div class="wx-chip"><s>${WXT.uv}</s>${Math.round(daily.uv_index_max[0])}</div>`);
+  }
+  try{
+    const u = `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${p.lat}&longitude=${p.lon}`+
+      `&current=european_aqi,pm2_5,alder_pollen,birch_pollen,grass_pollen,ragweed_pollen&timezone=auto`;
+    const c = (await (await fetch(u)).json()).current || {};
+    if(c.european_aqi != null){
+      const idx = Math.min(5, Math.floor(c.european_aqi/20));
+      bits.push(`<div class="wx-chip"><s>${WXT.aqi}</s>${WXT.aqiLabels[idx]} · PM2.5 ${Math.round(c.pm2_5||0)}</div>`);
+    }
+    const pol = Math.max(c.alder_pollen||0, c.birch_pollen||0, c.grass_pollen||0, c.ragweed_pollen||0);
+    if(pol > 0){
+      bits.push(`<div class="wx-chip"><s>${WXT.pollen}</s>${wxLevel(pol, 10, 50)}</div>`);
+    }
+  }catch(e){}
+  box.innerHTML = bits.join("");
 }
 
 async function wxShow(p){
@@ -107,10 +236,12 @@ async function wxShow(p){
   try{
     const u = `https://api.open-meteo.com/v1/forecast?latitude=${p.lat}&longitude=${p.lon}`+
       `&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m`+
-      `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max`+
+      `&minutely_15=precipitation&forecast_minutely_15=12`+
+      `&hourly=temperature_2m,precipitation_probability,weather_code,wind_speed_10m&forecast_hours=24`+
+      `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,sunrise,sunset,uv_index_max`+
       `&timezone=auto&forecast_days=7`;
     const j = await (await fetch(u)).json();
-    const c = j.current, d = j.daily;
+    const c = j.current, d = j.daily, h = j.hourly;
     const place = [p.name, p.admin, p.country].filter(Boolean).join(", ");
     out.innerHTML = `
       <div class="wx-now">
@@ -125,6 +256,16 @@ async function wxShow(p){
           </div>
         </div>
       </div>
+      ${wxNowcast(j.minutely_15)}
+      <h2 class="wx-h">${WXT.hours}</h2>
+      <div class="wx-hours">${h.time.map((t,i)=>{
+        const dt = new Date(t);
+        return `<div class="wx-hour"><b>${String(dt.getHours()).padStart(2,"0")}</b>
+          <div class="tt">${Math.round(h.temperature_2m[i])}°</div>
+          <div class="pp">${h.precipitation_probability[i]>10 ? h.precipitation_probability[i]+"%" : "&nbsp;"}</div>
+        </div>`;}).join("")}</div>
+      <div class="wx-strip" id="wx-air"></div>
+      ${wxBest(h)}
       <div class="wx-days">${d.time.map((t,i)=>{
         const dt = new Date(t+"T12:00:00");
         return `<div class="wx-day"><b>${WXT.days[dt.getDay()]}</b>
@@ -132,16 +273,72 @@ async function wxShow(p){
           <div class="lo">${Math.round(d.temperature_2m_min[i])}°</div>
           ${d.precipitation_probability_max[i]>15 ? `<div class="rain">${WXT.rainc} ${d.precipitation_probability_max[i]}%</div>`:""}
         </div>`;}).join("")}</div>`;
+    wxAir(p, d);
     try{ wxMapTo(p.lat, p.lon, place); }catch(e){}
   }catch(e){ out.innerHTML = "<p class='wx-hint'>—</p>"; }
+}
+
+/* ---------- radar s časovým posuvníkem -------------------------------
+   RainViewer dává zdarma dvě hodiny zpět a půl hodiny dopředu.
+   Ze zpětných snímků je vidět, odkud bouřka jde; z předpovědních,
+   kdy dorazí. */
+let RV = {host:"", frames:[], layers:{}, i:0, timer:null};
+
+function wxFrame(i, manual){
+  if(!RV.frames.length || !wxMap) return;
+  if(manual && RV.timer) wxToggle();
+  RV.i = Math.max(0, Math.min(RV.frames.length-1, i));
+  const f = RV.frames[RV.i];
+  if(!RV.layers[RV.i]){
+    RV.layers[RV.i] = L.tileLayer(`${RV.host}${f.path}/256/{z}/{x}/{y}/2/1_1.png`,
+      {opacity:0, zIndex:5}).addTo(wxMap);
+  }
+  Object.keys(RV.layers).forEach(k => RV.layers[k].setOpacity(+k === RV.i ? .68 : 0));
+  const d = new Date(f.time*1000);
+  const st = document.getElementById("wx-stamp");
+  st.textContent = (f.future ? "+ " : "") + hhmm(d);
+  st.className = "wx-stamp" + (f.future ? " fut" : "");
+  document.getElementById("wx-slider").value = RV.i;
+  // přednačti další snímek, ať přehrávání neseká
+  const n = RV.i + 1;
+  if(RV.frames[n] && !RV.layers[n]){
+    RV.layers[n] = L.tileLayer(`${RV.host}${RV.frames[n].path}/256/{z}/{x}/{y}/2/1_1.png`,
+      {opacity:0, zIndex:5}).addTo(wxMap);
+  }
+}
+function wxToggle(){
+  const b = document.getElementById("wx-play");
+  if(RV.timer){ clearInterval(RV.timer); RV.timer = null; b.textContent = "▶ " + WXT.play; return; }
+  b.textContent = "❚❚ " + WXT.pause;
+  RV.timer = setInterval(()=>{
+    let n = RV.i + 1;
+    if(n >= RV.frames.length) n = 0;
+    wxFrame(n, false);
+  }, 620);
+}
+
+async function wxRadarLoad(){
+  try{
+    const rv = await (await fetch("https://api.rainviewer.com/public/weather-maps.json")).json();
+    RV.host = rv.host;
+    RV.frames = (rv.radar.past || []).map(f => ({...f, future:false}))
+      .concat((rv.radar.nowcast || []).map(f => ({...f, future:true})));
+    Object.values(RV.layers).forEach(l => wxMap.removeLayer(l));
+    RV.layers = {};
+    const slider = document.getElementById("wx-slider");
+    slider.max = RV.frames.length - 1;
+    const lastPast = Math.max(0, (rv.radar.past || []).length - 1);
+    wxFrame(lastPast, false);
+  }catch(e){}
 }
 
 async function wxMapTo(lat, lon, label){
   // když se mapová knihovna nenačte (blokovaná reklamou, firemní sítí),
   // nesmí to shodit předpověď — ta je důležitější
   if(typeof L === "undefined"){
-    var el = document.getElementById("wx-map");
-    if(el){ el.style.display = "none"; }
+    ["wx-map","wx-play","wx-slider","wx-stamp"].forEach(id=>{
+      const el = document.getElementById(id); if(el) el.style.display = "none";
+    });
     return;
   }
   if(!wxMap){
@@ -152,12 +349,7 @@ async function wxMapTo(lat, lon, label){
   if(wxMarker) wxMap.removeLayer(wxMarker);
   wxMarker = L.circleMarker([lat,lon], {radius:6, color:"#c0483a", fillOpacity:.9}).addTo(wxMap);
   if(label) wxMarker.bindTooltip(label);
-  try{
-    const rv = await (await fetch("https://api.rainviewer.com/public/weather-maps.json")).json();
-    const last = rv.radar.past[rv.radar.past.length-1];
-    if(wxRadar) wxMap.removeLayer(wxRadar);
-    wxRadar = L.tileLayer(`${rv.host}${last.path}/256/{z}/{x}/{y}/2/1_1.png`, {opacity:.6}).addTo(wxMap);
-  }catch(e){}
+  if(!RV.frames.length) await wxRadarLoad();
 }
 
 (function(){

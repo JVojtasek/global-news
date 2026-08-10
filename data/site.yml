@@ -65,6 +65,8 @@ editorial:
       - wonder
       - ai
       - safety
+      - soul
+      - goodnews
     min_words: 1100
     max_words: 1900
 
@@ -77,7 +79,7 @@ editorial:
   depth_ratio: 0.3
 
   # Rubriky, kde je biblická vrstva vždy (tam ji čtenář čeká)
-  depth_always: [history, questions, meaning]
+  depth_always: [history, questions, meaning, soul]
 
   # Rubriky, kde biblická vrstva NIKDY nebude (bylo by to trapné)
   depth_never: [sport, food, motoring, travel, safety, ai]
@@ -107,16 +109,26 @@ sections:
   - {id: wonder,    en: "Wonder",         cs: "Žasneme",      primary: true}
   - {id: ai,        en: "AI & Robotics",  cs: "AI a robotika", primary: true}
   - {id: safety,    en: "Stay Safe",      cs: "Bezpečně",      primary: true}
+  # Soul = duchovní vzdělávání a smysl života. Není to kázání a není to
+  # rubrika o náboženství: je to místo, kde se ptáme na věci, na které
+  # zpravodajství nemá čas. Záměrně primary: false — do menu se dostane,
+  # teprve až v ní budou články, aby nikdy nesvítila prázdná.
+  - {id: soul,      en: "Soul",           cs: "Duše",          primary: false}
 
 # ---------------------------------------------------------------------
 # OBRÁZKY
 # ---------------------------------------------------------------------
 images:
   # Pořadí, ve kterém se hledá obrázek. Generování AI tu schválně není.
-  order: [manual, library, openverse, wikimedia]
+  #   library   = co jsme už jednou stáhli
+  #   wikipedia = hlavní fotka článku o tématu. Nejpřesnější zdroj, jaký
+  #               zadarmo existuje — Wikipedie už tu fotku k tématu vybrala.
+  #   openverse = 800 milionů volných fotek, s kontrolou relevance
+  #   wikimedia = hledání přímo v Commons
+  order: [manual, library, wikipedia, openverse, wikimedia]
   # Přijímáme jen tyhle licence. Vždy uvádíme autora a licenci u obrázku.
   allowed_licenses: [pdm, cc0, "by", "by-sa"]
-  max_per_run: 40          # kolik obrázků se smí stáhnout při jednom běhu
+  max_per_run: 90          # kolik obrázků se smí stáhnout při jednom běhu
 
   # Co udělat, když se skutečná fotka nenajde:
   #   none        = žádný obrázek. Článek se zobrazí jako textový —

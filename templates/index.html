@@ -19,7 +19,7 @@
   <div class="mainside">
 
     {% if lead %}
-    <div class="hero{% if not lead.image %} nopic{% endif %}">
+    <div class="hero{% if not lead.image %} nopic{% endif %}" data-load="{{ lead.load }}" data-band="{{ lead.band }}" data-topics="{{ lead.topics_csv }}" data-tags="{{ lead.tags_csv }}" data-date="{{ lead.date }}" data-brief="{{ 1 if lead.has_brief else 0 }}">
       {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>{% endif %}
       <div class="hero-text">
         <div class="kicker">{{ lead.section_label }}</div>
@@ -29,10 +29,12 @@
     </div>
     {% endif %}
 
+    <div id="reader-hidden-note"></div>
+
     {% if articles %}
     <div class="grid">
       {% for a in articles %}
-      <div class="card{% if not a.image %} nopic{% endif %}">
+      <div class="card{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-tags="{{ a.tags_csv }}" data-date="{{ a.date }}" data-brief="{{ 1 if a.has_brief else 0 }}">
         {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
         <div class="body">
           <div class="kicker">{{ a.section_label }}</div>
@@ -77,7 +79,7 @@
     <h2 class="rowhead"><a href="{{ base }}/{{ lang }}/{{ row.id }}/">{{ row.label }}</a></h2>
     <div class="grid tight">
       {% for a in row.articles %}
-      <div class="card small{% if not a.image %} nopic{% endif %}">
+      <div class="card small{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-tags="{{ a.tags_csv }}" data-date="{{ a.date }}" data-brief="{{ 1 if a.has_brief else 0 }}">
         {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
         <div class="body">
           <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>

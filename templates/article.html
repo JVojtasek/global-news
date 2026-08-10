@@ -12,7 +12,7 @@
 <meta property="og:type" content="article">
 {% endblock %}
 {% block body %}
-<article class="post">
+<article class="post" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-brief="{{ 1 if a.has_brief else 0 }}">
   <div class="wrap">
     <div class="kicker">{{ a.section_label }}{% if a.series %} · {{ a.series }}{% endif %}</div>
     <h1>{{ a.title }}</h1>
@@ -35,13 +35,19 @@
     </div>
     {% endif %}
 
-    {% if a.body_html %}<div class="layer body">{{ a.body_html|safe }}</div>{% endif %}
+    {% if a.body_html %}<div class="layer body" data-layer="BODY">{{ a.body_html|safe }}</div>{% endif %}
 
     {% for layer in a.layers %}
-    <section class="layer layer-{{ layer.id|lower }}">
+    <section class="layer layer-{{ layer.id|lower }}" data-layer="{{ layer.id }}">
       <h2>{{ layer.icon }} {{ layer.label }}</h2>
       {{ layer.html|safe }}
     </section>
+    {% if layer.id == "BRIEFLY" %}
+    <div class="reader-gate">
+      <p class="reader-note">{{ t.reader_calm }}</p>
+      <button class="reader-more" type="button">{{ t.reader_full }}</button>
+    </div>
+    {% endif %}
     {% endfor %}
 
     {% if a.sources %}

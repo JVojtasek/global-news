@@ -1,0 +1,62 @@
+# =====================================================================
+#  ZÁJMY ČTENÁŘE
+#  Z tohohle seznamu si čtenář při první návštěvě naklikne, co ho zajímá.
+#  Web pak jeho témata upřednostní — ale nikdy je nedělá jedinými.
+#
+#  match = anglická slova, podle kterých systém pozná, že článek do
+#          téhle škatulky patří. Je to obyčejný regulární výraz.
+#          Články jsou v angličtině, proto se hledá anglicky i tehdy,
+#          když se čte česká verze.
+#
+#  Přidat zájem = přidat řádek. Nic víc dělat nemusíš.
+#
+#  POZOR na skupinu health: to, co si tam čtenář naklikne, jsou údaje
+#  o zdraví. Nikdy neopouštějí jeho zařízení — neukládáme je na server,
+#  neposíláme je nikam a nemáme k nim přístup. Tak to musí zůstat.
+# =====================================================================
+
+groups:
+  - id: topicsg
+    en: "What are you interested in"
+    cs: "Co tě zajímá"
+    items:
+      - {id: space,     en: "Space and astronomy",   cs: "Vesmír a astronomie", match: "space|astronom|telescope|galaxy|planet|nasa|rocket|satellite|asteroid|mars\\b"}
+      - {id: climate,   en: "Climate and nature",    cs: "Klima a příroda",     match: "climate|emission|wildlife|species|forest|ocean|biodivers|conservation|renewable"}
+      - {id: aiwork,    en: "AI in everyday work",   cs: "AI v práci",          match: "artificial intelligence|\\bai\\b|machine learning|chatbot|automation|copilot|language model"}
+      - {id: security,  en: "Online safety",         cs: "Bezpečnost na síti",  match: "phishing|scam|fraud|malware|ransomware|password|data breach|cyber"}
+      - {id: money,     en: "Money and investing",   cs: "Peníze a investice",  match: "inflation|interest rate|stock|invest|earnings|market|pension|mortgage|tax\\b"}
+      - {id: work,      en: "Work and careers",      cs: "Práce a kariéra",     match: "job|career|hiring|layoff|workplace|salary|remote work|productivity"}
+      - {id: history,   en: "History and archaeology", cs: "Historie a archeologie", match: "archaeolog|ancient|excavat|medieval|roman|empire|manuscript|artefact|artifact"}
+      - {id: faithbig,  en: "Big questions and meaning", cs: "Velké otázky a smysl", match: "meaning of life|philosoph|ethic|conscious|mortality|purpose|faith|soul"}
+      - {id: psych,     en: "Psychology and the mind", cs: "Psychologie a mysl", match: "psycholog|cognitive|memory|attention|emotion|habit|motivation|burnout|stress"}
+      - {id: family,    en: "Family and parenting",  cs: "Rodina a výchova",    match: "parent|child|toddler|teenager|school|family|sibling|screen time"}
+      - {id: relation,  en: "Relationships",         cs: "Vztahy",              match: "relationship|marriage|partner|dating|divorce|friendship|loneli"}
+      - {id: food,      en: "Food and cooking",      cs: "Jídlo a vaření",      match: "recipe|cooking|kitchen|ingredients|chef|restaurant|cuisine|baking"}
+      - {id: travel,    en: "Travel",                cs: "Cestování",           match: "travel|tourism|flight|destination|hotel|passport|itinerar"}
+      - {id: cars,      en: "Cars and transport",    cs: "Auta a doprava",      match: "car\\b|vehicle|electric vehicle|\\bev\\b|battery|railway|traffic|charging"}
+      - {id: sport,     en: "Sport",                 cs: "Sport",               match: "football|olympic|tournament|athlete|championship|match\\b|league"}
+      - {id: culture,   en: "Books, film and music", cs: "Knihy, film a hudba", match: "film|movie|novel|author|album|band|museum|exhibition|theatre"}
+      - {id: science,   en: "Science and research",  cs: "Věda a výzkum",       match: "researchers|scientists|experiment|peer.reviewed|laboratory|published in|findings"}
+      - {id: gadgets,   en: "Gadgets and software",  cs: "Technika a software", match: "smartphone|laptop|app\\b|software|update|chip|processor|gadget"}
+
+  - id: health
+    en: "Health — what should we watch for you"
+    cs: "Zdraví — co pro tebe máme hlídat"
+    note_en: "Tick anything you want us to prioritise. This stays on your device. We never send it anywhere, we do not have an account system, and we cannot see it. We do not give medical advice — we surface research, prevention and practical information, and we always name the source."
+    note_cs: "Zaškrtni, co ti máme upřednostňovat. Zůstane to jen v tomhle zařízení. Nikam se to neposílá, žádné účty nevedeme a nemáme k tomu přístup. Nedáváme lékařské rady — hledáme výzkum, prevenci a praktické informace a vždycky uvádíme zdroj."
+    items:
+      - {id: h_diabetes, en: "Diabetes",              cs: "Cukrovka",             match: "diabet|insulin|blood sugar|glycaem|glycem|hba1c|glucose"}
+      - {id: h_heart,    en: "Heart and blood pressure", cs: "Srdce a tlak",      match: "heart|cardiac|cardiovascular|blood pressure|hypertens|cholesterol|stroke"}
+      - {id: h_weight,   en: "Weight and metabolism",  cs: "Váha a metabolismus", match: "obes|weight loss|metabolic|glp-1|semaglutide|appetite|bmi\\b"}
+      - {id: h_sleep,    en: "Sleep",                  cs: "Spánek",              match: "sleep|insomnia|circadian|apnoea|apnea|melatonin"}
+      - {id: h_mental,   en: "Mental health",          cs: "Duševní zdraví",      match: "depress|anxiet|mental health|therapy|psychiatr|panic|ptsd"}
+      - {id: h_back,     en: "Back, joints and movement", cs: "Záda, klouby a pohyb", match: "back pain|joint|arthrit|spine|physiotherap|mobility|osteo"}
+      - {id: h_cancer,   en: "Cancer",                 cs: "Onkologie",           match: "cancer|tumour|tumor|oncolog|chemotherap|immunotherap|screening"}
+      - {id: h_allergy,  en: "Allergies and asthma",   cs: "Alergie a astma",     match: "allerg|asthma|pollen|hay fever|eczema|anaphyla"}
+      - {id: h_gut,      en: "Gut and digestion",      cs: "Trávení a střeva",    match: "gut|microbio|digest|bowel|ibs\\b|coeliac|celiac|reflux"}
+      - {id: h_brain,    en: "Memory and the ageing brain", cs: "Paměť a stárnutí mozku", match: "dementia|alzheim|cognitive decline|memory loss|parkinson"}
+      - {id: h_thyroid,  en: "Hormones and thyroid",   cs: "Hormony a štítná žláza", match: "thyroid|hormon|menopaus|testosterone|oestrogen|estrogen|pcos"}
+      - {id: h_immune,   en: "Immunity and infections", cs: "Imunita a infekce",  match: "vaccin|immun|infection|virus|influenza|covid|antibiotic"}
+      - {id: h_kids,     en: "Children's health",      cs: "Zdraví dětí",         match: "child health|paediatric|pediatric|infant|vaccination schedule|adolescent health"}
+      - {id: h_fitness,  en: "Exercise and fitness",   cs: "Cvičení a kondice",   match: "exercise|fitness|workout|strength training|marathon|physical activity|brisk walking"}
+      - {id: h_nutrition, en: "Nutrition",             cs: "Výživa",              match: "nutrition|vitamin|protein|fibre|fiber|ultra.processed|mediterranean diet|supplement"}

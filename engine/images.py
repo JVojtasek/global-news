@@ -104,6 +104,7 @@ def cover(meta: dict, out_path) -> None:
 
 
 _downloaded = 0
+_used: set[str] = set()
 
 
 def ensure(meta: dict) -> dict:
@@ -135,8 +136,9 @@ def ensure(meta: dict) -> dict:
     cfg = config.site().get("images", {})
     limit = int(cfg.get("max_per_run", 12))
     if _downloaded < limit and "typographic" != cfg.get("order", [""])[0]:
-        hit = imagebank.find(meta)
+        hit = imagebank.find(meta, skip=_used)
         if hit:
+            _used.add(hit["url"])
             cache.parent.mkdir(parents=True, exist_ok=True)
             if imagebank.download(hit, cache):
                 _downloaded += 1

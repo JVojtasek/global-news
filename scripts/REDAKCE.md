@@ -15,17 +15,54 @@ neptej, a na konci napiš krátké shrnutí česky.
   engine/prompts/guardian.md          ← kontrola kázání a nadinterpretací
   engine/prompts/sceptic.md           ← pohled nevěřícího čtenáře
 
+## 1b. TEST, KTERÝM MUSÍ PROJÍT KAŽDÝ ČLÁNEK
+
+Tohle je nadřazené všemu ostatnímu v tomhle souboru. Než článek uložíš,
+projdi pět otázek z `engine/prompts/FORMAT.md`, oddíl 0:
+
+  přidaná hodnota · praktičnost · zábavnost · edukativnost · čtivost
+
+Když u kterékoli odpovíš „ne", článek neukládej. **Kvóty jsou vedlejší.**
+Prázdná rubrika je menší škoda než jeden odbytý text.
+
 ## 2. CO NAPSAT
 
-V tomhle pořadí a **nejvýš tři články celkem**:
+V tomhle pořadí a **nejvýš čtyři články celkem**:
 
   1. ČLÁNEK DNE z oddílu A2 — nejdůležitější, věnuj mu nejvíc práce
      (v hlavičce nastav `type: daily`, ať ho web dá do čela)
   2. jeden zpravodajský rozbor z oddílu A — vyber ten s nejvyšším skóre
      (`type: news`)
   3. jedno téma z oddílu B (poptávka), pokud tam něco je (`type: demand`)
+  4. **jednu dobrou zprávu** (`section: goodnews`) — viz oddíl 2b
 
 Když je zadání prázdné, nic si nevymýšlej a jdi dál.
+
+## 2b. DOBRÁ ZPRÁVA — jedna denně
+
+Rubrika Dobré zprávy nemá volně licencovaný zdroj, ze kterého by se dala
+přebírat, proto ji píšeme sami. Neznamená to „hezké nic". Znamená to
+**doložená zpráva o něčem, co se povedlo.**
+
+Kde ji vzít, v tomhle pořadí:
+
+  1. `data/brief.md`, oddíl A — události zdravotní, vědecké nebo
+     přírodní s dobrým výsledkem: nový lék, schválená léčba, ustupující
+     nemoc, zachráněný druh, čistší řeka, technologie, která pomohla
+  2. tiskové zprávy institucí v podkladech (NIH, NASA, WHO, univerzity)
+  3. lidský příběh, který ve zprávách zapadl
+
+Pravidla, aby to nebyla vata:
+
+  - vždy **jméno instituce, číslo a datum**. „Vědci objevili" bez toho,
+    kdo a kdy, není zpráva
+  - napiš i **co to zatím neumí** — u léků fázi zkoušek a kdy může být
+    reálně dostupný. Falešná naděje je horší než žádná
+  - vysvětli mechanismus: *proč* to funguje. To je ta edukativní část
+  - závěr `## DEEPER` nesmí být kázání o vděčnosti
+
+Když v podkladech nic takového není, rubriku ten den vynech.
+Nikdy si dobrou zprávu nevymýšlej a nikdy nenafukuj malý výsledek.
 
 ## 3. JAK PSÁT — u každého článku celý postup
 
@@ -60,6 +97,13 @@ Když je zadání prázdné, nic si nevymýšlej a jdi dál.
   i) Vždy vyplň `image_query` — dvě až pět anglických slov pro vyhledání
      ilustrační fotky. Bez jmen žijících osob.
 
+  j) **Vrstvu `## BRIEFLY` piš až úplně nakonec**, když je článek hotový
+     a prošel kontrolou faktů. Dřív to nejde: shrnout se dá jen to, co
+     kontrolou opravdu prošlo. Když jsi v textu kvůli faktcheku něco
+     opravil nebo vyhodil, musí se to promítnout i do shrnutí — číslo
+     ani tvrzení, které v článku není, se v BRIEFLY objevit nesmí.
+     Tvar je ve FORMAT.md. U `type: news` a `type: analysis` je povinná.
+
 ## 4. KAM TO ULOŽIT
 
 Každý hotový článek jako samostatný soubor:
@@ -86,6 +130,33 @@ Pravidla prekladu:
   - nic nepridavej, nic nevynechavej
 
 Cesky preklad uloz rovnou do content/cs/, ne do inboxu.
+
+## 4c. PREVZATE ANALYZY Z QMA — preklad do anglictiny
+
+Robot stahuje Jardovy vlastni financni analyzy z QMA. Prichazeji **cesky**
+(`type: imported`, `lang: cs`, `section: business`) a bez prekladu by
+anglicky Byznys zustal prazdny. Anglictina je hlavni jazyk webu, takze:
+
+Projdi `content/cs/*.md`, kde je `type: imported`. Pro kazdy takovy soubor
+zkontroluj, jestli existuje soubor **se stejnym nazvem** v `content/en/`.
+Kdyz neexistuje, prelozi ho do anglictiny a uloz ho tam.
+
+Pravidla prekladu:
+  - `slug` a `date` nech presne stejne, at si obe verze odpovidaji
+  - `lang` zmen na `en`, prelozi `title` a `dek`
+  - `image_query` prepis na dve az pet anglickych slov popisujicich
+    fotku k tematu (napr. „oil tanker at sea")
+  - tickery, cisla, procenta a nazvy firem nech presne tak, jak jsou
+  - zachovej odstavce, nadpisy `###`, odrazky i zaverecny citat
+  - emotikony (robot) vsude odstran
+  - radek s upozornenim prelozi takto:
+    `This article was written by QMA Brain (artificial intelligence) and
+    may contain errors. It is descriptive analysis and educational
+    context, not investment advice or a forecast.`
+  - `origin` a `sources` nech beze zmeny — odkaz vede na puvodni vydani
+
+Nejvyse pet prekladu za smenu, od nejnovejsich. Zbytek pocka na zitra.
+
 ## 5. ABSOLUTNÍ ZÁKAZY
 
   - tvrdit, že konkrétní událost naplňuje proroctví

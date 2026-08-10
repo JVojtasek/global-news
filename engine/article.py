@@ -9,13 +9,17 @@ import yaml
 
 from . import config
 
-LAYERS = ["FACTS", "CONTEXT", "PEOPLE", "DEEPER", "REFLECT"]
+# BRIEFLY je první vrstva: klidné shrnutí v pěti bodech. Kdo si nastaví
+# šetrný režim, uvidí jenom ji — zbytek si může rozkliknout.
+LAYERS = ["BRIEFLY", "FACTS", "CONTEXT", "PEOPLE", "DEEPER", "REFLECT"]
 REQUIRED_LAYERS = ["FACTS", "CONTEXT", "DEEPER"]
 # starší názvy vrstev, aby fungovaly i dřív napsané články
-ALIASES = {"SCRIPTURE": "DEEPER", "RESPONSE": "REFLECT", "BACKGROUND": "CONTEXT"}
+ALIASES = {"SCRIPTURE": "DEEPER", "RESPONSE": "REFLECT", "BACKGROUND": "CONTEXT",
+           "SUMMARY": "BRIEFLY", "IN BRIEF": "BRIEFLY"}
 
 LAYER_LABELS = {
     "en": {
+        "BRIEFLY": ("In short", ""),
         "FACTS": ("What happened", ""),
         "CONTEXT": ("The background", ""),
         "PEOPLE": ("Who it touches", ""),
@@ -23,6 +27,7 @@ LAYER_LABELS = {
         "REFLECT": ("Something to sit with", ""),
     },
     "cs": {
+        "BRIEFLY": ("Ve zkratce", ""),
         "FACTS": ("Co se stalo", ""),
         "CONTEXT": ("Souvislosti", ""),
         "PEOPLE": ("Koho se to týká", ""),

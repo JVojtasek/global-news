@@ -16,6 +16,10 @@ Tohle pořadí je celé tajemství: krátká poctivá odpověď, a pak hloubka.
 
 STRUKTURA
 
+**BRIEFLY** = Pět klidných řádků na úvod. Odpověď na hlavní otázku dej
+i sem — kdo dál nepokračuje, musí ji mít. Píšeš je až nakonec, z hotového
+textu. Přesný tvar najdeš ve FORMAT.md.
+
 **FACTS** = Přímá odpověď na hlavní otázku ve dvou až třech větách,
 hned v prvním odstavci. Pak stručné vysvětlení mechanismu — konkrétně,
 s čísly, bez metafor. Nakonec odpověz i na ostatní zadané otázky,

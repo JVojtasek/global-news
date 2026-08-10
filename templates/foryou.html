@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ t.foryou_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.foryou_intro }}{% endblock %}
+{% block body %}
+<div class="wide fy">
+  <h1 class="page-h1">{{ t.foryou_title }}</h1>
+  <p class="dek fy-dek">{{ t.foryou_intro }}</p>
+
+  <div id="fy-empty" class="fy-empty">
+    <p>{{ t.foryou_empty }}</p>
+    <button type="button" class="fy-cta" onclick="tdsOpenReader()">{{ t.foryou_setup }}</button>
+  </div>
+
+  <div id="fy-main" hidden>
+    <p class="fy-note fy-health" id="fy-health" hidden>{{ t.foryou_health_note }}</p>
+    <div class="grid" id="fy-picked"></div>
+
+    <section class="fy-out">
+      <h2 class="rowhead">{{ t.foryou_outside }}</h2>
+      <p class="fy-note">{{ t.foryou_outside_help }}</p>
+      <div class="grid tight" id="fy-outside"></div>
+    </section>
+  </div>
+</div>
+{% endblock %}

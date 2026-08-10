@@ -36,6 +36,10 @@ To je ta věc, kvůli které ti lidé začnou věřit.
 
 STRUKTURA
 
+**BRIEFLY** = Pět klidných řádků na začátku článku, pro toho, kdo dál
+nepokračuje. Píšeš je až úplně nakonec, z hotového a ověřeného textu.
+Přesný tvar najdeš ve FORMAT.md.
+
 **FACTS** = Otevři scénou nebo příběhem (3–5 vět). Pak řekni rovnou,
 o co jde a co z toho plyne. Žádné „v tomto článku se podíváme na".
 

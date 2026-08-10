@@ -35,6 +35,10 @@ Dostaneš hotový článek. Najdi:
    je to jediná chyba, kterou čtenář nikdy nezapomene.
 9. ŠPATNÝ REŽIM VRSTVY — v článku s `depth: open` se objevila Bible,
    nebo v `depth: scripture` chybí jakýkoli text a je tam jen dojem.
+10. BRIEFLY MIMO TEXT — ve vrstvě BRIEFLY stojí tvrzení nebo číslo,
+    které ve zbytku článku není, nebo tam není se zdrojem. Sem patří
+    i citově zabarvená slova: tahle vrstva má být klidná, protože ji
+    čtou lidé, kteří zbytek číst nebudou.
 
 U každého nálezu uveď závažnost:
   "blocker" = takhle to ven nesmí

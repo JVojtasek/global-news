@@ -320,3 +320,222 @@ aside.thought cite{display:block;margin-top:.6rem;font-style:normal;font-size:.8
 .lastword p{font-size:1.22rem;line-height:1.5;margin:.7rem auto .5rem;max-width:38rem;font-style:italic}
 .lastword cite{font-style:normal;font-size:.85rem;color:var(--ink-soft);
   font-family:ui-sans-serif,system-ui,sans-serif}
+
+
+/* =====================================================================
+   Nastavení čtení — kolik toho a jak natvrdo
+   Nic se nemaže. Skryté karty se dají kdykoli vrátit, těžký článek
+   rozbalit. Vzhled zůstává novinový: linky, žádné stíny navíc.
+   ===================================================================== */
+
+/* --- tlačítko v hlavičce --- */
+.readerbtn{margin-left:.35rem;background:none;border:1px solid var(--line);border-radius:6px;
+  color:var(--ink-soft);cursor:pointer;padding:.2rem .35rem;line-height:0;vertical-align:middle}
+.readerbtn:hover{color:var(--accent);border-color:var(--accent)}
+
+/* --- panel --- */
+.reader-panel{position:fixed;inset:0;z-index:60;display:flex;align-items:flex-start;
+  justify-content:center;padding:1.5rem 1rem;overflow-y:auto}
+.reader-panel[hidden]{display:none}
+.reader-veil{position:fixed;inset:0;background:rgba(20,18,15,.45)}
+.reader-box{position:relative;width:100%;max-width:30rem;background:var(--card);
+  border:1px solid var(--line);border-radius:11px;padding:1.5rem 1.5rem 1.3rem;
+  margin:auto;box-shadow:0 1px 2px rgba(0,0,0,.06);
+  font-family:ui-sans-serif,system-ui,sans-serif}
+.reader-box:focus{outline:none}
+.reader-box h2{font-size:1.15rem;line-height:1.25;margin:0 .5rem .5rem 0;
+  font-family:Georgia,"Iowan Old Style","Times New Roman",serif;letter-spacing:-.01em}
+.reader-intro{font-size:.86rem;line-height:1.55;color:var(--ink-soft);margin:0 0 1.4rem}
+.reader-x{position:absolute;top:.8rem;right:.8rem;background:none;border:1px solid var(--line);
+  border-radius:6px;color:var(--ink-soft);cursor:pointer;padding:.2rem .35rem;line-height:0}
+.reader-x:hover{color:var(--accent);border-color:var(--accent)}
+
+/* --- posuvníky se třemi stupni --- */
+.reader-set{border:0;padding:0;margin:0 0 1.5rem}
+.reader-mute{border-top:1px solid var(--line);padding-top:1.1rem}
+.reader-lab{display:block;font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--accent);margin:0 0 .7rem;padding:0}
+.reader-range{width:100%;margin:0;accent-color:var(--accent);background:transparent;cursor:pointer}
+.reader-range:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.reader-ticks{display:grid;grid-template-columns:repeat(3,1fr);gap:.4rem;margin:.35rem 0 0;
+  font-size:.74rem;color:var(--ink-soft)}
+.reader-ticks span:nth-child(2){text-align:center}
+.reader-ticks span:nth-child(3){text-align:right}
+.reader-set[data-v="1"] .reader-ticks span:nth-child(1),
+.reader-set[data-v="2"] .reader-ticks span:nth-child(2),
+.reader-set[data-v="3"] .reader-ticks span:nth-child(3){color:var(--ink);font-weight:600}
+.reader-help{font-size:.78rem;line-height:1.5;color:var(--ink-soft);margin:.6rem 0 0}
+
+/* --- vypnutá témata --- */
+.reader-topics{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));
+  gap:.15rem .8rem}
+.reader-check{display:flex;align-items:flex-start;gap:.5rem;font-size:.86rem;
+  color:var(--ink);padding:.3rem 0;cursor:pointer;line-height:1.4}
+.reader-check input{margin:.18rem 0 0;accent-color:var(--accent);flex:0 0 auto}
+.reader-solo{border-top:1px solid var(--line);padding-top:.9rem;margin-top:.2rem}
+
+/* --- uložit / zpět --- */
+.reader-acts{display:flex;gap:.6rem;flex-wrap:wrap;margin:1.3rem 0 .9rem}
+.reader-go{padding:.5rem 1.2rem;border:1px solid var(--accent);border-radius:99px;
+  background:var(--accent);color:#fff;font:inherit;font-size:.86rem;cursor:pointer}
+.reader-go:hover{filter:brightness(1.08)}
+.reader-undo{padding:.5rem 1rem;border:1px solid var(--line);border-radius:99px;
+  background:none;color:var(--ink-soft);font:inherit;font-size:.86rem;cursor:pointer}
+.reader-undo:hover{color:var(--accent);border-color:var(--accent)}
+.reader-priv{font-size:.72rem;line-height:1.5;color:var(--ink-soft);margin:0}
+
+/* --- skrytá karta a řádek, kterým se dá vrátit --- */
+.reader-off{display:none !important}
+#reader-hidden-note{display:none}
+#reader-hidden-note.on{display:flex;align-items:baseline;gap:.6rem;flex-wrap:wrap;
+  margin:1.5rem 0 0;padding:.65rem .9rem;border:1px dashed var(--line);border-radius:8px;
+  background:var(--bg-soft);font-family:ui-sans-serif,system-ui,sans-serif;font-size:.8rem;
+  color:var(--ink-soft)}
+.reader-showall{background:none;border:0;padding:0;font:inherit;color:var(--accent);
+  cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+
+/* --- karta ve zkráceném režimu --- */
+.card.calm > a,.card.calm img,.hero.calm .hero-img{display:none}
+.card.calm .body > p,.hero.calm .dek{display:none}
+.hero.calm{grid-template-columns:1fr}
+.reader-mark{display:block;width:1.6rem;height:2px;margin:0 0 .55rem;background:var(--accent);
+  opacity:.55}
+.card.calm{background:none;border:1px solid var(--line)}
+
+/* --- článek jako klidné shrnutí --- */
+.reader-gate{display:none}
+.reader-gate.on{display:block;margin:-1.4rem 0 2.6rem;padding:1rem 1.1rem;
+  border:1px dashed var(--line);border-radius:8px;background:var(--bg-soft)}
+.reader-note{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.8rem;line-height:1.5;
+  color:var(--ink-soft);margin:0}
+.reader-more{margin-top:.8rem;padding:.45rem 1.1rem;border:1px solid var(--line);
+  border-radius:99px;background:var(--card);color:var(--ink);font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:.84rem;cursor:pointer}
+.reader-more:hover{color:var(--accent);border-color:var(--accent)}
+.reader-gate.nofold .reader-more{display:none}
+article.post.reader-calmed [data-layer]{display:none}
+article.post.reader-calmed [data-layer="BRIEFLY"]{display:block}
+
+/* --- pruh s pauzou --- */
+.reader-brake{position:fixed;left:0;right:0;bottom:0;z-index:55;display:flex;
+  align-items:center;justify-content:center;gap:1rem;flex-wrap:wrap;
+  padding:.9rem 1.25rem;background:var(--card);border-top:1px solid var(--line);
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.86rem;color:var(--ink)}
+.reader-brake p{margin:0;max-width:34rem}
+.reader-brake-alt{color:var(--accent)}
+.reader-brake-ok{padding:.4rem 1rem;border:1px solid var(--line);border-radius:99px;
+  background:none;color:var(--ink-soft);font:inherit;cursor:pointer}
+.reader-brake-ok:hover{color:var(--accent);border-color:var(--accent)}
+@media (max-width:600px){
+  .reader-brake{gap:.6rem;padding:.8rem 1rem}
+  .reader-box{padding:1.3rem 1.1rem 1.1rem}
+}
+
+
+/* =====================================================================
+   Vlastní výběr — co koho zajímá
+
+   Zůstává novinový tón: linky místo stínů, jedna barva navíc žádná.
+   Nic z toho, co si čtenář naklikne, neopouští jeho prohlížeč.
+   ===================================================================== */
+
+/* --- odkaz na vlastní výběr v hlavním menu --- */
+nav.sections a.nav-you{color:var(--accent);letter-spacing:.09em}
+nav.sections a.nav-you:hover{border-color:var(--accent)}
+
+/* --- štítky rubrik: pilulky, jasně vidět, co je zapnuté --- */
+.ob-chips{display:flex;flex-wrap:wrap;gap:.4rem}
+.ob-chip{position:relative;display:inline-flex;align-items:center;cursor:pointer}
+.ob-chip input{position:absolute;opacity:0;width:1px;height:1px;margin:0}
+.ob-chip span{display:inline-block;padding:.32rem .8rem;border:1px solid var(--line);
+  border-radius:99px;background:var(--card);color:var(--ink-soft);font-size:.8rem;
+  line-height:1.35;transition:color .12s,border-color .12s,background .12s}
+.ob-chip:hover span{color:var(--accent);border-color:var(--accent)}
+.ob-chip input:checked + span{background:var(--accent-soft);border-color:var(--accent);
+  color:var(--accent);font-weight:600}
+.ob-chip input:focus-visible + span{outline:2px solid var(--accent);outline-offset:2px}
+
+/* --- zaškrtávátka zájmů: dva až tři sloupce, na mobilu jeden --- */
+.ob-group{border:0;padding:0;margin:0 0 1.3rem;min-width:0}
+.ob-group:last-child{margin-bottom:0}
+.ob-group legend{padding:0}
+.ob-checks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 1rem}
+.ob-check{font-size:.84rem}
+.ob-note{font-size:.74rem;line-height:1.55;color:var(--ink-soft);margin:0 0 .7rem;
+  padding:.55rem .75rem;border-left:2px solid var(--line);background:var(--bg-soft);
+  border-radius:0 6px 6px 0}
+.ob-health{border-top:1px solid var(--line);padding-top:1rem}
+@media (max-width:900px){.ob-checks{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){.ob-checks{grid-template-columns:1fr}}
+
+/* --- výběr uvnitř nastavení čtení --- */
+/* panel teď unese víc voleb, tak dostane o kousek víc místa */
+.reader-box{max-width:33rem}
+.reader-pick{border-top:1px solid var(--line);padding-top:1.1rem}
+.reader-pick .ob-checks{grid-template-columns:repeat(2,minmax(0,1fr))}
+.reader-pick .ob-group legend{margin-bottom:.5rem}
+@media (max-width:560px){.reader-pick .ob-checks{grid-template-columns:1fr}}
+
+/* --- uvítací průvodce: nabídka, ne uvítací zeď --- */
+.ob-card{position:fixed;z-index:58;right:1.25rem;bottom:1.25rem;width:min(27rem,calc(100% - 2.5rem));
+  max-height:min(80vh,42rem);overflow-y:auto;background:var(--card);border:1px solid var(--line);
+  border-radius:11px;padding:1.3rem 1.4rem 1.1rem;box-shadow:0 1px 3px rgba(0,0,0,.08);
+  font-family:ui-sans-serif,system-ui,sans-serif}
+.ob-card:focus{outline:none}
+.ob-card h2{font-family:Georgia,"Iowan Old Style","Times New Roman",serif;font-size:1.1rem;
+  line-height:1.25;letter-spacing:-.01em;margin:0 1.6rem .4rem 0}
+.ob-intro{font-size:.82rem;line-height:1.55;color:var(--ink-soft);margin:0 0 1.1rem}
+.ob-q{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);
+  margin:0 0 .7rem;font-family:inherit;font-weight:600}
+.ob-step[hidden]{display:none}
+.ob-card .reader-set{margin-bottom:1.2rem}
+.ob-card .reader-set:last-child{margin-bottom:0}
+.ob-priv{font-size:.7rem;line-height:1.5;color:var(--ink-soft);margin:1rem 0 0}
+.ob-foot{display:flex;align-items:center;justify-content:space-between;gap:.7rem;
+  flex-wrap:wrap;margin-top:1.1rem;padding-top:.8rem;border-top:1px solid var(--line)}
+.ob-count{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+.ob-acts{display:flex;align-items:center;gap:.5rem}
+.ob-skip{background:none;border:0;padding:.3rem 0;font:inherit;font-size:.78rem;
+  color:var(--ink-soft);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.ob-skip:hover{color:var(--accent)}
+.ob-back{padding:.4rem .9rem;border:1px solid var(--line);border-radius:99px;background:none;
+  color:var(--ink-soft);font:inherit;font-size:.8rem;cursor:pointer}
+.ob-back:hover{color:var(--accent);border-color:var(--accent)}
+.ob-next,.ob-done{padding:.4rem 1.1rem;border:1px solid var(--accent);border-radius:99px;
+  background:var(--accent);color:#fff;font:inherit;font-size:.8rem;cursor:pointer}
+.ob-next:hover,.ob-done:hover{filter:brightness(1.08)}
+.ob-x{top:.7rem;right:.7rem}
+@media (max-width:600px){
+  .ob-card{right:.6rem;left:.6rem;bottom:.6rem;width:auto;padding:1.1rem 1rem .9rem;
+    max-height:82vh}
+  .ob-foot{justify-content:flex-end}
+  .ob-count{width:100%;order:2}
+}
+
+/* --- proužek „vybráno pro tebe“ nad titulní stranou --- */
+.pickrail{margin:1.8rem 0 .4rem;padding-top:1.2rem;border-top:2px solid var(--ink)}
+.pickhead{font-size:.76rem;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);
+  font-family:ui-sans-serif,system-ui,sans-serif;margin:0}
+.pickrail .grid.tight{padding-bottom:.4rem}
+.pickrail .card.pick:hover{transform:none}
+.pickrail .card.pick:hover h3 a{color:var(--accent)}
+
+/* --- stránka pro tebe --- */
+.fy .page-h1{font-size:clamp(1.6rem,3.4vw,2.3rem);line-height:1.15;letter-spacing:-.02em;
+  margin:2.2rem 0 .4rem}
+.fy .fy-dek{color:var(--ink-soft);font-size:1.02rem;margin:0 0 1.6rem;max-width:38rem}
+.fy-empty{border:1px dashed var(--line);border-radius:10px;background:var(--bg-soft);
+  padding:2rem 1.5rem;text-align:center;margin:0 0 3rem}
+.fy-empty[hidden]{display:none}
+.fy-empty p{margin:0 0 1rem;color:var(--ink-soft)}
+.fy-cta{padding:.55rem 1.3rem;border:1px solid var(--accent);border-radius:99px;
+  background:var(--accent);color:#fff;font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:.9rem;cursor:pointer}
+.fy-cta:hover{filter:brightness(1.08)}
+.fy-note{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.8rem;line-height:1.55;
+  color:var(--ink-soft);margin:.4rem 0 0;max-width:40rem}
+.fy-health{margin:0 0 1.4rem;padding:.7rem .9rem;border-left:2px solid var(--line);
+  background:var(--bg-soft);border-radius:0 6px 6px 0}
+.fy-health[hidden]{display:none}
+.fy-out{border-top:1px solid var(--line);margin-top:1rem;padding-top:1.4rem;margin-bottom:3rem}
+.fy-out .rowhead{color:var(--ink)}

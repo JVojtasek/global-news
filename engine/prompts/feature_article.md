@@ -5,7 +5,13 @@ Cílový čtenář: zvídavý člověk, který přišel z Googlu nebo ze sociál
 protože ho zaujal titulek o historii, archeologii nebo o tom, jak funguje
 lidská mysl. Nemusí věřit ničemu. Po třiceti vteřinách musí chtít číst dál.
 
-STRUKTURA (vrstvy FACTS / CONTEXT / PEOPLE / DEEPER / REFLECT):
+STRUKTURA (vrstvy BRIEFLY / FACTS / CONTEXT / PEOPLE / DEEPER / REFLECT):
+
+**BRIEFLY** = Pět klidných řádků na začátku, pro toho, kdo dál
+nepokračuje. U dlouhých textů je doporučená, ne povinná — ale ocení ji
+i čtenář, který si článek jen zakládá na večer. Píšeš ji až nakonec,
+z hotového textu, a shrnuješ v ní jen to, co je doložené, ne rekonstrukci.
+Přesný tvar najdeš ve FORMAT.md.
 
 **FACTS** = Otevři scénou. Filmově, přítomný čas, konkrétní smysly.
 Pokud rekonstruuješ dávnou událost, hned pod scénu dej oddělovač:

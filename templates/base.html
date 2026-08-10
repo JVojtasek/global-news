@@ -16,13 +16,16 @@
 {% if seo.bing_verification %}<meta name="msvalidate.01" content="{{ seo.bing_verification }}">{% endif %}
 {% block head %}{% endblock %}
 </head>
-<body>
+<body data-base="{{ base }}">
 <header class="site">
   <div class="masthead">
     <div class="langs">
       {% for l in all_langs %}<a href="{{ base }}/{{ l }}/" {% if l == lang %}class="on"{% endif %}>{{ l|upper }}</a>{% endfor %}
       <button class="themebtn" type="button" onclick="tdsTheme()" aria-label="{{ t.theme }}" title="{{ t.theme }}">
         <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path class="sun" d="M12 4V2m0 20v-2m8-8h2M2 12h2m13.66-5.66 1.41-1.41M4.93 19.07l1.41-1.41m11.32 1.41 1.41 1.41M4.93 4.93l1.41 1.41M12 8a4 4 0 100 8 4 4 0 000-8z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path class="moon" d="M20 14.5A8.5 8.5 0 019.5 4a8.5 8.5 0 1010.5 10.5z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg>
+      </button>
+      <button class="readerbtn" type="button" id="reader-open" aria-label="{{ t.reader_open }}" title="{{ t.reader_open }}" aria-haspopup="dialog" aria-expanded="false" aria-controls="reader-panel">
+        <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 7h8M17 7h3M4 12h3M12 12h8M4 17h8M17 17h3"/><circle cx="14.5" cy="7" r="2.1"/><circle cx="9.5" cy="12" r="2.1"/><circle cx="14.5" cy="17" r="2.1"/></svg>
       </button>
     </div>
     <div class="mast-date">{{ today_label }}</div>
@@ -31,6 +34,7 @@
   </div>
   <div class="inner">
     <nav class="sections">
+      <a class="nav-you" href="{{ base }}/{{ lang }}/foryou/">{{ t.foryou }}</a>
       {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s[lang] or s.en }}</a>{% endfor %}
       <a href="{{ base }}/{{ lang }}/weather/">{{ t.weather_title }}</a>
     </nav>
@@ -78,5 +82,142 @@ function tdsTheme(){
   try{localStorage.setItem("tds-theme",next);}catch(e){}
 }
 </script>
+
+<!-- =====================================================================
+     Volby čtenáře — jeden zdroj pravdy.
+
+     Tenhle blok se nikde nevypisuje, jen se z něj klonuje: jednou do
+     nastavení čtení (panel níž) a jednou do uvítacího průvodce. Kdyby
+     byl dvakrát, dřív nebo později by se ty dvě kopie rozešly.
+     ===================================================================== -->
+<template id="tds-choices">
+  <div class="ob-part" data-part="secs">
+    <div class="ob-chips">
+      {% for s in all_sections %}<label class="ob-chip"><input type="checkbox" name="secs" value="{{ s.id }}"><span>{{ s[lang] or s.en }}</span></label>{% endfor %}
+    </div>
+  </div>
+  <div class="ob-part" data-part="tags">
+    {% for g in interest_groups %}
+    {% set note = g['note_' ~ lang] or g.note_en %}
+    <fieldset class="ob-group{% if g.id == 'health' %} ob-health{% endif %}">
+      <legend class="reader-lab">{{ g[lang] or g.en }}</legend>
+      {% if note %}<p class="ob-note">{{ note }}</p>{% endif %}
+      <div class="ob-checks">
+        {% for it in g['items'] %}<label class="reader-check ob-check"><input type="checkbox" name="tags" value="{{ it.id }}"><span>{{ it[lang] or it.en }}</span></label>{% endfor %}
+      </div>
+    </fieldset>
+    {% endfor %}
+  </div>
+  <div class="ob-part" data-part="bal">
+    <div class="reader-set" data-v="2">
+      <label class="reader-lab">{{ t.reader_amount }}</label>
+      <input class="reader-range" type="range" data-key="amount" name="amount" min="1" max="3" step="1" value="2">
+      <div class="reader-ticks" aria-hidden="true">
+        <span>{{ t.reader_amount_1 }}</span><span>{{ t.reader_amount_2 }}</span><span>{{ t.reader_amount_3 }}</span>
+      </div>
+      <p class="reader-help">{{ t.reader_amount_help }}</p>
+    </div>
+    <div class="reader-set" data-v="2">
+      <label class="reader-lab">{{ t.reader_tone }}</label>
+      <input class="reader-range" type="range" data-key="tone" name="tone" min="1" max="3" step="1" value="2">
+      <div class="reader-ticks" aria-hidden="true">
+        <span>{{ t.reader_tone_1 }}</span><span>{{ t.reader_tone_2 }}</span><span>{{ t.reader_tone_3 }}</span>
+      </div>
+      <p class="reader-help">{{ t.reader_tone_help }}</p>
+    </div>
+  </div>
+</template>
+
+<!-- uvítací průvodce: ukáže se jen při první návštěvě a jde zavřít -->
+<template id="tds-onboard">
+  <div class="ob-card" role="dialog" aria-labelledby="ob-title" tabindex="-1">
+    <button class="ob-x reader-x" type="button" data-ob-skip title="{{ t.ob_skip }}" aria-label="{{ t.ob_skip }}">
+      <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+    </button>
+    <h2 id="ob-title">{{ t.ob_title }}</h2>
+    <p class="ob-intro">{{ t.ob_intro }}</p>
+    <div class="ob-body">
+      <section class="ob-step" data-step="1">
+        <h3 class="ob-q">{{ t.ob_sections }}</h3>
+        <div class="ob-slot" data-slot="secs"></div>
+      </section>
+      <section class="ob-step" data-step="2" hidden>
+        <h3 class="ob-q">{{ t.ob_interests }}</h3>
+        <div class="ob-slot" data-slot="tags"></div>
+        <p class="ob-priv">{{ t.ob_privacy }}</p>
+      </section>
+      <section class="ob-step" data-step="3" hidden>
+        <h3 class="ob-q">{{ t.ob_balance }}</h3>
+        <div class="ob-slot" data-slot="bal"></div>
+        <p class="ob-priv">{{ t.ob_privacy }}</p>
+      </section>
+    </div>
+    <div class="ob-foot">
+      <span class="ob-count" aria-live="polite"></span>
+      <span class="ob-acts">
+        <button type="button" class="ob-skip" data-ob-skip>{{ t.ob_skip }}</button>
+        <button type="button" class="ob-back" hidden>{{ t.ob_back }}</button>
+        <button type="button" class="ob-next">{{ t.ob_next }}</button>
+        <button type="button" class="ob-done" hidden>{{ t.ob_done }}</button>
+      </span>
+    </div>
+  </div>
+</template>
+
+<!-- nastavení čtení: kolik toho a jak natvrdo -->
+<div class="reader-panel" id="reader-panel" hidden>
+  <div class="reader-veil" data-reader-close></div>
+  <div class="reader-box" role="dialog" aria-modal="true" aria-labelledby="reader-title" tabindex="-1">
+    <button class="reader-x" type="button" data-reader-close title="Esc" aria-label="Esc">
+      <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+    </button>
+    <h2 id="reader-title">{{ t.reader_title }}</h2>
+    <p class="reader-intro">{{ t.reader_intro }}</p>
+    <form class="reader-form" id="reader-form">
+
+      <div class="ob-slot" data-slot="bal"></div>
+
+      <fieldset class="reader-set reader-pick">
+        <legend class="reader-lab">{{ t.ob_sections }}</legend>
+        <div class="ob-slot" data-slot="secs"></div>
+      </fieldset>
+
+      <fieldset class="reader-set reader-pick">
+        <legend class="reader-lab">{{ t.ob_interests }}</legend>
+        <div class="ob-slot" data-slot="tags"></div>
+      </fieldset>
+
+      <fieldset class="reader-set reader-mute">
+        <legend class="reader-lab">{{ t.reader_mute }}</legend>
+        <div class="reader-topics">
+          {% for id, label in t.reader_topics.items() %}
+          <label class="reader-check"><input type="checkbox" name="mute" value="{{ id }}"><span>{{ label }}</span></label>
+          {% endfor %}
+        </div>
+      </fieldset>
+
+      <label class="reader-check reader-solo"><input type="checkbox" id="reader-brake" name="brake"><span>{{ t.reader_brake }}</span></label>
+
+      <div class="reader-acts">
+        <button type="submit" class="reader-go">{{ t.reader_save }}</button>
+        <button type="button" class="reader-undo" id="reader-reset">{{ t.reader_reset }}</button>
+      </div>
+      <p class="reader-priv">{{ t.reader_privacy }}</p>
+    </form>
+  </div>
+</div>
+<script>window.TDSR={{ {
+  "full": t.reader_full,
+  "calm": t.reader_calm,
+  "hidden1": t.reader_hidden_1,
+  "hiddenN": t.reader_hidden_n,
+  "show": t.reader_show,
+  "brakeMsg": t.reader_brake_msg,
+  "brakeOk": t.reader_brake_ok,
+  "brakeAlt": t.reader_brake_alt,
+  "obStep": t.ob_step,
+  "picked": t.picked
+}|tojson }};</script>
+<script src="{{ base }}/reader.js" defer></script>
 </body>
 </html>

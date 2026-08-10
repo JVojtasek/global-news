@@ -8,7 +8,7 @@
 <div class="wide">
   <div class="grid">
     {% for a in articles %}
-    <div class="card{% if not a.image %} nopic{% endif %}">
+    <div class="card{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-brief="{{ 1 if a.has_brief else 0 }}">
       {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
       <div class="body">
         <div class="kicker">{{ a.date }}</div>

@@ -39,6 +39,27 @@ and link to the original every single time.
 
 We will not use anyone's suffering as material.
 
+## What you decide
+
+There is a dial on this site, and it belongs to you rather than to an algorithm.
+You set how much news you want and how hard you want it to land, and you can mute
+a subject entirely. Nothing is deleted when you turn it down. A heavy story
+collapses into a calm summary — what happened, what it means, the risks, what can
+be done, what to watch — and one click opens the whole thing again.
+
+You can also tell us what interests you, and the front page starts there. That
+only changes the order. If something really is hidden because you muted its
+subject, we say so and we count it, so you always know what you are not being
+shown.
+
+Your personal page also carries a block of articles from outside your choices,
+labelled as exactly that. It is deliberate. A paper that only ever agreed with you
+would be a mirror, and you can get one of those anywhere.
+
+All of it is stored in your own browser and nowhere else. There is no account, the
+ranking happens on your machine, and we cannot see any of it. The details are on
+the [privacy page](../privacy/).
+
 ## Where we are coming from
 
 You are entitled to know who is behind what you read, so: the people who make

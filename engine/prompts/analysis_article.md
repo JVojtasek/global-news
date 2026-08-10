@@ -16,6 +16,11 @@ Ukázat **tvar** toho příběhu:
 
 STRUKTURA (běžné vrstvy, ale jinak naplněné):
 
+**BRIEFLY** = Pět klidných řádků na začátku. U analýz povinné. Shrnuješ
+v nich tvar celého vývoje, ne poslední den. Píšeš je až nakonec,
+z hotového textu, a nesmí v nich být datum ani číslo, které v článku
+není. Přesný tvar najdeš ve FORMAT.md.
+
 **FACTS** = Poslední vývoj v pěti větách. Stručně, čtenář to nejspíš zná.
 
 **CONTEXT** = Tady je jádro. Projdi časovou osu a ukaž, co z ní plyne.
