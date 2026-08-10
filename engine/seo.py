@@ -26,7 +26,15 @@ from urllib.parse import urlparse
 
 from . import config
 
+# Hlavní rozcestník rozešle oznámení všem zapojeným vyhledávačům.
+# Seznam a Bing přidávám navíc napřímo — u Seznamu nám na tom záleží
+# nejvíc, protože je to hlavní český vyhledávač.
 ENDPOINT = "https://api.indexnow.org/indexnow"
+ENDPOINTS = [
+    "https://api.indexnow.org/indexnow",
+    "https://search.seznam.cz/indexnow",
+    "https://www.bing.com/indexnow",
+]
 MAX_URLS = 10_000          # víc jich rozhraní v jednom volání nebere
 TIMEOUT = 20               # vteřin; publikace kvůli tomuhle čekat nebude
 
@@ -94,20 +102,22 @@ def ping_indexnow(urls) -> bool:
             "keyLocation": key_location(),
             "urlList": chunk,
         }
-        try:
-            r = requests.post(
-                ENDPOINT, json=payload, timeout=TIMEOUT,
-                headers={"Content-Type": "application/json; charset=utf-8"},
-            )
-            # 200 = přijato, 202 = přijato, klíč se teprve ověřuje
-            if r.status_code in (200, 202):
-                config.log(f"IndexNow: ohlášeno {len(chunk)} adres ({r.status_code}).")
-            else:
+        for _ep in ENDPOINTS:
+            name = _ep.split("/")[2]
+            try:
+                r = requests.post(
+                    _ep, json=payload, timeout=TIMEOUT,
+                    headers={"Content-Type": "application/json; charset=utf-8"},
+                )
+                # 200 = přijato, 202 = přijato, klíč se teprve ověřuje
+                if r.status_code in (200, 202):
+                    config.log(f"IndexNow {name}: ohlášeno {len(chunk)} adres ({r.status_code}).")
+                else:
+                    ok = False
+                    config.log(f"IndexNow {name}: stav {r.status_code} {r.text[:150]}")
+            except Exception as e:  # noqa: BLE001
                 ok = False
-                config.log(f"IndexNow: odmítnuto, stav {r.status_code} {r.text[:200]}")
-        except Exception as e:  # noqa: BLE001
-            ok = False
-            config.log(f"IndexNow: ohlášení se nepovedlo ({e}).")
+                config.log(f"IndexNow {name}: nepovedlo se ({str(e)[:90]}).")
     return ok
 
 

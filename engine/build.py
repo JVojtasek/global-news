@@ -1301,9 +1301,24 @@ def run() -> None:
            f'<link rel="canonical" href="{bp}/{master}/">'
            f'<title>{site["brand"]["name_en"]}</title>'
            f'<p>→ <a href="{bp}/{master}/">{site["brand"]["name_en"]}</a></p>')
-    _write(out / "robots.txt",
-           f"User-agent: *\nAllow: /\nDisallow: {config.base_path()}/admin/\n"
-           f"Sitemap: {site['brand']['url']}/sitemap.xml\n")
+    # robots.txt — co smí robot vyhledávače a kde najde mapu webu.
+    # SeznamBot a Googlebot-News uvádíme zvlášť, ať je to jednoznačné;
+    # roboty, které jen odsávají obsah na trénink, sem nepatří.
+    _write(out / "robots.txt", "\n".join([
+        "User-agent: *",
+        "Allow: /",
+        f"Disallow: {config.base_path()}/admin/",
+        "",
+        "User-agent: SeznamBot",
+        "Allow: /",
+        "",
+        "User-agent: Googlebot-News",
+        "Allow: /",
+        "",
+        f"Sitemap: {site['brand']['url']}/sitemap.xml",
+        f"Sitemap: {site['brand']['url']}/sitemap-news.xml",
+        "",
+    ]))
 
     # Klíč pro IndexNow. Vyhledávač si tímhle souborem ověří, že adresy
     # hlásí opravdu majitel webu. Bez něj by se ohlášení zahodilo.
