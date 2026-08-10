@@ -53,3 +53,11 @@ jobs:
         with: { path: public }
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      # Když je web venku, ohlásí se nové články přes IndexNow — Bing,
+      # Seznam a Yandex je pak mají do pár minut místo za pár dní.
+      # Posílají se výhradně adresy našich článků, nic o čtenářích.
+      # Kdyby se ohlášení nepovedlo, nevadí: vyhledávače si web najdou i samy.
+      - name: Ohlásit nové články vyhledávačům (IndexNow)
+        continue-on-error: true
+        run: python -m engine.seo

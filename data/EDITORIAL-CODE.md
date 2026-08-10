@@ -243,3 +243,35 @@ Nastaveno v `data/site.yml` → `editorial.always_review`.
 4. Zapsat, proč to prošlo, a doplnit pravidlo, aby se to neopakovalo.
 
 Rychlá a viditelná oprava je nejlepší obrana — právní i lidská.
+
+---
+
+## 8. OBRÁZKY — BEZPEČNOSTNÍ SÍTO
+
+Stalo se to jednou a stačilo to: článek o učitelích a datech z družice
+dostal jako titulní fotku erotickou kresbu. Z titulku „Educators, Teens
+Get Hands-On…" vznikl dotaz „Teens Get Hands", Wikipedie na něj vrátila
+heslo „Handjob" a jeho hlavní obrázek prošel na web, protože se filtr
+díval jen po celých slovech a v názvu souboru byla ta slova slepená.
+
+Od té chvíle platí čtyři nezávislé vrstvy (`engine/imagebank.py`).
+Obrázek musí projít **všemi**:
+
+1. **Zakázaná slova** v názvu, štítcích, autorovi i v adrese souboru.
+   V adrese se hledá i uvnitř slova.
+2. **Kategorie na Wikimedia Commons.** Soubor v kategorii s nahotou,
+   erotikou, mrtvými nebo mučením je vyřazen bez dalšího zkoumání.
+3. **Rozumný dotaz.** Útržek věty z titulku se na Wikipedii vůbec
+   neposílá a nalezené heslo musí mít s dotazem společné slovo.
+   Heslo se zakázaným slovem v názvu je vyřazeno vždy.
+4. **Kontrola po stažení** — obrázek z velké části tvořený lidskou kůží
+   se zahodí. U černobílých a sépiových snímků se tenhle test
+   nepoužívá, protože tam nefunguje.
+
+Nadřazené pravidlo: **při jakékoli pochybnosti obrázek nepoužij.**
+Článek bez fotky je v pořádku. Nevhodná fotka u článku o dětech
+není v pořádku nikdy.
+
+Když se něco takového přesto objeví, smaž `data/covers/<slug>.jpg`
+i `.json`, přidej to slovo do `BLOCK_WORDS` a spusť kontrolu znovu
+nad všemi obrázky.

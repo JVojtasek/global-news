@@ -110,6 +110,18 @@ def _words(text: str) -> list[str]:
     return [w for w in re.findall(r"[A-Za-z]{4,}", (text or "").lower()) if w not in STOP]
 
 
+# Slova, po kterých poznáme, že „vlastní jméno" je ve skutečnosti
+# útržek věty z titulku. Takový dotaz se na Wikipedii neposílá.
+NOT_ENTITY = {
+    "get", "gets", "got", "hands", "hand", "help", "helps", "with", "data",
+    "teens", "teen", "kids", "children", "local", "more", "less", "back",
+    "down", "up", "off", "out", "over", "under", "again", "still", "just",
+    "now", "here", "there", "why", "how", "what", "when", "who", "which",
+    "top", "best", "worst", "big", "small", "long", "short", "full", "half",
+    "on", "in", "at", "to", "for", "and", "but", "or", "the", "a", "an",
+}
+
+
 def _proper_nouns(title: str) -> list[str]:
     """Vlastní jména z titulku — to je to, o čem článek doopravdy je."""
     # první slovo vynecháme, to je velké vždycky
@@ -117,18 +129,120 @@ def _proper_nouns(title: str) -> list[str]:
     return [p for p in parts if p.lower() not in STOP][:3]
 
 
-# Fotky, které se na zpravodajský web nehodí, i když je licence v pořádku.
-# Openverse i Commons obsahují lékařské a anatomické snímky, které se
-# k obchodní zprávě dostanou přes jedno společné slovo.
-BLOCK = re.compile(
-    r"\b(?:nude|naked|nudity|breast|buttock|genital|erotic|porn|lingerie|"
-    r"underwear|topless|bikini|anatomy of the|dissection|autopsy|corpse|"
-    r"cadaver|wound|surgery|blood|injur\w*|skin lesion|tattoo on)\b", re.I)
+# ---------------------------------------------------------------------
+#  BEZPEČNOSTNÍ SÍTO NA OBRÁZKY
+#
+#  Tohle vzniklo po skutečné chybě: článek o učitelích a datech z družice
+#  dostal jako titulní obrázek erotickou kresbu. Cesta byla tahle —
+#  z titulku „Educators, Teens Get Hands-On With TEMPO Data" vzniklo
+#  hledání „Teens Get Hands", anglická Wikipedie na to vrátila heslo
+#  „Handjob" a jeho hlavní obrázek se dostal na web. Filtr tehdy hledal
+#  slovo „erotic" jako celé slovo, jenže v názvu souboru bylo slepené
+#  („GeigerEroticWatercolor"), takže neprošel.
+#
+#  Proto tu teď stojí čtyři nezávislé vrstvy. Musí projít všechny:
+#    1. zakázaná slova v názvu, štítcích, autorovi i názvu souboru
+#       (v adrese souboru se hledá i uvnitř slova, ne jen celé slovo)
+#    2. u Wikipedie a Commons se stáhnou kategorie souboru a zakázané
+#       kategorie ho vyřadí — Commons je kategorizuje velmi důsledně
+#    3. dotaz musí mít aspoň dvě slova a nesmí to být útržek věty,
+#       jinak se na Wikipedii vůbec nehledá
+#    4. po stažení se změří podíl pixelů v odstínu kůže; nad hranicí
+#       se obrázek zahodí, i kdyby všechno ostatní prošlo
+#
+#  Když si nejsi jistý, obrázek nepoužij. Článek bez fotky je v pořádku.
+#  Nevhodná fotka u článku o dětech není nikdy v pořádku.
+# ---------------------------------------------------------------------
+
+BLOCK_WORDS = (
+    r"nude|nudity|naked|topless|erotic|erotica|porn|pornograph|sex|sexual|"
+    r"genital|penis|vagina|breast|nipple|buttock|bottomless|lingerie|"
+    r"underwear|bikini|striptease|stripper|brothel|prostitut|courtesan|"
+    r"handjob|blowjob|masturbat|orgasm|fetish|bdsm|bondage|lewd|"
+    r"odalisque|boudoir|akt|aktfoto|dessous|"
+    r"corpse|cadaver|autopsy|dissection|mutilat|amputat|wound|gore|"
+    r"execution|lynching|massacre|torture"
+)
+BLOCK_TEXT = re.compile(rf"(?:{BLOCK_WORDS})", re.I)     # stačí začátek slova
+BLOCK_ANY = re.compile(BLOCK_WORDS, re.I)                   # v adrese i uvnitř slova
+
+# Kategorie na Commons, které vyřazují soubor bez dalšího zkoumání.
+BLOCK_CAT = re.compile(
+    r"nude|nudity|erotic|sexual|sex |porn|breasts|buttocks|genital|"
+    r"topless|underwear|lingerie|prostitution|brothel|fetish|"
+    r"corpses|autopsy|executions|torture|mutilation", re.I)
 
 
-def _decent(hit: dict) -> bool:
-    hay = f"{hit.get('title','')} {hit.get('tags','')} {hit.get('url','')}"
-    return not BLOCK.search(hay)
+def _commons_categories(filename: str) -> list[str]:
+    """Kategorie souboru na Commons. Prázdný seznam, když se nedají zjistit."""
+    try:
+        r = requests.get(
+            "https://commons.wikimedia.org/w/api.php",
+            params={"action": "query", "format": "json", "titles": f"File:{filename}",
+                    "prop": "categories", "cllimit": 60},
+            headers={"User-Agent": UA}, timeout=20,
+        )
+        if r.status_code != 200:
+            return []
+        pages = (r.json().get("query") or {}).get("pages") or {}
+        out = []
+        for page in pages.values():
+            for c in page.get("categories") or []:
+                out.append(c.get("title", "").replace("Category:", ""))
+        return out
+    except Exception:  # noqa: BLE001
+        return []
+
+
+def _decent(hit: dict, check_categories: bool = True) -> bool:
+    """Smí tenhle obrázek na web? Při pochybnostech ne."""
+    url = hit.get("url", "") or ""
+    page = hit.get("page", "") or ""
+    text = f"{hit.get('title','')} {hit.get('tags','')} {hit.get('author','')}"
+    if BLOCK_TEXT.search(text) or BLOCK_ANY.search(url) or BLOCK_ANY.search(page):
+        config.log(f"    ZAMÍTNUTO (slovo): {hit.get('title','')[:50]}")
+        return False
+    if check_categories and ("wikimedia.org" in url or "wikipedia" in (hit.get("provider") or "").lower()):
+        fn = requests.utils.unquote(url.split("?", 1)[0].rsplit("/", 1)[-1])
+        for cat in _commons_categories(fn):
+            if BLOCK_CAT.search(cat):
+                config.log(f"    ZAMÍTNUTO (kategorie {cat[:38]}): {hit.get('title','')[:40]}")
+                return False
+    return True
+
+
+def _monochrome(img) -> bool:
+    """Sépiová a černobílá fotka klame měření kůže — celá je „tělová"."""
+    try:
+        small = img.convert("RGB").resize((48, 48))
+        px = list(small.getdata())
+        spread = sum(max(p) - min(p) for p in px) / len(px)
+        return spread < 42
+    except Exception:  # noqa: BLE001
+        return True
+
+
+def _skin_ratio(img) -> float:
+    """Podíl pixelů v odstínu lidské kůže. Poslední pojistka po stažení.
+
+    U černobílých a sépiových snímků měření nefunguje (vyjde skoro
+    všechno), proto se tam vůbec nepoužije — od toho jsou první tři
+    vrstvy síta.
+    """
+    if _monochrome(img):
+        return 0.0
+    try:
+        small = img.convert("RGB").resize((72, 72))
+        px = list(small.getdata())
+        skin = 0
+        for r, g, b in px:
+            mx, mn = max(r, g, b), min(r, g, b)
+            if (r > 95 and g > 40 and b > 20 and mx - mn > 15
+                    and abs(r - g) > 15 and r > g > b):
+                skin += 1
+        return skin / len(px)
+    except Exception:  # noqa: BLE001
+        return 0.0
 
 
 def _relevant(hit: dict, query: str) -> bool:
@@ -204,7 +318,18 @@ def _wikipedia_lead(query: str, allowed: list[str]) -> dict | None:
             return None
         pages = (r.json().get("query") or {}).get("pages") or {}
         ordered = sorted(pages.values(), key=lambda p: p.get("index", 99))
+        qwords = set(_words(query))
         for page in ordered:
+            ptitle = page.get("title", "")
+            # Název hesla sám o sobě je signál. „Handjob" se sem nikdy
+            # nesmí dostat, ať má obrázek jakoukoli licenci.
+            if BLOCK_TEXT.search(ptitle):
+                config.log(f"    ZAMÍTNUTO (heslo {ptitle[:30]})")
+                continue
+            # Heslo musí mít s dotazem něco společného. Když ne, je to
+            # náhodná trefa fulltextu a takové obrázky děsí čtenáře.
+            if qwords and not (qwords & set(_words(ptitle))):
+                continue
             src = (page.get("original") or {}).get("source")
             if not src or "/wikipedia/commons/" not in src:
                 continue          # /wikipedia/en/ = fair use, nesmíme
@@ -339,6 +464,11 @@ def _queries(meta: dict) -> list[tuple[str, bool]]:
 
     if english:
         for p in _proper_nouns(title):
+            # Útržek věty není jméno. Právě z „Teens Get Hands" vzniklo
+            # hledání, které vrátilo erotickou kresbu — takové dotazy
+            # na Wikipedii nepouštíme.
+            if any(w in NOT_ENTITY for w in p.lower().split()):
+                continue
             out.append((p, True))
     q = (meta.get("image_query") or "").strip()
     # Dotaz hledáme vždy anglicky. Český dotaz by na anglické Wikipedii
@@ -437,6 +567,12 @@ def download(hit: dict, out_path) -> bool:
 
         img = Image.open(BytesIO(r.content)).convert("RGB")
         if min(img.size) < 320:
+            return False
+        # Poslední pojistka: obrázek, který je z velké části lidská kůže,
+        # na zpravodajský web nepatří, i kdyby všechno ostatní prošlo.
+        ratio = _skin_ratio(img)
+        if ratio > 0.55:
+            config.log(f"    ZAMÍTNUTO (podíl kůže {ratio:.0%}): {hit.get('title','')[:40]}")
             return False
         # 1200 px stačí i na velké obrazovky a stránka se načte dvakrát rychleji
         img.thumbnail((1200, 1200))

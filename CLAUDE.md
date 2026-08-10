@@ -67,6 +67,15 @@ Tři pravidla, která se neporušují:
 
 Podrobně: `data/EDITORIAL-CODE.md`, oddíl 5.
 
+## Obrázky — bezpečnostní síto
+
+Nevhodný obrázek u článku je horší než žádný. Síto má čtyři vrstvy
+(`engine/imagebank.py`): zakázaná slova včetně názvu souboru, kategorie
+na Wikimedia Commons, kontrola smysluplnosti dotazu na Wikipedii
+a měření podílu kůže po stažení. **Nikdy žádnou z nich neobcházej
+a při pochybnosti obrázek nepoužij.** Podrobně: `data/EDITORIAL-CODE.md`,
+oddíl 8.
+
 ## Co v tomhle repozitáři nikdy nedělat
 
 - neobcházet detekci automatického publikování na sociálních sítích

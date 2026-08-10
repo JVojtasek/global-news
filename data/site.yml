@@ -303,3 +303,26 @@ partners:
     url: "https://quantummarketanalyzer.com/magazin"
     en: "Markets and money, explained without hype. Our sister publication."
     cs: "Trhy a peníze vysvětlené bez humbuku. Náš sesterský magazín."
+
+# ---------------------------------------------------------------------
+# MĚŘENÍ NÁVŠTĚVNOSTI A VYHLEDÁVAČE
+#   Nic z toho nesleduje jednotlivé lidi. Zajímá nás, které články
+#   čtenáře baví — ne kdo je čte.
+# ---------------------------------------------------------------------
+analytics:
+  # Cloudflare Web Analytics: bez cookies, bez profilování, zdarma.
+  # Token vezmeš v Cloudflare → Analytics & Logs → Web Analytics →
+  # Add a site → mypaper.news → zkopíruj hodnotu "token".
+  # Dokud je prázdné, na web se nevkládá vůbec nic.
+  cloudflare_token: ""
+  # Náhradní možnost, kdybys chtěl jinou službu (Plausible, Umami).
+  # Vyplň jen jedno z toho, ne obojí.
+  plausible_domain: ""
+
+seo_plus:
+  # IndexNow — řekne Bingu, Seznamu a Yandexu o novém článku během minut
+  # místo dnů. Nepotřebuje účet ani registraci, jen tenhle klíč.
+  indexnow_key: "f4713d258c1ec2ea28b195ad7d9a325d"
+  # Rozcestníky podle témat. Dlouhodobě přinášejí nejvíc lidí z vyhledávání:
+  # člověk hledá „cukrovka výzkum", ne titulek konkrétního článku.
+  topic_hubs: true

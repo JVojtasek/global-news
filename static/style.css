@@ -30,7 +30,10 @@ body{
   font:17px/1.65 Georgia,"Iowan Old Style","Times New Roman",serif;
 }
 a{color:inherit}
-img{max-width:100%;display:block}
+/* `height:auto` patří k rozměrům zapsaným přímo u obrázku: prohlížeč si
+   podle nich nechá místo dopředu, takže text pod obrázkem nikam
+   neposkočí — a obrázek se přesto přizpůsobí šířce sloupce. */
+img{max-width:100%;height:auto;display:block}
 
 .wrap{max-width:var(--max);margin:0 auto;padding:0 1.25rem}
 .wide{max-width:64rem;margin:0 auto;padding:0 1.25rem}
@@ -671,3 +674,55 @@ nav.sections a.nav-you:hover{border-color:var(--accent)}
 .partners ul{list-style:none;padding:0;margin:0}
 .partners li{margin-bottom:.4rem;font-size:.85rem}
 .partners li span{display:block;color:var(--ink-soft);font-size:.8rem}
+
+
+/* =====================================================================
+   Rozcestník podle tématu  (/<jazyk>/topic/<téma>/)
+
+   Vypadá jako rubrika, jen o něco tišeji: jméno tématu, jeden odstavec
+   a mřížka karet. Stránka je pro každého stejná — nic se nebere
+   z nastavení čtenáře.
+   ===================================================================== */
+.hub-head{padding:2.2rem 0 1.4rem}
+.hub-head .kicker{color:var(--accent)}
+.hub .page-h1{font-size:clamp(1.7rem,3.8vw,2.5rem);line-height:1.12;letter-spacing:-.022em;
+  margin:.3rem 0 .5rem}
+.hub .dek{color:var(--ink-soft);font-size:1.02rem;margin:0 0 1rem;max-width:38rem}
+.hub-meta{display:flex;align-items:center;justify-content:space-between;gap:.5rem 1.2rem;
+  flex-wrap:wrap;padding:.5rem 0 .55rem;
+  border-top:1px solid var(--line);border-bottom:2px solid var(--ink);
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-soft)}
+.hub-back{color:var(--accent);text-decoration:none}
+.hub-back:hover{text-decoration:underline}
+.hub .fy-health{margin:1.2rem 0 0}
+.hub .grid{margin-top:1.6rem}
+
+/* řádek „Víc k tématu“ pod článkem */
+.morerow{display:flex;flex-wrap:wrap;align-items:center;gap:.45rem;
+  margin:2.2rem 0 0;padding-top:1.1rem;border-top:1px solid var(--line);
+  font-family:ui-sans-serif,system-ui,sans-serif}
+.morerow-lab{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--ink-soft);margin-right:.3rem}
+.morerow a{display:inline-block;padding:.24rem .75rem;border:1px solid var(--line);
+  border-radius:99px;font-size:.82rem;text-decoration:none;color:var(--ink)}
+.morerow a:hover{border-color:var(--accent);color:var(--accent)}
+
+/* Tichá pozvánka k odběru uvnitř článku: dva řádky a odkaz. Žádné
+   políčko, žádné vyskakovací okno — kdo dočetl, ten si najde cestu sám. */
+.signup.inline{margin:2.4rem 0 0;padding:1.1rem 1.2rem;border:0;border-left:2px solid var(--accent);
+  border-radius:0 8px 8px 0;background:var(--bg-soft)}
+.signup.inline .signup-head{font-weight:600;color:var(--ink);margin:0 0 .25rem;max-width:34rem}
+.signup.inline p{font-size:.95rem;margin:0;max-width:34rem}
+.signup.inline a{color:var(--accent);white-space:nowrap}
+
+/* stránka 404 */
+.e404-find{display:flex;gap:.6rem;flex-wrap:wrap;max-width:30rem;margin:1.4rem 0 2rem}
+.e404-find input{flex:1;min-width:12rem;padding:.65rem .8rem;border:1px solid var(--line);
+  border-radius:8px;background:var(--card);color:var(--ink);font:inherit;font-size:.95rem}
+.e404-find button{padding:.65rem 1.3rem;border:0;border-radius:8px;background:var(--accent);
+  color:#fff;font:inherit;font-size:.95rem;cursor:pointer}
+.e404-find button:hover{filter:brightness(1.08)}
+.e404-secs{line-height:2.2}
+.e404-secs a{color:var(--accent);text-decoration:none}
+.e404-secs a:hover{text-decoration:underline}

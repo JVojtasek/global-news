@@ -15,6 +15,11 @@ import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import analyst, article, config, images, impact, interests, members, quotes, reader
+from . import seo as indexnow          # `seo` je uvnitř run() nastavení z site.yml
+
+# Jazyk stránky pro sdílení na sítích. Web píše britskou angličtinou,
+# proto en_GB — Facebook a spol. z toho vybírají správnou verzi náhledu.
+LOCALES = {"en": "en_GB", "cs": "cs_CZ", "sk": "sk_SK"}
 
 STRINGS = {
     "en": {
@@ -241,6 +246,29 @@ Write to {email}. We answer.""",
                         "e-mail address is used to send you what you signed up for and nothing else. "
                         "What you tick in your reading settings stays in your browser and never reaches us.",
         "mem_terms": "Membership terms",
+        # --- rozcestníky podle témat ---------------------------------
+        # počet článků skloňovaný: 1 / 2-4 / 5 a víc (čeština to potřebuje)
+        "count_one": "%d article",
+        "count_few": "%d articles",
+        "count_many": "%d articles",
+        "hub_more": "More on this",
+        "hub_intro": "Everything we have published on %s, newest first. Background, research "
+                     "and plain explanation — not only the headline of the day.",
+        "hub_back": "Browse the whole %s section",
+        # --- tichá pozvánka na konci článku ---------------------------
+        "nl_inline_cta": "How to get it by e-mail",
+        # --- stránka 404 ----------------------------------------------
+        "e404_title": "That page is not here",
+        "e404_line": "Sorry about that — the address may have a typo, or we may have moved the piece.",
+        "e404_go": "Search",
+        "e404_secs": "Or start from a section",
+        # --- doplněk stránky o soukromí, když se zapne měření ----------
+        "priv_analytics": "## Counting visits\n\n"
+                          "This site counts how often each page is opened, using %s — a service "
+                          "that sets no cookies, stores no identifier and builds no profile. It "
+                          "tells us which articles are worth reading, never who read them. What "
+                          "you tick in your reading settings and in your interests never reaches "
+                          "it: that stays in your browser, exactly as described above.",
     },
     "cs": {
         "briefing_title": "Svět dnes za pět minut",
@@ -464,6 +492,29 @@ Pište na {email}. Odpovídáme.""",
                         "E-mailová adresa slouží k tomu, co sis objednal, a k ničemu jinému. Co si "
                         "zaškrtneš v nastavení čtení, zůstane v tvém prohlížeči a k nám se nedostane.",
         "mem_terms": "Podmínky členství",
+        # --- rozcestníky podle témat ---------------------------------
+        # počet článků skloňovaný: 1 / 2-4 / 5 a víc
+        "count_one": "%d článek",
+        "count_few": "%d články",
+        "count_many": "%d článků",
+        "hub_more": "Víc k tématu",
+        "hub_intro": "Všechno, co jsme vydali k tématu %s, od nejnovějšího. Souvislosti, výzkum "
+                     "a srozumitelné vysvětlení — ne jenom titulek dne.",
+        "hub_back": "Prohlédnout celou rubriku %s",
+        # --- tichá pozvánka na konci článku ---------------------------
+        "nl_inline_cta": "Jak to dostat e-mailem",
+        # --- stránka 404 ----------------------------------------------
+        "e404_title": "Tahle stránka tu není",
+        "e404_line": "Omlouváme se — buď je v adrese překlep, nebo jsme text přesunuli jinam.",
+        "e404_go": "Hledat",
+        "e404_secs": "Nebo začni od rubriky",
+        # --- doplněk stránky o soukromí, když se zapne měření ----------
+        "priv_analytics": "## Počítání návštěv\n\n"
+                          "Web počítá, kolikrát se která stránka otevřela. Používá k tomu %s — "
+                          "službu, která nenastavuje cookies, neukládá žádný identifikátor "
+                          "a nevytváří profily. Říká nám, které články stojí za přečtení, nikdy "
+                          "ne, kdo je četl. Co si zaškrtneš v nastavení čtení a v zájmech, se "
+                          "k ní nedostane: zůstává to v tvém prohlížeči přesně tak, jak je psáno výš.",
     },
 }
 STRINGS.setdefault("sk", STRINGS["cs"])
@@ -508,6 +559,46 @@ def _published_label(meta: dict, path=None, lang: str = "en") -> str:
     return f"{d.day} {d:%B %Y}, {d:%H:%M}"
 
 
+def _img_size(slug: str) -> tuple:
+    """Skutečné rozměry obálky. Bez nich stránka při načtení poskočí.
+
+    Čte se přímo ze souboru, který právě vznikl v public/img — hádat
+    se to nedá, obrázky přicházejí z různých zdrojů. Když soubor není,
+    vrátí se (None, None) a šablona atributy prostě nevypíše.
+    """
+    p = config.PUBLIC / "img" / f"{slug}.jpg"
+    try:
+        from PIL import Image
+        with Image.open(p) as im:      # rozměry se čtou z hlavičky, ne z pixelů
+            w, h = im.size
+        return (int(w), int(h)) if w and h else (None, None)
+    except Exception:  # noqa: BLE001
+        return (None, None)
+
+
+# Počítadla a sledovací pixely v převzatých článcích. Připojení k nim
+# nikdy nepředpřipravujeme — zrychlovat sledování čtenáře není naše práce.
+_NO_PRECONNECT = ("counter", "gravatar", "pixel", "analytic", "stats.", "track")
+
+
+def _remote_img_host(body_html: str) -> str:
+    """Cizí server, ze kterého se v převzatém článku tahají obrázky.
+
+    Vrátí nejčastější takový server, aby se na něj dalo navázat spojení
+    dopředu (`preconnect`) a velký obrázek se objevil dřív. Naše vlastní
+    obálky jsou na stejné doméně, takže u běžného článku nevrátí nic.
+    """
+    import re as _re
+    from urllib.parse import urlparse as _up
+    hosts: dict = {}
+    for src in _re.findall(r'<img[^>]+src="(https?://[^"]+)"', body_html or ""):
+        host = _up(src).netloc
+        if not host or any(bad in host for bad in _NO_PRECONNECT):
+            continue
+        hosts[host] = hosts.get(host, 0) + 1
+    return max(hosts, key=hosts.get) if hosts else ""
+
+
 def _view(meta: dict, body: str, path=None) -> dict:
     lang = meta["lang"]
     labels = article.LAYER_LABELS.get(lang, article.LAYER_LABELS["en"])
@@ -528,6 +619,10 @@ def _view(meta: dict, body: str, path=None) -> dict:
             meta[_k] = _html_mod.unescape(meta[_k])
     words = len(body.split())
     w = reader.weigh(meta, body)
+    body_html = _html(body) if not layers else ""
+    # obrázek musí být na disku dřív, než se z něj čtou rozměry
+    img = images.ensure(meta)
+    img_w, img_h = _img_size(meta.get("slug", "")) if img.get("src") else (None, None)
     return {
         **meta,
         "url": _url(meta),
@@ -542,8 +637,12 @@ def _view(meta: dict, body: str, path=None) -> dict:
         "impact": impact.read(meta, body),
         "published_iso": _published_iso(meta, path),
         "published_label": _published_label(meta, path, lang),
-        "body_html": _html(body) if not layers else "",
-        **({"image": (_img := images.ensure(meta))["src"], "credit": _img["credit"]}),
+        "body_html": body_html,
+        "image": img["src"], "credit": img["credit"],
+        # rozměry obálky do šablony, ať stránka při načtení neposkočí
+        "img_w": img_w, "img_h": img_h,
+        # cizí server s obrázky (jen u převzatých textů) — kvůli preconnect
+        "img_host": _remote_img_host(body_html or " ".join(l["html"] for l in layers)),
         "section_label": section_label,
         # public = běžný článek, early = zatím jen shrnutí a nabídka členství,
         # members = na web se nevydá vůbec (viz engine/members.py)
@@ -654,8 +753,10 @@ def _jsonld(a: dict, site: dict) -> str:
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": a.get("title", "")[:110],
         "description": a.get("dek", ""),
-        "datePublished": a.get("date", ""),
-        "dateModified": a.get("date", ""),
+        # přesný čas vydání, ne jen den — vyhledávače podle něj řadí
+        "datePublished": a.get("published_iso") or a.get("date", ""),
+        "dateModified": (a.get("updated_at") or a.get("published_iso")
+                         or a.get("date", "")),
         "articleSection": a.get("section_label", ""),
         "inLanguage": a.get("lang", "en"),
         "mainEntityOfPage": {"@type": "WebPage", "@id": config.origin() + a["url"]},
@@ -673,6 +774,157 @@ def _jsonld(a: dict, site: dict) -> str:
     elif a.get("syndicated"):
         data["mainEntityOfPage"] = {"@type": "WebPage", "@id": a["syndicated"]["url"]}
     return json.dumps(data, ensure_ascii=False)
+
+
+# Jak se která služba pro měření návštěvnosti jmenuje na stránce
+# o soukromí. Odkaz míří na to, co o sobě sama píše.
+_ANALYTICS_NAMES = {
+    "cloudflare": "[Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/)",
+    "plausible": "[Plausible](https://plausible.io/privacy-focused-web-analytics)",
+}
+
+
+def _e404_html(t: dict, nav: list, lang: str) -> str:
+    """Tělo stránky 404: omluva, hledání a rozcestí do rubrik.
+
+    Hledání je obyčejný formulář `GET` do archivu — ten si parametr
+    `?q=` přečte sám. Bez javascriptu, bez přesměrování, bez měření.
+    """
+    esc, bp = _html_mod.escape, config.base_path()
+    links = " · ".join(
+        f'<a href="{bp}/{lang}/{s["id"]}/">{esc(s.get(lang) or s["en"])}</a>' for s in nav)
+    return (
+        f'<p class="dek">{esc(t["e404_line"])}</p>'
+        f'<form class="e404-find" role="search" method="get" action="{bp}/{lang}/archive/">'
+        f'<input type="search" name="q" autocomplete="off" '
+        f'placeholder="{esc(t["archive_search"])}" aria-label="{esc(t["archive_search"])}">'
+        f'<button type="submit">{esc(t["e404_go"])}</button>'
+        f'</form>'
+        f'<h2>{esc(t["e404_secs"])}</h2>'
+        f'<p class="e404-secs">{links}</p>'
+    )
+
+
+def _privacy_note(text: str, site: dict, t: dict) -> str:
+    """Dopíše do stránky o soukromí odstavec o měření — jen když běží."""
+    cfg = site.get("analytics") or {}
+    which = ("cloudflare" if cfg.get("cloudflare_token")
+             else "plausible" if cfg.get("plausible_domain") else "")
+    if not which:
+        return text
+    note = t["priv_analytics"] % _ANALYTICS_NAMES[which]
+    # radši před závěrečné „napište nám" než úplně na konec stránky
+    for anchor in ("## Ask us anything", "## Zeptejte se nás na cokoli"):
+        if anchor in text:
+            return text.replace(anchor, f"{note}\n\n{anchor}", 1)
+    return f"{text}\n\n{note}\n"
+
+
+def _count_label(n: int, t: dict) -> str:
+    """„7 článků", ale „3 články" a „1 článek". Angličtina má tvary dva."""
+    key = "count_one" if n == 1 else "count_few" if 2 <= n <= 4 else "count_many"
+    return t[key] % n
+
+
+HUB_MIN = 3          # míň než tři články rozcestník nepotřebuje
+
+
+def _hubs(arts: list, lang: str, site: dict) -> list:
+    """Rozcestníky podle zájmů z data/interests.yml.
+
+    Štítky u článku počítá engine/interests.py při stavbě webu, takže
+    rozcestník je jen jiný pohled na tentýž veřejný seznam — nic se
+    neodvozuje z chování čtenáře a nic se nikam neposílá.
+
+    Zdravotní skupina má vlastní příznak: na takové stránce se pak
+    ukáže stálá poznámka, že zdraví je tady téma, ne rada
+    (EDITORIAL-CODE, oddíl 5).
+    """
+    meta: dict = {}
+    for g in interests.catalogue():
+        for it in g.get("items", []):
+            meta[it["id"]] = (it.get(lang) or it.get("en") or it["id"], g.get("id") == "health")
+
+    buckets: dict = {}
+    for a in arts:
+        for tag in (a.get("tags_csv") or "").split(","):
+            if tag in meta:
+                buckets.setdefault(tag, []).append(a)
+
+    order = [s["id"] for s in site["sections"]]
+    sec_label = {s["id"]: (s.get(lang) or s["en"]) for s in site["sections"]}
+    hubs = []
+    for tag, (label, is_health) in meta.items():          # pořadí z katalogu
+        group = buckets.get(tag, [])
+        if len(group) < HUB_MIN:
+            continue
+        # Odkaz zpátky do rubriky, ze které je téma nejvíc doma. U shody
+        # rozhoduje pořadí rubrik v site.yml, ať se stránka mezi stavbami
+        # nepřehazuje. Zdravotní téma patří do Zdraví, i když zrovna víc
+        # článků vyšlo jinde — jinak by to čtenáři nedávalo smysl.
+        counts: dict = {}
+        for a in group:
+            counts[a["section"]] = counts.get(a["section"], 0) + 1
+        top = min(counts, key=lambda sec: (-counts[sec], order.index(sec)
+                                           if sec in order else len(order)))
+        if is_health and "health" in order:
+            top = "health"
+        hubs.append({
+            "id": tag, "label": label, "health": is_health,
+            "count_label": _count_label(len(group), STRINGS.get(lang, STRINGS["en"])),
+            "url": f"{config.base_path()}/{lang}/topic/{tag}/",
+            "articles": group,
+            "section": top, "section_label": sec_label.get(top, top),
+        })
+    return hubs
+
+
+def _site_jsonld(site: dict, lang: str) -> str:
+    """Kdo web vydává a kde se v něm hledá — jen na titulní straně.
+
+    `SearchAction` míří do archivu: ten má vlastní hledání a rozumí
+    parametru `?q=`. Hledá se přímo v prohlížeči a nikam se neodesílá,
+    takže se tím o čtenáři nic nedozvíme ani my, ani vyhledávač.
+    """
+    brand = site["brand"]
+    name = brand["name_cs"] if lang == "cs" else brand["name_en"]
+    tagline = brand["tagline_cs"] if lang == "cs" else brand["tagline_en"]
+    base = config.origin() + config.base_path()
+    home = f"{base}/{lang}/"
+    org = {
+        "@type": "Organization",
+        "@id": f"{base}/#organization",
+        "name": brand["name_en"],
+        "alternateName": brand["name_cs"],
+        "url": brand["url"],
+        "email": brand.get("email", ""),
+        "description": tagline,
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "email": brand.get("email", ""),
+            "contactType": "editorial",
+            "availableLanguage": ["en", "cs"],
+        },
+    }
+    website = {
+        "@type": "WebSite",
+        "@id": f"{home}#website",
+        "url": home,
+        "name": name,
+        "description": tagline,
+        "inLanguage": lang,
+        "publisher": {"@id": org["@id"]},
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": f"{home}archive/?q={{search_term_string}}",
+            },
+            "query-input": "required name=search_term_string",
+        },
+    }
+    return json.dumps({"@context": "https://schema.org", "@graph": [website, org]},
+                      ensure_ascii=False)
 
 
 def _republish_html(a: dict, site: dict) -> str:
@@ -747,11 +999,12 @@ def run() -> None:
     langs = [site["languages"]["master"], *site["languages"]["translations"]]
     today = dt.date.today().isoformat()
 
+    # --- nejdřív se načtou všechny jazyky, teprve pak se staví ---------
+    # Kvůli odkazům `hreflang`: aby se dalo poctivě napsat, ve kterých
+    # jazycích ta stránka opravdu existuje. Půlka anglických článků
+    # česky nevyšla a odkaz na nepřeloženou verzi vede na 404.
+    everything: dict = {}
     for lang in langs:
-        t = STRINGS.get(lang, STRINGS["en"])
-        brand = site["brand"]["name_cs"] if lang == "cs" else site["brand"]["name_en"]
-        tagline = site["brand"]["tagline_cs"] if lang == "cs" else site["brand"]["tagline_en"]
-
         published = [
             (m, b, members.state(m, today), pth)
             for m, b, pth in article.load_all(lang)
@@ -763,6 +1016,29 @@ def run() -> None:
         # aby bylo poznat, co se posílá e-mailem.
         arts = [_view(m, b, pth) for m, b, st, pth in published if st != "members"]
         arts.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
+        hubs = _hubs(arts, lang, site) if (site.get("seo_plus") or {}).get("topic_hubs") else []
+        everything[lang] = {
+            "published": published, "arts": arts, "hubs": hubs,
+            "slugs": {f"{a['section']}/{a['slug']}/" for a in arts},
+            "hub_ids": {h["id"] for h in hubs},
+        }
+
+    def langs_with_article(a: dict) -> list:
+        """Jazyky, ve kterých ten článek opravdu vyšel."""
+        path = f"{a['section']}/{a['slug']}/"
+        return [l for l in langs if path in everything[l]["slugs"]] or [a["lang"]]
+
+    def langs_with_hub(hub_id: str) -> list:
+        """Jazyky, ve kterých má rozcestník dost článků, aby vznikl."""
+        return [l for l in langs if hub_id in everything[l]["hub_ids"]]
+
+    for lang in langs:
+        t = STRINGS.get(lang, STRINGS["en"])
+        brand = site["brand"]["name_cs"] if lang == "cs" else site["brand"]["name_en"]
+        tagline = site["brand"]["tagline_cs"] if lang == "cs" else site["brand"]["tagline_en"]
+
+        published = everything[lang]["published"]
+        arts = everything[lang]["arts"]
 
         by_mail = sorted(
             ({"title": m.get("title", ""), "dek": m.get("dek", ""),
@@ -793,7 +1069,32 @@ def run() -> None:
             nl_button=(site.get("newsletter", {}).get(f"button_{lang}")
                        or site.get("newsletter", {}).get("button_en", "")),
             mem=members.cfg(),
+            # Měření návštěvnosti. Dokud jsou obě políčka v site.yml
+            # prázdná, nevloží se do stránky vůbec nic — ani komentář.
+            analytics=site.get("analytics") or {},
+            og_locale=LOCALES.get(lang, "en_GB"), og_locales=LOCALES,
+            # výchozí hodnoty, které si každá stránka přepíše přes page()
+            canonical="", alt_path="", page_type="page", home_jsonld="",
+            alt_langs=langs,
         )
+
+        def page(path: str = "", ptype: str = "page", **extra) -> dict:
+            """Kontext jedné stránky: kanonická adresa, jazykové varianty, typ.
+
+            `path` je cesta za jazykem ('world/', 'topic/space/', '' pro
+            titulní stranu). Je stejná pro všechny jazyky, takže z ní jde
+            odvodit i `hreflang`.
+            """
+            return {**common, "page_type": ptype, "alt_path": path,
+                    "canonical": f"{config.origin()}{config.base_path()}/{lang}/{path}",
+                    **extra}
+
+        # --- rozcestníky podle témat ----------------------------------
+        # Člověk hledá „výzkum cukrovky", ne titulek. Rozcestník je
+        # stránka, která na takový dotaz odpovídá — a zároveň drží
+        # pohromadě, co jsme k tématu za měsíce napsali.
+        hubs = everything[lang]["hubs"]
+        hub_by_id = {h["id"]: h for h in hubs}
 
         # --- článek ---
         rep_cfg = site.get("republish", {})
@@ -807,6 +1108,13 @@ def run() -> None:
             a["faq"] = "" if early else _faq_jsonld(a)
             a["crumbs"] = _breadcrumbs(a, site)
             a["related"] = _related(a, arts, int(seo.get("related_count", 3)))
+            # Rozcestníky, do kterých článek patří — řádek „Víc k tématu"
+            # pod textem. Bere se ze štítků článku, ne z nastavení čtenáře.
+            a["hubs"] = [
+                {"id": h["id"], "label": h["label"], "url": h["url"]}
+                for tag in (a.get("tags_csv") or "").split(",")
+                if (h := hub_by_id.get(tag))
+            ][:4]
             a["republish"] = (
                 _republish_html(a, site)
                 if not early and rep_cfg.get("enabled")
@@ -814,8 +1122,19 @@ def run() -> None:
                 and not a.get("syndicated")
                 else ""
             )
+            # kanonickou adresu si článek řeší sám (převzatý text míří
+            # na originál), proto se tu z page() nebere
             _write(out / lang / a["section"] / a["slug"] / "index.html",
-                   env.get_template("article.html").render(a=a, **common))
+                   env.get_template("article.html").render(
+                       a=a, **{**common, "page_type": "article",
+                               "alt_langs": langs_with_article(a)}))
+
+        # --- rozcestníky podle témat ---
+        for h in hubs:
+            _write(out / lang / "topic" / h["id"] / "index.html",
+                   env.get_template("hub.html").render(
+                       **page(f"topic/{h['id']}/", "hub", hub=h,
+                              alt_langs=langs_with_hub(h["id"]))))
 
         # --- titulní strana ---
         briefing = [a for a in arts if a["type"] in ("news", "daily", "demand")][:7]
@@ -840,7 +1159,8 @@ def run() -> None:
                    impact_rail=[a for a in arts if a.get("impact")][:4],
                    briefing=briefing, lead=lead, articles=arts[1:9],
                    rows=rows, ticker=_ticker(site, lang),
-                   thought=quotes.thought(), **common))
+                   thought=quotes.thought(),
+                   **page("", "home", home_jsonld=_site_jsonld(site, lang))))
 
         # --- rubriky ---
         # Proužek rychlých zpráv patří všude, kde čtenář chce vědět, co se
@@ -855,7 +1175,7 @@ def run() -> None:
                        section_calm=bool(s.get("calm")),
                        ticker=([] if s.get("calm") else tick),
                        thought=quotes.thought(),
-                       **{**common, "current_section": s["id"]}))
+                       **page(f"{s['id']}/", "section", current_section=s["id"])))
 
         # --- archiv: všechno, co kdy vyšlo, na jedné stránce ------------
         # Kvůli vyhledávačům i kvůli čtenáři. Statický web nemá databázi,
@@ -867,7 +1187,8 @@ def run() -> None:
         years = [{"year": y, "articles": sorted(v, key=lambda x: x["date"], reverse=True)}
                  for y, v in sorted(by_year.items(), reverse=True)]
         _write(out / lang / "archive" / "index.html",
-               env.get_template("archive.html").render(years=years, total=len(arts), **common))
+               env.get_template("archive.html").render(
+                   years=years, total=len(arts), **page("archive/", "archive")))
 
         # --- stránka pro média, která chtějí naše články převzít ---
         if site.get("republish", {}).get("enabled"):
@@ -877,7 +1198,8 @@ def run() -> None:
                        page_html=_html(t["republish_body"].format(
                            license=site["republish"]["license"],
                            license_url=site["republish"]["license_url"],
-                           email=site["brand"]["email"])), **common))
+                           email=site["brand"]["email"])),
+                       **page("republish/", "page")))
 
         # --- počasí ---
         # výchozí místo, dokud si čtenář nevybere svoje
@@ -885,7 +1207,8 @@ def run() -> None:
             lang, {"name": "London", "country": "", "admin": "", "lat": 51.51, "lon": -0.13})
         _write(out / lang / "weather" / "index.html",
                env.get_template("weather.html").render(
-                   weather_default=json.dumps(wx_default, ensure_ascii=False), **common))
+                   weather_default=json.dumps(wx_default, ensure_ascii=False),
+                   **page("weather/", "weather")))
 
         # --- seznam všech článků pro prohlížeč ------------------------
         # Web nemá server ani databázi, takže osobní výběr musí sestavit
@@ -908,11 +1231,11 @@ def run() -> None:
         with_impact = [a for a in arts if a.get("impact")]
         _write(out / lang / "impact" / "index.html",
                env.get_template("impact.html").render(
-                   articles=with_impact, areas=impact.AREAS, **common))
+                   articles=with_impact, areas=impact.AREAS, **page("impact/", "page")))
 
         # --- osobní výběr ---------------------------------------------
         _write(out / lang / "foryou" / "index.html",
-               env.get_template("foryou.html").render(**common))
+               env.get_template("foryou.html").render(**page("foryou/", "page")))
 
         # --- členství -------------------------------------------------
         # Jediná stránka, kde je vidět, co členství je: úrovně, co se
@@ -921,20 +1244,28 @@ def run() -> None:
             _write(out / lang / "members" / "index.html",
                    env.get_template("members.html").render(
                        tiers=members.tiers(lang), early=in_early,
-                       by_mail=by_mail, **common))
+                       by_mail=by_mail, **page("members/", "page")))
 
         # --- statické stránky ---
         for name in ("about", "start", "privacy", "terms"):
             src = config.DATA / "pages" / f"{name}.{lang}.md"
+            page_lang = lang
             if not src.exists():
                 src = config.DATA / "pages" / f"{name}.en.md"
+                page_lang = "en"
             if src.exists():
                 raw = src.read_text(encoding="utf-8").replace("{email}", site["brand"]["email"])
                 title = raw.splitlines()[0].lstrip("# ").strip()
+                text = "\n".join(raw.splitlines()[1:])
+                # Stránka o soukromí musí zůstat pravdivá i potom, co
+                # majitel zapne měření návštěvnosti. Odstavec o něm se
+                # proto dopíše sám — a zase sám zmizí, když se vypne.
+                if name == "privacy":
+                    text = _privacy_note(text, site, STRINGS.get(page_lang, STRINGS["en"]))
                 _write(out / lang / name / "index.html",
                        env.get_template("page.html").render(
-                           page_title=title,
-                           page_html=_html("\n".join(raw.splitlines()[1:])), **common))
+                           page_title=title, page_html=_html(text),
+                           **page(f"{name}/", "page")))
 
         # --- předpovědi ---
         fc = analyst.load_forecasts()["forecasts"]
@@ -945,10 +1276,21 @@ def run() -> None:
                    open=[f for f in fc if f["status"] == "open"],
                    resolved=sorted([f for f in fc if f["status"] == "resolved"],
                                    key=lambda f: f.get("resolved_on", ""), reverse=True),
-                   void=[f for f in fc if f["status"] == "void"], **common))
+                   void=[f for f in fc if f["status"] == "void"],
+                   **page("forecasts/", "page")))
 
         # --- RSS ---
         _write(out / lang / "feed.xml", _feed(arts[:30], brand, tagline, site["brand"]["url"], lang))
+
+        # --- stránka 404 ----------------------------------------------
+        # GitHub Pages ji nabídne sám, kdykoli adresa nikam nevede.
+        # Staví se v hlavním jazyce — ze špatné adresy se jazyk poznat nedá.
+        if lang == site["languages"]["master"]:
+            _write(out / "404.html",
+                   env.get_template("page.html").render(
+                       page_title=t["e404_title"],
+                       page_html=_e404_html(t, nav, lang),
+                       **page("", "404", canonical="")))
 
     # --- kořen webu ---
     master = site["languages"]["master"]
@@ -962,6 +1304,11 @@ def run() -> None:
     _write(out / "robots.txt",
            f"User-agent: *\nAllow: /\nDisallow: {config.base_path()}/admin/\n"
            f"Sitemap: {site['brand']['url']}/sitemap.xml\n")
+
+    # Klíč pro IndexNow. Vyhledávač si tímhle souborem ověří, že adresy
+    # hlásí opravdu majitel webu. Bez něj by se ohlášení zahodilo.
+    if indexnow.write_key_file(out):
+        config.log(f"IndexNow: klíč vystaven na {indexnow.key_location()}")
 
     # admin sekce — bez tokenu je to prázdná stránka, proto může být veřejně
     admin_src = config.ROOT / "admin"

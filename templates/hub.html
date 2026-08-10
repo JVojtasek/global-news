@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{#  ROZCESTNÍK PODLE TÉMATU
+
+    Člověk ve vyhledávači nehledá titulek, ale téma: „výzkum cukrovky",
+    „bezpečné heslo", „vesmírný teleskop". Tahle stránka je odpověď na
+    takový dotaz — všechno, co jsme k tématu napsali, na jednom místě
+    a v jednom seznamu, který sám roste, jak přibývají články.
+
+    Témata jsou tatáž jako v nastavení čtenáře (data/interests.yml),
+    ale nic se tu nebere z jeho nastavení: štítky u článků se počítají
+    při stavbě webu z jejich vlastního textu a stránka je pro každého
+    stejná. U zdravotní skupiny je navíc stálá poznámka, že zdraví je
+    tady téma, ne rada — viz EDITORIAL-CODE, oddíl 5.  #}
+{% block title %}{{ hub.label }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.hub_intro|format(hub.label) }}{% endblock %}
+{% block body %}
+<div class="wide hub">
+  <div class="hub-head">
+    <div class="kicker">{{ t.hub_more }}</div>
+    <h1 class="page-h1">{{ hub.label }}</h1>
+    <p class="dek">{{ t.hub_intro|format(hub.label) }}</p>
+    <div class="hub-meta">
+      <span class="sec-count">{{ hub.count_label }}</span>
+      <a class="hub-back" href="{{ base }}/{{ lang }}/{{ hub.section }}/">{{ t.hub_back|format(hub.section_label) }}</a>
+    </div>
+    {% if hub.health %}<p class="fy-note fy-health">{{ t.foryou_health_note }}</p>{% endif %}
+  </div>
+
+  <div class="grid">
+    {% for art in hub.articles %}
+    <div class="card{% if not art.image %} nopic{% endif %}" data-load="{{ art.load }}" data-band="{{ art.band }}" data-topics="{{ art.topics_csv }}" data-tags="{{ art.tags_csv }}" data-date="{{ art.date }}" data-words="{{ art.words }}" data-brief="{{ 1 if art.has_brief else 0 }}">
+      {% if art.image %}<a href="{{ art.url }}"><img src="{{ art.image }}" alt=""{% if art.img_w and art.img_h %} width="{{ art.img_w }}" height="{{ art.img_h }}"{% endif %} loading="lazy" decoding="async"></a>{% endif %}
+      <div class="body">
+        <div class="kicker">{{ art.section_label }} · {{ art.date }}</div>
+        <h3><a href="{{ art.url }}">{{ art.title }}</a></h3>
+        <p>{{ art.dek }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <p class="sec-arch"><a href="{{ base }}/{{ lang }}/archive/">{{ t.archive_link }}</a></p>
+</div>
+{% endblock %}

@@ -6,12 +6,42 @@
 <title>{% block title %}{{ brand }}{% endblock %}</title>
 <meta name="description" content="{% block description %}{{ tagline }}{% endblock %}">
 <link rel="stylesheet" href="{{ base }}/style.css">
+{# Barva lišty prohlížeče, zvlášť pro světlý a tmavý režim. Jsou to
+   přesně hodnoty --bg ze style.css, ať nad stránkou nesvítí cizí pruh. #}
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#faf8f4">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#14120f">
 <script>(function(){try{var t=localStorage.getItem("tds-theme");if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <link rel="alternate" type="application/rss+xml" title="{{ brand }}" href="{{ base }}/{{ lang }}/feed.xml">
-{% for l in all_langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ site_url }}{{ base }}/{{ l }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
-{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site_url }}{{ base }}/{{ all_langs[0] }}/{% if a %}{{ a.section }}/{{ a.slug }}/{% endif %}">
+{# Táž stránka v druhém jazyce. `alt_path` je cesta za jazykem a je pro
+   obě jazykové verze stejná; u článku se skládá z rubriky a jména.
+   `alt_langs` jsou jazyky, ve kterých ta stránka opravdu existuje —
+   půlka anglických článků česky nevyšla a odkaz na nepřeloženou verzi
+   by vedl na 404. #}
+{% set alt = alt_path or (a.section ~ "/" ~ a.slug ~ "/" if a else "") %}
+{% for l in alt_langs %}<link rel="alternate" hreflang="{{ l }}" href="{{ site_url }}{{ base }}/{{ l }}/{{ alt }}">
+{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site_url }}{{ base }}/{{ alt_langs[0] }}/{{ alt }}">
+{% if canonical %}<link rel="canonical" href="{{ canonical }}">{% endif %}
 <meta name="twitter:card" content="summary_large_image">
 {% if seo.twitter_handle %}<meta name="twitter:site" content="{{ seo.twitter_handle }}">{% endif %}
+<meta property="og:site_name" content="{{ brand }}">
+<meta property="og:locale" content="{{ og_locale }}">
+{% for l in all_langs %}{% if l != lang %}<meta property="og:locale:alternate" content="{{ og_locales[l] }}">
+{% endif %}{% endfor %}
+{# Náhled při sdílení. Článek si svůj vypisuje sám — má obrázek, čas
+   vydání i rubriku. Tohle je varianta pro všechny ostatní stránky. #}
+{% if not a %}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.description() }}">
+{% if canonical %}<meta property="og:url" content="{{ canonical }}">{% endif %}
+<meta name="twitter:title" content="{{ self.title() }}">
+<meta name="twitter:description" content="{{ self.description() }}">
+{% endif %}
+{% if home_jsonld %}<script type="application/ld+json">{{ home_jsonld|safe }}</script>{% endif %}
+{% if page_type == "404" %}<meta name="robots" content="noindex">{% endif %}
+{# Mapová knihovna se stahuje z unpkg.com, a jen na stránce s počasím.
+   Jinde by to bylo spojení navíc pro nic. #}
+{% if page_type == "weather" %}<link rel="dns-prefetch" href="https://unpkg.com">{% endif %}
 {% if seo.google_verification %}<meta name="google-site-verification" content="{{ seo.google_verification }}">{% endif %}
 {% if seo.bing_verification %}<meta name="msvalidate.01" content="{{ seo.bing_verification }}">{% endif %}
 {% block head %}{% endblock %}
@@ -278,5 +308,33 @@ function tdsTheme(){
   "picked": t.picked
 }|tojson }};</script>
 <script src="{{ base }}/reader.js" defer></script>
+{%- if page_type == "archive" %}
+{# Odkaz z vyhledávače může nést hledaný výraz (?q=…). Předvyplní se
+   jím políčko a spustí se totéž filtrování, které dělá psaní rukou —
+   všechno v prohlížeči, nikam se nic neodesílá. #}
+<script>
+(function(){
+  var q=document.getElementById("arch-q");
+  if(!q)return;
+  var m=/[?&]q=([^&]*)/.exec(location.search);
+  if(!m)return;
+  var v="";
+  try{v=decodeURIComponent(m[1].replace(/\+/g," "));}catch(e){v=m[1];}
+  if(!v)return;
+  q.value=v;
+  q.dispatchEvent(new Event("input",{bubbles:true}));
+})();
+</script>
+{%- endif %}
+{#  Měření návštěvnosti. Vkládá se jen tehdy, když je v data/site.yml
+    vyplněný token — a vždycky nejvýš jedna služba. Když jsou obě
+    políčka prázdná, nevyjde odsud vůbec nic: ani skript, ani komentář.
+    Ani jedna z těch služeb nesleduje jednotlivé lidi a ani jedné se
+    nikdy nesmí předat nic z nastavení čtenáře (EDITORIAL-CODE, oddíl 5).  #}
+{%- if analytics.cloudflare_token %}
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ analytics.cloudflare_token }}"}'></script>
+{%- elif analytics.plausible_domain %}
+<script defer data-domain="{{ analytics.plausible_domain }}" src="https://plausible.io/js/script.js"></script>
+{%- endif %}
 </body>
 </html>
