@@ -1,8 +1,7 @@
 ---
 slug: therealreal-rust-gmv-nestaci-rozhoduje-take-rate-a-zisk-po-primych-nak
-title: 'TheRealReal: růst GMV nestačí, rozhoduje take rate a zisk po přímých nákladech
-  — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U marketplace příběhů nestačí sledovat růst GMV; rozhoduje
+title: 'TheRealReal: růst GMV nestačí, rozhoduje take rate a zisk po přímých nákladech'
+dek: 'U marketplace příběhů nestačí sledovat růst GMV; rozhoduje
   take rate, hrubý zisk po přímých nákladech a u fyzických poboček ověřitelná návratnost
   po nájmu,'
 section: business
@@ -48,6 +47,6 @@ Největší riziko u podobných zpráv: GMV nad 20 % může vyvolat nadšení, a
 
 Consignment-only model je jako když prodáváte sousedovu lyžařskou bundu na bazaru a necháte si provizi. Nemusíte bundu koupit, nenesete plné riziko, že zůstane viset na věšáku, ale vyděláte, když se prodá. Pro trh to znamená, že firma může růst lehčeji než klasický obchod se skladem. Pro akcie je klíčové, zda provize a marže pokryjí všechny náklady kolem důvěry. Pro běžného člověka je dopad nepřímý: silnější resale trh může zlevnit přístup k luxusu a zároveň zvýšit hodnotu věcí, které už lidé mají ve skříni.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

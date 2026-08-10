@@ -1,10 +1,9 @@
 ---
 slug: fed-bez-novych-dat-jak-trh-presouva-sazby-pres-dvoulete-vynosy-a-proc-
 title: 'The Fed without new data: how the market reprices rates through two-year yields,
-  and why that moves bonds — QMA Brain Analysis'
-dek: 'QMA Brain analysis: when the Fed talks but no new data arrive, watch above all
-  whether the market is repricing rates through two-year yields or merely paying a
-  higher price for uncertainty.'
+  and why that moves bonds'
+dek: When the Fed talks but no new data arrive, watch above all whether the market
+  is repricing rates through two-year yields or merely paying a higher price for uncertainty.
 section: business
 type: imported
 depth: open

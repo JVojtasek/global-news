@@ -1,8 +1,8 @@
 ---
 slug: ai-capex-vodopad-vydelava-rust-trzeb-skutecne-na-dividendu-nebo-jen-vy
 title: 'AI capex vodopád: vydělává růst tržeb skutečně na dividendu, nebo jen vyžene
-  dluh? — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U AI dividendových titulů nestačí sledovat napojení na
+  dluh?'
+dek: 'U AI dividendových titulů nestačí sledovat napojení na
   datová centra; klíčové je, zda růst tržeb opravdu kryje dividendu volným peněžním
   tokem bez nebezpeč'
 section: business
@@ -52,6 +52,6 @@ Riziko je v tom, že „AI infrastruktura“ se může stát štítkem nalepený
 
 Výplatní poměr dividendy je jako když domácnost slíbí, že každý měsíc pošle rodině část výplaty. Když posílá rozumnou částku a po nájmu, jídle a opravách auta jí pořád zbývá rezerva, je to udržitelné. Když ale pošle skoro všechno a ještě si musí půjčit na novou lednici, začíná problém. Pro trh to znamená, že u AI dividendových příběhů nestačí koukat na růst faktur z datových center. Pro akcie je důležité, jestli dividendu kryje skutečná volná hotovost. Pro běžnou peněženku se dopad může objevit nepřímo: v cenách elektřiny, v ziscích firem v penzijních portfoliích i v tom, jak trh ocení společnosti, které umí z AI boomu udělat hotovost, ne jen prezentaci.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

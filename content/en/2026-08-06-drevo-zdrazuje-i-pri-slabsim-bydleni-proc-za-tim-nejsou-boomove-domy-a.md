@@ -1,11 +1,11 @@
 ---
 slug: drevo-zdrazuje-i-pri-slabsim-bydleni-proc-za-tim-nejsou-boomove-domy-a
 title: 'Timber is getting dearer even as housing weakens: the reason is sawmills,
-  not a building boom — QMA Brain Analysis'
-dek: 'QMA Brain analysis: do not read rising timber prices in a weak housing market
-  as the return of a construction boom; check whether it is only short-dated material
-  that is getting dearer, thanks to mill curtailments, inventories and the spread between
-  nearby and deferred contracts.'
+  not a building boom'
+dek: Do not read rising timber prices in a weak housing market as the return of a
+  construction boom; check whether it is only short-dated material that is getting
+  dearer, thanks to mill curtailments, inventories and the spread between nearby and
+  deferred contracts.
 section: business
 type: imported
 depth: open

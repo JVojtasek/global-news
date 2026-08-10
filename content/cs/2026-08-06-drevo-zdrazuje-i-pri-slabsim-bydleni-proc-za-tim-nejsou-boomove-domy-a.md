@@ -1,8 +1,8 @@
 ---
 slug: drevo-zdrazuje-i-pri-slabsim-bydleni-proc-za-tim-nejsou-boomove-domy-a
 title: 'Dřevo zdražuje i při slabším bydlení: proč za tím nejsou boomové domy, ale
-  pily — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: Růst dřeva při slabém bydlení nečtěte jako návrat stavebního
+  pily'
+dek: 'Růst dřeva při slabém bydlení nečtěte jako návrat stavebního
   boomu; ověřte, zda zdražuje jen krátkodobě dostupný materiál kvůli odstávkám pil,
   zásobám a ro'
 section: business
@@ -54,6 +54,6 @@ Klíčové varování: růst ceny dřeva při slabém bydlení není automaticky
 
 Pojem: napětí v nabídce. Představte si pekárnu, kam chodí méně lidí, takže pekař upeče jen polovinu rohlíků. Pak přijde pár zákazníků navíc a regál je prázdný — rohlíky zdraží, i když město jako celek nejí víc pečiva než dřív. Na trhu to znamená, že akcie dřevařů mohou reagovat na lepší marže, stavitelé na vyšší náklady a běžný člověk to může časem cítit v ceně rekonstrukcí, plotů nebo nového domu.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

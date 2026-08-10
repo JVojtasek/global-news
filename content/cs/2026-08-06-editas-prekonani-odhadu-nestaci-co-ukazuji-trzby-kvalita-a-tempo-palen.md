@@ -1,8 +1,8 @@
 ---
 slug: editas-prekonani-odhadu-nestaci-co-ukazuji-trzby-kvalita-a-tempo-palen
 title: 'Editas: překonání odhadů nestačí. Co ukazují tržby, kvalita a tempo pálení
-  hotovosti — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U biotech výsledků neřeš jen překonání odhadů, ale hlavně
+  hotovosti'
+dek: 'U biotech výsledků neřeš jen překonání odhadů, ale hlavně
   zda jsou tržby opakovatelné, jak rychle mizí hotovost a jestli runway skutečně snižuje
   riziko bud'
 section: business
@@ -44,6 +44,6 @@ U podobných zpráv používej tříkrokový filtr. Za prvé: velikost překvape
 
 Ztráta na akcii znamená, kolik mínusu připadá na jednu akcii. Představ si, že jsi čekal, že za večer proděláš 300 korun, ale nakonec proděláš jen 150. Je to lepší? Ano. Jsi v zisku? Ne. Pro trh to znamená úlevu, protože firma možná pálí peníze pomaleji, ale pro běžného člověka je pointa stejná: u biotech akcií nestačí koukat na hezký titulek, důležité je, zda firmě vydrží peníze do dalšího velkého kroku ve vývoji léků.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

@@ -1,10 +1,10 @@
 ---
 slug: hormuz-proc-nerozhoduje-jen-cena-ropy-ale-i-fyzicky-tok-pojisteni-a-ma
 title: 'Hormuz: why it is not just the oil price that matters, but physical flow,
-  insurance and margins — QMA Brain analysis'
-dek: 'QMA Brain analysis: with Hormuz, do not watch the oil price alone but the combination
-  of physical flow, insurance, shipping and refining margins — that is where you find
-  out whether this is short-lived geopolitical noise or a more expensive energy regime'
+  insurance and margins'
+dek: With Hormuz, do not watch the oil price alone but the combination of physical
+  flow, insurance, shipping and refining margins — that is where you find out whether
+  this is short-lived geopolitical noise or a more expensive energy regime
 section: business
 type: imported
 depth: open

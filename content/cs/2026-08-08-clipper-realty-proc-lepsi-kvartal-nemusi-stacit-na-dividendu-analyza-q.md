@@ -1,10 +1,8 @@
 ---
 slug: clipper-realty-proc-lepsi-kvartal-nemusi-stacit-na-dividendu-analyza-q
-title: 'Clipper Realty: proč lepší kvartál nemusí stačit na dividendu — Analýza QMA
-  Brain'
-dek: 'Analýza QMA Brain 🤖: U zadlužených REITů nestačí radovat se z lepšího kvartálu;
-  klíčové je porovnat AFFO na akcii s dividendou a ověřit, zda po úrocích, údržbě
-  a refinancování'
+title: 'Clipper Realty: proč lepší kvartál nemusí stačit na dividendu'
+dek: U zadlužených REITů nestačí radovat se z lepšího kvartálu; klíčové je porovnat
+  AFFO na akcii s dividendou a ověřit, zda po úrocích, údržbě a refinancování
 section: business
 type: imported
 depth: open
@@ -52,6 +50,6 @@ Největší past: dividenda může vypadat jako odměna, ale u napjaté rozvahy 
 
 „Krytí dividendy“ znamená, jestli firma dividendu opravdu utáhne ze své běžné hotovosti. Představ si domácnost, která každý měsíc rozdává rodině kapesné, ale zároveň platí hypotéku, opravy a dražší energie. Pokud kapesné převyšuje to, co po účtech zbývá, musí se sáhnout do rezerv nebo si půjčit. Pro trh to znamená vyšší nervozitu, pro akcie tlak na ocenění a pro běžného člověka jednoduché poučení: vysoká dividenda není automaticky dárek, někdy je to blikající kontrolka u auta, kterému právě dochází olej.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

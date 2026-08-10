@@ -1,8 +1,8 @@
 ---
 slug: fed-bez-novych-dat-jak-trh-presouva-sazby-pres-dvoulete-vynosy-a-proc-
 title: 'Fed bez nových dat: jak trh přesouvá sazby přes dvouleté výnosy a proč to
-  hýbe dluhopisy — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U rétoriky Fedu bez nových dat sledujte hlavně, zda trh
+  hýbe dluhopisy'
+dek: 'U rétoriky Fedu bez nových dat sledujte hlavně, zda trh
   přeceňuje sazby přes dvouleté výnosy, nebo jen platí vyšší cenu za nejistotu.'
 section: business
 type: imported
@@ -45,6 +45,6 @@ Checklist lepšího tradera: sledujte, zda se hýbe hlavně dvouletý výnos, ne
 
 „Forward guidance“ je centrálněbankovní verze navigace v autě. Když navigace řekne „za chvíli možná odbočte“, řidiči zpomalí, někteří zmatkují a pár jich přejede pruh. Dopad na trh je podobný: akcie a dluhopisy se nepohybují jen podle toho, co Fed udělá dnes, ale podle toho, jak lidé hádají další zatáčku. Pro běžnou peněženku to může znamenat změny výnosů spoření, hypoték i cen akciových fondů — ne hned kvůli jednomu výroku, ale přes očekávání sazeb.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

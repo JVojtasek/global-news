@@ -1,10 +1,10 @@
 ---
 slug: u-levnych-argentinskych-aktiv-nejde-jen-o-cenu-co-rozhoduje-o-premene-
 title: 'Cheap Argentine assets are not just about price: what decides the conversion
-  into cash — QMA Brain Analysis'
-dek: 'QMA Brain analysis: with cheap Argentine assets, watch not only the value of
-  the property but above all documented cash flow, debt and the pace of the political
-  steps meant to turn paper value'
+  into cash'
+dek: With cheap Argentine assets, watch not only the value of the property but above
+  all documented cash flow, debt and the pace of the political steps meant to turn
+  paper value
 section: business
 type: imported
 depth: open

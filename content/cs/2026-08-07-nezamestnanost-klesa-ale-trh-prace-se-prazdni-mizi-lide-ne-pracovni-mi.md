@@ -1,8 +1,7 @@
 ---
 slug: nezamestnanost-klesa-ale-trh-prace-se-prazdni-mizi-lide-ne-pracovni-mi
-title: 'Nezaměstnanost klesá, ale trh práce se prázdní: mizí lidé, ne pracovní místa
-  — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: Pokles nezaměstnanosti není automaticky dobrá zpráva, pokud
+title: 'Nezaměstnanost klesá, ale trh práce se prázdní: mizí lidé, ne pracovní místa'
+dek: 'Pokles nezaměstnanosti není automaticky dobrá zpráva, pokud
   vzniká hlavně tím, že z trhu práce mizí lidé.'
 section: business
 type: imported
@@ -43,6 +42,6 @@ Lepší trader u podobné zprávy nečte jen headline nezaměstnanosti. Checklis
 
 Pracovní síla jsou všichni lidé, kteří pracují nebo práci aktivně hledají. Když z ní lidé mizí, je to jako školní soutěž v běhu, kde se vítěz chlubí lepším umístěním, ale jen proto, že polovina soupeřů odešla domů. Pro trh to znamená méně jasný obrázek: akcie mohou krátkodobě reagovat na naději nižších sazeb, ale ekonomika s menším počtem pracujících má menší tah na branku. Pro běžnou peněženku je dopad praktický: pokud pracovníků ubývá, služby mohou zůstat drahé a firmy opatrnější v náboru.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

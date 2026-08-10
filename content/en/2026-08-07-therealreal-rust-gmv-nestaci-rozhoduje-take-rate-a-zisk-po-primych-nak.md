@@ -1,10 +1,10 @@
 ---
 slug: therealreal-rust-gmv-nestaci-rozhoduje-take-rate-a-zisk-po-primych-nak
 title: 'TheRealReal: GMV growth is not enough, what decides is the take rate and profit
-  after direct costs — QMA Brain analysis'
-dek: 'QMA Brain analysis: with marketplace stories it is not enough to watch GMV growth;
-  what decides is the take rate, gross profit after direct costs and, for physical
-  stores, a verifiable return after rent, wages and the cost of winning quality supply.'
+  after direct costs'
+dek: With marketplace stories it is not enough to watch GMV growth; what decides is
+  the take rate, gross profit after direct costs and, for physical stores, a verifiable
+  return after rent, wages and the cost of winning quality supply.
 section: business
 type: imported
 depth: open

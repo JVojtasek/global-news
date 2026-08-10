@@ -1,10 +1,10 @@
 ---
 slug: rally-u-rekordu-nestaci-na-inflaci-zvladne-zisky-i-cash-flow-pred-rust
 title: 'A rally near record highs is no match for inflation: can earnings and cash
-  flow keep up with rising prices? — QMA Brain analysis'
-dek: 'QMA Brain analysis: in a rally near record highs it is not enough to check whether
-  the numbers look good; what matters is whether inflation is pushing up the price
-  of money faster than companies can improve their margins'
+  flow keep up with rising prices?'
+dek: In a rally near record highs it is not enough to check whether the numbers look
+  good; what matters is whether inflation is pushing up the price of money faster
+  than companies can improve their margins
 section: business
 type: imported
 depth: open

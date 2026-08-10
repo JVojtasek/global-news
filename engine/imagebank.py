@@ -117,6 +117,20 @@ def _proper_nouns(title: str) -> list[str]:
     return [p for p in parts if p.lower() not in STOP][:3]
 
 
+# Fotky, které se na zpravodajský web nehodí, i když je licence v pořádku.
+# Openverse i Commons obsahují lékařské a anatomické snímky, které se
+# k obchodní zprávě dostanou přes jedno společné slovo.
+BLOCK = re.compile(
+    r"\b(?:nude|naked|nudity|breast|buttock|genital|erotic|porn|lingerie|"
+    r"underwear|topless|bikini|anatomy of the|dissection|autopsy|corpse|"
+    r"cadaver|wound|surgery|blood|injur\w*|skin lesion|tattoo on)\b", re.I)
+
+
+def _decent(hit: dict) -> bool:
+    hay = f"{hit.get('title','')} {hit.get('tags','')} {hit.get('url','')}"
+    return not BLOCK.search(hay)
+
+
 def _relevant(hit: dict, query: str) -> bool:
     """Souvisí nalezený obrázek vůbec s dotazem?
 
@@ -201,7 +215,7 @@ def _wikipedia_lead(query: str, allowed: list[str]) -> dict | None:
             lic = _commons_license(filename)
             if not lic or lic["license"] not in allowed or not lic["url"]:
                 continue
-            return {
+            cand = {
                 "url": lic["url"],
                 "license": lic["license"],
                 "license_label": lic["license_label"],
@@ -211,6 +225,9 @@ def _wikipedia_lead(query: str, allowed: list[str]) -> dict | None:
                 "provider": "Wikipedia / Wikimedia Commons",
                 "source": "wikipedia",
             }
+            if not _decent(cand):
+                continue
+            return cand
     except Exception as e:  # noqa: BLE001
         config.log(f"    Wikipedie nedostupná: {str(e)[:90]}")
     return None
@@ -250,7 +267,7 @@ def _openverse(query: str, allowed: list[str]) -> dict | None:
                 "provider": item.get("provider") or "Openverse",
                 "source": "openverse",
             }
-            if not _relevant(hit, query):
+            if not _relevant(hit, query) or not _decent(hit):
                 continue
             hit.pop("tags", None)
             return hit
@@ -291,7 +308,7 @@ def _wikimedia(query: str) -> dict | None:
             else:
                 continue
             author = re.sub(r"<[^>]+>", "", meta.get("Artist", {}).get("value") or "Unknown").strip()
-            return {
+            cand = {
                 "url": url,
                 "license": code,
                 "license_label": meta.get("LicenseShortName", {}).get("value") or LICENSE_LABEL[code],
@@ -301,6 +318,9 @@ def _wikimedia(query: str) -> dict | None:
                 "provider": "Wikimedia Commons",
                 "source": "wikimedia",
             }
+            if not _decent(cand):
+                continue
+            return cand
     except Exception as e:  # noqa: BLE001
         config.log(f"    Wikimedia nedostupná: {str(e)[:90]}")
     return None

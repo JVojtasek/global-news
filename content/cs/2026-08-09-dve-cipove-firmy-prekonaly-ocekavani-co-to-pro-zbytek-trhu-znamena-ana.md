@@ -1,10 +1,8 @@
 ---
 slug: dve-cipove-firmy-prekonaly-ocekavani-co-to-pro-zbytek-trhu-znamena-ana
-title: 'Dvě čipové firmy překonaly očekávání: co to pro zbytek trhu znamená — Analýza
-  QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U koncentrovaných indexů nesledujte jen název trhu, ale
-  váhu několika největších firem a to, zda výsledky skutečně překonávají už zaplacená
-  očekávání.'
+title: 'Dvě čipové firmy překonaly očekávání: co to pro zbytek trhu znamená'
+dek: U koncentrovaných indexů nesledujte jen název trhu, ale váhu několika největších
+  firem a to, zda výsledky skutečně překonávají už zaplacená očekávání.
 section: business
 type: imported
 depth: open
@@ -54,6 +52,6 @@ U podobných zpráv sledujte čtyři věci:
 
 Earnings laťka je jako když dítě přinese domů dvojku, ale rodiče už všem sousedům řekli, že bude jedničkář roku. Dvojka není katastrofa — jen neodpovídá nafouknutému očekávání. Na trhu to znamená, že i dobré výsledky mohou vést k poklesu akcie, pokud cena už počítala s něčím mimořádným. Pro běžného člověka to prakticky znamená víc kolísání v technologických ETF, penzijních portfoliích nebo fondech, které mají velkou váhu v AI a čipech.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

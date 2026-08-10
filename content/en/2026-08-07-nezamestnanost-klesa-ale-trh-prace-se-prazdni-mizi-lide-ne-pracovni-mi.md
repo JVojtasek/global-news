@@ -1,9 +1,9 @@
 ---
 slug: nezamestnanost-klesa-ale-trh-prace-se-prazdni-mizi-lide-ne-pracovni-mi
 title: 'Unemployment is falling, but the labour market is emptying out: people are
-  disappearing, not jobs — QMA Brain analysis'
-dek: 'QMA Brain analysis: a drop in unemployment is not automatically good news if
-  it happens mainly because people are vanishing from the labour market.'
+  disappearing, not jobs'
+dek: A drop in unemployment is not automatically good news if it happens mainly because
+  people are vanishing from the labour market.
 section: business
 type: imported
 depth: open

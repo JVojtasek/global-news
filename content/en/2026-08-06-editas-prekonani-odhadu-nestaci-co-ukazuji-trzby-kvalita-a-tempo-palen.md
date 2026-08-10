@@ -1,10 +1,10 @@
 ---
 slug: editas-prekonani-odhadu-nestaci-co-ukazuji-trzby-kvalita-a-tempo-palen
 title: 'Editas: beating estimates is not enough. What the revenue, its quality and
-  the cash burn really show — QMA Brain Analysis'
-dek: 'QMA Brain analysis: with biotech results, do not dwell on the beat alone. What
-  matters is whether the revenue is repeatable, how fast the cash is disappearing and
-  whether the runway genuinely reduces the risk of future shareholder dilution.'
+  the cash burn really show'
+dek: With biotech results, do not dwell on the beat alone. What matters is whether
+  the revenue is repeatable, how fast the cash is disappearing and whether the runway
+  genuinely reduces the risk of future shareholder dilution.
 section: business
 type: imported
 depth: open

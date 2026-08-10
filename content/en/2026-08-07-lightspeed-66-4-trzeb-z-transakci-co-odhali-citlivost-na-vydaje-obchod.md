@@ -1,11 +1,10 @@
 ---
 slug: lightspeed-66-4-trzeb-z-transakci-co-odhali-citlivost-na-vydaje-obchod
 title: 'Lightspeed: 66.4% of revenue comes from transactions. What that reveals about
-  its sensitivity to merchant spending — QMA Brain Analysis'
-dek: 'QMA Brain analysis: with Lightspeed it is not enough to celebrate 66.4% transaction
-  revenue; the key is to check whether the attach rate and active merchant numbers
-  are growing alongside payment volume, without the take rate and transaction margins
-  deteriorating.'
+  its sensitivity to merchant spending'
+dek: With Lightspeed it is not enough to celebrate 66.4% transaction revenue; the
+  key is to check whether the attach rate and active merchant numbers are growing
+  alongside payment volume, without the take rate and transaction margins deteriorating.
 section: business
 type: imported
 depth: open

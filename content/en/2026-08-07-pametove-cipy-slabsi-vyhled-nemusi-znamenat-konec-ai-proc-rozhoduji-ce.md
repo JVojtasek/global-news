@@ -1,10 +1,10 @@
 ---
 slug: pametove-cipy-slabsi-vyhled-nemusi-znamenat-konec-ai-proc-rozhoduji-ce
 title: 'Memory chips: weaker guidance need not mean the end of AI. Why prices, inventories
-  and the mix decide — QMA Brain analysis'
-dek: 'QMA Brain analysis: do not read weaker guidance in memory chips as the automatic
-  end of the AI boom; separate HBM from ordinary DRAM and NAND, and watch price per
-  bit, ASPs, bit shipments, fab utilisation and customer inventories.'
+  and the mix decide'
+dek: Do not read weaker guidance in memory chips as the automatic end of the AI boom;
+  separate HBM from ordinary DRAM and NAND, and watch price per bit, ASPs, bit shipments,
+  fab utilisation and customer inventories.
 section: business
 type: imported
 depth: open

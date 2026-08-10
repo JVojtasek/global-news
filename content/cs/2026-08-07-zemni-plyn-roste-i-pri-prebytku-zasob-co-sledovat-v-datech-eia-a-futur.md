@@ -1,8 +1,8 @@
 ---
 slug: zemni-plyn-roste-i-pri-prebytku-zasob-co-sledovat-v-datech-eia-a-futur
 title: 'Zemní plyn roste i při přebytku zásob: co sledovat v datech EIA a futures
-  křivce — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: Krátký růst plynu při přebytku zásob berte jako důvod zkontrolovat
+  křivce'
+dek: 'Krátký růst plynu při přebytku zásob berte jako důvod zkontrolovat
   EIA zásoby, těžbu, LNG feedgas, počasí a celou futures křivku — změna trendu potřebuje
   s'
 section: business
@@ -48,6 +48,6 @@ Lepší rámec: 1. zásoby vůči sezónní normě, 2. tempo těžby, 3. LNG fee
 
 Futures kontrakt je jako domluva s pekařem, že si za měsíc koupíte rohlíky za cenu sjednanou dnes. U plynu to znamená, že trh se nehádá jen o dnešní cenu, ale o cenu dodání v konkrétním měsíci. Když zdraží jen nejbližší měsíc, může jít o krátkodobý hlad. Když zdražuje celá řada budoucích měsíců, trh začíná přeceňovat širší náklady na energii, což se časem může promítnout do firemních marží i účtů domácností.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

@@ -1,10 +1,10 @@
 ---
 slug: silna-vyroba-a-nizsi-nezamestnanost-kdy-rust-objednavek-zdrazi-kapital
 title: 'Strong manufacturing and lower unemployment: when rising orders make capital
-  more expensive — QMA Brain analysis'
-dek: 'QMA Brain analysis: strong manufacturing and lower unemployment can support cyclical
-  earnings, but watch whether the pick-up in orders is being paid for with dearer capital
-  and a higher discount rate'
+  more expensive'
+dek: Strong manufacturing and lower unemployment can support cyclical earnings, but
+  watch whether the pick-up in orders is being paid for with dearer capital and a
+  higher discount rate
 section: business
 type: imported
 depth: open

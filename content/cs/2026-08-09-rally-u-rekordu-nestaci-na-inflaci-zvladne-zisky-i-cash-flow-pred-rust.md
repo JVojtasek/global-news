@@ -1,8 +1,8 @@
 ---
 slug: rally-u-rekordu-nestaci-na-inflaci-zvladne-zisky-i-cash-flow-pred-rust
 title: 'Rally u rekordů nestačí na inflaci: zvládne zisky i cash flow před růstem
-  cen? — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U rally poblíž rekordů nestačí sledovat, zda čísla vypadají
+  cen?'
+dek: 'U rally poblíž rekordů nestačí sledovat, zda čísla vypadají
   dobře; podstatné je, zda inflace nezvedá cenu peněz rychleji, než firmy dokážou
   zlepšovat marže'
 section: business
@@ -50,6 +50,6 @@ Checklist pro tento týden: 1) U CPI sledujte jádrovou inflaci a služby, proto
 
 CPI je jako měsíční účtenka za život. Neříká jen, že rohlík, nájem nebo služby zdražily; říká Fedu, jestli má ekonomiku dál brzdit vyššími sazbami. Pro trh je dopad jednoduchý: když účtenka ukáže tvrdohlavou inflaci, peníze zůstávají dražší, dluhopisy tlačí na akcie a běžný člověk to cítí přes hypotéky, půjčky i ceny v obchodech. Když inflace poleví bez kolapsu spotřeby, trh dostává příjemnější kombinaci: méně tlaku na sazby a pořád šanci na zisky firem.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

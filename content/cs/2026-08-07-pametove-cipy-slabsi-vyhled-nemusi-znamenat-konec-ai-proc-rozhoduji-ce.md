@@ -1,8 +1,8 @@
 ---
 slug: pametove-cipy-slabsi-vyhled-nemusi-znamenat-konec-ai-proc-rozhoduji-ce
 title: 'Paměťové čipy: slabší výhled nemusí znamenat konec AI. Proč rozhodují ceny,
-  zásoby a — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U paměťových čipů nečtěte slabší výhled jako automatický
+  zásoby a'
+dek: 'U paměťových čipů nečtěte slabší výhled jako automatický
   konec AI boomu; rozlišujte HBM od běžné DRAM/NAND a sledujte ceny za bit, ASP, bit
   shipments, využ'
 section: business
@@ -50,6 +50,6 @@ U podobných zpráv nestačí číst slovo "guidance" jako červenou sirénu. Le
 
 "Soft guidance" je firemní verze věty: "Objednávek máme dost, ale na příští měsíc bych radši nenakupoval jako na svatbu pro 200 lidí." U pamětí je to ještě citlivější, protože sklad plný běžné DRAM nebo NAND umí srazit ceny, i když luxusní HBM pro AI zůstává žádaná. Pro trh to znamená, že investoři přepočítávají očekávání zisků. Pro akcie to často znamená tlak hlavně tam, kde byly ceny nastavené na perfektní budoucnost. Pro běžného člověka: když se podobná opatrnost rozšíří, může to ukazovat na pomalejší ekonomiku; když je problém jen v jedné části čipů, jde spíš o přenastavení očekávání než o požár celé ekonomiky.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

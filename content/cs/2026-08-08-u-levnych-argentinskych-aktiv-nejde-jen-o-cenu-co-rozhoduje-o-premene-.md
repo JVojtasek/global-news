@@ -1,8 +1,8 @@
 ---
 slug: u-levnych-argentinskych-aktiv-nejde-jen-o-cenu-co-rozhoduje-o-premene-
 title: 'U levných argentinských aktiv nejde jen o cenu: co rozhoduje o přeměně na
-  hotovost — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U levných argentinských aktiv sledujte nejen hodnotu majetku,
+  hotovost'
+dek: 'U levných argentinských aktiv sledujte nejen hodnotu majetku,
   ale hlavně doložené cash flow, dluh a rychlost politických kroků, které mají papírovou
   hodnot'
 section: business
@@ -48,6 +48,6 @@ U podobných zpráv nestačí ptát se: Je to levné? Lepší checklist je: 1) k
 
 Exportní clo si představte jako vstupné, které farmář zaplatí státu ještě před tím, než si odnese tržbu domů. Když stát slíbí, že vstupné sníží, farmář se těší, že mu zůstane víc peněz. Když ale snížení přijde menší a pomalejší, peníze nezmizí navždy, jen se sen o tučnější peněžence odkládá. Pro akcie to znamená méně okamžité euforie; pro běžného člověka v Argentině může být tempo reforem rozdílem mezi rychlejší stabilizací cen a dlouhým čekáním na normálnější ekonomiku.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

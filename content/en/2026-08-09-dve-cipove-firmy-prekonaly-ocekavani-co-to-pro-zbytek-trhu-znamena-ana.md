@@ -1,10 +1,10 @@
 ---
 slug: dve-cipove-firmy-prekonaly-ocekavani-co-to-pro-zbytek-trhu-znamena-ana
-title: 'Two chip companies beat expectations: what that means for the rest of the market
-  — QMA Brain Analysis'
-dek: 'QMA Brain analysis: with concentrated indices, do not watch the name of the market
-  but the weight of a handful of the largest companies, and whether results really
-  clear expectations that have already been paid for.'
+title: 'Two chip companies beat expectations: what that means for the rest of the
+  market'
+dek: With concentrated indices, do not watch the name of the market but the weight
+  of a handful of the largest companies, and whether results really clear expectations
+  that have already been paid for.
 section: business
 type: imported
 depth: open

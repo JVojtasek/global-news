@@ -1,8 +1,7 @@
 ---
 slug: silna-vyroba-a-nizsi-nezamestnanost-kdy-rust-objednavek-zdrazi-kapital
-title: 'Silná výroba a nižší nezaměstnanost: kdy růst objednávek zdraží kapitál —
-  Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: Silná výroba a nižší nezaměstnanost mohou podporovat cyklické
+title: 'Silná výroba a nižší nezaměstnanost: kdy růst objednávek zdraží kapitál'
+dek: 'Silná výroba a nižší nezaměstnanost mohou podporovat cyklické
   zisky, ale sledujte, zda růst objednávek není vykoupen dražším kapitálem a vyšší
   diskontní sa'
 section: business
@@ -50,6 +49,6 @@ Pointa: makro data nečíst jako zelenou nebo červenou na semaforu, ale jako ú
 
 Diskontní sazba je tržní verze otázky: kolik mi stojí čekání? Představ si, že ti někdo slíbí večeři za rok. Když je čekání levné a nudné, máš radost. Když mezitím zdraží všechno kolem, ta budoucí večeře už nepůsobí tak luxusně. Pro akcie to znamená: silná ekonomika může zlepšit zisky firem, ale pokud kvůli ní zůstanou sazby výš, trh může za stejné budoucí zisky platit nižší násobky. Pro běžnou peněženku: práce může být jistější, ale hypotéky, úvěry a financování firem nemusí rychle zlevnit.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

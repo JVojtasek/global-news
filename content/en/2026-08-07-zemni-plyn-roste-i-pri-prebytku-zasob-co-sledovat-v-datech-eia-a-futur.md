@@ -1,11 +1,10 @@
 ---
 slug: zemni-plyn-roste-i-pri-prebytku-zasob-co-sledovat-v-datech-eia-a-futur
 title: 'Natural gas rises even with a storage glut: what to watch in the EIA data
-  and the futures curve — QMA Brain analysis'
-dek: 'QMA Brain analysis: treat a brief rally in gas during a storage glut as a reason
-  to check EIA inventories, production, LNG feedgas, the weather and the whole futures
-  curve — a genuine change of trend needs several of them moving together, not just
-  a bounce in the front contract.'
+  and the futures curve'
+dek: Treat a brief rally in gas during a storage glut as a reason to check EIA inventories,
+  production, LNG feedgas, the weather and the whole futures curve — a genuine change
+  of trend needs several of them moving together, not just a bounce in the front contract.
 section: business
 type: imported
 depth: open

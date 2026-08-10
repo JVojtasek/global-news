@@ -1,10 +1,10 @@
 ---
 slug: ai-capex-vodopad-vydelava-rust-trzeb-skutecne-na-dividendu-nebo-jen-vy
 title: 'The AI capex waterfall: does revenue growth really pay the dividend, or just
-  pile on debt? — QMA Brain Analysis'
-dek: 'QMA Brain analysis: with AI dividend stocks it is not enough to track exposure
-  to data centres; what matters is whether revenue growth genuinely covers the dividend
-  out of free cash flow, without a dangerous'
+  pile on debt?'
+dek: With AI dividend stocks it is not enough to track exposure to data centres; what
+  matters is whether revenue growth genuinely covers the dividend out of free cash
+  flow, without a dangerous
 section: business
 type: imported
 depth: open

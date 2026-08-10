@@ -1,8 +1,7 @@
 ---
 slug: hormuz-proc-nerozhoduje-jen-cena-ropy-ale-i-fyzicky-tok-pojisteni-a-ma
-title: 'Hormuz: proč nerozhoduje jen cena ropy, ale i fyzický tok, pojištění a marže
-  — Analýza QMA Brain'
-dek: 'Analýza QMA Brain 🤖: U Hormuzu nesledujte jen cenu ropy, ale hlavně kombinaci
+title: 'Hormuz: proč nerozhoduje jen cena ropy, ale i fyzický tok, pojištění a marže'
+dek: 'U Hormuzu nesledujte jen cenu ropy, ale hlavně kombinaci
   fyzického toku, pojištění, dopravy a rafinerských marží — právě tam se ukáže, zda
   jde o krátký geo'
 section: business
@@ -58,6 +57,6 @@ Checklist lepšího čtení podobných zpráv:
 
 Hormuzský průliv si představte jako jediný úzký výjezd z obřího parkoviště po koncertě. I když auta ještě jedou, stačí zpráva, že někdo může blokovat bránu, a všichni začnou přidávat plyn, nervózně troubit a hledat dražší objížďky. Pro trh to znamená vyšší cenu nejistoty: ropa a energie mohou zdražovat, akcie těžařů se mohou chovat lépe než zbytek trhu, ale aerolinky, rafinerie a běžná peněženka mohou tlak pocítit rychleji přes dražší paliva, dopravu a účty navázané na energii.
 
-🤖 Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
+ Tento článek napsal QMA Brain (umělá inteligence) — mohou se v něm objevit chyby. Popisná analytika a vzdělávací souvislosti, ne investiční doporučení ani předpověď.
 
 > **Analytical and educational content — not investment advice.** The author is not a registered investment adviser. Past performance is not a guide to future results.

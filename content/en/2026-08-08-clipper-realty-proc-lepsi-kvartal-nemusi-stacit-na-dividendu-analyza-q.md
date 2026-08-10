@@ -1,10 +1,9 @@
 ---
 slug: clipper-realty-proc-lepsi-kvartal-nemusi-stacit-na-dividendu-analyza-q
-title: 'Clipper Realty: why a better quarter may not be enough for the dividend —
-  QMA Brain Analysis'
-dek: 'QMA Brain analysis: with heavily indebted REITs, cheering a better quarter is
-  not enough; the key is to compare AFFO per share with the dividend and check whether
-  anything is left after interest, maintenance and refinancing'
+title: 'Clipper Realty: why a better quarter may not be enough for the dividend'
+dek: With heavily indebted REITs, cheering a better quarter is not enough; the key
+  is to compare AFFO per share with the dividend and check whether anything is left
+  after interest, maintenance and refinancing
 section: business
 type: imported
 depth: open

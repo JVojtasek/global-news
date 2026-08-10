@@ -82,13 +82,13 @@ sources:
 
 - Mission: Biomes
 
-- About About Us Subscribe 🛜 RSS Contact Us
+- About About Us Subscribe  RSS Contact Us
 
 - About Us
 
 - Subscribe
 
-- 🛜 RSS
+-  RSS
 
 - Contact Us
 
