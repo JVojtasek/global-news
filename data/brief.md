@@ -107,39 +107,44 @@
     <https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa>
     > Tebas says Swiss is ‘destroying essence of football’ Any reform at highest levels must be ‘genuine’ Javier Tebas says Gianni Infantino’s position as Fifa president is untenable, claiming he is “destroying the very essence of football” while calling for reform at the highest level
 
-### 4. Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
-- id události: `7dc1d2ca7c75`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
+### 4. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- id události: `7b46dd318f11`  ·  rubrika: `ai`  ·  skóre: 77  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
-    <https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss>
-    > Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.
-  - **The Guardian World** — Spain to introduce temporary border checks on visitors from Italy
-    <https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy>
-    > Move comes in response to Rome imposing similar measures after mass migration rush to Ceuta Spain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush of people from Morocco into Ceuta. The 
-  - **The Guardian World** — Italy condemns Spain’s ‘unacceptable’ border controls as Ceuta fallout intensifies
-    <https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies>
-    > Travellers caught up in migration row as Madrid introduces checks on visitors from Italy in retaliation for Rome’s move Italy’s foreign minister has called Spain’s decision to impose retaliatory checks on travellers from Italy “incomprehensible and completely unacceptable” as peo
-  - **DW News** — Ceuta: Spain sets up border controls on travelers from Italy
-    <https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-all-1573-rdf>
-    > Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.
-  - **France 24** — Spain - Italy: Dispute grows over migration between EU countries
-    <https://www.france24.com/en/spain-italy-dispute-grows-over-migration-between-eu-countries>
-    > The EU says the tit-for-tat border restrictions between Spain and Italy are temporary and will have no lasting impact on the Schengen zone. Spain began checking travellers from Italy in retaliation for similar controls imposed by Rome after a surge of migrants into Spain’s North 
-  - **France 24** — Spain starts border checks on Italy over Ceuta dispute
-    <https://www.france24.com/en/spain-starts-border-checks-on-italy-over-ceuta-dispute>
-    > The EU says the tit-for-tat border restrictions between Spain and Italy are temporary and will have no lasting impact on the Schengen zone. Spain began checking travellers from Italy in retaliation for similar controls imposed by Rome after a surge of migrants into Spain’s North 
+  - **MIT TR — AI** — OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+    <https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/>
+    > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face
+  - **Schneier on Security** — More on the OpenAI Agent’s Attack on Hugging Face
+    <https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html>
+    > Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on
+  - **IEEE Spectrum Robotics** — Visual Language Models Train Robots to Read Human Emotions
+    <https://spectrum.ieee.org/robot-emotions-visual-language-models>
+    > This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robo
+  - **Hugging Face** — Baseten on Hugging Face Inference Providers 🔥
+    <https://huggingface.co/blog/baseten>
+  - **Hugging Face** — From Hugging Face to Amazon SageMaker Studio in one click
+    <https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio>
+  - **Hugging Face** — Hugging Face Models on Foundry Managed Compute
+    <https://huggingface.co/blog/microsoft/foundry-managed-compute>
+  - **Hugging Face** — Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot
+    <https://huggingface.co/blog/skypilot-hf-storage>
+  - **Hugging Face** — Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
+    <https://huggingface.co/blog/cerebras-gemma4-voice-ai>
+  - **Hugging Face** — Featuring Every Eval Ever Results on Hugging Face Model Pages
+    <https://huggingface.co/blog/eee-community-evals>
+  - **Hugging Face** — PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
+    <https://huggingface.co/blog/PaddlePaddle/pp-ocrv6>
 
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### why relationships fail
-- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### artificial intelligence jobs
+- rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
 
 ---
 
@@ -159,7 +164,17 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-_Zatím není dost historie. Analýzy začnou vznikat, až systém poběží pár týdnů a nasbírá časové osy témat._
+### 1. What has actually changed: Typhoon Dolphin batters Japan's Okinawa before bearing down on China
+- id: `aa62f1322260`  ·  rubrika: `world`  ·  záznamů v ose: 3  ·  **depth: `scripture`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Typhoon Dolphin batters Japan's Okinawa before bearing down on China
+rubrika: world · sledováno od 2026-08-09 · záznamů: 3
+  2026-08-09  (4 zdrojů, síla 66)  Typhoon Dolphin batters Japan's Okinawa before bearing down on China
+  2026-08-10  (1 zdrojů, síla 42)  Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
+  2026-08-10  (2 zdrojů, síla 42)  China: Typhoon Dolphin prompts mass evacuation, canceled flights
+```
 
 ---
 

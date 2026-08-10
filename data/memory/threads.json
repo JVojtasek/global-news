@@ -5,16 +5,17 @@
    "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
    "section": "world",
    "entities": [
-    "typhoon",
-    "japan's",
     "china",
     "shanghai",
+    "japan's",
     "dolphin",
+    "typhoon",
     "okinawa"
    ],
    "event_ids": [
     "aa62f1322260",
-    "d0bc31a1d209"
+    "d0bc31a1d209",
+    "1309af9aeefc"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-10",
@@ -40,6 +41,176 @@
      "links": [
       "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
       "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1309af9aeefc",
+     "links": [
+      "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "openai",
+    "face",
+    "hugging"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "227e86739973",
+   "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+   "section": "safety",
+   "entities": [
+    "pleads",
+    "snowflake",
+    "guilty",
+    "extortions",
+    "canadian"
+   ],
+   "event_ids": [
+    "227e86739973"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Canadian Man Pleads Guilty in Snowflake Extortions",
+     "sources": 3,
+     "score": 63,
+     "event_id": "227e86739973",
+     "links": [
+      "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "06b8d0ad6f63",
+   "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collabor",
+   "section": "ai",
+   "entities": [
+    "gemini",
+    "robotics"
+   ],
+   "event_ids": [
+    "06b8d0ad6f63"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+     "sources": 2,
+     "score": 61,
+     "event_id": "06b8d0ad6f63",
+     "links": [
+      "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e0d783f4ac39",
+   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+   "section": "safety",
+   "entities": [
+    "chatgpt",
+    "openai"
+   ],
+   "event_ids": [
+    "e0d783f4ac39"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+     "sources": 3,
+     "score": 60,
+     "event_id": "e0d783f4ac39",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2c2b2700dd7b",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "section": "safety",
+   "entities": [
+    "security",
+    "patches",
+    "microsoft",
+    "record",
+    "flaws"
+   ],
+   "event_ids": [
+    "2c2b2700dd7b"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-10",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Microsoft Patches a Record 570 Security Flaws",
+     "sources": 2,
+     "score": 56,
+     "event_id": "2c2b2700dd7b",
+     "links": [
+      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
      ]
     }
    ]
@@ -279,5 +450,5 @@
    ]
   }
  ],
- "updated": "2026-08-10T06:45:43+00:00"
+ "updated": "2026-08-10T09:48:16+00:00"
 }
