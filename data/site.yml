@@ -1,13 +1,13 @@
 # =====================================================================
-#  THE DEEPER STORY — základní nastavení
+#  MY PAPER / MOJE NOVINY — základní nastavení
 #  Tohle je jediný soubor, který budeš pravidelně měnit ty.
 # =====================================================================
 
 brand:
-  name_en: "The Deeper Story"
-  name_cs: "The Deeper Story"
-  tagline_en: "See beyond the headline."
-  tagline_cs: "Za každým titulkem je víc."
+  name_en: "My Paper"
+  name_cs: "Moje noviny"
+  tagline_en: "Your paper, your pace."
+  tagline_cs: "Tvoje noviny, tvým tempem."
   url: "https://jvojtasek.github.io/global-news"
   email: "jarda.vojtasek@centrum.cz"
 

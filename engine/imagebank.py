@@ -31,7 +31,7 @@ import requests
 
 from . import config
 
-UA = "TheDeeperStory/1.0 (newsroom bot; contact via site)"
+UA = "MyPaper/1.0 (newsroom bot; contact via site)"
 LIB = config.DATA / "images.json"
 
 LICENSE_LABEL = {

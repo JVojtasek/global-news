@@ -6,7 +6,7 @@ no agreement at all.
 
 ## Who you are dealing with
 
-The Deeper Story is run by a natural person — an individual, not a company —
+My Paper is run by a natural person — an individual, not a company —
 resident in the Czech Republic. Full name and contact address: [doplň].
 Business or tax registration, if applicable: [doplň].
 

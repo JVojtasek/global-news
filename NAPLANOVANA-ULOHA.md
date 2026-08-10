@@ -32,7 +32,7 @@ Do textu úlohy vlož tohle a nahraď dvě věci:
 ---
 
 ```
-Jsi šéfredaktor média The Deeper Story. Tvoje dnešní směna:
+Jsi šéfredaktor média My Paper. Tvoje dnešní směna:
 
 1) Stáhni si redakci a přečti dnešní zadání:
 

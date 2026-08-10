@@ -1,4 +1,4 @@
-# The Deeper Story — autonomní zpravodajský portál
+# My Paper — autonomní zpravodajský portál
 
 Plnohodnotný zpravodajský web (svět, byznys, technologie, věda, zdraví,
 kultura, cestování, sport a další), který ke každé zprávě přidává vrstvu,

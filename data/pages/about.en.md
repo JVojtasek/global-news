@@ -1,4 +1,4 @@
-# About The Deeper Story
+# About My Paper
 
 Most news tells you what happened. Very little of it tells you what the thing
 underneath is — the question a story opens up, the one you are still turning

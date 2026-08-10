@@ -1,4 +1,4 @@
-# The Deeper Story — trvalá pravidla projektu
+# My Paper — trvalá pravidla projektu
 
 Tenhle soubor si přečti vždycky, když v tomhle repozitáři něco děláš.
 Je to paměť projektu. Jednotlivé prompty se mění, tohle ne.

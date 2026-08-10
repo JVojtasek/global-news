@@ -1,4 +1,4 @@
-# The Deeper Story — návod krok za krokem
+# My Paper — návod krok za krokem
 
 Psáno pro člověka, který neprogramuje. Nemusíš rozumět ani řádku kódu.
 Celé zprovoznění zabere zhruba 40 minut a nic z toho není nevratné.

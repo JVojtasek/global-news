@@ -133,7 +133,7 @@ def scoreboard() -> dict:
     return {"resolved": len(done), "brier": brier, "verdict": key, "verdict_cs": cs}
 
 
-PROPOSE = """Jsi analytik The Deeper Story. Dostaneš časové osy běžících témat.
+PROPOSE = """Jsi analytik My Paper. Dostaneš časové osy běžících témat.
 
 Navrhni 2 až 3 KONKRÉTNÍ, OVĚŘITELNÉ předpovědi. Každá musí splňovat:
 - dá se po termínu jednoznačně rozhodnout ANO/NE z veřejných zpráv
@@ -150,7 +150,7 @@ Vrať JSON:
   "resolve_by": "RRRR-MM-DD", "resolution_criteria": "podle čeho se to pozná",
   "reasoning": "dvě až tři věty, proč právě tahle pravděpodobnost"}]}"""
 
-RESOLVE = """Jsi analytik The Deeper Story. Dostaneš předpověď, jejíž termín uplynul,
+RESOLVE = """Jsi analytik My Paper. Dostaneš předpověď, jejíž termín uplynul,
 a záznam událostí k danému tématu.
 
 Rozhodni poctivě, jestli se to stalo. Když z podkladů nejde rozhodnout,
