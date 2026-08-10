@@ -1,23 +1,91 @@
 {% extends "base.html" %}
 {% block title %}{{ section_label }} — {{ brand }}{% endblock %}
 {% block body %}
-<div class="wrap lead">
-  <div class="kicker">{{ t.section }}</div>
-  <h1>{{ section_label }}</h1>
+{#  Rubrika jako stránka v tištěných novinách: hlavička s názvem a tenkou
+    linkou pod ním, jeden velký úvodní článek a pod ním dva sloupce.
+    Nejnovější článek stojí v čele, protože seznam chodí seřazený od
+    nejnovějšího — bez javascriptu je to přesně tohle pořadí.  #}
+{% set lead = articles[0] if articles else none %}
+{% set rest = articles[1:] %}
+
+<div class="wide sec-head">
+  <h1 class="sec-h1">{{ section_label }}</h1>
+  <div class="sec-meta">
+    <span class="sec-count">{{ t.sec_count|format(articles|length) }}</span>
+    {#  Řazení je nadstavba: bez skriptu se štítky vůbec neukážou a
+        stránka zůstane tak, jak přišla ze serveru.  #}
+    <div class="sec-sort" id="sec-sort" data-sec="{{ current_section }}">
+      <span class="sec-sort-lab">{{ t.sec_sort }}</span>
+      <button type="button" class="sec-chip on" data-sort="new" aria-pressed="true">{{ t.sec_sort_new }}</button>
+      <button type="button" class="sec-chip" data-sort="deep" aria-pressed="false">{{ t.sec_sort_deep }}</button>
+      <button type="button" class="sec-chip" data-sort="light" aria-pressed="false">{{ t.sec_sort_light }}</button>
+    </div>
+  </div>
 </div>
-<div class="wide">
-  <div class="grid">
-    {% for a in articles %}
-    <div class="card{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-brief="{{ 1 if a.has_brief else 0 }}">
-      {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
-      <div class="body">
-        <div class="kicker">{{ a.date }}</div>
-        <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
-        <p>{{ a.dek }}</p>
+
+<div class="wide withside secbody{% if section_calm %} sec-quiet{% endif %}">
+  <div class="mainside">
+
+    {% if lead %}
+    <div class="hero sec-lead{% if not lead.image %} nopic{% endif %}" data-load="{{ lead.load }}" data-band="{{ lead.band }}" data-topics="{{ lead.topics_csv }}" data-tags="{{ lead.tags_csv }}" data-date="{{ lead.date }}" data-words="{{ lead.words }}" data-brief="{{ 1 if lead.has_brief else 0 }}">
+      {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>{% endif %}
+      <div class="hero-text">
+        <div class="kicker">{{ lead.date }}</div>
+        <h2><a href="{{ lead.url }}">{{ lead.title }}</a></h2>
+        <p class="dek">{{ lead.dek }}</p>
       </div>
     </div>
-    {% endfor %}
+    {% endif %}
+
+    <div id="reader-hidden-note"></div>
+
+    {% if rest %}
+    <div class="grid" id="sec-grid">
+      {% for a in rest %}
+      <div class="card{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-tags="{{ a.tags_csv }}" data-date="{{ a.date }}" data-words="{{ a.words }}" data-brief="{{ 1 if a.has_brief else 0 }}">
+        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
+        <div class="body">
+          <div class="kicker">{{ a.date }}</div>
+          <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+          <p>{{ a.dek }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if not articles %}<p class="sec-empty">{{ t.empty }}</p>{% endif %}
+
+    <p class="sec-arch"><a href="{{ base }}/{{ lang }}/archive/">{{ t.archive_link }}</a></p>
   </div>
-  {% if not articles %}<p class="wrap" style="color:var(--ink-soft)">{{ t.empty }}</p>{% endif %}
+
+  <div class="sidecol">
+    {#  V klidných rubrikách proužek zpráv schválně není — kdo sem přijde,
+        nechce vědět, co právě hoří. Místo něj jedna tichá věta.  #}
+    {% if section_calm %}
+    <p class="sec-calm">{{ t.sec_calm }}</p>
+    {% elif ticker %}
+    <aside class="ticker">
+      <h2>{{ t.ticker_title }}</h2>
+      <ol>
+        {% for i in ticker %}
+        <li{% if i.hot %} class="hot"{% endif %}>
+          <a href="{{ i.url }}" rel="nofollow noopener" target="_blank">{{ i.headline }}</a>
+          <em>{{ i.source }}{% if i.sources_count > 1 %} · {{ i.sources_count }} {{ t.sources_word }}{% endif %}</em>
+        </li>
+        {% endfor %}
+      </ol>
+      <p class="note">{{ t.ticker_note }}</p>
+    </aside>
+    {% endif %}
+
+    {% if thought %}
+    <aside class="sidequote sec-thought">
+      <h2>{{ t.thought_title }}</h2>
+      <blockquote>{{ thought.text }}</blockquote>
+      <cite>— {{ thought.author }}</cite>
+    </aside>
+    {% endif %}
+  </div>
 </div>
 {% endblock %}

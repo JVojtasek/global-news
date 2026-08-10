@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}{{ t.archive_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.archive_intro }}{% endblock %}
+{% block body %}
+<div class="wide">
+  <h1 class="page-h1">{{ t.archive_title }}</h1>
+  <p class="dek">{{ t.archive_intro }}</p>
+
+  <div class="arch-tools">
+    <input type="search" id="arch-q" placeholder="{{ t.archive_search }}" autocomplete="off">
+    <span class="arch-count" id="arch-count">{{ total }}</span>
+  </div>
+
+  {% for y in years %}
+  <section class="arch-year" data-year="{{ y.year }}">
+    <h2>{{ y.year }}</h2>
+    <ol class="arch-list">
+      {% for a in y.articles %}
+      <li data-title="{{ a.title|lower }} {{ a.dek|lower }}" data-section="{{ a.section }}">
+        <time datetime="{{ a.published_iso }}">{{ a.date }}</time>
+        <a href="{{ a.url }}">{{ a.title }}</a>
+        <span class="arch-sec">{{ a.section_label }}</span>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endfor %}
+  <p class="arch-note">{{ t.archive_note }}</p>
+</div>
+<script>
+(function(){
+  var q = document.getElementById("arch-q"), c = document.getElementById("arch-count");
+  if(!q) return;
+  var rows = Array.prototype.slice.call(document.querySelectorAll(".arch-list li"));
+  q.addEventListener("input", function(){
+    var v = q.value.trim().toLowerCase(), n = 0;
+    rows.forEach(function(r){
+      var hit = !v || r.getAttribute("data-title").indexOf(v) > -1;
+      r.hidden = !hit; if(hit) n++;
+    });
+    c.textContent = n;
+    document.querySelectorAll(".arch-year").forEach(function(sec){
+      sec.hidden = !sec.querySelector(".arch-list li:not([hidden])");
+    });
+  });
+})();
+</script>
+{% endblock %}

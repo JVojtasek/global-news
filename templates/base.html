@@ -98,7 +98,7 @@
   <div class="cols">
     <div>
       <strong>{{ brand }}</strong><br>{{ tagline }}<br>
-      <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/members/">{{ t.mem_link }}</a> · <a href="{{ base }}/{{ lang }}/privacy/">{{ t.privacy_link }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/republish/">{{ t.republish_offer }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
+      <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/archive/">{{ t.archive_link }}</a> · <a href="{{ base }}/{{ lang }}/members/">{{ t.mem_link }}</a> · <a href="{{ base }}/{{ lang }}/privacy/">{{ t.privacy_link }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/republish/">{{ t.republish_offer }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
     </div>
     <div style="max-width:26rem">{{ t.footer_note }}</div>
   </div>
@@ -246,6 +246,12 @@ function tdsTheme(){
       </div>
       <p class="reader-priv">{{ t.reader_privacy }}</p>
     </form>
+
+    {# Cesta zpátky k průvodci musí být vidět pořád, ne jen při první
+       návštěvě. Otevře se od prvního kroku a s tím, co je uložené. #}
+    <p class="reader-again">
+      <button type="button" class="reader-again-btn" id="reader-onboard">{{ t.ob_title }}</button>
+    </p>
   </div>
 </div>
 <script>window.TDSR={{ {

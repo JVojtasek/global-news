@@ -19,6 +19,7 @@
   var T = window.TDSR || {};
   var KEY = "tds-reader";
   var SEEN = "tds-heavy-seen";
+  var SORT = "tds-sort";               // řazení rubriky, zvlášť pro každou
   var DEF = { amount: 2, tone: 2, mute: [], brake: true, secs: [], tags: [], own: [] };
   var KEEP = { 1: 12, 2: 30, 3: 0 };   // 0 = bez stropu
   var SHARE = 0.6;                     // strop podílu těžkých karet
@@ -31,6 +32,7 @@
   var PICKED = 18;                     // kolik článků na stránku „pro tebe“
   var OUTSIDE = 6;                     // kolik článků schválně mimo výběr
   var WAIT = 1200;                     // po jaké chvíli nabídnout průvodce
+  var GAP = 24;                        // 1,5 rem: odstup průvodce od kraje
 
   var doc = document;
   var root = doc.documentElement;
@@ -160,8 +162,14 @@
   }
 
   /* Titulní strana se pozná podle místa pro řádek o skrytých zprávách —
-     zjišťuje se jednou na začátku, než ho případně dolepíme jinam. */
+     zjišťuje se jednou na začátku, než ho případně dolepíme jinam.
+
+     Rubrika má od té doby, co vypadá jako pořádná stránka novin, taky
+     úvodní článek i řádek o skrytých zprávách. Stropy na množství do ní
+     ale nikdy nepatřily — kdo přijde do rubriky, chce ji vidět celou.
+     Pozná se podle vlastní hlavičky. */
   function isHome() {
+    if (doc.querySelector(".sec-head")) return false;
     return !!doc.getElementById("reader-hidden-note") || !!doc.querySelector(".hero[data-band]");
   }
 
@@ -409,6 +417,100 @@
     bar.appendChild(alt);
     bar.appendChild(ok);
     doc.body.appendChild(bar);
+  }
+
+  /* ================================================== řazení rubriky
+     Tři štítky nad rubrikou: nejnovější, nejdelší čtení, nejlehčí.
+     Je to nadstavba, ne podmínka — bez skriptu se štítky neukážou
+     a rubrika zůstane tak, jak přišla ze serveru, od nejnovějšího.
+
+     Volba se pamatuje zvlášť pro každou rubriku: v jedné chce člověk
+     přehled, v druhé si chodí sednout k dlouhému textu.
+     ================================================================ */
+  function sortRead() {
+    try {
+      var raw = window.localStorage.getItem(SORT);
+      if (!raw) return {};
+      var v = JSON.parse(raw);
+      return (v && typeof v === "object" && !isArr(v)) ? v : {};
+    } catch (e) { return {}; }
+  }
+
+  function sortSave(sec, mode) {
+    if (!sec) return;
+    var all = sortRead();
+    all[sec] = mode;
+    try { window.localStorage.setItem(SORT, JSON.stringify(all)); } catch (e) { /* soukromý režim */ }
+  }
+
+  function attr(el, name) {
+    var v = parseInt(el.getAttribute(name), 10);
+    return isNaN(v) ? 0 : v;
+  }
+
+  /* Pořadí ze serveru je záložní klíč: co se nedá porovnat, zůstane,
+     kde bylo. Žádná karta se přerovnáním nesmí ztratit. */
+  function sortRun(grid, mode, order) {
+    var items = order.slice(0);
+    if (mode === "deep") {
+      items.sort(function (a, b) {
+        return (attr(b.el, "data-words") - attr(a.el, "data-words")) || (a.i - b.i);
+      });
+    } else if (mode === "light") {
+      items.sort(function (a, b) {
+        return (attr(a.el, "data-load") - attr(b.el, "data-load")) || (a.i - b.i);
+      });
+    } else {
+      items.sort(function (a, b) {
+        var x = a.el.getAttribute("data-date") || "";
+        var y = b.el.getAttribute("data-date") || "";
+        return (x === y ? 0 : (x < y ? 1 : -1)) || (a.i - b.i);
+      });
+    }
+    items.forEach(function (r) { grid.appendChild(r.el); });
+  }
+
+  function sorter() {
+    var box = doc.getElementById("sec-sort");
+    var grid = doc.getElementById("sec-grid");
+    if (!box || !grid) return;
+
+    var sec = box.getAttribute("data-sec") || "";
+    var order = [].slice.call(grid.children).map(function (el, i) {
+      return { el: el, i: i };
+    });
+    var chips = [].slice.call(box.querySelectorAll(".sec-chip"));
+
+    function paint(mode) {
+      chips.forEach(function (c) {
+        var on = c.getAttribute("data-sort") === mode;
+        if (on) c.classList.add("on"); else c.classList.remove("on");
+        c.setAttribute("aria-pressed", on ? "true" : "false");
+      });
+      box.setAttribute("data-mode", mode);
+    }
+
+    function go(mode, remember) {
+      if (["new", "deep", "light"].indexOf(mode) < 0) mode = "new";
+      sortRun(grid, mode, order);
+      paint(mode);
+      if (remember) sortSave(sec, mode);
+    }
+
+    box.addEventListener("click", function (e) {
+      var el = e.target;
+      while (el && el !== box) {
+        if (el.classList && el.classList.contains("sec-chip")) {
+          go(el.getAttribute("data-sort"), true);
+          return;
+        }
+        el = el.parentNode;
+      }
+    });
+
+    box.classList.add("on");          // ovládání dává smysl teprve se skriptem
+    var want = sortRead()[sec];
+    if (want && want !== "new") go(want, false); else paint("new");
   }
 
   /* ================================================================
@@ -718,6 +820,17 @@
     var btn = doc.getElementById("reader-open");
     if (btn) btn.addEventListener("click", open);
 
+    /* Průvodce se z nastavení otevře znovu, kdykoli si čtenář vzpomene —
+       od prvního kroku a s tím, co má uložené. Nic se přitom nesmaže:
+       zavřít průvodce znamená nechat všechno, jak bylo. */
+    var again = doc.getElementById("reader-onboard");
+    if (again) {
+      again.addEventListener("click", function () {
+        close();
+        hello(now());
+      });
+    }
+
     var p = panel();
     if (p) {
       p.addEventListener("click", function (e) {
@@ -781,6 +894,7 @@
     if (!cfg || !chosen(cfg)) return;      // nic vybráno = nic navíc
 
     // jen titulní strana — jinde by proužek jen opakoval, co je pod ním
+    if (!home) return;
     var grid = doc.querySelector(".mainside .grid");
     if (!grid || !grid.parentNode) return;
 
@@ -970,16 +1084,67 @@
     card.setAttribute("data-at", String(n));
   }
 
-  /* v = null znamená přeskočeno: uloží se výchozí nastavení a stránka
-     se čtenáři pod rukama nezmění */
+  /* Průvodce stojí vysoko vlevo, kousek pod hlavou novin, a nikdy nesmí
+     zakrýt název webu ani hlavní titulek. Když by se potkali, uhne
+     radši výškou než místem: zkrátí se a zbytek si odroluje — nahoře
+     je doma. Teprve když by z něj zbyl proužek, sjede pod titulek.
+     Bez měřitelných rozměrů (starý prohlížeč, test) platí, co říká styl. */
+  var MIN = 180;             // pod tuhle výšku už karta nemá smysl
+
+  function rect(el) {
+    if (!el || !el.getBoundingClientRect) return null;
+    var r = el.getBoundingClientRect();
+    return (r.width > 0 && r.height > 0) ? r : null;
+  }
+
+  function place() {
+    if (!card) return;
+    var head = rect(doc.querySelector("header.site"));
+    var top = Math.max(GAP, (head ? head.bottom : 0) + GAP);
+    var vh = window.innerHeight || 0;
+    var end = vh ? vh - GAP : 0;
+    var mine = rect(card);
+
+    if (mine) {
+      var keep = [
+        doc.querySelector("header.site .logo"),
+        doc.querySelector(".hero-text h1, .hero-text h2, .lead h1, h1.sec-h1, article.post h1, .page-h1")
+      ];
+      for (var i = 0; i < keep.length; i++) {
+        var r = rect(keep[i]);
+        if (!r) continue;
+        if (r.right <= mine.left || r.left >= mine.right) continue;  // stojí vedle sebe
+        if (r.bottom <= top) continue;                               // je nad kartou
+        if (r.top - MIN > top) {
+          var stop = r.top - 12;
+          end = end ? Math.min(end, stop) : stop;
+        } else {
+          top = r.bottom + 12;
+        }
+      }
+    }
+
+    card.style.top = Math.round(top) + "px";
+    if (end) card.style.maxHeight = Math.max(MIN, Math.round(end - top)) + "px";
+  }
+
+  function nudge() { if (card) place(); }
+
+  /* v = null znamená přeskočeno. Při první návštěvě se uloží výchozí
+     nastavení, aby se průvodce podruhé neozval; když si ho ale čtenář
+     otevřel sám z nastavení, nesmí mu zavření to uložené smazat. */
   function done(v) {
     if (!card) return;
-    var box = card;
+    var b = card;
     card = null;
-    if (box.parentNode) box.parentNode.removeChild(box);
-    cfg = v || copy(DEF);
+    window.removeEventListener("resize", nudge);
+    if (b.parentNode) b.parentNode.removeChild(b);
+    if (!v) {
+      if (!cfg) { cfg = copy(DEF); save(cfg); }
+      return;
+    }
+    cfg = v;
     save(cfg);
-    if (!v) return;
     shown = false;
     apply();
     rail();
@@ -987,18 +1152,25 @@
     foryou();
   }
 
-  function hello() {
+  /* from = s čím průvodce začne. Bez něj je to první návštěva a ta se
+     nabídne jen tehdy, když si čtenář ještě nic neuložil. */
+  function hello(from) {
     var tpl = doc.getElementById("tds-onboard");
-    if (card || !tpl || !tpl.content || load()) return;
+    if (card || !tpl || !tpl.content) return;
+    if (!from && load()) return;
     var src = tpl.content.querySelector(".ob-card");
     if (!src) return;
 
+    var start = copy(from || DEF);
     card = src.cloneNode(true);
+    card.tdsFrom = start;
     mount(card, "ob");
     ownWire(card);
-    fill(card, DEF);
+    fill(card, start);
     doc.body.appendChild(card);
     stepTo(1);
+    place();
+    window.addEventListener("resize", nudge);
 
     card.addEventListener("click", function (e) {
       var el = e.target;
@@ -1007,7 +1179,7 @@
         if (el.classList) {
           if (el.classList.contains("ob-next")) { stepTo(at() + 1); return; }
           if (el.classList.contains("ob-back")) { stepTo(at() - 1); return; }
-          if (el.classList.contains("ob-done")) { done(gather(card, DEF)); return; }
+          if (el.classList.contains("ob-done")) { done(gather(card, card.tdsFrom || DEF)); return; }
         }
         el = el.parentNode;
       }
@@ -1027,11 +1199,13 @@
     ownWire(doc.getElementById("reader-form"));
     wire();
     apply();
+    sorter();
     rail();
     article();
     brake();
     foryou();
-    if (cfg === null) window.setTimeout(hello, WAIT);
+    // hello() bere argument, a ten se sem z časovače nesmí připlést
+    if (cfg === null) window.setTimeout(function () { hello(); }, WAIT);
   }
 
   // stránka „pro tebe“ si tímhle otevírá nastavení

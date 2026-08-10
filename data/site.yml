@@ -89,6 +89,8 @@ editorial:
 #   primary: true  = vždy v horním menu
 #   primary: false = objeví se v menu, teprve až v ní bude aspoň jeden článek
 # ---------------------------------------------------------------------
+#   calm: true = rubrika, kde nechceme proužek rychlých zpráv.
+#                Čtenář sem chodí kvůli klidu, ne kvůli tomu, co právě hoří.
 sections:
   - {id: world,     en: "World",        cs: "Svět",         primary: true}
   - {id: business,  en: "Business",     cs: "Byznys",       primary: true}
@@ -101,19 +103,19 @@ sections:
   - {id: sport,     en: "Sport",        cs: "Sport",        primary: false}
   - {id: food,      en: "Food",         cs: "Jídlo",        primary: false}
   - {id: goodnews,  en: "Good News",    cs: "Dobré zprávy", primary: true}
-  - {id: history,   en: "History & Origins", cs: "Historie a kořeny", primary: true}
-  - {id: questions, en: "Big Questions",     cs: "Velké otázky",      primary: true}
-  - {id: meaning,   en: "Mind & Meaning",    cs: "Mysl a smysl",      primary: true}
-  - {id: relationships, en: "Relationships",  cs: "Vztahy",            primary: true}
-  - {id: parenting, en: "Family & Parenting", cs: "Rodina a výchova",  primary: true}
-  - {id: wonder,    en: "Wonder",         cs: "Žasneme",      primary: true}
+  - {id: history,   en: "History & Origins", cs: "Historie a kořeny", primary: true, calm: true}
+  - {id: questions, en: "Big Questions",     cs: "Velké otázky",      primary: true, calm: true}
+  - {id: meaning,   en: "Mind & Meaning",    cs: "Mysl a smysl",      primary: true, calm: true}
+  - {id: relationships, en: "Relationships",  cs: "Vztahy",            primary: true, calm: true}
+  - {id: parenting, en: "Family & Parenting", cs: "Rodina a výchova",  primary: true, calm: true}
+  - {id: wonder,    en: "Wonder",         cs: "Žasneme",      primary: true, calm: true}
   - {id: ai,        en: "AI & Robotics",  cs: "AI a robotika", primary: true}
   - {id: safety,    en: "Stay Safe",      cs: "Bezpečně",      primary: true}
   # Soul = duchovní vzdělávání a smysl života. Není to kázání a není to
   # rubrika o náboženství: je to místo, kde se ptáme na věci, na které
   # zpravodajství nemá čas. Záměrně primary: false — do menu se dostane,
   # teprve až v ní budou články, aby nikdy nesvítila prázdná.
-  - {id: soul,      en: "Soul",           cs: "Duše",          primary: false}
+  - {id: soul,      en: "Soul",           cs: "Duše",          primary: false, calm: true}
 
 # ---------------------------------------------------------------------
 # OBRÁZKY

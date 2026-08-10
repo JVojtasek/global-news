@@ -177,6 +177,17 @@ Write to {email}. We answer.""",
         "foryou_outside_help": "A newspaper that only ever agreed with you would be a mirror, not a newspaper. These are picked from everything else.",
         "foryou_health_note": "Health is a topic here, not advice. We report what research shows, name the source, and say what is still unknown. For anything about your own health, ask a doctor.",
         "picked": "Picked for you",
+        "archive_title": "Everything we have published",
+        "archive_intro": "Every article, oldest kept as carefully as newest. Nothing here is ever quietly deleted — if we correct something, the correction stays visible on the piece itself.",
+        "archive_search": "Search the archive…",
+        "archive_note": "Search runs inside your browser over the list on this page. We do not log what you look for.",
+        "archive_link": "Archive",
+        "sec_sort": "Sort",
+        "sec_sort_new": "Newest",
+        "sec_sort_deep": "Longest reads",
+        "sec_sort_light": "Lightest first",
+        "sec_count": "%d articles",
+        "sec_calm": "A quiet section. No news ticker here on purpose.",
         "privacy_link": "Privacy",
         "related": "Keep reading",
         "newsletter_soon": "The newsletter opens shortly.",
@@ -379,6 +390,17 @@ Pište na {email}. Odpovídáme.""",
         "foryou_outside_help": "Noviny, které by ti jen přitakávaly, jsou zrcadlo, ne noviny. Tohle je vybrané ze všeho ostatního.",
         "foryou_health_note": "Zdraví je tady téma, ne rada. Píšeme, co ukazuje výzkum, uvádíme zdroj a říkáme, co se zatím neví. Na cokoli ohledně svého zdraví se ptej lékaře.",
         "picked": "Vybráno pro tebe",
+        "archive_title": "Všechno, co jsme vydali",
+        "archive_intro": "Každý článek, o ty starší se staráme stejně jako o nové. Nic tady potichu nemizí — když něco opravíme, oprava zůstane vidět přímo u textu.",
+        "archive_search": "Hledat v archivu…",
+        "archive_note": "Hledá se přímo ve tvém prohlížeči v seznamu na téhle stránce. Nezaznamenáváme, co hledáš.",
+        "archive_link": "Archiv",
+        "sec_sort": "Řadit",
+        "sec_sort_new": "Nejnovější",
+        "sec_sort_deep": "Nejdelší čtení",
+        "sec_sort_light": "Nejlehčí nahoře",
+        "sec_count": "%d článků",
+        "sec_calm": "Klidná rubrika. Proužek zpráv tu schválně není.",
         "privacy_link": "Soukromí",
         "related": "Čtěte dál",
         "newsletter_soon": "Odběr spouštíme zanedlouho.",
@@ -796,12 +818,31 @@ def run() -> None:
                    thought=quotes.thought(), **common))
 
         # --- rubriky ---
+        # Proužek rychlých zpráv patří všude, kde čtenář chce vědět, co se
+        # děje. V klidných rubrikách (`calm: true` v data/site.yml) by ale
+        # rušil — tam je člověk kvůli něčemu jinému.
+        tick = _ticker(site, lang)
         for s in site["sections"]:
             sub = [a for a in arts if a["section"] == s["id"]]
             _write(out / lang / s["id"] / "index.html",
                    env.get_template("section.html").render(
                        articles=sub, section_label=s.get(lang) or s["en"],
+                       section_calm=bool(s.get("calm")),
+                       ticker=([] if s.get("calm") else tick),
+                       thought=quotes.thought(),
                        **{**common, "current_section": s["id"]}))
+
+        # --- archiv: všechno, co kdy vyšlo, na jedné stránce ------------
+        # Kvůli vyhledávačům i kvůli čtenáři. Statický web nemá databázi,
+        # ale tohle je to, co databáze v praxi nahrazuje: jeden trvalý
+        # rozcestník, ze kterého vede odkaz na každý článek.
+        by_year: dict = {}
+        for a in arts:
+            by_year.setdefault(a["date"][:4], []).append(a)
+        years = [{"year": y, "articles": sorted(v, key=lambda x: x["date"], reverse=True)}
+                 for y, v in sorted(by_year.items(), reverse=True)]
+        _write(out / lang / "archive" / "index.html",
+               env.get_template("archive.html").render(years=years, total=len(arts), **common))
 
         # --- stránka pro média, která chtějí naše články převzít ---
         if site.get("republish", {}).get("enabled"):
