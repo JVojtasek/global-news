@@ -49,6 +49,12 @@ SECTION_HINTS = {
                      "conflict communication breakup friendship attachment jealousy apology",
     "parenting": "children child parents parenting toddler teenager baby school homework "
                  "discipline screen time family mother father siblings adolescence upbringing",
+    "ai": "artificial intelligence machine learning neural model llm chatbot openai anthropic "
+          "deepmind gemini claude gpt robot robotics humanoid autonomous agent training inference "
+          "chip gpu nvidia dataset benchmark alignment automation copilot",
+    "safety": "scam phishing fraud breach hacked ransomware malware password stolen leaked "
+              "cyberattack identity spyware surveillance vishing extortion victim warning "
+              "emergency evacuation blackout preparedness safety alert protect",
     "wonder": "species discovered animal ocean deep insect bird whale fossil galaxy universe "
               "telescope nebula cells neurons immune body organ evolution symbiosis migration "
               "extraordinary remarkable astonishing rare unique phenomenon",

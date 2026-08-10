@@ -31,7 +31,32 @@ BANNED = [
     (r"\bend times are here\b", "senzacechtivá eschatologie"),
     (r"\bwe must (?:all )?repent\b", "moralizování / výzva místo otázky"),
     (r"\bas christians,? we (?:must|should|need to)\b", "moralizování"),
+    # --- právní pojistky (viz data/EDITORIAL-CODE.md) ---
+    (r"\b(?:the )?holocaust (?:hoax|never happened|is a lie)\b", "popírání holokaustu"),
+    (r"\b(?:they|the government|elites) (?:are )?(?:secretly )?(?:controlling|poisoning) (?:us|the population)\b",
+     "konspirační tvrzení bez vyvrácení"),
+    (r"\bnew world order\b(?![^.]{0,80}(?:claim|conspiracy|debunk|false|myth))", "konspirační tvrzení bez vyvrácení"),
+    (r"\bwake up,? sheeple\b", "konspirační rétorika"),
+    (r"\b(?:cure|cures|cured) (?:for )?cancer\b(?![^.]{0,60}(?:trial|study|research|not))", "zdravotní tvrzení bez opory"),
+    (r"\byou should (?:buy|sell|invest in)\b", "investiční doporučení"),
+    (r"\b(?:kill|exterminate|deport) (?:all|every) \w+", "podněcování k násilí"),
 ]
+
+# Slova, po kterých článek vždy čeká na člověka, i když prošel vším ostatním
+NEEDS_HUMAN = re.compile(
+    r"\b(election|referendum|ballot|conspiracy|hoax|debunk|"
+    r"rape|abuse|trafficking|suicide|self-harm|"
+    r"convicted|indicted|accused|alleged|lawsuit|"
+    r"death toll|casualties|killed|children)\b", re.I)
+
+# Obvinění bez opory: sloveso zločinu, u kterého poblíž chybí slovo,
+# které z něj dělá tvrzení někoho jiného ("alleged", "according to"…).
+CRIME_VERB = re.compile(
+    r"\b(?:stole|embezzled|defrauded|bribed|laundered|smuggled|assaulted|"
+    r"murdered|abused|falsified|covered up|lied about)\b", re.I)
+ATTRIBUTED = re.compile(
+    r"\b(alleged|allegedly|accused|according to|court|prosecutors|"
+    r"charged with|indicted|convicted|denies|reportedly)\b", re.I)
 
 MIN_WORDS = 500
 
@@ -54,6 +79,21 @@ def _rule_check(meta: dict, body: str) -> list[str]:
         urls = [s.get("url", "") for s in (meta.get("sources") or []) if isinstance(s, dict)]
         if len([u for u in urls if u.startswith("http")]) < 2:
             problems.append("zpravodajský článek má méně než 2 zdroje s odkazem")
+
+    # obvinění bez uvedení, že jde o cizí tvrzení, je žalovatelné
+    for m in CRIME_VERB.finditer(body):
+        okolo = body[max(0, m.start() - 260): m.end() + 260]
+        if not ATTRIBUTED.search(okolo):
+            problems.append(
+                f"obvinění bez uvedení zdroje a bez slova „alleged/accused“: "
+                f"„…{okolo[max(0, m.start() - (m.start() - 60)):][:90]}…“")
+            break
+
+    # citlivá témata nikdy nevycházejí sama
+    hit = NEEDS_HUMAN.search(body + " " + str(meta.get("title", "")))
+    if hit and meta.get("status") == "published":
+        meta["status"] = "review"
+        meta.setdefault("review_reason", f"citlivé téma: {hit.group(0)}")
 
     # čitelnost — zeď textu a souvětí na pět řádků nikdo nečte
     paras = [x for x in body.split("\n\n") if len(x.split()) > 15 and not x.startswith(("#", ">", "-"))]

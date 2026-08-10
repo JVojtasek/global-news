@@ -80,3 +80,19 @@
 - {name: "Psyche",             url: "https://psyche.co/feed",                          weight: 8, section: meaning}
 - {name: "Aeon",               url: "https://aeon.co/feed.rss",                        weight: 8, section: questions}
 - {name: "Greater Good",       url: "https://greatergood.berkeley.edu/feeds/all.rss",  weight: 7, section: meaning}
+
+# ---------- AI A ROBOTIKA ----------
+- {name: "Ars Technica AI",     url: "https://arstechnica.com/ai/feed/",                weight: 8, section: ai}
+- {name: "MIT TR — AI",         url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", weight: 9, section: ai}
+- {name: "The Verge AI",        url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", weight: 7, section: ai}
+- {name: "Google DeepMind",     url: "https://deepmind.google/blog/rss.xml",            weight: 8, section: ai}
+- {name: "Hugging Face",        url: "https://huggingface.co/blog/feed.xml",            weight: 6, section: ai}
+- {name: "IEEE Spectrum Robotics", url: "https://spectrum.ieee.org/feeds/topic/robotics.rss", weight: 8, section: ai}
+- {name: "SCMP Tech (Čína)",    url: "https://www.scmp.com/rss/36/feed",                weight: 7, section: ai}
+
+# ---------- BEZPEČNOST ----------
+- {name: "Krebs on Security",   url: "https://krebsonsecurity.com/feed/",               weight: 9, section: safety}
+- {name: "BleepingComputer",    url: "https://www.bleepingcomputer.com/feed/",          weight: 8, section: safety}
+- {name: "The Hacker News",     url: "https://feeds.feedburner.com/TheHackersNews",     weight: 7, section: safety}
+- {name: "Schneier on Security",url: "https://www.schneier.com/feed/atom/",             weight: 9, section: safety}
+- {name: "NCSC UK",             url: "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml", weight: 9, section: safety}

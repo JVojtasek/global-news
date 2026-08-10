@@ -13,7 +13,7 @@ import xml.sax.saxutils as sx
 import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import analyst, article, config, images
+from . import analyst, article, config, images, quotes
 
 STRINGS = {
     "en": {
@@ -84,6 +84,22 @@ translation at all.
 Write to {email}. We answer.""",
         "today": "",
         "theme": "Light / dark",
+        "weather_title": "Weather",
+        "weather_intro": "Pick your place once and it stays. Seven-day forecast and live rain radar.",
+        "weather_ph": "Town or city…",
+        "weather_find": "Find",
+        "weather_here": "Use my location",
+        "weather_hint": "Type a place, or let the browser find you. Your choice is stored on this device only.",
+        "weather_radar": "Rain radar",
+        "weather_credit": "Forecast: Open-Meteo · Radar: RainViewer · Map: OpenStreetMap contributors",
+        "weather_feels": "Feels like",
+        "weather_wind": "Wind",
+        "weather_hum": "Humidity",
+        "weather_rainc": "Rain",
+        "weather_days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+        "weather_codes": {"0": "Clear sky", "1": "Mainly clear", "2": "Partly cloudy", "3": "Overcast", "45": "Fog", "48": "Freezing fog", "51": "Light drizzle", "53": "Drizzle", "55": "Heavy drizzle", "61": "Light rain", "63": "Rain", "65": "Heavy rain", "66": "Freezing rain", "67": "Heavy freezing rain", "71": "Light snow", "73": "Snow", "75": "Heavy snow", "77": "Snow grains", "80": "Rain showers", "81": "Heavy showers", "82": "Violent showers", "85": "Snow showers", "86": "Heavy snow showers", "95": "Thunderstorm", "96": "Thunderstorm with hail", "99": "Severe thunderstorm"},
+        "thought_title": "Thought for the day",
+        "wit_title": "Last word",
         "ticker_title": "Live now",
         "ticker_note": "Headlines gathered from our sources every three hours. Links go to the original reporting.",
         "related": "Keep reading",
@@ -158,6 +174,22 @@ pečlivě napsané věty je horší než žádný.
 Pište na {email}. Odpovídáme.""",
         "today": "",
         "theme": "Světlý / tmavý režim",
+        "weather_title": "Počasí",
+        "weather_intro": "Vyber si místo jednou a zůstane ti. Předpověď na sedm dní a živý srážkový radar.",
+        "weather_ph": "Město nebo obec…",
+        "weather_find": "Najít",
+        "weather_here": "Moje poloha",
+        "weather_hint": "Napiš místo, nebo nech prohlížeč, ať tě najde. Volba se ukládá jen do tvého zařízení.",
+        "weather_radar": "Srážkový radar",
+        "weather_credit": "Předpověď: Open-Meteo · Radar: RainViewer · Mapa: přispěvatelé OpenStreetMap",
+        "weather_feels": "Pocitově",
+        "weather_wind": "Vítr",
+        "weather_hum": "Vlhkost",
+        "weather_rainc": "Déšť",
+        "weather_days": ["Ne", "Po", "Út", "St", "Čt", "Pá", "So"],
+        "weather_codes": {"0": "Jasno", "1": "Skoro jasno", "2": "Polojasno", "3": "Zataženo", "45": "Mlha", "48": "Mrznoucí mlha", "51": "Slabé mrholení", "53": "Mrholení", "55": "Silné mrholení", "61": "Slabý déšť", "63": "Déšť", "65": "Silný déšť", "66": "Mrznoucí déšť", "67": "Silný mrznoucí déšť", "71": "Slabé sněžení", "73": "Sněžení", "75": "Silné sněžení", "77": "Sněhová zrna", "80": "Přeháňky", "81": "Silné přeháňky", "82": "Prudké přeháňky", "85": "Sněhové přeháňky", "86": "Silné sněhové přeháňky", "95": "Bouřka", "96": "Bouřka s krupobitím", "99": "Silná bouřka"},
+        "thought_title": "Myšlenka dne",
+        "wit_title": "Poslední slovo",
         "ticker_title": "Právě se děje",
         "ticker_note": "Titulky z našich zdrojů, aktualizované každé tři hodiny. Odkazy vedou na původní zpravodajství.",
         "related": "Čtěte dál",
@@ -405,6 +437,7 @@ def run() -> None:
             sections=nav, all_sections=site["sections"], all_langs=langs,
             site_url=config.origin(), base=config.base_path(), current_section=None,
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
+            wit=quotes.wit(),
             today_label=_date_label(lang),
             nl_headline=(site.get("newsletter", {}).get(f"headline_{lang}")
                          or site.get("newsletter", {}).get("headline_en", "")),
@@ -452,7 +485,8 @@ def run() -> None:
         _write(out / lang / "index.html",
                env.get_template("index.html").render(
                    briefing=briefing, lead=lead, articles=arts[1:9],
-                   rows=rows, ticker=_ticker(site, lang), **common))
+                   rows=rows, ticker=_ticker(site, lang),
+                   thought=quotes.thought(), **common))
 
         # --- rubriky ---
         for s in site["sections"]:
@@ -471,6 +505,10 @@ def run() -> None:
                            license=site["republish"]["license"],
                            license_url=site["republish"]["license_url"],
                            email=site["brand"]["email"])), **common))
+
+        # --- počasí ---
+        _write(out / lang / "weather" / "index.html",
+               env.get_template("weather.html").render(**common))
 
         # --- statické stránky ---
         for name in ("about", "start"):

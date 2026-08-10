@@ -1,0 +1,168 @@
+{% extends "base.html" %}
+{% block title %}{{ t.weather_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.weather_intro }}{% endblock %}
+{% block head %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+.wx-search{display:flex;gap:.6rem;flex-wrap:wrap;margin:1.2rem 0 .4rem}
+.wx-search input{flex:1;min-width:13rem;padding:.6rem .8rem;border:1px solid var(--line);
+  border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+.wx-search button{padding:.6rem 1.1rem;border:0;border-radius:8px;background:var(--accent);
+  color:#fff;font:inherit;cursor:pointer}
+.wx-search button.ghost{background:none;border:1px solid var(--line);color:var(--ink)}
+.wx-hits{list-style:none;padding:0;margin:.5rem 0 0}
+.wx-hits li{padding:.5rem .7rem;border:1px solid var(--line);border-radius:8px;margin-bottom:.35rem;
+  cursor:pointer;font-size:.92rem;background:var(--card)}
+.wx-hits li:hover{border-color:var(--accent);color:var(--accent)}
+.wx-now{display:grid;grid-template-columns:auto 1fr;gap:1.4rem;align-items:center;
+  background:var(--card);border:1px solid var(--line);border-radius:12px;padding:1.4rem 1.5rem;margin:1.4rem 0}
+.wx-temp{font-size:3.4rem;line-height:1;font-weight:700;letter-spacing:-.03em}
+.wx-place{font-size:1.15rem;font-weight:600;margin-bottom:.2rem}
+.wx-desc{color:var(--ink-soft)}
+.wx-meta{display:flex;gap:1.4rem;flex-wrap:wrap;margin-top:.7rem;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.82rem;color:var(--ink-soft)}
+.wx-days{display:grid;grid-template-columns:repeat(auto-fit,minmax(6.5rem,1fr));gap:.6rem;margin:1.2rem 0 2rem}
+.wx-day{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.8rem .5rem;text-align:center}
+.wx-day b{display:block;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:.4rem}
+.wx-day .hi{font-size:1.2rem;font-weight:600}
+.wx-day .lo{color:var(--ink-soft);font-size:.92rem}
+.wx-day .rain{font-size:.75rem;color:var(--accent);margin-top:.25rem;
+  font-family:ui-sans-serif,system-ui,sans-serif}
+#wx-map{height:26rem;border-radius:12px;border:1px solid var(--line);margin:.6rem 0 .5rem}
+.wx-note{font-size:.78rem;color:var(--ink-soft);font-family:ui-sans-serif,system-ui,sans-serif}
+.wx-hint{color:var(--ink-soft);font-size:.9rem}
+</style>
+{% endblock %}
+{% block body %}
+<article class="post"><div class="wrap">
+  <h1>{{ t.weather_title }}</h1>
+  <p class="dek">{{ t.weather_intro }}</p>
+
+  <div class="wx-search">
+    <input id="wx-q" placeholder="{{ t.weather_ph }}" autocomplete="off">
+    <button onclick="wxSearch()">{{ t.weather_find }}</button>
+    <button class="ghost" onclick="wxHere()">{{ t.weather_here }}</button>
+  </div>
+  <ul class="wx-hits" id="wx-hits"></ul>
+  <p class="wx-hint" id="wx-hint">{{ t.weather_hint }}</p>
+
+  <div id="wx-out"></div>
+
+  <h2 style="margin-top:2.2rem">{{ t.weather_radar }}</h2>
+  <div id="wx-map"></div>
+  <p class="wx-note">{{ t.weather_credit }}</p>
+</div></article>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const WXT = {
+  days: {{ t.weather_days|safe }},
+  codes: {{ t.weather_codes|safe }},
+  feels: "{{ t.weather_feels }}", wind: "{{ t.weather_wind }}",
+  hum: "{{ t.weather_hum }}", rainc: "{{ t.weather_rainc }}"
+};
+let wxMap, wxRadar, wxMarker;
+
+function wxSave(p){ try{ localStorage.setItem("tds-wx", JSON.stringify(p)); }catch(e){} }
+function wxLoad(){ try{ return JSON.parse(localStorage.getItem("tds-wx")||"null"); }catch(e){ return null; } }
+
+async function wxSearch(){
+  const q = document.getElementById("wx-q").value.trim();
+  if(q.length < 2) return;
+  const box = document.getElementById("wx-hits");
+  box.innerHTML = "<li>…</li>";
+  try{
+    const r = await fetch("https://geocoding-api.open-meteo.com/v1/search?count=6&language={{ lang }}&name="+encodeURIComponent(q));
+    const j = await r.json();
+    if(!j.results){ box.innerHTML = ""; return; }
+    box.innerHTML = j.results.map((p,i)=>
+      `<li onclick='wxPick(${JSON.stringify(JSON.stringify({name:p.name,country:p.country,admin:p.admin1||"",lat:p.latitude,lon:p.longitude}))})'>`+
+      `${p.name}${p.admin1? ", "+p.admin1 : ""} — ${p.country}</li>`).join("");
+  }catch(e){ box.innerHTML = "<li style='cursor:default'>—</li>"; }
+}
+function wxPick(s){
+  const p = JSON.parse(s);
+  document.getElementById("wx-hits").innerHTML = "";
+  document.getElementById("wx-q").value = "";
+  wxSave(p); wxShow(p);
+}
+function wxHere(){
+  if(!navigator.geolocation) return;
+  navigator.geolocation.getCurrentPosition(async pos=>{
+    const {latitude:lat, longitude:lon} = pos.coords;
+    let name = "";
+    try{
+      const r = await fetch(`https://geocoding-api.open-meteo.com/v1/search?count=1&language={{ lang }}&name=&latitude=${lat}&longitude=${lon}`);
+    }catch(e){}
+    const p = {name: name || "📍", country:"", admin:"", lat, lon};
+    wxSave(p); wxShow(p);
+  });
+}
+
+async function wxShow(p){
+  document.getElementById("wx-hint").style.display = "none";
+  const out = document.getElementById("wx-out");
+  out.innerHTML = "<p class='wx-hint'>…</p>";
+  try{
+    const u = `https://api.open-meteo.com/v1/forecast?latitude=${p.lat}&longitude=${p.lon}`+
+      `&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m`+
+      `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max`+
+      `&timezone=auto&forecast_days=7`;
+    const j = await (await fetch(u)).json();
+    const c = j.current, d = j.daily;
+    const place = [p.name, p.admin, p.country].filter(Boolean).join(", ");
+    out.innerHTML = `
+      <div class="wx-now">
+        <div class="wx-temp">${Math.round(c.temperature_2m)}°</div>
+        <div>
+          <div class="wx-place">${place}</div>
+          <div class="wx-desc">${WXT.codes[c.weather_code] || ""}</div>
+          <div class="wx-meta">
+            <span>${WXT.feels} ${Math.round(c.apparent_temperature)}°</span>
+            <span>${WXT.wind} ${Math.round(c.wind_speed_10m)} km/h</span>
+            <span>${WXT.hum} ${c.relative_humidity_2m} %</span>
+          </div>
+        </div>
+      </div>
+      <div class="wx-days">${d.time.map((t,i)=>{
+        const dt = new Date(t+"T12:00:00");
+        return `<div class="wx-day"><b>${WXT.days[dt.getDay()]}</b>
+          <div class="hi">${Math.round(d.temperature_2m_max[i])}°</div>
+          <div class="lo">${Math.round(d.temperature_2m_min[i])}°</div>
+          ${d.precipitation_probability_max[i]>15 ? `<div class="rain">${WXT.rainc} ${d.precipitation_probability_max[i]}%</div>`:""}
+        </div>`;}).join("")}</div>`;
+    try{ wxMapTo(p.lat, p.lon, place); }catch(e){}
+  }catch(e){ out.innerHTML = "<p class='wx-hint'>—</p>"; }
+}
+
+async function wxMapTo(lat, lon, label){
+  // když se mapová knihovna nenačte (blokovaná reklamou, firemní sítí),
+  // nesmí to shodit předpověď — ta je důležitější
+  if(typeof L === "undefined"){
+    var el = document.getElementById("wx-map");
+    if(el){ el.style.display = "none"; }
+    return;
+  }
+  if(!wxMap){
+    wxMap = L.map("wx-map", {scrollWheelZoom:false}).setView([lat,lon], 7);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+      {maxZoom:12, attribution:"© OpenStreetMap"}).addTo(wxMap);
+  } else { wxMap.setView([lat,lon], 7); }
+  if(wxMarker) wxMap.removeLayer(wxMarker);
+  wxMarker = L.circleMarker([lat,lon], {radius:6, color:"#c0483a", fillOpacity:.9}).addTo(wxMap);
+  if(label) wxMarker.bindTooltip(label);
+  try{
+    const rv = await (await fetch("https://api.rainviewer.com/public/weather-maps.json")).json();
+    const last = rv.radar.past[rv.radar.past.length-1];
+    if(wxRadar) wxMap.removeLayer(wxRadar);
+    wxRadar = L.tileLayer(`${rv.host}${last.path}/256/{z}/{x}/{y}/2/1_1.png`, {opacity:.6}).addTo(wxMap);
+  }catch(e){}
+}
+
+(function(){
+  const p = wxLoad();
+  if(p){ wxShow(p); } else { try{ wxMapTo(50.08, 14.44, ""); }catch(e){} }
+})();
+</script>
+{% endblock %}

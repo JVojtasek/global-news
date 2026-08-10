@@ -46,6 +46,14 @@
 
   </div>
 
+  <div class="sidecol">
+  {% if thought %}
+  <aside class="thought">
+    <h2>{{ t.thought_title }}</h2>
+    <blockquote>{{ thought.text }}</blockquote>
+    <cite>— {{ thought.author }}</cite>
+  </aside>
+  {% endif %}
   {% if ticker %}
   <aside class="ticker">
     <h2>{{ t.ticker_title }}</h2>
@@ -60,6 +68,7 @@
     <p class="note">{{ t.ticker_note }}</p>
   </aside>
   {% endif %}
+  </div>
 </div>
 
 {% for row in rows %}

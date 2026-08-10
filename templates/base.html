@@ -32,6 +32,7 @@
   <div class="inner">
     <nav class="sections">
       {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s[lang] or s.en }}</a>{% endfor %}
+      <a href="{{ base }}/{{ lang }}/weather/">{{ t.weather_title }}</a>
     </nav>
   </div>
 </header>
@@ -51,6 +52,13 @@
     {% endif %}
   </div>
 </section>
+{% endif %}
+{% if wit %}
+<div class="lastword"><div class="wrap">
+  <span class="lw-label">{{ t.wit_title }}</span>
+  <p>{{ wit.text }}</p>
+  <cite>— {{ wit.author }}</cite>
+</div></div>
 {% endif %}
 <footer class="site">
   <div class="cols">

@@ -63,6 +63,8 @@ editorial:
       - business
       - culture
       - wonder
+      - ai
+      - safety
     min_words: 1100
     max_words: 1900
 
@@ -78,7 +80,7 @@ editorial:
   depth_always: [history, questions, meaning]
 
   # Rubriky, kde biblická vrstva NIKDY nebude (bylo by to trapné)
-  depth_never: [sport, food, motoring, travel]
+  depth_never: [sport, food, motoring, travel, safety, ai]
 
 # ---------------------------------------------------------------------
 # RUBRIKY
@@ -103,6 +105,8 @@ sections:
   - {id: relationships, en: "Relationships",  cs: "Vztahy",            primary: true}
   - {id: parenting, en: "Family & Parenting", cs: "Rodina a výchova",  primary: true}
   - {id: wonder,    en: "Wonder",         cs: "Žasneme",      primary: true}
+  - {id: ai,        en: "AI & Robotics",  cs: "AI a robotika", primary: true}
+  - {id: safety,    en: "Stay Safe",      cs: "Bezpečně",      primary: true}
 
 # ---------------------------------------------------------------------
 # OBRÁZKY
@@ -166,6 +170,24 @@ topics:
     - "sibling rivalry"
     - "raising confident children"
     - "working mother guilt"
+    # umělá inteligence a práce
+    - "how to use AI at work"
+    - "AI automation small business"
+    - "AI writing assistant"
+    - "AI agents"
+    - "humanoid robots"
+    - "AI replacing jobs"
+    - "prompt engineering"
+    # bezpečnost
+    - "phishing scam"
+    - "password manager"
+    - "two factor authentication"
+    - "identity theft"
+    - "romance scam"
+    - "ransomware"
+    - "child online safety"
+    - "emergency preparedness"
+    - "what to do in a blackout"
     # smysl a historie
     - "forgiveness"
     - "meaning of life"

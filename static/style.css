@@ -297,3 +297,26 @@ article.post .layer p{margin:0 0 1.15rem}
 .card h3 a{transition:color .12s ease}
 .grid{align-items:start}
 figure.cover img{box-shadow:0 1px 2px rgba(0,0,0,.06)}
+
+
+/* ---------- myšlenka dne ---------- */
+.sidecol{display:flex;flex-direction:column;gap:1rem;position:sticky;top:1rem;margin-top:2.5rem}
+.sidecol aside.ticker{position:static;margin-top:0}
+aside.thought{background:var(--scripture-bg);border-left:3px solid var(--scripture-line);
+  border-radius:0 10px 10px 0;padding:1.1rem 1.2rem}
+aside.thought h2{font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;
+  font-family:ui-sans-serif,system-ui,sans-serif;color:var(--accent);margin:0 0 .7rem}
+aside.thought blockquote{margin:0;border:0;padding:0;font-size:1.02rem;line-height:1.5;
+  font-style:italic;color:var(--ink)}
+aside.thought cite{display:block;margin-top:.6rem;font-style:normal;font-size:.8rem;
+  color:var(--ink-soft);font-family:ui-sans-serif,system-ui,sans-serif}
+@media (max-width:900px){.sidecol{position:static;margin-top:1.5rem}}
+
+/* ---------- poslední slovo ---------- */
+.lastword{border-top:1px solid var(--line);background:var(--bg-soft);padding:2.2rem 0 2rem;
+  margin-top:3rem;text-align:center}
+.lastword .lw-label{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.7rem;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
+.lastword p{font-size:1.22rem;line-height:1.5;margin:.7rem auto .5rem;max-width:38rem;font-style:italic}
+.lastword cite{font-style:normal;font-size:.85rem;color:var(--ink-soft);
+  font-family:ui-sans-serif,system-ui,sans-serif}
