@@ -26,10 +26,18 @@ def _sources() -> list:
     return yaml.safe_load(p.read_text(encoding="utf-8")) if p.exists() else []
 
 
+COUNTER = re.compile(r"counter\.|/count\.gif|pixel\.", re.I)
+
+
 def _to_markdown(html: str, keep_images: bool) -> str:
     soup = BeautifulSoup(html, "html.parser")
     for bad in soup(["script", "style", "iframe", "form", "aside"]):
         bad.decompose()
+
+    # počítadlo návštěv některé redakce vyžadují jako podmínku licence,
+    # takže ho necháváme i tam, kde jinak obrázky zahazujeme
+    counters = [i.get("src") for i in soup.find_all("img")
+                if i.get("src") and COUNTER.search(i["src"])]
     if not keep_images:
         for img in soup(["img", "figure", "picture"]):
             img.decompose()
@@ -52,6 +60,10 @@ def _to_markdown(html: str, keep_images: bool) -> str:
             out.append(f"- {text}")
         else:
             out.append(text)
+
+    # počítadlo návštěv je u některých licencí podmínkou — nechat vždy
+    for c in counters:
+        out.append(f'<img src="{c}" alt="" width="1" height="1">')
     return "\n\n".join(out)
 
 

@@ -41,3 +41,70 @@
   may_edit: true
   keep_images: true         # snímky NASA jsou ve veřejném vlastnictví
   attribution: "Originally published by <a href=\"{url}\">NASA</a>. NASA material is generally not subject to copyright protection."
+
+# --- The Conversation ------------------------------------------------
+#  Akademická žurnalistika: články píší univerzitní odborníci.
+#  Licence CC BY-ND — smíme převzít CELÝ text, ale NESMÍME ho upravovat
+#  ani překládat (proto may_translate: false). Fotky pod licencí nejsou.
+#  Podmínkou je uvést autora i jeho instituci a nechat v textu jejich
+#  počítadlo návštěv — systém ho tam nechává automaticky.
+
+- name: "The Conversation — Health"
+  url: "https://theconversation.com/us/health/articles.atom"
+  section: health
+  license: "CC BY-ND 4.0"
+  license_url: "https://creativecommons.org/licenses/by-nd/4.0/"
+  may_translate: false
+  may_edit: false
+  keep_images: false
+  attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
+
+- name: "The Conversation — Technology"
+  url: "https://theconversation.com/us/technology/articles.atom"
+  section: tech
+  license: "CC BY-ND 4.0"
+  license_url: "https://creativecommons.org/licenses/by-nd/4.0/"
+  may_translate: false
+  may_edit: false
+  keep_images: false
+  attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
+
+- name: "The Conversation — Environment"
+  url: "https://theconversation.com/us/environment/articles.atom"
+  section: science
+  license: "CC BY-ND 4.0"
+  license_url: "https://creativecommons.org/licenses/by-nd/4.0/"
+  may_translate: false
+  may_edit: false
+  keep_images: false
+  attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
+
+- name: "The Conversation — Education"
+  url: "https://theconversation.com/us/education/articles.atom"
+  section: parenting
+  license: "CC BY-ND 4.0"
+  license_url: "https://creativecommons.org/licenses/by-nd/4.0/"
+  may_translate: false
+  may_edit: false
+  keep_images: false
+  attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
+
+- name: "The Conversation — Arts & Culture"
+  url: "https://theconversation.com/us/arts/articles.atom"
+  section: culture
+  license: "CC BY-ND 4.0"
+  license_url: "https://creativecommons.org/licenses/by-nd/4.0/"
+  may_translate: false
+  may_edit: false
+  keep_images: false
+  attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
+
+- name: "The Conversation — Ethics & Big Questions"
+  url: "https://theconversation.com/us/ethics/articles.atom"
+  section: questions
+  license: "CC BY-ND 4.0"
+  license_url: "https://creativecommons.org/licenses/by-nd/4.0/"
+  may_translate: false
+  may_edit: false
+  keep_images: false
+  attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
