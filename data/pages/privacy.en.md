@@ -12,7 +12,9 @@ localStorage:
 - **your reading balance** — how much news you want, how hard you want it to
   land, and any subjects you have muted
 - **your interests** — the sections and subjects you picked, including anything
-  you ticked under health
+  you ticked under health, and any topic you typed in yourself. Typed topics are
+  matched against headlines and summaries inside your own browser; we never see
+  the words you typed
 - **the place you chose for the weather**
 - **whether you prefer the light or the dark version of the page**
 

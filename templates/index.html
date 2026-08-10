@@ -2,6 +2,19 @@
 {% block title %}{{ brand }} — {{ tagline }}{% endblock %}
 {% block body %}
 
+{# Myšlenka dne stojí nad novinami, ne pod nimi: tenká linka, malá
+   kapitálka, kurzíva. Žádná karta a žádná plocha barvy — plakát z toho
+   být nemá. Na úzkém displeji se to zalomí pod sebe. #}
+{% if thought %}
+<aside class="dayline">
+  <div class="wide">
+    <span class="dayline-lab">{{ t.thought_title }}</span>
+    <q class="dayline-q">{{ thought.text }}</q>
+    <cite class="dayline-by">— {{ thought.author }}</cite>
+  </div>
+</aside>
+{% endif %}
+
 {% if briefing %}
 <section class="briefing">
   <div class="wide">
@@ -49,11 +62,14 @@
   </div>
 
   <div class="sidecol">
-  {% if thought %}
-  <aside class="thought">
-    <h2>{{ t.thought_title }}</h2>
-    <blockquote>{{ thought.text }}</blockquote>
-    <cite>— {{ thought.author }}</cite>
+  {# Poslední slovo se přestěhovalo zespodu sem nahoru vedle zpráv.
+     Je jen na titulní straně — na ostatních stránkách už žádný
+     spodní pruh nezůstal. #}
+  {% if wit %}
+  <aside class="sidequote">
+    <h2>{{ t.wit_title }}</h2>
+    <blockquote>{{ wit.text }}</blockquote>
+    <cite>— {{ wit.author }}</cite>
   </aside>
   {% endif %}
   {% if ticker %}

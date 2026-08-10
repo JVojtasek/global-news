@@ -116,3 +116,35 @@ def today() -> str:
 def log(msg: str) -> None:
     stamp = dt.datetime.now().strftime("%H:%M:%S")
     print(f"[{stamp}] {msg}", flush=True)
+
+
+_commit_cache: dict = {}
+
+
+def first_commit_iso(path) -> str:
+    """Kdy článek poprvé vyšel — čas, kdy se soubor dostal do repozitáře.
+
+    Je to poctivější než datum v hlavičce: to říká, ke kterému dni se
+    text vztahuje, tohle říká, kdy ho čtenář mohl poprvé otevřít.
+    """
+    key = str(path)
+    if key in _commit_cache:
+        return _commit_cache[key]
+    out = ""
+    try:
+        r = subprocess.run(
+            ["git", "log", "--diff-filter=A", "--format=%aI", "-1", "--", key],
+            cwd=ROOT, capture_output=True, text=True, timeout=15,
+        )
+        out = (r.stdout or "").strip().splitlines()[0] if r.stdout.strip() else ""
+    except Exception:
+        out = ""
+    if not out:
+        try:
+            import datetime as _d
+            out = _d.datetime.fromtimestamp(
+                pathlib.Path(key).stat().st_mtime, _d.timezone.utc).isoformat()
+        except Exception:
+            out = ""
+    _commit_cache[key] = out
+    return out

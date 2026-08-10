@@ -42,6 +42,12 @@
 </header>
 {% block body %}{% endblock %}
 {% if newsletter.enabled %}
+{# Bez adresy formuláře od poskytovatele umí krabička ještě jednu věc:
+   otevřít poštovní aplikaci a nechat čtenáře poslat adresu nám. Server
+   k tomu není potřeba, takže to funguje i na statickém webu. Adresu
+   bereme z nastavení — dokud v šabloně žádná není, políčko zůstane
+   nečinné a pod ním je poctivé „připravujeme“, ne slib naprázdno. #}
+{% set nl_mail = newsletter.email or mem.email or brand_email or site_email or '' %}
 <section class="signup">
   <div class="wrap">
     <h2>{{ nl_headline }}</h2>
@@ -51,18 +57,42 @@
       <input type="email" name="{{ newsletter.field_name }}" required placeholder="your@email.com" aria-label="e-mail">
       <button type="submit">{{ nl_button }}</button>
     </form>
+    {% elif nl_mail %}
+    <form class="nl-mail" id="nl-form" data-mail="{{ nl_mail }}" data-subject="{{ t.nl_sub_subject }}">
+      <input type="email" name="{{ newsletter.field_name or 'email' }}" required placeholder="your@email.com" aria-label="e-mail">
+      <button type="submit">{{ nl_button }}</button>
+    </form>
+    <p class="nl-thanks" id="nl-thanks" role="status" hidden>{{ t.nl_sub_thanks }}</p>
     {% else %}
+    <form class="nl-off">
+      <input type="email" placeholder="your@email.com" aria-label="e-mail" disabled>
+      <button type="submit" disabled>{{ nl_button }}</button>
+    </form>
     <p class="soon">{{ t.newsletter_soon }}</p>
     {% endif %}
+    <p class="nl-priv">{{ t.nl_privacy }}</p>
   </div>
 </section>
+{% if not newsletter.form_action and nl_mail %}
+<script>
+(function(){
+  var f=document.getElementById("nl-form");
+  if(!f)return;
+  f.addEventListener("submit",function(e){
+    e.preventDefault();
+    var i=f.querySelector("input[type=email]");
+    var a=i?i.value.replace(/^\s+|\s+$/g,""):"";
+    if(!a)return;
+    window.location.href="mailto:"+f.getAttribute("data-mail")
+      +"?subject="+encodeURIComponent(f.getAttribute("data-subject")||"")
+      +"&body="+encodeURIComponent(a);
+    var ok=document.getElementById("nl-thanks");
+    f.setAttribute("hidden","");
+    if(ok)ok.removeAttribute("hidden");
+  });
+})();
+</script>
 {% endif %}
-{% if wit %}
-<div class="lastword"><div class="wrap">
-  <span class="lw-label">{{ t.wit_title }}</span>
-  <p>{{ wit.text }}</p>
-  <cite>— {{ wit.author }}</cite>
-</div></div>
 {% endif %}
 <footer class="site">
   <div class="cols">
@@ -107,6 +137,18 @@ function tdsTheme(){
       </div>
     </fieldset>
     {% endfor %}
+    {# Vlastní téma: co v našem seznamu není. Hledá se v titulcích
+       a perexech, takže je poctivé rovnou říct, že to není chytré
+       vyhledávání — jedno slovo funguje líp než věta. #}
+    <fieldset class="ob-group ob-own" data-own>
+      <legend class="reader-lab">{{ t.ob_own }}</legend>
+      <p class="ob-note">{{ t.ob_own_help }}</p>
+      <div class="ob-own-row">
+        <input type="text" class="ob-own-in" placeholder="{{ t.ob_own_ph }}" aria-label="{{ t.ob_own }}" maxlength="40" autocomplete="off">
+        <button type="button" class="ob-own-add">{{ t.ob_own_add }}</button>
+      </div>
+      <div class="ob-own-list"></div>
+    </fieldset>
   </div>
   <div class="ob-part" data-part="bal">
     <div class="reader-set" data-v="2">

@@ -19,9 +19,12 @@
   var T = window.TDSR || {};
   var KEY = "tds-reader";
   var SEEN = "tds-heavy-seen";
-  var DEF = { amount: 2, tone: 2, mute: [], brake: true, secs: [], tags: [] };
+  var DEF = { amount: 2, tone: 2, mute: [], brake: true, secs: [], tags: [], own: [] };
   var KEEP = { 1: 12, 2: 30, 3: 0 };   // 0 = bez stropu
   var SHARE = 0.6;                     // strop podílu těžkých karet
+  var OWN_MAX = 8;                     // kolik vlastních témat nejvýš
+  var OWN_MIN = 3;                     // kratší text by trefil skoro cokoli
+  var OWN_PTS = 3;                     // co má vlastní téma za trefu
   var BRAKE_AT = 5;
   var OFF = "reader-off";
   var RAIL = 6;                        // kolik karet do proužku „vybráno“
@@ -55,10 +58,34 @@
     return isArr(v) ? v.filter(function (x) { return typeof x === "string" && x; }) : [];
   }
 
+  function trim(s) {
+    return String(s === null || s === undefined ? "" : s).replace(/^\s+|\s+$/g, "");
+  }
+
+  function low(s) {
+    return String(s === null || s === undefined ? "" : s).toLowerCase();
+  }
+
+  /* Vlastní témata čtenáře: bez mezer po krajích, bez krátkých útržků,
+     bez dvakrát téhož (velká a malá písmena jsou totéž) a nejvýš OWN_MAX.
+     Platí to na jednom místě, ať téma přišlo z políčka nebo z úložiště. */
+  function owns(v) {
+    var out = [], seen = [], list = strs(v);
+    for (var i = 0; i < list.length && out.length < OWN_MAX; i++) {
+      var s = trim(list[i]);
+      if (s.length < OWN_MIN) continue;
+      if (seen.indexOf(low(s)) >= 0) continue;
+      seen.push(low(s));
+      out.push(s);
+    }
+    return out;
+  }
+
   function copy(v) {
     return {
       amount: v.amount, tone: v.tone, brake: v.brake,
-      mute: v.mute.slice(0), secs: v.secs.slice(0), tags: v.tags.slice(0)
+      mute: v.mute.slice(0), secs: v.secs.slice(0), tags: v.tags.slice(0),
+      own: (v.own || []).slice(0)
     };
   }
 
@@ -70,14 +97,15 @@
       if (!v || typeof v !== "object" || isArr(v)) return null;
       // nesmysl v úložišti se bere jako „čtenář si nic nenastavil“
       if (!("amount" in v) && !("tone" in v) && !("mute" in v) && !("brake" in v)
-        && !("secs" in v) && !("tags" in v)) return null;
+        && !("secs" in v) && !("tags" in v) && !("own" in v)) return null;
       return {
         amount: num(v.amount, 1, 3, DEF.amount),
         tone: num(v.tone, 1, 3, DEF.tone),
         mute: strs(v.mute),
         brake: v.brake !== false,
         secs: strs(v.secs),
-        tags: strs(v.tags)
+        tags: strs(v.tags),
+        own: owns(v.own)
       };
     } catch (e) { return null; }
   }
@@ -411,10 +439,23 @@
     return 0;
   }
 
+  /* Vlastní téma je obyčejné slovo, ne značka — hledá se proto přímo
+     v titulku a perexu. Žádné chytré hledání v tom není a slibovat ho
+     nebudeme; text se v `ob_own_help` říká na rovinu. */
+  function ownHits(it, set) {
+    var list = set.own || [], txt = it.text || "", n = 0;
+    if (!txt) return 0;
+    for (var i = 0; i < list.length; i++) {
+      if (txt.indexOf(low(list[i])) >= 0) n++;
+    }
+    return n;
+  }
+
   /* Shoda s výběrem čtenáře. Nula znamená „tohle si nevybral“ —
      podle toho se pozná, co patří schválně mimo jeho okruh. */
   function bond(it, set) {
     return 3 * both(it.tags, set.tags).length
+      + OWN_PTS * ownHits(it, set)
       + (it.sec && set.secs.indexOf(it.sec) >= 0 ? 2 : 0);
   }
 
@@ -427,7 +468,7 @@
   }
 
   function chosen(set) {
-    return !!(set && (set.secs.length || set.tags.length));
+    return !!(set && (set.secs.length || set.tags.length || (set.own || []).length));
   }
 
   /* rubrika se pozná z odkazu: /základ/jazyk/rubrika/článek/ */
@@ -441,6 +482,15 @@
     return (i >= 0 && parts.length > i + 1) ? parts[i + 1] : "";
   }
 
+  /* Titulek a perex karty — jediné, v čem se dá hledat vlastní téma.
+     Rubrika nad titulkem se schválně nepočítá, jinak by slovo „zdraví“
+     vytáhlo celou rubriku. */
+  function textOf(el) {
+    var h = el.querySelector("h1, h2, h3");
+    var d = el.querySelector(".body > p, p.dek");
+    return low((h ? h.textContent : "") + " " + (d ? d.textContent : ""));
+  }
+
   function fromCard(el) {
     return {
       el: el,
@@ -448,7 +498,8 @@
       topics: topicsOf(el),
       sec: sectionOf(el),
       band: el.getAttribute("data-band") || "",
-      date: el.getAttribute("data-date") || ""
+      date: el.getAttribute("data-date") || "",
+      text: textOf(el)
     };
   }
 
@@ -456,7 +507,8 @@
     return {
       raw: o,
       tags: csv(o.g), topics: csv(o.p), sec: o.s || "",
-      band: o.b || "", date: o.dt || ""
+      band: o.b || "", date: o.dt || "",
+      text: low((o.t || "") + " " + (o.d || ""))
     };
   }
 
@@ -505,6 +557,103 @@
     return out;
   }
 
+  /* ------------------------------------------------ vlastní témata
+     Štítek si nese svůj text v data-own-val, takže se dá přečíst zpátky
+     i s velkými písmeny tak, jak ho čtenář napsal. Pravidla (délka,
+     duplicity, strop) drží `owns` a `ownAdd` — obě kopie voleb, panel
+     i průvodce, se chovají stejně, protože je to jeden kus kódu.
+     ================================================================ */
+  function ownBox(root) {
+    return root ? root.querySelector("[data-own]") : null;
+  }
+
+  function ownNow(box) {
+    if (!box) return [];
+    return [].slice.call(box.querySelectorAll(".ob-own-chip")).map(function (c) {
+      return c.getAttribute("data-own-val") || "";
+    }).filter(Boolean);
+  }
+
+  function ownChip(txt) {
+    var chip = doc.createElement("span");
+    chip.className = "ob-own-chip";
+    chip.setAttribute("data-own-val", txt);
+    var name = doc.createElement("span");
+    name.className = "ob-own-txt";
+    name.textContent = txt;
+    var x = doc.createElement("button");
+    x.type = "button";
+    x.className = "ob-own-x";
+    x.textContent = "×";
+    // jméno tlačítka nese samo téma — přeložitelný text sem nepatří
+    x.setAttribute("aria-label", txt);
+    x.title = txt;
+    chip.appendChild(name);
+    chip.appendChild(x);
+    return chip;
+  }
+
+  /* Na stropu se políčko zavře, místo aby psaní tiše zahazovalo. */
+  function ownCap(box) {
+    if (!box) return;
+    var full = ownNow(box).length >= OWN_MAX;
+    var inp = box.querySelector(".ob-own-in");
+    var add = box.querySelector(".ob-own-add");
+    if (inp) inp.disabled = full;
+    if (add) add.disabled = full;
+  }
+
+  function ownFill(root, list) {
+    var box = ownBox(root);
+    var host = box && box.querySelector(".ob-own-list");
+    if (!host) return;
+    wipe(host);
+    owns(list).forEach(function (s) { host.appendChild(ownChip(s)); });
+    ownCap(box);
+  }
+
+  function ownAdd(box) {
+    var inp = box.querySelector(".ob-own-in");
+    var host = box.querySelector(".ob-own-list");
+    if (!inp || !host) return;
+    var s = trim(inp.value);
+    if (s.length < OWN_MIN) return;          // krátký útržek zůstane v políčku
+    var have = ownNow(box);
+    if (have.length >= OWN_MAX) return;
+    if (owns(have.concat([s])).length === have.length) { inp.value = ""; return; }
+    host.appendChild(ownChip(s));
+    inp.value = "";
+    ownCap(box);
+    if (!inp.disabled) { try { inp.focus(); } catch (e) { /* nevadí */ } }
+  }
+
+  function ownWire(root) {
+    var box = ownBox(root);
+    if (!box || box.tdsOwn) return;
+    box.tdsOwn = true;
+    box.addEventListener("click", function (e) {
+      var el = e.target;
+      while (el && el !== box) {
+        if (el.classList && el.classList.contains("ob-own-add")) { ownAdd(box); return; }
+        if (el.classList && el.classList.contains("ob-own-x")) {
+          var chip = el.parentNode;
+          if (chip && chip.parentNode) chip.parentNode.removeChild(chip);
+          ownCap(box);
+          return;
+        }
+        el = el.parentNode;
+      }
+    });
+    // Enter v políčku přidá téma; nastavení se tím neuloží a nezavře
+    box.addEventListener("keydown", function (e) {
+      if (e.key !== "Enter" && e.keyCode !== 13) return;
+      var el = e.target;
+      if (!el || !el.classList || !el.classList.contains("ob-own-in")) return;
+      e.preventDefault();
+      ownAdd(box);
+    });
+  }
+
   function fill(root, v) {
     if (!root) return;
     [].forEach.call(root.querySelectorAll("input[data-key]"), function (inp) {
@@ -516,6 +665,7 @@
     ticks(root, "mute", v.mute);
     ticks(root, "secs", v.secs);
     ticks(root, "tags", v.tags);
+    ownFill(root, v.own || []);
   }
 
   /* Posbírá jen to, co v téhle části opravdu je — průvodce se neptá
@@ -532,6 +682,8 @@
     if (root.querySelector('input[name="mute"]')) v.mute = picks(root, "mute");
     if (root.querySelector('input[name="secs"]')) v.secs = picks(root, "secs");
     if (root.querySelector('input[name="tags"]')) v.tags = picks(root, "tags");
+    var box = ownBox(root);
+    if (box) v.own = owns(ownNow(box));
     return v;
   }
 
@@ -843,6 +995,7 @@
 
     card = src.cloneNode(true);
     mount(card, "ob");
+    ownWire(card);
     fill(card, DEF);
     doc.body.appendChild(card);
     stepTo(1);
@@ -871,6 +1024,7 @@
     home = isHome();
     cfg = load();
     mount(doc.getElementById("reader-form"), "reader");
+    ownWire(doc.getElementById("reader-form"));
     wire();
     apply();
     rail();

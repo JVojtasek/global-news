@@ -19,7 +19,7 @@
     <h1>{{ a.title }}</h1>
     <p class="dek">{{ a.dek }}</p>
     <div class="meta">
-      <span>{{ a.date }}</span>
+      <span><time datetime="{{ a.published_iso }}">{{ a.published_label or a.date }}</time></span>
       {% if seo.reading_time and a.reading_time %}<span>{{ a.reading_time }} min</span>{% endif %}
       {% if a.passage %}<span>{{ a.passage }}</span>{% endif %}
       {% if a.sources %}<span>{{ a.sources|length }} {{ t.sources_word }}</span>{% endif %}

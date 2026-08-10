@@ -228,7 +228,14 @@ details.republish textarea{width:100%;min-height:9rem;font-family:ui-monospace,m
 .signup button{padding:.65rem 1.3rem;border:0;border-radius:8px;background:var(--accent);
   color:#fff;font:inherit;font-size:.95rem;cursor:pointer}
 .signup button:hover{filter:brightness(1.08)}
-.signup .soon{font-size:.9rem;font-style:italic}
+.signup .soon{font-size:.9rem;font-style:italic;margin:.7rem 0 0}
+/* dokud není kam adresu poslat, je políčko vidět, ale nečinné —
+   krabička, která nic neudělá, by byla slib naprázdno */
+.signup .nl-off input,.signup .nl-off button{opacity:.55;cursor:not-allowed}
+.signup .nl-thanks{font-size:.92rem;margin:0;max-width:30rem;color:var(--ink)}
+.signup .nl-thanks[hidden]{display:none}
+.signup .nl-priv{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;line-height:1.5;
+  color:var(--ink-soft);margin:.8rem 0 0;max-width:30rem}
 
 
 /* ---------- dvousloupcové rozvržení s proužkem zpráv ---------- */
@@ -299,27 +306,35 @@ article.post .layer p{margin:0 0 1.15rem}
 figure.cover img{box-shadow:0 1px 2px rgba(0,0,0,.06)}
 
 
-/* ---------- myšlenka dne ---------- */
+/* ---------- myšlenka dne: tenký pruh nad novinami ----------
+   Jedna linka pod hlavičkou a nic víc: žádná karta, žádná plocha barvy.
+   Na jednom řádku, dokud se tam vejde, na mobilu se zalomí. */
+.dayline{border-bottom:1px solid var(--line);padding:.75rem 0 .8rem}
+.dayline .wide{display:flex;align-items:baseline;flex-wrap:wrap;gap:.3rem .85rem}
+.dayline-lab{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.66rem;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--accent);flex:0 0 auto}
+.dayline-q{font-style:italic;font-size:1rem;line-height:1.5;color:var(--ink);
+  flex:1 1 18rem;min-width:0;quotes:none}
+.dayline-by{font-style:normal;font-size:.78rem;color:var(--ink-soft);white-space:nowrap;
+  font-family:ui-sans-serif,system-ui,sans-serif;flex:0 0 auto}
+@media (max-width:600px){
+  .dayline{padding:.65rem 0 .7rem}
+  .dayline .wide{gap:.1rem .7rem}
+  .dayline-q{flex-basis:100%;font-size:.95rem}
+}
+
+/* ---------- citát ve sloupci vedle zpráv ---------- */
 .sidecol{display:flex;flex-direction:column;gap:1rem;position:sticky;top:1rem;margin-top:2.5rem}
 .sidecol aside.ticker{position:static;margin-top:0}
-aside.thought{background:var(--scripture-bg);border-left:3px solid var(--scripture-line);
+aside.sidequote{background:var(--scripture-bg);border-left:3px solid var(--scripture-line);
   border-radius:0 10px 10px 0;padding:1.1rem 1.2rem}
-aside.thought h2{font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;
+aside.sidequote h2{font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;
   font-family:ui-sans-serif,system-ui,sans-serif;color:var(--accent);margin:0 0 .7rem}
-aside.thought blockquote{margin:0;border:0;padding:0;font-size:1.02rem;line-height:1.5;
+aside.sidequote blockquote{margin:0;border:0;padding:0;font-size:1.02rem;line-height:1.5;
   font-style:italic;color:var(--ink)}
-aside.thought cite{display:block;margin-top:.6rem;font-style:normal;font-size:.8rem;
+aside.sidequote cite{display:block;margin-top:.6rem;font-style:normal;font-size:.8rem;
   color:var(--ink-soft);font-family:ui-sans-serif,system-ui,sans-serif}
 @media (max-width:900px){.sidecol{position:static;margin-top:1.5rem}}
-
-/* ---------- poslední slovo ---------- */
-.lastword{border-top:1px solid var(--line);background:var(--bg-soft);padding:2.2rem 0 2rem;
-  margin-top:3rem;text-align:center}
-.lastword .lw-label{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.7rem;
-  letter-spacing:.18em;text-transform:uppercase;color:var(--accent)}
-.lastword p{font-size:1.22rem;line-height:1.5;margin:.7rem auto .5rem;max-width:38rem;font-style:italic}
-.lastword cite{font-style:normal;font-size:.85rem;color:var(--ink-soft);
-  font-family:ui-sans-serif,system-ui,sans-serif}
 
 
 /* =====================================================================
@@ -467,6 +482,29 @@ nav.sections a.nav-you:hover{border-color:var(--accent)}
 .ob-health{border-top:1px solid var(--line);padding-top:1rem}
 @media (max-width:900px){.ob-checks{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:560px){.ob-checks{grid-template-columns:1fr}}
+
+/* --- vlastní téma: co v našem seznamu není --- */
+.ob-own{border-top:1px solid var(--line);padding-top:1rem;margin-top:1.2rem}
+.ob-own-row{display:flex;gap:.4rem;flex-wrap:wrap}
+.ob-own-in{flex:1 1 10rem;min-width:0;padding:.38rem .6rem;border:1px solid var(--line);
+  border-radius:8px;background:var(--card);color:var(--ink);font:inherit;font-size:.84rem}
+.ob-own-in:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.ob-own-add{flex:0 0 auto;padding:.38rem .95rem;border:1px solid var(--line);border-radius:99px;
+  background:none;color:var(--ink-soft);font:inherit;font-size:.8rem;cursor:pointer}
+.ob-own-add:hover{color:var(--accent);border-color:var(--accent)}
+.ob-own-in:disabled,.ob-own-add:disabled{opacity:.5;cursor:not-allowed}
+.ob-own-add:disabled:hover{color:var(--ink-soft);border-color:var(--line)}
+.ob-own-list{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.6rem}
+.ob-own-list:empty{margin-top:0}
+.ob-own-chip{display:inline-flex;align-items:center;gap:.35rem;padding:.28rem .4rem .28rem .75rem;
+  border:1px solid var(--accent);border-radius:99px;background:var(--accent-soft);
+  color:var(--accent);font-size:.8rem;line-height:1.35;max-width:100%}
+.ob-own-txt{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ob-own-x{display:inline-flex;align-items:center;justify-content:center;width:1.05rem;height:1.05rem;
+  padding:0;border:0;border-radius:50%;background:none;color:inherit;font:inherit;font-size:.9rem;
+  line-height:1;cursor:pointer;opacity:.75}
+.ob-own-x:hover{opacity:1;background:var(--card)}
+.ob-own-x:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
 
 /* --- výběr uvnitř nastavení čtení --- */
 /* panel teď unese víc voleb, tak dostane o kousek víc místa */

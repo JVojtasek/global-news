@@ -164,6 +164,10 @@ Write to {email}. We answer.""",
         "ob_interests": "And more precisely?",
         "ob_balance": "How much, and how hard?",
         "ob_privacy": "Everything you tick stays in this browser. There is no account, nothing is sent anywhere, and we cannot see it. Clearing your browser data clears this too.",
+        "ob_own": "Your own topics",
+        "ob_own_ph": "beekeeping",
+        "ob_own_add": "Add",
+        "ob_own_help": "We look for what you type in headlines and summaries, so a plain word works best — beekeeping, diabetes, Formula 1 — rather than a whole sentence.",
         "foryou": "For you",
         "foryou_title": "Chosen for you",
         "foryou_intro": "Ranked in your browser from your own settings. We never see them.",
@@ -176,6 +180,9 @@ Write to {email}. We answer.""",
         "privacy_link": "Privacy",
         "related": "Keep reading",
         "newsletter_soon": "The newsletter opens shortly.",
+        "nl_sub_subject": "Newsletter sign-up",
+        "nl_sub_thanks": "Your mail app should be open. Send the message and you are on the list.",
+        "nl_privacy": "One click to leave. We never sell or share your address.",
         "republish_offer": "Free to republish",
         "republish_help": "Copy this HTML into your CMS. Credit line and licence are included.",
         "mem_link": "Membership",
@@ -359,6 +366,10 @@ Pište na {email}. Odpovídáme.""",
         "ob_interests": "A přesněji?",
         "ob_balance": "Kolik toho a jak natvrdo?",
         "ob_privacy": "Všechno, co zaškrtneš, zůstane v tomhle prohlížeči. Žádný účet, nic se nikam neposílá a my se to nedozvíme. Když si smažeš data prohlížeče, smaže se i tohle.",
+        "ob_own": "Vlastní témata",
+        "ob_own_ph": "včelaření",
+        "ob_own_add": "Přidat",
+        "ob_own_help": "Co sem napíšeš, hledáme v titulcích a perexech. Nejlíp proto funguje jedno slovo — včelaření, cukrovka, formule 1 — ne celá věta.",
         "foryou": "Pro tebe",
         "foryou_title": "Vybráno pro tebe",
         "foryou_intro": "Seřazeno přímo v tvém prohlížeči podle tvého nastavení. My ho nevidíme.",
@@ -371,6 +382,9 @@ Pište na {email}. Odpovídáme.""",
         "privacy_link": "Soukromí",
         "related": "Čtěte dál",
         "newsletter_soon": "Odběr spouštíme zanedlouho.",
+        "nl_sub_subject": "Přihlášení k odběru",
+        "nl_sub_thanks": "Poštovní aplikace by se měla otevřít. Odešli zprávu a jsi na seznamu.",
+        "nl_privacy": "Odhlášení jedním kliknutím. Adresu nikdy neprodáváme ani nepředáváme.",
         "republish_offer": "Volně k převzetí",
         "republish_help": "Zkopírujte HTML do svého systému. Uvedení zdroje i licence je součástí.",
         "mem_link": "Členství",
@@ -422,7 +436,35 @@ def _url(meta: dict) -> str:
     return f"{config.base_path()}/{meta['lang']}/{meta['section']}/{meta['slug']}/"
 
 
-def _view(meta: dict, body: str) -> dict:
+def _published_iso(meta: dict, path=None) -> str:
+    """Přesný čas vydání. V hlavičce vyhrává `published_at`, jinak se
+    bere čas, kdy soubor poprvé přistál v repozitáři."""
+    v = meta.get("published_at")
+    if isinstance(v, str) and len(v) >= 16:
+        return v
+    if path is not None:
+        got = config.first_commit_iso(path)
+        if got:
+            return got
+    return f"{meta.get('date', '')}T00:00:00+00:00"
+
+
+_CS_MONTH = ["", "ledna", "února", "března", "dubna", "května", "června",
+             "července", "srpna", "září", "října", "listopadu", "prosince"]
+
+
+def _published_label(meta: dict, path=None, lang: str = "en") -> str:
+    iso = _published_iso(meta, path)
+    try:
+        d = dt.datetime.fromisoformat(iso)
+    except Exception:
+        return meta.get("date", "")
+    if lang == "cs":
+        return f"{d.day}. {_CS_MONTH[d.month]} {d.year}, {d:%H:%M}"
+    return f"{d.day} {d:%B %Y}, {d:%H:%M}"
+
+
+def _view(meta: dict, body: str, path=None) -> dict:
     lang = meta["lang"]
     labels = article.LAYER_LABELS.get(lang, article.LAYER_LABELS["en"])
     secs = article.sections(body)
@@ -453,6 +495,8 @@ def _view(meta: dict, body: str) -> dict:
         "band": reader.band(w["load"]),
         "topics_csv": ",".join(w["topics"]),
         "tags_csv": ",".join(interests.tags(meta, body)),
+        "published_iso": _published_iso(meta, path),
+        "published_label": _published_label(meta, path, lang),
         "body_html": _html(body) if not layers else "",
         **({"image": (_img := images.ensure(meta))["src"], "credit": _img["credit"]}),
         "section_label": section_label,
@@ -664,22 +708,22 @@ def run() -> None:
         tagline = site["brand"]["tagline_cs"] if lang == "cs" else site["brand"]["tagline_en"]
 
         published = [
-            (m, b, members.state(m, today))
-            for m, b, _ in article.load_all(lang)
+            (m, b, members.state(m, today), pth)
+            for m, b, pth in article.load_all(lang)
             if m.get("status") == "published" and m.get("date", "9999") <= today
         ]
         # Text psaný jen pro členy se na web nevydá vůbec: nemá stránku,
         # není v sitemapě, ve zdroji RSS, v articles.json ani v žádném
         # výpisu. Na stránce pro členy je z něj vidět titulek a perex,
         # aby bylo poznat, co se posílá e-mailem.
-        arts = [_view(m, b) for m, b, st in published if st != "members"]
+        arts = [_view(m, b, pth) for m, b, st, pth in published if st != "members"]
         arts.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
 
         by_mail = sorted(
             ({"title": m.get("title", ""), "dek": m.get("dek", ""),
               "date": m.get("date", ""), "section": m.get("section", ""),
               "tier": m.get("tier", "")}
-             for m, _, st in published if st == "members"),
+             for m, _, st, _p in published if st == "members"),
             key=lambda a: a["date"], reverse=True,
         )
         in_early = [a for a in arts if a["access_state"] == "early"]
@@ -694,6 +738,7 @@ def run() -> None:
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
             wit=quotes.wit(),
             interest_groups=interests.catalogue(),
+            brand_email=site["brand"].get("email", ""),
             today_label=_date_label(lang),
             nl_headline=(site.get("newsletter", {}).get(f"headline_{lang}")
                          or site.get("newsletter", {}).get("headline_en", "")),
