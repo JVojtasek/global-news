@@ -5,16 +5,16 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "middle",
-    "trump",
+    "strait",
+    "oman",
     "iranian",
+    "middle",
     "iran",
     "hormuz",
-    "strait",
-    "east",
-    "oman",
+    "trump",
     "bluster",
-    "groundhog"
+    "groundhog",
+    "east"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -24,7 +24,8 @@
     "a60728b498fa",
     "123a1f07cf24",
     "56f469f39f91",
-    "720fe4b034c3"
+    "720fe4b034c3",
+    "f0099e190d82"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-11",
@@ -118,6 +119,17 @@
      "links": [
       "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
       "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+     "sources": 2,
+     "score": 48,
+     "event_id": "f0099e190d82",
+     "links": [
+      "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+      "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -667,5 +679,5 @@
    ]
   }
  ],
- "updated": "2026-08-11T03:52:42+00:00"
+ "updated": "2026-08-11T06:35:14+00:00"
 }
