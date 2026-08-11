@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-11
 
-Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **5**.
+Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **7**.
 
 ---
 
@@ -20,6 +20,14 @@ Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **5**.
   - **2026-08-11** (2 zdrojů) Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
   - **2026-08-11** (4 zdrojů) Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
 
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 0 dní · 4 záznamů
+- časová osa:
+  - **2026-08-11** (3 zdrojů) Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+  - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
+  - **2026-08-11** (2 zdrojů) Ukraine drone strike on oil refinery deep inside Russia kills at least 13
+  - **2026-08-11** (2 zdrojů) Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
+
 ### Typhoon Dolphin batters Japan's Okinawa before bearing down on China
 - rubrika `world` · sledováno 1 dní · 4 záznamů
 - časová osa:
@@ -27,6 +35,12 @@ Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **5**.
   - **2026-08-10** (1 zdrojů) Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
   - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
+
+### Syria sentences Bashar Assad to death in absentia
+- rubrika `world` · sledováno 0 dní · 2 záznamů
+- časová osa:
+  - **2026-08-11** (3 zdrojů) Syria sentences Bashar Assad to death in absentia
+  - **2026-08-11** (3 zdrojů) Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 0 dní · 2 záznamů
@@ -39,9 +53,3 @@ Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **5**.
 - časová osa:
   - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
   - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
-
-### Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock
-- rubrika `business` · sledováno 0 dní · 2 záznamů
-- časová osa:
-  - **2026-08-10** (3 zdrojů) Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock
-  - **2026-08-10** (2 zdrojů) Can prediction markets win over Wall Street?
