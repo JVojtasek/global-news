@@ -30,6 +30,10 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/leaving-vehicle-engines-idling-is-unhealthy-expensive-and-often-illegal-288657
+impact:
+  areas: [health, money]
+  line: "Idling burns more fuel than restarting after about 10 seconds, and it's now illegal or finable in many cities — plus it adds to the vehicle pollution linked to tens of thousands of US deaths a year."
+  todo: "Check whether your city or state has an anti-idling law, and turn your engine off instead of idling for more than about 10 seconds."
 ---
 
 A bus company that left its buses’ engines running while parked in Boston neighborhoods has settled a lawsuit by agreeing to pay US$5.6 million in damages for the resulting air pollution .

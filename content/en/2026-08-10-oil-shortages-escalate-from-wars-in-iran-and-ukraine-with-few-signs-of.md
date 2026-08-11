@@ -28,6 +28,10 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/oil-shortages-escalate-from-wars-in-iran-and-ukraine-with-few-signs-of-relief-288858
+impact:
+  areas: [money]
+  line: "Damaged refineries and blocked shipping lanes mean fuel and heating costs are likely to stay high or climb further this winter, not just at the pump but in cooking gas and diesel too."
+  todo: "Check current fuel and heating-oil prices in your area and factor a further rise into winter budgeting."
 ---
 
 The global energy crisis triggered by two wars is set to worsen, as Ukraine pummels Russia’s refining industry and Iranian attacks continue on Middle Eastern oil production and refining. Further, the nature of the destruction and the growing number of fronts and warring parties involved may herald a new era of extended vulnerability for countries that depend on imports for their energy.

@@ -28,6 +28,10 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/diy-peptide-injections-are-risky-and-people-may-make-serious-mistakes-when-administering-them-289080
+impact:
+  areas: [health, safety]
+  line: "Peptides bought online are unregulated, and in a new study most people made more than half their injection steps wrong — raising real risk of infection, contamination or incorrect dosing."
+  todo: "Talk to a licensed prescriber before using any injected peptide product, and avoid ones obtained without medical guidance."
 ---
 
 DIY peptide injections, which promise to boost everything from weight loss and muscle-building to longevity and sexual health , are a high-risk wellness fad that keeps on growing.

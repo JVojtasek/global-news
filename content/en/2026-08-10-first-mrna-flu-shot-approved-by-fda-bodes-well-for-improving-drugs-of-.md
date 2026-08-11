@@ -28,6 +28,10 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/first-mrna-flu-shot-approved-by-fda-bodes-well-for-improving-drugs-of-the-future-though-a-few-hurdles-remain-before-mrna-can-move-beyond-vaccines-289277
+impact:
+  areas: [health]
+  line: "Adults 50 and older now have an FDA-approved mRNA flu vaccine offering more protection than standard shots; mRNA drugs for diseases beyond vaccines are still years from approval."
+  todo: "Ask your doctor or pharmacist whether the new mRNA flu vaccine is available and right for you this season."
 ---
 
 Vaccines have been reliably and affordably protecting people from diseases worldwide for centuries . Until the COVID-19 pandemic, however, vaccine development was still a long and idiosyncratic process. Traditionally, researchers had to tailor manufacturing processes and facilities for each vaccine candidate, and the scientific knowledge gained from one vaccine was often not directly transferable to another.

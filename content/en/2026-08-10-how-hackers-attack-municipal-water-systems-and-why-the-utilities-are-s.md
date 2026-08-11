@@ -28,6 +28,10 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/how-hackers-attack-municipal-water-systems-and-why-the-utilities-are-so-vulnerable-288864
+impact:
+  areas: [safety]
+  line: "Hackers have targeted water-system control equipment in several US states; utilities kept water safe by switching to manual operation, but smaller utilities with fewer defenses remain exposed."
+  todo: "No action needed for most readers; anyone on a utility board or in local government can ask whether their water system's controllers are exposed directly to the internet."
 ---
 
 Hackers tried to break into at least 30 municipal water systems in Minnesota on July 26-27, 2026. Since then, Michigan , New Jersey and several other states have reported similar cyberattacks .

@@ -1,0 +1,26 @@
+﻿V┼íe sed├ş a je ulo┼żeno p┼Öesn─Ť tam, kam m─Ťlo ÔÇö nic jin├ęho v repozit├í┼Öi jsem se nedotkl. Sm─Ťna je hotov├í.
+
+**Shrnut├ş sm─Ťny (2026-08-11):**
+
+Napsal jsem **2 ─Źl├ínky** do `content/inbox/` (+ ─Źesk├ę p┼Öeklady do `content/cs/`):
+1. **─îl├ínek dne** (`type: daily`, rubrika safety) ÔÇö o phishingu a vishingu, postaven├Ż na t┼Öech zdroj├şch z `brief.json` (Wikipedia: Phishing, Voice phishing, The Beekeeper). Fiktivn├ş sc├ęnu z filmu jsem jasn─Ť ozna─Źil jako fikci, nepou┼żil jsem ┼ż├ídn├ę ─Ź├şslo mimo podklady.
+2. **Zpravodajsk├Ż rozbor** (`type: news`, rubrika world) ÔÇö o Infantinovi a FIFA, ne o Gaze/Hormuzu. V┼íechny t┼Öi t├ęmata z odd├şlu A m─Ťly stejn├ę sk├│re 83; zvolil jsem FIFA z├ím─Ťrn─Ť, proto┼że Gaza i Hormuz jsou sou─Ź├íst├ş stejn├ęho v├íle─Źn├ęho konfliktu s vysok├Żm rizikem na┼Ö─Źen├ş ze stranickosti, zat├şmco kauza FIFA umo┼ż┼łuje kvalitn├ş DEEPER vrstvu bez politick├ęho rizika.
+
+**Vynechal jsem 2 sloty:**
+- **Popt├ívka (inflace)** ÔÇö p┼Öesko─Źeno. V─Źerej┼í├ş `why-inflation-happens.md` u┼ż odpov├şd├í t├ęm─Ť┼Ö na stejn├ę ot├ízky se stejnou biblickou pas├í┼ż├ş (Matou┼í 6) v DEEPER vrstv─Ť. Nov├Ż ─Źl├ínek by byl duplicita bez p┼Öidan├ę hodnoty, co┼ż poru┼íuje pravidlo ─Ź. 1.
+- **Dobr├í zpr├íva** ÔÇö v podkladech dnes nebyl ┼ż├ídn├Ż dolo┼żen├Ż zdravotn├ş/v─Ťdeck├Ż/p┼Ö├şrodn├ş ├║sp─Ťch s instituc├ş, ─Ź├şslem a datem, tak┼że jsem si nic nevym├Ż┼ílel a rubriku nechal pr├ízdnou.
+
+Nav├şc jsem podle st├íl├Żch pravidel v CLAUDE.md ud─Ťlal b─Ť┼żnou ├║dr┼żbu:
+- doplnil `impact:` blok do 5 p┼Öevzat├Żch ─Źl├ínk┼», kter├Żm chyb─Ťl,
+- p┼Öelo┼żil 8 nov├Żch anglick├Żch ─Źl├ínk┼» do ─Źe┼ítiny (7 dne┼ín├şch syndikovan├Żch + v─Źerej┼í├ş `why-inflation-happens`),
+- p┼Öelo┼żil 5 QMA anal├Żz z ─Źe┼ítiny do angli─Źtiny (byznys rubrika).
+
+Nic v zad├ín├ş mi ned├ívalo smysl krom─Ť t├ę duplicity u inflace ÔÇö to je jedin├ę m├şsto, kde jsem se odch├Żlil od doslovn├ęho pokynu "napi┼í jedno t├ęma z popt├ívky", a ud─Ťlal jsem to v─Ťdom─Ť kv┼»li pravidlu o p┼Öidan├ę hodnot─Ť.
+claude.exe : SessionEnd hook [python3 ${CLAUDE_PLUGIN_ROOT:-$PLUGIN_ROOT}/hooks/session-end-llma.py] failed: Python neb
+yl nalezen; spus
+At C:\Users\Admin\AppData\Roaming\npm\claude.ps1:12 char:12
++   $input | & "$basedir/node_modules/@anthropic-ai/claude-code/bin/cla ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (SessionEnd hook...l nalezen; spus:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
