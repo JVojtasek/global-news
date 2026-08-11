@@ -61,7 +61,19 @@ def _google_trends(geos: list[str]) -> list[dict]:
         try:
             feed = feedparser.parse(f"https://trends.google.com/trending/rss?geo={geo}")
             for e in feed.entries[:20]:
-                out.append({"term": e.title.strip(), "source": f"trends/{geo}", "weight": 3})
+                traffic = str(
+                    e.get("ht_approx_traffic")
+                    or e.get("approx_traffic")
+                    or ""
+                ).strip()
+                out.append({
+                    "term": e.title.strip(),
+                    "source": f"trends/{geo}",
+                    "source_url": f"https://trends.google.com/trending?geo={geo}",
+                    "weight": 3,
+                    "traffic": traffic,
+                    "traffic_estimate": _traffic_number(traffic),
+                })
         except Exception as e:  # noqa: BLE001
             config.log(f"  ! Google Trends {geo}: {str(e)[:80]}")
     return out
@@ -124,6 +136,27 @@ def _clean_term(term: str) -> str:
     return " ".join(term.split())[:60]
 
 
+def _traffic_number(value: str) -> int:
+    """Turn a Google Trends band such as ``50K+`` into a lower-bound number."""
+    text = str(value or "").upper().replace(",", "").strip()
+    m = re.search(r"(\d+(?:\.\d+)?)\s*([KMB]?)", text)
+    if not m:
+        return 0
+    multiplier = {"": 1, "K": 1_000, "M": 1_000_000, "B": 1_000_000_000}
+    return int(float(m.group(1)) * multiplier[m.group(2)])
+
+
+def _demand_points(traffic: int) -> int:
+    """A bounded demand component; editorial fit still decides eligibility."""
+    for threshold, points in (
+        (1_000_000, 35), (200_000, 31), (100_000, 28), (50_000, 24),
+        (20_000, 20), (10_000, 16), (5_000, 12), (1, 8),
+    ):
+        if traffic >= threshold:
+            return points
+    return 0
+
+
 def _already_covered(term: str, covered: set) -> bool:
     words = {w for w in re.findall(r"[a-z]{4,}", term.lower())}
     return any(len(words & c) >= 2 for c in covered)
@@ -157,8 +190,10 @@ def run(limit: int = 8) -> list:
             continue
         if _already_covered(term, covered):
             continue
+        demand = _demand_points(int(s.get("traffic_estimate") or 0))
         kept.append({**s, "term": term, "section": sec,
-                     "score": fit * 10 + s["weight"] * 3})
+                     "demand_points": demand,
+                     "score": fit * 10 + s["weight"] * 3 + demand})
 
     # vlastní stálá témata, ať to funguje i ve dnech, kdy jsou trendy samý fotbal
     for t in cfg.get("evergreen_seeds", []):

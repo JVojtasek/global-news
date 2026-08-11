@@ -41,6 +41,12 @@
       {% if a.confidence and a.type not in ['imported', 'syndicated'] %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
       {% if a.access_state == "early" %}<span class="badge">{{ t.mem_early_badge }}</span>{% endif %}
     </div>
+    {% if a.guide %}
+    <a class="guide-badge" href="{{ a.guide.url }}"><span>{{ t.guide_part_of }}</span>{{ a.guide.label }}</a>
+    {% endif %}
+    {% if a.value_article and (a.reviewed_at or a.review_due) %}
+    <p class="review-line">{% if a.reviewed_at %}{{ t.guide_reviewed }}: {{ a.reviewed_at }}{% endif %}{% if a.reviewed_at and a.review_due %} · {% endif %}{% if a.review_due %}{{ t.guide_review_due }}: {{ a.review_due }}{% endif %}</p>
+    {% endif %}
     {% if wider_lens.enabled and a.is_wider_lens %}
     <aside class="lens-article" aria-label="{{ wider_lens.name }}">
       <div class="lens-article-head">

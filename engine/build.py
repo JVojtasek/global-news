@@ -370,6 +370,14 @@ Write to {email}. We answer.""",
         "hub_intro": "Everything we have published on %s, newest first. Background, research "
                      "and plain explanation — not only the headline of the day.",
         "hub_back": "Browse the whole %s section",
+        "guides_nav": "Life guides",
+        "guides_title": "Guides for a life that works",
+        "guides_intro": "A growing library for mental resilience, physical health, relationships, nature, science and meaning. Each guide explains the evidence, its limits and something practical you can use.",
+        "guides_open": "Open this guide",
+        "guides_building": "This guide is being built. Start with the related section for now.",
+        "guide_part_of": "Part of the life guide",
+        "guide_reviewed": "Evidence checked",
+        "guide_review_due": "Next review",
         # --- tichá pozvánka na konci článku ---------------------------
         "nl_inline_cta": "How to get it by e-mail",
         # --- stránka 404 ----------------------------------------------
@@ -724,6 +732,14 @@ Pište na {email}. Odpovídáme.""",
         "hub_intro": "Všechno, co jsme vydali k tématu %s, od nejnovějšího. Souvislosti, výzkum "
                      "a srozumitelné vysvětlení — ne jenom titulek dne.",
         "hub_back": "Prohlédnout celou rubriku %s",
+        "guides_nav": "Průvodci životem",
+        "guides_title": "Průvodci životem, který funguje",
+        "guides_intro": "Rostoucí knihovna pro duševní odolnost, fyzické zdraví, vztahy, přírodu, vědu a smysl. Každý průvodce vysvětluje důkazy, jejich limity a něco praktického k použití.",
+        "guides_open": "Otevřít průvodce",
+        "guides_building": "Tento průvodce teprve stavíme. Prozatím otevři související rubriku.",
+        "guide_part_of": "Součást průvodce",
+        "guide_reviewed": "Důkazy zkontrolovány",
+        "guide_review_due": "Další kontrola",
         # --- tichá pozvánka na konci článku ---------------------------
         "nl_inline_cta": "Jak to dostat e-mailem",
         # --- stránka 404 ----------------------------------------------
@@ -1007,6 +1023,10 @@ def _related(a: dict, pool: list, n: int) -> list:
         score = len(words & w) * 3
         if other["section"] == a["section"]:
             score += 5
+        if a.get("pillar") and other.get("pillar") == a.get("pillar"):
+            score += 8
+        if a.get("cluster") and other.get("cluster") == a.get("cluster"):
+            score += 20
         if other.get("type") in ("daily", "feature", "demand"):
             score += 2      # hlubší články drží čtenáře déle
         if score > 0:
@@ -1054,7 +1074,8 @@ def _breadcrumbs(a: dict, site: dict) -> str:
 def _jsonld(a: dict, site: dict) -> str:
     brand = site["brand"]
     data = {
-        "@context": "https://schema.org", "@type": "NewsArticle",
+        "@context": "https://schema.org",
+        "@type": "Article" if a.get("value_article") else "NewsArticle",
         "headline": a.get("title", "")[:110],
         "description": a.get("dek", ""),
         # přesný čas vydání, ne jen den — vyhledávače podle něj řadí
@@ -1217,6 +1238,43 @@ def _hubs(arts: list, lang: str, site: dict) -> list:
             "section": top, "section_label": sec_label.get(top, top),
         })
     return hubs
+
+
+def _guides(arts: list, lang: str) -> list:
+    """Vrátí pevné evergreen pilíře a články, které je postupně plní."""
+    import yaml
+
+    path = config.DATA / "evergreen_clusters.yml"
+    if not path.exists():
+        return []
+    catalogue = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    out = []
+    for pillar in catalogue.get("pillars") or []:
+        pid = pillar["id"]
+        grouped = []
+        pillar_articles = [a for a in arts if a.get("pillar") == pid]
+        for cluster in pillar.get("clusters") or []:
+            cluster_articles = [a for a in pillar_articles if a.get("cluster") == cluster["id"]]
+            if cluster_articles:
+                grouped.append({
+                    "id": cluster["id"],
+                    "label": cluster.get(lang) or cluster.get("en") or cluster["id"],
+                    "articles": cluster_articles,
+                })
+        has_articles = bool(pillar_articles)
+        out.append({
+            "id": pid,
+            "label": pillar.get(lang) or pillar.get("en") or pid,
+            "description": pillar.get(f"description_{lang}") or pillar.get("description_en", ""),
+            "health": bool(pillar.get("health")),
+            "section": pillar["section"],
+            "articles": pillar_articles,
+            "clusters": grouped,
+            "has_articles": has_articles,
+            "url": (f"{config.base_path()}/{lang}/guides/{pid}/" if has_articles
+                    else f"{config.base_path()}/{lang}/{pillar['section']}/"),
+        })
+    return out
 
 
 def _site_jsonld(site: dict, lang: str) -> str:
@@ -1411,15 +1469,17 @@ def run() -> None:
         arts = [_view(m, b, pth) for m, b, st, pth in published if st != "members"]
         arts.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
         hubs = _hubs(arts, lang, site) if (site.get("seo_plus") or {}).get("topic_hubs") else []
+        guides = _guides(arts, lang)
         # Sobotní vydání — týden složený z toho, co už vyšlo. Skládá se
         # tady, ještě před stavbou stránek, protože z něj vede odkaz
         # v menu a hlavička každé stránky potřebuje vědět, jestli vůbec
         # nějaké vydání existuje. Podrobně: engine/weekend.py.
         issues = weekend.plan(arts, lang=lang, today=today)
         everything[lang] = {
-            "published": published, "arts": arts, "hubs": hubs,
+            "published": published, "arts": arts, "hubs": hubs, "guides": guides,
             "slugs": {f"{a['section']}/{a['slug']}/" for a in arts},
             "hub_ids": {h["id"] for h in hubs},
+            "guide_ids": {g["id"] for g in guides if g["has_articles"]},
             "issues": issues, "issue_nos": {i["no"] for i in issues},
         }
 
@@ -1431,6 +1491,9 @@ def run() -> None:
     def langs_with_hub(hub_id: str) -> list:
         """Jazyky, ve kterých má rozcestník dost článků, aby vznikl."""
         return [l for l in langs if hub_id in everything[l]["hub_ids"]]
+
+    def langs_with_guide(guide_id: str) -> list:
+        return [l for l in langs if guide_id in everything[l]["guide_ids"]]
 
     def langs_with_issue(no: int) -> list:
         """Jazyky, ve kterých se to číslo sobotního vydání postavilo.
@@ -1516,6 +1579,8 @@ def run() -> None:
         # pohromadě, co jsme k tématu za měsíce napsali.
         hubs = everything[lang]["hubs"]
         hub_by_id = {h["id"]: h for h in hubs}
+        guides = everything[lang]["guides"]
+        guide_by_id = {g["id"]: g for g in guides}
 
         # --- článek ---
         rep_cfg = site.get("republish", {})
@@ -1536,6 +1601,9 @@ def run() -> None:
                 for tag in (a.get("tags_csv") or "").split(",")
                 if (h := hub_by_id.get(tag))
             ][:4]
+            guide = guide_by_id.get(a.get("pillar"))
+            a["guide"] = ({"id": guide["id"], "label": guide["label"],
+                           "url": guide["url"]} if guide and guide["has_articles"] else None)
             a["republish"] = (
                 _republish_html(a, site)
                 if not early and rep_cfg.get("enabled")
@@ -1556,6 +1624,20 @@ def run() -> None:
                    env.get_template("hub.html").render(
                        **page(f"topic/{h['id']}/", "hub", hub=h,
                               alt_langs=langs_with_hub(h["id"]))))
+
+        # --- trvalé hodnotové průvodce -------------------------------
+        _write(out / lang / "guides" / "index.html",
+               env.get_template("guides.html").render(
+                   guides=guides, **page("guides/", "guides")))
+        for guide in guides:
+            if not guide["has_articles"]:
+                continue
+            _write(out / lang / "guides" / guide["id"] / "index.html",
+                   env.get_template("guide.html").render(
+                       guide=guide,
+                       **page(f"guides/{guide['id']}/", "guide",
+                              current_section="guides",
+                              alt_langs=langs_with_guide(guide["id"]))))
 
         # --- titulní strana ---
         briefing = [a for a in arts if a["type"] in ("news", "daily", "demand")][:7]

@@ -54,6 +54,11 @@ class HumanReviewTests(unittest.TestCase):
         enabled = {"medical", "financial", "children"}
         self.assertFalse(safety.is_sensitive("A museum opens a Roman pottery exhibition", enabled))
 
+    def test_common_words_do_not_create_false_sensitive_hits(self):
+        enabled = {"prophecy", "accusation", "financial"}
+        text = "The charged battery lets a worker return at the end of a long day."
+        self.assertFalse(safety.is_sensitive(text, enabled))
+
 
 if __name__ == "__main__":
     unittest.main()

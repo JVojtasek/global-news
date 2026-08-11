@@ -1,0 +1,82 @@
+# Trvalá obsahová mapa My Paper. Každý hodnotový článek patří do jednoho
+# pilíře a jednoho clusteru. Díky tomu nevzniká šest náhodných textů, ale
+# knihovna, která postupně pokrývá otázku, navazuje články a pravidelně je
+# aktualizuje.
+pillars:
+  - id: mental-resilience
+    section: meaning
+    en: Mental resilience
+    cs: Duševní odolnost
+    description_en: Evidence-based guides for stress, attention, emotions and sustainable recovery.
+    description_cs: Praktické průvodce stresem, pozorností, emocemi a udržitelným zotavením opřené o důkazy.
+    health: true
+    clusters:
+      - {id: burnout-recovery, en: Burnout and recovery, cs: Vyhoření a zotavení}
+      - {id: stress-overload, en: Stress and overload, cs: Stres a přetížení}
+      - {id: attention-fatigue, en: Attention and digital fatigue, cs: Pozornost a digitální únava}
+      - {id: emotional-regulation, en: Emotional regulation, cs: Práce s emocemi}
+
+  - id: physical-health
+    section: health
+    en: Physical health
+    cs: Fyzické zdraví
+    description_en: Durable, cautious explanations of sleep, movement, energy and everyday prevention.
+    description_cs: Trvalá a opatrná vysvětlení spánku, pohybu, energie a každodenní prevence.
+    health: true
+    clusters:
+      - {id: sleep-recovery, en: Sleep and recovery, cs: Spánek a regenerace}
+      - {id: movement-strength, en: Movement and strength, cs: Pohyb a síla}
+      - {id: sedentary-life, en: The sedentary life, cs: Sedavý život}
+      - {id: breathing-energy, en: Breathing and energy, cs: Dech a energie}
+
+  - id: relationships-family
+    section: relationships
+    en: Relationships and family
+    cs: Vztahy a rodina
+    description_en: Practical tools for listening, conflict repair, trust and lasting connection.
+    description_cs: Praktické nástroje pro naslouchání, nápravu konfliktů, důvěru a dlouhodobé spojení.
+    health: false
+    clusters:
+      - {id: conflict-repair, en: Conflict and repair, cs: Konflikt a náprava}
+      - {id: trust-boundaries, en: Trust and boundaries, cs: Důvěra a hranice}
+      - {id: listening-connection, en: Listening and connection, cs: Naslouchání a blízkost}
+      - {id: couple-connection, en: Life as a couple, cs: Partnerské soužití}
+
+  - id: nature-human
+    section: wonder
+    en: Nature and the human mind
+    cs: Příroda a lidská mysl
+    description_en: What daylight, green space, awe and biodiversity can teach us about living well.
+    description_cs: Co nás denní světlo, zeleň, úžas a biodiverzita učí o dobrém životě.
+    health: false
+    clusters:
+      - {id: daylight-rhythm, en: Daylight and body rhythms, cs: Denní světlo a rytmy těla}
+      - {id: green-space, en: Green space and wellbeing, cs: Zeleň a duševní pohoda}
+      - {id: awe-perspective, en: Awe and perspective, cs: Úžas a perspektiva}
+      - {id: biodiversity-health, en: Biodiversity and human life, cs: Biodiverzita a lidský život}
+
+  - id: science-life
+    section: science
+    en: Science for life
+    cs: Věda pro život
+    description_en: Deep discoveries translated into mechanisms, limits and practical meaning.
+    description_cs: Hlubší objevy přeložené do mechanismů, limitů a praktického významu.
+    health: false
+    clusters:
+      - {id: brain-body, en: Brain and body, cs: Mozek a tělo}
+      - {id: longevity-evidence, en: The evidence on longevity, cs: Důkazy o dlouhověkosti}
+      - {id: habit-science, en: The science of habits, cs: Věda o návycích}
+      - {id: deep-discoveries, en: Discoveries worth understanding, cs: Objevy, kterým stojí za to rozumět}
+
+  - id: meaning-character
+    section: questions
+    en: Meaning and character
+    cs: Smysl a charakter
+    description_en: Clear-eyed explorations of purpose, gratitude, discipline, solitude and forgiveness.
+    description_cs: Střízlivé průzkumy smyslu, vděčnosti, disciplíny, samoty a odpuštění.
+    health: false
+    clusters:
+      - {id: purpose-direction, en: Purpose and direction, cs: Smysl a směr}
+      - {id: gratitude-attention, en: Gratitude and attention, cs: Vděčnost a pozornost}
+      - {id: discipline-freedom, en: Discipline and freedom, cs: Disciplína a svoboda}
+      - {id: solitude-belonging, en: Solitude and belonging, cs: Samota a sounáležitost}

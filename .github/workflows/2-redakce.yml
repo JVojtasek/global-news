@@ -1,8 +1,8 @@
 # Hlavní denní běh redakce.
 #  1) přijme články, které dodaly naplánované úlohy ChatGPT Work (content/inbox/)
-#  2) když je nastavený API klíč, dopíše chybějící články sám
-#  3) vydá jeden článek ze zásoby
-#  4) přeloží, co je potřeba
+#  2) bezpečně aplikuje úplné návrhy aktualizací starších článků
+#  3) když je nastavený API klíč, dopíše chybějící články sám
+#  4) vydá jeden článek ze zásoby a přeloží, co je potřeba
 name: "2 · Redakce"
 
 on:
@@ -51,6 +51,9 @@ jobs:
 
       - name: Přijmout články z inboxu
         run: python -m engine.inbox
+
+      - name: Bezpečně aktualizovat evergreen články
+        run: python -m engine.refresh
 
       - name: Napsat chybějící články (jen když je API klíč)
         if: env.ANTHROPIC_API_KEY != '' || env.OPENAI_API_KEY != ''

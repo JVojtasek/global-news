@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{{ t.guides_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.guides_intro }}{% endblock %}
+{% block body %}
+<main class="wide guides-index">
+  <div class="guides-head">
+    <div class="kicker">{{ t.guides_nav }}</div>
+    <h1 class="page-h1">{{ t.guides_title }}</h1>
+    <p class="dek">{{ t.guides_intro }}</p>
+  </div>
+  <div class="guide-grid">
+    {% for guide in guides %}
+    <article class="guide-card{% if not guide.has_articles %} is-building{% endif %}">
+      <div class="guide-no">0{{ loop.index }}</div>
+      <h2><a href="{{ guide.url }}">{{ guide.label }}</a></h2>
+      <p>{{ guide.description }}</p>
+      {% if guide.has_articles %}
+      <p class="guide-count">{{ guide.articles|length }} {% if guide.articles|length == 1 %}{{ t.count_one|replace('%d ', '') }}{% else %}{{ t.count_many|replace('%d ', '') }}{% endif %}</p>
+      <a class="guide-open" href="{{ guide.url }}">{{ t.guides_open }} →</a>
+      {% else %}
+      <p class="guide-building">{{ t.guides_building }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</main>
+{% endblock %}

@@ -65,6 +65,7 @@
   <div class="inner">
     <nav class="sections">
       <a class="nav-you" href="{{ base }}/{{ lang }}/foryou/">{{ t.foryou }}</a>
+      <a href="{{ base }}/{{ lang }}/guides/" {% if current_section == 'guides' %}class="on"{% endif %}>{{ t.guides_nav }}</a>
       {% if wider_lens.enabled %}<a class="nav-lens" href="{{ base }}/{{ lang }}/wider-lens/">{{ wider_lens['nav_' ~ lang] or wider_lens.nav_en }}</a>{% endif %}
       {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s[lang] or s.en }}</a>{% endfor %}
       <a href="{{ base }}/{{ lang }}/impact/">{{ t.imp_link }}</a>

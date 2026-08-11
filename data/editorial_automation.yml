@@ -3,9 +3,12 @@
 enabled: true
 timezone: "Europe/Prague"
 
-# Šest veřejných původních textů denně a jeden článek do zásoby. Každý
-# běží samostatně; výpadek jednoho proto nezruší celé ranní vydání.
-public_articles_per_day: 6
+# Šest hodnotových redakčních výstupů denně: čtyři nové stránky a dvě
+# skutečné aktualizace starších článků. Slot 7 je kvalitní text do zásoby.
+# Aktualizace se nepočítá jako nový článek a nesmí změnit URL.
+daily_outputs: 6
+public_articles_per_day: 4
+refreshes_per_day: 2
 reserve_articles_per_day: 1
 reserve_target: 30
 
@@ -15,33 +18,49 @@ original_share_target_30d: 0.65
 max_syndicated_per_run: 2
 
 minimum_words:
-  daily: 1200
-  analysis: 900
-  feature: 900
-  demand: 700
+  daily: 1800
+  analysis: 1200
+  feature: 1200
+  demand: 900
   news: 500
 
 minimum_sources:
-  daily: 4
-  analysis: 3
-  feature: 3
+  daily: 5
+  analysis: 4
+  feature: 4
   demand: 3
   news: 2
 
-# Posun o tři rubriky dává šest různých témat denně a zároveň v dalších
-# dnech postupně projde celou rotaci z data/site.yml.
-section_step: 3
+# Pilíře se posunou každý den o jeden. Za šest dní dostane každý pilíř
+# každou z denních rolí a žádná oblast dlouhodobě nezmizí.
+pillar_step: 1
 public_slots:
-  - {slot: 1, role: flagship,  type: daily,    min_words: 1400, max_words: 2000}
-  - {slot: 2, role: evidence,  type: analysis, min_words: 1000, max_words: 1500}
-  - {slot: 3, role: practical, type: analysis, min_words: 900,  max_words: 1400}
-  - {slot: 4, role: memory,    type: analysis, min_words: 1000, max_words: 1600}
-  - {slot: 5, role: evergreen, type: analysis, min_words: 1000, max_words: 1500}
-  - {slot: 6, role: human,     type: analysis, min_words: 900,  max_words: 1400}
+  - {slot: 1, action: new, role: cornerstone,    type: daily,   min_words: 1800, max_words: 2500}
+  - {slot: 2, action: new, role: practical,      type: analysis, min_words: 1200, max_words: 1800}
+  - {slot: 3, action: new, role: science-to-life, type: analysis, min_words: 1200, max_words: 1800}
+  - {slot: 4, action: new, role: interactive,    type: demand,  min_words: 900, max_words: 1400}
+
+refresh_slots:
+  - {slot: 5, action: refresh, role: refresh-pillar, min_words: 1200}
+  - {slot: 6, action: refresh, role: refresh-support, min_words: 900}
 
 reserve_slot:
   slot: 7
+  action: new
   role: reserve
   type: feature
-  min_words: 1000
-  max_words: 1600
+  min_words: 1200
+  max_words: 1800
+
+value_gate:
+  minimum_score: 80
+  target_years: 3
+  primary_source_when_available: true
+  current_event_must_open_durable_question: true
+
+refresh_policy:
+  minimum_days_since_review: 90
+  maximum_word_shrink_ratio: 0.10
+  require_new_source_or_material_correction: true
+  preserve_url: true
+  preserve_original_publication_date: true

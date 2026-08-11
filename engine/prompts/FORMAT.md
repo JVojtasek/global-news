@@ -42,6 +42,15 @@ topics: []          # štítky pro filtr čtenáře: war, crime, disaster, polit
                     # health, money, tech. Nech prázdné a systém je doplní
 automation_generated: false  # true jen pro naplánovanou úlohu ChatGPT Work
 edition_slot: 0     # 1–6 veřejné články, 7 článek do zásoby
+value_article: false # true pro hodnotový evergreen obsah
+pillar: ""          # jeden id z data/evergreen_clusters.yml
+cluster: ""         # cluster uvnitř zvoleného pilíře
+search_intent: ""   # konkrétní opakující se otázka, kterou článek zodpoví
+practical_asset: "" # např. seven-day energy audit, checklist, decision tree
+evergreen_target_years: 0
+reviewed_at: ""     # poslední věcná kontrola zdrojů, YYYY-MM-DD
+review_due: ""      # plán další kontroly, YYYY-MM-DD
+updated_at: ""      # vyplňuje se jen při skutečné aktualizaci
 event_id: ""
 series: ""
 image_query: "krátký anglický popis pro vyhledání ilustračního obrázku"
@@ -75,6 +84,23 @@ mají co říct — u krátké zprávy o autech je vynech.
 U `type: daily` a `type: analysis` jsou navíc povinné vrstvy
 **EVIDENCE** a **PERSPECTIVES**. Tyto dva typy nesou značku The Wider
 Lens a musí ukázat nejen závěr, ale i cestu, která k němu vede.
+
+## Smlouva hodnotového článku (`value_article: true`)
+
+Hodnotový článek je součást trvalé knihovny, ne jednorázová zpráva. Musí:
+
+1. odpovědět na `search_intent` v prvních dvou odstavcích;
+2. vysvětlit mechanismus, nejen sepsat tipy;
+3. uvést nejsilnější důkazy, jejich omezení a to, co stále nevíme;
+4. obsahovat vlastní `practical_asset`, který lze bezpečně použít;
+5. říct, pro koho závěr nemusí platit a kdy je na místě odborník;
+6. patřit do platného `pillar` a `cluster` z `data/evergreen_clusters.yml`;
+7. mít `evergreen_target_years` nejméně 2, datum věcné kontroly a další revize;
+8. u automatického textu obsahovat tříodpověďový vzdělávací kvíz.
+
+Kvíz nebo sebehodnocení nikdy nesmí stanovovat diagnózu, vydávat neověřené
+skóre za klinický test ani slibovat léčebný výsledek. U zdravotních témat jde
+o vzdělávání a orientaci ve výzkumu, ne o individuální doporučení.
 
 ## Zátěž a štítky (load, topics)
 

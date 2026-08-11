@@ -94,10 +94,12 @@ důkazů (`EVIDENCE`) a porovnání doložitelných výkladů (`PERSPECTIVES`).
 U byznysových a technologických témat může čtenář pokračovat do QMA,
 kde se příběh mění na měřitelná data, finanční zdraví, ocenění a rizika.
 
-## Témata, po kterých je poptávka
+## Evergreen Value Engine
 
-`engine/trends.py` hledá, o čem lidé skutečně chtějí číst — ale ne tak,
-jak to dělá většina webů.
+Oddělený naplánovaný agent podle
+`engine/prompts/EVERGREEN-VALUE-SCOUT.md` hledá otázky s dlouhodobou
+poptávkou, praktickým přínosem a dostatečně silnými důkazy. Aktuální událost
+je jen vstupní dveře, pokud otevírá otázku užitečnou i za tři až pět let.
 
 **Denní žebříčky vyhledávání jsou past.** Když se na ně dnes podíváš,
 uvidíš „Benfica", „Kylie Jenner", „Djoković". Sport a celebrity tvoří
@@ -105,8 +107,8 @@ zhruba devadesát procent trendů a nikdy je nevyhrajeme — píše o nich
 tisíc redakcí, které tam byly dřív a mají větší váhu.
 
 Co má cenu, jsou **otázky, které lidé píší do vyhledávače pořád dokola**.
-Modul proto z trendů, Wikipedie a Hacker News vytáhne jen to, co vůbec
-patří do našich rubrik, a každé téma rozvine na skutečné dotazy:
+Scout porovnává stabilní poptávku, lidský užitek, trvanlivost, sílu důkazů,
+originalitu a přínos pro obsahový cluster. Každé téma rozvine na skutečné dotazy:
 
 ```
 burnout
@@ -116,13 +118,18 @@ burnout
   „why is burnout so high in emergency medicine“
 ```
 
-Tyhle otázky mají stálou poptávku, slabou konkurenci a nezastarají za týden.
-Redakce na ně pak píše původní články s jediným tvrdým pravidlem:
+Tyhle otázky mají stálou poptávku a nezastarají za týden. Redakce na ně
+píše původní články s jediným tvrdým pravidlem:
 **odpověď musí být v prvním odstavci.** Ne po třech odstavcích úvodu.
 
-Zdroje signálu jsou zdarma a bez klíčů: Google Trends, Wikipedia pageviews,
-Hacker News a našeptávač vyhledávače. Seznam stálých témat, ze kterých
-se doluje i ve dnech, kdy jsou trendy k ničemu, je v `data/site.yml → topics`.
+Zdroje signálu jsou zdarma a bez klíčů: delší horizont Google Trends,
+našeptávač, Search Console (až bude připojena) a veřejné otázky čtenářů.
+Fakta článku ale vždy stojí na otevřených primárních a odborných zdrojích.
+Šest denních výstupů znamená čtyři nové hodnotové stránky a dvě podstatné
+aktualizace starších článků. Obsah se skládá do šesti pilířů v
+`data/evergreen_clusters.yml` a na webu do sekce **Life guides**.
+Scout nejprve vytvoří nejméně 30 kandidátů. Až potom předá sedm zadání;
+slabý slot označí `HOLD`, místo aby kvótu vyplnil vatou.
 
 ## Analytik s pamětí
 
@@ -241,8 +248,9 @@ python -m engine.trends       # najdi témata, po kterých je poptávka
 python -m engine.daily        # co je téma článku dne a jaké má podklady
 python -m engine.brief        # připrav zadání pro redakci
 python -m engine.write        # napiš články (potřebuje API klíč)
-python -m engine.edition      # rozděl šest veřejných slotů + zásobu
+python -m engine.edition      # rozděl 4 nové články + 2 aktualizace + zásobu
 python -m engine.inbox        # zpracuj, co dodaly úlohy ChatGPT Work
+python -m engine.refresh      # bezpečně aplikuj úplné návrhy aktualizací
 python -m engine.release      # vydej delší článek ze zásoby
 python -m engine.translate    # přelož do češtiny
 python -m engine.build        # postav web + dohledej obrázky

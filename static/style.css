@@ -1069,6 +1069,28 @@ nav.sections a.nav-land:hover{border-color:var(--accent)}
   .land-a{transition:none}
 }
 
+/* Evergreen Value Engine: průvodci jsou knihovna, ne další proud zpráv. */
+.guides-index,.guide-page{padding-top:2.5rem;padding-bottom:4rem}
+.guides-head{max-width:48rem;margin-bottom:2rem}
+.guide-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(16rem,1fr));gap:1rem}
+.guide-card{position:relative;border:1px solid var(--line);border-radius:12px;padding:1.3rem;
+  background:var(--bg-soft);min-height:16rem;display:flex;flex-direction:column}
+.guide-card h2{font-size:1.35rem;line-height:1.2;margin:.7rem 0}
+.guide-card h2 a{text-decoration:none}.guide-card h2 a:hover{color:var(--accent)}
+.guide-card p{line-height:1.55;color:var(--ink-soft)}
+.guide-no{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.7rem;letter-spacing:.16em;
+  color:var(--accent)}
+.guide-count{font-size:.78rem;margin-top:auto}.guide-open{font-size:.78rem;font-weight:700;
+  text-transform:uppercase;letter-spacing:.08em;color:var(--accent);text-decoration:none}
+.guide-building{font-size:.82rem;margin-top:auto}.guide-cluster{margin:2.4rem 0}
+.guide-cluster>h2{border-bottom:2px solid var(--ink);padding-bottom:.45rem;margin-bottom:1rem}
+.guide-badge{display:inline-flex;gap:.45rem;align-items:baseline;margin:.8rem 0 0;padding:.42rem .7rem;
+  border:1px solid var(--line);border-radius:999px;text-decoration:none;font-weight:600}
+.guide-badge span{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.66rem;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ink-soft)}
+.review-line{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;color:var(--ink-soft);
+  margin:.55rem 0 0}
+
 /* --- vzdělávací kvíz pod původní analýzou --- */
 .article-quiz{margin:2rem 0;padding:1.35rem 1.4rem;border:1px solid var(--line);
   border-radius:12px;background:var(--bg-soft)}
