@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{% block title %}{{ brand }}{% endblock %}</title>
 <meta name="description" content="{% block description %}{{ tagline }}{% endblock %}">
-<link rel="stylesheet" href="{{ base }}/style.css">
+<link rel="stylesheet" href="{{ base }}/style.css?v={{ asset_version }}">
 {# Barva lišty prohlížeče, zvlášť pro světlý a tmavý režim. Jsou to
    přesně hodnoty --bg ze style.css, ať nad stránkou nesvítí cizí pruh. #}
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#faf8f4">
@@ -315,7 +315,7 @@ function tdsTheme(){
   "coChange": t.co_change,
   "coPick": t.co_pick
 }|tojson }};</script>
-<script src="{{ base }}/reader.js" defer></script>
+<script src="{{ base }}/reader.js?v={{ asset_version }}" defer></script>
 {%- if page_type == "archive" %}
 {# Odkaz z vyhledávače může nést hledaný výraz (?q=…). Předvyplní se
    jím políčko a spustí se totéž filtrování, které dělá psaní rukou —

@@ -6,6 +6,7 @@ Nepotřebuje server, databázi ani Node.js. Výsledek se dá nahrát kamkoli
 from __future__ import annotations
 
 import datetime as dt
+import hashlib
 import html as _html_mod
 import json
 import shutil
@@ -1208,6 +1209,16 @@ def _write(path, text: str) -> None:
     path.write_text(text, encoding="utf-8")
 
 
+def _asset_version() -> str:
+    """Short content hash used to invalidate cached CSS and JavaScript."""
+    digest = hashlib.sha256()
+    for name in ("style.css", "reader.js"):
+        path = config.STATIC / name
+        digest.update(name.encode("utf-8"))
+        digest.update(path.read_bytes())
+    return digest.hexdigest()[:12]
+
+
 def run() -> None:
     site = config.site()
     brand_key = "name_cs"
@@ -1226,6 +1237,7 @@ def run() -> None:
 
     langs = [site["languages"]["master"], *site["languages"]["translations"]]
     today = dt.date.today().isoformat()
+    asset_version = _asset_version()
 
     # --- nejdřív se načtou všechny jazyky, teprve pak se staví ---------
     # Kvůli odkazům `hreflang`: aby se dalo poctivě napsat, ve kterých
@@ -1309,6 +1321,7 @@ def run() -> None:
             lang=lang, brand=brand, tagline=tagline, t=t,
             sections=nav, all_sections=site["sections"], all_langs=langs,
             site_url=config.origin(), base=config.base_path(), current_section=None,
+            asset_version=asset_version,
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
             wider_lens=site.get("wider_lens", {}),
             wit=quotes.wit(),
