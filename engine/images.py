@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import textwrap
 
 from PIL import Image, ImageDraw, ImageFont
@@ -104,7 +105,20 @@ def cover(meta: dict, out_path) -> None:
 
 
 _downloaded = 0
+_attempted = 0
 _used: set[str] = set()
+
+
+def _attempt_limit(cfg: dict) -> int:
+    """Maximum number of articles allowed to start remote image lookup.
+
+    A Pages deployment must never wait on hundreds of third-party requests.
+    Scheduled deployments will fill the cache gradually instead.
+    """
+    configured = max(0, int(cfg.get("max_per_run", 12)))
+    if os.getenv("GITHUB_ACTIONS", "").lower() == "true":
+        return min(configured, 12)
+    return configured
 
 
 def ensure(meta: dict) -> dict:
@@ -113,7 +127,7 @@ def ensure(meta: dict) -> dict:
     Vrací {"src": cesta, "credit": text pod obrázkem nebo None}.
     Pořadí hledání je v data/site.yml → images.order.
     """
-    global _downloaded
+    global _attempted, _downloaded
     slug = meta.get("slug", "x")
     out = config.PUBLIC / "img" / f"{slug}.jpg"
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -134,8 +148,12 @@ def ensure(meta: dict) -> dict:
 
     # 3) volné zdroje na internetu
     cfg = config.site().get("images", {})
-    limit = int(cfg.get("max_per_run", 12))
-    if _downloaded < limit and "typographic" != cfg.get("order", [""])[0]:
+    limit = _attempt_limit(cfg)
+    if _attempted < limit and "typographic" != cfg.get("order", [""])[0]:
+        # Count the attempt even when a provider is unavailable or rate-limits
+        # us. Otherwise a clean build can contact the provider for every old
+        # article and delay the whole deployment for tens of minutes.
+        _attempted += 1
         hit = imagebank.find(meta, skip=_used)
         if hit:
             _used.add(hit["url"])
