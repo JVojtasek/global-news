@@ -910,9 +910,11 @@ def _jsonld(a: dict, site: dict) -> str:
         "isAccessibleForFree": a.get("access_state") != "early",
     }
     if a.get("origin"):
-        data["author"] = {"@type": "Person", "name": brand.get("author", brand["name_en"])}
         data["mainEntityOfPage"] = {"@type": "WebPage", "@id": a["origin"]["url"]}
     elif a.get("syndicated"):
+        original_author = a["syndicated"].get("author") or a["syndicated"].get("source")
+        if original_author:
+            data["author"] = {"@type": "Person", "name": original_author}
         data["mainEntityOfPage"] = {"@type": "WebPage", "@id": a["syndicated"]["url"]}
     return json.dumps(data, ensure_ascii=False)
 
