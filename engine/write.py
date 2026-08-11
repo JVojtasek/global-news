@@ -15,7 +15,7 @@ from __future__ import annotations
 import json
 import sys
 
-from . import ai, article, config
+from . import ai, article, config, safety
 
 P = config.ROOT / "engine" / "prompts"
 
@@ -106,16 +106,8 @@ def _pipeline(system: str, task: str, defaults: dict, sensitive: bool) -> dict |
 
 
 def _is_sensitive(text: str) -> bool:
-    triggers = {
-        "prophecy": "prophecy fulfil fulfill end times antichrist rapture revelation beast",
-        "death_toll": "killed dead death toll casualties massacre",
-        "accusation": "accused alleged allegation charged fraud corruption",
-        "abuse": "abuse assault rape trafficking",
-        "election": "election vote ballot poll candidate campaign",
-    }
     always = set(config.site()["editorial"]["always_review"])
-    t = text.lower()
-    return any(any(w in t for w in kws.split()) for key, kws in triggers.items() if key in always)
+    return safety.is_sensitive(text, always)
 
 
 def _deep_pipeline(task: str, defaults: dict, grounding: str) -> dict | None:

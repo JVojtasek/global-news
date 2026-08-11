@@ -39,7 +39,9 @@
   license_url: "https://www.nasa.gov/nasa-brand-center/images-and-media/"
   may_translate: true
   may_edit: true
-  keep_images: true         # snímky NASA jsou ve veřejném vlastnictví
+  # NASA upozorňuje, že některé fotografie na jejím webu patří třetím
+  # stranám. Obrázky zapneme až s kontrolou licence konkrétního souboru.
+  keep_images: false
   attribution: "Originally published by <a href=\"{url}\">NASA</a>. NASA material is generally not subject to copyright protection."
 
 # --- The Conversation ------------------------------------------------
@@ -50,6 +52,7 @@
 #  počítadlo návštěv — systém ho tam nechává automaticky.
 
 - name: "The Conversation — Health"
+  enabled: false            # dočasně: generátor musí nejdřív zachovat přesný text a odkazy
   url: "https://theconversation.com/us/health/articles.atom"
   section: health
   license: "CC BY-ND 4.0"
@@ -60,6 +63,7 @@
   attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
 
 - name: "The Conversation — Technology"
+  enabled: false
   url: "https://theconversation.com/us/technology/articles.atom"
   section: tech
   license: "CC BY-ND 4.0"
@@ -70,6 +74,7 @@
   attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
 
 - name: "The Conversation — Environment"
+  enabled: false
   url: "https://theconversation.com/us/environment/articles.atom"
   section: science
   license: "CC BY-ND 4.0"
@@ -80,6 +85,7 @@
   attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
 
 - name: "The Conversation — Education"
+  enabled: false
   url: "https://theconversation.com/us/education/articles.atom"
   section: parenting
   license: "CC BY-ND 4.0"
@@ -90,6 +96,7 @@
   attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
 
 - name: "The Conversation — Arts & Culture"
+  enabled: false
   url: "https://theconversation.com/us/arts/articles.atom"
   section: culture
   license: "CC BY-ND 4.0"
@@ -100,6 +107,7 @@
   attribution: "By {author}. This article is republished from <a href=\"https://theconversation.com\">The Conversation</a> under a Creative Commons licence. <a href=\"{url}\">Read the original article</a>."
 
 - name: "The Conversation — Ethics & Big Questions"
+  enabled: false
   url: "https://theconversation.com/us/ethics/articles.atom"
   section: questions
   license: "CC BY-ND 4.0"

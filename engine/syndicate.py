@@ -81,6 +81,9 @@ def run(limit_per_source: int = MAX_PER_SOURCE) -> int:
     taken = 0
 
     for src in _sources():
+        if not src.get("enabled", True):
+            config.log(f"  – {src['name']}: dočasně vypnuto v data/syndication.yml")
+            continue
         try:
             feed = feedparser.parse(src["url"])
         except Exception as e:  # noqa: BLE001
@@ -120,7 +123,9 @@ def run(limit_per_source: int = MAX_PER_SOURCE) -> int:
                 "lang": config.site()["languages"]["master"],
                 "date": config.today(),
                 "status": "published",
-                "confidence": 100,
+                # Licence a reputace zdroje nejsou totéž jako nezávislé
+                # ověření konkrétního textu. Převzatý článek proto neskórujeme.
+                "confidence": 0,
                 "image_query": " ".join(title.split()[:6]),
                 "syndicated": {
                     "source": src["name"],
