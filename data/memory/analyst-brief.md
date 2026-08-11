@@ -21,12 +21,13 @@ Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **7**.
   - **2026-08-11** (4 zdrojů) Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 0 dní · 4 záznamů
+- rubrika `world` · sledováno 0 dní · 5 záznamů
 - časová osa:
   - **2026-08-11** (3 zdrojů) Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
   - **2026-08-11** (2 zdrojů) Ukraine drone strike on oil refinery deep inside Russia kills at least 13
   - **2026-08-11** (2 zdrojů) Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
+  - **2026-08-11** (2 zdrojů) Ukraine says Russia fired North Korean missiles
 
 ### Typhoon Dolphin batters Japan's Okinawa before bearing down on China
 - rubrika `world` · sledováno 1 dní · 4 záznamů

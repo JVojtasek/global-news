@@ -153,23 +153,24 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "russian",
-    "north",
-    "korean",
-    "kyiv",
-    "atacms",
-    "overnight",
-    "ukraine",
     "europe",
     "zelenskyy",
+    "ukraine",
     "zelensky",
-    "russia"
+    "kyiv",
+    "overnight",
+    "north",
+    "korean",
+    "atacms",
+    "russia",
+    "russian"
    ],
    "event_ids": [
     "1bf4b58ce158",
     "ab563eb385f2",
     "3fc6b4461f50",
-    "a9756de264c6"
+    "a9756de264c6",
+    "b984d1ff1c1f"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-08-11",
@@ -217,6 +218,18 @@
      "links": [
       "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine says Russia fired North Korean missiles",
+     "sources": 2,
+     "score": 46,
+     "event_id": "b984d1ff1c1f",
+     "links": [
+      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
+      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
      ]
     }
    ]
@@ -810,5 +823,5 @@
    ]
   }
  ],
- "updated": "2026-08-11T12:30:50+00:00"
+ "updated": "2026-08-11T15:35:40+00:00"
 }
