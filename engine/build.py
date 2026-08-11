@@ -15,7 +15,8 @@ import xml.sax.saxutils as sx
 import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import analyst, article, config, countries, images, impact, interests, members, quotes, reader
+from . import analyst, article, config, countries, images, impact, interests, members
+from . import problems, quotes, reader
 from . import weekend
 from . import seo as indexnow          # `seo` je uvnitř run() nastavení z site.yml
 
@@ -195,6 +196,47 @@ Write to {email}. We answer.""",
         "imp_filter": "Show only",
         "imp_all": "Everything",
         # --- sobotní vydání (engine/weekend.py) ---
+        # --- velké problémy (engine/problems.py) ---
+        "pr_nav": "Big problems",
+        "pr_title": "The big problems",
+        "pr_intro": "Ten problems the whole world has, and one page each. Not opinions: "
+                    "what a country actually tried, what the numbers did afterwards, and "
+                    "who is genuinely ahead. Then the part nobody else prints — what a "
+                    "machine would do with the same problem, and what a machine would miss.",
+        "pr_measure": "How this is measured",
+        "pr_measure_help": "One number, named and sourced. Everything on this page is "
+                           "argued against it, so you can check us.",
+        "pr_board": "Who is actually ahead",
+        "pr_board_help": "Ranked on the number above — not on reputation.",
+        "pr_board_country": "Country",
+        "pr_board_value": "Result",
+        "pr_board_note": "Why",
+        "pr_tried": "What has actually been tried",
+        "pr_tried_help": "Real countries, real policies, and what the numbers did afterwards "
+                         "— including where it went wrong.",
+        "pr_result": "What happened",
+        "pr_caveat": "The catch",
+        "pr_machine": "What a machine would optimise for",
+        "pr_machine_help": "This is arithmetic, not advice and not a prediction. We name the "
+                           "single number being maximised and follow it wherever it goes. "
+                           "The point is to see the shape of the answer a calculator gives.",
+        "pr_optimise": "The number being maximised",
+        "pr_arith": "The arithmetic",
+        "pr_blind": "What the machine would miss",
+        "pr_blind_help": "The most important part of this page. A number that goes up can "
+                         "still be paid for by somebody, and some things never make it into "
+                         "the number at all.",
+        "pr_yours": "Where does your country stand?",
+        "pr_yours_cta": "Open my country",
+        "pr_sources": "Where the numbers come from",
+        "pr_updated": "Checked on",
+        "pr_all": "All ten problems",
+        "pr_none": "Nothing here yet.",
+        "pr_read": "Read the page",
+        "pr_disclaimer": "We are a newspaper, not a government and not an adviser. Nothing "
+                         "on this page is a recommendation to you or to anyone in office. "
+                         "It is what was tried, what it measured, and what a calculator "
+                         "would say if you let it loose on the same problem.",
         # --- co to znamená pro mou zemi (engine/countries.py) ---
         "co_nav": "My country",
         "co_link": "What it means for my country",
@@ -511,6 +553,46 @@ Pište na {email}. Odpovídáme.""",
         "imp_filter": "Zobrazit jen",
         "imp_all": "Všechno",
         # --- sobotní vydání (engine/weekend.py) ---
+        # --- velké problémy (engine/problems.py) ---
+        "pr_nav": "Velké problémy",
+        "pr_title": "Velké problémy",
+        "pr_intro": "Deset problémů, které má celý svět, a na každý jedna stránka. Ne názory: "
+                    "co některá země opravdu zkusila, co pak udělala čísla a kdo je na tom "
+                    "vážně nejlíp. A pak to, co jinde nenajdeš — co by se stejným problémem "
+                    "udělal stroj a co by mu uniklo.",
+        "pr_measure": "Čím se to měří",
+        "pr_measure_help": "Jedno číslo, pojmenované a se zdrojem. Všechno na téhle stránce "
+                           "se poměřuje proti němu, abys nás mohl zkontrolovat.",
+        "pr_board": "Kdo je na tom vážně nejlíp",
+        "pr_board_help": "Řazeno podle čísla nahoře — ne podle pověsti.",
+        "pr_board_country": "Země",
+        "pr_board_value": "Výsledek",
+        "pr_board_note": "Proč",
+        "pr_tried": "Co se opravdu zkusilo",
+        "pr_tried_help": "Skutečné země, skutečná opatření a co pak udělala čísla — včetně "
+                         "toho, kde se to nepovedlo.",
+        "pr_result": "Jak to dopadlo",
+        "pr_caveat": "Háček",
+        "pr_machine": "Co by optimalizoval stroj",
+        "pr_machine_help": "Tohle je počet, ne rada a ne předpověď. Pojmenujeme jedno číslo, "
+                           "které se má vyhnat co nejvýš, a jdeme za ním, ať to dopadne "
+                           "jakkoli. Jde o to vidět, jaký tvar má odpověď kalkulačky.",
+        "pr_optimise": "Číslo, které se vyhání nahoru",
+        "pr_arith": "Počet",
+        "pr_blind": "Co by stroji uniklo",
+        "pr_blind_help": "Nejdůležitější část téhle stránky. I číslo, které roste, někdo "
+                         "zaplatí — a některé věci se do čísla nedostanou vůbec.",
+        "pr_yours": "Jak je na tom tvoje země?",
+        "pr_yours_cta": "Otevřít moji zemi",
+        "pr_sources": "Odkud jsou čísla",
+        "pr_updated": "Ověřeno",
+        "pr_all": "Všech deset problémů",
+        "pr_none": "Zatím tu nic není.",
+        "pr_read": "Otevřít stránku",
+        "pr_disclaimer": "Jsme noviny, ne vláda a ne poradce. Nic na téhle stránce není "
+                         "doporučení tobě ani nikomu, kdo rozhoduje. Je to, co se zkusilo, "
+                         "co to naměřilo a co by řekla kalkulačka, kdyby se pustila na "
+                         "stejný problém.",
         # --- co to znamená pro mou zemi (engine/countries.py) ---
         "co_nav": "Moje země",
         "co_link": "Co to znamená pro mou zemi",
@@ -1538,6 +1620,23 @@ def run() -> None:
         _write(out / lang / "impact" / "index.html",
                env.get_template("impact.html").render(
                    articles=with_impact, areas=impact.AREAS, **page("impact/", "page")))
+
+        # --- velké problémy -------------------------------------------
+        # Deset problémů, které má celý svět. Na každý jedna stránka a na
+        # ní tři sloupce: co se opravdu zkusilo (skutečná země, měřený
+        # výsledek, zdroj), co by optimalizoval stroj (počet, ne rada) —
+        # a co by stroji uniklo. Ten třetí sloupec je důvod, proč tahle
+        # rubrika existuje. Bez něj by to byly chytré rady od stroje,
+        # a to je přesně to, co dělat nechceme.
+        probs = problems.load(lang)
+        for pr in probs:
+            _write(out / lang / "problems" / pr["id"] / "index.html",
+                   env.get_template("problem.html").render(
+                       page=pr, **page(f"problems/{pr['id']}/", "page")))
+        if probs:
+            _write(out / lang / "problems" / "index.html",
+                   env.get_template("problems.html").render(
+                       pages=probs, **page("problems/", "page")))
 
         # --- co to znamená pro mou zemi -------------------------------
         # Stejná zpráva dopadá jinak v Irsku a jinak v Polsku. Tahle

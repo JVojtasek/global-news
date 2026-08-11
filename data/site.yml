@@ -370,3 +370,12 @@ seo_plus:
   # Rozcestníky podle témat. Dlouhodobě přinášejí nejvíc lidí z vyhledávání:
   # člověk hledá „cukrovka výzkum", ne titulek konkrétního článku.
   topic_hubs: true
+
+# --- velké problémy -----------------------------------------------------
+# Pořadí stránek v rubrice „Velké problémy". Co je první, je redakční
+# rozhodnutí, ne věc abecedy. Když sem něco nenapíšeš, seřadí se to podle
+# názvu. Přidat jedenáctý problém = napsat dva soubory do
+# content/problems/ (anglicky a česky) a dopsat jeho id sem.
+problems:
+  order: [housing, energy, water, ageing, teachers, roads,
+          antibiotics, loneliness, plastic, disinformation]

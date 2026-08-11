@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{# =====================================================================
+   VELKÉ PROBLÉMY — obsah rubriky
+
+   Rozcestník, nic víc. Deset problémů, u každého titulek, jedna věta
+   a jméno čísla, kterým se to na té stránce měří — aby bylo poznat,
+   co se tam bude poměřovat, ještě než tam čtenář klikne.
+
+   Schválně klidné: žádné obrázky, žádná čísla navíc, žádné pořadí
+   naléhavosti. Pořadí je z data/site.yml a je redakční.
+   ===================================================================== #}
+{% block title %}{{ t.pr_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.pr_intro }}{% endblock %}
+
+{% block body %}
+<div class="wide pr-index">
+  <h1 class="page-h1">{{ t.pr_title }}</h1>
+  <p class="dek pr-dek">{{ t.pr_intro }}</p>
+
+  {% if pages %}
+  <ul class="pr-cards">
+    {% for p in pages %}
+    {# `or {}` — ručně složený slovník nemusí mít klíč `measure` vůbec. #}
+    {% set m = p.measure or {} %}
+    <li class="card pr-card">
+      <div class="body">
+        <h2 class="pr-card-h"><a href="{{ base }}/{{ lang }}/{{ p.url }}">{{ p.title }}</a></h2>
+        {% if p.dek %}<p class="pr-card-dek">{{ p.dek }}</p>{% endif %}
+        {% if m.name %}
+        <p class="pr-card-measure">
+          <span class="pr-card-lab">{{ t.pr_measure }}</span>
+          {{ m.name }}
+        </p>
+        {% endif %}
+        <p class="pr-card-go"><a href="{{ base }}/{{ lang }}/{{ p.url }}">{{ t.pr_read }}</a></p>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  {# Prázdná rubrika je menší škoda než jeden odbytý text (CLAUDE.md).
+     Tak se to řekne rovnou a nic se nevycpává. #}
+  <p class="pr-none">{{ t.pr_none }}</p>
+  {% endif %}
+</div>
+{% endblock %}
