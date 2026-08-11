@@ -1068,3 +1068,208 @@ nav.sections a.nav-land:hover{border-color:var(--accent)}
 @media (prefers-reduced-motion:reduce){
   .land-a{transition:none}
 }
+
+
+/* =====================================================================
+   VELKÉ PROBLÉMY  (templates/problem.html, templates/problems.html,
+                    engine/problems.py)
+
+   Stránka jednoho velkého problému má dva různé druhy materiálu a je
+   nepoctivé, aby vypadaly stejně. Nahoře je zpravodajství: naměřené
+   číslo, žebříček a skutečné pokusy. Vypadá to jako zbytek novin —
+   uzoučký nadpis s linkou, hairline mezi položkami, žádná barva navíc.
+
+   Dole je úvaha: co by s tím udělal stroj a co by mu uniklo. Ta dostane
+   tinovaný panel s čárkovaným rámečkem a linkou po straně, aby bylo
+   z metru vidět, že tady už nikdo nic neměřil, jen se počítá nahlas.
+
+   Oba panely jsou schválně jeden jako druhý: stejné odsazení, stejné
+   písmo, stejná velikost nadpisu. Liší se jen barvou postranní linky.
+   „Co by stroji uniklo" je nejdůležitější blok celé stránky a nikdy
+   nesmí vypadat jako poznámka pod tím prvním.
+
+   Nejdřív telefon. Žebříček je opravdová tabulka, ale na úzkém displeji
+   se z řádků stanou karty a popisek sloupce si nese každá buňka s sebou
+   v `data-label` — vodorovné posouvání se stránkou nikdy nespustí.
+   ===================================================================== */
+
+/* --- hlavička stránky --- */
+.pr .page-h1{font-size:clamp(1.6rem,3.6vw,2.4rem);line-height:1.14;letter-spacing:-.02em;
+  margin:2.2rem 0 .4rem}
+.pr .pr-dek,.pr-index .pr-dek{color:var(--ink-soft);font-size:1.02rem;margin:0 0 .6rem;
+  max-width:40rem}
+.pr-updated{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.75rem;
+  letter-spacing:.06em;color:var(--ink-soft);margin:0 0 .3rem}
+.pr-back{margin:0 0 1.6rem;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;
+  letter-spacing:.13em;text-transform:uppercase}
+.pr-back a{color:var(--accent);text-decoration:none}
+.pr-back a:hover{text-decoration:underline}
+
+/* Úvod z těla souboru. Užší sloupec než zbytek stránky — jsou to dva
+   tři odstavce běžného textu a ty se v šíři tabulky čtou špatně. */
+.pr-intro{max-width:38rem;margin:0 0 2.2rem}
+.pr-intro p{margin:0 0 1.1rem}
+
+/* --- sekce: nadpis s linkou jako v rubrice --- */
+.pr-sec{margin:0 0 2.4rem}
+.pr-h{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin:0 0 .4rem;padding-top:1.1rem;
+  border-top:2px solid var(--ink)}
+.pr-help{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.82rem;line-height:1.55;
+  color:var(--ink-soft);margin:0 0 1.1rem;max-width:40rem}
+
+/* --- čím se to měří --- */
+.pr-measure-name{font-size:1.12rem;line-height:1.4;font-weight:600;margin:0 0 .3rem;
+  max-width:40rem}
+.pr-unit{display:inline-block;vertical-align:.08em;margin-left:.3rem;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ink-soft);border:1px solid var(--line);
+  border-radius:999px;padding:.05rem .45rem;white-space:nowrap}
+.pr-src{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;line-height:1.5;
+  color:var(--ink-soft);margin:.35rem 0 0;overflow-wrap:anywhere}
+.pr-src a{color:var(--ink-soft);text-decoration:underline;text-underline-offset:3px}
+.pr-src a:hover{color:var(--accent)}
+
+/* --- žebříček ---
+   Na telefonu karty, od tabletu opravdová tabulka. */
+.pr-board{width:100%;border-collapse:collapse;margin:0;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.9rem}
+.pr-board caption{caption-side:top;text-align:left;font-size:.68rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-soft);padding:0 0 .6rem}
+/* Popisek tabulky je na telefonu obyčejný blok — `table-caption` bez
+   tabulky kolem sebe si prohlížeče vykládají každý jinak. */
+.pr-board caption{display:block}
+.pr-board,.pr-board tbody,.pr-board tr,.pr-board th,.pr-board td{display:block}
+/* Hlavička tabulky je pro hlasovou čtečku, ne pro oko — na úzkém
+   displeji ji nahradí popisky u buněk. */
+.pr-board thead{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;
+  clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;border:0}
+.pr-board tbody tr{border:1px solid var(--line);border-radius:9px;background:var(--card);
+  padding:.7rem .9rem;margin:0 0 .55rem}
+.pr-board tbody th{font-size:1rem;font-weight:600;text-align:left;padding:0 0 .3rem;
+  line-height:1.35}
+.pr-board tbody th a{color:var(--ink);text-decoration:none;
+  border-bottom:1px solid var(--line)}
+.pr-board tbody th a:hover{color:var(--accent);border-color:var(--accent)}
+.pr-board tbody td{padding:.15rem 0;line-height:1.5;color:var(--ink-soft)}
+.pr-board tbody td::before{content:attr(data-label);display:block;font-size:.64rem;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft)}
+/* Naměřená hodnota je to, kvůli čemu se čtenář dívá — číslice v jednom
+   rastru, ať se dají srovnat pohledem. */
+.pr-board tbody td:first-of-type{font-variant-numeric:tabular-nums;color:var(--ink);
+  font-weight:600}
+
+/* --- co se opravdu zkusilo --- */
+.pr-try{border-top:1px solid var(--line);padding:1.1rem 0}
+.pr-try:first-child{border-top:0;padding-top:.1rem}
+.pr-try-h{font-size:1.08rem;line-height:1.3;margin:0 0 .35rem}
+.pr-try-h a{text-decoration:none;border-bottom:1px solid var(--line)}
+.pr-try-h a:hover{color:var(--accent);border-color:var(--accent)}
+.pr-what{margin:0 0 .5rem;line-height:1.6;max-width:40rem}
+/* Výsledek a háček jsou popsané běhy uvnitř odstavce, ne další nadpisy:
+   je to jedna myšlenka na řádek, ne nová kapitola. */
+.pr-run{margin:0 0 .35rem;font-size:.95rem;line-height:1.55;color:var(--ink-soft);
+  max-width:40rem}
+.pr-run b{color:var(--ink);font-weight:600}
+.pr-caveat{color:var(--ink-soft)}
+
+/* =========== dvojice: stroj a to, co mu uniká ===========
+   Panely nikdy nestojí samostatně — šablona je vypisuje spolu. */
+/* Panel nemá být širší než text v něm — jinak vpravo zůstane prázdný
+   pruh podbarvení a stránka vypadá nedodělaně. 43rem = 40rem textu
+   plus vnitřní odsazení panelu. */
+.pr-pair{margin:0 0 2.4rem;max-width:43rem}
+.pr-panel{background:var(--bg-soft);border:1px dashed var(--line);border-left:3px solid var(--line);
+  border-radius:0 10px 10px 0;padding:1.1rem 1.1rem 1.2rem;margin:0 0 1rem}
+.pr-panel:last-child{margin-bottom:0}
+.pr-panel-h{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.82rem;letter-spacing:.15em;
+  text-transform:uppercase;margin:0 0 .45rem;padding:0;border:0}
+.pr-machine{border-left-color:var(--accent)}
+.pr-machine .pr-panel-h{color:var(--accent)}
+.pr-blind{border-left-color:var(--ink)}
+.pr-blind .pr-panel-h{color:var(--ink)}
+
+.pr-lab{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.68rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-soft);margin:1rem 0 .2rem}
+.pr-optimise{margin:0;font-size:1.06rem;line-height:1.5;font-weight:600;max-width:40rem}
+.pr-arith{margin:0;font-size:.98rem;line-height:1.6;max-width:40rem;
+  font-variant-numeric:tabular-nums}
+.pr-moves{margin:.9rem 0 0;padding-left:1.3rem;max-width:40rem}
+.pr-moves li{margin:0 0 .45rem;line-height:1.55}
+
+/* Body toho, co stroji uniká. Nadpis bodu je věta k přečtení, ne
+   štítek — proto normální velikost písma a ne verzálky. */
+.pr-points{margin:.6rem 0 0}
+.pr-point{margin:0 0 1.1rem}
+.pr-point:last-child{margin-bottom:0}
+.pr-point-h{font-size:1.02rem;line-height:1.35;margin:0 0 .25rem}
+.pr-point-t{margin:0;line-height:1.6;max-width:40rem}
+
+/* --- jak je na tom tvoje země --- */
+.pr-yours-cta{margin:0;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.86rem}
+.pr-yours-cta a{display:inline-block;padding:.5rem .95rem;border:1px solid var(--accent);
+  border-radius:9px;color:var(--accent);text-decoration:none;
+  transition:background .12s,color .12s}
+.pr-yours-cta a:hover{background:var(--accent-soft)}
+.pr-yours-cta a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* --- odkud jsou čísla --- */
+.pr-srclist{margin:0;padding-left:1.2rem;font-size:.9rem;line-height:1.6;color:var(--ink-soft)}
+.pr-srclist li{margin:0 0 .35rem;overflow-wrap:anywhere}
+.pr-srclist a{color:var(--ink-soft);text-decoration:underline;text-underline-offset:3px}
+.pr-srclist a:hover{color:var(--accent)}
+
+/* --- co tahle stránka není --- */
+.pr-disclaimer{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.76rem;line-height:1.6;
+  color:var(--ink-soft);margin:2.4rem 0 3rem;padding-top:1rem;
+  border-top:1px solid var(--line);max-width:44rem}
+
+/* --- obsah rubriky --- */
+.pr-index .page-h1{font-size:clamp(1.7rem,3.8vw,2.5rem);line-height:1.12;letter-spacing:-.022em;
+  margin:2.2rem 0 .5rem}
+.pr-cards{list-style:none;display:grid;gap:.9rem;grid-template-columns:1fr;
+  margin:1.6rem 0 3rem;padding:0}
+.pr-card .body{padding:1rem 1.1rem 1.2rem}
+.pr-card-h{font-size:1.14rem;line-height:1.25;margin:0 0 .35rem}
+.pr-card-h a{text-decoration:none}
+.pr-card-h a:hover{color:var(--accent)}
+.pr-card-dek{margin:0 0 .6rem;color:var(--ink-soft);font-size:.94rem;line-height:1.5}
+.pr-card-measure{margin:0 0 .7rem;font-family:ui-sans-serif,system-ui,sans-serif;
+  font-size:.82rem;line-height:1.5;color:var(--ink-soft)}
+.pr-card-lab{display:block;font-size:.64rem;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--accent)}
+.pr-card-go{margin:0;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.76rem;
+  letter-spacing:.1em;text-transform:uppercase}
+.pr-card-go a{color:var(--accent);text-decoration:none}
+.pr-card-go a:hover{text-decoration:underline}
+.pr-none{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.85rem;line-height:1.6;
+  color:var(--ink-soft);margin:1.6rem 0 3rem;padding:.8rem 1rem;
+  border:1px dashed var(--line);border-radius:8px;background:var(--bg-soft);max-width:40rem}
+
+/* Od tabletu výš: ze žebříčku je zase tabulka a obsah rubriky se
+   složí do dvou sloupců. */
+@media (min-width:48rem){
+  .pr-board{display:table}
+  .pr-board caption{display:table-caption}
+  .pr-board thead{position:static;display:table-header-group;width:auto;height:auto;
+    margin:0;overflow:visible;clip:auto;clip-path:none}
+  .pr-board tbody{display:table-row-group}
+  .pr-board tbody tr{display:table-row;border:0;border-radius:0;background:none;
+    padding:0;margin:0}
+  .pr-board th,.pr-board td{display:table-cell;vertical-align:baseline;
+    border-top:1px solid var(--line);padding:.6rem .8rem .6rem 0}
+  .pr-board thead th{border-top:0;border-bottom:2px solid var(--ink);padding-bottom:.4rem;
+    font-size:.68rem;letter-spacing:.13em;text-transform:uppercase;color:var(--accent);
+    text-align:left}
+  .pr-board tbody th{font-size:.95rem;padding-right:1rem}
+  .pr-board tbody td{color:var(--ink)}
+  .pr-board tbody td::before{display:none}
+  .pr-board tbody td:last-child{color:var(--ink-soft);line-height:1.5}
+  .pr-cards{grid-template-columns:repeat(auto-fill,minmax(19rem,1fr))}
+}
+
+/* Kdo si vypnul pohyb, ať ho tady nepotká — karta se nenadzvedne
+   a tlačítko se nepřebarvuje plynule. */
+@media (prefers-reduced-motion:reduce){
+  .pr-card,.pr-yours-cta a{transition:none}
+  .pr-card:hover{transform:none}
+}

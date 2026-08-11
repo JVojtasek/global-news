@@ -1,0 +1,220 @@
+{% extends "base.html" %}
+{# =====================================================================
+   VELKÝ PROBLÉM — jedna stránka, jeden problém
+
+   Stránka má tvar hádky sama se sebou a to pořadí není náhodné:
+
+     1. titulek, jedna věta a datum, kdy někdo naposled ověřoval čísla
+     2. čím se to měří — jedno číslo, pojmenované a se zdrojem. Stojí
+        nahoře schválně, protože všechno pod ním se poměřuje proti němu.
+     3. kdo je na tom vážně nejlíp — žebříček podle toho jednoho čísla,
+        z každé země rovnou odkaz na její stránku.
+     4. co se opravdu zkusilo — skutečná země, skutečné opatření,
+        naměřený výsledek, háček a zdroj.
+     5. co by optimalizoval stroj — počet, ne rada.
+     6. co by stroji uniklo — kdo to zaplatí a co se do čísla nevejde.
+     7. jak je na tom tvoje země, 8. zdroje, 9. čím tahle stránka není.
+
+   PRAVIDLO, KTERÉ SE NEPORUŠUJE: bloky 5 a 6 jdou vždycky spolu.
+   Když na stránce chybí „co by stroji uniklo", nevypíše se ani „co by
+   optimalizoval stroj" — myšlenkový pokus bez vlastní kritiky je přesně
+   to, čemu se tahle rubrika vyhýbá. Proto jsou oba bloky psané jako
+   makra a volají se na jednom jediném místě níž.
+
+   Prázdný blok se nevypisuje vůbec. Nikdy nadpis, pod kterým nic není.
+   ===================================================================== #}
+{% block title %}{{ page.title }} — {{ brand }}{% endblock %}
+{% block description %}{{ page.dek or t.pr_intro }}{% endblock %}
+
+{# --- 5. CO BY OPTIMALIZOVAL STROJ ---------------------------------
+   Tinovaný panel s linkou po straně: na první pohled má být poznat, že
+   tady končí zpravodajství a začíná úvaha. Nahoře to říká i slovy
+   (`pr_machine_help`), ať to není jen barva. #}
+{% macro machine_block() %}
+{# `or {}` je pojistka pro případ, že stavba webu pošle slovník bez
+   celého klíče: chybějící klíč v Jinje vybouchne, prázdný se jen mlčí. #}
+{% set machine = page.machine or {} %}
+<section class="pr-sec pr-panel pr-machine" aria-labelledby="pr-machine-h">
+  <h2 class="pr-panel-h" id="pr-machine-h">{{ t.pr_machine }}</h2>
+  <p class="pr-help">{{ t.pr_machine_help }}</p>
+  {% if machine.optimise %}
+  <p class="pr-lab">{{ t.pr_optimise }}</p>
+  <p class="pr-optimise">{{ machine.optimise }}</p>
+  {% endif %}
+  {% if machine.moves %}
+  <ol class="pr-moves">
+    {% for move in machine.moves %}<li>{{ move }}</li>{% endfor %}
+  </ol>
+  {% endif %}
+  {% if machine.arithmetic %}
+  <p class="pr-lab">{{ t.pr_arith }}</p>
+  <p class="pr-arith">{{ machine.arithmetic }}</p>
+  {% endif %}
+</section>
+{% endmacro %}
+
+{# --- 6. CO BY STROJI UNIKLO ---------------------------------------
+   Stejný panel, stejná velikost písma, stejné odsazení jako u stroje —
+   jen druhá barva linky. Je to nejdůležitější blok stránky a nesmí
+   vypadat jako poznámka pod ním. #}
+{% macro blind_block() %}
+<section class="pr-sec pr-panel pr-blind" aria-labelledby="pr-blind-h">
+  <h2 class="pr-panel-h" id="pr-blind-h">{{ t.pr_blind }}</h2>
+  <p class="pr-help">{{ t.pr_blind_help }}</p>
+  <div class="pr-points">
+    {% for b in page.blind %}
+    <div class="pr-point">
+      {% if b.point %}<h3 class="pr-point-h">{{ b.point }}</h3>{% endif %}
+      {% if b.text %}<p class="pr-point-t">{{ b.text }}</p>{% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endmacro %}
+
+{% block body %}
+{# Totéž co v makru výš: stránka z engine/problems.py má vždycky všechny
+   klíče, ale ručně složený slovník je mít nemusí a šablona kvůli tomu
+   nemá spadnout. #}
+{% set measure = page.measure or {} %}
+{% set machine = page.machine or {} %}
+<div class="wide pr">
+
+  {# ---------- 1. hlavička ---------- #}
+  <header class="pr-head">
+    <h1 class="page-h1">{{ page.title }}</h1>
+    {% if page.dek %}<p class="dek pr-dek">{{ page.dek }}</p>{% endif %}
+    {% if page.updated %}
+    <p class="pr-updated">{{ t.pr_updated }}
+      <time datetime="{{ page.updated }}">{{ page.updated }}</time></p>
+    {% endif %}
+    <p class="pr-back"><a href="{{ base }}/{{ lang }}/problems/">{{ t.pr_all }}</a></p>
+  </header>
+
+  {# Úvod z těla souboru: dva tři odstavce o tom, co ten problém je.
+     Markdown se převádí už v engine/problems.py, sem chodí hotové HTML. #}
+  {% if page.body_html %}<div class="pr-intro">{{ page.body_html|safe }}</div>{% endif %}
+
+  {# ---------- 2. čím se to měří ---------- #}
+  {% if measure.name or measure.source or measure.url %}
+  <section class="pr-sec pr-measure">
+    <h2 class="pr-h">{{ t.pr_measure }}</h2>
+    <p class="pr-help">{{ t.pr_measure_help }}</p>
+    {% if measure.name %}
+    <p class="pr-measure-name">{{ measure.name }}{% if measure.unit %}
+      <span class="pr-unit">{{ measure.unit }}</span>{% endif %}</p>
+    {% endif %}
+    {% if measure.url %}
+    <p class="pr-src"><a href="{{ measure.url }}" rel="nofollow noopener" target="_blank">{{ measure.source or measure.url }}</a></p>
+    {% elif measure.source %}
+    <p class="pr-src">{{ measure.source }}</p>
+    {% endif %}
+  </section>
+  {% endif %}
+
+  {# ---------- 3. kdo je na tom vážně nejlíp ----------
+     Opravdová tabulka s popiskem, ne mřížka z divů: čte se i hlasovou
+     čtečkou a dá se zkopírovat. Na telefonu se řádky skládají pod sebe
+     a popisek sloupce si každá buňka nese s sebou v `data-label`, takže
+     se stránkou nikdy nejede vodorovné posouvání. #}
+  {% if page.board %}
+  <section class="pr-sec">
+    <h2 class="pr-h">{{ t.pr_board }}</h2>
+    <p class="pr-help">{{ t.pr_board_help }}</p>
+    <table class="pr-board">
+      <caption>{{ measure.name or t.pr_board }}</caption>
+      <thead>
+        <tr>
+          <th scope="col">{{ t.pr_board_country }}</th>
+          <th scope="col">{{ t.pr_board_value }}</th>
+          <th scope="col">{{ t.pr_board_note }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in page.board %}
+        <tr>
+          <th scope="row" data-label="{{ t.pr_board_country }}">
+            {%- if row.country_url %}<a href="{{ base }}/{{ lang }}/{{ row.country_url }}">{{ row.country_label }}</a>
+            {%- else %}{{ row.country_label }}{% endif -%}
+          </th>
+          <td data-label="{{ t.pr_board_value }}">{{ row.value }}</td>
+          <td data-label="{{ t.pr_board_note }}">{{ row.note }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </section>
+  {% endif %}
+
+  {# ---------- 4. co se opravdu zkusilo ---------- #}
+  {% if page.tried %}
+  <section class="pr-sec">
+    <h2 class="pr-h">{{ t.pr_tried }}</h2>
+    <p class="pr-help">{{ t.pr_tried_help }}</p>
+    <div class="pr-tried">
+      {% for row in page.tried %}
+      <article class="pr-try">
+        {% if row.country_label %}
+        <h3 class="pr-try-h">
+          {%- if row.country_url %}<a href="{{ base }}/{{ lang }}/{{ row.country_url }}">{{ row.country_label }}</a>
+          {%- else %}{{ row.country_label }}{% endif -%}
+        </h3>
+        {% endif %}
+        {% if row.what %}<p class="pr-what">{{ row.what }}</p>{% endif %}
+        {% if row.result %}<p class="pr-run"><b>{{ t.pr_result }}.</b> {{ row.result }}</p>{% endif %}
+        {% if row.caveat %}<p class="pr-run pr-caveat"><b>{{ t.pr_caveat }}.</b> {{ row.caveat }}</p>{% endif %}
+        {% if row.url %}
+        <p class="pr-src"><a href="{{ row.url }}" rel="nofollow noopener" target="_blank">{{ row.source or row.url }}</a></p>
+        {% elif row.source %}
+        <p class="pr-src">{{ row.source }}</p>
+        {% endif %}
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- 5. a 6. dvojice: stroj a to, co mu uniká ----------
+     Tady se to pravidlo z hlavičky souboru vykonává. Počet stroje se
+     vypíše JEN tehdy, když je k němu i jeho kritika. Naopak to platit
+     nemusí: „co by stroji uniklo" obstojí i samo. #}
+  {% set has_machine = machine.optimise or machine.arithmetic or machine.moves %}
+  {% if has_machine and page.blind %}
+  <div class="pr-pair">
+    {{ machine_block() }}
+    {{ blind_block() }}
+  </div>
+  {% elif page.blind %}
+  <div class="pr-pair">
+    {{ blind_block() }}
+  </div>
+  {% endif %}
+
+  {# ---------- 7. jak je na tom tvoje země ----------
+     Odkaz vede na rozcestník se zeměmi. Vybraná země žije v prohlížeči
+     čtenáře (static/reader.js) a sem se nikdy nedostane. #}
+  <section class="pr-sec pr-yours">
+    <h2 class="pr-h">{{ t.pr_yours }}</h2>
+    <p class="pr-yours-cta"><a href="{{ base }}/{{ lang }}/country/">{{ t.pr_yours_cta }}</a></p>
+  </section>
+
+  {# ---------- 8. odkud jsou čísla ---------- #}
+  {% if page.sources %}
+  <section class="pr-sec pr-sources">
+    <h2 class="pr-h">{{ t.pr_sources }}</h2>
+    <ul class="pr-srclist">
+      {% for s in page.sources %}
+      <li>
+        {%- if s.url %}<a href="{{ s.url }}" rel="nofollow noopener" target="_blank">{{ s.name }}</a>
+        {%- else %}{{ s.name }}{% endif -%}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {# ---------- 9. co tahle stránka není ---------- #}
+  <p class="pr-disclaimer">{{ t.pr_disclaimer }}</p>
+
+</div>
+{% endblock %}
