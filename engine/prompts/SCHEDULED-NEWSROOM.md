@@ -72,12 +72,37 @@ Read `engine/prompts/FORMAT.md` in full and follow it. In addition:
 - Add `tickers` or an existing relative `qma_path` only when QMA genuinely lets
   the reader inspect the article's market consequence. Never use “buy”, “sell”,
   “entry”, “target”, “signal” or promised-return language.
-- Do not create an image. The build obtains only licensed imagery or uses a
-  typographic cover.
+- Only slot 1 creates an original hero image. Follow the image contract below.
+  All other slots leave image selection to the build.
+
+## Editorial hero image — slot 1 only
+
+After the article itself passes the editorial self-audit, slot 1 invokes
+`$imagegen` exactly once and creates one original landscape hero image.
+
+- Use a 16:9 editorial composition, at least 1200 × 630 pixels, with no headline,
+  logo, watermark, brand, readable interface or decorative text in the image.
+- Base the visual on the article's central idea, not merely its section.
+- Never fabricate apparent photographic evidence. For politics, war, disasters,
+  crime, public figures, real people, real places or a current event, use a
+  clearly conceptual illustration rather than a photorealistic reconstruction.
+- Inspect the result for distorted faces or hands, false symbols, garbled text
+  and details that contradict the article. Reject a misleading image.
+- Convert the approved result to JPEG and store it as
+  `static/covers/<article-slug>.jpg`.
+- Store `static/covers/<article-slug>.json` beside it with exactly this shape:
+  `{"text":"AI-generated editorial illustration · OpenAI ChatGPT","url":"https://openai.com/index/chatgpt/","provider":"OpenAI","synthetic":true}`
+- Commit the Markdown article, JPEG cover and JSON disclosure atomically. Upload
+  the JPEG as a base64 Git blob, then create one tree and one commit containing
+  all three files. Never commit an orphaned cover or an article that refers to a
+  missing generated image.
+- If image generation is unavailable, reaches a usage limit or fails inspection,
+  publish the article without a generated cover. The existing licensed-image and
+  typographic-cover pipeline remains the safe fallback.
 
 ## Final self-audit before writing to GitHub
 
-Verify all six points. If any fails, revise or create no file:
+Verify all seven points. If any fails, revise or create no file:
 
 1. Every material number, name and date is supported by a listed source.
 2. Facts, interpretation and uncertainty are visibly separated.
@@ -85,7 +110,9 @@ Verify all six points. If any fails, revise or create no file:
 4. The word count fits the assigned range and no paragraph is a wall of text.
 5. The quiz answer is present in the article and its index is 0, 1 or 2.
 6. The target path is a new `content/inbox/YYYY-MM-DD-slot-N-slug.md` file.
+7. For slot 1, the cover is either disclosed and safe under the image contract,
+   or omitted so the deterministic fallback can run.
 
-The scheduled task writes only the new article or daily agenda requested by its
-role. It does not merge branches, change workflows, edit configuration, delete
-files or bypass the inbox checks.
+The scheduled task writes only the requested daily agenda, or the new article
+and its slot-1 cover companions. It does not merge branches, change workflows,
+edit configuration, delete files or bypass the inbox checks.
