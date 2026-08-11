@@ -259,16 +259,20 @@ AI_MOCK=1 python -m engine.write
 
 ## Obrázky
 
-Hledají se v tomhle pořadí a generativní AI mezi nimi schválně není:
+Hledají se v tomhle pořadí:
 
-1. `static/covers/<slug>.jpg` — obrázek, který jsi tam položil ty
+1. `static/covers/<slug>.jpg` — vlastní obrázek nebo jeden originální AI cover pro hlavní článek dne
 2. vlastní knihovna už jednou stažených obrázků
 3. **Openverse** — asi 800 milionů volně licencovaných fotografií
 4. **Wikimedia Commons** — mimo jiné celé klasické malířství
 5. typografická obálka — vždycky funguje
 
-Přijímají se jen licence public domain, CC0, CC BY a CC BY-SA a autor
-se vždy uvádí pod obrázkem.
+U cizích obrázků se přijímají jen licence public domain, CC0, CC BY a CC BY-SA
+a autor se vždy uvádí pod obrázkem. Vlastní AI cover smí vzniknout pouze pro
+slot 1 podle `engine/prompts/SCHEDULED-NEWSROOM.md`: nesmí předstírat
+fotografický důkaz skutečné události a vedle JPG musí mít stejnojmenný JSON
+s viditelným označením původu. Když generování selže, použije se licencovaný
+obrázek nebo typografická obálka.
 
 ## Sociální sítě
 

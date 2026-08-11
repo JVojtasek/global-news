@@ -1,12 +1,11 @@
 """Obálky článků — zdarma, vždy fungují, vždy vypadají stejně dobře.
 
-Nepoužíváme generativní AI obrázky. Důvod je praktický i estetický:
-generované obrázky stojí peníze, občas vypadají trapně a u zpravodajství
-jsou eticky sporné. Místo toho děláme typografické obálky s barvou
-odvozenou od rubriky — vypadá to jako záměr, ne jako nouzovka.
+Výchozí cesta používá licencované fotografie nebo typografické obálky.
+Jeden pečlivě zkontrolovaný a jasně označený generovaný cover je povolen
+pro hlavní článek dne podle engine/prompts/SCHEDULED-NEWSROOM.md.
 
-Kdo chce vlastní obrázek (třeba vygenerovaný v ChatGPT), stačí ho položit
-do static/covers/<slug>.jpg a systém ho automaticky použije místo obálky.
+Vlastní obrázek patří do static/covers/<slug>.jpg. Volitelný stejnojmenný
+JSON nese viditelný kredit nebo informaci o syntetickém původu.
 """
 from __future__ import annotations
 
@@ -134,11 +133,18 @@ def ensure(meta: dict) -> dict:
     cache = config.DATA / "covers" / f"{slug}.jpg"
     credits = config.DATA / "covers" / f"{slug}.json"
 
-    # 1) ruční obrázek, který jsi tam položil ty
+    # 1) vlastní obrázek; stejnojmenný JSON může nést kredit či AI disclosure
     manual = config.STATIC / "covers" / f"{slug}.jpg"
     if manual.exists():
         out.write_bytes(manual.read_bytes())
-        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None}
+        manual_credits = config.STATIC / "covers" / f"{slug}.json"
+        credit = None
+        if manual_credits.exists():
+            try:
+                credit = json.loads(manual_credits.read_text(encoding="utf-8"))
+            except (OSError, UnicodeDecodeError, json.JSONDecodeError):
+                credit = None
+        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": credit}
 
     # 2) obrázek stažený při některém dřívějším běhu
     if cache.exists():
