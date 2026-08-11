@@ -162,7 +162,10 @@ def run(limit: int | None = None) -> int:
             "lang": lang,
             "date": data["date"],
             "status": "published",
-            "confidence": 100,
+            # Převzetí z vlastního sesterského webu není nezávislý fact-check.
+            # Nula znamená „neskórováno“ a šablona proto neukáže zavádějící
+            # odznak 100/100. Ověřené vlastní články skóruje až redakční pipeline.
+            "confidence": 0,
             "image_query": " ".join(data["title"].split()[:5]),
             "origin": {
                 "name": cfg.get("name", "QMA"),
