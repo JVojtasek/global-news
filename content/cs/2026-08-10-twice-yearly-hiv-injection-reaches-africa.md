@@ -13,7 +13,7 @@ image_query: 'clinic nurse preparing injection'
 impact:
   areas: [health]
   line: >-
-    Tohle je zavádění v devíti afrických zemích, ne změna péče v Evropě:
+    Tohle je zavádění v devíti afrických zemích, jinde se péče zatím nemění:
     lenacapavir brání nákaze HIV dvěma injekcemi ročně a dodáno bylo 191 620
     dávek. Generikum za zhruba 40 dolarů ročně se do 120 zemí dostane až od roku
     2027.

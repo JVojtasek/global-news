@@ -1,0 +1,658 @@
+# =====================================================================
+#  ZEMĚ — podklad pro stránku „Co to znamená pro mou zemi"
+#
+#  Čtenář si vybere zemi, ve které žije, a dostane poslední dva týdny
+#  zpráv, které se jí opravdu týkají — i těch, které se o ní vůbec
+#  nezmiňují, ale stejně na ni dolehnou (přes Evropskou unii, přes
+#  obchodního partnera, nebo prostě proto, že jde o celý svět).
+#  Skládá to engine/countries.py, výběr čtenáře zůstane v prohlížeči.
+#
+#  ---------------------------------------------------------------
+#  PRAVIDLO ČÍSLO JEDNA PRO SEZNAM `match`
+#  ---------------------------------------------------------------
+#  Do `match` patří jenom slova, která nemůžou znamenat nic jiného.
+#  Špatně zařazená zpráva je horší než zpráva, která nikam nedolehla:
+#  když se recept na „French toast" objeví na stránce Francie, čtenář
+#  přestane věřit i těm zprávám, které tam patří právem.
+#
+#  Proto tu schválně nenajdeš „Turkey" (krocan), „Polish" (leštit),
+#  „Spanish" (jazyk), „Indian" (Indický oceán, američtí Indiáni),
+#  „Greek" a „Egyptian" (starověk) ani „Sofia" (křestní jméno).
+#  Když si u nějakého slova nejsi jistý, nedávej ho tam. Jméno země
+#  samo se hledá vždycky a to na většinu zpráv bohatě stačí.
+#
+#  ---------------------------------------------------------------
+#  JAK PŘIDAT ZEMI
+#  ---------------------------------------------------------------
+#  Zkopíruj kterýkoli záznam níž a přepiš ho. Potřebuje sedm řádků:
+#
+#    code      dvě písmena podle ISO 3166-1 (malými) — udělá se z něj
+#              adresa stránky /country/ie/
+#    en, cs    jméno anglicky a česky
+#    cs_for    český tvar do nadpisu „Co to znamená pro …" (4. pád):
+#              Německo → Německo, ale Francie → Francii
+#    eu        true u členů Evropské unie — jen ti dostanou zprávy
+#              označené jako rozhodnutí pro celou unii
+#    partners  nejbližší obchodní partneři (jejich kódy z tohohle
+#              seznamu). Přes ně sem dolehne zpráva odjinud: když
+#              Německo zdraží energii, pocítí to i Česko.
+#    match     čím se země pozná v textu — kromě jména výše
+#
+#  Dvě věci o `match`, ať to hledá, jak má:
+#
+#    en:  hledá se celé slovo. Když je v zadání velké písmeno, hledá
+#         se přesně tak — „Polish" tedy není „polish".
+#    cs:  hledá se začátek slova a na velikost písmen se nehledí.
+#         Čeština skloňuje, takže se píšou kmeny: „irsk" najde Irsko,
+#         Irska, v Irsku i irský. Kmen ale musí být takový, aby nesedl
+#         na nic jiného — „oslo" by našlo „oslovování" a „prah" by našlo
+#         „na prahu". Když si nejsi jistý, napiš radši celé tvary.
+#         Česká slova se hledají jen v českých textech — v anglickém
+#         by „Indie" našlo indie rock.
+#
+#    avoid  (nepovinné) — spojení, ve kterých to slovo znamená něco
+#           jiného a nepočítá se: „Paris Agreement" je o klimatu,
+#           ne o Francii, „New Mexico" je stát USA a „US$1,500" je cena.
+#           Tady stačí začátek spojení: „Danish pastry" zabere i na
+#           „Danish pastries".
+#
+#  POZOR na Norsko: `no` musí být v uvozovkách. YAML by z něj jinak
+#  udělal „ne" a Norsko by ze seznamu tiše zmizelo.
+# =====================================================================
+
+countries:
+
+  # ------------------------------------------------------------------
+  #  ČLENSKÉ ZEMĚ EVROPSKÉ UNIE
+  # ------------------------------------------------------------------
+  - code: at
+    en: Austria
+    cs: Rakousko
+    cs_for: Rakousko
+    eu: true
+    partners: [de, it, cz]
+    match:
+      en: [Austrian, Vienna]
+      cs: [rakous, vídeň, vídn]
+
+  - code: be
+    en: Belgium
+    cs: Belgie
+    cs_for: Belgii
+    eu: true
+    partners: [de, nl, fr]
+    match:
+      # „Brussels" tu schválně není. V devíti případech z deseti to
+      # v novinách znamená Evropskou unii, ne Belgii.
+      en: [Belgian, Antwerp]
+      cs: [belgi, antverp]
+
+  - code: bg
+    en: Bulgaria
+    cs: Bulharsko
+    cs_for: Bulharsko
+    eu: true
+    partners: [de, ro, gr, tr]
+    match:
+      # Sofia je i běžné křestní jméno, proto tu hlavní město chybí.
+      en: [Bulgarian]
+      cs: [bulhar]
+
+  - code: hr
+    en: Croatia
+    cs: Chorvatsko
+    cs_for: Chorvatsko
+    eu: true
+    partners: [de, it, si]
+    match:
+      en: [Croatian, Zagreb]
+      cs: [chorvat, záhřeb]
+
+  - code: cy
+    en: Cyprus
+    cs: Kypr
+    cs_for: Kypr
+    eu: true
+    partners: [gr, gb, il]
+    match:
+      en: [Cypriot, Nicosia]
+      cs: [kypr, kypersk, nikósi]
+
+  - code: cz
+    en: Czechia
+    cs: Česko
+    cs_for: Česko
+    eu: true
+    partners: [de, sk, pl]
+    match:
+      en: [Czech, Prague]
+      # „prah" tu být nemůže — sedělo by na „na prahu" i „prahnout".
+      cs: [česk, praha, prahy, praze, prahou, pražsk]
+
+  - code: dk
+    en: Denmark
+    cs: Dánsko
+    cs_for: Dánsko
+    eu: true
+    partners: [de, se, gb]
+    match:
+      en: [Danish, Copenhagen, Folketing]
+      cs: [dánsk, kodaň]
+    avoid:
+      en: [Danish pastry]
+
+  - code: ee
+    en: Estonia
+    cs: Estonsko
+    cs_for: Estonsko
+    eu: true
+    partners: [fi, se, lv]
+    match:
+      en: [Estonian, Tallinn]
+      cs: [eston, tallinn]
+
+  - code: fi
+    en: Finland
+    cs: Finsko
+    cs_for: Finsko
+    eu: true
+    partners: [de, se, us]
+    match:
+      en: [Finnish, Helsinki]
+      cs: [finsk, helsin]
+
+  - code: fr
+    en: France
+    cs: Francie
+    cs_for: Francii
+    eu: true
+    partners: [de, it, es, be]
+    match:
+      en: [French, Paris, Élysée]
+      # „franci" tu být nemůže — sedělo by na „San Francisco".
+      cs: [francie, francii, francií, francouzsk, paříž]
+    avoid:
+      # Pařížská dohoda je o klimatu, ne o Francii. Zbytek je jídlo.
+      en: [Paris Agreement, Paris Accord, Paris climate, French fries,
+           French toast, French press, French bulldog]
+      cs: [pařížská dohod, pařížské dohod, francouzsk hranolk]
+
+  - code: de
+    en: Germany
+    cs: Německo
+    cs_for: Německo
+    eu: true
+    partners: [us, fr, nl, cn]
+    match:
+      en: [German, Berlin, Bundestag, Bundesbank]
+      cs: [německ, berlín, spolkový sněm]
+    avoid:
+      en: [German shepherd]
+      cs: [německý ovčák, německého ovčák]
+
+  - code: gr
+    en: Greece
+    cs: Řecko
+    cs_for: Řecko
+    eu: true
+    partners: [it, de, bg, cy]
+    match:
+      # „Greek" ani „Athens" tu nejsou schválně: v článcích o filozofii
+      # a starověku se to slovo objevuje pořád a se současným Řeckem
+      # nemá nic společného.
+      en: [Hellenic, Greek government]
+      cs: [řecká vlád]
+
+  - code: hu
+    en: Hungary
+    cs: Maďarsko
+    cs_for: Maďarsko
+    eu: true
+    partners: [de, at, sk]
+    match:
+      en: [Hungarian, Budapest]
+      cs: [maďar, budapeš]
+
+  - code: ie
+    en: Ireland
+    cs: Irsko
+    cs_for: Irsko
+    eu: true
+    partners: [us, gb, de]
+    match:
+      en: [Irish, Dublin, Taoiseach, Dáil]
+      cs: [irsk, dublin]
+    avoid:
+      # Severní Irsko je Spojené království, ne Irsko.
+      en: [Northern Ireland, Northern Irish]
+      cs: [severní irsk, severního irsk]
+
+  - code: it
+    en: Italy
+    cs: Itálie
+    cs_for: Itálii
+    eu: true
+    partners: [de, fr, us]
+    match:
+      # „Rome" a „Roman" tu nejsou — to je většinou starověk.
+      en: [Italian, Milan, Palazzo Chigi]
+      cs: [itáli, italsk, milán]
+
+  - code: lv
+    en: Latvia
+    cs: Lotyšsko
+    cs_for: Lotyšsko
+    eu: true
+    partners: [lt, ee, de]
+    match:
+      en: [Latvian, Riga]
+      cs: [lotyš, riga, rize]
+
+  - code: lt
+    en: Lithuania
+    cs: Litva
+    cs_for: Litvu
+    eu: true
+    partners: [pl, lv, de]
+    match:
+      en: [Lithuanian, Vilnius]
+      cs: [litva, litvy, litvě, litvou, litevsk, vilnius]
+
+  - code: lu
+    en: Luxembourg
+    cs: Lucembursko
+    cs_for: Lucembursko
+    eu: true
+    partners: [de, be, fr]
+    match:
+      en: [Luxembourgish]
+      cs: [lucembur]
+
+  - code: mt
+    en: Malta
+    cs: Malta
+    cs_for: Maltu
+    eu: true
+    partners: [it, gb, de]
+    match:
+      # „Maltese" je taky plemeno psa, proto tu není.
+      en: [Valletta]
+      cs: [malt, valletta]
+
+  - code: nl
+    en: Netherlands
+    cs: Nizozemsko
+    cs_for: Nizozemsko
+    en_the: true   # anglicky s členem: „the United States"
+    eu: true
+    partners: [de, be, gb]
+    match:
+      # „The Hague" tu není: sídlí tam mezinárodní soudy a zprávy
+      # o nich nejsou o Nizozemsku.
+      en: [Dutch, Amsterdam, Rotterdam]
+      cs: [nizozem, holandsk, amsterdam, amsterodam]
+    avoid:
+      en: [Dutch oven, going Dutch, Dutch courage, Dutch auction,
+           Pennsylvania Dutch]
+
+  - code: pl
+    en: Poland
+    cs: Polsko
+    cs_for: Polsko
+    eu: true
+    partners: [de, cz, fr]
+    match:
+      # Anglické „Polish" je i sloveso (leštit), proto tu chybí.
+      # Česky je „polsk" jednoznačné, tam problém není.
+      en: [Warsaw, Sejm]
+      cs: [polsk, varšav]
+
+  - code: pt
+    en: Portugal
+    cs: Portugalsko
+    cs_for: Portugalsko
+    eu: true
+    partners: [es, fr, de]
+    match:
+      # „Portuguese" znamená v článcích o Brazílii jazyk, ne zemi.
+      en: [Lisbon]
+      cs: [portugal, lisabon]
+
+  - code: ro
+    en: Romania
+    cs: Rumunsko
+    cs_for: Rumunsko
+    eu: true
+    partners: [de, it, hu]
+    match:
+      en: [Romanian, Bucharest]
+      cs: [rumun, bukureš]
+
+  - code: sk
+    en: Slovakia
+    cs: Slovensko
+    cs_for: Slovensko
+    eu: true
+    partners: [de, cz, pl]
+    match:
+      en: [Slovak, Bratislava]
+      cs: [slovensk, bratislav]
+
+  - code: si
+    en: Slovenia
+    cs: Slovinsko
+    cs_for: Slovinsko
+    eu: true
+    partners: [de, it, at, hr]
+    match:
+      en: [Slovenian, Slovene, Ljubljana]
+      cs: [slovinsk, lublaň]
+
+  - code: es
+    en: Spain
+    cs: Španělsko
+    cs_for: Španělsko
+    eu: true
+    partners: [fr, de, pt, it]
+    match:
+      # „Spanish" v našich textech skoro vždycky znamená jazyk
+      # v Latinské Americe, ne Španělsko.
+      en: [Madrid, Barcelona, Moncloa]
+      cs: [španělsk, madrid, barcelon]
+
+  - code: se
+    en: Sweden
+    cs: Švédsko
+    cs_for: Švédsko
+    eu: true
+    partners: [de, "no", us, dk]
+    match:
+      en: [Swedish, Stockholm, Riksdag]
+      cs: [švédsk, stockholm]
+    avoid:
+      en: [Stockholm syndrome]
+      cs: [stockholmský syndrom, stockholmského syndrom]
+
+  # ------------------------------------------------------------------
+  #  ANGLICKY MLUVÍCÍ ZEMĚ MIMO UNII
+  # ------------------------------------------------------------------
+  - code: gb
+    en: United Kingdom
+    cs: Spojené království
+    cs_for: Spojené království
+    en_the: true   # anglicky s členem: „the United States"
+    eu: false
+    partners: [us, de, ie, nl]
+    match:
+      en: [British, Britain, London, Westminster, Downing Street,
+           Northern Ireland, NHS]
+      cs: [britsk, británi, londýn, westminster, downing street]
+    avoid:
+      # Britská Kolumbie je Kanada.
+      en: [British Columbia]
+      cs: [britská kolumbi, britské kolumbi]
+
+  - code: us
+    en: United States
+    cs: Spojené státy
+    cs_for: Spojené státy
+    en_the: true   # anglicky s členem: „the United States"
+    eu: false
+    partners: [ca, mx, cn, de]
+    match:
+      # „American" tu není: „Latin American" a „African American"
+      # jsou o něčem jiném.
+      en: [U.S., US, Washington, White House, Federal Reserve,
+           Capitol Hill, Medicare, Medicaid]
+      cs: [americk, spojených stát, spojené stát, spojenými stát,
+           washington, bílý dům, bílého domu]
+    avoid:
+      # „US$1,500" je cena v dolarech, ne zpráva o Americe. Píše se tak
+      # v textech o kdejaké zemi.
+      en: ["US$"]
+
+  - code: ca
+    en: Canada
+    cs: Kanada
+    cs_for: Kanadu
+    eu: false
+    partners: [us, cn, mx]
+    match:
+      en: [Canadian, Ottawa, Toronto, Vancouver, Quebec]
+      cs: [kanad, ottaw, toront, québec, quebec, vancouver]
+
+  - code: au
+    en: Australia
+    cs: Austrálie
+    cs_for: Austrálii
+    eu: false
+    partners: [cn, jp, us, kr]
+    match:
+      en: [Australian, Canberra, Sydney, Melbourne]
+      cs: [austráli, australsk, canberr, sydney, melbourne]
+
+  - code: nz
+    en: New Zealand
+    cs: Nový Zéland
+    cs_for: Nový Zéland
+    eu: false
+    partners: [cn, au, us]
+    match:
+      # „Wellington" tu není — hovězí Wellington a holínky.
+      en: [New Zealander, Auckland, Aotearoa]
+      cs: [zéland, novozéland, aucklan, aotearo]
+
+  - code: za
+    en: South Africa
+    cs: Jihoafrická republika
+    cs_for: Jihoafrickou republiku
+    eu: false
+    partners: [cn, de, us, gb]
+    match:
+      en: [South African, Johannesburg, Cape Town, Pretoria]
+      cs: [jihoafrick, johannesbur, kapské měst, kapského měst, pretori]
+
+  # ------------------------------------------------------------------
+  #  OSTATNÍ EVROPA
+  # ------------------------------------------------------------------
+  - code: ch
+    en: Switzerland
+    cs: Švýcarsko
+    cs_for: Švýcarsko
+    eu: false
+    partners: [de, us, it, fr]
+    match:
+      # Ženeva tu není: sídlí tam WHO i OSN a „Geneva Convention"
+      # je o válce kdekoli na světě.
+      en: [Swiss, Zurich, Bern]
+      cs: [švýcar, curych]
+
+  - code: "no"
+    en: Norway
+    cs: Norsko
+    cs_for: Norsko
+    eu: false
+    partners: [gb, de, se, nl]
+    match:
+      # České „oslo" tu není: sedělo by i na „oslovování". Anglické
+      # „Oslo" s velkým O je bezpečné a najde se i v českém textu.
+      en: [Norwegian, Oslo, Storting]
+      cs: [norsk]
+
+  - code: is
+    en: Iceland
+    cs: Island
+    cs_for: Island
+    eu: false
+    partners: [nl, gb, "no", de]
+    match:
+      en: [Icelandic, Reykjavik, Reykjavík]
+      cs: [islandsk, island, reykjavík, reykjavik]
+    avoid:
+      cs: [long island, rhode island, coney island, staten island]
+
+  - code: ua
+    en: Ukraine
+    cs: Ukrajina
+    cs_for: Ukrajinu
+    eu: false
+    partners: [pl, tr, de, cn]
+    match:
+      en: [Ukrainian, Kyiv, Kiev]
+      cs: [ukrajin, kyjev]
+
+  - code: tr
+    # Oficiální jméno země je od roku 2022 Türkiye. Používáme ho
+    # i proto, že „Turkey" je v angličtině krocan.
+    en: Türkiye
+    cs: Turecko
+    cs_for: Turecko
+    eu: false
+    partners: [de, gb, it, us]
+    match:
+      en: [Turkish, Ankara, Istanbul]
+      cs: [tureck, ankar, istanbul]
+
+  - code: rs
+    en: Serbia
+    cs: Srbsko
+    cs_for: Srbsko
+    eu: false
+    partners: [de, it, hu, cn]
+    match:
+      en: [Serbian, Belgrade]
+      cs: [srbsk, bělehrad]
+
+  # ------------------------------------------------------------------
+  #  ZBYTEK SVĚTA
+  # ------------------------------------------------------------------
+  - code: jp
+    en: Japan
+    cs: Japonsko
+    cs_for: Japonsko
+    eu: false
+    partners: [us, cn, kr, au]
+    match:
+      en: [Japanese, Tokyo]
+      cs: [japon, tokio, tokij]
+
+  - code: in
+    en: India
+    cs: Indie
+    cs_for: Indii
+    eu: false
+    partners: [us, cn, sg, gb]
+    match:
+      # „Indian" znamená i Indický oceán a americké původní obyvatele.
+      en: [New Delhi, Mumbai, Bengaluru, Lok Sabha]
+      cs: [indick, indie, indii, indií, dillí, bombaj]
+
+  - code: cn
+    en: China
+    cs: Čína
+    cs_for: Čínu
+    eu: false
+    partners: [us, jp, kr, de]
+    match:
+      en: [Chinese, Beijing, Shanghai]
+      cs: [čín, peking, šanghaj]
+
+  - code: br
+    en: Brazil
+    cs: Brazílie
+    cs_for: Brazílii
+    eu: false
+    partners: [cn, us, de]
+    match:
+      en: [Brazilian, Brasília, Brasilia, São Paulo, Sao Paulo,
+           Rio de Janeiro]
+      cs: [brazíli, brazilsk, são paulo, sao paulo, rio de janeir]
+
+  - code: kr
+    en: South Korea
+    cs: Jižní Korea
+    cs_for: Jižní Koreu
+    eu: false
+    partners: [cn, us, jp]
+    match:
+      # Samotné „Korean" ani „Seoul" ne: první je i Severní Korea,
+      # druhé se v češtině plete se soulovou hudbou.
+      en: [South Korean, Seoul]
+      cs: [jihokorejsk, jižní kore]
+
+  - code: mx
+    en: Mexico
+    cs: Mexiko
+    cs_for: Mexiko
+    eu: false
+    partners: [us, cn, ca]
+    match:
+      en: [Mexican, Mexico City]
+      cs: [mexick, mexiko, mexika, mexiku]
+    avoid:
+      # Nové Mexiko je stát USA.
+      en: [New Mexico]
+      cs: [nové mexiko, nového mexika, novém mexiku]
+
+  - code: il
+    en: Israel
+    cs: Izrael
+    cs_for: Izrael
+    eu: false
+    partners: [us, cn, de]
+    match:
+      # Jeruzalém tu není: v článcích o dějinách a o Bibli se objevuje
+      # pořád a se současným státem nemá co dělat.
+      en: [Israeli, Tel Aviv, Knesset]
+      cs: [izrael]
+    avoid:
+      en: [ancient Israel, children of Israel, people of Israel,
+           land of Israel, tribes of Israel, Israel and Judah]
+      cs: [starověký izrael, starověkého izrael, synové izraele,
+           lid izraele, izraelský lid]
+
+  - code: eg
+    en: Egypt
+    cs: Egypt
+    cs_for: Egypt
+    eu: false
+    partners: [cn, us, tr, it]
+    match:
+      # „Egyptian" je skoro vždycky starověk. Káhira je středověká,
+      # ta je bezpečná.
+      en: [Cairo]
+      cs: [káhir]
+    avoid:
+      en: [ancient Egypt]
+      cs: [starý egypt, starého egypt, starém egypt,
+           starověký egypt, starověkého egypt, starověkém egypt]
+
+  - code: ng
+    en: Nigeria
+    cs: Nigérie
+    cs_for: Nigérii
+    eu: false
+    partners: [in, cn, us, nl]
+    match:
+      en: [Nigerian, Abuja, Lagos]
+      cs: [nigerijsk, nigéri, abuj, lagos]
+
+  - code: ke
+    en: Kenya
+    cs: Keňa
+    cs_for: Keňu
+    eu: false
+    partners: [cn, in, gb, us]
+    match:
+      en: [Kenyan, Nairobi]
+      cs: [keň, keni, nairobi]
+
+  - code: sg
+    en: Singapore
+    cs: Singapur
+    cs_for: Singapur
+    eu: false
+    partners: [cn, us, in, jp]
+    match:
+      en: [Singaporean]
+      cs: [singapur]

@@ -120,9 +120,15 @@ impact:
 
 Pravidla, ktera se neporusuji:
 
-  - Nikdy si dopad nevymysli. Kdyz pro ctenare v Evrope zprava nemeni nic,
+  - Nikdy si dopad nevymysli. Kdyz zprava pro ctenare nemeni nic,
     napis to primo — „Denne se tim pro vas nemeni nic; podstatne je, ze…"
     Prave tahle poctivost je smysl te rubriky.
+  - **`line` a `todo` pis bez domovske zeme.** Tenhle radek se od ted
+    ukazuje na padesati strankach „Co to znamena pro mou zemi" — od
+    Irska po Singapur. „Pro ctenare v Evrope to nic nemeni" je na
+    americke strance nesmysl. Pis „Vetsine ctenaru to nic nemeni",
+    „Kdo nezije v Cine, tomu…", „Jinde se zatim nic nemeni". Konkretni
+    zemi jmenuj jen tehdy, kdyz je opravdu ta, o kterou jde.
   - `line` nejvyse 45 slov, konkretne, bez „mohlo by potencialne".
     Pojmenuj, koho se to tyka.
   - `todo` nejvyse 30 slov a **nikdy** to neni lekarska, pravni ani
@@ -194,6 +200,39 @@ Pravidla prekladu:
   - `origin` a `sources` nech beze zmeny — odkaz vede na puvodni vydani
 
 Nejvyse pet prekladu za smenu, od nejnovejsich. Zbytek pocka na zitra.
+
+## 4d. V SOBOTU: PŘEČTI SOBOTNÍ VYDÁNÍ (jen v sobotu)
+
+V sobotu vychází **sobotní vydání** — týden složený z článků, které už
+vyšly. Skládá ho `engine/weekend.py` sám při stavbě webu a je to jediná
+stránka na webu, která **končí**: čtenář ji u kávy dočte a je hotový.
+
+Tvoje sobotní práce navíc je jedna jediná: **přečíst ho celé jako čtenář**
+a posoudit, jestli to drží pohromadě. Otevři `public/en/weekend/` a
+`public/cs/weekend/` a projdi:
+
+  - dává „Týden v pěti minutách" smysl jako celek, nebo je to pět
+    nesouvisejících střepů?
+  - je dlouhé čtení opravdu nejlepší text toho týdne?
+  - platí praktické dopady i po týdnu, nebo je něco už překonané?
+  - neopakuje se jedna zpráva ve dvou sekcích?
+  - zmáčkni Ctrl+P: vypadá tisk jako noviny, které bys nechal na stole?
+
+**Do vydání nesmíš napsat ani větu.** Žádný úvodník, žádné propojovací
+odstavce, žádné shrnutí týdne od tebe. Všechno, co je tam vidět, je text,
+který už jednou prošel faktcheckem a vyšel — a přesně proto se tomu dá
+věřit. Nová věta napsaná rovnou do vydání by kontrolou neprošla nikdy.
+
+**Pořadí měnit smíš**, ale vždycky u zdrojového článku, ne ve vydání.
+Pořadí se řídí (v tomhle sledu) typem článku, `confidence`, počtem zdrojů
+a délkou. Když je nahoře něco slabšího, oprav to v hlavičce toho článku
+a web se přestaví. Do „pěti minut" se dostane jen text s vrstvou
+`## BRIEFLY`, do dlouhého čtení jen `type: daily` nebo `feature`
+s vrstvou `## DEEPER`.
+
+Když nějaká sekce chybí, **je to v pořádku a nedoplňuje se**. Prázdná
+sekce se vynechá sama a to je záměr — nikdy nepiš článek jen proto, aby
+se sobotní vydání zaplnilo. To je stejná chyba jako plnit rubriku kvótou.
 
 ## 5. ABSOLUTNÍ ZÁKAZY
 

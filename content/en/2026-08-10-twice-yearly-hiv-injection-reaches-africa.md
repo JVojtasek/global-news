@@ -13,8 +13,8 @@ image_query: 'clinic nurse preparing injection'
 impact:
   areas: [health]
   line: >-
-    This is a rollout in nine African countries, not a change to care in Europe:
-    lenacapavir prevents HIV with two injections a year, and 191,620 doses have
+    This is a rollout in nine African countries, not a change to care anywhere
+    else yet: lenacapavir prevents HIV with two injections a year, and 191,620 doses have
     been delivered. The generic, at about USD 40 a year, reaches 120 countries
     from 2027.
   todo: >-

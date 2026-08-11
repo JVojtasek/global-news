@@ -38,7 +38,7 @@
 <meta name="twitter:description" content="{{ self.description() }}">
 {% endif %}
 {% if home_jsonld %}<script type="application/ld+json">{{ home_jsonld|safe }}</script>{% endif %}
-{% if page_type == "404" %}<meta name="robots" content="noindex">{% endif %}
+{% if page_type == "404" or noindex %}<meta name="robots" content="noindex">{% endif %}
 {# Mapová knihovna se stahuje z unpkg.com, a jen na stránce s počasím.
    Jinde by to bylo spojení navíc pro nic. #}
 {% if page_type == "weather" %}<link rel="dns-prefetch" href="https://unpkg.com">{% endif %}
@@ -67,6 +67,10 @@
       <a class="nav-you" href="{{ base }}/{{ lang }}/foryou/">{{ t.foryou }}</a>
       {% for s in sections %}<a href="{{ base }}/{{ lang }}/{{ s.id }}/" {% if s.id == current_section %}class="on"{% endif %}>{{ s[lang] or s.en }}</a>{% endfor %}
       <a href="{{ base }}/{{ lang }}/impact/">{{ t.imp_link }}</a>
+      {# Odkaz vede na rozcestník se zeměmi. Když si čtenář zemi vybral,
+         reader.js ho přepíše rovnou na ni — proto ta základní adresa
+         v data-land-base. Bez skriptu zůstane, jak je. #}
+      <a class="nav-land" href="{{ base }}/{{ lang }}/country/" data-land-base="{{ base }}/{{ lang }}/country/">{{ t.co_nav }}</a>
       <a href="{{ base }}/{{ lang }}/weather/">{{ t.weather_title }}</a>
     </nav>
   </div>
@@ -305,7 +309,10 @@ function tdsTheme(){
   "brakeOk": t.reader_brake_ok,
   "brakeAlt": t.reader_brake_alt,
   "obStep": t.ob_step,
-  "picked": t.picked
+  "picked": t.picked,
+  "coSaved": t.co_saved,
+  "coChange": t.co_change,
+  "coPick": t.co_pick
 }|tojson }};</script>
 <script src="{{ base }}/reader.js" defer></script>
 {%- if page_type == "archive" %}

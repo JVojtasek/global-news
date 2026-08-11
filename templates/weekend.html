@@ -1,0 +1,175 @@
+{% extends "base.html" %}
+{# =====================================================================
+   SOBOTNÍ VYDÁNÍ — týden, který skončí.
+
+   Stránka má jedno pravidlo, které se neporušuje: **musí skončit.**
+   Žádné donačítání, žádné „další články", žádné související texty pod
+   čarou. Poslední věc na stránce je závěrečné slovo — a pak už nic.
+
+   Druhé pravidlo: musí se dát vytisknout. Tisková podoba je ve
+   static/style.css v bloku @media print — dva sloupce, bez obrázků
+   kromě jednoho, bez menu a bez patičky, se sekcemi, které se
+   nerozlomí uprostřed věty.
+
+   Nic z toho, co je tady vidět, se tady nepíše. Všechno jsou vrstvy
+   článků, které už vyšly (engine/weekend.py).
+   ===================================================================== #}
+{% block title %}{{ t.wk_title }} — {{ t.wk_issue % ed.no }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.wk_intro }} {{ ed_range }}.{% endblock %}
+{% block body %}
+<article class="wk-edition">
+
+  {# ---------- hlavička vydání ---------- #}
+  <header class="wk-mast">
+    <div class="wrap">
+      <div class="wk-mast-brand">{{ brand }}</div>
+      <h1 class="wk-mast-title">{{ t.wk_kicker }}</h1>
+      <div class="wk-mast-line">
+        <span class="wk-mast-issue">{{ t.wk_issue % ed.no }}</span>
+        <span class="wk-mast-range">{{ ed_range }}</span>
+      </div>
+      <p class="wk-mast-dek">{{ t.wk_intro }}</p>
+      {% if not ed.closed %}<p class="wk-open">{{ t.wk_open % ed_close }}</p>{% endif %}
+      <div class="wk-tools wk-noprint">
+        <button type="button" class="wk-print" onclick="window.print()">{{ t.wk_print }}</button>
+        <a class="wk-past" href="{{ base }}/{{ lang }}/weekend/archive/">{{ t.wk_past }}</a>
+      </div>
+    </div>
+  </header>
+
+  {# ---------- 1. týden v pěti minutách ----------
+     Vrstva BRIEFLY, celá a beze změny. Je psaná tak, aby obstála sama
+     za sebe — proto se sem dá přenést, aniž by čtenáři něco chybělo. #}
+  {% if ed.briefly %}
+  <section class="wk-sec wk-five">
+    <div class="wrap">
+      <h2 class="wk-h">{{ t.wk_five }}</h2>
+      <p class="wk-help">{{ t.wk_five_help }}</p>
+      <ol class="wk-flow wk-five-list">
+        {% for it in ed.briefly %}
+        <li class="wk-item">
+          <div class="wk-kicker">{{ it.a.section_label }} · <time datetime="{{ it.a.published_iso }}">{{ it.a.date|datewords(lang) }}</time></div>
+          <h3 class="wk-item-h"><a href="{{ it.a.url }}">{{ it.a.title }}</a></h3>
+          <div class="wk-brief">{{ it.html|safe }}</div>
+          <p class="wk-more wk-noprint"><a href="{{ it.a.url }}">{{ t.wk_read }}</a></p>
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- 2. dlouhé čtení ----------
+     Jediný obrázek v celém vydání. V tisku je taky jediný, který se
+     vytiskne — ostatní by jen spolykaly inkoust. #}
+  {% if ed.long %}
+  <section class="wk-sec wk-long">
+    <div class="wrap">
+      <h2 class="wk-h">{{ t.wk_long }}</h2>
+      <div class="wk-kicker">{{ ed.long.a.section_label }} · <time datetime="{{ ed.long.a.published_iso }}">{{ ed.long.a.date|datewords(lang) }}</time>{% if ed.long.a.reading_time %} · {{ ed.long.a.reading_time }} min{% endif %}</div>
+      <h3 class="wk-long-h"><a href="{{ ed.long.a.url }}">{{ ed.long.a.title }}</a></h3>
+      {% if ed.long.a.dek %}<p class="wk-long-dek">{{ ed.long.a.dek }}</p>{% endif %}
+      {% if ed.long.a.image %}
+      <figure class="wk-long-fig">
+        <img src="{{ ed.long.a.image }}" alt=""{% if ed.long.a.img_w and ed.long.a.img_h %} width="{{ ed.long.a.img_w }}" height="{{ ed.long.a.img_h }}"{% endif %} loading="lazy" decoding="async">
+        {% if ed.long.a.credit %}<figcaption>{{ ed.long.a.credit.text }} · <a href="{{ ed.long.a.credit.url }}" rel="nofollow noopener" target="_blank">{{ ed.long.a.credit.provider }}</a></figcaption>{% endif %}
+      </figure>
+      {% endif %}
+      <div class="wk-flow wk-deeper">{{ ed.long.html|safe }}</div>
+      <p class="wk-more"><a href="{{ ed.long.a.url }}" data-url="{{ site_url }}{{ ed.long.a.url }}">{{ t.wk_long_more }}</a></p>
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- 3. co to znamenalo pro tebe ---------- #}
+  {% if ed.impact %}
+  <section class="wk-sec wk-impact">
+    <div class="wrap">
+      <h2 class="wk-h">{{ t.wk_impact }}</h2>
+      <p class="wk-help">{{ t.wk_impact_help }}</p>
+      <div class="wk-flow wk-areas">
+        {% for g in ed.impact %}
+        <section class="wk-area">
+          <h3 class="wk-area-h" data-area="{{ g.area }}">{{ t.imp_areas[g.area] }}</h3>
+          <ul class="wk-area-list">
+            {% for a in g.articles %}
+            <li class="wk-item">
+              <a class="wk-area-t" href="{{ a.url }}">{{ a.title }}</a>
+              <p class="imp-line">{{ a.impact.line }}</p>
+              {% if a.impact.todo %}<p class="imp-todo"><b>{{ t.imp_todo }}.</b> {{ a.impact.todo }}</p>{% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- 4. dobré zprávy ---------- #}
+  {% if ed.good %}
+  <section class="wk-sec wk-good">
+    <div class="wrap">
+      <h2 class="wk-h">{{ t.wk_good }}</h2>
+      <ul class="wk-flow wk-good-list">
+        {% for a in ed.good %}
+        <li class="wk-item">
+          <h3 class="wk-item-h"><a href="{{ a.url }}">{{ a.title }}</a></h3>
+          {% if a.dek %}<p class="wk-good-dek">{{ a.dek }}</p>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- 5. k zamyšlení ---------- #}
+  {% if ed.reflect or thought %}
+  <section class="wk-sec wk-sit">
+    <div class="wrap">
+      <h2 class="wk-h">{{ t.wk_sit }}</h2>
+      {% if ed.reflect %}
+      <div class="wk-reflect">{{ ed.reflect.html|safe }}</div>
+      <p class="wk-from">{{ t.wk_sit_from }} <a href="{{ ed.reflect.a.url }}">{{ ed.reflect.a.title }}</a></p>
+      {% endif %}
+      {% if thought %}
+      <figure class="wk-quote">
+        <blockquote>{{ thought.text }}</blockquote>
+        <figcaption>— {{ thought.author }}</figcaption>
+      </figure>
+      {% endif %}
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- 6. poslední slovo ---------- #}
+  {% if wit %}
+  <section class="wk-sec wk-wit">
+    <div class="wrap">
+      <h2 class="wk-h">{{ t.wit_title }}</h2>
+      <figure class="wk-quote">
+        <blockquote>{{ wit.text }}</blockquote>
+        <figcaption>— {{ wit.author }}</figcaption>
+      </figure>
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- 7. konec ----------
+     Poslední prvek na stránce. Za ním už nesmí přijít nic — ani odkazy,
+     ani doporučené články, ani nabídka dalšího čtení. Právě tím se tyhle
+     noviny liší od všeho ostatního. #}
+  <footer class="wk-end">
+    <div class="wrap">
+      <p class="wk-end-h">{{ t.wk_end }}</p>
+      <p class="wk-end-body">{{ t.wk_end_body }}</p>
+      <p class="wk-next">{% if ed.closed %}{{ t.wk_next % ed_next }}{% else %}{{ t.wk_next_open % ed_close }}{% endif %}</p>
+      {% if mem.enabled %}
+      <p class="wk-join">{{ t.wk_join }} <a href="{{ base }}/{{ lang }}/members/" data-url="{{ site_url }}{{ base }}/{{ lang }}/members/">{{ t.mem_link }}</a></p>
+      {% endif %}
+    </div>
+  </footer>
+
+</article>
+{% endblock %}

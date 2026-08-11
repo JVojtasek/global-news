@@ -13,7 +13,7 @@ image_query: When Chinese parents outsource control over
 impact:
   areas: [health, safety]
   line: >-
-    Do evropské domácnosti tohle přímo nedosáhne. Zajímavé je to tím, jak
+    Kdo nežije v Číně, tomu to doma přímo nic nemění. Zajímavé je to tím, jak
     funguje nálepka: „závislost na internetu“ v klasifikaci ICD-11 není, a v
     Číně přesto stačila k tomu, aby soukromá firma placená rodinou zavřela
     dospělou, právně samostatnou ženu.

@@ -13,7 +13,7 @@ image_query: Palestinians are being locked out of
 impact:
   areas: [money, life]
   line: >-
-    Čtenáři v Evropě to na běžném dni nic nemění. Týká se vás to, když tam
+    Většině čtenářů to na běžném dni nic nemění. Týká se vás to, když tam
     někoho najímáte nebo mu platíte: Palestinci na Západním břehu a v Gaze
     nemůžou používat PayPal, Gaza jede hlavně na 2G a 81 % její telekomunikační
     sítě je zničeno.

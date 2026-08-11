@@ -1,0 +1,192 @@
+{% extends "base.html" %}
+{# =====================================================================
+   CO TO ZNAMENÁ PRO MOU ZEMI
+
+   Čtenář si vybere zemi, ve které žije, a dostane poslední dva týdny
+   zpráv, které k ní opravdu dolehnou — rovnou i s tím, co mění pro
+   peníze, zdraví, běžný život a bezpečí.
+
+   Stránka má dvě podoby. S `country` je to titulní strana jedné země,
+   bez ní rozcestník se seznamem zemí. Vybraná země žije jen v prohlížeči
+   (static/reader.js, klíč `land`) — sem se nikdy nedostane a stránka je
+   pro každého stejná.
+
+   Pořadí bloků je schválně tohle: nejdřív zprávy, které tu zemi jmenují,
+   pak ty, co na ni dolehnou zvenčí, a nakonec ty, u kterých neumíme
+   poctivě říct, co mění. Poslední blok tu je právě proto, abychom
+   nedělali, že víme víc, než víme.
+   ===================================================================== #}
+{% block title %}{% if country %}{{ t.co_title % country.label_for }}{% else %}{{ t.co_pick_title }}{% endif %} — {{ brand }}{% endblock %}
+{% block description %}{% if country %}{{ t.co_title % country.label_for }}{% if window_label %} · {{ t.co_window % window_label }}{% endif %}{% else %}{{ t.co_intro }}{% endif %}{% endblock %}
+
+{# Mřížka zemí. Je potřeba dvakrát — na rozcestníku a na stránce země,
+   ke které zatím nic nemáme, kde je to jediné, co má čtenáři ještě co
+   nabídnout. Proto stojí na jednom místě.
+
+   Odkazy nesou `data-code` a `data-count`, aby si je reader.js poznal.
+   Bez skriptu funguje mřížka přesně tak, jak přišla ze serveru. #}
+{% macro land_grid() %}
+{% set open = countries|selectattr("count")|list %}
+{% set quiet = countries|rejectattr("count")|list %}
+<section class="land-pick" id="land-pick">
+
+  {# Uložená země. Nadpis i seznam jsou schované a prázdné; naplní je
+     reader.js, když si čtenář zemi vybral. Bez skriptu nevyskočí. #}
+  <h2 class="land-h" id="land-saved-h" hidden>{{ t.co_saved }}</h2>
+  <ul class="land-grid land-mine" id="land-saved" hidden></ul>
+
+  {% if open %}
+  <h2 class="land-h">{{ t.co_all }}</h2>
+  <ul class="land-grid">
+    {% for c in open %}
+    <li><a class="land-a" href="{{ base }}/{{ lang }}/country/{{ c.code }}/"
+           data-code="{{ c.code }}" data-count="{{ c.count }}" data-label="{{ c.label }}">
+      <span class="land-name">{{ c.label }}</span>
+      <span class="land-n">{{ c.count }}</span>
+    </a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {# Země, ke kterým za dva týdny nic není. Ztlumené, ale vidět —
+     poctivější než země, která ze seznamu zmizí a čtenář neví proč. #}
+  {% if quiet %}
+  <ul class="land-grid land-quiet">
+    {% for c in quiet %}
+    <li><a class="land-a" href="{{ base }}/{{ lang }}/country/{{ c.code }}/"
+           data-code="{{ c.code }}" data-count="{{ c.count }}" data-label="{{ c.label }}">
+      <span class="land-name">{{ c.label }}</span>
+      <span class="land-n">{{ c.count }}</span>
+    </a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  <p class="land-help land-all-help">{{ t.co_all_help }}</p>
+</section>
+{% endmacro %}
+
+{# Jedna zpráva s dopadem. Titulek je odkaz, ale hlavní věta je ta pod
+   ním: kvůli ní sem čtenář přišel, tak stojí výš než perex — a perex se
+   u těchhle karet vůbec nevypisuje.
+
+   `pic` = pustit k článku i náhledový obrázek (jen u přímých zpráv).
+   `why` = řádek navíc, proč zpráva dolehne až sem (jen u těch zvenčí). #}
+{% macro land_item(a, pic=false, why="") %}
+{%- set imp = a.impact or {} %}
+<article class="land-item{% if pic and a.image %} land-pic{% endif %}">
+  {% if pic and a.image %}
+  {# Obrázek je jenom ozdoba: prázdný alt, a odkaz kolem něj se nedá
+     zaostřit — vede tam co titulek vedle a dvakrát týž odkaz je pro
+     hlasovou čtečku jen šum. #}
+  <a class="land-thumb" href="{{ a.url }}" tabindex="-1" aria-hidden="true"><img src="{{ a.image }}" alt=""{% if a.img_w and a.img_h %} width="{{ a.img_w }}" height="{{ a.img_h }}"{% endif %} loading="lazy" decoding="async"></a>
+  {% endif %}
+  <div class="land-body">
+    {% if imp.areas %}
+    <div class="imp-areas">
+      {% for ar in imp.areas %}<span class="imp-tag imp-{{ ar }}">{{ t.imp_areas[ar] }}</span>{% endfor %}
+    </div>
+    {% endif %}
+    <h3 class="land-t"><a href="{{ a.url }}">{{ a.title }}</a></h3>
+    {% if imp.line %}<p class="imp-line land-line">{{ imp.line }}</p>{% endif %}
+    {% if why %}<p class="land-why"><b>{{ t.co_why }}:</b> {{ why }}</p>{% endif %}
+    {% if imp.todo %}<p class="imp-todo"><b>{{ t.co_todo }}.</b> {{ imp.todo }}</p>{% endif %}
+    <div class="imp-meta">{{ a.section_label }} · <time datetime="{{ a.published_iso }}">{{ a.published_label or a.date }}</time></div>
+  </div>
+</article>
+{% endmacro %}
+
+{% block body %}
+{% if country %}
+{# ---------------------------------------------- titulní strana země #}
+<div class="wide land" data-country="{{ country.code }}" data-country-label="{{ country.label }}">
+
+  <div class="land-head">
+    <h1 class="page-h1">{{ t.co_title % country.label_for }}</h1>
+    <p class="dek land-dek">{% if window_label %}{{ t.co_window % window_label }} · {% endif %}{{ count_label }}</p>
+    <p class="land-change"><a href="{{ base }}/{{ lang }}/country/">{{ t.co_change }}</a></p>
+  </div>
+
+  {% if country.count %}
+
+  {% if country.thin %}<p class="land-thin">{{ t.co_thin }}</p>{% endif %}
+
+  {% if country.areas %}
+  <section class="land-sec land-areas">
+    <h2 class="land-h">{{ t.co_areas_here }}</h2>
+    <div class="imp-areas">
+      {% for ar in country.areas %}<span class="imp-tag imp-{{ ar }}">{{ t.imp_areas[ar] }}</span>{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- zprávy, které tu zemi jmenují ---------- #}
+  {% if country.direct %}
+  <section class="land-sec">
+    <h2 class="land-h">{{ t.co_direct }}</h2>
+    <p class="land-help">{{ t.co_direct_help }}</p>
+    <div class="land-list">
+      {% for a in country.direct %}{{ land_item(a, true) }}{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- dolehne to sem zvenčí ---------- #}
+  {% if country.ripple %}
+  <section class="land-sec">
+    <h2 class="land-h">{{ t.co_ripple }}</h2>
+    <p class="land-help">{{ t.co_ripple_help }}</p>
+    <div class="land-list">
+      {% for r in country.ripple %}
+      {#- Důvod je slovní spojení, ne věta — proto za popiskem dvojtečka
+          a ne tečka. U obchodního partnera se za něj em pomlčkou připojí
+          jeho jméno, a jen tehdy, když ho stavba webu opravdu poslala. #}
+      {%- set why = {"eu": t.co_reason_eu, "global": t.co_reason_global,
+                     "partner": t.co_reason_partner}.get(r.reason) or "" %}
+      {%- if why and r.reason == "partner" and r.via_label %}
+      {%- set why = why ~ " — " ~ r.via_label %}
+      {%- endif %}
+      {{- land_item(r.a, false, why) }}
+      {%- endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {# ---------- taky odtud ----------
+     Zprávy, u kterých neumíme poctivě říct, co mění. Nic než titulek,
+     perex a rubrika — dopad si sem nevymyslíme. #}
+  {% if country.plain %}
+  <section class="land-sec">
+    <h2 class="land-h">{{ t.co_no_impact }}</h2>
+    <p class="land-help">{{ t.co_no_impact_help }}</p>
+    <div class="land-plain">
+      {% for a in country.plain %}
+      <article class="land-flat">
+        <h3 class="land-t"><a href="{{ a.url }}">{{ a.title }}</a></h3>
+        {% if a.dek %}<p class="land-fdek">{{ a.dek }}</p>{% endif %}
+        <div class="imp-meta">{{ a.section_label }} · <time datetime="{{ a.published_iso }}">{{ a.published_label or a.date }}</time></div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% else %}
+  {# K téhle zemi zatím nic nemáme. Radši to řekneme, než abychom
+     stránku něčím vycpali — a necháme čtenáře vybrat si jinou. #}
+  <p class="land-none">{{ t.co_none }}</p>
+  {% if countries %}{{ land_grid() }}{% endif %}
+  {% endif %}
+
+</div>
+
+{% else %}
+{# ------------------------------------------------------- rozcestník #}
+<div class="wide land">
+  <h1 class="page-h1">{{ t.co_pick_title }}</h1>
+  <p class="dek land-dek">{{ t.co_intro }}</p>
+  <p class="land-priv">{{ t.co_pick_help }}</p>
+  {% if countries %}{{ land_grid() }}{% endif %}
+</div>
+{% endif %}
+{% endblock %}

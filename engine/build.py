@@ -14,7 +14,8 @@ import xml.sax.saxutils as sx
 import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import analyst, article, config, images, impact, interests, members, quotes, reader
+from . import analyst, article, config, countries, images, impact, interests, members, quotes, reader
+from . import weekend
 from . import seo as indexnow          # `seo` je uvnitř run() nastavení z site.yml
 
 # Jazyk stránky pro sdílení na sítích. Web píše britskou angličtinou,
@@ -192,6 +193,75 @@ Write to {email}. We answer.""",
         "imp_areas": {"money": "Money", "health": "Health", "life": "Everyday life", "safety": "Safety"},
         "imp_filter": "Show only",
         "imp_all": "Everything",
+        # --- sobotní vydání (engine/weekend.py) ---
+        # --- co to znamená pro mou zemi (engine/countries.py) ---
+        "co_nav": "My country",
+        "co_link": "What it means for my country",
+        "co_title": "What it means for %s",
+        "co_pick_title": "What it means for my country",
+        "co_intro": "Pick the country you live in. You get the last two weeks of "
+                    "news that actually reaches it — what it changes for money, "
+                    "health, everyday life and safety, and what you can do about it.",
+        "co_pick": "Choose your country",
+        "co_pick_help": "Your choice stays in this browser. We never learn it.",
+        "co_change": "Change country",
+        "co_window": "Stories from %s",
+        "co_direct": "Named directly",
+        "co_direct_help": "These stories are about this country.",
+        "co_ripple": "Reaches you from outside",
+        "co_ripple_help": "Not about this country, but it lands here anyway — through "
+                          "the EU, a trading partner, or simply because it is worldwide.",
+        "co_why": "Why this reaches you",
+        "co_todo": "What you can do",
+        "co_none": "Nothing from the last two weeks touches this country yet. "
+                   "That happens, and we would rather say so than pad the page.",
+        "co_thin": "Only a few stories so far. The page fills up as the fortnight goes on.",
+        "co_all": "All countries",
+        "co_all_help": "Every country we watch. The number says how many stories from the last two weeks reach it — a nought means nothing did, and the page says so plainly.",
+        "co_areas_here": "What it touches here",
+        "co_saved": "Saved on this device",
+        "co_no_impact": "Also from here",
+        "co_no_impact_help": "We could not honestly say what these change for you, "
+                             "so we say nothing and let you read them yourself.",
+        "co_eu": "European Union",
+        "co_reason_eu": "an EU-wide decision",
+        "co_reason_global": "a worldwide story",
+        "co_reason_partner": "a close trading partner",
+        "co_reason_named": "this country is named in it",
+        "wk_nav": "Saturday edition",
+        "wk_kicker": "Saturday edition",
+        "wk_title": "The Saturday edition",
+        "wk_intro": "The week, finished. Read it with your coffee and you are done — "
+                    "there is nothing underneath.",
+        "wk_issue": "Issue %d",
+        "wk_print": "Print this edition",
+        "wk_past": "Past editions",
+        "wk_open": "This issue is still being set. It closes on %s — everything already "
+                   "on this page is finished and will not change.",
+        "wk_five": "The week in five minutes",
+        "wk_five_help": "Every summary here was written to stand on its own. Read only "
+                        "these and you are still in the picture.",
+        "wk_long": "The long read",
+        "wk_long_more": "Read the whole piece",
+        "wk_impact": "What it meant for you",
+        "wk_impact_help": "Not what happened — what it changed, and what you can do about it.",
+        "wk_good": "Good news",
+        "wk_sit": "Something to sit with",
+        "wk_sit_from": "The questions come from",
+        "wk_read": "Read in full",
+        "wk_end": "That is the end of the edition.",
+        "wk_end_body": "Nothing follows this line. No more to scroll, nothing else to open. "
+                       "You have read the week, and that was the whole idea.",
+        "wk_next": "The next edition comes out on %s. Until then the paper comes out every "
+                   "morning, as it always does.",
+        "wk_next_open": "This issue closes on %s. Until then the paper comes out every "
+                        "morning, as it always does.",
+        "wk_join": "There is no advertising here and there never will be. If you would like "
+                   "the paper to carry on, you can become a member.",
+        "wk_archive_title": "Every Saturday edition",
+        "wk_archive_intro": "Each issue is finished and stays exactly as it was. Nothing is "
+                            "ever added to an old edition.",
+        "wk_redirect": "Opening the newest edition…",
         "partners_title": "Worth reading",
         "archive_title": "Everything we have published",
         "archive_intro": "Every article, oldest kept as carefully as newest. Nothing here is ever quietly deleted — if we correct something, the correction stays visible on the piece itself.",
@@ -439,6 +509,74 @@ Pište na {email}. Odpovídáme.""",
         "imp_areas": {"money": "Peníze", "health": "Zdraví", "life": "Běžný život", "safety": "Bezpečí"},
         "imp_filter": "Zobrazit jen",
         "imp_all": "Všechno",
+        # --- sobotní vydání (engine/weekend.py) ---
+        # --- co to znamená pro mou zemi (engine/countries.py) ---
+        "co_nav": "Moje země",
+        "co_link": "Co to znamená pro mou zemi",
+        "co_title": "Co to znamená pro %s",
+        "co_pick_title": "Co to znamená pro mou zemi",
+        "co_intro": "Vyber zemi, ve které žiješ. Dostaneš poslední dva týdny zpráv, "
+                    "které se jí opravdu týkají — co mění pro peníze, zdraví, běžný "
+                    "život a bezpečí a co se s tím dá dělat.",
+        "co_pick": "Vyber si zemi",
+        "co_pick_help": "Výběr zůstane v tomhle prohlížeči. My se ho nedozvíme.",
+        "co_change": "Změnit zemi",
+        "co_window": "Zprávy z období %s",
+        "co_direct": "Přímo o téhle zemi",
+        "co_direct_help": "Tyhle zprávy jsou o téhle zemi.",
+        "co_ripple": "Dolehne to sem zvenčí",
+        "co_ripple_help": "Není to o téhle zemi, ale stejně to sem dopadne — přes "
+                          "Evropskou unii, obchodního partnera, nebo prostě proto, "
+                          "že jde o celosvětovou věc.",
+        "co_why": "Proč se to týká i tebe",
+        "co_todo": "Co s tím můžeš udělat",
+        "co_none": "Za poslední dva týdny se téhle země nedotklo nic. Stává se to "
+                   "a radši to řekneme, než abychom stránku něčím vycpali.",
+        "co_thin": "Zatím jen pár zpráv. Stránka se plní, jak dva týdny ubíhají.",
+        "co_all": "Všechny země",
+        "co_all_help": "Všechny země, které sledujeme. Číslo říká, kolik zpráv z posledních dvou týdnů se jí týká — nula znamená, že žádná, a stránka to rovnou napíše.",
+        "co_areas_here": "Čeho se to tady dotýká",
+        "co_saved": "Uloženo v tomhle zařízení",
+        "co_no_impact": "Taky odtud",
+        "co_no_impact_help": "U těchhle zpráv neumíme poctivě říct, co mění pro tebe. "
+                             "Tak radši nic nepíšeme a necháme je na tobě.",
+        "co_eu": "Evropská unie",
+        "co_reason_eu": "rozhodnutí pro celou Evropskou unii",
+        "co_reason_global": "celosvětová věc",
+        "co_reason_partner": "blízký obchodní partner",
+        "co_reason_named": "je v ní ta země přímo jmenovaná",
+        "wk_nav": "Sobotní vydání",
+        "wk_kicker": "Sobotní vydání",
+        "wk_title": "Sobotní vydání",
+        "wk_intro": "Týden, který skončil. Přečteš u kávy a máš hotovo — pod tím už nic není.",
+        "wk_issue": "Číslo %d",
+        "wk_print": "Vytisknout vydání",
+        "wk_past": "Starší vydání",
+        "wk_open": "Tohle číslo se ještě sází. Uzavře se %s — co už na stránce je, "
+                   "je hotové a měnit se nebude.",
+        "wk_five": "Týden v pěti minutách",
+        "wk_five_help": "Každé shrnutí je psané tak, aby obstálo samo za sebe. Když přečteš "
+                        "jenom je, pořád víš, co se dělo.",
+        "wk_long": "Dlouhé čtení",
+        "wk_long_more": "Přečíst celý článek",
+        "wk_impact": "Co to znamenalo pro tebe",
+        "wk_impact_help": "Ne co se stalo, ale co se tím mění a co s tím můžeš udělat.",
+        "wk_good": "Dobré zprávy",
+        "wk_sit": "K zamyšlení",
+        "wk_sit_from": "Otázky jsou z článku",
+        "wk_read": "Číst celé",
+        "wk_end": "A to je konec vydání.",
+        "wk_end_body": "Pod tímhle řádkem už nic není. Není kam rolovat ani na co kliknout. "
+                       "Přečetl jsi celý týden a přesně o to šlo.",
+        "wk_next": "Příští vydání vyjde %s. Do té doby vycházejí noviny každé ráno jako vždycky.",
+        "wk_next_open": "Tohle číslo se uzavře %s. Do té doby vycházejí noviny každé ráno "
+                        "jako vždycky.",
+        "wk_join": "Reklama tu není a nebude. Jestli chceš, aby noviny mohly vycházet dál, "
+                   "můžeš se stát členem.",
+        "wk_archive_title": "Všechna sobotní vydání",
+        "wk_archive_intro": "Každé číslo je hotové a zůstává přesně takové, jaké bylo. "
+                            "Do starého vydání se nikdy nic nedopisuje.",
+        "wk_redirect": "Otevírám nejnovější vydání…",
         "partners_title": "Stojí za přečtení",
         "archive_title": "Všechno, co jsme vydali",
         "archive_intro": "Každý článek, o ty starší se staráme stejně jako o nové. Nic tady potichu nemizí — když něco opravíme, oprava zůstane vidět přímo u textu.",
@@ -635,6 +773,9 @@ def _view(meta: dict, body: str, path=None) -> dict:
         "topics_csv": ",".join(w["topics"]),
         "tags_csv": ",".join(interests.tags(meta, body)),
         "impact": impact.read(meta, body),
+        # Které země se v textu jmenují a jak daleko ta zpráva dosáhne.
+        # Počítá se tady, protože jinde už není po ruce celý text.
+        "countries": countries.detect(meta, body),
         "published_iso": _published_iso(meta, path),
         "published_label": _published_label(meta, path, lang),
         "body_html": body_html,
@@ -820,10 +961,44 @@ def _privacy_note(text: str, site: dict, t: dict) -> str:
     return f"{text}\n\n{note}\n"
 
 
+_ABC = {"á": "a", "č": "c", "ď": "d", "é": "e", "ě": "e", "í": "i", "ň": "n",
+        "ó": "o", "ř": "r", "š": "s", "ť": "t", "ú": "u", "ů": "u", "ý": "y",
+        "ž": "z", "ä": "a", "ö": "o", "ü": "u", "ß": "ss", "å": "a", "ø": "o",
+        "æ": "ae", "ł": "l", "ç": "c", "ñ": "n", "ğ": "g", "ı": "i", "ş": "s"}
+
+
+def _abc(name: str) -> str:
+    """Řadicí klíč pro jména zemí — háčky a čárky se pro řazení sundají.
+
+    Čeština by chtěla vlastní abecedu (ch mezi h a i), ale na seznam
+    padesáti zemí stačí tohle: Česko před Čínou, Řecko u R, Švédsko u S.
+    """
+    return "".join(_ABC.get(ch, ch) for ch in name.lower())
+
+
 def _count_label(n: int, t: dict) -> str:
     """„7 článků", ale „3 články" a „1 článek". Angličtina má tvary dva."""
     key = "count_one" if n == 1 else "count_few" if 2 <= n <= 4 else "count_many"
     return t[key] % n
+
+
+def _weekend_archive_html(issues: list, t: dict, lang: str) -> str:
+    """Přehled sobotních vydání — od nejnovějšího po první číslo.
+
+    Je to obyčejný seznam, ne další noviny: čtenář sem chodí najít jedno
+    konkrétní vydání a odejít. Proto tady nejsou perexy ani obrázky.
+    """
+    esc, bp = _html_mod.escape, config.base_path()
+    rows = []
+    for ed in issues:
+        rows.append(
+            f'<li><a href="{bp}/{lang}/weekend/{ed["no"]}/">'
+            f'{esc(t["wk_issue"] % ed["no"])}</a> '
+            f'<span class="wk-arch-range">{esc(_range_words(ed["start"], ed["end"], lang))}</span> '
+            f'<span class="wk-arch-count">{esc(_count_label(ed["count"], t))}</span></li>'
+        )
+    return (f'<p class="dek">{esc(t["wk_archive_intro"])}</p>'
+            f'<ol class="wk-arch">{"".join(rows)}</ol>')
 
 
 HUB_MIN = 3          # míň než tři články rozcestník nepotřebuje
@@ -978,6 +1153,46 @@ def _date_label(lang: str) -> str:
     return f"{days[d.weekday()]}, {d.day} {months[d.month - 1]} {d.year}"
 
 
+# „v sobotu", ne „Sobota". Čeština má u dne v týdnu po předložce jiný
+# tvar a věta „Příští vydání vyjde Sobota 22. srpna" by byla patvar.
+_CS_DAY_IN = ["v pondělí", "v úterý", "ve středu", "ve čtvrtek",
+              "v pátek", "v sobotu", "v neděli"]
+
+
+def _day_words(iso: str, lang: str) -> str:
+    """'2026-08-22' → 'Saturday, 22 August' / 'v sobotu 22. srpna'."""
+    try:
+        d = dt.date.fromisoformat(str(iso)[:10])
+    except (TypeError, ValueError):
+        return ""
+    if lang == "cs":
+        return f"{_CS_DAY_IN[d.weekday()]} {_date_words(iso, lang)}"
+    days = DAYS.get(lang, DAYS["en"])
+    return f"{days[d.weekday()]}, {_date_words(iso, lang)}"
+
+
+def _range_words(start: str, end: str, lang: str) -> str:
+    """Rozsah dnů, který vydání pokrývá — tak, jak by ho napsal člověk.
+
+    '9–15 August 2026', přes přelom měsíce '28 July – 3 August 2026'.
+    Česky '9.–15. srpna 2026' a '28. července – 3. srpna 2026'.
+    """
+    try:
+        a = dt.date.fromisoformat(str(start)[:10])
+        b = dt.date.fromisoformat(str(end)[:10])
+    except (TypeError, ValueError):
+        return ""
+    months = MONTHS.get(lang, MONTHS["en"])
+    if a.year == b.year and a.month == b.month:
+        if lang == "cs":
+            return f"{a.day}.–{b.day}. {months[b.month - 1]} {b.year}"
+        return f"{a.day}–{b.day} {months[b.month - 1]} {b.year}"
+    left = _date_words(a.isoformat(), lang)
+    if a.year != b.year:
+        left = f"{left} {a.year}"
+    return f"{left} – {_date_words(b.isoformat(), lang)} {b.year}"
+
+
 def _write(path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")
@@ -995,6 +1210,9 @@ def run() -> None:
         loader=FileSystemLoader(str(config.TEMPLATES)),
         autoescape=select_autoescape(["html"]),
     )
+    # '2026-08-10'|datewords('cs') → '10. srpna'. V sobotním vydání se
+    # datum píše slovy: '2026-08-10' vypadá jako výpis z databáze.
+    env.filters["datewords"] = _date_words
 
     langs = [site["languages"]["master"], *site["languages"]["translations"]]
     today = dt.date.today().isoformat()
@@ -1017,10 +1235,16 @@ def run() -> None:
         arts = [_view(m, b, pth) for m, b, st, pth in published if st != "members"]
         arts.sort(key=lambda a: (a["date"], a["slug"]), reverse=True)
         hubs = _hubs(arts, lang, site) if (site.get("seo_plus") or {}).get("topic_hubs") else []
+        # Sobotní vydání — týden složený z toho, co už vyšlo. Skládá se
+        # tady, ještě před stavbou stránek, protože z něj vede odkaz
+        # v menu a hlavička každé stránky potřebuje vědět, jestli vůbec
+        # nějaké vydání existuje. Podrobně: engine/weekend.py.
+        issues = weekend.plan(arts, lang=lang, today=today)
         everything[lang] = {
             "published": published, "arts": arts, "hubs": hubs,
             "slugs": {f"{a['section']}/{a['slug']}/" for a in arts},
             "hub_ids": {h["id"] for h in hubs},
+            "issues": issues, "issue_nos": {i["no"] for i in issues},
         }
 
     def langs_with_article(a: dict) -> list:
@@ -1031,6 +1255,15 @@ def run() -> None:
     def langs_with_hub(hub_id: str) -> list:
         """Jazyky, ve kterých má rozcestník dost článků, aby vznikl."""
         return [l for l in langs if hub_id in everything[l]["hub_ids"]]
+
+    def langs_with_issue(no: int) -> list:
+        """Jazyky, ve kterých se to číslo sobotního vydání postavilo.
+
+        Česká verze se skládá výhradně z českých článků. Když jich za ten
+        týden nebylo dost, číslo česky prostě nevyjde — a odkaz na
+        neexistující stránku se do hlavičky nedostane.
+        """
+        return [l for l in langs if no in everything[l]["issue_nos"]]
 
     for lang in langs:
         t = STRINGS.get(lang, STRINGS["en"])
@@ -1051,6 +1284,16 @@ def run() -> None:
 
         filled = {a["section"] for a in arts}
         nav = [s for s in site["sections"] if s.get("primary") or s["id"] in filled]
+
+        # Sobotní vydání jako první položka menu — je to to jediné na
+        # webu, co má konec, a stojí za to, aby ho čtenář našel hned.
+        # Odkaz míří rovnou na aktuální číslo, ne na /weekend/: ta adresa
+        # jen přesměrovává a čtenář by čekal na jedno načtení navíc.
+        # Když se ten týden vydání nepostavilo, není v menu vůbec nic.
+        issues = everything[lang]["issues"]
+        if issues:
+            nav = [{"id": f"weekend/{issues[0]['no']}",
+                    "en": STRINGS["en"]["wk_nav"], "cs": STRINGS["cs"]["wk_nav"]}, *nav]
 
         common = dict(
             lang=lang, brand=brand, tagline=tagline, t=t,
@@ -1074,7 +1317,7 @@ def run() -> None:
             analytics=site.get("analytics") or {},
             og_locale=LOCALES.get(lang, "en_GB"), og_locales=LOCALES,
             # výchozí hodnoty, které si každá stránka přepíše přes page()
-            canonical="", alt_path="", page_type="page", home_jsonld="",
+            canonical="", alt_path="", page_type="page", home_jsonld="", noindex=False,
             alt_langs=langs,
         )
 
@@ -1177,6 +1420,45 @@ def run() -> None:
                        thought=quotes.thought(),
                        **page(f"{s['id']}/", "section", current_section=s["id"])))
 
+        # --- sobotní vydání ---------------------------------------------
+        # Poskládané je už z první části běhu (engine/weekend.py), tady
+        # se z něj dělají stránky. Každé číslo má vlastní trvalou adresu
+        # /weekend/<číslo>/ a stará čísla se staví znovu při každé stavbě
+        # webu — vždycky vyjdou stejně, protože se skládají z článků,
+        # které se nemění.
+        for ed in issues:
+            _write(out / lang / "weekend" / str(ed["no"]) / "index.html",
+                   env.get_template("weekend.html").render(
+                       ed=ed,
+                       ed_range=_range_words(ed["start"], ed["end"], lang),
+                       ed_close=_day_words(ed["date"], lang),
+                       ed_next=_day_words(ed["next"], lang),
+                       thought=quotes.thought(),
+                       **page(f"weekend/{ed['no']}/", "weekend",
+                              current_section=f"weekend/{ed['no']}",
+                              alt_langs=langs_with_issue(ed["no"]))))
+        if issues:
+            # Přehled starších čísel. Každé z nich je hotové a zůstává,
+            # jaké bylo — tohle je jediné místo, odkud se k nim dá dostat.
+            _write(out / lang / "weekend" / "archive" / "index.html",
+                   env.get_template("page.html").render(
+                       page_title=t["wk_archive_title"],
+                       page_html=_weekend_archive_html(issues, t, lang),
+                       **page("weekend/archive/", "page",
+                              alt_langs=[l for l in langs if everything[l]["issues"]])))
+            # Prostá adresa /weekend/ vede vždycky na nejnovější číslo.
+            # Statický web neumí přesměrovat na serveru, takže je to
+            # stejná stránka s odkazem, jakou má kořen webu.
+            newest = f"{config.base_path()}/{lang}/weekend/{issues[0]['no']}/"
+            _write(out / lang / "weekend" / "index.html",
+                   f'<!doctype html><html lang="{lang}"><meta charset="utf-8">'
+                   f'<meta http-equiv="refresh" content="0; url={newest}">'
+                   f'<link rel="canonical" href="{newest}">'
+                   f'<meta name="robots" content="noindex,follow">'
+                   f'<title>{_html_mod.escape(t["wk_title"])} — {_html_mod.escape(brand)}</title>'
+                   f'<p>{_html_mod.escape(t["wk_redirect"])} '
+                   f'<a href="{newest}">{_html_mod.escape(t["wk_title"])}</a></p>')
+
         # --- archiv: všechno, co kdy vyšlo, na jedné stránce ------------
         # Kvůli vyhledávačům i kvůli čtenáři. Statický web nemá databázi,
         # ale tohle je to, co databáze v praxi nahrazuje: jeden trvalý
@@ -1232,6 +1514,38 @@ def run() -> None:
         _write(out / lang / "impact" / "index.html",
                env.get_template("impact.html").render(
                    articles=with_impact, areas=impact.AREAS, **page("impact/", "page")))
+
+        # --- co to znamená pro mou zemi -------------------------------
+        # Stejná zpráva dopadá jinak v Irsku a jinak v Polsku. Tahle
+        # stránka bere posledních čtrnáct dní a ptá se za čtenáře:
+        # co z toho doopravdy doletí až ke mně a co s tím můžu dělat.
+        #
+        # Stránka vzniká pro každou zemi ze seznamu, i pro tu, ke které
+        # zrovna nic nevyšlo — čtenářova volba je uložená v prohlížeči
+        # a nesmí skončit na chybě 404. Zemím s méně než dvěma zprávami
+        # se nastaví `noindex`: prázdnou stránku nemá cenu nabízet
+        # vyhledávači, ale čtenáři ano.
+        lands = countries.pages(arts, lang=lang, today=today)
+        # Seznam v rozcestníku se řadí podle jména, které čtenář vidí —
+        # v české verzi tedy česky, včetně háčků a čárek (Česko patří
+        # před Čínu, ne za ni).
+        lands.sort(key=lambda c: _abc(c["label"]))
+        land_list = [{"code": c["code"], "label": c["label"], "count": c["count"]}
+                     for c in lands]
+        for c in lands:
+            _write(out / lang / "country" / c["code"] / "index.html",
+                   env.get_template("country.html").render(
+                       country=c, countries=land_list,
+                       window_label=_range_words(c["from"], c["to"], lang),
+                       # „1 zpráva", „3 zprávy", „7 zpráv" — čeština má tři tvary
+                       count_label=_count_label(c["count"], t),
+                       **page(f"country/{c['code']}/", "country",
+                              noindex=c["thin"])))
+        # rozcestník: mapa všech zemí, odtud si čtenář vybírá
+        _write(out / lang / "country" / "index.html",
+               env.get_template("country.html").render(
+                   country=None, countries=land_list, window_label="",
+                   **page("country/", "page")))
 
         # --- osobní výběr ---------------------------------------------
         _write(out / lang / "foryou" / "index.html",
@@ -1417,6 +1731,15 @@ def _sitemap(out, url: str) -> str:
     for p in sorted(out.rglob("index.html")):
         rel = str(p.parent.relative_to(out)).replace("\\", "/")
         if rel.startswith("admin"):
+            continue
+        # /weekend/ je jen přesměrování na nejnovější číslo. Do mapy webu
+        # patří samo číslo (/weekend/3/), ne rozcestí k němu.
+        if rel.endswith("/weekend"):
+            continue
+        # Stránka označená `noindex` do mapy webu nepatří — poslat ji tam
+        # znamená říct vyhledávači dvě opačné věci najednou. Týká se to
+        # zemí, ke kterým zrovna skoro nic nevyšlo.
+        if 'content="noindex"' in p.read_text(encoding="utf-8"):
             continue
         loc = f"{url}/" if rel == "." else f"{url}/{rel}/"
         urls.append(f"<url><loc>{loc}</loc></url>")

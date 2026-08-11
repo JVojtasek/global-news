@@ -65,7 +65,13 @@ nav.sections a:hover,nav.sections a.on{color:var(--ink);border-color:var(--accen
 }
 .langs{position:absolute;top:1.15rem;right:1.25rem;display:flex;align-items:center;gap:.3rem;
   font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;color:var(--ink-soft)}
-@media (max-width:600px){.langs{top:.7rem;right:.8rem}}
+@media (max-width:600px){
+  .langs{top:.7rem;right:.8rem}
+  /* Na telefonu se datum a přepínač jazyka překrývaly. Datum jde pod ně
+     a dostane odsazení přesně o výšku těch tlačítek. */
+  .masthead{padding-top:2.6rem}
+  .mast-date{font-size:.62rem;letter-spacing:.12em}
+}
 .langs a{text-decoration:none;padding:.12rem .38rem;border:1px solid var(--line);border-radius:5px;
   color:var(--ink-soft)}
 .langs a:hover{color:var(--accent);border-color:var(--accent)}
@@ -726,3 +732,339 @@ nav.sections a.nav-you:hover{border-color:var(--accent)}
 .e404-secs{line-height:2.2}
 .e404-secs a{color:var(--accent);text-decoration:none}
 .e404-secs a:hover{text-decoration:underline}
+
+/* =====================================================================
+   SOBOTNÍ VYDÁNÍ  (templates/weekend.html, engine/weekend.py)
+
+   Týden, který skončí. Vzhled na to má dvě povinnosti:
+     1. dát najevo, že tohle nejsou další noviny na obrazovce, ale
+        jedno konkrétní číslo — proto vlastní hlavička s číslem vydání
+        a datem, jaké má tištěný list;
+     2. skončit. Poslední blok na stránce je závěrečné slovo a pod ním
+        nesmí přijít nic — žádné doporučené články, žádné donačítání.
+
+   Tiskovou podobu řeší blok @media print úplně dole. Ten je tady ten
+   důležitější: vydání je udělané k tomu, aby zůstalo na kuchyňském stole.
+   ===================================================================== */
+.wk-edition{padding-bottom:2rem}
+
+/* ---------- hlavička vydání ---------- */
+.wk-mast{border-bottom:2px solid var(--ink);padding:2.2rem 0 1.4rem;margin-bottom:2rem;
+  text-align:center}
+.wk-mast-brand{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.68rem;
+  letter-spacing:.24em;text-transform:uppercase;color:var(--ink-soft)}
+.wk-mast-title{font-size:clamp(2rem,5vw,3.1rem);line-height:1.05;letter-spacing:-.03em;
+  margin:.5rem 0 .6rem}
+.wk-mast-line{display:flex;justify-content:center;align-items:baseline;gap:.9rem;flex-wrap:wrap;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--ink-soft)}
+.wk-mast-issue{color:var(--accent);font-weight:600}
+.wk-mast-dek{max-width:32rem;margin:1rem auto 0;color:var(--ink-soft);font-size:1.02rem}
+.wk-open{max-width:34rem;margin:.9rem auto 0;padding:.55rem .9rem;border:1px solid var(--line);
+  border-radius:8px;background:var(--bg-soft);font-size:.9rem;color:var(--ink-soft)}
+.wk-tools{display:flex;justify-content:center;align-items:center;gap:1rem;flex-wrap:wrap;
+  margin-top:1.3rem;font-family:ui-sans-serif,system-ui,sans-serif}
+.wk-print{border:1px solid var(--accent);background:var(--card);color:var(--accent);
+  border-radius:999px;padding:.42rem 1.15rem;font:inherit;font-size:.85rem;cursor:pointer}
+.wk-print:hover{background:var(--accent-soft)}
+.wk-past{font-size:.85rem;color:var(--ink-soft);text-decoration:none;
+  border-bottom:1px solid var(--line)}
+.wk-past:hover{color:var(--accent);border-color:var(--accent)}
+
+/* ---------- společné pro sekce ---------- */
+.wk-sec{padding:0 0 2.4rem}
+.wk-sec + .wk-sec{border-top:1px solid var(--line);padding-top:2.2rem}
+.wk-h{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--accent);margin:0 0 .5rem}
+.wk-help{margin:0 0 1.5rem;color:var(--ink-soft);font-size:.95rem;max-width:34rem}
+.wk-kicker{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.68rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink-soft);margin-bottom:.25rem}
+.wk-item-h{font-size:1.28rem;line-height:1.24;margin:0 0 .5rem}
+.wk-item-h a{text-decoration:none}
+.wk-item-h a:hover{color:var(--accent)}
+.wk-more{margin:.7rem 0 0;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.85rem}
+.wk-more a{color:var(--accent);text-decoration:none}
+.wk-more a:hover{text-decoration:underline}
+
+/* ---------- týden v pěti minutách ---------- */
+.wk-five-list{list-style:none;margin:0;padding:0;counter-reset:wk}
+.wk-five-list > li{counter-increment:wk;padding:0 0 1.7rem;margin:0 0 1.7rem;
+  border-bottom:1px solid var(--line)}
+.wk-five-list > li:last-child{border-bottom:0;padding-bottom:0;margin-bottom:0}
+.wk-five-list > li .wk-item-h::before{content:counter(wk) ". ";color:var(--ink-soft);
+  font-variant-numeric:tabular-nums}
+/* Vrstva BRIEFLY má pět odstavců uvozených tučným popiskem. Popisek se
+   od textu odsadí, aby se dalo vydání číst i po diagonále. */
+/* Popisek na začátku odstavce se čte jako v tištěných novinách:
+   tučně, barevně a rovnou v řádku, ne jako sloupec nalevo. */
+.wk-brief p{margin:.45rem 0;font-size:1rem;line-height:1.6}
+.wk-brief p strong{color:var(--accent)}
+
+/* ---------- dlouhé čtení ---------- */
+.wk-long-h{font-size:clamp(1.5rem,3.2vw,2.1rem);line-height:1.16;letter-spacing:-.015em;
+  margin:.2rem 0 .5rem}
+.wk-long-h a{text-decoration:none}
+.wk-long-h a:hover{color:var(--accent)}
+.wk-long-dek{font-size:1.1rem;color:var(--ink-soft);margin:0 0 1.2rem;max-width:38rem}
+.wk-long-fig{margin:0 0 1.4rem}
+.wk-long-fig img{border-radius:8px}
+.wk-long-fig figcaption{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;
+  color:var(--ink-soft);margin-top:.4rem}
+.wk-long-fig figcaption a{color:var(--ink-soft)}
+.wk-deeper p{margin:0 0 1rem;line-height:1.7}
+.wk-deeper blockquote{margin:1.2rem 0;padding:.8rem 1.1rem;background:var(--scripture-bg);
+  border-left:3px solid var(--scripture-line);border-radius:0 8px 8px 0}
+
+/* ---------- co to znamenalo pro tebe ---------- */
+.wk-areas{display:grid;grid-template-columns:repeat(auto-fit,minmax(17rem,1fr));gap:1.6rem 2rem}
+.wk-area-h{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink);margin:0 0 .7rem;padding-bottom:.35rem;
+  border-bottom:2px solid var(--accent)}
+.wk-area-list{list-style:none;margin:0;padding:0}
+.wk-area-list > li{margin:0 0 1.1rem}
+.wk-area-t{font-weight:600;text-decoration:none;line-height:1.3;display:block}
+.wk-area-t:hover{color:var(--accent)}
+
+/* ---------- dobré zprávy ---------- */
+.wk-good-list{list-style:none;margin:0;padding:0;display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(18rem,1fr));gap:1.4rem}
+.wk-good-dek{margin:0;color:var(--ink-soft);font-size:.98rem}
+
+/* ---------- k zamyšlení a poslední slovo ---------- */
+.wk-reflect p{margin:0 0 .8rem;line-height:1.7}
+.wk-reflect ul,.wk-reflect ol{margin:0 0 .8rem;padding-left:1.2rem}
+.wk-from{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.82rem;color:var(--ink-soft);
+  margin:.4rem 0 0}
+.wk-from a{color:var(--accent);text-decoration:none}
+.wk-quote{margin:1.4rem 0 0;padding:1.1rem 1.3rem;background:var(--bg-soft);
+  border-left:2px solid var(--accent);border-radius:0 8px 8px 0}
+.wk-quote blockquote{margin:0;font-style:italic;font-size:1.08rem;line-height:1.55}
+.wk-quote figcaption{margin-top:.5rem;font-size:.85rem;color:var(--ink-soft)}
+
+/* ---------- konec vydání ----------
+   Poslední blok stránky. Silná linka nad ním je celý smysl: tady to
+   končí a nic dalšího už nepřijde. */
+.wk-end{border-top:2px solid var(--ink);padding:1.8rem 0 0;margin-top:1rem}
+.wk-end-h{font-size:1.2rem;font-weight:600;margin:0 0 .5rem}
+.wk-end-body{margin:0 0 .9rem;color:var(--ink-soft);max-width:34rem}
+.wk-next{margin:0 0 .9rem;max-width:34rem}
+.wk-join{margin:0;color:var(--ink-soft);font-size:.95rem;max-width:34rem}
+.wk-join a{color:var(--accent);white-space:nowrap}
+
+/* ---------- přehled starších vydání ---------- */
+.wk-arch{list-style:none;margin:1.4rem 0 0;padding:0;counter-reset:wka}
+.wk-arch li{display:flex;align-items:baseline;gap:.3rem .9rem;flex-wrap:wrap;
+  padding:.55rem 0;border-bottom:1px solid var(--line)}
+.wk-arch a{font-weight:600;text-decoration:none;color:var(--accent)}
+.wk-arch a:hover{text-decoration:underline}
+.wk-arch-range{color:var(--ink)}
+.wk-arch-count{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.75rem;
+  color:var(--ink-soft);margin-left:auto}
+
+@media (max-width:700px){
+  .wk-mast{padding:1.6rem 0 1.1rem;margin-bottom:1.5rem}
+  .wk-sec + .wk-sec{padding-top:1.7rem}
+}
+
+/* =====================================================================
+   TISK — kvůli tomuhle to celé je.
+
+   Vydání se má dát v sobotu vytisknout a nechat na kuchyňském stole.
+   Proto: dva sloupce jako v novinách, žádné menu, žádná patička, žádné
+   obrázky kromě jednoho u dlouhého čtení, a hlavně žádná sekce
+   rozlomená uprostřed věty.
+
+   Pravidla jsou schválně navěšená na `.wk-edition`, aby se nedotkla
+   žádné jiné stránky webu. `body:has(.wk-edition) > *` schová všechno,
+   co k vydání nepatří — hlavičku webu, patičku, přihlášku k odběru
+   i panel nastavení čtení. V prohlížeči, který `:has()` neumí, se
+   vytiskne navíc menu a patička; nic se tím nerozbije.
+   ===================================================================== */
+@media print{
+  body:has(.wk-edition) > *:not(.wk-edition){display:none !important}
+  .wk-noprint{display:none !important}
+
+  html,body{background:#fff !important;color:#000 !important}
+  .wk-edition{font:10.5pt/1.45 Georgia,"Times New Roman",serif;padding:0}
+  .wk-edition .wrap{max-width:none;padding:0}
+  @page{margin:14mm 12mm}
+
+  /* hlavička jako na tištěném listu */
+  .wk-mast{border-bottom:2pt solid #000;padding:0 0 6pt;margin:0 0 10pt}
+  .wk-mast-brand{font-size:8pt;letter-spacing:.22em}
+  .wk-mast-title{font-size:26pt;margin:2pt 0 4pt}
+  .wk-mast-line{font-size:8pt;gap:.8rem}
+  .wk-mast-issue{color:#000}
+  .wk-mast-dek{font-size:9.5pt;color:#000;margin-top:4pt}
+  .wk-open{border:0;background:none;font-size:8.5pt;font-style:italic;padding:2pt 0;margin-top:4pt}
+
+  /* dva sloupce. Nadpis sekce zůstává přes celou šířku a text pod ním
+     teče do sloupců — takhle to dělají noviny a čte se to nejlíp. */
+  .wk-sec{padding:0 0 10pt;break-inside:auto}
+  .wk-sec + .wk-sec{border-top:.5pt solid #999;padding-top:8pt}
+  .wk-h{color:#000;font-size:9pt;letter-spacing:.16em;margin-bottom:3pt;
+    break-after:avoid;page-break-after:avoid}
+  .wk-help{font-size:8.5pt;color:#333;margin-bottom:8pt;max-width:none;
+    break-after:avoid;page-break-after:avoid}
+  /* Na papíře se šedý text ztrácí. Všechno, co je na obrazovce ztlumené,
+     se v tisku ztmaví — jinak by „Co s tím můžeš udělat" nebylo vidět. */
+  .wk-kicker{color:#444}
+  .imp-line{color:#000}
+  .imp-todo{color:#222}
+  .imp-todo b,.wk-from{color:#000}
+  /* Sloupce se vyrovnávají (výchozí `balance`). Při `column-fill:auto`
+     se první sloupec nalije po celou výšku stránky a vedle něj
+     zůstane půl stránky bílá. */
+  .wk-flow{columns:2;column-gap:8mm}
+
+  /* nic se nerozlomí uprostřed: ani shrnutí, ani dopad, ani citát */
+  .wk-item,.wk-area,.wk-quote,.wk-good-list > li,.wk-five-list > li,.wk-area-list > li{
+    break-inside:avoid;page-break-inside:avoid}
+  .wk-item-h,.wk-area-h,.wk-long-h{break-after:avoid;page-break-after:avoid}
+
+  .wk-five-list > li{border-bottom:.5pt solid #bbb;padding-bottom:7pt;margin-bottom:7pt}
+  .wk-item-h{font-size:12pt}
+  .wk-brief p{font-size:9.5pt;margin:2pt 0}
+  .wk-brief p strong{min-width:0;color:#000}
+
+  /* jediný obrázek, který se tiskne, je ten u dlouhého čtení */
+  .wk-edition img{display:none}
+  .wk-long-fig{display:block;margin:0 0 6pt;break-inside:avoid}
+  .wk-long-fig img{display:block;max-width:100%;max-height:65mm;
+    border-radius:0;filter:grayscale(100%)}
+  .wk-long-fig figcaption{font-size:7pt;color:#444}
+  .wk-long-h{font-size:17pt;margin:0 0 3pt}
+  .wk-long-dek{font-size:10pt;color:#333;margin-bottom:6pt;max-width:none}
+  .wk-deeper p{margin:0 0 5pt}
+  .wk-deeper blockquote{background:none;border-left:1.5pt solid #666;padding:2pt 0 2pt 6pt;
+    border-radius:0}
+
+  .wk-areas{display:block}
+  .wk-area{margin:0 0 8pt}
+  .wk-area-h{border-bottom:1pt solid #000;font-size:8.5pt}
+  .wk-quote{background:none;border-left:1.5pt solid #666;padding:2pt 0 2pt 6pt;border-radius:0}
+  .wk-quote blockquote{font-size:10pt}
+
+  /* konec vydání se nikdy neutrhne na samostatnou stránku sám */
+  .wk-end{border-top:2pt solid #000;margin-top:6pt;padding-top:6pt;break-inside:avoid}
+  .wk-end-h{font-size:11pt}
+  .wk-end-body,.wk-next,.wk-join{max-width:none;color:#000}
+
+  /* Odkazy v tisku nemají co zdůrazňovat — papír se neklikne. Adresa
+     se dopisuje jen tam, kde má čtenář kam jít: k celému článku
+     a k členství. Do vět uvnitř textu se nedopisuje, rozbila by je. */
+  .wk-edition a{color:#000 !important;text-decoration:none !important}
+  .wk-more a[data-url]::after,.wk-join a[data-url]::after{
+    content:" — " attr(data-url);font-size:8pt;color:#444;word-break:break-all}
+}
+
+
+/* =====================================================================
+   Co to znamená pro mou zemi
+
+   Stránka jedné země a rozcestník, na kterém se vybírá. Nic nového se
+   tu nevymýšlí: štítky oblastí, karty i odstupy jsou tytéž jako u „Co
+   to znamená pro tebe". Jediné, co se schválně obrací, je pořadí
+   důležitosti — hlavní věta o dopadu je tučnější než titulek nad ní,
+   protože kvůli ní sem čtenář přišel.
+
+   Nejdřív telefon, teprve pak širší displej. Většina lidí to čte
+   v ruce a dlaždice zemí se musí dát trefit prstem.
+   ===================================================================== */
+
+/* --- odkaz v hlavním menu --- */
+nav.sections a.nav-land{color:var(--accent);letter-spacing:.09em}
+nav.sections a.nav-land:hover{border-color:var(--accent)}
+
+/* --- hlavička stránky --- */
+.land .page-h1{font-size:clamp(1.6rem,3.6vw,2.4rem);line-height:1.14;letter-spacing:-.02em;
+  margin:2.2rem 0 .4rem}
+.land .land-dek{color:var(--ink-soft);font-size:1.02rem;margin:0 0 .5rem;max-width:38rem}
+.land-change{margin:0 0 1.8rem;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;
+  letter-spacing:.13em;text-transform:uppercase}
+.land-change a{color:var(--accent);text-decoration:none}
+.land-change a:hover{text-decoration:underline}
+
+/* Věty, které je poctivé říct nahlas: že je zpráv zatím málo, nebo že
+   k té zemi není žádná. Vypadají jako ostatní tiché rámečky na webu. */
+.land-thin,.land-none{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.85rem;
+  line-height:1.6;color:var(--ink-soft);margin:0 0 1.8rem;padding:.8rem 1rem;
+  border:1px dashed var(--line);border-radius:8px;background:var(--bg-soft);max-width:40rem}
+.land-priv{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;line-height:1.55;
+  color:var(--ink-soft);margin:0 0 1.8rem;padding:.55rem .75rem;
+  border-left:2px solid var(--line);background:var(--bg-soft);border-radius:0 6px 6px 0;
+  max-width:38rem}
+
+/* --- sekce: nadpis s linkou jako v novinách --- */
+.land-sec{margin:0 0 2.4rem}
+.land-h{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.78rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin:0 0 .4rem;padding-top:1.1rem;
+  border-top:2px solid var(--ink)}
+.land-h[hidden]{display:none}
+.land-help{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.82rem;line-height:1.55;
+  color:var(--ink-soft);margin:0 0 1.1rem;max-width:40rem}
+.land-areas .imp-areas{margin:0}
+
+/* --- zpráva i s tím, co mění --- */
+.land-item{display:grid;gap:.9rem;border-top:1px solid var(--line);padding:1.1rem 0}
+.land-item:first-child{border-top:0;padding-top:.1rem}
+.land-thumb{display:block;align-self:start;overflow:hidden;border:1px solid var(--line);border-radius:8px;line-height:0}
+.land-thumb img{aspect-ratio:1200/630;object-fit:cover;width:100%}
+.land-body{min-width:0}
+.land-t{font-size:1.1rem;line-height:1.3;margin:.35rem 0 .3rem}
+.land-t a{text-decoration:none}
+.land-t a:hover{color:var(--accent)}
+/* Hlavní věta stránky stojí výš než titulek nad ní — schválně. */
+.land-line{font-weight:600;font-size:1rem;line-height:1.5;color:var(--ink);margin:.15rem 0 .45rem}
+.land-why{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.8rem;line-height:1.55;
+  color:var(--ink-soft);margin:.2rem 0 .45rem}
+.land-why b{color:var(--ink);font-weight:600}
+
+/* --- taky odtud: prostý seznam, nic navíc --- */
+.land-flat{border-top:1px solid var(--line);padding:.85rem 0}
+.land-flat:first-child{border-top:0;padding-top:.1rem}
+.land-flat .land-t{font-size:1rem;margin:0 0 .2rem}
+.land-fdek{margin:0;color:var(--ink-soft);font-size:.9rem;line-height:1.5}
+.land-flat .imp-meta{margin-top:.35rem}
+
+/* --- rozcestník se zeměmi --- */
+.land-pick{margin:0 0 2.6rem}
+.land-grid{list-style:none;display:grid;gap:.5rem;grid-template-columns:1fr;margin:0 0 1rem;
+  padding:0}
+.land-grid[hidden]{display:none}
+.land-a{display:flex;align-items:baseline;justify-content:space-between;gap:.6rem;
+  min-height:2.9rem;padding:.65rem .9rem;border:1px solid var(--line);border-radius:9px;
+  background:var(--card);color:var(--ink);text-decoration:none;
+  font-family:ui-sans-serif,system-ui,sans-serif;font-size:.94rem;line-height:1.4;
+  transition:color .12s,border-color .12s,background .12s}
+.land-a:hover{color:var(--accent);border-color:var(--accent)}
+.land-a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.land-name{min-width:0}
+.land-n{flex:0 0 auto;font-size:.76rem;letter-spacing:.06em;color:var(--ink-soft)}
+.land-a:hover .land-n,.land-a.on .land-n{color:inherit}
+/* uložená země: táž dlaždice, jen zapnutá */
+.land-a.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent);
+  font-weight:600}
+/* země, ke kterým za dva týdny nic nemáme: ztlumené, ale pořád vidět */
+.land-quiet .land-a{background:none;border-style:dashed;color:var(--ink-soft)}
+.land-quiet .land-a:hover{color:var(--accent)}
+.land-all-help{margin-bottom:0}
+
+/* --- země v nastavení čtení --- */
+.reader-land{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;margin:1.2rem 0 0;
+  padding-top:.9rem;border-top:1px solid var(--line);font-size:.82rem;color:var(--ink-soft)}
+.reader-land-lab{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--accent)}
+.reader-land-go{color:var(--accent);text-decoration:underline;text-underline-offset:3px}
+
+/* Od tabletu výš se dlaždice zemí složí do sloupců a k přímým zprávám
+   se vedle textu vejde i náhled. */
+@media (min-width:34rem){
+  .land-grid{grid-template-columns:repeat(auto-fill,minmax(13rem,1fr))}
+  .land-pic{grid-template-columns:8.5rem minmax(0,1fr)}
+}
+
+/* Kdo si vypnul pohyb, ať ho tady nepotká. */
+@media (prefers-reduced-motion:reduce){
+  .land-a{transition:none}
+}
