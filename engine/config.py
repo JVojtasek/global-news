@@ -22,6 +22,11 @@ _cache: dict = {}
 def site() -> dict:
     if "site" not in _cache:
         _cache["site"] = yaml.safe_load((DATA / "site.yml").read_text(encoding="utf-8"))
+        lens_path = DATA / "wider_lens.yml"
+        if lens_path.exists():
+            _cache["site"]["wider_lens"] = yaml.safe_load(
+                lens_path.read_text(encoding="utf-8")
+            ) or {}
     return _cache["site"]
 
 

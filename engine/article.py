@@ -34,8 +34,9 @@ ACCESS = ("public", "early", "members")
 
 # BRIEFLY je první vrstva: klidné shrnutí v pěti bodech. Kdo si nastaví
 # šetrný režim, uvidí jenom ji — zbytek si může rozkliknout.
-LAYERS = ["BRIEFLY", "FACTS", "CONTEXT", "PEOPLE", "DEEPER", "REFLECT"]
+LAYERS = ["BRIEFLY", "FACTS", "EVIDENCE", "PERSPECTIVES", "CONTEXT", "PEOPLE", "DEEPER", "REFLECT"]
 REQUIRED_LAYERS = ["FACTS", "CONTEXT", "DEEPER"]
+LENS_REQUIRED_LAYERS = ["EVIDENCE", "PERSPECTIVES"]
 # starší názvy vrstev, aby fungovaly i dřív napsané články
 ALIASES = {"SCRIPTURE": "DEEPER", "RESPONSE": "REFLECT", "BACKGROUND": "CONTEXT",
            "SUMMARY": "BRIEFLY", "IN BRIEF": "BRIEFLY"}
@@ -44,6 +45,8 @@ LAYER_LABELS = {
     "en": {
         "BRIEFLY": ("In short", ""),
         "FACTS": ("What happened", ""),
+        "EVIDENCE": ("What the evidence supports", ""),
+        "PERSPECTIVES": ("How the story is being framed", ""),
         "CONTEXT": ("The background", ""),
         "PEOPLE": ("Who it touches", ""),
         "DEEPER": ("The deeper story", ""),
@@ -52,6 +55,8 @@ LAYER_LABELS = {
     "cs": {
         "BRIEFLY": ("Ve zkratce", ""),
         "FACTS": ("Co se stalo", ""),
+        "EVIDENCE": ("Co podporují důkazy", ""),
+        "PERSPECTIVES": ("Jak se příběh vykládá", ""),
         "CONTEXT": ("Souvislosti", ""),
         "PEOPLE": ("Koho se to týká", ""),
         "DEEPER": ("Hlubší příběh", ""),
@@ -131,6 +136,10 @@ def validate(meta: dict, body: str) -> list[str]:
     for layer in REQUIRED_LAYERS:
         if layer not in secs:
             problems.append(f"chybí povinná sekce ## {layer}")
+    if meta.get("type") in ("daily", "analysis"):
+        for layer in LENS_REQUIRED_LAYERS:
+            if layer not in secs:
+                problems.append(f"The Wider Lens analýze chybí sekce ## {layer}")
     for layer, text in secs.items():
         if len(text.split()) < 25:
             problems.append(f"sekce ## {layer} je příliš krátká ({len(text.split())} slov)")

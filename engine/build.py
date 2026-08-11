@@ -746,6 +746,7 @@ def _view(meta: dict, body: str, path=None) -> dict:
         if lid in secs and secs[lid].strip():
             label, icon = labels[lid]
             layers.append({"id": lid, "label": label, "icon": icon, "html": _html(secs[lid])})
+    layer_ids = {layer["id"] for layer in layers}
     section_label = next(
         (s.get(lang) or s["en"] for s in config.site()["sections"] if s["id"] == meta["section"]),
         meta["section"],
@@ -768,6 +769,13 @@ def _view(meta: dict, body: str, path=None) -> dict:
         "reading_time": max(1, round(words / 220)),
         "layers": layers,
         "has_brief": any(l["id"] == "BRIEFLY" for l in layers),
+        # The Wider Lens is a verifiable article format, not just a visual badge.
+        # Older deep articles keep their original presentation until they contain
+        # both of the new editorial layers.
+        "is_wider_lens": (
+            meta.get("type") in {"daily", "feature", "analysis"}
+            and {"EVIDENCE", "PERSPECTIVES"}.issubset(layer_ids)
+        ),
         "load": w["load"],
         "band": reader.band(w["load"]),
         "topics_csv": ",".join(w["topics"]),
@@ -1302,6 +1310,7 @@ def run() -> None:
             sections=nav, all_sections=site["sections"], all_langs=langs,
             site_url=config.origin(), base=config.base_path(), current_section=None,
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
+            wider_lens=site.get("wider_lens", {}),
             wit=quotes.wit(),
             interest_groups=interests.catalogue(),
             partners=site.get("partners", []),

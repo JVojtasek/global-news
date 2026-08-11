@@ -50,6 +50,8 @@ sources:
 
 ## BRIEFLY
 ## FACTS
+## EVIDENCE
+## PERSPECTIVES
 ## CONTEXT
 ## PEOPLE
 ## DEEPER
@@ -59,6 +61,10 @@ Povinné jsou **FACTS, CONTEXT a DEEPER**. **BRIEFLY** je povinné
 u `type: news` a u `type: analysis` — všude jinde ho piš, kdykoli to jde,
 čtenář ho ocení i u dlouhého textu. PEOPLE a REFLECT přidej, jen když
 mají co říct — u krátké zprávy o autech je vynech.
+
+U `type: daily` a `type: analysis` jsou navíc povinné vrstvy
+**EVIDENCE** a **PERSPECTIVES**. Tyto dva typy nesou značku The Wider
+Lens a musí ukázat nejen závěr, ale i cestu, která k němu vede.
 
 ## Zátěž a štítky (load, topics)
 
@@ -120,6 +126,19 @@ Pravidla, která u téhle vrstvy platí bez výjimky:
 Co se stalo. Holá fakta, jak by je napsala agentura. Žádné hodnocení.
 Každé tvrzení podložené zdrojem ze zadání. Nejisté věci označ přímo ve větě
 („According to one source…", „Not yet confirmed…"). 150–250 slov.
+
+**## EVIDENCE** — *„What the evidence supports"*
+Odděl tři věci: na čem se nezávislé zdroje shodují, co je doloženo jen
+jedním nebo závislým zdrojem a co zatím nevíme. Uveď původní dokument,
+data nebo studii, pokud existují. Nepočítej pět článků přebírajících
+jednu tiskovou zprávu jako pět nezávislých potvrzení. 150–250 slov.
+
+**## PERSPECTIVES** — *„How the story is being framed"*
+Porovnej dva až čtyři skutečně doložitelné výklady téže události.
+U každého napiš, co správně vysvětluje, co vynechává a jaký zájem nebo
+předpoklad může jeho rámování ovlivňovat. Nevyráběj umělou rovnováhu:
+lež není protiváha faktu a okrajový názor není automaticky rovnocenný
+většině důkazů. 180–300 slov.
 
 **## CONTEXT** — *„The background"*
 Souvislosti, historie, čísla, co tomu předcházelo. To, co ostatní vynechají.

@@ -41,6 +41,21 @@
       {% if a.confidence and a.type not in ['imported', 'syndicated'] %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
       {% if a.access_state == "early" %}<span class="badge">{{ t.mem_early_badge }}</span>{% endif %}
     </div>
+    {% if wider_lens.enabled and a.is_wider_lens %}
+    <aside class="lens-article" aria-label="{{ wider_lens.name }}">
+      <div class="lens-article-head">
+        <span class="lens-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <div><strong>{{ wider_lens['eyebrow_' ~ lang] or wider_lens.eyebrow_en }}</strong>
+        <p>{{ wider_lens['method_' ~ lang] or wider_lens.method_en }}</p></div>
+      </div>
+      <ol class="lens-steps">
+        <li><b>01</b><span>{% if lang == 'cs' %}Ověřená fakta{% else %}Verified facts{% endif %}</span></li>
+        <li><b>02</b><span>{% if lang == 'cs' %}Síla důkazů{% else %}Evidence strength{% endif %}</span></li>
+        <li><b>03</b><span>{% if lang == 'cs' %}Různé výklady{% else %}Competing perspectives{% endif %}</span></li>
+        <li><b>04</b><span>{% if lang == 'cs' %}Praktický dopad{% else %}Practical impact{% endif %}</span></li>
+      </ol>
+    </aside>
+    {% endif %}
     {# Rozměry obálky se čtou při stavbě webu ze skutečného souboru
        (engine/build.py, _img_size). Prohlížeč si díky nim nechá místo
        dopředu a text pod obrázkem už nikam neposkočí. #}
@@ -108,11 +123,19 @@
     {% endfor %}
 
     {% if a.sources %}
-    <div class="sources">
+    <div class="sources" id="article-sources">
       <h3>{{ t.sources }}</h3>
       <ul>{% for s in a.sources %}<li>{{ s.name }} — <a href="{{ s.url }}" rel="nofollow noopener" target="_blank">{{ s.url|truncate(70) }}</a></li>{% endfor %}</ul>
       <p style="color:var(--ink-soft);margin-top:1rem">{{ t.sources_note }}</p>
     </div>
+    {% endif %}
+
+    {% if wider_lens.enabled and wider_lens.qma.enabled and a.section in wider_lens.qma.sections %}
+    <aside class="lens-qma">
+      <div><span>QMA · QUANTUM MARKET ANALYZER</span>
+      <p>{% if lang == 'cs' %}Článek vysvětluje příběh. QMA pokračuje daty, finančním zdravím, oceněním a riziky — bez příkazů koupit nebo prodat.{% else %}The article explains the story. QMA continues with data, financial health, valuation and risk — without telling you to buy or sell.{% endif %}</p></div>
+      <a href="{{ wider_lens.qma.url }}" rel="noopener">{{ wider_lens.qma['label_' ~ lang] or wider_lens.qma.label_en }} →</a>
+    </aside>
     {% endif %}
 
     {#  Jediná pozvánka k odběru uvnitř textu, a to na jeho konci.

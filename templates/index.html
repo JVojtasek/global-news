@@ -48,9 +48,25 @@
 {% endif %}
 
 <div class="wide withside">
-  <div class="mainside">
+  <div class="mainside" id="wider-lens">
 
     {% if lead %}
+    {% if wider_lens.enabled and lead.is_wider_lens %}
+    <section class="lens-intro" aria-label="{{ wider_lens.name }}">
+      <div>
+        <span class="lens-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <div>
+          <p class="lens-eyebrow">{{ wider_lens['eyebrow_' ~ lang] or wider_lens.eyebrow_en }}</p>
+          <p class="lens-promise">{{ wider_lens['promise_' ~ lang] or wider_lens.promise_en }}</p>
+        </div>
+      </div>
+      <div class="lens-proof">
+        {% if lead.sources %}<span><b>{{ lead.sources|length }}</b> {{ t.sources_word }}</span>{% endif %}
+        {% if lead.confidence %}<span><b>{{ lead.confidence }}/100</b> {{ t.confidence|lower }}</span>{% endif %}
+        <span class="lens-method">{{ wider_lens['method_' ~ lang] or wider_lens.method_en }}</span>
+      </div>
+    </section>
+    {% endif %}
     <div class="hero{% if not lead.image %} nopic{% endif %}" data-load="{{ lead.load }}" data-band="{{ lead.band }}" data-topics="{{ lead.topics_csv }}" data-tags="{{ lead.tags_csv }}" data-date="{{ lead.date }}" data-brief="{{ 1 if lead.has_brief else 0 }}">
       {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>{% endif %}
       <div class="hero-text">
@@ -59,6 +75,11 @@
         <p class="dek">{{ lead.dek }}</p>
       </div>
     </div>
+    {% if wider_lens.enabled and wider_lens.qma.enabled and lead.section in wider_lens.qma.sections %}
+    <a class="lens-qma-home" href="{{ wider_lens.qma.url }}" rel="noopener">
+      <span>QMA</span>{{ wider_lens.qma['label_' ~ lang] or wider_lens.qma.label_en }} <b>→</b>
+    </a>
+    {% endif %}
     {% endif %}
 
     <div id="reader-hidden-note"></div>
