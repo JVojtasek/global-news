@@ -1,6 +1,89 @@
 {
  "threads": [
   {
+   "id": "639e1a78a571",
+   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+   "section": "world",
+   "entities": [
+    "east",
+    "hormuz",
+    "iran",
+    "strait",
+    "middle",
+    "iranian",
+    "trump",
+    "oman"
+   ],
+   "event_ids": [
+    "639e1a78a571",
+    "0624eb1ba208",
+    "816e48902267",
+    "0a4c58727150",
+    "a60728b498fa"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-11",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+     "sources": 6,
+     "score": 83,
+     "event_id": "639e1a78a571",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0624eb1ba208",
+     "links": [
+      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+     "sources": 2,
+     "score": 44,
+     "event_id": "816e48902267",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump signals shift to economic pressure on Iran over new military strikes",
+     "sources": 2,
+     "score": 43,
+     "event_id": "0a4c58727150",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a60728b498fa",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "aa62f1322260",
    "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
    "section": "world",
@@ -149,50 +232,6 @@
      "links": [
       "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "639e1a78a571",
-   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-   "section": "world",
-   "entities": [
-    "hormuz",
-    "oman",
-    "east",
-    "middle",
-    "iran"
-   ],
-   "event_ids": [
-    "639e1a78a571",
-    "0624eb1ba208"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-10",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-     "sources": 6,
-     "score": 83,
-     "event_id": "639e1a78a571",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0624eb1ba208",
-     "links": [
-      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
      ]
     }
    ]
@@ -589,5 +628,5 @@
    ]
   }
  ],
- "updated": "2026-08-10T21:28:43+00:00"
+ "updated": "2026-08-11T00:33:31+00:00"
 }

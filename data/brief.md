@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-10
+# ZADÁNÍ PRO REDAKCI — 2026-08-11
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -139,12 +139,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### phishing scam
+- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
+  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
 
 ---
 
@@ -164,7 +164,21 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Typhoon Dolphin batters Japan's Okinawa before bearing down on China
+### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 5  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+rubrika: world · sledováno od 2026-08-09 · záznamů: 5
+  2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+  2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
+  2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
+  2026-08-11  (2 zdrojů, síla 43)  Trump signals shift to economic pressure on Iran over new military strikes
+  2026-08-11  (2 zdrojů, síla 41)  Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
+```
+
+### 2. What has actually changed: Typhoon Dolphin batters Japan's Okinawa before bearing down on China
 - id: `aa62f1322260`  ·  rubrika: `world`  ·  záznamů v ose: 4  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 

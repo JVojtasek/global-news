@@ -1,10 +1,19 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-10
+# ANALYTICKÉ ZADÁNÍ — 2026-08-11
 
 Paměť obsahuje **17 vláken**. Aktivních za posledních 14 dní: **5**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 2 dní · 5 záznamů
+- časová osa:
+  - **2026-08-09** (6 zdrojů) Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+  - **2026-08-10** (3 zdrojů) Middle East: Iran wants US concessions before opening Hormuz
+  - **2026-08-11** (2 zdrojů) Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
+  - **2026-08-11** (2 zdrojů) Trump signals shift to economic pressure on Iran over new military strikes
+  - **2026-08-11** (2 zdrojů) Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
 
 ### Typhoon Dolphin batters Japan's Okinawa before bearing down on China
 - rubrika `world` · sledováno 1 dní · 4 záznamů
@@ -25,12 +34,6 @@ Paměť obsahuje **17 vláken**. Aktivních za posledních 14 dní: **5**.
 - časová osa:
   - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
   - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 1 dní · 2 záznamů
-- časová osa:
-  - **2026-08-09** (6 zdrojů) Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-  - **2026-08-10** (3 zdrojů) Middle East: Iran wants US concessions before opening Hormuz
 
 ### Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock
 - rubrika `business` · sledováno 0 dní · 2 záznamů
