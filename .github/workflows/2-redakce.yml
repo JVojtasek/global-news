@@ -1,5 +1,5 @@
 # Hlavní denní běh redakce.
-#  1) přijme články, které dodala naplánovaná Claude úloha (content/inbox/)
+#  1) přijme články, které dodaly naplánované úlohy ChatGPT Work (content/inbox/)
 #  2) když je nastavený API klíč, dopíše chybějící články sám
 #  3) vydá jeden článek ze zásoby
 #  4) přeloží, co je potřeba
@@ -7,7 +7,7 @@ name: "2 · Redakce"
 
 on:
   schedule:
-    - cron: "35 4 * * *"        # 06:35 středoevropského letního času
+    - cron: "35 9 * * *"        # po dokončení šesti úloh + rezervy ChatGPT Work
   workflow_dispatch:
     inputs:
       pocet_zprav:

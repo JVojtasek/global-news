@@ -1327,6 +1327,47 @@
     try { card.focus(); } catch (e) { /* nevadí */ }
   }
 
+  /* ----------------------------------------- kvíz a QMA konverzní událost */
+  function quizzes() {
+    [].forEach.call(doc.querySelectorAll(".article-quiz[data-answer]"), function (box) {
+      var answer = parseInt(box.getAttribute("data-answer"), 10);
+      var result = box.querySelector(".quiz-result");
+      var explanation = box.querySelector(".quiz-explanation");
+      var buttons = [].slice.call(box.querySelectorAll("button[data-choice]"));
+      buttons.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          var chosen = parseInt(btn.getAttribute("data-choice"), 10);
+          buttons.forEach(function (b) {
+            b.disabled = true;
+            if (parseInt(b.getAttribute("data-choice"), 10) === answer) b.classList.add("correct");
+          });
+          if (chosen !== answer) btn.classList.add("wrong");
+          if (result) result.textContent = chosen === answer
+            ? (doc.documentElement.lang === "cs" ? "Správně." : "Correct.")
+            : (doc.documentElement.lang === "cs" ? "Ne tak docela." : "Not quite.");
+          if (explanation) explanation.hidden = false;
+        });
+      });
+    });
+  }
+
+  function qmaTracking() {
+    doc.addEventListener("click", function (e) {
+      var a = e.target;
+      while (a && a !== doc && !(a.classList && a.classList.contains("qma-link"))) {
+        a = a.parentNode;
+      }
+      if (!a || a === doc) return;
+      if (typeof window.plausible === "function") {
+        window.plausible("QMA Outbound", {props: {
+          slug: a.getAttribute("data-qma-slug") || "",
+          section: a.getAttribute("data-qma-section") || "",
+          destination: a.getAttribute("data-qma-destination") || ""
+        }});
+      }
+    });
+  }
+
   /* ------------------------------------------------------------ start */
   function init() {
     base = (doc.body && doc.body.getAttribute("data-base")) || "";
@@ -1344,6 +1385,8 @@
     article();
     brake();
     foryou();
+    quizzes();
+    qmaTracking();
     // hello() bere argument, a ten se sem z časovače nesmí připlést
     if (cfg === null) window.setTimeout(function () { hello(); }, WAIT);
   }

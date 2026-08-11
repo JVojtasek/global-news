@@ -1,0 +1,47 @@
+# Redakce bez API: naplánované úlohy ChatGPT Work zapisují hotové texty
+# do content/inbox. GitHub Actions je potom ověří a teprve následně vydají.
+enabled: true
+timezone: "Europe/Prague"
+
+# Šest veřejných původních textů denně a jeden článek do zásoby. Každý
+# běží samostatně; výpadek jednoho proto nezruší celé ranní vydání.
+public_articles_per_day: 6
+reserve_articles_per_day: 1
+reserve_target: 30
+
+# Cíl se vyhodnocuje za klouzavých 30 dní. Převzatý obsah může doplňovat
+# pokrytí, nesmí ale znovu převážit nad původní redakční prací.
+original_share_target_30d: 0.65
+max_syndicated_per_run: 2
+
+minimum_words:
+  daily: 1200
+  analysis: 900
+  feature: 900
+  demand: 700
+  news: 500
+
+minimum_sources:
+  daily: 4
+  analysis: 3
+  feature: 3
+  demand: 3
+  news: 2
+
+# Posun o tři rubriky dává šest různých témat denně a zároveň v dalších
+# dnech postupně projde celou rotaci z data/site.yml.
+section_step: 3
+public_slots:
+  - {slot: 1, role: flagship,  type: daily,    min_words: 1400, max_words: 2000}
+  - {slot: 2, role: evidence,  type: analysis, min_words: 1000, max_words: 1500}
+  - {slot: 3, role: practical, type: analysis, min_words: 900,  max_words: 1400}
+  - {slot: 4, role: memory,    type: analysis, min_words: 1000, max_words: 1600}
+  - {slot: 5, role: evergreen, type: analysis, min_words: 1000, max_words: 1500}
+  - {slot: 6, role: human,     type: analysis, min_words: 900,  max_words: 1400}
+
+reserve_slot:
+  slot: 7
+  role: reserve
+  type: feature
+  min_words: 1000
+  max_words: 1600

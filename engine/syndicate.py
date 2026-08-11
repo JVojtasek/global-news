@@ -79,8 +79,11 @@ def run(limit_per_source: int = MAX_PER_SOURCE) -> int:
     state = config.load_state()
     seen = set(state.get("syndicated_urls", []))
     taken = 0
+    max_total = int((config.site().get("automation") or {}).get("max_syndicated_per_run", 2))
 
     for src in _sources():
+        if taken >= max_total:
+            break
         if not src.get("enabled", True):
             config.log(f"  – {src['name']}: dočasně vypnuto v data/syndication.yml")
             continue
@@ -92,7 +95,7 @@ def run(limit_per_source: int = MAX_PER_SOURCE) -> int:
 
         n = 0
         for entry in feed.entries:
-            if n >= limit_per_source:
+            if n >= limit_per_source or taken >= max_total:
                 break
             link = getattr(entry, "link", "")
             title = " ".join(getattr(entry, "title", "").split())

@@ -40,12 +40,22 @@ load: 0             # 0-100, psychická zátěž článku. Nech 0 a systém si j
                     # vyplň jen tehdy, když se výpočet zjevně mýlí
 topics: []          # štítky pro filtr čtenáře: war, crime, disaster, politics,
                     # health, money, tech. Nech prázdné a systém je doplní
+automation_generated: false  # true jen pro naplánovanou úlohu ChatGPT Work
+edition_slot: 0     # 1–6 veřejné články, 7 článek do zásoby
 event_id: ""
 series: ""
 image_query: "krátký anglický popis pro vyhledání ilustračního obrázku"
 sources:
   - name: "Reuters"
     url: "https://..."
+    published: "2026-08-09"
+qma_path: ""       # volitelné: existující relativní cesta na QMA, např. /stocks/NVDA
+tickers: []         # volitelné burzovní symboly; první vede na detail v QMA
+quiz:               # volitelné, ale povinné pro denní automatické analýzy
+  question: "Jedna věcná otázka, jejíž odpověď je přímo v článku"
+  options: ["A", "B", "C"]
+  answer: 0         # index správné odpovědi: 0, 1 nebo 2
+  explanation: "Krátké vysvětlení bez triku a bez nové nepodložené informace"
 ---
 
 ## BRIEFLY

@@ -26,8 +26,8 @@ def run() -> int:
     if have:
         print(f"{OK} API klíče: {', '.join(keys[n] for n in have)}")
     else:
-        print(f"{WARN}Žádný API klíč. Systém pojede jen z článků, které dodá "
-              f"naplánovaná Claude úloha do content/inbox/.")
+        print(f"{OK} Bez placeného AI API: původní texty mohou dodat "
+              f"naplánované úlohy ChatGPT Work do content/inbox/.")
 
     # --- zdroje ---
     print(f"{OK} Zdrojů zpráv v seznamu: {len(config.sources())}")
@@ -93,6 +93,16 @@ def run() -> int:
     syn = len([1 for m, _, _ in arts if m.get("type") == "syndicated"])
     if syn:
         print(f"{OK} Převzatých článků (s uvedením licence): {syn}")
+
+    # --- podíl vlastních analýz za posledních 30 dní ---
+    cutoff = (dt.date.today() - dt.timedelta(days=29)).isoformat()
+    recent = [m for m, _, _ in arts if m.get("status") == "published" and m.get("date", "") >= cutoff]
+    original = [m for m in recent if m.get("type") not in {"syndicated", "imported"}]
+    target_share = float((site.get("automation") or {}).get("original_share_target_30d", 0.65))
+    share = len(original) / len(recent) if recent else 0
+    mark = OK if recent and share >= target_share else WARN
+    print(f"{mark}Původní obsah za 30 dní: {len(original)}/{len(recent)} "
+          f"({share:.0%}, cíl {target_share:.0%})")
 
     # --- poptávaná témata ---
     tp = config.DATA / "topics.json"

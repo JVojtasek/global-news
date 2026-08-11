@@ -79,8 +79,10 @@
         <p class="dek">{{ lead.dek }}</p>
       </div>
     </div>
-    {% if wider_lens.enabled and wider_lens.qma.enabled and lead.section in wider_lens.qma.sections %}
-    <a class="lens-qma-home" href="{{ wider_lens.qma.url }}" rel="noopener">
+    {% if wider_lens.enabled and lead.qma_target %}
+    <a class="lens-qma-home qma-link" href="{{ lead.qma_target.url }}" rel="noopener"
+       data-qma-slug="{{ lead.slug }}" data-qma-section="{{ lead.section }}"
+       data-qma-destination="{{ lead.qma_target.path }}">
       <span>QMA</span>{{ wider_lens.qma['label_' ~ lang] or wider_lens.qma.label_en }} <b>→</b>
     </a>
     {% endif %}

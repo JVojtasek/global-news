@@ -1,7 +1,7 @@
 """Vytvoří 'objednávku práce' (brief) pro AI redakci.
 
 Tohle je propojka mezi zdarma-částí (GitHub Actions) a AI-částí
-(naplánovaná Claude úloha nebo API). GitHub Actions připraví brief,
+(naplánované úlohy ChatGPT Work nebo volitelné API). GitHub Actions připraví brief,
 AI si ho přečte a napíše podle něj články do content/inbox/.
 """
 from __future__ import annotations

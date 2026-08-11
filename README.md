@@ -20,7 +20,7 @@ data/covers/                ← stažené ilustrační obrázky + jejich licence
 data/social/k-vlozeni.md    ← hotové příspěvky na Facebook, Instagram, X, LinkedIn
 
 content/en/                 ← hotové články
-content/inbox/              ← sem odkládá články naplánovaná Claude úloha
+content/inbox/              ← sem odkládají články naplánované úlohy ChatGPT Work
 content/inbox/_rejected/    ← co neprošlo kontrolou + proč
 
 engine/prompts/             ← redakční pravidla pro AI (tady se ladí kvalita)
@@ -50,11 +50,20 @@ Poměr mezi nimi nastavuješ v `data/site.yml` položkou `depth_ratio`
 (výchozí 0.3 = zhruba třetina článků). V rubrikách sport, jídlo, cestování
 a auto-moto je biblická vrstva vypnutá vždy.
 
-## Článek dne
+## Denní vydání bez placeného AI API
 
-Jeden pořádně propracovaný původní text denně. Rubriky se střídají podle
-pořadí v `data/site.yml → editorial.daily_feature.rotation`, takže žádná
-nezůstane hluchá:
+Každý den vzniká **šest původních anglických článků nebo analýz** a
+sedmý delší text do zásoby. Jedna ranní rešeršní úloha nejprve sestaví
+agendu a každý text potom píše samostatná naplánovaná úloha ChatGPT Work.
+Používá webové vyhledávání a připojený GitHub; `OPENAI_API_KEY` k této
+cestě není potřeba.
+
+Veřejné sloty mají rozdílné role: hlavní analýza, audit populárního
+tvrzení, praktické vysvětlení, analýza z dlouhodobé paměti, evergreen
+odpověď na vyhledávanou otázku a lidský příběh vysvětlující systém.
+Rubriky se každý den automaticky posunou podle `data/site.yml →
+editorial.daily_feature.rotation`, takže jeden den nevznikne šest textů o
+technologiích a v dalších dnech se projde celá nabídka.
 
 ```
 technologie → vztahy → věda → rodina a výchova → mysl a smysl →
@@ -66,7 +75,7 @@ stáhnou podklady z Wikipedie**, takže AI nepíše z hlavy. Pak jde text
 delší cestou než běžné zpravodajství:
 
 ```
-podklady → draft → KONTROLA FAKTŮ → teologie → skeptik → přepis
+rešerše → oddělený draft → kontrola zdrojů a rozsahu → inbox → vydání
 ```
 
 Kontrola faktů projde text větu po větě, vypíše každé číslo, jméno, rok
@@ -232,7 +241,8 @@ python -m engine.trends       # najdi témata, po kterých je poptávka
 python -m engine.daily        # co je téma článku dne a jaké má podklady
 python -m engine.brief        # připrav zadání pro redakci
 python -m engine.write        # napiš články (potřebuje API klíč)
-python -m engine.inbox        # zpracuj, co dodala Claude úloha
+python -m engine.edition      # rozděl šest veřejných slotů + zásobu
+python -m engine.inbox        # zpracuj, co dodaly úlohy ChatGPT Work
 python -m engine.release      # vydej delší článek ze zásoby
 python -m engine.translate    # přelož do češtiny
 python -m engine.build        # postav web + dohledej obrázky

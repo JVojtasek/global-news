@@ -27,6 +27,11 @@ def site() -> dict:
             _cache["site"]["wider_lens"] = yaml.safe_load(
                 lens_path.read_text(encoding="utf-8")
             ) or {}
+        automation_path = DATA / "editorial_automation.yml"
+        if automation_path.exists():
+            _cache["site"]["automation"] = yaml.safe_load(
+                automation_path.read_text(encoding="utf-8")
+            ) or {}
     return _cache["site"]
 
 

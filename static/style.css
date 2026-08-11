@@ -1069,6 +1069,25 @@ nav.sections a.nav-land:hover{border-color:var(--accent)}
   .land-a{transition:none}
 }
 
+/* --- vzdělávací kvíz pod původní analýzou --- */
+.article-quiz{margin:2rem 0;padding:1.35rem 1.4rem;border:1px solid var(--line);
+  border-radius:12px;background:var(--bg-soft)}
+.quiz-kicker{display:block;margin-bottom:.45rem;color:var(--accent);font:700 .68rem/1.2 ui-sans-serif,system-ui,sans-serif;
+  letter-spacing:.12em}
+.article-quiz h3{margin:.2rem 0 1rem;font-size:1.12rem;line-height:1.35}
+.quiz-options{display:grid;gap:.55rem}
+.quiz-options button{width:100%;padding:.72rem .85rem;text-align:left;border:1px solid var(--line);
+  border-radius:8px;background:var(--bg);color:var(--ink);font:500 .92rem/1.4 ui-sans-serif,system-ui,sans-serif;
+  cursor:pointer}
+.quiz-options button:hover:not(:disabled),.quiz-options button:focus-visible{border-color:var(--accent);outline:none}
+.quiz-options button.correct{border-color:#2f7d50;background:#e7f4ec;color:#174b2e}
+.quiz-options button.wrong{border-color:#ad4f48;background:#f8e8e6;color:#742b27}
+[data-theme="dark"] .quiz-options button.correct{background:#173526;color:#bfe7cb}
+[data-theme="dark"] .quiz-options button.wrong{background:#3a201e;color:#f2c4bf}
+.quiz-result{font-weight:700;margin:.9rem 0 .25rem}
+.quiz-result:empty{display:none}
+.quiz-explanation{margin:.25rem 0 0;color:var(--ink-soft);font-size:.9rem;line-height:1.55}
+
 /* =====================================================================
    THE WIDER LENS
 

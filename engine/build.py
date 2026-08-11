@@ -9,7 +9,9 @@ import datetime as dt
 import hashlib
 import html as _html_mod
 import json
+import re
 import shutil
+import urllib.parse
 import xml.sax.saxutils as sx
 
 import markdown as md
@@ -820,6 +822,72 @@ def _remote_img_host(body_html: str) -> str:
     return max(hosts, key=hosts.get) if hosts else ""
 
 
+def _clean_quiz(meta: dict) -> dict | None:
+    q = meta.get("quiz")
+    if not isinstance(q, dict):
+        return None
+    options = q.get("options")
+    try:
+        answer = int(q.get("answer"))
+    except (TypeError, ValueError):
+        return None
+    if (not isinstance(options, list) or len(options) != 3 or answer not in range(3)
+            or not str(q.get("question") or "").strip()
+            or not str(q.get("explanation") or "").strip()):
+        return None
+    return {
+        "question": str(q["question"]).strip(),
+        "options": [str(x).strip() for x in options],
+        "answer": answer,
+        "explanation": str(q["explanation"]).strip(),
+    }
+
+
+def _qma_target(meta: dict, lens: dict) -> dict | None:
+    """Bezpečný tematický odkaz do QMA s měřitelnou atribucí."""
+    qma = (lens or {}).get("qma") or {}
+    if not qma.get("enabled") or meta.get("section") not in qma.get("sections", []):
+        return None
+
+    base = "https://quantummarketanalyzer.com"
+    path = ""
+    explicit = str(meta.get("qma_path") or "").strip()
+    if explicit.startswith("/") and not explicit.startswith("//"):
+        path = explicit
+
+    if not path:
+        tickers = meta.get("tickers") or []
+        if isinstance(tickers, str):
+            tickers = [tickers]
+        for ticker in tickers:
+            symbol = str(ticker).upper().strip()
+            if re.fullmatch(r"[A-Z][A-Z0-9.-]{0,9}", symbol):
+                path = f"/stocks/{symbol}"
+                break
+
+    haystack = " ".join(str(meta.get(k) or "") for k in ("title", "dek", "topics")).lower()
+    if not path:
+        for route in qma.get("topic_paths", []):
+            if any(str(k).lower() in haystack for k in route.get("keywords", [])):
+                candidate = str(route.get("path") or "")
+                if candidate.startswith("/") and not candidate.startswith("//"):
+                    path = candidate
+                    break
+
+    if not path:
+        path = str((qma.get("section_paths") or {}).get(meta.get("section")) or "")
+    if not path.startswith("/") or path.startswith("//"):
+        return None
+
+    query = urllib.parse.urlencode({
+        "utm_source": "mypaper",
+        "utm_medium": "editorial",
+        "utm_campaign": "wider_lens",
+        "utm_content": str(meta.get("slug") or "article")[:80],
+    })
+    return {"url": f"{base}{path}?{query}", "path": path}
+
+
 def _view(meta: dict, body: str, path=None) -> dict:
     lang = meta["lang"]
     labels = article.LAYER_LABELS.get(lang, article.LAYER_LABELS["en"])
@@ -845,6 +913,11 @@ def _view(meta: dict, body: str, path=None) -> dict:
     # obrázek musí být na disku dřív, než se z něj čtou rozměry
     img = images.ensure(meta)
     img_w, img_h = _img_size(meta.get("slug", "")) if img.get("src") else (None, None)
+    is_wider_lens = (
+        meta.get("type") in {"daily", "feature", "analysis"}
+        and {"EVIDENCE", "PERSPECTIVES"}.issubset(layer_ids)
+    )
+    lens = config.site().get("wider_lens") or {}
     return {
         **meta,
         "url": _url(meta),
@@ -855,10 +928,9 @@ def _view(meta: dict, body: str, path=None) -> dict:
         # The Wider Lens is a verifiable article format, not just a visual badge.
         # Older deep articles keep their original presentation until they contain
         # both of the new editorial layers.
-        "is_wider_lens": (
-            meta.get("type") in {"daily", "feature", "analysis"}
-            and {"EVIDENCE", "PERSPECTIVES"}.issubset(layer_ids)
-        ),
+        "is_wider_lens": is_wider_lens,
+        "qma_target": _qma_target(meta, lens) if is_wider_lens else None,
+        "quiz": _clean_quiz(meta),
         "load": w["load"],
         "band": reader.band(w["load"]),
         "topics_csv": ",".join(w["topics"]),
@@ -1577,6 +1649,14 @@ def run() -> None:
         _write(out / lang / "archive" / "index.html",
                env.get_template("archive.html").render(
                    years=years, total=len(arts), **page("archive/", "archive")))
+
+        # --- The Wider Lens: jen články, které skutečně obsahují audit
+        # důkazů i doložené různé perspektivy. Značka není ruční štítek.
+        lens_articles = [a for a in arts if a.get("is_wider_lens")]
+        _write(out / lang / "wider-lens" / "index.html",
+               env.get_template("lens.html").render(
+                   articles=lens_articles,
+                   **page("wider-lens/", "archive", current_section="wider-lens")))
 
         # --- stránka pro média, která chtějí naše články převzít ---
         if site.get("republish", {}).get("enabled"):

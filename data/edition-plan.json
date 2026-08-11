@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-11",
+  "timezone": "Europe/Prague",
+  "public_count": 6,
+  "slots": [
+    {
+      "slot": 1,
+      "role": "flagship",
+      "type": "daily",
+      "min_words": 1400,
+      "max_words": 2000,
+      "section": "safety",
+      "status": "draft"
+    },
+    {
+      "slot": 2,
+      "role": "evidence",
+      "type": "analysis",
+      "min_words": 1000,
+      "max_words": 1500,
+      "section": "tech",
+      "status": "draft"
+    },
+    {
+      "slot": 3,
+      "role": "practical",
+      "type": "analysis",
+      "min_words": 900,
+      "max_words": 1400,
+      "section": "parenting",
+      "status": "draft"
+    },
+    {
+      "slot": 4,
+      "role": "memory",
+      "type": "analysis",
+      "min_words": 1000,
+      "max_words": 1600,
+      "section": "health",
+      "status": "draft"
+    },
+    {
+      "slot": 5,
+      "role": "evergreen",
+      "type": "analysis",
+      "min_words": 1000,
+      "max_words": 1500,
+      "section": "culture",
+      "status": "draft"
+    },
+    {
+      "slot": 6,
+      "role": "human",
+      "type": "analysis",
+      "min_words": 900,
+      "max_words": 1400,
+      "section": "soul",
+      "status": "draft"
+    }
+  ],
+  "reserve": {
+    "slot": 7,
+    "role": "reserve",
+    "type": "feature",
+    "min_words": 1000,
+    "max_words": 1600,
+    "section": "tech",
+    "status": "reserve"
+  },
+  "rules": {
+    "unique_topics": true,
+    "recent_article_window_days": 14,
+    "wider_lens_layers": [
+      "EVIDENCE",
+      "PERSPECTIVES"
+    ],
+    "quiz_per_public_article": 1
+  }
+}
