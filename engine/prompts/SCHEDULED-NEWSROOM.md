@@ -6,14 +6,13 @@ must not call a paid model API and must never place a secret in the repository.
 
 ## The daily hand-off
 
-1. The research-desk task reads `data/edition-plan.json`, `data/brief.json`,
-   this file and English articles from the previous 14 days.
-2. It searches the web and creates `data/daily-agenda/YYYY-MM-DD.md` with one
-   distinct topic for each of the seven slots. Every topic gets a reader question,
-   a precise angle, what would make the article useful in six months, and at
-   least four candidate sources. Prefer primary documents, official statistics,
-   regulators, research papers and direct company filings. A search result
-   snippet is not a source.
+1. The separate topic-scout task reads `engine/prompts/TOPIC-SCOUT.md`,
+   `data/edition-plan.json`, `data/brief.json`, this file and English articles
+   from the previous 14 days.
+2. It ranks live search demand against usefulness, durability, evidence and
+   originality, then creates `data/daily-agenda/YYYY-MM-DD.md` with one distinct
+   assignment for each of the seven slots. Raw popularity alone is not enough;
+   the agenda preserves the observed demand figures and the scoring rationale.
 3. Each writer task reads the agenda and writes exactly its assigned slot as
    one new Markdown file in `content/inbox/`. It never edits or overwrites an
    existing article. If the agenda is unavailable, it may research a fitting
@@ -55,6 +54,9 @@ a public article; reserve never means filler.
   combined; expression and structure must be original.
 - Reject the assignment if the central claim cannot be verified. A missed slot
   is better than invented evidence.
+- Do not silently replace a demand-backed agenda assignment with an easier
+  subject. If its evidence fails, use the next eligible candidate for the same
+  slot and record why the original assignment was rejected.
 
 ## Article contract
 
