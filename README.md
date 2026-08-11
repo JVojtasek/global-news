@@ -96,8 +96,9 @@ kde se příběh mění na měřitelná data, finanční zdraví, ocenění a ri
 
 ## Témata, po kterých je poptávka
 
-`engine/trends.py` hledá, o čem lidé skutečně chtějí číst — ale ne tak,
-jak to dělá většina webů.
+`engine/trends.py` a oddělený naplánovaný agent podle
+`engine/prompts/TOPIC-SCOUT.md` hledají, o čem lidé skutečně chtějí číst —
+ale ne tak, jak to dělá většina webů.
 
 **Denní žebříčky vyhledávání jsou past.** Když se na ně dnes podíváš,
 uvidíš „Benfica", „Kylie Jenner", „Djoković". Sport a celebrity tvoří
@@ -123,6 +124,12 @@ Redakce na ně pak píše původní články s jediným tvrdým pravidlem:
 Zdroje signálu jsou zdarma a bez klíčů: Google Trends, Wikipedia pageviews,
 Hacker News a našeptávač vyhledávače. Seznam stálých témat, ze kterých
 se doluje i ve dnech, kdy jsou trendy k ničemu, je v `data/site.yml → topics`.
+
+Topic Scout nejprve vytvoří nejméně 25 kandidátů a ohodnotí je podle poptávky,
+rychlosti růstu, praktičnosti, trvanlivosti, kvality důkazů a prostoru pro
+vlastní úhel. Až potom předá sedm rozdílných zadání autorům. Proto nevyhraje
+automaticky největší dotaz dne, ale nejvýše hodnocené téma, ze kterého lze
+udělat důvěryhodný a užitečný článek.
 
 ## Analytik s pamětí
 
