@@ -12,7 +12,7 @@ Redakce, která běží sama. Skládá se ze čtyř věcí:
 | Co | Kde to běží | Co to stojí |
 |---|---|---|
 | Sběr zpráv z 50 zdrojů a plánovač | GitHub Actions | 0 Kč |
-| Psaní článků | naplánovaná Claude úloha (tvoje předplatné) | 0 Kč navíc |
+| Psaní článků | naplánované úlohy ChatGPT Work + GitHub | 0 Kč navíc k předplatnému |
 | Obrázky | Openverse + Wikimedia Commons | 0 Kč |
 | Web | GitHub Pages | 0 Kč |
 | Bluesky a Telegram | oficiální rozhraní platforem | 0 Kč |
@@ -63,14 +63,15 @@ a přečti si poslední řádky. Nejčastější příčina je chybějící slo�
 
 ---
 
-## KROK 4 · Napojit psaní článků  (15 minut)
+## KROK 4 · Napojit psaní článků
 
-Otevři soubor `NAPLANOVANA-ULOHA.md` a udělej, co je v něm.
-Ve zkratce: vyrobíš si na GitHubu přístupový token a založíš v aplikaci
-Claude naplánovanou úlohu, která každé ráno napíše články a uloží je
-zpátky do repozitáře.
+V ChatGPT Work připoj GitHub a povol repozitář `JVojtasek/global-news`.
+Naplánované úlohy se řídí souborem
+`engine/prompts/SCHEDULED-NEWSROOM.md`: jedna připraví denní agendu, šest
+napíše rozdílné veřejné texty a jedna vytvoří delší text do zásoby. Každá
+úloha zapisuje jen jeden nový soubor; nic neslučuje ani neobchází kontroly.
 
-Až úloha jednou proběhne, podívej se do složky `content/inbox/`.
+Až úlohy jednou proběhnou, podívej se do složky `content/inbox/`.
 Když tam něco je, spusť ručně **Actions → „2 · Redakce" → Run workflow**
 a sleduj, jak se články zkontrolují a vydají.
 

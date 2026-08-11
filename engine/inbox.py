@@ -1,9 +1,9 @@
 """Příjem hotových článků ze složky content/inbox/.
 
-Sem odkládá články naplánovaná Claude úloha (nebo ty ručně).
+Sem odkládají články naplánované úlohy ChatGPT Work (nebo ty ručně).
 Tenhle modul je BEZPEČNOSTNÍ SÍTO a nestojí ani korunu — funguje
 na pravidlech, ne na AI. Kontroluje:
-  * formát a úplnost všech pěti vrstev
+  * formát a úplnost redakčních vrstev
   * přítomnost zdrojů u zpravodajství
   * zakázané formulace (proroctví, zbožné fráze místo argumentu)
   * duplicity
@@ -61,12 +61,50 @@ ATTRIBUTED = re.compile(
 MIN_WORDS = 500
 
 
+def _automation_rules() -> tuple[dict, dict]:
+    cfg = config.site().get("automation") or {}
+    return cfg.get("minimum_words") or {}, cfg.get("minimum_sources") or {}
+
+
+def _source_urls(meta: dict) -> list[str]:
+    return [
+        str(s.get("url", "")).strip()
+        for s in (meta.get("sources") or [])
+        if isinstance(s, dict) and str(s.get("url", "")).startswith("https://")
+    ]
+
+
+def _quality_score(meta: dict, body: str) -> int:
+    """Deterministická publikační známka pro text dodaný naplánovanou úlohou.
+
+    Nehraje si na pravděpodobnost, že je článek pravdivý. Ověřuje jen věci,
+    které umíme bez další AI opravdu spočítat: zdroje, rozsah, vrstvy,
+    jedinečnost odkazů a přítomnost praktického vzdělávacího prvku.
+    """
+    secs = article.sections(body)
+    urls = _source_urls(meta)
+    words = len(body.split())
+    score = 35
+    score += min(len(set(urls)), 5) * 6
+    score += 10 if {"EVIDENCE", "PERSPECTIVES"}.issubset(secs) else 0
+    score += 8 if "BRIEFLY" in secs else 0
+    score += 7 if words >= 900 else 0
+    score += 5 if words >= 1200 else 0
+    score += 5 if isinstance(meta.get("quiz"), dict) else 0
+    return min(score, 95)
+
+
 def _rule_check(meta: dict, body: str) -> list[str]:
     problems = article.validate(meta, body)
 
     words = len(body.split())
-    if words < MIN_WORDS:
-        problems.append(f"článek je příliš krátký ({words} slov, minimum {MIN_WORDS})")
+    min_words, min_sources = _automation_rules()
+    article_type = str(meta.get("type") or "news")
+    required_words = int(min_words.get(article_type, MIN_WORDS))
+    if words < required_words:
+        problems.append(
+            f"článek je příliš krátký ({words} slov, minimum {required_words} pro typ {article_type})"
+        )
 
     low = body.lower()
     for pattern, why in BANNED:
@@ -75,10 +113,13 @@ def _rule_check(meta: dict, body: str) -> list[str]:
             problems.append(f"zakázaná formulace ({why}): „…{low[max(0, m.start()-40):m.end()+40]}…“")
 
     # zpravodajský článek musí mít funkční odkazy na zdroje
-    if meta.get("type") == "news":
-        urls = [s.get("url", "") for s in (meta.get("sources") or []) if isinstance(s, dict)]
-        if len([u for u in urls if u.startswith("http")]) < 2:
-            problems.append("zpravodajský článek má méně než 2 zdroje s odkazem")
+    required_sources = int(min_sources.get(article_type, 2 if article_type == "news" else 0))
+    urls = _source_urls(meta)
+    if len(set(urls)) < required_sources:
+        problems.append(
+            f"článek má {len(set(urls))} unikátních HTTPS zdrojů, minimum je "
+            f"{required_sources} pro typ {article_type}"
+        )
 
     # obvinění bez uvedení, že jde o cizí tvrzení, je žalovatelné
     for m in CRIME_VERB.finditer(body):
@@ -149,7 +190,11 @@ def run() -> int:
             config.log(f"  ✗ {p.name}: {problems[0]}")
             continue
 
-        # článek prošel – rozhodneme, jestli ven hned, nebo do zásoby
+        # Článek prošel – rozhodneme, jestli ven hned, nebo do zásoby.
+        # U výstupu naplánované úlohy počítáme reprodukovatelnou známku
+        # kvality. Model si nesmí sám napsat líbivé 99/100.
+        if meta.get("automation_generated"):
+            meta["confidence"] = _quality_score(meta, body)
         threshold = config.confidence_threshold()
         conf = int(meta.get("confidence") or 0)
         if meta.get("status") in ("published", "reserve", "scheduled", "review"):

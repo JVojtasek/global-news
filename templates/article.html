@@ -130,12 +130,24 @@
     </div>
     {% endif %}
 
-    {% if wider_lens.enabled and wider_lens.qma.enabled and a.section in wider_lens.qma.sections %}
+    {% if wider_lens.enabled and a.qma_target %}
     <aside class="lens-qma">
       <div><span>QMA · QUANTUM MARKET ANALYZER</span>
       <p>{% if lang == 'cs' %}Článek vysvětluje příběh. QMA pokračuje daty, finančním zdravím, oceněním a riziky — bez příkazů koupit nebo prodat.{% else %}The article explains the story. QMA continues with data, financial health, valuation and risk — without telling you to buy or sell.{% endif %}</p></div>
-      <a href="{{ wider_lens.qma.url }}" rel="noopener">{{ wider_lens.qma['label_' ~ lang] or wider_lens.qma.label_en }} →</a>
+      <a class="qma-link" href="{{ a.qma_target.url }}" rel="noopener" data-qma-slug="{{ a.slug }}" data-qma-section="{{ a.section }}" data-qma-destination="{{ a.qma_target.path }}">{{ wider_lens.qma['label_' ~ lang] or wider_lens.qma.label_en }} →</a>
     </aside>
+    {% endif %}
+
+    {% if a.quiz %}
+    <section class="article-quiz" data-answer="{{ a.quiz.answer }}" aria-labelledby="quiz-title">
+      <span class="quiz-kicker">{% if lang == 'cs' %}RYCHLÁ KONTROLA POCHOPENÍ{% else %}QUICK UNDERSTANDING CHECK{% endif %}</span>
+      <h3 id="quiz-title">{{ a.quiz.question }}</h3>
+      <div class="quiz-options">
+        {% for option in a.quiz.options %}<button type="button" data-choice="{{ loop.index0 }}">{{ option }}</button>{% endfor %}
+      </div>
+      <p class="quiz-result" role="status" aria-live="polite"></p>
+      <p class="quiz-explanation" hidden>{{ a.quiz.explanation }}</p>
+    </section>
     {% endif %}
 
     {#  Jediná pozvánka k odběru uvnitř textu, a to na jeho konci.

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{ wider_lens['archive_title_' ~ lang] or wider_lens.archive_title_en }} — {{ brand }}{% endblock %}
+{% block body %}
+<div class="wide sec-head lens-archive-head">
+  <p class="lens-eyebrow">{{ wider_lens['eyebrow_' ~ lang] or wider_lens.eyebrow_en }}</p>
+  <h1 class="sec-h1">{{ wider_lens['archive_title_' ~ lang] or wider_lens.archive_title_en }}</h1>
+  <p class="dek">{{ wider_lens['archive_intro_' ~ lang] or wider_lens.archive_intro_en }}</p>
+</div>
+
+<div class="wide secbody">
+  {% if articles %}
+  <div class="grid">
+    {% for a in articles %}
+    <article class="card{% if not a.image %} nopic{% endif %}">
+      {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
+      <div class="body">
+        <div class="kicker">{{ a.section_label }} · {{ a.date }}</div>
+        <h2><a href="{{ a.url }}">{{ a.title }}</a></h2>
+        <p>{{ a.dek }}</p>
+        <p class="lens-proof"><span><b>{{ a.sources|length }}</b> {{ t.sources_word }}</span><span><b>{{ a.reading_time }}</b> min</span></p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="sec-empty">{{ t.empty }}</p>
+  {% endif %}
+</div>
+{% endblock %}

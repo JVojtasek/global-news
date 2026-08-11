@@ -12,9 +12,27 @@ method_en: "We separate what is verified, what sources dispute, what remains unk
 method_cs: "Oddělujeme ověřené skutečnosti, sporné výklady, neznámé a to, co se může změnit pro tebe."
 qualification_en: "The label appears only on analyses that include both an evidence audit and documented competing perspectives."
 qualification_cs: "Značku zobrazíme jen u analýz, které obsahují audit důkazů i doložené rozdílné pohledy."
+archive_title_en: "The Wider Lens"
+archive_title_cs: "Širší pohled"
+archive_intro_en: "Original My Paper analysis that separates verified evidence, competing interpretations, uncertainty and practical consequences."
+archive_intro_cs: "Původní analýzy My Paper, které oddělují ověřené důkazy, různé výklady, nejistotu a praktické důsledky."
 qma:
   enabled: true
   url: "https://quantummarketanalyzer.com/"
   sections: [business, tech]
   label_en: "Continue from the story to the market data in QMA"
   label_cs: "Pokračovat od příběhu k tržním datům v QMA"
+  section_paths:
+    business: "/dashboard"
+    tech: "/magazin"
+  topic_paths:
+    - keywords: [nvidia, nvda]
+      path: "/stocks/NVDA"
+    - keywords: [amd, advanced micro devices]
+      path: "/stocks/AMD"
+    - keywords: [apple, aapl]
+      path: "/stocks/AAPL"
+    - keywords: [inflation, interest rates, central bank, federal reserve]
+      path: "/magazin/tydenni-vyhled"
+    - keywords: [artificial intelligence, ai infrastructure, data centre, data center, semiconductor]
+      path: "/magazin"
