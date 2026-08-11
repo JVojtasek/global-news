@@ -7,13 +7,16 @@ Paměť obsahuje **17 vláken**. Aktivních za posledních 14 dní: **5**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 2 dní · 5 záznamů
+- rubrika `world` · sledováno 2 dní · 8 záznamů
 - časová osa:
   - **2026-08-09** (6 zdrojů) Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   - **2026-08-10** (3 zdrojů) Middle East: Iran wants US concessions before opening Hormuz
   - **2026-08-11** (2 zdrojů) Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
   - **2026-08-11** (2 zdrojů) Trump signals shift to economic pressure on Iran over new military strikes
   - **2026-08-11** (2 zdrojů) Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
+  - **2026-08-11** (3 zdrojů) Bluster and backdown have turned Iran war into Trump’s own Groundhog Day
+  - **2026-08-11** (2 zdrojů) Trump demands Iran pay compensation for decades of US soldier deaths
+  - **2026-08-11** (2 zdrojů) Trump demands compensation from Iran as talks on Strait of Hormuz continue
 
 ### Typhoon Dolphin batters Japan's Okinawa before bearing down on China
 - rubrika `world` · sledováno 1 dní · 4 záznamů
