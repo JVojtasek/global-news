@@ -1090,6 +1090,9 @@ nav.sections a.nav-land:hover{border-color:var(--accent)}
   font-family:ui-sans-serif,system-ui,sans-serif;font-size:.72rem;color:var(--ink-soft)}
 .lens-proof span{white-space:nowrap}.lens-proof b{color:var(--ink);font-weight:650}
 .lens-proof .lens-method{white-space:normal;max-width:34rem;margin-left:auto}
+.lens-standard .lens-proof{align-items:flex-start}
+.lens-standard .lens-method{margin-left:0}
+.lens-proof .lens-qualification{white-space:normal;max-width:33rem;color:var(--ink);font-weight:650}
 .lens-qma-home{display:flex;align-items:center;gap:.65rem;margin:-.15rem 0 1.35rem;padding:.65rem .8rem;
   border-left:2px solid var(--accent);background:var(--bg-soft);font-family:ui-sans-serif,system-ui,sans-serif;
   font-size:.78rem;text-decoration:none;color:var(--ink-soft)}

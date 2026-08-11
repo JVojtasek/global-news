@@ -1,6 +1,6 @@
 import unittest
 
-from engine import article
+from engine import article, config
 
 
 LENS_BODY = """## BRIEFLY
@@ -30,6 +30,11 @@ The deeper story asks what the event reveals about human judgement, responsibili
 
 
 class WiderLensStructureTests(unittest.TestCase):
+    def test_public_standard_explains_when_the_label_is_earned(self):
+        lens = config.site()["wider_lens"]
+        self.assertIn("evidence audit", lens["qualification_en"])
+        self.assertIn("audit důkazů", lens["qualification_cs"])
+
     def test_new_layers_are_parsed_in_editorial_order(self):
         parsed = article.sections(LENS_BODY)
         self.assertIn("EVIDENCE", parsed)
