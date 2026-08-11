@@ -38,10 +38,11 @@ Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **7**.
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
 
 ### Syria sentences Bashar Assad to death in absentia
-- rubrika `world` · sledováno 0 dní · 2 záznamů
+- rubrika `world` · sledováno 0 dní · 3 záznamů
 - časová osa:
   - **2026-08-11** (3 zdrojů) Syria sentences Bashar Assad to death in absentia
   - **2026-08-11** (3 zdrojů) Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
+  - **2026-08-11** (2 zdrojů) Syrian court sentences Bashar al-Assad and Atef Najib to death
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 0 dní · 2 záznamů
