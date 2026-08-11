@@ -16,7 +16,7 @@ from __future__ import annotations
 import re
 import shutil
 
-from . import article, config
+from . import article, config, safety
 
 INBOX = config.CONTENT / "inbox"
 REJECTED = INBOX / "_rejected"
@@ -61,6 +61,49 @@ ATTRIBUTED = re.compile(
 MIN_WORDS = 500
 
 
+def _evergreen_catalogue() -> tuple[set[str], dict[str, set[str]]]:
+    import yaml
+
+    path = config.DATA / "evergreen_clusters.yml"
+    if not path.exists():
+        return set(), {}
+    raw = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    pillars: set[str] = set()
+    clusters: dict[str, set[str]] = {}
+    for pillar in raw.get("pillars") or []:
+        pid = str(pillar.get("id") or "")
+        if not pid:
+            continue
+        pillars.add(pid)
+        clusters[pid] = {str(c.get("id")) for c in pillar.get("clusters") or [] if c.get("id")}
+    return pillars, clusters
+
+
+def _value_article_problems(meta: dict) -> list[str]:
+    if not meta.get("value_article"):
+        return []
+    problems: list[str] = []
+    required = ("pillar", "cluster", "search_intent", "practical_asset", "reviewed_at", "review_due")
+    for field in required:
+        if not meta.get(field):
+            problems.append(f"hodnotovému článku chybí pole '{field}'")
+    pillars, clusters = _evergreen_catalogue()
+    pillar = str(meta.get("pillar") or "")
+    cluster = str(meta.get("cluster") or "")
+    if pillar and pillar not in pillars:
+        problems.append(f"neznámý evergreen pilíř '{pillar}'")
+    elif cluster and cluster not in clusters.get(pillar, set()):
+        problems.append(f"cluster '{cluster}' nepatří do pilíře '{pillar}'")
+    try:
+        if int(meta.get("evergreen_target_years") or 0) < 2:
+            problems.append("evergreen_target_years musí být alespoň 2")
+    except (TypeError, ValueError):
+        problems.append("evergreen_target_years musí být celé číslo")
+    if meta.get("automation_generated") and not isinstance(meta.get("quiz"), dict):
+        problems.append("automatickému hodnotovému článku chybí vzdělávací quiz")
+    return problems
+
+
 def _automation_rules() -> tuple[dict, dict]:
     cfg = config.site().get("automation") or {}
     return cfg.get("minimum_words") or {}, cfg.get("minimum_sources") or {}
@@ -96,6 +139,7 @@ def _quality_score(meta: dict, body: str) -> int:
 
 def _rule_check(meta: dict, body: str) -> list[str]:
     problems = article.validate(meta, body)
+    problems.extend(_value_article_problems(meta))
 
     words = len(body.split())
     min_words, min_sources = _automation_rules()
@@ -131,10 +175,15 @@ def _rule_check(meta: dict, body: str) -> list[str]:
             break
 
     # citlivá témata nikdy nevycházejí sama
-    hit = NEEDS_HUMAN.search(body + " " + str(meta.get("title", "")))
-    if hit and meta.get("status") == "published":
+    safety_text = body + " " + str(meta.get("title", ""))
+    hit = NEEDS_HUMAN.search(safety_text)
+    enabled = set(config.site().get("editorial", {}).get("always_review") or [])
+    if (hit or safety.is_sensitive(safety_text, enabled)) and meta.get("status") == "published":
         meta["status"] = "review"
-        meta.setdefault("review_reason", f"citlivé téma: {hit.group(0)}")
+        meta.setdefault(
+            "review_reason",
+            f"citlivé téma: {hit.group(0) if hit else 'redakční kategorie pro lidskou kontrolu'}",
+        )
 
     # čitelnost — zeď textu a souvětí na pět řádků nikdo nečte
     paras = [x for x in body.split("\n\n") if len(x.split()) > 15 and not x.startswith(("#", ">", "-"))]

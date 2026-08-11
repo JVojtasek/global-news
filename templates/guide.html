@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}{{ guide.label }} — {{ t.guides_nav }} — {{ brand }}{% endblock %}
+{% block description %}{{ guide.description }}{% endblock %}
+{% block body %}
+<main class="wide guide-page">
+  <header class="guides-head">
+    <div class="kicker"><a href="{{ base }}/{{ lang }}/guides/">{{ t.guides_nav }}</a></div>
+    <h1 class="page-h1">{{ guide.label }}</h1>
+    <p class="dek">{{ guide.description }}</p>
+    {% if guide.health %}<p class="fy-note fy-health">{{ t.foryou_health_note }}</p>{% endif %}
+  </header>
+  {% for cluster in guide.clusters %}
+  <section class="guide-cluster">
+    <h2>{{ cluster.label }}</h2>
+    <div class="grid">
+      {% for art in cluster.articles %}
+      <article class="card{% if not art.image %} nopic{% endif %}">
+        {% if art.image %}<a href="{{ art.url }}"><img src="{{ art.image }}" alt="" loading="lazy" decoding="async"></a>{% endif %}
+        <div class="body">
+          <div class="kicker">{{ art.section_label }} · {{ art.date }}</div>
+          <h3><a href="{{ art.url }}">{{ art.title }}</a></h3>
+          <p>{{ art.dek }}</p>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</main>
+{% endblock %}

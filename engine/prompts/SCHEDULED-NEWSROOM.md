@@ -1,93 +1,90 @@
-# SCHEDULED NEWSROOM — CHATGPT WORK, NO API KEY
+# SCHEDULED EVERGREEN NEWSROOM — CHATGPT WORK, NO API KEY
 
-This file is the durable contract for My Paper's scheduled editorial tasks.
-The task uses ChatGPT Work, web search and the connected GitHub plugin. It
-must not call a paid model API and must never place a secret in the repository.
+This is the durable contract for My Paper's scheduled ChatGPT Work tasks. They
+may use web search and the connected GitHub tool, but they must not call a paid
+model API or put a secret in the repository.
 
-## The daily hand-off
+## Daily hand-off
 
-1. The separate topic-scout task reads `engine/prompts/TOPIC-SCOUT.md`,
-   `data/edition-plan.json`, `data/brief.json`, this file and English articles
-   from the previous 14 days.
-2. It ranks live search demand against usefulness, durability, evidence and
-   originality, then creates `data/daily-agenda/YYYY-MM-DD.md` with one distinct
-   assignment for each of the seven slots. Raw popularity alone is not enough;
-   the agenda preserves the observed demand figures and the scoring rationale.
-3. Each writer task reads the agenda and writes exactly its assigned slot as
-   one new Markdown file in `content/inbox/`. It never edits or overwrites an
-   existing article. If the agenda is unavailable, it may research a fitting
-   topic itself, but it must still obey the section and role in
-   `data/edition-plan.json`.
-4. GitHub Actions later runs the deterministic inbox checks. Only a file that
-   passes them can move into published content and trigger the website build.
-
-## Six public roles
-
-- `flagship`: the day's most consequential subject; mechanism, consequences,
-  uncertainty and what to watch. It is not a recap.
-- `evidence`: test a popular claim or assumption against the best available
-  evidence. State what would change the conclusion.
-- `practical`: explain a durable problem and give readers a safe, concrete
-  checklist they can use or verify. No medical, legal or financial instruction.
-- `memory`: use `data/memory/analyst-brief.md` or a documented timeline to show
-  what changed, what did not and which earlier expectations failed.
-- `evergreen`: answer a recurring search question with lasting educational
-  value. The direct answer belongs in the first paragraph.
-- `human`: begin with a concrete person, place or decision and use it to explain
-  a larger system. Never invent a composite person or emotional detail.
-
-Slot 7 is a `feature` placed in reserve. It must be as carefully researched as
-a public article; reserve never means filler.
+1. The scout reads `engine/prompts/EVERGREEN-VALUE-SCOUT.md`, builds one scored
+   agenda and writes it to `data/daily-agenda/YYYY-MM-DD.md`.
+2. Six independent tasks read that agenda and their exact slot from
+   `data/edition-plan.json`. Slots 1–4 write new complete articles to
+   `content/inbox/`. Slots 5–6 write full replacement proposals to
+   `content/refresh-inbox/`. Slot 7 writes a reserve article only when assigned.
+3. Deterministic repository checks validate format, evidence, value metadata,
+   duplicate paths, safety and refresh identity. A failed task never weakens the
+   gate and never causes another task to invent filler.
+4. GitHub Actions publishes accepted new pages, safely applies eligible
+   refreshes without changing their URLs, runs the complete test suite and then
+   rebuilds the website.
 
 ## Research before prose
 
-- Search in English for an English-speaking audience, with the United States,
-  United Kingdom, Canada, Australia and other globally relevant regions in mind.
-- Use at least four independent, high-quality sources for `daily` articles and
-  at least three for `analysis` or `feature` articles.
-- At least one source should be primary whenever a primary record exists.
-- Open every source. Record its direct HTTPS URL and publication date in front
-  matter. Do not cite a search page, home page or fabricated URL.
-- Distinguish independent confirmation from several outlets repeating the same
-  press release. State material disagreements and unknowns.
-- Never copy source wording beyond a short necessary quotation. Facts may be
-  combined; expression and structure must be original.
-- Reject the assignment if the central claim cannot be verified. A missed slot
-  is better than invented evidence.
-- Do not silently replace a demand-backed agenda assignment with an easier
-  subject. If its evidence fails, use the next eligible candidate for the same
-  slot and record why the original assignment was rejected.
+- Write for an English-speaking international audience. Search US, UK, Canada
+  and Australia, while using globally authoritative evidence.
+- Open every source. Use direct HTTPS URLs and accurate publication dates.
+- Prefer primary records, official guidelines, systematic reviews and large or
+  well-designed peer-reviewed studies. Use at least five sources for a daily
+  cornerstone, four for an analysis or feature, and three for a demand page.
+- Distinguish independent evidence from several outlets repeating the same
+  release. Explain study design, population and limits when they affect the
+  conclusion. Never turn association into causation.
+- Forums and search questions show what readers need; they do not prove facts.
+- Reject the assignment if the central claim cannot be supported or the topic
+  requires diagnosis, treatment, legal or financial advice.
+- Use original structure and language. Facts may be combined; source wording
+  may not be copied beyond a short necessary quotation.
 
-## Article contract
+## New article contract — slots 1 to 4 and reserve
 
-Read `engine/prompts/FORMAT.md` in full and follow it. In addition:
+Read `engine/prompts/FORMAT.md` in full. Set:
 
-- `lang: en`, `automation_generated: true`, and the assigned `edition_slot`.
-- Public slots use `status: draft`; slot 7 uses `status: reserve`.
-- Public slots are `daily` or `analysis`; both include `BRIEFLY`, `FACTS`,
-  `EVIDENCE`, `PERSPECTIVES`, `CONTEXT`, `DEEPER` and, where useful, `PEOPLE`
-  and `REFLECT`.
-- Answer the reader's main question early. Explain the mechanism, not only the
-  event. Include at least one practical thing to check, compare or watch.
-- Add one three-option `quiz` whose answer is explicitly supported by the
-  article. It is educational, not a trick and not a personality test.
-- Add `tickers` or an existing relative `qma_path` only when QMA genuinely lets
-  the reader inspect the article's market consequence. Never use “buy”, “sell”,
-  “entry”, “target”, “signal” or promised-return language.
-- Do not create an image. The build obtains only licensed imagery or uses a
-  typographic cover.
+- `lang: en`, `automation_generated: true`, the assigned `edition_slot`;
+- `value_article: true`, assigned `pillar` and `cluster`;
+- specific `search_intent`, named `practical_asset` and
+  `evergreen_target_years` of at least 3;
+- `reviewed_at` as today's date and `review_due` six or twelve months later;
+- `status: draft` for slots 1–4 and `status: reserve` for slot 7.
 
-## Final self-audit before writing to GitHub
+Every new article must answer its question early, explain a mechanism, separate
+facts/evidence/perspectives/uncertainty, include a concrete safe tool, state who
+the advice may not fit, and finish with an educational three-option quiz. A
+self-assessment may promote reflection but may never diagnose or claim clinical
+validation. Do not create an image; the build uses licensed images or none.
 
-Verify all six points. If any fails, revise or create no file:
+## Refresh contract — slots 5 and 6
 
-1. Every material number, name and date is supported by a listed source.
-2. Facts, interpretation and uncertainty are visibly separated.
-3. The article does not duplicate a topic from the previous 14 days.
-4. The word count fits the assigned range and no paragraph is a wall of text.
-5. The quiz answer is present in the article and its index is 0, 1 or 2.
-6. The target path is a new `content/inbox/YYYY-MM-DD-slot-N-slug.md` file.
+Write the complete replacement article, not a patch, to
+`content/refresh-inbox/YYYY-MM-DD-slot-N-slug.md`. Copy the target's `slug`,
+`lang`, original `date` and `section` exactly. Preserve all valid attribution and
+sources, then add the new evidence. Add:
 
-The scheduled task writes only the new article or daily agenda requested by its
-role. It does not merge branches, change workflows, edit configuration, delete
-files or bypass the inbox checks.
+```yaml
+refresh_target: content/en/YYYY-MM-DD-existing-slug.md
+refresh_reason: "A concrete description of the new evidence, correction or substantial improvement"
+updated_at: YYYY-MM-DD
+reviewed_at: YYYY-MM-DD
+review_due: YYYY-MM-DD
+```
+
+Never refresh syndicated or externally canonical content. Never change the URL,
+original publication date, language or section. Do not submit a cosmetic edit:
+the proposal must add a new quality source or document a material correction,
+must not shrink the article by more than ten per cent, and must still pass the
+entire new-article contract. Sensitive proposals wait for a person.
+
+## Final self-audit
+
+Before writing anything to GitHub verify:
+
+1. The assignment scored at least 80 and is not a 180-day duplicate.
+2. Every material number, name and date is supported by a listed opened source.
+3. The direct answer, mechanism, evidence, limits and uncertainty are distinct.
+4. The practical asset can be used safely and is not medical, legal or financial advice.
+5. The word range, metadata, article layers and quiz all pass `FORMAT.md`.
+6. A new article uses a new inbox path; a refresh uses an exact existing target.
+
+The task writes only its requested agenda, article or refresh proposal. It does
+not merge branches, change workflows, edit configuration, delete files or
+bypass checks.

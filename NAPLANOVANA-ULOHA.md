@@ -10,24 +10,26 @@ konverzace ani repozitáře.
 
 | Úloha | Výstup |
 | --- | --- |
-| Research desk | `data/daily-agenda/YYYY-MM-DD.md` se sedmi různými tématy a zdroji |
-| Sloty 1–6 | šest původních anglických článků či analýz v šesti různých rubrikách |
+| Evergreen Value Scout | `data/daily-agenda/YYYY-MM-DD.md` se skóre poptávky, užitku, trvanlivosti, důkazů a originality |
+| Sloty 1–4 | čtyři nové anglické hodnotové stránky: cornerstone, practical, science-to-life a interactive |
+| Sloty 5–6 | dvě úplné a podstatné aktualizace existujících článků bez změny jejich URL |
 | Slot 7 | jeden delší anglický článek se stavem `reserve` |
-| GitHub Actions | kontrola formátu, rozsahu, zdrojů, citlivých témat a duplicit; potom vydání a nasazení |
+| GitHub Actions | kontrola hodnotových metadat, zdrojů, citlivých témat, duplicit a bezpečnosti aktualizace; potom vydání a nasazení |
 
-Každý autorský slot je samostatná naplánovaná úloha. Selhání jednoho textu
-proto nezruší ostatních pět. Autorská úloha smí vytvořit právě jeden nový
-soubor `content/inbox/YYYY-MM-DD-slot-N-slug.md`; nesmí slučovat větev,
-měnit workflow ani obejít redakční kontrolu.
+Každý slot je samostatná naplánovaná úloha. Selhání jednoho výstupu proto
+nezruší ostatních pět. Sloty 1–4 vytvoří jeden nový soubor v `content/inbox/`;
+sloty 5–6 úplný návrh náhrady v `content/refresh-inbox/`. Žádná úloha nesmí
+měnit živý článek přímo, slučovat větev ani obejít redakční kontrolu.
 
-Rubriky a role pro konkrétní den určuje `data/edition-plan.json`, který zdarma
-vytváří `python -m engine.edition`. Rubriky se každý den posunou a v jednom
-vydání se neopakují.
+Pilíře, clustery a role pro konkrétní den určuje `data/edition-plan.json`,
+který zdarma vytváří `python -m engine.edition`. Šest pilířů se každý den
+posune, takže se dlouhodobě střídá duševní odolnost, zdraví, vztahy, příroda,
+věda a smysl.
 
 ## Bezpečné první spuštění
 
 1. V ChatGPT připoj GitHub a povol jen repozitář `JVojtasek/global-news`.
-2. Nech ručně proběhnout research desk a jeden veřejný slot.
+2. Nech ručně proběhnout scouta a jeden nový slot.
 3. Zkontroluj nový soubor v `content/inbox/` a spusť workflow `2 · Redakce`.
 4. Teprve po úspěšném průchodu testy nech běžet celou denní sestavu.
 

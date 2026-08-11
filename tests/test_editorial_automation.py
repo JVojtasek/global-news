@@ -1,15 +1,19 @@
 import datetime as dt
 import unittest
 
-from engine import article, build, config, edition, inbox
+from engine import article, build, config, edition, inbox, refresh
 
 
 class EditionPlanTests(unittest.TestCase):
-    def test_six_public_sections_are_unique_and_reserve_is_seventh(self):
+    def test_four_new_two_refreshes_and_reserve_are_planned(self):
         plan = edition.build(dt.date(2026, 8, 12))
-        self.assertEqual(6, plan["public_count"])
+        self.assertEqual(6, plan["output_count"])
+        self.assertEqual(4, plan["public_count"])
+        self.assertEqual(2, plan["refresh_count"])
         self.assertEqual(6, len({slot["section"] for slot in plan["slots"]}))
         self.assertEqual([1, 2, 3, 4, 5, 6], [slot["slot"] for slot in plan["slots"]])
+        self.assertEqual(["new"] * 4 + ["refresh"] * 2,
+                         [slot["action"] for slot in plan["slots"]])
         self.assertEqual(7, plan["reserve"]["slot"])
         self.assertEqual("reserve", plan["reserve"]["status"])
 
@@ -59,6 +63,34 @@ class ScheduledArticleGateTests(unittest.TestCase):
         problems = inbox._rule_check(self.meta, self.layers)
         self.assertTrue(any("unikátních HTTPS zdrojů" in p for p in problems))
 
+    def test_value_article_requires_cluster_and_practical_asset(self):
+        self.meta["value_article"] = True
+        problems = inbox._rule_check(self.meta, self.layers)
+        self.assertTrue(any("pillar" in p for p in problems))
+        self.assertTrue(any("practical_asset" in p for p in problems))
+
+
+class RefreshGateTests(unittest.TestCase):
+    def test_refresh_target_cannot_escape_english_content(self):
+        target, problems = refresh._target({"refresh_target": "../../etc/passwd"})
+        self.assertIsNone(target)
+        self.assertTrue(any("content/en" in p for p in problems))
+
+    def test_refresh_cannot_change_stable_url_fields(self):
+        original = {"slug": "stable", "lang": "en", "date": "2026-01-01", "section": "meaning"}
+        updated = {
+            **original, "slug": "changed", "title": "Changed", "type": "analysis",
+            "status": "published", "refresh_reason": "Added a new systematic review",
+            "updated_at": "2026-08-11",
+            "sources": [{"name": f"S{n}", "url": f"https://example.com/{n}"} for n in range(4)],
+        }
+        body = "\n\n".join(
+            f"## {name}\n\n" + "\n\n".join(["Clear evidence supports this careful explanation. " * 12] * 4)
+            for name in ("BRIEFLY", "FACTS", "EVIDENCE", "PERSPECTIVES", "CONTEXT", "DEEPER")
+        )
+        problems = refresh._check(original, body, updated, body)
+        self.assertTrue(any("slug" in p for p in problems))
+
 
 class QmaAndQuizTests(unittest.TestCase):
     def test_contextual_qma_link_contains_measurable_attribution(self):
@@ -76,6 +108,15 @@ class QmaAndQuizTests(unittest.TestCase):
             "question": "Q", "options": ["A", "B"], "answer": 1,
             "explanation": "Because",
         }}))
+
+    def test_related_articles_prefer_same_evergreen_cluster(self):
+        base = {"slug": "a", "title": "Completely different words", "dek": "Unique summary",
+                "section": "meaning", "type": "daily", "date": "2026-08-11",
+                "pillar": "mental-resilience", "cluster": "burnout-recovery"}
+        same = {**base, "slug": "b", "date": "2026-08-10", "section": "health"}
+        generic = {**base, "slug": "c", "date": "2026-08-09", "pillar": "other",
+                   "cluster": "other", "title": "Completely different words"}
+        self.assertEqual("b", build._related(base, [same, generic], 1)[0]["slug"])
 
 
 if __name__ == "__main__":
