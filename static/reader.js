@@ -20,7 +20,7 @@
   var KEY = "tds-reader";
   var SEEN = "tds-heavy-seen";
   var SORT = "tds-sort";               // řazení rubriky, zvlášť pro každou
-  var DEF = { amount: 2, tone: 2, mute: [], brake: true, secs: [], tags: [], own: [] };
+  var DEF = { amount: 2, tone: 2, mute: [], brake: true, secs: [], tags: [], own: [], land: "" };
   var KEEP = { 1: 12, 2: 30, 3: 0 };   // 0 = bez stropu
   var SHARE = 0.6;                     // strop podílu těžkých karet
   var OWN_MAX = 8;                     // kolik vlastních témat nejvýš
@@ -83,11 +83,18 @@
     return out;
   }
 
+  /* Země, ve které čtenář žije: dvě malá písmena, nic jiného. Co tomu
+     v úložišti neodpovídá, bereme jako „žádná vybraná" — cizí zápis
+     nemá co posílat čtenáře na adresu, která neexistuje. */
+  function code(v) {
+    return (typeof v === "string" && /^[a-z][a-z]$/.test(v)) ? v : "";
+  }
+
   function copy(v) {
     return {
       amount: v.amount, tone: v.tone, brake: v.brake,
       mute: v.mute.slice(0), secs: v.secs.slice(0), tags: v.tags.slice(0),
-      own: (v.own || []).slice(0)
+      own: (v.own || []).slice(0), land: code(v.land)
     };
   }
 
@@ -99,7 +106,7 @@
       if (!v || typeof v !== "object" || isArr(v)) return null;
       // nesmysl v úložišti se bere jako „čtenář si nic nenastavil“
       if (!("amount" in v) && !("tone" in v) && !("mute" in v) && !("brake" in v)
-        && !("secs" in v) && !("tags" in v) && !("own" in v)) return null;
+        && !("secs" in v) && !("tags" in v) && !("own" in v) && !("land" in v)) return null;
       return {
         amount: num(v.amount, 1, 3, DEF.amount),
         tone: num(v.tone, 1, 3, DEF.tone),
@@ -107,7 +114,8 @@
         brake: v.brake !== false,
         secs: strs(v.secs),
         tags: strs(v.tags),
-        own: owns(v.own)
+        own: owns(v.own),
+        land: code(v.land)
       };
     } catch (e) { return null; }
   }
@@ -862,6 +870,8 @@
         rail();
         article();
         foryou();
+        navLand();
+        landRow();
         close();
       });
       form.addEventListener("input", function (e) {
@@ -879,6 +889,9 @@
         apply();
         rail();
         foryou();
+        // „zpět" maže všechno, tedy i zemi — menu i řádek to musí vědět
+        navLand();
+        landRow();
       });
     }
   }
@@ -1053,6 +1066,130 @@
       .catch(function () { fyShow(false); });
   }
 
+  /* ==================================================== moje země
+     Čtenář si vybere zemi, ve které žije, a odkaz v menu ho pak vodí
+     rovnou na ni. Kód země leží v témž nastavení jako všechno ostatní,
+     tedy jen v jeho prohlížeči. Nikam se neposílá, do adresy se
+     nepřidává a v žádném měření se neobjeví — je to jeho věc, ne naše.
+
+     Vybrat zemi jde jenom na rozcestníku, vědomým kliknutím. Příchod
+     z vyhledávače na stránku některé země nic neukládá: to by nebyla
+     volba, ale dohad.
+     ================================================================ */
+
+  /* Odkaz v hlavním menu. S uloženou zemí míří rovnou na ni, jinak
+     zůstane tak, jak přišel ze serveru — na rozcestník. */
+  function navLand() {
+    var a = doc.querySelector("a.nav-land");
+    if (!a) return;
+    var to = a.getAttribute("data-land-base") || "";
+    if (!to) return;
+    var c = now().land;
+    a.setAttribute("href", c ? to + c + "/" : to);
+  }
+
+  /* Ukládá se celé nastavení najednou. Když si čtenář do téhle chvíle
+     nic nenastavil, uloží se k zemi i výchozí hodnoty — stejně jako
+     když zavře uvítacího průvodce. */
+  function landSave(c) {
+    if (!c) return;
+    var v = copy(now());
+    v.land = c;
+    cfg = v;
+    save(v);
+  }
+
+  function landForget() {
+    if (!cfg || !cfg.land) return;
+    cfg.land = "";
+    save(cfg);
+    navLand();
+    landRow();
+  }
+
+  /* Jméno země umíme přečíst jen tam, kde na stránce je: v mřížce
+     rozcestníku nebo na stránce té země. Jinde zbývá kód — a ten je
+     pořád lepší než mlčení. Seznam zemí do skriptu nepatří, nešel by
+     přeložit. */
+  function landName(c) {
+    if (!c) return "";
+    var pick = doc.querySelector('a.land-a[data-code="' + c + '"]');
+    if (pick) return trim(pick.getAttribute("data-label")) || c.toUpperCase();
+    var page = doc.querySelector('[data-country="' + c + '"]');
+    if (page) return trim(page.getAttribute("data-country-label")) || c.toUpperCase();
+    return c.toUpperCase();
+  }
+
+  /* Rozcestník. Kliknutí zemi uloží a pak nechá odkaz odejít, jak by
+     odešel sám — bez skriptu funguje stránka stejně, jen si nic
+     nepamatuje. */
+  function landPick() {
+    var box = doc.getElementById("land-pick");
+    if (!box) return;
+
+    box.addEventListener("click", function (e) {
+      var el = e.target;
+      while (el && el !== box) {
+        if (el.hasAttribute && el.hasAttribute("data-code")) {
+          landSave(code(el.getAttribute("data-code")));
+          return;
+        }
+        el = el.parentNode;
+      }
+    });
+
+    // vybraná země nahoru, pod nadpis, který na ni v HTML čeká schovaný
+    var c = now().land;
+    if (!c) return;
+    var mine = box.querySelector('a.land-a[data-code="' + c + '"]');
+    var host = doc.getElementById("land-saved");
+    var head = doc.getElementById("land-saved-h");
+    if (!mine || !mine.parentNode || !host) return;
+    mine.classList.add("on");
+    host.appendChild(mine.parentNode);
+    swap(host, true);
+    swap(head, true);
+  }
+
+  /* Řádek v nastavení čtení: co má čtenář uložené a kudy to změnit.
+     Křížek zapomene jen zemi, ostatního nastavení se nedotkne. Štítek
+     je týž jako u vlastních témat, aby se to ovládalo stejně. */
+  function landRow() {
+    var box = doc.querySelector("#reader-panel .reader-box");
+    if (!box) return;
+    var old = doc.getElementById("reader-land");
+    if (old && old.parentNode) old.parentNode.removeChild(old);
+
+    var c = now().land;
+    var row = doc.createElement("p");
+    row.className = "reader-land";
+    row.id = "reader-land";
+
+    if (c) {
+      var lab = doc.createElement("span");
+      lab.className = "reader-land-lab";
+      lab.textContent = T.coSaved || "";
+      row.appendChild(lab);
+      row.appendChild(ownChip(landName(c)));
+    }
+
+    var go = doc.createElement("a");
+    go.className = "reader-land-go";
+    go.href = base + "/" + lang + "/country/";
+    go.textContent = (c ? T.coChange : T.coPick) || "";
+    row.appendChild(go);
+
+    row.addEventListener("click", function (e) {
+      var el = e.target;
+      while (el && el !== row) {
+        if (el.classList && el.classList.contains("ob-own-x")) { landForget(); return; }
+        el = el.parentNode;
+      }
+    });
+
+    box.insertBefore(row, box.querySelector(".reader-again"));
+  }
+
   /* ====================================================== průvodce
      První návštěva: klidná nabídka, ne uvítací zeď. Dá se zavřít,
      přeskočit nebo prostě ignorovat a číst dál. Zavření uloží výchozí
@@ -1198,6 +1335,9 @@
     mount(doc.getElementById("reader-form"), "reader");
     ownWire(doc.getElementById("reader-form"));
     wire();
+    navLand();
+    landPick();
+    landRow();
     apply();
     sorter();
     rail();

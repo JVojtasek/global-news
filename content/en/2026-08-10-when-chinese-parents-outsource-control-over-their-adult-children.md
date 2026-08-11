@@ -15,8 +15,8 @@ image_query: When Chinese parents outsource control over
 impact:
   areas: [health, safety]
   line: >-
-    Nothing here reaches a European household directly. It matters because of
-    how a label works: internet addiction is not in the ICD-11, yet in China it
+    If you live outside China this changes nothing in your own home. It matters
+    because of how a label works: internet addiction is not in the ICD-11, yet in China it
     was enough to have a legally independent adult confined by a private company
     her family paid.
   todo: >-

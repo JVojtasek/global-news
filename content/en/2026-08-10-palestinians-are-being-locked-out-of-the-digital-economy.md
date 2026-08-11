@@ -15,8 +15,8 @@ image_query: Palestinians are being locked out of
 impact:
   areas: [money, life]
   line: >-
-    For a reader in Europe this changes nothing day to day. It matters if you
-    hire or pay someone there: Palestinians in the West Bank and Gaza cannot use
+    For most readers this changes nothing day to day. It matters if you hire or
+    pay someone there: Palestinians in the West Bank and Gaza cannot use
     PayPal, Gaza runs largely on 2G, and 81% of its telecoms network is
     destroyed.
   todo: >-

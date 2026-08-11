@@ -246,7 +246,7 @@ Rychlá a viditelná oprava je nejlepší obrana — právní i lidská.
 
 ---
 
-## 8. OBRÁZKY — BEZPEČNOSTNÍ SÍTO
+## 9. OBRÁZKY — BEZPEČNOSTNÍ SÍTO
 
 Stalo se to jednou a stačilo to: článek o učitelích a datech z družice
 dostal jako titulní fotku erotickou kresbu. Z titulku „Educators, Teens
@@ -275,3 +275,29 @@ není v pořádku nikdy.
 Když se něco takového přesto objeví, smaž `data/covers/<slug>.jpg`
 i `.json`, přidej to slovo do `BLOCK_WORDS` a spusť kontrolu znovu
 nad všemi obrázky.
+
+
+---
+
+## 10. CO TO ZNAMENÁ PRO MOU ZEMI
+
+Čtenář si vybere zemi, ve které žije, a dostane posledních čtrnáct dní
+zpráv, které se jí opravdu týkají. Výběr země je uložený jen v jeho
+prohlížeči — platí pro něj celý oddíl 5.
+
+Tři pravidla navíc, protože tahle rubrika svádí ke dvěma chybám:
+
+1. **Dopad se píše bez domovské země.** Řádek `impact.line` se ukazuje
+   na padesáti stránkách zároveň. „Pro čtenáře v Evropě to nic nemění"
+   je na americké stránce nesmysl. Píše se „většině čtenářů", „kdo
+   nežije v Číně", „jinde se zatím nic nemění".
+
+2. **Zpráva bez bloku `impact:` se vypíše holá.** Titulek, perex, datum.
+   Nic se nedomýšlí. Blok „Taky odtud" rovnou říká, že u těchhle zpráv
+   neumíme poctivě napsat, co mění — a je to tak správně.
+
+3. **Zemi nikdy nepřiřazuj podle dohadu.** Do `data/countries.yml`
+   patří jen slova, která nemůžou znamenat nic jiného. Zpráva na
+   stránce špatné země je horší než zpráva, která tam chybí. Když
+   k zemi za čtrnáct dní nic není, stránka to napíše a tím to končí —
+   nikdy se nevycpává nesouvisejícími zprávami.

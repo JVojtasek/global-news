@@ -118,6 +118,47 @@ sections:
   - {id: soul,      en: "Soul",           cs: "Duše",          primary: false, calm: true}
 
 # ---------------------------------------------------------------------
+# SOBOTNÍ VYDÁNÍ
+#   Tohle je to, kvůli čemu se web jmenuje Moje noviny: jednou týdně
+#   vydání, které **skončí**. Všechno ostatní na internetu je nekonečný
+#   proud — dočteš jednu věc a máš pod ní tři další. Tady čtenář v sobotu
+#   u kávy dojede na konec stránky a je hotový. Nic se nedonačítá,
+#   nic se pod tím nenabízí.
+#
+#   Nepíše se pro to nic navíc. Vydání se poskládá samo z článků, které
+#   ten týden vyšly: pět shrnutí (vrstva BRIEFLY), jedno dlouhé čtení,
+#   praktické dopady, dobrá zpráva, otázky na konec a citát. Když na
+#   nějakou sekci ten týden materiál není, sekce se prostě vynechá.
+# ---------------------------------------------------------------------
+weekend:
+  # Vypnutím zmizí vydání i odkaz na ně v menu. Nic jiného se nestane —
+  # články zůstanou tam, kde jsou. Vydání je jen jinak skládá.
+  enabled: true
+
+  # Kdy vydání vychází: mon tue wed thu fri sat sun.
+  # Sobota proto, že to je den, kdy má člověk čas dočíst do konce.
+  # Celý týden se pak ukazuje totéž číslo a nemění se — noviny, které
+  # se přeskládají každý den, by nikdy neskončily.
+  day: sat
+
+  # Kolik dní vydání pokrývá. Sedm = přesně týden a posledním dnem je
+  # den vydání. Míň než sedm znamená, že část týdne se do vydání
+  # nedostane, a to je škoda článků.
+  window_days: 7
+
+  # Datum prvního čísla. Slouží jen k číslování: od něj se počítá,
+  # kolikáté číslo právě vychází (č. 1, č. 2, …) a podle něj se jmenují
+  # adresy v archivu. Až první číslo vyjde, na tenhle řádek už nesahej —
+  # přečíslovala by se všechna.
+  first_issue: "2026-08-15"
+
+  # Kolik shrnutí je v „Týdnu v pěti minutách". Pět jich je proto, že
+  # se to opravdu přečte za pět minut. Když jich ten týden tolik není,
+  # ukáže se jich míň — nikdy se nedoplňují slabším článkem jen proto,
+  # aby jich bylo pět.
+  briefly_count: 5
+
+# ---------------------------------------------------------------------
 # OBRÁZKY
 # ---------------------------------------------------------------------
 images:
