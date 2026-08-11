@@ -136,6 +136,27 @@ Pravidla, ktera se neporusuji:
     oficialni informace, jake cislo sledovat.
   - Kdyz to nejde napsat poctive, blok vynech. Prazdno je lepsi nez vata.
 
+## 3d. VELKE PROBLEMY — JEDNA STRANKA TYDNE
+
+V `content/problems/` je deset stranek. Kazda stoji na cislech, ktera
+zestarnou. **Kazdy den vezmi jednu** (tu s nejstarsim `updated:`) a:
+
+  1. Otevri zdroje z bloku `sources:` a zkontroluj, jestli nevyslo
+     novejsi cislo. Kdyz jo, oprav `measure`, `board` a `updated`.
+  2. Kdyz zadne nove cislo neni, prepis jen `updated:` na dnesek.
+     To je poctive: znamena to „dneska nekdo koukal a plati to".
+  3. Nikdy nepridavej dopad, ktery nema zdroj. Prazdno je lepsi.
+
+Blok `machine:` je POCET, ne rada. Kdyz se v nem objevi „musime",
+„melo by se", „should", „must", kontrola stranku odmitne — a ma pravdu.
+Blok `blind:` se nikdy nekrati; je to duvod, proc rubrika existuje.
+
+Kontrola: `python -m engine.problems` — musi hlasit 20 stranek v poradku.
+
+Pozor na jednu vec: v hlavicce nesmi byt obycejna uvozovka (") uvnitr
+textu v uvozovkach. Ceska zaviraci je `"`. Kdyz se to splete, stranka
+tise zmizi z webu a kontrola to rekne.
+
 ## 3c. PREKLAD PREVZATYCH CLANKU DO CESTINY
 
 Ceska verze zaostava za anglickou. Kazdou smenu prelozit **az osm**
