@@ -76,6 +76,15 @@ nebo z textu vyhodí. Jediné vymyšlené číslo shodí článek k ruční kont
 Nad tím ještě běží kontrola čitelnosti: odstavec delší než 190 slov nebo
 průměrná věta přes 32 slov článek zastaví. Zeď textu nikdo nečte.
 
+### The Wider Lens
+
+Článek dne a vlastní analýzy nesou analytickou značku **The Wider Lens**.
+Nejde o druhý web: My Paper dodává zprávy, paměť a distribuci; The Wider
+Lens je hlubší formát nad stejnými daty. K běžným vrstvám přidává audit
+důkazů (`EVIDENCE`) a porovnání doložitelných výkladů (`PERSPECTIVES`).
+U byznysových a technologických témat může čtenář pokračovat do QMA,
+kde se příběh mění na měřitelná data, finanční zdraví, ocenění a rizika.
+
 ## Témata, po kterých je poptávka
 
 `engine/trends.py` hledá, o čem lidé skutečně chtějí číst — ale ne tak,

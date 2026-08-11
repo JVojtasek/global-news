@@ -1,0 +1,18 @@
+# The Wider Lens is not a second site. It is the label and method for
+# My Paper's deepest original analysis. Market consequences continue in QMA.
+enabled: true
+name: "The Wider Lens"
+nav_en: "The Wider Lens"
+nav_cs: "Širší pohled"
+eyebrow_en: "THE WIDER LENS ANALYSIS"
+eyebrow_cs: "ANALÝZA THE WIDER LENS"
+promise_en: "Evidence first. Competing perspectives. Practical consequences."
+promise_cs: "Nejdřív důkazy. Různé pohledy. Praktické důsledky."
+method_en: "We separate what is verified, what sources dispute, what remains unknown and what may change for you."
+method_cs: "Oddělujeme ověřené skutečnosti, sporné výklady, neznámé a to, co se může změnit pro tebe."
+qma:
+  enabled: true
+  url: "https://quantummarketanalyzer.com/"
+  sections: [business, tech]
+  label_en: "Continue from the story to the market data in QMA"
+  label_cs: "Pokračovat od příběhu k tržním datům v QMA"
