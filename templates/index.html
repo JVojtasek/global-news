@@ -51,8 +51,8 @@
   <div class="mainside" id="wider-lens">
 
     {% if lead %}
-    {% if wider_lens.enabled and lead.is_wider_lens %}
-    <section class="lens-intro" aria-label="{{ wider_lens.name }}">
+    {% if wider_lens.enabled %}
+    <section class="lens-intro{% if not lead.is_wider_lens %} lens-standard{% endif %}" aria-label="{{ wider_lens.name }}">
       <div>
         <span class="lens-mark" aria-hidden="true"><i></i><i></i><i></i></span>
         <div>
@@ -61,8 +61,12 @@
         </div>
       </div>
       <div class="lens-proof">
+        {% if lead.is_wider_lens %}
         {% if lead.sources %}<span><b>{{ lead.sources|length }}</b> {{ t.sources_word }}</span>{% endif %}
         {% if lead.confidence %}<span><b>{{ lead.confidence }}/100</b> {{ t.confidence|lower }}</span>{% endif %}
+        {% else %}
+        <span class="lens-qualification">{{ wider_lens['qualification_' ~ lang] or wider_lens.qualification_en }}</span>
+        {% endif %}
         <span class="lens-method">{{ wider_lens['method_' ~ lang] or wider_lens.method_en }}</span>
       </div>
     </section>
