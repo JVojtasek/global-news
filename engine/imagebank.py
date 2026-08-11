@@ -547,18 +547,14 @@ def find(meta: dict, skip: set | None = None) -> dict | None:
 def download(hit: dict, out_path) -> bool:
     """Stáhne obrázek do public/. Vrátí False, když se to nepovede.
 
-    Wikimedia při rychlém stahování vrací 429 („moc dotazů"). Není to
-    chyba, jen se má počkat — tak počkáme a zkusíme to znovu.
+    Wikimedia při rychlém stahování vrací 429 („moc dotazů"). V takovém
+    případě pokračujeme bez obrázku a zkusíme ho doplnit při příštím běhu.
+    Čekání a opakované pokusy by blokovaly vydání celého webu.
     """
     try:
-        r = None
-        for attempt in range(4):
-            r = requests.get(hit["url"], headers={"User-Agent": UA}, timeout=60)
-            if r.status_code != 429:
-                break
-            time.sleep(4 * (attempt + 1))
-        if r is None or r.status_code != 200 or len(r.content) < 5000:
-            if r is not None and r.status_code != 200:
+        r = requests.get(hit["url"], headers={"User-Agent": UA}, timeout=25)
+        if r.status_code != 200 or len(r.content) < 5000:
+            if r.status_code != 200:
                 config.log(f"    stažení {r.status_code}: {hit['url'][:70]}")
             return False
         from io import BytesIO
