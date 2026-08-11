@@ -7,12 +7,11 @@ from __future__ import annotations
 
 import sys
 
-from . import ai, article, config
+from . import ai, article, config, safety
 
 PROMPT = (config.ROOT / "engine" / "prompts" / "translate.md").read_text(encoding="utf-8")
 
 LANG_NAMES = {"cs": "čeština", "sk": "slovenčina", "pl": "polski", "de": "Deutsch", "es": "español"}
-
 
 def run(limit: int = 6) -> int:
     site = config.site()
@@ -25,6 +24,7 @@ def run(limit: int = 6) -> int:
         orphans = [
             (m, b) for m, b, _ in article.load_all(lang)
             if m.get("status") == "published" and m.get("slug") not in master_slugs
+            and safety.translation_allowed(m)
         ]
         orphans.sort(key=lambda t: t[0].get("date", ""), reverse=True)
         for meta, body in orphans[:limit]:
@@ -39,10 +39,8 @@ def run(limit: int = 6) -> int:
                 m2.update({
                     "lang": master, "slug": meta["slug"], "date": meta["date"],
                     "status": meta["status"], "confidence": meta.get("confidence", 0),
-                    "sources": meta.get("sources", []), "type": meta.get("type"),
-                    "section": meta.get("section"), "depth": meta.get("depth", "open"),
-                    "origin": meta.get("origin"), "translated_from": lang,
                 })
+                safety.copy_provenance(meta, m2, source_lang=lang)
                 article.save(m2, b2)
                 master_slugs.add(meta["slug"])
                 done += 1
@@ -59,7 +57,7 @@ def run(limit: int = 6) -> int:
         todo = [
             (m, b) for m, b, _ in article.load_all(master)
             if m.get("status") == "published" and m.get("slug") not in existing
-            and (m.get("syndicated") or {}).get("may_translate", True)
+            and safety.translation_allowed(m)
         ]
         todo.sort(key=lambda t: t[0].get("date", ""), reverse=True)
 
@@ -81,10 +79,7 @@ def run(limit: int = 6) -> int:
                 m2["date"] = meta["date"]
                 m2["status"] = meta["status"]
                 m2["confidence"] = meta.get("confidence", 0)
-                m2["sources"] = meta.get("sources", [])
-                m2["type"] = meta.get("type")
-                m2["section"] = meta.get("section")
-                m2["translated_from"] = master
+                safety.copy_provenance(meta, m2, source_lang=master)
                 article.save(m2, b2)
                 done += 1
             except ai.BudgetExceeded as e:

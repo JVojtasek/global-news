@@ -38,7 +38,7 @@
       {% if seo.reading_time and a.reading_time %}<span>{{ a.reading_time }} min</span>{% endif %}
       {% if a.passage %}<span>{{ a.passage }}</span>{% endif %}
       {% if a.sources %}<span>{{ a.sources|length }} {{ t.sources_word }}</span>{% endif %}
-      {% if a.confidence %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
+      {% if a.confidence and a.type not in ['imported', 'syndicated'] %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
       {% if a.access_state == "early" %}<span class="badge">{{ t.mem_early_badge }}</span>{% endif %}
     </div>
     {% if wider_lens.enabled and a.is_wider_lens %}
