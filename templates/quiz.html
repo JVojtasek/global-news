@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}{{ quiz.title }} — {{ brand }}{% endblock %}
+{% block description %}{{ quiz.dek }}{% endblock %}
+{% block head %}
+<script type="application/ld+json">{{ quiz_jsonld|safe }}</script>
+<script src="{{ base }}/quiz.js?v={{ asset_version }}" defer></script>
+{% endblock %}
+{% block body %}
+<main class="quiz-page wide">
+  <p class="quiz-back"><a href="{{ base }}/{{ lang }}/quizzes/">← {{ t.quiz_all }}</a></p>
+  <header class="quiz-head">
+    <p class="kicker">{{ t.quiz_daily }}</p>
+    <h1>{{ quiz.title }}</h1>
+    <p class="quiz-dek">{{ quiz.dek }}</p>
+    <p class="quiz-meta"><time datetime="{{ quiz.date }}">{{ quiz.date|datewords(lang) }}</time> · {{ quiz.questions|length }} {{ t.quiz_questions }} · {{ quiz.estimated_minutes }} {{ t.quiz_minutes }}</p>
+    <p class="quiz-intro">{{ quiz.intro }}</p>
+    <p class="quiz-private">{{ t.quiz_private }}</p>
+  </header>
+
+  <form class="daily-quiz" id="daily-quiz" novalidate>
+    <div class="quiz-progress" aria-live="polite">
+      <span id="quiz-progress-label">0 / {{ quiz.questions|length }}</span>
+      <span class="quiz-progress-track" aria-hidden="true"><i id="quiz-progress-bar"></i></span>
+    </div>
+    {% for question in quiz.questions %}
+    <fieldset class="quiz-question" data-question="{{ question.id }}">
+      <legend><span>{{ loop.index }}.</span> {{ question.text }}</legend>
+      <div class="quiz-answers">
+        {% for option in question.options %}
+        <label><input type="radio" name="{{ question.id }}" value="{{ loop.index0 }}"><span>{{ option.label }}</span></label>
+        {% endfor %}
+      </div>
+    </fieldset>
+    {% endfor %}
+    <p class="quiz-form-error" id="quiz-form-error" role="alert" hidden>{{ t.quiz_answer_all }}</p>
+    <button class="quiz-submit" type="submit">{{ t.quiz_result_button }}</button>
+  </form>
+
+  <section class="quiz-personal-result" id="quiz-personal-result" tabindex="-1" aria-live="polite" hidden>
+    <p class="kicker">{{ t.quiz_your_result }}</p>
+    <p class="quiz-score" id="quiz-score"></p>
+    <h2 id="quiz-result-title"></h2>
+    <p class="quiz-result-summary" id="quiz-result-summary"></p>
+    <div class="quiz-insights">
+      <article id="quiz-strength" hidden><span>{{ t.quiz_strength }}</span><h3></h3><p></p></article>
+      <article id="quiz-next" hidden><span>{{ t.quiz_next }}</span><h3></h3><p></p></article>
+      <article id="quiz-watch" hidden><span>{{ t.quiz_watchout }}</span><h3></h3><p></p></article>
+    </div>
+    <div class="quiz-result-actions">
+      <button type="button" id="quiz-reset">{{ t.quiz_reset }}</button>
+      <a href="{{ base }}/{{ lang }}/quizzes/">{{ t.quiz_more }} →</a>
+    </div>
+  </section>
+
+  <aside class="quiz-evidence">
+    <h2>{{ t.quiz_what_means }}</h2>
+    <p>{{ quiz.disclaimer }}</p>
+    <h3>{{ t.sources }}</h3>
+    <ul>
+      {% for source in quiz.sources %}<li><a href="{{ source.url }}" rel="noopener">{{ source.name }}</a>{% if source.published %} · {{ source.published }}{% endif %}</li>{% endfor %}
+    </ul>
+  </aside>
+</main>
+<script type="application/json" id="quiz-data">{{ {"quiz": quiz.payload, "labels": quiz_labels}|tojson }}</script>
+{% endblock %}
