@@ -274,6 +274,49 @@
    ]
   },
   {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "house",
+    "white",
+    "trump",
+    "karoline",
+    "leavitt"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "94761ad38bf7",
    "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
    "section": "tech",
@@ -904,5 +947,5 @@
    ]
   }
  ],
- "updated": "2026-08-12T18:35:09+00:00"
+ "updated": "2026-08-12T21:30:34+00:00"
 }

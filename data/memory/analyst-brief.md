@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-12
 
-Paměť obsahuje **20 vláken**. Aktivních za posledních 14 dní: **7**.
+Paměť obsahuje **21 vláken**. Aktivních za posledních 14 dní: **8**.
 
 ---
 
@@ -45,14 +45,14 @@ Paměť obsahuje **20 vláken**. Aktivních za posledních 14 dní: **7**.
   - **2026-08-11** (3 zdrojů) Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
   - **2026-08-11** (2 zdrojů) Syrian court sentences Bashar al-Assad and Atef Najib to death
 
+### Trump says White House press secretary Karoline Leavitt to leave post
+- rubrika `world` · sledováno 0 dní · 2 záznamů
+- časová osa:
+  - **2026-08-12** (4 zdrojů) Trump says White House press secretary Karoline Leavitt to leave post
+  - **2026-08-12** (2 zdrojů) The White House’s plan to vet potentially dangerous AI is cloaked in secrecy
+
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 0 dní · 2 záznamů
 - časová osa:
   - **2026-08-10** (4 zdrojů) OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
   - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 1 dní · 2 záznamů
-- časová osa:
-  - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-  - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
