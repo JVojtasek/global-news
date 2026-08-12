@@ -86,7 +86,7 @@
    bereme z nastavení — dokud v šabloně žádná není, políčko zůstane
    nečinné a pod ním je poctivé „připravujeme“, ne slib naprázdno. #}
 {% set nl_mail = newsletter.email or mem.email or brand_email or site_email or '' %}
-<section class="signup">
+<section class="signup" id="newsletter">
   <div class="wrap">
     <h2>{{ nl_headline }}</h2>
     <p>{{ nl_text }}</p>
@@ -318,6 +318,7 @@ function tdsTheme(){
   "coPick": t.co_pick
 }|tojson }};</script>
 <script src="{{ base }}/reader.js?v={{ asset_version }}" defer></script>
+<script src="{{ base }}/live.js?v={{ asset_version }}" defer></script>
 {%- if page_type == "archive" %}
 {# Odkaz z vyhledávače může nést hledaný výraz (?q=…). Předvyplní se
    jím políčko a spustí se totéž filtrování, které dělá psaní rukou —

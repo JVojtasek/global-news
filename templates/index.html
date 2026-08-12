@@ -119,20 +119,7 @@
     <cite>— {{ wit.author }}</cite>
   </aside>
   {% endif %}
-  {% if ticker %}
-  <aside class="ticker">
-    <h2>{{ t.ticker_title }}</h2>
-    <ol>
-      {% for i in ticker %}
-      <li{% if i.hot %} class="hot"{% endif %}>
-        <a href="{{ i.url }}" rel="nofollow noopener" target="_blank">{{ i.headline }}</a>
-        <em>{{ i.source }}{% if i.sources_count > 1 %} · {{ i.sources_count }} {{ t.sources_word }}{% endif %}</em>
-      </li>
-      {% endfor %}
-    </ol>
-    <p class="note">{{ t.ticker_note }}</p>
-  </aside>
-  {% endif %}
+  {% include "_ticker.html" %}
   </div>
 </div>
 

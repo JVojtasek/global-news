@@ -1,0 +1,39 @@
+# Lehký živý proud titulků. Nepoužívá AI ani placené API a nespouští
+# stavbu celého webu. Výsledek drží samostatná generovaná větev, aby
+# hlavní větev nedostávala 288 technických commitů denně.
+name: "0 · Živé zprávy po 5 minutách"
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-news-feed
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 1}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+      - run: python -m engine.livefeed
+
+      - name: Vystavit jediný aktuální snapshot
+        run: |
+          git config user.name "newsroom-live-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add static/live-news.json
+          git commit -m "[live] $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push --force origin HEAD:live-feed
