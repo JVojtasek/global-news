@@ -34,14 +34,20 @@ def test_articles_last_24_hours_are_exact_and_newest_first():
 
 def test_live_events_drop_stale_or_unverifiable_items_and_sort(tmp_path):
     events = [
-        {"headline": "A stale but otherwise perfectly valid headline", "created": "2026-08-11T07:00:00Z",
+        {"headline": "A stale but otherwise perfectly valid headline", "event_time": "2026-08-11T07:00:00Z",
+         "time_kind": "published",
          "section": "world", "items": [{"url": "https://example.com/stale", "source": "Example"}]},
-        {"headline": "The second fresh event has a useful direct source", "created": "2026-08-12T06:00:00Z",
+        {"headline": "The second fresh event has a useful direct source", "event_time": "2026-08-12T06:00:00Z",
+         "time_kind": "published",
          "section": "world", "sources_count": 2,
          "items": [{"url": "https://example.com/second", "source": "Example"}]},
-        {"headline": "The newest fresh event has a useful direct source", "created": "2026-08-12T07:00:00Z",
+        {"headline": "The newest fresh event has a useful direct source", "event_time": "2026-08-12T07:00:00Z",
+         "time_kind": "published",
          "section": "world", "items": [{"url": "https://example.com/newest", "source": "Example"}]},
-        {"headline": "No timestamp means this cannot be called fresh", "section": "world",
+        {"headline": "A fresh collection time must not revive an old headline", "created": "2026-08-12T07:55:00Z",
+         "event_time": "2026-08-10T07:55:00Z", "time_kind": "seen", "section": "world",
+         "items": [{"url": "https://example.com/seen", "source": "Example"}]},
+        {"headline": "No publisher timestamp means this cannot be called fresh", "section": "world",
          "items": [{"url": "https://example.com/no-time", "source": "Example"}]},
     ]
     path = tmp_path / "events.json"
@@ -94,3 +100,45 @@ def test_agenda_calendar_requires_same_day_direct_https_and_localises(tmp_path):
     assert got[0]["title"] == "Ověřené zveřejnění statistiky"
     assert got[0]["starts_label"] == "09:00 CEST"
     assert got[0]["countries"]["direct"] == ["gb"]
+
+
+def test_practical_decisions_enforce_official_source_expiry_and_country(tmp_path):
+    rows = [
+        {
+            "level": "prepare", "title_en": "A valid low-cost preparation",
+            "why_en": "An official current warning justifies a reversible preparation.",
+            "action_en": "Charge the device you already own.", "trigger_en": "Only if the warning remains active.",
+            "publisher": "Authority", "source_url": "https://example.com/official",
+            "official": True, "valid_until": "2026-08-12T12:00:00Z",
+            "countries": ["gb"], "scope": "none",
+        },
+        {
+            "level": "act", "title_en": "An unsourced order must be rejected",
+            "why_en": "The wording sounds urgent but the safety contract must still hold.",
+            "action_en": "Do something irreversible now.", "trigger_en": "Immediately.",
+            "publisher": "Blog", "source_url": "https://example.com/blog",
+            "official": False, "valid_until": "2026-08-12T12:00:00Z",
+            "countries": ["gb"], "scope": "none",
+        },
+        {
+            "level": "act", "title_en": "A global act order must be rejected",
+            "why_en": "Even an official source cannot issue a placeless instruction here.",
+            "action_en": "Leave the area immediately.", "trigger_en": "When told.",
+            "publisher": "Authority", "source_url": "https://example.com/global",
+            "official": True, "valid_until": "2026-08-12T12:00:00Z",
+            "countries": [], "scope": "global",
+        },
+    ]
+    path = tmp_path / "agenda.md"
+    path.write_text("## Briefing practical decisions\n\n```json\n" + json.dumps(rows) + "\n```\n",
+                    encoding="utf-8")
+    got = morning.actions_from_agenda("2026-08-12", "en", NOW, path)
+    assert [item["title"] for item in got] == ["A valid low-cost preparation"]
+
+
+def test_readiness_tip_is_deterministic_and_uses_official_https_source():
+    one = morning.readiness_tip("2026-08-12", "cs")
+    two = morning.readiness_tip("2026-08-12", "cs")
+    assert one == two
+    assert one["url"].startswith("https://")
+    assert one["level"] == "prepare"

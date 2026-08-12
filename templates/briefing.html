@@ -2,7 +2,13 @@
 {% block title %}{{ t.brief_page_title }} — {{ brand }}{% endblock %}
 {% block description %}{{ t.brief_page_intro }}{% endblock %}
 {% block body %}
-<main class="morning wide" id="morning-briefing">
+<main class="morning wide" id="morning-briefing" data-live-briefing
+      data-live-url="https://raw.githubusercontent.com/JVojtasek/global-news/live-feed/static/live-news.json"
+      data-lang="{{ lang }}" data-brief-world-limit="8" data-brief-local-limit="120"
+      data-empty-label="{{ t.ticker_empty }}" data-sources-word="{{ t.sources_word }}"
+      data-country-label="{{ t.brief_country_mark }}"
+      data-ago-now="{{ t.ticker_ago_now }}" data-ago-min="{{ t.ticker_ago_min }}"
+      data-ago-hour="{{ t.ticker_ago_hour }}" data-ago-day="{{ t.ticker_ago_day }}">
   <header class="morning-head">
     <p class="kicker">{{ today_label }}</p>
     <h1>{{ t.brief_page_title }}</h1>
@@ -31,13 +37,12 @@
     </div>
   </header>
 
-  <section class="brief-block" data-brief-section>
+  <section class="brief-block" data-brief-section data-brief-role="world">
     <div class="brief-block-head">
-      <div><p class="brief-step">01</p><h2>{{ t.brief_live }}</h2></div>
-      <p>{{ t.brief_live_help }}</p>
+      <div><p class="brief-step">01</p><h2>{{ t.brief_world }}</h2></div>
+      <p>{{ t.brief_world_help }}</p>
     </div>
-    {% if briefing.live %}
-    <ol class="brief-list brief-live-list">
+    <ol class="brief-list brief-live-list" data-live-brief-world aria-live="polite">
       {% for item in briefing.live %}
       <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}">
         <div class="brief-time"><time datetime="{{ item.created_iso }}">{{ item.brief_time }}</time>{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
@@ -50,35 +55,60 @@
       </li>
       {% endfor %}
     </ol>
-    {% else %}<p class="brief-empty">{{ t.brief_empty_live }}</p>{% endif %}
+    {% if not briefing.live %}<p class="brief-empty" data-live-brief-loading>{{ t.ticker_loading }}</p>{% endif %}
     <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
   </section>
 
-  <section class="brief-block" data-brief-section>
+  <section class="brief-block brief-local" data-brief-section data-brief-role="home">
     <div class="brief-block-head">
-      <div><p class="brief-step">02</p><h2>{{ t.brief_recent }}</h2></div>
-      <p>{{ t.brief_recent_help }}</p>
+      <div><p class="brief-step">02</p><h2>{{ t.brief_local }}</h2></div>
+      <p>{{ t.brief_local_help }}</p>
     </div>
-    {% if briefing.recent %}
     <ol class="brief-list">
-      {% for item in briefing.recent %}
-      <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section }}" data-tags="{{ item.tags_csv }}" data-topics="{{ item.topics_csv }}">
-        <div class="brief-time"><time datetime="{{ item.published_iso }}">{{ item.brief_time }}</time><span>{{ item.section_label }}</span></div>
+      {% for item in briefing.local %}
+      <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}">
+        <div class="brief-time">{% if item.brief_time %}<time datetime="{{ item.created_iso }}">{{ item.brief_time }}</time>{% endif %}{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
         <div class="brief-copy">
-          <span class="brief-country-mark" hidden>{{ t.brief_country_mark }}</span>
-          <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
-          <p>{{ item.dek }}</p>
+          <span class="brief-country-mark">{{ t.brief_country_mark }}</span>
+          <h3><a href="{{ item.url }}" rel="noopener">{{ item.title }}</a></h3>
+          <p>{{ item.why }}</p>
+          <p class="brief-provenance">{{ t.brief_source }}: {{ item.source }}</p>
         </div>
       </li>
       {% endfor %}
     </ol>
-    {% else %}<p class="brief-empty">{{ t.brief_empty_recent }}</p>{% endif %}
+    <ol class="brief-list brief-live-list" data-live-brief-home aria-live="polite"></ol>
+    <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
+  </section>
+
+  <section class="brief-block brief-decisions" data-brief-section>
+    <div class="brief-block-head">
+      <div><p class="brief-step">03</p><h2>{{ t.brief_practical }}</h2></div>
+      <p>{{ t.brief_practical_help }}</p>
+    </div>
+    {% if briefing.practical %}
+    <ol class="brief-list">
+      {% for item in briefing.practical %}
+      <li class="brief-item brief-action" data-action-level="{{ item.level }}" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}">
+        <div class="brief-time"><span class="brief-action-level">{{ item.level_label }}</span></div>
+        <div class="brief-copy">
+          <span class="brief-country-mark" hidden>{{ t.brief_country_mark }}</span>
+          <h3><a href="{{ item.url }}"{% if item.source != 'My Paper' %} rel="noopener"{% endif %}>{{ item.title }}</a></h3>
+          <p>{{ item.why }}</p>
+          {% if item.action %}<p class="brief-action-do"><strong>{{ t.brief_action }}:</strong> {{ item.action }}</p>{% endif %}
+          {% if item.trigger %}<p class="brief-action-trigger"><strong>{{ t.brief_trigger }}:</strong> {{ item.trigger }}</p>{% endif %}
+          <p class="brief-provenance">{{ t.brief_source }}: {{ item.source }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+    {% else %}<p class="brief-empty">{{ t.brief_empty_practical }}</p>{% endif %}
     <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
   </section>
 
   <section class="brief-block brief-watch" data-brief-section>
     <div class="brief-block-head">
-      <div><p class="brief-step">03</p><h2>{{ t.brief_watch }}</h2></div>
+      <div><p class="brief-step">04</p><h2>{{ t.brief_watch }}</h2></div>
       <p>{{ t.brief_watch_help }}</p>
     </div>
     <p class="brief-watch-kind">{{ t.brief_calendar if briefing.watch_is_calendar else t.brief_signals }}</p>
@@ -98,6 +128,37 @@
     </ol>
     {% else %}<p class="brief-empty">{{ t.brief_empty_watch }}</p>{% endif %}
     <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
+  </section>
+
+  <section class="brief-block brief-readiness" data-brief-section>
+    <div class="brief-block-head">
+      <div><p class="brief-step">05</p><h2>{{ t.brief_ready }}</h2></div>
+      <p>{{ t.brief_ready_help }}</p>
+    </div>
+    <article class="brief-ready-card">
+      <span class="brief-action-level">{{ briefing.readiness.level_label }}</span>
+      <h3>{{ briefing.readiness.title }}</h3>
+      <p>{{ briefing.readiness.action }}</p>
+      <p class="brief-provenance"><a href="{{ briefing.readiness.url }}" rel="noopener">{{ briefing.readiness.source }}</a></p>
+    </article>
+    <p class="brief-safety-note">{{ t.brief_ready_rule }}</p>
+  </section>
+
+  <section class="brief-block brief-durable" data-brief-section>
+    <div class="brief-block-head">
+      <div><p class="brief-step">06</p><h2>{{ t.brief_durable }}</h2></div>
+      <p>{{ t.brief_durable_help }}</p>
+    </div>
+    {% if briefing.durable %}
+    <ol class="brief-list">
+      {% for item in briefing.durable %}
+      <li class="brief-item" data-section="{{ item.section }}">
+        <div class="brief-time"><span>{{ item.section_label }}</span><span>{{ item.reading_time }} min</span></div>
+        <div class="brief-copy"><h3><a href="{{ item.url }}">{{ item.title }}</a></h3><p>{{ item.dek }}</p></div>
+      </li>
+      {% endfor %}
+    </ol>
+    {% else %}<p class="brief-empty">{{ t.brief_empty_recent }}</p>{% endif %}
   </section>
 
   <footer class="brief-done">

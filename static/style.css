@@ -1409,6 +1409,7 @@ nav.sections a.nav-brief{color:var(--accent);font-weight:700;letter-spacing:.1em
 .brief-personal p{font-size:.67rem;line-height:1.45;color:var(--ink-soft);margin:.45rem 0 0}
 
 .brief-block{padding:2rem 0 .5rem;border-bottom:1px solid var(--line)}
+.brief-block[hidden]{display:none}
 .brief-block-head{display:grid;grid-template-columns:minmax(13rem,.8fr) minmax(17rem,1.2fr);
   gap:2rem;align-items:start;margin-bottom:.9rem}
 .brief-block-head > div{display:flex;align-items:baseline;gap:.8rem}
@@ -1437,6 +1438,22 @@ nav.sections a.nav-brief{color:var(--accent);font-weight:700;letter-spacing:.1em
   text-transform:uppercase;margin:0 0 .35rem}
 .brief-country-mark[hidden]{display:none}
 .brief-watch-kind{border-color:var(--line);color:var(--ink-soft);margin:.1rem 0 .7rem}
+.brief-action-level{display:inline-flex;width:max-content;padding:.19rem .52rem;border-radius:99px;
+  background:var(--accent);color:#fff;font:700 .62rem/1.3 ui-sans-serif,system-ui,sans-serif;
+  letter-spacing:.08em;text-transform:uppercase}
+.brief-action[data-action-level="know"] .brief-action-level{background:var(--ink-soft)}
+.brief-action[data-action-level="watch"] .brief-action-level{background:#8a5a16}
+.brief-action[data-action-level="act"] .brief-action-level{background:#a12424}
+.brief-action-do,.brief-action-trigger{margin-top:.45rem!important;color:var(--ink)!important}
+.brief-action-trigger{padding-left:.7rem;border-left:2px solid var(--line)}
+.brief-ready-card{margin:.2rem 0 1rem;padding:1.25rem 1.35rem;border:1px solid var(--line);
+  border-radius:10px;background:var(--bg-soft);max-width:50rem}
+.brief-ready-card h3{font-size:1.25rem;line-height:1.25;margin:.65rem 0 .35rem}
+.brief-ready-card > p{font-size:.92rem;line-height:1.55;color:var(--ink-soft);margin:0}
+.brief-safety-note{margin:.85rem 0 1rem;max-width:50rem;padding:.75rem .9rem;
+  border-left:3px solid var(--accent);font:500 .78rem/1.5 ui-sans-serif,system-ui,sans-serif;
+  color:var(--ink-soft);background:var(--bg-soft)}
+.brief-local{background:linear-gradient(90deg,transparent,var(--bg-soft) 18%,var(--bg-soft) 82%,transparent)}
 .brief-empty,.brief-scope-empty{margin:1rem 0 1.5rem;padding:.8rem 1rem;border-left:3px solid var(--line);
   background:var(--bg-soft);color:var(--ink-soft);font-size:.86rem}
 .brief-scope-empty[hidden]{display:none}

@@ -149,6 +149,9 @@ def _fetch_source(src: dict, checked_at: str) -> tuple[list, str]:
                     "source": src["name"],
                     "weight": src.get("weight", 5),
                     "src_section": src.get("section"),
+                    # Only feeds explicitly dedicated to a country receive
+                    # this marker. Publisher headquarters are not story reach.
+                    "source_countries": src.get("countries") or [],
                     "published_at": _entry_time(e),
                     "seen_at": checked_at,
                 }
@@ -255,6 +258,7 @@ def _score(cluster: dict) -> dict:
         "items": [
             {"title": i["title"], "url": i["url"], "source": i["source"],
              "summary": i["summary"][:400], "published_at": i.get("published_at", ""),
+             "source_countries": i.get("source_countries") or [],
              "seen_at": i.get("seen_at", "")}
             for i in sorted(items, key=lambda i: (i["weight"], i.get("published_at", "")), reverse=True)[:10]
         ],
