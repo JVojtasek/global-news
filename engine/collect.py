@@ -1,17 +1,23 @@
 """Sběr zpráv z RSS, slučování duplicit do událostí, skórování.
 
 Tohle je "nudná" část, která stojí 0 Kč a nepotřebuje žádnou AI.
-Běží na GitHub Actions každé 3 hodiny.
+Redakční běh jede každé 3 hodiny; lehký živý výstup z něj používá
+stejnou normalizaci času každých 5 minut.
 """
 from __future__ import annotations
 
+import calendar
+import concurrent.futures
 import datetime as dt
+import email.utils
 import hashlib
+import html
 import json
 import re
 from collections import defaultdict
 
 import feedparser
+import requests
 
 from . import config
 
@@ -84,33 +90,84 @@ def _tokens(title: str) -> set:
     return out
 
 
-def _fetch_all() -> list:
-    items = []
-    for src in config.sources():
+def _entry_time(entry) -> str:
+    """Skutečný čas publikace z RSS/Atom, vždy jako ISO UTC.
+
+    `seen_at` není totéž co publikace. Dříve se tyto dva okamžiky slily
+    a čtenář nemohl poznat, jestli je zpráva stará pět minut nebo den.
+    """
+    for name in ("published_parsed", "updated_parsed", "created_parsed"):
+        parsed = getattr(entry, name, None)
+        if parsed:
+            try:
+                stamp = dt.datetime.fromtimestamp(calendar.timegm(parsed), dt.timezone.utc)
+                return stamp.isoformat(timespec="seconds")
+            except (TypeError, ValueError, OverflowError):
+                pass
+    for name in ("published", "updated", "created"):
+        raw = str(getattr(entry, name, "") or "").strip()
+        if not raw:
+            continue
         try:
-            feed = feedparser.parse(src["url"])
-            n = 0
-            for e in feed.entries[:40]:
-                link = getattr(e, "link", "")
-                title = getattr(e, "title", "").strip()
-                if not link or not title:
-                    continue
-                summary = re.sub(r"<[^>]+>", " ", getattr(e, "summary", ""))[:600]
-                items.append(
-                    {
-                        "title": title,
-                        "url": link,
-                        "summary": " ".join(summary.split()),
-                        "source": src["name"],
-                        "weight": src.get("weight", 5),
-                        "src_section": src.get("section"),
-                        "seen_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
-                    }
-                )
-                n += 1
-            config.log(f"  {src['name']}: {n} položek")
-        except Exception as e:  # noqa: BLE001
-            config.log(f"  ! {src['name']} selhal: {str(e)[:120]}")
+            stamp = email.utils.parsedate_to_datetime(raw)
+            if stamp.tzinfo is None:
+                stamp = stamp.replace(tzinfo=dt.timezone.utc)
+            return stamp.astimezone(dt.timezone.utc).isoformat(timespec="seconds")
+        except (TypeError, ValueError, OverflowError):
+            try:
+                stamp = dt.datetime.fromisoformat(raw.replace("Z", "+00:00"))
+                if stamp.tzinfo is None:
+                    stamp = stamp.replace(tzinfo=dt.timezone.utc)
+                return stamp.astimezone(dt.timezone.utc).isoformat(timespec="seconds")
+            except (TypeError, ValueError):
+                pass
+    return ""
+
+
+def _fetch_source(src: dict, checked_at: str) -> tuple[list, str]:
+    """Download and parse one source with bounded network waits."""
+    try:
+        response = requests.get(
+            src["url"],
+            timeout=(5, 15),
+            headers={"User-Agent": "MyPaper.news RSS reader/1.0 (+https://mypaper.news/)"},
+        )
+        response.raise_for_status()
+        feed = feedparser.parse(response.content)
+        items = []
+        for e in feed.entries[:40]:
+            link = getattr(e, "link", "")
+            title = html.unescape(html.unescape(getattr(e, "title", "").strip()))
+            if not link or not title:
+                continue
+            summary = html.unescape(re.sub(r"<[^>]+>", " ", getattr(e, "summary", "")))[:600]
+            items.append(
+                {
+                    "title": title,
+                    "url": link,
+                    "summary": " ".join(summary.split()),
+                    "source": src["name"],
+                    "weight": src.get("weight", 5),
+                    "src_section": src.get("section"),
+                    "published_at": _entry_time(e),
+                    "seen_at": checked_at,
+                }
+            )
+        return items, f"  {src['name']}: {len(items)} položek"
+    except Exception as exc:  # noqa: BLE001
+        return [], f"  ! {src['name']} selhal: {str(exc)[:120]}"
+
+
+def _fetch_all() -> list:
+    """Fetch independent feeds concurrently so a five-minute run stays short."""
+    sources = config.sources()
+    checked_at = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    items = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=min(12, len(sources) or 1)) as pool:
+        results = pool.map(lambda src: _fetch_source(src, checked_at), sources)
+        for source_items, message in results:
+            items.extend(source_items)
+            config.log(message)
     return items
 
 
@@ -181,7 +238,10 @@ def _score(cluster: dict) -> dict:
     breadth = min(len(cluster["tokens"]), 30) / 30 * 20  # 0-20 šíře tématu
     total = round(n_sources + credibility + volume + depth + breadth)
 
-    lead = sorted(items, key=lambda i: -i["weight"])[0]
+    # Nejdřív důvěryhodnost, při shodě novější zpráva. Čas níže patří
+    # přesně k odkazu a titulku, který čtenář skutečně otevře.
+    lead = sorted(items, key=lambda i: (i["weight"], i.get("published_at", "")), reverse=True)[0]
+    created = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     return {
         "id": hashlib.sha1(lead["url"].encode()).hexdigest()[:12],
         "headline": lead["title"],
@@ -189,10 +249,14 @@ def _score(cluster: dict) -> dict:
         "score": total,
         "sources_count": len(outlets),
         "depth_signal": round(depth),
-        "created": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+        "created": created,
+        "event_time": lead.get("published_at") or created,
+        "time_kind": "published" if lead.get("published_at") else "seen",
         "items": [
-            {"title": i["title"], "url": i["url"], "source": i["source"], "summary": i["summary"][:400]}
-            for i in sorted(items, key=lambda i: -i["weight"])[:10]
+            {"title": i["title"], "url": i["url"], "source": i["source"],
+             "summary": i["summary"][:400], "published_at": i.get("published_at", ""),
+             "seen_at": i.get("seen_at", "")}
+            for i in sorted(items, key=lambda i: (i["weight"], i.get("published_at", "")), reverse=True)[:10]
         ],
     }
 

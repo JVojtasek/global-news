@@ -161,7 +161,19 @@ Write to {email}. We answer.""",
         "thought_title": "Thought for the day",
         "wit_title": "Last word",
         "ticker_title": "Live now",
-        "ticker_note": "Headlines gathered from our sources every three hours. Links go to the original reporting.",
+        "ticker_note": "Checked every five minutes. Times come from the publisher; links open the original reporting.",
+        "ticker_all": "All",
+        "ticker_updated": "Feed checked",
+        "ticker_stale": "The feed is delayed",
+        "ticker_loading": "Loading the latest verified headlines…",
+        "ticker_empty": "No verified headline is available in this desk yet.",
+        "ticker_new": "New",
+        "ticker_ago_now": "just now",
+        "ticker_ago_min": "%d min ago",
+        "ticker_ago_hour": "%dh ago",
+        "ticker_ago_day": "%dd ago",
+        "ticker_brief_cta": "Open the finite morning briefing",
+        "ticker_email_cta": "Get the morning edition by e-mail",
         "reader_open": "Reading balance",
         "reader_title": "Your reading balance",
         "reader_intro": "You decide how much news you get and how hard it lands. Nothing is deleted — heavy stories are shortened to a calm summary you can open in full whenever you want.",
@@ -547,7 +559,19 @@ Pište na {email}. Odpovídáme.""",
         "thought_title": "Myšlenka dne",
         "wit_title": "Poslední slovo",
         "ticker_title": "Právě se děje",
-        "ticker_note": "Titulky z našich zdrojů, aktualizované každé tři hodiny. Odkazy vedou na původní zpravodajství.",
+        "ticker_note": "Kontrola každých pět minut. Čas přebíráme od vydavatele; odkaz vede na původní zprávu.",
+        "ticker_all": "Vše",
+        "ticker_updated": "Feed zkontrolován",
+        "ticker_stale": "Feed má zpoždění",
+        "ticker_loading": "Načítám nejnovější ověřené titulky…",
+        "ticker_empty": "V této rubrice zatím není ověřený čerstvý titulek.",
+        "ticker_new": "Nové",
+        "ticker_ago_now": "právě teď",
+        "ticker_ago_min": "před %d min",
+        "ticker_ago_hour": "před %d h",
+        "ticker_ago_day": "před %d d",
+        "ticker_brief_cta": "Otevřít konečný ranní briefing",
+        "ticker_email_cta": "Dostávat ranní vydání e-mailem",
         "reader_open": "Nastavení čtení",
         "reader_title": "Kolik toho na tebe má web pustit",
         "reader_intro": "Ty rozhoduješ, kolik zpráv dostaneš a jak natvrdo. Nic se nemaže — těžké zprávy se zkrátí na klidné shrnutí, které si kdykoli rozklikneš celé.",
@@ -1014,7 +1038,29 @@ def _view(meta: dict, body: str, path=None) -> dict:
     }
 
 
-def _ticker(site: dict, lang: str, limit: int = 14) -> list:
+def _ticker_time(value, lang: str) -> tuple[str, str]:
+    """Absolutní místní čas a relativní stáří pro pravý sloupec."""
+    try:
+        stamp = dt.datetime.fromisoformat(str(value or "").replace("Z", "+00:00"))
+        if stamp.tzinfo is None:
+            stamp = stamp.replace(tzinfo=dt.timezone.utc)
+        stamp = stamp.astimezone(morning.PRAGUE)
+    except (TypeError, ValueError):
+        return "", ""
+    now = dt.datetime.now(dt.timezone.utc).astimezone(morning.PRAGUE)
+    mins = max(0, int((now - stamp).total_seconds() // 60))
+    if lang == "cs":
+        exact = f"{stamp.day}. {stamp.month}. · {stamp:%H:%M}"
+        age = "právě teď" if mins < 1 else (f"před {mins} min" if mins < 60 else
+              (f"před {mins // 60} h" if mins < 1440 else f"před {mins // 1440} d"))
+    else:
+        exact = stamp.strftime("%-d %b · %H:%M")
+        age = "just now" if mins < 1 else (f"{mins} min ago" if mins < 60 else
+              (f"{mins // 60}h ago" if mins < 1440 else f"{mins // 1440}d ago"))
+    return exact, age
+
+
+def _ticker(site: dict, lang: str, limit: int = 14, preferred_section: str = "") -> dict:
     """Rychlé zprávy do postranního sloupce.
 
     Systém posbírá 300 událostí denně, ale článků napíše pár. Zbytek
@@ -1023,15 +1069,22 @@ def _ticker(site: dict, lang: str, limit: int = 14) -> list:
     """
     p = config.DATA / "events.json"
     if not p.exists():
-        return []
+        return {"items": [], "updated_iso": "", "filters": [], "preferred": preferred_section}
     try:
         events = json.loads(p.read_text(encoding="utf-8"))
     except Exception:  # noqa: BLE001
-        return []
+        return {"items": [], "updated_iso": "", "filters": [], "preferred": preferred_section}
 
     labels = {s["id"]: (s.get(lang) or s["en"]) for s in site["sections"]}
+    # Skóre určuje redakční význam, ne čerstvost. V živém proudu proto
+    # vyhrává skutečný čas publikace; při shodě teprve skóre.
+    events = sorted(events, key=lambda e: (e.get("event_time") or e.get("created", ""),
+                                           e.get("score", 0)), reverse=True)
+    selected = [e for e in events if e.get("section") == preferred_section] if preferred_section else events
+    if preferred_section and not selected:
+        selected = events
     out, seen = [], set()
-    for e in events:
+    for e in selected:
         head = e.get("headline", "").strip()
         key = head.lower()[:60]
         if not head or key in seen or len(head) < 25:
@@ -1040,17 +1093,37 @@ def _ticker(site: dict, lang: str, limit: int = 14) -> list:
         if not item.get("url"):
             continue
         seen.add(key)
+        # Starší události znají jen okamžik našeho stažení. Ten nesmíme
+        # vydávat za čas publikace. Jakmile proběhne nový sběr, dostanou se
+        # sem jen položky s časem skutečně dodaným původním vydavatelem.
+        published_iso = item.get("published_at") or (
+            e.get("event_time", "") if e.get("time_kind") == "published" else ""
+        )
+        if not published_iso:
+            continue
+        exact, age = _ticker_time(published_iso, lang)
         out.append({
             "headline": head[:130],
             "url": item["url"],
             "source": item.get("source", ""),
             "section": labels.get(e.get("section", ""), ""),
+            "section_id": e.get("section", "world"),
             "sources_count": e.get("sources_count", 1),
             "hot": e.get("score", 0) >= 70,
+            "published_iso": published_iso,
+            "published_label": exact,
+            "age_label": age,
         })
         if len(out) >= limit:
             break
-    return out
+    core = ["world", "tech", "ai", "science"]
+    if preferred_section and preferred_section not in core:
+        core.insert(0, preferred_section)
+    present = {e.get("section") for e in events}
+    filters = [{"id": sec, "label": labels.get(sec, sec)} for sec in core if sec in present]
+    updated = max((e.get("created", "") for e in events), default="")
+    return {"items": out, "updated_iso": updated, "filters": filters,
+            "preferred": preferred_section, "limit": limit}
 
 
 def _related(a: dict, pool: list, n: int) -> list:
@@ -1424,7 +1497,7 @@ def _write(path, text: str) -> None:
 def _asset_version() -> str:
     """Short content hash used to invalidate cached CSS and JavaScript."""
     digest = hashlib.sha256()
-    for name in ("style.css", "reader.js"):
+    for name in ("style.css", "reader.js", "live.js"):
         path = config.STATIC / name
         digest.update(name.encode("utf-8"))
         digest.update(path.read_bytes())
@@ -1656,14 +1729,14 @@ def run() -> None:
         # Proužek rychlých zpráv patří všude, kde čtenář chce vědět, co se
         # děje. V klidných rubrikách (`calm: true` v data/site.yml) by ale
         # rušil — tam je člověk kvůli něčemu jinému.
-        tick = _ticker(site, lang)
         for s in site["sections"]:
             sub = [a for a in arts if a["section"] == s["id"]]
             _write(out / lang / s["id"] / "index.html",
                    env.get_template("section.html").render(
                        articles=sub, section_label=s.get(lang) or s["en"],
                        section_calm=bool(s.get("calm")),
-                       ticker=([] if s.get("calm") else tick),
+                       ticker=({"items": []} if s.get("calm") else
+                               _ticker(site, lang, preferred_section=s["id"])),
                        thought=quotes.thought(),
                        **page(f"{s['id']}/", "section", current_section=s["id"])))
 

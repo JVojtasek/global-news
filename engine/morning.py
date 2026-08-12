@@ -114,7 +114,9 @@ def live_last_24h(site: dict, lang: str, now=None, limit: int = 10,
     for event in events:
         if not isinstance(event, dict):
             continue
-        stamp = _time(event.get("created"))
+        # `event_time` je čas publikace od vydavatele; `created` pouze
+        # okamžik, kdy událost poprvé zachytila naše redakce.
+        stamp = _time(event.get("event_time") or event.get("created"))
         headline = str(event.get("headline") or "").strip()
         if not stamp or not (cutoff <= stamp <= current + dt.timedelta(minutes=10)) or len(headline) < 20:
             continue

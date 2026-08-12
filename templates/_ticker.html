@@ -1,0 +1,35 @@
+{% if ticker %}
+<aside class="ticker" data-live-feed
+       data-live-url="https://raw.githubusercontent.com/JVojtasek/global-news/live-feed/static/live-news.json"
+       data-live-limit="{{ ticker.limit or 14 }}" data-default-section="{{ ticker.preferred or '' }}"
+       data-lang="{{ lang }}" data-stale-label="{{ t.ticker_stale }}"
+       data-empty-label="{{ t.ticker_empty }}"
+       data-updated-label="{{ t.ticker_updated }}" data-new-label="{{ t.ticker_new }}"
+       data-sources-word="{{ t.sources_word }}"
+       data-ago-now="{{ t.ticker_ago_now }}" data-ago-min="{{ t.ticker_ago_min }}"
+       data-ago-hour="{{ t.ticker_ago_hour }}" data-ago-day="{{ t.ticker_ago_day }}">
+  <div class="ticker-head">
+    <h2>{{ t.ticker_title }}</h2>
+    <span class="ticker-health" data-live-health></span>
+  </div>
+  <div class="ticker-tabs" aria-label="{{ t.section }}">
+    <button type="button" data-live-filter=""{% if not ticker.preferred %} aria-pressed="true"{% else %} aria-pressed="false"{% endif %}>{{ t.ticker_all }}</button>
+    {% for f in ticker.filters %}<button type="button" data-live-filter="{{ f.id }}" aria-pressed="{{ 'true' if ticker.preferred == f.id else 'false' }}">{{ f.label }}</button>{% endfor %}
+  </div>
+  <ol data-live-list aria-live="polite">
+    {% for i in ticker["items"] %}
+    <li{% if i.hot %} class="hot"{% endif %} data-section="{{ i.section_id }}">
+      <div class="ticker-when"><time datetime="{{ i.published_iso }}">{{ i.published_label }}</time><span data-live-age>{{ i.age_label }}</span></div>
+      <a href="{{ i.url }}" rel="nofollow noopener" target="_blank">{{ i.headline }}</a>
+      <em>{{ i.source }}{% if i.sources_count > 1 %} · {{ i.sources_count }} {{ t.sources_word }}{% endif %}</em>
+    </li>
+    {% endfor %}
+    {% if not ticker["items"] %}<li class="ticker-loading">{{ t.ticker_loading }}</li>{% endif %}
+  </ol>
+  <p class="note">{{ t.ticker_note }} <span data-live-updated data-generated="{{ ticker.updated_iso }}"></span></p>
+  <div class="ticker-ctas">
+    <a href="{{ base }}/{{ lang }}/briefing/">{{ t.ticker_brief_cta }} →</a>
+    <a href="#newsletter">{{ t.ticker_email_cta }} →</a>
+  </div>
+</aside>
+{% endif %}
