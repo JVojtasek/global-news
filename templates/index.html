@@ -29,6 +29,19 @@
 </section>
 {% endif %}
 
+{% if daily_quiz %}
+<section class="home-quiz">
+  <div class="wide quiz-feature">
+    <div>
+      <p class="kicker">{{ t.quiz_daily }}</p>
+      <h2>{{ daily_quiz.title }}</h2>
+      <p>{{ t.quiz_home_cta }}</p>
+    </div>
+    <a class="quiz-start" href="{{ daily_quiz.url }}">{{ t.quiz_start }} →</a>
+  </div>
+</section>
+{% endif %}
+
 {% if impact_rail %}
 <section class="imprail">
   <div class="wide">
