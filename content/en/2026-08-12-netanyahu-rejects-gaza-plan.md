@@ -1,53 +1,66 @@
 ---
 slug: netanyahu-rejects-gaza-plan
-title: "Israel Rejects the 15-Point Gaza Plan: The Dispute Is About Who Moves First"
-dek: "Netanyahu says Israeli forces will not leave Gaza until Hamas is 'genuinely' disarmed — a condition that puts the whole plan in the order in which each side moves."
+title: 'Israel Rejects the 15-Point Gaza Plan: The Dispute Is About Who Moves First'
+dek: Netanyahu says Israeli forces will not leave Gaza until Hamas is 'genuinely'
+  disarmed — a condition that puts the whole plan in the order in which each side
+  moves.
 section: world
 type: news
 depth: scripture
 lang: en
-date: 2026-08-12
+date: '2026-08-12'
 status: review
 confidence: 84
-review_reason: "war reporting with an attributed accusation against a state; site.yml always_review"
+review_reason: war reporting with an attributed accusation against a state; site.yml
+  always_review
 load: 0
 topics: []
 automation_generated: false
 edition_slot: 1
-event_id: "6e0f12b732f6"
-series: ""
-image_query: "empty negotiation table chairs"
+event_id: 6e0f12b732f6
+series: ''
+image_query: empty negotiation table chairs
 sources:
-  - name: "BBC World"
-    url: "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
-    published: "2026-08-09"
-  - name: "The Guardian"
-    url: "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu"
-    published: "2026-08-09"
-  - name: "NPR News"
-    url: "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas"
-    published: "2026-08-09"
-  - name: "DW News"
-    url: "https://www.dw.com/en/middle-east-netanyahu-says-israel-rejects-trump-s-gaza-plan/live-78289364?maca=en-rss-en-all-1573-rdf"
-    published: "2026-08-09"
-  - name: "Al Jazeera"
-    url: "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
-    published: "2026-08-09"
-  - name: "France 24"
-    url: "https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal"
-    published: "2026-08-09"
-  - name: "CNBC"
-    url: "https://www.cnbc.com/2026/08/09/israel-rejects-trumps-15-point-plan-for-gaza-netanyahu-says.html"
-    published: "2026-08-09"
+- name: BBC World
+  url: https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss
+  published: '2026-08-09'
+- name: The Guardian
+  url: https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu
+  published: '2026-08-09'
+- name: NPR News
+  url: https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas
+  published: '2026-08-09'
+- name: DW News
+  url: https://www.dw.com/en/middle-east-netanyahu-says-israel-rejects-trump-s-gaza-plan/live-78289364?maca=en-rss-en-all-1573-rdf
+  published: '2026-08-09'
+- name: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss
+  published: '2026-08-09'
+- name: France 24
+  url: https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal
+  published: '2026-08-09'
+- name: CNBC
+  url: https://www.cnbc.com/2026/08/09/israel-rejects-trumps-15-point-plan-for-gaza-netanyahu-says.html
+  published: '2026-08-09'
 quiz:
-  question: "What condition did Netanyahu set before Israeli forces withdraw from Gaza?"
-  options: ["That Hamas is 'genuinely' disarmed", "That the UN takes over administration", "That elections are held in Gaza"]
+  question: What condition did Netanyahu set before Israeli forces withdraw from Gaza?
+  options:
+  - That Hamas is 'genuinely' disarmed
+  - That the UN takes over administration
+  - That elections are held in Gaza
   answer: 0
-  explanation: "Netanyahu said the Israeli military would not pull out until Hamas is 'genuinely' disarmed, as reported by the BBC, the Guardian and NPR."
+  explanation: Netanyahu said the Israeli military would not pull out until Hamas
+    is 'genuinely' disarmed, as reported by the BBC, the Guardian and NPR.
 impact:
-  areas: [safety, life]
-  line: "For most readers nothing changes today; the standoff keeps the war open, which matters most to civilians in Gaza and to Israeli families still waiting on hostages and deployed soldiers."
-  todo: "Watch for any published sequence showing who disarms first, who withdraws, and who verifies it — that sequence, not another statement, would signal real movement."
+  areas:
+  - safety
+  - life
+  line: For most readers nothing changes today; the standoff keeps the war open, which
+    matters most to civilians in Gaza and to Israeli families still waiting on hostages
+    and deployed soldiers.
+  todo: Watch for any published sequence showing who disarms first, who withdraws,
+    and who verifies it — that sequence, not another statement, would signal real
+    movement.
 ---
 
 ## BRIEFLY

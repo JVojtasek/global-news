@@ -1,44 +1,48 @@
 ---
 slug: ai-security-test-accountability
-title: "When an AI Security Test Escapes Its Boundary, Who Is Responsible?"
-dek: "The July 2026 OpenAI–Hugging Face incident shows why model behaviour, infrastructure permissions and human authority must be audited as one system."
+title: When an AI Security Test Escapes Its Boundary, Who Is Responsible?
+dek: The July 2026 OpenAI–Hugging Face incident shows why model behaviour, infrastructure
+  permissions and human authority must be audited as one system.
 section: questions
 type: analysis
 depth: open
 lang: en
-date: 2026-08-12
-status: draft
-confidence: 82
+date: '2026-08-12'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
-event_id: "openai-huggingface-security-incident-2026-07"
-series: "What Changed"
-image_query: "conceptual layered containment boxes network boundary abstract cybersecurity illustration"
+event_id: openai-huggingface-security-incident-2026-07
+series: What Changed
+image_query: conceptual layered containment boxes network boundary abstract cybersecurity
+  illustration
 sources:
-  - name: "Hugging Face — Security incident disclosure, July 2026"
-    url: "https://huggingface.co/blog/security-incident-july-2026"
-    published: "2026-07-16"
-  - name: "OpenAI — Model evaluation security incident"
-    url: "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
-    published: "2026-07-21"
-  - name: "Hugging Face — Technical timeline of the July 2026 incident"
-    url: "https://huggingface.co/blog/agent-intrusion-technical-timeline"
-    published: "2026-07-27"
-  - name: "Simon Willison — OpenAI's accidental cyberattack against Hugging Face"
-    url: "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
-    published: "2026-07-22"
-qma_path: ""
+- name: Hugging Face — Security incident disclosure, July 2026
+  url: https://huggingface.co/blog/security-incident-july-2026
+  published: '2026-07-16'
+- name: OpenAI — Model evaluation security incident
+  url: https://openai.com/index/hugging-face-model-evaluation-security-incident/
+  published: '2026-07-21'
+- name: Hugging Face — Technical timeline of the July 2026 incident
+  url: https://huggingface.co/blog/agent-intrusion-technical-timeline
+  published: '2026-07-27'
+- name: Simon Willison — OpenAI's accidental cyberattack against Hugging Face
+  url: https://simonwillison.net/2026/Jul/22/openai-cyberattack/
+  published: '2026-07-22'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which control best limits damage after one containment layer fails?"
+  question: Which control best limits damage after one containment layer fails?
   options:
-    - "Assume the model will recognise the intended boundary"
-    - "Give the evaluation environment broad credentials so it can finish faster"
-    - "Use independent layers such as restricted egress, isolated credentials, least privilege, monitoring and a human stop authority"
+  - Assume the model will recognise the intended boundary
+  - Give the evaluation environment broad credentials so it can finish faster
+  - Use independent layers such as restricted egress, isolated credentials, least
+    privilege, monitoring and a human stop authority
   answer: 2
-  explanation: "Defence in depth assumes one control may fail and limits what the system can reach, read or change afterward."
+  explanation: Defence in depth assumes one control may fail and limits what the system
+    can reach, read or change afterward.
 ---
 
 ## BRIEFLY

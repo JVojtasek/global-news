@@ -1,32 +1,35 @@
 ---
 slug: jericho-oldest-walled-city
-title: "Jericho: The Oldest Wall on Earth — and the Long Argument About What It Was For"
-dek: "A spring, a mound built of its own ancestors, and a stone tower older than writing, pottery and metal. What excavation can and cannot tell us about the oldest walled town we know of."
+title: 'Jericho: The Oldest Wall on Earth — and the Long Argument About What It Was
+  For'
+dek: A spring, a mound built of its own ancestors, and a stone tower older than writing,
+  pottery and metal. What excavation can and cannot tell us about the oldest walled
+  town we know of.
 section: history
 type: feature
 depth: scripture
 lang: en
-date: 2026-08-12
+date: '2026-08-12'
 status: review
 confidence: 80
 load: 0
 topics: []
 automation_generated: false
 edition_slot: 7
-event_id: "jericho-city"
-series: "Cities of the Bible"
-image_query: "Jericho excavation tell archaeology"
+event_id: jericho-city
+series: Cities of the Bible
+image_query: Jericho excavation tell archaeology
 sources:
-  - name: "Wikipedia — Tell es-Sultan"
-    url: "https://en.wikipedia.org/wiki/Tell_es-Sultan"
-  - name: "Wikipedia — Tower of Jericho"
-    url: "https://en.wikipedia.org/wiki/Tower_of_Jericho"
-  - name: "Wikipedia — Kathleen Kenyon"
-    url: "https://en.wikipedia.org/wiki/Kathleen_Kenyon"
-  - name: "Wikipedia — Pre-Pottery Neolithic A"
-    url: "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A"
-  - name: "Wikipedia — Battle of Jericho (the dating dispute)"
-    url: "https://en.wikipedia.org/wiki/Battle_of_Jericho"
+- name: Wikipedia — Tell es-Sultan
+  url: https://en.wikipedia.org/wiki/Tell_es-Sultan
+- name: Wikipedia — Tower of Jericho
+  url: https://en.wikipedia.org/wiki/Tower_of_Jericho
+- name: Wikipedia — Kathleen Kenyon
+  url: https://en.wikipedia.org/wiki/Kathleen_Kenyon
+- name: Wikipedia — Pre-Pottery Neolithic A
+  url: https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A
+- name: Wikipedia — Battle of Jericho (the dating dispute)
+  url: https://en.wikipedia.org/wiki/Battle_of_Jericho
 ---
 
 ## BRIEFLY

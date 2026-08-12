@@ -1,41 +1,49 @@
 ---
 slug: how-to-stay-discerning-without-becoming-cynical
-title: "How to Stay Discerning Without Becoming Cynical"
-dek: "Distrust can protect us from being fooled, but when it spreads from one failure to everything and everyone, it stops being a filter and becomes a prison."
+title: How to Stay Discerning Without Becoming Cynical
+dek: Distrust can protect us from being fooled, but when it spreads from one failure
+  to everything and everyone, it stops being a filter and becomes a prison.
 section: soul
 type: daily
 depth: open
 lang: en
-date: 2026-08-12
-status: draft
-confidence: 90
+date: '2026-08-12'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-event_id: ""
-series: "The Wider Lens"
-image_query: "conceptual editorial illustration of calibrated trust, a person examining several bridges through a clear lens, warm restrained colors"
+event_id: ''
+series: The Wider Lens
+image_query: conceptual editorial illustration of calibrated trust, a person examining
+  several bridges through a clear lens, warm restrained colors
 sources:
-  - name: "OECD — Survey on Drivers of Trust in Public Institutions 2026 Results"
-    url: "https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2026-results_9eb63fec-en.html"
-    published: "2026-06-29"
-  - name: "Pew Research Center — Public Trust in Government: 1958–2025"
-    url: "https://www.pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025/"
-    published: "2025-12-04"
-  - name: "Political Behavior — Does Political Trust Matter? A Meta-analysis on the Consequences of Trust"
-    url: "https://link.springer.com/article/10.1007/s11109-024-09916-y"
-    published: "2024-02-10"
-  - name: "OECD — Lack of Trust in Institutions and Political Engagement"
-    url: "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/lack-of-trust-in-institutions-and-political-engagement_ae8a8673/83351a47-en.pdf"
-    published: "2024-11-18"
-qma_path: ""
+- name: OECD — Survey on Drivers of Trust in Public Institutions 2026 Results
+  url: https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2026-results_9eb63fec-en.html
+  published: '2026-06-29'
+- name: 'Pew Research Center — Public Trust in Government: 1958–2025'
+  url: https://www.pewresearch.org/politics/2025/12/04/public-trust-in-government-1958-2025/
+  published: '2025-12-04'
+- name: Political Behavior — Does Political Trust Matter? A Meta-analysis on the Consequences
+    of Trust
+  url: https://link.springer.com/article/10.1007/s11109-024-09916-y
+  published: '2024-02-10'
+- name: OECD — Lack of Trust in Institutions and Political Engagement
+  url: https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/lack-of-trust-in-institutions-and-political-engagement_ae8a8673/83351a47-en.pdf
+  published: '2024-11-18'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which response best describes calibrated trust?"
-  options: ["Trust every institution until it fails once", "Judge a specific claim or institution using relevant evidence and update when that evidence changes", "Assume hidden corruption whenever information is incomplete"]
+  question: Which response best describes calibrated trust?
+  options:
+  - Trust every institution until it fails once
+  - Judge a specific claim or institution using relevant evidence and update when
+    that evidence changes
+  - Assume hidden corruption whenever information is incomplete
   answer: 1
-  explanation: "Calibrated trust is specific, conditional and revisable; it is neither blind confidence nor blanket suspicion."
+  explanation: Calibrated trust is specific, conditional and revisable; it is neither
+    blind confidence nor blanket suspicion.
 ---
 
 ## BRIEFLY

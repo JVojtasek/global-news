@@ -1,52 +1,67 @@
 ---
 slug: hormuz-three-days-of-claims
-title: "Three Days at the Strait of Hormuz: A 'Final' Deal, and a Waterway Still Shut"
-dek: "Our record shows an agreement described as being in its final stages on 8 August, no confirmation of a deal by 11 August — and headlines in which the demand for compensation appears to have changed direction."
+title: 'Three Days at the Strait of Hormuz: A ''Final'' Deal, and a Waterway Still
+  Shut'
+dek: Our record shows an agreement described as being in its final stages on 8 August,
+  no confirmation of a deal by 11 August — and headlines in which the demand for compensation
+  appears to have changed direction.
 section: world
 type: analysis
 depth: open
 lang: en
-date: 2026-08-12
+date: '2026-08-12'
 status: review
 confidence: 80
 load: 0
 topics: []
 automation_generated: false
 edition_slot: 2
-event_id: "639e1a78a571"
-series: "What Changed"
-image_query: "oil tanker narrow strait aerial"
+event_id: 639e1a78a571
+series: What Changed
+image_query: oil tanker narrow strait aerial
 sources:
-  - name: "BBC World — Hormuz talks positive, Oman says"
-    url: "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
-    published: "2026-08-09"
-  - name: "BBC Business — Iran says deal with Oman is in final stages"
-    url: "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
-    published: "2026-08-09"
-  - name: "The Guardian — Iran issues tough demands to reopen strait of Hormuz"
-    url: "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
-    published: "2026-08-08"
-  - name: "France 24 — Iran vows to keep Strait of Hormuz closed until US meets demands"
-    url: "https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands"
-    published: "2026-08-09"
-  - name: "CNBC — Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery"
-    url: "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html"
-    published: "2026-08-09"
-  - name: "CNBC — Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike"
-    url: "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html"
-    published: "2026-08-08"
-  - name: "Investing.com — Yemen's Houthis say they attacked Saudi Aramco Jazan refinery"
-    url: "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714"
-    published: "2026-08-09"
+- name: BBC World — Hormuz talks positive, Oman says
+  url: https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss
+  published: '2026-08-09'
+- name: BBC Business — Iran says deal with Oman is in final stages
+  url: https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss
+  published: '2026-08-09'
+- name: The Guardian — Iran issues tough demands to reopen strait of Hormuz
+  url: https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach
+  published: '2026-08-08'
+- name: France 24 — Iran vows to keep Strait of Hormuz closed until US meets demands
+  url: https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands
+  published: '2026-08-09'
+- name: CNBC — Iran denies any direct talks with U.S. on opening Strait of Hormuz
+    as Houthis claim attack on Saudi refinery
+  url: https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html
+  published: '2026-08-09'
+- name: CNBC — Iran sets conditions for opening Strait of Hormuz after UAE says one
+    of its ships was targeted by airstrike
+  url: https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html
+  published: '2026-08-08'
+- name: Investing.com — Yemen's Houthis say they attacked Saudi Aramco Jazan refinery
+  url: https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714
+  published: '2026-08-09'
 quiz:
-  question: "What did Iran's national security chief list among the conditions for reopening the strait?"
-  options: ["Lifting the US naval blockade of Iranian ports", "A new UN peacekeeping force", "Recognition of a new shipping company"]
+  question: What did Iran's national security chief list among the conditions for
+    reopening the strait?
+  options:
+  - Lifting the US naval blockade of Iranian ports
+  - A new UN peacekeeping force
+  - Recognition of a new shipping company
   answer: 0
-  explanation: "France 24 reported the demands included lifting the US naval blockade of Iranian ports, compensation for war damages and the release of frozen Iranian assets."
+  explanation: France 24 reported the demands included lifting the US naval blockade
+    of Iranian ports, compensation for war damages and the release of frozen Iranian
+    assets.
 impact:
-  areas: [money]
-  line: "Most readers feel this only through fuel and freight prices if the strait stays disputed; it changes little day to day for anyone outside shipping and energy markets."
-  todo: "Check whether commercial tankers are transiting under normal insurance terms — that, not an announcement, is the real signal the strait is open."
+  areas:
+  - money
+  line: Most readers feel this only through fuel and freight prices if the strait
+    stays disputed; it changes little day to day for anyone outside shipping and energy
+    markets.
+  todo: Check whether commercial tankers are transiting under normal insurance terms
+    — that, not an announcement, is the real signal the strait is open.
 ---
 
 ## BRIEFLY

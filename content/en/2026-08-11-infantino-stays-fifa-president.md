@@ -1,32 +1,40 @@
 ---
 slug: infantino-stays-fifa-president
-title: "Gianni Infantino Apologizes But Stays as FIFA President Despite Growing Calls to Quit"
-dek: "Infantino says he 'sincerely apologises' for errors in a collapsed plan to sell private stakes in the World Cup, as FIFA accuses critics of a 'concerted effort' to remove him."
+title: Gianni Infantino Apologizes But Stays as FIFA President Despite Growing Calls
+  to Quit
+dek: Infantino says he 'sincerely apologises' for errors in a collapsed plan to sell
+  private stakes in the World Cup, as FIFA accuses critics of a 'concerted effort'
+  to remove him.
 section: world
 type: news
 depth: open
 lang: en
-date: 2026-08-11
-status: published
+date: '2026-08-11'
+status: review
 confidence: 85
 load: 0
 topics: []
-event_id: "e183c545cb4c"
-series: ""
-image_query: "football stadium empty seats"
+event_id: e183c545cb4c
+series: ''
+image_query: football stadium empty seats
 sources:
-  - name: "BBC Sport"
-    url: "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
-  - name: "DW News"
-    url: "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
-  - name: "The Guardian Sport"
-    url: "https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa"
-  - name: "France 24"
-    url: "https://www.france24.com/en/fifa-defends-its-president-infantino-amid-backlash"
+- name: BBC Sport
+  url: https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss
+- name: DW News
+  url: https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf
+- name: The Guardian Sport
+  url: https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa
+- name: France 24
+  url: https://www.france24.com/en/fifa-defends-its-president-infantino-amid-backlash
 impact:
-  areas: [life]
-  line: "For most readers this changes nothing day to day; what it signals is whether football's global governing body faces any real accountability when a leader's plans go wrong."
-  todo: "If you follow football governance, watch FIFA's next council meeting and whether member federations — not just executives — get a formal vote on Infantino's position."
+  areas:
+  - life
+  line: For most readers this changes nothing day to day; what it signals is whether
+    football's global governing body faces any real accountability when a leader's
+    plans go wrong.
+  todo: If you follow football governance, watch FIFA's next council meeting and whether
+    member federations — not just executives — get a formal vote on Infantino's position.
+review_reason: 'citlivé téma: alleged'
 ---
 
 ## BRIEFLY

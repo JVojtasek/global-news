@@ -1,40 +1,51 @@
 ---
 slug: why-inflation-happens
-title: "Why Inflation Happens — and Why Prices Almost Never Go Back Down"
-dek: "Inflation is the rate at which the general price level rises. Which force is driving it in any given year — demand, costs or expectations — is exactly what economists argue about, and most public disagreement is really about that."
+title: Why Inflation Happens — and Why Prices Almost Never Go Back Down
+dek: Inflation is the rate at which the general price level rises. Which force is
+  driving it in any given year — demand, costs or expectations — is exactly what economists
+  argue about, and most public disagreement is really about that.
 section: business
 type: demand
 depth: scripture
 lang: en
-date: 2026-08-12
+date: '2026-08-12'
 status: review
 confidence: 83
-review_reason: "financial topic; site.yml always_review"
+review_reason: financial topic; site.yml always_review
 load: 0
 topics: []
 automation_generated: false
 edition_slot: 3
-event_id: ""
-series: ""
-image_query: "supermarket price label shelf"
+event_id: ''
+series: ''
+image_query: supermarket price label shelf
 sources:
-  - name: "Wikipedia — Inflation"
-    url: "https://en.wikipedia.org/wiki/Inflation"
-  - name: "Wikipedia — Inflation targeting"
-    url: "https://en.wikipedia.org/wiki/Inflation_targeting"
-  - name: "Wikipedia — Deflation"
-    url: "https://en.wikipedia.org/wiki/Deflation"
-  - name: "Wikipedia — Shrinkflation"
-    url: "https://en.wikipedia.org/wiki/Shrinkflation"
+- name: Wikipedia — Inflation
+  url: https://en.wikipedia.org/wiki/Inflation
+- name: Wikipedia — Inflation targeting
+  url: https://en.wikipedia.org/wiki/Inflation_targeting
+- name: Wikipedia — Deflation
+  url: https://en.wikipedia.org/wiki/Deflation
+- name: Wikipedia — Shrinkflation
+  url: https://en.wikipedia.org/wiki/Shrinkflation
 quiz:
-  question: "When a country reports that inflation has fallen, what has usually happened to prices?"
-  options: ["They have gone back down", "They are still rising, just more slowly", "They have been frozen by law"]
+  question: When a country reports that inflation has fallen, what has usually happened
+    to prices?
+  options:
+  - They have gone back down
+  - They are still rising, just more slowly
+  - They have been frozen by law
   answer: 1
-  explanation: "Falling inflation means the rate of increase has slowed. Prices going down is deflation, which is a different and much rarer situation."
+  explanation: Falling inflation means the rate of increase has slowed. Prices going
+    down is deflation, which is a different and much rarer situation.
 impact:
-  areas: [money]
-  line: "This is background, not news — it changes nothing about today's prices, but it helps you read next month's official inflation figure correctly instead of assuming a slower rate means prices fell."
-  todo: "Check your own country's statistics office basket rather than a headline number, and compare it with your own sector's wage growth."
+  areas:
+  - money
+  line: This is background, not news — it changes nothing about today's prices, but
+    it helps you read next month's official inflation figure correctly instead of
+    assuming a slower rate means prices fell.
+  todo: Check your own country's statistics office basket rather than a headline number,
+    and compare it with your own sector's wage growth.
 ---
 
 ## BRIEFLY

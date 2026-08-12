@@ -1,41 +1,51 @@
 ---
 slug: the-5-to-1-relationship-ratio-is-not-a-scorecard
-title: "The 5:1 Relationship Ratio Is Not a Scorecard"
-dek: "The famous rule contains a useful insight about conflict, but science does not support turning every conversation into five compliments for each complaint."
+title: The 5:1 Relationship Ratio Is Not a Scorecard
+dek: The famous rule contains a useful insight about conflict, but science does not
+  support turning every conversation into five compliments for each complaint.
 section: relationships
 type: analysis
 depth: open
 lang: en
-date: 2026-08-12
-status: draft
-confidence: 86
+date: '2026-08-12'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
-event_id: ""
-series: "The Wider Lens"
-image_query: "warm editorial illustration of two partners repairing a torn conversation thread, no text"
+event_id: ''
+series: The Wider Lens
+image_query: warm editorial illustration of two partners repairing a torn conversation
+  thread, no text
 sources:
-  - name: "ERIC — Predicting Marital Happiness and Stability from Newlywed Interactions"
-    url: "https://eric.ed.gov/?id=EJ574907"
-    published: "1998-02-01"
-  - name: "The Gottman Institute — The Magic Ratio"
-    url: "https://www.gottman.com/blog/the-magic-ratio-the-key-to-relationship-satisfaction/"
-    published: "2020-12-07"
-  - name: "Journal of Marriage and Family — Generalizability of Gottman and Colleagues' Affective Process Models"
-    url: "https://pubmed.ncbi.nlm.nih.gov/17372624/"
-    published: "2007-02-01"
-  - name: "Journal of Emotional and Behavioral Disorders — The 'Magic' Positive-to-Negative Interaction Ratio"
-    url: "https://journals.sagepub.com/doi/10.1177/1063426618763106"
-    published: "2018-03-13"
-qma_path: ""
+- name: ERIC — Predicting Marital Happiness and Stability from Newlywed Interactions
+  url: https://eric.ed.gov/?id=EJ574907
+  published: '1998-02-01'
+- name: The Gottman Institute — The Magic Ratio
+  url: https://www.gottman.com/blog/the-magic-ratio-the-key-to-relationship-satisfaction/
+  published: '2020-12-07'
+- name: Journal of Marriage and Family — Generalizability of Gottman and Colleagues'
+    Affective Process Models
+  url: https://pubmed.ncbi.nlm.nih.gov/17372624/
+  published: '2007-02-01'
+- name: Journal of Emotional and Behavioral Disorders — The 'Magic' Positive-to-Negative
+    Interaction Ratio
+  url: https://journals.sagepub.com/doi/10.1177/1063426618763106
+  published: '2018-03-13'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is the safest evidence-based use of the 5:1 idea?"
-  options: ["Treat five positives as a guaranteed repair for one harmful act", "Use it as an exact daily target for every couple", "Use it as a reminder that warmth and repair matter, without treating five as a universal threshold"]
+  question: What is the safest evidence-based use of the 5:1 idea?
+  options:
+  - Treat five positives as a guaranteed repair for one harmful act
+  - Use it as an exact daily target for every couple
+  - Use it as a reminder that warmth and repair matter, without treating five as a
+    universal threshold
   answer: 2
-  explanation: "The research supports paying attention to the emotional pattern of conflict, but it does not establish an exact universal prescription for every relationship."
+  explanation: The research supports paying attention to the emotional pattern of
+    conflict, but it does not establish an exact universal prescription for every
+    relationship.
 ---
 
 ## BRIEFLY
