@@ -408,40 +408,35 @@ Write to {email}. We answer.""",
         "nl_privacy": "One click to leave. We never sell or share your address.",
         "republish_offer": "Free to republish",
         "republish_help": "Copy this HTML into your CMS. Credit line and licence are included.",
-        "mem_link": "Membership",
-        "mem_title": "Become a member",
-        "mem_intro": "Almost everything here is free to read and stays that way. Membership is for readers "
-                     "who want the long pieces first, want the ones that only go out by e-mail, and want "
-                     "this to keep existing without advertising.",
-        "mem_honest": "One thing we would rather say ourselves than have you find out: this site is a set "
-                      "of plain files with no server behind it, so we cannot lock a page and we are not "
-                      "going to pretend otherwise. What we can honestly do is give members a head start "
-                      "and send them things by e-mail. That is the whole of it.",
-        "mem_tiers": "What you can join",
+        "mem_link": "Founding readers",
+        "mem_title": "Help build a paper worth returning to",
+        "mem_intro": "My Paper is in its founding phase. Every article, briefing and quiz is open while "
+                     "we prove the quality, learn what readers return for and build the free reader list.",
+        "mem_honest": "There is no paywall and no payment form. Founding readers help by reading, returning, "
+                      "suggesting subjects and telling us which work was genuinely useful. We will consider "
+                      "paid support only after the publication has earned that trust.",
+        "mem_tiers": "The founding-reader promise",
         "mem_free": "Free",
         "mem_price": "€%s a month",
-        "mem_join_head": "Join, and read the long pieces a week early",
-        "mem_join_why": "One e-mail address is all it takes. No account, no password, and one click to leave.",
-        "mem_join": "Join",
+        "mem_join_head": "Join the free reader list",
+        "mem_join_why": "One e-mail address will be enough. No account, no password and one click to leave.",
+        "mem_join": "Join free",
         "mem_email_ph": "your@email.com",
-        "mem_soon": "Membership opens shortly. Nothing is being taken yet.",
-        "mem_early_badge": "Early access · members",
-        "mem_early_lead": "Members are reading this in full today. Here is the summary, so you know what is in it.",
-        "mem_opens_on": "It opens to everyone on %s, in full and unchanged.",
-        "mem_opens_tomorrow": "It opens to everyone tomorrow, in full and unchanged.",
-        "mem_opens_today": "It opens to everyone later today, in full and unchanged.",
-        "mem_early_list": "In early access right now",
-        "mem_early_note": "Members have these in full today. Everyone else gets the same text on the date "
-                          "shown — nothing cut, nothing rewritten.",
-        "mem_only_list": "Sent to members by e-mail",
-        "mem_only_note": "These are not published on the site at all. Members get them in full in their "
-                         "inbox. They are listed here so you can see what you would be getting.",
-        "mem_none": "Nothing is in early access at the moment.",
-        "mem_ads": "No advertising, and no selling you on",
-        "mem_ads_note": "We do not run advertising and we never sell, rent or share reader data. Your "
-                        "e-mail address is used to send you what you signed up for and nothing else. "
-                        "What you tick in your reading settings stays in your browser and never reaches us.",
-        "mem_terms": "Membership terms",
+        "mem_soon": "The free e-mail list opens shortly. Until then, everything remains open on the site.",
+        "mem_early_badge": "Founding phase",
+        "mem_early_lead": "This article is open in full.",
+        "mem_opens_on": "Open to everyone on %s.",
+        "mem_opens_tomorrow": "Open to everyone tomorrow.",
+        "mem_opens_today": "Open to everyone today.",
+        "mem_early_list": "Open reading",
+        "mem_early_note": "There is no early-access queue during the founding phase.",
+        "mem_only_list": "Reader letters",
+        "mem_only_note": "No article is held back for payment during the founding phase.",
+        "mem_none": "Everything is open to read.",
+        "mem_ads": "What we measure — and what we do not",
+        "mem_ads_note": "We measure aggregate readership to improve the paper. We do not build behavioural "
+                        "profiles or sell, rent or share reader data. Reading preferences stay in your browser.",
+        "mem_terms": "Reader terms",
         # --- rozcestníky podle témat ---------------------------------
         # počet článků skloňovaný: 1 / 2-4 / 5 a víc (čeština to potřebuje)
         "count_one": "%d article",
@@ -844,39 +839,35 @@ Pište na {email}. Odpovídáme.""",
         "nl_privacy": "Odhlášení jedním kliknutím. Adresu nikdy neprodáváme ani nepředáváme.",
         "republish_offer": "Volně k převzetí",
         "republish_help": "Zkopírujte HTML do svého systému. Uvedení zdroje i licence je součástí.",
-        "mem_link": "Členství",
-        "mem_title": "Staň se členem",
-        "mem_intro": "Skoro všechno je tu ke čtení zadarmo a tak to zůstane. Členství je pro ty, kdo chtějí "
-                     "dlouhé texty dřív, chtějí i ty, které vycházejí jen e-mailem, a chtějí, aby tenhle web "
-                     "mohl existovat dál bez reklamy.",
-        "mem_honest": "Jednu věc radši řekneme sami, než abys na ni přišel: tenhle web jsou obyčejné soubory "
-                      "bez serveru za zády. Stránku tady nejde zamknout a nebudeme dělat, že jde. Co umíme "
-                      "poctivě nabídnout, je náskok a e-mail. Nic víc v tom není.",
-        "mem_tiers": "Z čeho si vybrat",
+        "mem_link": "Zakládající čtenáři",
+        "mem_title": "Pomoz vybudovat noviny, ke kterým stojí za to se vracet",
+        "mem_intro": "My Paper je v zakládající fázi. Všechny články, briefingy a kvízy jsou otevřené, "
+                     "dokud prokazujeme kvalitu, zjišťujeme, proč se lidé vracejí, a budujeme bezplatný odběr.",
+        "mem_honest": "Není tu placená zeď ani platební formulář. Zakládající čtenáři pomáhají tím, že čtou, "
+                      "vracejí se, navrhují témata a říkají nám, co bylo skutečně užitečné. Placenou podporu "
+                      "budeme řešit až ve chvíli, kdy si noviny takovou důvěru zaslouží.",
+        "mem_tiers": "Slib zakládajícím čtenářům",
         "mem_free": "Zdarma",
         "mem_price": "%s € měsíčně",
-        "mem_join_head": "Přidej se a čti dlouhé texty o týden dřív",
-        "mem_join_why": "Stačí e-mailová adresa. Žádný účet, žádné heslo a odhlášení jedním kliknutím.",
-        "mem_join": "Chci se přidat",
+        "mem_join_head": "Přidej se k bezplatnému odběru",
+        "mem_join_why": "Bude stačit e-mailová adresa. Žádný účet, žádné heslo a odhlášení jedním kliknutím.",
+        "mem_join": "Přidat se zdarma",
         "mem_email_ph": "tvuj@email.cz",
-        "mem_soon": "Členství spouštíme zanedlouho. Zatím se nic neplatí.",
-        "mem_early_badge": "Předčasný přístup · pro členy",
-        "mem_early_lead": "Členové ho dnes čtou celý. Tady je shrnutí, ať víš, o čem to je.",
-        "mem_opens_on": "Všem se otevře %s, celý a beze změn.",
-        "mem_opens_tomorrow": "Všem se otevře zítra, celý a beze změn.",
-        "mem_opens_today": "Všem se otevře ještě dnes, celý a beze změn.",
-        "mem_early_list": "Právě teď v předčasném přístupu",
-        "mem_early_note": "Členové je dnes mají celé. Ostatní dostanou přesně stejný text v uvedený den — "
-                          "nic se nekrátí a nic nepřepisuje.",
-        "mem_only_list": "Posíláme jen členům e-mailem",
-        "mem_only_note": "Tyhle texty na web nejdou vůbec. Členové je dostanou celé do schránky. Tady jsou "
-                         "vypsané, abys viděl, o co jde.",
-        "mem_none": "V předčasném přístupu teď nic není.",
-        "mem_ads": "Žádná reklama a žádné prodávání čtenářů",
-        "mem_ads_note": "Nemáme reklamu a nikdy neprodáváme, nepronajímáme ani nesdílíme data o čtenářích. "
-                        "E-mailová adresa slouží k tomu, co sis objednal, a k ničemu jinému. Co si "
-                        "zaškrtneš v nastavení čtení, zůstane v tvém prohlížeči a k nám se nedostane.",
-        "mem_terms": "Podmínky členství",
+        "mem_soon": "Bezplatný e-mailový odběr spustíme zanedlouho. Do té doby zůstává vše otevřené na webu.",
+        "mem_early_badge": "Zakládající fáze",
+        "mem_early_lead": "Tento článek je celý otevřený.",
+        "mem_opens_on": "Všem otevřeno %s.",
+        "mem_opens_tomorrow": "Všem otevřeno zítra.",
+        "mem_opens_today": "Všem otevřeno dnes.",
+        "mem_early_list": "Otevřené čtení",
+        "mem_early_note": "V zakládající fázi neexistuje fronta předčasného přístupu.",
+        "mem_only_list": "Čtenářské e-maily",
+        "mem_only_note": "V zakládající fázi neschováváme žádný článek za platbu.",
+        "mem_none": "Všechno je otevřené ke čtení.",
+        "mem_ads": "Co měříme — a co ne",
+        "mem_ads_note": "Měříme souhrnnou čtenost, abychom noviny zlepšovali. Nevytváříme behaviorální profily "
+                        "a data čtenářů neprodáváme, nepronajímáme ani nesdílíme. Nastavení čtení zůstává v prohlížeči.",
+        "mem_terms": "Podmínky pro čtenáře",
         # --- rozcestníky podle témat ---------------------------------
         # počet článků skloňovaný: 1 / 2-4 / 5 a víc
         "count_one": "%d článek",
