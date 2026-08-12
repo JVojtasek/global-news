@@ -4,6 +4,11 @@
 name: "0 · Živé zprávy po 5 minutách"
 
 on:
+  # Při změně samotného workflow vznikne první snapshot hned; běžné změny
+  # webu ho nespouštějí a další kola řídí pětiminutový plán.
+  push:
+    branches: [main]
+    paths: [".github/workflows/0-live-feed.yml"]
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
