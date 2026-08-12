@@ -24,6 +24,25 @@ must not call a paid model API and must never place a secret in the repository.
    statistical agencies, courts, legislatures and event organisers. Do not list
    rumours, merely possible developments, recurring observances or an event whose
    date cannot be verified. An empty array is better than an invented appointment.
+   After the calendar, add two more fenced JSON arrays:
+
+   - `## Briefing country notes`: three to eight current notes for the priority
+     countries surfaced by today's research, including the operator's home edition
+     (`cz`) when reliable sources support it. Each row needs `title_en`, `title_cs`,
+     `why_en`, `why_cs`, `publisher`, direct HTTPS `source_url`, `valid_until`,
+     `section_id`, `section_en`, `section_cs`, `countries` and `scope`. This is not
+     permission to invent local relevance: use an official national source or a
+     feed genuinely dedicated to that country. Leave a country absent rather than
+     fill it from a search snippet.
+   - `## Briefing practical decisions`: zero to six source-backed decision cards.
+     Every row needs `level` (`know`, `watch`, `prepare` or `act`), bilingual
+     `title`, `why`, `action` and `trigger`, plus `publisher`, direct HTTPS
+     `source_url`, boolean `official`, `valid_until`, `countries` and `scope`.
+     `watch` must name a measurable trigger. `prepare` and `act` require an
+     official source and expiry; `act` also requires a concrete country. A headline
+     alone never justifies stockpiling, a financial trade, a medication change or
+     evacuation. If no action is justified, say so with a `know` card or leave the
+     array empty. Do not manufacture urgency.
 3. Each writer task reads the agenda and writes exactly its assigned slot as
    one new Markdown file in `content/inbox/`. It never edits or overwrites an
    existing article. If the agenda is unavailable, it may research a fitting

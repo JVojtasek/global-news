@@ -15,6 +15,13 @@
 - {name: "France 24",         url: "https://www.france24.com/en/rss",               weight: 7,  section: world}
 - {name: "AP Top News",       url: "https://rsshub.app/apnews/topics/apf-topnews",  weight: 10, section: world}
 
+# ---------- LOKÁLNÍ ZDROJE (postupně podle zemí) ----------
+# `countries` značí záběr celého feedu, nikoli sídlo vydavatele. Díky tomu
+# může Briefing nabídnout skutečný domácí proud i tehdy, když titulek název
+# země výslovně neopakuje.
+- {name: "Czech Government",  url: "https://vlada.gov.cz/en/rss.xml", countries: [cz], weight: 10, section: world}
+- {name: "Prague Morning",    url: "https://praguemorning.cz/feed/", countries: [cz], weight: 6, section: world}
+
 # ---------- BYZNYS A PENÍZE ----------
 - {name: "BBC Business",      url: "https://feeds.bbci.co.uk/news/business/rss.xml", weight: 9, section: business}
 - {name: "Guardian Business", url: "https://www.theguardian.com/uk/business/rss",    weight: 8, section: business}

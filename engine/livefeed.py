@@ -10,7 +10,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 
-from . import collect, config
+from . import collect, config, countries
 
 
 WINDOW_HOURS = 48
@@ -53,14 +53,28 @@ def snapshot(now=None) -> dict:
         if not url.startswith(("https://", "http://")) or not _time(published) or key in seen:
             continue
         seen.add(key)
+        summary = str(lead.get("summary") or "").strip()
+        reach = countries.detect(
+            {"lang": "en", "title": event.get("headline", ""), "dek": summary,
+             "section": event.get("section", "world")},
+            f"{event.get('headline', '')}. {summary}",
+        )
+        source_direct = [
+            str(code).lower()
+            for source_item in (event.get("items") or [])
+            for code in (source_item.get("source_countries") or [])
+        ]
+        direct = list(dict.fromkeys(source_direct + list(reach.get("direct") or [])))
         out.append({
             "id": event.get("id", ""),
             "headline": event.get("headline", "")[:180],
             "url": url,
             "source": lead.get("source", ""),
+            "summary": summary[:280],
             "section": event.get("section", "world"),
             "sources_count": event.get("sources_count", 1),
             "published_at": published,
+            "countries": {"direct": direct, "scope": reach.get("scope", "none")},
             "score": event.get("score", 0),
         })
         if len(out) >= MAX_ITEMS:

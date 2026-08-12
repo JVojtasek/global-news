@@ -1153,11 +1153,15 @@
     });
 
     [].forEach.call(briefBox.querySelectorAll("[data-brief-section]"), function (section) {
+      var role = section.getAttribute("data-brief-role") || "";
+      section.hidden = (role === "home" && briefMode === "world") ||
+                       (role === "world" && briefMode === "home");
+      if (section.hidden) return;
       var items = [].slice.call(section.querySelectorAll(".brief-item"));
       var visible = 0;
       items.forEach(function (item) {
         var relevant = briefRelevant(item, c, eu);
-        var hideIt = briefMode === "home" && !relevant;
+        var hideIt = (briefMode === "home" || role === "home") && !relevant;
         item.hidden = hideIt;
         if (!hideIt) visible++;
         var mark = item.querySelector(".brief-country-mark");
@@ -1198,6 +1202,7 @@
       }
     });
     briefRender();
+    window.tdsRefreshBriefing = briefRender;
   }
 
   /* Jméno země umíme přečíst jen tam, kde na stránce je: v mřížce
