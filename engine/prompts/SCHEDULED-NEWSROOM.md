@@ -13,7 +13,17 @@ must not call a paid model API and must never place a secret in the repository.
    a precise angle, what would make the article useful in six months, and at
    least four candidate sources. Prefer primary documents, official statistics,
    regulators, research papers and direct company filings. A search result
-   snippet is not a source.
+   snippet is not a source. The same agenda ends with `## Briefing watch calendar`
+   and one fenced `json` array containing three to six consequential, time-bound
+   events expected on that Europe/Prague date. This is a calendar, not another
+   list of possible article topics. Open the source for every event and include:
+   `starts_at` (ISO 8601 with offset), `all_day` (boolean), `title_en`, `title_cs`,
+   `why_en`, `why_cs`, `publisher`, `source_url` (direct HTTPS), `source_date`,
+   `section_id`, `section_en`, `section_cs`, `countries` (two-letter codes) and
+   `scope` (`none`, `eu` or `global`). Prefer official calendars, regulators,
+   statistical agencies, courts, legislatures and event organisers. Do not list
+   rumours, merely possible developments, recurring observances or an event whose
+   date cannot be verified. An empty array is better than an invented appointment.
 3. Each writer task reads the agenda and writes exactly its assigned slot as
    one new Markdown file in `content/inbox/`. It never edits or overwrites an
    existing article. If the agenda is unavailable, it may research a fitting

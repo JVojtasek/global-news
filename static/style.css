@@ -1347,3 +1347,91 @@ nav.sections a.nav-land:hover{border-color:var(--accent)}
   .pr-card,.pr-yours-cta a{transition:none}
   .pr-card:hover{transform:none}
 }
+
+/* =====================================================================
+   RANNÍ BRIEFING — konečný přehled, ne nekonečný feed
+   ===================================================================== */
+nav.sections a.nav-brief{color:var(--accent);font-weight:700;letter-spacing:.1em}
+.briefing-open{margin:1.1rem 0 0;font:600 .78rem/1.4 ui-sans-serif,system-ui,sans-serif;
+  letter-spacing:.08em;text-transform:uppercase}
+.briefing-open a{color:var(--accent);text-decoration:none}
+.briefing-open a:hover{text-decoration:underline;text-underline-offset:3px}
+
+.morning{padding-bottom:4rem}
+.morning-head{padding:2.8rem 0 2.2rem;border-bottom:2px solid var(--ink)}
+.morning-head .kicker{margin:0 0 .45rem}
+.morning-head h1{font-size:clamp(2.1rem,5vw,3.7rem);line-height:1.02;
+  letter-spacing:-.04em;margin:0 0 .8rem;max-width:46rem}
+.morning-intro{font-size:1.08rem;line-height:1.55;color:var(--ink-soft);
+  max-width:47rem;margin:0 0 1.6rem}
+.brief-controls{display:grid;grid-template-columns:minmax(18rem,1.4fr) minmax(12rem,.8fr) minmax(14rem,1fr);
+  gap:1rem;align-items:end;padding:1rem;border:1px solid var(--line);border-radius:10px;
+  background:var(--bg-soft);font-family:ui-sans-serif,system-ui,sans-serif}
+.brief-scope{border:0;padding:0;margin:0;min-width:0}
+.brief-scope legend,.brief-country > span{display:block;margin:0 0 .45rem;
+  font-size:.67rem;line-height:1.3;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--ink-soft);font-weight:650}
+.brief-scope-buttons{display:flex;gap:.35rem;flex-wrap:wrap}
+.brief-scope button,.brief-personal button{border:1px solid var(--line);border-radius:99px;
+  padding:.46rem .75rem;background:var(--card);color:var(--ink-soft);font:inherit;
+  font-size:.75rem;line-height:1.25;cursor:pointer}
+.brief-scope button:hover,.brief-personal button:hover{color:var(--accent);border-color:var(--accent)}
+.brief-scope button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.brief-country select{width:100%;min-height:2.15rem;padding:.4rem 1.8rem .4rem .55rem;
+  border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);
+  font:inherit;font-size:.78rem}
+.brief-personal button{border-color:var(--accent);color:var(--accent);background:transparent}
+.brief-personal p{font-size:.67rem;line-height:1.45;color:var(--ink-soft);margin:.45rem 0 0}
+
+.brief-block{padding:2rem 0 .5rem;border-bottom:1px solid var(--line)}
+.brief-block-head{display:grid;grid-template-columns:minmax(13rem,.8fr) minmax(17rem,1.2fr);
+  gap:2rem;align-items:start;margin-bottom:.9rem}
+.brief-block-head > div{display:flex;align-items:baseline;gap:.8rem}
+.brief-block-head h2{font-size:1.32rem;line-height:1.2;margin:0}
+.brief-block-head > p{margin:.08rem 0 0;color:var(--ink-soft);font-size:.84rem;line-height:1.55}
+.brief-step{font:600 .67rem/1 ui-sans-serif,system-ui,sans-serif;color:var(--accent);
+  letter-spacing:.14em;margin:0}
+.brief-list{list-style:none;padding:0;margin:0}
+.brief-item{display:grid;grid-template-columns:8.5rem minmax(0,1fr);gap:1.1rem;
+  padding:1.05rem 0;border-top:1px solid var(--line)}
+.brief-item[hidden]{display:none}
+.brief-time{display:flex;flex-direction:column;gap:.25rem;padding-top:.12rem;
+  font:600 .68rem/1.35 ui-sans-serif,system-ui,sans-serif;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--accent)}
+.brief-time span{color:var(--ink-soft);font-weight:500}
+.brief-copy h3{font-size:1.14rem;line-height:1.28;margin:0 0 .3rem}
+.brief-copy h3 a{text-decoration:none}
+.brief-copy h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;
+  text-underline-offset:3px}
+.brief-copy > p{font-size:.91rem;line-height:1.55;color:var(--ink-soft);margin:0;max-width:44rem}
+.brief-provenance{font:500 .68rem/1.45 ui-sans-serif,system-ui,sans-serif!important;
+  margin-top:.38rem!important;color:var(--ink-soft)!important}
+.brief-country-mark,.brief-watch-kind{display:inline-block;padding:.14rem .48rem;
+  border:1px solid var(--accent);border-radius:99px;color:var(--accent);
+  font:650 .62rem/1.3 ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em;
+  text-transform:uppercase;margin:0 0 .35rem}
+.brief-country-mark[hidden]{display:none}
+.brief-watch-kind{border-color:var(--line);color:var(--ink-soft);margin:.1rem 0 .7rem}
+.brief-empty,.brief-scope-empty{margin:1rem 0 1.5rem;padding:.8rem 1rem;border-left:3px solid var(--line);
+  background:var(--bg-soft);color:var(--ink-soft);font-size:.86rem}
+.brief-scope-empty[hidden]{display:none}
+.brief-done{display:flex;align-items:flex-start;gap:1rem;margin:2.5rem 0 0;padding:1.25rem 1.35rem;
+  border:1px solid var(--line);border-radius:10px;background:var(--bg-soft)}
+.brief-done > span{display:flex;align-items:center;justify-content:center;flex:0 0 1.8rem;
+  width:1.8rem;height:1.8rem;border-radius:50%;background:var(--accent);color:#fff;
+  font:700 .9rem/1 ui-sans-serif,system-ui,sans-serif}
+.brief-done h2{font-size:1rem;margin:0 0 .2rem}
+.brief-done p{font-size:.83rem;line-height:1.5;color:var(--ink-soft);margin:0}
+
+@media (max-width:800px){
+  .brief-controls{grid-template-columns:1fr 1fr}
+  .brief-personal{grid-column:1/-1}
+}
+@media (max-width:560px){
+  .morning-head{padding:2rem 0 1.5rem}
+  .brief-controls{grid-template-columns:1fr;padding:.85rem}
+  .brief-personal{grid-column:auto}
+  .brief-block-head{grid-template-columns:1fr;gap:.45rem}
+  .brief-item{grid-template-columns:1fr;gap:.35rem;padding:.9rem 0}
+  .brief-time{flex-direction:row;gap:.55rem}
+}

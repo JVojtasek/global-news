@@ -17,7 +17,7 @@ import xml.sax.saxutils as sx
 import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import analyst, article, config, countries, images, impact, interests, members
+from . import analyst, article, config, countries, images, impact, interests, members, morning
 from . import problems, quotes, reader
 from . import weekend
 from . import seo as indexnow          # `seo` je uvnitř run() nastavení z site.yml
@@ -29,6 +29,35 @@ LOCALES = {"en": "en_GB", "cs": "cs_CZ", "sk": "sk_SK"}
 STRINGS = {
     "en": {
         "briefing_title": "Today in five minutes",
+        "brief_nav": "Briefing",
+        "brief_page_title": "Your morning briefing",
+        "brief_page_intro": "The last 24 hours in exact time order, followed by the consequential events and signals worth watching today. A finite edition—not an endless feed.",
+        "brief_live": "Right now",
+        "brief_live_help": "Fresh event signals from the newsroom collector. These link to the original publisher and are not presented as finished My Paper analysis.",
+        "brief_recent": "The last 24 hours",
+        "brief_recent_help": "My Paper reporting and analysis, newest first.",
+        "brief_watch": "What to watch today",
+        "brief_watch_help": "Time-bound events verified by the research desk, or explicit signals our articles say could change the picture.",
+        "brief_scope": "Edition scope",
+        "brief_scope_home": "My country",
+        "brief_scope_mix": "My country + world",
+        "brief_scope_world": "World",
+        "brief_country": "Home country",
+        "brief_country_pick": "Choose a country",
+        "brief_settings": "Edit interests and reading balance",
+        "brief_private": "Your country and interests stay on this device.",
+        "brief_country_mark": "Relevant to your country",
+        "brief_empty_live": "No reliably timed live signals are available in this window.",
+        "brief_empty_recent": "No My Paper article was published in the last 24 hours.",
+        "brief_empty_watch": "No adequately sourced watch item is available yet.",
+        "brief_empty_country": "Nothing in this edition is specifically tied to the selected country. Switch to Country + world to keep the full picture.",
+        "brief_source": "Original source",
+        "brief_sources": "sources in cluster",
+        "brief_calendar": "Verified calendar",
+        "brief_signals": "Editorial watch signals",
+        "brief_done": "You’re caught up",
+        "brief_done_help": "The briefing ends here. Return later for genuinely new information—not recycled headlines.",
+        "brief_open": "Open the full morning briefing",
         "section": "Section",
         "sources": "Sources",
         "sources_word": "sources",
@@ -387,6 +416,35 @@ Write to {email}. We answer.""",
     },
     "cs": {
         "briefing_title": "Svět dnes za pět minut",
+        "brief_nav": "Briefing",
+        "brief_page_title": "Váš ranní briefing",
+        "brief_page_intro": "Posledních 24 hodin v přesném časovém pořadí a potom zásadní události a signály, které dnes stojí za sledování. Konečné vydání, ne nekonečný proud.",
+        "brief_live": "Právě teď",
+        "brief_live_help": "Čerstvé signály ze sběru redakce. Vedou přímo k původnímu vydavateli a nevydáváme je za hotovou analýzu My Paper.",
+        "brief_recent": "Posledních 24 hodin",
+        "brief_recent_help": "Články a analýzy My Paper, od nejnovějších.",
+        "brief_watch": "Co dnes sledovat",
+        "brief_watch_help": "Časově určené události ověřené rešeršní redakcí, případně výslovné signály z našich článků, které mohou změnit situaci.",
+        "brief_scope": "Rozsah vydání",
+        "brief_scope_home": "Moje země",
+        "brief_scope_mix": "Moje země + svět",
+        "brief_scope_world": "Svět",
+        "brief_country": "Domovská země",
+        "brief_country_pick": "Vyberte zemi",
+        "brief_settings": "Upravit zájmy a rovnováhu čtení",
+        "brief_private": "Vaše země a zájmy zůstávají jen v tomto zařízení.",
+        "brief_country_mark": "Týká se vaší země",
+        "brief_empty_live": "V tomto okně nejsou dostupné žádné spolehlivě časované živé signály.",
+        "brief_empty_recent": "Za posledních 24 hodin nevyšel žádný článek My Paper.",
+        "brief_empty_watch": "Zatím nemáme dostatečně doložený bod ke sledování.",
+        "brief_empty_country": "V tomto vydání není nic přímo svázáno se zvolenou zemí. Přepněte na Moje země + svět, ať vám neunikne širší obraz.",
+        "brief_source": "Původní zdroj",
+        "brief_sources": "zdrojů v události",
+        "brief_calendar": "Ověřený kalendář",
+        "brief_signals": "Redakční signály",
+        "brief_done": "Máte přečteno",
+        "brief_done_help": "Briefing tady končí. Vraťte se později pro skutečně nové informace, ne pro recyklované titulky.",
+        "brief_open": "Otevřít celý ranní briefing",
         "section": "Rubrika",
         "sources": "Zdroje",
         "sources_word": "zdrojů",
@@ -1583,6 +1641,17 @@ def run() -> None:
                    thought=quotes.thought(),
                    **page("", "home", home_jsonld=_site_jsonld(site, lang))))
 
+        # --- ranní briefing -------------------------------------------
+        # Jedna konečná stránka: živé signály s přímým zdrojem, naše
+        # ověřené články za přesných 24 hodin a dnešní body ke sledování.
+        # Výběr země si až v prohlížeči aplikuje reader.js, takže se
+        # osobní nastavení nikdy nedostane do buildu ani do analytiky.
+        _write(out / lang / "briefing" / "index.html",
+               env.get_template("briefing.html").render(
+                   briefing=morning.edition(arts, site, lang),
+                   country_catalogue=countries.catalogue(),
+                   **page("briefing/", "briefing", current_section="briefing")))
+
         # --- rubriky ---
         # Proužek rychlých zpráv patří všude, kde čtenář chce vědět, co se
         # děje. V klidných rubrikách (`calm: true` v data/site.yml) by ale
@@ -1691,6 +1760,8 @@ def run() -> None:
             "im": (a.get("impact") or {}).get("line", ""),
             "ia": ",".join((a.get("impact") or {}).get("areas", [])),
             "it": (a.get("impact") or {}).get("todo", ""),
+            "c": ",".join((a.get("countries") or {}).get("direct", [])),
+            "cr": (a.get("countries") or {}).get("scope", "none"),
         } for a in arts]
         _write(out / lang / "articles.json",
                json.dumps(index, ensure_ascii=False, separators=(",", ":")))
@@ -1814,10 +1885,10 @@ def run() -> None:
     bp = config.base_path()
     _write(out / "index.html",
            f'<!doctype html><meta charset="utf-8">'
-           f'<meta http-equiv="refresh" content="0; url={bp}/{master}/">'
-           f'<link rel="canonical" href="{bp}/{master}/">'
+           f'<meta http-equiv="refresh" content="0; url={bp}/{master}/briefing/">'
+           f'<link rel="canonical" href="{bp}/{master}/briefing/">'
            f'<title>{site["brand"]["name_en"]}</title>'
-           f'<p>→ <a href="{bp}/{master}/">{site["brand"]["name_en"]}</a></p>')
+           f'<p>→ <a href="{bp}/{master}/briefing/">{site["brand"]["name_en"]} Briefing</a></p>')
     # robots.txt — co smí robot vyhledávače a kde najde mapu webu.
     # SeznamBot a Googlebot-News uvádíme zvlášť, ať je to jednoznačné;
     # roboty, které jen odsávají obsah na trénink, sem nepatří.
