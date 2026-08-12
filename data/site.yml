@@ -16,10 +16,12 @@ languages:
   translations: [cs]
 
 ai:
-  providers: [anthropic, openai]
-  anthropic_model: "claude-sonnet-4-5"
-  openai_model: "gpt-4.1-mini"
-  max_usd_per_day: 2.0
+  # Produkční redakce používá naplánované úlohy ChatGPT Work.
+  # Placené modelové API je v GitHub Actions výslovně vypnuté.
+  providers: []
+  anthropic_model: ""
+  openai_model: ""
+  max_usd_per_day: 0.0
 
 # ---------------------------------------------------------------------
 # REDAKČNÍ PRAVIDLA

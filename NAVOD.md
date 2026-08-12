@@ -17,7 +17,7 @@ Redakce, která běží sama. Skládá se ze čtyř věcí:
 | Web | GitHub Pages | 0 Kč |
 | Bluesky a Telegram | oficiální rozhraní platforem | 0 Kč |
 | Doména | u registrátora | ~300 Kč/rok |
-| Záložní API klíč | Anthropic nebo OpenAI | volitelné, pár $ měsíčně |
+| Placené modelové API | v produkci vypnuté | 0 Kč |
 
 ---
 
@@ -223,19 +223,15 @@ Když klíče nepřidáš, nic se nerozbije — systém jen připraví texty k v
 
 ---
 
-## KROK 7 · Záložní API klíč  (volitelné, doporučeno)
+## KROK 7 · Režim bez placeného modelového API
 
-Tohle je pojistka pro případ, že by naplánovaná úloha přestala fungovat.
+Produkční workflow záměrně nenačítá klíče OpenAI ani Anthropic. Články
+připravují naplánované úlohy ChatGPT Work a GitHub provádí jen kontrolu,
+přijetí, vydání a sestavení webu. I kdyby v GitHub Secrets zůstal starý
+modelový klíč, workflow ho nepoužije.
 
-1. Klíč získáš na <https://console.anthropic.com> nebo
-   <https://platform.openai.com/api-keys>.
-2. V repozitáři **Settings → Secrets and variables → Actions →
-   New repository secret**.
-3. **Name:** `ANTHROPIC_API_KEY` (nebo `OPENAI_API_KEY`),
-   **Secret:** vlož klíč.
-
-Denní strop útraty je nastavený v `data/site.yml` na 2 USD. Systém přes něj
-nepřejde ani kdyby se něco zbláznilo.
+Případný placený záložní model lze někdy v budoucnu vrátit jen samostatnou,
+vědomě zkontrolovanou změnou. Není součástí současného bezplatného provozu.
 
 ---
 

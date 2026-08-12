@@ -8,8 +8,8 @@
     <h1>{{ t.mem_title }}</h1>
     <p class="dek">{{ t.mem_intro }}</p>
 
-    {# Poctivá věta na začátek: statický web stránku nezamkne a my to
-       nebudeme předstírat. Kdo si tohle přečte, ví přesně, co kupuje. #}
+    {# Zakládající fáze je zdarma a bez plateb. Text musí jasně říkat,
+       že nyní sbíráme důvěru a zpětnou vazbu, ne peníze. #}
     <p>{{ t.mem_honest }}</p>
 
     <h2>{{ t.mem_tiers }}</h2>
@@ -45,6 +45,7 @@
   </div>
 </section>
 
+{% if mem.enabled %}
 <article class="post">
   <div class="wrap">
     <section class="related">
@@ -90,4 +91,5 @@
     </section>
   </div>
 </article>
+{% endif %}
 {% endblock %}
