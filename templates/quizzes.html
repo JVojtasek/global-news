@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}{{ t.quiz_hub_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.quiz_hub_intro }}{% endblock %}
+{% block body %}
+<main class="quiz-hub wide">
+  <header class="quiz-hub-head">
+    <p class="kicker">{{ t.quiz_daily }}</p>
+    <h1>{{ t.quiz_hub_title }}</h1>
+    <p>{{ t.quiz_hub_intro }}</p>
+  </header>
+
+  {% if quizzes %}
+  {% set featured = quizzes[0] %}
+  <section class="quiz-feature" aria-labelledby="quiz-feature-title">
+    <div>
+      <p class="quiz-meta"><time datetime="{{ featured.date }}">{{ featured.date|datewords(lang) }}</time> · {{ featured.estimated_minutes }} {{ t.quiz_minutes }}</p>
+      <h2 id="quiz-feature-title">{{ featured.title }}</h2>
+      <p>{{ featured.dek }}</p>
+    </div>
+    <a class="quiz-start" href="{{ featured.url }}">{{ t.quiz_start }} →</a>
+  </section>
+
+  {% if quizzes|length > 1 %}
+  <section class="quiz-archive" aria-labelledby="quiz-archive-title">
+    <h2 id="quiz-archive-title">{{ t.quiz_archive }}</h2>
+    <div class="quiz-grid">
+      {% for quiz in quizzes[1:] %}
+      <article class="quiz-card">
+        <p class="quiz-meta"><time datetime="{{ quiz.date }}">{{ quiz.date|datewords(lang) }}</time> · {{ quiz.estimated_minutes }} {{ t.quiz_minutes }}</p>
+        <h3><a href="{{ quiz.url }}">{{ quiz.title }}</a></h3>
+        <p>{{ quiz.dek }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+  {% else %}
+  <p>{{ t.quiz_empty }}</p>
+  {% endif %}
+
+  <aside class="quiz-method">
+    <h2>{{ t.quiz_method_title }}</h2>
+    <p>{{ t.quiz_method_text }}</p>
+    <ul>
+      <li>{{ t.quiz_method_private }}</li>
+      <li>{{ t.quiz_method_honest }}</li>
+      <li>{{ t.quiz_method_action }}</li>
+    </ul>
+  </aside>
+</main>
+{% endblock %}

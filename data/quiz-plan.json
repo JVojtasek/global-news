@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "promise": "One useful self-discovery or learning experience a day; never a diagnosis or empty label.",
+  "rotation": [
+    {"weekday": "monday", "category": "personality", "mode": "profile", "reader_job": "Give me language for a real pattern in how I work, decide or recover."},
+    {"weekday": "tuesday", "category": "resilience", "mode": "assessment", "reader_job": "Show me one capacity I can strengthen without judging my worth."},
+    {"weekday": "wednesday", "category": "relationships", "mode": "profile", "reader_job": "Help me notice a communication or conflict pattern and try a better response."},
+    {"weekday": "thursday", "category": "preparedness", "mode": "assessment", "reader_job": "Find the most useful gap in my household or family readiness."},
+    {"weekday": "friday", "category": "health-literacy", "mode": "knowledge", "reader_job": "Test whether I can distinguish sound health information from a persuasive claim."},
+    {"weekday": "saturday", "category": "science", "mode": "knowledge", "reader_job": "Let me enjoy a surprising idea and understand how it works."},
+    {"weekday": "sunday", "category": "media-literacy", "mode": "assessment", "reader_job": "Show me how I react to headlines, uncertainty and online persuasion."}
+  ],
+  "alternate_categories": ["money-habits"],
+  "quality": {
+    "questions_min": 6,
+    "questions_max": 20,
+    "estimated_minutes_min": 2,
+    "estimated_minutes_max": 10,
+    "sources_min": 2,
+    "languages": ["en", "cs"],
+    "duplicate_window_days": 30,
+    "results_must_include": ["plain-language interpretation", "limitation", "practical next step"]
+  },
+  "prohibited": [
+    "medical or psychiatric diagnosis",
+    "IQ claims from general trivia",
+    "prediction of illness, death, divorce, wealth or disaster",
+    "personality labels presented as fixed identity",
+    "collection of answers, health details or result bands",
+    "fear, shame, superiority or urgency used to force sharing or sign-up",
+    "unlicensed reproduction of proprietary test items"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "slug": "calmly-ready-for-72-hours",
+  "date": "2026-08-12",
+  "category": "preparedness",
+  "mode": "assessment",
+  "estimated_minutes": 4,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Could your household manage 72 hours without normal services?",
+      "cs": "Zvládla by vaše domácnost 72 hodin bez běžných služeb?"
+    },
+    "dek": {
+      "en": "A calm ten-question check of water, food, power, information and the people—or animals—who depend on you.",
+      "cs": "Klidná kontrola deseti oblastí: voda, jídlo, energie, informace a lidé či zvířata, kteří na vás spoléhají."
+    },
+    "intro": {
+      "en": "Imagine a long power cut, water interruption or severe storm—not the end of the world. Answer for what is usable in your home today, not what you intend to buy someday.",
+      "cs": "Představte si delší výpadek proudu, přerušení dodávky vody nebo silnou bouři — ne konec světa. Odpovídejte podle toho, co je doma skutečně použitelné dnes, ne podle toho, co jednou plánujete koupit."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check based on public preparedness guidance. It is not an official certification and it cannot account for every local hazard, disability or medical need. Follow your national and local authorities during a real emergency.",
+      "cs": "Jde o původní vzdělávací sebehodnocení založené na veřejných doporučeních pro připravenost. Není to úřední certifikace a nemůže postihnout všechna místní rizika, zdravotní omezení ani zvláštní potřeby. Při skutečné události se řiďte státními a místními úřady."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "water-food",
+      "label": {"en": "Water and food", "cs": "Voda a jídlo"},
+      "why": {"en": "You have thought beyond the next meal and can cover the household’s basic needs for a short disruption.", "cs": "Myslíte dál než na příští jídlo a při krátkém výpadku dokážete pokrýt základní potřeby domácnosti."},
+      "action": {"en": "Check your local authority’s guidance, then add water and food gradually during normal shopping. Include a manual can opener if your food needs one.", "cs": "Ověřte doporučení místních úřadů a vodu i trvanlivé jídlo doplňujte postupně při běžných nákupech. Pokud je potřeba, přidejte ruční otvírák."}
+    },
+    {
+      "id": "power-light",
+      "label": {"en": "Power and light", "cs": "Energie a světlo"},
+      "why": {"en": "You have a safer way to see, charge a phone and receive information during a power cut.", "cs": "Máte bezpečnější způsob, jak si posvítit, dobít telefon a získávat informace při výpadku proudu."},
+      "action": {"en": "Put a working torch and charged power bank in one easy-to-reach place. Test them today and set a six-month reminder.", "cs": "Dejte funkční svítilnu a nabitou powerbanku na jedno snadno dostupné místo. Dnes je vyzkoušejte a nastavte si kontrolu za šest měsíců."}
+    },
+    {
+      "id": "information-plan",
+      "label": {"en": "Information and family plan", "cs": "Informace a rodinný plán"},
+      "why": {"en": "Your household is less dependent on one phone, one network or everyone remembering the same plan under stress.", "cs": "Vaše domácnost není odkázána na jediný telefon či síť ani na to, že si každý ve stresu vybaví stejný plán."},
+      "action": {"en": "Write one paper card with key contacts, a meeting point and the official alert channels used where you live. Put a copy in each adult’s wallet.", "cs": "Napište na papírovou kartičku důležité kontakty, místo setkání a oficiální varovné kanály používané ve vašem okolí. Kopii dejte každému dospělému do peněženky."}
+    },
+    {
+      "id": "documents-money",
+      "label": {"en": "Documents and payment", "cs": "Doklady a placení"},
+      "why": {"en": "You can identify yourself, reach essential records and pay for a small need if normal systems are temporarily unavailable.", "cs": "Dokážete prokázat totožnost, dostat se k důležitým údajům a zaplatit drobnou potřebu, když běžné systémy dočasně nefungují."},
+      "action": {"en": "Create a protected paper or offline copy of essential contacts and document details. Keep a modest amount of local cash; this is redundancy, not hoarding.", "cs": "Vytvořte chráněnou papírovou nebo offline kopii důležitých kontaktů a údajů z dokladů. Mějte menší částku v místní hotovosti; jde o zálohu, ne hromadění."}
+    },
+    {
+      "id": "people-pets",
+      "label": {"en": "People, health needs and pets", "cs": "Lidé, zdravotní potřeby a zvířata"},
+      "why": {"en": "Your plan reflects the real household, including mobility, daily care, glasses, lawful medication routines and animals.", "cs": "Váš plán odpovídá skutečné domácnosti včetně pohyblivosti, každodenní péče, brýlí, správného užívání léků a zvířat."},
+      "action": {"en": "List every person’s and pet’s non-negotiable daily need. Resolve one gap with the relevant professional or service—never change or stockpile prescribed medicine on your own.", "cs": "Sepište nezbytnou každodenní potřebu každého člověka i zvířete. Jednu mezeru vyřešte s příslušným odborníkem nebo službou; předepsané léky sami neměňte ani nehromaďte."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "drinking-water",
+      "dimension": "water-food",
+      "text": {"en": "How well could your household cover drinking water for three days?", "cs": "Jak dobře by vaše domácnost pokryla pitnou vodu na tři dny?"},
+      "options": [
+        {"label": {"en": "We would need to find or buy most of it", "cs": "Většinu bychom museli teprve sehnat nebo koupit"}, "score": 0},
+        {"label": {"en": "We have some, but have not checked the amount or expiry", "cs": "Něco máme, ale nezkontrolovali jsme množství nebo trvanlivost"}, "score": 1},
+        {"label": {"en": "We have checked enough for everyone, including pets or special needs", "cs": "Máme zkontrolované množství pro všechny včetně zvířat či zvláštních potřeb"}, "score": 2}
+      ]
+    },
+    {
+      "id": "simple-food",
+      "dimension": "water-food",
+      "text": {"en": "Could you prepare three days of simple food if the cooker or shops were unavailable?", "cs": "Dokázali byste zajistit tři dny jednoduchého jídla, kdyby nefungoval sporák nebo obchody?"},
+      "options": [
+        {"label": {"en": "Not without an urgent shop", "cs": "Ne bez naléhavého nákupu"}, "score": 0},
+        {"label": {"en": "Probably, but some food needs power, water or a missing tool", "cs": "Pravděpodobně ano, ale část jídla vyžaduje proud, vodu nebo chybějící pomůcku"}, "score": 1},
+        {"label": {"en": "Yes, with familiar food we rotate in normal use", "cs": "Ano, ze známých potravin, které běžně spotřebováváme a doplňujeme"}, "score": 2}
+      ]
+    },
+    {
+      "id": "safe-light",
+      "dimension": "power-light",
+      "text": {"en": "If the power failed tonight, how quickly could everyone find safe light?", "cs": "Kdyby dnes večer vypadl proud, jak rychle by všichni našli bezpečné světlo?"},
+      "options": [
+        {"label": {"en": "We would search for candles or use phone screens", "cs": "Hledali bychom svíčky nebo svítili displejem telefonu"}, "score": 0},
+        {"label": {"en": "We own a torch, but have not tested or placed it", "cs": "Svítilnu máme, ale není vyzkoušená ani na určeném místě"}, "score": 1},
+        {"label": {"en": "Working torches are accessible and household members know where", "cs": "Funkční svítilny jsou dostupné a členové domácnosti vědí kde"}, "score": 2}
+      ]
+    },
+    {
+      "id": "phone-power",
+      "dimension": "power-light",
+      "text": {"en": "What is your backup for keeping one phone usable?", "cs": "Jakou máte zálohu pro udržení alespoň jednoho telefonu v provozu?"},
+      "options": [
+        {"label": {"en": "No reliable backup", "cs": "Žádnou spolehlivou zálohu"}, "score": 0},
+        {"label": {"en": "A power bank or car charger exists, but readiness is uncertain", "cs": "Powerbanku nebo autonabíječku máme, ale nevíme, zda je připravená"}, "score": 1},
+        {"label": {"en": "A tested, charged backup is easy to reach", "cs": "Vyzkoušená a nabitá záloha je snadno dostupná"}, "score": 2}
+      ]
+    },
+    {
+      "id": "official-alerts",
+      "dimension": "information-plan",
+      "text": {"en": "Do you know which official channel would warn you about a local emergency?", "cs": "Víte, který oficiální kanál by vás varoval před místní mimořádnou událostí?"},
+      "options": [
+        {"label": {"en": "No—we would rely on social media or neighbours", "cs": "Ne — spoléhali bychom na sociální sítě nebo sousedy"}, "score": 0},
+        {"label": {"en": "We know one likely source but have not enabled or saved it", "cs": "Jeden pravděpodobný zdroj známe, ale nemáme jej zapnutý či uložený"}, "score": 1},
+        {"label": {"en": "We have at least one official alert source and a backup way to receive updates", "cs": "Máme alespoň jeden oficiální varovný zdroj a záložní způsob příjmu informací"}, "score": 2}
+      ]
+    },
+    {
+      "id": "meeting-contact",
+      "dimension": "information-plan",
+      "text": {"en": "If the household were separated and mobile networks failed, what would happen?", "cs": "Co by se stalo, kdyby byla domácnost rozdělena a mobilní sítě nefungovaly?"},
+      "options": [
+        {"label": {"en": "We have never discussed it", "cs": "Nikdy jsme o tom nemluvili"}, "score": 0},
+        {"label": {"en": "We have a rough verbal idea", "cs": "Máme přibližnou ústní představu"}, "score": 1},
+        {"label": {"en": "We share a meeting point and an out-of-area contact on paper", "cs": "Máme společné místo setkání a kontakt mimo oblast také na papíře"}, "score": 2}
+      ]
+    },
+    {
+      "id": "document-copy",
+      "dimension": "documents-money",
+      "text": {"en": "Could you reach essential identity, insurance and contact information without cloud access?", "cs": "Dostali byste se k důležitým údajům o totožnosti, pojištění a kontaktech bez cloudu?"},
+      "options": [
+        {"label": {"en": "No, most of it is only online or scattered", "cs": "Ne, většina je pouze online nebo rozptýlená"}, "score": 0},
+        {"label": {"en": "Some copies exist but are incomplete or unprotected", "cs": "Některé kopie existují, ale jsou neúplné nebo nechráněné"}, "score": 1},
+        {"label": {"en": "Protected paper or offline copies are current and accessible", "cs": "Chráněné papírové nebo offline kopie jsou aktuální a dostupné"}, "score": 2}
+      ]
+    },
+    {
+      "id": "payment-backup",
+      "dimension": "documents-money",
+      "text": {"en": "Could you pay for a small essential purchase during a card or network outage?", "cs": "Dokázali byste zaplatit drobný nezbytný nákup při výpadku karet nebo sítě?"},
+      "options": [
+        {"label": {"en": "No, we depend entirely on electronic payment", "cs": "Ne, jsme zcela závislí na elektronickém placení"}, "score": 0},
+        {"label": {"en": "Maybe, but the available cash is uncertain", "cs": "Možná, ale dostupná hotovost je nejistá"}, "score": 1},
+        {"label": {"en": "Yes, we keep a modest and secure local-currency backup", "cs": "Ano, máme bezpečně uloženou přiměřenou zálohu v místní hotovosti"}, "score": 2}
+      ]
+    },
+    {
+      "id": "daily-needs",
+      "dimension": "people-pets",
+      "text": {"en": "Have you planned for daily health, mobility, baby, senior or accessibility needs?", "cs": "Počítá váš plán s každodenními zdravotními, pohybovými, dětskými, seniorskými či jinými zvláštními potřebami?"},
+      "options": [
+        {"label": {"en": "We have not identified those needs", "cs": "Tyto potřeby jsme neurčili"}, "score": 0},
+        {"label": {"en": "We know them, but at least one important gap remains", "cs": "Známe je, ale alespoň jedna důležitá mezera zůstává"}, "score": 1},
+        {"label": {"en": "The relevant supplies, contacts and professional instructions are current", "cs": "Příslušné potřeby, kontakty a odborné pokyny jsou aktuální"}, "score": 2}
+      ]
+    },
+    {
+      "id": "pet-neighbour",
+      "dimension": "people-pets",
+      "text": {"en": "Does the plan include pets and anyone nearby who may reasonably rely on you?", "cs": "Zahrnuje plán zvířata a někoho v okolí, kdo na vás může oprávněně spoléhat?"},
+      "options": [
+        {"label": {"en": "No, they are not part of the plan", "cs": "Ne, v plánu nejsou"}, "score": 0},
+        {"label": {"en": "Partly—we would improvise several details", "cs": "Částečně — několik věcí bychom improvizovali"}, "score": 1},
+        {"label": {"en": "Yes, their transport, food, water, contacts or check-in are covered", "cs": "Ano, řešíme jejich přepravu, jídlo, vodu, kontakty nebo kontrolu"}, "score": 2}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {"en": "Start with one calm hour", "cs": "Začněte jednou klidnou hodinou"},
+      "summary": {"en": "Your household currently depends heavily on normal services. Do not try to buy an entire emergency shop today. Choose the lowest-scoring area, spend one hour making a list and close one practical gap.", "cs": "Vaše domácnost je nyní výrazně závislá na běžných službách. Nesnažte se dnes nakoupit celý krizový sklad. Vyberte nejslabší oblast, věnujte hodinu seznamu a uzavřete jednu praktickou mezeru."}
+    },
+    {
+      "min": 8,
+      "max": 13,
+      "title": {"en": "A useful base with weak links", "cs": "Užitečný základ se slabými místy"},
+      "summary": {"en": "You have several ingredients of a workable plan, but one missing link could undermine the rest. Strengthen the lowest dimension before buying more of what you already have.", "cs": "Máte několik částí použitelného plánu, ale jediný chybějící článek může oslabit zbytek. Posilte nejslabší oblast dříve, než nakoupíte více toho, co už máte."}
+    },
+    {
+      "min": 14,
+      "max": 17,
+      "title": {"en": "Prepared for an ordinary disruption", "cs": "Připraveni na běžný výpadek"},
+      "summary": {"en": "Your household has a credible short-disruption plan. The next gain comes from testing: find the torch in the dark, check dates, practise the contact plan and adapt it to local risks.", "cs": "Vaše domácnost má věrohodný plán pro krátký výpadek. Další zlepšení přinese zkouška: najděte svítilnu potmě, zkontrolujte data, vyzkoušejte kontaktní plán a přizpůsobte jej místním rizikům."}
+    },
+    {
+      "min": 18,
+      "max": 20,
+      "title": {"en": "Calmly ready—now keep it real", "cs": "Klidně připraveni — teď to udržujte skutečné"},
+      "summary": {"en": "You have covered the practical basics without turning preparedness into fear. Review supplies and contacts twice a year, follow local authorities and help one neighbour build a simple plan of their own.", "cs": "Praktické základy máte pokryté, aniž by se připravenost změnila ve strach. Dvakrát ročně zkontrolujte zásoby a kontakty, sledujte místní úřady a pomozte jednomu sousedovi sestavit vlastní jednoduchý plán."}
+    }
+  ],
+  "sources": [
+    {
+      "name": "European Commission — EU Preparedness Union Strategy",
+      "url": "https://commission.europa.eu/topics/preparedness_en",
+      "published": "2025-05-23",
+      "type": "primary"
+    },
+    {
+      "name": "UK Government — Prepare: Get prepared for emergencies",
+      "url": "https://prepare.campaign.gov.uk/get-prepared-for-emergencies/",
+      "published": "",
+      "type": "primary"
+    },
+    {
+      "name": "American Red Cross — Survival Kit Supplies",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+      "published": "",
+      "type": "primary"
+    }
+  ]
+}

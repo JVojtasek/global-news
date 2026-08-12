@@ -165,5 +165,11 @@
     <span aria-hidden="true">✓</span>
     <div><h2>{{ t.brief_done }}</h2><p>{{ t.brief_done_help }}</p></div>
   </footer>
+  {% if daily_quiz %}
+  <aside class="brief-quiz">
+    <div><p class="kicker">{{ t.quiz_daily }}</p><h2>{{ daily_quiz.title }}</h2><p>{{ t.quiz_home_cta }}</p></div>
+    <a class="quiz-start" href="{{ daily_quiz.url }}">{{ t.quiz_start }} →</a>
+  </aside>
+  {% endif %}
 </main>
 {% endblock %}

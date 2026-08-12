@@ -118,3 +118,7 @@ Verify all six points. If any fails, revise or create no file:
 The scheduled task writes only the new article or daily agenda requested by its
 role. It does not merge branches, change workflows, edit configuration, delete
 files or bypass the inbox checks.
+
+Standalone daily quizzes are a separate scheduled role. They follow
+`engine/prompts/QUIZ-FORMAT.md` and `data/quiz-plan.json`; article writers keep
+using only the three-option understanding check defined above.

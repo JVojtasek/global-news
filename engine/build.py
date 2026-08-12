@@ -17,7 +17,7 @@ import xml.sax.saxutils as sx
 import markdown as md
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-from . import analyst, article, config, countries, images, impact, interests, members, morning
+from . import analyst, article, config, countries, images, impact, interests, members, morning, quizzes
 from . import problems, quotes, reader
 from . import weekend
 from . import seo as indexnow          # `seo` je uvnitř run() nastavení z site.yml
@@ -72,6 +72,32 @@ STRINGS = {
         "brief_done": "You’re caught up",
         "brief_done_help": "The briefing ends here. Return later for genuinely new information—not recycled headlines.",
         "brief_open": "Open the full morning briefing",
+        "quiz_nav": "Quizzes",
+        "quiz_hub_title": "Find out something useful about yourself",
+        "quiz_hub_intro": "One short, evidence-aware quiz a day: understand a pattern, test a practical skill and leave with one realistic next step.",
+        "quiz_daily": "Quiz of the day",
+        "quiz_start": "Take today’s quiz",
+        "quiz_archive": "Earlier quizzes",
+        "quiz_empty": "Today’s quiz is still being checked.",
+        "quiz_minutes": "min",
+        "quiz_questions": "questions",
+        "quiz_method_title": "Useful, private and honest",
+        "quiz_method_text": "My Paper quizzes are designed for reflection and learning—not labels, diagnoses or false certainty.",
+        "quiz_method_private": "Answers and results are calculated on this device and are not sent to My Paper.",
+        "quiz_method_honest": "Evidence-based instruments are cited; original self-checks say exactly what they can and cannot measure.",
+        "quiz_method_action": "Every result gives a practical next step, not merely a flattering personality label.",
+        "quiz_all": "All quizzes",
+        "quiz_private": "Private by design: your answers stay in this browser.",
+        "quiz_answer_all": "Please answer every question to see a meaningful result.",
+        "quiz_result_button": "Show my result",
+        "quiz_your_result": "Your result",
+        "quiz_strength": "A strength to keep",
+        "quiz_next": "Best next step",
+        "quiz_watchout": "A blind spot to watch",
+        "quiz_reset": "Take it again",
+        "quiz_more": "Explore more quizzes",
+        "quiz_what_means": "What this result does—and does not—mean",
+        "quiz_home_cta": "A few minutes, a personal result and one useful next step. No sign-up.",
         "section": "Section",
         "sources": "Sources",
         "sources_word": "sources",
@@ -485,6 +511,32 @@ Write to {email}. We answer.""",
         "brief_done": "Máte přečteno",
         "brief_done_help": "Briefing tady končí. Vraťte se později pro skutečně nové informace, ne pro recyklované titulky.",
         "brief_open": "Otevřít celý ranní briefing",
+        "quiz_nav": "Kvízy",
+        "quiz_hub_title": "Zjistěte o sobě něco užitečného",
+        "quiz_hub_intro": "Každý den jeden krátký a poctivý kvíz: pochopíte svůj vzorec, prověříte praktickou dovednost a odnesete si jeden realistický další krok.",
+        "quiz_daily": "Kvíz dne",
+        "quiz_start": "Spustit dnešní kvíz",
+        "quiz_archive": "Předchozí kvízy",
+        "quiz_empty": "Dnešní kvíz ještě prochází kontrolou.",
+        "quiz_minutes": "min",
+        "quiz_questions": "otázek",
+        "quiz_method_title": "Užitečně, soukromě a poctivě",
+        "quiz_method_text": "Kvízy My Paper slouží k zamyšlení a vzdělávání — ne k nálepkování, diagnózám nebo falešné jistotě.",
+        "quiz_method_private": "Odpovědi i výsledek se počítají v tomto zařízení a My Paper je neodesílá.",
+        "quiz_method_honest": "U ověřených metod uvádíme zdroje; u vlastních sebehodnocení přesně říkáme, co mohou a nemohou změřit.",
+        "quiz_method_action": "Každý výsledek nabídne praktický krok, ne pouze líbivou osobnostní nálepku.",
+        "quiz_all": "Všechny kvízy",
+        "quiz_private": "Soukromí už v návrhu: vaše odpovědi zůstávají v tomto prohlížeči.",
+        "quiz_answer_all": "Pro smysluplný výsledek prosím odpovězte na všechny otázky.",
+        "quiz_result_button": "Ukázat můj výsledek",
+        "quiz_your_result": "Váš výsledek",
+        "quiz_strength": "Silná stránka, kterou si udržet",
+        "quiz_next": "Nejlepší další krok",
+        "quiz_watchout": "Slepé místo, na které pozor",
+        "quiz_reset": "Vyplnit znovu",
+        "quiz_more": "Další kvízy",
+        "quiz_what_means": "Co tento výsledek znamená — a co ne",
+        "quiz_home_cta": "Pár minut, osobní výsledek a jeden užitečný krok. Bez registrace.",
         "section": "Rubrika",
         "sources": "Zdroje",
         "sources_word": "zdrojů",
@@ -1525,7 +1577,7 @@ def _write(path, text: str) -> None:
 def _asset_version() -> str:
     """Short content hash used to invalidate cached CSS and JavaScript."""
     digest = hashlib.sha256()
-    for name in ("style.css", "reader.js", "live.js"):
+    for name in ("style.css", "reader.js", "live.js", "quiz.js"):
         path = config.STATIC / name
         digest.update(name.encode("utf-8"))
         digest.update(path.read_bytes())
@@ -1551,6 +1603,7 @@ def run() -> None:
     langs = [site["languages"]["master"], *site["languages"]["translations"]]
     today = dt.date.today().isoformat()
     asset_version = _asset_version()
+    daily_quizzes = quizzes.load_all(today)
 
     # --- nejdřív se načtou všechny jazyky, teprve pak se staví ---------
     # Kvůli odkazům `hreflang`: aby se dalo poctivě napsat, ve kterých
@@ -1607,6 +1660,7 @@ def run() -> None:
 
         published = everything[lang]["published"]
         arts = everything[lang]["arts"]
+        quiz_views = [quizzes.view(item, lang, config.base_path()) for item in daily_quizzes]
 
         by_mail = sorted(
             ({"title": m.get("title", ""), "dek": m.get("dek", ""),
@@ -1738,6 +1792,7 @@ def run() -> None:
                env.get_template("index.html").render(
                    impact_rail=[a for a in arts if a.get("impact")][:4],
                    briefing=briefing, lead=lead, articles=arts[1:9],
+                   daily_quiz=(quiz_views[0] if quiz_views else None),
                    rows=rows, ticker=_ticker(site, lang),
                    thought=quotes.thought(),
                    **page("", "home", home_jsonld=_site_jsonld(site, lang))))
@@ -1750,8 +1805,37 @@ def run() -> None:
         _write(out / lang / "briefing" / "index.html",
                env.get_template("briefing.html").render(
                    briefing=morning.edition(arts, site, lang),
+                   daily_quiz=(quiz_views[0] if quiz_views else None),
                    country_catalogue=countries.catalogue(),
                    **page("briefing/", "briefing", current_section="briefing")))
+
+        # --- samostatné denní kvízy ----------------------------------
+        # Výsledek se počítá v prohlížeči. Build dostane jen deklarativní
+        # data, nikdy kód z automaticky vytvořeného kvízu.
+        _write(out / lang / "quizzes" / "index.html",
+               env.get_template("quizzes.html").render(
+                   quizzes=quiz_views,
+                   **page("quizzes/", "quizzes", current_section="quizzes")))
+        quiz_labels = {
+            "score": ("Your result score: {score}" if lang == "en" else "Vaše výsledné skóre: {score}"),
+            "correct": ("{score} of {total} correct" if lang == "en" else "Správně {score} z {total}"),
+            "profile": ("Your strongest current pattern" if lang == "en" else "Váš nejsilnější současný vzorec"),
+            "next_title": ("A useful experiment" if lang == "en" else "Užitečný pokus"),
+            "watch_title": ("Keep this in perspective" if lang == "en" else "Zachovejte si odstup"),
+        }
+        for quiz in quiz_views:
+            canonical = f"{config.origin()}{quiz['url']}"
+            quiz_jsonld = json.dumps({
+                "@context": "https://schema.org", "@type": "Quiz",
+                "name": quiz["title"], "description": quiz["dek"],
+                "datePublished": quiz["date"], "inLanguage": lang,
+                "educationalUse": "self assessment", "isAccessibleForFree": True,
+                "url": canonical, "provider": {"@type": "Organization", "name": brand},
+            }, ensure_ascii=False).replace("</", "<\\/")
+            _write(out / lang / "quizzes" / quiz["slug"] / "index.html",
+                   env.get_template("quiz.html").render(
+                       quiz=quiz, quiz_labels=quiz_labels, quiz_jsonld=quiz_jsonld,
+                       **page(f"quizzes/{quiz['slug']}/", "quiz", current_section="quizzes")))
 
         # --- rubriky ---
         # Proužek rychlých zpráv patří všude, kde čtenář chce vědět, co se
