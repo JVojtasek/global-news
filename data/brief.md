@@ -107,33 +107,40 @@
     <https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa>
     > Tebas says Swiss is ‘destroying essence of football’ Any reform at highest levels must be ‘genuine’ Javier Tebas says Gianni Infantino’s position as Fifa president is untenable, claiming he is “destroying the very essence of football” while calling for reform at the highest level
 
-### 4. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- id události: `7b46dd318f11`  ·  rubrika: `ai`  ·  skóre: 77  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag
+- id události: `94761ad38bf7`  ·  rubrika: `tech`  ·  skóre: 81  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **MIT TR — AI** — OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-    <https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/>
-    > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face
-  - **Schneier on Security** — More on the OpenAI Agent’s Attack on Hugging Face
-    <https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html>
-    > Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on
-  - **IEEE Spectrum Robotics** — Visual Language Models Train Robots to Read Human Emotions
-    <https://spectrum.ieee.org/robot-emotions-visual-language-models>
-    > This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robo
-  - **Hugging Face** — Baseten on Hugging Face Inference Providers 🔥
-    <https://huggingface.co/blog/baseten>
-  - **Hugging Face** — From Hugging Face to Amazon SageMaker Studio in one click
-    <https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio>
-  - **Hugging Face** — Hugging Face Models on Foundry Managed Compute
-    <https://huggingface.co/blog/microsoft/foundry-managed-compute>
-  - **Hugging Face** — Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot
-    <https://huggingface.co/blog/skypilot-hf-storage>
-  - **Hugging Face** — Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
-    <https://huggingface.co/blog/cerebras-gemma4-voice-ai>
-  - **Hugging Face** — Featuring Every Eval Ever Results on Hugging Face Model Pages
-    <https://huggingface.co/blog/eee-community-evals>
-  - **Hugging Face** — PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
-    <https://huggingface.co/blog/PaddlePaddle/pp-ocrv6>
+  - **Ars Technica** — Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag
+    <https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/>
+    > Google focuses more on AI and curated experiences than spec upgrades in 2026.
+  - **The Verge** — Google aims for influencers with the Pixel 11 Creator Suite
+    <https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features>
+    > Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators recor
+  - **TechCrunch** — Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features
+    <https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/>
+    > From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.
+  - **The Verge** — The 7 biggest announcements of Google’s Pixel 11 launch
+    <https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced>
+    > Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the event and take a look at everything Google's unveiling, includ
+  - **CNBC Top** — Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple
+    <https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html>
+    > Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.
+  - **The Verge** — Google’s Pixel 11 series pairs a little new hardware with a lot of new software
+    <https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software>
+    > When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There
+  - **The Verge** — Google is making the Pixel cameras better by making them worse
+    <https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography>
+    > If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical limitations of a tiny camera are what you're tryi
+  - **The Verge** — Google’s Pixel Watch 5 dives deeper into AI and health
+    <https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch>
+    > The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike f
+  - **The Verge** — The Pixel Tag is Google’s answer to the AirTag
+    <https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news>
+    > More than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra wideband (UWB) with Bluetooth 6.0 Channel So
+  - **TechCrunch** — Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini
+    <https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/>
+    > The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.
 
 ---
 
@@ -160,12 +167,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 10  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 12  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 10
+rubrika: world · sledováno od 2026-08-09 · záznamů: 12
   2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
@@ -176,6 +183,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 10
   2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue
   2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
   2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+  2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative
+  2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

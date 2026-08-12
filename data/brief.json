@@ -210,76 +210,108 @@
    "depth": "open"
   },
   {
-   "id": "7b46dd318f11",
-   "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "score": 77,
-   "sources_count": 4,
+   "id": "94761ad38bf7",
+   "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+   "section": "tech",
+   "score": 81,
+   "sources_count": 5,
    "depth_signal": 0,
-   "created": "2026-08-10T09:48:16+00:00",
+   "created": "2026-08-12T15:35:08+00:00",
+   "event_time": "2026-08-12T14:00:51+00:00",
+   "time_kind": "published",
    "items": [
     {
-     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-     "source": "MIT TR — AI",
-     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;"
+     "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+     "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+     "source": "Ars Technica",
+     "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+     "published_at": "2026-08-12T14:00:51+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "More on the OpenAI Agent’s Attack on Hugging Face",
-     "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-     "source": "Schneier on Security",
-     "summary": "Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or"
+     "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+     "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+     "source": "The Verge",
+     "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators record, organize, edit, and publish content faster and more […]",
+     "published_at": "2026-08-12T14:30:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "Visual Language Models Train Robots to Read Human Emotions",
-     "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-     "source": "IEEE Spectrum Robotics",
-     "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people? In a recent study, researchers tra"
+     "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+     "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+     "source": "TechCrunch",
+     "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+     "published_at": "2026-08-12T14:20:33+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "Baseten on Hugging Face Inference Providers 🔥",
-     "url": "https://huggingface.co/blog/baseten",
-     "source": "Hugging Face",
-     "summary": ""
+     "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
+     "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+     "source": "The Verge",
+     "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the event and take a look at everything Google's unveiling, including the latest […]",
+     "published_at": "2026-08-12T14:15:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-     "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-     "source": "Hugging Face",
-     "summary": ""
+     "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+     "url": "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html",
+     "source": "CNBC Top",
+     "summary": "Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.",
+     "published_at": "2026-08-12T14:00:01+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "Hugging Face Models on Foundry Managed Compute",
-     "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-     "source": "Hugging Face",
-     "summary": ""
+     "title": "Google’s Pixel 11 series pairs a little new hardware with a lot of new software",
+     "url": "https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software",
+     "source": "The Verge",
+     "summary": "When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There are small updates, like […]",
+     "published_at": "2026-08-12T14:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-     "url": "https://huggingface.co/blog/skypilot-hf-storage",
-     "source": "Hugging Face",
-     "summary": ""
+     "title": "Google is making the Pixel cameras better by making them worse",
+     "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
+     "source": "The Verge",
+     "summary": "If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical limitations of a tiny camera are what you're trying to solve for, you […]",
+     "published_at": "2026-08-12T14:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-     "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-     "source": "Hugging Face",
-     "summary": ""
+     "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+     "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+     "source": "The Verge",
+     "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel […]",
+     "published_at": "2026-08-12T14:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-     "url": "https://huggingface.co/blog/eee-community-evals",
-     "source": "Hugging Face",
-     "summary": ""
+     "title": "The Pixel Tag is Google’s answer to the AirTag",
+     "url": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
+     "source": "The Verge",
+     "summary": "More than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra wideband (UWB) with Bluetooth 6.0 Channel Sounding for two distinct types of precision tracking. The […]",
+     "published_at": "2026-08-12T14:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     },
     {
-     "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-     "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-     "source": "Hugging Face",
-     "summary": ""
+     "title": "Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini",
+     "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+     "source": "TechCrunch",
+     "summary": "The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.",
+     "published_at": "2026-08-12T14:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-12T15:35:02+00:00"
     }
    ],
-   "depth": "open"
+   "depth": "scripture"
   }
  ],
  "feature_assignments": [
@@ -317,8 +349,8 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 10\n  2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait\n  2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz\n  2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation\n  2026-08-11  (2 zdrojů, síla 43)  Trump signals shift to economic pressure on Iran over new military strikes\n  2026-08-11  (2 zdrojů, síla 41)  Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz\n  2026-08-11  (3 zdrojů, síla 52)  Bluster and backdown have turned Iran war into Trump’s own Groundhog Day\n  2026-08-11  (2 zdrojů, síla 45)  Trump demands Iran pay compensation for decades of US soldier deaths\n  2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue\n  2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\n  2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-   "thread_days": 10
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 12\n  2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait\n  2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz\n  2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation\n  2026-08-11  (2 zdrojů, síla 43)  Trump signals shift to economic pressure on Iran over new military strikes\n  2026-08-11  (2 zdrojů, síla 41)  Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz\n  2026-08-11  (3 zdrojů, síla 52)  Bluster and backdown have turned Iran war into Trump’s own Groundhog Day\n  2026-08-11  (2 zdrojů, síla 45)  Trump demands Iran pay compensation for decades of US soldier deaths\n  2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue\n  2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\n  2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat\n  2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative\n  2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty",
+   "thread_days": 12
   },
   {
    "id": "1bf4b58ce158",

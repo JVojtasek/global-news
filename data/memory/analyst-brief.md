@@ -1,16 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-12
 
-Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **7**.
+Paměť obsahuje **20 vláken**. Aktivních za posledních 14 dní: **7**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 2 dní · 10 záznamů
+- rubrika `world` · sledováno 3 dní · 12 záznamů
 - časová osa:
-  - **2026-08-09** (6 zdrojů) Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-  - **2026-08-10** (3 zdrojů) Middle East: Iran wants US concessions before opening Hormuz
   - **2026-08-11** (2 zdrojů) Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
   - **2026-08-11** (2 zdrojů) Trump signals shift to economic pressure on Iran over new military strikes
   - **2026-08-11** (2 zdrojů) Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
@@ -19,6 +17,8 @@ Paměť obsahuje **19 vláken**. Aktivních za posledních 14 dní: **7**.
   - **2026-08-11** (2 zdrojů) Trump demands compensation from Iran as talks on Strait of Hormuz continue
   - **2026-08-11** (2 zdrojů) Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
   - **2026-08-11** (4 zdrojů) Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+  - **2026-08-12** (2 zdrojů) Gulf states scramble for Strait of Hormuz alternative
+  - **2026-08-12** (2 zdrojů) Lebanon becomes first Middle East country to end death penalty
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 1 dní · 6 záznamů
