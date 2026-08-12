@@ -44,6 +44,10 @@ quiz:
   options: ["That Hamas is 'genuinely' disarmed", "That the UN takes over administration", "That elections are held in Gaza"]
   answer: 0
   explanation: "Netanyahu said the Israeli military would not pull out until Hamas is 'genuinely' disarmed, as reported by the BBC, the Guardian and NPR."
+impact:
+  areas: [safety, life]
+  line: "For most readers nothing changes today; the standoff keeps the war open, which matters most to civilians in Gaza and to Israeli families still waiting on hostages and deployed soldiers."
+  todo: "Watch for any published sequence showing who disarms first, who withdraws, and who verifies it — that sequence, not another statement, would signal real movement."
 ---
 
 ## BRIEFLY

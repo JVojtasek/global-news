@@ -31,6 +31,10 @@ quiz:
   options: ["They have gone back down", "They are still rising, just more slowly", "They have been frozen by law"]
   answer: 1
   explanation: "Falling inflation means the rate of increase has slowed. Prices going down is deflation, which is a different and much rarer situation."
+impact:
+  areas: [money]
+  line: "This is background, not news — it changes nothing about today's prices, but it helps you read next month's official inflation figure correctly instead of assuming a slower rate means prices fell."
+  todo: "Check your own country's statistics office basket rather than a headline number, and compare it with your own sector's wage growth."
 ---
 
 ## BRIEFLY

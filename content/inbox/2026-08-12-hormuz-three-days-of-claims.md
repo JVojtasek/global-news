@@ -43,6 +43,10 @@ quiz:
   options: ["Lifting the US naval blockade of Iranian ports", "A new UN peacekeeping force", "Recognition of a new shipping company"]
   answer: 0
   explanation: "France 24 reported the demands included lifting the US naval blockade of Iranian ports, compensation for war damages and the release of frozen Iranian assets."
+impact:
+  areas: [money]
+  line: "Most readers feel this only through fuel and freight prices if the strait stays disputed; it changes little day to day for anyone outside shipping and energy markets."
+  todo: "Check whether commercial tankers are transiting under normal insurance terms — that, not an announcement, is the real signal the strait is open."
 ---
 
 ## BRIEFLY
