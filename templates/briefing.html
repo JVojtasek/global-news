@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+{% block title %}{{ t.brief_page_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.brief_page_intro }}{% endblock %}
+{% block body %}
+<main class="morning wide" id="morning-briefing">
+  <header class="morning-head">
+    <p class="kicker">{{ today_label }}</p>
+    <h1>{{ t.brief_page_title }}</h1>
+    <p class="morning-intro">{{ t.brief_page_intro }}</p>
+
+    <div class="brief-controls">
+      <fieldset class="brief-scope">
+        <legend>{{ t.brief_scope }}</legend>
+        <div class="brief-scope-buttons">
+          <button type="button" data-brief-scope="home" aria-pressed="false">{{ t.brief_scope_home }}</button>
+          <button type="button" data-brief-scope="mix" aria-pressed="true">{{ t.brief_scope_mix }}</button>
+          <button type="button" data-brief-scope="world" aria-pressed="false">{{ t.brief_scope_world }}</button>
+        </div>
+      </fieldset>
+      <label class="brief-country">
+        <span>{{ t.brief_country }}</span>
+        <select id="brief-country">
+          <option value="">{{ t.brief_country_pick }}</option>
+          {% for country in country_catalogue %}<option value="{{ country.code }}" data-eu="{{ 1 if country.eu else 0 }}">{{ country[lang] or country.en }}</option>{% endfor %}
+        </select>
+      </label>
+      <div class="brief-personal">
+        <button type="button" onclick="tdsOpenReader()">{{ t.brief_settings }}</button>
+        <p>{{ t.brief_private }}</p>
+      </div>
+    </div>
+  </header>
+
+  <section class="brief-block" data-brief-section>
+    <div class="brief-block-head">
+      <div><p class="brief-step">01</p><h2>{{ t.brief_live }}</h2></div>
+      <p>{{ t.brief_live_help }}</p>
+    </div>
+    {% if briefing.live %}
+    <ol class="brief-list brief-live-list">
+      {% for item in briefing.live %}
+      <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}">
+        <div class="brief-time"><time datetime="{{ item.created_iso }}">{{ item.brief_time }}</time>{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
+        <div class="brief-copy">
+          <span class="brief-country-mark" hidden>{{ t.brief_country_mark }}</span>
+          <h3><a href="{{ item.url }}" rel="noopener">{{ item.headline }}</a></h3>
+          {% if item.summary %}<p>{{ item.summary }}</p>{% endif %}
+          <p class="brief-provenance">{{ t.brief_source }}: {{ item.source or '—' }}{% if item.sources_count > 1 %} · {{ item.sources_count }} {{ t.brief_sources }}{% endif %}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+    {% else %}<p class="brief-empty">{{ t.brief_empty_live }}</p>{% endif %}
+    <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
+  </section>
+
+  <section class="brief-block" data-brief-section>
+    <div class="brief-block-head">
+      <div><p class="brief-step">02</p><h2>{{ t.brief_recent }}</h2></div>
+      <p>{{ t.brief_recent_help }}</p>
+    </div>
+    {% if briefing.recent %}
+    <ol class="brief-list">
+      {% for item in briefing.recent %}
+      <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section }}" data-tags="{{ item.tags_csv }}" data-topics="{{ item.topics_csv }}">
+        <div class="brief-time"><time datetime="{{ item.published_iso }}">{{ item.brief_time }}</time><span>{{ item.section_label }}</span></div>
+        <div class="brief-copy">
+          <span class="brief-country-mark" hidden>{{ t.brief_country_mark }}</span>
+          <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+          <p>{{ item.dek }}</p>
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+    {% else %}<p class="brief-empty">{{ t.brief_empty_recent }}</p>{% endif %}
+    <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
+  </section>
+
+  <section class="brief-block brief-watch" data-brief-section>
+    <div class="brief-block-head">
+      <div><p class="brief-step">03</p><h2>{{ t.brief_watch }}</h2></div>
+      <p>{{ t.brief_watch_help }}</p>
+    </div>
+    <p class="brief-watch-kind">{{ t.brief_calendar if briefing.watch_is_calendar else t.brief_signals }}</p>
+    {% if briefing.watch %}
+    <ol class="brief-list">
+      {% for item in briefing.watch %}
+      <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}" data-tags="{{ item.tags_csv }}" data-topics="{{ item.topics_csv }}">
+        <div class="brief-time">{% if item.starts_label %}<time>{{ item.starts_label }}</time>{% endif %}{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
+        <div class="brief-copy">
+          <span class="brief-country-mark" hidden>{{ t.brief_country_mark }}</span>
+          <h3><a href="{{ item.url }}"{% if briefing.watch_is_calendar %} rel="noopener"{% endif %}>{{ item.title }}</a></h3>
+          <p>{{ item.why }}</p>
+          {% if item.source %}<p class="brief-provenance">{{ item.source }}</p>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+    {% else %}<p class="brief-empty">{{ t.brief_empty_watch }}</p>{% endif %}
+    <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
+  </section>
+
+  <footer class="brief-done">
+    <span aria-hidden="true">✓</span>
+    <div><h2>{{ t.brief_done }}</h2><p>{{ t.brief_done_help }}</p></div>
+  </footer>
+</main>
+{% endblock %}

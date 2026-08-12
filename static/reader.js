@@ -43,6 +43,8 @@
   var opener = null;
   var home = false;      // stropy na množství platí jen na titulní straně
   var card = null;       // otevřený uvítací průvodce
+  var briefBox = null;   // ranní briefing, pokud jsme právě na jeho stránce
+  var briefMode = "mix";
 
   /* ---------------------------------------------------------- úložiště */
   function num(v, lo, hi, dflt) {
@@ -1097,6 +1099,7 @@
     v.land = c;
     cfg = v;
     save(v);
+    briefRender();
   }
 
   function landForget() {
@@ -1105,6 +1108,96 @@
     save(cfg);
     navLand();
     landRow();
+    briefRender();
+  }
+
+  /* ================================================= ranní briefing
+     Pořadí zůstává vždy časové. Volba země proto zprávy nepřehazuje:
+     ve smíšeném vydání jen označí relevantní položky, v režimu „moje
+     země“ ostatní schová. Celé filtrování probíhá tady v prohlížeči.
+     ================================================================ */
+  function briefSaved() {
+    try {
+      var v = window.localStorage.getItem("tds-brief-scope");
+      return (v === "home" || v === "world" || v === "mix") ? v : "mix";
+    } catch (e) { return "mix"; }
+  }
+
+  function briefSave(v) {
+    try { window.localStorage.setItem("tds-brief-scope", v); } catch (e) { /* nevadí */ }
+  }
+
+  function briefEu(c) {
+    if (!briefBox || !c) return false;
+    var select = briefBox.querySelector("#brief-country");
+    var option = select ? select.querySelector('option[value="' + c + '"]') : null;
+    return !!(option && option.getAttribute("data-eu") === "1");
+  }
+
+  function briefRelevant(el, c, eu) {
+    if (!c) return false;
+    var direct = csv(el.getAttribute("data-countries"));
+    if (direct.indexOf(c) >= 0) return true;
+    return eu && el.getAttribute("data-reach") === "eu";
+  }
+
+  function briefRender() {
+    if (!briefBox) return;
+    var c = now().land;
+    var eu = briefEu(c);
+    var select = briefBox.querySelector("#brief-country");
+    if (select) select.value = c;
+
+    [].forEach.call(briefBox.querySelectorAll("[data-brief-scope]"), function (btn) {
+      btn.setAttribute("aria-pressed", btn.getAttribute("data-brief-scope") === briefMode ? "true" : "false");
+    });
+
+    [].forEach.call(briefBox.querySelectorAll("[data-brief-section]"), function (section) {
+      var items = [].slice.call(section.querySelectorAll(".brief-item"));
+      var visible = 0;
+      items.forEach(function (item) {
+        var relevant = briefRelevant(item, c, eu);
+        var hideIt = briefMode === "home" && !relevant;
+        item.hidden = hideIt;
+        if (!hideIt) visible++;
+        var mark = item.querySelector(".brief-country-mark");
+        if (mark) mark.hidden = !(briefMode === "mix" && relevant);
+      });
+      var empty = section.querySelector(".brief-scope-empty");
+      if (empty) empty.hidden = !(items.length && visible === 0);
+    });
+  }
+
+  function briefing() {
+    briefBox = doc.getElementById("morning-briefing");
+    if (!briefBox) return;
+    briefMode = briefSaved();
+    var select = briefBox.querySelector("#brief-country");
+    if (select) {
+      select.value = now().land;
+      select.addEventListener("change", function () {
+        var c = code(select.value);
+        if (c) landSave(c); else landForget();
+        navLand();
+        briefRender();
+      });
+    }
+    briefBox.addEventListener("click", function (e) {
+      var el = e.target;
+      while (el && el !== briefBox) {
+        if (el.hasAttribute && el.hasAttribute("data-brief-scope")) {
+          briefMode = el.getAttribute("data-brief-scope") || "mix";
+          briefSave(briefMode);
+          briefRender();
+          if (briefMode === "home" && !now().land && select) {
+            try { select.focus(); } catch (ignore) { /* nevadí */ }
+          }
+          return;
+        }
+        el = el.parentNode;
+      }
+    });
+    briefRender();
   }
 
   /* Jméno země umíme přečíst jen tam, kde na stránce je: v mřížce
@@ -1379,6 +1472,7 @@
     navLand();
     landPick();
     landRow();
+    briefing();
     apply();
     sorter();
     rail();
