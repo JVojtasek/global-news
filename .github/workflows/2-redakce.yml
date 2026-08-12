@@ -1,21 +1,16 @@
-# Hlavní denní běh redakce.
-#  1) přijme články, které dodaly naplánované úlohy ChatGPT Work (content/inbox/)
-#  2) když je nastavený API klíč, dopíše chybějící články sám
-#  3) vydá jeden článek ze zásoby
-#  4) přeloží, co je potřeba
+# Hlavní denní běh redakce v režimu bez placeného modelového API.
+#  1) přijme články z naplánovaných úloh ChatGPT Work (content/inbox/)
+#  2) vydá splatný článek ze zásoby
+#  3) spustí bezpečnostní testy a připraví sociální výstupy
+#
+# Záměrně se nenačítají OPENAI_API_KEY ani ANTHROPIC_API_KEY. Ani jejich
+# případná existence v GitHub Secrets nemůže v tomto workflow spustit placený model.
 name: "2 · Redakce"
 
 on:
   schedule:
     - cron: "35 9 * * *"        # po dokončení šesti úloh + rezervy ChatGPT Work
   workflow_dispatch:
-    inputs:
-      pocet_zprav:
-        description: "Kolik zpravodajských článků napsat (prázdné = podle nastavení)"
-        required: false
-      pocet_biblickych:
-        description: "Kolik biblických článků napsat"
-        required: false
 
 permissions:
   contents: write
@@ -27,9 +22,6 @@ concurrency:
 jobs:
   newsroom:
     runs-on: ubuntu-latest
-    env:
-      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      OPENAI_API_KEY:    ${{ secrets.OPENAI_API_KEY }}
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 0 }
@@ -52,25 +44,8 @@ jobs:
       - name: Přijmout články z inboxu
         run: python -m engine.inbox
 
-      - name: Napsat chybějící články (jen když je API klíč)
-        if: env.ANTHROPIC_API_KEY != '' || env.OPENAI_API_KEY != ''
-        continue-on-error: true
-        run: python -m engine.write ${{ inputs.pocet_zprav }} ${{ inputs.pocet_biblickych }}
-
-      - name: Vyhodnotit splatné předpovědi a navrhnout nové
-        if: env.ANTHROPIC_API_KEY != '' || env.OPENAI_API_KEY != ''
-        continue-on-error: true
-        run: |
-          python -m engine.analyst resolve
-          python -m engine.analyst propose
-
       - name: Vydat článek ze zásoby
         run: python -m engine.release
-
-      - name: Přeložit
-        if: env.ANTHROPIC_API_KEY != '' || env.OPENAI_API_KEY != ''
-        continue-on-error: true
-        run: python -m engine.translate 6
 
       - name: Redakční bezpečnostní testy
         run: python -m unittest discover -s tests -v
@@ -87,9 +62,6 @@ jobs:
           python -m engine.social send
 
       - name: Kontrola zdraví
-        # Zatím pouze provozní varování: současný web nemá rezervní články,
-        # takže doctor oprávněně vrací chybu. Tvrdou publikační branou jsou
-        # výše uvedené redakční bezpečnostní testy.
         continue-on-error: true
         run: python -m engine.doctor
 
