@@ -44,6 +44,9 @@
 {% if page_type == "weather" %}<link rel="dns-prefetch" href="https://unpkg.com">{% endif %}
 {% if seo.google_verification %}<meta name="google-site-verification" content="{{ seo.google_verification }}">{% endif %}
 {% if seo.bing_verification %}<meta name="msvalidate.01" content="{{ seo.bing_verification }}">{% endif %}
+{# Seznam ověřuje meta značkou nebo souborem. Značka vložená skriptem
+   se nepočítá, proto je přímo tady v hlavičce. #}
+{% if seo.seznam_verification %}<meta name="seznam-wmt" content="{{ seo.seznam_verification }}">{% endif %}
 {% block head %}{% endblock %}
 </head>
 <body data-base="{{ base }}">

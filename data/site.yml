@@ -286,6 +286,8 @@ seo:
   # Ověřovací kódy z Google Search Console a Bing (vyplň, až je budeš mít)
   google_verification: ""
   bing_verification: ""
+  # Seznam.cz — reporter.seznam.cz/wm. Kód z ověření meta značkou.
+  seznam_verification: ""
   # Účty na sítích — kvůli náhledům při sdílení
   twitter_handle: ""
   # Kolik souvisejících článků nabídnout na konci textu
