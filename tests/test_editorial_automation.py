@@ -132,6 +132,40 @@ class EditionCompletenessTests(unittest.TestCase):
                 errors, _ = edition_guard.inspect(dt.date(2026, 8, 13))
             self.assertTrue(any("obsazen 2krát" in error for error in errors))
 
+    def test_guard_accepts_public_slots_after_publication(self):
+        config.site()
+        plan = edition.build(dt.date(2026, 8, 13))
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            content, data = root / "content", root / "data"
+            (content / "inbox").mkdir(parents=True)
+            (content / "en").mkdir()
+            (data / "daily-agenda").mkdir(parents=True)
+            (data / "daily-agenda" / "2026-08-13.md").write_text(
+                "# Agenda\n", encoding="utf-8"
+            )
+            for spec in plan["slots"]:
+                words = "useful " * int(spec["min_words"])
+                meta = self._meta(spec)
+                meta["status"] = "published"
+                path = content / "en" / f"2026-08-13-slot-{spec['slot']}.md"
+                path.write_text(article.dump(meta, words), encoding="utf-8")
+            with mock.patch.object(config, "CONTENT", content), mock.patch.object(
+                config, "DATA", data
+            ):
+                errors, warnings = edition_guard.inspect(dt.date(2026, 8, 13))
+            self.assertEqual([], errors)
+            self.assertTrue(any("slot 7" in warning for warning in warnings))
+
+    def test_inbox_gate_still_rejects_published_submission(self):
+        plan = edition.build(dt.date(2026, 8, 13))
+        spec = plan["slots"][0]
+        meta = self._meta(spec)
+        meta["status"] = "published"
+        body = "useful " * int(spec["min_words"])
+        problems = inbox._edition_check(meta, body)
+        self.assertTrue(any("status: draft" in problem for problem in problems))
+
 
 class QmaAndQuizTests(unittest.TestCase):
     def test_contextual_qma_link_contains_measurable_attribution(self):
