@@ -53,6 +53,16 @@ quiz:
   answer: 1
   explanation: AIMS data show both rapid recovery and sharp losses, especially among
     fast-growing corals that contributed strongly to recent gains.
+impact:
+  areas: [life]
+  line: >-
+    For anyone reading reef headlines, and for people who work on the Great Barrier
+    Reef: recovery is real but not an all-clear. Hard-coral cover fell 24.8% in the
+    reef's north, 13.9% in the centre and 30.6% in the south in 2024/25.
+  todo: >-
+    Ask a reef operator whether it takes part in Eye on the Reef or a stewardship
+    programme, and follow the annual AIMS and Reef Authority surveys rather than one
+    photograph.
 ---
 
 ## BRIEFLY

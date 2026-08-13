@@ -24,6 +24,17 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changed nothing. The total eclipse of 12 August 2026
+    was visible from land only in parts of Iceland and northern Spain; the rest
+    of Europe, parts of Africa, Canada and the northern and northeastern United
+    States saw a partial eclipse.
+  todo: >-
+    NASA publishes the eclipse path and maps; the article notes Spain had better
+    odds of clear skies than Iceland, based on decades of August cloud-cover
+    measurements.
 ---
 
 - Science

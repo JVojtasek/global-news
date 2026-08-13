@@ -26,6 +26,17 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/
+impact:
+  areas: [life, safety]
+  line: >-
+    This is Venezuela: seven weeks after the 24 June earthquakes the
+    government reported more than 5,300 dead, 16,740 injured and 17,907 people
+    left homeless, but published no figure for the missing. The UN initially
+    estimated around 50,000, independent groups about 40,000.
+  todo: >-
+    The number to watch is the missing, which the official counts omit; the
+    article records that donations, including food, have steadily declined as
+    the weeks passed.
 ---
 
 Stories of loss, resilience, and hope from Venezuela’s earthquake survivors

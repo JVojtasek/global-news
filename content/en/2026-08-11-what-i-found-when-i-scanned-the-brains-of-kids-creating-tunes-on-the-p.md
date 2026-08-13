@@ -26,6 +26,15 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/what-i-found-when-i-scanned-the-brains-of-kids-creating-tunes-on-the-piano-287279
+impact:
+  areas: [life, health]
+  line: >-
+    Nothing changes practically, but the finding is usable at home: in fMRI
+    scans, children improvising on a small keyboard engaged the brain's reward
+    structures more than playing a scale did, and they had no training at all.
+  todo: >-
+    If a child balks at practice, the researcher's own takeaway is that making
+    something up counts, and that it does not have to be music.
 ---
 
 Research shows that improvisation and creativity are good for the brain. In an episode of the Greater Good Science Center’s “Science of Happiness” podcast , host Shuka Kalantari talked to Karen Barrett about what happens in the brain when people improvise music. Barrett is an assistant professor in the Institute for Health & Aging at the University of California, San Francisco who researches the effects of music on aging and health.

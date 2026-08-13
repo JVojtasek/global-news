@@ -46,6 +46,17 @@ quiz:
   explanation: The Cochrane review found little or no short-term benefit for visual
     fatigue, no evidence on long-term retinal protection, and mixed, low-certainty
     sleep results.
+impact:
+  areas: [health, money]
+  line: >-
+    If you are about to buy blue-light filtering glasses: the 2023 Cochrane
+    review of 17 trials with 619 participants found they may give no
+    short-term advantage for computer eye strain, rated the sleep evidence
+    very low certainty, and included no trial of long-term retinal health.
+  todo: >-
+    The article's cheaper first steps are distance breaks, deliberate
+    blinking, less glare and bigger text; for persistent pain or a change in
+    sight it points to an optometrist or ophthalmologist.
 ---
 
 ## BRIEFLY

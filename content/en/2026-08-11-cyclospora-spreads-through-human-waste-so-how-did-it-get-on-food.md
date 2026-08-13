@@ -11,6 +11,17 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: Cyclospora spreads through human waste –
+impact:
+  areas: [health, safety]
+  line: >-
+    The largest US cyclospora outbreak has sickened more than 22,000 people
+    and contributed to two deaths in Michigan. The likely route is sewage in
+    irrigation water: 200 billion gallons of treated wastewater irrigate US
+    farmland yearly, and chlorination does not kill this parasite.
+  todo: >-
+    Public health agencies publish the case count and which foods are
+    implicated; the parasite spreads through human faeces and an infected
+    person can shed it for 60 days.
 syndicated:
   source: The Conversation — Health
   author: Joan Rose, Professor of Water Research; Director, Water Alliance, Michigan

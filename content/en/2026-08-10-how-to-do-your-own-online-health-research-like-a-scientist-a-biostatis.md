@@ -26,6 +26,15 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/how-to-do-your-own-online-health-research-like-a-scientist-a-biostatisticians-step-by-step-guide-282559
+impact:
+  areas: [health]
+  line: >-
+    For anyone who searches health questions online: the method here is to pin down four
+    things first — the treatment, the outcome, who it is for and over what time — then
+    look for systematic reviews that actually match all four.
+  todo: >-
+    PubMed, from the National Library of Medicine, is free to search; the article warns
+    indexing there is no mark of quality and that good reviews state a certainty grade.
 ---
 
 The instinct to “do your own research” when it comes to your health is a good one. The challenge often is not lack of information, but the opposite.

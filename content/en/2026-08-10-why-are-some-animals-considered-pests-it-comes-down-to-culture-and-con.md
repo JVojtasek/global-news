@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/why-are-some-animals-considered-pests-it-comes-down-to-culture-and-convenience-282218
+impact:
+  areas: [safety, life]
+  line: >-
+    For anyone dealing with animals around the house, the practical point is the
+    article's own warning: regular use of chemical rodenticides is a danger to
+    people, pets and wildlife, and most spiders and moles are harmless or
+    useful.
+  todo: >-
+    Before reaching for poison, check what the species actually does: moles
+    aerate soil and eat pests, most spiders are harmless, and rodenticides reach
+    pets and wildlife too.
 ---
 
 After wild turkeys attacked an 83-year-old woman in May 2026, sending her to the emergency room for stitches, police warned residents of Alameda, California, to avoid interacting with the animals. Wild turkeys can be particularly aggressive during mating season. They can also damage property: digging up gardens, staining decks with their droppings and occasionally attacking cars and windows when they mistake their own reflections for rival turkeys.

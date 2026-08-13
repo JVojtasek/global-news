@@ -23,6 +23,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/
+impact:
+  areas: [life]
+  line: >-
+    Na běžném životě to nemění nic; je to snímek s vysvětlením. Co si z něj
+    odnesete, je způsob, jak odlišit kometu od hvězdokupy: kometa 10P/Tempel 2
+    byla 3,5 světelné minuty daleko, hvězdokupa M30 asi 28 000 světelných let.
+  todo: >-
+    Astronomický snímek dne vychází i s vysvětlením od astronoma každý den;
+    tenhle byl pořízen 29. července 2026.
 ---
 
 - Věda

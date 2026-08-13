@@ -27,6 +27,16 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/the-odyssey-is-a-striking-portrait-of-the-psychological-wounds-that-can-emerge-when-people-violate-their-deepest-values-288337
+impact:
+  areas: [health]
+  line: >-
+    For most readers this is a film review. For veterans and the people close to
+    them it names something specific: moral injury — guilt, shame and alienation
+    after acting against one's own values — which overlaps with PTSD but is not
+    the same.
+  todo: >-
+    The Moral Injury Project at Syracuse University publishes the definition
+    used here; a clinician is who to ask whether it fits a particular person.
 ---
 
 Christopher Nolan’s “ The Odyssey ,” a new adaptation of Homer’s epic tale of Odysseus’ perilous journey home after the Trojan War, is already being described as a case study in post-traumatic stress disorder .

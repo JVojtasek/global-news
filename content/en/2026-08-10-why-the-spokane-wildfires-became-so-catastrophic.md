@@ -26,6 +26,17 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/why-the-spokane-wildfires-became-so-catastrophic-288895
+impact:
+  areas: [safety, life]
+  line: >-
+    For anyone whose home sits where houses meet forest, shrubland or
+    grassland: the fire scientists say keep the five feet (about 1.5 metres)
+    nearest the house, known as Zone 0, free of anything that burns, and
+    harden roofs, windows and openings against wind-blown embers.
+  todo: >-
+    Watch for escalated fire warnings — Spokane had a rare “particularly
+    dangerous situation” alert one day before — and ask whether your community
+    has a wildfire protection plan.
 ---
 
 Three large wildfires raced through neighborhoods in and around Spokane, Washington, starting the weekend of Aug. 1, 2026, destroying more than 800 homes and other structures and threatening many more . Tens of thousands of people, including patients at a Veterans Affairs medical center, were forced to evacuate as the fires spread.

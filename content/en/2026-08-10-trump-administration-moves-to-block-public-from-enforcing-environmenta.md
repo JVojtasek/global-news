@@ -13,6 +13,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Trump administration moves to block public
+impact:
+  areas: [health, life]
+  line: >-
+    This is the United States: for fifty years anyone could sue a polluter
+    under the Clean Air or Clean Water Act after a 60-day notice. The
+    Justice Department now argues in court that they may not, where the
+    government has chosen not to act.
+  todo: >-
+    Watch how the judge rules in NAACP v. xAI; citizen suits have brought
+    more than 2,000 cases since the 1970s and are a majority of US
+    environmental litigation.
 syndicated:
   source: The Conversation — Environment
   author: Sarah J. Morath, Professor of Law and Associate Dean for International Affairs,

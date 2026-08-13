@@ -24,6 +24,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/09/can-ai-help-build-peace-african-youth-are-showing-a-path-forward/
+impact:
+  areas: [safety, life]
+  line: >-
+    Outside Africa this changes nothing directly, but one point travels: AI systems
+    trained mainly in English miss harmful content in other languages, so anyone whose
+    language is poorly represented in these tools is less well protected by them.
+  todo: >-
+    The brief is from the Institute for Security Studies; the article names Kenya's
+    Ushahidi and iVerify, piloted in Zambia in 2021 and now used in Sierra Leone and
+    Liberia.
 ---
 
 Peacebuilding depends on understanding local narratives and community dynamics

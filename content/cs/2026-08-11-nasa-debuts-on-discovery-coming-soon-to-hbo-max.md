@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/
+impact:
+  areas: [money, life]
+  line: >-
+    Kdo sleduje starty: NASA+ je nově i na discovery+ a míří na HBO Max, ale
+    zůstává zdarma a bez reklam v aplikaci NASA a na webu agentury — placené
+    platformy jsou přidání navíc, ne náhrada.
+  todo: >-
+    Předplatné potřeba není: bezplatný přenos je v aplikaci NASA a na nasa.gov.
+    HBO Max má vysílat zvláštní události včetně mise Artemis III v roce 2027.
 ---
 
 ![](https://www.nasa.gov/wp-content/uploads/2026/08/nasa-promo-image-horizontal.png?w=2048)

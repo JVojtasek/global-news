@@ -13,6 +13,17 @@ load: 5
 topics: [tech, business, climate]
 series: wider-lens
 image_query: electricity grid data center
+impact:
+  areas: [money, life]
+  line: >-
+    Pro domácnosti je otázkou, kdo zaplatí posílení sítě. Když datové
+    centrum přijde pozdě, postaví se menší nebo skončí, slabé smlouvy
+    nechají účet na odběratelích elektřiny. V Británii vyskočily nasmlouvané
+    žádosti o připojení ze 41 na 125 GW za sedm měsíců.
+  todo: >-
+    Ptejte se, kdo platí, když projekt nabere zpoždění, zmenší se nebo
+    skončí; odpověď je v tarifu, ne v tiskové zprávě. Sledujte ohlášený
+    výkon proti skutečně připojenému.
 qma_path: /magazin
 tickers: [NVDA]
 sources:

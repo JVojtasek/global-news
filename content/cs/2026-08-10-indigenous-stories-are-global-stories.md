@@ -23,6 +23,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/
+impact:
+  areas: [life]
+  line: >-
+    Většině čtenářů se tím denně nemění nic; podstatné je měřítko. Původní obyvatelé
+    tvoří asi 6,2 % světové populace, ale spravují území zabírající 25 % souše planety,
+    na kterých leží velká část její biologické rozmanitosti.
+  todo: >-
+    Interaktivní atlas Native Land Digital mapuje historická i současná území původních
+    obyvatel; autor upozorňuje, že je stále neúplný, hlavně pro subsaharskou Afriku a
+    Asii.
 ---
 
 „[N]echci příběhy původních obyvatel předkládat jako minulost nebo jako okrajovou záležitost. Chci ukázat, že jsou to příběhy globální."

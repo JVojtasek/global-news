@@ -26,6 +26,15 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/the-rise-of-yemeni-coffeehouses-in-dearborn-and-beyond-274265
+impact:
+  areas: [life, money]
+  line: >-
+    For most readers this changes nothing; it is a US story. Three Dearborn-based chains
+    — Qahwah House, Qamaria and Haraz — now run 121 stores across 14 states, and the
+    article notes the US has barred Yemeni immigrants and non-immigrants from entering.
+  todo: >-
+    The article says the temporary protected status of Yemenis already in the US is
+    under threat of suspension — that is the status to watch if it touches your family.
 ---
 
 The mayor of Dearborn, Michigan, Abdullah Hammoud, declared the city the “Coffee Capital of America” in November 2025.

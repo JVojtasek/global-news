@@ -1,7 +1,7 @@
 ---
 slug: the-bleak-picture-of-how-indigenous-youth-are-treated-in-australias-ju
 title: "Ponurý obraz toho, jak australský justiční systém zachází s domorodou mládeží"
-dek: "„Od pobřeží k pobřeží jsou napříč naší zemí domorodé děti kriminalizovány a vězněny ve znepokojivé míře — kvůli politickému bodování, ne reformám podloženým důkazy.""
+dek: "„Od pobřeží k pobřeží jsou napříč naší zemí domorodé děti kriminalizovány a vězněny ve znepokojivé míře — kvůli politickému bodování, ne reformám podloženým důkazy.“"
 section: world
 type: syndicated
 depth: open
@@ -10,6 +10,17 @@ date: 2026-08-12
 status: published
 confidence: 0
 image_query: "The bleak picture of how Indigenous"
+impact:
+  areas: [safety, life]
+  line: >-
+    Tohle je Austrálie: původní děti mají 23krát vyšší pravděpodobnost, že
+    skončí pod dohledem justice pro mladistvé, a 28krát vyšší, že skončí ve
+    vazbě. Děti bez jakéhokoli rozsudku o vině stráví zavřené průměrně 57,2
+    dne — v Queenslandu 96,3.
+  todo: >-
+    Čísla jsou v aktualizaci Closing the Gap od Productivity Commission;
+    cílem je snížení o 30 % do roku 2031 a zpráva uvádí nulovou změnu oproti
+    výchozímu stavu.
 syndicated:
   source: "Global Voices"
   author: "Kevin Rennie"

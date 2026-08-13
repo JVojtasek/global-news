@@ -25,6 +25,17 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing day to day. What matters is the gap
+    the article names: no constitution in the Middle East recognises Assyrians
+    as an Indigenous people, and the archival work of recording what happened
+    to Assyrian women rests on volunteers.
+  todo: >-
+    The article names where that record is being kept: the Seyfo Centre, the
+    Assyrian Studies Association and Assyrian Genocide Studies, which archives
+    women's accounts.
 ---
 
 Sexual violence, state denial, and archival silence: three systems that work to disappear an Indigenous people

@@ -27,6 +27,16 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/what-is-emotional-regulation-a-child-psychologist-explains-280443
+impact:
+  areas: [health, life]
+  line: >-
+    This is an explainer, not news. Its usable point: emotional regulation is a set of
+    skills learned over time, not a fixed trait, and children pick it up by watching the
+    adults around them name and handle feelings.
+  todo: >-
+    The article separates emotional regulation from temperament, which is inborn, and
+    notes sleep quality and life stress make it harder — a topic to read about, not a
+    diagnosis.
 ---
 
 If you’ve followed mental health topics on TikTok or Instagram lately, you have probably heard the term emotional regulation. But emotional regulation isn’t just a trendy buzzword. It’s a nuanced concept that psychologists like me have been studying for decades .

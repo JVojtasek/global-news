@@ -25,6 +25,17 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing day to day; the point the authors make
+    is that no state guarantees legal membership forever, and that statelessness
+    is not only a missing passport but the loss of the rights citizenship
+    quietly carries — work, movement, education.
+  todo: >-
+    The essay comes from the Apatride Network, an organisation led by stateless
+    people; its published work is where the lived accounts and the terminology
+    are set out.
 ---
 
 Citizenship and even nationality should never determine whether a person’s identity is considered valid or possible

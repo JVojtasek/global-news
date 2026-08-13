@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/sargassum-the-smelly-nemesis-of-beach-vacations-has-become-a-self-sustaining-disaster-that-will-keep-coming-back-287444
+impact:
+  areas: [life, health, money]
+  line: >-
+    For anyone living on or travelling to Caribbean, Gulf or tropical Atlantic
+    coasts: the researchers conclude these seaweed blooms are now
+    self-sustaining and here to stay. Decomposing mats release hydrogen
+    sulfide, ammonia and methane, and can clog harbours and disrupt fishing.
+  todo: >-
+    Before booking a beach trip, check the sargassum forecast for that coast;
+    the researchers say better prediction is what gives coastal communities
+    time to prepare.
 ---
 
 You’ve been planning your dream beach vacation for months, only to arrive and find the shoreline covered in large piles of smelly, brown seaweed, with even more floating offshore. It’s disappointing, for sure – and increasingly common.

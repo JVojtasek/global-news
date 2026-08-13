@@ -12,6 +12,17 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: Lightning strikes kill thousands globally each
+impact:
+  areas: [health, safety]
+  line: >-
+    Surviving is not the end: more than two-thirds of US survivors have no
+    visible scars yet live with brain injury, chronic pain, memory loss or
+    tinnitus, and are often disbelieved. In Africa about half of strikes
+    happen indoors, in buildings with no protection.
+  todo: >-
+    A lightning-safe building needs a protection system built to
+    international standards, not a single arrester; the African Centres for
+    Lightning and Education Network keeps the casualty database.
 syndicated:
   source: The Conversation — Health
   author: Daile Zhang, Assistant Professor of Atmospheric Sciences, University of

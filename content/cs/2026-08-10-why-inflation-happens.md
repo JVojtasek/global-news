@@ -14,6 +14,15 @@ event_id: ''
 series: ''
 image_query: grocery receipt shopping cart
 sources: []
+impact:
+  areas: [money]
+  line: >-
+    Tohle je pozadí, ne zpráva. Na dnešních cenách to nic nemění, ale opravuje to častý
+    omyl: když inflace zpomalí, ceny pořád rostou, jen pomaleji. Pokles cen je deflace,
+    které se centrální banky snaží vyhnout.
+  todo: >-
+    Koho to podle článku bolí nejvíc: kdo má příjem pevně daný v penězích — důchody,
+    úspory s nízkým úrokem. Porovnejte titulkové číslo s vlastním příjmem.
 ---
 
 ## FACTS

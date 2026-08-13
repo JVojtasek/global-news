@@ -36,6 +36,15 @@ quiz:
   options: ["Brát pět pozitivních gest jako zaručenou nápravu za jeden škodlivý čin", "Používat to jako přesný denní cíl pro každý pár", "Používat to jako připomínku, že na vřelosti a nápravě záleží, aniž by se pětka brala jako univerzální práh"]
   answer: 2
   explanation: "Výzkum podporuje to, věnovat pozornost emočnímu vzorci hádky, ale nestanovuje přesný univerzální předpis pro každý vztah."
+impact:
+  areas: [life, safety]
+  line: >-
+    Kdo slyšel pravidlo 5:1: vzniklo z pozorování hádek u 130 novomanželských
+    párů a studie z roku 2007 na 85 párech z ohrožených poměrů hlavní modely
+    nezopakovala. Je to pobídka všímat si usmíření, ne skóre.
+  todo: >-
+    Kde je strach, nátlak nebo násilí, jsou cvičení na pozitivitu špatný
+    nástroj; článek odkazuje na místní odbornou nebo bezpečnostní pomoc.
 ---
 
 ## BRIEFLY

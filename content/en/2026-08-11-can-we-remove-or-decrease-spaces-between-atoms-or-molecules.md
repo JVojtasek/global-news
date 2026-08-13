@@ -27,6 +27,15 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/can-we-remove-or-decrease-spaces-between-atoms-or-molecules-284163
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing; it explains something they already
+    own. The same carbon is pencil lead or diamond depending only on how the
+    atoms are packed, and the soft sparkle in many cosmetics is boron nitride.
+  todo: >-
+    The article is part of The Conversation's Curious Kids series; children's
+    questions can be sent to the address given at the end of it.
 ---
 
 Curious Kids is a series for children of all ages. If you have a question you’d like an expert to answer, send it to curiouskidsus@theconversation.com .

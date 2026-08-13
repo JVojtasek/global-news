@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/students-are-anxious-and-its-no-surprise-since-we-are-teaching-them-to-be-that-way-285575
+impact:
+  areas: [health, life]
+  line: >-
+    For anyone with a school-age child or teaching one: a survey of more than
+    84,000 college students found a third reported moderate or severe anxiety,
+    and a 2026 study links academic pressure at 15 to depressive symptoms that
+    persist into adulthood.
+  todo: >-
+    Those figures are self-reported, not diagnoses. A school counsellor or a
+    doctor is who to ask if a child's stress looks constant rather than exam-
+    shaped.
 ---
 
 Temporary anxiety can often surface before the first day of school. Sometimes, that can help kids get in the right mindset for a big day . But when anxiety becomes a constant feature of children’s and teenagers’ days, that stress doesn’t switch off when they leave the classroom or finish an exam. It can become the body’s normal, staying with learners long after graduation.

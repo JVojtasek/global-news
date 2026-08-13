@@ -25,6 +25,17 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/
+impact:
+  areas: [life, money]
+  line: >-
+    Nothing changes elsewhere; for people working in Kazakhstan it is concrete:
+    the Constitution in force since July removed the right to strike, a union
+    must have branches in half the country's regions to register, and labour
+    inspectors may check only 38 listed items.
+  todo: >-
+    The inspection checklist is a joint decree of the economy and health
+    ministries; the State Labour Inspectorate is the body that receives
+    complaints.
 ---
 
 Reforms and amendments to the Labor Code have consistently put employers first

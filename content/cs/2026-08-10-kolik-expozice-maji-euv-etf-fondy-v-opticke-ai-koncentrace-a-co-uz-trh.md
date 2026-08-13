@@ -19,6 +19,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kolik-expozice-maji-euv-etf-fondy-v-opticke-ai-koncentrace-a-analyza-337594
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se nemění nic. Za hranice trhu sahá jediná věc, kterou
+    uvádí sám text: účinnější optické propojení mezi čipy může časem ovlivnit
+    cenu, rychlost a dostupnost služeb s AI, které lidé používají v práci i
+    doma.
+  todo: >-
+    Když se fond prodává jako téma, ověřte si skutečnou váhu: u tohohle se
+    uvádí zhruba 29 % v optice. Oficiální odpovědí je seznam držených pozic.
 ---
 
 U optických AI témat nestačí věřit příběhu; je nutné kontrolovat, kolik expozice fond skutečně má, jak je koncentrovaný a zda už trh očekávání nezapočítal.

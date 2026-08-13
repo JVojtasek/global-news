@@ -20,6 +20,17 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/pametove-cipy-slabsi-vyhled-nemusi-znamenat-konec-ai-proc-ro-analyza-335271
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se tento týden nemění nic. Význam je signální: text tvrdí,
+    že slabší výhled u paměťových čipů nemusí znamenat konec AI boomu, zatímco
+    skok cen ropy je ta část, která se dotkne pohonných hmot a nákladů na
+    dopravu.
+  todo: >-
+    Vlastní kontrolní seznam textu: sledovat HBM odděleně od běžné DRAM a
+    NAND, spotové ceny proti kontraktním a to, jestli ropa tlačí nahoru
+    inflační očekávání a výnosy dluhopisů.
 ---
 
 U paměťových čipů nečtěte slabší výhled jako automatický konec AI boomu; rozlišujte HBM od běžné DRAM/NAND a sledujte ceny za bit, ASP, bit shipments, využití továren a zásoby zákazníků.

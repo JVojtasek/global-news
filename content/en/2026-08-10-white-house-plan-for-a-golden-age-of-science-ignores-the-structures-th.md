@@ -29,6 +29,16 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/white-house-plan-for-a-golden-age-of-science-ignores-the-structures-that-made-the-us-a-scientific-superpower-288254
+impact:
+  areas: [life, health]
+  line: >-
+    Outside the US nothing changes directly. Inside it: the White House's July 2026
+    report calls the 80-year-old research model too bureaucratic, and the author says
+    funding reductions and workforce losses are already reshaping universities and
+    federal agencies.
+  todo: >-
+    The report is public; the article notes it does not set federal policy by itself,
+    and names the agencies involved — CDC, DOE, EPA, NIST, NOAA, USDA and USGS.
 ---
 
 A new White House report argues that eight decades of science policy that helped make the United States the world’s scientific leader is too bureaucratic, too focused on institutions rather than individual researchers, and too slow to translate discoveries into economic and technological advantages.

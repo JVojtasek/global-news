@@ -12,6 +12,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: The enduring legacy of Kashmir’s poet-saints
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing day to day; what it adds is a part
+    of Kashmir the news rarely shows. Nund Rishi's burial place,
+    Charar-e-Sharif, is still a pilgrimage site for Hindus and Muslims
+    alike, and both communities recite the same verses.
+  todo: >-
+    Small booklets of Lal Ded's vakhs and Nund Rishi's shruks are sold on
+    street corners in Srinagar and recited at mushaira poetry gatherings.
 syndicated:
   source: The Conversation — Ethics & Big Questions
   author: Peter Dziedzic, Ph.D. Candidate in Religious Studies, Harvard University

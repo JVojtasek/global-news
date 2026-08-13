@@ -25,6 +25,16 @@ sources:
   url: https://www.yuroktribe.org/post/yurok-crew-resumes-revegetation-work-behind-former-klamath-dams
 - name: 'NOAA Fisheries — World''s biggest dam removal project to open 420 miles of salmon habitat'
   url: https://www.fisheries.noaa.gov/feature-story/worlds-biggest-dam-removal-project-open-420-miles-salmon-habitat-fall
+impact:
+  areas: [life, money]
+  line: >-
+    Většině čtenářů se tím nemění nic; lidem u řeky Klamath ano. V roce 2025 se vrátilo
+    odhadem 51 277 dospělých lososů čavyča proti předpovědi 28 554 — pořád je to 61 %
+    průměru za 48 let a komerční rybolov tam neběžel od roku 2022.
+  todo: >-
+    Počty zveřejňuje kalifornský úřad pro ryby a divokou přírodu na výroční schůzce k
+    lososům; NOAA čeká, že usazení populací výš proti proudu potrvá deset až patnáct
+    let.
 ---
 
 ## BRIEFLY

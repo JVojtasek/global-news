@@ -24,6 +24,15 @@ syndicated:
 sources:
 - name: Global Voices Advox
   url: https://advox.globalvoices.org/2026/05/12/myanmar-journalists-across-borders-remain-dedicated-to-truth-despite-risks/
+impact:
+  areas: [safety, life]
+  line: >-
+    Mimo Barmu se tím denně nemění nic. Uvnitř ano: nezávislá média byla zavřená,
+    licence odebrané a novináři zadržovaní; Výbor na ochranu novinářů řadí Barmu mezi
+    země, kde jich je ve vězení nejvíc.
+  todo: >-
+    Žebříčky zemí vydávají Reportéři bez hranic a Výbor na ochranu novinářů; kampaň
+    Exile Hubu „Only My Voice Left“ přináší výpovědi samotných novinářů.
 ---
 
 Novináři v první linii i v exilu mají společný závazek k pravdě

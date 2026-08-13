@@ -20,6 +20,16 @@ sources:
   url: https://en.wikipedia.org/wiki/Near-death_experience
 - name: 'Wikipedia — Sheol'
   url: https://en.wikipedia.org/wiki/Sheol
+impact:
+  areas: [life]
+  line: >-
+    This changes nothing practical; it is a question, not an event. What is
+    usable is the testimony from people who sit with the dying: what troubles
+    someone at the end is usually unfinished business between people, not
+    physical pain.
+  todo: >-
+    If there is a relationship you would want closed given six months' notice,
+    ask what is actually stopping you from closing it this month.
 ---
 
 ## BRIEFLY

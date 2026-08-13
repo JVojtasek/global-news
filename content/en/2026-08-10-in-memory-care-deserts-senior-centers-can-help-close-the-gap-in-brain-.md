@@ -12,6 +12,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: In memory care deserts, senior centers
+impact:
+  areas: [health, life]
+  line: >-
+    For older people in rural America and the families caring for them, the
+    local senior centre is becoming the access point for memory screening:
+    participants described travelling more than two hours to the nearest
+    primary care provider.
+  todo: >-
+    A local senior centre can say whether it offers memory screening and
+    referrals; the Northern Arizona Memory Study runs with the Arizona
+    Alzheimer's Consortium.
 syndicated:
   source: The Conversation — Health
   author: Paulina German, Graduate Research Assistant in Social Work, Northern Arizona

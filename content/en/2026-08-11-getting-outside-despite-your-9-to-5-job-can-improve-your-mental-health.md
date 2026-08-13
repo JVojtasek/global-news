@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/getting-outside-despite-your-9-to-5-job-can-improve-your-mental-health-heres-how-to-spend-time-in-nature-during-and-around-working-hours-286619
+impact:
+  areas: [health, life]
+  line: >-
+    For anyone who works indoors: the article argues short, repeatable time in green
+    space near work or home beats an occasional trip. A 2026 study in Raleigh, North
+    Carolina, found students felt less stressed after ten minutes on a bench listening
+    to birdsong.
+  todo: >-
+    The five habits the article lists cost nothing: lunch outside, a greener route to
+    work, a ten-minute break without the phone, walking meetings, and a reason to keep
+    returning.
 ---
 
 The modern workday unfolds largely indoors . Long hours spent commuting, sitting in meetings and staring at screens can make time outdoors feel like a luxury. Finding time for nature in an already packed workday can feel impossible, especially if you think nature only “counts” when it involves hiking boots and camping gear.

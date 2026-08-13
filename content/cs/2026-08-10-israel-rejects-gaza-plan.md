@@ -21,6 +21,17 @@ sources:
   url: https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas
 - name: Al Jazeera
   url: https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss
+impact:
+  areas: [safety, life]
+  line: >-
+    Většině čtenářů se dnes nic nemění. Patová situace drží válku otevřenou:
+    obyvatelé Gazy zůstávají pod trvalou vojenskou přítomností bez potvrzeného
+    data odchodu a izraelští vojáci zůstávají nasazení, dokud se spor o pořadí
+    kroků nevyřeší.
+  todo: >-
+    Sledovat se dá, jestli se objeví zveřejněné pořadí — kdo odzbrojí, kdo
+    odejde, kdo to ověří. V dostupném zpravodajství chybí reakce Hamásu i
+    jakýkoli termín.
 ---
 
 ## FACTS

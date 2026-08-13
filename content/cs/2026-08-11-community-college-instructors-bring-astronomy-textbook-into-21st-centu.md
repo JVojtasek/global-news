@@ -25,6 +25,17 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/
+impact:
+  areas: [life]
+  line: >-
+    Většině čtenářů to nemění nic. Kdo učí úvod do astronomie, pro toho je
+    novinka konkrétní: pět vyučujících z komunitních vysokých škol přepracovalo
+    prvních pět kapitol učebnice OpenStax Astronomy 101 s aktivními prvky od
+    NASA. Do výuky jde na podzim 2026.
+  todo: >-
+    Program NASA Science Activation uvádí použité zdroje — NASA Treks, Universe
+    of Learning, Cosmic Data Stories, Infiniscope — a ve výuce se to ověřuje od
+    podzimu 2026.
 ---
 
 - Věda

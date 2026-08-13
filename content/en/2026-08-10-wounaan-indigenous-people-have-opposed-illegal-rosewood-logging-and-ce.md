@@ -29,6 +29,17 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/wounaan-indigenous-people-have-opposed-illegal-rosewood-logging-and-centuries-of-exploitation-with-wisdom-and-beauty-282092
+impact:
+  areas: [money, life]
+  line: >-
+    For most readers this changes nothing at home, but it names a supply chain:
+    rosewood used in furniture and musical instruments. Cocobolo went from
+    vulnerable to critically endangered by 2019 after illegal logging on Wounaan
+    land in Panama, where an elected authority was killed.
+  todo: >-
+    The IUCN listing for Dalbergia retusa is public; a seller of a rosewood
+    instrument or piece of furniture can be asked which species it is and where
+    it came from.
 ---
 
 Leer en español .

@@ -13,6 +13,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Nearly 100 years ago, Philadelphia’s Inez
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing; what matters is that the record
+    exists. Inez Patterson won six first places at a 1927 Philadelphia swim
+    meet, refused Temple University's segregated practice hour, and in 1942
+    became the first Black woman swimming official.
+  todo: >-
+    The Philadelphia Tribune archive and the Fairmount Water Works exhibit
+    POOL: A Social History of Segregation hold the record; her photograph is
+    on page 45 of the exhibit magazine.
 syndicated:
   source: The Conversation — Arts & Culture
   author: Samantha Adams, Ph.D. in English and Women's & Gender Studies, University

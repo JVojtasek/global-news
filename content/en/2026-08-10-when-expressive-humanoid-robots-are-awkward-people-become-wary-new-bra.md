@@ -12,6 +12,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: When expressive humanoid robots are awkward,
+impact:
+  areas: [life]
+  line: >-
+    If a robot in a shop, hospital or home gestures and makes eye contact,
+    its mistakes land as social violations rather than glitches: in a
+    50-person study, people trusted an expressive Pepper robot less after
+    errors and took its advice less often.
+  todo: >-
+    All 50 participants were young men and one robot design was tested; the
+    study is in Science Robotics. Whether it holds for women or other
+    cultures is untested.
 syndicated:
   source: The Conversation — Technology
   author: Yigit Topoglu, Research Scientist, Warfighter Effectiveness Research Center,

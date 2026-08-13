@@ -20,6 +20,17 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/i-mirne-cpi-proc-venovat-pozornost-dlouhemu-konci-vynosove-k-analyza-337477
+impact:
+  areas: [money]
+  line: >-
+    For most readers nothing changes this week, but the mechanics in the
+    article are usable: for a long bond with an 18-year duration a 0.50-point
+    rise in yield means roughly a 9% fall in price, against about 1% for a
+    two-year bond.
+  todo: >-
+    The number to watch is not the CPI headline but the long-bond yield, and
+    whether it is rising because of inflation expectations or because of
+    higher real yields.
 ---
 
 With a mild CPI print, watch mainly the long end of the yield curve as an analytical risk gauge: if yields rise even without an inflation shock, the problem may be the cost of time, not inflation itself.

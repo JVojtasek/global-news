@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/10/in-japan-ryukyuan-indigenous-claim-hindered-by-u-s-military-bases-in-okinawa/
+impact:
+  areas: [safety, health, life]
+  line: >-
+    This is Okinawa. Japan has refused Indigenous status to the Ryūkyūan people despite
+    six UN recommendations since 2008; 31 US installations sit on 15–18% of the island's
+    land, and high levels of PFAS have been detected around them.
+  todo: >-
+    The UN Expert Mechanism on the Rights of Indigenous Peoples heard the case on 13
+    July; UNESCO listed the Ryūkyūan language as endangered in 2009.
 ---
 
 More than a century of forced assimilation policies have curbed the Ryūkyūan indigenous right movement

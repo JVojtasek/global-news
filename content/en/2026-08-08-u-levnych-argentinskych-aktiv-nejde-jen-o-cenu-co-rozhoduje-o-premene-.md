@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-levnych-argentinskych-aktiv-nejde-jen-o-cenu-co-rozhoduje--analyza-336190
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing. It matters in Argentina: the cut in export
+    duties came out smaller than the market expected and the larger reliefs are
+    deferred, which the article ties to how quickly prices there stabilise.
+  todo: >-
+    The article is explicit that its source gives no figures for debt, cash flow after
+    capex or the discount to asset value — those are the numbers to look for.
 ---
 
 With cheap Argentine assets, watch not only the value of the property but above all documented cash flow, debt and the pace of the political steps meant to turn paper value into cash.

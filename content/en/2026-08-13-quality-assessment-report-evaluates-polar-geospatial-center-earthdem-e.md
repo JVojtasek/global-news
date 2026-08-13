@@ -25,6 +25,17 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing. For anyone who uses EarthDEM
+    elevation data, NASA's assessment issued on 8 August 2026 graded
+    horizontal accuracy Excellent but vertical accuracy only Basic: 5.6 and
+    4.9 metres of error against a 0.5-metre specification.
+  todo: >-
+    The full report is linked under the Evaluation heading on the Polar
+    Geospatial Center vendor page of NASA's CSDA website; vertical error
+    varies by land cover and cloud metadata.
 ---
 
 A new quality assessment report from NASA’s Commercial Satellite Data Acquisition (CSDA) program evaluates data from the Polar Geospatial Center’s (PGC) EarthDEM product. The results of the evaluation help inform NASA program management and the user community about the quality of commercial Digital Elevation Models (DEMs) for use in NASA science.

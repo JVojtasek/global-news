@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/abcellera-po-rustu-o-32-proc-menopauzalni-data-nejsou-hotovy-analyza-337770
+impact:
+  areas: [health, money]
+  line: >-
+    Koho se týkají návaly horka: tohle jsou raná klinická data, ne lék, který se dá
+    získat. AbCellera uvedla, že jedna dávka ABCL635 snížila jejich četnost; akcie
+    stouply o 32 %, což oceňuje pravděpodobnost, ne dostupnost.
+  todo: >-
+    Článek vypisuje, co v podkladu chybí: fáze studie, počet pacientů, zda byla
+    placebová kontrola, velikost a trvání účinku a údaje o bezpečnosti.
 ---
 
 U biotech zpráv po prudkém růstu ceny akcie je klíčové neplést si povzbudivá klinická data s hotovým komerčním lékem; bez fáze studie, počtu pacientek, kontroly, velikosti účinku, délky sledování a bezpečnosti zůstává verdikt jen předběžný.

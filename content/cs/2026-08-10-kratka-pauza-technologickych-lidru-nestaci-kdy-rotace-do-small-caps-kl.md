@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kratka-pauza-technologickych-lidru-nestaci-kdy-rotace-do-sma-analyza-337760
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se denně nemění nic. Kdo drží indexový fond, tomu to
+    vysvětlí jeden rozpor: index vážený kapitalizací může vypadat silně, i když
+    průměrná akcie stojí — největší firmy v něm mají největší váhu.
+  todo: >-
+    Kontrola je v samotném článku: equal-weight S&P 500 proti běžnému a Russell
+    2000 proti Nasdaqu 100; obojí se zveřejňuje denně.
 ---
 
 U rotací nestačí sledovat, kdo pár dní roste; důležitější je, zda Russell 2000, equal-weight indexy, šířka trhu a odhady zisků potvrzují, že nový tahoun má skutečnou výdrž.

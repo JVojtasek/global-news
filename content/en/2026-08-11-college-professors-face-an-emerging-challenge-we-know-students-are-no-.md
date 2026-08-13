@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/college-professors-face-an-emerging-challenge-we-know-students-are-no-longer-reading-entire-books-287928
+impact:
+  areas: [life]
+  line: >-
+    In the US, a 2024-25 survey of 1,250 high-school English teachers found
+    they assigned an average of 2.81 whole books a year, against four in a
+    2008-09 study; 32% of 12th graders scored below basic reading level in
+    2025, against 24% in 2002.
+  todo: >-
+    Ask your child's school how many complete books, not excerpts, are
+    assigned in a year; that is the number this research turns on.
 ---
 
 Anyone who has spent time on a college campus lately has probably heard laments from faculty about their students’ reading habits, or rather nonreading habits. Such complaints are more than an unfounded nostalgia for a bygone age.

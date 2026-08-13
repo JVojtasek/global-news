@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/as-ai-reshapes-newsrooms-leading-media-outlets-are-charting-different-paths-for-its-use-283565
+impact:
+  areas: [life]
+  line: >-
+    Anyone who reads news online is affected: a BBC and European Broadcasting
+    Union study found AI assistants misrepresented news content 45% of the time,
+    and outlets now differ sharply in whether a human checks AI output before
+    publication.
+  todo: >-
+    Most outlets publish their AI policy; the BBC marks AI-assisted items with a
+    hexagon icon and the phrase How we used AI.
 ---
 
 A labor dispute erupted at The Guardian’s London headquarters in December 2024, with nearly 500 journalists going on strike to protest the proposed sale of the Guardian-owned Observer.

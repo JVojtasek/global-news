@@ -46,6 +46,16 @@ quiz:
   explanation: The research supports paying attention to the emotional pattern of
     conflict, but it does not establish an exact universal prescription for every
     relationship.
+impact:
+  areas: [life, safety]
+  line: >-
+    For anyone who has heard the 5:1 rule: it came from observed conflict in 130
+    newlywed couples, and a 2007 study of 85 at-risk couples failed to replicate
+    the main models. It is a prompt to notice repair, not a score.
+  todo: >-
+    Where there is fear, coercion or violence, positivity exercises are the
+    wrong tool; local professional or safety support is what the article points
+    to instead.
 ---
 
 ## BRIEFLY

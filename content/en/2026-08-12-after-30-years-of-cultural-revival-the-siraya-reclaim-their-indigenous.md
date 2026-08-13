@@ -13,6 +13,17 @@ date: '2026-08-12'
 status: published
 confidence: 0
 image_query: After 30 years of cultural revival,
+impact:
+  areas: [life]
+  line: >-
+    This is Taiwan: recognition as the 17th Indigenous group, granted on 30
+    July, carries reserved seats in the legislature and social and
+    educational benefits. Eight more plains groups — Kavalan, Ketagalan,
+    Taokas, Pazeh, Papora, Babuza, Hoanya and Makatau — are applying.
+  todo: >-
+    A 2022 Constitutional Court ruling and the 2025 Plains Indigenous
+    Peoples Status Act set the route; the Tainan Pepo Siraya Culture
+    Association holds the language work.
 syndicated:
   source: Global Voices
   author: Oiwan Lam

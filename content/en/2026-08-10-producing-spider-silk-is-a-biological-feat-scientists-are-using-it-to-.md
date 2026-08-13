@@ -12,6 +12,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Producing spider silk is a biological
+impact:
+  areas: [health]
+  line: >-
+    Nothing here is available to patients: silk-based drug delivery, burn
+    dressings and tissue scaffolds are still laboratory and animal work. In
+    one study, engineered spider-silk particles released a small molecule at
+    a near-constant rate for about two weeks.
+  todo: >-
+    Watch for human trials rather than laboratory or animal results; the
+    silk proteins in this research come from bacteria carrying spider genes,
+    not from farmed spiders.
 syndicated:
   source: The Conversation — Technology
   author: Aliasger K. Salem, Professor of Pharmaceutical Sciences, University of Iowa

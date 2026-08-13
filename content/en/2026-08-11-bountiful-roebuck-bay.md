@@ -24,6 +24,16 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing; it is a satellite picture. It
+    explains why tides differ by place: Roebuck Bay in Western Australia
+    reaches a 9-metre range because the continental shelf there is wide and
+    shallow, while much of Australia sees 2 metres or less.
+  todo: >-
+    If you are planning anything on a tidal coast, look up the local tidal
+    range rather than assuming it matches the last coast you visited.
 ---
 
 - Science

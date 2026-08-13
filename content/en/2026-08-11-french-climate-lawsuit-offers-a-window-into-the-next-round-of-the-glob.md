@@ -12,6 +12,17 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: French climate lawsuit offers a window
+impact:
+  areas: [health, life]
+  line: >-
+    A French court has told TotalEnergies to report, within six months, the
+    emissions of its customers — airlines and drivers — and to assess the
+    risks to health and human rights. An EU directive requires every member
+    state to pass similar rules by 2028.
+  todo: >-
+    The date to watch is 2028, when EU countries must have national
+    risk-reporting laws; similar claims are pending against companies in
+    Belgium, Italy and Switzerland.
 syndicated:
   source: The Conversation — Environment
   author: Aminta Ossom, Lecturer on Law, Senior Clinical Instructor, Harvard University;

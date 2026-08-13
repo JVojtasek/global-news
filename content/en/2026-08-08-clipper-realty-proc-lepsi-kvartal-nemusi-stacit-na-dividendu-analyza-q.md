@@ -12,6 +12,17 @@ date: '2026-08-08'
 status: published
 confidence: 100
 image_query: apartment buildings city skyline
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing: Clipper Realty is one small New
+    York landlord. What is transferable is the test the piece applies —
+    whether a dividend is paid from the cash left after interest, repairs
+    and refinancing, or from reserves.
+  todo: >-
+    The numbers sit in the company's dividend announcements and quarterly
+    filings: AFFO per share against the USD 0.095 quarterly dividend,
+    interest costs, debt maturities and maintenance capital expenditure.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/clipper-realty-proc-lepsi-kvartal-nemusi-stacit-na-dividendu-analyza-336345

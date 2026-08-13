@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/
+impact:
+  areas: [money, life]
+  line: >-
+    For anyone who watches launches: NASA+ is now also on discovery+ and coming
+    to HBO Max, but it stays free and ad-free in the NASA app and on the
+    agency's website — the paid platforms are an addition, not a replacement.
+  todo: >-
+    No subscription is needed: the free feed is in the NASA app and on nasa.gov.
+    HBO Max is to carry special events, including Artemis III in 2027.
 ---
 
 ![](https://www.nasa.gov/wp-content/uploads/2026/08/nasa-promo-image-horizontal.png?w=2048)

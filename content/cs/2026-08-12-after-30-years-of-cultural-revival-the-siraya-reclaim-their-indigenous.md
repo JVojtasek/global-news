@@ -10,6 +10,17 @@ date: 2026-08-12
 status: published
 confidence: 0
 image_query: "After 30 years of cultural revival,"
+impact:
+  areas: [life]
+  line: >-
+    Tohle je Tchaj-wan: uznání za 17. původní národ, udělené 30. července, s
+    sebou nese vyhrazená křesla v parlamentu a sociální i vzdělávací výhody.
+    O totéž žádá dalších osm nížinných skupin — Kavalan, Ketagalan, Taokas,
+    Pazeh, Papora, Babuza, Hoanya a Makatau.
+  todo: >-
+    Cestu otevřel nález Ústavního soudu z roku 2022 a zákon Plains
+    Indigenous Peoples Status Act z roku 2025; jazykovou práci nese Tainan
+    Pepo Siraya Culture Association.
 syndicated:
   source: "Global Voices"
   author: "Oiwan Lam"

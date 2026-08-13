@@ -13,6 +13,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Just weeks before devastating wildfires hit,
+impact:
+  areas: [safety, life]
+  line: >-
+    If your home borders forest or brush, the finding is that practice
+    matters: Spokane drilled with more than 950 vehicles in April; in August
+    more than 60,000 people evacuated three fires that burned hundreds of
+    homes, and early reports said everyone survived.
+  todo: >-
+    Sign up for local emergency alerts, time your own drive out along two
+    routes, and ask the local emergency management office whether it runs
+    neighbourhood drills.
 syndicated:
   source: The Conversation — Environment
   author: Ashley Bosa, Postdoctoral Researcher, The Resilience Institute at Boise

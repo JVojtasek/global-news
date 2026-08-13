@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/philadelphias-failing-air-quality-hits-hardest-in-neighborhoods-near-industry-and-highways-where-asthma-rates-soar-286744
+impact:
+  areas: [health, life]
+  line: >-
+    A Philadelphia study found the highest asthma rates among people living
+    near industrial land and major roads, and lower diesel particulate and
+    nitrogen dioxide where there was more green space. The authors call asthma
+    a planning problem as much as a medical one.
+  todo: >-
+    Zoning and road plans are public documents; ask your local planning
+    authority where industrial land and truck routes sit relative to homes,
+    schools and childcare.
 ---
 
 Philadelphians who live near industrial land and major roads – those who live in the Port Richmond and Bridesburg neighborhoods along I-95, or the Delaware River port-industrial corridor, for example – face worse air pollution and are more likely to have asthma than residents who live farther from those sites.

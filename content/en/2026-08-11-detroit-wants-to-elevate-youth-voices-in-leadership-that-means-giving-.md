@@ -27,6 +27,16 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/detroit-wants-to-elevate-youth-voices-in-leadership-that-means-giving-them-real-power-284816
+impact:
+  areas: [life, safety]
+  line: >-
+    For most readers this changes nothing; it is one US city. Detroit police detained
+    more than 180 minors at a fireworks event on 22 June 2026, mostly for curfew
+    breaches, and the city set up a youth advisory council in April 2026.
+  todo: >-
+    The article's test for whether such a council is real rather than token: shared
+    decisions, transparent budgets, paid time, and meetings held where young people
+    already are.
 ---
 
 Detroit police officers detained more than 180 minors during a fireworks celebration on June 22, 2026. Most offenses were curfew violations , and the event was generally peaceful.

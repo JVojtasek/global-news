@@ -25,6 +25,16 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing day to day. It is one career: Lindsey Waitt
+    came back to aerospace twelve years on, having been told too much time had passed,
+    and is now one of 14 test project engineers on NASA's Artemis launch team.
+  todo: >-
+    The article names the route: a contractor role as test project engineer during
+    Artemis II, then a civil-service post under NASA's insourcing initiative announced
+    this year.
 ---
 
 As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team – an integral part of the agency’s missions that will enable humans to return to the surface of the Moon after launching from NASA’s Kennedy Space Center in Florida.

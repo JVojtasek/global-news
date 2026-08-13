@@ -13,6 +13,17 @@ date: '2026-08-12'
 status: published
 confidence: 0
 image_query: The bleak picture of how Indigenous
+impact:
+  areas: [safety, life]
+  line: >-
+    This is Australia: Indigenous children are 23 times more likely to be
+    under youth justice supervision and 28 times more likely to be in
+    detention. Children held without any finding of guilt spend an average
+    57.2 days locked up — 96.3 days in Queensland.
+  todo: >-
+    The Productivity Commission's Closing the Gap update carries the
+    numbers; the target is a 30% cut by 2031, and the report records no
+    change from the baseline.
 syndicated:
   source: Global Voices
   author: Kevin Rennie

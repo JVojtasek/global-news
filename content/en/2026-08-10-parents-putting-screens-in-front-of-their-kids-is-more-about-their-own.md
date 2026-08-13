@@ -30,6 +30,16 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/parents-putting-screens-in-front-of-their-kids-is-more-about-their-own-stress-than-other-factors-289115
+impact:
+  areas: [life, health]
+  line: >-
+    For parents of young children: in a nationwide US survey of 822 parents of 4- to
+    8-year-olds, those under high personal stress set fewer limits on screens regardless
+    of how the child behaved. The trigger was the adult's stress, not the child's
+    behaviour.
+  todo: >-
+    The article points to a family media plan agreed at a calm time — screen-free zones
+    or hours — rather than a decision made at six in the evening.
 ---
 
 It is 6 p.m. after a full workday. A tired parent is trying to prepare dinner and clean up the kitchen before their children’s evening routine implodes. A minor disagreement between the children quickly escalates into shouting and shoving.

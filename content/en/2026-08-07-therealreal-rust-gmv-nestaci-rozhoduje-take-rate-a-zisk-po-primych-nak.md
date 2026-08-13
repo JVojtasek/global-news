@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/therealreal-rust-gmv-nestaci-rozhoduje-take-rate-a-zisk-po-p-analyza-335892
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing day to day; the practical part is that
+    a growing resale market makes expensive items cheaper to buy second hand and
+    raises what an item already owned can fetch.
+  todo: >-
+    On a consignment platform the number that matters is the take rate — the
+    share of the sale price the platform keeps; it is in the company's reports.
 ---
 
 With marketplace stories it is not enough to watch GMV growth; what decides is the take rate, gross profit after direct costs and, for physical stores, a verifiable return after rent, wages and the cost of winning quality supply.

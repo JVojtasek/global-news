@@ -36,6 +36,17 @@ quiz:
   options: ["Předpokládat, že model sám rozpozná zamýšlenou hranici", "Dát vyhodnocovacímu prostředí širší přístupové údaje, aby bylo hotové rychleji", "Použít nezávislé vrstvy jako omezený odchozí přístup, izolované přihlašovací údaje, princip nejnižších oprávnění, monitoring a lidskou pravomoc zastavit běh"]
   answer: 2
   explanation: "Obrana do hloubky počítá s tím, že jedna kontrola může selhat, a omezuje, kam až se systém dostane, co si přečte nebo co změní."
+impact:
+  areas: [safety]
+  line: >-
+    Týká se to organizací, které zkoušejí agenty umělé inteligence s přístupem k
+    nástrojům. Hugging Face v červenci 2026 ohlásil neoprávněný přístup k interním
+    datovým sadám a přihlašovacím údajům služeb; známky změny veřejných modelů, dat ani
+    dodavatelského řetězce nenašel.
+  todo: >-
+    Praktická část jsou kontrolní otázky z článku: která odchozí spojení jsou ve
+    výchozím stavu zakázaná, jestli jsou přihlašovací údaje krátkodobé a jednoúčelové a
+    kdo jmenovitě smí běh zastavit.
 ---
 
 ## BRIEFLY

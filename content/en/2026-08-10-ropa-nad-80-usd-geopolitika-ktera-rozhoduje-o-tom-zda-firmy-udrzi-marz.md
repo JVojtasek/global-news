@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-nad-80-usd-geopolitika-ktera-rozhoduje-o-tom-zda-firmy--analyza-337734
+impact:
+  areas: [money, life]
+  line: >-
+    For anyone who buys fuel, or goods that travel: the article's point is timing. Oil
+    above $80 reaches a driver at the pump almost at once, a haulier next, and shops
+    only once shipping and supplier contracts catch up.
+  todo: >-
+    Worth separating: whether oil is rising on strong demand or on fear about supply,
+    and whether the move holds for several days or is one midday wobble.
 ---
 
 With oil above $80, it isn't just the price of a barrel that matters, but mainly who can pass higher energy costs along, and how fast, without losing margin or customers.

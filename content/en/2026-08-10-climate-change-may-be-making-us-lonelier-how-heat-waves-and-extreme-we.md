@@ -27,6 +27,16 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/climate-change-may-be-making-us-lonelier-how-heat-waves-and-extreme-weather-disrupt-social-connections-everyone-relies-on-288678
+impact:
+  areas: [health, life]
+  line: >-
+    An easily missed cost of extreme weather: in a rural Appalachian study,
+    residents described heat, storms and multi-week power cuts keeping them
+    indoors and cutting off phone and internet. Hit hardest were older people,
+    rural households and anyone without reliable transport.
+  todo: >-
+    Before the next heat wave or storm, check who near you lives alone and how
+    they would be reached if the power and the mobile network went down.
 ---
 
 Severe storms, heat waves and wildfires can shut down the social life of a community, flooding out festivals , canceling community events and keeping people indoors .

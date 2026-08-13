@@ -25,6 +25,16 @@ sources:
   url: https://www.yuroktribe.org/post/yurok-crew-resumes-revegetation-work-behind-former-klamath-dams
 - name: 'NOAA Fisheries — World''s biggest dam removal project to open 420 miles of salmon habitat'
   url: https://www.fisheries.noaa.gov/feature-story/worlds-biggest-dam-removal-project-open-420-miles-salmon-habitat-fall
+impact:
+  areas: [life, money]
+  line: >-
+    For most readers this changes nothing; for people on the Klamath it does. An
+    estimated 51,277 fall-run Chinook returned in 2025 against a forecast of 28,554 —
+    still 61% of the 48-year average, and commercial salmon fishing there has not run
+    since 2022.
+  todo: >-
+    The counts come from the California Department of Fish and Wildlife's annual salmon
+    meeting; NOAA expects established upstream populations to take ten to fifteen years.
 ---
 
 ## BRIEFLY

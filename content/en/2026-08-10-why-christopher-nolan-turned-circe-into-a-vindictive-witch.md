@@ -12,6 +12,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Why Christopher Nolan turned Circe into
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing; it is a way to watch a film.
+    Nolan's Circe appears briefly as a witch, while Homer's is a goddess who
+    hosts Odysseus for a year and tells him how to get home.
+  todo: >-
+    Books 10 to 12 of the Odyssey hold the original; Carol Ann Duffy's poem
+    Circe, Margaret Atwood's The Penelopiad and Madeline Miller's Circe are
+    the retellings the piece traces.
 syndicated:
   source: The Conversation — Arts & Culture
   author: Bailey Sincox, Lecturer in Comparative Literature, Binghamton University,

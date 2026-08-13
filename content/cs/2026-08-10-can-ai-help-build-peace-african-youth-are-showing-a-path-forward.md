@@ -23,6 +23,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/09/can-ai-help-build-peace-african-youth-are-showing-a-path-forward/
+impact:
+  areas: [safety, life]
+  line: >-
+    Mimo Afriku se tím přímo nic nemění, jedna věc ale platí všude: systémy umělé
+    inteligence trénované hlavně v angličtině přehlédnou závadný obsah v jiných jazycích
+    — kdo mluví málo zastoupeným jazykem, je jimi chráněný hůř.
+  todo: >-
+    Analýzu vydal Institute for Security Studies; článek jmenuje keňskou Ushahidi a
+    iVerify, odzkoušenou v Zambii v roce 2021 a dnes používanou v Sierra Leone a
+    Libérii.
 ---
 
 Budování míru stojí na porozumění místním vyprávěním a dění v komunitách

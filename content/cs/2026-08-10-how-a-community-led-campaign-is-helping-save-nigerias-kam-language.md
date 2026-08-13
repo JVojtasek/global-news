@@ -24,6 +24,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/
+impact:
+  areas: [life]
+  line: >-
+    Pro zhruba 8 000 až 11 000 mluvčích jazyka kam ve státě Taraba je to
+    konkrétní; jinde se nemění nic. Po deseti letech vytvořil čtrnáctičlenný
+    kamský tým gramatický přehled, digitální slovník, 307 nahrávek a web — a
+    všechno je otevřené komukoli.
+  todo: >-
+    Web projektu i slovník jsou přístupné všem; okopírovat se dá hlavně ten
+    model — vyškolit členy komunity, aby si vlastní jazyk nahráli sami.
 ---
 
 Jazykem kam se mluví ve 29 vesnicích v nigerijském Bali

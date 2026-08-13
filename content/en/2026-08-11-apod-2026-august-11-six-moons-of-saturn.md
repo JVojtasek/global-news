@@ -12,6 +12,16 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: 'APOD: 2026 August 11 – Six'
+impact:
+  areas: [life]
+  line: >-
+    This changes nothing for anyone: it is a photograph. What is in it is
+    that Saturn had 293 confirmed moons as of June 2026, against Jupiter's
+    115, and that Titan, 5,150 kilometres across, is bigger than Mercury.
+  todo: >-
+    Six of the largest are in one frame: Titan, Mimas, Tethys, Enceladus,
+    Dione and Rhea. The count is still rising, so 293 is the number to
+    watch.
 syndicated:
   source: NASA
   author: the original author

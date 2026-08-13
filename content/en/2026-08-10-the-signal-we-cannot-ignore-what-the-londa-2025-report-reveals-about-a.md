@@ -13,6 +13,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'The signal we cannot ignore: What'
+impact:
+  areas: [life, safety]
+  line: >-
+    If you live in one of the 29 African countries scored, the report says
+    whether your government cut the internet last year: Tanzania went dark
+    for its October elections with over 1,700 arrests, Cameroon cut
+    communications for two weeks, Botswana had none.
+  todo: >-
+    The LONDA 2025 report from Paradigm Initiative carries each country's
+    score out of 60 across twelve indicators, among them shutdowns, data
+    protection and child online safety.
 syndicated:
   source: Global Voices Advox
   author: Muhammed Bello Buhari

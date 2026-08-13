@@ -26,6 +26,16 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/what-a-western-pennsylvania-90s-style-pizza-hut-reveals-about-nostalgia-287047
+impact:
+  areas: [life, money]
+  line: >-
+    For most readers this changes nothing. The usable idea is why an old
+    restaurant, sweatshirt or ticket keeps its pull: the research says the
+    value sits in the people and events attached to it, not in the object or
+    in wanting the past back.
+  todo: >-
+    Next time a brand sells you a memory, ask what you are actually buying:
+    the thing, or the person you associate with it.
 ---
 
 A Pizza Hut in southwest Pennsylvania was recently highlighted for preserving its retro 1990s appearance , even as hundreds of other locations have closed across the United States .

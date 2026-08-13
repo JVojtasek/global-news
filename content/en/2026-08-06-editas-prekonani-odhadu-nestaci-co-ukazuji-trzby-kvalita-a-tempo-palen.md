@@ -20,6 +20,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/editas-prekonani-odhadu-nestaci-co-ukazuji-trzby-kvalita-a-t-analyza-334995
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing: Editas sells no approved drug, and
+    the roughly USD 8.5m of revenue came from collaborations and R&D deals, not
+    patients. What it changes is the dilution question for anyone holding the
+    shares.
+  todo: >-
+    The 10-Q shows operating cash flow, R&D spending and share count; watch
+    whether the cash runway into the second quarter of 2027 holds.
 ---
 
 With biotech results, do not dwell on the beat alone. What matters is whether the revenue is repeatable, how fast the cash is disappearing and whether the runway genuinely reduces the risk of future shareholder dilution.

@@ -23,6 +23,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/
+impact:
+  areas: [life]
+  line: >-
+    Většině čtenářů to nemění nic: je to představa umělce, ne fotka ani
+    výsledek. Fixuje to jen datum — tři vrtulníky SkyFall mají odstartovat na
+    konci roku 2028 a na Mars dorazit v prosinci 2028.
+  todo: >-
+    NASA má k misi SkyFall vlastní stránku; sledovat se dá start na konci roku
+    2028 a jestli termín vydrží.
 ---
 
 ![](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg?w=2880&h=1620&fit=clip&crop=faces%2Cfocalpoint)

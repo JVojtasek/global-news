@@ -44,6 +44,16 @@ quiz:
   answer: 1
   explanation: Calibrated trust is specific, conditional and revisable; it is neither
     blind confidence nor blanket suspicion.
+impact:
+  areas: [life]
+  line: >-
+    Nothing changes day to day. The usable split: the OECD's 2026 survey found
+    40% of respondents across participating countries had high or moderately
+    high trust in national government and 43% low or none, with trust
+    generally higher in police, courts and local government.
+  todo: >-
+    Before deciding whether to trust a claim, name four things: the object,
+    the evidence, the stake, and what finding would change your mind.
 ---
 
 ## BRIEFLY

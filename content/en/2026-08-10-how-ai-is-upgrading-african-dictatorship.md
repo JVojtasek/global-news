@@ -12,6 +12,18 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: How AI is upgrading African dictatorship
+impact:
+  areas: [safety]
+  line: >-
+    Eleven African governments have spent over USD 2 billion on AI
+    surveillance, Nigeria alone more than USD 470 million. The mapping shows
+    cameras clustered where opposition parties organise, not where crime is
+    highest; for anyone organising or reporting there, public anonymity is
+    gone.
+  todo: >-
+    The mapping is in the March 2026 study by the Institute of Development
+    Studies and the African Digital Rights Network; CIPESA documents the
+    chilling effect across fourteen countries.
 syndicated:
   source: Global Voices Advox
   author: Ameya Nagarajan

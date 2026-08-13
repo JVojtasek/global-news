@@ -46,6 +46,15 @@ quiz:
   answer: 0
   explanation: The study measured commercial availability. Out of print does not automatically
     mean physically lost or impossible to emulate.
+impact:
+  areas: [money, life]
+  line: >-
+    For anyone who buys digital media: a 2023 US study of 1,500 titles released from
+    1960 to 2009 estimated only 13% were still commercially available. Paying once does
+    not guarantee later access — shops close and licences expire.
+  todo: >-
+    Keep lawful installers and purchase records where the seller allows offline storage,
+    and ask a reputable archive before discarding manuals or development papers.
 ---
 
 ## BRIEFLY

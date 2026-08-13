@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/what-is-falun-gong-and-why-does-the-chinese-communist-party-want-to-suppress-it-286215
+impact:
+  areas: [life]
+  line: >-
+    If you do not live in mainland China this changes nothing day to day. The
+    usable background: the practice has been banned there since July 1999, and
+    the newspaper The Epoch Times and the touring show Shen Yun were both
+    founded by the movement.
+  todo: >-
+    When you read a claim about China from either side of this dispute, check
+    who publishes it; the article notes organ-harvesting allegations that the
+    Chinese government contests.
 ---
 
 I joined members of the Falun Gong spiritual movement at Chatter Park in Hong Kong on May 13, 2000, as they celebrated World Falun Dafa Day . The annual event commemorates the anniversary of the day the group claims its leader, Li Hongzhi, first made Falun Gong practices public.

@@ -20,6 +20,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kratka-pauza-technologickych-lidru-nestaci-kdy-rotace-do-sma-analyza-337760
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing day to day. For anyone holding an
+    index fund, it explains a gap: a cap-weighted index can look strong while
+    the average stock is flat, because the biggest companies carry the most
+    weight.
+  todo: >-
+    The article's own check is the equal-weight S&P 500 against the standard
+    one, and the Russell 2000 against the Nasdaq 100; both are published daily.
 ---
 
 For rotations, it isn't enough to watch who rises for a few days; what matters more is whether the Russell 2000, equal-weight indexes, market breadth and earnings estimates confirm that the new leader has real staying power.
