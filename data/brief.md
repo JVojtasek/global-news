@@ -70,47 +70,36 @@
     <https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says>
     > US ​President Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard Air Force One, an extraordinary ​move prompted by an Iranian assassination threat, the Washington Post reported Monday.
 
-### 3. Consortium advances talks for stake in Liverpool
-- id události: `73892c222554`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 5
+### 3. Trump says White House press secretary Karoline Leavitt to leave post
+- id události: `d4578d08ad87`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Business** — Consortium advances talks for stake in Liverpool
-    <https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss>
-    > A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.
-  - **Guardian Business** — Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos
-    <https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group>
-    > Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The invest
-  - **BBC Sport** — Bezos consortium advances talks for stake in Liverpool
-    <https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss>
-    > A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.
-  - **Al Jazeera** — Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports
-    <https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss>
-    > Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.
-  - **Guardian Sport** — Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos
-    <https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group>
-    > Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The invest
+  - **BBC World** — Trump says White House press secretary Karoline Leavitt to leave post
+    <https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss>
+    > Leavitt will depart from her role to spend time with her young children and family, the president says.
+  - **NPR News** — White House press secretary leaving
+    <https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving>
+    > Karoline Leavitt will continue to be an outside adviser, Trump said
+  - **CNBC Top** — Trump says Karoline Leavitt resigning as White House press secretary
+    <https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html>
+    > Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.
+  - **Al Jazeera** — Trump reveals Karoline Leavitt to step down as White House press secretary
+    <https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss>
+    > Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
 
-### 4. At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news
-- id události: `4f07762c2d95`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- id události: `1bf4b58ce158`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news
-    <https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news>
-    > More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations Jorge Moncayo, a 64-year-old taxi driver in Colombia’s third-biggest city, Cali, said he saw plumes of dust shoot up across the city from him home in the mountains as buildings c
-  - **The Guardian World** — Powerful 7.4 magnitude earthquake strikes western Colombia
-    <https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco>
-    > Reports of collapsed and severely damaged buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates A powerful earthquake has struck western Colombia, with reports of collapsed and severely damaged buildings in major cities including 
-  - **Al Jazeera** — Earthquake with 7.4 magnitude hits Colombia, killing at least 20
-    <https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss>
-    > Emergency teams are still assessing the impact of the quake that was felt across the region.
-  - **France 24** — 🔴 At least 20 dead after 7.4-magnitude quake hits western Colombia
-    <https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage>
-  - **France 24** — At least 20 killed as powerful quake rocks Colombia, causing 'major damage'
-    <https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage>
-    > At least 20 people have been killed in a major 7.4-magnitude earthquake that struck western Colombia on Monday, damaging buildings, trapping residents under debris and prompting evacuations in the capital, Bogota. The tremor was felt in other parts of Latin America, including Ecu
-  - **CNBC Top** — At least two dead after magnitude 7.4 Colombia earthquake, others trapped
-    <https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html>
-    > The tremor was felt in Colombia's capital, Bogota, and as far away as Venezuela.
+  - **The Guardian World** — Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+    <https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates>
+    > Russian attacks on the Ukrainian city of Zaporizhzhia killed at least six people and injured 20, officials said Senior correspondent The UK’s new European relatons minister Hamish Falconer will talk with Ireland’s Europe minister today, a key step to refresh talks over Britain’s 
+  - **Al Jazeera** — Russian attacks kill six in Ukraine’s Zaporizhzhia
+    <https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss>
+    > A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.
+  - **CNBC Top** — Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment
+    <https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html>
+    > His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.
 
 ---
 
@@ -137,12 +126,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 12  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 13  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 12
+rubrika: world · sledováno od 2026-08-09 · záznamů: 13
   2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
@@ -155,6 +144,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 12
   2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
   2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative
   2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty
+  2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
