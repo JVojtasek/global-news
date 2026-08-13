@@ -52,7 +52,11 @@ def inspect(day: dt.date | None = None) -> tuple[list[str], list[str]]:
             errors.append(f"slot {slot} je obsazen {len(rows)}krát")
             continue
         meta, body, path = rows[0]
-        problems = inbox._edition_check(meta, body)
+        # The inbox gate validates the incoming state (draft/reserve). This
+        # guard also inspects files that the gate has already promoted to
+        # ``published``, so it validates the same editorial contract while
+        # accepting that legitimate final-state transition.
+        problems = inbox._edition_check(meta, body, allow_published=True)
         if problems:
             errors.append(f"{path.name}: {problems[0]}")
     return errors, warnings

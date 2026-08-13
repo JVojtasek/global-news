@@ -109,13 +109,16 @@ def _planned_slot(meta: dict) -> dict | None:
     return next((spec for spec in specs if int(spec.get("slot") or 0) == slot), None)
 
 
-def _edition_check(meta: dict, body: str) -> list[str]:
+def _edition_check(meta: dict, body: str, *, allow_published: bool = False) -> list[str]:
     """Enforce the contract between the daily plan and scheduled articles.
 
     Ordinary collected or commissioned news never occupies an edition slot.
     Scheduled output must match the section, type, length and status assigned
     by the deterministic plan. This prevents an unrelated breaking-news item
-    from silently becoming the day's flagship.
+    from silently becoming the day's flagship. ``allow_published`` is reserved
+    for the read-only edition completeness guard: inbox submissions must still
+    arrive as drafts (or reserve slot 7), while already accepted public files
+    are expected to have transitioned to ``published``.
     """
     problems = []
     try:
@@ -179,9 +182,13 @@ def _edition_check(meta: dict, body: str) -> list[str]:
         problems.append(f"slot {slot} má {words} slov, plán vyžaduje {low}–{high}")
 
     required_status = "reserve" if slot == 7 else "draft"
-    if meta.get("status") != required_status:
+    accepted_statuses = {required_status}
+    if allow_published:
+        accepted_statuses.add("published")
+    if meta.get("status") not in accepted_statuses:
+        expected = " nebo ".join(sorted(accepted_statuses))
         problems.append(
-            f"slot {slot} musí přijít se status: {required_status}, ne {meta.get('status')}"
+            f"slot {slot} musí mít status: {expected}, ne {meta.get('status')}"
         )
 
     if slot <= 6:
