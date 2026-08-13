@@ -1,44 +1,51 @@
 ---
 slug: blue-light-glasses
-title: "Blue-Light Glasses Solve Three Different Problems — or None of Them"
-dek: "Eye strain, sleep and retinal damage are often bundled into one sales claim, although they involve different mechanisms and very different evidence."
+title: Blue-Light Glasses Solve Three Different Problems — or None of Them
+dek: Eye strain, sleep and retinal damage are often bundled into one sales claim,
+  although they involve different mechanisms and very different evidence.
 section: science
 type: analysis
 depth: open
 lang: en
-date: 2026-08-13
-status: draft
-confidence: 88
+date: '2026-08-13'
+status: published
+confidence: 94
 load: 0
-topics: [health, tech]
+topics:
+- health
+- tech
 automation_generated: true
 edition_slot: 2
-event_id: ""
-series: "Evidence Check"
-image_query: "eyeglasses beside computer screen evening desk"
+event_id: ''
+series: Evidence Check
+image_query: eyeglasses beside computer screen evening desk
 sources:
-  - name: "Cochrane — Blue-light filtering spectacle lenses"
-    url: "https://www.cochrane.org/evidence/CD013244_blue-light-filtering-spectacle-lenses-visual-performance-macular-back-part-eye-protection-and"
-    published: "2023-08-18"
-  - name: "Cochrane — Review news summary"
-    url: "https://www.cochrane.org/about-us/news/blue-light-filtering-spectacles-probably-make-no-difference-eye-strain-eye-health-or-sleep"
-    published: "2023-07-26"
-  - name: "PubMed — Blue-blocking lenses and digital eye strain trial"
-    url: "https://pubmed.ncbi.nlm.nih.gov/33707105/"
-    published: "2021-02-01"
-  - name: "PubMed — Meta-analysis of blue-light blocking glasses and sleep"
-    url: "https://pubmed.ncbi.nlm.nih.gov/41341515/"
-    published: "2025-11-01"
-qma_path: ""
+- name: Cochrane — Blue-light filtering spectacle lenses
+  url: https://www.cochrane.org/evidence/CD013244_blue-light-filtering-spectacle-lenses-visual-performance-macular-back-part-eye-protection-and
+  published: '2023-08-18'
+- name: Cochrane — Review news summary
+  url: https://www.cochrane.org/about-us/news/blue-light-filtering-spectacles-probably-make-no-difference-eye-strain-eye-health-or-sleep
+  published: '2023-07-26'
+- name: PubMed — Blue-blocking lenses and digital eye strain trial
+  url: https://pubmed.ncbi.nlm.nih.gov/33707105/
+  published: '2021-02-01'
+- name: PubMed — Meta-analysis of blue-light blocking glasses and sleep
+  url: https://pubmed.ncbi.nlm.nih.gov/41341515/
+  published: '2025-11-01'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which statement best matches the current evidence on ordinary blue-light filtering spectacles?"
+  question: Which statement best matches the current evidence on ordinary blue-light
+    filtering spectacles?
   options:
-    - "They are proven to prevent retinal damage from screens"
-    - "They reliably remove computer eye strain within a month"
-    - "They have not shown a clear general benefit for eye strain, and sleep evidence remains uncertain"
+  - They are proven to prevent retinal damage from screens
+  - They reliably remove computer eye strain within a month
+  - They have not shown a clear general benefit for eye strain, and sleep evidence
+    remains uncertain
   answer: 2
-  explanation: "The Cochrane review found little or no short-term benefit for visual fatigue, no evidence on long-term retinal protection, and mixed, low-certainty sleep results."
+  explanation: The Cochrane review found little or no short-term benefit for visual
+    fatigue, no evidence on long-term retinal protection, and mixed, low-certainty
+    sleep results.
 ---
 
 ## BRIEFLY

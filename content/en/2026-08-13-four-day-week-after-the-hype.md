@@ -1,47 +1,52 @@
 ---
 slug: four-day-week-after-the-hype
-title: "The Four-Day Week After the Hype: Shorter Hours Work Only When Work Changes"
-dek: "The strongest trials did not merely squeeze Friday into Thursday; organisations redesigned meetings, priorities and handoffs before reducing time."
+title: 'The Four-Day Week After the Hype: Shorter Hours Work Only When Work Changes'
+dek: The strongest trials did not merely squeeze Friday into Thursday; organisations
+  redesigned meetings, priorities and handoffs before reducing time.
 section: business
 type: analysis
 depth: open
 lang: en
-date: 2026-08-13
-status: draft
-confidence: 91
+date: '2026-08-13'
+status: published
+confidence: 95
 load: 0
-topics: [money, health]
+topics:
+- money
+- health
 automation_generated: true
 edition_slot: 4
-event_id: ""
-series: "What the Evidence Remembers"
-image_query: "four day workweek team planning calendar office"
+event_id: ''
+series: What the Evidence Remembers
+image_query: four day workweek team planning calendar office
 sources:
-  - name: "Nature Human Behaviour — Work time reduction via a 4-day workweek"
-    url: "https://www.nature.com/articles/s41562-025-02259-6"
-    published: "2025-07-21"
-  - name: "Nature — Biggest trial of four-day work week"
-    url: "https://www.nature.com/articles/d41586-025-02295-2"
-    published: "2025-07-21"
-  - name: "Scottish Government — Four day working week pilot"
-    url: "https://www.gov.scot/policies/public-sector-pay/four-day-working-week/"
-    published: ""
-  - name: "Alda — Iceland's journey to a shorter working week"
-    url: "https://en.alda.is/2021/07/04/going-public-icelands-journey-to-a-shorter-working-week/"
-    published: "2021-07-04"
-  - name: "ABC News — Four-day week health and burnout trial"
-    url: "https://www.abc.net.au/news/2025-07-22/four-day-work-week-health-burnout/105555392"
-    published: "2025-07-22"
-qma_path: ""
+- name: Nature Human Behaviour — Work time reduction via a 4-day workweek
+  url: https://www.nature.com/articles/s41562-025-02259-6
+  published: '2025-07-21'
+- name: Nature — Biggest trial of four-day work week
+  url: https://www.nature.com/articles/d41586-025-02295-2
+  published: '2025-07-21'
+- name: Scottish Government — Four day working week pilot
+  url: https://www.gov.scot/policies/public-sector-pay/four-day-working-week/
+  published: ''
+- name: Alda — Iceland's journey to a shorter working week
+  url: https://en.alda.is/2021/07/04/going-public-icelands-journey-to-a-shorter-working-week/
+  published: '2021-07-04'
+- name: ABC News — Four-day week health and burnout trial
+  url: https://www.abc.net.au/news/2025-07-22/four-day-work-week-health-burnout/105555392
+  published: '2025-07-22'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What happened before organisations in the large 2025 study reduced working time?"
+  question: What happened before organisations in the large 2025 study reduced working
+    time?
   options:
-    - "They cut pay by one fifth"
-    - "They reorganised work to improve efficiency and collaboration"
-    - "They replaced most employees with contractors"
+  - They cut pay by one fifth
+  - They reorganised work to improve efficiency and collaboration
+  - They replaced most employees with contractors
   answer: 1
-  explanation: "The intervention included a pre-trial work-reorganisation phase before the six-month reduction in hours with no reduction in pay."
+  explanation: The intervention included a pre-trial work-reorganisation phase before
+    the six-month reduction in hours with no reduction in pay.
 ---
 
 ## BRIEFLY

@@ -1,44 +1,51 @@
 ---
 slug: do-trees-really-talk
-title: "Do Trees Really Talk? What the ‘Wood-Wide Web’ Can — and Cannot — Do"
-dek: "Fungal threads can connect plants and carry materials between them, but the evidence does not support a forest-wide social network run by generous mother trees."
+title: Do Trees Really Talk? What the ‘Wood-Wide Web’ Can — and Cannot — Do
+dek: Fungal threads can connect plants and carry materials between them, but the evidence
+  does not support a forest-wide social network run by generous mother trees.
 section: science
 type: feature
 depth: open
 lang: en
-date: 2026-08-13
+date: '2026-08-13'
 status: reserve
-confidence: 86
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
-event_id: ""
-series: ""
-image_query: ""
+event_id: ''
+series: ''
+image_query: ''
 sources:
-  - name: "Francis and Read — Direct transfer of carbon between plants connected by mycorrhizal mycelium"
-    url: "https://www.nature.com/articles/307053a0"
-    published: "1984-01-05"
-  - name: "Simard et al. — Net transfer of carbon between ectomycorrhizal tree species in the field"
-    url: "https://www.nature.com/articles/41557"
-    published: "1997-08-07"
-  - name: "Song et al. — Defoliation of Douglas-fir elicits carbon transfer and stress signalling"
-    url: "https://www.nature.com/articles/srep08495"
-    published: "2015-02-16"
-  - name: "Karst, Jones and Hoeksema — Positive citation bias and overinterpreted results"
-    url: "https://www.nature.com/articles/s41559-023-01986-1"
-    published: "2023-02-13"
-qma_path: ""
+- name: Francis and Read — Direct transfer of carbon between plants connected by mycorrhizal
+    mycelium
+  url: https://www.nature.com/articles/307053a0
+  published: '1984-01-05'
+- name: Simard et al. — Net transfer of carbon between ectomycorrhizal tree species
+    in the field
+  url: https://www.nature.com/articles/41557
+  published: '1997-08-07'
+- name: Song et al. — Defoliation of Douglas-fir elicits carbon transfer and stress
+    signalling
+  url: https://www.nature.com/articles/srep08495
+  published: '2015-02-16'
+- name: Karst, Jones and Hoeksema — Positive citation bias and overinterpreted results
+  url: https://www.nature.com/articles/s41559-023-01986-1
+  published: '2023-02-13'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which statement best matches the current evidence?"
+  question: Which statement best matches the current evidence?
   options:
-    - "Trees intentionally send food to their children across entire forests"
-    - "Fungal connections can move materials between some plants, but their field importance and beneficiaries vary"
-    - "No material has ever moved between plants through fungal threads"
+  - Trees intentionally send food to their children across entire forests
+  - Fungal connections can move materials between some plants, but their field importance
+    and beneficiaries vary
+  - No material has ever moved between plants through fungal threads
   answer: 1
-  explanation: "Experiments support transfer in some systems, while broad claims about intentional sharing, kin preference and forest-wide effects remain unsettled or unsupported."
+  explanation: Experiments support transfer in some systems, while broad claims about
+    intentional sharing, kin preference and forest-wide effects remain unsettled or
+    unsupported.
 ---
 
 ## BRIEFLY

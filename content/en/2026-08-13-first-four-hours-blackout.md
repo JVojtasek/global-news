@@ -1,50 +1,54 @@
 ---
 slug: first-four-hours-blackout
-title: "What the 2003 Blackout Still Teaches About the First Four Hours Without Power"
-dek: "A grid failure becomes a household crisis through a chain of smaller dependencies; the safest response starts with light, air, food, medicine and information."
+title: What the 2003 Blackout Still Teaches About the First Four Hours Without Power
+dek: A grid failure becomes a household crisis through a chain of smaller dependencies;
+  the safest response starts with light, air, food, medicine and information.
 section: history
 type: analysis
 depth: scripture
 lang: en
-date: 2026-08-13
-status: draft
-confidence: 90
+date: '2026-08-13'
+status: published
+confidence: 95
 load: 0
-topics: [safety]
+topics:
+- safety
 automation_generated: true
 edition_slot: 3
-event_id: ""
-series: "Past Lessons, Practical Now"
-image_query: "flashlight emergency radio kitchen table power outage"
+event_id: ''
+series: Past Lessons, Practical Now
+image_query: flashlight emergency radio kitchen table power outage
 sources:
-  - name: "Federal Energy Regulatory Commission — Power Blackout archive"
-    url: "https://www.ferc.gov/industries-data/electric/overview/electric-reliability/power-blackout"
-    published: "2004-04-05"
-  - name: "FERC — Mandatory reliability standards after the 2003 blackout"
-    url: "https://www.ferc.gov/commissioner-kellys-statement-mandatory-reliability-standards-bulk-power-system"
-    published: "2007-03-15"
-  - name: "CDC — What to do during a power outage"
-    url: "https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html"
-    published: "2024-02-08"
-  - name: "CDC — Power sources preparedness checklist"
-    url: "https://www.cdc.gov/prepare-your-health/take-action/power-sources.html"
-    published: "2024-04-18"
-  - name: "CDC — Discarding food after a power outage"
-    url: "https://www.cdc.gov/natural-disasters/psa-toolkit/discarding-food-after-a-power-outage.html"
-    published: "2024-02-08"
-  - name: "Bible Gateway — Proverbs 22:3, NRSVUE"
-    url: "https://www.biblegateway.com/passage/?search=Proverbs%2022%3A3&version=NRSVUE"
-    published: ""
-qma_path: ""
+- name: Federal Energy Regulatory Commission — Power Blackout archive
+  url: https://www.ferc.gov/industries-data/electric/overview/electric-reliability/power-blackout
+  published: '2004-04-05'
+- name: FERC — Mandatory reliability standards after the 2003 blackout
+  url: https://www.ferc.gov/commissioner-kellys-statement-mandatory-reliability-standards-bulk-power-system
+  published: '2007-03-15'
+- name: CDC — What to do during a power outage
+  url: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+  published: '2024-02-08'
+- name: CDC — Power sources preparedness checklist
+  url: https://www.cdc.gov/prepare-your-health/take-action/power-sources.html
+  published: '2024-04-18'
+- name: CDC — Discarding food after a power outage
+  url: https://www.cdc.gov/natural-disasters/psa-toolkit/discarding-food-after-a-power-outage.html
+  published: '2024-02-08'
+- name: Bible Gateway — Proverbs 22:3, NRSVUE
+  url: https://www.biblegateway.com/passage/?search=Proverbs%2022%3A3&version=NRSVUE
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "If its doors remain closed, for roughly how long does the CDC say a refrigerator keeps food safe during an outage?"
+  question: If its doors remain closed, for roughly how long does the CDC say a refrigerator
+    keeps food safe during an outage?
   options:
-    - "Up to 4 hours"
-    - "Up to 12 hours"
-    - "Up to 48 hours"
+  - Up to 4 hours
+  - Up to 12 hours
+  - Up to 48 hours
   answer: 0
-  explanation: "The CDC gives a four-hour refrigerator window; a full freezer can hold a safe temperature much longer if kept closed."
+  explanation: The CDC gives a four-hour refrigerator window; a full freezer can hold
+    a safe temperature much longer if kept closed.
 ---
 
 ## BRIEFLY

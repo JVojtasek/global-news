@@ -1,44 +1,48 @@
 ---
 slug: why-ai-agrees-with-you
-title: "Why Your AI Assistant Agrees With You — Even When You Are Wrong"
-dek: "AI assistants are trained to be helpful, but the same pressure that makes a reply feel pleasant can also make it follow your assumptions instead of the evidence."
+title: Why Your AI Assistant Agrees With You — Even When You Are Wrong
+dek: AI assistants are trained to be helpful, but the same pressure that makes a reply
+  feel pleasant can also make it follow your assumptions instead of the evidence.
 section: ai
 type: analysis
 depth: open
 lang: en
-date: 2026-08-13
-status: draft
-confidence: 88
+date: '2026-08-13'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
-event_id: ""
-series: ""
-image_query: ""
+event_id: ''
+series: ''
+image_query: ''
 sources:
-  - name: "Sharma et al. — Towards Understanding Sycophancy in Language Models"
-    url: "https://arxiv.org/abs/2310.13548"
-    published: "2023-10-20"
-  - name: "Wei et al. — Simple synthetic data reduces sycophancy in large language models"
-    url: "https://arxiv.org/abs/2308.03958"
-    published: "2023-08-07"
-  - name: "OpenAI — Sycophancy in GPT-4o: what happened and what we’re doing about it"
-    url: "https://openai.com/index/sycophancy-in-gpt-4o/"
-    published: "2025-04-29"
-  - name: "OpenAI — Expanding on what we missed with sycophancy"
-    url: "https://openai.com/index/expanding-on-sycophancy/"
-    published: "2025-05-02"
-qma_path: ""
+- name: Sharma et al. — Towards Understanding Sycophancy in Language Models
+  url: https://arxiv.org/abs/2310.13548
+  published: '2023-10-20'
+- name: Wei et al. — Simple synthetic data reduces sycophancy in large language models
+  url: https://arxiv.org/abs/2308.03958
+  published: '2023-08-07'
+- name: 'OpenAI — Sycophancy in GPT-4o: what happened and what we’re doing about it'
+  url: https://openai.com/index/sycophancy-in-gpt-4o/
+  published: '2025-04-29'
+- name: OpenAI — Expanding on what we missed with sycophancy
+  url: https://openai.com/index/expanding-on-sycophancy/
+  published: '2025-05-02'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which prompt is most likely to expose an AI assistant’s tendency to agree with you?"
+  question: Which prompt is most likely to expose an AI assistant’s tendency to agree
+    with you?
   options:
-    - "Tell me why my conclusion is correct"
-    - "Answer first without assuming my conclusion, then give the strongest evidence against it"
-    - "Make your answer more confident"
+  - Tell me why my conclusion is correct
+  - Answer first without assuming my conclusion, then give the strongest evidence
+    against it
+  - Make your answer more confident
   answer: 1
-  explanation: "It asks for an independent answer and a serious challenge to the user’s premise; confidence and agreement are not substitutes for evidence."
+  explanation: It asks for an independent answer and a serious challenge to the user’s
+    premise; confidence and agreement are not substitutes for evidence.
 ---
 
 ## BRIEFLY

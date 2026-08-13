@@ -1,47 +1,51 @@
 ---
 slug: who-saves-old-video-games
-title: "Who Saves an Old Video Game When the Shop Disappears?"
-dek: "Games can vanish from sale long before their cultural value fades, leaving archivists to preserve machines, code, magazines and the human story around them."
+title: Who Saves an Old Video Game When the Shop Disappears?
+dek: Games can vanish from sale long before their cultural value fades, leaving archivists
+  to preserve machines, code, magazines and the human story around them.
 section: tech
 type: analysis
 depth: open
 lang: en
-date: 2026-08-13
-status: draft
-confidence: 91
+date: '2026-08-13'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
-event_id: ""
-series: ""
-image_query: ""
+event_id: ''
+series: ''
+image_query: ''
 sources:
-  - name: "Video Game History Foundation — 87% Missing"
-    url: "https://gamehistory.org/87percent/"
-    published: "2023-07-10"
-  - name: "U.S. Copyright Office — 37 CFR 201.40"
-    url: "https://www.copyright.gov/title37/201/37cfr201-40.html"
-    published: ""
-  - name: "The Strong National Museum of Play — International Center for the History of Electronic Games"
-    url: "https://www.museumofplay.org/collections/icheg/"
-    published: ""
-  - name: "Video Game History Foundation — The VGHF Library opens in early access"
-    url: "https://gamehistory.org/vghf-library-launch/"
-    published: "2025-01-30"
-  - name: "Video Game History Foundation — Rolling out the next version of our digital archive"
-    url: "https://gamehistory.org/archive-portal-update-2026/"
-    published: "2026-04-27"
-qma_path: ""
+- name: Video Game History Foundation — 87% Missing
+  url: https://gamehistory.org/87percent/
+  published: '2023-07-10'
+- name: U.S. Copyright Office — 37 CFR 201.40
+  url: https://www.copyright.gov/title37/201/37cfr201-40.html
+  published: ''
+- name: The Strong National Museum of Play — International Center for the History
+    of Electronic Games
+  url: https://www.museumofplay.org/collections/icheg/
+  published: ''
+- name: Video Game History Foundation — The VGHF Library opens in early access
+  url: https://gamehistory.org/vghf-library-launch/
+  published: '2025-01-30'
+- name: Video Game History Foundation — Rolling out the next version of our digital
+    archive
+  url: https://gamehistory.org/archive-portal-update-2026/
+  published: '2026-04-27'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What did the Video Game History Foundation’s 87% figure measure?"
+  question: What did the Video Game History Foundation’s 87% figure measure?
   options:
-    - "The share of classic U.S. games no longer commercially available in its study"
-    - "The share of all games whose code has been permanently destroyed"
-    - "The share of players who prefer new games"
+  - The share of classic U.S. games no longer commercially available in its study
+  - The share of all games whose code has been permanently destroyed
+  - The share of players who prefer new games
   answer: 0
-  explanation: "The study measured commercial availability. Out of print does not automatically mean physically lost or impossible to emulate."
+  explanation: The study measured commercial availability. Out of print does not automatically
+    mean physically lost or impossible to emulate.
 ---
 
 ## BRIEFLY

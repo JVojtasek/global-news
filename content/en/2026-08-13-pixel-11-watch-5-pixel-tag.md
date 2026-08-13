@@ -1,49 +1,62 @@
 ---
 slug: pixel-11-watch-5-pixel-tag
-title: "Google Unveils Pixel 11, Pixel Watch 5 and a New AirTag Rival — All Built Around Gemini AI"
-dek: "The event also carried a quieter admission: Google is deliberately dialing back some of the same photo processing that made Pixel cameras famous, because it had started to look too perfect to be believed."
+title: Google Unveils Pixel 11, Pixel Watch 5 and a New AirTag Rival — All Built Around
+  Gemini AI
+dek: 'The event also carried a quieter admission: Google is deliberately dialing back
+  some of the same photo processing that made Pixel cameras famous, because it had
+  started to look too perfect to be believed.'
 section: tech
 type: news
 depth: scripture
 lang: en
-date: 2026-08-13
+date: '2026-08-13'
 status: published
 confidence: 85
 load: 0
 topics: []
 automation_generated: false
 edition_slot: 0
-event_id: "94761ad38bf7"
-series: ""
-image_query: "smartphone camera lens closeup"
+event_id: 94761ad38bf7
+series: ''
+image_query: smartphone camera lens closeup
 sources:
-  - name: "Ars Technica"
-    url: "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/"
-    published: "2026-08-12"
-  - name: "The Verge"
-    url: "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography"
-    published: "2026-08-12"
-  - name: "The Verge"
-    url: "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news"
-    published: "2026-08-12"
-  - name: "TechCrunch"
-    url: "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/"
-    published: "2026-08-12"
-  - name: "CNBC"
-    url: "https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html"
-    published: "2026-08-12"
+- name: Ars Technica
+  url: https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/
+  published: '2026-08-12'
+- name: The Verge
+  url: https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography
+  published: '2026-08-12'
+- name: The Verge
+  url: https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news
+  published: '2026-08-12'
+- name: TechCrunch
+  url: https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/
+  published: '2026-08-12'
+- name: CNBC
+  url: https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html
+  published: '2026-08-12'
 quiz:
-  question: "According to The Verge's reporting, why is Google deliberately pulling back some of its camera processing on the new Pixel phones?"
+  question: According to The Verge's reporting, why is Google deliberately pulling
+    back some of its camera processing on the new Pixel phones?
   options:
-    - "To save battery life during video calls"
-    - "Because the images had become so uniformly polished that they stopped looking believable"
-    - "Because regulators required less image editing"
+  - To save battery life during video calls
+  - Because the images had become so uniformly polished that they stopped looking
+    believable
+  - Because regulators required less image editing
   answer: 1
-  explanation: "The Verge reported that Google's camera team is walking back some processing because heavily smoothed, brightened images had started to look artificial rather than real."
+  explanation: The Verge reported that Google's camera team is walking back some processing
+    because heavily smoothed, brightened images had started to look artificial rather
+    than real.
 impact:
-  areas: [money, safety]
-  line: "New Pixel devices cost more than last year's models, and the Pixel Tag adds another palm-sized tracker to a product category that can locate a person as easily as a lost set of keys."
-  todo: "Before buying or accepting a Bluetooth tracker as a gift, check whether it supports the cross-platform alert standard that warns a nearby phone if a tracker appears to be travelling with someone who isn't its owner."
+  areas:
+  - money
+  - safety
+  line: New Pixel devices cost more than last year's models, and the Pixel Tag adds
+    another palm-sized tracker to a product category that can locate a person as easily
+    as a lost set of keys.
+  todo: Before buying or accepting a Bluetooth tracker as a gift, check whether it
+    supports the cross-platform alert standard that warns a nearby phone if a tracker
+    appears to be travelling with someone who isn't its owner.
 ---
 
 ## BRIEFLY

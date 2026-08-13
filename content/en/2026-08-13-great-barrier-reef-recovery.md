@@ -1,53 +1,58 @@
 ---
 slug: great-barrier-reef-recovery
-title: "The Great Barrier Reef Is Recovering Again — That Is Hope, Not an All-Clear"
-dek: "New coral can return quickly when conditions ease, while local teams protect the recovery; the harder question is whether each recovery window will remain long enough."
+title: The Great Barrier Reef Is Recovering Again — That Is Hope, Not an All-Clear
+dek: New coral can return quickly when conditions ease, while local teams protect
+  the recovery; the harder question is whether each recovery window will remain long
+  enough.
 section: goodnews
 type: daily
 depth: open
 lang: en
-date: 2026-08-13
-status: draft
-confidence: 91
+date: '2026-08-13'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-event_id: ""
-series: "Repairable World"
-image_query: "healthy Great Barrier Reef coral restoration divers"
+event_id: ''
+series: Repairable World
+image_query: healthy Great Barrier Reef coral restoration divers
 sources:
-  - name: "Great Barrier Reef Marine Park Authority — July 2026 reef health update"
-    url: "https://www.gbrmpa.gov.au/learn/reef-health/reef-health-updates"
-    published: "2026-07"
-  - name: "The Australian — What new reef data reveals in 2026"
-    url: "https://www.theaustralian.com.au/science/great-resilient-reef-reports-of-wonders-death-have-been-wildly-exaggerated/news-story/b028c9622ff0f89aca2cc98d1e6e5e56"
-    published: "2026-08-11"
-  - name: "Australian Institute of Marine Science — Annual summary 2024/25"
-    url: "https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2024-25"
-    published: "2025-08-06"
-  - name: "Reef Authority — Tourism Reef Protection Initiative"
-    url: "https://www.gbrmpa.gov.au/our-work/programs-and-projects/tourism-reef-protection-initiative"
-    published: ""
-  - name: "Australian Department of Climate Change — Building Reef resilience"
-    url: "https://www.dcceew.gov.au/about/news/building-reef-resilience-through-targeted-action"
-    published: "2026-03-24"
-  - name: "Reef Authority — Crown-of-thorns starfish response"
-    url: "https://www2.gbrmpa.gov.au/news/star-wars-great-barrier-reef"
-    published: "2026-01-27"
-  - name: "UNESCO World Heritage Centre — Great Barrier Reef"
-    url: "https://whc.unesco.org/en/list/154"
-    published: ""
-qma_path: ""
+- name: Great Barrier Reef Marine Park Authority — July 2026 reef health update
+  url: https://www.gbrmpa.gov.au/learn/reef-health/reef-health-updates
+  published: 2026-07
+- name: The Australian — What new reef data reveals in 2026
+  url: https://www.theaustralian.com.au/science/great-resilient-reef-reports-of-wonders-death-have-been-wildly-exaggerated/news-story/b028c9622ff0f89aca2cc98d1e6e5e56
+  published: '2026-08-11'
+- name: Australian Institute of Marine Science — Annual summary 2024/25
+  url: https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2024-25
+  published: '2025-08-06'
+- name: Reef Authority — Tourism Reef Protection Initiative
+  url: https://www.gbrmpa.gov.au/our-work/programs-and-projects/tourism-reef-protection-initiative
+  published: ''
+- name: Australian Department of Climate Change — Building Reef resilience
+  url: https://www.dcceew.gov.au/about/news/building-reef-resilience-through-targeted-action
+  published: '2026-03-24'
+- name: Reef Authority — Crown-of-thorns starfish response
+  url: https://www2.gbrmpa.gov.au/news/star-wars-great-barrier-reef
+  published: '2026-01-27'
+- name: UNESCO World Heritage Centre — Great Barrier Reef
+  url: https://whc.unesco.org/en/list/154
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why can rising coral cover be encouraging without proving that a reef is secure for the long term?"
+  question: Why can rising coral cover be encouraging without proving that a reef
+    is secure for the long term?
   options:
-    - "Coral-cover surveys count only fish"
-    - "Fast-growing corals can rebuild cover, while repeated heat and other pressures can remove it again"
-    - "New coral is always artificial"
+  - Coral-cover surveys count only fish
+  - Fast-growing corals can rebuild cover, while repeated heat and other pressures
+    can remove it again
+  - New coral is always artificial
   answer: 1
-  explanation: "AIMS data show both rapid recovery and sharp losses, especially among fast-growing corals that contributed strongly to recent gains."
+  explanation: AIMS data show both rapid recovery and sharp losses, especially among
+    fast-growing corals that contributed strongly to recent gains.
 ---
 
 ## BRIEFLY
