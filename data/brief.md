@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-12
+# ZADÁNÍ PRO REDAKCI — 2026-08-13
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,105 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- id události: `6e0f12b732f6`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-    <https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss>
-    > Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
-  - **The Guardian World** — Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump
-    <https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu>
-    > Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Middle East crisis live – latest updates Israel’s prime minister, Benjamin Netanyahu, has rejected a US-backed 15-point peace plan for Gaza in a rare pub
-  - **The Guardian World** — Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms – as it happened
-    <https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates>
-    > This live blog is now closed. Israel rejects US-led 15-point Gaza peace plan, says Netanyahu Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli mil
-  - **NPR News** — Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first
-    <https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas>
-    > Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a "historic" agreement with Hamas to give up its weapons.
-  - **DW News** — Middle East: Netanyahu says Israel rejects Trump's Gaza plan
-    <https://www.dw.com/en/middle-east-netanyahu-says-israel-rejects-trump-s-gaza-plan/live-78289364?maca=en-rss-en-all-1573-rdf>
-    > Israeli Prime Minister Benjamin Netanyahu announced Israel's rejection of US President Donald Trump's 15-point plan for Gaza. Follow DW for more.
-  - **Al Jazeera** — ‘No surprise’: Netanyahu rejects US-backed Gaza plan
-    <https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss>
-    > Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.
-  - **Al Jazeera** — What now as Israel rejects Trump’s 15-point plan for Gaza?
-    <https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss>
-    > As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
-  - **Al Jazeera** — Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say
-    <https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss>
-    > Experts warn Israel&#039;s new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.
-  - **France 24** — Israel, US spar over Gaza withdrawal
-    <https://www.france24.com/en/israel-us-spar-over-gaza-withdrawal>
-    > Israeli Prime Minister Benjamin Netanyahu on Sunday rejected the 15-point plan for Gaza promoted by US President Donald ​Trump and stressed that the Israeli military would not withdraw from the Palestinian territory until Hamas is "genuinely" disarmed. In Iran, the Revolutionary 
-  - **CNBC Top** — Netanyahu says Trump's new Gaza plan is unacceptable
-    <https://www.cnbc.com/2026/08/09/israel-rejects-trumps-15-point-plan-for-gaza-netanyahu-says.html>
-    > Netanyahu is caught between far-right ministers angered by concessions in Gaza and Trump, who wants progress toward ending the conflict.
-
-### 2. Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id události: `639e1a78a571`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-    <https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss>
-    > Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.
-  - **BBC Business** — Iran says deal with Oman on Strait of Hormuz is in final stages
-    <https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss>
-    > Neither the US or Oman have commented on the proposed agreement on the vital waterway.
-  - **The Guardian World** — Iran issues tough demands to reopen strait of Hormuz as deal still out of reach
-    <https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach>
-    > Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while the United Arab Emirates said one of its ships was targeted by an Iranian missile, as a deal to open the
-  - **France 24** — Iran vows to keep Strait of Hormuz closed until US meets demands
-    <https://www.france24.com/en/middle-east/20260809-iran-vows-to-keep-strait-of-hormuz-closed-until-us-meets-demands>
-    > Iran’s Revolutionary Guards said Sunday that the Strait of Hormuz would remain closed until the US meets Tehran’s demands, including an end to sanctions and compensation for war damage. The blockade of the crucial energy route has rattled markets and pushed up prices, while Presi
-  - **France 24** — Iran sets tough terms to reopen Strait of Hormuz
-    <https://www.france24.com/en/iran-sets-tough-terms-to-reopen-strait-of-hormuz>
-    > Iran’s national security chief has outlined a list of demands for the US to meet before Tehran reopens the Strait of Hormuz. They include lifting the US naval blockade of Iranian ports, compensation for war damages and the release of frozen Iranian assets. Separately, Iran and Om
-  - **France 24** — Iran, Oman near deal on Strait of Hormuz
-    <https://www.france24.com/en/iran-oman-near-deal-on-strait-of-hormuz>
-    > Iran says talks with Oman over reopening the Strait of Hormuz are nearing their final stages, but that reopening the waterway depends on further conditions and compensation for what Tehran calls violations of the June agreement. Iran has issued new demands, including that the US 
-  - **CNBC Top** — S&P 500 futures are flat as traders wait for possible Strait of Hormuz deal, inflation data ahead: Live updates
-    <https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html>
-    > The three major indexes are coming off their best weeks since April, and the S&amp;P 500 finished Friday at an all-time closing high.
-  - **CNBC Top** — Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery
-    <https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html>
-    > Iran's foreign minister reportedly said his country is not engaging in talks with the U.S., but added: "Messages are being exchanged through intermediaries."
-  - **CNBC Top** — Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike
-    <https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html>
-    > Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.
-  - **Investing.com** — Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact
-    <https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714>
-
-### 3. Watch: BBC asks Infantino if he will resign as Fifa president
-- id události: `e183c545cb4c`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Watch: BBC asks Infantino if he will resign as Fifa president
-    <https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss>
-    > The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.
-  - **BBC Business** — Infantino sorry for errors but stays Fifa president
-    <https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss>
-    > Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
-  - **DW News** — FIFA warns against 'concerted effort' to undermine Gianni Infantino
-    <https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf>
-    > Pressure is mounting on the FIFA president Gianni Infantino after plans to sell a stake in the World Cup collapsed and fresh allegations emerged relating to his time at UEFA.
-  - **DW News** — How Gianni Infantino rose to rule football
-    <https://www.dw.com/en/how-gianni-infantino-rose-to-rule-football/a-78242568?maca=en-rss-en-all-1573-rdf>
-    > Gianni Infantino is staying on as FIFA president despite growing pressure to step down. So who is football's most powerful man, why did UEFA and others turn against him, and how did he reassert his authority?
-  - **Guardian Business** — The Guardian view on Gianni Infantino: in the interests of the game he professes to love, he should go | Editorial
-    <https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go>
-    > The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds insult to injury “How did you go bankrupt?” a character is asked in Ernest Hemingway’s novel The Sun Also Rises. “Gradually, then suddenly” comes the re
-  - **Guardian Business** — Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots
-    <https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis>
-    > It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010 There are decades in which nothing happens, and weeks in which decades happen, and those weeks tend to result in leaders being toppled. Not 
-  - **France 24** — FIFA defends its President Infantino amid backlash
-    <https://www.france24.com/en/fifa-defends-its-president-infantino-amid-backlash>
-    > FIFA is defending its president, Gianni Infantino, against media allegations that an alleged lover received a six-figure severance payment. The football governing body has strongly criticised what it calls a concerted and ongoing effort to “undermine” FIFA and its president. Infa
-  - **Guardian Sport** — La Liga president Javier Tebas says ‘Infantino era is over’ at Fifa
-    <https://www.theguardian.com/football/2026/aug/09/la-liga-president-javier-tebas-gianni-infantino-fifa-uefa>
-    > Tebas says Swiss is ‘destroying essence of football’ Any reform at highest levels must be ‘genuine’ Javier Tebas says Gianni Infantino’s position as Fifa president is untenable, claiming he is “destroying the very essence of football” while calling for reform at the highest level
-
-### 4. Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag
+### 1. Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag
 - id události: `94761ad38bf7`  ·  rubrika: `tech`  ·  skóre: 81  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -141,6 +43,80 @@
   - **TechCrunch** — Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini
     <https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/>
     > The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.
+
+### 2. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- id události: `7b46dd318f11`  ·  rubrika: `ai`  ·  skóre: 77  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **MIT TR — AI** — OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+    <https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/>
+    > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face
+  - **Schneier on Security** — More on the OpenAI Agent’s Attack on Hugging Face
+    <https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html>
+    > Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on
+  - **IEEE Spectrum Robotics** — Visual Language Models Train Robots to Read Human Emotions
+    <https://spectrum.ieee.org/robot-emotions-visual-language-models>
+    > This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robo
+  - **Hugging Face** — Baseten on Hugging Face Inference Providers 🔥
+    <https://huggingface.co/blog/baseten>
+  - **Hugging Face** — From Hugging Face to Amazon SageMaker Studio in one click
+    <https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio>
+  - **Hugging Face** — Hugging Face Models on Foundry Managed Compute
+    <https://huggingface.co/blog/microsoft/foundry-managed-compute>
+  - **Hugging Face** — Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot
+    <https://huggingface.co/blog/skypilot-hf-storage>
+  - **Hugging Face** — Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
+    <https://huggingface.co/blog/cerebras-gemma4-voice-ai>
+  - **Hugging Face** — Featuring Every Eval Ever Results on Hugging Face Model Pages
+    <https://huggingface.co/blog/eee-community-evals>
+  - **Hugging Face** — PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
+    <https://huggingface.co/blog/PaddlePaddle/pp-ocrv6>
+
+### 3. Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+- id události: `965561c723dd`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+    <https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return>
+    > Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by a
+  - **Guardian Business** — Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live
+    <https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates>
+    > US president demands compensation for damage incurred by US, complicating standoff with Tehran Shares in International Workplace Group slumped more than 11% after analysts flagged risks to cashflow at the flexible office space provider. Shares in IWG, which owns the Spaces ⁠and R
+  - **Al Jazeera** — Trump sends conflicting signals on Iran strategy
+    <https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss>
+    > Trump sends conflicting signals on Iran strategy
+  - **Al Jazeera** — Iran threat prompted secret Trump flight from Turkiye: Reports
+    <https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss>
+    > Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.
+  - **France 24** — Donald Trump took secret flight out of Turkey over Iran threat, the Washington Post reports
+    <https://www.france24.com/en/video/20260811-donald-trump-took-secret-flight-out-of-turkey-over-iran-threat-the-washington-post-reports>
+    > US President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post. FRA
+  - **France 24** — Donald Trump signs order reducing recommended childhood vaccines
+    <https://www.france24.com/en/donald-trump-signs-order-reducing-recommended-childhood-vaccines>
+    > President Donald Trump signed an executive order on Monday (August 10) calling for fewer childhood vaccinations ​by ‌limiting the inoculation schedule to 11 immunizations.
+  - **France 24** — Trump secretly swapped planes in Turkey over Iran threat, report says
+    <https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says>
+    > US ​President Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard Air Force One, an extraordinary ​move prompted by an Iranian assassination threat, the Washington Post reported Monday.
+
+### 4. Consortium advances talks for stake in Liverpool
+- id události: `73892c222554`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Business** — Consortium advances talks for stake in Liverpool
+    <https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss>
+    > A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.
+  - **Guardian Business** — Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos
+    <https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group>
+    > Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The invest
+  - **BBC Sport** — Bezos consortium advances talks for stake in Liverpool
+    <https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss>
+    > A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.
+  - **Al Jazeera** — Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports
+    <https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss>
+    > Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.
+  - **Guardian Sport** — Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos
+    <https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group>
+    > Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The invest
 
 ---
 
