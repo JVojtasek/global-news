@@ -1,50 +1,54 @@
 ---
 slug: one-death-changes-the-ebola-map
-title: "One Death Changes the Ebola Map — But Not Yet the Whole Risk Picture"
-dek: "A confirmed Ebola death in Bas-Uele shows why the difference between an imported case and local transmission matters."
+title: One Death Changes the Ebola Map — But Not Yet the Whole Risk Picture
+dek: A confirmed Ebola death in Bas-Uele shows why the difference between an imported
+  case and local transmission matters.
 section: health
 type: analysis
 depth: open
 lang: en
-date: 2026-08-13
-status: draft
-confidence: 91
+date: '2026-08-13'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 0
-automation_role: "intraday"
-generator: "chatgpt-work"
-format: "roundtable"
-event_id: "africa-cdc-drc-ebola-bas-uele-2026-08-13"
-series: "The Newsroom Table"
-image_query: ""
+automation_role: intraday
+generator: chatgpt-work
+format: roundtable
+event_id: africa-cdc-drc-ebola-bas-uele-2026-08-13
+series: The Newsroom Table
+image_query: ''
 sources:
-  - name: "Associated Press"
-    url: "https://apnews.com/article/congo-ebola-ba8daf530f48c495fb54dbf36c542d81"
-    published: "2026-08-13"
-  - name: "Reuters"
-    url: "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-reports-ebola-death-new-province-official-says-2026-08-13/"
-    published: "2026-08-13"
-  - name: "WHO Regional Office for Africa"
-    url: "https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4"
-    published: "2026-08-10"
-  - name: "WHO"
-    url: "https://www.who.int/news/item/06-08-2026-africa-cdc-and-who-call-for-urgent--community-led-action-to-contain-ebola-in-the-drc"
-    published: "2026-08-06"
-  - name: "US Centers for Disease Control and Prevention"
-    url: "https://www.cdc.gov/ebola/situation-summary/index.html"
-    published: "2026-08-12"
-qma_path: ""
+- name: Associated Press
+  url: https://apnews.com/article/congo-ebola-ba8daf530f48c495fb54dbf36c542d81
+  published: '2026-08-13'
+- name: Reuters
+  url: https://www.reuters.com/business/healthcare-pharmaceuticals/congo-reports-ebola-death-new-province-official-says-2026-08-13/
+  published: '2026-08-13'
+- name: WHO Regional Office for Africa
+  url: https://www.afro.who.int/countries/democratic-republic-of-congo/publication/ebola-bundibugyo-virus-disease-outbreak-4
+  published: '2026-08-10'
+- name: WHO
+  url: https://www.who.int/news/item/06-08-2026-africa-cdc-and-who-call-for-urgent--community-led-action-to-contain-ebola-in-the-drc
+  published: '2026-08-06'
+- name: US Centers for Disease Control and Prevention
+  url: https://www.cdc.gov/ebola/situation-summary/index.html
+  published: '2026-08-12'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What evidence would establish local transmission in Bas-Uele?"
+  question: What evidence would establish local transmission in Bas-Uele?
   options:
-    - "A locally infected case with no exposure explained by travel from an affected area"
-    - "The province being mentioned in an international news report"
-    - "A fall in the national weekly case count"
+  - A locally infected case with no exposure explained by travel from an affected
+    area
+  - The province being mentioned in an international news report
+  - A fall in the national weekly case count
   answer: 0
-  explanation: "The confirmed death shows that the virus reached Bas-Uele in an infected traveller; local transmission requires evidence that infection occurred within the province."
+  explanation: The confirmed death shows that the virus reached Bas-Uele in an infected
+    traveller; local transmission requires evidence that infection occurred within
+    the province.
 ---
 
 ## BRIEFLY
