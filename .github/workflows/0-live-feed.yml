@@ -8,9 +8,15 @@ on:
   # webu ho nespouštějí a další kola řídí pětiminutový plán.
   push:
     branches: [main]
-    paths: [".github/workflows/0-live-feed.yml"]
+    paths:
+      - ".github/workflows/0-live-feed.yml"
+      - "data/sources.yml"
+      - "engine/livefeed.py"
+      - "engine/collect.py"
+      - "engine/countries.py"
+      - "requirements.txt"
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "2-59/5 * * * *"
   workflow_dispatch:
 
 permissions:

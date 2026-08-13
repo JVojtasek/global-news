@@ -12,7 +12,7 @@ confidence: 85
 load: 0
 topics: []
 automation_generated: false
-edition_slot: 1
+edition_slot: 0
 event_id: "94761ad38bf7"
 series: ""
 image_query: "smartphone camera lens closeup"

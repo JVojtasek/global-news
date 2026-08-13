@@ -1,7 +1,10 @@
 import datetime as dt
+import tempfile
 import unittest
+from pathlib import Path
+from unittest import mock
 
-from engine import article, build, config, edition, inbox
+from engine import article, build, config, edition, edition_guard, inbox
 
 
 class EditionPlanTests(unittest.TestCase):
@@ -30,10 +33,13 @@ class ScheduledArticleGateTests(unittest.TestCase):
         )
         self.meta = {
             "title": "A test analysis",
-            "section": "tech",
+            "section": "ai",
             "type": "analysis",
             "lang": "en",
+            "date": "2026-08-13",
+            "status": "draft",
             "automation_generated": True,
+            "edition_slot": 5,
             "sources": [
                 {"name": f"Source {n}", "url": f"https://example.com/{n}"}
                 for n in range(4)
@@ -58,6 +64,73 @@ class ScheduledArticleGateTests(unittest.TestCase):
         ] * 4
         problems = inbox._rule_check(self.meta, self.layers)
         self.assertTrue(any("unikátních HTTPS zdrojů" in p for p in problems))
+
+    def test_ordinary_news_cannot_claim_a_scheduled_slot(self):
+        meta = dict(self.meta, automation_generated=False, edition_slot=1)
+        problems = inbox._edition_check(meta, self.layers)
+        self.assertTrue(any("běžný článek" in problem for problem in problems))
+
+    def test_scheduled_slot_must_match_plan_contract(self):
+        meta = dict(self.meta, section="world", type="news", status="published")
+        problems = inbox._edition_check(meta, "Too short for the assigned slot. " * 40)
+        self.assertTrue(any("patří rubrice" in problem for problem in problems))
+        self.assertTrue(any("vyžaduje typ" in problem for problem in problems))
+        self.assertTrue(any("plán vyžaduje" in problem for problem in problems))
+        self.assertTrue(any("status: draft" in problem for problem in problems))
+
+
+class EditionCompletenessTests(unittest.TestCase):
+    @staticmethod
+    def _meta(spec, day="2026-08-13"):
+        slot = int(spec["slot"])
+        return {
+            "slug": f"slot-{slot}", "title": f"Slot {slot}", "lang": "en", "date": day,
+            "section": spec["section"], "type": spec["type"],
+            "status": "reserve" if slot == 7 else "draft",
+            "automation_generated": True, "edition_slot": slot,
+            "quiz": {"question": "What does the evidence show?", "options": ["A", "B", "C"],
+                     "answer": 1, "explanation": "The evidence in the article supports B."},
+        }
+
+    def test_guard_requires_six_public_slots_and_only_warns_for_reserve(self):
+        config.site()  # Fill the config cache before redirecting DATA in this isolated test.
+        plan = edition.build(dt.date(2026, 8, 13))
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            content, data = root / "content", root / "data"
+            (content / "inbox").mkdir(parents=True)
+            (content / "en").mkdir()
+            (data / "daily-agenda").mkdir(parents=True)
+            (data / "daily-agenda" / "2026-08-13.md").write_text("# Agenda\n", encoding="utf-8")
+            for spec in plan["slots"]:
+                words = "useful " * int(spec["min_words"])
+                path = content / "inbox" / f"slot-{spec['slot']}.md"
+                path.write_text(article.dump(self._meta(spec), words), encoding="utf-8")
+            with mock.patch.object(config, "CONTENT", content), mock.patch.object(config, "DATA", data):
+                errors, warnings = edition_guard.inspect(dt.date(2026, 8, 13))
+            self.assertEqual([], errors)
+            self.assertTrue(any("slot 7" in warning for warning in warnings))
+
+    def test_guard_rejects_duplicate_public_slot(self):
+        config.site()
+        plan = edition.build(dt.date(2026, 8, 13))
+        spec = plan["slots"][0]
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            content, data = root / "content", root / "data"
+            (content / "inbox").mkdir(parents=True)
+            (content / "en").mkdir()
+            (data / "daily-agenda").mkdir(parents=True)
+            (data / "daily-agenda" / "2026-08-13.md").write_text("# Agenda\n", encoding="utf-8")
+            body = "useful " * int(spec["min_words"])
+            for suffix in ("a", "b"):
+                meta = self._meta(spec)
+                meta["slug"] += suffix
+                (content / "inbox" / f"slot-{suffix}.md").write_text(
+                    article.dump(meta, body), encoding="utf-8")
+            with mock.patch.object(config, "CONTENT", content), mock.patch.object(config, "DATA", data):
+                errors, _ = edition_guard.inspect(dt.date(2026, 8, 13))
+            self.assertTrue(any("obsazen 2krát" in error for error in errors))
 
 
 class QmaAndQuizTests(unittest.TestCase):

@@ -92,6 +92,10 @@ def snapshot(now=None) -> dict:
 
 def run() -> dict:
     data = snapshot()
+    if not data.get("items"):
+        # A transient RSS/network failure must not replace the last usable
+        # snapshot with an empty file that looks like a successful refresh.
+        raise RuntimeError("Živý feed neobsahuje žádné ověřené položky; starý snapshot zůstává beze změny.")
     path = config.STATIC / "live-news.json"
     path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     config.log(f"Živý feed: {len(data['items'])} zpráv z {data['source_count']} zdrojů → {path}")

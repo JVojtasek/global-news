@@ -8,6 +8,16 @@
 name: "2 · Redakce"
 
 on:
+  # Poslední ranní úloha ukládá po článcích samostatný kvíz. Jeho commit
+  # je tak bezplatný signál, že lze zkusit vydání hned; denní cron zůstává
+  # jako záloha, pokud kvíz nevznikne nebo se GitHub push opozdí.
+  push:
+    branches: [main]
+    paths:
+      - "data/quizzes/**"
+      - ".github/workflows/2-redakce.yml"
+      - "engine/inbox.py"
+      - "engine/edition_guard.py"
   schedule:
     - cron: "35 9 * * *"        # po dokončení šesti úloh + rezervy ChatGPT Work
   workflow_dispatch:
@@ -32,6 +42,16 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      - name: Přepočítat dnešní vydání
+        run: python -m engine.edition
+
+      - name: Ověřit agendu a šest veřejných slotů
+        # Push z poslední ranní úlohy nesmí vydat neúplnou sadu. Denní
+        # záložní cron smí bezpečné hotové články přijmout i při výpadku
+        # jednoho slotu — kvalita má přednost před slepým plněním kvóty.
+        continue-on-error: ${{ github.event_name == 'schedule' }}
+        run: python -m engine.edition_guard
 
       - name: Převzít vlastní články z QMA
         continue-on-error: true

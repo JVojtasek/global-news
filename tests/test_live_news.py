@@ -44,6 +44,22 @@ class LiveNewsTests(unittest.TestCase):
         self.assertEqual("https://example.com/fresh", data["items"][0]["url"])
         self.assertEqual(300, data["refresh_seconds"])
 
+    def test_empty_refresh_does_not_overwrite_last_usable_snapshot(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            static = Path(tmp)
+            target = static / "live-news.json"
+            target.write_text('{"generated_at":"old","items":[{"headline":"kept"}]}', encoding="utf-8")
+            with mock.patch.object(livefeed.config, "STATIC", static), \
+                 mock.patch("engine.livefeed.snapshot", return_value={"generated_at": "new", "items": []}):
+                with self.assertRaises(RuntimeError):
+                    livefeed.run()
+            self.assertIn('"kept"', target.read_text(encoding="utf-8"))
+
+    def test_browser_has_a_newest_snapshot_fallback(self):
+        source = (Path(__file__).parents[1] / "static" / "live.js").read_text(encoding="utf-8")
+        self.assertIn('fetchFeed("/live-news.json")', source)
+        self.assertIn("stamp(b.generated_at) - stamp(a.generated_at)", source)
+
     def test_ticker_uses_event_time_and_filters_technology(self):
         events = [
             {"headline": "Older technology headline with enough descriptive words", "section": "tech",

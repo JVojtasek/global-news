@@ -56,6 +56,34 @@
     return /^https?:\/\//i.test(String(value || "")) ? String(value) : "";
   }
 
+  function fetchFeed(url) {
+    if (!url) return Promise.resolve(null);
+    var join = url.indexOf("?") >= 0 ? "&" : "?";
+    return window.fetch(url + join + "v=" + Date.now(), {cache: "no-store", credentials: "omit"})
+      .then(function (response) {
+        if (!response.ok) throw new Error("HTTP " + response.status);
+        return response.json();
+      }).then(function (data) {
+        if (!data || !Array.isArray(data.items) || !data.items.length || !stamp(data.generated_at)) {
+          throw new Error("invalid feed");
+        }
+        return data;
+      }).catch(function () { return null; });
+  }
+
+  function newestFeed(primaryUrl) {
+    // The live-feed branch is normally freshest. A snapshot built into the
+    // deployed site is an independent fallback when GitHub's scheduled jobs
+    // are queued. Choose by actual generation time, never by request order.
+    return Promise.all([fetchFeed(primaryUrl), fetchFeed("/live-news.json")])
+      .then(function (feeds) {
+        var valid = feeds.filter(function (feed) { return feed; });
+        valid.sort(function (a, b) { return stamp(b.generated_at) - stamp(a.generated_at); });
+        if (!valid.length) throw new Error("no valid feed");
+        return valid[0];
+      });
+  }
+
   function makeItem(box, item) {
     var li = node("li", (parseInt(item.score, 10) || 0) >= 70 ? "hot" : "");
     li.setAttribute("data-section", item.section || "world");
@@ -149,11 +177,7 @@
   function loadBrief(box) {
     var url = box.getAttribute("data-live-url");
     if (!url) return;
-    var join = url.indexOf("?") >= 0 ? "&" : "?";
-    window.fetch(url + join + "v=" + Date.now(), {cache: "no-store", credentials: "omit"})
-      .then(function (response) { if (!response.ok) throw new Error("HTTP " + response.status); return response.json(); })
-      .then(function (data) {
-        if (!data || !Array.isArray(data.items) || !stamp(data.generated_at)) throw new Error("invalid feed");
+    newestFeed(url).then(function (data) {
         briefShow(box, data);
       }).catch(function () {
         var loading = box.querySelector("[data-live-brief-loading]");
@@ -214,11 +238,7 @@
   function load(box) {
     var url = box.getAttribute("data-live-url");
     if (!url) return;
-    var join = url.indexOf("?") >= 0 ? "&" : "?";
-    window.fetch(url + join + "v=" + Date.now(), {cache: "no-store", credentials: "omit"})
-      .then(function (response) { if (!response.ok) throw new Error("HTTP " + response.status); return response.json(); })
-      .then(function (data) {
-        if (!data || !Array.isArray(data.items) || !stamp(data.generated_at)) throw new Error("invalid feed");
+    newestFeed(url).then(function (data) {
         box.tdsItems = data.items.filter(function (item) {
           return item && item.headline && safeUrl(item.url) && stamp(item.published_at);
         }).sort(function (a, b) { return stamp(b.published_at) - stamp(a.published_at); });

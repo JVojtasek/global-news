@@ -36,17 +36,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Redakční a technické testy
+        run: python -m unittest discover -s tests -v
+
+      - name: Připravit čerstvý záložní snapshot živých zpráv
+        continue-on-error: true
+        run: python -m engine.livefeed
+
       - name: Postavit web (a stáhnout chybějící obrázky)
         run: python -m engine.build
-
-      - name: Uložit stažené obrázky, ať se příště nestahují znovu
-        continue-on-error: true
-        run: |
-          git config user.name  "newsroom-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add data/covers data/images.json data/admin-index.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "[bot] obrázky $(date -u +%Y-%m-%d)"
-          git push || true
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
@@ -61,3 +59,15 @@ jobs:
       - name: Ohlásit nové články vyhledávačům (IndexNow)
         continue-on-error: true
         run: python -m engine.seo
+
+      # Cache commit je až po nasazení. Jeho push tedy už nemůže zrušit
+      # vlastní dosud nedokončené zveřejnění přes concurrency skupinu pages.
+      - name: Uložit stažené obrázky, ať se příště nestahují znovu
+        continue-on-error: true
+        run: |
+          git config user.name  "newsroom-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/covers data/images.json data/admin-index.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "[bot] obrázky $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash
+          git push || true
