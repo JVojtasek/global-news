@@ -21,7 +21,7 @@ Paměť obsahuje **21 vláken**. Aktivních za posledních 14 dní: **8**.
   - **2026-08-12** (2 zdrojů) Lebanon becomes first Middle East country to end death penalty
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 1 dní · 6 záznamů
+- rubrika `world` · sledováno 2 dní · 7 záznamů
 - časová osa:
   - **2026-08-11** (3 zdrojů) Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
@@ -29,6 +29,7 @@ Paměť obsahuje **21 vláken**. Aktivních za posledních 14 dní: **8**.
   - **2026-08-11** (2 zdrojů) Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
   - **2026-08-11** (2 zdrojů) Ukraine says Russia fired North Korean missiles
   - **2026-08-12** (2 zdrojů) Four killed in overnight attacks in southern Russia, Ukraine
+  - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
 
 ### Typhoon Dolphin batters Japan's Okinawa before bearing down on China
 - rubrika `world` · sledováno 1 dní · 4 záznamů
