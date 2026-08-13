@@ -8,6 +8,7 @@ neptej, a na konci napiš krátké shrnutí česky.
   data/brief.json                     ← podklady k článku dne (daily_assignment.sources)
   data/memory/analyst-brief.md        ← co se změnilo v běžících tématech
   engine/prompts/FORMAT.md            ← formát článku, povinný
+  engine/prompts/VOICE.md             ← lidský hlas zkušeného redaktora, povinný
   engine/prompts/deep_article.md      ← pro ČLÁNEK DNE
   engine/prompts/news_article.md      ← pro zprávy
   engine/prompts/demand_article.md    ← pro témata z poptávky
@@ -24,6 +25,11 @@ projdi pět otázek z `engine/prompts/FORMAT.md`, oddíl 0:
 
 Když u kterékoli odpovíš „ne", článek neukládej. **Kvóty jsou vedlejší.**
 Prázdná rubrika je menší škoda než jeden odbytý text.
+
+Navíc celý text přečti podle `VOICE.md`. Fakticky správný školní referát,
+firemní prezentace nebo strojový monolog se neukládá. Přepiš jej tak, aby
+zkušený redaktor mohl text přirozeně přečíst nahlas, ale nikdy mu nevymýšlej
+osobní zkušenost nebo vzpomínku.
 
 ## 2. CO NAPSAT
 

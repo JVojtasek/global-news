@@ -1,0 +1,65 @@
+# Bezplatná publikační brána pro komentované analýzy vzniklé během dne.
+# Model pracuje v ChatGPT Work / Claude Cowork; Actions pouze ověřují nový
+# soubor a publikují ho, takže nepoužívají žádný placený modelový API klíč.
+name: "2b · Intradenní redakce"
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/inbox/*intraday*.md"
+      - ".github/workflows/2b-intraday.yml"
+      - "engine/inbox.py"
+      - "engine/prompts/INTRADAY-DESK.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsroom-write
+  cancel-in-progress: false
+
+jobs:
+  intraday:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Ověřit a přijmout intradenní analýzu
+        run: python -m engine.inbox
+
+      - name: Redakční bezpečnostní testy
+        run: python -m unittest discover -s tests -v
+
+      - name: Připravit sociální výstupy
+        continue-on-error: true
+        env:
+          BLUESKY_HANDLE:       ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          TELEGRAM_BOT_TOKEN:   ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:     ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python -m engine.social prepare
+          python -m engine.social send
+
+      - name: Kontrola zdraví
+        continue-on-error: true
+        run: python -m engine.doctor
+
+      - name: Uložit přijatý text
+        run: |
+          git config user.name  "newsroom-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add content/ data/
+          git diff --staged --quiet || git commit -m "[bot] intradenní redakce $(date -u +%Y-%m-%d\ %H:%M)"
+          git pull --rebase --autostash
+          git push

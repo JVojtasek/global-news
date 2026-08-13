@@ -1,5 +1,9 @@
 # Formát stránky velkého problému
 
+I tento formát se řídí `engine/prompts/VOICE.md`: věcně, konkrétně,
+lidsky a bez akademické či strojové vaty. Rozsah problému nesmí pohltit
+člověka, kterému má text pomoci porozumět.
+
 Soubor: `content/problems/<id>.<lang>.md` — jen hlavička (YAML) a pod ní krátký úvod.
 Všechny tři sloupce jsou v hlavičce, aby vypadaly na všech deseti stránkách stejně
 a aby šlo doplnit jedenáctý problém bez sahání do kódu.

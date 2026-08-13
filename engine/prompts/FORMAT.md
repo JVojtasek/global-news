@@ -1,5 +1,9 @@
 # FORMÁT ČLÁNKU (platí bez výjimky pro všechny články)
 
+Než začneš psát, přečti celý `engine/prompts/VOICE.md`. Jeho lidský,
+zkušený a čtivý redakční hlas je stejně závazný jako struktura níže.
+Přesný text, který zní akademicky, firemně nebo strojově, není hotový.
+
 ## 0. TEST, KTERÝM MUSÍ PROJÍT KAŽDÝ ČLÁNEK
 
 Než článek uložíš, projdi těchhle pět otázek. Když u kterékoli
@@ -42,6 +46,9 @@ topics: []          # štítky pro filtr čtenáře: war, crime, disaster, polit
                     # health, money, tech. Nech prázdné a systém je doplní
 automation_generated: false  # true jen pro naplánovanou úlohu ChatGPT Work
 edition_slot: 0     # 1–6 veřejné články, 7 článek do zásoby
+automation_role: "" # edition | intraday; intraday používá slot 0
+generator: ""       # chatgpt-work | claude-cowork | human; transparentní původ
+format: ""          # roundtable jen pro formát U redakčního stolu
 event_id: ""
 series: ""
 image_query: "krátký anglický popis pro vyhledání ilustračního obrázku"
@@ -186,3 +193,7 @@ modlitba patří jen do rubrik history, questions a meaning, a i tam jen někdy.
 4. **Nikdy nepřepisuj cizí článek.** Fakta ano, formulace vlastní, zdroj vždy.
 5. **Nikdy nezamlčuj špatnou zprávu** kvůli pozitivnímu ladění.
 6. **Nikdy nepiš slovo „křesťanský" o sobě.** Web se nepředstavuje. Ukazuje.
+7. **Nikdy nepředstírej lidskou vzpomínku.** Hlas zkušeného redaktora je
+   způsob úsudku a vyprávění, ne vymyšlený životopis autora.
+8. **Nikdy nevydávej akademickou nebo strojovou větu za hotovou jen proto,
+   že je fakticky správná.** Přepiš ji konkrétně a podle `VOICE.md`.

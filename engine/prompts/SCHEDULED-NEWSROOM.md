@@ -4,6 +4,10 @@ This file is the durable contract for My Paper's scheduled editorial tasks.
 The task uses ChatGPT Work, web search and the connected GitHub plugin. It
 must not call a paid model API and must never place a secret in the repository.
 
+Before any research or writing, read `engine/prompts/VOICE.md` in full. Its
+experienced, human, psychologically perceptive voice applies to every provider
+and every section. It does not permit fabricated first-person experience.
+
 ## The daily hand-off
 
 1. The research-desk task reads `data/edition-plan.json`, `data/brief.json`,
@@ -122,3 +126,7 @@ files or bypass the inbox checks.
 Standalone daily quizzes are a separate scheduled role. They follow
 `engine/prompts/QUIZ-FORMAT.md` and `data/quiz-plan.json`; article writers keep
 using only the three-option understanding check defined above.
+
+Intraday commentary is a separate, non-edition role governed by
+`engine/prompts/INTRADAY-DESK.md`. Morning writer tasks never create intraday
+files, and intraday tasks never occupy edition slots 1–7.
