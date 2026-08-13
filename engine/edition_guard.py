@@ -26,16 +26,42 @@ def inspect(day: dt.date | None = None) -> tuple[list[str], list[str]]:
         if lang_dir.is_dir() and lang_dir.name != "inbox":
             candidates.extend(lang_dir.glob(f"{date}-*.md"))
 
+    # Vydání se plánuje v jazyce originálu; překlady se posuzují jinde.
+    master = str(config.site()["languages"]["master"])
     by_slot: dict[int, list] = {}
+    strays: dict[tuple, list] = {}
     for path in candidates:
         meta, body = article.parse(path.read_text(encoding="utf-8"))
-        if meta.get("date") != date or not meta.get("automation_generated"):
+        if meta.get("date") != date:
             continue
         try:
             slot = int(meta.get("edition_slot") or 0)
         except (TypeError, ValueError):
             continue
+        # Cizí článek, který si vzal číslo slotu, se nesmí přehlédnout.
+        # 12. srpna 2026 dvě zprávy ze světa nesly `edition_slot: 1` a `2`
+        # s `automation_generated: false`. Hlídač je přeskočil, ohlásil
+        # vydání jako kompletní — a sloty 5 a 6 ten den nevyšly vůbec.
+        # Obsazenost se proto počítá ze všech souborů, redakční smlouva
+        # se pak kontroluje jen u těch automatických.
+        # Překlad není druhý článek. Bez jazyka v klíči by hlídač hlásil
+        # každý přeložený slot jako obsazený dvakrát — a protože čeština
+        # zaostává, projevilo by se to až v den, kdy se překlad doplní.
+        lang = str(meta.get("lang") or "en")
+        if lang != master:
+            continue
+        if not meta.get("automation_generated"):
+            if slot > 0:
+                strays.setdefault((lang, slot), []).append(path)
+            continue
         by_slot.setdefault(slot, []).append((meta, body, path))
+
+    for (lang, slot), paths in sorted(strays.items()):
+        names = ", ".join(sorted(x.name for x in paths))
+        errors.append(
+            f"slot {slot} ({lang}) si vzal článek, který do vydání nepatří "
+            f"(automation_generated: false): {names}"
+        )
 
     plan = edition.build(day)
     specs = list(plan.get("slots") or [])
