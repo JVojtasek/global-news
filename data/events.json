@@ -274,41 +274,6 @@
   ]
  },
  {
-  "id": "b01a2d5e7018",
-  "headline": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
-  "section": "business",
-  "score": 58,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-10T18:33:56+00:00",
-  "items": [
-   {
-    "title": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
-    "url": "https://www.cnbc.com/2026/08/10/dont-let-a-wall-street-analysts-downgrade-of-apple-scare-you-out-of-the-stock.html",
-    "source": "CNBC Top",
-    "summary": "Jefferies analyst Edison Lee cited supply chain checks."
-   },
-   {
-    "title": "Nvidia to team with Wall Street on US$500 billion package for AI infrastructure projects",
-    "url": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "A group of US investment giants are partnering with Nvidia on US$500 billion in funding for AI infrastructure projects, the Financial Times reported. Apollo Global Management, Blackstone, BlackRock’s Global Infrastructure Partners, Brookfield Asset Management, Goldman Sachs and KKR are among the firms in talks with Nvidia on a deal to invest in the AI buildout, the Financial Times reported, citing"
-   },
-   {
-    "title": "Wall Street muted after notching best week since April",
-    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-little-changedas-hormuz-reopening-doubts-grow-4847793",
-    "source": "Investing.com",
-    "summary": ""
-   },
-   {
-    "title": "Hp stock hits 52-week high at $41.88",
-    "url": "https://www.investing.com/news/company-news/hp-stock-hits-52week-high-at-4188-93CH-4850009",
-    "source": "Investing.com",
-    "summary": ""
-   }
-  ]
- },
- {
   "id": "cdb44fe21545",
   "headline": "Syria sentences Bashar Assad to death in absentia",
   "section": "world",
@@ -947,25 +912,42 @@
   ]
  },
  {
-  "id": "091d908b0756",
-  "headline": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-  "section": "tech",
-  "score": 48,
+  "id": "182debe3e33a",
+  "headline": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+  "section": "world",
+  "score": 49,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-10T18:33:56+00:00",
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T15:50:49+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-    "url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
-    "source": "Ars Technica",
-    "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order."
+    "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+    "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
+    "published_at": "2026-08-13T15:50:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    },
    {
-    "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-    "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
-    "source": "TechCrunch",
-    "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores."
+    "title": "🔴 Mali pardons French official Yann ​Vézilier, who was sentenced to 20 years in prison",
+    "url": "https://www.france24.com/en/africa/20260813-mali-grants-presidential-pardon-to-french-national-sentenced-to-20-years-in-prison",
+    "source": "France 24",
+    "summary": "",
+    "published_at": "2026-08-13T14:59:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Mali pardons French official sentenced to 20 years in prison",
+    "url": "https://www.france24.com/en/africa/20260813-mali-grants-presidential-pardon-to-french-national-sentenced-to-20-years-in-prison",
+    "source": "France 24",
+    "summary": "Mali President Assimi Goïta on Thursday pardoned a French ​national who had been sentenced to 20 years in prison. Last year, Mali's military-led government accused Yann ​Vézilier, an official from the French embassy, of being involved in a plot ​to destabilise the West ‌African country.",
+    "published_at": "2026-08-13T14:50:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    }
   ]
  },
@@ -1488,6 +1470,46 @@
     "published_at": "2026-08-13T12:10:05+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "91fd82f2cc46",
+  "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+  "section": "science",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T16:05:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+    "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+    "published_at": "2026-08-13T16:05:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+    "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+    "published_at": "2026-08-13T16:05:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+    "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+    "published_at": "2026-08-13T16:05:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    }
   ]
  },
@@ -2173,25 +2195,73 @@
   ]
  },
  {
-  "id": "70f067ea5d30",
-  "headline": "Taylor Farms recalls jalapeno products after salmonella outbreak",
-  "section": "business",
-  "score": 43,
+  "id": "e07d63f16732",
+  "headline": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+  "section": "sport",
+  "score": 44,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-10T18:33:56+00:00",
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T16:21:51+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "Taylor Farms recalls jalapeno products after salmonella outbreak",
-    "url": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Food producer Taylor Farms is recalling sandwiches, sauces and dips across 26 US states after a salmonella outbreak."
+    "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo.",
+    "published_at": "2026-08-13T16:21:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    },
    {
-    "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
-    "url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
-    "source": "Ars Technica",
-    "summary": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods."
+    "title": "Carrick rules out £100m signing for Manchester United as Rashford rejoins squad",
+    "url": "https://www.theguardian.com/football/2026/aug/13/manchester-united-marcus-rashford-michael-carrick-transfer-window",
+    "source": "Guardian Sport",
+    "summary": "United unable to financially compete with rivals Rashford back after Barcelona loan but could leave Michael Carrick has stated that Manchester United will not make a £100m signing this summer due to their finances, with the manager also insisting that Marcus Rashford “is our player” despite the forward and club preferring him to depart. In the current window United have invested a total of £85m on",
+    "published_at": "2026-08-13T16:00:02+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "068e562e0512",
+  "headline": "Introducing Gemini 3.7 Flash",
+  "section": "ai",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T17:04:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "source": "Google DeepMind",
+    "summary": "",
+    "published_at": "2026-08-13T17:04:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "source": "Ars Technica AI",
+    "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+    "published_at": "2026-08-13T17:00:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "source": "Google DeepMind",
+    "summary": "",
+    "published_at": "2026-06-24T16:30:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    }
   ]
  },
@@ -2336,23 +2406,6 @@
     "published_at": "2026-08-12T17:28:38+00:00",
     "source_countries": [],
     "seen_at": "2026-08-12T18:35:03+00:00"
-   }
-  ]
- },
- {
-  "id": "d85775dc21f2",
-  "headline": "Why Did the Ancient Romans Bury This Monumental Marble Statue Face Down? They Wanted to Repurpose It as a Paving Stone",
-  "section": "culture",
-  "score": 42,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-10T18:33:56+00:00",
-  "items": [
-   {
-    "title": "Why Did the Ancient Romans Bury This Monumental Marble Statue Face Down? They Wanted to Repurpose It as a Paving Stone",
-    "url": "https://www.smithsonianmag.com/smart-news/why-did-the-ancient-romans-bury-this-monumental-marble-statue-face-down-they-wanted-to-repurpose-it-as-a-paving-stone-180989302/",
-    "source": "Smithsonian Mag",
-    "summary": "Archaeologists discovered the roughly 2,500-year-old sculpture of a young man while conducting excavations at Sardis in western Turkey. The artwork reflects the different cultures that wielded control over the city in the first millennium B.C.E."
    }
   ]
  },
@@ -2997,29 +3050,6 @@
   ]
  },
  {
-  "id": "48ce89dc66b4",
-  "headline": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-  "section": "world",
-  "score": 41,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T18:33:56+00:00",
-  "items": [
-   {
-    "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-    "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region."
-   },
-   {
-    "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-    "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region."
-   }
-  ]
- },
- {
   "id": "d7d21522081c",
   "headline": "Ebola: Over 2,000 dead in DR Congo as virus gathers pace",
   "section": "health",
@@ -3310,52 +3340,6 @@
     "published_at": "2026-08-13T11:10:31+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T12:33:13+00:00"
-   }
-  ]
- },
- {
-  "id": "829bde3f3f2d",
-  "headline": "Colombia: Dozens killed after large earthquake rocks region",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T18:33:56+00:00",
-  "items": [
-   {
-    "title": "Colombia: Dozens killed after large earthquake rocks region",
-    "url": "https://www.dw.com/en/colombia-dozens-killed-after-large-earthquake-rocks-region/a-78307841?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A powerful earthquake, measured at magnitude 7.4, has struck Colombia, killing at least 73 people. Cities including Cali, Pereira and Manizales were among the hardest-hit."
-   },
-   {
-    "title": "Photos: 7.4-magnitude earthquake rocks western Colombia",
-    "url": "https://www.aljazeera.com/gallery/2026/8/10/photos-7-4-magnitude-earthquake-rocks-western-colombia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A powerful earthquake kills more than 69 people and topples buildings across western Colombia."
-   }
-  ]
- },
- {
-  "id": "650c221e9466",
-  "headline": "The Guardian view on Meta’s smart glasses: regulators must get on the front foot | Editorial",
-  "section": "business",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T18:33:56+00:00",
-  "items": [
-   {
-    "title": "The Guardian view on Meta’s smart glasses: regulators must get on the front foot | Editorial",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/10/the-guardian-view-on-metas-smart-glasses-regulators-must-get-on-the-front-foot",
-    "source": "Guardian Business",
-    "summary": "Privacy needs defending against invasive wearable gadgets. So far, businesses are ahead of the government It is not yet clear to what extent Meta’s new smart glasses will live up to the nickname of “pervert glasses” – bestowed in recognition of the obvious appeal of wearable cameras to voyeurs. The past week has seen rising criticism of the devices, which in the UK have been banned by the pub chai"
-   },
-   {
-    "title": "The Guardian view on India’s green growth gamble: it will need more than private finance | Editorial",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/09/the-guardian-view-on-indias-green-growth-gamble-it-will-need-more-than-private-finance",
-    "source": "Guardian Business",
-    "summary": "The world’s most populous country needs state-generated demand to industrialise, decarbonise and avoid China’s overcapacity trap India is attempting to do something the world has never seen before. So claimed Niti Aayog, the government of India’s policy thinktank, earlier this year. It said that no major economy has tried to expand GDP nearly eightfold within a generation while simultaneously redi"
    }
   ]
  },
@@ -4056,19 +4040,24 @@
   ]
  },
  {
-  "id": "620031e9c449",
-  "headline": "Spinal Deformities in Saber-Toothed Cat Fossils Reveal How the Now-Extinct Felines May Have Spent Their Final Days",
+  "id": "59fff9d4d7dc",
+  "headline": "An Aerospace Startup Just Got Approval to Test Beaming Sunlight to Earth. Here's Why Experts Are Worried—and Petitioning",
   "section": "culture",
-  "score": 39,
+  "score": 40,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-10T18:33:56+00:00",
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T17:38:44+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "Spinal Deformities in Saber-Toothed Cat Fossils Reveal How the Now-Extinct Felines May Have Spent Their Final Days",
-    "url": "https://www.smithsonianmag.com/smart-news/spinal-deformities-in-saber-toothed-cat-fossils-reveal-how-the-now-extinct-felines-may-have-spent-their-final-days-180989237/",
+    "title": "An Aerospace Startup Just Got Approval to Test Beaming Sunlight to Earth. Here's Why Experts Are Worried—and Petitioning",
+    "url": "https://www.smithsonianmag.com/smart-news/an-aerospace-startup-just-got-approval-to-test-beaming-sunlight-to-earth-heres-why-experts-are-worried-and-petitioning-180989323/",
     "source": "Smithsonian Mag",
-    "summary": "Researchers studied saber-toothed cat vertebrae found in the La Brea Tar Pits in Los Angeles. They identified a surprisingly high number of deformations, including signs of spinal nerve tumors, hinting at a dwindling population suffering the consequences of inbreeding"
+    "summary": "By 2035, Reflect Orbital aims to launch up to 50,000 satellites equipped with mirrors to provide sunlight to Earth-based solar panels. Critics are concerned about impacts on wildlife, astronomy research and human health",
+    "published_at": "2026-08-13T17:38:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    }
   ]
  },
@@ -4445,29 +4434,6 @@
     "published_at": "2026-08-13T14:26:39+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T15:35:40+00:00"
-   }
-  ]
- },
- {
-  "id": "adfd46840920",
-  "headline": "YouTube is making it harder to earn money on YouTube",
-  "section": "tech",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T18:33:56+00:00",
-  "items": [
-   {
-    "title": "YouTube is making it harder to earn money on YouTube",
-    "url": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
-    "source": "The Verge",
-    "summary": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days. That's a sizeable jump from YouTube's current requirement of 1,000 subscribers with [&#8230;]"
-   },
-   {
-    "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
-    "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
-    "source": "TechCrunch",
-    "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days."
    }
   ]
  },
@@ -4981,6 +4947,37 @@
     "published_at": "2026-08-13T04:00:49+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T15:35:40+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1937c462379d",
+  "headline": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+  "section": "tech",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T16:37:53+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+    "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+    "source": "TechCrunch",
+    "summary": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+    "published_at": "2026-08-13T16:37:53+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+    "url": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+    "source": "The Verge",
+    "summary": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers […]",
+    "published_at": "2026-08-13T16:23:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    }
   ]
  },
@@ -5719,6 +5716,90 @@
   ]
  },
  {
+  "id": "9f3f44e2b729",
+  "headline": "Suno is trying to look more like a real music production tool",
+  "section": "tech",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T16:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Suno is trying to look more like a real music production tool",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "source": "The Verge",
+    "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, […]",
+    "published_at": "2026-08-13T16:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Suno is trying to look more like a real music production tool",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "source": "The Verge AI",
+    "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, […]",
+    "published_at": "2026-08-13T16:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0396dc33a707",
+  "headline": "Scientists turn sheep’s wool into a material that helps regrow bone",
+  "section": "science",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-12T11:17:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+    "source": "ScienceDaily",
+    "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
+    "published_at": "2026-08-12T11:17:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The discovery could turn an abundant agricultural byproduct into a promising new material for regenerative medicine.",
+    "published_at": "2026-08-12T11:17:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "375f03b4b299",
+  "headline": "Traumatic brain injury in Pakistan linked to poor long-term survival",
+  "section": "health",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 8,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T18:20:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Traumatic brain injury in Pakistan linked to poor long-term survival",
+    "url": "https://medicalxpress.com/news/2026-08-traumatic-brain-injury-pakistan-linked.html",
+    "source": "Medical Xpress",
+    "summary": "Traumatic brain injury (TBI) in Pakistan is associated with a high risk of death and disability long after the initial injury, even in mild to moderate cases, according to two new studies in JAMA Network Open led by Weill Cornell Medicine researchers. While most TBIs occur in low- and middle-income countries because of road traffic accidents, long-term patient outcomes remain poorly understood.",
+    "published_at": "2026-08-13T18:20:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
   "id": "b7995d0a4e6f",
   "headline": "The web’s newest weapon against AI scrapers is a font",
   "section": "tech",
@@ -5993,6 +6074,116 @@
     "published_at": "2026-08-13T14:00:10+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T15:35:40+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b08f6d0a8025",
+  "headline": "Carriages toppled as passenger train derails near Lewes in East Sussex",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T18:06:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Carriages toppled as passenger train derails near Lewes in East Sussex",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/13/train-derailment-east-sussex-closes-several-routes-lewes",
+    "source": "The Guardian World",
+    "summary": "Major disruption to services in the area but no deaths or serious injuries reported after train comes off tracks A passenger train has derailed between Haywards Heath and Lewes in East Sussex, prompting a rapid emergency response in the area. Images of the aftermath appeared to show passengers standing on top of the toppled carriages while others could be seen in an area of heathland alongside eme",
+    "published_at": "2026-08-13T18:06:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d13784c172b1",
+  "headline": "Colombia rescuers cling to hope as quake survival window closes",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 8,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T16:50:05+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Colombia rescuers cling to hope as quake survival window closes",
+    "url": "https://www.france24.com/en/video/20260813-colombia-rescuers-cling-to-hope-as-quake-survival-window-closes",
+    "source": "France 24",
+    "summary": "Rescuers in Colombia made a last-ditch effort to locate earthquake survivors early Thursday, as the critical 72-hour window for finding people alive drew to a close. Our journalist Rosa Perez gives us the lastest information.",
+    "published_at": "2026-08-13T16:50:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8d70a2ee713e",
+  "headline": "Stocks making the biggest moves midday: Netflix, Super Micro Computer, Sandisk, StubHub & more",
+  "section": "business",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T17:00:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Stocks making the biggest moves midday: Netflix, Super Micro Computer, Sandisk, StubHub & more",
+    "url": "https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-midday-nflx-smci-sndk-stub.html",
+    "source": "CNBC Top",
+    "summary": "Here are some of the companies making headlines in midday trading.",
+    "published_at": "2026-08-13T17:00:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a1f760d0c12d",
+  "headline": "‘It was fun to get pushed around’: Andrew Rannells on ‘razzle dazzle’, kissing co-stars and being a better friend to Lena Dunham",
+  "section": "culture",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T15:00:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘It was fun to get pushed around’: Andrew Rannells on ‘razzle dazzle’, kissing co-stars and being a better friend to Lena Dunham",
+    "url": "https://www.theguardian.com/film/2026/aug/13/andrew-rannells-interview-girls-lena-dunham-miss-you-love-you",
+    "source": "Guardian Culture",
+    "summary": "The star of Girls and The Book of Mormon talks about coming out, turning a showmance into a romance, and going toe to toe with the West Wing’s Allison Janney in new film Miss You Love You Imagine a cute, young, gay Jim Carrey with a withering line in put-downs: that is Andrew Rannells. Or rather, it was, back when he starred in Lena Dunham’s HBO series Girls as Elijah, the formerly closeted ex of ",
+    "published_at": "2026-08-13T15:00:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "db3eb36cd047",
+  "headline": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-06T11:04:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
+    "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
+    "source": "Schneier on Security",
+    "summary": "There are many companies manufacturing adversarial clothing designed to confuse facial recognition systems. It’s a cool idea, but I worry that it’s mostly security theater: “Our patterns play with that chaos, confuse algorithms and make it way harder to pin you down,” he said. Bell, however, said “none of these products are tried and tested, and a lot of these surveillance technologies can deal wi",
+    "published_at": "2026-08-06T11:04:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    }
   ]
  },
@@ -6385,6 +6576,68 @@
     "published_at": "2026-08-12T17:39:27+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T15:35:40+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3daf1a81026a",
+  "headline": "Banco do Brasil Q2 2026 slides: profit rises QoQ amid credit woes",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T18:19:23+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Banco do Brasil Q2 2026 slides: profit rises QoQ amid credit woes",
+    "url": "https://www.investing.com/news/company-news/banco-do-brasil-q2-2026-slides-profit-rises-qoq-amid-credit-woes-93CH-4858954",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T18:19:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "Earnings call transcript: Banco do Brasil misses Q2 2026 profit view as revenue beats",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-banco-do-brasil-misses-q2-2026-profit-view-as-revenue-beats-93CH-4858948",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T18:08:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "10836071bb56",
+  "headline": "I looked inside an AI generated movie, and the best parts were all human",
+  "section": "tech",
+  "score": 34,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T15:30:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "I looked inside an AI generated movie, and the best parts were all human",
+    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "source": "The Verge",
+    "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to […]",
+    "published_at": "2026-08-13T15:30:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   },
+   {
+    "title": "I looked inside an AI generated movie, and the best parts were all human",
+    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "source": "The Verge AI",
+    "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to […]",
+    "published_at": "2026-08-13T15:30:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
    }
   ]
  },
@@ -7256,6 +7509,94 @@
   ]
  },
  {
+  "id": "7c7a50dd6aa5",
+  "headline": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T16:40:26+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+    "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+    "source": "NPR News",
+    "summary": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories.",
+    "published_at": "2026-08-13T16:40:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b23bb05919a6",
+  "headline": "Andy Burnham’s great British rip-off list just got even longer | Letters",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T16:39:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Andy Burnham’s great British rip-off list just got even longer | Letters",
+    "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
+    "source": "Guardian Business",
+    "summary": "Readers respond to the prime minister’s promise to end unexpected payments and hidden catches for consumers Misleading discounts and obstructive cancellation procedures certainly deserve regulation. But presenting this as a significant response to the cost of living crisis feels like rearranging the cushions while the sofa is on fire ( Subscriptions you can’t easily cancel, sales that aren’t sales",
+    "published_at": "2026-08-13T16:39:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c1c988556190",
+  "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-08-13T17:16:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "Hugging Face",
+    "summary": "",
+    "published_at": "2026-08-13T17:16:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7be125b55e04",
+  "headline": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T18:34:47+00:00",
+  "event_time": "2026-06-19T10:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
+    "url": "https://spectrum.ieee.org/amazon-astro-robot-sound",
+    "source": "IEEE Spectrum Robotics",
+    "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot . Astro used cameras and other sensors to map and navigate your home and workplace , and could proactively patrol, check up on loved ones, and transport small items using its built-in cargo bin. While there was a well-defined feature set and form factor, initially there was no character direction. ",
+    "published_at": "2026-06-19T10:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T18:34:44+00:00"
+   }
+  ]
+ },
+ {
   "id": "7e1e50a8aa6b",
   "headline": "Brazil orders Discord to halt livestreaming after teen death",
   "section": "world",
@@ -7635,257 +7976,6 @@
     "published_at": "2026-08-13T07:45:00+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "88f72f6716db",
-  "headline": "Biomarkers of nivolumab benefit in resectable non-small cell lung cancer",
-  "section": "science",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T09:40:48+00:00",
-  "event_time": "2026-08-12T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Biomarkers of nivolumab benefit in resectable non-small cell lung cancer",
-    "url": "https://www.nature.com/articles/s41586-026-10925-6",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10925-6 Potential predictive biomarkers of perioperative nivolumab therapy benefit in non-small cell lung cancer are identified from evaluable participants in the CheckMate 77T trial.",
-    "published_at": "2026-08-12T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "f305e7edc486",
-  "headline": "This week’s soccer questions: is this the Premier League wide open and should Barça avoid Rodri?",
-  "section": "sport",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T09:40:48+00:00",
-  "event_time": "2026-08-13T09:00:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "This week’s soccer questions: is this the Premier League wide open and should Barça avoid Rodri?",
-    "url": "https://www.theguardian.com/football/2026/aug/13/this-weeks-soccer-questions-is-this-the-premier-league-wide-open-and-should-barca-avoid-rodri",
-    "source": "Guardian Sport",
-    "summary": "We look at the many contenders for the English title this season, one of the big potential moves of the summer and chaos at Fifa It’s difficult to recall a Premier League season starting amid such widespread uncertainty as this one. Half the division, including Chelsea, Liverpool and Manchester City, is under new management. The Pep Guardiola era is over and, as Jonathan Wilson put it , the Premie",
-    "published_at": "2026-08-13T09:00:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "be3cd0f3a402",
-  "headline": "‘Boxing is in the blood’: Sherlock Holmes, Arthur Conan Doyle and the prize ring",
-  "section": "sport",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T09:40:48+00:00",
-  "event_time": "2026-08-13T09:00:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘Boxing is in the blood’: Sherlock Holmes, Arthur Conan Doyle and the prize ring",
-    "url": "https://www.theguardian.com/sport/2026/aug/13/sherlock-holmes-arthur-conan-doyle-boxing-history",
-    "source": "Guardian Sport",
-    "summary": "The author of a new novel about the famed detective explores a little-known facet of Holmes’s creator What do Sherlock Holmes and Arthur Conan Doyle have to do with boxing? More than you may think. Doyle, who created Holmes, was a boxing enthusiast who boxed a bit and wrote extensively about the sport. Doyle stood 6ft tall and weighed in the neighborhood of 200lb. He began sparring while a medical",
-    "published_at": "2026-08-13T09:00:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "427bfd1aa7fc",
-  "headline": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-  "section": "ai",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T09:40:48+00:00",
-  "event_time": "2026-07-28T09:18:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "source": "MIT TR — AI",
-    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on…",
-    "published_at": "2026-07-28T09:18:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "90aa6941207b",
-  "headline": "Robot Recycler Salvages Parts From Broken Machines",
-  "section": "ai",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T09:40:48+00:00",
-  "event_time": "2026-08-10T18:01:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Robot Recycler Salvages Parts From Broken Machines",
-    "url": "https://spectrum.ieee.org/recycling-robot",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Objects constructed by robots are ubiquitous. If you’ve used a car, household appliance, or smartphone today, you’ve used an object constructed at least in part by robots. The more products that manufacturers want to produce (and consumers want to consume) at lower costs, the more industrial robots will be needed. There are over 4 million industrial robots in use worldwide, according to the Intern",
-    "published_at": "2026-08-10T18:01:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "3f705e5bcc54",
-  "headline": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
-  "section": "ai",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T09:40:48+00:00",
-  "event_time": "2026-06-09T12:00:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
-    "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-assisted landing on the surface of Mars. It did, and it was awesome . Since then, Curiosity (also known as Mars Science Laboratory) has traveled nearly 37 kilometers , drilled into and sampled 42 diffe",
-    "published_at": "2026-06-09T12:00:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "233cd5c0a51d",
-  "headline": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T12:33:17+00:00",
-  "event_time": "2026-08-13T11:31:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-    "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
-    "source": "NPR News",
-    "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
-    "published_at": "2026-08-13T11:31:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T12:33:13+00:00"
-   }
-  ]
- },
- {
-  "id": "58b8d7e4de94",
-  "headline": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-13T12:33:17+00:00",
-  "event_time": "2026-08-13T09:58:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-    "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
-    "source": "NPR News",
-    "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank.",
-    "published_at": "2026-08-13T09:58:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T12:33:13+00:00"
-   }
-  ]
- },
- {
-  "id": "fcd8c105ffbd",
-  "headline": "Water bills set to rise for many after firms permitted extra funding",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T12:33:17+00:00",
-  "event_time": "2026-08-13T12:07:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Water bills set to rise for many after firms permitted extra funding",
-    "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
-    "published_at": "2026-08-13T12:07:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T12:33:13+00:00"
-   }
-  ]
- },
- {
-  "id": "77864429b26c",
-  "headline": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-13T12:33:17+00:00",
-  "event_time": "2026-08-12T22:53:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
-    "url": "https://www.cnbc.com/2026/08/12/novo-nordisk-ceo-defends-lawsuit-against-eli-lilly.html",
-    "source": "CNBC Top",
-    "summary": "Novo Nordisk CEO defended the company's decision to sue rival Eli Lilly over its weight-loss drug advertising.",
-    "published_at": "2026-08-12T22:53:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T12:33:13+00:00"
-   }
-  ]
- },
- {
-  "id": "d06d908b89c5",
-  "headline": "Eclipse warning: The key signs you may have damaged your eyes",
-  "section": "science",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-13T12:33:17+00:00",
-  "event_time": "2026-08-13T11:57:28+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Eclipse warning: The key signs you may have damaged your eyes",
-    "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
-    "published_at": "2026-08-13T11:57:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T12:33:13+00:00"
-   },
-   {
-    "title": "Eclipse warning: The key signs you may have damaged your eyes",
-    "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
-    "published_at": "2026-08-13T11:57:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  }
