@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "slug": "home-fire-escape-ready",
+  "date": "2026-08-13",
+  "category": "preparedness",
+  "mode": "assessment",
+  "estimated_minutes": 4,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Could everyone in your home get out safely during a fire?",
+      "cs": "Dokázali by se všichni z vašeho domova bezpečně dostat při požáru ven?"
+    },
+    "dek": {
+      "en": "A calm ten-question check of alarms, escape routes and the plan your household can actually follow.",
+      "cs": "Klidná kontrola deseti oblastí: hlásiče, únikové cesty a plán, který vaše domácnost skutečně dokáže použít."
+    },
+    "intro": {
+      "en": "Answer for your home as it is today. This is not a test of courage or firefighting skill; it checks whether warning, routes and simple habits are already in place.",
+      "cs": "Odpovídejte podle dnešního skutečného stavu. Nejde o test odvahy ani hašení; ověřuje, zda máte připravené varování, cesty ven a jednoduché návyky."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check based on public fire-safety guidance, not an official inspection or certification. Building rules, alarm requirements and emergency numbers differ by country and home. Follow your local fire service, building management and alarm manufacturer; during a fire, leave, stay outside and call your local emergency service.",
+      "cs": "Jde o původní vzdělávací sebehodnocení založené na veřejných doporučeních požární bezpečnosti, nikoli o úřední kontrolu nebo certifikaci. Stavební pravidla, požadavky na hlásiče i tísňová čísla se liší podle země a domu. Řiďte se místními hasiči, správou budovy a výrobcem hlásiče; při požáru odejděte, zůstaňte venku a volejte místní tísňovou linku."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "early-warning",
+      "label": {"en": "Early warning", "cs": "Včasné varování"},
+      "why": {"en": "Working, correctly placed alarms can warn sleepers before smoke blocks an escape.", "cs": "Funkční a správně umístěné hlásiče mohou varovat spící dříve, než kouř zablokuje únik."},
+      "action": {"en": "Test every alarm using its test button and check the manufacture date and instructions. Ask your local fire service or landlord about any gap.", "cs": "Vyzkoušejte každý hlásič testovacím tlačítkem a zkontrolujte datum výroby i návod. Na případnou mezeru se zeptejte místních hasičů nebo pronajímatele."}
+    },
+    {
+      "id": "ways-out",
+      "label": {"en": "Ways out", "cs": "Cesty ven"},
+      "why": {"en": "A route that exists on paper is useful only if doors, windows or stairs can be used immediately.", "cs": "Cesta existující na papíře pomůže jen tehdy, když lze dveře, okna nebo schody okamžitě použít."},
+      "action": {"en": "Walk through the home and identify two ways out of each room where possible. Clear one blocked route without creating a new hazard.", "cs": "Projděte domov a podle možností určete dvě cesty z každé místnosti. Uvolněte jednu zablokovanou cestu, aniž vytvoříte nové riziko."}
+    },
+    {
+      "id": "shared-plan",
+      "label": {"en": "Shared plan", "cs": "Společný plán"},
+      "why": {"en": "People make faster decisions when everyone knows the meeting place, the building-specific route and that nobody goes back inside.", "cs": "Lidé se rozhodují rychleji, když všichni znají místo setkání, cestu odpovídající budově a vědí, že se nikdo nevrací dovnitř."},
+      "action": {"en": "Draw a simple plan, choose one outside meeting place and adapt it with your local fire service or building guidance.", "cs": "Nakreslete jednoduchý plán, vyberte jedno místo setkání venku a přizpůsobte jej doporučením místních hasičů nebo správce budovy."}
+    },
+    {
+      "id": "practice-people",
+      "label": {"en": "Practice and people", "cs": "Nácvik a lidé"},
+      "why": {"en": "A drill reveals whether everyone can hear the alarm, use the route and get help without improvising under stress.", "cs": "Nácvik ukáže, zda všichni slyší nebo vnímají alarm, zvládnou cestu a dostanou pomoc bez improvizace ve stresu."},
+      "action": {"en": "Practise once when everyone is calm. Include children, older adults, disabilities and pets without asking anyone to attempt an unsafe route.", "cs": "Vyzkoušejte plán jednou v klidu. Zahrňte děti, starší lidi, zdravotní omezení i zvířata, ale nikoho nenuťte zkoušet nebezpečnou cestu."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "alarm-coverage",
+      "dimension": "early-warning",
+      "text": {"en": "How well are sleeping areas covered by smoke alarms?", "cs": "Jak dobře jsou prostory pro spaní pokryty kouřovými hlásiči?"},
+      "options": [
+        {"label": {"en": "We do not know, or important sleeping areas have no alarm nearby", "cs": "Nevíme to nebo u důležitých míst pro spaní hlásič chybí"}, "score": 0},
+        {"label": {"en": "There are alarms, but placement has not been checked against local guidance", "cs": "Hlásiče máme, ale umístění jsme neověřili podle místních doporučení"}, "score": 1},
+        {"label": {"en": "Alarms are inside and outside sleeping areas and on every level, as locally required", "cs": "Hlásiče jsou uvnitř i před prostory pro spaní a na každém podlaží podle místních pravidel"}, "score": 2}
+      ]
+    },
+    {
+      "id": "alarm-test",
+      "dimension": "early-warning",
+      "text": {"en": "When were all smoke alarms last tested with their test buttons?", "cs": "Kdy byly všechny kouřové hlásiče naposledy vyzkoušeny testovacím tlačítkem?"},
+      "options": [
+        {"label": {"en": "We do not know, or at least one does not work", "cs": "Nevíme nebo alespoň jeden nefunguje"}, "score": 0},
+        {"label": {"en": "Some were tested, but not all within the past month", "cs": "Některé jsme zkoušeli, ale ne všechny během posledního měsíce"}, "score": 1},
+        {"label": {"en": "Every alarm was tested within the past month", "cs": "Každý hlásič jsme vyzkoušeli během posledního měsíce"}, "score": 2}
+      ]
+    },
+    {
+      "id": "alarm-age",
+      "dimension": "early-warning",
+      "text": {"en": "Do you know the age and replacement instructions for each alarm?", "cs": "Znáte stáří a pokyny k výměně každého hlásiče?"},
+      "options": [
+        {"label": {"en": "No—the dates are unknown", "cs": "Ne — data neznáme"}, "score": 0},
+        {"label": {"en": "We know some dates but have not checked every alarm", "cs": "Některá data známe, ale neověřili jsme každý hlásič"}, "score": 1},
+        {"label": {"en": "Yes—dates and manufacturer instructions are checked and current", "cs": "Ano — data i pokyny výrobce jsou zkontrolované a aktuální"}, "score": 2}
+      ]
+    },
+    {
+      "id": "two-routes",
+      "dimension": "ways-out",
+      "text": {"en": "Could household members identify two ways out of each room where the building allows it?", "cs": "Dokážou členové domácnosti určit dvě cesty z každé místnosti tam, kde to budova umožňuje?"},
+      "options": [
+        {"label": {"en": "No—we have never mapped the routes", "cs": "Ne — cesty jsme nikdy neurčili"}, "score": 0},
+        {"label": {"en": "The main route is known, but alternatives are unclear", "cs": "Hlavní cestu známe, ale náhradní jsou nejasné"}, "score": 1},
+        {"label": {"en": "Yes—the available primary and alternative routes are known", "cs": "Ano — dostupné hlavní i náhradní cesty známe"}, "score": 2}
+      ]
+    },
+    {
+      "id": "routes-clear",
+      "dimension": "ways-out",
+      "text": {"en": "Are doors, windows and corridors used in the plan immediately usable?", "cs": "Jsou dveře, okna a chodby v plánu okamžitě použitelné?"},
+      "options": [
+        {"label": {"en": "At least one planned route is blocked, locked without quick access or unknown", "cs": "Alespoň jedna plánovaná cesta je zablokovaná, bez rychlého odemčení nebo neznámá"}, "score": 0},
+        {"label": {"en": "Routes look clear, but we have not physically checked them", "cs": "Cesty vypadají volně, ale fyzicky jsme je neověřili"}, "score": 1},
+        {"label": {"en": "We have checked that the planned routes open and remain clear", "cs": "Ověřili jsme, že plánované cesty lze otevřít a zůstávají volné"}, "score": 2}
+      ]
+    },
+    {
+      "id": "building-route",
+      "dimension": "ways-out",
+      "text": {"en": "Does your plan match your building, including stairs and official high-rise instructions where relevant?", "cs": "Odpovídá plán vaší budově včetně schodů a případných pokynů pro výškové domy?"},
+      "options": [
+        {"label": {"en": "No—we would decide during the emergency", "cs": "Ne — rozhodovali bychom se až při události"}, "score": 0},
+        {"label": {"en": "We know the likely route but have not checked official building guidance", "cs": "Pravděpodobnou cestu známe, ale neověřili jsme pokyny budovy"}, "score": 1},
+        {"label": {"en": "Yes—the plan follows current local and building guidance", "cs": "Ano — plán odpovídá aktuálním místním pokynům a pravidlům budovy"}, "score": 2}
+      ]
+    },
+    {
+      "id": "meeting-place",
+      "dimension": "shared-plan",
+      "text": {"en": "Does everyone know one specific meeting place outside and away from the home?", "cs": "Zná každý jedno konkrétní místo setkání venku a v bezpečné vzdálenosti od domova?"},
+      "options": [
+        {"label": {"en": "No meeting place has been chosen", "cs": "Žádné místo jsme nevybrali"}, "score": 0},
+        {"label": {"en": "A place has been discussed, but not everyone knows it", "cs": "O místě jsme mluvili, ale neznají ho všichni"}, "score": 1},
+        {"label": {"en": "Yes—everyone can identify the same safe place", "cs": "Ano — všichni dokážou určit stejné bezpečné místo"}, "score": 2}
+      ]
+    },
+    {
+      "id": "stay-out-call",
+      "dimension": "shared-plan",
+      "text": {"en": "What does the household plan say after someone reaches the outside?", "cs": "Co říká plán domácnosti pro chvíli, kdy se někdo dostane ven?"},
+      "options": [
+        {"label": {"en": "It has not been discussed", "cs": "Nemluvili jsme o tom"}, "score": 0},
+        {"label": {"en": "People know to call for help, but returning inside is unclear", "cs": "Lidé vědí, že mají volat pomoc, ale návrat dovnitř je nejasný"}, "score": 1},
+        {"label": {"en": "Go to the meeting place, stay outside and call the local emergency service", "cs": "Jít na místo setkání, zůstat venku a volat místní tísňovou linku"}, "score": 2}
+      ]
+    },
+    {
+      "id": "everyone-alerted",
+      "dimension": "practice-people",
+      "text": {"en": "Can every household member notice the alarm and act on the plan, including anyone with hearing, mobility or other needs?", "cs": "Dokáže každý člen domácnosti zaznamenat alarm a postupovat podle plánu včetně lidí se sluchovým, pohybovým či jiným omezením?"},
+      "options": [
+        {"label": {"en": "We have not checked", "cs": "Neověřili jsme to"}, "score": 0},
+        {"label": {"en": "Most people can, but one need or responsibility is unresolved", "cs": "Většina ano, ale jedna potřeba nebo odpovědnost není vyřešena"}, "score": 1},
+        {"label": {"en": "Yes—the warning and assistance plan fits everyone who lives there", "cs": "Ano — varování i pomoc odpovídají všem, kdo tam žijí"}, "score": 2}
+      ]
+    },
+    {
+      "id": "full-drill",
+      "dimension": "practice-people",
+      "text": {"en": "When did the whole household last practise reaching the outside meeting place?", "cs": "Kdy celá domácnost naposledy nacvičila cestu k venkovnímu místu setkání?"},
+      "options": [
+        {"label": {"en": "Never, or nobody remembers", "cs": "Nikdy nebo si nikdo nevzpomíná"}, "score": 0},
+        {"label": {"en": "We discussed it or only part of the household practised", "cs": "Mluvili jsme o tom nebo nacvičovala jen část domácnosti"}, "score": 1},
+        {"label": {"en": "Everyone practised within the past six months and fixed any obvious gap", "cs": "Všichni nacvičovali během posledních šesti měsíců a opravili zjevnou mezeru"}, "score": 2}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 6,
+      "title": {"en": "Begin with warning and one route", "cs": "Začněte varováním a jednou cestou"},
+      "summary": {"en": "Your plan currently relies on improvisation. Today, test the alarms without disabling them, identify one usable route and ask your local fire service or landlord how to close the most serious gap.", "cs": "Váš plán nyní spoléhá na improvizaci. Dnes vyzkoušejte hlásiče, aniž je vyřadíte, určete jednu použitelnou cestu a zeptejte se místních hasičů nebo pronajímatele, jak uzavřít nejvážnější mezeru."}
+    },
+    {
+      "min": 7,
+      "max": 12,
+      "title": {"en": "Useful pieces, not yet one plan", "cs": "Užitečné části, ale ještě ne jeden plán"},
+      "summary": {"en": "You have some protection, but a missing link could slow the household. Work on the lowest-scoring dimension before buying extra equipment you may not need.", "cs": "Určitou ochranu máte, ale chybějící článek může domácnost zpomalit. Nejdříve zlepšete nejslabší oblast, než koupíte další vybavení, které možná nepotřebujete."}
+    },
+    {
+      "min": 13,
+      "max": 16,
+      "title": {"en": "A credible plan that needs testing", "cs": "Věrohodný plán, který potřebuje zkoušku"},
+      "summary": {"en": "Most foundations are in place. The next useful step is a calm household drill that checks the alarm, real routes, meeting place and anyone who needs assistance.", "cs": "Většinu základů máte. Dalším užitečným krokem je klidný nácvik domácnosti, který prověří alarm, skutečné cesty, místo setkání a každého, kdo potřebuje pomoc."}
+    },
+    {
+      "min": 17,
+      "max": 20,
+      "title": {"en": "Ready to leave without improvising", "cs": "Připraveni odejít bez improvizace"},
+      "summary": {"en": "Your household has a strong practical base. Keep it real by testing alarms monthly, reviewing manufacturer and local guidance, and practising the plan twice a year or whenever the household changes.", "cs": "Vaše domácnost má silný praktický základ. Udržujte jej měsíčním testem hlásičů, kontrolou návodů a místních pokynů a nácvikem dvakrát ročně nebo při změně domácnosti."}
+    }
+  ],
+  "sources": [
+    {
+      "name": "U.S. Fire Administration — Smoke Alarms",
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/index.html",
+      "published": "2023-05-09",
+      "type": "primary"
+    },
+    {
+      "name": "U.S. Fire Administration — Home Fire Escape Plans",
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/home-fire-escape-plans/index.html",
+      "published": "2025-04-10",
+      "type": "primary"
+    },
+    {
+      "name": "American Red Cross — Home Fire Prevention and Safety Tips",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+      "published": "",
+      "type": "primary"
+    }
+  ]
+}
