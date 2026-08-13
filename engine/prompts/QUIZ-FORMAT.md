@@ -1,5 +1,9 @@
 # DAILY QUIZ CONTRACT — CHATGPT WORK, NO PAID API
 
+Read `engine/prompts/VOICE.md` in full. The quiz should feel like an
+intelligent, friendly conversation with an experienced editor—not an entrance
+exam, diagnosis, marketing funnel or machine-generated form.
+
 Create exactly one new bilingual daily quiz for My Paper. Read this file,
 `data/quiz-plan.json`, every file in `data/quizzes/` from the previous 30 days
 and the current site before choosing a subject. Use web research and open every

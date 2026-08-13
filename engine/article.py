@@ -14,7 +14,8 @@ from . import config
 # Delší výklad je v engine/prompts/FORMAT.md, tohle je závazný seznam:
 #
 #   slug, title, dek, section, type, depth, lang, date, status,
-#   confidence, load, topics, event_id, series, image_query, sources
+#   confidence, load, topics, event_id, series, image_query, sources,
+#   format, generator, automation_generated, automation_role, edition_slot
 #
 #   access   public (výchozí) | early | members
 #            Kdy si text může přečíst kdokoli. `early` znamená, že

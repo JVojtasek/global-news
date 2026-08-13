@@ -28,7 +28,7 @@
 {% if a.access_state == "early" %}<meta name="robots" content="noindex">{% endif %}
 {% endblock %}
 {% block body %}
-<article class="post" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-brief="{{ 1 if a.has_brief else 0 }}">
+<article class="post{% if a.format == 'roundtable' %} post-roundtable{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-brief="{{ 1 if a.has_brief else 0 }}">
   <div class="wrap">
     <div class="kicker">{{ a.section_label }}{% if a.series and a.series|lower != a.section|lower and a.series|lower != a.section_label|lower %} · {{ a.series }}{% endif %}</div>
     <h1>{{ a.title }}</h1>
@@ -41,6 +41,18 @@
       {% if a.confidence and a.type not in ['imported', 'syndicated'] %}<span class="badge" title="{{ t.confidence_help }}">{{ t.confidence }} {{ a.confidence }}/100</span>{% endif %}
       {% if a.access_state == "early" %}<span class="badge">{{ t.mem_early_badge }}</span>{% endif %}
     </div>
+    {% if a.format == "roundtable" %}
+    <aside class="roundtable-card" aria-label="{% if lang == 'cs' %}U redakčního stolu{% else %}The Newsroom Table{% endif %}">
+      <span class="roundtable-kicker">{% if lang == 'cs' %}U REDAKČNÍHO STOLU{% else %}THE NEWSROOM TABLE{% endif %}</span>
+      <strong>{% if lang == 'cs' %}Tři AI pohledy — moderátor a dva analytici{% else %}Three AI perspectives — a moderator and two analysts{% endif %}</strong>
+      <p>{% if lang == 'cs' %}Ověřená fakta, zkouška protiargumentem a lidské dopady — bez žargonu a bez předstírání skutečných novinářů.{% else %}Verified facts, a pressure-test and human consequences — without jargon or pretending these are human journalists.{% endif %}</p>
+      <div class="roundtable-roles" aria-label="{% if lang == 'cs' %}Redakční role{% else %}Editorial roles{% endif %}">
+        <span><b>KAI</b> · {% if lang == 'cs' %}moderátor{% else %}moderator{% endif %}</span>
+        <span><b>MIRA</b> · {% if lang == 'cs' %}důkazy{% else %}evidence{% endif %}</span>
+        <span><b>ORIN</b> · {% if lang == 'cs' %}rizika{% else %}risk{% endif %}</span>
+      </div>
+    </aside>
+    {% endif %}
     {% if wider_lens.enabled and a.is_wider_lens %}
     <aside class="lens-article" aria-label="{{ wider_lens.name }}">
       <div class="lens-article-head">

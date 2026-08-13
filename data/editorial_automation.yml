@@ -45,3 +45,18 @@ reserve_slot:
   type: feature
   min_words: 1000
   max_words: 1600
+
+# Mimořádná redakce během dne. Každý běh smí vytvořit nejvýš jeden text
+# a jen tehdy, když se od poslední kontroly skutečně něco významného změnilo.
+# Časy patří naplánovaným úlohám ChatGPT Work / Claude Cowork; GitHub sám
+# žádný placený model nespouští.
+intraday:
+  enabled: true
+  format: roundtable
+  series: "The Newsroom Table"
+  windows: ["12:30", "17:30", "22:30"]
+  max_per_run: 1
+  max_per_day: 3
+  min_words: 900
+  max_words: 1400
+  min_sources: 4

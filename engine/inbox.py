@@ -128,6 +128,40 @@ def _edition_check(meta: dict, body: str) -> list[str]:
             problems.append("běžný článek nesmí obsadit automatický edition_slot 1–7")
         return problems
 
+    automation_role = str(meta.get("automation_role") or "edition").strip().lower()
+    if automation_role == "intraday":
+        cfg = (config.site().get("automation") or {}).get("intraday") or {}
+        if not cfg.get("enabled", False):
+            problems.append("intradenní automatická redakce není povolena")
+        if slot != 0:
+            problems.append("intradenní analýza musí mít edition_slot: 0")
+        if meta.get("type") != "analysis":
+            problems.append("intradenní text musí mít type: analysis")
+        if meta.get("status") != "draft":
+            problems.append("intradenní text musí přijít se status: draft")
+        if meta.get("format") != cfg.get("format", "roundtable"):
+            problems.append("intradenní text musí mít format: roundtable")
+        if not str(meta.get("event_id") or "").strip():
+            problems.append("intradenní text musí mít stabilní event_id")
+        if str(meta.get("generator") or "") not in {"chatgpt-work", "claude-cowork"}:
+            problems.append("intradenní text musí uvést generator: chatgpt-work nebo claude-cowork")
+        source_count = len(set(_source_urls(meta)))
+        min_source_count = int(cfg.get("min_sources") or 4)
+        if source_count < min_source_count:
+            problems.append(
+                f"intradenní text má {source_count} unikátních HTTPS zdrojů, "
+                f"minimum je {min_source_count}"
+            )
+        words = len(body.split())
+        low = int(cfg.get("min_words") or 900)
+        high = int(cfg.get("max_words") or 1400)
+        if not low <= words <= high:
+            problems.append(f"intradenní text má {words} slov, plán vyžaduje {low}–{high}")
+        return problems
+
+    if automation_role not in {"", "edition"}:
+        return [f"neznámá automatická role '{automation_role}'"]
+
     spec = _planned_slot(meta)
     if not spec or slot not in range(1, 8):
         return ["automatický článek nemá platný edition_slot 1–7 pro svůj den"]
@@ -206,7 +240,7 @@ def _rule_check(meta: dict, body: str) -> list[str]:
 
     # citlivá témata nikdy nevycházejí sama
     hit = NEEDS_HUMAN.search(body + " " + str(meta.get("title", "")))
-    if hit and meta.get("status") == "published":
+    if hit and meta.get("status") in {"draft", "published"}:
         meta["status"] = "review"
         meta.setdefault("review_reason", f"citlivé téma: {hit.group(0)}")
 
@@ -240,6 +274,8 @@ def run() -> int:
 
     existing = {p.name for lang in ("en",) for p in (config.CONTENT / lang).glob("*.md")}
     occupied_slots = set()
+    existing_intraday_counts = {}
+    existing_event_ids = set()
     for lang_dir in config.CONTENT.iterdir():
         if not lang_dir.is_dir() or lang_dir.name == "inbox":
             continue
@@ -251,8 +287,17 @@ def run() -> int:
                 existing_slot = 0
             if existing_slot > 0:
                 occupied_slots.add((existing_meta.get("date"), existing_meta.get("lang"), existing_slot))
+            if str(existing_meta.get("automation_role") or "").lower() == "intraday":
+                intraday_key = (existing_meta.get("date"), existing_meta.get("lang"))
+                existing_intraday_counts[intraday_key] = existing_intraday_counts.get(intraday_key, 0) + 1
+                if existing_meta.get("event_id"):
+                    existing_event_ids.add(
+                        (existing_meta.get("lang"), str(existing_meta.get("event_id")))
+                    )
 
     inbox_slot_counts = {}
+    inbox_intraday_counts = {}
+    inbox_event_counts = {}
     for inbox_path in files:
         inbox_meta, _ = article.parse(inbox_path.read_text(encoding="utf-8"))
         try:
@@ -262,6 +307,11 @@ def run() -> int:
         if inbox_slot > 0:
             key = (inbox_meta.get("date"), inbox_meta.get("lang"), inbox_slot)
             inbox_slot_counts[key] = inbox_slot_counts.get(key, 0) + 1
+        if str(inbox_meta.get("automation_role") or "").lower() == "intraday":
+            intraday_key = (inbox_meta.get("date"), inbox_meta.get("lang"))
+            inbox_intraday_counts[intraday_key] = inbox_intraday_counts.get(intraday_key, 0) + 1
+            event_key = (inbox_meta.get("lang"), str(inbox_meta.get("event_id") or ""))
+            inbox_event_counts[event_key] = inbox_event_counts.get(event_key, 0) + 1
     accepted = 0
 
     for p in files:
@@ -285,6 +335,22 @@ def run() -> int:
             problems.append(
                 f"edition_slot {slot} už je pro {meta.get('date')} a jazyk {meta.get('lang')} obsazen"
             )
+
+        if str(meta.get("automation_role") or "").lower() == "intraday":
+            intraday_cfg = (config.site().get("automation") or {}).get("intraday") or {}
+            intraday_key = (meta.get("date"), meta.get("lang"))
+            total_intraday = (
+                existing_intraday_counts.get(intraday_key, 0)
+                + inbox_intraday_counts.get(intraday_key, 0)
+            )
+            max_intraday = int(intraday_cfg.get("max_per_day") or 3)
+            if total_intraday > max_intraday:
+                problems.append(
+                    f"intradenní limit je {max_intraday} texty za den a jazyk"
+                )
+            event_key = (meta.get("lang"), str(meta.get("event_id") or ""))
+            if event_key in existing_event_ids or inbox_event_counts.get(event_key, 0) > 1:
+                problems.append("intradenní event_id už existuje; duplicitní komentář se nevydá")
 
         if target.name in existing:
             problems.append("článek se stejným názvem už existuje")

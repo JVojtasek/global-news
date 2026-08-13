@@ -117,6 +117,35 @@ article.post .dek{font-size:1.18rem;color:var(--ink-soft);margin-bottom:1.2rem}
   background:var(--accent-soft);color:var(--accent);border:1px solid var(--line)}
 .cover{border-radius:10px;margin-bottom:2rem}
 
+/* ---------- U redakčního stolu / The Newsroom Table ---------- */
+.roundtable-card{margin:-.65rem 0 1.8rem;padding:1.05rem 1.15rem;border:1px solid var(--line);
+  border-radius:12px;background:linear-gradient(135deg,var(--bg-soft),var(--card));
+  font-family:ui-sans-serif,system-ui,sans-serif}
+.roundtable-kicker{display:block;margin:0 0 .32rem;color:var(--accent);font-size:.66rem;
+  font-weight:750;letter-spacing:.14em}
+.roundtable-card > strong{display:block;font-family:Georgia,"Times New Roman",serif;
+  font-size:1.12rem;line-height:1.28;color:var(--ink)}
+.roundtable-card > p{margin:.42rem 0 .75rem;color:var(--ink-soft);font-size:.82rem;line-height:1.5}
+.roundtable-roles{display:flex;gap:.45rem;flex-wrap:wrap}
+.roundtable-roles span{padding:.28rem .55rem;border:1px solid var(--line);border-radius:99px;
+  background:var(--card);color:var(--ink-soft);font-size:.69rem;line-height:1.2}
+.roundtable-roles b{color:var(--ink);letter-spacing:.05em}
+.post-roundtable .layer-perspectives{padding:1.15rem;border:1px solid var(--line);
+  border-radius:12px;background:var(--bg-soft)}
+.post-roundtable .layer-perspectives > h2{margin-bottom:1rem}
+.post-roundtable .layer-perspectives h3{margin:1.25rem 0 .65rem;font-size:.83rem;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);
+  font-family:ui-sans-serif,system-ui,sans-serif}
+.post-roundtable .layer-perspectives blockquote{margin:.7rem 0;padding:.8rem .95rem;
+  border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;
+  background:var(--card);color:var(--ink);font-style:normal}
+.post-roundtable .layer-perspectives blockquote:nth-of-type(3n+2){border-left-color:#357261}
+.post-roundtable .layer-perspectives blockquote:nth-of-type(3n){border-left-color:#8b5a3c}
+.post-roundtable .layer-perspectives blockquote p:last-child{margin-bottom:0}
+@media (max-width:620px){
+  .roundtable-card{padding:.9rem}.post-roundtable .layer-perspectives{padding:.85rem}
+}
+
 .layer{margin:0 0 2.6rem}
 .layer > h2{font-size:.76rem;letter-spacing:.17em;text-transform:uppercase;
   font-family:ui-sans-serif,system-ui,sans-serif;color:var(--accent);

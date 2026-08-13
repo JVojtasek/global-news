@@ -21,6 +21,19 @@ menší škoda než jeden odbytý text.
 
 Delší verze: `engine/prompts/FORMAT.md`, oddíl 0.
 
+## Pravidlo číslo dvě — jakým hlasem píšeme
+
+Závazný hlas všech článků, analýz, kvízů, překladů i oprav je v
+`engine/prompts/VOICE.md`. Píšeme s úsudkem přemýšlivého, zkušeného
+redaktora kolem padesáti let: lidsky, konkrétně, s klidným humorem,
+psychologickým postřehem a respektem ke čtenáři. Není to povolení
+předstírat lidský životopis. Umělá inteligence si nikdy nevymýšlí
+osobní vzpomínku nebo zkušenost, kterou žádný skutečný autor nedodal.
+
+Přesnost není omluva pro nudu. Text, který je správný, ale zní jako
+školní referát, firemní tisková zpráva nebo výstup stroje, se vrací
+k přepsání.
+
 ## Co je tenhle web
 
 Obecný zpravodajský a magazínový web v angličtině s českou verzí.
@@ -42,6 +55,12 @@ Když se ta dvě rozcházejí, platí kodex a síto se opraví.
 - GitHub Actions — sběr zpráv, publikace, hlídač (zdarma, veřejný repo)
 - ranní směna Claude Code na Jardově počítači — píše původní články
 - vše ostatní je statický web na GitHub Pages, žádný server, žádné platby
+
+Přes den může vzniknout nejvýš trojice mimořádných komentovaných analýz
+podle `engine/prompts/INTRADAY-DESK.md`. Nevznikají kvůli kvótě: bez
+skutečně významné změny nevznikne nic. Formát „U redakčního stolu“
+používá transparentní AI role KAI, MIRA a ORIN a vždy odděluje fakta,
+výklad, riziko a to, co sledovat dál.
 
 ## Co si čtenář nastavuje sám
 

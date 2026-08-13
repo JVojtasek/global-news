@@ -25,6 +25,7 @@ def _prompt(name: str) -> str:
 
 
 FORMAT = _prompt("FORMAT.md")
+VOICE = _prompt("VOICE.md")
 
 
 def _fix_section(meta: dict, defaults: dict) -> dict:
@@ -38,7 +39,8 @@ def _fix_section(meta: dict, defaults: dict) -> dict:
 
 def _pipeline(system: str, task: str, defaults: dict, sensitive: bool) -> dict | None:
     config.log(f"  → píšu: {defaults.get('_label', '')}")
-    raw = ai.ask(system + "\n\n" + FORMAT, task, max_tokens=9000, temperature=0.6)
+    raw = ai.ask(system + "\n\n" + VOICE + "\n\n" + FORMAT,
+                 task, max_tokens=9000, temperature=0.6)
     meta, body = article.parse(raw)
     if not meta:
         config.log("  ! model nevrátil platnou hlavičku, přeskakuji")
@@ -59,7 +61,7 @@ def _pipeline(system: str, task: str, defaults: dict, sensitive: bool) -> dict |
         config.log(f"  → přepisuji ({len(blockers)} blokujících připomínek)")
         notes = json.dumps({"theology": g, "sceptic": s}, ensure_ascii=False)[:6000]
         raw2 = ai.ask(
-            _prompt("revise.md"),
+            _prompt("revise.md") + "\n\n" + VOICE,
             f"ČLÁNEK:\n{article.dump(meta, body)}\n\nPŘIPOMÍNKY:\n{notes}",
             max_tokens=9000,
             temperature=0.4,
@@ -113,7 +115,7 @@ def _is_sensitive(text: str) -> bool:
 def _deep_pipeline(task: str, defaults: dict, grounding: str) -> dict | None:
     """Delší postup pro článek dne: draft → fakta → teologie → skeptik → přepis."""
     config.log(f"  → článek dne: {defaults.get('_label', '')}")
-    raw = ai.ask(_prompt("deep_article.md") + "\n\n" + FORMAT,
+    raw = ai.ask(_prompt("deep_article.md") + "\n\n" + VOICE + "\n\n" + FORMAT,
                  task, max_tokens=12000, temperature=0.65)
     meta, body = article.parse(raw)
     if not meta:
@@ -138,7 +140,7 @@ def _deep_pipeline(task: str, defaults: dict, grounding: str) -> dict | None:
     if bad or g.get("verdict") in ("revise", "block") or sc.get("manipulation_score", 0) > 35:
         config.log(f"  → přepisuji ({len(bad)} faktických nálezů)")
         notes = json.dumps({"facts": fc, "theology": g, "sceptic": sc}, ensure_ascii=False)[:9000]
-        raw2 = ai.ask(_prompt("revise.md") +
+        raw2 = ai.ask(_prompt("revise.md") + "\n\n" + VOICE +
                       "\n\nFAKTICKÉ NÁLEZY MAJÍ PŘEDNOST PŘED VŠÍM OSTATNÍM. "
                       "Každé tvrzení označené unsupported, wrong nebo vague buď oprav "
                       "podle podkladů, nebo z textu úplně vyhoď. Nic si nedomýšlej.",
