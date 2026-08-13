@@ -70,7 +70,24 @@
     <https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says>
     > US ​President Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard Air Force One, an extraordinary ​move prompted by an Iranian assassination threat, the Washington Post reported Monday.
 
-### 3. Trump says White House press secretary Karoline Leavitt to leave post
+### 3. Kennedy Center board approves Trump name on facade, renovation plan
+- id události: `48a7d81e65e9`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Kennedy Center board approves Trump name on facade, renovation plan
+    <https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf>
+    > The move appears designed to circumvent a judge's ruling that the US president's name should be removed, potentially setting the stage for a new legal fight over the Kennedy Center's name and future.
+  - **NPR News** — Kennedy Center Board votes again to shut main building down — and add Trump's name back
+    <https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump>
+    > The board voted to close the Washington, D.C., arts complex's main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure.
+  - **CNBC Top** — Kennedy Center board votes to put Trump name on facade despite court order
+    <https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html>
+    > President Donald Trump's name was removed from the Washington, D.C., performing arts center in June as the result of a lawsuit by an Ohio congresswoman.
+  - **Al Jazeera** — Kennedy Center votes to restore Trump’s name to venue, close for two years
+    <https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss>
+    > Trustees condemn Kennedy Center’s move to re-add Trump’s name and shut down for extensive renovations.
+
+### 4. Trump says White House press secretary Karoline Leavitt to leave post
 - id události: `d4578d08ad87`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -86,20 +103,6 @@
   - **Al Jazeera** — Trump reveals Karoline Leavitt to step down as White House press secretary
     <https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss>
     > Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
-
-### 4. Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- id události: `1bf4b58ce158`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-    <https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates>
-    > Russian attacks on the Ukrainian city of Zaporizhzhia killed at least six people and injured 20, officials said Senior correspondent The UK’s new European relatons minister Hamish Falconer will talk with Ireland’s Europe minister today, a key step to refresh talks over Britain’s 
-  - **Al Jazeera** — Russian attacks kill six in Ukraine’s Zaporizhzhia
-    <https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss>
-    > A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.
-  - **CNBC Top** — Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment
-    <https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html>
-    > His comments come shortly after deadly Russian attacks on cities across Ukraine overnight.
 
 ---
 

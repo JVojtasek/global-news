@@ -401,6 +401,35 @@
    ]
   },
   {
+   "id": "48a7d81e65e9",
+   "title": "Kennedy Center board approves Trump name on facade, renovation plan",
+   "section": "world",
+   "entities": [
+    "trump",
+    "center",
+    "kennedy"
+   ],
+   "event_ids": [
+    "48a7d81e65e9"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "Kennedy Center board approves Trump name on facade, renovation plan",
+     "sources": 4,
+     "score": 69,
+     "event_id": "48a7d81e65e9",
+     "links": [
+      "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+      "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "94761ad38bf7",
    "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
    "section": "tech",
@@ -1031,5 +1060,5 @@
    ]
   }
  ],
- "updated": "2026-08-13T18:34:47+00:00"
+ "updated": "2026-08-13T21:30:46+00:00"
 }
