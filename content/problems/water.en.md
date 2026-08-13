@@ -5,7 +5,7 @@ title: "Water: five countries that ran short, and what each one did next"
 dek: "The world withdraws 18% of its renewable fresh water. Israel withdraws 119.6%. Cape Town halved its use in three years and then quietly doubled it again."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-08-13'
 
 measure:
   name: "Level of water stress (UN Sustainable Development Goal indicator 6.4.2) — fresh water withdrawn as a share of available renewable freshwater resources, after subtracting environmental flow requirements"

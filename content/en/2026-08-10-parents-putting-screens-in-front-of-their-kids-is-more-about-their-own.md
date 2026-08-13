@@ -30,6 +30,10 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/parents-putting-screens-in-front-of-their-kids-is-more-about-their-own-stress-than-other-factors-289115
+impact:
+  areas: [life]
+  line: "New research finds parents hand children a screen mainly to cope with their own stress, not primarily because of the child's behavior — reframing screen-time guilt as a family-stress signal, not a parenting failure."
+  todo: "If screen time spikes at a predictable moment, such as dinner or bedtime, try making a family media plan in advance rather than deciding in the moment."
 ---
 
 It is 6 p.m. after a full workday. A tired parent is trying to prepare dinner and clean up the kitchen before their children’s evening routine implodes. A minor disagreement between the children quickly escalates into shouting and shoving.

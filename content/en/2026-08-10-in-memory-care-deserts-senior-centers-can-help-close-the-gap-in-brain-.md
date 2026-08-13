@@ -28,6 +28,10 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/in-memory-care-deserts-senior-centers-can-help-close-the-gap-in-brain-related-healthcare-280413
+impact:
+  areas: [health]
+  line: "Rural areas have far fewer doctors per resident than cities, and researchers found local senior centers can fill part of the gap with free memory screenings and referrals for early dementia risk."
+  todo: "If an older relative lives in a rural area, ask their local senior center whether it offers memory screenings or can refer to a memory-care clinic."
 ---
 
 About 90 miles north of Phoenix, the town of Yarnell nestles atop a winding mountain road. Phoenix, a sprawling city of more than 1.6 million people, has one physician for every 2,407 people . But in Yarnell and other rural areas in Arizona, the ratio is one for every 3,896. Like many rural residents across the U.S., people in this small town face major barriers to care – especially those with cognitive issues.

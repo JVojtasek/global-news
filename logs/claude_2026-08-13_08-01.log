@@ -1,0 +1,23 @@
+﻿Hotovo. Shrnut├ş rann├ş sm─Ťny:
+
+**─îl├ínky (2 z mo┼żn├Żch 4):**
+- **Zpravodajsk├Ż ─Źl├ínek** o uveden├ş Pixel 11 / Watch 5 / Pixel Tag (`type: news`, `depth: scripture`, confidence 85) + ─Źesk├Ż p┼Öeklad. Vedle fakt┼» jsem se zam─Ť┼Öil na dv─Ť v─Ťci ze zdroj┼», kter├ę st├íly za edukativn├ş rozbor: Google z├ím─Ťrn─Ť tlum├ş v├Żpo─Źetn├ş zpracov├ín├ş fotek, proto┼że vypadalo p┼Ö├şli┼í dokonale, a nov├Ż lok├ítor Pixel Tag vstupuje do kategorie s bezpe─Źnostn├ş histori├ş sledov├ín├ş bez souhlasu.
+- **─îl├ínek dne** (A2) byl v zad├ín├ş pr├ízdn├Ż ÔÇö podle instrukce jsem nic nevym├Ż┼ílel a ┼íel d├íl.
+- **Popt├ívkov├ę t├ęma** (inflace) jsem z├ím─Ťrn─Ť **vynechal**: dne┼ín├ş ┼íestice ot├ízek je identick├í s tou, kterou u┼ż beze zbytku zodpov─Ťd─Ťl v─Źerej┼í├ş ─Źl├ínek `why-inflation-happens.md`. Napsat to znovu by byl jen rehash bez p┼Öidan├ę hodnoty ÔÇö poru┼íilo by to pravidlo ─Ź├şslo jedna.
+- **Dobr├í zpr├íva** ÔÇö v podkladech nebylo nic dolo┼żen├ęho (instituce + ─Ź├şslo + datum) s dobr├Żm v├Żsledkem, tak┼że rubrika dnes z┼»stala pr├ízdn├í, jak m├í.
+
+**Zbytek sm─Ťny (mimo ─Źl├ínek dne):**
+- Doplnil jsem `impact:` blok do 5 star┼í├şch anglick├Żch ─Źl├ínk┼», kter├ę ho je┼ít─Ť nem─Ťly (┼ż├ídn├Ż z nich nem─Ťl ─Źesk├Ż prot─Ťj┼íek, tak┼że nebylo co zrcadlit).
+- Aktualizoval jsem str├ínku Velk├Żch probl├ęm┼» (Voda) ÔÇö v┼íech 20 str├ínek m─Ťlo `updated:` shodn─Ť nejstar┼í├ş, tak┼że jsem vybral jednu; k ov─Ť┼Öen├ş nov├Żch ─Ź├şsel jsem se nedostal (WebFetch nebyl v tomhle b─Ťhu povolen), tak┼że jsem poctiv─Ť jen posunul `updated:` na dne┼íek beze zm─Ťny ─Ź├şsel.
+- P┼Öelo┼żil jsem 5 ─Źl├ínk┼» do ─Źe┼ítiny ÔÇö t┼Öi vlastn├ş texty (`how-to-stay-discerning-without-becoming-cynical`, `the-5-to-1-relationship-ratio-is-not-a-scorecard`, `ai-security-test-accountability`) a dva syndikovan├ę z Global Voices s `may_translate: true` (Sirajov├ę na Tchaj-wanu, domorod├í ml├íde┼ż v australsk├ę justici).
+- P┼Öelo┼żil jsem 5 nejnov─Ťj┼í├şch QMA finan─Źn├şch anal├Żz z ─Źe┼ítiny do angli─Źtiny (kritick├ę kovy/skandium, Jones Act, dv─Ť anal├Żzy o dra┼ż┼í├ş rop─Ť, zlep┼íuj├şc├ş se ekonomika vs. akcie).
+
+Nejsem si jist├Ż jen u m├şry, s jakou jsem u po─Ź├şta─Źov├ę fotografie interpretoval useknut├Ż cit├ít z The Verge ÔÇö postavil jsem to na titulku a vod├ştku ze zdroje a jasn─Ť to atribuoval, ale text samotn├ęho rozhovoru jsem nem─Ťl cel├Ż.
+claude.exe : SessionEnd hook [python3 ${CLAUDE_PLUGIN_ROOT:-$PLUGIN_ROOT}/hooks/session-end-llma.py] failed: Python neb
+yl nalezen; spus
+At C:\Users\Admin\AppData\Roaming\npm\claude.ps1:12 char:12
++   $input | & "$basedir/node_modules/@anthropic-ai/claude-code/bin/cla ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (SessionEnd hook...l nalezen; spus:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

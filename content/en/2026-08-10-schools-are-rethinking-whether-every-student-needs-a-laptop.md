@@ -29,6 +29,10 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/schools-are-rethinking-whether-every-student-needs-a-laptop-287549
+impact:
+  areas: [money, life]
+  line: "At least 17 US states have introduced or passed laws limiting classroom screen time and device ratios in 2026, and some districts no longer send a laptop home with every student."
+  todo: "Ask your child's school district whether it has a device or screen-time policy, and which devices actually go home versus stay in the classroom."
 ---
 
 When the COVID-19 pandemic forced in-person classroom instruction to go virtual, students suddenly needed to have their own laptops or tablets in order to interact with teachers and complete assignments.

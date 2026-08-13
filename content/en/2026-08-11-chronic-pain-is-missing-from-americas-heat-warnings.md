@@ -28,6 +28,10 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/chronic-pain-is-missing-from-americas-heat-warnings-289364
+impact:
+  areas: [health]
+  line: "A new 20-year study links sustained heat and cold to worse chronic pain in adults over 50, hitting rural and low-income older adults hardest because they have less access to cooling and healthcare."
+  todo: "If you have an older relative, especially in a rural area, ask about joint or back pain during heat waves, not just hydration."
 ---
 
 When a heat wave arrives, the public health advice follows a familiar script: drink water, watch for heat stroke, check on people with heart or lung conditions. That list saves lives. But it leaves out something that shapes daily life for millions of older Americans – chronic pain .

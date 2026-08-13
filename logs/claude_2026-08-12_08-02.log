@@ -1,0 +1,22 @@
+﻿Sm─Ťna je hotov├í. Shrnut├ş:
+
+**Psan├ş ─Źl├ínk┼» (kroky 1ÔÇô3)** u┼ż prob─Ťhlo d┼Ö├şv dnes r├íno (commit v 05:13 UTC, log `redakce_2026-08-12_08-02.log`) ÔÇö ─Źty┼Öi kvalitn├ş anglick├ę texty v `content/inbox/`: zpravodajsk├Ż rozbor o odm├ştnut├ş Trumpova pl├ínu pro Gazu, anal├Żza t┼Ö├ş dn┼» kolem Hormuzsk├ęho pr┼»livu, vysv─Ťtlova─Ź o inflaci a ─Źl├ínek o Jerichu do z├ísoby. ─îl├ínek dne (A2) byl v zad├ín├ş pr├ízdn├Ż a pro Dobr├ę zpr├ívy nebyl v podkladech ┼ż├ídn├Ż dolo┼żen├Ż zdroj ÔÇö oboj├ş spr├ívn─Ť vynech├íno, ┼ż├ídnou jsem si nevym├Ż┼ílel. Pro┼íel jsem v┼íechny ─Źty┼Öi texty, projdou testem z FORMAT.md odd. 0.
+
+**Co jsem dnes dod─Ťlal:**
+- Doplnil `impact:` blok do 3 ze 4 nov├Żch ─Źl├ínk┼» (u Jericha jsem ho z├ím─Ťrn─Ť vynechal ÔÇö k tis├şcilet├ęmu archeologick├ęmu t├ęmatu ne┼ílo poctiv─Ť napsat, co to m─Ťn├ş pro ─Źten├í┼Öe dnes).
+- P┼Öelo┼żil v┼íechny 4 nov├ę ─Źl├ínky do ─Źe┼ítiny (`content/cs/2026-08-12-*.md`).
+- Doplnil `impact:` blok do 5 star┼í├şch p┼Öevzat├Żch ─Źl├ínk┼» z The Conversation, kter├ę ho je┼ít─Ť nem─Ťly.
+- P┼Öelo┼żil do ─Źe┼ítiny ─Źl├ínek dne ÔÇ×The AI boom is becoming an electricity-grid story", kter├Ż je┼ít─Ť nem─Ťl ─Źesk├Ż prot─Ťj┼íek.
+- U rubriky Velk├ę probl├ęmy jsem zkontroloval str├ínku Antibiotika (zdroj ECDC ESAC-Net, data 2024 zve┼Öejn─Ťn├í listopad 2025) ÔÇö nov─Ťj┼í├ş vyd├ín├ş zat├şm nevy┼ílo, tak┼że jsem jen poctiv─Ť posunul `updated:` na dne┼íek u obou jazykov├Żch verz├ş.
+
+**Chyba, kterou jsem po cest─Ť ud─Ťlal a opravil:** u ├║kolu ÔÇ×p┼Öelo┼ż zb├Żvaj├şc├ş QMA anal├Żzy do angli─Źtiny" mi kv┼»li chyb─Ť ve vyhled├ívac├şm vzoru vy┼ílo, ┼że chyb├ş 5 p┼Öeklad┼». Ve skute─Źnosti u┼ż v┼íech 20 QMA anal├Żz m─Ťlo anglick├Ż prot─Ťj┼íek z d┼Ö├şv─Ťj┼íka ÔÇö omylem jsem 5 z nich p┼Öepsal jinou, obsahov─Ť rovnocennou verz├ş. V┼íiml jsem si toho p┼Öes `git diff` a soubory jsem vr├ítil na p┼»vodn├ş zn─Ťn├ş, tak┼że se nic neztratilo a v repozit├í┼Öi nez┼»stal ┼ż├ídn├Ż zbyte─Źn├Ż ┼íum.
+
+Nic mi v zad├ín├ş ned├ívalo smysl ÔÇö bylo ├║pln├ę a jasn├ę.
+claude.exe : SessionEnd hook [python3 ${CLAUDE_PLUGIN_ROOT:-$PLUGIN_ROOT}/hooks/session-end-llma.py] failed: Python neb
+yl nalezen; spus
+At C:\Users\Admin\AppData\Roaming\npm\claude.ps1:12 char:12
++   $input | & "$basedir/node_modules/@anthropic-ai/claude-code/bin/cla ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (SessionEnd hook...l nalezen; spus:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

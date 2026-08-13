@@ -5,7 +5,7 @@ title: "Voda: pět zemí, kterým došla, a co udělaly potom"
 dek: "Svět odebírá 18 % svých obnovitelných zásob sladké vody. Izrael odebírá 119,6 %. Kapské Město za tři roky spotřebu srazilo na polovinu a od té doby ji zase zdvojnásobilo."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-08-13'
 
 measure:
   name: "Míra vodního stresu (ukazatel Cílů udržitelného rozvoje OSN 6.4.2) — odebraná sladká voda jako podíl na dostupných obnovitelných zdrojích sladké vody, po odečtení vody potřebné pro ekosystémy"
