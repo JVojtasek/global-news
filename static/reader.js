@@ -1495,7 +1495,9 @@
     quizzes();
     qmaTracking();
     // hello() bere argument, a ten se sem z časovače nesmí připlést
-    if (cfg === null) window.setTimeout(function () { hello(); }, WAIT);
+    /* Briefing má vlastní kompaktní nastavení. Průvodce přes něj nesmí
+       na první návštěvě vyskočit a zakrýt dvě hlavní zpravodajská okna. */
+    if (cfg === null && !briefBox) window.setTimeout(function () { hello(); }, WAIT);
   }
 
   // stránka „pro tebe“ si tímhle otevírá nastavení

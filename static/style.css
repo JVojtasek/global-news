@@ -1228,6 +1228,7 @@ nav.sections a.nav-land:hover{border-color:var(--accent)}
   .lens-proof .lens-method{width:100%;margin-left:0}
   .lens-steps{grid-template-columns:repeat(2,1fr)}
   .lens-qma{grid-template-columns:1fr}.lens-qma a{max-width:none}
+}
 
 /* =====================================================================
    VELKÉ PROBLÉMY  (templates/problem.html, templates/problems.html,
