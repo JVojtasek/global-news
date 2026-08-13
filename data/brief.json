@@ -110,78 +110,6 @@
    "depth": "scripture"
   },
   {
-   "id": "7b46dd318f11",
-   "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "score": 77,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-08-10T09:48:16+00:00",
-   "items": [
-    {
-     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-     "source": "MIT TR — AI",
-     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;"
-    },
-    {
-     "title": "More on the OpenAI Agent’s Attack on Hugging Face",
-     "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-     "source": "Schneier on Security",
-     "summary": "Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or"
-    },
-    {
-     "title": "Visual Language Models Train Robots to Read Human Emotions",
-     "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-     "source": "IEEE Spectrum Robotics",
-     "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people? In a recent study, researchers tra"
-    },
-    {
-     "title": "Baseten on Hugging Face Inference Providers 🔥",
-     "url": "https://huggingface.co/blog/baseten",
-     "source": "Hugging Face",
-     "summary": ""
-    },
-    {
-     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-     "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-     "source": "Hugging Face",
-     "summary": ""
-    },
-    {
-     "title": "Hugging Face Models on Foundry Managed Compute",
-     "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-     "source": "Hugging Face",
-     "summary": ""
-    },
-    {
-     "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-     "url": "https://huggingface.co/blog/skypilot-hf-storage",
-     "source": "Hugging Face",
-     "summary": ""
-    },
-    {
-     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-     "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-     "source": "Hugging Face",
-     "summary": ""
-    },
-    {
-     "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-     "url": "https://huggingface.co/blog/eee-community-evals",
-     "source": "Hugging Face",
-     "summary": ""
-    },
-    {
-     "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-     "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-     "source": "Hugging Face",
-     "summary": ""
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "965561c723dd",
    "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
    "section": "world",
@@ -276,6 +204,54 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "4f07762c2d95",
+   "headline": "At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news",
+   "section": "world",
+   "score": 67,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-08-10T15:35:27+00:00",
+   "items": [
+    {
+     "title": "At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news",
+     "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+     "source": "The Guardian World",
+     "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations Jorge Moncayo, a 64-year-old taxi driver in Colombia’s third-biggest city, Cali, said he saw plumes of dust shoot up across the city from him home in the mountains as buildings collapsed after the earthquake. Residents in the city and rescue workers were already searching the rubble of collapsed b"
+    },
+    {
+     "title": "Powerful 7.4 magnitude earthquake strikes western Colombia",
+     "url": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+     "source": "The Guardian World",
+     "summary": "Reports of collapsed and severely damaged buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates A powerful earthquake has struck western Colombia, with reports of collapsed and severely damaged buildings in major cities including Cali and Pereira. The US and Colombian geological surveys reported that a 7.4 magnitude earthquake had struck at 7.34 am"
+    },
+    {
+     "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+     "url": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Emergency teams are still assessing the impact of the quake that was felt across the region."
+    },
+    {
+     "title": "🔴 At least 20 dead after 7.4-magnitude quake hits western Colombia",
+     "url": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
+     "source": "France 24",
+     "summary": ""
+    },
+    {
+     "title": "At least 20 killed as powerful quake rocks Colombia, causing 'major damage'",
+     "url": "https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage",
+     "source": "France 24",
+     "summary": "At least 20 people have been killed in a major 7.4-magnitude earthquake that struck western Colombia on Monday, damaging buildings, trapping residents under debris and prompting evacuations in the capital, Bogota. The tremor was felt in other parts of Latin America, including Ecuador and Panama."
+    },
+    {
+     "title": "At least two dead after magnitude 7.4 Colombia earthquake, others trapped",
+     "url": "https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html",
+     "source": "CNBC Top",
+     "summary": "The tremor was felt in Colombia's capital, Bogota, and as far away as Venezuela."
+    }
+   ],
+   "depth": "scripture"
   }
  ],
  "feature_assignments": [

@@ -44,35 +44,7 @@
     <https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/>
     > The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.
 
-### 2. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- id události: `7b46dd318f11`  ·  rubrika: `ai`  ·  skóre: 77  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **MIT TR — AI** — OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-    <https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/>
-    > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face
-  - **Schneier on Security** — More on the OpenAI Agent’s Attack on Hugging Face
-    <https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html>
-    > Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on
-  - **IEEE Spectrum Robotics** — Visual Language Models Train Robots to Read Human Emotions
-    <https://spectrum.ieee.org/robot-emotions-visual-language-models>
-    > This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robo
-  - **Hugging Face** — Baseten on Hugging Face Inference Providers 🔥
-    <https://huggingface.co/blog/baseten>
-  - **Hugging Face** — From Hugging Face to Amazon SageMaker Studio in one click
-    <https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio>
-  - **Hugging Face** — Hugging Face Models on Foundry Managed Compute
-    <https://huggingface.co/blog/microsoft/foundry-managed-compute>
-  - **Hugging Face** — Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot
-    <https://huggingface.co/blog/skypilot-hf-storage>
-  - **Hugging Face** — Hugging Face and Cerebras bring Gemma 4 to real-time voice AI
-    <https://huggingface.co/blog/cerebras-gemma4-voice-ai>
-  - **Hugging Face** — Featuring Every Eval Ever Results on Hugging Face Model Pages
-    <https://huggingface.co/blog/eee-community-evals>
-  - **Hugging Face** — PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters
-    <https://huggingface.co/blog/PaddlePaddle/pp-ocrv6>
-
-### 3. Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+### 2. Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
 - id události: `965561c723dd`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -98,7 +70,7 @@
     <https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says>
     > US ​President Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard Air Force One, an extraordinary ​move prompted by an Iranian assassination threat, the Washington Post reported Monday.
 
-### 4. Consortium advances talks for stake in Liverpool
+### 3. Consortium advances talks for stake in Liverpool
 - id události: `73892c222554`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -117,6 +89,28 @@
   - **Guardian Sport** — Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos
     <https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group>
     > Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The invest
+
+### 4. At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news
+- id události: `4f07762c2d95`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **The Guardian World** — At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news
+    <https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news>
+    > More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations Jorge Moncayo, a 64-year-old taxi driver in Colombia’s third-biggest city, Cali, said he saw plumes of dust shoot up across the city from him home in the mountains as buildings c
+  - **The Guardian World** — Powerful 7.4 magnitude earthquake strikes western Colombia
+    <https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco>
+    > Reports of collapsed and severely damaged buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates A powerful earthquake has struck western Colombia, with reports of collapsed and severely damaged buildings in major cities including 
+  - **Al Jazeera** — Earthquake with 7.4 magnitude hits Colombia, killing at least 20
+    <https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss>
+    > Emergency teams are still assessing the impact of the quake that was felt across the region.
+  - **France 24** — 🔴 At least 20 dead after 7.4-magnitude quake hits western Colombia
+    <https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage>
+  - **France 24** — At least 20 killed as powerful quake rocks Colombia, causing 'major damage'
+    <https://www.france24.com/en/americas/20260810-powerful-quake-rocks-colombia-causing-major-damage>
+    > At least 20 people have been killed in a major 7.4-magnitude earthquake that struck western Colombia on Monday, damaging buildings, trapping residents under debris and prompting evacuations in the capital, Bogota. The tremor was felt in other parts of Latin America, including Ecu
+  - **CNBC Top** — At least two dead after magnitude 7.4 Colombia earthquake, others trapped
+    <https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html>
+    > The tremor was felt in Colombia's capital, Bogota, and as far away as Venezuela.
 
 ---
 

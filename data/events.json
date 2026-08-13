@@ -103,77 +103,6 @@
   ]
  },
  {
-  "id": "7b46dd318f11",
-  "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-  "section": "ai",
-  "score": 77,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "source": "MIT TR — AI",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;"
-   },
-   {
-    "title": "More on the OpenAI Agent’s Attack on Hugging Face",
-    "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-    "source": "Schneier on Security",
-    "summary": "Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or"
-   },
-   {
-    "title": "Visual Language Models Train Robots to Read Human Emotions",
-    "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people? In a recent study, researchers tra"
-   },
-   {
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "url": "https://huggingface.co/blog/baseten",
-    "source": "Hugging Face",
-    "summary": ""
-   },
-   {
-    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "source": "Hugging Face",
-    "summary": ""
-   },
-   {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "source": "Hugging Face",
-    "summary": ""
-   },
-   {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "url": "https://huggingface.co/blog/skypilot-hf-storage",
-    "source": "Hugging Face",
-    "summary": ""
-   },
-   {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "source": "Hugging Face",
-    "summary": ""
-   },
-   {
-    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-    "url": "https://huggingface.co/blog/eee-community-evals",
-    "source": "Hugging Face",
-    "summary": ""
-   },
-   {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "source": "Hugging Face",
-    "summary": ""
-   }
-  ]
- },
- {
   "id": "965561c723dd",
   "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
   "section": "world",
@@ -364,70 +293,6 @@
   ]
  },
  {
-  "id": "227e86739973",
-  "headline": "Canadian Man Pleads Guilty in Snowflake Extortions",
-  "section": "safety",
-  "score": 63,
-  "sources_count": 3,
-  "depth_signal": 5,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-    "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-    "source": "Krebs on Security",
-    "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T custo"
-   },
-   {
-    "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-    "source": "BleepingComputer",
-    "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]"
-   },
-   {
-    "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-    "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-    "source": "The Hacker News",
-    "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from"
-   }
-  ]
- },
- {
-  "id": "47ff75c42b0f",
-  "headline": "Lorry turns over as typhoon hits China",
-  "section": "world",
-  "score": 62,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "Lorry turns over as typhoon hits China",
-    "url": "https://www.bbc.co.uk/news/videos/cgmklm40k9go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Video shows a lorry being blown over after heavy rain and winds continued to batter Wenzhou, a city in China's eastern Zhejiang province."
-   },
-   {
-    "title": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
-    "url": "https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Typhoon Dolphin struck eastern China, affecting millions with strong winds, heavy rain, and massive waves."
-   },
-   {
-    "title": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
-    "url": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days."
-   },
-   {
-    "title": "China: Tropical storm Dolphin causes floodings",
-    "url": "https://www.france24.com/en/video/20260810-china-tropical-storm-dolphin-causes-floodings",
-    "source": "France 24",
-    "summary": "Typhoon Dolphin is the 13th typhoon recorded in China this year, after sweeping through Japan’s Okinawa and intensifying monsoon rains in the Philippines. Scientists warn that a warming planet is making extreme weather events, including powerful typhoons, more frequent and intense."
-   }
-  ]
- },
- {
   "id": "1bf4b58ce158",
   "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
   "section": "world",
@@ -453,88 +318,6 @@
     "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
     "source": "CNBC Top",
     "summary": "His comments come shortly after deadly Russian attacks on cities across Ukraine overnight."
-   }
-  ]
- },
- {
-  "id": "06b8d0ad6f63",
-  "headline": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-  "section": "ai",
-  "score": 61,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "source": "Google DeepMind",
-    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
-   },
-   {
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "source": "Google DeepMind",
-    "summary": ""
-   },
-   {
-    "title": "Gemini 3.5: frontier intelligence with action",
-    "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
-    "source": "Google DeepMind",
-    "summary": "Gemini 3.5 is built to help you execute complex, agentic workflows."
-   },
-   {
-    "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-    "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 2026, PITTSBURGH Humanoids Summit Seoul : 22–23 September 2026, SEOUL En"
-   },
-   {
-    "title": "Video Friday: A World Cup for Robots",
-    "url": "https://spectrum.ieee.org/video-friday-robot-world-cup",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos , collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IR"
-   },
-   {
-    "title": "Video Friday: Give Robots a Hand",
-    "url": "https://spectrum.ieee.org/video-friday-robot-grippers",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IRO"
-   },
-   {
-    "title": "Video Friday: Do Robots Even Need Legs?",
-    "url": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IRO"
-   }
-  ]
- },
- {
-  "id": "e0d783f4ac39",
-  "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-  "section": "safety",
-  "score": 60,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-    "source": "BleepingComputer",
-    "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]"
-   },
-   {
-    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-    "source": "The Verge AI",
-    "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]"
-   },
-   {
-    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-    "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "source": "The Hacker News",
-    "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive"
    }
   ]
  },
@@ -649,35 +432,6 @@
   ]
  },
  {
-  "id": "2c2b2700dd7b",
-  "headline": "Microsoft Patches a Record 570 Security Flaws",
-  "section": "safety",
-  "score": 56,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Microsoft Patches a Record 570 Security Flaws",
-    "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-    "source": "Krebs on Security",
-    "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence."
-   },
-   {
-    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-    "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-    "source": "The Hacker News",
-    "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode. \"These vulnerabilities were found"
-   },
-   {
-    "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-    "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-    "source": "The Hacker News",
-    "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'"
-   }
-  ]
- },
- {
   "id": "7c1d08a3a9fa",
   "headline": "Trump signs order to limit childhood vaccines and split MMR shots",
   "section": "world",
@@ -732,35 +486,6 @@
     "url": "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759",
     "source": "Investing.com",
     "summary": ""
-   }
-  ]
- },
- {
-  "id": "08ffa30fce99",
-  "headline": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-  "section": "world",
-  "score": 54,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-    "url": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
-    "source": "NPR News",
-    "summary": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public."
-   },
-   {
-    "title": "Ukrainian drone attack kills at least 12 in central Russia",
-    "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-12-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed at least 12 people in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago."
-   },
-   {
-    "title": "Hundreds of Ukrainian drones target Russia in deadly overnight strikes",
-    "url": "https://www.france24.com/en/europe/20260810-hundreds-of-ukrainian-drones-target-russia-in-overnight-strikes",
-    "source": "France 24",
-    "summary": "Russia said Monday it intercepted 456 Ukrainian drones in overnight attacks targeting around 15 regions, including Tatarstan in central Russia and annexed Crimea. The strikes hit industrial and civilian sites, leaving at least 12 people dead and wounding 39, according to local authorities."
    }
   ]
  },
@@ -855,35 +580,6 @@
     "published_at": "2026-08-11T21:08:08+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T06:47:22+00:00"
-   }
-  ]
- },
- {
-  "id": "a8b08471ef52",
-  "headline": "UEFA, other football federations unite against Infantino",
-  "section": "world",
-  "score": 53,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "UEFA, other football federations unite against Infantino",
-    "url": "https://www.dw.com/en/uefa-other-football-federations-unite-against-infantino/a-78301601?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A few weeks ago, Gianni Infantino looked set for another unopposed term as FIFA president. Now, with an election looming, the beleagured football executive is counting the numbers and could be hanging by a thread."
-   },
-   {
-    "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan",
-    "url": "https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Three confederations release letter criticising FIFA&#039;s president over his proposal to sell off stakes in the World Cup."
-   },
-   {
-    "title": "Uefa, Concacaf and AFC push for Infantino to quit and discuss rival competitions",
-    "url": "https://www.theguardian.com/football/2026/aug/10/uefa-concacaf-afc-fifa-gianni-infantino-world-cup",
-    "source": "Guardian Sport",
-    "summary": "Confederations write open letter damning Fifa president Concacaf president Montagliani seen as top contender Uefa, the Asian Football Confederation and Concacaf will push for Gianni Infantino to resign after writing an open letter calling for “leadership that serves football, not seeks to command it”. In a dramatic escalation of the war that has threatened to tear football apart since details emer"
    }
   ]
  },
@@ -1270,76 +966,6 @@
   ]
  },
  {
-  "id": "6a25ae06f692",
-  "headline": "Thames Water gave finance boss a £1m signing-on fee",
-  "section": "business",
-  "score": 49,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Thames Water gave finance boss a £1m signing-on fee",
-    "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company."
-   },
-   {
-    "title": "Thames Water faces row over £1m payment to finance chief",
-    "url": "https://www.theguardian.com/business/2026/aug/10/thames-water-fee-finance-chief-andy-burnham",
-    "source": "The Guardian World",
-    "summary": "Campaign group says firm is ‘taking the mickey’ by paying fee and Andy Burnham should nationalise it Business live – latest updates Thames Water has paid its chief financial officer, Steve Buck, a £1m signing fee despite intense scrutiny of Britain’s biggest water company’s finances as it tries to avoid being taken into public control. The utility revealed that it made the payment last month, in a"
-   },
-   {
-    "title": "Thames Water faces row over £1m payment to finance chief",
-    "url": "https://www.theguardian.com/business/2026/aug/10/thames-water-fee-finance-chief-andy-burnham",
-    "source": "Guardian Business",
-    "summary": "Campaign group says firm is ‘taking the mickey’ by paying fee and Andy Burnham should nationalise it Business live – latest updates Thames Water has paid its chief financial officer, Steve Buck, a £1m signing fee despite intense scrutiny of Britain’s biggest water company’s finances as it tries to avoid being taken into public control. The utility revealed that it made the payment last month, in a"
-   }
-  ]
- },
- {
-  "id": "b8c4ad7ea643",
-  "headline": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
-  "section": "ai",
-  "score": 49,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Chinese artificial intelligence (AI) chip developer Moore Threads plans to seek a listing in Hong Kong after reporting a 147 per cent jump in first-half revenue, as the Nvidia challenger seeks fresh capital amid booming demand for home-grown computing power. The Shanghai-listed company said on Sunday that its board had approved a plan to issue H shares and list on the main board of the Hong Kong s"
-   },
-   {
-    "title": "Coded for glamour and glory, AI make-up arm steals the show in Hong Kong hackathon",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3363197/coded-glamour-and-glory-ai-make-arm-steals-show-hong-kong-hackathon?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Imagine a woman sitting at her vanity as a robotic arm reaches across the table, picks up her lipstick, and applies it to her lips while running through her morning schedule. Meet Iron Bestie, a personalised make-up assistant that just snatched top honours at what organisers billed as Hong Kong’s first physical artificial intelligence hackathon, beating more than 160 global competitors in an inten"
-   },
-   {
-    "title": "China’s Moonshot AI aims for US$50b round as year-end Hong Kong IPO targeted: sources",
-    "url": "https://www.scmp.com/tech/big-tech/article/3363026/chinas-moonshot-ai-aims-us50b-round-year-end-hong-kong-ipo-targeted-sources?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Chinese unicorn Moonshot AI has started and is expected to close its latest financing round by the end of this month, as it dismantles its offshore structure to pave the way for a potential Hong Kong initial public offering (IPO) as early as the end of the year, according to two sources familiar with the matter. The company was expected to raise capital at a valuation of up to US$50 billion in thi"
-   },
-   {
-    "title": "China’s X Square Robot submits confidential filing for Hong Kong IPO, sources say",
-    "url": "https://www.scmp.com/tech/tech-war/article/3363028/chinas-x-square-robot-submits-confidential-filing-hong-kong-ipo-sources-say?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Chinese start-up X Square Robot has filed confidentially for an initial public offering (IPO) in Hong Kong, according to two sources familiar with the matter, joining a growing wave of domestic robot makers flocking to capital markets, despite new US trade restrictions. The Shenzhen-based firm has tapped Huatai Securities and Morgan Stanley as sponsors for the prospective float, one of the sources"
-   },
-   {
-    "title": "SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers",
-    "url": "https://www.scmp.com/business/china-business/article/3362898/spacex-report-share-unlock-may-sway-hong-kong-mainland-china-stocks-ai-trade-recovers?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "SpaceX’s first earnings report since its listing, together with the coming supply of a large chunk of shares available for public trading, will test the strength of the artificial intelligence trade’s recovery, which has driven the S&amp;P 500 within striking distance of its record high and helped Hong Kong equities outperform. The first set of results from SpaceX as a publicly traded company will"
-   }
-  ]
- },
- {
   "id": "f2c132a47d58",
   "headline": "Colombia earthquake: Rescuers race to find thousands missing",
   "section": "world",
@@ -1421,35 +1047,6 @@
   ]
  },
  {
-  "id": "9efa5f9a2a79",
-  "headline": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-  "section": "safety",
-  "score": 48,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-    "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-    "source": "The Hacker News",
-    "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated"
-   },
-   {
-    "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-    "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-    "source": "The Hacker News",
-    "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene. The affected products include Amazon"
-   },
-   {
-    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-    "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-    "source": "The Hacker News",
-    "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes"
-   }
-  ]
- },
- {
   "id": "091d908b0756",
   "headline": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
   "section": "tech",
@@ -1523,6 +1120,37 @@
     "published_at": "2026-08-12T17:39:27+00:00",
     "source_countries": [],
     "seen_at": "2026-08-12T18:35:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f14543cafbbc",
+  "headline": "See Magnificent Photos of the Total Solar Eclipse Over Europe That Showcase the Sun's Beauty and the Wonder of Skywatching",
+  "section": "culture",
+  "score": 48,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "See Magnificent Photos of the Total Solar Eclipse Over Europe That Showcase the Sun's Beauty and the Wonder of Skywatching",
+    "url": "https://www.smithsonianmag.com/smart-news/see-magnificent-photos-of-the-total-solar-eclipse-over-europe-that-showcase-the-suns-beauty-and-the-wonder-of-skywatching-180989325/",
+    "source": "Smithsonian Mag",
+    "summary": "The moon’s shadow swept over Earth on Wednesday, captivating millions across the planet. It was the first total solar eclipse since the North American eclipse of April 2024",
+    "published_at": "2026-08-13T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Eclipse: Europe falls into darkness as millions watch",
+    "url": "https://www.france24.com/en/video/20260813-eclipse-europe-falls-into-darkness-as-millions-watch",
+    "source": "France 24",
+    "summary": "Millions across Europe looked to the skies on Wednesday as the Moon passed in front of the Sun in a rare solar eclipse. The eclipse was total in parts of Iceland and northern Spain, while much of Europe, including France and the UK, saw a spectacular partial eclipse, with more than 90% of the Sun covered in many areas.",
+    "published_at": "2026-08-13T10:06:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
@@ -1629,76 +1257,6 @@
     "published_at": "2026-08-12T08:56:42+00:00",
     "source_countries": [],
     "seen_at": "2026-08-12T09:40:43+00:00"
-   }
-  ]
- },
- {
-  "id": "edd884e3eb65",
-  "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-  "section": "ai",
-  "score": 46,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "source": "Google DeepMind",
-    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
-   },
-   {
-    "title": "Introducing Gemini 3.5 Flash Cyber",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "source": "Google DeepMind",
-    "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities."
-   },
-   {
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "source": "Google DeepMind",
-    "summary": ""
-   },
-   {
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "source": "Google DeepMind",
-    "summary": ""
-   },
-   {
-    "title": "Introducing Gemini Omni",
-    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
-    "source": "Google DeepMind",
-    "summary": ""
-   }
-  ]
- },
- {
-  "id": "6b27df557fcf",
-  "headline": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-  "section": "safety",
-  "score": 46,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-    "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-    "source": "The Hacker News",
-    "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update."
-   },
-   {
-    "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-    "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-    "source": "The Hacker News",
-    "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as&nbsp;CVE-2026-64561&nbsp;and affects KVM/x86's shadow memory management unit (MMU), which manages shadow page"
-   },
-   {
-    "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-    "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-    "source": "The Hacker News",
-    "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim"
    }
   ]
  },
@@ -1882,6 +1440,37 @@
   ]
  },
  {
+  "id": "4e9899162f3d",
+  "headline": "Temperatures to soar to 38C as amber extreme heat warning in effect",
+  "section": "world",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T08:01:32+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Temperatures to soar to 38C as amber extreme heat warning in effect",
+    "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+    "published_at": "2026-08-13T08:01:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for ‘extreme heat’ expanded across England",
+    "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+    "source": "The Guardian World",
+    "summary": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to come Met Office has just offered an update on temperatures across the UK, with several stations already reporting temperatures above 30C – and it’s not even 11am. It’s 30.4C in Wych Cross, 30.3C in Charlwood, 30.2C at Kenly Airfield. Continue reading...",
+    "published_at": "2026-08-13T12:10:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
   "id": "56f469f39f91",
   "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
   "section": "world",
@@ -2057,121 +1646,6 @@
     "published_at": "2026-08-13T07:17:55+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T09:40:42+00:00"
-   }
-  ]
- },
- {
-  "id": "fd83bd5c8340",
-  "headline": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-  "section": "tech",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-    "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-    "source": "The Hacker News",
-    "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5."
-   },
-   {
-    "title": "Auto mode is now the default in Claude Code",
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "source": "Hacker News Best",
-    "summary": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 207 # Comments: 198"
-   }
-  ]
- },
- {
-  "id": "e30e6e02092b",
-  "headline": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-  "section": "safety",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-    "source": "BleepingComputer",
-    "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]"
-   },
-   {
-    "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-    "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-    "source": "The Hacker News",
-    "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture. \""
-   }
-  ]
- },
- {
-  "id": "490c8f3e3a7f",
-  "headline": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-  "section": "safety",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-    "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-    "source": "BleepingComputer",
-    "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]"
-   },
-   {
-    "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-    "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-    "source": "The Hacker News",
-    "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, according to the Justice Department."
-   }
-  ]
- },
- {
-  "id": "de3bf366e368",
-  "headline": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-  "section": "safety",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-    "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary"
-   },
-   {
-    "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-    "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-    "source": "The Hacker News",
-    "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server"
-   }
-  ]
- },
- {
-  "id": "d2ca685e7bfe",
-  "headline": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-  "section": "safety",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-    "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-    "source": "The Hacker News",
-    "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies"
-   },
-   {
-    "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-    "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-    "source": "The Hacker News",
-    "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine. Huntress, which tracks the toolkit as khunt,"
    }
   ]
  },
@@ -2621,25 +2095,51 @@
   ]
  },
  {
-  "id": "3995b845ba9e",
-  "headline": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
-  "section": "world",
-  "score": 43,
-  "sources_count": 2,
+  "id": "d5be862a5242",
+  "headline": "Earnings call transcript: IRCTC Q1 2026 revenue beats, profit misses",
+  "section": "business",
+  "score": 44,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T12:14:32+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
-    "url": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Police used force to disperse students marching towards the Jharkhand assembly, as protests over alleged irregularities in government recruitment exams entered their third week. DW has more."
+    "title": "Earnings call transcript: IRCTC Q1 2026 revenue beats, profit misses",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-irctc-q1-2026-revenue-beats-profit-misses-93CH-4857780",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T12:14:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    },
    {
-    "title": "Protesters rally in India’s Jharkhand over alleged exam irregularities",
-    "url": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Demonstrators in Ranchi demand an overhaul of ‌the state&#039;s examination system."
+    "title": "Earnings call transcript: Finolex Cables beats Q1 2026 estimates on strong demand",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-finolex-cables-beats-q1-2026-estimates-on-strong-demand-93CH-4857778",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T12:13:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Earnings call transcript: Marksans Pharma posts strong Q1 2026 profit, misses revenue view",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-marksans-pharma-posts-strong-q1-2026-profit-misses-revenue-view-93CH-4857775",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T12:12:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Earnings call transcript: Arman Financial posts strong Q1 2026 turnaround",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-arman-financial-posts-strong-q1-2026-turnaround-93CH-4857772",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-13T12:12:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
@@ -2807,52 +2307,6 @@
     "published_at": "2026-08-12T17:28:38+00:00",
     "source_countries": [],
     "seen_at": "2026-08-12T18:35:03+00:00"
-   }
-  ]
- },
- {
-  "id": "1309af9aeefc",
-  "headline": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
-    "url": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Even as it weakens, Typhoon Dolphin is disrupting life in China. Close to 1,500 flights have been canceled in Shanghai while parts of Beijing are under flood alert."
-   },
-   {
-    "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "China evacuates a million from homes as Typhoon Dolphin arrives"
-   }
-  ]
- },
- {
-  "id": "3677e9c2454f",
-  "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-    "url": "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, setting himself against a US-backed roadmap endorsed by the group."
-   },
-   {
-    "title": "Netanyahu eyes election base as friction with Trump grows over Gaza deal",
-    "url": "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal",
-    "source": "France 24",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected a US-led Gaza plan endorsed by Hamas, putting distance between himself and President Donald Trump as he tries to shore up his base ahead of close elections. “Netanyahu is willing to break ties with Trump over the 15-point Gaza peace deal to gain support from the far-right members of his coalition,” FRANCE 24 international affairs editor "
    }
   ]
  },
@@ -3476,94 +2930,86 @@
   ]
  },
  {
-  "id": "80703c01ba93",
-  "headline": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-  "section": "safety",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
+  "id": "794e46179768",
+  "headline": "Earthquake in Colombia: \"The government didn't accept the help from foreign rescue teams\"",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:51:13+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-    "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-    "source": "Krebs on Security",
-    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botn"
+    "title": "Earthquake in Colombia: \"The government didn't accept the help from foreign rescue teams\"",
+    "url": "https://www.france24.com/en/video/20260813-earthquake-in-colombia-the-government-didn-t-accept-the-help-from-foreign-rescue-teams",
+    "source": "France 24",
+    "summary": "Thursday morning will mark 72 hours since the quake in Colombia, where \"people are surprised that the government didn't accept the help from foreign rescue teams\", says our journalist Rosa Perez.",
+    "published_at": "2026-08-13T11:51:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    },
    {
-    "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-    "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-    "source": "Krebs on Security",
-    "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Ala"
+    "title": "Colombia earthquake response tests new far-right government",
+    "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
+    "published_at": "2026-08-13T11:39:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
  {
-  "id": "f57597fba6ee",
-  "headline": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-  "section": "safety",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-    "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-    "source": "The Hacker News",
-    "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email. PortSwigger researcher Gareth"
-   },
-   {
-    "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-    "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-    "source": "The Hacker News",
-    "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via"
-   }
-  ]
- },
- {
-  "id": "8d0300fb58d9",
-  "headline": "UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch",
+  "id": "72540f1eb5c9",
+  "headline": "PSG down Aston Villa to retain UEFA Super Cup",
   "section": "sport",
-  "score": 41,
+  "score": 42,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T12:01:29+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch",
-    "url": "https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "As Champions League and Europa League winners face off, here is everything to know on the venue, history and more."
+    "title": "PSG down Aston Villa to retain UEFA Super Cup",
+    "url": "https://www.france24.com/en/video/20260813-psg-down-aston-villa-to-retain-uefa-super-cup",
+    "source": "France 24",
+    "summary": "Champions League winners Paris Saint-Germain rubber-stamped their status as Europe's top team as they beat Aston Villa 2-1 in the UEFA Super Cup on Wednesday.",
+    "published_at": "2026-08-13T12:01:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    },
    {
-    "title": "Premier League 2026-27 preview No 2: Aston Villa",
-    "url": "https://www.theguardian.com/football/2026/aug/10/premier-league-2026-27-preview-no-2-aston-villa",
+    "title": "‘He has a very high ceiling’: Madjo makes instant mark on delayed Aston Villa bow",
+    "url": "https://www.theguardian.com/football/2026/aug/13/aston-villa-brian-madjo-makes-mark-psg",
     "source": "Guardian Sport",
-    "summary": "Unai Emery’s task seems to get harder each year, and the Europa League winners need their big signings to shine Guardian writers’ predicted position: 7th (NB: this is not necessarily Ben Fisher’s prediction but the average of our writers’ tips) Last season’s position: 4th Continue reading..."
+    "summary": "Teenager endured a frustrating wait for his registration to be approved but took no time to show his potential on the big stage against PSG At first glance there was the usual stuff: the wide smile, the guttural release, the punch of the air, teammates quickly on the scene to offer congratulations. But then the real celebration followed for the 17-year-old Brian Madjo. After scoring his first Asto",
+    "published_at": "2026-08-13T12:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
  {
-  "id": "9ac926a03466",
-  "headline": "Author Correction: Cooperation conflicts with equality when allocating public goods",
-  "section": "science",
-  "score": 41,
+  "id": "5b1eb34432ce",
+  "headline": "The Hessians Were Supposed to Quickly End the American Revolution. Instead, They Endured Years of Battles and Suffered Thousands of Casualties",
+  "section": "culture",
+  "score": 42,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:45:00+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
-    "url": "https://www.nature.com/articles/s41586-026-10973-y",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10973-y Author Correction: Cooperation conflicts with equality when allocating public goods"
-   },
-   {
-    "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
-    "url": "https://www.nature.com/articles/s41586-026-10978-7",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 10 August 2026; doi:10.1038/s41586-026-10978-7 Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance"
+    "title": "The Hessians Were Supposed to Quickly End the American Revolution. Instead, They Endured Years of Battles and Suffered Thousands of Casualties",
+    "url": "https://www.smithsonianmag.com/history/the-hessians-were-supposed-to-quickly-end-the-american-revolution-instead-they-endured-years-of-battles-and-suffered-thousands-of-casualties-180989252/",
+    "source": "Smithsonian Mag",
+    "summary": "Some 30,000 German soldiers fought for the British during the war. Contrary to popular belief, they weren't mercenaries, and not all were actually Hessians",
+    "published_at": "2026-08-13T11:45:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
@@ -3871,123 +3317,33 @@
   ]
  },
  {
-  "id": "0668e6ce4cb3",
-  "headline": "Solar eclipse tracker: What time will it hit your location on August 12?",
+  "id": "968854cc8303",
+  "headline": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
   "section": "world",
-  "score": 40,
+  "score": 41,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:10:31+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
-    "url": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality."
+    "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+    "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+    "published_at": "2026-08-13T11:10:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    },
    {
-    "title": "From Solar corona to human emotions: What can we learn from eclipses? (2/4)",
-    "url": "https://www.france24.com/en/europe/20260810-from-solar-corona-to-human-emotions-what-can-we-learn-from-eclipses-2-4",
-    "source": "France 24",
-    "summary": "Total solar eclipse (2/4) A total solar eclipse will sweep across northern Spain on August 12 in one of Europe's most anticipated astronomical events of the decade. From the Sun's corona to animal behaviour and human emotions, these rare celestial events continue to provide scientists with valuable insights more than two millennia after they were first observed."
-   }
-  ]
- },
- {
-  "id": "ff19c3ff464f",
-  "headline": "Video Friday: Your Robot Surgeon Will See You Now",
-  "section": "ai",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Video Friday: Your Robot Surgeon Will See You Now",
-    "url": "https://spectrum.ieee.org/video-friday-robotic-surgery",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 202"
-   },
-   {
-    "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
-    "url": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO Enj"
-   },
-   {
-    "title": "Video Friday: Extreme Omnidirectional Robot",
-    "url": "https://spectrum.ieee.org/video-friday-rabona-soccer",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18"
-   }
-  ]
- },
- {
-  "id": "0de4555fd411",
-  "headline": "Friday Squid Blogging: Arctic Bobtail Squid Video",
-  "section": "safety",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
-    "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
-    "source": "Schneier on Security",
-    "summary": "Nice video of the Arctic bobtail squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy."
-   },
-   {
-    "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
-    "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
-    "source": "Schneier on Security",
-    "summary": "The Squid is a new scientific machine : One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together. &#8220;That opens up a whole new world of exploring. We could see cells interacting with each other, exchanging material and building skeletons. And we could "
-   }
-  ]
- },
- {
-  "id": "25cd9f2df653",
-  "headline": "Millions in Great Britain could face emergency power cuts at short notice",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "Millions in Great Britain could face emergency power cuts at short notice",
-    "url": "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
-    "source": "The Guardian World",
-    "summary": "Exclusive: Grid operator Neso can now respond with rolling blackouts as last resort without need for government powers Business live – latest updates Millions of households could face power cuts at short notice under new rules to help the electricity system operator avoid widespread blackouts when energy supplies run low. The changes, which come into effect this week, will make it easier for the n"
-   },
-   {
-    "title": "Millions in Great Britain could face emergency power cuts at short notice",
-    "url": "https://www.theguardian.com/business/2026/aug/10/great-britain-emergency-power-cuts-grid-neso-blackouts",
-    "source": "Guardian Business",
-    "summary": "Exclusive: Grid operator Neso can now respond with rolling blackouts as last resort without need for government powers Business live – latest updates Millions of households could face power cuts at short notice under new rules to help the electricity system operator avoid widespread blackouts when energy supplies run low. The changes, which come into effect this week, will make it easier for the n"
-   }
-  ]
- },
- {
-  "id": "785dbd58a573",
-  "headline": "Ukrainian drone attack kills at least 13 in central Russia",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "Ukrainian drone attack kills at least 13 in central Russia",
-    "url": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's deadliest attacks since the Russian invasion began over four years ago."
-   },
-   {
-    "title": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-    "url": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A day of mourning has been declared in the Russian republic of Tatarstan after the attack killed 13 people."
+    "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+    "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+    "published_at": "2026-08-13T11:10:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
@@ -4648,6 +4004,37 @@
   ]
  },
  {
+  "id": "27f16203c901",
+  "headline": "Sports Direct owner buys Harvey Nichols department store chain",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T12:22:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Sports Direct owner buys Harvey Nichols department store chain",
+    "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
+    "source": "The Guardian World",
+    "summary": "Mike Ashley’s Frasers Group acquires Knightsbridge-headquartered retailer after it went into administration Business live – latest updates The owner of Sports Direct has bought Harvey Nichols out of administration after the upmarket department store chain warned it could run out of money if it did not find new funding. Mike Ashley’s Frasers Group said on Thursday it had bought the department store",
+    "published_at": "2026-08-13T12:22:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Sports Direct owner buys Harvey Nichols department store chain",
+    "url": "https://www.theguardian.com/business/2026/aug/13/sports-direct-owner-buys-harvey-nichols-department-store-chain",
+    "source": "Guardian Business",
+    "summary": "Mike Ashley’s Frasers Group acquires Knightsbridge-headquartered retailer after it went into administration Business live – latest updates The owner of Sports Direct has bought Harvey Nichols out of administration after the upmarket department store chain warned it could run out of money if it did not find new funding. Mike Ashley’s Frasers Group said on Thursday it had bought the department store",
+    "published_at": "2026-08-13T12:22:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
   "id": "2ef852b2410c",
   "headline": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
   "section": "world",
@@ -4962,133 +4349,6 @@
     "published_at": "2026-08-12T22:35:31+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T00:40:16+00:00"
-   }
-  ]
- },
- {
-  "id": "5023b389af52",
-  "headline": "These startups are chasing the next big thing in LLMs",
-  "section": "ai",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "These startups are chasing the next big thing in LLMs",
-    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "source": "MIT TR — AI",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;"
-   },
-   {
-    "title": "These startups are chasing the next big thing in LLMs",
-    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "source": "MIT Tech Review",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;"
-   }
-  ]
- },
- {
-  "id": "e29a8bbb0a77",
-  "headline": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-  "section": "ai",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "source": "Google DeepMind",
-    "summary": ""
-   },
-   {
-    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-    "source": "Google DeepMind",
-    "summary": ""
-   }
-  ]
- },
- {
-  "id": "69050af7ca67",
-  "headline": "Backed by DeepSeek, Unitree IPO tests investor appetite for China’s AI robotics boom",
-  "section": "ai",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Backed by DeepSeek, Unitree IPO tests investor appetite for China’s AI robotics boom",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3363251/backed-deepseek-unitree-ipo-tests-investor-appetite-chinas-ai-robotics-boom?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "The long-awaited initial public offering of Unitree Robotics, which values the Hangzhou-based firm at 60.99 billion yuan (US$9 billion), is set to serve as a valuation benchmark for China’s booming embodied-AI sector, buoyed by retail investor excitement and high-profile AI backers like DeepSeek. Widely billed as “mainland China’s first humanoid stock”, Unitree has priced its IPO on Shanghai’s Sta"
-   },
-   {
-    "title": "China’s DeepSeek beefs up agentic AI with ‘harness’ tests as V4 model jolts Silicon Valley",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3362792/chinas-deepseek-beefs-agentic-ai-harness-tests-v4-model-jolts-silicon-valley?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Chinese AI company DeepSeek is inviting open-source developers to test its upcoming “harness” – software designed to turn large language models (LLMs) into AI agents – accelerating a push into agentic tech as DeepSeek’s latest V4 Flash model sends another cost-efficiency shock wave through Silicon Valley. The Hangzhou-based firm was looking for open-source project developers to join beta testing f"
-   }
-  ]
- },
- {
-  "id": "bf43973924c8",
-  "headline": "Impact of AI on cyber threat from now to 2027",
-  "section": "safety",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Impact of AI on cyber threat from now to 2027",
-    "url": "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
-    "source": "NCSC UK",
-    "summary": "An NCSC assessment highlighting the impacts on cyber threat from AI developments between now and 2027."
-   },
-   {
-    "title": "The near-term impact of AI on the cyber threat",
-    "url": "https://www.ncsc.gov.uk/report/impact-of-ai-on-cyber-threat",
-    "source": "NCSC UK",
-    "summary": "An NCSC assessment focusing on how AI will impact the efficacy of cyber operations and the implications for the cyber threat over the next two years."
-   },
-   {
-    "title": "The threat from commercial cyber proliferation",
-    "url": "https://www.ncsc.gov.uk/report/commercial-cyber-proliferation-assessment",
-    "source": "NCSC UK",
-    "summary": "Report informing readers about the threat to UK industry and society from commercial cyber tools and services."
-   },
-   {
-    "title": "The cyber threat to sports organisations",
-    "url": "https://www.ncsc.gov.uk/report/the-cyber-threat-to-sports-organisations",
-    "source": "NCSC UK",
-    "summary": "The NCSC report highlights the cyber threats faced by the sports sector and suggests how to stop or lessen their impact on organisations."
-   }
-  ]
- },
- {
-  "id": "311d3f683fc6",
-  "headline": "Meta Muse Glimmer – open weights 30B local coding model",
-  "section": "ai",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "Meta Muse Glimmer – open weights 30B local coding model",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "source": "Hacker News Best",
-    "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model Comments URL: https://news.ycombinator.com/item?id=49241679 Points: 229 # Comments: 86"
-   },
-   {
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "url": "https://huggingface.co/blog/muse-glimmer",
-    "source": "Hugging Face",
-    "summary": ""
    }
   ]
  },
@@ -5599,122 +4859,33 @@
   ]
  },
  {
-  "id": "bb108b9418f5",
-  "headline": "Western Europe sets new temperature record as heat waves pummel the region",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Western Europe sets new temperature record as heat waves pummel the region",
-    "url": "https://www.france24.com/en/western-europe-sets-new-temperature-record-as-heat-waves-pummel-the-region",
-    "source": "France 24",
-    "summary": "The heat waves roiling Western Europe this summer toppled an average temperature record for the June-July period set in 2022, according to the European climate agency Copernicus. The extreme heat began in May and has contributed to major wildfires, prolonged drought and new national temperature records across the region, as well as thousands of projected heat-related deaths. Globally, so far this "
-   },
-   {
-    "title": "Western Europe lived through hottest June and July ever recorded",
-    "url": "https://www.france24.com/en/europe/20260810-western-europe-saw-hottest-june-july-on-record-as-climate-change-fuels-historic-summer",
-    "source": "France 24",
-    "summary": "Climate change across Western Europe has brought a summer of heat, drought and wildfires to the region and put the combined average temperature from June through July at 21.62C – beating the 2022 record for the same period, the EU's global warming monitor said Monday."
-   }
-  ]
- },
- {
-  "id": "2231dcf4c34f",
-  "headline": "AI for science needs reasoning, not just data",
-  "section": "tech",
-  "score": 37,
+  "id": "be34d6a44787",
+  "headline": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+  "section": "business",
+  "score": 38,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T10:26:46+00:00",
+  "time_kind": "published",
   "items": [
    {
-    "title": "AI for science needs reasoning, not just data",
-    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "source": "MIT TR — AI",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;"
+    "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+    "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+    "source": "The Guardian World",
+    "summary": "Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumn UK economic growth slows down Business live – latest updates In the spring the International Monetary Fund warned Britain faced the heaviest economic blow from the Iran war among the world’s most advanced nations. Almost six months into the conflict, on the surface, the UK appears to be ",
+    "published_at": "2026-08-13T10:26:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    },
    {
-    "title": "AI for science needs reasoning, not just data",
-    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "source": "MIT Tech Review",
-    "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the&#8230;"
-   }
-  ]
- },
- {
-  "id": "31bfabb3c496",
-  "headline": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-  "section": "tech",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T09:48:16+00:00",
-  "items": [
-   {
-    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"Advertisements for Poison Claude"
-   }
-  ]
- },
- {
-  "id": "187b9ee10b32",
-  "headline": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 8,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-    "url": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Al Jazeera is given rare access to one of Ukraine&#039;s long-range drone units tasked with targeting Russia."
-   }
-  ]
- },
- {
-  "id": "821da0df0db8",
-  "headline": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
-    "url": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they&#039;ve paid a heavy price."
-   },
-   {
-    "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
-    "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilians&#039; lives."
-   }
-  ]
- },
- {
-  "id": "6d1638d4c4ab",
-  "headline": "Here are Monday's biggest analyst calls: Nvidia, Apple, SpaceX, Dick's, Micron, Broadcom, Microsoft & more",
-  "section": "business",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-10T12:32:56+00:00",
-  "items": [
-   {
-    "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, SpaceX, Dick's, Micron, Broadcom, Microsoft & more",
-    "url": "https://www.cnbc.com/2026/08/10/monday-analyst-calls-including-nvidia-apple-space-x-dicks.html",
-    "source": "CNBC Top",
-    "summary": "Here are the biggest calls on Wall Street on Monday."
+    "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+    "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+    "source": "Guardian Business",
+    "summary": "Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumn UK economic growth slows down Business live – latest updates In the spring the International Monetary Fund warned Britain faced the heaviest economic blow from the Iran war among the world’s most advanced nations. Almost six months into the conflict, on the surface, the UK appears to be ",
+    "published_at": "2026-08-13T10:26:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
@@ -6130,6 +5301,37 @@
   ]
  },
  {
+  "id": "ce6137803a58",
+  "headline": "Claude's new Scarlet Letter watermark is invisible — for now",
+  "section": "ai",
+  "score": 37,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:10:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "source": "Ars Technica",
+    "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+    "published_at": "2026-08-13T11:10:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+    "source": "Ars Technica AI",
+    "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+    "published_at": "2026-08-13T11:10:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
   "id": "80c120873d58",
   "headline": "Terabytes of credentials leaked in massive supply-chain attack",
   "section": "tech",
@@ -6307,6 +5509,99 @@
   ]
  },
  {
+  "id": "6977da2e47ad",
+  "headline": "Farage face off against Count Binface: \"He's been the subject to many jokes in the UK\"",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:56:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Farage face off against Count Binface: \"He's been the subject to many jokes in the UK\"",
+    "url": "https://www.france24.com/en/video/20260813-farage-face-off-against-count-binface-he-s-been-the-subject-to-many-jokes-in-the-uk",
+    "source": "France 24",
+    "summary": "Polls opened Thursday in an eastern England by-election that pits hard-right leader Nigel Farage - often touted as a potential future British prime minister - against perennial joke candidate Count Binface in a vote shunned by the country's main political parties.\"If Count Binface does well in this election, it's not going to look good for Nigel Farage\", Philip Turle explains.",
+    "published_at": "2026-08-13T11:56:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Reform UK's Farage faces off against Count Binface in election",
+    "url": "https://www.france24.com/en/video/20260813-reform-uk-s-farage-faces-off-against-count-binface-in-election",
+    "source": "France 24",
+    "summary": "Voters cast their ballots on Thursday in a local English election pitting Nigel Farage against his main challenger, a comedian dressed as a trash can, in a test of opposition ‌to the Reform UK leader's brand of populist politics. Our correspondent in London Benedicte Paviot tells us more.",
+    "published_at": "2026-08-13T09:45:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "64a597b1bd33",
+  "headline": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+  "section": "health",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-12T13:20:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
+    "source": "ScienceDaily",
+    "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalized stimulation settings and better results for patients.",
+    "published_at": "2026-08-12T13:20:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalized stimulation settings and better results for patients.",
+    "published_at": "2026-08-12T13:20:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "210ea80af052",
+  "headline": "Premier League 2026-27 preview No 8: Crystal Palace",
+  "section": "sport",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:00:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Premier League 2026-27 preview No 8: Crystal Palace",
+    "url": "https://www.theguardian.com/football/2026/aug/13/premier-league-2026-27-preview-no-8-crystal-palace",
+    "source": "Guardian Sport",
+    "summary": "Palace take a risk with new manager Pierre Sage, who is tasked with building on Glasner’s unprecedented success Guardian writers’ predicted position: 16th (NB: this is not necessarily Ed Aarons’ prediction but the average of our writers’ tips) Last season’s position: 15th Continue reading...",
+    "published_at": "2026-08-13T11:00:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Kieran Trippier: ‘The Championship is relentless … it’s totally different to the Premier League’",
+    "url": "https://www.theguardian.com/football/2026/aug/13/kieran-trippier-wolves-championship-premier-league-england",
+    "source": "Guardian Sport",
+    "summary": "The former England full-back is back in the Championship after 12 years away, hoping to lead Wolves out of it When the question inevitably comes, Kieran Trippier is happy to set the record straight. Fresh from training, head to toe in Wolves kit – vest, shorts and club-branded sliders – he walks into a suite at their Compton Park base, conversation soon shifting to an episode that rocked supporter",
+    "published_at": "2026-08-13T11:00:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
   "id": "b7995d0a4e6f",
   "headline": "The web’s newest weapon against AI scrapers is a font",
   "section": "tech",
@@ -6431,6 +5726,81 @@
     "published_at": "2026-08-12T10:57:58+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T09:40:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8af439088ab6",
+  "headline": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+  "section": "science",
+  "score": 35,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-12T13:05:58+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
+    "source": "ScienceDaily",
+    "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scientists interpret ancient infections and complicate the long-running mystery of syphilis’s origins.",
+    "published_at": "2026-08-12T13:05:58+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scientists interpret ancient infections and complicate the long-running mystery of syphilis’s origins.",
+    "published_at": "2026-08-12T13:05:58+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f53c722b9b3a",
+  "headline": "Podcast: The Black Surfmen Behind One of the Greatest Water Rescues Ever",
+  "section": "travel",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-06-30T15:22:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Podcast: The Black Surfmen Behind One of the Greatest Water Rescues Ever",
+    "url": "https://www.atlasobscura.com/articles/podcast-america-s-finest-lifesaving-station",
+    "source": "Atlas Obscura",
+    "summary": "Listen and subscribe on Apple Podcasts , Spotify , and all major podcast apps. In this episode of The Atlas Obscura Podcast , we visit the Outer Banks of North Carolina and unearth some surprising history about a place known as the Graveyard of the Atlantic because of how many shipwrecks have occurred there. It was also home to early efforts at lifesaving and a precursor to the U.S. Coast Guard. K",
+    "published_at": "2026-06-30T15:22:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "68b912792fc0",
+  "headline": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+  "section": "ai",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-05-16T03:14:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+    "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+    "source": "Google DeepMind",
+    "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+    "published_at": "2026-05-16T03:14:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
@@ -6660,6 +6030,116 @@
     "published_at": "2026-08-13T07:00:52+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T09:40:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3f5092ce48c4",
+  "headline": "‘Melancholic fantasy’: Wong escalates Labor rhetoric against Hanson, condemning ‘monoculture’ comment",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:00:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Melancholic fantasy’: Wong escalates Labor rhetoric against Hanson, condemning ‘monoculture’ comment",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/13/penny-wong-labor-rhetoric-pauline-hanson-monoculture-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Foreign affairs minister and first Asian-Australian to serve in federal cabinet to use Lowy Institute address to criticise politicians stoking racial divisions Get our breaking news email , free app or daily news podcast Labor has escalated its pushback on One Nation’s surging political support, with the foreign affairs minister, Penny Wong, labelling Pauline Hanson’s push for a monoculture a “mel",
+    "published_at": "2026-08-13T11:00:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e7f9d5ba85b7",
+  "headline": "‘Lauf’ and ‘minceur’: the words that made a 13-year-old from Melbourne a world Scrabble champion",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T09:55:09+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Lauf’ and ‘minceur’: the words that made a 13-year-old from Melbourne a world Scrabble champion",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/13/lauf-and-minceur-the-words-that-made-a-13-year-old-from-melbourne-a-world-scrabble-champion",
+    "source": "The Guardian World",
+    "summary": "Dineth Fernando – who moved to Australia with his family in February – says he just needed to ‘find the word and play – that’s all’ Get our breaking news email , free app or daily news podcast Dineth Fernando’s first language isn’t English and he only arrived in Melbourne six months ago – but already he’s claimed an international Scrabble title with an Australian flag draped around his shoulders. ",
+    "published_at": "2026-08-13T09:55:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d18ac235f73f",
+  "headline": "Retailer Five Below has surged this year thanks to viral squishy toys. Jefferies sees more gains ahead",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:41:08+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Retailer Five Below has surged this year thanks to viral squishy toys. Jefferies sees more gains ahead",
+    "url": "https://www.cnbc.com/2026/08/13/five-has-surged-this-year-thanks-to-viral-squishy-toys-jefferies-sees-more-gains-ahead.html",
+    "source": "CNBC Top",
+    "summary": "Five Below is likely to gain even more ground by not only leaning into viral trends but by boosting its productivity and refining its strategy, per Jefferies.",
+    "published_at": "2026-08-13T11:41:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "62a950b5f5b7",
+  "headline": "Shame, stigma, and culture prevent male intimate partner violence survivors from seeking help, study finds",
+  "section": "science",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:10:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Shame, stigma, and culture prevent male intimate partner violence survivors from seeking help, study finds",
+    "url": "https://phys.org/news/2026-08-shame-stigma-culture-male-intimate.html",
+    "source": "Phys.org",
+    "summary": "Men are less likely than women to seek help after experiencing intimate partner violence, and new research from George Mason University found that the main barriers include viewing it as a private matter, fear of retaliation, shame and concerns about not being believed.",
+    "published_at": "2026-08-13T11:10:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5ad03b3249e0",
+  "headline": "Guard Becomes Celebrity Making Mini Statues For Each Event at Virginia Tech As Free Giveaways",
+  "section": "goodnews",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Guard Becomes Celebrity Making Mini Statues For Each Event at Virginia Tech As Free Giveaways",
+    "url": "https://www.goodnewsnetwork.org/guard-becomes-celebrity-making-mini-statues-for-each-event-at-virginia-tech-as-free-giveaways/",
+    "source": "Good News Network",
+    "summary": "The mini-statue of a warrior rhino was birthed in a guessing game. After graduating from Virginia Tech, Bryan Newton kept cultivating his school spirit and connections to campus by working for Rhino Sports and Entertainment Services. He provides security support for the company at Virginia Tech’s 1,274-seat performance hall. He’s always enjoyed the diversity of […] The post Guard Becomes Celebrity",
+    "published_at": "2026-08-13T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  },
@@ -7223,6 +6703,138 @@
   ]
  },
  {
+  "id": "5b5cc81dcc1d",
+  "headline": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T08:15:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
+    "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
+    "published_at": "2026-08-13T08:15:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "554731e45bf1",
+  "headline": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T09:45:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+    "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+    "source": "The Guardian World",
+    "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubs South Korea’s Incheon airport has become the world’s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war. The airport, South Korea’s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international",
+    "published_at": "2026-08-13T09:45:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f93435536191",
+  "headline": "Jury selection begins in Meta youth harms trial in California federal court",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:58:29+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jury selection begins in Meta youth harms trial in California federal court",
+    "url": "https://www.france24.com/en/video/20260813-jury-selection-begins-in-meta-youth-harms-trial-in-california-federal-court",
+    "source": "France 24",
+    "summary": "Jury selection began Wednesday in Meta's federal trial over claims its platforms have harmed youth mental health and also track children in violation of federal law. Our correspondent Wassim Cornet tells us more.",
+    "published_at": "2026-08-13T11:58:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "24fa7122b88f",
+  "headline": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs’ AI agenda? | Robert Reich",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T10:00:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs’ AI agenda? | Robert Reich",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs",
+    "source": "Guardian Business",
+    "summary": "The dangers of AI become clearer every day. Why are we still acting as if we have no choice about our future? Rather than producing jobs, the US economy actually lost 23,000 jobs in July, according to Bureau of Labor Statistics data released on Friday. In addition, May and June’s job numbers were revised downward, showing a combined 103,000 fewer jobs than previously reported. As if this weren’t b",
+    "published_at": "2026-08-13T10:00:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "181d5d55acb6",
+  "headline": "Stocks making the biggest moves premarket: Tapestry, Yeti, Bullish, StubHub, Cerebras & more",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:36:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Stocks making the biggest moves premarket: Tapestry, Yeti, Bullish, StubHub, Cerebras & more",
+    "url": "https://www.cnbc.com/2026/08/13/stocks-making-the-biggest-moves-premarket-.html",
+    "source": "CNBC Top",
+    "summary": "These are the stocks posting the largest moves in the premarket.",
+    "published_at": "2026-08-13T11:36:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c892c8343d9c",
+  "headline": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T12:31:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
+    "url": "https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
+    "source": "CNBC Top",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "published_at": "2026-08-13T12:31:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
   "id": "7e1e50a8aa6b",
   "headline": "Brazil orders Discord to halt livestreaming after teen death",
   "section": "world",
@@ -7738,6 +7350,213 @@
   ]
  },
  {
+  "id": "233cd5c0a51d",
+  "headline": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:31:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+    "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+    "source": "NPR News",
+    "summary": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
+    "published_at": "2026-08-13T11:31:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "58b8d7e4de94",
+  "headline": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T09:58:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+    "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+    "source": "NPR News",
+    "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank.",
+    "published_at": "2026-08-13T09:58:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fcd8c105ffbd",
+  "headline": "Water bills set to rise for many after firms permitted extra funding",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T12:07:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Water bills set to rise for many after firms permitted extra funding",
+    "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+    "published_at": "2026-08-13T12:07:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "77864429b26c",
+  "headline": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-12T22:53:21+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Novo Nordisk CEO defends lawsuit against Eli Lilly: 'Competition has to be fair'",
+    "url": "https://www.cnbc.com/2026/08/12/novo-nordisk-ceo-defends-lawsuit-against-eli-lilly.html",
+    "source": "CNBC Top",
+    "summary": "Novo Nordisk CEO defended the company's decision to sue rival Eli Lilly over its weight-loss drug advertising.",
+    "published_at": "2026-08-12T22:53:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d06d908b89c5",
+  "headline": "Eclipse warning: The key signs you may have damaged your eyes",
+  "section": "science",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:57:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Eclipse warning: The key signs you may have damaged your eyes",
+    "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+    "published_at": "2026-08-13T11:57:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   },
+   {
+    "title": "Eclipse warning: The key signs you may have damaged your eyes",
+    "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+    "published_at": "2026-08-13T11:57:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "054d4d9d5cc2",
+  "headline": "Critical former referees add to culture of fear, says retiring Taylor",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:35:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Critical former referees add to culture of fear, says retiring Taylor",
+    "url": "https://www.bbc.co.uk/sport/football/articles/czxq25zejj4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Retiring Premier League referee Anthony Taylor says his decision to quit was partly due to the toxic debate around officials.",
+    "published_at": "2026-08-13T11:35:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d1eadc236470",
+  "headline": "Empty seats and faded aura show how Springboks outgrew the All Blacks | Daniel Gallan",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T07:00:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Empty seats and faded aura show how Springboks outgrew the All Blacks | Daniel Gallan",
+    "url": "https://www.theguardian.com/sport/2026/aug/13/faded-aura-springboks-outgrew-all-blacks-rugby-union",
+    "source": "Guardian Sport",
+    "summary": "Back-to-back world champions can use Rugby’s Greatest Rivalry to establish themselves as one of the greatest teams of all time South Africans are supposed to care about the All Blacks more than this. On Tuesday night 14,759 people dotted the 52,000-seat Kings Park Stadium to watch New Zealand dismantle the Sharks 54-0. Durban was cold and soaked, with snow falling elsewhere in KwaZulu-Natal, but e",
+    "published_at": "2026-08-13T07:00:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "11919cc03ea4",
+  "headline": "Fog and on time? Lech Poznan race to reach Faroe Islands for Europa League tie",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T12:06:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Fog and on time? Lech Poznan race to reach Faroe Islands for Europa League tie",
+    "url": "https://www.theguardian.com/football/2026/aug/13/fog-and-on-time-lech-poznan-ki-klaksvik-faroe-islands-europa-league",
+    "source": "Guardian Sport",
+    "summary": "Heavy fog means planes unable to land in Faroes Polish team have been trying to reach Vágar for two days The Europa League second leg between Poland’s champions Lech Poznan and the Faroese champions KÍ Klaksvík on Thursday evening is at risk, with the Polish team struggling to reach the Faroe Islands on time due to heavy fog. Lech won 1-0 in the first leg in Poznan after a late goal from Ivorian s",
+    "published_at": "2026-08-13T12:06:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2bb4f5f183e6",
+  "headline": "Rukmini Iyer’s quick and easy recipe for Thai-style cold lemongrass and coconut prawn noodles | Quick and easy",
+  "section": "food",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-03T12:00:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Rukmini Iyer’s quick and easy recipe for Thai-style cold lemongrass and coconut prawn noodles | Quick and easy",
+    "url": "https://www.theguardian.com/food/2026/aug/03/quick-easy-thai-style-cold-soup-recipe-lemongrass-coconut-prawn-noodles-rukmini-iyer",
+    "source": "Guardian Food",
+    "summary": "Enjoy this big bowl of refreshing noodle soup with turmeric and coconut milk spiked with a kick of chilli This is exactly what I want to eat when I’m under the weather: a big bowl of Thai-inspired, soupy noodles with turmeric and coconut milk, all spiked with chilli. It’s a soup base that adapts perfectly for vegetarians (add cubed tofu) or leftovers (shredded roast chicken). This makes a lot of b",
+    "published_at": "2026-08-03T12:00:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
   "id": "3610d0e3d657",
   "headline": "Pay with a glance at a screen as biometric technology company begins push into Australian retail",
   "section": "world",
@@ -7866,6 +7685,116 @@
     "published_at": "2026-08-12T22:40:03+00:00",
     "source_countries": [],
     "seen_at": "2026-08-13T00:40:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1ee5a1141e1a",
+  "headline": "UK defends seizing shadow fleet tanker after Putin threat",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T11:05:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "UK defends seizing shadow fleet tanker after Putin threat",
+    "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+    "published_at": "2026-08-13T11:05:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e9f2b0724217",
+  "headline": "Zambians voting as president bids for second term",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T10:51:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Zambians voting as president bids for second term",
+    "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
+    "published_at": "2026-08-13T10:51:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "83c252f91def",
+  "headline": "Transport watchdog investigates another near miss at Sydney airport",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T12:19:36+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Transport watchdog investigates another near miss at Sydney airport",
+    "url": "https://www.theguardian.com/world/2026/aug/13/transport-watchdog-investigates-another-near-miss-at-sydney-airport",
+    "source": "The Guardian World",
+    "summary": "Two planes came close to collision on the runway on Sunday – hours after another near miss – making a total of three in recent weeks Get our breaking news email , free app or daily news podcast The transport safety watchdog is investigating a another near-collision between two planes at Sydney airport – an incident that occurred on the same day as one that made national news and raised concerns ab",
+    "published_at": "2026-08-13T12:19:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2af1ac0ee18d",
+  "headline": "What would a North Korean surge mean for Ukraine war?",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-13T10:54:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "What would a North Korean surge mean for Ukraine war?",
+    "url": "https://www.dw.com/en/what-would-a-north-korean-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience. President Zelenskyy has urged South Korea to work closer with Kyiv.",
+    "published_at": "2026-08-13T10:54:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "948eeddbaa23",
+  "headline": "Italy: Etna eruption in Sicily halts Catania flights",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-13T12:33:17+00:00",
+  "event_time": "2026-08-12T15:01:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Italy: Etna eruption in Sicily halts Catania flights",
+    "url": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during the peak summer holiday season.",
+    "published_at": "2026-08-12T15:01:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-13T12:33:13+00:00"
    }
   ]
  }
