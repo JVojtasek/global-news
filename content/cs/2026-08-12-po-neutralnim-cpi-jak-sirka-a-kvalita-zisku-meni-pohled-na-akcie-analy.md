@@ -13,6 +13,17 @@ date: '2026-08-12'
 status: published
 confidence: 0
 image_query: 'Po neutrálním CPI: jak šířka'
+impact:
+  areas: [money]
+  line: >-
+    Americké spotřebitelské ceny v červenci vzrostly o 0,1 procenta, meziročně o
+    3,4 procenta, přesně podle očekávání. Americkým domácnostem to úlevu v
+    peněžence nepřináší: ceny dál rostou, jen se nezrychlily proti tomu, s čím
+    trh počítal.
+  todo: >-
+    Americký index spotřebitelských cen vychází měsíčně; u firem ukáže šířku
+    zlepšení počet těch, kterým analytici zvedají odhad zisku na akcii, ne jedno
+    silné jméno.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/po-neutralnim-cpi-jak-sirka-a-kvalita-zisku-meni-pohled-na-a-analyza-339322

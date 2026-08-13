@@ -12,6 +12,16 @@ date: '2026-08-11'
 status: published
 confidence: 0
 image_query: 'Jones Act a ropné výjimky:'
+impact:
+  areas: [money]
+  line: >-
+    Výjimka platí devadesát dní, týká se přepravy mezi americkými přístavy a
+    žádnou ropu navíc nevyrobí. Kdo nekupuje palivo v USA, tomu se nemění nic;
+    tam může zmenšit riziko prudkých regionálních příplatků u pumpy.
+  todo: >-
+    U takové výjimky je podstatné, jak dlouho platí, jestli je zúžená, čeho se
+    týká a kdy vyprší; do té doby se dají sledovat regionální cenové rozdíly u
+    paliv.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/jones-act-a-ropne-vyjimky-co-resi-cena-doruceni-a-jak-se-men-analyza-338259

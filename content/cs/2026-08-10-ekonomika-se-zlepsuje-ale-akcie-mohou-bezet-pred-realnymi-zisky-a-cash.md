@@ -13,6 +13,16 @@ date: '2026-08-10'
 status: published
 confidence: 0
 image_query: Ekonomika se zlepšuje, ale akcie
+impact:
+  areas: [money]
+  line: >-
+    Indexy táhnou nahoru nejcitlivější tituly, zatímco odhady zisků firem zatím
+    nestíhají. Kdo má peníze v důchodovém fondu nebo indexovém portfoliu, může
+    krátkodobě vidět lepší číslo, ale zároveň větší kolísání než obvykle.
+  todo: >-
+    Rozdíl mezi lepší náladou a lepšími zisky ukážou provozní marže, nové
+    objednávky a volné cash flow ve čtvrtletních výsledcích firem, ne pohyb
+    indexu.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ekonomika-se-zlepsuje-ale-akcie-mohou-bezet-pred-realnymi-zi-analyza-337479

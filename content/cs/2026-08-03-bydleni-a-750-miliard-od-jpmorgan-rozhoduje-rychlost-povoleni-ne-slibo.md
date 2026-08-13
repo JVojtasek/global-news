@@ -13,6 +13,17 @@ date: '2026-08-03'
 status: published
 confidence: 0
 image_query: Bydlení a 750 miliard od
+impact:
+  areas: [money, life]
+  line: >-
+    Ohlášených 750 miliard dolarů je americký program do roku 2035 a sám o sobě
+    nepostaví ani jeden dům. Kdo nekupuje ani nestaví v USA, tomu se nemění nic;
+    americkým kupujícím se dostupnost zlepší až tehdy, když přibudou domy, ne
+    zájemci.
+  todo: >-
+    Americká veřejná statistika zveřejňuje vydaná povolení, zahájené a dokončené
+    stavby; podle nich se pozná, jestli z programu vznikají domy, nebo jen další
+    poptávka.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/bydleni-a-750-miliard-od-jpmorgan-rozhoduje-rychlost-povolen-analyza-332939

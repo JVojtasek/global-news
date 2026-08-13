@@ -13,6 +13,17 @@ date: '2026-08-05'
 status: published
 confidence: 0
 image_query: 'Biosimilars od Biocon: kdy růst'
+impact:
+  areas: [health, money]
+  line: >-
+    Biosimilární léky jsou levnější následovníci drahých biologických léků. Pro
+    pacienty a zdravotní systémy to znamená tlak na nižší náklady u položky,
+    která patří k nejdražším v rozpočtech na péči; pro výrobce originálů tlak na
+    ceny.
+  todo: >-
+    Které biosimilární léky jsou schválené, zveřejňují lékové agentury; u firmy
+    samotné je rozpis tržeb a marží segmentu ve čtvrtletním výkazu, ne v titulku
+    o čtyřnásobném zisku.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/biosimilars-od-biocon-kdy-rust-zisku-znamena-trvale-narusty--analyza-334507

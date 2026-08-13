@@ -13,6 +13,16 @@ date: '2026-08-06'
 status: published
 confidence: 0
 image_query: 'Small caps jako detektivka: jak'
+impact:
+  areas: [money]
+  line: >-
+    Znovuotevření Hormuzského průlivu podle zprávy ubralo z ropy část válečné
+    přirážky. Do cen u pumpy se to nepřenáší automaticky ani hned: vstupují do
+    nich ještě rafinerie, daně, kurz měny a marže obchodníků.
+  todo: >-
+    Ceny Brentu a WTI i tvar futures křivky jsou veřejné; pravidla pro americké
+    Medicare zveřejňuje úřad CMS. Portfolio fondu je popis úvah správce, ne
+    předpověď.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/small-caps-jako-detektivka-jak-medicare-hormuz-a-regulace-me-analyza-335201

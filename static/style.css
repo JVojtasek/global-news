@@ -1612,3 +1612,7 @@ nav.sections a.nav-brief{color:var(--accent);font-weight:700;letter-spacing:.1em
   .brief-time{flex-direction:row;gap:.55rem}
   .brief-panel{padding:1.05rem}
 }
+
+/* Past na roboty — pro člověka neviditelná, pro čtečku obrazovky skrytá.
+   Nesmí se schovat přes `display:none`; část robotů takové pole přeskočí. */
+.nl-trap{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}

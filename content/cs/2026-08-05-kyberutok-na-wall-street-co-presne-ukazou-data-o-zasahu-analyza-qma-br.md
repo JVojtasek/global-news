@@ -12,6 +12,17 @@ date: '2026-08-05'
 status: published
 confidence: 0
 image_query: 'Kyberútok na Wall Street: co'
+impact:
+  areas: [safety, money]
+  line: >-
+    Zatím jde o pokusy, ne o potvrzený průnik: veřejně popsané informace
+    neuvádějí krádež majetku ani zastavené obchodování. Klientům velkých správců
+    peněz se tím dnes nemění nic; podstatné je, že bezpečnost je nákladová
+    položka finančního systému.
+  todo: >-
+    Pokud jde o veřejně obchodovanou firmu, rozsah incidentu a případné oznámení
+    klientům bývá ve formuláři 8-K, v tiskové zprávě nebo v oznámení
+    regulátorovi.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kyberutok-na-wall-street-co-presne-ukazou-data-o-zasahu-analyza-334475

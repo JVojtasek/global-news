@@ -13,6 +13,16 @@ date: '2026-08-04'
 status: published
 confidence: 0
 image_query: Měnové intervence nejsou jen o
+impact:
+  areas: [money]
+  line: >-
+    Zásah na podporu jenu se netýká jen jednoho měnového páru: pokud se
+    financoval prodejem eur, hýbe i kurzy EUR/JPY a EUR/USD. Prakticky to cítí
+    hlavně ten, kdo v těchto měnách nakupuje, cestuje nebo dováží.
+  todo: >-
+    Kdo transakci provedl a z čeho, veřejně jasné není; vyjádření vydávají
+    japonské ministerstvo financí a centrální banka. Porovnat se dá i pohyb
+    EUR/JPY vedle USD/JPY.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/menove-intervence-nejsou-jen-o-cilove-mene-cim-se-plati-a-co-analyza-333413

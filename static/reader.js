@@ -46,6 +46,45 @@
   var briefBox = null;   // ranní briefing, pokud jsme právě na jeho stránce
   var briefMode = "mix";
 
+
+  /* ------------------------------------------------ odběr e-mailem */
+  /* Přihlášení bez odskoku na jinou stránku. Když JavaScript neběží,
+     formulář se odešle normálně a program odpoví přesměrováním —
+     tenhle kus kódu je pohodlí navíc, ne podmínka. */
+  function wireSignup() {
+    var form = doc.getElementById("nl-form");
+    if (!form || !form.getAttribute("action")) return;
+    var done = doc.getElementById("nl-live-thanks");
+    form.addEventListener("submit", function (ev) {
+      if (!window.fetch) return;                 // starý prohlížeč: nech to projít
+      ev.preventDefault();
+      var btn = form.querySelector("button");
+      if (btn) btn.disabled = true;
+      fetch(form.getAttribute("action"), {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "Accept": "application/json" },
+        body: JSON.stringify({
+          email: (form.querySelector("input[type=email]") || {}).value || "",
+          website: (form.querySelector("input[name=website]") || {}).value || "",
+          lang: (form.querySelector("input[name=lang]") || {}).value || "",
+          source: (form.querySelector("input[name=source]") || {}).value || "",
+          consent_text: (form.querySelector("input[name=consent_text]") || {}).value || ""
+        })
+      }).then(function (r) { return r.json(); }).then(function (out) {
+        if (out && out.ok) {
+          form.hidden = true;
+          if (done) done.hidden = false;
+        } else {
+          if (btn) btn.disabled = false;
+          form.submit();                          // ať to nespolkne chybu potichu
+        }
+      })["catch"](function () {
+        if (btn) btn.disabled = false;
+        form.submit();
+      });
+    });
+  }
+
   /* ---------------------------------------------------------- úložiště */
   function num(v, lo, hi, dflt) {
     v = parseInt(v, 10);
@@ -1494,6 +1533,7 @@
     foryou();
     quizzes();
     qmaTracking();
+    wireSignup();
     // hello() bere argument, a ten se sem z časovače nesmí připlést
     /* Briefing má vlastní kompaktní nastavení. Průvodce přes něj nesmí
        na první návštěvě vyskočit a zakrýt dvě hlavní zpravodajská okna. */

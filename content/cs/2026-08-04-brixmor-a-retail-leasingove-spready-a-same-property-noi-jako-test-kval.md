@@ -13,6 +13,16 @@ date: '2026-08-04'
 status: published
 confidence: 0
 image_query: 'Brixmor a retail: leasingové spready'
+impact:
+  areas: [money, life]
+  line: >-
+    Americká nákupní centra ukotvená supermarketem obnovují nájmy dráž.
+    Zákazníkovi to rohlík nezlevní; nájemcům s tenkou marží, tedy malým
+    obchodům, restauracím a fitness, to zvedá nájem, okolí naopak snižuje riziko
+    poloprázdného centra.
+  todo: >-
+    Údaje o obsazenosti, leasingových spreadech a same-property NOI bývají v
+    kvartální prezentaci, supplemental balíčku a ve formulářích 10-Q a 10-K.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/brixmor-a-retail-leasingove-spready-a-same-property-noi-jako-analyza-333727

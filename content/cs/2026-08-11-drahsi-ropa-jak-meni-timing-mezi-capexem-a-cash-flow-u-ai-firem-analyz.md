@@ -12,6 +12,16 @@ date: '2026-08-11'
 status: published
 confidence: 0
 image_query: 'Drahší ropa: jak mění timing'
+impact:
+  areas: [money]
+  line: >-
+    Dražší ropa zdražuje energie v celé ekonomice a zároveň zvyšuje kolísání
+    růstových akcií, protože trh začne přísněji počítat zisky, které přijdou až
+    za několik let. Domácnost to cítí u paliv, investor v portfoliu.
+  todo: >-
+    Zda se výdaje na AI mění v peníze, je vidět ve čtvrtletních výkazech: hrubá
+    marže, zásoby, poměr kapitálových výdajů k tržbám a volné cash flow po
+    investicích.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/drahsi-ropa-jak-meni-timing-mezi-capexem-a-cash-flow-u-ai-fi-analyza-338536

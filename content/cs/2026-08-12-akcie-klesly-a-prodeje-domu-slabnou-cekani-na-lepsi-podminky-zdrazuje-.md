@@ -13,6 +13,15 @@ date: '2026-08-12'
 status: published
 confidence: 0
 image_query: Akcie klesly a prodeje domů
+impact:
+  areas: [money, life]
+  line: >-
+    Americké prodeje domů slábnou: když je hypotéka drahá a cena domu vysoká,
+    kupující nákup odkládají a s ním i stěhování, rekonstrukce a nákupy kolem
+    nich. Stavitelé pak poptávku dohánějí slevou nebo příspěvkem na hypotéku.
+  todo: >-
+    U bydlení se hlásí zvlášť nové a zvlášť existující domy; vedle počtu prodejů
+    je užitečná zásoba domů k prodeji a dostupnost hypoték.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/akcie-klesly-a-prodeje-domu-slabnou-cekani-na-lepsi-podminky-analyza-339026

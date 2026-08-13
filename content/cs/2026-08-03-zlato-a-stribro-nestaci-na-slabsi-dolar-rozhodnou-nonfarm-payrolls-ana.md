@@ -12,6 +12,16 @@ date: '2026-08-03'
 status: published
 confidence: 0
 image_query: Zlato a stříbro nestačí na
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se cenou zlata a stříbra na běžném dni nemění nic. Podstatné
+    je, proč kovy nerostou: levnější ropa jim ubrala krizovou přirážku a vyšší
+    americké sazby zdražují jejich držení, protože kov nenese úrok.
+  todo: >-
+    Americký měsíční report Nonfarm Payrolls o nových pracovních místech vychází
+    pravidelně; vedle hlavního čísla je v něm i vývoj mezd a revize starších
+    dat.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zlato-a-stribro-nestaci-na-slabsi-dolar-rozhodnou-nonfarm-pa-analyza-332949

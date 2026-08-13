@@ -13,6 +13,16 @@ date: '2026-08-05'
 status: published
 confidence: 0
 image_query: U íránských titulků oddělte mediální
+impact:
+  areas: [money, safety]
+  line: >-
+    Ropa může zdražit dřív, než někde reálně chybí barel: platí se za dražší
+    pojištění, delší kontroly a opatrnější banky. Domácnostem se to může časem
+    projevit u benzinu, letenek a zboží, které cestuje přes půl světa.
+  todo: >-
+    Sankční seznamy zveřejňuje americký úřad OFAC, sazby tankerů Baltic
+    Exchange, rizikové oblasti Joint War Committee při Lloyd's Market
+    Association; pohyb lodí ukazují veřejné AIS mapy.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-iranskych-titulku-oddelte-medialni-hluk-dulezitejsi-jsou-p-analyza-334217

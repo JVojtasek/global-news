@@ -13,6 +13,16 @@ date: '2026-08-05'
 status: published
 confidence: 0
 image_query: Rekordy na Wall Street a
+impact:
+  areas: [money]
+  line: >-
+    Levnější ropa je pro domácnosti úleva u paliv a dopravy, ale záleží na tom,
+    proč zlevnila. Když padá jen nejbližší kontrakt, jde o sundání geopolitické
+    přirážky; když měkne celá křivka, trh se bojí slabší poptávky.
+  todo: >-
+    Tvar futures křivky je na burzách ICE a CME, crack spready a využití
+    rafinerií v týdenních datech americké EIA. Rozdíl mezi předním měsícem a
+    celým pásem je tam vidět.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rekordy-na-wall-street-a-levnejsi-ropa-znamena-to-ulevu-nebo-analyza-334400

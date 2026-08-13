@@ -1,0 +1,13 @@
+# Nastavení programu, který přijímá přihlášení k odběru.
+# Tajné údaje (heslo k databázi, klíč k rozesílací službě) sem NEPATŘÍ —
+# ty se ukládají příkazem `wrangler secret put`, viz infra/README.md.
+
+name = "mypaper-subscribe"
+main = "src/index.js"
+compatibility_date = "2026-08-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+ALLOWED_ORIGINS = "https://mypaper.news"
+SITE_URL = "https://mypaper.news"
+PROVIDER = "beehiiv"          # beehiiv | mailerlite | prázdné = zatím jen ukládat

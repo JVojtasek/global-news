@@ -12,6 +12,16 @@ date: '2026-08-04'
 status: published
 confidence: 0
 image_query: 'Nová maxima S&P 500: tři'
+impact:
+  areas: [money]
+  line: >-
+    Nové maximum amerického indexu samo o sobě neříká, že vydělává víc firem.
+    Kdo má penzijní fond nebo indexové ETF, vidí lepší číslo, ale zároveň
+    portfolio citlivější na zklamání: na maximech se dobré zprávy čekají předem.
+  todo: >-
+    Rovnoměrně vážená verze indexu i podíl firem nad 200denním průměrem jsou v
+    materiálech indexových správců a v burzovních statistikách; kreditní spready
+    ve veřejných datech Fedu.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nova-maxima-s-p-500-tri-znaky-ze-rust-je-sirsi-a-zdravy-analyza-333734

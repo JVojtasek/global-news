@@ -13,6 +13,17 @@ date: '2026-08-05'
 status: published
 confidence: 0
 image_query: 'Slabý ADP a skryté riziko:'
+impact:
+  areas: [money, life]
+  line: >-
+    Americké soukromé firmy přidaly v červenci podle ADP jen 44 tisíc míst a
+    téměř celý přírůstek přišel ze zdravotnictví; odvětví vyrábějící zboží
+    skončila v čisté ztrátě. V amerických výrobních a stavebních oborech to
+    znamená opatrnější nábor.
+  todo: >-
+    ADP není vládní statistika. Měsíční payrolls a odpracované hodiny publikuje
+    Bureau of Labor Statistics, týdenní žádosti o podporu americké ministerstvo
+    práce, nábory a odchody JOLTS.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/slaby-adp-a-skryte-riziko-zdravotnictvi-muze-maskovat-ochlaz-analyza-334333

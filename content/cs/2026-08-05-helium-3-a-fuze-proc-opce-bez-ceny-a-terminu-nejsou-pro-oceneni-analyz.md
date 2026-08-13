@@ -13,6 +13,16 @@ date: '2026-08-05'
 status: published
 confidence: 0
 image_query: 'Helium-3 a fúze: proč „opce“'
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se tím nemění nic: dohoda o heliu-3 nemá zveřejněný objem,
+    cenu ani termín dodávek a fúzní elektrárny zatím nevyrábějí. Na účtech za
+    elektřinu ani na cenách energií se to zatím neprojeví nijak.
+  todo: >-
+    Rozdíl mezi opcí a závazkem se pozná ze smluvních podmínek: minimální objem,
+    take-or-pay, cena, sankce, místo a datum první dodávky. Zatím žádná z nich
+    zveřejněná není.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/helium-3-a-fuze-proc-opce-bez-ceny-a-terminu-nejsou-pro-ocen-analyza-334502

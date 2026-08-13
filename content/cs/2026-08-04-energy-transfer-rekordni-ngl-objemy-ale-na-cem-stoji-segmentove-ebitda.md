@@ -13,6 +13,16 @@ date: '2026-08-04'
 status: published
 confidence: 0
 image_query: 'Energy Transfer: rekordní NGL objemy,'
+impact:
+  areas: [money]
+  line: >-
+    Rekordní objemy kapalin ze zemního plynu znamenají, že americkou sítí
+    protéká víc suroviny, ne že zdražila ropa. Domácnosti to na účtu nepocítí
+    hned; propsat se to může nepřímo přes ceny paliv, plastů a topného propanu.
+  todo: >-
+    Objemy a exporty kapalin ze zemního plynu jsou v datech americké EIA,
+    segmentové výsledky ve firemní prezentaci a ve formuláři 10-Q, tarify v
+    podáních u FERC.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/energy-transfer-rekordni-ngl-objemy-ale-na-cem-stoji-segment-analyza-333692

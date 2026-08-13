@@ -13,6 +13,15 @@ date: '2026-08-03'
 status: published
 confidence: 0
 image_query: Pokles výnosů, breakeven inflace a
+impact:
+  areas: [money]
+  line: >-
+    Sám pokles výnosů amerických dluhopisů nikomu nezlevní hypotéku ani nezdraží
+    nákup; je to signál, který teprve dostane význam podle toho, jestli klesá i
+    tržní očekávání inflace, nebo naopak rostou přirážky rizikovějším firmám.
+  todo: >-
+    Sledovat se dají tři čísla: breakeven inflace, reálné výnosy a kreditní
+    spready; u měsíčních dat z trhu práce také mzdy a revize předchozích měsíců.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/pokles-vynosu-breakeven-inflace-a-pohyb-jenu-uleva-nebo-utek-analyza-332944

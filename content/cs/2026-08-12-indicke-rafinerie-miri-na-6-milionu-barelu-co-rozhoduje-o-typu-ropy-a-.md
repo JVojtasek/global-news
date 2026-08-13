@@ -12,6 +12,15 @@ date: '2026-08-12'
 status: published
 confidence: 0
 image_query: Indické rafinerie míří na 6
+impact:
+  areas: [money]
+  line: >-
+    Dvě indické státní rafinerie hledají ve spotových tendrech dohromady až 6
+    milionů barelů ropy. Není to uzavřený nákup, jen poptávka. Domácnostem se to
+    může projevit až tehdy, když se podobných nákupů sejde víc a ropa zdraží.
+  todo: >-
+    U tendru rozhoduje víc než objem: jestli byl vůbec uzavřen, jaký typ ropy
+    vyhrál, odkud pojede a jak se to promítne do rafinační marže.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/indicke-rafinerie-miri-na-6-milionu-barelu-co-rozhoduje-o-ty-analyza-339004

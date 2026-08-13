@@ -1,0 +1,182 @@
+/* =====================================================================
+   My Paper — přihlašovací okénko k odběru
+   -----------------------------------------------------------------
+   Malý program na Cloudflare, který stojí mezi statickým webem
+   a dvěma místy, kam adresa patří:
+
+     1. do Neonu ......... aby seznam patřil nám a nikomu jinému
+     2. k rozesílací službě ... aby e-maily doopravdy dorazily
+
+   Proč to dělení: uložit adresu je snadné. Doručit e-mail do schránky
+   snadné není — je za tím SPF, DKIM, DMARC, odhlašovací odkaz, odražené
+   zprávy a reputace domény. Kdybychom rozesílali sami z čerstvé domény,
+   spadneme do spamu a pověst mypaper.news si poškodíme natrvalo.
+   Rozesílání proto necháváme službě, která to umí. Data si necháváme.
+
+   Když rozesílací služba není nastavená, adresa se uloží do Neonu
+   a program to řekne. Nic se neztratí.
+
+   Nasazení: infra/README.md
+   ===================================================================== */
+
+import { neon } from "@neondatabase/serverless";
+
+/* Nikam neposíláme čitelnou IP adresu. K doložení souhlasu stačí otisk;
+   zpětně z něj nikoho nedohledáš, ale prokážeš, že souhlas vznikl. */
+async function hashIp(ip, salt) {
+  if (!ip) return null;
+  const data = new TextEncoder().encode(`${salt || ""}:${ip}`);
+  const digest = await crypto.subtle.digest("SHA-256", data);
+  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+/* Úmyslně mírné. Přísná regulární pravidla na e-maily odmítají platné
+   adresy a nezachytí ani o jednu chybu navíc — na to je potvrzovací
+   e-mail od rozesílací služby. */
+function looksLikeEmail(value) {
+  return typeof value === "string"
+    && value.length >= 6 && value.length <= 254
+    && /^[^\s@]+@[^\s@.]+\.[^\s@]{2,}$/.test(value);
+}
+
+function cors(origin, allowed) {
+  const ok = allowed.includes(origin) ? origin : allowed[0];
+  return {
+    "Access-Control-Allow-Origin": ok,
+    "Access-Control-Allow-Methods": "POST, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type",
+    "Vary": "Origin",
+  };
+}
+
+async function readFields(request) {
+  const type = request.headers.get("content-type") || "";
+  if (type.includes("application/json")) return await request.json();
+  const form = await request.formData();
+  return Object.fromEntries(form.entries());
+}
+
+/* Předání rozesílací službě. Podporuje beehiiv i MailerLite — obojí má
+   free tarif. Když v nastavení nic není, tichý přeskok. */
+async function forwardToProvider(env, email, lang) {
+  const provider = (env.PROVIDER || "").toLowerCase();
+  try {
+    if (provider === "beehiiv" && env.PROVIDER_KEY && env.BEEHIIV_PUBLICATION_ID) {
+      const r = await fetch(
+        `https://api.beehiiv.com/v2/publications/${env.BEEHIIV_PUBLICATION_ID}/subscriptions`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.PROVIDER_KEY}` },
+          body: JSON.stringify({ email, reactivate_existing: true, send_welcome_email: true,
+                                 utm_source: "mypaper", custom_fields: [{ name: "lang", value: lang }] }),
+        });
+      const body = await r.json().catch(() => ({}));
+      return { ok: r.ok, id: body?.data?.id || null };
+    }
+    if (provider === "mailerlite" && env.PROVIDER_KEY) {
+      const r = await fetch("https://connect.mailerlite.com/api/subscribers", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.PROVIDER_KEY}` },
+        body: JSON.stringify({ email, fields: { lang } }),
+      });
+      const body = await r.json().catch(() => ({}));
+      return { ok: r.ok, id: body?.data?.id || null };
+    }
+  } catch (err) {
+    /* Výpadek služby nesmí shodit přihlášení. Adresa je v Neonu,
+       doplní se ručně nebo příštím během. */
+    return { ok: false, id: null, error: String(err) };
+  }
+  return { ok: false, id: null, error: "provider not configured" };
+}
+
+export default {
+  async fetch(request, env) {
+    const origin = request.headers.get("Origin") || "";
+    const allowed = (env.ALLOWED_ORIGINS || "https://mypaper.news").split(",").map((s) => s.trim());
+    const head = cors(origin, allowed);
+    const url = new URL(request.url);
+
+    if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: head });
+
+    /* --- odhlášení ------------------------------------------------ */
+    if (url.pathname === "/unsubscribe") {
+      const token = url.searchParams.get("t");
+      if (!token) return new Response("Chybí klíč.", { status: 400, headers: head });
+      const sql = neon(env.DATABASE_URL);
+      await sql`update mypaper.subscribers
+                   set unsubscribed_at = now(), updated_at = now()
+                 where unsub_token = ${token}::uuid and unsubscribed_at is null`;
+      return new Response(
+        "<!doctype html><meta charset=utf-8><title>Odhlášeno</title>" +
+        "<body style='font:16px/1.6 Georgia,serif;max-width:34rem;margin:4rem auto;padding:0 1rem'>" +
+        "<h1>Odhlášeno</h1><p>Už ti nic neposíláme. Adresu jsme si nechali jen označenou jako " +
+        "odhlášenou, abychom ti omylem nezačali psát znovu.</p>" +
+        "<p><a href='https://mypaper.news/'>Zpátky na My Paper</a></p>",
+        { status: 200, headers: { ...head, "Content-Type": "text/html; charset=utf-8" } });
+    }
+
+    if (request.method !== "POST") return new Response("Method not allowed", { status: 405, headers: head });
+
+    let fields;
+    try { fields = await readFields(request); }
+    catch { return new Response("Bad request", { status: 400, headers: head }); }
+
+    /* Past na roboty: pole `website` je ve formuláři schované. Člověk ho
+       nevidí, robot ho vyplní. Tváříme se, že se povedlo. */
+    if (fields.website) return json({ ok: true }, head, request, env);
+
+    const email = String(fields.email || "").trim().toLowerCase();
+    if (!looksLikeEmail(email)) return json({ ok: false, error: "email" }, head, request, env, 400);
+
+    const lang = ["cs", "en"].includes(String(fields.lang || "")) ? fields.lang : "en";
+    const source = String(fields.source || "").slice(0, 200) || null;
+    const consentText = String(fields.consent_text || "").slice(0, 500) || null;
+    const ipHash = await hashIp(request.headers.get("CF-Connecting-IP"), env.IP_SALT);
+
+    const sql = neon(env.DATABASE_URL);
+    let unsubToken = null;
+    try {
+      const rows = await sql`
+        insert into mypaper.subscribers (email, lang, source, consent_ip, consent_text)
+        values (${email}, ${lang}, ${source}, ${ipHash}, ${consentText})
+        on conflict (email_lower) do update
+           set unsubscribed_at = null,
+               lang            = excluded.lang,
+               source          = coalesce(mypaper.subscribers.source, excluded.source),
+               updated_at      = now()
+        returning unsub_token`;
+      unsubToken = rows?.[0]?.unsub_token || null;
+    } catch (err) {
+      return json({ ok: false, error: "db" }, head, request, env, 500);
+    }
+
+    const fwd = await forwardToProvider(env, email, lang);
+    if (fwd.ok) {
+      try {
+        await sql`update mypaper.subscribers
+                     set provider = ${(env.PROVIDER || "").toLowerCase()},
+                         provider_id = ${fwd.id},
+                         updated_at = now()
+                   where email_lower = ${email}`;
+      } catch { /* uloženo je, zbytek je kosmetika */ }
+    }
+
+    return json({ ok: true, delivered: fwd.ok, unsub: unsubToken }, head, request, env);
+  },
+};
+
+/* Prohlížeč s JavaScriptem chce odpověď v JSON a zůstane na stránce.
+   Bez JavaScriptu se formulář odešle normálně — tomu odpovíme
+   přesměrováním na děkovnou stránku, ať člověk nekouká do prázdna. */
+function json(payload, head, request, env, status = 200) {
+  const accept = request.headers.get("Accept") || "";
+  const wantsHtml = accept.includes("text/html");
+  if (wantsHtml) {
+    const base = (env.SITE_URL || "https://mypaper.news").replace(/\/$/, "");
+    const to = payload.ok ? `${base}/en/thanks/` : `${base}/en/#newsletter`;
+    return new Response(null, { status: 303, headers: { ...head, Location: to } });
+  }
+  return new Response(JSON.stringify(payload), {
+    status, headers: { ...head, "Content-Type": "application/json" } });
+}

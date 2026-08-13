@@ -16,6 +16,15 @@ edition_slot: 7
 event_id: "jericho-city"
 series: "Města Bible"
 image_query: "Jericho excavation tell archaeology"
+impact:
+  areas: [life]
+  line: >-
+    Nikomu se tím na běžném dni nemění nic, je to historický text. Podstatné je,
+    co se o Jerichu tvrdit dá a co ne: kamenná věž je starší než písmo, ale
+    datování zániku města zůstává sporné.
+  todo: >-
+    Zprávy z vykopávek jsou publikované. Kdokoli si v nich může ověřit, které
+    tvrzení o Jerichu pochází z výzkumu a které jen z opakování.
 sources:
   - name: "Wikipedia — Tell es-Sultan"
     url: "https://en.wikipedia.org/wiki/Tell_es-Sultan"

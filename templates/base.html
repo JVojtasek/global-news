@@ -92,10 +92,21 @@
     <h2>{{ nl_headline }}</h2>
     <p>{{ nl_text }}</p>
     {% if newsletter.form_action %}
-    <form action="{{ newsletter.form_action }}" method="post" target="_blank">
-      <input type="email" name="{{ newsletter.field_name }}" required placeholder="your@email.com" aria-label="e-mail">
+    {# Odeslání zůstává na stránce (viz reader.js). Bez JavaScriptu se
+       formulář odešle normálně a program odpoví přesměrováním na
+       děkovnou stránku — funguje to tak jako tak.
+       Pole `website` je past na roboty: člověk ho nevidí, robot ho
+       vyplní, a takové přihlášení se tiše zahodí. #}
+    <form class="nl-live" id="nl-form" action="{{ newsletter.form_action }}" method="post"
+          data-thanks="{{ base }}/{{ lang }}/thanks/">
+      <input type="email" name="{{ newsletter.field_name }}" required placeholder="your@email.com" aria-label="e-mail" autocomplete="email">
+      <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="nl-trap">
+      <input type="hidden" name="lang" value="{{ lang }}">
+      <input type="hidden" name="source" value="{{ alt_path or '/' }}">
+      <input type="hidden" name="consent_text" value="{{ t.nl_privacy }}">
       <button type="submit">{{ nl_button }}</button>
     </form>
+    <p class="nl-thanks" id="nl-live-thanks" role="status" hidden>{{ t.nl_sub_thanks }}</p>
     {% elif nl_mail %}
     <form class="nl-mail" id="nl-form" data-mail="{{ nl_mail }}" data-subject="{{ t.nl_sub_subject }}">
       <input type="email" name="{{ newsletter.field_name or 'email' }}" required placeholder="your@email.com" aria-label="e-mail">

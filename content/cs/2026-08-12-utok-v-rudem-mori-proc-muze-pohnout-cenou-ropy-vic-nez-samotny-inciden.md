@@ -13,6 +13,16 @@ date: '2026-08-12'
 status: published
 confidence: 0
 image_query: 'Útok v Rudém moři: proč'
+impact:
+  areas: [money, safety]
+  line: >-
+    Útok na obchodní loď u Bab el-Mandebu si vyžádal oběti, poprvé v Rudém moři
+    po víc než roce. Ropa, pojištění a přeprava mohou zdražit dřív, než někde
+    fyzicky něco chybí; časem se to může objevit u paliv a dováženého zboží.
+  todo: >-
+    U podobných zpráv rozhoduje, jestli šlo o obchodní loď, jestli byly oběti a
+    jestli je zasažena jedna trasa, nebo víc; tady zpráva zmiňuje Bab el-Mandeb
+    i Ománský záliv.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/utok-v-rudem-mori-proc-muze-pohnout-cenou-ropy-vic-nez-samot-analyza-339008

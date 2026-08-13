@@ -13,6 +13,16 @@ date: '2026-08-11'
 status: published
 confidence: 0
 image_query: 'Kritické kovy a skandium: co'
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se tím nemění nic a levnější elektronika z toho nebude.
+    Podstatné je, že americké ministerstvo obrany půjčilo 400 milionů dolarů na
+    produkci skandia, aby obranné a průmyslové řetězce méně visely na Číně.
+  todo: >-
+    U takových oznámení je rozdíl mezi dluhem a novými akciemi a mezi závaznou
+    odběratelskou smlouvou a strategickým zájmem; podmínky čerpání bývají v
+    burzovním oznámení firmy.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kriticke-kovy-a-skandium-co-meni-financovani-technologie-a-o-analyza-338388

@@ -13,6 +13,16 @@ date: '2026-08-06'
 status: published
 confidence: 0
 image_query: Červencová data z USA a
+impact:
+  areas: [life, money]
+  line: >-
+    Americké červencové nábory zpomalily, ale nezaměstnanost se výrazně
+    nezhoršila. Pro toho, kdo hledá práci v USA, je to rozdíl mezi opatrnějším
+    náborem a skutečným propouštěním; zatím jde o to první.
+  todo: >-
+    Sahmovo pravidlo bliká, když tříměsíční průměr nezaměstnanosti stoupne o 0,5
+    procentního bodu nad minimum za posledních dvanáct měsíců; vedle něj jsou
+    týdenní žádosti o podporu a JOLTS.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cervencova-data-z-usa-a-sahm-rule-proc-samotne-zpomaleni-nab-analyza-335125

@@ -2015,7 +2015,7 @@ def run() -> None:
                        by_mail=by_mail, **page("members/", "page")))
 
         # --- statické stránky ---
-        for name in ("about", "start", "privacy", "terms"):
+        for name in ("about", "start", "privacy", "terms", "thanks"):
             src = config.DATA / "pages" / f"{name}.{lang}.md"
             page_lang = lang
             if not src.exists():

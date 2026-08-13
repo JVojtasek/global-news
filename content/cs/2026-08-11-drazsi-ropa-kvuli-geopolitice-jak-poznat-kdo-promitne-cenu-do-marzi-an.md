@@ -12,6 +12,16 @@ date: '2026-08-11'
 status: published
 confidence: 0
 image_query: 'Dražší ropa kvůli geopolitice: jak'
+impact:
+  areas: [money]
+  line: >-
+    Dražší ropa nezdraží všechno stejně. Kdo náklad neumí přenést na zákazníka,
+    platí ho z marže; domácnostem se to objeví hlavně v ceně benzinu, dopravy a
+    zboží, které se musí odněkud dovézt.
+  todo: >-
+    Rozdíl mezi cenou ropy a cenou paliv, tedy crack spread, i palivové náklady
+    leteckých firem jsou ve čtvrtletních výsledcích a ve veřejných burzovních
+    datech.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/drazsi-ropa-kvuli-geopolitice-jak-poznat-kdo-promitne-cenu-d-analyza-338506

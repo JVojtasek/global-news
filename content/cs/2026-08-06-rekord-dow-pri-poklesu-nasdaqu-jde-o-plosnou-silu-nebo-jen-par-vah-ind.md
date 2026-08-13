@@ -13,6 +13,16 @@ date: '2026-08-06'
 status: published
 confidence: 0
 image_query: 'Rekord Dow při poklesu Nasdaqu:'
+impact:
+  areas: [money]
+  line: >-
+    Dow je vážený cenou akcie, ne velikostí firmy, takže pár dražších titulů
+    může udělat velkou část rekordu. Kdo drží fond nebo portfolio s jiným mixem
+    firem, nemusí titulkový rekord ve svých číslech vidět vůbec.
+  todo: >-
+    Bodový příspěvek jednotlivých firem k pohybu indexu i rovnoměrně vážená
+    verze indexu jsou veřejně dostupné; ukážou, jestli rekord nese celý trh,
+    nebo jen několik dražších akcií.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rekord-dow-pri-poklesu-nasdaqu-jde-o-plosnou-silu-nebo-jen-p-analyza-335174
