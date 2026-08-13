@@ -4,84 +4,105 @@
 {% block body %}
 <main class="morning wide" id="morning-briefing" data-live-briefing
       data-live-url="https://raw.githubusercontent.com/JVojtasek/global-news/live-feed/static/live-news.json"
-      data-lang="{{ lang }}" data-brief-world-limit="8" data-brief-local-limit="120"
+      data-lang="{{ lang }}" data-brief-world-limit="6" data-brief-local-limit="6"
       data-empty-label="{{ t.ticker_empty }}" data-sources-word="{{ t.sources_word }}"
       data-country-label="{{ t.brief_country_mark }}"
+      data-stale-label="{{ t.ticker_stale }}" data-updated-label="{{ t.ticker_updated }}"
       data-ago-now="{{ t.ticker_ago_now }}" data-ago-min="{{ t.ticker_ago_min }}"
       data-ago-hour="{{ t.ticker_ago_hour }}" data-ago-day="{{ t.ticker_ago_day }}">
   <header class="morning-head">
-    <p class="kicker">{{ today_label }}</p>
-    <h1>{{ t.brief_page_title }}</h1>
-    <p class="morning-intro">{{ t.brief_page_intro }}</p>
-
-    <div class="brief-controls">
-      <fieldset class="brief-scope">
-        <legend>{{ t.brief_scope }}</legend>
-        <div class="brief-scope-buttons">
-          <button type="button" data-brief-scope="home" aria-pressed="false">{{ t.brief_scope_home }}</button>
-          <button type="button" data-brief-scope="mix" aria-pressed="true">{{ t.brief_scope_mix }}</button>
-          <button type="button" data-brief-scope="world" aria-pressed="false">{{ t.brief_scope_world }}</button>
-        </div>
-      </fieldset>
-      <label class="brief-country">
-        <span>{{ t.brief_country }}</span>
-        <select id="brief-country">
-          <option value="">{{ t.brief_country_pick }}</option>
-          {% for country in country_catalogue %}<option value="{{ country.code }}" data-eu="{{ 1 if country.eu else 0 }}">{{ country[lang] or country.en }}</option>{% endfor %}
-        </select>
-      </label>
-      <div class="brief-personal">
-        <button type="button" onclick="tdsOpenReader()">{{ t.brief_settings }}</button>
-        <p>{{ t.brief_private }}</p>
+    <div class="morning-title-row">
+      <div class="morning-title-copy">
+        <p class="kicker">{{ today_label }}</p>
+        <h1>{{ t.brief_page_title }}</h1>
+        <p class="morning-intro">{{ t.brief_page_intro }}</p>
+        <p class="brief-freshness"><span aria-hidden="true"></span><strong>{{ t.brief_live }}</strong> · <span data-live-health>{{ t.ticker_loading }}</span></p>
       </div>
+      <details class="brief-settings">
+        <summary>
+          <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><path d="M4 7h8M17 7h3M4 12h3M12 12h8M4 17h8M17 17h3"/><circle cx="14.5" cy="7" r="2.1"/><circle cx="9.5" cy="12" r="2.1"/><circle cx="14.5" cy="17" r="2.1"/></svg>
+          {{ t.brief_preferences }}
+        </summary>
+        <div class="brief-settings-panel">
+          <label class="brief-country">
+            <span>{{ t.brief_country }}</span>
+            <select id="brief-country">
+              <option value="">{{ t.brief_country_pick }}</option>
+              {% for country in country_catalogue %}<option value="{{ country.code }}" data-eu="{{ 1 if country.eu else 0 }}">{{ country[lang] or country.en }}</option>{% endfor %}
+            </select>
+          </label>
+          <button class="brief-reader-settings" type="button" onclick="tdsOpenReader()">{{ t.brief_settings }}</button>
+          <p>{{ t.brief_private }}</p>
+        </div>
+      </details>
     </div>
   </header>
 
-  <section class="brief-block" data-brief-section data-brief-role="world">
-    <div class="brief-block-head">
-      <div><p class="brief-step">01</p><h2>{{ t.brief_world }}</h2></div>
-      <p>{{ t.brief_world_help }}</p>
-    </div>
-    <ol class="brief-list brief-live-list" data-live-brief-world aria-live="polite">
-      {% for item in briefing.live %}
-      <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}">
-        <div class="brief-time"><time datetime="{{ item.created_iso }}">{{ item.brief_time }}</time>{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
-        <div class="brief-copy">
-          <span class="brief-country-mark" hidden>{{ t.brief_country_mark }}</span>
-          <h3><a href="{{ item.url }}" rel="noopener">{{ item.headline }}</a></h3>
-          {% if item.summary %}<p>{{ item.summary }}</p>{% endif %}
-          <p class="brief-provenance">{{ t.brief_source }}: {{ item.source or '—' }}{% if item.sources_count > 1 %} · {{ item.sources_count }} {{ t.brief_sources }}{% endif %}</p>
+  <div class="brief-primary-grid" aria-label="{{ t.brief_scope_mix }}">
+    <section class="brief-block brief-window brief-local" data-brief-section data-brief-role="home">
+      <div class="brief-window-head">
+        <div class="brief-window-icon brief-window-icon-home" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 10v10h13V10M9.5 20v-6h5v6"/></svg>
         </div>
-      </li>
-      {% endfor %}
-    </ol>
-    {% if not briefing.live %}<p class="brief-empty" data-live-brief-loading>{{ t.ticker_loading }}</p>{% endif %}
-    <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
-  </section>
-
-  <section class="brief-block brief-local" data-brief-section data-brief-role="home">
-    <div class="brief-block-head">
-      <div><p class="brief-step">02</p><h2>{{ t.brief_local }}</h2></div>
-      <p>{{ t.brief_local_help }}</p>
-    </div>
-    <ol class="brief-list">
-      {% for item in briefing.local %}
-      <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}">
-        <div class="brief-time">{% if item.brief_time %}<time datetime="{{ item.created_iso }}">{{ item.brief_time }}</time>{% endif %}{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
-        <div class="brief-copy">
-          <span class="brief-country-mark">{{ t.brief_country_mark }}</span>
-          <h3><a href="{{ item.url }}" rel="noopener">{{ item.title }}</a></h3>
-          <p>{{ item.why }}</p>
-          <p class="brief-provenance">{{ t.brief_source }}: {{ item.source }}</p>
+        <div>
+          <p class="brief-step">01 · {{ t.brief_scope_home }}</p>
+          <h2>{{ t.brief_local }}</h2>
+          <p class="brief-window-country" data-brief-country-name>{{ t.brief_country_pick }}</p>
         </div>
-      </li>
-      {% endfor %}
-    </ol>
-    <ol class="brief-list brief-live-list" data-live-brief-home aria-live="polite"></ol>
-    <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
-  </section>
+      </div>
+      <p class="brief-window-help">{{ t.brief_local_help }}</p>
+      <div class="brief-window-body">
+        <ol class="brief-list">
+          {% for item in briefing.local %}
+          <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}">
+            <div class="brief-time">{% if item.brief_time %}<time datetime="{{ item.created_iso }}">{{ item.brief_time }}</time>{% endif %}{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
+            <div class="brief-copy">
+              <span class="brief-country-mark">{{ t.brief_country_mark }}</span>
+              <h3><a href="{{ item.url }}" rel="noopener">{{ item.title }}</a></h3>
+              <p>{{ item.why }}</p>
+              <p class="brief-provenance">{{ t.brief_source }}: {{ item.source }}</p>
+            </div>
+          </li>
+          {% endfor %}
+        </ol>
+        <ol class="brief-list brief-live-list" data-live-brief-home aria-live="polite"></ol>
+        <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
+      </div>
+    </section>
 
-  <section class="brief-block brief-decisions" data-brief-section>
+    <section class="brief-block brief-window brief-world" data-brief-section data-brief-role="world">
+      <div class="brief-window-head">
+        <div class="brief-window-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3.5 12h17M12 3c2.4 2.5 3.7 5.5 3.7 9S14.4 18.5 12 21c-2.4-2.5-3.7-5.5-3.7-9S9.6 5.5 12 3z"/></svg>
+        </div>
+        <div>
+          <p class="brief-step">02 · {{ t.brief_scope_world }}</p>
+          <h2>{{ t.brief_world }}</h2>
+          <p class="brief-window-country">{{ t.brief_global_label }}</p>
+        </div>
+      </div>
+      <p class="brief-window-help">{{ t.brief_world_help }}</p>
+      <div class="brief-window-body">
+        <ol class="brief-list brief-live-list" data-live-brief-world aria-live="polite">
+          {% for item in briefing.live %}
+          <li class="brief-item" data-countries="{{ item.countries.direct|join(',') }}" data-reach="{{ item.countries.scope }}" data-section="{{ item.section_id }}">
+            <div class="brief-time"><time datetime="{{ item.created_iso }}">{{ item.brief_time }}</time>{% if item.section %}<span>{{ item.section }}</span>{% endif %}</div>
+            <div class="brief-copy">
+              <span class="brief-country-mark" hidden>{{ t.brief_country_mark }}</span>
+              <h3><a href="{{ item.url }}" rel="noopener">{{ item.headline }}</a></h3>
+              {% if item.summary %}<p>{{ item.summary }}</p>{% endif %}
+              <p class="brief-provenance">{{ t.brief_source }}: {{ item.source or '—' }}{% if item.sources_count > 1 %} · {{ item.sources_count }} {{ t.brief_sources }}{% endif %}</p>
+            </div>
+          </li>
+          {% endfor %}
+        </ol>
+        {% if not briefing.live %}<p class="brief-empty" data-live-brief-loading>{{ t.ticker_loading }}</p>{% endif %}
+      </div>
+    </section>
+  </div>
+
+  <div class="brief-secondary-grid">
+  <section class="brief-block brief-panel brief-decisions" data-brief-section>
     <div class="brief-block-head">
       <div><p class="brief-step">03</p><h2>{{ t.brief_practical }}</h2></div>
       <p>{{ t.brief_practical_help }}</p>
@@ -106,7 +127,7 @@
     <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
   </section>
 
-  <section class="brief-block brief-watch" data-brief-section>
+  <section class="brief-block brief-panel brief-watch" data-brief-section>
     <div class="brief-block-head">
       <div><p class="brief-step">04</p><h2>{{ t.brief_watch }}</h2></div>
       <p>{{ t.brief_watch_help }}</p>
@@ -129,8 +150,10 @@
     {% else %}<p class="brief-empty">{{ t.brief_empty_watch }}</p>{% endif %}
     <p class="brief-scope-empty" hidden>{{ t.brief_empty_country }}</p>
   </section>
+  </div>
 
-  <section class="brief-block brief-readiness" data-brief-section>
+  <div class="brief-secondary-grid brief-secondary-lower">
+  <section class="brief-block brief-panel brief-readiness" data-brief-section>
     <div class="brief-block-head">
       <div><p class="brief-step">05</p><h2>{{ t.brief_ready }}</h2></div>
       <p>{{ t.brief_ready_help }}</p>
@@ -144,7 +167,7 @@
     <p class="brief-safety-note">{{ t.brief_ready_rule }}</p>
   </section>
 
-  <section class="brief-block brief-durable" data-brief-section>
+  <section class="brief-block brief-panel brief-durable" data-brief-section>
     <div class="brief-block-head">
       <div><p class="brief-step">06</p><h2>{{ t.brief_durable }}</h2></div>
       <p>{{ t.brief_durable_help }}</p>
@@ -160,6 +183,7 @@
     </ol>
     {% else %}<p class="brief-empty">{{ t.brief_empty_recent }}</p>{% endif %}
   </section>
+  </div>
 
   <footer class="brief-done">
     <span aria-hidden="true">✓</span>

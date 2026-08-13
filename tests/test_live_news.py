@@ -60,6 +60,22 @@ class LiveNewsTests(unittest.TestCase):
         self.assertIn('fetchFeed("/live-news.json")', source)
         self.assertIn("stamp(b.generated_at) - stamp(a.generated_at)", source)
 
+    def test_briefing_keeps_country_and_world_in_separate_windows(self):
+        root = Path(__file__).parents[1]
+        template = (root / "templates" / "briefing.html").read_text(encoding="utf-8")
+        country = template.index('data-brief-role="home"')
+        world = template.index('data-brief-role="world"')
+        self.assertLess(country, world)
+        self.assertIn('class="brief-settings"', template)
+        self.assertIn('data-brief-local-limit="6"', template)
+        self.assertNotIn('data-brief-scope="home"', template)
+
+    def test_country_change_rebuilds_a_country_specific_live_list(self):
+        source = (Path(__file__).parents[1] / "static" / "live.js").read_text(encoding="utf-8")
+        self.assertIn('reach.direct.indexOf(selected) >= 0', source)
+        self.assertIn('event.target.id === "brief-country"', source)
+        self.assertIn('health(box, data.generated_at)', source)
+
     def test_ticker_uses_event_time_and_filters_technology(self):
         events = [
             {"headline": "Older technology headline with enough descriptive words", "section": "tech",

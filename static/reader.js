@@ -1147,6 +1147,11 @@
     var eu = briefEu(c);
     var select = briefBox.querySelector("#brief-country");
     if (select) select.value = c;
+    var countryName = briefBox.querySelector("[data-brief-country-name]");
+    if (countryName && select) {
+      var option = select.options[select.selectedIndex];
+      countryName.textContent = c && option ? option.textContent : select.options[0].textContent;
+    }
 
     [].forEach.call(briefBox.querySelectorAll("[data-brief-scope]"), function (btn) {
       btn.setAttribute("aria-pressed", btn.getAttribute("data-brief-scope") === briefMode ? "true" : "false");
@@ -1175,7 +1180,10 @@
   function briefing() {
     briefBox = doc.getElementById("morning-briefing");
     if (!briefBox) return;
-    briefMode = briefSaved();
+    /* Nové vydání zobrazuje domov i svět vedle sebe. Starší uložená
+       volba rozsahu proto nesmí jeden z těchto dvou sloupců schovat. */
+    briefMode = "mix";
+    briefSave(briefMode);
     var select = briefBox.querySelector("#brief-country");
     if (select) {
       select.value = now().land;

@@ -163,11 +163,19 @@
       return item && item.headline && safeUrl(item.url) && stamp(item.published_at);
     }).sort(function (a, b) { return stamp(b.published_at) - stamp(a.published_at); });
     var worldLimit = parseInt(box.getAttribute("data-brief-world-limit"), 10) || 8;
-    var localLimit = parseInt(box.getAttribute("data-brief-local-limit"), 10) || 120;
+    var localLimit = parseInt(box.getAttribute("data-brief-local-limit"), 10) || 6;
+    var select = box.querySelector("#brief-country");
+    var selected = select ? String(select.value || "").toLowerCase() : "";
+    var option = select && select.selectedIndex >= 0 ? select.options[select.selectedIndex] : null;
+    var selectedEu = !!(option && option.getAttribute("data-eu") === "1");
     while (world.firstChild) world.removeChild(world.firstChild);
     while (home.firstChild) home.removeChild(home.firstChild);
     valid.slice(0, worldLimit).forEach(function (item) { world.appendChild(makeBriefItem(box, item)); });
-    valid.filter(function (item) { return countryData(item).direct.length > 0; })
+    valid.filter(function (item) {
+      var reach = countryData(item);
+      if (!selected) return false;
+      return reach.direct.indexOf(selected) >= 0 || (selectedEu && reach.scope === "eu");
+    })
       .slice(0, localLimit).forEach(function (item) { home.appendChild(makeBriefItem(box, item)); });
     var loading = box.querySelector("[data-live-brief-loading]");
     if (loading) loading.hidden = valid.length > 0;
@@ -178,7 +186,9 @@
     var url = box.getAttribute("data-live-url");
     if (!url) return;
     newestFeed(url).then(function (data) {
+        box.tdsBriefData = data;
         briefShow(box, data);
+        health(box, data.generated_at);
       }).catch(function () {
         var loading = box.querySelector("[data-live-brief-loading]");
         if (loading && !box.querySelector("[data-live-brief-world] .brief-item")) {
@@ -270,6 +280,11 @@
   });
 
   if (brief) {
+    brief.addEventListener("change", function (event) {
+      if (event.target && event.target.id === "brief-country" && brief.tdsBriefData) {
+        briefShow(brief, brief.tdsBriefData);
+      }
+    });
     loadBrief(brief);
     window.setInterval(function () { loadBrief(brief); }, 300000);
     window.setInterval(function () {
