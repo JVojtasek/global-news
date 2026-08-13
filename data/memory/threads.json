@@ -113,6 +113,35 @@
    ]
   },
   {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "bank",
+    "west",
+    "israeli"
+   ],
+   "event_ids": [
+    "09443cca3ddd"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-13",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -960,5 +989,5 @@
    ]
   }
  ],
- "updated": "2026-08-13T06:47:25+00:00"
+ "updated": "2026-08-13T09:40:48+00:00"
 }
