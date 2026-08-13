@@ -11,6 +11,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'Better call mom: Schools still see'
+impact:
+  areas: [life]
+  line: >-
+    In the US, schools default to phoning mothers: in an experiment with
+    more than 80,000 principals, mothers got the first call about 1.4 times
+    as often as fathers — roughly 60% to 40% — even when both parents looked
+    equally available.
+  todo: >-
+    Many schools let a family name a first contact, and different contacts
+    for different situations; the start of the school year is when those
+    routines are set.
 syndicated:
   source: The Conversation — Education
   author: Olga Stoddard, Associate Professor of Economics, Brigham Young University

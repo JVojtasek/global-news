@@ -29,9 +29,16 @@ sources:
 - name: The Conversation — Education
   url: https://theconversation.com/its-getting-hotter-in-classrooms-and-on-playgrounds-schools-arent-ready-to-handle-extreme-temperatures-287455
 impact:
-  areas: [health, safety]
-  line: "More US schools now start in July or August heat, but 41% of school districts with air conditioning need to update it, raising real risk of heat illness for kids without shade or cooling."
-  todo: "Ask your child's school what its heat policy is — indoor temperature limits, shaded outdoor space, and what happens on the hottest days."
+  areas: [health, life]
+  line: >-
+    For families with school-age children: US school absence rates run 16%
+    higher on days above 90 F (32 C), most heat illness in high-school sport
+    happens in July and August, and about a third of those events happen with
+    no nurse or medic present.
+  todo: >-
+    Ask your school two things: whether classrooms have working air
+    conditioning, and who is trained and present when children exercise
+    outdoors in heat.
 ---
 
 As temperatures in Phoenix soared to 117 degrees Fahrenheit, or 47 degrees Celsius, in July 2026, children living there headed outside to walk to and from school, play during recess and suit up for baseball practice.

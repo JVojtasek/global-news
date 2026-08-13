@@ -29,6 +29,17 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/mindfulness-is-often-presented-as-a-path-to-calm-but-its-buddhist-roots-explain-why-it-can-also-bring-difficulties-285314
+impact:
+  areas: [health, life]
+  line: >-
+    For anyone starting meditation or using an app: a minority report unwanted effects.
+    A 2017 survey found about 25% had temporary anxiety or unsettling thoughts; a 2021
+    UK study found lasting effects such as feeling detached in roughly 6–14% of
+    participants.
+  todo: >-
+    The article notes some programmes now ask about trauma or mental-health history
+    before training, and that difficult experiences are read differently with a trained
+    instructor than alone.
 ---
 
 Mindfulness meditation has become increasingly popular in the United States and around the world in recent decades. Apps such as Headspace, Calm and Plum Village – inspired by the Vietnamese Buddhist monk Thich Nhat Hanh – are helping people build a steady practice, reduce stress and improve sleep.

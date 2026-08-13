@@ -23,6 +23,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/
+impact:
+  areas: [life]
+  line: >-
+    Většině čtenářů se denně nemění nic; autoři upozorňují, že žádný stát
+    nezaručuje právní příslušnost navždy a že být bez státní příslušnosti
+    neznamená jen chybějící pas, ale ztrátu práv, která občanství tiše nese —
+    práce, pohybu, vzdělání.
+  todo: >-
+    Esej pochází od Apatride Network, organizace vedené lidmi bez státní
+    příslušnosti; v jejích materiálech jsou ta svědectví i používané pojmy.
 ---
 
 O tom, jestli je identita člověka platná nebo vůbec možná, nikdy nemá rozhodovat občanství, ani státní příslušnost

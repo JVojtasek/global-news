@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/trump-administration-is-withholding-more-than-1b-in-medicaid-funds-from-california-and-minnesota-in-latest-example-of-weaponizing-real-and-imagined-fraud-288664
+impact:
+  areas: [health, money]
+  line: >-
+    Nothing changes outside the United States. For Americans who rely on
+    Medicaid it is concrete: work requirements now apply to some adults,
+    researchers estimate almost 12 million more people could be uninsured by
+    2034, and over 3 million had already lost cover by mid-2026.
+  todo: >-
+    Eligibility rules are published by the Centers for Medicare and Medicaid
+    Services and each state's Medicaid agency; the withheld funds are
+    recoverable if the states supply the documentation.
 ---
 
 The Trump administration announced on July 21, 2026, that it’s withholding US$867 million in federal healthcare funding for California and $200 million for Minnesota – a total of more than $1 billion.

@@ -25,6 +25,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing day to day; the scale is the point. Indigenous
+    peoples are about 6.2% of the world's population but maintain territories covering
+    25% of the planet's landmass, holding much of its biodiversity.
+  todo: >-
+    Native Land Digital's interactive atlas maps historical and contemporary Indigenous
+    territories; the author notes it is still incomplete, particularly for Sub-Saharan
+    Africa and Asia.
 ---
 
 “[R]ather than presenting Indigenous stories as past or marginal stories, I want to highlight their importance as global stories.’

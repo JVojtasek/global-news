@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-nad-80-usd-geopolitika-ktera-rozhoduje-o-tom-zda-firmy--analyza-337734
+impact:
+  areas: [money, life]
+  line: >-
+    Kdo kupuje palivo nebo zboží, které se veze: podstatné je načasování. Ropa nad 80
+    dolary dorazí k řidiči u pumpy skoro hned, k dopravci vzápětí a do obchodů až tehdy,
+    když se přepočítá doprava a dodavatelské smlouvy.
+  todo: >-
+    Stojí za to rozlišit, jestli ropa roste ze silné poptávky, nebo ze strachu o dodávky
+    — a jestli pohyb vydrží několik dní, nebo jde o jednodenní výkyv.
 ---
 
 U ropy nad 80 USD nejde jen o cenu barelu, ale hlavně o to, kdo a jak rychle dokáže vyšší energetické náklady přenést dál, aniž by přišel o marži nebo zákazníka.

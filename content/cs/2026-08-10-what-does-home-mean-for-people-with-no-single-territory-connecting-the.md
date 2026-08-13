@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: What does home mean for people
+impact:
+  areas: [life]
+  line: >-
+    Z odhadovaných 400 000 Romů na Ukrajině jich asi 30 000 nemá žádné
+    doklady totožnosti a jsou fakticky bez státní příslušnosti — často
+    proto, že se dítě narodilo doma a nikdy nedostalo rodný list. Některé z
+    těchto rodin evropská přijímací střediska oddělovala.
+  todo: >-
+    Rodný list je ten pant: bez něj není pas ani status. Svědectví
+    shromažďuje seriál Global Voices o lidech bez státní příslušnosti.
 syndicated:
   source: Global Voices
   author: Daria Dergacheva

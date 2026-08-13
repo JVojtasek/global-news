@@ -28,6 +28,17 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/hoas-are-often-barriers-to-sustainable-landscaping-and-solar-energy-heres-how-they-could-be-bridges-instead-288483
+impact:
+  areas: [money, life]
+  line: >-
+    This is a United States story: about two in three new US homes sit under a
+    homeowners association, and the researchers found association rules
+    blocked solar panels, clotheslines and drought-tolerant planting far more
+    often than they encouraged them.
+  todo: >-
+    If you live under such rules, read the covenants before buying panels or
+    replacing a lawn; the article lists which US states now limit association
+    power over solar and landscaping.
 ---
 
 If you build a house in the United States today, there’s a good chance you’ll be living under the dictates of a neighborhood homeowners association – roughly two out of every three new homes are in an HOA, as are a third of existing homes.

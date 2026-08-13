@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/the-catholic-principle-guiding-popes-through-tech-upheavals-from-the-industrial-revolution-to-ai-288569
+impact:
+  areas: [life, safety]
+  line: >-
+    For most readers this changes nothing today. The concrete point for anyone
+    using a chatbot: the big platforms are proprietary black boxes, and their
+    training data is usually gathered by monitoring users — something the
+    article says many people do not know is happening.
+  todo: >-
+    Any AI service publishes a privacy policy stating what it collects and
+    whether conversations train the model; that is the document to check.
 ---
 
 Pope Leo XIV recently found himself in a position many of today’s students can relate to: having his writing tested for signs of artificial intelligence use.

@@ -24,6 +24,16 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/
+impact:
+  areas: [life]
+  line: >-
+    Většině čtenářů se nemění nic; je to družicový snímek. Vysvětluje ale
+    rozdíly v přílivu: v zálivu Roebuck Bay v Západní Austrálii dosahuje
+    rozdíl hladin 9 metrů, protože tamní šelf je široký a mělký; ve velké
+    části Austrálie jsou to 2 metry a méně.
+  todo: >-
+    Jestli něco plánujete na přílivovém pobřeží, zjistěte si místní rozdíl
+    hladin, místo abyste předpokládali, že bude jako na pobřeží, které znáte.
 ---
 
 - Věda

@@ -23,6 +23,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/
+impact:
+  areas: [life]
+  line: >-
+    Většině čtenářů se nemění nic: je to program přednášek NASA ve výstavní
+    hale konference IGARSS 2026, stánek č. 100, konaných 10., 11. a 12. srpna
+    — užitečný jen pro ty, kdo tam byli.
+  todo: >-
+    Program uvádí u každé přednášky název, řečníka i čas; úplný rozpis má na
+    svém webu NASA.
 ---
 
 - Země

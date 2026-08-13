@@ -28,6 +28,17 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/heartstopper-is-helping-lgbtq-fans-find-hope-and-community-across-time-and-space-287350
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing practical. The finding worth
+    carrying: in interviews with more than 50 fans aged 18 to 74, older LGBTQ+
+    viewers described the show as a source of hope and, for some, a stand-in
+    community when they had none nearby.
+  todo: >-
+    The final chapter, Heartstopper Forever, was released on 17 July 2026; the
+    researchers' point is about who actually watches, not only who the show
+    was made for.
 ---
 
 Despite the success of shows like “ Heated Rivalry ” and “ Euphoria ,” seeing queer people on screen is still rare. Only 9.3% of characters on American TV screens were identified as LGBTQ+ in the 2024-25 season. Around 41% of those characters are not scheduled to return for subsequent seasons, sounding alarms among those in the LGBTQ+ community about the drop in representation during a period of political uncertainty.

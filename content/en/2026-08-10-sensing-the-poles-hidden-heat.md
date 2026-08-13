@@ -11,6 +11,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Sensing the Poles’ Hidden Heat
+impact:
+  areas: [life]
+  line: >-
+    Nothing changes for readers today. What is new is a measurement:
+    far-infrared radiation carries nearly 60% of the energy Earth loses to
+    space and had never been measured globally until NASA's PREFIRE CubeSats
+    began in July 2024. Weather and climate models use it.
+  todo: >-
+    The data are on NASA Earthdata under PREFIRE; the thing to watch is
+    whether polar weather and ice-sheet forecasts actually improve.
 syndicated:
   source: NASA
   author: the original author

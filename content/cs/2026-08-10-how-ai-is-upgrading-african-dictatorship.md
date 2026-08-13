@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: How AI is upgrading African dictatorship
+impact:
+  areas: [safety]
+  line: >-
+    Jedenáct afrických vlád utratilo za dohled s umělou inteligencí přes 2
+    miliardy dolarů, samotná Nigérie přes 470 milionů. Mapování ukazuje
+    kamery nakupené tam, kde se organizuje opozice, ne kde je nejvíc
+    kriminality; kdo tam organizuje nebo o tom píše, přišel o anonymitu.
+  todo: >-
+    Mapování je ve studii Institute of Development Studies a African Digital
+    Rights Network z března 2026; CIPESA dokumentuje odrazující účinek ve
+    čtrnácti zemích.
 syndicated:
   source: Global Voices Advox
   author: Ameya Nagarajan

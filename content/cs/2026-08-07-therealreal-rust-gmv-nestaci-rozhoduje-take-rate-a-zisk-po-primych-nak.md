@@ -19,6 +19,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/therealreal-rust-gmv-nestaci-rozhoduje-take-rate-a-zisk-po-p-analyza-335892
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se denně nemění nic; prakticky jde o to, že rostoucí trh s
+    použitým luxusem zlevňuje přístup k drahým věcem a zvyšuje cenu toho, co má
+    člověk už doma ve skříni.
+  todo: >-
+    U konsignačního modelu rozhoduje take rate — podíl z prodejní ceny, který si
+    platforma nechá; je ve výkazech firmy.
 ---
 
 U marketplace příběhů nestačí sledovat růst GMV; rozhoduje take rate, hrubý zisk po přímých nákladech a u fyzických poboček ověřitelná návratnost po nájmu, mzdách a získání kvalitní nabídky.

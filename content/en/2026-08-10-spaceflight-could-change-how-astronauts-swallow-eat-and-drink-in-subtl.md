@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/spaceflight-could-change-how-astronauts-swallow-eat-and-drink-in-subtle-ways-282659
+impact:
+  areas: [health]
+  line: >-
+    For anyone not going into orbit this changes nothing. It is an explainer: swallowing
+    uses more than 30 muscles, and in microgravity fluid shifts to the head, dulling
+    smell and taste and drying the mouth, so astronauts eat less and can lose weight.
+  todo: >-
+    The one earthbound link the article makes: 3D-printed food is being explored to
+    build on the texture-modified diets already used in hospitals and rehabilitation
+    centres.
 ---
 
 Imagine trying to swallow a sip of water while your face feels stuffed with congestion, your sense of taste is dulled and your body is floating 250 miles (400 kilometers) above Earth.

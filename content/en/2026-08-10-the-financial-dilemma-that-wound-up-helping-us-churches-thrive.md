@@ -27,6 +27,16 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/the-financial-dilemma-that-wound-up-helping-us-churches-thrive-288332
+impact:
+  areas: [life, money]
+  line: >-
+    For most readers this changes nothing; it is US history. The mechanism travels,
+    though: once states stopped funding churches — Massachusetts last, in 1833 —
+    congregations had to raise their own money, which turned ministers into fundraisers
+    and members into donors.
+  todo: >-
+    The comparison the article offers: about two-thirds of Americans call religion
+    important, against 56% in Italy, 40% in Spain and 36% in Germany.
 ---
 
 By many measures, Americans are growing less religious : Since 2007, for example, the percentage of people who pray daily has dropped, while the “unaffiliated” have grown to 29%. But those numbers can distract from just how much faith still matters in American public life – much more so than in Western Europe, despite its similar religious roots.

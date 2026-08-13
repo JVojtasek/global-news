@@ -23,6 +23,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/
+impact:
+  areas: [life]
+  line: >-
+    Na každodenním životě to většině čtenářů nic nemění. Jediné, co lze
+    opravdu využít: NASA otevřela bezplatnou 3D virtuální prohlídku houstonské
+    zkušebny, kde se technika programu Artemis zkouší proti měsíčnímu prachu.
+  todo: >-
+    Odkaz na virtuální prohlídku je přímo v článku NASA; učitelé i rodiče ji
+    mohou použít, aniž by museli do Houstonu.
 ---
 
 ![](https://www.nasa.gov/wp-content/uploads/2026/08/jsc2024e072072.jpg?w=1536)

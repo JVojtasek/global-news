@@ -12,6 +12,17 @@ date: '2026-08-13'
 status: published
 confidence: 0
 image_query: NASA Upgrades Vertical Motion Simulator for
+impact:
+  areas: [life]
+  line: >-
+    For readers this changes nothing: it is a research tool, not a product.
+    NASA's Vertical Motion Simulator at Ames now runs digital 4K projection
+    and swappable cockpit inserts that halve the time to reconfigure it
+    between an air taxi and a lunar lander.
+  todo: >-
+    The simulator has run at NASA Ames since 1979 and travels 60 feet
+    vertically; what to watch is what it tests next — air taxis, Moon and
+    Mars landings.
 syndicated:
   source: NASA
   author: Tara Friesen

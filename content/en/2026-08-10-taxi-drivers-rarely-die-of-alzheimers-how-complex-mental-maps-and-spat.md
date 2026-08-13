@@ -28,6 +28,17 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650
+impact:
+  areas: [health, life]
+  line: >-
+    For anyone thinking about brain health: across nearly 9 million US death
+    certificates, about 1 in 100 taxi and ambulance drivers died of Alzheimer's against
+    1 in 60 overall. It is an association, not proof; drivers on fixed routes showed no
+    advantage.
+  todo: >-
+    The article says whether screen-based spatial work exercises the same circuitry as
+    real navigation is untested; the 2024 occupational study and the 2000 London imaging
+    study are the sources.
 ---
 
 Taxi and ambulance drivers are less likely than workers in almost any other job to die of Alzheimer’s disease . That was the surprising result of a 2024 study examining the death certificates of nearly 9 million people in the U.S.

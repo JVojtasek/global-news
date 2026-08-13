@@ -10,6 +10,15 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: 'APOD: 2026 August 11 – Six'
+impact:
+  areas: [life]
+  line: >-
+    Nikomu se tím nemění nic: je to fotografie. Je v ní, že Saturn měl v
+    červnu 2026 potvrzených 293 měsíců proti Jupiterovým 115 a že Titan o
+    průměru 5 150 kilometrů je větší než Merkur.
+  todo: >-
+    Šest největších je v jednom záběru: Titan, Mimas, Tethys, Enceladus,
+    Dione a Rhea. Počet dál roste, takže sledované číslo je 293.
 syndicated:
   source: NASA
   author: the original author

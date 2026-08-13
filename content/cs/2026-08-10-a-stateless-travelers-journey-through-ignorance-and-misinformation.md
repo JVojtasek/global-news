@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: ​A stateless traveler’s journey through ignorance
+impact:
+  areas: [life]
+  line: >-
+    Většině čtenářů se tím nemění nic. Pro odhadem 15 milionů lidí bez
+    státní příslušnosti to pojmenovává překážku: ambasáda může zamítnout
+    žádost o vízum podanou na cestovní doklad, který ji má umožnit, a
+    aerolinky na to nemají postup.
+  todo: >-
+    Cílovou i tranzitní ambasádu se dá písemně požádat o potvrzení, že
+    doklad uznává; svědectví shromažďuje Global Movement Against
+    Statelessness a Global Voices.
 syndicated:
   source: Global Voices
   author: Guest Contributor

@@ -11,6 +11,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'Legal access in a shrinking space:'
+impact:
+  areas: [life]
+  line: >-
+    This is South Africa: Section 4(3) of the Citizenship Act gives people
+    born there to non-citizen parents a route to citizenship, but applicants
+    meet unclear procedures, delays and demands for documents the law does
+    not require. Elsewhere nothing changes yet.
+  todo: >-
+    Legal clinics and civil society organisations are usually the first
+    point of contact; the Cabinet-approved Revised White Paper on
+    Citizenship, Immigration and Refugee Protection is what to watch.
 syndicated:
   source: Global Voices
   author: Global Movement Against Statelessness

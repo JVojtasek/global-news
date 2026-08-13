@@ -26,6 +26,17 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/what-the-panic-over-gen-zs-reading-habits-gets-wrong-288338
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing practical, but it corrects a widely
+    repeated claim: in the authors' 2025 data 66% of Gen Z identified as
+    readers, up 14 points from 2022, and 65% had read at least one print book
+    that year.
+  todo: >-
+    Ask what a reading survey counts: the American Time Use Survey logs one
+    24-hour diary day and misses fan fiction, BookTok and platform reading
+    entirely.
 ---
 
 A trove of recent articles bemoan the collapse in recreational reading among younger Americans, with COVID-related reading declines , artificial intelligence and social media often described as causes.

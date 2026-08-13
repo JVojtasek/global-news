@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/employers-everywhere-are-using-ai-but-business-schools-arent-preparing-students-for-the-shift-287445
+impact:
+  areas: [life]
+  line: >-
+    For students and new graduates going into business jobs: in the authors' survey of
+    647 employers, AI skills alone did not set the strongest candidates apart.
+    Communication, professionalism, teamwork, reliability and critical thinking ranked
+    highest.
+  todo: >-
+    The survey is the 2026 Early-Career Skills Outlook from Drexel University; the
+    authors' worry is that automating routine first drafts removes where graduates used
+    to practise judgement.
 ---
 
 Artificial Intelligence has become part of routine business operations, as employers across most industries use AI for tasks ranging from drafting emails to answering customers’ calls.

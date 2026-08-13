@@ -27,6 +27,15 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom-288250
+impact:
+  areas: [life]
+  line: >-
+    For parents of school-age children: in a nationally representative US survey of 393
+    preschool and K-12 teachers, 76.5% said they use YouTube to teach, spending on
+    average 17.9% of yearly instructional time on videos.
+  todo: >-
+    The article says nobody yet knows which videos teachers use or how they affect
+    learning; the question a parent can ask a school is which sources it approves.
 ---
 
 Approximately three-quarters of 393 preschool and K-12 teachers in the U.S. say they use YouTube for instructional purposes, with roughly half using it on a daily or weekly basis, according to our new nationally representative survey.

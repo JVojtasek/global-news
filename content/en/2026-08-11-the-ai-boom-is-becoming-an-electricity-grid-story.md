@@ -13,6 +13,17 @@ load: 5
 topics: [tech, business, climate]
 series: wider-lens
 image_query: electricity grid data center
+impact:
+  areas: [money, life]
+  line: >-
+    The question for households is who pays for the grid upgrades. If a data
+    centre is delayed, built smaller or closed early, weak contracts leave
+    electricity customers carrying the cost. Britain's contracted demand
+    offers went from 41 GW to 125 GW in seven months.
+  todo: >-
+    Ask who pays if a project arrives late, shrinks or closes; the answer is
+    in the tariff, not the press release. Watch announced capacity against
+    energised capacity.
 qma_path: /magazin
 tickers: [NVDA]
 sources:

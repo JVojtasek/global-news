@@ -12,6 +12,17 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: Nepal’s community forests offer climate solutions,
+impact:
+  areas: [money, life]
+  line: >-
+    Tohle je příjem pro venkovské ženy v Nepálu: jeden obecní les o 489
+    hektarech, spravovaný 339 domácnostmi, dodá ročně listy asi na 5,2
+    milionu misek a 1,5 milionu talířů. Jedna firma zaměstnává ženy z více
+    než 1 000 rodin.
+  todo: >-
+    Nepálské ministerstvo lesů a životního prostředí eviduje 2,58 milionu
+    hektarů předaných obecních lesů; podniky zmíněné v článku podporují FAO
+    Forest and Farm Facility a PEEDA.
 syndicated:
   source: Global Voices
   author: Sanjib Chaudhary

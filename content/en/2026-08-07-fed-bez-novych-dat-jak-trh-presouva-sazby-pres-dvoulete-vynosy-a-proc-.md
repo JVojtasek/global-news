@@ -12,6 +12,17 @@ date: '2026-08-07'
 status: published
 confidence: 100
 image_query: federal reserve building
+impact:
+  areas: [money]
+  line: >-
+    No new inflation or jobs figure arrived — only a Fed remark, so what
+    moved was the price of uncertainty, not the rate itself. Rate
+    expectations, not one sentence, are what eventually reach savings rates,
+    mortgage rates and the price of equity funds.
+  todo: >-
+    Check whether a hard number actually landed — CPI or PCE inflation,
+    payrolls, jobless claims, JOLTS — and watch the two-year yield, not only
+    the ten-year.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/fed-bez-novych-dat-jak-trh-presouva-sazby-pres-dvoulete-vyno-analyza-335644

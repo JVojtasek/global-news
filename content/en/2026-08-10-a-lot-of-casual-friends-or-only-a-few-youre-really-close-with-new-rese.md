@@ -29,6 +29,17 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/a-lot-of-casual-friends-or-only-a-few-youre-really-close-with-new-research-questions-that-trade-off-282952
+impact:
+  areas: [health, life]
+  line: >-
+    For most readers nothing changes today. The study of over 5,000 people found
+    no forced trade-off between having many friends and having close ones — and
+    that a sharpened wish for closeness tends to show up when friendships are
+    not meeting a need.
+  todo: >-
+    The study is in Evolution and Human Behavior; note that it measured stated
+    preferences, not behaviour, so it cannot say how close large friend circles
+    actually are.
 ---
 
 Is there a natural trade-off between quantity and quality when it comes to the friends in your circle?

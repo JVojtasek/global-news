@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/10/in-japan-ryukyuan-indigenous-claim-hindered-by-u-s-military-bases-in-okinawa/
+impact:
+  areas: [safety, health, life]
+  line: >-
+    Tohle je Okinawa. Japonsko odmítá přiznat Rjúkjúanům status původního obyvatelstva
+    navzdory šesti doporučením OSN od roku 2008; 31 amerických základen zabírá 15–18 %
+    půdy ostrova a kolem nich se naměřily vysoké hodnoty PFAS.
+  todo: >-
+    Případ projednával 13. července expertní mechanismus OSN pro práva původních
+    obyvatel; UNESCO zapsalo rjúkjúanštinu mezi ohrožené jazyky v roce 2009.
 ---
 
 Víc než století vynucené asimilace omezilo hnutí za domorodá práva Rjúkjúanů

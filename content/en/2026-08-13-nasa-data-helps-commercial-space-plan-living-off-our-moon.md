@@ -25,6 +25,17 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing. What is public is the input: 60 years
+    of lunar data in NASA's Planetary Data System, and the Ames Stereo Pipeline
+    that builds 3D terrain maps from satellite and rover images is open-source
+    code.
+  todo: >-
+    The article is candid about the gap: where lunar water actually sits remains
+    largely unknown. NASA's Planetary Data System and its Spinoff publication
+    are where the material is.
 ---
 
 3 min read

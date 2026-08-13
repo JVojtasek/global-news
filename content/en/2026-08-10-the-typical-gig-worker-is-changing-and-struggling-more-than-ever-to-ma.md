@@ -28,6 +28,15 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/the-typical-gig-worker-is-changing-and-struggling-more-than-ever-to-make-ends-meet-288880
+impact:
+  areas: [money, health, life]
+  line: >-
+    For app-based drivers and couriers in the US: a GAO report found DoorDash, Lyft and
+    Uber had the most workers on food assistance of any major employer in 2025, and new
+    Medicaid rules require proving 80 hours of work or school a month.
+  todo: >-
+    Gig work counts toward the 80-hour rule, but apps report hours in different formats
+    and issue no standard pay stub; that proof of hours is what to check.
 ---
 
 The next time you call an Uber ride or order food delivery with an app, there’s a good chance that the gig worker you meet is getting government benefits.

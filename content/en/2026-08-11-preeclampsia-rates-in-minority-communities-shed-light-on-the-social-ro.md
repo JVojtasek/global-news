@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Health
   url: https://theconversation.com/preeclampsia-rates-in-minority-communities-shed-light-on-the-social-roots-of-maternal-health-disparities-283360
+impact:
+  areas: [health, life]
+  line: >-
+    For anyone pregnant or supporting someone who is: preeclampsia affects an estimated
+    4.4% of pregnancies worldwide, with the highest regional rate in sub-Saharan Africa
+    at 13%. The article's argument is that social and economic insecurity raises the
+    risk too.
+  todo: >-
+    The World Health Organization publishes the individual risk factors the article
+    lists; this is a subject we cover, not medical advice and not a diagnosis.
 ---
 
 In November 2020, Lupe was in the final weeks of her pregnancy when dark spots began distorting her vision. Lupe, a participant in a study on emotional distress and maternal health in El Paso, Texas, recounted her birth experience in a postpartum interview. (All participant names, Lupe’s included, are pseudonyms used to protect privacy.)

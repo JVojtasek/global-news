@@ -23,6 +23,17 @@ sources:
   url: https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas
 - name: Al Jazeera
   url: https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss
+impact:
+  areas: [safety, life]
+  line: >-
+    For most readers nothing changes today. The standoff keeps the war open:
+    Gazans stay under a continued military presence with no confirmed withdrawal
+    date, and Israeli soldiers stay deployed while the sequencing dispute is
+    unresolved.
+  todo: >-
+    Watch for a published sequence — who disarms, who withdraws, who verifies.
+    The reporting so far carries no Hamas response to this rejection and no
+    agreed timeline.
 ---
 
 ## FACTS

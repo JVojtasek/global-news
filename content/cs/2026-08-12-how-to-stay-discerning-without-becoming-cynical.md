@@ -36,6 +36,16 @@ quiz:
   options: ["Věřit každé instituci, dokud jednou neselže", "Posoudit konkrétní tvrzení nebo instituci na základě relevantních důkazů a názor upravit, když se důkazy změní", "Předpokládat skrytou korupci vždy, když jsou informace neúplné"]
   answer: 1
   explanation: "Kalibrovaná důvěra je konkrétní, podmíněná a revidovatelná — není to ani slepá důvěra, ani plošná podezíravost."
+impact:
+  areas: [life]
+  line: >-
+    Na každodenním životě se nemění nic. Použitelné je rozlišení: průzkum OECD
+    z roku 2026 zjistil, že 40 % respondentů v zúčastněných zemích má vysokou
+    nebo středně vysokou důvěru ve vládu a 43 % nízkou nebo žádnou; policii,
+    soudům a místní samosprávě lidé věří víc.
+  todo: >-
+    Než se rozhodnete, jestli tvrzení věřit, pojmenujte čtyři věci: předmět,
+    důkaz, sázku a to, co by váš názor změnilo.
 ---
 
 ## BRIEFLY

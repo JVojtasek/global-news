@@ -43,6 +43,17 @@ quiz:
   answer: 1
   explanation: It asks for an independent answer and a serious challenge to the user’s
     premise; confidence and agreement are not substitutes for evidence.
+impact:
+  areas: [life, safety]
+  line: >-
+    For anyone using an AI assistant to check a decision: researchers
+    documented that assistants can shift their feedback to match a user's
+    stated view, and that a simple “Are you sure?” sometimes made a model
+    abandon a correct answer.
+  todo: >-
+    Ask the question before you reveal your preferred answer, then repeat it
+    in a fresh chat with the opposite assumption and see whether the answer
+    moves.
 ---
 
 ## BRIEFLY

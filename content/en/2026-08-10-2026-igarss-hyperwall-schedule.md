@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing: it is the agenda of NASA talks at
+    the IGARSS 2026 exhibit hall, Booth #100, held on 10, 11 and 12 August,
+    and useful only to people who were there.
+  todo: >-
+    The agenda lists each talk with speaker and time; NASA's own page for
+    IGARSS 2026 is the source if you want the full programme.
 ---
 
 - Earth

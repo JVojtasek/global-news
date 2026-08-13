@@ -20,6 +20,17 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/pametove-cipy-slabsi-vyhled-nemusi-znamenat-konec-ai-proc-ro-analyza-335271
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing this week. It matters as a signal:
+    the piece argues weaker memory-chip guidance need not mean the AI boom is
+    ending, while the jump in oil prices is the part that reaches household
+    fuel and freight costs.
+  todo: >-
+    The article's own checklist: watch HBM separately from ordinary DRAM and
+    NAND, spot prices against contract prices, and whether oil is pushing up
+    inflation expectations and bond yields.
 ---
 
 Do not read weaker guidance in memory chips as the automatic end of the AI boom; separate HBM from ordinary DRAM and NAND, and watch price per bit, ASPs, bit shipments, fab utilisation and customer inventories.

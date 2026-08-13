@@ -20,6 +20,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/i-mirne-cpi-proc-venovat-pozornost-dlouhemu-konci-vynosove-k-analyza-337477
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se tento týden nemění nic, ale mechanika z článku je
+    použitelná: u dlouhého dluhopisu s durací 18 let znamená růst výnosu o
+    0,50 procentního bodu pokles ceny zhruba o 9 %, u dvouletého asi o 1 %.
+  todo: >-
+    Číslo, které se má sledovat, není titulkové CPI, ale výnos dlouhého
+    dluhopisu — a jestli roste kvůli inflačním očekáváním, nebo kvůli vyšším
+    reálným výnosům.
 ---
 
 U mírného CPI sledujte hlavně dlouhý konec výnosové křivky jako analytický ukazatel rizika: pokud výnosy rostou i bez inflačního šoku, problémem může být dražší čas, ne samotná inflace.

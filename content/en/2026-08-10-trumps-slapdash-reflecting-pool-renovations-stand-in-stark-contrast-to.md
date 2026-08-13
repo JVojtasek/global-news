@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/trumps-slapdash-reflecting-pool-renovations-stand-in-stark-contrast-to-years-of-deliberation-and-engineering-ingenuity-that-went-into-its-creation-289006
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing; it is Washington. What happened: charges
+    against four people accused of vandalising the Lincoln Memorial Reflecting Pool were
+    dropped after the US Attorney said faulty construction, not vandalism, caused the
+    liner to peel in June 2026.
+  todo: >-
+    The repairs ran on no-bid contracts, and in October 2025 all six members of the US
+    Commission of Fine Arts, the independent design review board, were dismissed.
 ---
 
 In the latest twist in one of the strangest ongoing scandals in Washington, D.C., U.S. Attorney for the District of Columbia Jeanine Pirro announced that the government would be dropping charges against the four people accused of vandalizing the Lincoln Memorial Reflecting Pool, the 2,000-foot long water basin that connects the Lincoln Memorial to the Washington Monument. Pirro said faulty construction – not vandalism, as President Donald Trump had claimed – caused the pool’s liner to peel off in June 2026.

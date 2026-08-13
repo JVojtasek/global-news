@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-levnych-argentinskych-aktiv-nejde-jen-o-cenu-co-rozhoduje--analyza-336190
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se tím nemění nic. Týká se to Argentiny: snížení vývozních cel
+    dopadlo menší, než trh čekal, a větší úlevy se odkládají — a na tom podle článku
+    závisí, jak rychle se tam ustálí ceny.
+  todo: >-
+    Článek sám říká, že jeho podklad neuvádí čísla o dluhu, o hotovosti po investicích
+    ani o slevě proti hodnotě majetku — právě ta čísla se mají hledat.
 ---
 
 U levných argentinských aktiv sledujte nejen hodnotu majetku, ale hlavně doložené cash flow, dluh a rychlost politických kroků, které mají papírovou hodnotu proměnit v hotovost.

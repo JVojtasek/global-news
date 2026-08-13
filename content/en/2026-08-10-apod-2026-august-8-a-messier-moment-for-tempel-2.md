@@ -25,6 +25,16 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/
+impact:
+  areas: [life]
+  line: >-
+    Nothing here changes daily life; it is a photograph with an explanation.
+    What it gives you is a way to tell a comet from a star cluster: comet
+    10P/Tempel 2 was 3.5 light-minutes away, cluster M30 some 28,000
+    light-years.
+  todo: >-
+    NASA's Astronomy Picture of the Day publishes a new image with an
+    astronomer's explanation every day; this one was recorded on 29 July 2026.
 ---
 
 - Science

@@ -25,6 +25,16 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing; it is a retirement notice. The
+    durable part is the record: Fincke leaves after 30 years, four missions,
+    549 days in space and nine spacewalks totalling 48 hours and 37 minutes,
+    fourth among NASA astronauts for time in space.
+  todo: >-
+    NASA publishes astronaut biographies and mission records at
+    nasa.gov/astronauts, which is where these figures can be checked.
 ---
 
 NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station.

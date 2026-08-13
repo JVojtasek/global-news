@@ -23,6 +23,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/
+impact:
+  areas: [life, money]
+  line: >-
+    Jinde se nic nemění; pro lidi pracující v Kazachstánu je to konkrétní:
+    ústava platná od července vypustila právo na stávku, odbory se musí
+    registrovat pobočkami v polovině regionů země a inspektoři smějí kontrolovat
+    jen 38 vyjmenovaných bodů.
+  todo: >-
+    Kontrolní seznam pro inspekce je společnou vyhláškou ministerstev
+    hospodářství a zdravotnictví; stížnosti přijímá Státní inspektorát práce.
 ---
 
 Reformy a novely zákoníku práce daly vždy na první místo zaměstnavatele

@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/large-language-models-often-prioritize-western-moral-values-overlooking-other-cultures-285660
+impact:
+  areas: [life]
+  line: >-
+    For anyone who asks a chatbot for advice on a conflict, or how to word
+    something across cultures: GPT models tested against more than 90,000 people
+    in 48 nations leaned Western even when told to answer as a local citizen.
+  todo: >-
+    The models tested were GPT-3.5, GPT-4 and GPT-4o in 2024; whether newer
+    models, or models trained in other languages, behave the same has not been
+    tested.
 ---
 
 Large language artificial intelligence models, such as ChatGPT, often misjudge what people outside the West might value as a moral priority, according to our new research published in the Proceedings of the National Academy of Sciences .

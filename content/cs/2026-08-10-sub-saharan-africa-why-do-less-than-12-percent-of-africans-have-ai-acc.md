@@ -10,6 +10,16 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'Sub-Saharan Africa: Why do less than'
+impact:
+  areas: [life, money]
+  line: >-
+    Být online není totéž jako moci používat AI. Laťkou je stabilní 4G nebo
+    optika, novější přístroj, účet, podporovaný jazyk a cena za jedno
+    sezení; dotázaný expert odhaduje, že ji překročí méně než 12 % Afričanů.
+  todo: >-
+    Ověřte si, co vaše připojení opravdu umí — stabilitu a odezvu, ne jen
+    inzerovanou generaci — a kolik mobilních operátorů si u vás konkuruje; v
+    Togu dva.
 syndicated:
   source: Global Voices Advox
   author: Jean Sovon

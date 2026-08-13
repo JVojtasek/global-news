@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/foldable-synthetic-molecules-could-infiltrate-and-bust-apart-the-toxic-protein-clumps-causing-parkinsons-281842
+impact:
+  areas: [health]
+  line: >-
+    Nothing changes for anyone with Parkinson's today. SK-129 has been tested
+    only in cells and mice; it has not been tried in people, and long-term
+    safety, dosing and how it moves through the human body are all unknown.
+  todo: >-
+    Current therapies treat symptoms, not the underlying process. Several other
+    alpha-synuclein approaches have reached clinical trials; that stage, not
+    animal results, is what to watch.
 ---
 
 Current therapies for Parkinson’s disease and related conditions primarily treat symptoms but don’t stop the underlying process causing the disease.

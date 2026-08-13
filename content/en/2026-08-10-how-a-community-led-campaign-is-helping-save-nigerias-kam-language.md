@@ -26,6 +26,17 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/
+impact:
+  areas: [life]
+  line: >-
+    For the roughly 8,000 to 11,000 Kam speakers in Taraba State this is
+    concrete; elsewhere it changes nothing. After ten years a 14-member Kam team
+    produced a grammar reference, a digital dictionary, 307 recordings and a
+    website, open to anyone.
+  todo: >-
+    The project's website and dictionary are open to everyone; the model —
+    training community members to record their own language — is what other
+    groups can copy.
 ---
 
 Kam is a language spoken in 29 villages in Bali, Nigeria

@@ -14,6 +14,15 @@ event_id: ''
 series: ''
 image_query: grocery receipt shopping cart
 sources: []
+impact:
+  areas: [money]
+  line: >-
+    This is background, not news. It changes nothing about today's prices, but it fixes
+    a common misreading: when inflation slows, prices are still rising, only more
+    slowly. Falling prices are deflation, which central banks try to avoid.
+  todo: >-
+    Who it hits hardest, by the article's account: people on incomes fixed in cash terms
+    — pensions, savings at low interest. Compare the headline rate with your own income.
 ---
 
 ## FACTS

@@ -25,6 +25,16 @@ syndicated:
 sources:
 - name: Global Voices Advox
   url: https://advox.globalvoices.org/2026/05/12/myanmar-journalists-across-borders-remain-dedicated-to-truth-despite-risks/
+impact:
+  areas: [safety, life]
+  line: >-
+    Outside Myanmar this changes nothing day to day. Inside it, independent outlets have
+    been closed, licences revoked and journalists detained; the Committee to Protect
+    Journalists ranks Myanmar among the world's leading jailers of journalists.
+  todo: >-
+    Reporters Without Borders and the Committee to Protect Journalists publish the
+    country rankings cited here; Exile Hub's Only My Voice Left campaign carries the
+    journalists' own accounts.
 ---
 
 Journalists on the frontlines and in exile share a commitment to truth

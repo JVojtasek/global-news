@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing day to day. The one thing you can
+    actually use is that NASA has opened a free 3D virtual tour of the Houston
+    facility where Artemis hardware is tested against lunar dust.
+  todo: >-
+    The link to the virtual tour is in NASA's own article; teachers and
+    parents can use it without travelling to Houston.
 ---
 
 ![](https://www.nasa.gov/wp-content/uploads/2026/08/jsc2024e072072.jpg?w=1536)

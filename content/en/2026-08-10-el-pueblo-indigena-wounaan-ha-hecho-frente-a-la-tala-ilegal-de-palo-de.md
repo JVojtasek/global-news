@@ -12,6 +12,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: El pueblo indígena wounaan ha hecho
+impact:
+  areas: [money]
+  line: >-
+    If you buy a rosewood instrument or piece of furniture, this is the
+    supply chain: demand outran legal supply from the late 2000s, cocobolo
+    passed USD 13,000 a cubic metre in China by 2012, and the species was
+    reclassified critically endangered in 2019.
+  todo: >-
+    More than 140 species are sold as rosewood; the IUCN listing and the
+    book Interwoven Rosewood carry the record. A seller can be asked which
+    species, and from where.
 syndicated:
   source: The Conversation — Environment
   author: Doris Cheucarama Membache, Member of Wounaan Podpa Nʌm Pömaam (Wounaan

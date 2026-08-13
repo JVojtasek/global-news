@@ -21,6 +21,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/abcellera-po-rustu-o-32-proc-menopauzalni-data-nejsou-hotovy-analyza-337770
+impact:
+  areas: [health, money]
+  line: >-
+    For anyone affected by hot flushes: this is early clinical data, not a medicine you
+    can get. AbCellera reported that a single dose of ABCL635 reduced their frequency;
+    the share price rose 32%, which prices odds, not availability.
+  todo: >-
+    The article lists what the report does not say: study phase, how many patients,
+    whether there was a placebo control, the size and duration of the effect, and safety
+    data.
 ---
 
 For biotech news after a sharp stock jump, it's critical not to confuse encouraging clinical data with a finished commercial drug; without the study phase, patient count, controls, effect size, follow-up length and safety data, the verdict remains only preliminary.

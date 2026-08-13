@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lightspeed-66-4-trzeb-z-transakci-co-odhali-citlivost-na-vyd-analyza-335774
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing day to day. It is educational analysis of one
+    payments company, not investment advice. What it explains is useful anyway: the fee
+    that sits between card, till and bank, and who keeps a slice of each purchase.
+  todo: >-
+    The article names the numbers to check in company reports: payment volume (GPV/GTV),
+    the take rate, the gross margin on transaction revenue and the payments attach rate.
 ---
 
 With Lightspeed it is not enough to celebrate 66.4% transaction revenue; the key is to check whether the attach rate and active merchant numbers are growing alongside payment volume, without the take rate and transaction margins deteriorating.

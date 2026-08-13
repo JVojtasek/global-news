@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: Sensing the Poles’ Hidden Heat
+impact:
+  areas: [life]
+  line: >-
+    Čtenářům se tím dnes nemění nic. Nové je měření: v daleké infračervené
+    oblasti odchází téměř 60 % energie, kterou Země ztrácí do vesmíru, a
+    globálně se nikdy neměřila — až družice NASA PREFIRE od července 2024.
+    Počítají s ní modely počasí i klimatu.
+  todo: >-
+    Data jsou na NASA Earthdata pod názvem PREFIRE; sledovat se dá, jestli
+    se opravdu zpřesní předpovědi počasí v polárních oblastech a stavu
+    ledovců.
 syndicated:
   source: NASA
   author: the original author

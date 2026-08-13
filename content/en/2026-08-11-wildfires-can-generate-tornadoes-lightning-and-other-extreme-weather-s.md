@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/wildfires-can-generate-tornadoes-lightning-and-other-extreme-weather-sometimes-miles-from-the-flames-288359
+impact:
+  areas: [safety, health]
+  line: >-
+    For anyone living near a large wildfire, one practical detail: fire-made
+    thunderstorms can throw lightning that starts new fires outside the burn
+    perimeter — it happened near Saumos in southwestern France in late July
+    2026. Smoke also travels hundreds of miles.
+  todo: >-
+    A fire's mapped perimeter is not the outer edge of the risk; watch for
+    pyrocumulonimbus in fire-weather bulletins, and expect rainfall forecasts
+    downwind to be less reliable.
 ---
 
 We often think about weather controlling wildfires: dry air, heat, wind and lightning help determine when fires start and how quickly they spread.

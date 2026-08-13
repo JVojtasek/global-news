@@ -12,6 +12,17 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: Nepal’s community forests offer climate solutions,
+impact:
+  areas: [money, life]
+  line: >-
+    This is income for rural women in Nepal: one community forest of 489
+    hectares, run by 339 households, can supply the leaves for about 5.2
+    million bowls and 1.5 million plates a year. One firm employs women from
+    more than 1,000 families.
+  todo: >-
+    Nepal's Ministry of Forests and Environment counts 2.58 million hectares
+    handed over as community forests; the FAO Forest and Farm Facility and
+    PEEDA support the enterprises named here.
 syndicated:
   source: Global Voices
   author: Sanjib Chaudhary

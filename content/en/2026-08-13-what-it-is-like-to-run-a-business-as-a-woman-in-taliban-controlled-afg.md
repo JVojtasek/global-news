@@ -10,6 +10,17 @@ date: '2026-08-13'
 status: published
 confidence: 0
 image_query: What it is like to run
+impact:
+  areas: [life, money, safety]
+  line: >-
+    For women in Afghanistan this is the daily reality: barred from schools,
+    universities and work in both the state and private sectors, and unable
+    to leave home without a male guardian. The author, who employed six
+    women and eight men, was arrested and detained.
+  todo: >-
+    The account was written in 2025 and published with the author's consent,
+    as part of the Global Voices series on women and girls in Afghanistan
+    since August 2021.
 syndicated:
   source: Global Voices
   author: Global Voices Eurasia

@@ -24,6 +24,17 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/
+impact:
+  areas: [life, safety]
+  line: >-
+    Tohle je Venezuela: sedm týdnů po zemětřeseních z 24. června uvádí vláda
+    přes 5 300 mrtvých, 16 740 zraněných a 17 907 lidí bez domova, ale číslo
+    pohřešovaných nezveřejňuje. OSN jich zprvu odhadovala kolem 50 000,
+    nezávislé iniciativy asi 40 000.
+  todo: >-
+    Číslo, které se má sledovat, jsou pohřešovaní, které oficiální statistiky
+    vynechávají; článek uvádí, že dárcovská pomoc včetně jídla postupně
+    slábne.
 ---
 
 Příběhy ztráty, odolnosti a naděje od lidí, kteří přežili zemětřesení ve Venezuele

@@ -29,6 +29,17 @@ syndicated:
 sources:
 - name: The Conversation — Arts & Culture
   url: https://theconversation.com/starbucks-big-marketing-blunder-in-south-korea-shows-how-cultural-blind-spots-can-put-global-brands-in-a-bind-285913
+impact:
+  areas: [life, money]
+  line: >-
+    For most readers this changes nothing. For anyone selling or communicating
+    across borders it is a concrete lesson: Starbucks Korea's Tank Day fell on
+    the anniversary of the 1980 Gwangju crackdown, and the campaign was pulled
+    with an apology and staff training.
+  todo: >-
+    Before a campaign launches abroad, check the date against local
+    anniversaries and ask in-country staff or native speakers — machine
+    translation misses humour, slang and history.
 ---
 
 When Starbucks Korea promoted its series of reusable tumblers called “tanks” with a “Tank Day” campaign on May 18, 2026, it probably seemed like a fun marketing idea.

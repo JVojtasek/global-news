@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Environment
   url: https://theconversation.com/better-guacamole-how-avocado-import-rules-helped-cut-mexicos-water-pollution-it-holds-lessons-for-future-us-trade-deals-287477
+impact:
+  areas: [health, life]
+  line: >-
+    For anyone who eats Mexican avocados: after 2016, when US import rules required
+    orchard certification and inspections, nitrogen in waterways near avocado-growing
+    areas fell about 10% against comparable areas, matching roughly 6.6% less nitrogen
+    fertiliser used.
+  todo: >-
+    The article names its own caveats: avocado groves have also driven deforestation and
+    higher water use, and about 90% of Mexico's 1.2 million tonnes in 2025 went to one
+    buyer.
 ---
 
 At picnics and World Cup watch parties across the United States this summer, people have been reaching for bowls of chips and guacamole. Most of that guacamole is made from avocados grown in Mexico – on orchards that, in what might come as a surprise, contribute less water pollution today than they did a decade ago.

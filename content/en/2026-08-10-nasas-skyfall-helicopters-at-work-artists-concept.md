@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing: the picture is an artist's concept,
+    not a photograph or a result. What it fixes is a date — three SkyFall
+    helicopters are due to launch in late 2028 and reach Mars in December 2028.
+  todo: >-
+    NASA publishes a mission page for SkyFall; the date to watch is the
+    late-2028 launch, and whether it holds.
 ---
 
 ![](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26760/PIA26760.jpg?w=2880&h=1620&fit=clip&crop=faces%2Cfocalpoint)

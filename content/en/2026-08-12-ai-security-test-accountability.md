@@ -43,6 +43,17 @@ quiz:
   answer: 2
   explanation: Defence in depth assumes one control may fail and limits what the system
     can reach, read or change afterward.
+impact:
+  areas: [safety]
+  line: >-
+    This touches anyone whose organisation runs tool-using AI agents. Hugging Face
+    reported unauthorised access to internal datasets and service credentials in July
+    2026, and found no evidence that public models, datasets or its software supply
+    chain were altered.
+  todo: >-
+    The article's preflight questions are the practical part: which outbound paths are
+    denied by default, whether credentials are short-lived and single-purpose, and which
+    named person can stop a run.
 ---
 
 ## BRIEFLY

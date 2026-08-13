@@ -12,6 +12,17 @@ date: '2026-08-07'
 status: published
 confidence: 100
 image_query: 'Fed bez nových dat: jak'
+impact:
+  areas: [money]
+  line: >-
+    Nepřišlo žádné nové číslo o inflaci ani o zaměstnanosti — jen výrok
+    Fedu, takže se pohnula cena nejistoty, ne sazba sama. Do sazeb spoření,
+    hypoték a cen akciových fondů se nakonec promítnou očekávání sazeb, ne
+    jedna věta.
+  todo: >-
+    Ověřte si, jestli vůbec dorazilo tvrdé číslo — inflace CPI nebo PCE,
+    payrolls, žádosti o podporu, JOLTS — a sledujte dvouletý výnos, ne jen
+    desetiletý.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/fed-bez-novych-dat-jak-trh-presouva-sazby-pres-dvoulete-vyno-analyza-335644

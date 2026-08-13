@@ -26,6 +26,16 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/play-is-essential-for-young-children-including-when-it-comes-to-their-learning-285572
+impact:
+  areas: [life, health]
+  line: >-
+    For anyone raising or teaching a young child, the practical finding is that
+    play is not a break from learning: block play in early childhood predicted
+    higher maths achievement in middle and high school, and guided play beat
+    direct instruction for maths understanding.
+  todo: >-
+    A nursery or school can be asked how much of the day is free or guided play;
+    the author's own study was small — 17 parents surveyed.
 ---
 
 Prioritizing play offers a variety of benefits for children, from helping them grow their vocabulary to managing their big feelings with fewer behavioral problems .

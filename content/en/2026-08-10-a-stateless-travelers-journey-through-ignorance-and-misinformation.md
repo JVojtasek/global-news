@@ -11,6 +11,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: ​A stateless traveler’s journey through ignorance
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing. For the estimated 15 million
+    stateless people it names the obstacle: an embassy can reject a visa
+    application made on the travel document that is supposed to enable it,
+    and airlines have no script for it.
+  todo: >-
+    The destination and transit embassies can be asked in writing whether
+    they accept the document; the accounts are collected by the Global
+    Movement Against Statelessness and Global Voices.
 syndicated:
   source: Global Voices
   author: Guest Contributor

@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'The signal we cannot ignore: What'
+impact:
+  areas: [life, safety]
+  line: >-
+    Kdo žije v jedné z 29 hodnocených afrických zemí, dozví se ze zprávy,
+    jestli mu vláda loni vypnula internet: Tanzanie zhasla při říjnových
+    volbách a zatkla přes 1 700 lidí, Kamerun přerušil spojení na dva týdny,
+    Botswana nevypnula nic.
+  todo: >-
+    Zpráva LONDA 2025 od Paradigm Initiative uvádí u každé země skóre do 60
+    bodů ve dvanácti ukazatelích, mezi nimi vypínání internetu, ochrana dat
+    a bezpečí dětí online.
 syndicated:
   source: Global Voices Advox
   author: Muhammed Bello Buhari

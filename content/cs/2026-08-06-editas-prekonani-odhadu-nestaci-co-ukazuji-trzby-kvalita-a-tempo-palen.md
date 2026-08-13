@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/editas-prekonani-odhadu-nestaci-co-ukazuji-trzby-kvalita-a-t-analyza-334995
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů to nemění nic: Editas neprodává schválený lék a zhruba 8,5
+    milionu dolarů tržeb přišlo ze spoluprací a výzkumných dohod, ne od
+    pacientů. Mění to jen otázku ředění pro toho, kdo drží akcie.
+  todo: >-
+    Ve výkazu 10-Q je provozní cash flow, výdaje na výzkum a počet akcií;
+    sledovat se dá, jestli vydrží hotovost do druhého čtvrtletí 2027.
 ---
 
 U biotech výsledků neřeš jen překonání odhadů, ale hlavně zda jsou tržby opakovatelné, jak rychle mizí hotovost a jestli runway skutečně snižuje riziko budoucího ředění akcionářů.

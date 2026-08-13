@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Education
   url: https://theconversation.com/what-critics-of-college-athletes-making-money-get-wrong-about-name-image-and-likeness-policies-256958
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing. For a college athlete or their family
+    in the US it is practical: since July 2021 athletes may earn from their name
+    and image, most earn modest sums, and fewer than 1% turn professional in
+    many sports.
+  todo: >-
+    NIL rules differ by state and by school; the athletic department and the
+    relevant state legislation are where the current terms are set out.
 ---
 
 A lot has changed since college athletes began earning compensation in 2021.

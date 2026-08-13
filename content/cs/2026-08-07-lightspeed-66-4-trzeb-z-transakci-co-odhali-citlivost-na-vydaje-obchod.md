@@ -19,6 +19,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lightspeed-66-4-trzeb-z-transakci-co-odhali-citlivost-na-vyd-analyza-335774
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se tím denně nemění nic. Je to vzdělávací rozbor jedné platební
+    firmy, ne investiční doporučení. Užitečné je na něm vysvětlení poplatku, který stojí
+    mezi kartou, pokladnou a bankou — a kdo si z každého nákupu ukrojí.
+  todo: >-
+    Čísla, která článek jmenuje k ověření ve zprávách firmy: objem plateb (GPV/GTV),
+    take rate, hrubá marže z transakčních tržeb a podíl zákazníků, kteří platby
+    využívají.
 ---
 
 U Lightspeedu nestačí oslavit 66,4 % transakčních tržeb; klíčové je ověřit, zda spolu s objemem plateb rostou i attach rate a aktivní obchodníci, aniž by se zhoršoval take rate a transakční marže.

@@ -20,6 +20,17 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kolik-expozice-maji-euv-etf-fondy-v-opticke-ai-koncentrace-a-analyza-337594
+impact:
+  areas: [money]
+  line: >-
+    For most readers this changes nothing. The part that reaches beyond
+    markets is the article's own point: more efficient optical links between
+    chips can, over time, affect the price, speed and availability of the AI
+    services people use at work and at home.
+  todo: >-
+    When a fund is sold as a theme, check the actual weighting: this one is
+    reported at roughly 29% in optics. The holdings list is the official
+    answer.
 ---
 
 For optical AI themes, believing the story isn't enough — you need to check how much exposure a fund actually has, how concentrated it is, and whether the market has already priced in the expectations.

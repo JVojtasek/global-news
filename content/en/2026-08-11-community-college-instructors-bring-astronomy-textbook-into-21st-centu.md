@@ -25,6 +25,17 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/learning-resources/science-activation/community-college-instructors-bring-astronomy-textbook-into-21st-century/
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing. For anyone teaching introductory
+    astronomy, five community college instructors have rebuilt the first five
+    chapters of the OpenStax Astronomy 101 textbook with NASA active-learning
+    material; it goes into classrooms in autumn 2026.
+  todo: >-
+    NASA's Science Activation programme lists the resources used — NASA Treks,
+    Universe of Learning, Cosmic Data Stories, Infiniscope — and field testing
+    starts in autumn 2026.
 ---
 
 - Science

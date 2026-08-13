@@ -11,6 +11,17 @@ date: '2026-08-08'
 status: published
 confidence: 100
 image_query: 'Clipper Realty: proč lepší kvartál'
+impact:
+  areas: [money]
+  line: >-
+    Většině čtenářů se tím nemění nic: Clipper Realty je jeden malý
+    newyorský pronajímatel. Přenositelný je ten test — jestli se dividenda
+    platí z hotovosti, která zbyde po úrocích, opravách a refinancování,
+    nebo z rezerv.
+  todo: >-
+    Čísla jsou ve firemních oznámeních o dividendě a ve čtvrtletních
+    výkazech: AFFO na akcii proti čtvrtletní dividendě 0,095 USD, úrokové
+    náklady, splatnosti dluhu a údržbové investice.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/clipper-realty-proc-lepsi-kvartal-nemusi-stacit-na-dividendu-analyza-336345

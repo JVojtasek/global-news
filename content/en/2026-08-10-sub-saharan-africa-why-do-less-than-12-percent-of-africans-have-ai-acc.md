@@ -12,6 +12,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'Sub-Saharan Africa: Why do less than'
+impact:
+  areas: [life, money]
+  line: >-
+    Being online is not the same as being able to use AI. The bar is stable
+    4G or fibre, a recent handset, an account, a supported language and the
+    cost per session; the expert interviewed estimates that under 12% of
+    Africans clear it.
+  todo: >-
+    Check what your own connection actually gives you — stability and
+    latency, not just the advertised generation — and how many mobile
+    operators compete in your market; Togo has two.
 syndicated:
   source: Global Voices Advox
   author: Jean Sovon

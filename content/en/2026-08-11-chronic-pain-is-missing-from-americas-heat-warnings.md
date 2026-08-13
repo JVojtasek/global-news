@@ -11,6 +11,17 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: Chronic pain is missing from America’s
+impact:
+  areas: [health, life]
+  line: >-
+    US heat warnings list heart and lung patients, not people living with
+    chronic pain. In a study of 35,000 US adults over 50, sustained extreme
+    heat was linked to new disabling pain among rural and poorer older
+    people — not among urban or wealthier ones.
+  todo: >-
+    In a heat wave, ask an older relative whether their back or knees are
+    worse than usual; watch whether the nights cool off, which matters more
+    than the afternoon peak.
 syndicated:
   source: The Conversation — Health
   author: Feinuo Sun, Assistant Professor of Demographics, Sociology and Population

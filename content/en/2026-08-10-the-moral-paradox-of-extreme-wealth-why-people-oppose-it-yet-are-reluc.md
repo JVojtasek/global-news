@@ -26,6 +26,17 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/the-moral-paradox-of-extreme-wealth-why-people-oppose-it-yet-are-reluctant-to-take-steps-to-reduce-it-286001
+impact:
+  areas: [money]
+  line: >-
+    This changes nothing you can act on today. The usable finding is a gap: in
+    a survey of more than 55,000 people across 40 countries, US respondents
+    said the ideal chief-executive-to-worker pay ratio was about 7-to-1,
+    guessed it was 30-to-1, and it was nearer 350-to-1.
+  todo: >-
+    Before arguing about inequality, look up the actual pay ratio in your own
+    country or employer; the survey's point is that people badly underestimate
+    it.
 ---
 
 In 2026 – up until July – Elon Musk’s estimated wealth was growing by somewhere between US$30 million and $100 million an hour, making him, at least briefly, the worlds’ first trillionaire. By comparison, the typical American worker earns between $23 and $56 an hour.

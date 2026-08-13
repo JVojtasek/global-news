@@ -11,6 +11,17 @@ date: '2026-08-11'
 status: published
 confidence: 100
 image_query: How to be grateful to someone
+impact:
+  areas: [life]
+  line: >-
+    If you owe someone and cannot feel thankful, the piece names why: partly
+    self-interested motives — a teacher's paycheck, a partner hoping for
+    reciprocation — can enable generosity rather than cancel it. Which one
+    you treat as the true motive is a choice.
+  todo: >-
+    If you go looking for selfish motives you will find them; try seeing the
+    person as they see themselves. If that fails, saying thanks and meaning
+    it is enough.
 syndicated:
   source: The Conversation — Ethics & Big Questions
   author: Mark Schroeder, Professor of Philosophy, USC Dornsife College of Letters,

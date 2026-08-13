@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/spacex-aims-to-use-rockets-to-quickly-transport-cargo-across-the-earth-and-into-orbit-moves-that-would-expand-the-global-cargo-system-287557
+impact:
+  areas: [life]
+  line: >-
+    Nothing changes for post or freight yet. SpaceX flew a demo mission,
+    Starfall, in June 2026; the authors expect rocket cargo to serve ultrafast
+    emergency transport — medical products, disaster relief, defence — not to
+    replace sea or air freight.
+  todo: >-
+    The practical question to watch is where launch and landing sites go and
+    how cargo would reach them; that decides who ever lives near this system.
 ---
 
 You might think about rockets as powerful vehicles that blast astronaut crews and robotic missions off into space. But what if they could be used to send cargo from one side of the Earth to the other, in a fraction of the time it would take a plane? The company SpaceX recently announced a project that aims to use its rockets to do just that.

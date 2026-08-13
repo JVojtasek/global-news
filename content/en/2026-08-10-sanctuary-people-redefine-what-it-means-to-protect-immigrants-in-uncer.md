@@ -28,6 +28,16 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/sanctuary-people-redefine-what-it-means-to-protect-immigrants-in-uncertain-times-286932
+impact:
+  areas: [life, safety]
+  line: >-
+    This is about the United States: the Supreme Court ruled in June 2026 that
+    Temporary Protected Status can end for around 350,000 Haitians and 6,000
+    Syrians, whose work permits were set to expire on 24 July, leaving them at
+    risk of deportation.
+  todo: >-
+    Anyone affected should check their own status and dates with an accredited
+    immigration adviser or the issuing agency rather than with news reports.
 ---
 
 Hundreds of thousands of Haitians in the U.S. are living in uncertain times. On June 25, 2026, the U.S. Supreme Court ruled that the Trump administration could proceed with a plan to end Temporary Protected Status – a federal program that allows people to stay in the United States when the government considers their own country unsafe – for around 350,000 Haitians and 6,000 Syrians . Their work permits are scheduled to end July 24 , leaving TPS holders at risk of deportation.

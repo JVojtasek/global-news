@@ -25,6 +25,15 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/image-article/apod/apod-2026-august-12-perseids-over-a-little-planet/
+impact:
+  areas: [life]
+  line: >-
+    For anyone with a dark sky in the Northern Hemisphere: the 2026 Perseids peaked on
+    the night of 12 August at as many as 50–100 meteors an hour, helped by a new moon.
+    Best between midnight and pre-dawn, and no binoculars needed.
+  todo: >-
+    NASA's Astronomy Picture of the Day publishes the shower dates; the meteors come
+    from debris left by Comet Swift-Tuttle, and a dark spot away from lights helps most.
 ---
 
 - Science

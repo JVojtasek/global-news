@@ -26,6 +26,15 @@ syndicated:
 sources:
 - name: The Conversation — Technology
   url: https://theconversation.com/how-do-computers-talk-with-voices-that-sound-like-people-285903
+impact:
+  areas: [safety, life]
+  line: >-
+    This touches anyone who answers the phone: the article explains that current
+    software can copy a voice from a few seconds of recording, and that scammers
+    use those fake voices to impersonate family members and colleagues.
+  todo: >-
+    A familiar voice on a call is no longer proof of who is speaking; verify
+    anything urgent through a channel you contacted yourself.
 ---
 
 Curious Kids is a series for children of all ages. If you have a question you’d like an expert to answer, send it to CuriousKidsUS@theconversation.com .

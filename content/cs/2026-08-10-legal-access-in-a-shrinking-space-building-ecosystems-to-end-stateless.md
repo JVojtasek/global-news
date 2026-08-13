@@ -10,6 +10,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: 'Legal access in a shrinking space:'
+impact:
+  areas: [life]
+  line: >-
+    Tohle je Jihoafrická republika: paragraf 4(3) zákona o občanství dává
+    lidem narozeným v zemi rodičům bez občanství cestu k občanství, jenže
+    žadatelé narážejí na nejasné postupy, průtahy a požadavky na doklady,
+    které zákon nežádá. Jinde se zatím nic nemění.
+  todo: >-
+    Prvním kontaktem bývají právní poradny a neziskové organizace; sledovat
+    se dá vládou schválená Revised White Paper on Citizenship, Immigration
+    and Refugee Protection.
 syndicated:
   source: Global Voices
   author: Global Movement Against Statelessness

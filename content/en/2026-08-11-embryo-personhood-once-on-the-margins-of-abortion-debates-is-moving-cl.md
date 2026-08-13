@@ -27,6 +27,17 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/embryo-personhood-once-on-the-margins-of-abortion-debates-is-moving-closer-to-the-center-286726
+impact:
+  areas: [health, life]
+  line: >-
+    This is about the United States: a June 2026 Health and Human Services
+    funding notice describes IVF embryos as children who already exist and
+    need a family. US law still generally treats stored embryos as property
+    transferred by contract, not as adoptable children.
+  todo: >-
+    Anyone with stored embryos can start with their own clinic's consent
+    forms; those contracts, and state law, are what actually decide, not the
+    federal notice.
 ---
 
 About 100,000 babies were born through in vitro fertilization in 2024, according to the most recent U.S. data. But IVF commonly involves trying to create multiple embryos , because success is never guaranteed. If unused, those embryos can be frozen, discarded, donated to research or donated to another fertility patient.

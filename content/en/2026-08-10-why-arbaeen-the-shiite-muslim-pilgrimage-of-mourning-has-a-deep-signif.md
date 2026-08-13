@@ -28,6 +28,17 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/why-arbaeen-the-shiite-muslim-pilgrimage-of-mourning-has-a-deep-significance-that-brings-millions-to-iraq-each-year-288582
+impact:
+  areas: [life]
+  line: >-
+    For most readers this changes nothing. It explains an event you may see in
+    the news: in 2026 pilgrims converged on Karbala on 5 August, walking about
+    78 kilometres from Najaf, in recent years in crowds estimated at more than
+    20 million.
+  todo: >-
+    Arbaeen falls 40 days after Ashura; along the route from Najaf, volunteer
+    stations called mawakib give pilgrims free food, tea, medical care and a
+    place to sleep.
 ---
 
 Every year, millions of pilgrims walk from the deserts of southern Iraq to the holy city of Karbala for Arbaeen, one of the largest annual pilgrimages in the world. In 2026, pilgrims will converge on Karbala on Aug. 5.

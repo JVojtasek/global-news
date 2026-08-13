@@ -19,6 +19,17 @@ edition_slot: 4
 event_id: ''
 series: What the Evidence Remembers
 image_query: four day workweek team planning calendar office
+impact:
+  areas: [money, health, life]
+  line: >-
+    If your employer floats a four-day week, the version matters: what
+    improved burnout and health for 2,896 employees across six countries was
+    fewer hours at unchanged pay, after work was redesigned. Compressing the
+    same hours into four longer days was not tested.
+  todo: >-
+    Ask which of the three it is: fewer hours at full pay, the same hours
+    compressed, or part-time at lower pay. The study is in Nature Human
+    Behaviour, July 2025.
 sources:
 - name: Nature Human Behaviour — Work time reduction via a 4-day workweek
   url: https://www.nature.com/articles/s41562-025-02259-6

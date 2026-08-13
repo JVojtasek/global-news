@@ -29,6 +29,17 @@ syndicated:
 sources:
 - name: The Conversation — Ethics & Big Questions
   url: https://theconversation.com/the-us-has-acknowledged-bears-ears-and-grand-staircase-as-sacred-for-over-a-century-but-keeps-stripping-away-protections-287624
+impact:
+  areas: [life]
+  line: >-
+    Proclamations signed on 13 July 2026 cut Utah's Bears Ears and Grand
+    Staircase-Escalante monuments by roughly 90%. Nearly 3 million acres lose
+    monument status in September and can be opened to mining; the tribal
+    nations that hold the land sacred say they were not consulted.
+  todo: >-
+    The change takes effect in September. Monuments are created and cut by
+    presidential proclamation under the Antiquities Act; only Congress can
+    create or undo a national park.
 ---
 
 President Donald Trump signed proclamations on July 13, 2026, cutting the size of Utah’s Bears Ears and Grand Staircase-Escalante national monuments by roughly 90% – meaning nearly 3 million acres will lose monument status and revert to ordinary public lands management in September. The Antiquities Act of 1906 requires presidents to use proclamations to establish or modify national monuments.

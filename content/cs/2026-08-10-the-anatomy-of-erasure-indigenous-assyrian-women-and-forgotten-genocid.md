@@ -23,6 +23,16 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/
+impact:
+  areas: [life]
+  line: >-
+    Na každodenním životě to většině čtenářů nic nemění. Podstatná je mezera,
+    kterou text pojmenovává: žádná ústava na Blízkém východě neuznává Asyřany
+    jako domorodý národ a archivní práce, která zaznamenává osudy asyrských
+    žen, stojí na dobrovolnících.
+  todo: >-
+    Článek jmenuje, kde ten záznam vzniká: Seyfo Centre, Assyrian Studies
+    Association a Assyrian Genocide Studies, které archivuje svědectví žen.
 ---
 
 Sexuální násilí, popírání ze strany státu a mlčení archivů: tři soustavy, které pracují na tom, aby domorodý národ zmizel

@@ -12,6 +12,17 @@ date: '2026-08-10'
 status: published
 confidence: 100
 image_query: What does home mean for people
+impact:
+  areas: [life]
+  line: >-
+    Of an estimated 400,000 Roma in Ukraine, about 30,000 have no identity
+    documents and are functionally stateless — often because a child was
+    born at home and never got a birth certificate. Refugee reception
+    centres across Europe segregated some of these families.
+  todo: >-
+    The birth certificate is the hinge: without it there is no passport and
+    no formal status. The accounts are collected in the Global Voices series
+    on statelessness.
 syndicated:
   source: Global Voices
   author: Daria Dergacheva

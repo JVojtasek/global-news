@@ -20,6 +20,15 @@ sources:
   url: https://en.wikipedia.org/wiki/Near-death_experience
 - name: 'Wikipedia — Sheol'
   url: https://en.wikipedia.org/wiki/Sheol
+impact:
+  areas: [life]
+  line: >-
+    Prakticky se tím nemění nic; je to otázka, ne událost. Použitelné je
+    svědectví lidí, kteří doprovázejí umírající: na konci člověka obvykle
+    netrápí fyzická bolest, ale nedokončené věci mezi lidmi.
+  todo: >-
+    Pokud existuje vztah, který byste chtěli uzavřít, kdybyste měli půl roku,
+    zeptejte se sami sebe, co vám v tom brání zrovna tenhle měsíc.
 ---
 
 ## BRIEFLY

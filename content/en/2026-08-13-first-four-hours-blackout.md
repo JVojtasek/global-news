@@ -49,6 +49,17 @@ quiz:
   answer: 0
   explanation: The CDC gives a four-hour refrigerator window; a full freezer can hold
     a safe temperature much longer if kept closed.
+impact:
+  areas: [safety, health, life]
+  line: >-
+    This is usable in any power cut: on the CDC guidance quoted here a closed
+    fridge keeps food safe about four hours and a full freezer about 48, and
+    fuel-burning generators must stay outdoors, at least 20 feet from windows,
+    doors and vents.
+  todo: >-
+    Check now which household member depends on mains power for medicine or
+    equipment; the outage map and the utility's own estimate tell you whether
+    four hours is the plan.
 ---
 
 ## BRIEFLY
