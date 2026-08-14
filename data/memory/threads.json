@@ -1,6 +1,62 @@
 {
  "threads": [
   {
+   "id": "8a4f53de3494",
+   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+   "section": "world",
+   "entities": [
+    "farage",
+    "polls",
+    "count",
+    "binface",
+    "clacton",
+    "nigel"
+   ],
+   "event_ids": [
+    "8a4f53de3494",
+    "a7a35c7660a5",
+    "ad706d5a5e94"
+   ],
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "timeline": [
+    {
+     "date": "2026-08-14",
+     "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+     "sources": 3,
+     "score": 60,
+     "event_id": "8a4f53de3494",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
+      "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a7a35c7660a5",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+      "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Clacton by-election: Farage may win the town, but can he win the country?",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad706d5a5e94",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -1060,5 +1116,5 @@
    ]
   }
  ],
- "updated": "2026-08-14T03:57:33+00:00"
+ "updated": "2026-08-14T06:45:54+00:00"
 }

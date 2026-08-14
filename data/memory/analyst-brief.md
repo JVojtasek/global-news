@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-14
 
-Paměť obsahuje **23 vláken**. Aktivních za posledních 14 dní: **9**.
+Paměť obsahuje **24 vláken**. Aktivních za posledních 14 dní: **10**.
 
 ---
 
@@ -39,6 +39,13 @@ Paměť obsahuje **23 vláken**. Aktivních za posledních 14 dní: **9**.
   - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
 
+### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
+- rubrika `world` · sledováno 0 dní · 3 záznamů
+- časová osa:
+  - **2026-08-14** (3 zdrojů) Nigel Farage wins Clacton byelection in contest boycotted by every other major party
+  - **2026-08-14** (2 zdrojů) Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live
+  - **2026-08-14** (2 zdrojů) Clacton by-election: Farage may win the town, but can he win the country?
+
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 1 dní · 3 záznamů
 - časová osa:
@@ -52,9 +59,3 @@ Paměť obsahuje **23 vláken**. Aktivních za posledních 14 dní: **9**.
   - **2026-08-11** (3 zdrojů) Syria sentences Bashar Assad to death in absentia
   - **2026-08-11** (3 zdrojů) Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
   - **2026-08-11** (2 zdrojů) Syrian court sentences Bashar al-Assad and Atef Najib to death
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 0 dní · 2 záznamů
-- časová osa:
-  - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
-  - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
