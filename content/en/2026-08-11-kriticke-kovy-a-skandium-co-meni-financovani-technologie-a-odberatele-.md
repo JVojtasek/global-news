@@ -10,6 +10,17 @@ date: '2026-08-11'
 status: published
 confidence: 0
 image_query: critical metals mining refinery
+impact:
+  areas: [money]
+  line: >-
+    This changes nothing for most readers and will not make electronics
+    cheaper. What matters is that the US Department of Defense lent $400
+    million toward scandium production so defense and industrial supply
+    chains depend less on China.
+  todo: >-
+    For announcements like this, note the difference between debt and new
+    equity, and between a binding offtake contract and a strategic interest;
+    drawdown terms are usually in the company's own stock-exchange filing.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kriticke-kovy-a-skandium-co-meni-financovani-technologie-a-o-analyza-338388

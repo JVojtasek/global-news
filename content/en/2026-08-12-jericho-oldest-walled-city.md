@@ -19,6 +19,16 @@ edition_slot: 7
 event_id: jericho-city
 series: Cities of the Bible
 image_query: Jericho excavation tell archaeology
+impact:
+  areas: [life]
+  line: >-
+    Nothing changes in daily life here — this is a history piece. What
+    matters is what can honestly be claimed about Jericho and what cannot:
+    the stone tower predates writing, but the date of the city's Bronze Age
+    destruction remains genuinely disputed among archaeologists.
+  todo: >-
+    The excavation reports are published. Anyone can check which claims
+    about Jericho come from digging and which come only from repetition.
 sources:
 - name: Wikipedia — Tell es-Sultan
   url: https://en.wikipedia.org/wiki/Tell_es-Sultan

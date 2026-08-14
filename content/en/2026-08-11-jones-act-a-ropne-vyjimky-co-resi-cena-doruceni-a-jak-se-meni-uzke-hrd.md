@@ -10,6 +10,17 @@ date: '2026-08-11'
 status: published
 confidence: 0
 image_query: oil tanker ship port
+impact:
+  areas: [money]
+  line: >-
+    The waiver runs ninety days, applies to shipping between US ports, and
+    will not produce a single extra barrel of oil. Anyone who does not buy
+    fuel in the US sees no change; there, it may lower the risk of sharp
+    regional surcharges at the pump.
+  todo: >-
+    For a waiver like this, what matters is how long it runs, whether it was
+    narrowed, what exactly it covers and when it expires; until then, watch
+    regional fuel price gaps.
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/jones-act-a-ropne-vyjimky-co-resi-cena-doruceni-a-jak-se-men-analyza-338259

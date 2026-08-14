@@ -5,7 +5,7 @@ title: "Antibiotika: co rezistenci opravdu zpomalilo a co to jen vypadalo"
 dek: "Evropská unie slíbila, že do roku 2030 sníží spotřebu antibiotik u lidí o 20 %. V roce 2024 jí spotřebovala o 2 % víc než v roce 2019 a svůj vlastní cíl nesplnil ani jeden členský stát."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-08-14'
 
 measure:
   name: "Celková spotřeba antibakteriálních látek pro systémové použití (ATC skupina J01) u lidí, ambulantní a nemocniční sektor dohromady, v definovaných denních dávkách na 1 000 obyvatel a den"

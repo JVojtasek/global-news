@@ -49,6 +49,17 @@ quiz:
   explanation: The confirmed death shows that the virus reached Bas-Uele in an infected
     traveller; local transmission requires evidence that infection occurred within
     the province.
+impact:
+  areas: [health, safety]
+  line: >-
+    Most readers face no personal change; the US CDC still rates public
+    risk as low even while calling the outbreak faster-growing than earlier
+    ones. In DRC's outbreak provinces, this case means contact tracing has
+    now expanded into Bas-Uele.
+  todo: >-
+    Follow WHO and Africa CDC situation updates rather than social posts,
+    and watch whether any locally acquired case is confirmed over the next
+    21 days.
 ---
 
 ## BRIEFLY

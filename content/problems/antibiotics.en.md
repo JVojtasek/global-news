@@ -5,7 +5,7 @@ title: "Antibiotics: what has actually slowed resistance, and what only looked l
 dek: "The EU promised to cut human antibiotic use by 20% by 2030. In 2024 it was using 2% more than in 2019, and not one member state had reached its own target."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-08-14'
 
 measure:
   name: "Total consumption of antibacterials for systemic use (ATC group J01) in humans, community and hospital sectors combined, in defined daily doses per 1 000 inhabitants per day"

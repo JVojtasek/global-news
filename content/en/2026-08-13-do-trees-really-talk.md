@@ -46,6 +46,17 @@ quiz:
   explanation: Experiments support transfer in some systems, while broad claims about
     intentional sharing, kin preference and forest-wide effects remain unsettled or
     unsupported.
+impact:
+  areas: [life]
+  line: >-
+    For anyone reading forest or gardening claims: real experiments show
+    carbon can move between some plants through shared fungi, but the
+    popular idea of trees deliberately feeding relatives across a forest
+    network remains unproven.
+  todo: >-
+    Before repeating a "wood-wide web" claim, check whether the study
+    excluded root and soil pathways and measured real tree growth or
+    survival, not only a fungal connection.
 ---
 
 ## BRIEFLY
