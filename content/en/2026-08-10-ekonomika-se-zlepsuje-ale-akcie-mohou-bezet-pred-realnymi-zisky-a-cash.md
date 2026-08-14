@@ -17,6 +17,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ekonomika-se-zlepsuje-ale-akcie-mohou-bezet-pred-realnymi-zi-analyza-337479
+impact:
+  areas:
+  - money
+  line: For anyone with money in a broad stock index or fund, this argues that
+    recent gains have leaned more on improving sentiment than on confirmed profit
+    growth, which raises the odds of a sharper pullback if this earnings season
+    disappoints.
+  todo: Compare your index or fund's recent price gains with the actual earnings
+    growth companies are reporting this quarter, rather than assuming a rising
+    price alone confirms improving fundamentals.
 ---
 
 An improving economy is a positive signal from the data, but if stock prices are rising faster than expected profits and cash flow, the market may be running ahead of reality.

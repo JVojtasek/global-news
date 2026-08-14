@@ -26,6 +26,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/
+impact:
+  areas: [life]
+  line: "Most readers won't see any change in how they use AI today. It matters most to communities living near planned data centres, mines that supply AI hardware, or whose language and cultural knowledge AI systems are being trained on without consent."
+  todo: "If a data centre, mine or AI infrastructure project is proposed near you, ask whether an environmental and social impact assessment was actually carried out and made public."
 ---
 
 African governments can lead by requiring environmental and social impact assessments for AI infrastructure

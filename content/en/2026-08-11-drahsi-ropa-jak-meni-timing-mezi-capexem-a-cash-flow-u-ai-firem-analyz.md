@@ -17,6 +17,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/drahsi-ropa-jak-meni-timing-mezi-capexem-a-cash-flow-u-ai-fi-analyza-338536
+impact:
+  areas:
+  - money
+  line: For anyone holding AI-related stocks or funds, this argues that rising
+    oil prices act like a tax on how long a company can wait between spending
+    on AI infrastructure and seeing it turn into profit — a risk that grows with
+    the length of that wait.
+  todo: Check whether the AI companies you're invested in are showing rising revenue
+    and margins alongside their capital spending, not just growing spending on
+    its own.
 ---
 
 For AI in an environment of costlier oil, watch mainly the length of the path from capital spending to cash: the longer it is, the less patient the market can get.

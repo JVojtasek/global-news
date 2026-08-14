@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/13/conflict-displaced-women-facing-growing-risk-of-sexual-violence-in-eastern-drc/
+impact:
+  areas: [safety, life]
+  line: "For most readers far from eastern DRC, daily life doesn't change. For displaced women in conflict zones, this describes a widespread, under-reported risk tied directly to poverty and displacement, not a distant statistic."
+  todo: "If you want to support survivors of conflict-related sexual violence, look for established organisations working directly in eastern DRC rather than sending money through unverified channels."
 ---
 
 Most rape victims stay silent

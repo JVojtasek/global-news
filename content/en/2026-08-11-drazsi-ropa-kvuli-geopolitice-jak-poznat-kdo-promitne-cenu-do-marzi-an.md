@@ -17,6 +17,16 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/drazsi-ropa-kvuli-geopolitice-jak-poznat-kdo-promitne-cenu-d-analyza-338506
+impact:
+  areas:
+  - money
+  line: For anyone with money exposed to airlines, shipping, consumer retailers
+    or oil producers, this argues that a geopolitically driven rise in oil prices
+    affects each differently — producers can benefit while fuel-heavy businesses
+    and consumer spending face pressure.
+  todo: If you hold fuel-sensitive stocks, check whether the company has fuel
+    hedges in place and whether its margins, not just its revenue, are holding
+    up as oil prices move.
 ---
 
 Costlier oil driven by geopolitics is not a simple bet on energy; what matters is who can pass the higher cost along and whose margins it bites into instead.
