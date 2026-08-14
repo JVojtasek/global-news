@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-14
 
-Paměť obsahuje **24 vláken**. Aktivních za posledních 14 dní: **11**.
+Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
 
 ---
 
@@ -47,16 +47,16 @@ Paměť obsahuje **24 vláken**. Aktivních za posledních 14 dní: **11**.
   - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
 
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 1 dní · 3 záznamů
+- časová osa:
+  - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
+  - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
+  - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
+
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 1 dní · 3 záznamů
 - časová osa:
   - **2026-08-12** (4 zdrojů) Trump says White House press secretary Karoline Leavitt to leave post
   - **2026-08-12** (2 zdrojů) The White House’s plan to vet potentially dangerous AI is cloaked in secrecy
   - **2026-08-13** (2 zdrojů) Who could potentially replace White House Press Secretary Karoline Leavitt?
-
-### Syria sentences Bashar Assad to death in absentia
-- rubrika `world` · sledováno 0 dní · 3 záznamů
-- časová osa:
-  - **2026-08-11** (3 zdrojů) Syria sentences Bashar Assad to death in absentia
-  - **2026-08-11** (3 zdrojů) Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia
-  - **2026-08-11** (2 zdrojů) Syrian court sentences Bashar al-Assad and Atef Najib to death

@@ -71,6 +71,60 @@
    ]
   },
   {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "israeli",
+    "bank",
+    "west"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-14",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69fbd7c00f3b",
+     "links": [
+      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c56a140b572c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e183c545cb4c",
    "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
    "section": "world",
@@ -108,6 +162,65 @@
      "links": [
       "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
       "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ecebd07d0359",
+   "title": "Bezos-backed consortium buys a third of Liverpool",
+   "section": "sport",
+   "entities": [
+    "bezos-backed",
+    "liverpool"
+   ],
+   "event_ids": [
+    "ecebd07d0359"
+   ],
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "timeline": [
+    {
+     "date": "2026-08-14",
+     "headline": "Bezos-backed consortium buys a third of Liverpool",
+     "sources": 4,
+     "score": 63,
+     "event_id": "ecebd07d0359",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "534775643230",
+   "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+   "section": "sport",
+   "entities": [
+    "portugal",
+    "volta",
+    "tarling",
+    "britain's",
+    "finlay"
+   ],
+   "event_ids": [
+    "534775643230"
+   ],
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-14",
+   "timeline": [
+    {
+     "date": "2026-08-14",
+     "headline": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+     "sources": 4,
+     "score": 62,
+     "event_id": "534775643230",
+     "links": [
+      "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/14/british-cyclist-finlay-tarling-19-dies-in-volta-a-portugal-accident"
      ]
     }
    ]
@@ -466,48 +579,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
       "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "israeli",
-    "west",
-    "bank"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-13",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-     "sources": 3,
-     "score": 59,
-     "event_id": "09443cca3ddd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69fbd7c00f3b",
-     "links": [
-      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
-      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
      ]
     }
    ]
@@ -1144,5 +1215,5 @@
    ]
   }
  ],
- "updated": "2026-08-14T15:33:31+00:00"
+ "updated": "2026-08-14T18:33:02+00:00"
 }
