@@ -1,0 +1,89 @@
+# ZÁLOŽNÍ AUTOR VYDÁNÍ — jediné místo v repozitáři, které smí sáhnout na placené API.
+#
+# Proč: sloty 1–6 primárně píší naplánované úlohy ChatGPT Work. Když ta strana
+# nedodá (vyčerpaný týdenní limit, výpadek, změna účtu), vydání zůstalo prázdné
+# a nikdo se to včas nedozvěděl — přesně to se stalo 14. 8. 2026.
+#
+# Co dělá: několikrát denně se podívá, které sloty chybí, chybějící napíše přes
+# Anthropic API do content/inbox/ jako `draft`, a pak je prožene ÚPLNĚ STEJNÝM
+# redakčním sítem jako texty od ChatGPT Work. Co sítem neprojde, se nevydá.
+#
+# Vydání tak není vázané na jeden přesný čas: běhů je za den víc a každý doplní,
+# co v tu chvíli chybí. Když nechybí nic, běh nic nenapíše a nic nestojí.
+#
+# NÁKLADY: repozitář je veřejný → minuty GitHub Actions jsou zdarma. Platí se jen
+# tokeny Anthropic API, a to jen za skutečně chybějící slot. Denní strop hlídá
+# `ai.max_usd_per_day` v data/site.yml (engine/ai.py ho vynucuje).
+#
+# BEZ KLÍČE: když ANTHROPIC_API_KEY není v Secrets, workflow doběhne bez chyby —
+# autofill jen zaloguje, že AI není dostupná, a skončí.
+name: "2c · Záložní autor vydání"
+
+on:
+  schedule:
+    # Každé dvě hodiny přes den (UTC). Praha = +2 h.
+    # 05:10 = 07:10 Praha (ještě před uzávěrkou), pak průběžně do večera.
+    - cron: "10 5,7,9,11,13,15,17,19 * * *"
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Kolik slotů nejvýš doplnit v tomhle běhu"
+        required: false
+        default: "3"
+
+permissions:
+  contents: write
+
+# Stejná skupina jako 2-redakce a 2b-intraday — dva zápisy do repozitáře
+# se nikdy nepotkají.
+concurrency:
+  group: newsroom-write
+  cancel-in-progress: false
+
+jobs:
+  autor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Přepočítat dnešní vydání
+        run: python -m engine.edition
+
+      - name: Dopsat chybějící sloty
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AUTOFILL_MAX: ${{ github.event.inputs.max || '3' }}
+        run: python -m engine.autofill
+
+      # Odsud dolů je to stejná cesta jako u textů z ChatGPT Work.
+      # Žádná zkratka: co neprojde sítem, skončí v content/inbox/_rejected/.
+      - name: Přijmout články z inboxu (redakční síto)
+        run: python -m engine.inbox
+
+      - name: Vydat článek ze zásoby
+        run: python -m engine.release
+
+      - name: Redakční bezpečnostní testy
+        run: python -m unittest discover -s tests -v
+
+      - name: Kontrola zdraví
+        continue-on-error: true
+        run: python -m engine.doctor
+
+      - name: Uložit
+        run: |
+          git config user.name  "newsroom-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add content/ data/
+          git diff --staged --quiet || git commit -m "[bot] zalozni autor $(date -u +%Y-%m-%d\ %H:%M)"
+          git pull --rebase --autostash
+          git push

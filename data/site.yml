@@ -16,12 +16,18 @@ languages:
   translations: [cs]
 
 ai:
-  # Produkční redakce používá naplánované úlohy ChatGPT Work.
-  # Placené modelové API je v GitHub Actions výslovně vypnuté.
-  providers: []
-  anthropic_model: ""
+  # Sloty 1-6 primárně píší naplánované úlohy ChatGPT Work.
+  # Když ta strana nedodá (vyčerpaný limit, výpadek), dopíše chybějící sloty
+  # `engine.autofill` přes Anthropic API — viz .github/workflows/2c-zalozni-autor.yml.
+  # Placené API se použije JEN v tomhle záložním workflow; 1-sber, 2-redakce,
+  # 2b-intraday a 3-publikace klíč nadále nenačítají.
+  # Bez ANTHROPIC_API_KEY v Secrets se nic nestane — autofill jen zaloguje a skončí.
+  providers: ["anthropic"]
+  anthropic_model: "claude-sonnet-5"
   openai_model: ""
-  max_usd_per_day: 0.0
+  # Tvrdý denní strop. Hlídá engine/ai.py; při vyčerpání se psaní zastaví.
+  # Šest článků denně se vejde s velkou rezervou.
+  max_usd_per_day: 3.0
 
 # ---------------------------------------------------------------------
 # REDAKČNÍ PRAVIDLA
