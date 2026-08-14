@@ -111,7 +111,17 @@ Nikdy si dobrou zprávu nevymýšlej a nikdy nenafukuj malý výsledek.
   e) Přepiš tak, aby zmizely všechny blokující připomínky.
 
   f) Do hlavičky nastav confidence (0-100) podle toho, jak si věříš.
-     Buď přísný. Pod 82 nastav `status: review` místo `published`.
+     Buď přísný.
+
+     **`status` ale u článku do vydání nech VŽDYCKY `draft`** — i když si
+     nevěříš a i u citlivého tématu (zdraví, peníze, právo, politika, válka,
+     zločin, děti, mimořádné události). O tom, co půjde k ruční kontrole,
+     rozhoduje síto `engine/inbox.py`: samo článek přepne na `review`
+     a doplní `review_reason`.
+
+     Když pošleš rovnou `review` nebo `published`, síto článek do vydání
+     NEPŘIJME — skončí v `content/inbox/_rejected/` s hláškou
+     „slot N musí mít status: draft". Stalo se to 14. 8. 2026.
 
   g) Dodrž režim `depth` uvedený u zadání:
        open      = závěrečná vrstva je obecně myšlenková a Bibli NESMÍŠ

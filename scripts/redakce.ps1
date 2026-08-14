@@ -55,6 +55,24 @@ function Odesli($zprava) {
   return $false
 }
 
+# ZAMEK — dve smeny nikdy nesmi psat do stejneho inboxu naraz.
+# 14. 8. 2026 se to stalo (rucni spusteni + naplanovana uloha ve 12:00)
+# a kazdy slot mel dve verze. IgnoreNew v Planovaci uloh hlida jen
+# instance spustene planovacem, rucni spusteni ne. Tenhle zamek hlida obe.
+$lockFile = Join-Path $logDir ".smena.lock"
+if (Test-Path $lockFile) {
+  $stary = Get-Content $lockFile -Raw -ErrorAction SilentlyContinue
+  $starePid = ($stary -split "\|")[0]
+  $zije = Get-Process -Id $starePid -ErrorAction SilentlyContinue
+  $vek = (Get-Date) - (Get-Item $lockFile).LastWriteTime
+  if ($zije -and $vek.TotalMinutes -lt 90) {
+    Zapis ("Jina smena uz bezi (PID " + $starePid + ", " + [int]$vek.TotalMinutes + " min). Koncim.")
+    exit 0
+  }
+  Zapis "Naslo se osirele zamknuti, prebiram praci."
+}
+"{0}|{1}" -f $PID, (Get-Date -Format o) | Set-Content $lockFile -Encoding UTF8
+
 Zapis "=== SMENA REDAKCE ==="
 Set-Location $repo
 
@@ -107,4 +125,5 @@ if (Odesli $zprava) {
   Zapis "Smena skoncila, ale prace ceka na odeslani."
 }
 Zapis ("Podrobnosti v: " + $logDir + "\claude_$stamp.log")
+Remove-Item $lockFile -Force -ErrorAction SilentlyContinue
 Zapis "=== KONEC SMENY ==="
