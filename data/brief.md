@@ -44,31 +44,25 @@
     <https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/>
     > The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.
 
-### 2. Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
-- id události: `965561c723dd`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
+### 2. Futile Clacton byelection has done Farage no favours
+- id události: `5a0bc875861a`  ·  rubrika: `world`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
-    <https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return>
-    > Elaborate ruse was used to transport president to military flight from Air Force One in July Donald Trump departed on a secret military flight from Turkey to Britain last month when the White House said he was flying aboard ⁠Air Force One, in an extraordinary ruse – prompted by a
-  - **Guardian Business** — Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live
-    <https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates>
-    > US president demands compensation for damage incurred by US, complicating standoff with Tehran Shares in International Workplace Group slumped more than 11% after analysts flagged risks to cashflow at the flexible office space provider. Shares in IWG, which owns the Spaces ⁠and R
-  - **Al Jazeera** — Trump sends conflicting signals on Iran strategy
-    <https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss>
-    > Trump sends conflicting signals on Iran strategy
-  - **Al Jazeera** — Iran threat prompted secret Trump flight from Turkiye: Reports
-    <https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss>
-    > Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.
-  - **France 24** — Donald Trump took secret flight out of Turkey over Iran threat, the Washington Post reports
-    <https://www.france24.com/en/video/20260811-donald-trump-took-secret-flight-out-of-turkey-over-iran-threat-the-washington-post-reports>
-    > US President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post. FRA
-  - **France 24** — Donald Trump signs order reducing recommended childhood vaccines
-    <https://www.france24.com/en/donald-trump-signs-order-reducing-recommended-childhood-vaccines>
-    > President Donald Trump signed an executive order on Monday (August 10) calling for fewer childhood vaccinations ​by ‌limiting the inoculation schedule to 11 immunizations.
-  - **France 24** — Trump secretly swapped planes in Turkey over Iran threat, report says
-    <https://www.france24.com/en/americas/20260811-trump-secretly-swapped-planes-in-turkey-over-iran-threat-report-says>
-    > US ​President Donald Trump departed on a secret military flight from Turkey last month when the White House said he was flying aboard Air Force One, an extraordinary ​move prompted by an Iranian assassination threat, the Washington Post reported Monday.
+  - **The Guardian World** — Futile Clacton byelection has done Farage no favours
+    <https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis>
+    > The Reform UK leader forced a vote that failed to make financial questions disappear, only the man himself • Clacton byelection – UK politics live Dawn had long broken in the Essex town of Clacton-on-Sea when the results for the byelection came in. After a gruelling count, an atm
+  - **Guardian Business** — Standards watchdog resumes investigation into Nigel Farage over financial gifts
+    <https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts>
+    > Reform UK leader’s return to Clacton restarts inquiry into £5m gift from cyrpto-billionaire and support from fraudster The suspended parliamentary standards investigation into Nigel Farage over accusations he failed to declare gifts and donations has resumed after the Reform UK l
+  - **DW News** — UK: Nigel Farage beats a trash can in Clacton by-election
+    <https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf>
+    > Nigel Farage reclaimed his Clacton seat with 63% of the vote, but his main rival, Count Binface, took over a quarter, as Farage skipped the count citing security concerns.
+  - **Al Jazeera** — Nigel Farage defeats Count Binface to reclaim UK parliamentary seat
+    <https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss>
+    > The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface.
+  - **France 24** — Nigel Farage beats Count Binface to regain UK parliament seat in widely mocked by-election
+    <https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election>
+    > The anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton.
 
 ### 3. Kennedy Center board approves Trump name on facade, renovation plan
 - id události: `48a7d81e65e9`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4

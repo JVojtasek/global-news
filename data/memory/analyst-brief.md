@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-14
 
-Paměť obsahuje **24 vláken**. Aktivních za posledních 14 dní: **10**.
+Paměť obsahuje **24 vláken**. Aktivních za posledních 14 dní: **11**.
 
 ---
 
@@ -31,6 +31,14 @@ Paměť obsahuje **24 vláken**. Aktivních za posledních 14 dní: **10**.
   - **2026-08-12** (2 zdrojů) Four killed in overnight attacks in southern Russia, Ukraine
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
 
+### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
+- rubrika `world` · sledováno 0 dní · 4 záznamů
+- časová osa:
+  - **2026-08-14** (3 zdrojů) Nigel Farage wins Clacton byelection in contest boycotted by every other major party
+  - **2026-08-14** (2 zdrojů) Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live
+  - **2026-08-14** (2 zdrojů) Clacton by-election: Farage may win the town, but can he win the country?
+  - **2026-08-14** (5 zdrojů) Futile Clacton byelection has done Farage no favours
+
 ### Typhoon Dolphin batters Japan's Okinawa before bearing down on China
 - rubrika `world` · sledováno 1 dní · 4 záznamů
 - časová osa:
@@ -38,13 +46,6 @@ Paměť obsahuje **24 vláken**. Aktivních za posledních 14 dní: **10**.
   - **2026-08-10** (1 zdrojů) Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
   - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
-
-### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
-- rubrika `world` · sledováno 0 dní · 3 záznamů
-- časová osa:
-  - **2026-08-14** (3 zdrojů) Nigel Farage wins Clacton byelection in contest boycotted by every other major party
-  - **2026-08-14** (2 zdrojů) Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live
-  - **2026-08-14** (2 zdrojů) Clacton by-election: Farage may win the town, but can he win the country?
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 1 dní · 3 záznamů

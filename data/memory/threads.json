@@ -5,17 +5,19 @@
    "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
    "section": "world",
    "entities": [
+    "nigel",
     "farage",
-    "polls",
+    "futile",
     "count",
-    "binface",
     "clacton",
-    "nigel"
+    "polls",
+    "binface"
    ],
    "event_ids": [
     "8a4f53de3494",
     "a7a35c7660a5",
-    "ad706d5a5e94"
+    "ad706d5a5e94",
+    "5a0bc875861a"
    ],
    "first_seen": "2026-08-14",
    "last_seen": "2026-08-14",
@@ -52,6 +54,60 @@
      "links": [
       "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
       "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Futile Clacton byelection has done Farage no favours",
+     "sources": 5,
+     "score": 75,
+     "event_id": "5a0bc875861a",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
+      "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
+      "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e183c545cb4c",
+   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+   "section": "world",
+   "entities": [
+    "zealand",
+    "oceania",
+    "fifa",
+    "infantino"
+   ],
+   "event_ids": [
+    "e183c545cb4c",
+    "496f55f6a2bd"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-14",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
+     "sources": 6,
+     "score": 83,
+     "event_id": "e183c545cb4c",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
+     "sources": 2,
+     "score": 41,
+     "event_id": "496f55f6a2bd",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
      ]
     }
    ]
@@ -941,34 +997,6 @@
    ]
   },
   {
-   "id": "e183c545cb4c",
-   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-   "section": "world",
-   "entities": [
-    "fifa",
-    "infantino"
-   ],
-   "event_ids": [
-    "e183c545cb4c"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-09",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
-     "sources": 6,
-     "score": 83,
-     "event_id": "e183c545cb4c",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
    "id": "7dc1d2ca7c75",
    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
    "section": "world",
@@ -1116,5 +1144,5 @@
    ]
   }
  ],
- "updated": "2026-08-14T06:45:54+00:00"
+ "updated": "2026-08-14T09:38:34+00:00"
 }
