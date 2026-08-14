@@ -1,16 +1,16 @@
 ---
 slug: ai-and-your-job-five-levels
 title: 'AI and Your Job: The Five Levels That Actually Matter'
-dek: AI is already doing real slices of skilled work, from hospital paperwork
-  to heart-attack screening. How much control it is given over a task, not
-  the technology itself, decides what changes for you.
+dek: AI is already doing real slices of skilled work, from hospital paperwork to heart-attack
+  screening. How much control it is given over a task, not the technology itself,
+  decides what changes for you.
 section: tech
 type: daily
 depth: open
 lang: en
 date: '2026-08-14'
-status: draft
-confidence: 86
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -21,35 +21,41 @@ event_id: ''
 series: ''
 image_query: doctor typing laptop hospital office
 sources:
-  - name: 'Google DeepMind - Levels of AGI for Operationalizing Progress on the Path to AGI (arXiv, 2023)'
-    url: https://arxiv.org/abs/2311.02462
-  - name: Wikipedia — Artificial general intelligence
-    url: https://en.wikipedia.org/wiki/Artificial_general_intelligence
-  - name: Wikipedia — Artificial intelligence
-    url: https://en.wikipedia.org/wiki/Artificial_intelligence
-  - name: Wikipedia — Artificial intelligence in healthcare
-    url: https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare
+- name: Google DeepMind - Levels of AGI for Operationalizing Progress on the Path
+    to AGI (arXiv, 2023)
+  url: https://arxiv.org/abs/2311.02462
+- name: Wikipedia — Artificial general intelligence
+  url: https://en.wikipedia.org/wiki/Artificial_general_intelligence
+- name: Wikipedia — Artificial intelligence
+  url: https://en.wikipedia.org/wiki/Artificial_intelligence
+- name: Wikipedia — Artificial intelligence in healthcare
+  url: https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare
 qma_path: ''
 tickers: []
 quiz:
-  question: According to the Google DeepMind autonomy framework, what separates a "consultant"-level AI from an "expert"-level one at the same task?
+  question: According to the Google DeepMind autonomy framework, what separates a
+    "consultant"-level AI from an "expert"-level one at the same task?
   options:
-    - A consultant AI only offers input while a human still decides; an expert AI's output is trusted enough to act on directly
-    - A consultant AI is older software and an expert AI is newer software
-    - There is no real difference, only marketing language
+  - A consultant AI only offers input while a human still decides; an expert AI's
+    output is trusted enough to act on directly
+  - A consultant AI is older software and an expert AI is newer software
+  - There is no real difference, only marketing language
   answer: 0
-  explanation: DeepMind's 2023 framework grades AI systems by how much control they hold over a task, from tool (fully human-controlled) through consultant, collaborator and expert to agent (fully autonomous) — the same underlying capability can sit at different levels depending on how much a human still checks the output.
+  explanation: DeepMind's 2023 framework grades AI systems by how much control they
+    hold over a task, from tool (fully human-controlled) through consultant, collaborator
+    and expert to agent (fully autonomous) — the same underlying capability can sit
+    at different levels depending on how much a human still checks the output.
 impact:
-  areas: [money, life]
-  line: >-
-    If your work involves writing, diagnosis, review or planning, some slice
-    of it is likely already at "consultant" or "collaborator" level today —
-    tools like AI-drafted clinical notes and cardiac-risk screening already
-    running in real workplaces, not hypothetical future ones.
-  todo: >-
-    List the tasks in your own job and ask, honestly, which level each one
-    sits at right now: does a human still have to check it, or does the
-    output get acted on directly?
+  areas:
+  - money
+  - life
+  line: If your work involves writing, diagnosis, review or planning, some slice of
+    it is likely already at "consultant" or "collaborator" level today — tools like
+    AI-drafted clinical notes and cardiac-risk screening already running in real workplaces,
+    not hypothetical future ones.
+  todo: 'List the tasks in your own job and ask, honestly, which level each one sits
+    at right now: does a human still have to check it, or does the output get acted
+    on directly?'
 ---
 
 ## BRIEFLY

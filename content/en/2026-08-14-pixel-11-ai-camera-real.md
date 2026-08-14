@@ -1,9 +1,10 @@
 ---
 slug: pixel-11-ai-camera-real
-title: 'Google’s Pixel 11 Bets on AI Over Hardware — and Quietly Argues Your Photos Look Too Perfect'
-dek: A new phone, watch and tracker arrive with more Gemini and fewer hardware
-  changes, alongside an unusual admission from Google’s own camera team about
-  what computational photography has been hiding.
+title: Google’s Pixel 11 Bets on AI Over Hardware — and Quietly Argues Your Photos
+  Look Too Perfect
+dek: A new phone, watch and tracker arrive with more Gemini and fewer hardware changes,
+  alongside an unusual admission from Google’s own camera team about what computational
+  photography has been hiding.
 section: tech
 type: news
 depth: scripture
@@ -20,53 +21,59 @@ event_id: 94761ad38bf7
 series: ''
 image_query: smartphone camera lens close up hands
 sources:
-  - name: Ars Technica — Google reveals 2026 hardware lineup
-    url: https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/
-    published: '2026-08-12'
-  - name: The Verge — Google aims for influencers with the Pixel 11 Creator Suite
-    url: https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features
-    published: '2026-08-12'
-  - name: TechCrunch — Everything announced at Made by Google '26
-    url: https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/
-    published: '2026-08-12'
-  - name: CNBC — Google's new Pixel 11 puts Gemini at center of AI phone battle with Apple
-    url: https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html
-    published: '2026-08-12'
-  - name: The Verge — Google's Pixel 11 series pairs a little new hardware with a lot of new software
-    url: https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software
-    published: '2026-08-12'
-  - name: The Verge — Google is making the Pixel cameras better by making them worse
-    url: https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography
-    published: '2026-08-12'
-  - name: The Verge — Google's Pixel Watch 5 dives deeper into AI and health
-    url: https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch
-    published: '2026-08-12'
-  - name: The Verge — The Pixel Tag is Google's answer to the AirTag
-    url: https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news
-    published: '2026-08-12'
-  - name: TechCrunch — Google's Pixel 11 lineup offers fewer hardware changes, but much more Gemini
-    url: https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/
-    published: '2026-08-12'
+- name: Ars Technica — Google reveals 2026 hardware lineup
+  url: https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/
+  published: '2026-08-12'
+- name: The Verge — Google aims for influencers with the Pixel 11 Creator Suite
+  url: https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features
+  published: '2026-08-12'
+- name: TechCrunch — Everything announced at Made by Google '26
+  url: https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/
+  published: '2026-08-12'
+- name: CNBC — Google's new Pixel 11 puts Gemini at center of AI phone battle with
+    Apple
+  url: https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html
+  published: '2026-08-12'
+- name: The Verge — Google's Pixel 11 series pairs a little new hardware with a lot
+    of new software
+  url: https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software
+  published: '2026-08-12'
+- name: The Verge — Google is making the Pixel cameras better by making them worse
+  url: https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography
+  published: '2026-08-12'
+- name: The Verge — Google's Pixel Watch 5 dives deeper into AI and health
+  url: https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch
+  published: '2026-08-12'
+- name: The Verge — The Pixel Tag is Google's answer to the AirTag
+  url: https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news
+  published: '2026-08-12'
+- name: TechCrunch — Google's Pixel 11 lineup offers fewer hardware changes, but much
+    more Gemini
+  url: https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/
+  published: '2026-08-12'
 qma_path: ''
 tickers: []
 quiz:
-  question: According to reporting on the launch, what changed most between the Pixel 10 and Pixel 11 generations?
+  question: According to reporting on the launch, what changed most between the Pixel
+    10 and Pixel 11 generations?
   options:
-    - The hardware changed dramatically while the software stayed the same
-    - Software and Gemini AI features changed the most, while hardware changes were comparatively minor
-    - Nothing changed except the price
+  - The hardware changed dramatically while the software stayed the same
+  - Software and Gemini AI features changed the most, while hardware changes were
+    comparatively minor
+  - Nothing changed except the price
   answer: 1
-  explanation: Multiple outlets, including TechCrunch and The Verge, described the Pixel 11 as a "refinement year" for hardware, with the bulk of the changes concentrated in Gemini AI features.
+  explanation: Multiple outlets, including TechCrunch and The Verge, described the
+    Pixel 11 as a "refinement year" for hardware, with the bulk of the changes concentrated
+    in Gemini AI features.
 impact:
-  areas: [money]
-  line: >-
-    Anyone shopping for a Pixel 11 is paying about $100 more than last year's
-    starting price for a phone with fewer hardware changes and 256GB of base
-    storage, plus a Pixel Watch 5 that costs $50 more than its predecessor.
-  todo: >-
-    Before buying, check whether the features you actually want are the new
-    Gemini AI tools or the camera and battery hardware, since this generation
-    separates those two more than usual.
+  areas:
+  - money
+  line: Anyone shopping for a Pixel 11 is paying about $100 more than last year's
+    starting price for a phone with fewer hardware changes and 256GB of base storage,
+    plus a Pixel Watch 5 that costs $50 more than its predecessor.
+  todo: Before buying, check whether the features you actually want are the new Gemini
+    AI tools or the camera and battery hardware, since this generation separates those
+    two more than usual.
 ---
 
 ## BRIEFLY
