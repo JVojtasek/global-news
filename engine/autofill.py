@@ -272,8 +272,29 @@ def write_slot(spec: dict, day: dt.date) -> "config.pathlib.Path | None":
 
 
 # --------------------------------------------------------------- běh
+_KEYS = {"anthropic": "ANTHROPIC_API_KEY", "openai": "OPENAI_API_KEY"}
+
+
+def _missing_keys() -> list[str]:
+    """Nastavené poskytovatele, kterým chybí klíč v prostředí."""
+    if ai.MOCK:
+        return []
+    return [
+        _KEYS[p] for p in config.site()["ai"]["providers"]
+        if p in _KEYS and not os.environ.get(_KEYS[p])
+    ]
+
+
 def run(day: dt.date | None = None) -> int:
     day = day or dt.date.today()
+
+    # Bez klíče nemá smysl třikrát opakovat volání, které nemůže projít.
+    absent = _missing_keys()
+    if absent and len(absent) == len([p for p in config.site()["ai"]["providers"] if p in _KEYS]):
+        config.log("Záložní autor nemá čím psát: chybí " + ", ".join(absent) + ".")
+        config.log("Doplň klíč v Settings → Secrets and variables → Actions → New repository secret.")
+        return 0
+
     missing = missing_slots(day)
     if not missing:
         config.log("Vydání je kompletní, záložní autor nic nepíše.")
