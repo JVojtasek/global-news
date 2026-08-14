@@ -1,6 +1,7 @@
 ---
 slug: birth-order-personality-evidence
-title: The Birth-Order Personality Myth Won't Die. Here's What the Evidence Actually Shows
+title: The Birth-Order Personality Myth Won't Die. Here's What the Evidence Actually
+  Shows
 dek: Alfred Adler proposed it and Frank Sulloway made it a bestseller, but large modern
   studies say birth order barely touches personality — even though most parents still
   half-believe it.
@@ -9,8 +10,8 @@ type: analysis
 depth: scripture
 lang: en
 date: '2026-08-14'
-status: draft
-confidence: 79
+status: review
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -41,9 +42,14 @@ quiz:
     major personality traits, but did find a small, real effect on self-reported intelligence
     — about one IQ point favoring firstborns.
 impact:
-  areas: [life]
-  line: "For most families this doesn't change how a specific child turns out — but it suggests labels like 'the responsible one' or 'the rebel' describe family stories more than anything reliably measurable in a child."
-  todo: "If a birth-order label bothers you or your child, ask what specific behavior it's actually describing — the label itself rarely predicts more than that."
+  areas:
+  - life
+  line: For most families this doesn't change how a specific child turns out — but
+    it suggests labels like 'the responsible one' or 'the rebel' describe family stories
+    more than anything reliably measurable in a child.
+  todo: If a birth-order label bothers you or your child, ask what specific behavior
+    it's actually describing — the label itself rarely predicts more than that.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
