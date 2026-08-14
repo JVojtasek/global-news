@@ -1,16 +1,17 @@
 ---
 slug: blood-pressure-both-arms-check
-title: 'Why Doctors Check Blood Pressure in Both Arms — and Almost No One Does It at Home'
-dek: A gap of more than a few points between your left and right arm is common,
-  usually harmless, and occasionally the first clue to something worth checking.
-  Here's how to test it yourself in under two minutes.
+title: Why Doctors Check Blood Pressure in Both Arms — and Almost No One Does It at
+  Home
+dek: A gap of more than a few points between your left and right arm is common, usually
+  harmless, and occasionally the first clue to something worth checking. Here's how
+  to test it yourself in under two minutes.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-08-14'
-status: draft
-confidence: 76
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
@@ -21,23 +22,33 @@ event_id: ''
 series: ''
 image_query: blood pressure cuff arm measurement
 sources:
-  - name: Wikipedia — Blood pressure
-    url: https://en.wikipedia.org/wiki/Blood_pressure
-  - name: Wikipedia — Hypertension
-    url: https://en.wikipedia.org/wiki/Hypertension
-  - name: Wikipedia — White coat hypertension
-    url: https://en.wikipedia.org/wiki/White_coat_hypertension
+- name: Wikipedia — Blood pressure
+  url: https://en.wikipedia.org/wiki/Blood_pressure
+- name: Wikipedia — Hypertension
+  url: https://en.wikipedia.org/wiki/Hypertension
+- name: Wikipedia — White coat hypertension
+  url: https://en.wikipedia.org/wiki/White_coat_hypertension
 qma_path: ''
 tickers: []
 quiz:
-  question: "Clinical guidelines commonly treat which gap between arms as worth mentioning to a doctor?"
-  options: ["Around 10 mmHg systolic or more", "Any gap at all, even 1-2 mmHg", "Only gaps found on the same arm on different days"]
+  question: Clinical guidelines commonly treat which gap between arms as worth mentioning
+    to a doctor?
+  options:
+  - Around 10 mmHg systolic or more
+  - Any gap at all, even 1-2 mmHg
+  - Only gaps found on the same arm on different days
   answer: 0
-  explanation: "Small differences of a few points are normal and expected. Guidelines generally flag a persistent gap of roughly 10 mmHg or more in the top (systolic) number as worth a follow-up conversation, not a diagnosis on its own."
+  explanation: Small differences of a few points are normal and expected. Guidelines
+    generally flag a persistent gap of roughly 10 mmHg or more in the top (systolic)
+    number as worth a follow-up conversation, not a diagnosis on its own.
 impact:
-  areas: [health]
-  line: "If you or someone in your household owns a home blood pressure cuff, this changes how you use it today: check both arms once, not just whichever one is closer to the cuff."
-  todo: "Measure your blood pressure in your left arm, then your right, a minute apart, and mention any repeated large gap to your doctor at your next visit."
+  areas:
+  - health
+  line: 'If you or someone in your household owns a home blood pressure cuff, this
+    changes how you use it today: check both arms once, not just whichever one is
+    closer to the cuff.'
+  todo: Measure your blood pressure in your left arm, then your right, a minute apart,
+    and mention any repeated large gap to your doctor at your next visit.
 ---
 
 ## BRIEFLY

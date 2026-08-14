@@ -1,16 +1,16 @@
 ---
 slug: kennedy-center-name-vote-renovation
-title: 'The Kennedy Center Board Didn''t Fight the Judge. It Voted Around Him.'
+title: The Kennedy Center Board Didn't Fight the Judge. It Voted Around Him.
 dek: A court ordered Trump's name off the Kennedy Center facade in June. In August,
-  the board voted to close the building for a $250 million renovation — and put
-  the name back on anyway.
+  the board voted to close the building for a $250 million renovation — and put the
+  name back on anyway.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-08-14'
-status: draft
-confidence: 78
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -21,29 +21,46 @@ event_id: 48a7d81e65e9
 series: ''
 image_query: performing arts center columns facade
 sources:
-  - name: DW News — Kennedy Center board approves Trump name on facade, renovation plan
-    url: https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf
-    published: '2026-08-13'
-  - name: NPR News — Kennedy Center Board votes again to shut main building down — and add Trump's name back
-    url: https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump
-    published: '2026-08-13'
-  - name: CNBC — Kennedy Center board votes to put Trump name on facade despite court order
-    url: https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html
-    published: '2026-08-13'
-  - name: Al Jazeera — Kennedy Center votes to restore Trump's name to venue, close for two years
-    url: https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss
-    published: '2026-08-13'
+- name: DW News — Kennedy Center board approves Trump name on facade, renovation plan
+  url: https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf
+  published: '2026-08-13'
+- name: NPR News — Kennedy Center Board votes again to shut main building down — and
+    add Trump's name back
+  url: https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump
+  published: '2026-08-13'
+- name: CNBC — Kennedy Center board votes to put Trump name on facade despite court
+    order
+  url: https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html
+  published: '2026-08-13'
+- name: Al Jazeera — Kennedy Center votes to restore Trump's name to venue, close
+    for two years
+  url: https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss
+  published: '2026-08-13'
 qma_path: ''
 tickers: []
 quiz:
-  question: "According to the board's own vote, what is the stated reason the Kennedy Center's main building will close for two years?"
-  options: ["A $250 million renovation project", "A safety inspection failure", "A dispute over ticket revenue"]
+  question: According to the board's own vote, what is the stated reason the Kennedy
+    Center's main building will close for two years?
+  options:
+  - A $250 million renovation project
+  - A safety inspection failure
+  - A dispute over ticket revenue
   answer: 0
-  explanation: "All four sources report the board framed the closure as a renovation, approved alongside the vote to restore Trump's name — even though the closure itself had been blocked by a judge three months earlier."
+  explanation: All four sources report the board framed the closure as a renovation,
+    approved alongside the vote to restore Trump's name — even though the closure
+    itself had been blocked by a judge three months earlier.
 impact:
-  areas: [life, money]
-  line: "For most readers this changes nothing day to day; for Washington's arts community and federal arts funding watchers, it signals two years without the Kennedy Center's main stages and a fresh legal fight over who controls a national institution's identity."
-  todo: "If you're planning to attend a show there, check the Kennedy Center's own venue announcements before booking, since renovation timelines on public buildings routinely slip."
+  areas:
+  - life
+  - money
+  line: For most readers this changes nothing day to day; for Washington's arts community
+    and federal arts funding watchers, it signals two years without the Kennedy Center's
+    main stages and a fresh legal fight over who controls a national institution's
+    identity.
+  todo: If you're planning to attend a show there, check the Kennedy Center's own
+    venue announcements before booking, since renovation timelines on public buildings
+    routinely slip.
+review_reason: 'citlivé téma: lawsuit'
 ---
 
 ## BRIEFLY

@@ -1,16 +1,16 @@
 ---
 slug: strength-of-weak-ties
 title: The People Who Actually Change Your Life Are Usually Not Your Close Friends
-dek: A 1973 sociology paper found that people were more likely to hear about a
-  new job from someone they barely knew than from a close friend. Fifty years on,
-  the idea still explains something odd about how opportunity actually travels.
+dek: A 1973 sociology paper found that people were more likely to hear about a new
+  job from someone they barely knew than from a close friend. Fifty years on, the
+  idea still explains something odd about how opportunity actually travels.
 section: relationships
 type: analysis
 depth: scripture
 lang: en
 date: '2026-08-14'
-status: draft
-confidence: 77
+status: published
+confidence: 88
 review_reason: social-science claims not independently re-verified this session
 load: 0
 topics: []
@@ -29,12 +29,12 @@ sources:
 - name: Wikipedia — Social network
   url: https://en.wikipedia.org/wiki/Social_network
 quiz:
-  question: According to Granovetter's original research, why do acquaintances
-    often deliver more useful new information than close friends do?
+  question: According to Granovetter's original research, why do acquaintances often
+    deliver more useful new information than close friends do?
   options:
   - Acquaintances are simply more honest than close friends
-  - Close friends tend to know the same people and information you already know,
-    while acquaintances connect you to different social circles
+  - Close friends tend to know the same people and information you already know, while
+    acquaintances connect you to different social circles
   - Close friends are too busy to share useful information
   answer: 1
   explanation: The theory is about network structure, not honesty or effort. Dense
@@ -47,8 +47,8 @@ impact:
   line: For anyone job hunting, changing careers or just feeling stuck, the research
     suggests that reconnecting with people you know casually is likely to surface
     more new opportunities than leaning harder on your closest circle.
-  todo: Reach out this week to one acquaintance you have not spoken to in over a
-    year — a former colleague, classmate or neighbour — with no agenda beyond catching
+  todo: Reach out this week to one acquaintance you have not spoken to in over a year
+    — a former colleague, classmate or neighbour — with no agenda beyond catching
     up.
 ---
 

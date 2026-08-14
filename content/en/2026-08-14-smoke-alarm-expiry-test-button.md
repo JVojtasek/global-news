@@ -1,16 +1,16 @@
 ---
 slug: smoke-alarm-expiry-test-button
-title: 'The Smoke Alarm Test Button Doesn''t Test What You Think It Does'
+title: The Smoke Alarm Test Button Doesn't Test What You Think It Does
 dek: Pressing the button proves the horn and battery circuit work. It says nothing
-  about whether the sensor inside can still detect smoke — and most alarms are
-  supposed to be replaced entirely after ten years, not just re-batteried.
+  about whether the sensor inside can still detect smoke — and most alarms are supposed
+  to be replaced entirely after ten years, not just re-batteried.
 section: safety
 type: analysis
 depth: open
 lang: en
 date: '2026-08-14'
-status: draft
-confidence: 77
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
@@ -21,23 +21,32 @@ event_id: ''
 series: ''
 image_query: smoke alarm ceiling mounted device
 sources:
-  - name: Wikipedia — Smoke detector
-    url: https://en.wikipedia.org/wiki/Smoke_detector
-  - name: Wikipedia — Ionization smoke detector
-    url: https://en.wikipedia.org/wiki/Ionization_smoke_detector
-  - name: Wikipedia — Fire safety
-    url: https://en.wikipedia.org/wiki/Fire_safety
+- name: Wikipedia — Smoke detector
+  url: https://en.wikipedia.org/wiki/Smoke_detector
+- name: Wikipedia — Ionization smoke detector
+  url: https://en.wikipedia.org/wiki/Ionization_smoke_detector
+- name: Wikipedia — Fire safety
+  url: https://en.wikipedia.org/wiki/Fire_safety
 qma_path: ''
 tickers: []
 quiz:
-  question: "What does pressing a smoke alarm's test button actually confirm?"
-  options: ["That the horn and battery circuit are working", "That the smoke sensor can detect real smoke", "That the alarm is less than ten years old"]
+  question: What does pressing a smoke alarm's test button actually confirm?
+  options:
+  - That the horn and battery circuit are working
+  - That the smoke sensor can detect real smoke
+  - That the alarm is less than ten years old
   answer: 0
-  explanation: "The test button triggers the alarm electronically, which confirms the horn and power circuit function. It does not push actual smoke through the sensor chamber, so it cannot tell you whether the sensor itself still detects smoke accurately."
+  explanation: The test button triggers the alarm electronically, which confirms the
+    horn and power circuit function. It does not push actual smoke through the sensor
+    chamber, so it cannot tell you whether the sensor itself still detects smoke accurately.
 impact:
-  areas: [safety]
-  line: "If you have smoke alarms in your home, this changes what you check today: not just whether the button makes it beep, but the manufacture date printed inside the unit."
-  todo: "Find the manufacture date stamped on each alarm and replace any unit older than ten years, regardless of whether it still passes the test button."
+  areas:
+  - safety
+  line: 'If you have smoke alarms in your home, this changes what you check today:
+    not just whether the button makes it beep, but the manufacture date printed inside
+    the unit.'
+  todo: Find the manufacture date stamped on each alarm and replace any unit older
+    than ten years, regardless of whether it still passes the test button.
 ---
 
 ## BRIEFLY
