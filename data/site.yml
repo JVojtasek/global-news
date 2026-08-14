@@ -16,18 +16,22 @@ languages:
   translations: [cs]
 
 ai:
-  # Sloty 1-6 primárně píší naplánované úlohy ChatGPT Work.
-  # Když ta strana nedodá (vyčerpaný limit, výpadek), dopíše chybějící sloty
-  # `engine.autofill` přes Anthropic API — viz .github/workflows/2c-zalozni-autor.yml.
-  # Placené API se použije JEN v tomhle záložním workflow; 1-sber, 2-redakce,
-  # 2b-intraday a 3-publikace klíč nadále nenačítají.
-  # Bez ANTHROPIC_API_KEY v Secrets se nic nestane — autofill jen zaloguje a skončí.
-  providers: ["anthropic"]
-  anthropic_model: "claude-sonnet-5"
+  # NULOVÉ NÁKLADY JSOU ZÁKLADNÍ PRAVIDLO TĚCHTO NOVIN.
+  # Placené modelové API je vypnuté a nesmí se zapnout. Hlídá to
+  # tests/test_free_launch.py — s prázdným `providers` musí být strop 0.
+  #
+  # Články píší lidé a předplacení asistenti, ne účtované tokeny:
+  #   * ranní směna Claude Code na Jardově počítači (scripts/redakce.ps1)
+  #   * naplánované úlohy ChatGPT Work
+  #   * naplánované úlohy Claude Cowork
+  # GitHub Actions články jen přebírají, kontrolují a vydávají.
+  #
+  # `engine/autofill.py` v repozitáři zůstává, ale je NEČINNÝ — bez
+  # poskytovatele nemá co volat.
+  providers: []
+  anthropic_model: ""
   openai_model: ""
-  # Tvrdý denní strop. Hlídá engine/ai.py; při vyčerpání se psaní zastaví.
-  # Šest článků denně se vejde s velkou rezervou.
-  max_usd_per_day: 3.0
+  max_usd_per_day: 0.0
 
 # ---------------------------------------------------------------------
 # REDAKČNÍ PRAVIDLA

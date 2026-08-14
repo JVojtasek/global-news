@@ -52,34 +52,30 @@ Když se ta dvě rozcházejí, platí kodex a síto se opraví.
 
 ## Jak se to hýbe samo
 
-- GitHub Actions — sběr zpráv, publikace, hlídač (zdarma, veřejný repo)
-- ranní směna Claude Code na Jardově počítači — píše původní články
-- naplánované úlohy ChatGPT Work — píší sloty 1–6 do `content/inbox/`
-- **záložní autor** `engine/autofill.py` (workflow `2c-zalozni-autor.yml`) —
-  když sloty nikdo nedodá, dopíše je přes Anthropic API. Běží každé dvě
-  hodiny přes den, takže vydání nestojí na jednom přesném čase.
-- vše ostatní je statický web na GitHub Pages, žádný server
+**Nulové náklady jsou základní pravidlo.** Za tyhle noviny se neplatí nic:
+žádné modelové API, žádný server. Píší je předplacení asistenti, GitHub
+Actions je u veřejného repozitáře zdarma a web stojí na GitHub Pages.
+
+- **ranní směna Claude Code** na Jardově počítači (`scripts/redakce.ps1`) —
+  hlavní autor. Píše sloty podle `data/edition-plan.json` a sama pushuje.
+- **naplánované úlohy ChatGPT Work** — druhý autor slotů 1–6.
+- **naplánované úlohy Claude Cowork** — dohled a záskok přes den.
+- **GitHub Actions** — sběr zpráv, redakční síto, vydání, publikace, hlídač.
+  Články nikdy nepíší, jen je přebírají a kontrolují.
+- `2c · Průběžná uzávěrka` běží každé dvě hodiny, takže vydání nestojí
+  na jednom přesném čase — co dorazí odpoledne, vyjde odpoledne.
+- `engine/autofill.py` je hotová, ale **nečinná** záloha přes placené API.
+  Zapnout ji smí jen výslovné rozhodnutí; `tests/test_free_launch.py` hlídá,
+  že žádný workflow nenačítá API klíč.
 
 ### Pravidlo o slotech (14. 8. 2026 kvůli tomu nevyšlo vydání)
 
 Do slotů 1–7 se počítají **jen** soubory s `automation_generated: true`.
-Článek napsaný ranní směnou s `automation_generated: false` a
-`edition_slot: 0` je platný článek, ale slot NEZAPLNÍ — hlídač ho nevidí
-a vydání hlásí jako prázdné. Když píšeš do vydání, ber sekci, typ a rozsah
-slov z `data/edition-plan.json` a nastav `edition_slot: N`,
-`automation_generated: true`, `automation_role: edition`, `status: draft`.
-
-Placené modelové API smí sáhnout **jediné** místo v repozitáři:
-`2c-zalozni-autor.yml`. Workflow 1-sber, 2-redakce, 2b-intraday, 3-publikace
-a 4-hlidac klíč nenačítají a hlídá to test `tests/test_free_launch.py`.
-Denní strop útraty je `ai.max_usd_per_day` v `data/site.yml`.
-
-Přes den může vzniknout nejvýš trojice mimořádných komentovaných analýz
-podle `engine/prompts/INTRADAY-DESK.md`. Nevznikají kvůli kvótě: bez
-skutečně významné změny nevznikne nic. Formát „U redakčního stolu“
-používá transparentní AI role KAI, MIRA a ORIN a vždy odděluje fakta,
-výklad, riziko a to, co sledovat dál.
-
+Článek s `automation_generated: false` a `edition_slot: 0` je platný článek,
+ale slot NEZAPLNÍ — hlídač ho nevidí a vydání hlásí jako prázdné.
+Když píšeš do vydání, ber sekci, typ a rozsah slov z `data/edition-plan.json`
+a nastav `edition_slot: N`, `automation_generated: true`,
+`automation_role: edition`, `status: draft`.
 ## Co si čtenář nastavuje sám
 
 Dvě věci, obě čistě v prohlížeči:

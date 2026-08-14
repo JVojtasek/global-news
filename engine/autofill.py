@@ -1,7 +1,16 @@
-"""Záložní autor vydání — dopíše sloty, které nikdo jiný nedodal.
+"""Záložní autor vydání — DOČASNĚ NEČINNÝ.
 
-Proč existuje
--------------
+STAV: vypnutý. `data/site.yml` má `ai.providers: []`, takže tenhle modul
+nemá koho volat a při spuštění jen zaloguje a skončí. Je to schválně:
+nulové náklady jsou základní pravidlo těchto novin a placené modelové API
+se tu nepoužívá. Články píší předplacení asistenti — ranní směna Claude
+Code na majitelově počítači a naplánované úlohy ChatGPT Work a Cowork.
+Modul zůstává v repozitáři jako hotová záloha pro případ, že by se to
+někdy rozhodlo změnit; zapnout ho znamená doplnit poskytovatele, model,
+denní strop a klíč — a upravit tests/test_free_launch.py, který to hlídá.
+
+Proč vznikl
+-----------
 Sloty 1–6 mají psát naplánované úlohy ChatGPT Work. Když ta strana vypadne
 (vyčerpaný limit, výpadek, změna účtu), vydání zůstane prázdné a nikdo se to
 včas nedozví. Tenhle modul je bezpečnostní síť: spouští se během dne

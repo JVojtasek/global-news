@@ -31,18 +31,42 @@ firemní prezentace nebo strojový monolog se neukládá. Přepiš jej tak, aby
 zkušený redaktor mohl text přirozeně přečíst nahlas, ale nikdy mu nevymýšlej
 osobní zkušenost nebo vzpomínku.
 
-## 2. CO NAPSAT
+## 2. CO NAPSAT — dnešní vydání má sedm slotů
 
-V tomhle pořadí a **nejvýš čtyři články celkem**:
+Vydání se řídí souborem `data/edition-plan.json`. Ten určuje, kolik článků
+dnes vyjde, do jaké rubriky, jakého typu a jak dlouhé. **Neurčuješ to ty
+a neurčuje to `brief.md`.**
 
-  1. ČLÁNEK DNE z oddílu A2 — nejdůležitější, věnuj mu nejvíc práce
-     (v hlavičce nastav `type: daily`, ať ho web dá do čela)
-  2. jeden zpravodajský rozbor z oddílu A — vyber ten s nejvyšším skóre
-     (`type: news`)
-  3. jedno téma z oddílu B (poptávka), pokud tam něco je (`type: demand`)
-  4. **jednu dobrou zprávu** (`section: goodnews`) — viz oddíl 2b
+Nejdřív zjisti, které sloty ještě nikdo nedodal:
 
-Když je zadání prázdné, nic si nevymýšlej a jdi dál.
+  1. otevři `data/edition-plan.json` — je tam pole `slots` (1–6) a `reserve` (7)
+  2. projdi `content/inbox/*.md` a soubory v `content/en/` s dnešním datem
+  3. slot je OBSAZENÝ jen tehdy, když existuje soubor s dnešním datem,
+     `automation_generated: true` a tím číslem v `edition_slot`
+  4. článek s `edition_slot: 0` nebo `automation_generated: false`
+     **žádný slot nezabírá** — nepočítej ho jako obsazený
+
+Napiš **nejvýš čtyři** chybějící sloty, odspodu podle čísla.
+Slot 7 je rezerva a ten nikdy nedoplňuj.
+
+Pro každý slot ber závazně z plánu `section`, `type`, `min_words`, `max_words`.
+Pole `role` ti říká, o čem ten slot má být:
+
+  flagship    hlavní článek dne, věnuj mu nejvíc práce
+  evidence    co říkají důkazy a kde se rozcházejí
+  practical   něco, co čtenář dnes použije nebo si ověří
+  memory      souvislost s tím, co už jsme psali
+  evergreen   platí i za rok
+  human       vztahy, lidé, každodennost
+
+Podklady ber v tomhle pořadí: dnešní `data/daily-agenda/RRRR-MM-DD.md`
+(když existuje), pak `data/brief.md` a `data/brief.json`, pak vlastní
+rešerše z primárních dokumentů.
+
+Když už žádný slot nechybí, **nic nepiš**. To je správný výsledek, ne selhání.
+
+Dobrou zprávu (oddíl 2b) piš jen tehdy, když ji některý slot má v `section`
+jako `goodnews`. Jinak se dnes nepíše.
 
 ## 2b. DOBRÁ ZPRÁVA — jedna denně
 
@@ -177,13 +201,38 @@ byte po bytu stejny — nese licenci a autora.
 
 ## 4. KAM TO ULOŽIT
 
-Každý hotový článek jako samostatný soubor:
+Každý článek do vydání jako samostatný soubor:
 
-  content/inbox/RRRR-MM-DD-kratky-nazev.md
+  content/inbox/RRRR-MM-DD-slot-N-kratky-anglicky-nazev.md
+
+V hlavičce musí být přesně tohle, jinak se článek do vydání nezapočítá:
+
+  lang: en
+  date: dnešní datum
+  status: draft
+  automation_generated: true
+  automation_role: edition
+  generator: claude-code
+  edition_slot: N            ← číslo slotu, nikdy 0
+  section: přesně z plánu
+  type: přesně z plánu
+
+**Tohle je nejčastější chyba a stála nás celé vydání.** 14. srpna 2026 se
+články napsaly dobře, ale s `automation_generated: false` a `edition_slot: 0`.
+Hlídač je neviděl, vydání hlásil jako prázdné a všech šest slotů zůstalo
+prázdných, přestože texty existovaly.
+
+Rozsah slov drž mezi `min_words` a `max_words` z plánu. Počítá se tělo
+bez hlavičky. Kratší i delší text síto odmítne.
+
+Zdroje: nejméně tolik různých odkazů `https`, kolik vyžaduje typ článku —
+`daily` čtyři, `analysis` tři, `news` dva. Každý si otevři; úryvek
+z vyhledávání není důkaz.
+
+Kvíz o třech možnostech je u slotů 1–6 povinný a odpověď musí být v textu.
 
 **Nesahej na žádné jiné soubory v repozitáři.** Nic nepřepisuj, nemaž,
 needituj kód ani nastavení. Tvoje jediná práce je psát články do inboxu.
-
 
 ## 4b. PREKLAD DO CESTINY
 

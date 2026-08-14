@@ -5,19 +5,20 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Workflowy, které nesmí sáhnout na placené modelové API. Sběr zpráv, ranní
-# uzávěrka, intradenní brána a publikace webu musí běžet i s prázdnými Secrets.
-FREE_WORKFLOWS = (
-    "1-sber-zprav.yml",
-    "2-redakce.yml",
-    "2b-intraday.yml",
-    "3-publikace.yml",
-    "4-hlidac.yml",
-)
+# NULOVÉ NÁKLADY JSOU ZÁKLADNÍ PRAVIDLO TĚCHTO NOVIN.
+# Žádný workflow v repozitáři nesmí načíst klíč k placenému modelovému API.
+# Články píší předplacení asistenti (Claude Code na majitelově počítači,
+# naplánované úlohy ChatGPT Work a Cowork). GitHub Actions je jen přebírají,
+# kontrolují a vydávají — a u veřejného repozitáře jsou minuty zdarma.
+MODEL_KEYS = ("OPENAI_API_KEY", "ANTHROPIC_API_KEY")
 
-# Jediná výjimka: záložní autor. Smí volat API, ale jen aby dopsal slot, který
-# ChatGPT Work nedodala — a jeho výstup jde stejným redakčním sítem jako ostatní.
-PAID_WORKFLOW = "2c-zalozni-autor.yml"
+# Uzávěrky nesmí spustit generátor článků ani omylem.
+CLOSE_WORKFLOWS = ("2-redakce.yml", "2c-zalozni-autor.yml")
+GENERATORS = (
+    "python -m engine.write",
+    "python -m engine.autofill",
+    "python -m engine.translate",
+)
 
 
 def _executable(path: Path) -> str:
@@ -35,51 +36,30 @@ class FreeLaunchTest(unittest.TestCase):
         self.assertEqual(1, len(cfg["tiers"]))
         self.assertEqual(0, cfg["tiers"][0]["price_eur"])
 
-    def test_daily_workflows_never_expose_a_model_key(self):
-        """Bez klíče v prostředí nemůže žádný z těchto kroků utratit ani cent."""
-        for name in FREE_WORKFLOWS:
+    def test_no_workflow_anywhere_loads_a_model_key(self):
+        """Bez klíče v prostředí nemůže žádný běh utratit ani cent."""
+        found = list((ROOT / ".github/workflows").glob("*.yml"))
+        self.assertTrue(found, "nenalezen zadny workflow")
+        for path in found:
+            text = _executable(path)
+            for token in MODEL_KEYS:
+                self.assertNotIn(token, text, f"{path.name} nesmi nacitat {token}")
+
+    def test_closes_never_run_a_generator(self):
+        """Uzávěrka smí články jen převzít, zkontrolovat a vydat."""
+        for name in CLOSE_WORKFLOWS:
             path = ROOT / ".github/workflows" / name
             if not path.exists():
                 continue
             text = _executable(path)
-            for token in ("OPENAI_API_KEY", "ANTHROPIC_API_KEY"):
-                self.assertNotIn(token, text, f"{name} nesmi nacitat {token}")
+            for token in GENERATORS:
+                self.assertNotIn(token, text, f"{name} nesmi spoustet {token}")
 
-    def test_editorial_close_never_runs_a_generator(self):
-        """Ranní uzávěrka smí články jen převzít a vydat, nikdy je psát."""
-        text = _executable(ROOT / ".github/workflows/2-redakce.yml")
-        for token in (
-            "python -m engine.write",
-            "python -m engine.autofill",
-            "python -m engine.translate",
-            "python -m engine.analyst",
-        ):
-            self.assertNotIn(token, text, f"2-redakce.yml nesmi spoustet {token}")
-
-    def test_paid_backup_writer_has_a_hard_spending_cap(self):
-        """Placené API je povolené, ale nikdy bez stropu a nikdy bez síta."""
+    def test_paid_model_api_is_switched_off(self):
+        """Konfigurace nesmí mít zapnutého poskytovatele ani rozpočet."""
         site = yaml.safe_load((ROOT / "data/site.yml").read_text(encoding="utf-8"))
-        cap = float(site["ai"]["max_usd_per_day"])
-
-        if not site["ai"]["providers"]:
-            # Placená cesta je vypnutá — pak musí být vypnutá úplně.
-            self.assertEqual(0.0, cap)
-            return
-
-        self.assertGreater(cap, 0.0, "zapnuty poskytovatel bez denniho stropu")
-        self.assertLessEqual(cap, 10.0, "denni strop je neprimerene vysoky")
-        self.assertTrue(
-            str(site["ai"].get("anthropic_model") or "").strip(),
-            "zapnuty anthropic bez uvedeneho modelu",
-        )
-
-        path = ROOT / ".github/workflows" / PAID_WORKFLOW
-        self.assertTrue(path.exists(), "chybi workflow zalozniho autora")
-        text = _executable(path)
-        # Klíč smí načíst jen krok, který píše. O vydání rozhoduje síto, ne model.
-        self.assertIn("python -m engine.autofill", text)
-        self.assertIn("python -m engine.inbox", text)
-        self.assertNotIn("OPENAI_API_KEY", text)
+        self.assertEqual([], site["ai"]["providers"])
+        self.assertEqual(0.0, float(site["ai"]["max_usd_per_day"]))
 
 
 if __name__ == "__main__":

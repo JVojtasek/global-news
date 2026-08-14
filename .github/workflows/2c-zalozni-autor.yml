@@ -1,35 +1,23 @@
-# ZÁLOŽNÍ AUTOR VYDÁNÍ — jediné místo v repozitáři, které smí sáhnout na placené API.
+# PRŮBĚŽNÁ UZÁVĚRKA — vydání není vázané na jediný přesný čas.
 #
-# Proč: sloty 1–6 primárně píší naplánované úlohy ChatGPT Work. Když ta strana
-# nedodá (vyčerpaný týdenní limit, výpadek, změna účtu), vydání zůstalo prázdné
-# a nikdo se to včas nedozvěděl — přesně to se stalo 14. 8. 2026.
+# Proč: `2-redakce.yml` uzavírá vydání jednou denně v 11:35 pražského času.
+# Kdo nestihl dodat článek do té minuty, čekal do zítra. Tenhle workflow
+# uzávěrku otevírá znovu každé dvě hodiny přes den: vezme, co mezitím
+# přibylo v `content/inbox/`, prožene to redakčním sítem a vydá.
 #
-# Co dělá: několikrát denně se podívá, které sloty chybí, chybějící napíše přes
-# Anthropic API do content/inbox/ jako `draft`, a pak je prožene ÚPLNĚ STEJNÝM
-# redakčním sítem jako texty od ChatGPT Work. Co sítem neprojde, se nevydá.
-#
-# Vydání tak není vázané na jeden přesný čas: běhů je za den víc a každý doplní,
-# co v tu chvíli chybí. Když nechybí nic, běh nic nenapíše a nic nestojí.
-#
-# NÁKLADY: repozitář je veřejný → minuty GitHub Actions jsou zdarma. Platí se jen
-# tokeny Anthropic API, a to jen za skutečně chybějící slot. Denní strop hlídá
-# `ai.max_usd_per_day` v data/site.yml (engine/ai.py ho vynucuje).
-#
-# BEZ KLÍČE: když ANTHROPIC_API_KEY není v Secrets, workflow doběhne bez chyby —
-# autofill jen zaloguje, že AI není dostupná, a skončí.
-name: "2c · Záložní autor vydání"
+# NÁKLADY: NULA. Repozitář je veřejný → minuty GitHub Actions jsou zdarma.
+# Žádný krok tady nevolá placené modelové API a nenačítá žádný API klíč —
+# hlídá to `tests/test_free_launch.py`. Články píší předplacení asistenti
+# (ranní směna Claude Code na Jardově počítači, úlohy ChatGPT Work a Cowork),
+# GitHub je jen přebírá, kontroluje a vydává.
+name: "2c · Průběžná uzávěrka"
 
 on:
   schedule:
     # Každé dvě hodiny přes den (UTC). Praha = +2 h.
-    # 05:10 = 07:10 Praha (ještě před uzávěrkou), pak průběžně do večera.
-    - cron: "10 5,7,9,11,13,15,17,19 * * *"
+    # 05:40 = 07:40 Praha, poslední 19:40 = 21:40 Praha.
+    - cron: "40 5,7,9,11,13,15,17,19 * * *"
   workflow_dispatch:
-    inputs:
-      max:
-        description: "Kolik slotů nejvýš doplnit v tomhle běhu"
-        required: false
-        default: "3"
 
 permissions:
   contents: write
@@ -41,9 +29,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  autor:
+  uzaverka:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with: { fetch-depth: 0 }
@@ -55,17 +43,13 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # Plán vydání je deterministický a zadarmo — jen se přepočítá,
+      # aby ho měli autoři i hlídač k dispozici i mimo ranní běh.
       - name: Přepočítat dnešní vydání
         run: python -m engine.edition
 
-      - name: Dopsat chybějící sloty
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          AUTOFILL_MAX: ${{ github.event.inputs.max || '3' }}
-        run: python -m engine.autofill
-
-      # Odsud dolů je to stejná cesta jako u textů z ChatGPT Work.
-      # Žádná zkratka: co neprojde sítem, skončí v content/inbox/_rejected/.
+      # Přesně stejné síto jako v ranní uzávěrce. Žádná zkratka:
+      # co neprojde, skončí v content/inbox/_rejected/ i s důvodem.
       - name: Přijmout články z inboxu (redakční síto)
         run: python -m engine.inbox
 
@@ -73,17 +57,23 @@ jobs:
         run: python -m engine.release
 
       - name: Redakční bezpečnostní testy
-        run: python -m unittest discover -s tests -v
+        run: python -m unittest discover -s tests
 
       - name: Kontrola zdraví
         continue-on-error: true
         run: python -m engine.doctor
+
+      # Read-only přehled, co dnešnímu vydání pořád chybí. Nikdy neblokuje —
+      # díra ve vydání není důvod zahodit články, které dorazily.
+      - name: Co vydání ještě chybí
+        continue-on-error: true
+        run: python -m engine.edition_guard
 
       - name: Uložit
         run: |
           git config user.name  "newsroom-bot"
           git config user.email "bot@users.noreply.github.com"
           git add content/ data/
-          git diff --staged --quiet || git commit -m "[bot] zalozni autor $(date -u +%Y-%m-%d\ %H:%M)"
+          git diff --staged --quiet || git commit -m "[bot] prubezna uzaverka $(date -u +%Y-%m-%d\ %H:%M)"
           git pull --rebase --autostash
           git push
