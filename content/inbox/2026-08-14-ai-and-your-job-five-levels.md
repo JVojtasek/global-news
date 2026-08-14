@@ -9,17 +9,20 @@ type: daily
 depth: open
 lang: en
 date: '2026-08-14'
-status: published
+status: draft
 confidence: 86
 load: 0
 topics: []
-automation_generated: false
-edition_slot: 0
+automation_generated: true
+automation_role: edition
+edition_slot: 1
 generator: claude-cowork
 event_id: ''
 series: ''
 image_query: doctor typing laptop hospital office
 sources:
+  - name: 'Google DeepMind - Levels of AGI for Operationalizing Progress on the Path to AGI (arXiv, 2023)'
+    url: https://arxiv.org/abs/2311.02462
   - name: Wikipedia — Artificial general intelligence
     url: https://en.wikipedia.org/wiki/Artificial_general_intelligence
   - name: Wikipedia — Artificial intelligence
