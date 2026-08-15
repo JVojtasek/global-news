@@ -1,43 +1,58 @@
 ---
 slug: why-we-procrastinate-even-when-we-know-better
-title: "Why We Procrastinate Even When We Know Better"
-dek: "Procrastination research has moved away from treating it as a time-management failure and toward something more specific: a short-term trade, made to feel better right now at a cost paid later."
+title: Why We Procrastinate Even When We Know Better
+dek: 'Procrastination research has moved away from treating it as a time-management
+  failure and toward something more specific: a short-term trade, made to feel better
+  right now at a cost paid later.'
 section: questions
 type: analysis
 depth: scripture
 lang: en
-date: 2026-08-15
-status: draft
-confidence: 73
+date: '2026-08-15'
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
+format: ''
+event_id: ''
+series: ''
 image_query: cluttered desk unfinished work
 sources:
-  - name: "Wikipedia — Procrastination"
-    url: "https://en.wikipedia.org/wiki/Procrastination"
-    published: "2026-08-15"
-  - name: "Wikipedia — Akrasia"
-    url: "https://en.wikipedia.org/wiki/Akrasia"
-    published: "2026-08-15"
-  - name: "Wikipedia — Delay discounting"
-    url: "https://en.wikipedia.org/wiki/Delay_discounting"
-    published: "2026-08-15"
+- name: Wikipedia — Procrastination
+  url: https://en.wikipedia.org/wiki/Procrastination
+  published: '2026-08-15'
+- name: Wikipedia — Akrasia
+  url: https://en.wikipedia.org/wiki/Akrasia
+  published: '2026-08-15'
+- name: Wikipedia — Delay discounting
+  url: https://en.wikipedia.org/wiki/Delay_discounting
+  published: '2026-08-15'
 impact:
-  areas: [life, money]
-  line: "People who treat their own procrastination as a scheduling problem tend to keep applying scheduling fixes that don't work, while the research points to the discomfort being avoided as the actual target to address."
-  todo: "Next time you catch yourself avoiding a specific task, name out loud the feeling you expect it to bring up — boring, humiliating, too hard — before trying any new to-do system."
+  areas:
+  - life
+  - money
+  line: People who treat their own procrastination as a scheduling problem tend to
+    keep applying scheduling fixes that don't work, while the research points to the
+    discomfort being avoided as the actual target to address.
+  todo: Next time you catch yourself avoiding a specific task, name out loud the feeling
+    you expect it to bring up — boring, humiliating, too hard — before trying any
+    new to-do system.
 quiz:
-  question: "According to current procrastination research, what is procrastination most often a failure of?"
-  options: ["Short-term mood regulation, not time management", "Intelligence", "Physical energy levels"]
+  question: According to current procrastination research, what is procrastination
+    most often a failure of?
+  options:
+  - Short-term mood regulation, not time management
+  - Intelligence
+  - Physical energy levels
   answer: 0
-  explanation: "Researchers including Fuschia Sirois and Timothy Pychyl describe procrastination primarily as a way of avoiding an unpleasant feeling attached to a task in the present moment, at the cost of a larger problem later — an emotion-regulation failure rather than simply poor planning."
+  explanation: Researchers including Fuschia Sirois and Timothy Pychyl describe procrastination
+    primarily as a way of avoiding an unpleasant feeling attached to a task in the
+    present moment, at the cost of a larger problem later — an emotion-regulation
+    failure rather than simply poor planning.
 ---
 
 ## BRIEFLY

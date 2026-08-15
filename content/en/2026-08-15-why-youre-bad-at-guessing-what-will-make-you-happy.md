@@ -1,43 +1,56 @@
 ---
 slug: why-youre-bad-at-guessing-what-will-make-you-happy
-title: "Why You're Bad at Guessing What Will Make You Happy"
-dek: "Decades of psychology research show people are consistently wrong about how long a promotion, a breakup or a new phone will actually affect their mood — and the reason is a specific, well-mapped bias, not bad luck."
+title: Why You're Bad at Guessing What Will Make You Happy
+dek: Decades of psychology research show people are consistently wrong about how long
+  a promotion, a breakup or a new phone will actually affect their mood — and the
+  reason is a specific, well-mapped bias, not bad luck.
 section: science
 type: analysis
 depth: open
 lang: en
-date: 2026-08-15
-status: draft
-confidence: 72
+date: '2026-08-15'
+status: review
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
+format: ''
+event_id: ''
+series: ''
 image_query: person imagining future choice
 sources:
-  - name: "Wikipedia — Affective forecasting"
-    url: "https://en.wikipedia.org/wiki/Affective_forecasting"
-    published: "2026-08-15"
-  - name: "Wikipedia — Daniel Gilbert (psychologist)"
-    url: "https://en.wikipedia.org/wiki/Daniel_Gilbert_(psychologist)"
-    published: "2026-08-15"
-  - name: "Wikipedia — Hedonic treadmill"
-    url: "https://en.wikipedia.org/wiki/Hedonic_treadmill"
-    published: "2026-08-15"
+- name: Wikipedia — Affective forecasting
+  url: https://en.wikipedia.org/wiki/Affective_forecasting
+  published: '2026-08-15'
+- name: Wikipedia — Daniel Gilbert (psychologist)
+  url: https://en.wikipedia.org/wiki/Daniel_Gilbert_(psychologist)
+  published: '2026-08-15'
+- name: Wikipedia — Hedonic treadmill
+  url: https://en.wikipedia.org/wiki/Hedonic_treadmill
+  published: '2026-08-15'
 impact:
-  areas: [life, money]
-  line: "People routinely overpay, over-negotiate or over-worry based on how a future event will feel — a raise, a move, a breakup — when the actual emotional effect is usually smaller and shorter than expected."
-  todo: "Before a big decision made mainly for how it will feel afterward, ask someone who has already done it how long the feeling actually lasted."
+  areas:
+  - life
+  - money
+  line: People routinely overpay, over-negotiate or over-worry based on how a future
+    event will feel — a raise, a move, a breakup — when the actual emotional effect
+    is usually smaller and shorter than expected.
+  todo: Before a big decision made mainly for how it will feel afterward, ask someone
+    who has already done it how long the feeling actually lasted.
 quiz:
-  question: "What does 'impact bias' refer to in affective forecasting research?"
-  options: ["The tendency to overestimate how intense and how long a future emotion will last", "The tendency to remember only negative events", "The tendency to avoid making decisions altogether"]
+  question: What does 'impact bias' refer to in affective forecasting research?
+  options:
+  - The tendency to overestimate how intense and how long a future emotion will last
+  - The tendency to remember only negative events
+  - The tendency to avoid making decisions altogether
   answer: 0
-  explanation: "Impact bias is the specific, repeatedly observed tendency to overestimate both the intensity and the duration of a future emotional reaction, whether the event is good or bad."
+  explanation: Impact bias is the specific, repeatedly observed tendency to overestimate
+    both the intensity and the duration of a future emotional reaction, whether the
+    event is good or bad.
+review_reason: 'citlivé téma: election'
 ---
 
 ## BRIEFLY

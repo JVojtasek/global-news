@@ -1,43 +1,58 @@
 ---
 slug: why-the-night-sky-still-makes-us-feel-small-on-purpose
-title: "Why the Night Sky Still Makes Us Feel Small — On Purpose"
-dek: "The same feeling that made this week's Perseid meteors worth stepping outside for has a name in psychology, a measurable effect on behavior, and a much older name in scripture."
+title: Why the Night Sky Still Makes Us Feel Small — On Purpose
+dek: The same feeling that made this week's Perseid meteors worth stepping outside
+  for has a name in psychology, a measurable effect on behavior, and a much older
+  name in scripture.
 section: wonder
 type: analysis
 depth: scripture
 lang: en
-date: 2026-08-15
-status: draft
-confidence: 70
+date: '2026-08-15'
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
+format: ''
+event_id: ''
+series: ''
 image_query: night sky stars silhouette
 sources:
-  - name: "Wikipedia — Awe (emotion)"
-    url: "https://en.wikipedia.org/wiki/Awe_(emotion)"
-    published: "2026-08-15"
-  - name: "Wikipedia — Dacher Keltner"
-    url: "https://en.wikipedia.org/wiki/Dacher_Keltner"
-    published: "2026-08-15"
-  - name: "Wikipedia — Overview effect"
-    url: "https://en.wikipedia.org/wiki/Overview_effect"
-    published: "2026-08-15"
+- name: Wikipedia — Awe (emotion)
+  url: https://en.wikipedia.org/wiki/Awe_(emotion)
+  published: '2026-08-15'
+- name: Wikipedia — Dacher Keltner
+  url: https://en.wikipedia.org/wiki/Dacher_Keltner
+  published: '2026-08-15'
+- name: Wikipedia — Overview effect
+  url: https://en.wikipedia.org/wiki/Overview_effect
+  published: '2026-08-15'
 impact:
-  areas: [life, health]
-  line: "People who deliberately seek out awe-inducing experiences — a clear night sky, a mountain view, a large old building — report measurable short-term drops in stress and self-focus, according to multiple independent studies."
-  todo: "Next clear night, check a light-pollution map for the nearest genuinely dark sky and note how long you actually watched before reaching for your phone."
+  areas:
+  - life
+  - health
+  line: People who deliberately seek out awe-inducing experiences — a clear night
+    sky, a mountain view, a large old building — report measurable short-term drops
+    in stress and self-focus, according to multiple independent studies.
+  todo: Next clear night, check a light-pollution map for the nearest genuinely dark
+    sky and note how long you actually watched before reaching for your phone.
 quiz:
-  question: "In psychological research on awe, what does the 'small self' effect refer to?"
-  options: ["A temporary reduction in how large and important a person's own concerns feel, brought on by encountering something vast", "A permanent personality trait found only in some people", "A fear response triggered by open spaces"]
+  question: In psychological research on awe, what does the 'small self' effect refer
+    to?
+  options:
+  - A temporary reduction in how large and important a person's own concerns feel,
+    brought on by encountering something vast
+  - A permanent personality trait found only in some people
+  - A fear response triggered by open spaces
   answer: 0
-  explanation: "Researchers including Paul Piff and Dacher Keltner found that experiences of vastness — a night sky, a tall grove of trees, a view from height — temporarily shrink how central a person's own concerns feel, distinct from ordinary fear or wonder at something merely surprising."
+  explanation: Researchers including Paul Piff and Dacher Keltner found that experiences
+    of vastness — a night sky, a tall grove of trees, a view from height — temporarily
+    shrink how central a person's own concerns feel, distinct from ordinary fear or
+    wonder at something merely surprising.
 ---
 
 ## BRIEFLY

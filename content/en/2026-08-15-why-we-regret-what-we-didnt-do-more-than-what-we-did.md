@@ -1,43 +1,57 @@
 ---
 slug: why-we-regret-what-we-didnt-do-more-than-what-we-did
-title: "Why We Regret What We Didn't Do More Than What We Did"
-dek: "Ask people to name their biggest regret and, given enough time, most name something they never tried — a well-documented pattern that says less about morality and more about how memory keeps unfinished stories open."
+title: Why We Regret What We Didn't Do More Than What We Did
+dek: Ask people to name their biggest regret and, given enough time, most name something
+  they never tried — a well-documented pattern that says less about morality and more
+  about how memory keeps unfinished stories open.
 section: soul
 type: analysis
 depth: scripture
 lang: en
-date: 2026-08-15
-status: draft
-confidence: 71
+date: '2026-08-15'
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
+format: ''
+event_id: ''
+series: ''
 image_query: empty chair open doorway
 sources:
-  - name: "Wikipedia — Regret"
-    url: "https://en.wikipedia.org/wiki/Regret"
-    published: "2026-08-15"
-  - name: "Wikipedia — Thomas Gilovich"
-    url: "https://en.wikipedia.org/wiki/Thomas_Gilovich"
-    published: "2026-08-15"
-  - name: "Wikipedia — Loss aversion"
-    url: "https://en.wikipedia.org/wiki/Loss_aversion"
-    published: "2026-08-15"
+- name: Wikipedia — Regret
+  url: https://en.wikipedia.org/wiki/Regret
+  published: '2026-08-15'
+- name: Wikipedia — Thomas Gilovich
+  url: https://en.wikipedia.org/wiki/Thomas_Gilovich
+  published: '2026-08-15'
+- name: Wikipedia — Loss aversion
+  url: https://en.wikipedia.org/wiki/Loss_aversion
+  published: '2026-08-15'
 impact:
-  areas: [life]
-  line: "The regrets that follow people longest tend to be about chances not taken — a course not applied for, a person not asked, a trip not booked — rather than mistakes actually made."
-  todo: "Before deciding not to try something out of fear of a bad outcome, weigh it against how the choice will likely look in twenty years, not twenty days."
+  areas:
+  - life
+  line: The regrets that follow people longest tend to be about chances not taken
+    — a course not applied for, a person not asked, a trip not booked — rather than
+    mistakes actually made.
+  todo: Before deciding not to try something out of fear of a bad outcome, weigh it
+    against how the choice will likely look in twenty years, not twenty days.
 quiz:
-  question: "According to the research on the 'temporal pattern' of regret, what tends to happen to regrets over action versus inaction as time passes?"
-  options: ["Regrets over inaction become relatively more prominent over time, while regrets over action tend to fade faster", "Both fade at the same rate", "Regrets over action always outnumber regrets over inaction at every point in time"]
+  question: According to the research on the 'temporal pattern' of regret, what tends
+    to happen to regrets over action versus inaction as time passes?
+  options:
+  - Regrets over inaction become relatively more prominent over time, while regrets
+    over action tend to fade faster
+  - Both fade at the same rate
+  - Regrets over action always outnumber regrets over inaction at every point in time
   answer: 0
-  explanation: "Cornell researchers Thomas Gilovich and Victoria Medvec found that in the short term, people regret bad actions more, but over longer stretches of time, regret over things never attempted becomes the more persistent and dominant kind."
+  explanation: Cornell researchers Thomas Gilovich and Victoria Medvec found that
+    in the short term, people regret bad actions more, but over longer stretches of
+    time, regret over things never attempted becomes the more persistent and dominant
+    kind.
 ---
 
 ## BRIEFLY
