@@ -1,6 +1,221 @@
 {
  "threads": [
   {
+   "id": "639e1a78a571",
+   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+   "section": "world",
+   "entities": [
+    "iran",
+    "groundhog",
+    "gulf",
+    "iranian",
+    "trump",
+    "donald",
+    "oman",
+    "lebanon",
+    "justified",
+    "east",
+    "turkey",
+    "strait",
+    "bluster",
+    "middle",
+    "tennessee",
+    "hormuz"
+   ],
+   "event_ids": [
+    "639e1a78a571",
+    "0624eb1ba208",
+    "816e48902267",
+    "0a4c58727150",
+    "a60728b498fa",
+    "123a1f07cf24",
+    "56f469f39f91",
+    "720fe4b034c3",
+    "f0099e190d82",
+    "965561c723dd",
+    "b193e4544a0d",
+    "0316549f9ed5",
+    "3eaa33015060",
+    "19a5a4d8911d",
+    "f3c480adacd2"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-15",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+     "sources": 6,
+     "score": 83,
+     "event_id": "639e1a78a571",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0624eb1ba208",
+     "links": [
+      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+     "sources": 2,
+     "score": 44,
+     "event_id": "816e48902267",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump signals shift to economic pressure on Iran over new military strikes",
+     "sources": 2,
+     "score": 43,
+     "event_id": "0a4c58727150",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a60728b498fa",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
+     "sources": 3,
+     "score": 52,
+     "event_id": "123a1f07cf24",
+     "links": [
+      "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
+      "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
+      "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
+     "sources": 2,
+     "score": 45,
+     "event_id": "56f469f39f91",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
+      "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+     "sources": 2,
+     "score": 42,
+     "event_id": "720fe4b034c3",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+     "sources": 2,
+     "score": 48,
+     "event_id": "f0099e190d82",
+     "links": [
+      "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+      "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
+     "sources": 4,
+     "score": 73,
+     "event_id": "965561c723dd",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+      "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Gulf states scramble for Strait of Hormuz alternative",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b193e4544a0d",
+     "links": [
+      "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Lebanon becomes first Middle East country to end death penalty",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0316549f9ed5",
+     "links": [
+      "https://www.france24.com/en/lebanon-becomes-first-middle-east-country-to-end-death-penalty",
+      "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+     "sources": 3,
+     "score": 57,
+     "event_id": "3eaa33015060",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Donald Trump to declare Hormuz US territory 'soon'",
+     "sources": 4,
+     "score": 69,
+     "event_id": "19a5a4d8911d",
+     "links": [
+      "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+      "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Donald Trump says he faced ‘greater risk’ on swapped plane",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f3c480adacd2",
+     "links": [
+      "https://www.france24.com/en/donald-trump-says-he-faced-greater-risk-on-swapped-plane",
+      "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "8a4f53de3494",
    "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
    "section": "world",
@@ -221,195 +436,6 @@
       "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
       "https://www.theguardian.com/sport/2026/aug/14/british-cyclist-finlay-tarling-19-dies-in-volta-a-portugal-accident"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "639e1a78a571",
-   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-   "section": "world",
-   "entities": [
-    "oman",
-    "turkey",
-    "trump",
-    "iran",
-    "tennessee",
-    "gulf",
-    "groundhog",
-    "hormuz",
-    "lebanon",
-    "justified",
-    "middle",
-    "east",
-    "strait",
-    "bluster",
-    "iranian"
-   ],
-   "event_ids": [
-    "639e1a78a571",
-    "0624eb1ba208",
-    "816e48902267",
-    "0a4c58727150",
-    "a60728b498fa",
-    "123a1f07cf24",
-    "56f469f39f91",
-    "720fe4b034c3",
-    "f0099e190d82",
-    "965561c723dd",
-    "b193e4544a0d",
-    "0316549f9ed5",
-    "3eaa33015060"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-13",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-     "sources": 6,
-     "score": 83,
-     "event_id": "639e1a78a571",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0624eb1ba208",
-     "links": [
-      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-     "sources": 2,
-     "score": 44,
-     "event_id": "816e48902267",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump signals shift to economic pressure on Iran over new military strikes",
-     "sources": 2,
-     "score": 43,
-     "event_id": "0a4c58727150",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a60728b498fa",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
-     "sources": 3,
-     "score": 52,
-     "event_id": "123a1f07cf24",
-     "links": [
-      "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
-      "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
-      "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
-     "sources": 2,
-     "score": 45,
-     "event_id": "56f469f39f91",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
-      "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-     "sources": 2,
-     "score": 42,
-     "event_id": "720fe4b034c3",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-     "sources": 2,
-     "score": 48,
-     "event_id": "f0099e190d82",
-     "links": [
-      "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-      "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-     "sources": 4,
-     "score": 73,
-     "event_id": "965561c723dd",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
-      "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Gulf states scramble for Strait of Hormuz alternative",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b193e4544a0d",
-     "links": [
-      "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Lebanon becomes first Middle East country to end death penalty",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0316549f9ed5",
-     "links": [
-      "https://www.france24.com/en/lebanon-becomes-first-middle-east-country-to-end-death-penalty",
-      "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
-     "sources": 3,
-     "score": 57,
-     "event_id": "3eaa33015060",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz"
      ]
     }
    ]
@@ -1215,5 +1241,5 @@
    ]
   }
  ],
- "updated": "2026-08-14T21:25:31+00:00"
+ "updated": "2026-08-15T00:28:03+00:00"
 }

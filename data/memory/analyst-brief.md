@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-14
+# ANALYTICKÉ ZADÁNÍ — 2026-08-15
 
 Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
 
@@ -7,10 +7,8 @@ Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 4 dní · 13 záznamů
+- rubrika `world` · sledováno 6 dní · 15 záznamů
 - časová osa:
-  - **2026-08-11** (2 zdrojů) Trump signals shift to economic pressure on Iran over new military strikes
-  - **2026-08-11** (2 zdrojů) Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
   - **2026-08-11** (3 zdrojů) Bluster and backdown have turned Iran war into Trump’s own Groundhog Day
   - **2026-08-11** (2 zdrojů) Trump demands Iran pay compensation for decades of US soldier deaths
   - **2026-08-11** (2 zdrojů) Trump demands compensation from Iran as talks on Strait of Hormuz continue
@@ -19,6 +17,8 @@ Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
   - **2026-08-12** (2 zdrojů) Gulf states scramble for Strait of Hormuz alternative
   - **2026-08-12** (2 zdrojů) Lebanon becomes first Middle East country to end death penalty
   - **2026-08-13** (3 zdrojů) ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
+  - **2026-08-15** (4 zdrojů) Donald Trump to declare Hormuz US territory 'soon'
+  - **2026-08-15** (2 zdrojů) Donald Trump says he faced ‘greater risk’ on swapped plane
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 2 dní · 7 záznamů

@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-14
+# ZADÁNÍ PRO REDAKCI — 2026-08-15
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -81,33 +81,35 @@
     <https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss>
     > Trustees condemn Kennedy Center’s move to re-add Trump’s name and shut down for extensive renovations.
 
-### 4. Trump says White House press secretary Karoline Leavitt to leave post
-- id události: `d4578d08ad87`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+### 4. Donald Trump to declare Hormuz US territory 'soon'
+- id události: `19a5a4d8911d`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Trump says White House press secretary Karoline Leavitt to leave post
-    <https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss>
-    > Leavitt will depart from her role to spend time with her young children and family, the president says.
-  - **NPR News** — White House press secretary leaving
-    <https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving>
-    > Karoline Leavitt will continue to be an outside adviser, Trump said
-  - **CNBC Top** — Trump says Karoline Leavitt resigning as White House press secretary
-    <https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html>
-    > Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.
-  - **Al Jazeera** — Trump reveals Karoline Leavitt to step down as White House press secretary
-    <https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss>
-    > Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
+  - **DW News** — Donald Trump to declare Hormuz US territory 'soon'
+    <https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf>
+    > Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks.
+  - **The Guardian World** — Trump threatens to declare strait of Hormuz ‘territory of the United States’
+    <https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory>
+    > Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration struggles to conclude the war with Iran. During a spee
+  - **Al Jazeera** — Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’
+    <https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss>
+    > US President Trump says that 'pretty soon' he will declare the Strait of Hormuz a US territory once Iran is defeated.
+  - **Al Jazeera** — Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
+    <https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss>
+    > Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
+  - **Investing.com** — Iran defiant on strait as Trump tells Americans to accept high gas prices
+    <https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490>
 
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### why relationships fail
+- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
@@ -128,12 +130,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 13  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 15  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 13
+rubrika: world · sledováno od 2026-08-09 · záznamů: 15
   2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
@@ -147,6 +149,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 13
   2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative
   2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty
   2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
+  2026-08-15  (4 zdrojů, síla 69)  Donald Trump to declare Hormuz US territory 'soon'
+  2026-08-15  (2 zdrojů, síla 41)  Donald Trump says he faced ‘greater risk’ on swapped plane
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
