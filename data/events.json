@@ -672,52 +672,6 @@
   ]
  },
  {
-  "id": "f4185ccef16f",
-  "headline": "Prime Minister Babiš received the Prime Minister of Montenegro, Milojko Spajić; they discussed the country’s European integration and defence cooperat",
-  "section": "world",
-  "score": 52,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-07-24T21:11:33+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Prime Minister Babiš received the Prime Minister of Montenegro, Milojko Spajić; they discussed the country’s European integration and defence cooperat",
-    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-received-the-prime-minister-of-montenegro--milojko-spajic-they-discussed-the-country_s-european-integration-and-defence-cooperat-228308/",
-    "source": "Czech Government",
-    "summary": "Předseda vlády ČR Andrej Babiš přijal v pátek 24. července 2026 v Kramářově vile předsedu vlády Černé Hory Milojka Spajiće. Společně s prvním místopředsedou vlády a ministrem průmyslu a obchodu Karlem Havlíčkem a místopředsedou vlády a ministrem obrany Jaromírem Zůnou jednali o pokračování integračního procesu Černé Hory směrem k členství v Evropské unii, rozvoji obranné spolupráce a obchodních př",
-    "published_at": "2026-07-24T21:11:33+00:00",
-    "source_countries": [
-     "cz"
-    ],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   },
-   {
-    "title": "Prime Minister Babiš held talks in Belgrade on boosting trade, expressing his support for Serbia’s EU membership",
-    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-held-talks-in-belgrade-on-boosting-trade--expressing-his-support-for-serbia_s-eu-membership-228307/",
-    "source": "Czech Government",
-    "summary": "Předseda vlády Andrej Babiš a vicepremiér a ministr průmyslu a obchodu Karel Havlíček navštívili ve dnech 22. a 23. července 2026 Srbsko. V Bělehradě se premiér setkal se srbským prezidentem Aleksandarem Vučićem a premiérem Đurem Macutem, se kterými jednal o posílení obchodu a investic, spolupráci ve zdravotnictví a obranném průmyslu či účasti ČR na výstavě EXPO 2027. Premiér Babiš podpořil členst",
-    "published_at": "2026-07-23T21:05:03+00:00",
-    "source_countries": [
-     "cz"
-    ],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   },
-   {
-    "title": "Prime Minister Babiš following the meeting of the “Coalition of the Willing”: Europe should set up a joint air defence project",
-    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-following-the-meeting-of-the-_coalition-of-the-willing_-europe-should-set-up-a-joint-air-defence-project-228306/",
-    "source": "Czech Government",
-    "summary": "On Monday 13 July 2026, Prime Minister Andrej Babiš attended a meeting of the Coalition of the Willing in Paris. Leaders from thirty countries supporting Ukraine followed up on the outcomes of the recent NATO summit in Ankara, Turkey. At the meeting, the Czech Prime Minister emphasised the need to establish a joint European air defence project.",
-    "published_at": "2026-07-13T21:00:00+00:00",
-    "source_countries": [
-     "cz"
-    ],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   }
-  ]
- },
- {
   "id": "541bbdfdca08",
   "headline": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
   "section": "world",
@@ -1190,37 +1144,6 @@
     "published_at": "2026-08-14T08:15:17+00:00",
     "source_countries": [],
     "seen_at": "2026-08-14T09:38:28+00:00"
-   }
-  ]
- },
- {
-  "id": "be064df1e8a6",
-  "headline": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-  "section": "safety",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-08-12T16:05:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-    "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-    "source": "BleepingComputer",
-    "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
-    "published_at": "2026-08-12T16:05:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   },
-   {
-    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-    "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-    "source": "The Hacker News",
-    "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
-    "published_at": "2026-08-12T17:39:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
    }
   ]
  },
@@ -1793,6 +1716,46 @@
     "published_at": "2026-08-15T11:57:33+00:00",
     "source_countries": [],
     "seen_at": "2026-08-15T12:26:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b12aefc8c3ca",
+  "headline": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+  "section": "business",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T20:32:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+    "url": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+    "source": "CNBC Top",
+    "summary": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
+    "published_at": "2026-08-15T20:32:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   },
+   {
+    "title": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T20:07:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   },
+   {
+    "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
+    "url": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-3-billion-in-sb-energy-as-part-of-openai-data-center-deal-the-information-reports-4861844",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-15T19:42:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
    }
   ]
  },
@@ -2476,28 +2439,6 @@
   ]
  },
  {
-  "id": "7821fbc4c740",
-  "headline": "Shipwreck Divers Discovered a 162-Year-Old Bottle of Guinness Brewed During the Reign of Queen Victoria—and They Want to Take a Swig",
-  "section": "culture",
-  "score": 43,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-08-12T17:28:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Shipwreck Divers Discovered a 162-Year-Old Bottle of Guinness Brewed During the Reign of Queen Victoria—and They Want to Take a Swig",
-    "url": "https://www.smithsonianmag.com/smart-news/shipwreck-divers-discovered-a-162-year-old-bottle-of-guinness-brewed-during-the-reign-of-queen-victoria-and-they-want-to-take-a-swig-180989320/",
-    "source": "Smithsonian Mag",
-    "summary": "The beer was preserved in a sealed glass bottle and may be safe to sample. The team is also hoping to sequence the DNA of the yeast to recreate what the stout would have tasted like in the 19th century",
-    "published_at": "2026-08-12T17:28:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   }
-  ]
- },
- {
   "id": "266e953eb4ce",
   "headline": "Meat Wasn't the Only Food That Drove Early Humans to Evolve Bigger Brains. Sugar May Have Fueled the Organ's Enlargement, Too",
   "section": "culture",
@@ -2662,6 +2603,37 @@
     "published_at": "2026-08-15T00:23:26+00:00",
     "source_countries": [],
     "seen_at": "2026-08-15T03:27:55+00:00"
+   }
+  ]
+ },
+ {
+  "id": "019e47e73731",
+  "headline": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
+  "section": "world",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T18:44:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
+    "url": "https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea",
+    "source": "The Guardian World",
+    "summary": "Fans line streets, singing Total Eclipse of the Heart ahead of Welsh singer’s Swansea funeral Thousands of Bonnie Tyler fans lined the streets of her home town in south Wales to pay respects to the singer as her coffin was brought back to her former home. The singer, whose real name was Gaynor Sullivan, died unexpectedly on 8 July in Portugal at the age of 75. Continue reading...",
+    "published_at": "2026-08-15T18:44:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   },
+   {
+    "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+    "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
+    "published_at": "2026-08-15T17:33:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
    }
   ]
  },
@@ -3255,6 +3227,37 @@
   ]
  },
  {
+  "id": "ca01092fef56",
+  "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T21:03:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+    "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+    "published_at": "2026-08-15T21:03:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   },
+   {
+    "title": "Qatar denies it is detaining three Iranian bomber pilots",
+    "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
+    "published_at": "2026-08-15T20:55:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
   "id": "5f8944e243f9",
   "headline": "‘A magical eeriness’: Cornwall comes together for communal moment during solar eclipse",
   "section": "world",
@@ -3512,59 +3515,6 @@
     "published_at": "2026-08-15T07:27:46+00:00",
     "source_countries": [],
     "seen_at": "2026-08-15T09:25:35+00:00"
-   }
-  ]
- },
- {
-  "id": "c0a1cd381041",
-  "headline": "Scaling AI agents with trustworthy data",
-  "section": "ai",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-08-12T16:51:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scaling AI agents with trustworthy data",
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "source": "MIT TR — AI",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
-    "published_at": "2026-08-12T16:51:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   },
-   {
-    "title": "Scaling AI agents with trustworthy data",
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "source": "MIT Tech Review",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
-    "published_at": "2026-08-12T16:51:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   }
-  ]
- },
- {
-  "id": "5a7a0c79222d",
-  "headline": "Stunning New Images Reveal Whirlpools on the Sun's Surface. The Swirling Structures Might Help Power Solar Flares",
-  "section": "culture",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-08-12T18:19:56+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Stunning New Images Reveal Whirlpools on the Sun's Surface. The Swirling Structures Might Help Power Solar Flares",
-    "url": "https://www.smithsonianmag.com/smart-news/stunning-new-images-reveal-whirlpools-on-the-suns-surface-the-swirling-strutures-might-help-power-solar-flares-180989292/",
-    "source": "Smithsonian Mag",
-    "summary": "Observed directly in the solar photosphere for the first time, the vortices might braid magnetic fields, thought to be responsible for energy buildups and eventual outbursts. The features also offer clues about why the sun’s outer atmosphere is millions of degrees hotter than its surface",
-    "published_at": "2026-08-12T18:19:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
    }
   ]
  },
@@ -4481,37 +4431,6 @@
   ]
  },
  {
-  "id": "840b6d63b101",
-  "headline": "European Super Cup: Paris Saint-Germain v Aston Villa – live",
-  "section": "sport",
-  "score": 39,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-08-12T18:11:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "European Super Cup: Paris Saint-Germain v Aston Villa – live",
-    "url": "https://www.theguardian.com/football/live/2026/aug/12/european-super-cup-paris-saint-germain-v-aston-villa-live",
-    "source": "Guardian Sport",
-    "summary": "Live Super Cup updates from 8pm BST Email Scott | Premier League previews: Aston Villa Aston Villa name two debutants in their XI. João Gomes, their £38m purchase from Wolves, starts in the centre of midfield, while 17-year-old Brian Madjo – at six feet four, officially a big unit – leads the line. PSG also have a shiny new thing in their starting line-up: Maghnes Akliouche, a £43m buy from Monaco",
-    "published_at": "2026-08-12T18:11:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   },
-   {
-    "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Live coverage and text updates from our commentary stream as PSG's Dembele, Doue and Barcola target more trophies.",
-    "published_at": "2026-08-12T16:00:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   }
-  ]
- },
- {
   "id": "ac839ba1b527",
   "headline": "A Historian at MIT Discovered the Surprising Truth About This Chinese Label Long Thought to Be a Souvenir of the Boston Tea Party",
   "section": "culture",
@@ -4863,33 +4782,64 @@
   ]
  },
  {
-  "id": "bd5715e8f31e",
-  "headline": "Discord ordered to suspend livestreams in Brazil",
-  "section": "tech",
-  "score": 38,
+  "id": "803a25ffb81d",
+  "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+  "section": "world",
+  "score": 39,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-08-12T17:10:31+00:00",
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T20:28:30+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Discord ordered to suspend livestreams in Brazil",
-    "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-    "published_at": "2026-08-12T17:10:31+00:00",
+    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+    "published_at": "2026-08-15T20:28:30+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
+    "seen_at": "2026-08-15T21:24:45+00:00"
    },
    {
-    "title": "Discord ordered to suspend livestreams in Brazil",
-    "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-    "published_at": "2026-08-12T17:10:31+00:00",
+    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+    "published_at": "2026-08-15T20:28:30+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0e4015d571e6",
+  "headline": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+  "section": "world",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T20:07:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+    "published_at": "2026-08-15T20:07:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   },
+   {
+    "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+    "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+    "published_at": "2026-08-15T19:46:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
    }
   ]
  },
@@ -5487,33 +5437,24 @@
   ]
  },
  {
-  "id": "72a023b16019",
-  "headline": "LA Lakers to be sold in record $12.5bn deal",
-  "section": "world",
-  "score": 37,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-12T18:35:09+00:00",
-  "event_time": "2026-08-12T16:11:04+00:00",
+  "id": "ddde6961d499",
+  "headline": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+  "section": "sport",
+  "score": 38,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T19:00:04+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "LA Lakers to be sold in record $12.5bn deal",
-    "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
-    "published_at": "2026-08-12T16:11:04+00:00",
+    "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+    "url": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
+    "source": "Guardian Sport",
+    "summary": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018 The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical",
+    "published_at": "2026-08-15T19:00:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
-   },
-   {
-    "title": "LA Lakers to be sold in record $12.5bn deal",
-    "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
-    "published_at": "2026-08-12T16:11:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-12T18:35:03+00:00"
+    "seen_at": "2026-08-15T21:24:45+00:00"
    }
   ]
  },
@@ -6958,6 +6899,50 @@
   ]
  },
  {
+  "id": "1e7368142814",
+  "headline": "Britain's quarter century: Experts in sex, mental health, nutrition and addiction assess nation's changing well-being",
+  "section": "health",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T21:00:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Britain's quarter century: Experts in sex, mental health, nutrition and addiction assess nation's changing well-being",
+    "url": "https://medicalxpress.com/news/2026-08-britain-quarter-century-experts-sex.html",
+    "source": "Medical Xpress",
+    "summary": "A good way to follow the health of a nation is to glance at what is known as period life expectancy. This calculates how long a person born today would live if the current death rates remained exactly the same for the rest of their life. This had two major turning points in the UK over the period: a marked slowdown in improvements from around 2011 and a sharp, historically unprecedented fall in 20",
+    "published_at": "2026-08-15T21:00:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
+  "id": "22cfcb63d6d8",
+  "headline": "Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
+  "section": "sport",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T19:18:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
+    "url": "https://www.theguardian.com/football/2026/aug/15/newcastle-matthias-jaissle-bayer-leverkusen-defeat-amar-dedic",
+    "source": "Guardian Sport",
+    "summary": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar Dedic Reasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat by Bayer Leverkusen. The",
+    "published_at": "2026-08-15T19:18:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
   "id": "b7995d0a4e6f",
   "headline": "The web’s newest weapon against AI scrapers is a font",
   "section": "tech",
@@ -7813,6 +7798,28 @@
   ]
  },
  {
+  "id": "7039a21130e9",
+  "headline": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T19:39:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+    "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+    "source": "The Guardian World",
+    "summary": "Death toll now stands at 68, with 18 children among the killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Contin",
+    "published_at": "2026-08-15T19:39:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
   "id": "fa157b1c9366",
   "headline": "Under strain, Australia's world-leading disability support faces major restructure",
   "section": "world",
@@ -8606,6 +8613,28 @@
   ]
  },
  {
+  "id": "711092954015",
+  "headline": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T20:00:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show Get our breaking news email , free app or daily news podcast One Nation senator Tyron Whitten has claimed parents supporting their children who identify as transgender are engaging in “child abuse”, telling a fringe YouTube show: “there’s male, there’s female, and then there’s mental illness”. Guard",
+    "published_at": "2026-08-15T20:00:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
   "id": "b0f2eba82421",
   "headline": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
   "section": "world",
@@ -8650,6 +8679,72 @@
   ]
  },
  {
+  "id": "592fb90c07c4",
+  "headline": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-12T07:30:16+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+    "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+    "published_at": "2026-08-12T07:30:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
+  "id": "85c97221b011",
+  "headline": "'Fury' at Tarling death as cycling union calls for better helmets",
+  "section": "sport",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-15T19:05:32+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'Fury' at Tarling death as cycling union calls for better helmets",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.",
+    "published_at": "2026-08-15T19:05:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
+  "id": "629bdb3106f1",
+  "headline": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+  "section": "safety",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-15T21:24:48+00:00",
+  "event_time": "2026-08-12T08:04:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+    "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+    "source": "The Hacker News",
+    "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
+    "published_at": "2026-08-12T08:04:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-15T21:24:45+00:00"
+   }
+  ]
+ },
+ {
   "id": "f5b2d8613014",
   "headline": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
   "section": "world",
@@ -8688,116 +8783,6 @@
     "source": "Phys.org",
     "summary": "Why do disagreements about vaccines, climate change or elections often feel so personal? Our research suggests it is not simply because other people have different beliefs. It is because we think those beliefs are mistaken.",
     "published_at": "2026-08-15T00:20:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T18:26:08+00:00"
-   }
-  ]
- },
- {
-  "id": "1278c6f6ecd9",
-  "headline": "Leigh’s Favorite Oatmeal Chocolate Chip Cookies",
-  "section": "travel",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-15T18:26:11+00:00",
-  "event_time": "2026-04-09T00:50:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Leigh’s Favorite Oatmeal Chocolate Chip Cookies",
-    "url": "https://www.atlasobscura.com/foods/leighs-favorite-oatmeal-chocolate-chip-cookies",
-    "source": "Atlas Obscura",
-    "summary": "Leigh Myers’ signature cookies are crispy on the edges, tender in the center, and jazzed up with spicy nuts. Ingredients 1 1/2 cup (200 grams) all-purpose flour 1 teaspoon baking soda 1 teaspoon fine sea salt 1 teaspoon cinnamon 16 tablespoons (228 grams) unsalted butter, softened 1 cup (188 grams) packed brown sugar 1/2 cup (118 grams) granulated sugar 2 large eggs, at room temperature 4 tablespo",
-    "published_at": "2026-04-09T00:50:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T18:26:08+00:00"
-   }
-  ]
- },
- {
-  "id": "e5ae694f21ff",
-  "headline": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-15T18:26:11+00:00",
-  "event_time": "2026-08-15T18:08:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-    "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
-    "source": "The Guardian World",
-    "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing. The attempted crossing on Saturday came two weeks after more than 72,000 mig",
-    "published_at": "2026-08-15T18:08:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T18:26:08+00:00"
-   }
-  ]
- },
- {
-  "id": "8ac5643904a5",
-  "headline": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-15T18:26:11+00:00",
-  "event_time": "2026-08-15T17:04:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-    "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-    "source": "NPR News",
-    "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
-    "published_at": "2026-08-15T17:04:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T18:26:08+00:00"
-   }
-  ]
- },
- {
-  "id": "4415f21395c4",
-  "headline": "Trump's Latin America allies open arms to Israel",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-15T18:26:11+00:00",
-  "event_time": "2026-08-15T11:35:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump's Latin America allies open arms to Israel",
-    "url": "https://www.dw.com/en/trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "While ongoing military actions in Gaza and settler attacks on Palestinians in the occupied West Bank have largely isolated Israel globally, Latin America's authoritarian right sees an opening for a strategic alliance.",
-    "published_at": "2026-08-15T11:35:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T18:26:08+00:00"
-   }
-  ]
- },
- {
-  "id": "8e3136d4cf99",
-  "headline": "Germany: Berlin techno fans pause for Pride attack victims",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-15T18:26:11+00:00",
-  "event_time": "2026-08-15T07:58:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Germany: Berlin techno fans pause for Pride attack victims",
-    "url": "https://www.dw.com/en/germany-berlin-techno-fans-pause-for-pride-attack-victims/live-78378773?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Rave the Planet is taking place under high security after last month's deadly Islamist attack. Also: Russia labels another German institute as \"undesirable.\" DW has more.",
-    "published_at": "2026-08-15T07:58:00+00:00",
     "source_countries": [],
     "seen_at": "2026-08-15T18:26:08+00:00"
    }
