@@ -31,6 +31,14 @@ Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
   - **2026-08-12** (2 zdrojů) Four killed in overnight attacks in southern Russia, Ukraine
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
 
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 2 dní · 4 záznamů
+- časová osa:
+  - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
+  - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
+  - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
+  - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
+
 ### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
 - rubrika `world` · sledováno 0 dní · 4 záznamů
 - časová osa:
@@ -46,13 +54,6 @@ Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
   - **2026-08-10** (1 zdrojů) Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
   - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 1 dní · 3 záznamů
-- časová osa:
-  - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
-  - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
-  - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 1 dní · 3 záznamů
