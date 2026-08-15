@@ -7,9 +7,8 @@ Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 6 dní · 15 záznamů
+- rubrika `world` · sledováno 6 dní · 16 záznamů
 - časová osa:
-  - **2026-08-11** (3 zdrojů) Bluster and backdown have turned Iran war into Trump’s own Groundhog Day
   - **2026-08-11** (2 zdrojů) Trump demands Iran pay compensation for decades of US soldier deaths
   - **2026-08-11** (2 zdrojů) Trump demands compensation from Iran as talks on Strait of Hormuz continue
   - **2026-08-11** (2 zdrojů) Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
@@ -19,6 +18,7 @@ Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
   - **2026-08-13** (3 zdrojů) ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
   - **2026-08-15** (4 zdrojů) Donald Trump to declare Hormuz US territory 'soon'
   - **2026-08-15** (2 zdrojů) Donald Trump says he faced ‘greater risk’ on swapped plane
+  - **2026-08-15** (2 zdrojů) Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 2 dní · 7 záznamů

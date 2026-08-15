@@ -5,22 +5,22 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "iran",
-    "groundhog",
-    "gulf",
-    "iranian",
-    "trump",
-    "donald",
-    "oman",
     "lebanon",
+    "donald",
     "justified",
-    "east",
     "turkey",
-    "strait",
-    "bluster",
+    "gulf",
     "middle",
+    "bluster",
+    "hormuz",
+    "oman",
     "tennessee",
-    "hormuz"
+    "strait",
+    "iranian",
+    "groundhog",
+    "trump",
+    "east",
+    "iran"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -37,7 +37,8 @@
     "0316549f9ed5",
     "3eaa33015060",
     "19a5a4d8911d",
-    "f3c480adacd2"
+    "f3c480adacd2",
+    "01a1c27cf3db"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-15",
@@ -211,6 +212,17 @@
      "links": [
       "https://www.france24.com/en/donald-trump-says-he-faced-greater-risk-on-swapped-plane",
       "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
+     "sources": 2,
+     "score": 45,
+     "event_id": "01a1c27cf3db",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
+      "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748"
      ]
     }
    ]
@@ -1241,5 +1253,5 @@
    ]
   }
  ],
- "updated": "2026-08-15T03:27:58+00:00"
+ "updated": "2026-08-15T06:26:27+00:00"
 }

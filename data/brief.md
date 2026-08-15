@@ -130,12 +130,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 15  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 16  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 15
+rubrika: world · sledováno od 2026-08-09 · záznamů: 16
   2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
@@ -151,6 +151,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 15
   2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
   2026-08-15  (4 zdrojů, síla 69)  Donald Trump to declare Hormuz US territory 'soon'
   2026-08-15  (2 zdrojů, síla 41)  Donald Trump says he faced ‘greater risk’ on swapped plane
+  2026-08-15  (2 zdrojů, síla 45)  Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
