@@ -1,107 +1,125 @@
 ---
 slug: why-relationships-fail
-title: "Proč vztahy selhávají: Co vás může naučit otázka z továrny a stoletá politická roztržka"
-dek: "Většina vztahů nekončí jednou dramatickou zradou. Končí tak, jako se rozpadá montážní linka v Toyotě — kvůli malé, neřešené příčině, která se potichu opakuje, dokud se celý systém nezhroutí."
+title: 'Proč vztahy selhávají: otázka, kterou si nikdo nepoloží pětkrát'
+dek: Většina rozchodů nezpůsobí jedna dramatická zrada. Způsobí je stejná drobná
+  hádka, která se pořád vrací, protože ji nikdo nedořešil — a diagnostický postup
+  vymyšlený pro továrny vysvětluje, proč si toho skoro nikdo včas nevšimne.
 section: relationships
 type: daily
 depth: scripture
 lang: cs
-date: 2026-08-15
+date: '2026-08-15'
 status: draft
-confidence: 79
+confidence: 78
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
-image_query: two empty chairs table
+format: ''
+event_id: ''
+series: ''
+image_query: frayed rope close-up
 sources:
-  - name: "Wikipedia — Five whys"
-    url: "https://en.wikipedia.org/wiki/Five_whys"
-    published: "2026-08-15"
-  - name: "Wikipedia — Fianna Fáil"
-    url: "https://en.wikipedia.org/wiki/Fianna_Fáil"
-    published: "2026-08-15"
-  - name: "Wikipedia — Love–hate relationship"
-    url: "https://en.wikipedia.org/wiki/Love–hate_relationship"
-    published: "2026-08-15"
+- name: Wikipedia — Five whys
+  url: https://en.wikipedia.org/wiki/Five_whys
+  published: '2026-08-15'
+- name: Wikipedia — Fianna Fáil
+  url: https://en.wikipedia.org/wiki/Fianna_Fáil
+  published: '2026-08-15'
+- name: Wikipedia — Love–hate relationship
+  url: https://en.wikipedia.org/wiki/Love–hate_relationship
+  published: '2026-08-15'
+- name: Bible Gateway — Ecclesiastes 4:9-12 (NIV)
+  url: https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A9-12&version=NIV
+  published: '2026-08-15'
 impact:
   areas: [life]
-  line: "Recurring arguments are rarely about the thing being argued over; treating a repeated fight as a symptom rather than the actual disease changes what is worth addressing."
-  todo: "Next time a familiar argument returns, ask 'why' about your own reaction five times before assuming you already know what is wrong."
+  line: Treating a recurring argument as a diagnosable pattern, rather than proof
+    the relationship is doomed, changes what is actually worth addressing — and
+    what is not.
+  todo: 'Next time a familiar fight comes back, write down what was actually said,
+    then ask ''why'' about it five times before deciding what the real issue is.'
 quiz:
-  question: "According to research cited in the article, what have researchers at Yale linked love-hate relationships to?"
-  options: ["Poor self-esteem", "High levels of physical exercise", "Large family size"]
-  answer: 0
-  explanation: "The source article states that research from Yale University suggests love-hate relationships may be the result of poor self-esteem."
+  question: According to the Toyota-developed technique described in the article,
+    how many times does the "Five Whys" method typically repeat the question "why"
+    to reach a root cause?
+  options: ["Three times", "Five times", "Ten times"]
+  answer: 1
+  explanation: The technique gets its name from repeating "why" five times, as
+    described by Taiichi Ohno, though the article notes the number can go higher
+    or lower depending on how complex the problem is.
 ---
 
 ## BRIEFLY
 
-**Co se stalo.** Dva na první pohled nesouvisející obory — továrenská technika řešení problémů z Toyoty a desítky let psychologie ambivalentních vztahů — vedou ke stejnému závěru o tom, proč vztahy selhávají.
+**Co se stalo.** Tenhle text nevychází z jedné konkrétní události. Používá diagnostickou metodu z továren a zdokumentovaný výzkum ambivalentních vztahů, aby odpověděl na otázku, kterou si dřív nebo později položí skoro každý: proč vztahy, které dobře začaly, nakonec selžou.
 
-**Co to znamená.** Rozchody málokdy přijdou z jedné dramatické zrady. Obvykle vznikají z menšího, neřešeného vzorce, který se opakuje tak dlouho, až už to nikdo nechce dál opakovat.
+**Co to znamená.** Metoda, kterou Toyota vyvinula ke sledování příčin výrobních vad — takzvaných „pět proč" — se překvapivě podobá vzorci, který psychologové popisují u problematických vztahů: partneři pořád dokola řeší stejnou povrchovou hádku, protože ji nikdo nesledoval dost hluboko.
 
-**Rizika a dopady.** Týká se to každého v dlouhodobém vztahu — partnerském, rodinném, nebo jiném — protože ten vzorec platí pro každé pouto, které kolísá mezi blízkostí a zatrpklostí.
+**Rizika a dopady.** Jde o něco obyčejného a soukromého: roky strávené ve vztahu, který se pořád trhá a zase lepí, aniž by kdokoli pojmenoval proč.
 
-**Co se s tím dá dělat.** Technika zvaná Five Whys (pět proč), používaná k dohledání skutečné příčiny továrního defektu, funguje překvapivě dobře i na opakující se hádku — pokud si obě strany otázky kladou upřímně.
+**Co se s tím dá dělat.** Opakující se hádku je lepší brát jako příznak, který se dá vysledovat, ne jako rozsudek, který se musí přijmout. Metoda pěti proč nabízí jednoduchý způsob, jak to udělat — má ale i zdokumentovanou slabinu, o které je dobré vědět předtím, než se na ni člověk spolehne.
 
-**Na co se dívat dál.** Jestli se stejná hádka vrací pořád dokola v novém kabátě. To bývá znamení, že skutečná příčina nikdy nebyla pojmenovaná.
+**Na co se dívat dál.** Jestli se stejná hádka vrátí během pár týdnů, jen v jiných slovech — právě tohle opakování, ne intenzita hádky, je signál, který stojí za to sledovat.
 
 ## FACTS
 
-Představte si dva lidi devět let po sobě ve vztahu, kteří si spolu přestali zvyšovat hlas. Žádné bouchání dveřmi, žádné dramatické odchody — hádky o peníze a společný čas prostě potichu vymizely. Zvenčí to může vypadat jako klid. Často je to pravý opak: zvuk dvou lidí, kteří se přestali snažit, aby je ten druhý slyšel.
+Představte si hádku, která se pořád vrací. Ne stejnými slovy pokaždé — tento měsíc šlo o nádobí, minulý měsíc o zrušený plán, předtím o tón hlasu — ale rozpoznatelně jde o tu samou hádku, jen v novém kabátě. Každý, kdo byl v dlouhodobém vztahu, ten vzorec zná, a většina lidí nikdy nepřijde na to, o čem doopravdy je.
 
-Vztahy málokdy selžou jedním čistým zlomem. Psychologové, kteří zkoumají takzvané „vztahy lásky a nenávisti" — pouta, ve kterých je zároveň skutečná láska i skutečná zatrpklost — popisují konec jako něco, co se buduje roky, než se to stane viditelným. Stejný vzorec se objevuje na nečekaném místě: ve stoleté historii Fianna Fáil, jedné ze dvou dominantních irských politických stran, která se zrodila z rozkolu, desítky let byla nejmocnějším politickým „manželstvím" v zemi, přežila vlastní verzi nevěry, úplně se rozvedla a nakonec si znovu vzala svého nejstaršího soka. A tovární technika Toyoty jménem Five Whys, vytvořená k dohledání, proč se na montážní lince křížily závity šroubů, se ukazuje jako jeden z nejužitečnějších nástrojů k odhalení, o čem se pár doopravdy hádá.
+Na přesně tenhle problém existuje diagnostický postup, i když nevznikl pro páry. Jmenuje se pět proč (Five Whys) a vyvinul ho ve firmě Toyota Motor Corporation inženýr Taiichi Ohno. Metoda je jednoduchá: když se něco pokazí, zeptáte se „proč" a odpovíte si, pak se znovu zeptáte „proč" na tu odpověď, a to zhruba pětkrát, dokud se řetězec příčin nepřestane zastavovat u příznaku a nezačne mířit na něco, co se dá skutečně opravit.
+
+Psychologové, kteří zkoumají takzvané „vztahy lásky a nenávisti" — pouta kolísající mezi silnou náklonností a silným konfliktem — popisují podobné selhání. Páry řeší viditelný spouštěč a tam skončí, aniž by se dostaly k tomu, co ho pořád znovu vyvolává.
 
 ## EVIDENCE
 
-Co je poměrně dobře doložené: psychologové popisují „vztahy lásky a nenávisti" jako pouta se současnou nebo střídající se láskou a nepřátelstvím, nejviditelnější tam, kde jsou emoce nejsilnější. Jeden výzkumný pramen, v podkladech přisuzovaný Yaleově univerzitě, spojuje takové vztahy s nízkým sebevědomím — původní studie ale v citovaném zdroji není popsaná dost podrobně na to, aby šlo znát její rozsah nebo metodu, takže jde brát jako jedno zjištění, ne jako ustálený konsenzus.
+Co je dobře doložené: samotná metoda pěti proč, její původ v Toyotě a Ohnovo vlastní vyjádření, že jde o „základ vědeckého přístupu Toyoty". Odtud se rozšířila do Kaizen, štíhlé výroby a Six Sigma jako běžný nástroj pro hledání kořenové příčiny. To je nesporné.
 
-Konkrétnější je souvislost s raným poutem. Slabá vazba na rodiče v dětství, depresivní příznaky rodiče a rysy spojované s hraniční nebo narcistickou poruchou osobnosti u dospělého dítěte — to všechno je v literatuře shrnuté pro tenhle článek spojováno s dynamikou lásky a nenávisti, a dokonce i s úplným odcizením mezi dospělými a jejich rodiči. Jeden psychiatrický popis citovaný v tomhle výzkumu charakterizuje ten vzorec jako „nestabilní a intenzivní mezilidské vztahy, které se vyznačují střídáním extrémů idealizace a devalvace."
+Co je doloženo, ale s výhradou: psychologický výzkum vztahů lásky a nenávisti. Anglická Wikipedie k tématu uvádí, že „výzkum z Yaleovy univerzity naznačuje, že vztahy lásky a nenávisti mohou být důsledkem nízkého sebevědomí" — bez uvedení konkrétní studie, roku nebo vzorku. Tohle tvrzení je třeba číst jako obecné zjištění výzkumu, ne jako přesné, ověřitelné číslo.
 
-Na praktičtější straně je technika Five Whys — vyvinutá v Toyotě a připisovaná inženýrovi Taiichi Ohnovi — dobře doložená jako skutečná, široce používaná metoda, ne samopomocný trik. Od Toyoty se rozšířila i do Kaizen, štíhlé výroby, štíhlé stavební praxe a Six Sigma programů, což je slušný signál, že obstojí i mimo úhledné učebnicové příklady. Má ale i dobře zdokumentované kritiky, a to je důležité pro to, jak poctivě ji lze aplikovat na něco tak osobního, jako je vztah.
+Co je skutečný myšlenkový skok a mělo by se tak i označit: použití metody na vysledování výrobních vad na lidské vztahy je analogie, ne ověřená terapeutická technika. Nic z podkladů neukazuje, že by pět proč bylo testováno přímo na párech.
+
+Co je sporné i ve vlastním oboru: manažerští odborníci, včetně bývalého ředitele globálního nákupu Toyoty Teruyukiho Minoury, kritizovali pět proč jako příliš povrchní nástroj na to, aby spolehlivě odhalil skutečné kořenové příčiny.
 
 ## PERSPECTIVES
 
-Čtyři poctivé způsoby, jak vysvětlit selhání vztahu, každý se svým slepým místem.
+Tři různé způsoby, jak číst tu samou opakující se hádku.
 
-**Behaviorální pohled** se dívá na to, JAK se pár hádá, ne na to, o čem. Je silný v rozpoznávání konkrétních ničivých vzorců — pohrdání, stahování se do sebe, nedostupnost — v okamžiku, kdy se dějí. Jeho slepé místo: dobře popisuje symptom, aniž by vysvětlil, proč ten vzorec vůbec začal.
+Systémově-diagnostický pohled říká, že viditelná hádka nikdy není ta skutečná. Peníze, domácí práce a chronické zpoždění jsou spouštěče, ne příčiny; hodnota metody je v tom, že donutí člověka jít za tu první, snadnou odpověď. Její slabina: kritici metody dlouhodobě upozorňují, že má tendenci najít jedinou kořenovou příčinu tam, kde problém — ať mechanický, nebo lidský — má často několik příčin běžících souběžně. Lékařský profesor Alan J. Card jde ještě dál a tvrdí, že by se metoda měla úplně opustit, protože to, kde se přestane ptát „proč", je svévolné a nemusí vůbec odpovídat skutečné kořenové příčině.
 
-**Vývojový pohled**, vycházející z výzkumu výše, dohledává potíže dospělého vztahu až k rannému poutu a rodinným vzorcům. Je silný ve vysvětlení, proč někteří lidé prudce kolísají mezi idealizací a zatrpklostí vůči partnerovi. Jeho slepé místo je, že bere ambivalenci automaticky jako patologickou, přestože stejný zdroj poznamenává, že je „obzvlášť běžná" v každém vztahu, kde jsou emoce prostě silné.
+Pohled přes vazbu a ambivalenci, vycházející z výzkumu vztahů lásky a nenávisti, říká, že hádka se vrací proto, že oba partneři nedokážou najednou udržet lásku i vztek ke stejnému člověku. Pod tlakem jeden pocit úplně nahradí ten druhý, místo aby vedle sebe koexistovaly — tomuhle vzorci psychologové říkají „štěpení". Jeho síla je v tom, že vysvětluje tu trhavou, střídavou povahu takových hádek; jeho slabina je, že klinický jazyk vypůjčený z výzkumu poruch osobnosti může udělat z obyčejného špatného týdne amatérskou diagnózu partnera.
 
-**Pohled kořenové příčiny**, vypůjčený z Five Whys, bere selhání jako nevyřešený řetězec menších problémů, ne jako jednu velkou událost. Je rychlý a konkrétní. Jeho vlastní kritici — citovaní přímo v dokumentaci té techniky — varují, že bývá u první přijatelné odpovědi, a že různí lidé kladoucí stejné otázky dojdou k různým „kořenovým příčinám."
-
-**Institucionální pohled**, viditelný v historii Fianna Fáil, bere selhání a nápravu jako fáze, které se střídají po desetiletí, formované stejně tak okolnostmi a nutností jako city. Jeho slepé místo je zrcadlovým obrazem těch ostatních: může vykreslit usmíření jako nevyhnutelné, zatímco v osobním vztahu — na rozdíl od parlamentu, kde dvě strany možná prostě potřebují hlasy toho druhého — nic dva lidi zpátky k sobě nenutí.
-
-Žádný z těch čtyř pohledů ty ostatní neruší. Hádky páru lze zároveň opravdu vysvětlit tím, jak se hádají, co zažili v dětství, co si nikdy doopravdy nepojmenovali, a kolik praktických důvodů jim ještě zbývá zůstat spolu v místnosti.
+Pohled institucionální odolnosti bere dlouhodobé vztahy míň jako jediné pouto a víc jako koalici, která se pořád znovu vyjednává. Tenhle výklad má reálný precedent — a fungoval, dokud v jednom dramatickém případě nepřestal.
 
 ## CONTEXT
 
-Psychologický termín pro to, co se děje uvnitř vztahu lásky a nenávisti, je „štěpení" (splitting) — myšlení v kategoriích úplně dobrý nebo úplně špatný o téže osobě, obvykle ve stresu. Není to nic exotického; mírnější verze se objeví pokaždé, když dva jinak spokojení lidé uprostřed hádky na chvíli zažijí toho druhého jako naprostého záporáka. Výzkum shrnutý výše spojuje tu extrémnější, trvalejší verzi se slabým raným poutem a s rysy osobnosti, které dělají běžnou ambivalenci — zlobit se na někoho, koho milujete, aniž byste ho chtěli přestat milovat — nesnesitelnou.
+Pět proč funguje, když funguje, tím, že odmítá zastavit se u první přijatelné odpovědi. Ohnův klasický příklad z továrny: šrouby na výrobní lince mají přeříznuté závity. Proč? Řezný nástroj nebyl vyměněný. Proč? Náhradní zásobník byl prázdný. Proč? Jeho obsah spadl a zakutálel se pod regál. Proč? Noha regálu prorezivěla. Pět kroků od „vadných šroubů" k „zkontrolujte regály" — oprava, ke které by se nikdo nedostal jen jedním zeptáním.
 
-Five Whys funguje tak, že odmítá první odpověď. Ohnův vlastní tovární příklad: na lince se křížily závity šroubů. Proč? Závity nebyly čistě řezané. Proč? Řezný nástroj nebyl vyměněný. Proč? Bedna s náhradami byla prázdná. Proč? Její obsah spadl. Proč? Zrezivělá nožka regálu selhala. Pátá odpověď, ne první, je ta, kterou stojí za to opravit. Ohno nazval opakování otázky pětkrát „základem vědeckého přístupu Toyoty."
+Aplikováno volně na vztah, stejná disciplína odmítá snadný terč. „Pořád se hádáme o peníze" se změní na: proč se peníze cítí nebezpečně konkrétně pro jednoho z nás, a proč to nikdy nikdo nahlas nevyslovil, a proč bylo potřeba hádky, aby to vůbec vyplulo na povrch. Důležité jsou tu i vlastní kritiky metody: výsledky nejsou opakovatelné — různí lidé, kteří se ptají na stejných pět proč u stejného problému, často dojdou k různým příčinám. Dva partneři sledující stejnou opakující se hádku mohou dojít ke stejně upřímnému, ale úplně jinému vysvětlení — a už to samo o sobě je užitečná informace o propasti mezi nimi.
 
-Běžná chyba je předpoklad, že první vyslovená stížnost — nádobí, peníze, pozdní příchod — je ten skutečný problém. Málokdy je. Five Whys má ale skutečné limity a její vlastní kritici to otevřeně říkají: vyšetřovatelé mají tendenci zastavit se u symptomu, různí lidé kladoucí stejné otázky dojdou k různým „kořenovým příčinám" a předpokládá se jedna příčina, i když jich může působit víc najednou. Aplikovaná na vztah proto Five Whys funguje nejlíp jako společný rozhovor, ne jako rozsudek, který jeden z partnerů vynese sám.
+Výzkum vztahů lásky a nenávisti přidává druhou vrstvu: některá ambivalence je běžná a snesitelná, jiná ne. Wikipedie k tématu uvádí, že vztahy lásky a nenávisti souvisejí s ranou dětskou emoční ambivalencí, a ve vážnějších případech s narcistickými nebo hraničními rysy osobnosti, kdy člověk nedokáže cítit náklonnost i vztek ke stejné milované osobě zároveň. Japonský kulturní pojem „tsundere" — střídání chladu a náklonnosti k objektu lásky — ukazuje stejné kolísání rozpoznané daleko za hranicemi klinické psychologie, stejně jako téměř dva tisíce let starý verš římského básníka Catulla: „Nenávidím a přesto miluji. Možná se ptáte, jak to dokážu. Nevím, ale cítím, že se to děje, a je to muka."
 
 ## PEOPLE
 
-Fianna Fáil vznikla v roce 1926, když se Éamon de Valera odštěpil od Sinn Féin kvůli tomu, jestli mají zvolení poslanci zasedat v novém irském parlamentu. Strana, kterou vybudoval, pak držela moc 61 z následujících 79 let a desítky let dominovala irské politice. Pak, v roce 1970, tu důvěru narušila Aféra se zbraněmi: ministři vlády Charles Haughey a Neil Blaney byli odvoláni kvůli obviněním, že se snažili opatřit zbraně pro polovojenské skupiny — roztržka, která stranu poznamenávala celá léta. Haughey se přesto později dostal do jejího čela, než ho v roce 1992 donutily odejít odhalení o odposleších.
+Irská strana Fianna Fáil je nečekaně dobrá případová studie toho, jak vypadá trhání a lepení ve velkém měřítku. Éamon de Valera ji založil v roce 1926 poté, co se odštěpil od Sinn Féin; k moci se strana dostala v roce 1932 a držela si ji 61 z následujících 79 let — a to díky tomu, že opakovaně přežívala konflikty, ne díky jejich absenci.
 
-Nejjasnější rozvod přišel v roce 1985, kdy velká část členstva úplně odešla a založila konkurenční stranu, Progresivní demokraty — skutečné rozdělení, ne jen neshoda. Přesto od roku 1989 obě strany opakovaně vládly společně v koalici. Bertie Ahern, kdysi Haugheyho chráněnec, pomohl v roce 1998 zprostředkovat Velkopáteční dohodu, než jeho vlastní kariéra v roce 2008 skončila kvůli finančnímu skandálu. V roce 2020 udělala Fianna Fáil něco, co nikdy předtím v celé své historii neudělala: vstoupila do vlády se svým nejstarším sokem, Fine Gael, se střídajícím se úřadem premiéra mezi oběma stranami. Století roztržek a usmíření, poháněné míň vyřešenými city a víc sdílenou nutností.
+V roce 1970 stranu málem roztrhla takzvaná Zbraňová aféra, když předseda vlády Jack Lynch odvolal ministry Charlese Haugheyho a Neila Blaneyho kvůli obvinění, že se snažili ozbrojit Prozatímní IRA. Strana to přežila v celku; ke skutečnému rozštěpení došlo až v roce 1985, kdy se pod vedením Desmonda O'Malleyho odtrhla frakce a založila Pokrokové demokraty. Od roku 1989 pak obě strany léta vládly společně v koalici — z roztržky se stal základ nového fungujícího vztahu.
+
+Tohle přeskupování mělo své limity. V roce 2011, po finančním skandálu tehdejšího předsedy Bertieho Aherna a po hospodářském kolapsu Irska za jeho nástupce Briana Cowena, strana utrpěla nejhorší porážku úřadující vlády v dějinách irského státu — z největší strany v parlamentu se propadla na třetí a přišla o 58 ze svých 78 křesel. List The Sunday Times označil Cowenovo působení za „zoufalé selhání". Mnoho malých roztržek strana přežila; tahle jedna opravný mechanismus přemohla.
 
 ## DEEPER
 
-Poctivá otázka pod tím vším není „jak se vyhnout konfliktu" — všechny zdroje výše se shodují, že to nejde, a ani by se o to nemělo usilovat. Skutečná otázka je, co doopravdy umožňuje usmíření po opravdové roztržce: cítit se jinak, nebo se rozhodnout jednat jinak, i když pocity ještě vyřešené nejsou.
+Takže co to vlastně je — dokazuje vztah, který se pořád trhá a zase spojuje, že je něco rozbité, nebo je trhání a lepení přesně to, z čeho jsou trvalé vztahy udělané?
 
-Jeden ze starších textů na tohle téma, čtený tady jako jeden zdroj moudrosti mezi několika dalšími, ne jako konečná odpověď, je příběh Josefa a jeho bratrů v knize Genesis. Roky poté, co ho prodali do otroctví, se jim Josef odhalí — ne tak, že by předstíral, že se ta zrada nikdy nestala, ale tím, že ji jasně pojmenuje: „Já jsem Josef, váš bratr, kterého jste prodali do Egypta" (Genesis 45,4). Usmíření, které následuje, nesmazává roky odcizení ani neomlouvá to, co je způsobilo. Začíná tím, že se obě strany shodnou na tom, jaké to skutečné „proč" doopravdy bylo — což je, kupodivu, přesně to, co Five Whys žádá po dvou lidech v továrně, nebo u kuchyňského stolu, aby udělali společně.
+Starý text na přesně tuhle otázku, dávno před Toyotou nebo Yaleovou univerzitou, najdeme v knize Kazatel. „Lépe je dvěma než jednomu, mají dobrou mzdu ze svého pachtění," píše se tam. „Upadne-li jeden z nich, druhý ho zvedne. Ale běda samotnému, který upadne — nemá nikoho, kdo by ho zvedl. Také když spolu leží dva, je jim teplo, ale jak se zahřeje jednotlivec? Napadne-li někdo jednoho, postaví se proti němu oba. A trojitý provázek se nepřetrhne snadno" (Kazatel 4,9–12).
+
+Postavený vedle továrního diagnostického postupu a století irské koaliční politiky nepůsobí ten obraz sentimentálně — působí strukturálně. Text neslibuje pouto bez pádů, chladu nebo útoku. Jeho argument pro partnerství je, že tyhle věci se dějí jednotlivci samotnému i dvojici — a ta druhá varianta má způsob, jak se z toho dostat, který ta první nemá. Provázek drží ne proto, že by jeho vlákna necítila žádné napětí, ale proto, že napětí nese víc než jedno vlákno, a třetí je tu na to, aby zachytilo, co ta dvě ostatní nezvládnou.
+
+To je nit, která spojuje všechny tři zdroje v tomhle textu: diagnostická metoda, psychologie ambivalence i politická případová studie popisují napětí jako normální stav, ne jako selhání. To, co odlišuje trvalý vztah od selhávajícího, málokdy bývá absence opakující se hádky. Bývá to spíš to, jestli ji někdo vůbec vysleduje za tu první, nejsnazší odpověď.
 
 ## REFLECT
 
-Co by se změnilo, kdybyste se příště, až se stejná hádka vrátí potřetí, zeptali „proč" na svou vlastní odpověď, místo na odpověď partnera?
+Až se příště vrátí stará hádka — jaké by bylo to poctivé čtvrté nebo páté „proč"? Ne odpověď, se kterou vyhrajete, ale ta, které se vyhýbáte?
 
-Je ve vašem životě vztah, který skončil — nebo skoro skončil — ne kvůli jedné zradě, ale kvůli menšímu vzorci, který nikdy nikdo nepojmenoval nahlas?
+Chybí ve vztahu, na kterém vám záleží, nějaké vlákno — člověk, zvyk, hranice — jehož nepřítomnost dělá z běžného napětí něco víc, než to je?
