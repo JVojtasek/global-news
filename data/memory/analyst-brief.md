@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-15
 
-Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **13**.
+Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **14**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 6 dní · 17 záznamů
+- rubrika `world` · sledováno 6 dní · 18 záznamů
 - časová osa:
-  - **2026-08-11** (2 zdrojů) Trump demands compensation from Iran as talks on Strait of Hormuz continue
   - **2026-08-11** (2 zdrojů) Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
   - **2026-08-11** (4 zdrojů) Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
   - **2026-08-12** (2 zdrojů) Gulf states scramble for Strait of Hormuz alternative
@@ -19,9 +18,10 @@ Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **13**.
   - **2026-08-15** (2 zdrojů) Donald Trump says he faced ‘greater risk’ on swapped plane
   - **2026-08-15** (2 zdrojů) Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
   - **2026-08-15** (2 zdrojů) Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+  - **2026-08-15** (2 zdrojů) Trump threatens to declare strait of Hormuz ‘territory of the United States’
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 2 dní · 7 záznamů
+- rubrika `world` · sledováno 4 dní · 8 záznamů
 - časová osa:
   - **2026-08-11** (3 zdrojů) Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
@@ -30,6 +30,7 @@ Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **13**.
   - **2026-08-11** (2 zdrojů) Ukraine says Russia fired North Korean missiles
   - **2026-08-12** (2 zdrojů) Four killed in overnight attacks in southern Russia, Ukraine
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
+  - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 2 dní · 4 záznamů

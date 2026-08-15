@@ -9,42 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag
-- id události: `94761ad38bf7`  ·  rubrika: `tech`  ·  skóre: 81  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **Ars Technica** — Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag
-    <https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/>
-    > Google focuses more on AI and curated experiences than spec upgrades in 2026.
-  - **The Verge** — Google aims for influencers with the Pixel 11 Creator Suite
-    <https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features>
-    > Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators recor
-  - **TechCrunch** — Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features
-    <https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/>
-    > From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.
-  - **The Verge** — The 7 biggest announcements of Google’s Pixel 11 launch
-    <https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced>
-    > Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the event and take a look at everything Google's unveiling, includ
-  - **CNBC Top** — Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple
-    <https://www.cnbc.com/2026/08/12/google-pixel-11-gemini-ai-phone-apple.html>
-    > Google is launching the Pixel 11 lineup weeks before Apple rolls out a rebuilt Siri powered by Gemini AI models.
-  - **The Verge** — Google’s Pixel 11 series pairs a little new hardware with a lot of new software
-    <https://www.theverge.com/tech/978013/google-pixel-11-series-hands-on-hardware-software>
-    > When I first picked up the Pixel 11 Pro this week, it was clear to me that this was one of those refinement years - at least when it comes to hardware. Aesthetically, the phones are as beautiful as ever, with Google's signature camera bar and bright, colorful backing glass. There
-  - **The Verge** — Google is making the Pixel cameras better by making them worse
-    <https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography>
-    > If you look at a photo taken by a smartphone today, it's hard to find much that's technically wrong. Faces are bright and visible. The skies are pristine and blue. Even at night, scenes are well lit and noise-free. If the physical limitations of a tiny camera are what you're tryi
-  - **The Verge** — Google’s Pixel Watch 5 dives deeper into AI and health
-    <https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch>
-    > The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike f
-  - **The Verge** — The Pixel Tag is Google’s answer to the AirTag
-    <https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news>
-    > More than two years after launching its own device-tracking network, Google has finally followed up with its own tracker. The Pixel Tag, which goes on sale in November, looks like one of the more capable trackers too: It combines ultra wideband (UWB) with Bluetooth 6.0 Channel So
-  - **TechCrunch** — Google’s Pixel 11 lineup offers fewer hardware changes, but much more Gemini
-    <https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/>
-    > The Google Pixel 11 series starts $100 costlier than the last year, but offers 256GB base storage.
-
-### 2. Futile Clacton byelection has done Farage no favours
+### 1. Futile Clacton byelection has done Farage no favours
 - id události: `5a0bc875861a`  ·  rubrika: `world`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -64,7 +29,7 @@
     <https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election>
     > The anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton.
 
-### 3. Kennedy Center board approves Trump name on facade, renovation plan
+### 2. Kennedy Center board approves Trump name on facade, renovation plan
 - id události: `48a7d81e65e9`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -81,7 +46,7 @@
     <https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss>
     > Trustees condemn Kennedy Center’s move to re-add Trump’s name and shut down for extensive renovations.
 
-### 4. Donald Trump to declare Hormuz US territory 'soon'
+### 3. Donald Trump to declare Hormuz US territory 'soon'
 - id události: `19a5a4d8911d`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -99,6 +64,23 @@
     > Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
   - **Investing.com** — Iran defiant on strait as Trump tells Americans to accept high gas prices
     <https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490>
+
+### 4. Trump says White House press secretary Karoline Leavitt to leave post
+- id události: `d4578d08ad87`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Trump says White House press secretary Karoline Leavitt to leave post
+    <https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss>
+    > Leavitt will depart from her role to spend time with her young children and family, the president says.
+  - **NPR News** — White House press secretary leaving
+    <https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving>
+    > Karoline Leavitt will continue to be an outside adviser, Trump said
+  - **CNBC Top** — Trump says Karoline Leavitt resigning as White House press secretary
+    <https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html>
+    > Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.
+  - **Al Jazeera** — Trump reveals Karoline Leavitt to step down as White House press secretary
+    <https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss>
+    > Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
 
 ---
 
@@ -130,12 +112,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 17  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 18  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 17
+rubrika: world · sledováno od 2026-08-09 · záznamů: 18
   2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
@@ -153,15 +135,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 17
   2026-08-15  (2 zdrojů, síla 41)  Donald Trump says he faced ‘greater risk’ on swapped plane
   2026-08-15  (2 zdrojů, síla 45)  Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
   2026-08-15  (2 zdrojů, síla 45)  Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+  2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 7  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 8  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 7
+rubrika: world · sledováno od 2026-08-11 · záznamů: 8
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -169,6 +152,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 7
   2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles
   2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine
   2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
+  2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles
 ```
 
 ---

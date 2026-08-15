@@ -5,24 +5,26 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "turkey",
-    "justified",
+    "iran",
     "china",
     "gulf",
-    "east",
-    "taiwan",
-    "tennessee",
-    "lebanon",
-    "hormuz",
-    "iran",
-    "groundhog",
-    "oman",
-    "middle",
-    "trump",
     "iranian",
+    "strait",
+    "states",
+    "east",
+    "tennessee",
     "bluster",
     "donald",
-    "strait"
+    "taiwan",
+    "united",
+    "groundhog",
+    "middle",
+    "lebanon",
+    "oman",
+    "turkey",
+    "hormuz",
+    "trump",
+    "justified"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -41,7 +43,8 @@
     "19a5a4d8911d",
     "f3c480adacd2",
     "01a1c27cf3db",
-    "8aebfd5175f1"
+    "8aebfd5175f1",
+    "def668b7e9dc"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-15",
@@ -238,6 +241,141 @@
       "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
       "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html"
      ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
+     "sources": 2,
+     "score": 40,
+     "event_id": "def668b7e9dc",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1bf4b58ce158",
+   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+   "section": "world",
+   "entities": [
+    "north",
+    "europe",
+    "zelensky",
+    "kyiv",
+    "four",
+    "atacms",
+    "overnight",
+    "korean",
+    "russian",
+    "izmail",
+    "russia",
+    "ukraine",
+    "zelenskyy"
+   ],
+   "event_ids": [
+    "1bf4b58ce158",
+    "ab563eb385f2",
+    "3fc6b4461f50",
+    "a9756de264c6",
+    "b984d1ff1c1f",
+    "84e20c91b19d",
+    "5ee2dd433419",
+    "0ed2f09480ff"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-15",
+   "timeline": [
+    {
+     "date": "2026-08-11",
+     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+     "sources": 3,
+     "score": 62,
+     "event_id": "1bf4b58ce158",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+     "sources": 2,
+     "score": 54,
+     "event_id": "ab563eb385f2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3fc6b4461f50",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a9756de264c6",
+     "links": [
+      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine says Russia fired North Korean missiles",
+     "sources": 2,
+     "score": 46,
+     "event_id": "b984d1ff1c1f",
+     "links": [
+      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
+      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "84e20c91b19d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5ee2dd433419",
+     "links": [
+      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
+      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Ukraine strikes major Russian rocket factory with cruise missiles",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0ed2f09480ff",
+     "links": [
+      "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -403,11 +541,12 @@
    "section": "world",
    "entities": [
     "israeli",
-    "nine",
-    "lebanon"
+    "lebanon",
+    "nine"
    ],
    "event_ids": [
-    "8890d3817dfd"
+    "8890d3817dfd",
+    "3542ce53e50a"
    ],
    "first_seen": "2026-08-15",
    "last_seen": "2026-08-15",
@@ -422,6 +561,17 @@
       "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
       "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Lebanon says 11 killed in Israeli airstrikes",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3542ce53e50a",
+     "links": [
+      "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/deadly-israeli-strikes-in-lebanon-put-peace-talks-at-risk"
      ]
     }
    ]
@@ -562,118 +712,6 @@
       "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
       "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1bf4b58ce158",
-   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-   "section": "world",
-   "entities": [
-    "korean",
-    "zelensky",
-    "kyiv",
-    "russian",
-    "izmail",
-    "overnight",
-    "four",
-    "europe",
-    "north",
-    "ukraine",
-    "atacms",
-    "zelenskyy",
-    "russia"
-   ],
-   "event_ids": [
-    "1bf4b58ce158",
-    "ab563eb385f2",
-    "3fc6b4461f50",
-    "a9756de264c6",
-    "b984d1ff1c1f",
-    "84e20c91b19d",
-    "5ee2dd433419"
-   ],
-   "first_seen": "2026-08-11",
-   "last_seen": "2026-08-13",
-   "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-     "sources": 3,
-     "score": 62,
-     "event_id": "1bf4b58ce158",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-     "sources": 2,
-     "score": 54,
-     "event_id": "ab563eb385f2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3fc6b4461f50",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a9756de264c6",
-     "links": [
-      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine says Russia fired North Korean missiles",
-     "sources": 2,
-     "score": 46,
-     "event_id": "b984d1ff1c1f",
-     "links": [
-      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
-      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
-      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "84e20c91b19d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5ee2dd433419",
-     "links": [
-      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
-      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
      ]
     }
    ]
@@ -1338,5 +1376,5 @@
    ]
   }
  ],
- "updated": "2026-08-15T15:25:02+00:00"
+ "updated": "2026-08-15T18:26:11+00:00"
 }
