@@ -2,15 +2,15 @@
 slug: why-relationships-fail
 title: 'Why Relationships Fail: The Question Nobody Asks Five Times'
 dek: Most breakups are not caused by one dramatic betrayal. They are caused by the
-  same small argument, unresolved, on a loop — and a diagnostic habit built for
-  factory floors explains why almost nobody catches it in time.
+  same small argument, unresolved, on a loop — and a diagnostic habit built for factory
+  floors explains why almost nobody catches it in time.
 section: relationships
 type: daily
 depth: scripture
 lang: en
 date: '2026-08-15'
-status: draft
-confidence: 78
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -35,21 +35,25 @@ sources:
   url: https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A9-12&version=NIV
   published: '2026-08-15'
 impact:
-  areas: [life]
+  areas:
+  - life
   line: Treating a recurring argument as a diagnosable pattern, rather than proof
-    the relationship is doomed, changes what is actually worth addressing — and
-    what is not.
-  todo: 'Next time a familiar fight comes back, write down what was actually said,
-    then ask ''why'' about it five times before deciding what the real issue is.'
+    the relationship is doomed, changes what is actually worth addressing — and what
+    is not.
+  todo: Next time a familiar fight comes back, write down what was actually said,
+    then ask 'why' about it five times before deciding what the real issue is.
 quiz:
   question: According to the Toyota-developed technique described in the article,
     how many times does the "Five Whys" method typically repeat the question "why"
     to reach a root cause?
-  options: ["Three times", "Five times", "Ten times"]
+  options:
+  - Three times
+  - Five times
+  - Ten times
   answer: 1
-  explanation: The technique gets its name from repeating "why" five times, as
-    described by Taiichi Ohno, though the article notes the number can go higher
-    or lower depending on how complex the problem is.
+  explanation: The technique gets its name from repeating "why" five times, as described
+    by Taiichi Ohno, though the article notes the number can go higher or lower depending
+    on how complex the problem is.
 ---
 
 ## BRIEFLY
