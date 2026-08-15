@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-15
 
-Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
+Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **13**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 6 dní · 16 záznamů
+- rubrika `world` · sledováno 6 dní · 17 záznamů
 - časová osa:
-  - **2026-08-11** (2 zdrojů) Trump demands Iran pay compensation for decades of US soldier deaths
   - **2026-08-11** (2 zdrojů) Trump demands compensation from Iran as talks on Strait of Hormuz continue
   - **2026-08-11** (2 zdrojů) Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
   - **2026-08-11** (4 zdrojů) Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
@@ -19,6 +18,7 @@ Paměť obsahuje **26 vláken**. Aktivních za posledních 14 dní: **11**.
   - **2026-08-15** (4 zdrojů) Donald Trump to declare Hormuz US territory 'soon'
   - **2026-08-15** (2 zdrojů) Donald Trump says he faced ‘greater risk’ on swapped plane
   - **2026-08-15** (2 zdrojů) Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
+  - **2026-08-15** (2 zdrojů) Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 2 dní · 7 záznamů

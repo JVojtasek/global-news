@@ -5,22 +5,24 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "lebanon",
-    "donald",
-    "justified",
     "turkey",
+    "justified",
+    "china",
     "gulf",
-    "middle",
-    "bluster",
-    "hormuz",
-    "oman",
-    "tennessee",
-    "strait",
-    "iranian",
-    "groundhog",
-    "trump",
     "east",
-    "iran"
+    "taiwan",
+    "tennessee",
+    "lebanon",
+    "hormuz",
+    "iran",
+    "groundhog",
+    "oman",
+    "middle",
+    "trump",
+    "iranian",
+    "bluster",
+    "donald",
+    "strait"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -38,7 +40,8 @@
     "3eaa33015060",
     "19a5a4d8911d",
     "f3c480adacd2",
-    "01a1c27cf3db"
+    "01a1c27cf3db",
+    "8aebfd5175f1"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-15",
@@ -224,6 +227,17 @@
       "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
       "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748"
      ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8aebfd5175f1",
+     "links": [
+      "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html"
+     ]
     }
    ]
   },
@@ -292,6 +306,122 @@
       "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
       "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
       "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "534775643230",
+   "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+   "section": "sport",
+   "entities": [
+    "finlay",
+    "britain's",
+    "volta",
+    "portugal",
+    "tarling's",
+    "tarling",
+    "briton's"
+   ],
+   "event_ids": [
+    "534775643230",
+    "8b20512848d7"
+   ],
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-08-15",
+   "timeline": [
+    {
+     "date": "2026-08-14",
+     "headline": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+     "sources": 4,
+     "score": 62,
+     "event_id": "534775643230",
+     "links": [
+      "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/14/british-cyclist-finlay-tarling-19-dies-in-volta-a-portugal-accident"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Tarling's team withdraws from Volta a Portugal after Briton's death",
+     "sources": 2,
+     "score": 46,
+     "event_id": "8b20512848d7",
+     "links": [
+      "https://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/15/finlay-tarling-nsn-withdraw-volta-a-portugal-death-cycling"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f2d111d4fd57",
+   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+   "section": "science",
+   "entities": [
+    "drone",
+    "korea",
+    "south",
+    "north"
+   ],
+   "event_ids": [
+    "f2d111d4fd57",
+    "20472af8545b"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-15",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+     "sources": 2,
+     "score": 56,
+     "event_id": "f2d111d4fd57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "South Korea proposes talks to officially end war with North",
+     "sources": 2,
+     "score": 46,
+     "event_id": "20472af8545b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8890d3817dfd",
+   "title": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+   "section": "world",
+   "entities": [
+    "israeli",
+    "nine",
+    "lebanon"
+   ],
+   "event_ids": [
+    "8890d3817dfd"
+   ],
+   "first_seen": "2026-08-15",
+   "last_seen": "2026-08-15",
+   "timeline": [
+    {
+     "date": "2026-08-15",
+     "headline": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+     "sources": 3,
+     "score": 63,
+     "event_id": "8890d3817dfd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss"
      ]
     }
    ]
@@ -432,37 +562,6 @@
       "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
       "https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "534775643230",
-   "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-   "section": "sport",
-   "entities": [
-    "portugal",
-    "volta",
-    "tarling",
-    "britain's",
-    "finlay"
-   ],
-   "event_ids": [
-    "534775643230"
-   ],
-   "first_seen": "2026-08-14",
-   "last_seen": "2026-08-14",
-   "timeline": [
-    {
-     "date": "2026-08-14",
-     "headline": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-     "sources": 4,
-     "score": 62,
-     "event_id": "534775643230",
-     "links": [
-      "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/14/british-cyclist-finlay-tarling-19-dies-in-volta-a-portugal-accident"
      ]
     }
    ]
@@ -1237,36 +1336,7 @@
      ]
     }
    ]
-  },
-  {
-   "id": "f2d111d4fd57",
-   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-   "section": "science",
-   "entities": [
-    "drone",
-    "korea",
-    "south"
-   ],
-   "event_ids": [
-    "f2d111d4fd57"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-09",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-     "sources": 2,
-     "score": 56,
-     "event_id": "f2d111d4fd57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
-     ]
-    }
-   ]
   }
  ],
- "updated": "2026-08-15T09:25:38+00:00"
+ "updated": "2026-08-15T12:26:48+00:00"
 }
