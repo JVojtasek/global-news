@@ -1,43 +1,55 @@
 ---
 slug: near-death-experience-evidence
-title: "The Split Verdict on Near-Death Experiences: What the Evidence Actually Shows"
-dek: "Roughly one in five people revived from cardiac arrest report a vivid experience from the time their heart had stopped. Researchers agree that much. What it means is where they split."
+title: 'The Split Verdict on Near-Death Experiences: What the Evidence Actually Shows'
+dek: Roughly one in five people revived from cardiac arrest report a vivid experience
+  from the time their heart had stopped. Researchers agree that much. What it means
+  is where they split.
 section: meaning
 type: analysis
 depth: scripture
 lang: en
-date: 2026-08-15
-status: draft
-confidence: 73
+date: '2026-08-15'
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
+format: ''
+event_id: ''
+series: ''
 image_query: hospital corridor dim light
 sources:
-  - name: "Wikipedia — Near-death experience"
-    url: "https://en.wikipedia.org/wiki/Near-death_experience"
-    published: "2026-08-15"
-  - name: "Wikipedia — Sam Parnia"
-    url: "https://en.wikipedia.org/wiki/Sam_Parnia"
-    published: "2026-08-15"
-  - name: "Wikipedia — Out-of-body experience"
-    url: "https://en.wikipedia.org/wiki/Out-of-body_experience"
-    published: "2026-08-15"
+- name: Wikipedia — Near-death experience
+  url: https://en.wikipedia.org/wiki/Near-death_experience
+  published: '2026-08-15'
+- name: Wikipedia — Sam Parnia
+  url: https://en.wikipedia.org/wiki/Sam_Parnia
+  published: '2026-08-15'
+- name: Wikipedia — Out-of-body experience
+  url: https://en.wikipedia.org/wiki/Out-of-body_experience
+  published: '2026-08-15'
 impact:
-  areas: [life]
-  line: "Nobody's medical care changes because of this research; what changes is how much weight it is fair to put on a vivid personal account of dying, in either direction."
-  todo: "Check whether a near-death account was recorded close to the event or recalled years later — the gap changes how much weight it can fairly carry."
+  areas:
+  - life
+  line: Nobody's medical care changes because of this research; what changes is how
+    much weight it is fair to put on a vivid personal account of dying, in either
+    direction.
+  todo: Check whether a near-death account was recorded close to the event or recalled
+    years later — the gap changes how much weight it can fairly carry.
 quiz:
-  question: "According to the article, what did researcher Sam Parnia's studies place in hospital resuscitation areas to test near-death accounts?"
-  options: ["Hidden visual targets placed out of normal sightlines", "Extra oxygen monitors on the ceiling", "Recorded interviews playing during surgery"]
+  question: According to the article, what did researcher Sam Parnia's studies place
+    in hospital resuscitation areas to test near-death accounts?
+  options:
+  - Hidden visual targets placed out of normal sightlines
+  - Extra oxygen monitors on the ceiling
+  - Recorded interviews playing during surgery
   answer: 0
-  explanation: "The article describes Parnia's studies placing hidden visual targets, out of normal sightlines, specifically to check whether anyone reporting an out-of-body perspective could describe something they had no ordinary way of seeing."
+  explanation: The article describes Parnia's studies placing hidden visual targets,
+    out of normal sightlines, specifically to check whether anyone reporting an out-of-body
+    perspective could describe something they had no ordinary way of seeing.
 ---
 
 ## BRIEFLY
