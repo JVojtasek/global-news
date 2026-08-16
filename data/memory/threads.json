@@ -5,26 +5,27 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "iran",
-    "china",
-    "gulf",
-    "iranian",
-    "strait",
-    "states",
+    "trump",
+    "justified",
     "east",
-    "tennessee",
-    "bluster",
-    "donald",
-    "taiwan",
-    "united",
+    "iran",
     "groundhog",
+    "bluster",
+    "states",
+    "donald",
     "middle",
     "lebanon",
+    "strait",
     "oman",
-    "turkey",
     "hormuz",
-    "trump",
-    "justified"
+    "china",
+    "qatar",
+    "iranian",
+    "turkey",
+    "tennessee",
+    "gulf",
+    "taiwan",
+    "united"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -44,10 +45,11 @@
     "f3c480adacd2",
     "01a1c27cf3db",
     "8aebfd5175f1",
-    "def668b7e9dc"
+    "def668b7e9dc",
+    "0e11f2f770e0"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-15",
+   "last_seen": "2026-08-16",
    "timeline": [
     {
      "date": "2026-08-09",
@@ -251,6 +253,17 @@
      "links": [
       "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
       "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0e11f2f770e0",
+     "links": [
+      "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
      ]
     }
    ]
@@ -1376,5 +1389,5 @@
    ]
   }
  ],
- "updated": "2026-08-16T00:27:56+00:00"
+ "updated": "2026-08-16T03:32:51+00:00"
 }
