@@ -1,49 +1,63 @@
 ---
 slug: france-social-media-ban-blocked-parents
-title: "France's Top Court Just Blocked a Teen Social Media Ban — What That Leaves Parents Holding"
-dek: "France's Constitutional Council struck down a law banning social media for under-15s on free-expression grounds, leaving parents right back where they started: alone with the decision."
+title: France's Top Court Just Blocked a Teen Social Media Ban — What That Leaves
+  Parents Holding
+dek: 'France''s Constitutional Council struck down a law banning social media for
+  under-15s on free-expression grounds, leaving parents right back where they started:
+  alone with the decision.'
 section: parenting
 type: analysis
 depth: open
 lang: en
 date: '2026-08-16'
-status: draft
-confidence: 84
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: "feba530ce504"
-series: ""
+format: ''
+event_id: feba530ce504
+series: ''
 image_query: teenager smartphone bedroom night
 sources:
-  - name: "BBC World — France's top court blocks social media ban for under-15s"
-    url: "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss"
-    published: "2026-08-14"
-  - name: "The Guardian — French court blocks Macron's social media ban for under-15s"
-    url: "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s"
-    published: "2026-08-14"
-  - name: "Al Jazeera — Top French court upholds assisted dying law, rejects teen social media ban"
-    url: "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss"
-    published: "2026-08-14"
-  - name: "France 24 — France blocks under 15 social media ban"
-    url: "https://www.france24.com/en/france-blocks-under-15-social-media-ban"
-    published: "2026-08-14"
+- name: BBC World — France's top court blocks social media ban for under-15s
+  url: https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss
+  published: '2026-08-14'
+- name: The Guardian — French court blocks Macron's social media ban for under-15s
+  url: https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s
+  published: '2026-08-14'
+- name: Al Jazeera — Top French court upholds assisted dying law, rejects teen social
+    media ban
+  url: https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss
+  published: '2026-08-14'
+- name: France 24 — France blocks under 15 social media ban
+  url: https://www.france24.com/en/france-blocks-under-15-social-media-ban
+  published: '2026-08-14'
 impact:
-  areas: [life, safety]
-  line: "For most readers outside France this changes no law today, but it's a live example of a child social-media ban failing a court test on free-expression and privacy grounds, not on effectiveness."
-  todo: "Check whether your own country requires age verification or parental consent for social media accounts, and who actually enforces it — the platform, the app store, or no one."
+  areas:
+  - life
+  - safety
+  line: For most readers outside France this changes no law today, but it's a live
+    example of a child social-media ban failing a court test on free-expression and
+    privacy grounds, not on effectiveness.
+  todo: Check whether your own country requires age verification or parental consent
+    for social media accounts, and who actually enforces it — the platform, the app
+    store, or no one.
 quiz:
-  question: "On what grounds did France's Constitutional Council block the under-15 social media ban?"
+  question: On what grounds did France's Constitutional Council block the under-15
+    social media ban?
   options:
-    - "It would have cost too much to enforce"
-    - "It infringed freedom of expression and privacy"
-    - "Social media platforms threatened to leave France"
+  - It would have cost too much to enforce
+  - It infringed freedom of expression and privacy
+  - Social media platforms threatened to leave France
   answer: 1
-  explanation: "The BBC, Guardian, Al Jazeera and France 24 all reported the same legal grounds: the Council found the ban infringed freedom of expression and privacy, not that it was unworkable or unpopular."
+  explanation: 'The BBC, Guardian, Al Jazeera and France 24 all reported the same
+    legal grounds: the Council found the ban infringed freedom of expression and privacy,
+    not that it was unworkable or unpopular.'
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

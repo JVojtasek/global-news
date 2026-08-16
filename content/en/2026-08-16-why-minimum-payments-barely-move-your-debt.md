@@ -1,46 +1,55 @@
 ---
 slug: why-minimum-payments-barely-move-your-debt
-title: "Why Your Minimum Payment Barely Moves Your Debt — The Arithmetic Behind It"
-dek: "A credit card's minimum payment is often close to exactly what one month's interest costs — which means most of it is paying the lender, not shrinking what you owe."
+title: Why Your Minimum Payment Barely Moves Your Debt — The Arithmetic Behind It
+dek: A credit card's minimum payment is often close to exactly what one month's interest
+  costs — which means most of it is paying the lender, not shrinking what you owe.
 section: business
 type: analysis
 depth: scripture
 lang: en
 date: '2026-08-16'
-status: draft
-confidence: 83
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
+format: ''
+event_id: ''
+series: ''
 image_query: credit card statement calculator
 sources:
-  - name: "Wikipedia — Compound interest"
-    url: "https://en.wikipedia.org/wiki/Compound_interest"
-    published: ""
-  - name: "Wikipedia — Annual percentage rate"
-    url: "https://en.wikipedia.org/wiki/Annual_percentage_rate"
-    published: ""
-  - name: "Wikipedia — Credit score"
-    url: "https://en.wikipedia.org/wiki/Credit_score"
-    published: ""
+- name: Wikipedia — Compound interest
+  url: https://en.wikipedia.org/wiki/Compound_interest
+  published: ''
+- name: Wikipedia — Annual percentage rate
+  url: https://en.wikipedia.org/wiki/Annual_percentage_rate
+  published: ''
+- name: Wikipedia — Credit score
+  url: https://en.wikipedia.org/wiki/Credit_score
+  published: ''
 impact:
-  areas: [money]
-  line: "Anyone carrying a revolving balance — on a credit card, store card or line of credit — is affected by this math every single billing cycle, whether or not the statement makes it obvious."
-  todo: "Find your card's APR on your statement, divide it by 12, and multiply by your current balance. That's roughly this month's interest — compare it to your minimum payment."
+  areas:
+  - money
+  line: Anyone carrying a revolving balance — on a credit card, store card or line
+    of credit — is affected by this math every single billing cycle, whether or not
+    the statement makes it obvious.
+  todo: Find your card's APR on your statement, divide it by 12, and multiply by your
+    current balance. That's roughly this month's interest — compare it to your minimum
+    payment.
 quiz:
-  question: "Why can a minimum payment fail to meaningfully reduce a credit card balance?"
+  question: Why can a minimum payment fail to meaningfully reduce a credit card balance?
   options:
-    - "Banks are legally required to apply payments to the newest purchases first"
-    - "The minimum payment can be close to the interest charged that same month, leaving little to reduce the principal"
-    - "Minimum payments are only accepted once a year"
+  - Banks are legally required to apply payments to the newest purchases first
+  - The minimum payment can be close to the interest charged that same month, leaving
+    little to reduce the principal
+  - Minimum payments are only accepted once a year
   answer: 1
-  explanation: "When a card's minimum payment formula lands near the month's interest charge, most or all of the payment covers interest rather than reducing what's actually owed."
+  explanation: When a card's minimum payment formula lands near the month's interest
+    charge, most or all of the payment covers interest rather than reducing what's
+    actually owed.
 ---
 
 ## BRIEFLY

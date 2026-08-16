@@ -1,49 +1,60 @@
 ---
 slug: why-ai-still-makes-things-up
-title: "Why AI Still Makes Things Up — And the One Habit That Catches It"
-dek: "Chatbots don't lie the way people lie. They predict plausible text, and a confident, fabricated case citation is just as 'plausible' to the model as a real one."
+title: Why AI Still Makes Things Up — And the One Habit That Catches It
+dek: Chatbots don't lie the way people lie. They predict plausible text, and a confident,
+  fabricated case citation is just as 'plausible' to the model as a real one.
 section: ai
 type: analysis
 depth: open
 lang: en
 date: '2026-08-16'
-status: draft
-confidence: 82
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
+format: ''
+event_id: ''
+series: ''
 image_query: computer screen glitching text
 sources:
-  - name: "Wikipedia — Mata v. Avianca, Inc."
-    url: "https://en.wikipedia.org/wiki/Mata_v._Avianca,_Inc."
-    published: ""
-  - name: "Wikipedia — Hallucination (artificial intelligence)"
-    url: "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
-    published: ""
-  - name: "Wikipedia — Large language model"
-    url: "https://en.wikipedia.org/wiki/Large_language_model"
-    published: ""
-  - name: "Lin, Hilton, Evans — TruthfulQA: Measuring How Models Mimic Human Falsehoods"
-    url: "https://arxiv.org/abs/2109.07958"
-    published: "2021-09-08"
+- name: Wikipedia — Mata v. Avianca, Inc.
+  url: https://en.wikipedia.org/wiki/Mata_v._Avianca,_Inc.
+  published: ''
+- name: Wikipedia — Hallucination (artificial intelligence)
+  url: https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
+  published: ''
+- name: Wikipedia — Large language model
+  url: https://en.wikipedia.org/wiki/Large_language_model
+  published: ''
+- name: 'Lin, Hilton, Evans — TruthfulQA: Measuring How Models Mimic Human Falsehoods'
+  url: https://arxiv.org/abs/2109.07958
+  published: '2021-09-08'
 impact:
-  areas: [life, money]
-  line: "Anyone who uses a chatbot for research, writing or legal or medical questions is exposed to this: fabricated citations, dates, and quotes that read as confidently as true ones."
-  todo: "Before you rely on any specific name, number, date or quote an AI gives you, search for it independently — the model itself cannot reliably tell you which of its own claims are real."
+  areas:
+  - life
+  - money
+  line: 'Anyone who uses a chatbot for research, writing or legal or medical questions
+    is exposed to this: fabricated citations, dates, and quotes that read as confidently
+    as true ones.'
+  todo: Before you rely on any specific name, number, date or quote an AI gives you,
+    search for it independently — the model itself cannot reliably tell you which
+    of its own claims are real.
 quiz:
-  question: "According to this article, why do language models produce confident false statements instead of saying 'I don't know'?"
+  question: According to this article, why do language models produce confident false
+    statements instead of saying 'I don't know'?
   options:
-    - "They are deliberately programmed to deceive users"
-    - "They predict plausible-sounding text and rarely saw honest uncertainty rewarded in training"
-    - "They run out of processing power partway through an answer"
+  - They are deliberately programmed to deceive users
+  - They predict plausible-sounding text and rarely saw honest uncertainty rewarded
+    in training
+  - They run out of processing power partway through an answer
   answer: 1
-  explanation: "The mechanism is statistical prediction of likely text, shaped by training and feedback that tends to favor fluent, confident answers over hedged or uncertain ones."
+  explanation: The mechanism is statistical prediction of likely text, shaped by training
+    and feedback that tends to favor fluent, confident answers over hedged or uncertain
+    ones.
 ---
 
 ## BRIEFLY
