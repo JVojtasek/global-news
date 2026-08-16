@@ -7,8 +7,8 @@ section: science
 type: feature
 depth: open
 lang: en
-date: '2026-08-13'
-status: reserve
+date: '2026-08-16'
+status: published
 confidence: 94
 load: 0
 topics: []
@@ -47,16 +47,14 @@ quiz:
     intentional sharing, kin preference and forest-wide effects remain unsettled or
     unsupported.
 impact:
-  areas: [life]
-  line: >-
-    For anyone reading forest or gardening claims: real experiments show
-    carbon can move between some plants through shared fungi, but the
-    popular idea of trees deliberately feeding relatives across a forest
-    network remains unproven.
-  todo: >-
-    Before repeating a "wood-wide web" claim, check whether the study
-    excluded root and soil pathways and measured real tree growth or
-    survival, not only a fungal connection.
+  areas:
+  - life
+  line: 'For anyone reading forest or gardening claims: real experiments show carbon
+    can move between some plants through shared fungi, but the popular idea of trees
+    deliberately feeding relatives across a forest network remains unproven.'
+  todo: Before repeating a "wood-wide web" claim, check whether the study excluded
+    root and soil pathways and measured real tree growth or survival, not only a fungal
+    connection.
 ---
 
 ## BRIEFLY
