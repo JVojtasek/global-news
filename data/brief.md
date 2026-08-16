@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-15
+# ZADÁNÍ PRO REDAKCI — 2026-08-16
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -65,33 +65,33 @@
   - **Investing.com** — Iran defiant on strait as Trump tells Americans to accept high gas prices
     <https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490>
 
-### 4. Trump says White House press secretary Karoline Leavitt to leave post
-- id události: `d4578d08ad87`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+### 4. France's top court blocks social media ban for under-15s
+- id události: `feba530ce504`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Trump says White House press secretary Karoline Leavitt to leave post
-    <https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss>
-    > Leavitt will depart from her role to spend time with her young children and family, the president says.
-  - **NPR News** — White House press secretary leaving
-    <https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving>
-    > Karoline Leavitt will continue to be an outside adviser, Trump said
-  - **CNBC Top** — Trump says Karoline Leavitt resigning as White House press secretary
-    <https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html>
-    > Leavitt, the youngest White House press secretary ever, gave birth in May to a girl, her second child.
-  - **Al Jazeera** — Trump reveals Karoline Leavitt to step down as White House press secretary
-    <https://www.aljazeera.com/news/2026/8/12/trump-reveals-karoline-leavitt-to-step-down-as-white-house-press-secretary?traffic_source=rss>
-    > Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.
+  - **BBC World** — France's top court blocks social media ban for under-15s
+    <https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss>
+    > The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.
+  - **The Guardian World** — French court blocks Macron’s social media ban for under-15s
+    <https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s>
+    > Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy. The decision is a blow to Pr
+  - **Al Jazeera** — Top French court upholds assisted dying law, rejects teen social media ban
+    <https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss>
+    > The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
+  - **France 24** — France blocks under 15 social media ban
+    <https://www.france24.com/en/france-blocks-under-15-social-media-ban>
+    > France’s Constitutional Council has blocked a bill that would have banned social media access for under-15s, ruling that it infringed on freedom of expression. It’s a setback for President Emmanuel Macron, who has championed the legislation and has now asked his prime minister to
 
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### why relationships fail
-- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
