@@ -33,12 +33,13 @@ Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **14**.
   - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 2 dní · 4 záznamů
+- rubrika `world` · sledováno 3 dní · 5 záznamů
 - časová osa:
   - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
   - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
   - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
   - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
+  - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
 
 ### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
 - rubrika `world` · sledováno 0 dní · 4 záznamů
