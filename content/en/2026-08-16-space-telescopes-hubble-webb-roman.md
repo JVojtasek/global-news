@@ -1,48 +1,62 @@
 ---
 slug: space-telescopes-hubble-webb-roman
-title: "The Blurry Mirror That Explains Why We Build Telescopes in Space"
-dek: "A telescope in orbit escapes the atmosphere that blocks and blurs light from the ground — a trade that has taken astronomers eight decades, several funding crises and one very embarrassing mirror to get right."
+title: The Blurry Mirror That Explains Why We Build Telescopes in Space
+dek: A telescope in orbit escapes the atmosphere that blocks and blurs light from
+  the ground — a trade that has taken astronomers eight decades, several funding crises
+  and one very embarrassing mirror to get right.
 section: science
 type: daily
 depth: open
 lang: en
-date: 2026-08-16
-status: draft
-confidence: 90
+date: '2026-08-16'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
-image_query: "space telescope orbit illustration"
+format: ''
+event_id: ''
+series: ''
+image_query: space telescope orbit illustration
 sources:
-  - name: "Wikipedia — Space telescope"
-    url: "https://en.wikipedia.org/wiki/Space_telescope"
-    published: "2026"
-  - name: "Wikipedia — Hubble Space Telescope"
-    url: "https://en.wikipedia.org/wiki/Hubble_Space_Telescope"
-    published: "2026"
-  - name: "Wikipedia — James Webb Space Telescope"
-    url: "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
-    published: "2026"
-  - name: "Wikipedia — Nancy Grace Roman Space Telescope"
-    url: "https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope"
-    published: "2026"
-qma_path: ""
+- name: Wikipedia — Space telescope
+  url: https://en.wikipedia.org/wiki/Space_telescope
+  published: '2026'
+- name: Wikipedia — Hubble Space Telescope
+  url: https://en.wikipedia.org/wiki/Hubble_Space_Telescope
+  published: '2026'
+- name: Wikipedia — James Webb Space Telescope
+  url: https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
+  published: '2026'
+- name: Wikipedia — Nancy Grace Roman Space Telescope
+  url: https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope
+  published: '2026'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why did the James Webb Space Telescope need a mirror two and a half times wider than Hubble's just to reach similar image sharpness?"
-  options: ["It orbits much farther from Earth than Hubble does", "It observes longer infrared wavelengths, which need more mirror area to match the same resolution", "Its instruments are older and less precise than Hubble's"]
+  question: Why did the James Webb Space Telescope need a mirror two and a half times
+    wider than Hubble's just to reach similar image sharpness?
+  options:
+  - It orbits much farther from Earth than Hubble does
+  - It observes longer infrared wavelengths, which need more mirror area to match
+    the same resolution
+  - Its instruments are older and less precise than Hubble's
   answer: 1
-  explanation: "Resolution depends on both wavelength and mirror size. Because Webb observes in the infrared instead of visible light, it needs a much larger mirror to see as sharply as Hubble does in visible light."
+  explanation: Resolution depends on both wavelength and mirror size. Because Webb
+    observes in the infrared instead of visible light, it needs a much larger mirror
+    to see as sharply as Hubble does in visible light.
 impact:
-  areas: [life]
-  line: "For almost every reader, this changes nothing day to day — it is publicly funded basic-science infrastructure, not a product or service. Its value is what it teaches, not what it delivers to your door."
-  todo: "If you're curious where the money goes, NASA, ESA and CSA all publish mission budgets and timelines directly rather than through secondhand headlines."
+  areas:
+  - life
+  line: For almost every reader, this changes nothing day to day — it is publicly
+    funded basic-science infrastructure, not a product or service. Its value is what
+    it teaches, not what it delivers to your door.
+  todo: If you're curious where the money goes, NASA, ESA and CSA all publish mission
+    budgets and timelines directly rather than through secondhand headlines.
+review_reason: 'citlivé téma: election'
 ---
 
 ## BRIEFLY

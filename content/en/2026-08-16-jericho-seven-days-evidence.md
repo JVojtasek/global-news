@@ -1,45 +1,59 @@
 ---
 slug: jericho-seven-days-evidence
-title: "The Seven Days at Jericho — and What the Ground Underneath Actually Shows"
-dek: "Joshua 6 describes a ritual, not a siege: six silent days, then trumpets and a shout on the seventh. Decades of excavation at the site have not settled when, or even whether, a city fell there to match it."
+title: The Seven Days at Jericho — and What the Ground Underneath Actually Shows
+dek: 'Joshua 6 describes a ritual, not a siege: six silent days, then trumpets and
+  a shout on the seventh. Decades of excavation at the site have not settled when,
+  or even whether, a city fell there to match it.'
 section: history
 type: analysis
 depth: scripture
 lang: en
-date: 2026-08-16
-status: draft
-confidence: 78
+date: '2026-08-16'
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: "Great Battles of the Bible"
-image_query: "ancient city ruins excavation site"
+format: ''
+event_id: ''
+series: Great Battles of the Bible
+image_query: ancient city ruins excavation site
 sources:
-  - name: "Bible Gateway — Joshua 6"
-    url: "https://www.biblegateway.com/passage/?search=Joshua%206"
-    published: ""
-  - name: "Wikipedia — Jericho"
-    url: "https://en.wikipedia.org/wiki/Jericho"
-    published: "2026"
-  - name: "Wikipedia — Kathleen Kenyon"
-    url: "https://en.wikipedia.org/wiki/Kathleen_Kenyon"
-    published: "2026"
-qma_path: ""
+- name: Bible Gateway — Joshua 6
+  url: https://www.biblegateway.com/passage/?search=Joshua%206
+  published: ''
+- name: Wikipedia — Jericho
+  url: https://en.wikipedia.org/wiki/Jericho
+  published: '2026'
+- name: Wikipedia — Kathleen Kenyon
+  url: https://en.wikipedia.org/wiki/Kathleen_Kenyon
+  published: '2026'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What did Kathleen Kenyon's mid-20th-century excavation change about the earlier claim that a fallen city wall at Jericho matched Joshua's conquest?"
-  options: ["She confirmed the wall dated to around 1400 BC as first claimed", "She showed the wall Garstang had linked to the conquest actually belonged to a much earlier period", "She proved the site had never been walled at all"]
+  question: What did Kathleen Kenyon's mid-20th-century excavation change about the
+    earlier claim that a fallen city wall at Jericho matched Joshua's conquest?
+  options:
+  - She confirmed the wall dated to around 1400 BC as first claimed
+  - She showed the wall Garstang had linked to the conquest actually belonged to a
+    much earlier period
+  - She proved the site had never been walled at all
   answer: 1
-  explanation: "Kenyon's more careful stratigraphic work reassigned the wall John Garstang had connected to the conquest era to the far earlier Early Bronze Age, which reopened the whole dating question."
+  explanation: Kenyon's more careful stratigraphic work reassigned the wall John Garstang
+    had connected to the conquest era to the far earlier Early Bronze Age, which reopened
+    the whole dating question.
 impact:
-  areas: [life]
-  line: "This does not change anyone's day-to-day life; the point of the piece is what it means to hold a story and unsettled evidence at the same time, not a call to action."
-  todo: "If you want to check the underlying dispute yourself, Kathleen Kenyon's excavation reports and Bryant Wood's rebuttal are both in the public academic record and searchable by name."
+  areas:
+  - life
+  line: This does not change anyone's day-to-day life; the point of the piece is what
+    it means to hold a story and unsettled evidence at the same time, not a call to
+    action.
+  todo: If you want to check the underlying dispute yourself, Kathleen Kenyon's excavation
+    reports and Bryant Wood's rebuttal are both in the public academic record and
+    searchable by name.
 ---
 
 ## BRIEFLY
