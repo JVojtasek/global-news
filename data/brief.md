@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **1**
+- Článků v zásobě: **0**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -112,12 +112,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 19  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 20  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 19
+rubrika: world · sledováno od 2026-08-09 · záznamů: 20
   2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
   2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
@@ -137,6 +137,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 19
   2026-08-15  (2 zdrojů, síla 45)  Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
   2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’
   2026-08-16  (2 zdrojů, síla 42)  Iran war: Qatar denies holding missing Iranian fighter pilots
+  2026-08-16  (2 zdrojů, síla 42)  Qatar denies capturing three Iranian pilots after downing fighter jets
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
