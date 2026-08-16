@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-boom-kdyz-poptavka-stoji-jen-na-par-velkych-odberatelich--analyza-340097
+impact:
+  areas: [money]
+  line: "Týká se hlavně každého, kdo drží technologické nebo AI akcie přes fondy nebo penzijní spoření: velká část dnešní 'AI poptávky' se odvíjí od malého počtu velkých odběratelů."
+  todo: "Firmy obvykle v hovorech k výsledkům přímo uvádějí koncentraci zákazníků a stav zakázek, chcete-li si expozici konkrétní akcie ověřit sami."
 ---
 
 U AI nestačí sledovat, kdo prodává čipy; klíčové je ověřovat, zda za poptávkou stojí široká adopce, nebo několik málo velkých plátců, jejichž zpomalení by mohlo přecenit celý řetězec.

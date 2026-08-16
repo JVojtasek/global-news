@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-boom-kdyz-poptavka-stoji-jen-na-par-velkych-odberatelich--analyza-340097
+impact:
+  areas: [money]
+  line: "Mainly relevant to anyone holding tech or AI-adjacent stocks through funds or a pension: a lot of current 'AI demand' traces back to a small number of large buyers."
+  todo: "Company earnings calls usually disclose customer concentration and order backlog directly, if you want to check a specific stock's exposure yourself."
 ---
 
 For AI, it is not enough to watch who is selling the chips; what matters is checking whether demand rests on broad adoption, or on a handful of large payers whose slowdown could reprice the whole chain.

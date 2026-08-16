@@ -21,6 +21,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/united-bancshares-levna-podle-ucetnictvi-ale-co-marze-a-uver-analyza-339808
+impact:
+  areas: [money]
+  line: "Mainly relevant to investors watching micro-cap bank stocks like UBOH: a price below book value is not proof of a bargain by itself. For most readers, this doesn't touch daily finances at all."
+  todo: "A bank's investor-relations filings publish tangible book value and capital ratios directly, if you want to check a specific stock beyond the headline discount."
 ---
 
 For micro-cap banks, a discount to book value is not enough on its own — check tangible book value, AOCI/HTM losses, capital ratios, margin and hard credit-quality metrics, or a cheap stock can just be a well-wrapped value trap.

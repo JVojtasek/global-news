@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/shein-vs-temu-pravni-spor-brzdi-jen-par-fotek-nebo-cely-kata-analyza-339941
+impact:
+  areas: [money]
+  line: "Mainly relevant to investors in online fashion platforms; for shoppers themselves, this likely means more similar-looking products across apps, not any change in prices."
+  todo: "Court filings in disputes like this one are public record, if you want to see exactly what was and wasn't ruled as infringing."
 ---
 
 For fast-fashion platforms, watch whether a legal dispute touches just a few product photos or slows the whole catalogue engine, because content speed is their real currency.

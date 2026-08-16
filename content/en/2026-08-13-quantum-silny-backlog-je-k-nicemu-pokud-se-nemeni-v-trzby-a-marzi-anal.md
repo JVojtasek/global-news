@@ -19,6 +19,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/quantum-silny-backlog-je-k-nicemu-pokud-se-nemeni-v-trzby-a--analyza-339933
+impact:
+  areas: [money]
+  line: "Mainly relevant to investors in hardware and storage stocks like Quantum Corp (QMCO): a rising backlog is not the same as delivered revenue. For most readers, this changes nothing directly."
+  todo: "Quarterly earnings releases publish backlog and revenue side by side, if you want to check the gap yourself for a specific company."
 ---
 
 A strong backlog is only useful once it turns into revenue and margin — otherwise the valuation can outrun the reality of actual deliveries.

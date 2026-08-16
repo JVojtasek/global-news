@@ -19,6 +19,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/quantum-silny-backlog-je-k-nicemu-pokud-se-nemeni-v-trzby-a--analyza-339933
+impact:
+  areas: [money]
+  line: "Týká se hlavně investorů do hardwarových a skladovacích akcií jako Quantum Corp (QMCO): rostoucí backlog není totéž co skutečně dodané tržby. Většině čtenářů se tím nemění nic přímo."
+  todo: "Čtvrtletní výsledky firem zveřejňují backlog i tržby vedle sebe, chcete-li si ten rozdíl u konkrétní firmy ověřit sami."
 ---
 
 Silný backlog je užitečný jen tehdy, když se mění v tržby a marže — jinak může valuace předběhnout realitu dodávek.

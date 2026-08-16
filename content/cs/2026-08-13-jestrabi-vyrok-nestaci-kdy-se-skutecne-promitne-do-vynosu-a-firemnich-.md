@@ -19,6 +19,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/jestrabi-vyrok-nestaci-kdy-se-skutecne-promitne-do-vynosu-a--analyza-340099
+impact:
+  areas: [money]
+  line: "Výrok jednoho člena Fedu sám o sobě politiku neurčuje. Na spoření, hypotéky a úvěry začne mít vliv, až ho zopakují další činitelé a projeví se ve skutečných výnosech dluhopisů."
+  todo: "Výnos dvouletého amerického státního dluhopisu rychle ukáže, jestli trh na podobný výrok skutečně reaguje, nebo ho ignoruje."
 ---
 
 Jeden jestřábí výrok není nový kurz Fedu; význam má až tehdy, když se propíše do výnosů, kreditních spreadů a firemních plánů investic.

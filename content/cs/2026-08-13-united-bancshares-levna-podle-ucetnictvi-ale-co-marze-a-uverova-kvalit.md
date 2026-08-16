@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/united-bancshares-levna-podle-ucetnictvi-ale-co-marze-a-uver-analyza-339808
+impact:
+  areas: [money]
+  line: "Týká se hlavně investorů sledujících akcie malých bank jako UBOH: cena pod účetní hodnotou sama o sobě není důkaz výhodné koupě. Většině čtenářů se tím v běžných financích nemění nic."
+  todo: "Hmotnou účetní hodnotu a kapitálové poměry banky najdete přímo v jejích investorských výkazech, chcete-li si konkrétní akcii ověřit sami."
 ---
 
 U mikro-bank nestačí sleva k účetní hodnotě: ověřte hmotnou účetní hodnotu, AOCI/HTM ztráty, kapitálové poměry, marži a tvrdé ukazatele úvěrové kvality, jinak může levná akcie být jen dobře zabalená value past.

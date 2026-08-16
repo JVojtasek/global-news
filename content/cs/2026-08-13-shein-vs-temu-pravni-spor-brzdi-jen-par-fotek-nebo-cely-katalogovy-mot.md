@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/shein-vs-temu-pravni-spor-brzdi-jen-par-fotek-nebo-cely-kata-analyza-339941
+impact:
+  areas: [money]
+  line: "Týká se hlavně investorů do online módních platforem; pro samotné zákazníky to pravděpodobně znamená víc podobně vypadajícího zboží napříč aplikacemi, ne změnu cen."
+  todo: "Soudní spisy u podobných sporů o autorská práva jsou veřejně dostupné, chcete-li si přesně ověřit, co bylo a nebylo shledáno porušením."
 ---
 
 U fast-fashion platforem sledujte, zda právní spor zasahuje jen pár fotek, nebo brzdí celý katalogový motor, protože právě rychlost obsahu je jejich skutečná měna.

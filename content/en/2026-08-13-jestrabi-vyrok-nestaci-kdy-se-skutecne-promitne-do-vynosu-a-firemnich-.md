@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/jestrabi-vyrok-nestaci-kdy-se-skutecne-promitne-do-vynosu-a--analyza-340099
+impact:
+  areas: [money]
+  line: "One Fed official's remark doesn't set policy by itself. It starts to matter for savings, mortgages and loans only once other policymakers echo it and it shows up in actual bond yields."
+  todo: "The two-year US Treasury yield is a quick way to see whether markets are actually reacting to a remark like this one or shrugging it off."
 ---
 
 One hawkish remark is not a new Fed policy stance; it starts to matter only once it feeds through into yields, credit spreads and corporate investment plans.
