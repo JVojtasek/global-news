@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-16
 
-Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **14**.
+Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
 
 ---
 
@@ -57,9 +57,9 @@ Paměť obsahuje **27 vláken**. Aktivních za posledních 14 dní: **14**.
   - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
 
-### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 1 dní · 3 záznamů
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 7 dní · 3 záznamů
 - časová osa:
-  - **2026-08-12** (4 zdrojů) Trump says White House press secretary Karoline Leavitt to leave post
-  - **2026-08-12** (2 zdrojů) The White House’s plan to vet potentially dangerous AI is cloaked in secrecy
-  - **2026-08-13** (2 zdrojů) Who could potentially replace White House Press Secretary Karoline Leavitt?
+  - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+  - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
+  - **2026-08-16** (3 zdrojů) Trump envoy Kushner meets Hamas leader to push Gaza peace plan
