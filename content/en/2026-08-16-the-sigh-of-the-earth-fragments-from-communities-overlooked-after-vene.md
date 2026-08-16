@@ -26,6 +26,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/16/the-sigh-of-the-earth-fragments-from-communities-overlooked-after-venezuelas-earthquakes/
+impact:
+  areas: [life, safety]
+  line: "This affects communities in Venezuela still recovering from earthquakes with little outside attention; for most other readers, it's a reminder that disaster coverage usually stops long before recovery does."
+  todo: "Look for follow-up reporting on Venezuela's earthquake recovery a year or more on — that's usually the point where coverage disappears even though the need doesn't."
 ---
 
 Photographs from the places the earthquakes left outside the frame

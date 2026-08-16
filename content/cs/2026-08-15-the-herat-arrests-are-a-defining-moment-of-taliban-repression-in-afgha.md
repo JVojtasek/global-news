@@ -24,6 +24,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/14/the-herat-arrests-are-a-defining-moment-of-taliban-repression-in-afghanistan/
+impact:
+  areas: [life, safety]
+  line: "Týká se to hlavně afghánských žen a dívek, které teď mohou být zadrženy kvůli vymáhání pravidel oblékání; pro čtenáře jinde je to doklad sílícího vzorce státní kontroly, ne ojedinělý incident."
+  todo: "Pro ověřené, průběžné informace sledujte spíš zprávy UNAMA (mise OSN v Afghánistánu) nebo Human Rights Watch než jeden jediný článek."
 ---
 
 Po pěti letech vlády Talibanu byly ženy vymazány z veřejného života

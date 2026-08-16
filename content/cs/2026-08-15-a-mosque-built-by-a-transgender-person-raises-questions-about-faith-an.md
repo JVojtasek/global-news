@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/15/a-mosque-built-by-a-transgender-person-raises-questions-about-faith-and-belonging-in-pakistan/
+impact:
+  areas: [life, safety]
+  line: "Přímo se to týká transgender lidí v Pákistánu, jejichž právní postavení zůstává sporné, i když ochranný zákon existuje na papíře; pro většinu ostatních čtenářů je to případová studie propasti mezi zákonem a jeho vymáháním v praxi."
+  todo: "Pokud chcete právní pozadí, dohledejte si pákistánský zákon o ochraně práv transgender osob a to, jak ho soudy od té doby zužovaly nebo napadaly."
 ---
 
 Transgender lidé v Pákistánu čelí nejisté budoucnosti, jejich práva se pohybují v právní šedé zóně

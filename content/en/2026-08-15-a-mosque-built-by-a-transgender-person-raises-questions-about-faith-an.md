@@ -26,6 +26,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/15/a-mosque-built-by-a-transgender-person-raises-questions-about-faith-and-belonging-in-pakistan/
+impact:
+  areas: [life, safety]
+  line: "This affects transgender Pakistanis directly, whose legal status remains contested even where protective law exists on paper; for most other readers it's a case study in the gap between a law and its local enforcement."
+  todo: "If you want the legal backdrop, look up Pakistan's Transgender Persons (Protection of Rights) Act and how courts have since narrowed or challenged it."
 ---
 
 Transgender people in Pakistan face an uncertain future, with their rights occupying a legal grey zone

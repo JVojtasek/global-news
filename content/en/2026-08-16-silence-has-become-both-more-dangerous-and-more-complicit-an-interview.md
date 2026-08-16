@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/13/silence-has-become-both-more-dangerous-and-more-complicit-an-interview-with-lebanese-british-artist-amale-khlat/
+impact:
+  areas: [life]
+  line: "For most readers this changes nothing today; it's a reminder, made directly by the artist interviewed, that constant exposure to war images online can produce numbness rather than understanding."
+  todo: "Next time you scroll past a war photo without pausing, notice that reaction — it's the exact habit this artist's work is trying to interrupt."
 ---
 
 The question of how suffering is consumed, quickly, emotionally, without depth, is the subject of the work as much as its content
