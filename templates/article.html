@@ -1,5 +1,9 @@
 {% extends "base.html" %}
-{% block title %}{{ a.title }} — {{ brand }}{% endblock %}
+{# Do hlavičky jde zkrácený titulek (engine/build.py, _seo_title):
+   vyhledávač ukáže jen prvních zhruba šedesát znaků a zbytek uřízne
+   uprostřed slova. Nadpis nad článkem i náhled na sítích zůstávají
+   celé — mění se jenom to, co je v <head>. #}
+{% block title %}{{ a.seo_title or a.title ~ ' — ' ~ brand }}{% endblock %}
 {% block description %}{{ a.dek }}{% endblock %}
 {% block head %}
 {% if a.origin %}<link rel="canonical" href="{{ a.origin.url }}">{% elif a.syndicated %}<link rel="canonical" href="{{ a.syndicated.url }}">{% else %}<link rel="canonical" href="{{ site_url }}{{ a.url }}">{% endif %}
@@ -14,6 +18,10 @@
 {% if a.img_w and a.img_h %}<meta property="og:image:width" content="{{ a.img_w }}">
 <meta property="og:image:height" content="{{ a.img_h }}">
 {% endif %}<meta name="twitter:image" content="{{ site_url }}{{ a.image }}">
+{% elif a.share_image %}{# Článek bez vlastní fotky dostane společný obrázek novin
+   ze `seo.share_image`. Dokud tam žádný není, zůstane náhled bez obrázku. #}
+<meta property="og:image" content="{{ a.share_image }}">
+<meta name="twitter:image" content="{{ a.share_image }}">
 {% endif %}<meta name="twitter:title" content="{{ a.title }}">
 <meta name="twitter:description" content="{{ a.dek }}">
 <meta property="article:published_time" content="{{ a.published_iso }}">
@@ -72,7 +80,7 @@
        (engine/build.py, _img_size). Prohlížeč si díky nim nechá místo
        dopředu a text pod obrázkem už nikam neposkočí. #}
     {% if a.image %}<figure class="cover">
-      <img src="{{ a.image }}" alt=""{% if a.img_w and a.img_h %} width="{{ a.img_w }}" height="{{ a.img_h }}"{% endif %} fetchpriority="high" decoding="async">
+      <img src="{{ a.image }}" alt="{{ a.image_alt }}"{% if a.img_w and a.img_h %} width="{{ a.img_w }}" height="{{ a.img_h }}"{% endif %} fetchpriority="high" decoding="async">
       {% if a.credit %}<figcaption>{{ a.credit.text }} · <a href="{{ a.credit.url }}" rel="nofollow noopener" target="_blank">{{ a.credit.provider }}</a></figcaption>{% endif %}
     </figure>{% endif %}
 

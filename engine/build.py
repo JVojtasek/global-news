@@ -462,6 +462,93 @@ Write to {email}. We answer.""",
                           "tells us which articles are worth reading, never who read them. What "
                           "you tick in your reading settings and in your interests never reaches "
                           "it: that stays in your browser, exactly as described above.",
+        # --- co o stránce ví vyhledávač -------------------------------
+        # Titulek a popisek jsou to jediné, co člověk ve výsledku hledání
+        # uvidí, než se rozhodne kliknout. Do titulku patří, co ta stránka
+        # je; do popisku důvod, proč ji otevřít. Obojí musí být pravda —
+        # slib, který stránka nesplní, se vrátí jako okamžitý odchod
+        # a vyhledávač si ho pamatuje líp než my.
+        "home_title": "My Paper — world news explained, and why it matters",
+        "home_desc": "A paper that explains instead of shouting: world news, business, science "
+                     "and health, a five-minute morning briefing and a Saturday edition that ends.",
+        # Rubriky. Klíč je id rubriky z data/site.yml. Když nová rubrika
+        # v seznamu chybí, použije se `sec_desc_any` s jejím názvem —
+        # stránka se kvůli chybějícímu popisku nikdy nerozbije.
+        "sec_title": {
+            "world": "World news, explained",
+            "business": "Business and money, explained",
+            "tech": "Technology, explained in plain words",
+            "science": "Science, explained without the jargon",
+            "health": "Health news you can act on",
+            "culture": "Culture, books and ideas",
+            "travel": "Travel worth the journey",
+            "motoring": "Cars, driving and what it costs",
+            "sport": "Sport, beyond the score",
+            "food": "Food, cooking and what we eat",
+            "goodnews": "Good news that is still news",
+            "history": "History and where things come from",
+            "questions": "Big questions, taken seriously",
+            "meaning": "Mind and meaning: how thinking works",
+            "relationships": "Relationships, honestly",
+            "parenting": "Family and parenting, practically",
+            "wonder": "Wonder: the world worth a second look",
+            "ai": "AI and robotics, without the hype",
+            "safety": "Stay safe: scams, passwords, emergencies",
+            "soul": "Soul: meaning, doubt and quiet questions",
+        },
+        "sec_desc": {
+            "world": "What is happening in the world and why it matters: the facts, the context "
+                     "around them and the part still uncertain. Newest reporting first.",
+            "business": "Business, money and work without the hype. What the numbers actually say, "
+                        "who it touches and what it changes for an ordinary household.",
+            "tech": "Technology explained by how it really works, what it changes for you and what "
+                    "nobody knows yet. New pieces first, every source named.",
+            "science": "Research in plain language: what was found, how strong the evidence is and "
+                       "why it matters outside the laboratory. Newest studies first.",
+            "health": "Health explained carefully: what the evidence supports, what it does not, and "
+                      "what a reasonable person can do about it. Never medical advice.",
+            "culture": "Books, film, music and the ideas underneath them. What is worth an evening, "
+                       "and the questions a review usually leaves out.",
+            "travel": "Places worth the journey and the practical detail that makes one work, written "
+                      "for real budgets and the holiday you actually get.",
+            "motoring": "Cars, roads and the cost of driving: what changes for owners, what the "
+                        "technology really does and what it means for your next car.",
+            "sport": "Sport past the final score: what a result reveals about training, money, ageing "
+                     "bodies and the people who keep turning up.",
+            "food": "Food, cooking and what we actually eat. Where it comes from, why it works in the "
+                    "pan, and what the research says about eating it.",
+            "goodnews": "Good news that still meets the same standard as the rest: verified, sourced "
+                        "and worth your time. Proof that things also go right.",
+            "history": "Where things come from, and how we know. History and origins explained with the "
+                       "evidence in view and the gaps admitted openly.",
+            "questions": "The questions news never has time for: meaning, death, forgiveness, freedom. "
+                         "Taken seriously, argued honestly, never preached.",
+            "meaning": "How thinking, memory, attention and emotion actually work, and what that changes "
+                       "about an ordinary day. Psychology without the labels.",
+            "relationships": "Love, friendship, conflict and repair, written for adults. What research "
+                             "knows about relationships and where it stops knowing.",
+            "parenting": "Family life and raising children, practically: what the evidence supports, "
+                         "what it does not, and what other parents have tried.",
+            "wonder": "The world worth a second look: space, nature, numbers and the everyday things "
+                      "that turn out to be far stranger than they seem.",
+            "ai": "Artificial intelligence and robotics without the hype: what the machines can do "
+                  "today, what they cannot, and what changes for your work.",
+            "safety": "Scams, passwords, data leaks, blackouts and emergencies. One calm, practical "
+                      "step at a time, based on official guidance.",
+            "soul": "Meaning, doubt and the questions people ask when it is quiet. A place for wisdom "
+                    "from many sources, never a sermon and never an answer forced.",
+        },
+        "sec_desc_any": "Everything My Paper has published in %s, newest first — the facts, the "
+                        "context around them and what they change for you.",
+        "hub_title": "%s: everything we have published",
+        "co_desc": "How the last two weeks of news land in %s: which stories name it directly, "
+                   "which only ripple in, and what that changes for money and health.",
+        "foryou_desc": "Your own front page, ranked in this browser from the sections and interests "
+                       "you tick. Nothing is sent to us and nothing leaves the device.",
+        "republish_desc": "Take our reporting and publish it, free of charge, under a Creative Commons "
+                          "licence. Credit the author, link back to the original and it is yours.",
+        "wk_archive_desc": "Every Saturday edition we have published, newest first. Each one is a "
+                           "finished week: five summaries, one long read and a question to end on.",
     },
     "cs": {
         "briefing_title": "Svět dnes za pět minut",
@@ -895,11 +982,183 @@ Pište na {email}. Odpovídáme.""",
                           "a nevytváří profily. Říká nám, které články stojí za přečtení, nikdy "
                           "ne, kdo je četl. Co si zaškrtneš v nastavení čtení a v zájmech, se "
                           "k ní nedostane: zůstává to v tvém prohlížeči přesně tak, jak je psáno výš.",
+        # --- co o stránce ví vyhledávač -------------------------------
+        # Titulek a popisek jsou to jediné, co člověk ve výsledku hledání
+        # uvidí, než se rozhodne kliknout. Do titulku patří, co ta stránka
+        # je; do popisku důvod, proč ji otevřít. Obojí musí být pravda —
+        # slib, který stránka nesplní, se vrátí jako okamžitý odchod
+        # a vyhledávač si ho pamatuje líp než my.
+        "home_title": "Moje noviny — svět vysvětlený srozumitelně",
+        "home_desc": "Noviny, které vysvětlují, místo aby křičely: svět, byznys, věda a zdraví, "
+                     "ranní briefing na pět minut a sobotní vydání, které opravdu skončí.",
+        # Rubriky. Klíč je id rubriky z data/site.yml. Když nová rubrika
+        # v seznamu chybí, použije se `sec_desc_any` s jejím názvem —
+        # stránka se kvůli chybějícímu popisku nikdy nerozbije.
+        "sec_title": {
+            "world": "Svět, vysvětlený srozumitelně",
+            "business": "Byznys a peníze bez humbuku",
+            "tech": "Technologie vysvětlené lidsky",
+            "science": "Věda bez žargonu",
+            "health": "Zdraví, ke kterému se dá vrátit",
+            "culture": "Kultura, knihy a myšlenky",
+            "travel": "Cestování, které stojí za cestu",
+            "motoring": "Auta, cesty a co to stojí",
+            "sport": "Sport za výsledkovou tabulí",
+            "food": "Jídlo, vaření a co doopravdy jíme",
+            "goodnews": "Dobré zprávy, které jsou pořád zprávy",
+            "history": "Historie a kořeny věcí kolem nás",
+            "questions": "Velké otázky, brané vážně",
+            "meaning": "Mysl a smysl: jak funguje myšlení",
+            "relationships": "Vztahy, poctivě a bez rad shora",
+            "parenting": "Rodina a výchova prakticky",
+            "wonder": "Žasneme: svět, který stojí za druhý pohled",
+            "ai": "AI a robotika bez humbuku",
+            "safety": "Bezpečně: podvody, hesla, nouze",
+            "soul": "Duše: smysl, pochybnost a tiché otázky",
+        },
+        "sec_desc": {
+            "world": "Co se ve světě děje a proč na tom záleží: fakta, souvislosti kolem nich "
+                     "a poctivě přiznaná nejistota. Od nejnovějšího, se jmenovanými zdroji.",
+            "business": "Byznys, peníze a práce bez humbuku. Co čísla opravdu říkají, koho se to "
+                        "týká a co se tím mění v běžné domácnosti. Od nejnovějšího.",
+            "tech": "Technologie vysvětlené tím, jak doopravdy fungují, co mění pro tebe a co zatím "
+                    "nikdo neví. Od nejnovějšího, s uvedenými zdroji.",
+            "science": "Výzkum srozumitelně: co se zjistilo, jak silné to má důkazy a proč na tom "
+                       "záleží i mimo laboratoř. Od nejnovějších studií.",
+            "health": "Zdraví opatrně a poctivě: co důkazy podpírají, co ne a co s tím rozumný člověk "
+                      "může udělat. Není to lékařská rada, je to téma.",
+            "culture": "Knihy, film, hudba a myšlenky pod nimi. Co stojí za jeden večer, proč to na "
+                       "člověka takhle působí a jaké otázky recenze obvykle vynechá.",
+            "travel": "Místa, která stojí za cestu, a praktické detaily, na kterých to stojí. Psané "
+                      "pro skutečný rozpočet a dovolenou, jakou opravdu máš.",
+            "motoring": "Auta, cesty a to, co jízda stojí: co se mění pro majitele, co technika umí "
+                        "doopravdy a co z toho plyne pro tvoje příští auto.",
+            "sport": "Sport za výsledkem: co ten výsledek prozrazuje o tréninku, penězích, stárnoucím "
+                     "těle a o lidech, kteří pořád chodí dál. Od nejnovějšího.",
+            "food": "Jídlo, vaření a to, co doopravdy jíme. Odkud se to bere, proč to na pánvi funguje "
+                    "a co o tom říká výzkum, když se čte pořádně.",
+            "goodnews": "Dobré zprávy, které drží stejnou laťku jako zbytek novin: ověřené, se zdrojem "
+                        "a se smyslem. Důkaz, že se ve světě leccos i daří.",
+            "history": "Odkud se věci berou a jak to vlastně víme. Historie a kořeny s důkazy na očích, "
+                       "s poctivě přiznanými mezerami a bez laciných příběhů.",
+            "questions": "Otázky, na které zpravodajství nemá čas: smysl, smrt, odpuštění, svoboda. "
+                         "Brané vážně, probírané poctivě, nikdy kázané a nikdy uzavřené.",
+            "meaning": "Jak doopravdy funguje myšlení, paměť, pozornost a emoce a co se tím mění "
+                       "v běžném dni. Psychologie bez nálepek a bez diagnóz.",
+            "relationships": "Láska, přátelství, spory a smíření pro dospělé. Co o vztazích výzkum ví, "
+                             "kde jeho vědění poctivě končí a co s tím jde dělat doma.",
+            "parenting": "Rodinný život a výchova prakticky: co důkazy podpírají, co ne a co vyzkoušeli "
+                         "jiní rodiče. Bez chytrých rad shora a bez strašení.",
+            "wonder": "Svět, který stojí za druhý pohled: vesmír, příroda, čísla a obyčejné věci, které "
+                      "jsou mnohem podivnější, než na první pohled vypadají.",
+            "ai": "Umělá inteligence a robotika bez humbuku: co stroje dneska umí, co neumí, co se tím "
+                  "mění v tvojí práci a co je zatím jenom slib.",
+            "safety": "Podvody, hesla, úniky dat, výpadky proudu a nouzové situace. Jeden klidný "
+                      "praktický krok po druhém, podle oficiálních doporučení.",
+            "soul": "Smysl, pochybnost a otázky, které si člověk klade, když je ticho. Místo pro "
+                    "moudrost z mnoha zdrojů, nikdy kázání a nikdy vnucená odpověď.",
+        },
+        "sec_desc_any": "Všechno, co jsme v rubrice %s vydali, od nejnovějšího — s fakty, "
+                        "souvislostmi a s tím, co se tím mění pro tebe.",
+        "hub_title": "%s: všechno, co jsme k tématu vydali",
+        "co_desc": "Jak posledních čtrnáct dní zpráv dopadá na %s: které z nich tu zemi jmenují "
+                   "přímo, které k ní dolehnou oklikou a co mění pro peníze a život.",
+        "foryou_desc": "Tvoje vlastní titulní strana, seřazená přímo v prohlížeči podle rubrik "
+                       "a zájmů, které si zaškrtneš. Nic se k nám neposílá a nic neopouští zařízení.",
+        "republish_desc": "Vezmi si naše články a vydej je u sebe zdarma pod licencí Creative Commons. "
+                          "Stačí uvést autora a odkázat na původní vydání. Nic dalšího neplatíš.",
+        "wk_archive_desc": "Všechna sobotní vydání, od nejnovějšího. Každé je hotový týden: pět "
+                           "shrnutí, jedno dlouhé čtení a otázka na konec. Nic se nedonačítá.",
     },
 }
 STRINGS.setdefault("sk", STRINGS["cs"])
 
 MD = md.Markdown(extensions=["extra", "sane_lists", "smarty"])
+
+# Kolik se toho vejde do výsledku vyhledávání. Google měří pixely, ne
+# znaky, ale u běžného textu to vychází zhruba na tohle — a co je delší,
+# se uřízne uprostřed slova. Radši to uřízneme sami na hezkém místě,
+# než aby to za nás udělal stroj.
+TITLE_MAX = 60
+DESC_MAX = 160
+
+# Místa, kde se dlouhý titulek dá poctivě zkrátit: první otázka, dvojtečka
+# nebo pomlčka. Zbytek titulku zůstává v <h1>, takže se čtenáři nic neztratí.
+_TITLE_BREAKS = ("? ", ": ", " — ", " – ", " | ", " · ")
+
+
+def _shorten(text: str, limit: int) -> str:
+    """Zkrátí text na celá slova a doplní výpustku. Nic nedomýšlí."""
+    text = " ".join(str(text or "").split())
+    if len(text) <= limit:
+        return text
+    cut = text[:limit - 1]
+    if " " in cut:
+        cut = cut[:cut.rfind(" ")]
+    return cut.rstrip(" ,;:–—-") + "…"
+
+
+def _seo_title(headline: str, brand: str, limit: int = TITLE_MAX) -> str:
+    """Titulek do hlavičky stránky: co nejvíc smyslu do šedesáti znaků.
+
+    Jméno novin se připojí, jen když se za titulek ještě vejde. U dlouhého
+    titulku by ho vyhledávač stejně uřízl a zabíralo by místo, kde má stát
+    to podstatné. Když je dlouhý i samotný titulek, hledá se v něm přirozený
+    předěl (otazník, dvojtečka, pomlčka); teprve když žádný není, uřízne se
+    na celém slově. Viditelný nadpis stránky se tím nemění ani o písmeno.
+    """
+    head = " ".join(str(headline or "").split())
+    if not head:
+        return brand
+    full = f"{head} — {brand}"
+    if len(full) <= limit:
+        return full
+    if len(head) <= limit:
+        return head
+    for mark in _TITLE_BREAKS:
+        pos = head.find(mark)
+        # Předěl se bere, jen když za ním zůstane pořádný titulek. Kdyby
+        # se uřízlo hned u první dvojtečky, zbylo by „Kritické kovy" —
+        # pravda, ale ve vyhledávači k ničemu.
+        if 40 <= pos + len(mark.rstrip()) <= limit:
+            short = head[:pos + (1 if mark.startswith("?") else 0)].strip(" —–|·:")
+            with_brand = f"{short} — {brand}"
+            return with_brand if len(with_brand) <= limit else short
+    return _shorten(head, limit)
+
+
+def _lead_sentence(markdown_text: str) -> str:
+    """První pořádný odstavec stránky, zbavený značek — na popisek.
+
+    Statické stránky (o nás, soukromí, podmínky) žádný vlastní popisek
+    nemají a bez něj měly v hlavičce jenom heslo novin, všechny stejné.
+    Vlastní první věta té stránky je nejlevnější poctivý popisek, jaký
+    existuje: nikdo ho nemusí psát a nemůže se s obsahem rozejít.
+    """
+    for block in str(markdown_text or "").split("\n\n"):
+        line = " ".join(block.split())
+        if not line or line.startswith(("#", ">", "-", "*", "|", "!")):
+            continue
+        # pryč s odkazy, tučným písmem a kurzívou — v popisku by se
+        # hvězdičky a hranaté závorky ukázaly tak, jak jsou
+        line = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", line)
+        line = re.sub(r"[*_`]+", "", line)
+        if len(line) >= 60:
+            return line
+    return ""
+
+
+def _meta_desc(text) -> str:
+    """Popisek stránky zkrácený na to, co vyhledávač opravdu ukáže.
+
+    Ze šablony přichází text už jako HTML — apostrofy a uvozovky v něm
+    jsou zakódované. Proto se nejdřív rozkóduje, zkrátí na celá slova
+    a zakóduje zpátky: jinak by se dala uříznout entita v půlce a
+    v popisku by svítilo &#39 místo apostrofu.
+    """
+    from markupsafe import Markup, escape
+    plain = _html_mod.unescape(str(text or "")).strip()
+    return Markup(escape(_shorten(plain, DESC_MAX)))
 
 
 def _html(text: str) -> str:
@@ -959,6 +1218,24 @@ def _img_size(slug: str) -> tuple:
 # Počítadla a sledovací pixely v převzatých článcích. Připojení k nim
 # nikdy nepředpřipravujeme — zrychlovat sledování čtenáře není naše práce.
 _NO_PRECONNECT = ("counter", "gravatar", "pixel", "analytic", "stats.", "track")
+
+
+def _lazy_images(body_html: str) -> str:
+    """Obrázkům uvnitř textu doplní líné načítání.
+
+    Naše vlastní obálky mají `loading` už ze šablony, ale převzaté texty
+    si nesou obrázky vlastní a bez ničeho. Prohlížeč je pak stahuje
+    všechny naráz, i ty na konci dlouhého článku, které čtenář nikdy
+    neuvidí. Rozměry se doplnit nedají — leží na cizím serveru a hádat
+    se nesmí.
+    """
+    def fix(m):
+        tag = m.group(0)
+        if "loading=" in tag:
+            return tag
+        add = ' loading="lazy"' + ("" if "decoding=" in tag else ' decoding="async"')
+        return tag[:-2] + add + "/>" if tag.endswith("/>") else tag[:-1] + add + ">"
+    return re.sub(r"<img\b[^>]*>", fix, body_html or "")
 
 
 def _remote_img_host(body_html: str) -> str:
@@ -1053,7 +1330,8 @@ def _view(meta: dict, body: str, path=None) -> dict:
     for lid in article.LAYERS:
         if lid in secs and secs[lid].strip():
             label, icon = labels[lid]
-            layers.append({"id": lid, "label": label, "icon": icon, "html": _html(secs[lid])})
+            layers.append({"id": lid, "label": label, "icon": icon,
+                           "html": _lazy_images(_html(secs[lid]))})
     layer_ids = {layer["id"] for layer in layers}
     section_label = next(
         (s.get(lang) or s["en"] for s in config.site()["sections"] if s["id"] == meta["section"]),
@@ -1066,7 +1344,7 @@ def _view(meta: dict, body: str, path=None) -> dict:
             meta[_k] = _html_mod.unescape(meta[_k])
     words = len(body.split())
     w = reader.weigh(meta, body)
-    body_html = _html(body) if not layers else ""
+    body_html = _lazy_images(_html(body)) if not layers else ""
     # obrázek musí být na disku dřív, než se z něj čtou rozměry
     img = images.ensure(meta)
     img_w, img_h = _img_size(meta.get("slug", "")) if img.get("src") else (None, None)
@@ -1100,6 +1378,9 @@ def _view(meta: dict, body: str, path=None) -> dict:
         "published_label": _published_label(meta, path, lang),
         "body_html": body_html,
         "image": img["src"], "credit": img["credit"],
+        # Popis obrázku (engine/images.alt_text). Bez něj je fotka pro
+        # čtečku obrazovky i pro hledání v obrázcích prázdné místo.
+        "image_alt": img.get("alt", ""),
         # rozměry obálky do šablony, ať stránka při načtení neposkočí
         "img_w": img_w, "img_h": img_h,
         # cizí server s obrázky (jen u převzatých textů) — kvůli preconnect
@@ -1241,7 +1522,7 @@ def _faq_jsonld(a: dict) -> str:
     if len(qa) < 2:
         return ""
     return json.dumps({"@context": "https://schema.org", "@type": "FAQPage",
-                       "mainEntity": qa[:5]}, ensure_ascii=False)
+                       "mainEntity": qa[:5]}, ensure_ascii=False).replace("</", "<\\/")
 
 
 def _breadcrumbs(a: dict, site: dict) -> str:
@@ -1254,15 +1535,33 @@ def _breadcrumbs(a: dict, site: dict) -> str:
             {"@type": "ListItem", "position": 2, "name": a.get("section_label", ""),
              "item": f"{base}{a['lang']}/{a['section']}/"},
             {"@type": "ListItem", "position": 3, "name": a.get("title", "")},
-        ]}, ensure_ascii=False)
+        ]}, ensure_ascii=False).replace("</", "<\\/")
+
+
+def _share_image(a: dict, site: dict) -> str:
+    """Obrázek do náhledu na sítích a do popisu článku pro vyhledávač.
+
+    Když má článek vlastní fotku, platí ta. Když ne — a to je u nás
+    schválně častý případ, `images.fallback: none` v data/site.yml —
+    použije se jeden společný obrázek novin ze `seo.share_image`.
+    Dokud tam žádný není, zůstane náhled bez obrázku: vymyslet ho
+    nemůžeme a prázdné pole v popisu je poctivější než odkaz nikam.
+    """
+    if a.get("image"):
+        return config.origin() + a["image"]
+    shared = str((site.get("seo") or {}).get("share_image") or "").strip()
+    if not shared:
+        return ""
+    return shared if shared.startswith("http") else config.origin() + config.base_path() + shared
 
 
 def _jsonld(a: dict, site: dict) -> str:
     brand = site["brand"]
+    image = _share_image(a, site)
     data = {
         "@context": "https://schema.org", "@type": "NewsArticle",
         "headline": a.get("title", "")[:110],
-        "description": a.get("dek", ""),
+        "description": _shorten(a.get("dek", ""), DESC_MAX),
         # přesný čas vydání, ne jen den — vyhledávače podle něj řadí
         "datePublished": a.get("published_iso") or a.get("date", ""),
         "dateModified": (a.get("updated_at") or a.get("published_iso")
@@ -1270,7 +1569,10 @@ def _jsonld(a: dict, site: dict) -> str:
         "articleSection": a.get("section_label", ""),
         "inLanguage": a.get("lang", "en"),
         "mainEntityOfPage": {"@type": "WebPage", "@id": config.origin() + a["url"]},
-        **({"image": [config.origin() + a["image"]]} if a.get("image") else {}),
+        **({"image": [image]} if image else {}),
+        # Kolik je toho ke čtení. Vyhledávač si podle toho umí odlišit
+        # poznámku od pořádného textu a nic si k tomu nedomýšlí.
+        **({"wordCount": a["words"]} if a.get("words") else {}),
         "author": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
         "publisher": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
         # U článku v předčasném přístupu je na stránce jen shrnutí, takže
@@ -1285,7 +1587,7 @@ def _jsonld(a: dict, site: dict) -> str:
         if original_author:
             data["author"] = {"@type": "Person", "name": original_author}
         data["mainEntityOfPage"] = {"@type": "WebPage", "@id": a["syndicated"]["url"]}
-    return json.dumps(data, ensure_ascii=False)
+    return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 
 
 # Jak se která služba pro měření návštěvnosti jmenuje na stránce
@@ -1435,16 +1737,23 @@ def _site_jsonld(site: dict, lang: str) -> str:
     brand = site["brand"]
     name = brand["name_cs"] if lang == "cs" else brand["name_en"]
     tagline = brand["tagline_cs"] if lang == "cs" else brand["tagline_en"]
+    # Heslo novin je heslo, ne popis. Vyhledávači se sem píše totéž, co
+    # čte člověk ve výsledku hledání — jinak o webu ví jen to, že má
+    # své tempo, a nic o tom, že vydává zprávy.
+    about = STRINGS.get(lang, STRINGS["en"])["home_desc"]
     base = config.origin() + config.base_path()
     home = f"{base}/{lang}/"
     org = {
-        "@type": "Organization",
+        # NewsMediaOrganization je Organization pro vydavatele zpráv.
+        # Říká Googlu rovnou, o jaký druh webu jde, a nic navíc netvrdí.
+        "@type": "NewsMediaOrganization",
         "@id": f"{base}/#organization",
         "name": brand["name_en"],
         "alternateName": brand["name_cs"],
         "url": brand["url"],
         "email": brand.get("email", ""),
-        "description": tagline,
+        "description": about,
+        "slogan": tagline,
         "contactPoint": {
             "@type": "ContactPoint",
             "email": brand.get("email", ""),
@@ -1457,7 +1766,7 @@ def _site_jsonld(site: dict, lang: str) -> str:
         "@id": f"{home}#website",
         "url": home,
         "name": name,
-        "description": tagline,
+        "description": about,
         "inLanguage": lang,
         "publisher": {"@id": org["@id"]},
         "potentialAction": {
@@ -1470,7 +1779,61 @@ def _site_jsonld(site: dict, lang: str) -> str:
         },
     }
     return json.dumps({"@context": "https://schema.org", "@graph": [website, org]},
-                      ensure_ascii=False)
+                      ensure_ascii=False).replace("</", "<\\/")
+
+
+def _list_jsonld(site: dict, lang: str, *, name: str, description: str, path: str,
+                 trail: list, articles: list | None = None,
+                 kind: str = "CollectionPage") -> str:
+    """Popis rozcestníku pro vyhledávač: co ta stránka je a kde v webu leží.
+
+    Rubrika, rozcestník tématu, země i velký problém jsou z pohledu
+    vyhledávače totéž — seznam článků k jedné věci. Dokud to nikde
+    nestojí, čte je Google jako náhodné stránky a drobečkovou cestu
+    (Novinky › Věda › Spánek) ve výsledku nemá odkud vzít.
+
+    `trail` je cesta od titulní strany bez poslední položky: tu doplní
+    tahle funkce sama ze jména stránky, ať se nemůžou rozejít.
+    """
+    base = config.origin() + config.base_path()
+    home = f"{base}/{lang}/"
+    url = f"{home}{path}"
+    brand = site["brand"]
+    crumbs = [{"@type": "ListItem", "position": 1, "name": brand["name_en"], "item": home}]
+    for step, (label, target) in enumerate(trail, start=2):
+        crumbs.append({"@type": "ListItem", "position": step, "name": label,
+                       "item": f"{home}{target}"})
+    crumbs.append({"@type": "ListItem", "position": len(crumbs) + 1, "name": name})
+
+    page = {
+        "@type": kind,
+        "@id": f"{url}#page",
+        "url": url,
+        "name": name,
+        "description": _shorten(description, DESC_MAX),
+        "inLanguage": lang,
+        "isPartOf": {"@type": "WebSite", "@id": f"{home}#website", "url": home},
+        "publisher": {"@type": "Organization", "name": brand["name_en"], "url": brand["url"]},
+    }
+    # Seznam článků se přikládá, jen když na stránce opravdu je. Prázdný
+    # `ItemList` je pro vyhledávač horší než žádný — slibuje obsah, který
+    # tam není.
+    items = [a for a in (articles or []) if a.get("url") and a.get("title")][:30]
+    if items:
+        page["mainEntity"] = {
+            "@type": "ItemList",
+            "numberOfItems": len(items),
+            "itemListElement": [
+                {"@type": "ListItem", "position": i, "url": config.origin() + a["url"],
+                 "name": a["title"]}
+                for i, a in enumerate(items, start=1)
+            ],
+        }
+    return json.dumps(
+        {"@context": "https://schema.org",
+         "@graph": [page, {"@type": "BreadcrumbList", "@id": f"{url}#breadcrumbs",
+                           "itemListElement": crumbs}]},
+        ensure_ascii=False).replace("</", "<\\/")
 
 
 def _republish_html(a: dict, site: dict) -> str:
@@ -1594,6 +1957,10 @@ def run() -> None:
     # '2026-08-10'|datewords('cs') → '10. srpna'. V sobotním vydání se
     # datum píše slovy: '2026-08-10' vypadá jako výpis z databáze.
     env.filters["datewords"] = _date_words
+    # Popisek stránky se v hlavičce zkrátí na to, co vyhledávač ukáže.
+    # Dělá se to jedním filtrem v base.html, takže žádná šablona na to
+    # nemůže zapomenout — a viditelný text na stránce zůstává celý.
+    env.filters["metadesc"] = _meta_desc
 
     langs = [site["languages"]["master"], *site["languages"]["translations"]]
     today = dt.date.today().isoformat()
@@ -1628,6 +1995,11 @@ def run() -> None:
             "slugs": {f"{a['section']}/{a['slug']}/" for a in arts},
             "hub_ids": {h["id"] for h in hubs},
             "issues": issues, "issue_nos": {i["no"] for i in issues},
+            # Velké problémy jsou dva soubory na jeden problém (anglicky
+            # a česky). Když jeden z nich chybí, stránka v tom jazyce
+            # nevznikne — a odkaz `hreflang` na ni by vedl na 404.
+            "problems": problems.load(lang),
+            "problem_ids": {pr["id"] for pr in problems.load(lang)},
         }
 
     def langs_with_article(a: dict) -> list:
@@ -1638,6 +2010,10 @@ def run() -> None:
     def langs_with_hub(hub_id: str) -> list:
         """Jazyky, ve kterých má rozcestník dost článků, aby vznikl."""
         return [l for l in langs if hub_id in everything[l]["hub_ids"]]
+
+    def langs_with_problem(pid: str) -> list:
+        """Jazyky, ve kterých ta stránka velkého problému opravdu vyšla."""
+        return [l for l in langs if pid in everything[l]["problem_ids"]] or [langs[0]]
 
     def langs_with_issue(no: int) -> list:
         """Jazyky, ve kterých se to číslo sobotního vydání postavilo.
@@ -1702,8 +2078,12 @@ def run() -> None:
             # prázdná, nevloží se do stránky vůbec nic — ani komentář.
             analytics=site.get("analytics") or {},
             og_locale=LOCALES.get(lang, "en_GB"), og_locales=LOCALES,
+            # Společný obrázek do náhledů na sítích, dokud nemá stránka
+            # vlastní. Prázdný `seo.share_image` znamená žádný obrázek —
+            # nic se nevymýšlí.
+            share_image=_share_image({}, site),
             # výchozí hodnoty, které si každá stránka přepíše přes page()
-            canonical="", alt_path="", page_type="page", home_jsonld="", noindex=False,
+            canonical="", alt_path="", page_type="page", page_jsonld="", noindex=False,
             alt_langs=langs,
         )
 
@@ -1736,6 +2116,11 @@ def run() -> None:
             # celý text propadl do stránky zadními dveřmi.
             a["faq"] = "" if early else _faq_jsonld(a)
             a["crumbs"] = _breadcrumbs(a, site)
+            # Titulek do hlavičky. Do <h1> a do náhledu na sítích jde dál
+            # celý — tohle je jen ta verze, která se vejde do výsledku
+            # hledání, aby ji vyhledávač neuřízl uprostřed slova.
+            a["seo_title"] = _seo_title(a.get("title", ""), brand)
+            a["share_image"] = _share_image(a, site)
             a["related"] = _related(a, arts, int(seo.get("related_count", 3)))
             # Rozcestníky, do kterých článek patří — řádek „Víc k tématu"
             # pod textem. Bere se ze štítků článku, ne z nastavení čtenáře.
@@ -1763,7 +2148,14 @@ def run() -> None:
             _write(out / lang / "topic" / h["id"] / "index.html",
                    env.get_template("hub.html").render(
                        **page(f"topic/{h['id']}/", "hub", hub=h,
-                              alt_langs=langs_with_hub(h["id"]))))
+                              hub_title=_seo_title(t["hub_title"] % h["label"], brand),
+                              alt_langs=langs_with_hub(h["id"]),
+                              page_jsonld=_list_jsonld(
+                                  site, lang, name=h["label"],
+                                  description=t["hub_intro"] % h["label"],
+                                  path=f"topic/{h['id']}/",
+                                  trail=[(h["section_label"], f"{h['section']}/")],
+                                  articles=h["articles"]))))
 
         # --- titulní strana ---
         briefing = [a for a in arts if a["type"] in ("news", "daily", "demand")][:7]
@@ -1790,7 +2182,7 @@ def run() -> None:
                    daily_quiz=(quiz_views[0] if quiz_views else None),
                    rows=rows, ticker=_ticker(site, lang),
                    thought=quotes.thought(),
-                   **page("", "home", home_jsonld=_site_jsonld(site, lang))))
+                   **page("", "home", page_jsonld=_site_jsonld(site, lang))))
 
         # --- ranní briefing -------------------------------------------
         # Jedna konečná stránka: živé signály s přímým zdrojem, naše
@@ -1802,7 +2194,11 @@ def run() -> None:
                    briefing=morning.edition(arts, site, lang),
                    daily_quiz=(quiz_views[0] if quiz_views else None),
                    country_catalogue=countries.catalogue(),
-                   **page("briefing/", "briefing", current_section="briefing")))
+                   **page("briefing/", "briefing", current_section="briefing",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=t["brief_page_title"],
+                              description=t["brief_page_intro"], path="briefing/",
+                              trail=[]))))
 
         # --- samostatné denní kvízy ----------------------------------
         # Výsledek se počítá v prohlížeči. Build dostane jen deklarativní
@@ -1810,7 +2206,11 @@ def run() -> None:
         _write(out / lang / "quizzes" / "index.html",
                env.get_template("quizzes.html").render(
                    quizzes=quiz_views,
-                   **page("quizzes/", "quizzes", current_section="quizzes")))
+                   **page("quizzes/", "quizzes", current_section="quizzes",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=t["quiz_hub_title"],
+                              description=t["quiz_hub_intro"], path="quizzes/",
+                              trail=[]))))
         quiz_labels = {
             "score": ("Your result score: {score}" if lang == "en" else "Vaše výsledné skóre: {score}"),
             "correct": ("{score} of {total} correct" if lang == "en" else "Správně {score} z {total}"),
@@ -1819,6 +2219,7 @@ def run() -> None:
             "watch_title": ("Keep this in perspective" if lang == "en" else "Zachovejte si odstup"),
         }
         for quiz in quiz_views:
+            quiz["seo_title"] = _seo_title(quiz["title"], brand)
             canonical = f"{config.origin()}{quiz['url']}"
             quiz_jsonld = json.dumps({
                 "@context": "https://schema.org", "@type": "Quiz",
@@ -1838,14 +2239,34 @@ def run() -> None:
         # rušil — tam je člověk kvůli něčemu jinému.
         for s in site["sections"]:
             sub = [a for a in arts if a["section"] == s["id"]]
+            label = s.get(lang) or s["en"]
+            # Titulek a popisek rubriky. „Svět — Moje noviny" neříká
+            # člověku ve vyhledávači nic o tom, co na té stránce najde,
+            # a stránka s takovým titulkem se neotevírá. Texty jsou
+            # v STRINGS podle id rubriky; nová rubrika bez vlastního
+            # popisku dostane obecný, ne prázdný.
             _write(out / lang / s["id"] / "index.html",
                    env.get_template("section.html").render(
-                       articles=sub, section_label=s.get(lang) or s["en"],
+                       articles=sub, section_label=label,
                        section_calm=bool(s.get("calm")),
+                       section_title=_seo_title(
+                           t["sec_title"].get(s["id"], label), brand),
+                       section_desc=(t["sec_desc"].get(s["id"])
+                                     or t["sec_desc_any"] % label),
                        ticker=({"items": []} if s.get("calm") else
                                _ticker(site, lang, preferred_section=s["id"])),
                        thought=quotes.thought(),
-                       **page(f"{s['id']}/", "section", current_section=s["id"])))
+                       **page(f"{s['id']}/", "section", current_section=s["id"],
+                              # Rubrika, do které zatím nic nevyšlo, je pro
+                              # čtenáře v pořádku (menu na ni stejně nevede),
+                              # ale vyhledávači nemá co nabídnout. Až v ní
+                              # bude první článek, `noindex` sám zmizí.
+                              noindex=not sub,
+                              page_jsonld=_list_jsonld(
+                                  site, lang, name=label,
+                                  description=(t["sec_desc"].get(s["id"])
+                                               or t["sec_desc_any"] % label),
+                                  path=f"{s['id']}/", trail=[], articles=sub))))
 
         # --- sobotní vydání ---------------------------------------------
         # Poskládané je už z první části běhu (engine/weekend.py), tady
@@ -1863,16 +2284,28 @@ def run() -> None:
                        thought=quotes.thought(),
                        **page(f"weekend/{ed['no']}/", "weekend",
                               current_section=f"weekend/{ed['no']}",
-                              alt_langs=langs_with_issue(ed["no"]))))
+                              alt_langs=langs_with_issue(ed["no"]),
+                              page_jsonld=_list_jsonld(
+                                  site, lang,
+                                  name=f"{t['wk_title']} — {t['wk_issue'] % ed['no']}",
+                                  description=f"{t['wk_intro']} "
+                                              f"{_range_words(ed['start'], ed['end'], lang)}.",
+                                  path=f"weekend/{ed['no']}/",
+                                  trail=[(t["wk_archive_title"], "weekend/archive/")]))))
         if issues:
             # Přehled starších čísel. Každé z nich je hotové a zůstává,
             # jaké bylo — tohle je jediné místo, odkud se k nim dá dostat.
             _write(out / lang / "weekend" / "archive" / "index.html",
                    env.get_template("page.html").render(
                        page_title=t["wk_archive_title"],
+                       page_desc=t["wk_archive_desc"],
                        page_html=_weekend_archive_html(issues, t, lang),
                        **page("weekend/archive/", "page",
-                              alt_langs=[l for l in langs if everything[l]["issues"]])))
+                              alt_langs=[l for l in langs if everything[l]["issues"]],
+                              page_jsonld=_list_jsonld(
+                                  site, lang, name=t["wk_archive_title"],
+                                  description=t["wk_archive_desc"],
+                                  path="weekend/archive/", trail=[]))))
             # Prostá adresa /weekend/ vede vždycky na nejnovější číslo.
             # Statický web neumí přesměrovat na serveru, takže je to
             # stejná stránka s odkazem, jakou má kořen webu.
@@ -1880,7 +2313,7 @@ def run() -> None:
             _write(out / lang / "weekend" / "index.html",
                    f'<!doctype html><html lang="{lang}"><meta charset="utf-8">'
                    f'<meta http-equiv="refresh" content="0; url={newest}">'
-                   f'<link rel="canonical" href="{newest}">'
+                   f'<link rel="canonical" href="{config.origin()}{newest}">'
                    f'<meta name="robots" content="noindex,follow">'
                    f'<title>{_html_mod.escape(t["wk_title"])} — {_html_mod.escape(brand)}</title>'
                    f'<p>{_html_mod.escape(t["wk_redirect"])} '
@@ -1897,26 +2330,42 @@ def run() -> None:
                  for y, v in sorted(by_year.items(), reverse=True)]
         _write(out / lang / "archive" / "index.html",
                env.get_template("archive.html").render(
-                   years=years, total=len(arts), **page("archive/", "archive")))
+                   years=years, total=len(arts),
+                   **page("archive/", "archive",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=t["archive_title"],
+                              description=t["archive_intro"], path="archive/",
+                              trail=[], articles=arts))))
 
         # --- The Wider Lens: jen články, které skutečně obsahují audit
         # důkazů i doložené různé perspektivy. Značka není ruční štítek.
         lens_articles = [a for a in arts if a.get("is_wider_lens")]
+        lens_cfg = site.get("wider_lens", {})
+        lens_name = lens_cfg.get(f"archive_title_{lang}") or lens_cfg.get("archive_title_en", "")
+        lens_desc = lens_cfg.get(f"archive_intro_{lang}") or lens_cfg.get("archive_intro_en", "")
         _write(out / lang / "wider-lens" / "index.html",
                env.get_template("lens.html").render(
                    articles=lens_articles,
-                   **page("wider-lens/", "archive", current_section="wider-lens")))
+                   **page("wider-lens/", "archive", current_section="wider-lens",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=lens_name, description=lens_desc,
+                              path="wider-lens/", trail=[], articles=lens_articles))))
 
         # --- stránka pro média, která chtějí naše články převzít ---
         if site.get("republish", {}).get("enabled"):
             _write(out / lang / "republish" / "index.html",
                    env.get_template("page.html").render(
                        page_title=t["republish_title"],
+                       page_desc=t["republish_desc"],
                        page_html=_html(t["republish_body"].format(
                            license=site["republish"]["license"],
                            license_url=site["republish"]["license_url"],
                            email=site["brand"]["email"])),
-                       **page("republish/", "page")))
+                       **page("republish/", "page",
+                              page_jsonld=_list_jsonld(
+                                  site, lang, name=t["republish_title"],
+                                  description=t["republish_desc"],
+                                  path="republish/", trail=[], kind="WebPage"))))
 
         # --- počasí ---
         # výchozí místo, dokud si čtenář nevybere svoje
@@ -1925,7 +2374,11 @@ def run() -> None:
         _write(out / lang / "weather" / "index.html",
                env.get_template("weather.html").render(
                    weather_default=json.dumps(wx_default, ensure_ascii=False),
-                   **page("weather/", "weather")))
+                   **page("weather/", "weather",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=t["weather_title"],
+                              description=t["weather_intro"], path="weather/",
+                              trail=[], kind="WebPage"))))
 
         # --- seznam všech článků pro prohlížeč ------------------------
         # Web nemá server ani databázi, takže osobní výběr musí sestavit
@@ -1950,7 +2403,11 @@ def run() -> None:
         with_impact = [a for a in arts if a.get("impact")]
         _write(out / lang / "impact" / "index.html",
                env.get_template("impact.html").render(
-                   articles=with_impact, areas=impact.AREAS, **page("impact/", "page")))
+                   articles=with_impact, areas=impact.AREAS,
+                   **page("impact/", "page",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=t["imp_title"], description=t["imp_intro"],
+                              path="impact/", trail=[], articles=with_impact))))
 
         # --- velké problémy -------------------------------------------
         # Deset problémů, které má celý svět. Na každý jedna stránka a na
@@ -1959,15 +2416,32 @@ def run() -> None:
         # a co by stroji uniklo. Ten třetí sloupec je důvod, proč tahle
         # rubrika existuje. Bez něj by to byly chytré rady od stroje,
         # a to je přesně to, co dělat nechceme.
-        probs = problems.load(lang)
+        probs = everything[lang]["problems"]
         for pr in probs:
+            # Titulky velkých problémů jsou dlouhé věty se dvojtečkou —
+            # do hlavičky se z nich vejde jen první část. Nadpis na
+            # stránce zůstává celý.
+            pr["seo_title"] = _seo_title(pr["title"], brand)
             _write(out / lang / "problems" / pr["id"] / "index.html",
                    env.get_template("problem.html").render(
-                       page=pr, **page(f"problems/{pr['id']}/", "page")))
+                       page=pr,
+                       **page(f"problems/{pr['id']}/", "page",
+                              page_jsonld=_list_jsonld(
+                                  site, lang, name=pr["title"],
+                                  description=pr.get("dek", ""),
+                                  path=f"problems/{pr['id']}/",
+                                  trail=[(t["pr_title"], "problems/")],
+                                  kind="WebPage"),
+                              alt_langs=langs_with_problem(pr["id"]))))
         if probs:
             _write(out / lang / "problems" / "index.html",
                    env.get_template("problems.html").render(
-                       pages=probs, **page("problems/", "page")))
+                       pages=probs,
+                       **page("problems/", "page",
+                              page_jsonld=_list_jsonld(
+                                  site, lang, name=t["pr_title"],
+                                  description=t["pr_intro"], path="problems/",
+                                  trail=[]))))
 
         # --- co to znamená pro mou zemi -------------------------------
         # Stejná zpráva dopadá jinak v Irsku a jinak v Polsku. Tahle
@@ -1993,17 +2467,35 @@ def run() -> None:
                        window_label=_range_words(c["from"], c["to"], lang),
                        # „1 zpráva", „3 zprávy", „7 zpráv" — čeština má tři tvary
                        count_label=_count_label(c["count"], t),
+                       # Popisek země říká, co na té stránce opravdu je:
+                       # čtrnáct dní zpráv rozdělených na přímé a ty, co
+                       # dolehnou oklikou. Bez něj měly všechny stránky zemí
+                       # stejnou větu z hlavičky a vyhledávač je nerozlišil.
+                       country_desc=t["co_desc"] % c["label_for"],
                        **page(f"country/{c['code']}/", "country",
-                              noindex=c["thin"])))
+                              noindex=c["thin"],
+                              page_jsonld=_list_jsonld(
+                                  site, lang, name=t["co_title"] % c["label_for"],
+                                  description=t["co_desc"] % c["label_for"],
+                                  path=f"country/{c['code']}/",
+                                  trail=[(t["co_pick_title"], "country/")],
+                                  articles=c["direct"] + [i["a"] for i in c["ripple"]]))))
         # rozcestník: mapa všech zemí, odtud si čtenář vybírá
         _write(out / lang / "country" / "index.html",
                env.get_template("country.html").render(
                    country=None, countries=land_list, window_label="",
-                   **page("country/", "page")))
+                   **page("country/", "page",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=t["co_pick_title"],
+                              description=t["co_intro"], path="country/", trail=[]))))
 
         # --- osobní výběr ---------------------------------------------
+        # Osobní výběr sestavuje prohlížeč, takže se v HTML žádné články
+        # neobjeví. Vyhledávači nemá stránka co ukázat a do výsledků
+        # nepatří — čtenáři ano, proto existuje a je v menu.
         _write(out / lang / "foryou" / "index.html",
-               env.get_template("foryou.html").render(**page("foryou/", "page")))
+               env.get_template("foryou.html").render(
+                   **page("foryou/", "page", noindex=True)))
 
         # --- členství -------------------------------------------------
         # Jediná stránka, kde je vidět, co členství je: úrovně, co se
@@ -2033,7 +2525,21 @@ def run() -> None:
                 _write(out / lang / name / "index.html",
                        env.get_template("page.html").render(
                            page_title=title, page_html=_html(text),
-                           **page(f"{name}/", "page")))
+                           # Popisek se bere z první věty samotné stránky.
+                           # Je to jediný text, o kterém je jisté, že o té
+                           # stránce platí — a vyhledávači je jedno, kdo ho
+                           # napsal, jenom nesmí být u všech stránek stejný.
+                           page_desc=_lead_sentence(text),
+                           **page(f"{name}/", "page",
+                                  page_jsonld=_list_jsonld(
+                                      site, lang, name=title,
+                                      description=_lead_sentence(text),
+                                      path=f"{name}/", trail=[], kind="WebPage"),
+                                  # Děkovná stránka po přihlášení k odběru
+                                  # nemá ve vyhledávání co dělat: čtenář se
+                                  # na ni dostane jen z formuláře a z výsledků
+                                  # hledání by přišel na prázdno.
+                                  noindex=(name == "thanks"))))
 
         # --- předpovědi ---
         fc = analyst.load_forecasts()["forecasts"]
@@ -2045,7 +2551,11 @@ def run() -> None:
                    resolved=sorted([f for f in fc if f["status"] == "resolved"],
                                    key=lambda f: f.get("resolved_on", ""), reverse=True),
                    void=[f for f in fc if f["status"] == "void"],
-                   **page("forecasts/", "page")))
+                   **page("forecasts/", "page",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=t["forecasts_title"],
+                              description=t["forecasts_intro"], path="forecasts/",
+                              trail=[], kind="WebPage"))))
 
         # --- RSS ---
         _write(out / lang / "feed.xml", _feed(arts[:30], brand, tagline, site["brand"]["url"], lang))
@@ -2064,9 +2574,13 @@ def run() -> None:
     master = site["languages"]["master"]
     bp = config.base_path()
     _write(out / "index.html",
-           f'<!doctype html><meta charset="utf-8">'
+           f'<!doctype html><html lang="{master}"><meta charset="utf-8">'
            f'<meta http-equiv="refresh" content="0; url={bp}/{master}/briefing/">'
-           f'<link rel="canonical" href="{bp}/{master}/briefing/">'
+           # Kanonická adresa musí být celá i tady. Relativní cestu si
+           # vyhledávač sice domyslí, ale u přesměrování se to plete
+           # nejsnáz a je to jedna z mála adres, kterou opravdu zná
+           # každý — bez ní se doména hlásí sama za sebe.
+           f'<link rel="canonical" href="{config.origin()}{bp}/{master}/briefing/">'
            f'<title>{site["brand"]["name_en"]}</title>'
            f'<p>→ <a href="{bp}/{master}/briefing/">{site["brand"]["name_en"]} Briefing</a></p>')
     # robots.txt — co smí robot vyhledávače a kde najde mapu webu.
@@ -2165,6 +2679,12 @@ def _news_sitemap(site: dict) -> str:
             # Článek v předčasném přístupu má `noindex`, takže by bylo
             # rovnou proti sobě hlásit ho do zpravodajské sitemapy.
             if members.state(m) != "public":
+                continue
+            # Převzatý text míří kanonickou adresou na originál. Hlásit ho
+            # do zpravodajské sitemapy by znamenalo říct Googlu dvě opačné
+            # věci najednou: tady je nová zpráva — a mimochodem, ta pravá
+            # je jinde. Do zpravodajství patří jen to, co je naše.
+            if m.get("syndicated") or m.get("origin"):
                 continue
             loc = f"{config.origin()}{config.base_path()}/{lang}/{m['section']}/{m['slug']}/"
             rows.append(

@@ -4,7 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{% block title %}{{ brand }}{% endblock %}</title>
-<meta name="description" content="{% block description %}{{ tagline }}{% endblock %}">
+{# Popisek se zkracuje jedním filtrem tady, ne v každé šabloně zvlášť:
+   ve výsledku hledání se ukáže zhruba 160 znaků a zbytek se uřízne
+   uprostřed slova. Viditelný text na stránce zůstává celý. #}
+<meta name="description" content="{% filter metadesc %}{% block description %}{{ tagline }}{% endblock %}{% endfilter %}">
 <link rel="stylesheet" href="{{ base }}/style.css?v={{ asset_version }}">
 {# Barva lišty prohlížeče, zvlášť pro světlý a tmavý režim. Jsou to
    přesně hodnoty --bg ze style.css, ať nad stránkou nesvítí cizí pruh. #}
@@ -32,12 +35,22 @@
 {% if not a %}
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{ self.title() }}">
-<meta property="og:description" content="{{ self.description() }}">
+<meta property="og:description" content="{% filter metadesc %}{{ self.description() }}{% endfilter %}">
 {% if canonical %}<meta property="og:url" content="{{ canonical }}">{% endif %}
 <meta name="twitter:title" content="{{ self.title() }}">
-<meta name="twitter:description" content="{{ self.description() }}">
-{% endif %}
-{% if home_jsonld %}<script type="application/ld+json">{{ home_jsonld|safe }}</script>{% endif %}
+<meta name="twitter:description" content="{% filter metadesc %}{{ self.description() }}{% endfilter %}">
+{# Obrázek do náhledu na sítích. Článek si svůj vypisuje sám; tady jde
+   o všechny ostatní stránky, kterým žádný nepatří. Bere se ze
+   `seo.share_image` v data/site.yml — dokud tam nic není, nevypíše se
+   nic. Odkaz na neexistující obrázek je horší než náhled bez obrázku. #}
+{% if share_image %}<meta property="og:image" content="{{ share_image }}">
+<meta name="twitter:image" content="{{ share_image }}">
+{% endif %}{% endif %}
+{# Strukturovaný popis stránky pro vyhledávač. Titulní strana jím říká,
+   kdo web vydává; rubriky, rozcestníky, země a velké problémy to, že
+   jsou to seznamy článků, a kudy k nim vede cesta. Článek si svůj popis
+   vypisuje sám v article.html. #}
+{% if page_jsonld %}<script type="application/ld+json">{{ page_jsonld|safe }}</script>{% endif %}
 {% if page_type == "404" or noindex %}<meta name="robots" content="noindex">{% endif %}
 {# Mapová knihovna se stahuje z unpkg.com, a jen na stránce s počasím.
    Jinde by to bylo spojení navíc pro nic. #}
@@ -151,7 +164,11 @@
   <div class="cols">
     <div>
       <strong>{{ brand }}</strong><br>{{ tagline }}<br>
-      <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/archive/">{{ t.archive_link }}</a> · <a href="{{ base }}/{{ lang }}/members/">{{ t.mem_link }}</a> · <a href="{{ base }}/{{ lang }}/privacy/">{{ t.privacy_link }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/republish/">{{ t.republish_offer }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
+      <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/archive/">{{ t.archive_link }}</a> ·
+      {# Stránka členství vzniká, jen když je členství zapnuté v data/members.yml.
+         Dokud zapnuté není, tenhle odkaz vedl na chybu 404 — a to ze všech
+         stránek webu naráz, což je to nejhorší místo, kde ji mít. #}
+      {% if mem.enabled %}<a href="{{ base }}/{{ lang }}/members/">{{ t.mem_link }}</a> · {% endif %}<a href="{{ base }}/{{ lang }}/privacy/">{{ t.privacy_link }}</a> · <a href="{{ base }}/{{ lang }}/forecasts/">{{ t.forecasts_link }}</a> · <a href="{{ base }}/{{ lang }}/republish/">{{ t.republish_offer }}</a> · <a href="{{ base }}/{{ lang }}/feed.xml">RSS</a>
     </div>
     <div style="max-width:26rem">{{ t.footer_note }}</div>
     {% if partners %}

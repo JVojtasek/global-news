@@ -11,7 +11,10 @@
     při stavbě webu z jejich vlastního textu a stránka je pro každého
     stejná. U zdravotní skupiny je navíc stálá poznámka, že zdraví je
     tady téma, ne rada — viz EDITORIAL-CODE, oddíl 5.  #}
-{% block title %}{{ hub.label }} — {{ brand }}{% endblock %}
+{# Samotné „Spánek — Moje noviny" je stejný titulek, jaký má rubrika,
+   a ve výsledku hledání se ty dvě stránky pak nedají rozeznat.
+   `hub_title` skládá engine/build.py a hlídá i délku. #}
+{% block title %}{{ hub_title or hub.label ~ ' — ' ~ brand }}{% endblock %}
 {% block description %}{{ t.hub_intro|format(hub.label) }}{% endblock %}
 {% block body %}
 <div class="wide hub">

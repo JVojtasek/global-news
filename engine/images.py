@@ -13,7 +13,9 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import re
 import textwrap
+import urllib.parse
 
 from PIL import Image, ImageDraw, ImageFont
 
@@ -108,6 +110,44 @@ _downloaded = 0
 _attempted = 0
 _used: set[str] = set()
 
+# Jméno souboru na Commons vypadá jako „Steve_Jobs_Headshot_2010_(cropped_4).jpg".
+# Vytáhnout se z něj dá docela slušný popis obrázku — a je to popis, který
+# k té fotce napsal ten, kdo ji nahrál, ne my.
+_FILE_RX = re.compile(r"/(?:wiki/)?(?:File|Soubor|Fichier|Datei):([^?#/]+)", re.I)
+_EXT_RX = re.compile(r"\.(?:jpe?g|png|gif|webp|tiff?|svg)$", re.I)
+
+
+def alt_text(credit: dict | None) -> str:
+    """Popis obrázku pro čtečku obrazovky a pro hledání v obrázcích.
+
+    Bez `alt` je fotka pro slepého čtenáře i pro vyhledávač prázdné místo.
+    Vymýšlet si, co na obrázku je, ale nesmíme — obrázek jsme nevybírali
+    podle obsahu, ale podle tématu. Používáme proto jméno, které dal
+    souboru jeho autor: buď přímo z popisu obrázku, nebo z adresy na
+    Wikimedia Commons. Když ani z toho nic není, zůstane `alt` prázdné,
+    což u obrázku vedle titulku článku dává správný smysl (je ozdobný).
+    """
+    if not credit:
+        return ""
+    name = str(credit.get("title") or "").strip()
+    if not name:
+        found = _FILE_RX.search(str(credit.get("url") or ""))
+        name = urllib.parse.unquote(found.group(1)) if found else ""
+    name = _EXT_RX.sub("", name)
+    name = re.sub(r"\((?:[^()]*)\)", " ", name)          # pryč s „(cropped 4)"
+    name = re.sub(r"[_\-]+", " ", name)
+    words = [w for w in name.split() if w]
+    # Datum na konci jména souboru („29 6 2013 08") do popisu nepatří.
+    # Jedno osamocené číslo se ale nechává: v „NGC 3818" nebo „Apollo 11"
+    # je to celé jméno té věci.
+    tail = 0
+    while tail < len(words) and re.fullmatch(r"[0-9.]+", words[-1 - tail]):
+        tail += 1
+    if tail >= 2:
+        words = words[:-tail]
+    out = " ".join(words).strip(" ,.;–—")
+    return out[:120] if len(out) >= 3 else ""
+
 
 def _attempt_limit(cfg: dict) -> int:
     """Maximum number of articles allowed to start remote image lookup.
@@ -138,13 +178,14 @@ def ensure(meta: dict) -> dict:
     manual = config.STATIC / "covers" / f"{slug}.jpg"
     if manual.exists():
         out.write_bytes(manual.read_bytes())
-        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None}
+        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None, "alt": ""}
 
     # 2) obrázek stažený při některém dřívějším běhu
     if cache.exists():
         out.write_bytes(cache.read_bytes())
         cred = json.loads(credits.read_text(encoding="utf-8")) if credits.exists() else None
-        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": cred}
+        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": cred,
+                "alt": alt_text(cred)}
 
     # 3) volné zdroje na internetu
     cfg = config.site().get("images", {})
@@ -164,13 +205,18 @@ def ensure(meta: dict) -> dict:
                     "text": f"{hit['author']} · {hit['license_label']}",
                     "url": hit["page"],
                     "provider": hit["provider"],
+                    # Jméno obrázku od zdroje. Ukládá se kvůli popisu `alt`:
+                    # ze staré obálky se dá vytáhnout jen z adresy a to
+                    # nevyjde vždycky.
+                    "title": str(hit.get("title") or "")[:160],
                 }
                 credits.write_text(json.dumps(cred, ensure_ascii=False), encoding="utf-8")
                 out.write_bytes(cache.read_bytes())
-                return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": cred}
+                return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": cred,
+                        "alt": alt_text(cred)}
 
     # 4) když se skutečná fotka nenašla
     if cfg.get("fallback", "none") == "typographic":
         cover(meta, out)
-        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None}
-    return {"src": None, "credit": None}
+        return {"src": f"{config.base_path()}/img/{slug}.jpg", "credit": None, "alt": ""}
+    return {"src": None, "credit": None, "alt": ""}

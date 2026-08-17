@@ -23,7 +23,7 @@
 
    Prázdný blok se nevypisuje vůbec. Nikdy nadpis, pod kterým nic není.
    ===================================================================== #}
-{% block title %}{{ page.title }} — {{ brand }}{% endblock %}
+{% block title %}{{ page.seo_title or page.title ~ ' — ' ~ brand }}{% endblock %}
 {% block description %}{{ page.dek or t.pr_intro }}{% endblock %}
 
 {# --- 5. CO BY OPTIMALIZOVAL STROJ ---------------------------------

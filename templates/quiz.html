@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ quiz.title }} — {{ brand }}{% endblock %}
+{% block title %}{{ quiz.seo_title or quiz.title ~ ' — ' ~ brand }}{% endblock %}
 {% block description %}{{ quiz.dek }}{% endblock %}
 {% block head %}
 <script type="application/ld+json">{{ quiz_jsonld|safe }}</script>

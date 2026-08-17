@@ -1,5 +1,8 @@
 {% extends "base.html" %}
 {% block title %}{{ wider_lens['archive_title_' ~ lang] or wider_lens.archive_title_en }} — {{ brand }}{% endblock %}
+{# Popisek je tentýž text, který stojí pod nadpisem — je pravdivý
+   a přesně říká, čím se tahle stránka liší od ostatních výpisů. #}
+{% block description %}{{ wider_lens['archive_intro_' ~ lang] or wider_lens.archive_intro_en }}{% endblock %}
 {% block body %}
 <div class="wide sec-head lens-archive-head">
   <p class="lens-eyebrow">{{ wider_lens['eyebrow_' ~ lang] or wider_lens.eyebrow_en }}</p>
@@ -12,7 +15,7 @@
   <div class="grid">
     {% for a in articles %}
     <article class="card{% if not a.image %} nopic{% endif %}">
-      {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
+      {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt=""{% if a.img_w and a.img_h %} width="{{ a.img_w }}" height="{{ a.img_h }}"{% endif %} loading="lazy" decoding="async"></a>{% endif %}
       <div class="body">
         <div class="kicker">{{ a.section_label }} · {{ a.date }}</div>
         <h2><a href="{{ a.url }}">{{ a.title }}</a></h2>

@@ -1,5 +1,9 @@
 {% extends "base.html" %}
-{% block title %}{{ section_label }} — {{ brand }}{% endblock %}
+{# Titulek a popisek rubriky přicházejí z engine/build.py: pro každou
+   rubriku vlastní věta o tom, co se v ní píše. „Svět — Moje noviny"
+   je pravda, ale nikoho to neotevře. Viditelný nadpis se nemění. #}
+{% block title %}{{ section_title }}{% endblock %}
+{% block description %}{{ section_desc }}{% endblock %}
 {% block body %}
 {#  Rubrika jako stránka v tištěných novinách: hlavička s názvem a tenkou
     linkou pod ním, jeden velký úvodní článek a pod ním dva sloupce.
@@ -28,7 +32,7 @@
 
     {% if lead %}
     <div class="hero sec-lead{% if not lead.image %} nopic{% endif %}" data-load="{{ lead.load }}" data-band="{{ lead.band }}" data-topics="{{ lead.topics_csv }}" data-tags="{{ lead.tags_csv }}" data-date="{{ lead.date }}" data-words="{{ lead.words }}" data-brief="{{ 1 if lead.has_brief else 0 }}">
-      {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>{% endif %}
+      {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""{% if lead.img_w and lead.img_h %} width="{{ lead.img_w }}" height="{{ lead.img_h }}"{% endif %} fetchpriority="high" decoding="async"></a>{% endif %}
       <div class="hero-text">
         <div class="kicker">{{ lead.date }}</div>
         <h2><a href="{{ lead.url }}">{{ lead.title }}</a></h2>
@@ -43,7 +47,7 @@
     <div class="grid" id="sec-grid">
       {% for a in rest %}
       <div class="card{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-tags="{{ a.tags_csv }}" data-date="{{ a.date }}" data-words="{{ a.words }}" data-brief="{{ 1 if a.has_brief else 0 }}">
-        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
+        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt=""{% if a.img_w and a.img_h %} width="{{ a.img_w }}" height="{{ a.img_h }}"{% endif %} loading="lazy" decoding="async"></a>{% endif %}
         <div class="body">
           <div class="kicker">{{ a.date }}</div>
           <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>

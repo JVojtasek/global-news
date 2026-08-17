@@ -1,5 +1,9 @@
 {% extends "base.html" %}
-{% block title %}{{ brand }} — {{ tagline }}{% endblock %}
+{# Titulek a popisek titulní strany. Heslo novin je hezké, ale ve
+   výsledku hledání neříká nikomu, co tady najde — a stránka, která
+   to neřekne, se neotevře. Texty jsou v STRINGS v engine/build.py. #}
+{% block title %}{{ t.home_title }}{% endblock %}
+{% block description %}{{ t.home_desc }}{% endblock %}
 {% block body %}
 
 {# Myšlenka dne stojí nad novinami, ne pod nimi: tenká linka, malá
@@ -86,7 +90,7 @@
     </section>
     {% endif %}
     <div class="hero{% if not lead.image %} nopic{% endif %}" data-load="{{ lead.load }}" data-band="{{ lead.band }}" data-topics="{{ lead.topics_csv }}" data-tags="{{ lead.tags_csv }}" data-date="{{ lead.date }}" data-brief="{{ 1 if lead.has_brief else 0 }}">
-      {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""></a>{% endif %}
+      {% if lead.image %}<a class="hero-img" href="{{ lead.url }}"><img src="{{ lead.image }}" alt=""{% if lead.img_w and lead.img_h %} width="{{ lead.img_w }}" height="{{ lead.img_h }}"{% endif %} fetchpriority="high" decoding="async"></a>{% endif %}
       <div class="hero-text">
         <div class="kicker">{{ lead.section_label }}</div>
         <h1><a href="{{ lead.url }}">{{ lead.title }}</a></h1>
@@ -108,7 +112,7 @@
     <div class="grid">
       {% for a in articles %}
       <div class="card{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-tags="{{ a.tags_csv }}" data-date="{{ a.date }}" data-brief="{{ 1 if a.has_brief else 0 }}">
-        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
+        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt=""{% if a.img_w and a.img_h %} width="{{ a.img_w }}" height="{{ a.img_h }}"{% endif %} loading="lazy" decoding="async"></a>{% endif %}
         <div class="body">
           <div class="kicker">{{ a.section_label }}</div>
           <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
@@ -143,7 +147,7 @@
     <div class="grid tight">
       {% for a in row.articles %}
       <div class="card small{% if not a.image %} nopic{% endif %}" data-load="{{ a.load }}" data-band="{{ a.band }}" data-topics="{{ a.topics_csv }}" data-tags="{{ a.tags_csv }}" data-date="{{ a.date }}" data-brief="{{ 1 if a.has_brief else 0 }}">
-        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt="" loading="lazy"></a>{% endif %}
+        {% if a.image %}<a href="{{ a.url }}"><img src="{{ a.image }}" alt=""{% if a.img_w and a.img_h %} width="{{ a.img_w }}" height="{{ a.img_h }}"{% endif %} loading="lazy" decoding="async"></a>{% endif %}
         <div class="body">
           <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
         </div>

@@ -311,6 +311,16 @@ seo:
   seznam_verification: ""
   # Účty na sítích — kvůli náhledům při sdílení
   twitter_handle: ""
+  # Obrázek, který se ukáže při sdílení stránky, ke které žádný obrázek
+  # nepatří — titulní strany, rubriky, a taky článku bez vlastní fotky
+  # (těch je asi třetina, protože `images.fallback` je schválně `none`).
+  # Odkaz bez obrázku vypadá na Facebooku i v Bluesky jako holý řádek
+  # textu a proklikne se mnohem hůř.
+  #   Co sem patří: cesta k souboru v static/, třeba "/img/share.jpg",
+  #   nebo celá adresa. Obrázek má mít 1200 × 630 bodů.
+  #   Dokud je políčko prázdné, nevypíše se žádná značka — odkaz na
+  #   neexistující obrázek je horší než náhled bez obrázku.
+  share_image: ""
   # Kolik souvisejících článků nabídnout na konci textu
   related_count: 3
   # Vypsat u článku odhad doby čtení

@@ -17,7 +17,10 @@
    nedělali, že víme víc, než víme.
    ===================================================================== #}
 {% block title %}{% if country %}{{ t.co_title % country.label_for }}{% else %}{{ t.co_pick_title }}{% endif %} — {{ brand }}{% endblock %}
-{% block description %}{% if country %}{{ t.co_title % country.label_for }}{% if window_label %} · {{ t.co_window % window_label }}{% endif %}{% else %}{{ t.co_intro }}{% endif %}{% endblock %}
+{# Popisek země dodává engine/build.py (`co_desc`). Předtím to byl
+   jen nadpis a rozsah dat — pravda, ale ve výsledku hledání to
+   nikomu neřeklo, co na té stránce je. #}
+{% block description %}{% if country %}{{ country_desc }}{% else %}{{ t.co_intro }}{% endif %}{% endblock %}
 
 {# Mřížka zemí. Je potřeba dvakrát — na rozcestníku a na stránce země,
    ke které zatím nic nemáme, kde je to jediné, co má čtenáři ještě co
