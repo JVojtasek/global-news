@@ -32,6 +32,15 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
 
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 8 dní · 5 záznamů
+- časová osa:
+  - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+  - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
+  - **2026-08-16** (3 zdrojů) Trump envoy Kushner meets Hamas leader to push Gaza peace plan
+  - **2026-08-17** (2 zdrojů) Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza
+  - **2026-08-17** (3 zdrojů) Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 3 dní · 5 záznamů
 - časová osa:
@@ -40,14 +49,6 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
   - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
   - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 8 dní · 4 záznamů
-- časová osa:
-  - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-  - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
-  - **2026-08-16** (3 zdrojů) Trump envoy Kushner meets Hamas leader to push Gaza peace plan
-  - **2026-08-17** (2 zdrojů) Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza
 
 ### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
 - rubrika `world` · sledováno 0 dní · 4 záznamů
