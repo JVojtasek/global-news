@@ -7,9 +7,8 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 8 dní · 25 záznamů
+- rubrika `world` · sledováno 8 dní · 26 záznamů
 - časová osa:
-  - **2026-08-15** (2 zdrojů) Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
   - **2026-08-15** (2 zdrojů) Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
   - **2026-08-15** (2 zdrojů) Trump threatens to declare strait of Hormuz ‘territory of the United States’
   - **2026-08-16** (2 zdrojů) Iran war: Qatar denies holding missing Iranian fighter pilots
@@ -19,9 +18,10 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (3 zdrojů) Trump orders Pentagon to scale back joint exercises with South Korea
   - **2026-08-17** (2 zdrojů) Trump orders US to scale back South Korea military drills
   - **2026-08-17** (2 zdrojů) Troops from North Korea to boost Russia's Ukraine forces
+  - **2026-08-17** (2 zdrojů) Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 6 dní · 9 záznamů
+- rubrika `world` · sledováno 6 dní · 10 záznamů
 - časová osa:
   - **2026-08-11** (3 zdrojů) Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
@@ -32,6 +32,7 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
   - **2026-08-17** (2 zdrojů) Ukraine and Russia intensify attacks, several killed in Belgorod border region
+  - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 6 záznamů
@@ -52,6 +53,14 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
   - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
 
+### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
+- rubrika `sport` · sledováno 1 dní · 4 záznamů
+- časová osa:
+  - **2026-08-16** (2 zdrojů) Nightmare Man City start for Maresca - are Arsenal really so far ahead?
+  - **2026-08-16** (2 zdrojů) Arsenal cruise to win over Manchester City in Community Shield
+  - **2026-08-17** (2 zdrojů) 'He's the professor' - Rodri's Manchester City journey
+  - **2026-08-17** (1 zdrojů) Enzo Maresca’s Manchester City opener was startlingly bad
+
 ### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
 - rubrika `world` · sledováno 0 dní · 4 záznamů
 - časová osa:
@@ -59,11 +68,3 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-14** (2 zdrojů) Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live
   - **2026-08-14** (2 zdrojů) Clacton by-election: Farage may win the town, but can he win the country?
   - **2026-08-14** (5 zdrojů) Futile Clacton byelection has done Farage no favours
-
-### Typhoon Dolphin batters Japan's Okinawa before bearing down on China
-- rubrika `world` · sledováno 1 dní · 4 záznamů
-- časová osa:
-  - **2026-08-09** (4 zdrojů) Typhoon Dolphin batters Japan's Okinawa before bearing down on China
-  - **2026-08-10** (1 zdrojů) Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
-  - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
-  - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know

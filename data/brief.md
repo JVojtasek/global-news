@@ -80,12 +80,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### toddler tantrums
-- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### artificial intelligence jobs
+- rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
-  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
-  - Holly Valance — <https://en.wikipedia.org/wiki/Holly_Valance>
+  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
 
 ---
 
@@ -106,13 +106,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 25  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 26  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 25
-  2026-08-11  (3 zdrojů, síla 52)  Bluster and backdown have turned Iran war into Trump’s own Groundhog Day
+rubrika: world · sledováno od 2026-08-09 · záznamů: 26
   2026-08-11  (2 zdrojů, síla 45)  Trump demands Iran pay compensation for decades of US soldier deaths
   2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue
   2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
@@ -132,15 +131,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 25
   2026-08-17  (3 zdrojů, síla 53)  Trump orders Pentagon to scale back joint exercises with South Korea
   2026-08-17  (2 zdrojů, síla 45)  Trump orders US to scale back South Korea military drills
   2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces
+  2026-08-17  (2 zdrojů, síla 44)  Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 9  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 10  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 9
+rubrika: world · sledováno od 2026-08-11 · záznamů: 10
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -150,6 +150,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 9
   2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles
   2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region
+  2026-08-17  (2 zdrojů, síla 49)  Why Kyiv keeps attacking Russian retail giant Wildberries
 ```
 
 ---
