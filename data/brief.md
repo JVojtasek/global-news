@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-16
+# ZADÁNÍ PRO REDAKCI — 2026-08-17
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -29,24 +29,7 @@
     <https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election>
     > The anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton.
 
-### 2. Kennedy Center board approves Trump name on facade, renovation plan
-- id události: `48a7d81e65e9`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **DW News** — Kennedy Center board approves Trump name on facade, renovation plan
-    <https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf>
-    > The move appears designed to circumvent a judge's ruling that the US president's name should be removed, potentially setting the stage for a new legal fight over the Kennedy Center's name and future.
-  - **NPR News** — Kennedy Center Board votes again to shut main building down — and add Trump's name back
-    <https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump>
-    > The board voted to close the Washington, D.C., arts complex's main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure.
-  - **CNBC Top** — Kennedy Center board votes to put Trump name on facade despite court order
-    <https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html>
-    > President Donald Trump's name was removed from the Washington, D.C., performing arts center in June as the result of a lawsuit by an Ohio congresswoman.
-  - **Al Jazeera** — Kennedy Center votes to restore Trump’s name to venue, close for two years
-    <https://www.aljazeera.com/news/2026/8/13/kennedy-center-votes-to-restore-trumps-name-to-venue-close-for-two-years?traffic_source=rss>
-    > Trustees condemn Kennedy Center’s move to re-add Trump’s name and shut down for extensive renovations.
-
-### 3. Donald Trump to declare Hormuz US territory 'soon'
+### 2. Donald Trump to declare Hormuz US territory 'soon'
 - id události: `19a5a4d8911d`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,7 +48,7 @@
   - **Investing.com** — Iran defiant on strait as Trump tells Americans to accept high gas prices
     <https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490>
 
-### 4. France's top court blocks social media ban for under-15s
+### 3. France's top court blocks social media ban for under-15s
 - id události: `feba530ce504`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,16 +65,33 @@
     <https://www.france24.com/en/france-blocks-under-15-social-media-ban>
     > France’s Constitutional Council has blocked a bill that would have banned social media access for under-15s, ruling that it infringed on freedom of expression. It’s a setback for President Emmanuel Macron, who has championed the legislation and has now asked his prime minister to
 
+### 4. Bezos-backed consortium buys a third of Liverpool
+- id události: `ecebd07d0359`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Bezos-backed consortium buys a third of Liverpool
+    <https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss>
+    > Liverpool's owners agree to sell around a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.
+  - **Al Jazeera** — Liverpool to sell minority stake to consortium including Jeff Bezos
+    <https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss>
+    > The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
+  - **CNBC Top** — Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner
+    <https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html>
+    > The group that includes Jeff Bezos has an option to become the majority shareholder within the next year.
+  - **Guardian Sport** — Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos
+    <https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium>
+    > Confirmed deal values club as a whole at £5.5bn Amit Bhatia will become club’s new vice-chairman Liverpool’s owner, Fenway Sports Group, has confirmed it has agreed the sale of 30% of the club to a consortium including Amit Bhatia, the Amazon founder Jeff Bezos and the Facebook c
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### space telescope
-- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### toddler tantrums
+- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
+  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
+  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
 
 ---
 
@@ -112,13 +112,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 20  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 21  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 20
-  2026-08-09  (6 zdrojů, síla 83)  Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+rubrika: world · sledováno od 2026-08-09 · záznamů: 21
   2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
   2026-08-11  (2 zdrojů, síla 43)  Trump signals shift to economic pressure on Iran over new military strikes
@@ -138,6 +137,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 20
   2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’
   2026-08-16  (2 zdrojů, síla 42)  Iran war: Qatar denies holding missing Iranian fighter pilots
   2026-08-16  (2 zdrojů, síla 42)  Qatar denies capturing three Iranian pilots after downing fighter jets
+  2026-08-17  (3 zdrojů, síla 55)  Trump says US to scale back military drills with South Korea after it stayed out of Iran war
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

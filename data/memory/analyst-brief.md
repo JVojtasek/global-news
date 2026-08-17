@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-16
+# ANALYTICKÉ ZADÁNÍ — 2026-08-17
 
 Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
 
@@ -7,9 +7,8 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 7 dní · 20 záznamů
+- rubrika `world` · sledováno 8 dní · 21 záznamů
 - časová osa:
-  - **2026-08-12** (2 zdrojů) Gulf states scramble for Strait of Hormuz alternative
   - **2026-08-12** (2 zdrojů) Lebanon becomes first Middle East country to end death penalty
   - **2026-08-13** (3 zdrojů) ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
   - **2026-08-15** (4 zdrojů) Donald Trump to declare Hormuz US territory 'soon'
@@ -19,6 +18,7 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-15** (2 zdrojů) Trump threatens to declare strait of Hormuz ‘territory of the United States’
   - **2026-08-16** (2 zdrojů) Iran war: Qatar denies holding missing Iranian fighter pilots
   - **2026-08-16** (2 zdrojů) Qatar denies capturing three Iranian pilots after downing fighter jets
+  - **2026-08-17** (3 zdrojů) Trump says US to scale back military drills with South Korea after it stayed out of Iran war
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 4 dní · 8 záznamů
@@ -41,6 +41,14 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
   - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
 
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 8 dní · 4 záznamů
+- časová osa:
+  - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+  - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
+  - **2026-08-16** (3 zdrojů) Trump envoy Kushner meets Hamas leader to push Gaza peace plan
+  - **2026-08-17** (2 zdrojů) Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza
+
 ### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
 - rubrika `world` · sledováno 0 dní · 4 záznamů
 - časová osa:
@@ -56,10 +64,3 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-10** (1 zdrojů) Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai
   - **2026-08-10** (2 zdrojů) China: Typhoon Dolphin prompts mass evacuation, canceled flights
   - **2026-08-10** (2 zdrojů) One million evacuated as Typhoon Dolphin pummels east China: What we know
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 7 dní · 3 záznamů
-- časová osa:
-  - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-  - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
-  - **2026-08-16** (3 zdrojů) Trump envoy Kushner meets Hamas leader to push Gaza peace plan
