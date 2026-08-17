@@ -1,16 +1,16 @@
 ---
 slug: ai-speed-vs-safety
 title: Three AI Companies, One Week, Zero Time to Check Each Other's Work
-dek: Google shipped a new model in three weeks, OpenAI dissolved the team built
-  to catch dangerous ones, and Meta argued openness is safety. None of it was
-  checked by anyone outside the building.
+dek: Google shipped a new model in three weeks, OpenAI dissolved the team built to
+  catch dangerous ones, and Meta argued openness is safety. None of it was checked
+  by anyone outside the building.
 section: tech
 type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 78
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -22,8 +22,8 @@ event_id: ''
 series: ''
 image_query: computer chip circuit board
 sources:
-- name: Ars Technica — Google announces Gemini 3.7 Flash just three weeks after
-    previous release
+- name: Ars Technica — Google announces Gemini 3.7 Flash just three weeks after previous
+    release
   url: https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/
   published: '2026-08-13'
 - name: The Verge — OpenAI reportedly disbanded its preparedness team
@@ -45,22 +45,22 @@ impact:
   areas:
   - safety
   - life
-  line: Anyone who now leans on an AI tool for research, work or decisions is
-    trusting products that shipped faster this week than any outside reviewer
-    could realistically check them.
-  todo: Before you let a new AI feature handle something that matters, look
-    for what the company has published about how it was tested — not just
-    what's new about it.
+  line: Anyone who now leans on an AI tool for research, work or decisions is trusting
+    products that shipped faster this week than any outside reviewer could realistically
+    check them.
+  todo: Before you let a new AI feature handle something that matters, look for what
+    the company has published about how it was tested — not just what's new about
+    it.
 quiz:
-  question: According to this article, how long was it between Google's
-    Gemini 3.6 Flash and Gemini 3.7 Flash releases?
+  question: According to this article, how long was it between Google's Gemini 3.6
+    Flash and Gemini 3.7 Flash releases?
   options:
   - About three weeks
   - About three months
   - About a year
   answer: 0
-  explanation: Ars Technica reported that Gemini 3.7 Flash launched just three
-    weeks after version 3.6, with Google describing "substantial improvements."
+  explanation: Ars Technica reported that Gemini 3.7 Flash launched just three weeks
+    after version 3.6, with Google describing "substantial improvements."
 ---
 
 ## BRIEFLY

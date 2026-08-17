@@ -1,16 +1,15 @@
 ---
 slug: public-disgrace-jason-arday
-title: Jason Arday Resigned Amid a Plagiarism Row. A Week Later, He Was Found
-  Dead.
-dek: What three news reports actually confirm about this story, what they
-  don't, and the harder question left over once the facts run out.
+title: Jason Arday Resigned Amid a Plagiarism Row. A Week Later, He Was Found Dead.
+dek: What three news reports actually confirm about this story, what they don't, and
+  the harder question left over once the facts run out.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 62
+status: review
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
@@ -22,40 +21,38 @@ event_id: ''
 series: ''
 image_query: empty university hallway
 sources:
-- name: DW News — Jason Arday, Ex-Cambridge professor at centre of plagiarism
-    scandal, found dead
+- name: DW News — Jason Arday, Ex-Cambridge professor at centre of plagiarism scandal,
+    found dead
   url: https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633
   published: '2026-08-14'
-- name: The Guardian — Jason Arday found dead after resigning from Cambridge
-    over plagiarism claims
+- name: The Guardian — Jason Arday found dead after resigning from Cambridge over
+    plagiarism claims
   url: https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims
   published: '2026-08-14'
-- name: Al Jazeera — Former Cambridge professor accused of plagiarism found
-    dead
+- name: Al Jazeera — Former Cambridge professor accused of plagiarism found dead
   url: https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead
   published: '2026-08-14'
 impact:
   areas:
   - life
-  line: Most readers will never face a scandal this public, but the underlying
-    experience — a reputation collapsing faster than the facts that are
-    supposed to settle it — is common to careers, relationships and online
-    life far beyond academia.
-  todo: If intense professional or public pressure is something you or
-    someone close to you is dealing with right now, treat this story as a
-    prompt to actually reach out to a real person about it, not as
-    information about a stranger's private situation.
+  line: Most readers will never face a scandal this public, but the underlying experience
+    — a reputation collapsing faster than the facts that are supposed to settle it
+    — is common to careers, relationships and online life far beyond academia.
+  todo: If intense professional or public pressure is something you or someone close
+    to you is dealing with right now, treat this story as a prompt to actually reach
+    out to a real person about it, not as information about a stranger's private situation.
 quiz:
-  question: According to these reports, what had Jason Arday resigned from
-    roughly a week before he was found dead?
+  question: According to these reports, what had Jason Arday resigned from roughly
+    a week before he was found dead?
   options:
   - His professorship at the University of Cambridge
   - His seat on a government advisory panel
   - His position at a publishing house
   answer: 0
-  explanation: All three sources report that Arday resigned as a professor
-    at the University of Cambridge amid plagiarism allegations shortly
-    before he was found dead at his home in south London.
+  explanation: All three sources report that Arday resigned as a professor at the
+    University of Cambridge amid plagiarism allegations shortly before he was found
+    dead at his home in south London.
+review_reason: 'citlivé téma: accused'
 ---
 
 ## BRIEFLY

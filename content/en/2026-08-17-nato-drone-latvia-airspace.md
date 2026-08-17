@@ -1,17 +1,16 @@
 ---
 slug: nato-drone-latvia-airspace
-title: A Drone Crossed Into Latvia. NATO Jets Had Minutes to Decide What To Do
-  About It
-dek: The drone that entered Latvian airspace on August 14 was shot down fast.
-  What's slower to settle is whose it was, and what that uncertainty is
-  starting to cost.
+title: A Drone Crossed Into Latvia. NATO Jets Had Minutes to Decide What To Do About
+  It
+dek: The drone that entered Latvian airspace on August 14 was shot down fast. What's
+  slower to settle is whose it was, and what that uncertainty is starting to cost.
 section: safety
 type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 76
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -26,8 +25,8 @@ sources:
 - name: DW News — NATO jets shoot down drone over Latvia
   url: https://www.dw.com/en/nato-jets-shoot-down-drone-over-latvia/a-78366346
   published: '2026-08-14'
-- name: CNBC — NATO aircraft shoot down drone over Latvia, which blames 'Russian
-    electromagnetic warfare'
+- name: CNBC — NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic
+    warfare'
   url: https://www.cnbc.com/2026/08/14/nato-drone-latvia.html
   published: '2026-08-14'
 - name: France 24 — NATO jets shoot down drone flying over eastern Latvia
@@ -37,25 +36,24 @@ impact:
   areas:
   - safety
   - life
-  line: Most readers will never fly near the Baltic states, but the incident
-    is part of a wider pattern of contested, low-level airspace tests that
-    shape how much European governments spend on air defense and how travel
-    and insurance costs around that region are assessed.
-  todo: If you're planning travel through Baltic or Eastern European airspace,
-    check your airline's and government's current travel advisories rather
-    than assuming a single incident like this one changes anything on its own.
+  line: Most readers will never fly near the Baltic states, but the incident is part
+    of a wider pattern of contested, low-level airspace tests that shape how much
+    European governments spend on air defense and how travel and insurance costs around
+    that region are assessed.
+  todo: If you're planning travel through Baltic or Eastern European airspace, check
+    your airline's and government's current travel advisories rather than assuming
+    a single incident like this one changes anything on its own.
 quiz:
-  question: According to this article, which country's defense ministry
-    confirmed that a drone entered its airspace before NATO jets shot it down
-    on August 14?
+  question: According to this article, which country's defense ministry confirmed
+    that a drone entered its airspace before NATO jets shot it down on August 14?
   options:
   - Latvia
   - Estonia
   - Poland
   answer: 0
-  explanation: France 24 reported that Latvia's defence ministry confirmed
-    the drone entered the country's airspace before fighter jets on a NATO
-    air-defence mission shot it down.
+  explanation: France 24 reported that Latvia's defence ministry confirmed the drone
+    entered the country's airspace before fighter jets on a NATO air-defence mission
+    shot it down.
 ---
 
 ## BRIEFLY
