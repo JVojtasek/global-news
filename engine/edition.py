@@ -129,7 +129,27 @@ def today_plan(day: dt.date | None = None) -> dict:
     return build(day)
 
 
-def run() -> dict:
+def run(force: bool = False) -> dict:
+    """Zapíše plán na dnešek — ale hotový plán nepřepíše.
+
+    Pisatelé pracují podle toho, co v plánu našli ráno. Kdyby ho pozdější
+    běh přepsal, jejich hotové články by najednou seděly ve „špatných"
+    rubrikách a hlídač by vydání označil za rozbité, přestože je v pořádku.
+    Přesně to se stalo 17. srpna 2026, když se uprostřed dne změnilo, jak
+    se rubriky vybírají.
+
+    Plán se proto přepíše jen na výslovné vyžádání (`--force`).
+    """
+    today = dt.date.today()
+    path = config.DATA / "edition-plan.json"
+    if not force and path.exists():
+        try:
+            stored = json.loads(path.read_text(encoding="utf-8"))
+            if stored.get("date") == today.isoformat() and stored.get("slots"):
+                config.log("Plán vydání pro dnešek už existuje, nechávám ho být.")
+                return stored
+        except (ValueError, OSError):
+            pass
     plan = build()
     (config.DATA / "edition-plan.json").write_text(
         json.dumps(plan, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -156,4 +176,5 @@ def run() -> dict:
 
 
 if __name__ == "__main__":
-    run()
+    import sys
+    run(force="--force" in sys.argv)

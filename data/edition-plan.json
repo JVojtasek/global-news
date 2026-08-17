@@ -9,7 +9,7 @@
       "type": "daily",
       "min_words": 1400,
       "max_words": 2000,
-      "section": "travel",
+      "section": "parenting",
       "status": "draft"
     },
     {
@@ -18,7 +18,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "food",
+      "section": "health",
       "status": "draft"
     },
     {
@@ -27,7 +27,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "tech",
+      "section": "culture",
       "status": "draft"
     },
     {
@@ -36,7 +36,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1600,
-      "section": "relationships",
+      "section": "safety",
       "status": "draft"
     },
     {
@@ -45,7 +45,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "science",
+      "section": "tech",
       "status": "draft"
     },
     {
@@ -54,7 +54,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "parenting",
+      "section": "meaning",
       "status": "draft"
     }
   ],
