@@ -1,69 +1,10 @@
 {
  "date": "2026-08-17",
  "mode": "normal",
- "days_since_human": 2,
+ "days_since_human": 3,
  "confidence_threshold": 82,
  "reserve_articles": 0,
  "news_assignments": [
-  {
-   "id": "5a0bc875861a",
-   "headline": "Futile Clacton byelection has done Farage no favours",
-   "section": "world",
-   "score": 75,
-   "sources_count": 5,
-   "depth_signal": 0,
-   "created": "2026-08-14T09:38:34+00:00",
-   "event_time": "2026-08-14T08:25:33+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Futile Clacton byelection has done Farage no favours",
-     "url": "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
-     "source": "The Guardian World",
-     "summary": "The Reform UK leader forced a vote that failed to make financial questions disappear, only the man himself • Clacton byelection – UK politics live Dawn had long broken in the Essex town of Clacton-on-Sea when the results for the byelection came in. After a gruelling count, an atmosphere of deep exhaustion had settled over the room. Even the man with a dustbin on his head looked weary. As it was de",
-     "published_at": "2026-08-14T08:25:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-14T09:38:28+00:00"
-    },
-    {
-     "title": "Standards watchdog resumes investigation into Nigel Farage over financial gifts",
-     "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-     "source": "Guardian Business",
-     "summary": "Reform UK leader’s return to Clacton restarts inquiry into £5m gift from cyrpto-billionaire and support from fraudster The suspended parliamentary standards investigation into Nigel Farage over accusations he failed to declare gifts and donations has resumed after the Reform UK leader’s re-election as the MP for Clacton. The twofold investigation by Daniel Greenberg, the parliamentary commissioner",
-     "published_at": "2026-08-14T08:17:55+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-14T09:38:28+00:00"
-    },
-    {
-     "title": "UK: Nigel Farage beats a trash can in Clacton by-election",
-     "url": "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Nigel Farage reclaimed his Clacton seat with 63% of the vote, but his main rival, Count Binface, took over a quarter, as Farage skipped the count citing security concerns.",
-     "published_at": "2026-08-14T07:32:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-14T09:38:28+00:00"
-    },
-    {
-     "title": "Nigel Farage defeats Count Binface to reclaim UK parliamentary seat",
-     "url": "https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface.",
-     "published_at": "2026-08-14T07:07:42+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-14T09:38:28+00:00"
-    },
-    {
-     "title": "Nigel Farage beats Count Binface to regain UK parliament seat in widely mocked by-election",
-     "url": "https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election",
-     "source": "France 24",
-     "summary": "The anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton.",
-     "published_at": "2026-08-14T06:34:35+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-14T09:38:28+00:00"
-    }
-   ],
-   "depth": "open"
-  },
   {
    "id": "19a5a4d8911d",
    "headline": "Donald Trump to declare Hormuz US territory 'soon'",
@@ -222,6 +163,47 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "8890d3817dfd",
+   "headline": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+   "section": "world",
+   "score": 63,
+   "sources_count": 3,
+   "depth_signal": 8,
+   "created": "2026-08-15T12:26:48+00:00",
+   "event_time": "2026-08-15T12:25:11+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+     "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+     "published_at": "2026-08-15T12:25:11+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-15T12:26:46+00:00"
+    },
+    {
+     "title": "Israeli strikes on south Lebanon kill nine in worst toll since June",
+     "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
+     "source": "The Guardian World",
+     "summary": "Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors Nine people have been killed, including three children, and 11 injured in two Israeli airstrikes on south Lebanon, the worst toll since deals in June brought a lull in hostilities between Israel and Hezbollah. Israeli warplanes bombed a home on the outskirts of the village of Ansar in sou",
+     "published_at": "2026-08-15T10:48:33+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-15T12:26:46+00:00"
+    },
+    {
+     "title": "At scene of deadly Israeli strike on Lebanon home",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.",
+     "published_at": "2026-08-15T10:18:40+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-15T12:26:46+00:00"
+    }
+   ],
+   "depth": "scripture"
   }
  ],
  "feature_assignments": [
@@ -259,16 +241,16 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 23\n  2026-08-11  (2 zdrojů, síla 43)  Trump signals shift to economic pressure on Iran over new military strikes\n  2026-08-11  (2 zdrojů, síla 41)  Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz\n  2026-08-11  (3 zdrojů, síla 52)  Bluster and backdown have turned Iran war into Trump’s own Groundhog Day\n  2026-08-11  (2 zdrojů, síla 45)  Trump demands Iran pay compensation for decades of US soldier deaths\n  2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue\n  2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\n  2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat\n  2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative\n  2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty\n  2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran\n  2026-08-15  (4 zdrojů, síla 69)  Donald Trump to declare Hormuz US territory 'soon'\n  2026-08-15  (2 zdrojů, síla 41)  Donald Trump says he faced ‘greater risk’ on swapped plane\n  2026-08-15  (2 zdrojů, síla 45)  Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control\n  2026-08-15  (2 zdrojů, síla 45)  Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?\n  2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’\n  2026-08-16  (2 zdrojů, síla 42)  Iran war: Qatar denies holding missing Iranian fighter pilots\n  2026-08-16  (2 zdrojů, síla 42)  Qatar denies capturing three Iranian pilots after downing fighter jets\n  2026-08-17  (3 zdrojů, síla 55)  Trump says US to scale back military drills with South Korea after it stayed out of Iran war\n  2026-08-17  (2 zdrojů, síla 46)  Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience\n  2026-08-17  (3 zdrojů, síla 53)  Trump orders Pentagon to scale back joint exercises with South Korea",
-   "thread_days": 23
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 25\n  2026-08-11  (3 zdrojů, síla 52)  Bluster and backdown have turned Iran war into Trump’s own Groundhog Day\n  2026-08-11  (2 zdrojů, síla 45)  Trump demands Iran pay compensation for decades of US soldier deaths\n  2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue\n  2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle\n  2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat\n  2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative\n  2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty\n  2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran\n  2026-08-15  (4 zdrojů, síla 69)  Donald Trump to declare Hormuz US territory 'soon'\n  2026-08-15  (2 zdrojů, síla 41)  Donald Trump says he faced ‘greater risk’ on swapped plane\n  2026-08-15  (2 zdrojů, síla 45)  Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control\n  2026-08-15  (2 zdrojů, síla 45)  Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?\n  2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’\n  2026-08-16  (2 zdrojů, síla 42)  Iran war: Qatar denies holding missing Iranian fighter pilots\n  2026-08-16  (2 zdrojů, síla 42)  Qatar denies capturing three Iranian pilots after downing fighter jets\n  2026-08-17  (3 zdrojů, síla 55)  Trump says US to scale back military drills with South Korea after it stayed out of Iran war\n  2026-08-17  (2 zdrojů, síla 46)  Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience\n  2026-08-17  (3 zdrojů, síla 53)  Trump orders Pentagon to scale back joint exercises with South Korea\n  2026-08-17  (2 zdrojů, síla 45)  Trump orders US to scale back South Korea military drills\n  2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces",
+   "thread_days": 25
   },
   {
    "id": "1bf4b58ce158",
    "title_hint": "What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live\nrubrika: world · sledováno od 2026-08-11 · záznamů: 8\n  2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live\n  2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says\n  2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13\n  2026-08-11  (2 zdrojů, síla 41)  Ukraine and Russia exchange attacks as Kyiv buys new ATACMS\n  2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles\n  2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine\n  2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure\n  2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles",
-   "thread_days": 8
+   "timeline": "VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live\nrubrika: world · sledováno od 2026-08-11 · záznamů: 9\n  2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live\n  2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says\n  2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13\n  2026-08-11  (2 zdrojů, síla 41)  Ukraine and Russia exchange attacks as Kyiv buys new ATACMS\n  2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles\n  2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine\n  2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure\n  2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles\n  2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+   "thread_days": 9
   }
  ],
  "demand_assignments": [
@@ -306,9 +288,9 @@
     "text": "A tantrum, conniption, angry outburst, temper tantrum, lash out, fit of anger, or hissy fit is an emotional outburst, usually associated with children or those in emotional distress. It is typically characterized by stubbornness, crying, screaming, violence, defiance, angry ranting, a resistance to attempts at pacification, and in some cases, hitting or bullying and other physically violent behavior. Physical control may be lost; the person may be unable to remain still; and even if the \"goal\" of the person is met, they may not be calmed.\nA tantrum may be expressed in a tirade: a protracted, angry speech.\nThrowing a temper tantrum by a child may lead to a punishment: getting detention or being suspended from school for older school-age children, and could result in a timeout or grounding, complete with timeout (room or corner time), at home. \n\nIn early childhood\nTantrums are one of the most common forms of problematic behavior in young children but tend to decrease in frequency and intensity as the child gets older. For a toddler, tantrums can be considered as normal, and even as gauges of developing strength of character.\nWhile tantrums are sometimes seen as a predictor of future anti-social behavior, in another sense they are simply an age-appropriate sign of excessive frustration, and will diminish over time given a calm and consistent handling. Parental containment where a child cannot contain themself—rather than what the child is ostensibly demanding—may be what is really required.\nSelma Fraiberg warned against \"too much pressure or forceful methods of control from the outside\" in child-rearing: \"if we turn every instance of pants changing, treasure hunting, napping, puddle wading and garbage distribution into a governmental crisis we can easily bring on fierce defiance, tantrums, and all the fireworks of revolt in the nursery\".\n\nIntellectual and developmental disorders\nAnyone may be prone to tantrums once in a while, regardless of gender or age, however tantrums may be more frequent in people with an intellectual disability or experiencing brain damage (temporary or permanent).\n\nMeltdowns\nWhile the outward behavior of a tantrum and a meltdown (including an Autistic meltdown) may be similar, meltdowns are generally the result of sensory overload rather than goal-oriented behaviour, and are outside of the control of the individual experiencing them. Applying common strategies for dealing with tantrums in children when a child is experiencing a meltdown is ineffective and can worsen the distress of the child. \n\nAberrations\nFreud considered that the Wolf Man's development of temper tantrums was connected with his seduction by his sister: he became \"discontented, irritable and violent, took offence on every possible occasion, and then flew into a rage and screamed like a savage\". Freud linked the tantrums to an unconscious need for punishment driven by feelings of guilt—something which he thought could be generalised to many other cases of childhood tantrums.\nHeinz Kohut contended that tantrums were rages of anger, caused by the thwarting of the infant's grandiose-exhibitionist core. The blow to the inflated self-image, when a child's wishes are (however justifiably) refused, creates fury because it strikes at the feeling of omnipotence.\nJealousy over the birth of a sibling, and resulting aggression, may also provoke negativistic tantrums, as the effort at controlling the feelings overloads the child's system of self-regulation.\n\nIn later life\nWriter William Makepeace Thackeray claimed that in later life \"you may tell a tantrum as far as you can see one, by the distressed and dissatisfied expression of its countenance —'Tantrumical', if we may term it so\".\nThe willingness of the celebrity to throw tantrums whenever thwarted to the least degree is a kind of acquired situational narcissism or tantrumical behavior.\nIf older people show tantrums, they might often be signs of immaturity or a mental or developmental disability; and often autistic or ADHD meltdowns are incorrectly labelled tantrums. It can also occur in neurotypical people under extreme stress.\n\nSee also\nActing out – Performing an action considered bad\nAmok syndrome – Aggressive behavioral pattern\nBerserker fights in a frenzy\nPhilippic – Damning speech to condemn a particular political actor\nAttention seeking – To act in a way that is likely to elicit attention\nHistrionic personality disorder – Personality disorder involving excessive emotionality and attention-seeking\n\nReferences\n\nExternal links\n The dictionary definition of tantrum at Wiktionary"
    },
    {
-    "title": "Toddlers & Tiaras",
-    "url": "https://en.wikipedia.org/wiki/Toddlers_&_Tiaras",
-    "text": "Toddlers & Tiaras (known as Another Toddlers & Tiaras in season 7) is an American reality television series that aired on TLC from January 27, 2009, to October 16, 2013. After a three-year hiatus due to much controversy, a sequel series premiered on August 24, 2016. The show follows the personal lives of families of contestants in a child beauty pageant. Like many shows about children pageants, it generated controversy for dressing the children provocatively. The show led to other reality show spin-offs: Eden's World, Here Comes Honey Boo Boo, and Cheer Perfection. On November 24, 2016, TLC cancelled the series after its 7th season finale.\n\nEpisodes\n\nControversy\n\nIn an August 2012 custody hearing surrounding a child participant on the show, a court-appointed psychologist said, \"Children adorned with pageantry identities are not 'playing' or 'pretending.' Instead, they are trained to closely resemble their adult counterparts.\" One mother on the show was criticized for padding her daughter's chest to resemble Dolly Parton's and another was criticized for asking her daughter to smoke fake cigarettes on stage.\n\nSpin-offs\nA spin-off series, Eden's World, began in March 2012 and focused on Eden Wood, her family, and her manager. In the show, Wood helped other girls to compete in pageants. The show was canceled a few months later.\nHere Comes Honey Boo Boo, a second spin-off, starring Alana \"Honey Boo Boo\" Thompson and her family began on August 8, 2012. The series was a reality show depicting contestant Honey Boo Boo, her parents, and her older sisters going about their lives outside of pageants. The show was canceled in 2014, after Thompson's mother was found to be in a relationship with a convicted sex offender.\nAnother spin-off, Cheer Perfection, began on December 21, 2012. The series features several of the children and their families from episodes of Toddlers & Tiaras. This reality series focuses on their cheer club Cheer Time Revolution and the drama with the mothers around the gym.\nA fourth spin-off, Little Miss Atlanta, aired in 2016. This series followed contestants in the Little Miss Black US Pageant.\n\nSee also\nChild beauty pageant\nBeauty pageant\n\nReferences\n\nExternal links\nOfficial website\nToddlers & Tiaras at IMDb"
+    "title": "Holly Valance",
+    "url": "https://en.wikipedia.org/wiki/Holly_Valance",
+    "text": "Holly Rachel Vukadinović (born 11 May 1983), known professionally as Holly Valance, is an Australian and British actress, singer, model, and a right-wing political activist and fundraiser.\nValance became well known for her role as Felicity Scully on the Australian soap opera Neighbours (1999–2002, 2005, 2022) and later played Nika Volek in Prison Break (2005–2006). Her film roles include DOA: Dead or Alive (2006), National Lampoon's Pledge This! (2006), Taken (2008), and Kambakkht Ishq (2009). Her first album, Footprints (2002), provided three top three singles: \"Kiss Kiss\", \"Down Boy\" and \"Naughty Girl\". The title song of her second and final album, State of Mind (2003), was also a UK top ten single. She was also a contestant on the ninth series of Strictly Come Dancing in 2011.\nSince 2024, Valance has become involved in UK and US politics as a prominent supporter and fundraiser for Nigel Farage's Reform UK and Donald Trump's fourth presidential campaign.\n\nEarly life\nHolly Valance was born on 11 May 1983, as Holly Rachel Vukadinović, in Fitzroy, Victoria, from Serb father, Rajko Vukadinović, and a British mother of English and Spanish descent Rachel (née Stephens) from Southampton. Her father was a former pianist and model in his native Belgrade, Serbia, former Yugoslavia. Her mother, whose father was a relative of comedian Benny Hill, was a model in the United Kingdom. \nValance's parents divorced in 1986. Valance has a sister, Coco. Rajko later remarried and Holly has a half-sister, Olympia, who has also acted in Neighbours as Paige Smith (2014–2018, 2020, 2022). In Melbourne Rajko ran a \"trendy imported European clothes store\".\nValance started modelling as a teenager, when \"she posed for supermarket catalogues and ad campaigns and by 14 she was earning $200 an hour modelling children's clothes and teenage lingerie.\" She grew up in Melbourne and moved to the UK when she was 18; she holds both Australian and British citizenship. After two years she moved to Los Angeles, where she spent seven years before returning to the United Kingdom.\n\nCareer\n\n1999–2003: Neighbours and music\nIn 1999 at age 16, Valance was cast in the Australian TV soap opera, Neighbours, as Felicity \"Flick\" Scully. Soon after gaining the role she left her Catholic school, \"where girls were given detention for wearing make-up or having a hem above the knee.\" She appeared in Human Nature's music video for \"He Don't Love You\" (November 2000), \"in a raunchy shower scene.\" Valance left Neighbours in 2002 to start her music career. Her first single, released in April 2002, was \"Kiss Kiss\", an English language cover version of Turkish singer Tarkan's \"Şımarık\". It entered both the ARIA Singles and UK Singles Charts at No. 1. It charted in the top ten in seventeen countries, and went to number one in North Macedonia. The song was nominated for four ARIA Music Awards in 2002.\nValance's second single, \"Down Boy\" (September), peaked at No. 2 in the UK and No. 3 in Australia. Her first album, Footprints, was released on 14 October 2002, which reached No. 9 in the UK and No. 15 in Australia. She co-wrote the album track \"The Harder They Come\" with Rob Davis, who supplied guitar for the album. The album's third and final single, \"Naughty Girl\", peaked at No. 3 in Australia and No. 16 in the UK. Valance's second album, State of Mind, appeared in November 2003 and its title track was the lead single. It peaked at No. 8 in the UK and at No. 14 in Australia. Valance dropped London Recordings in 2004 and said she was no longer interested in recording music.\n\n2004–2013: Prison Break and films\n\nIn 2004, Valance returned to acting, this time in the United States, appearing in episodes of the television series CSI: Miami and Entourage. In 2005, she appeared in an episode of CSI: NY. In 2005 Valance returned to music, albeit briefly, when she appeared on Har Mar Superstar's album The Handler singing on the tracks, \"DUI\", \"Back the Camel Up\" and \"Body Request\". She appeared in Prison Break in 2006 as Nika Volek, a role which she continued to portray in the show's second season. Also in 2006, Valance appeared in the National Lampoon comedy Pledge This!, alongside American socialite Paris Hilton. The same year, she starred in DOA: Dead or Alive, an adaptation of the popular video game Dead or Alive, in which she played Christie. In 2007, she appeared in the TV series Shark and Moonlight. In 2008, she had a role in the film Taken alongside Liam Neeson, and appeared in an episode of The CW series Valentine.\nIn 2009, Valance appeared in Frankmusik's video for his single \"Confusion Girl\". She also leaked a track called \"Superstar\" in 2009. In 2009 Valance played Brenda Snow for the video game Command & Conquer: Red Alert 3 – Uprising. She also appeared in Scott Caan's film Mercy. Valance took part in the 2011 series of Strictly Come Dancing, where she was paired with the professional winner of series 8, Artem Chigvintsev. Valance and Chigvintsev were eliminated in the semi-final of the competition on 11 December 2011, giving them a fourth-place finish. She also starred in the Miss Marple television episode called \"The Pale Horse\". In 2011, Valance appeared in an advert for Foster's Gold bottled beer.\nIn 2013, Valance was mentor and judge of fashion competition Shopaholic Showdown.\n\n2013–present: Hiatus and other projects\nIn 2013, Valance took a hiatus from her artistic career to prioritise her family, and has since been doing charity work as Ambassador of The Children's Trust, the UK's leading charity for children with brain injury and neurodisability. Since then, her only new role has been an appearance in the movie Red Herring, released in 2015 and shot in 2013. On 28 July 2022, Valance was seen in a cameo appearance as Felicity Scully, in what was intended to be the final-ever Neighbours episode. Her appearance was filmed in the UK alongside that of Natalie Imbruglia's character, Beth Brennan.\nAlso in 2013, Valance made a series of advertisements for 0800REVERSE, a reverse charge phone service.\nIn 2025, Valance became a brand ambassador for heritage Australian label, Driza-Bone.\nOn 26 January 2026, Valance released the single \"Kiss Kiss (XX) My Arse\" in support of the Australian politician Pauline Hanson's anti-LGBTQ satirical comedy film A Super Progressive Movie. Within hours of the song's release, it reached the number one position on the Australian iTunes songs chart. The song was briefly removed, without explanation, by Apple Music, before being put back up on their websites.\n\nPersonal life\nFrom 2005 to 2009, Valance dated Australian actor Alex O'Loughlin. In 2010, she started dating British property developer Nick Candy, whom she married on 29 September 2012 in Beverly Hills, California. The couple have two daughters. The first was born in November 2013, and the second in September 2017. In June 2025, it was reported that Valance and Candy had separated after 13 years of marriage.\n\nPolitical views\nAccording to The Guardian in 2024, Valance had \"rapidly risen to become radical-right royalty\". In February that year, she attended the launch of the new British conservative movement Popular Conservatism, led by former UK Prime Minister Liz Truss. In a series of clips posted on X (formerly known as Twitter), Valance was interviewed by Christopher Hope of GB News, and was asked about her views on various issues. Her view on \"the climate crisis or lack of\" was that \"cleaner, cheaper energy is what we need\". Asked about her political views, she said, \"I would say that everyone starts off as a leftie and then wakes up at some point after making money, working, trying to run a business, trying to buy a home then realises what crap ideas they all are, and then you go to the right.\" Valance said her top political priority was Britain leaving the European Convention on Human Rights and the establishment of a British bill of rights, adding that \"the trickle-down effect would be a huge step in the right direction\".\nA close personal friend of Nigel Farage, Valance said she persuaded him to stand for Parliament in the 2024 general election. In a 2024 interview she stated she was a member of Reform UK and would be voting for them in the general election. She said, \"I support anybody that sticks to what they believe in and isn't a turncoat, and doesn't do a million flip-flops and U-turns.\" She helped the party raise £1.5 million within days of Farage's return as leader, and has donated approximately £100,000 herself. In December 2024 it was announced that Valance's husband would become treasurer of Reform UK.\nHaving previously stayed at Donald Trump's Mar-a-Lago resort, in 2024 Valance became the \"UK poster girl\" for Trump's US presidential campaign, and co-hosted a large fundraiser in London on 11 June.\nIn September 2025, Valance attended the Unite the Kingdom protest, and said of the British far-right activist Tommy Robinson: \"I'm very proud and pleased for Tommy, this is his redemption.\"\n\nLegal is"
    }
   ],
   "min_words": 1100,

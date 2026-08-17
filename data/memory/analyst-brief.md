@@ -1,16 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-17
 
-Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
+Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 8 dní · 23 záznamů
+- rubrika `world` · sledováno 8 dní · 25 záznamů
 - časová osa:
-  - **2026-08-15** (4 zdrojů) Donald Trump to declare Hormuz US territory 'soon'
-  - **2026-08-15** (2 zdrojů) Donald Trump says he faced ‘greater risk’ on swapped plane
   - **2026-08-15** (2 zdrojů) Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
   - **2026-08-15** (2 zdrojů) Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
   - **2026-08-15** (2 zdrojů) Trump threatens to declare strait of Hormuz ‘territory of the United States’
@@ -19,9 +17,11 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-17** (3 zdrojů) Trump says US to scale back military drills with South Korea after it stayed out of Iran war
   - **2026-08-17** (2 zdrojů) Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
   - **2026-08-17** (3 zdrojů) Trump orders Pentagon to scale back joint exercises with South Korea
+  - **2026-08-17** (2 zdrojů) Trump orders US to scale back South Korea military drills
+  - **2026-08-17** (2 zdrojů) Troops from North Korea to boost Russia's Ukraine forces
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 4 dní · 8 záznamů
+- rubrika `world` · sledováno 6 dní · 9 záznamů
 - časová osa:
   - **2026-08-11** (3 zdrojů) Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
@@ -31,15 +31,17 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-12** (2 zdrojů) Four killed in overnight attacks in southern Russia, Ukraine
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
+  - **2026-08-17** (2 zdrojů) Ukraine and Russia intensify attacks, several killed in Belgorod border region
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 8 dní · 5 záznamů
+- rubrika `world` · sledováno 8 dní · 6 záznamů
 - časová osa:
   - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
   - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
   - **2026-08-16** (3 zdrojů) Trump envoy Kushner meets Hamas leader to push Gaza peace plan
   - **2026-08-17** (2 zdrojů) Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza
   - **2026-08-17** (3 zdrojů) Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
+  - **2026-08-17** (2 zdrojů) Middle East updates: Kushner meets Netanyahu in Jerusalem
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 3 dní · 5 záznamů

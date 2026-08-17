@@ -9,27 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Futile Clacton byelection has done Farage no favours
-- id události: `5a0bc875861a`  ·  rubrika: `world`  ·  skóre: 75  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Futile Clacton byelection has done Farage no favours
-    <https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis>
-    > The Reform UK leader forced a vote that failed to make financial questions disappear, only the man himself • Clacton byelection – UK politics live Dawn had long broken in the Essex town of Clacton-on-Sea when the results for the byelection came in. After a gruelling count, an atm
-  - **Guardian Business** — Standards watchdog resumes investigation into Nigel Farage over financial gifts
-    <https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts>
-    > Reform UK leader’s return to Clacton restarts inquiry into £5m gift from cyrpto-billionaire and support from fraudster The suspended parliamentary standards investigation into Nigel Farage over accusations he failed to declare gifts and donations has resumed after the Reform UK l
-  - **DW News** — UK: Nigel Farage beats a trash can in Clacton by-election
-    <https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf>
-    > Nigel Farage reclaimed his Clacton seat with 63% of the vote, but his main rival, Count Binface, took over a quarter, as Farage skipped the count citing security concerns.
-  - **Al Jazeera** — Nigel Farage defeats Count Binface to reclaim UK parliamentary seat
-    <https://www.aljazeera.com/news/2026/8/14/nigel-farage-defeats-count-binface-to-reclaim-uk-parliamentary-seat?traffic_source=rss>
-    > The Reform UK leader received 22,239 votes in the Clacton by-election, compared with 9,455 for Binface.
-  - **France 24** — Nigel Farage beats Count Binface to regain UK parliament seat in widely mocked by-election
-    <https://www.france24.com/en/europe/20260814-nigel-farage-beats-count-binface-regain-uk-parliamentary-seat-by-election>
-    > The anti-immigrant Reform UK party leader Nigel Farage beat comic opponent Count Binface on Friday as was expected, regaining the seat in Parliament he quit a month ago to trigger the widely mocked by-election in the seaside town of Clacton.
-
-### 2. Donald Trump to declare Hormuz US territory 'soon'
+### 1. Donald Trump to declare Hormuz US territory 'soon'
 - id události: `19a5a4d8911d`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -48,7 +28,7 @@
   - **Investing.com** — Iran defiant on strait as Trump tells Americans to accept high gas prices
     <https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490>
 
-### 3. France's top court blocks social media ban for under-15s
+### 2. France's top court blocks social media ban for under-15s
 - id události: `feba530ce504`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,7 +45,7 @@
     <https://www.france24.com/en/france-blocks-under-15-social-media-ban>
     > France’s Constitutional Council has blocked a bill that would have banned social media access for under-15s, ruling that it infringed on freedom of expression. It’s a setback for President Emmanuel Macron, who has championed the legislation and has now asked his prime minister to
 
-### 4. Bezos-backed consortium buys a third of Liverpool
+### 3. Bezos-backed consortium buys a third of Liverpool
 - id události: `ecebd07d0359`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,6 +62,20 @@
     <https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium>
     > Confirmed deal values club as a whole at £5.5bn Amit Bhatia will become club’s new vice-chairman Liverpool’s owner, Fenway Sports Group, has confirmed it has agreed the sale of 30% of the club to a consortium including Amit Bhatia, the Amazon founder Jeff Bezos and the Facebook c
 
+### 4. Nine killed in Israeli strikes on southern Lebanon, authorities say
+- id události: `8890d3817dfd`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Nine killed in Israeli strikes on southern Lebanon, authorities say
+    <https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss>
+    > Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as an earlier action against its soldiers.
+  - **The Guardian World** — Israeli strikes on south Lebanon kill nine in worst toll since June
+    <https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says>
+    > Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors Nine people have been killed, including three children, and 11 injured in two Israeli airstrikes on south Lebanon, the worst toll since deals in June brought a lull in h
+  - **Al Jazeera** — At scene of deadly Israeli strike on Lebanon home
+    <https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss>
+    > An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -91,7 +85,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Toddler — <https://en.wikipedia.org/wiki/Toddler>
   - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
-  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
+  - Holly Valance — <https://en.wikipedia.org/wiki/Holly_Valance>
 
 ---
 
@@ -112,14 +106,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 23  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 25  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 23
-  2026-08-11  (2 zdrojů, síla 43)  Trump signals shift to economic pressure on Iran over new military strikes
-  2026-08-11  (2 zdrojů, síla 41)  Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
+rubrika: world · sledováno od 2026-08-09 · záznamů: 25
   2026-08-11  (3 zdrojů, síla 52)  Bluster and backdown have turned Iran war into Trump’s own Groundhog Day
   2026-08-11  (2 zdrojů, síla 45)  Trump demands Iran pay compensation for decades of US soldier deaths
   2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue
@@ -138,15 +130,17 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 23
   2026-08-17  (3 zdrojů, síla 55)  Trump says US to scale back military drills with South Korea after it stayed out of Iran war
   2026-08-17  (2 zdrojů, síla 46)  Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
   2026-08-17  (3 zdrojů, síla 53)  Trump orders Pentagon to scale back joint exercises with South Korea
+  2026-08-17  (2 zdrojů, síla 45)  Trump orders US to scale back South Korea military drills
+  2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 8  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 9  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 8
+rubrika: world · sledováno od 2026-08-11 · záznamů: 9
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -155,6 +149,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 8
   2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine
   2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles
+  2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region
 ```
 
 ---

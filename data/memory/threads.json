@@ -5,31 +5,34 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "iran",
-    "oman",
-    "middle",
-    "tennessee",
-    "taiwan",
-    "east",
-    "donald",
-    "iranian",
-    "hormuz",
-    "justified",
-    "korea",
-    "pentagon",
-    "turkey",
     "qatar",
-    "china",
-    "gulf",
-    "lebanon",
-    "trump",
-    "north",
-    "strait",
-    "south",
+    "turkey",
+    "tennessee",
     "states",
+    "east",
+    "taiwan",
+    "ukraine",
+    "troops",
+    "donald",
+    "iran",
+    "south",
+    "justified",
+    "strait",
+    "middle",
+    "lebanon",
     "united",
+    "oman",
     "bluster",
-    "groundhog"
+    "pentagon",
+    "gulf",
+    "iranian",
+    "korea",
+    "north",
+    "russia's",
+    "groundhog",
+    "trump",
+    "china",
+    "hormuz"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -54,7 +57,9 @@
     "ca01092fef56",
     "d39bc91ddc0a",
     "c5e1e17987ea",
-    "4ee875e3fe43"
+    "4ee875e3fe43",
+    "2f607baa744d",
+    "2685bccdeea4"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-17",
@@ -319,235 +324,28 @@
       "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start"
      ]
-    }
-   ]
-  },
-  {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "trump",
-    "jared",
-    "israel",
-    "trump's",
-    "kushner",
-    "netanyahu",
-    "board",
-    "hamas",
-    "middle",
-    "peace",
-    "gaza",
-    "east"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-17",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
     },
     {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "date": "2026-08-17",
+     "headline": "Trump orders US to scale back South Korea military drills",
      "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
+     "score": 45,
+     "event_id": "2f607baa744d",
      "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
+      "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start",
+      "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back"
      ]
     },
     {
      "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "headline": "Troops from North Korea to boost Russia's Ukraine forces",
      "sources": 2,
      "score": 44,
-     "event_id": "25ce347a430e",
+     "event_id": "2685bccdeea4",
      "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9ffb6bd91201",
-   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-   "section": "sport",
-   "entities": [
-    "nightmare",
-    "he's",
-    "manchester",
-    "shield",
-    "rodri's",
-    "city",
-    "maresca",
-    "arsenal",
-    "community"
-   ],
-   "event_ids": [
-    "9ffb6bd91201",
-    "2fef58e0d72e",
-    "b5cc84461c06"
-   ],
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-08-17",
-   "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9ffb6bd91201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2fef58e0d72e",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "'He's the professor' - Rodri's Manchester City journey",
-     "sources": 2,
-     "score": 49,
-     "event_id": "b5cc84461c06",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "bank",
-    "palestinians",
-    "week",
-    "israeli",
-    "netanyahu",
-    "colombia",
-    "west"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b",
-    "c56a140b572c",
-    "727b036de961",
-    "d9fabac5169e"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-16",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-     "sources": 3,
-     "score": 59,
-     "event_id": "09443cca3ddd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69fbd7c00f3b",
-     "links": [
-      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
-      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c56a140b572c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "sources": 2,
-     "score": 50,
-     "event_id": "727b036de961",
-     "links": [
-      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9fabac5169e",
-     "links": [
-      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+      "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power"
      ]
     }
    ]
@@ -557,19 +355,20 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "north",
-    "europe",
-    "zelensky",
-    "kyiv",
-    "four",
-    "atacms",
-    "overnight",
     "korean",
+    "zelensky",
+    "belgorod",
     "russian",
-    "izmail",
-    "russia",
     "ukraine",
-    "zelenskyy"
+    "four",
+    "overnight",
+    "north",
+    "russia",
+    "kyiv",
+    "atacms",
+    "zelenskyy",
+    "europe",
+    "izmail"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -579,10 +378,11 @@
     "b984d1ff1c1f",
     "84e20c91b19d",
     "5ee2dd433419",
-    "0ed2f09480ff"
+    "0ed2f09480ff",
+    "27fa2321e1da"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-08-15",
+   "last_seen": "2026-08-17",
    "timeline": [
     {
      "date": "2026-08-11",
@@ -672,6 +472,302 @@
      "links": [
       "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
       "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+     "sources": 2,
+     "score": 42,
+     "event_id": "27fa2321e1da",
+     "links": [
+      "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
+      "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "peace",
+    "hamas",
+    "jerusalem",
+    "board",
+    "east",
+    "gaza",
+    "israel",
+    "netanyahu",
+    "trump",
+    "jared",
+    "kushner",
+    "trump's",
+    "middle"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-17",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "sources": 7,
+     "score": 83,
+     "event_id": "6e0f12b732f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3677e9c2454f",
+     "links": [
+      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "sources": 3,
+     "score": 56,
+     "event_id": "2d4b21839f92",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "sources": 2,
+     "score": 44,
+     "event_id": "25ce347a430e",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e3d7c0ac2a93",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a3f7b5bea254",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ffb6bd91201",
+   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+   "section": "sport",
+   "entities": [
+    "nightmare",
+    "he's",
+    "manchester",
+    "shield",
+    "rodri's",
+    "city",
+    "maresca",
+    "arsenal",
+    "community"
+   ],
+   "event_ids": [
+    "9ffb6bd91201",
+    "2fef58e0d72e",
+    "b5cc84461c06"
+   ],
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-08-17",
+   "timeline": [
+    {
+     "date": "2026-08-16",
+     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9ffb6bd91201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2fef58e0d72e",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "'He's the professor' - Rodri's Manchester City journey",
+     "sources": 2,
+     "score": 49,
+     "event_id": "b5cc84461c06",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "72d2d7721049",
+   "title": "Hayden Panettiere: A life of struggles alongside screen success",
+   "section": "world",
+   "entities": [
+    "heroes",
+    "hayden",
+    "panettiere"
+   ],
+   "event_ids": [
+    "72d2d7721049",
+    "9f3eca5c4f2d"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Hayden Panettiere: A life of struggles alongside screen success",
+     "sources": 3,
+     "score": 55,
+     "event_id": "72d2d7721049",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+      "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Heroes actress Hayden Panettiere dies aged 36",
+     "sources": 3,
+     "score": 51,
+     "event_id": "9f3eca5c4f2d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260817-american-actress-hayden-panettiere-dies-at-36"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "bank",
+    "palestinians",
+    "week",
+    "israeli",
+    "netanyahu",
+    "colombia",
+    "west"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c",
+    "727b036de961",
+    "d9fabac5169e"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-16",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69fbd7c00f3b",
+     "links": [
+      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c56a140b572c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
+     "sources": 2,
+     "score": 50,
+     "event_id": "727b036de961",
+     "links": [
+      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "sources": 2,
+     "score": 49,
+     "event_id": "d9fabac5169e",
+     "links": [
+      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
      ]
     }
    ]
@@ -1561,5 +1657,5 @@
    ]
   }
  ],
- "updated": "2026-08-17T09:27:47+00:00"
+ "updated": "2026-08-17T12:27:13+00:00"
 }
