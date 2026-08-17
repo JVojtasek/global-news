@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/genasys-bez-puerto-rica-proc-motor-v-kontraktech-nemusi-znam-analyza-341144
+impact:
+  areas:
+  - money
+  line: Investors holding or considering Genasys shares are looking at a
+    company whose reported profitability leaned heavily on one paused
+    contract, not at a broad-based recovery in its core business.
+  todo: Before trusting a single quarter's revenue figure for any small,
+    project-based company, check what share of it came from one client or
+    contract in the underlying filing.
 ---
 
 U projektových technologických firem nestačí sledovat tržby: klíčové je, zda se faktury mění na hotovost a zda jeden velký kontrakt nezakrývá slabé jádro byznysu.

@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/mir-v-dohledu-nebo-jen-fotka-korejska-valka-a-test-verohodno-analyza-341368
+impact:
+  areas:
+  - money
+  line: Anyone holding South Korean stocks, funds with Asia exposure, or shares
+    in exporters tied to the peninsula is watching a story that could lower a
+    long-standing risk discount if talks turn into a real process.
+  todo: If you hold funds with Korea or Asia exposure, check what your fund
+    actually discloses about that exposure rather than reacting to the
+    headline alone.
 ---
 
 What matters isn't that peace is being discussed, but whether the headline turns into a legally and militarily credible process involving the main players.

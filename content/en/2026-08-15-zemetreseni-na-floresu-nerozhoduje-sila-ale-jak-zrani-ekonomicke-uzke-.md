@@ -20,6 +20,17 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zemetreseni-na-floresu-nerozhoduje-sila-ale-jak-zrani-ekonom-analyza-341364
+impact:
+  areas:
+  - life
+  - money
+  line: For people on Flores and in eastern Indonesia, this is first a
+    disaster with real deaths and damaged infrastructure; for investors
+    elsewhere, the relevant question is narrower — whether it hit an
+    economic bottleneck.
+  todo: If you want to help, look for established relief organizations
+    already operating in Indonesia rather than acting on unverified appeals
+    that circulate after a disaster.
 ---
 
 For natural disasters, what matters isn't just the strength of the event, but whether it hit an economic bottleneck — and who ends up paying for recovery.

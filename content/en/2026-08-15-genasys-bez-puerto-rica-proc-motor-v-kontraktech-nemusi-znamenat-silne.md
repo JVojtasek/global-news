@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/genasys-bez-puerto-rica-proc-motor-v-kontraktech-nemusi-znam-analyza-341144
+impact:
+  areas:
+  - money
+  line: Investors holding or considering Genasys shares are looking at a
+    company whose reported profitability leaned heavily on one paused
+    contract, not at a broad-based recovery in its core business.
+  todo: Before trusting a single quarter's revenue figure for any small,
+    project-based company, check what share of it came from one client or
+    contract in the underlying filing.
 ---
 
 For project-based tech companies, revenue alone isn't enough to watch: what matters is whether invoices turn into cash, and whether one big contract is masking a weak core business.

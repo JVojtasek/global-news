@@ -20,6 +20,15 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/sky-harbour-plne-hangary-nestaci-rozhoduje-hruby-zisk-po-zoh-analyza-341150
+impact:
+  areas:
+  - money
+  line: Investors looking at Sky Harbour are facing a case where strong demand
+    and full hangars don't automatically mean the new capital being spent to
+    build more of them is earning an attractive return.
+  todo: For any capital-intensive growth stock, check the company's own
+    disclosed return on newly deployed capital, not just its revenue or
+    occupancy growth.
 ---
 
 For capital-intensive growth companies, occupancy and revenue aren't enough to watch — what matters is whether stabilized gross profit from new projects beats the cost of the capital that built them.

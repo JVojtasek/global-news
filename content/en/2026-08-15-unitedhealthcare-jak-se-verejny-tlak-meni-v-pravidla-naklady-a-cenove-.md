@@ -20,6 +20,17 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/unitedhealthcare-jak-se-verejny-tlak-meni-v-pravidla-naklady-analyza-341390
+impact:
+  areas:
+  - money
+  - health
+  line: Anyone with a UnitedHealthcare or similar large-insurer plan could
+    eventually feel this through prior-authorization rules, claim reviews or
+    pricing — but only if public pressure actually turns into new regulation,
+    not from the court case alone.
+  todo: If a rule change affecting your own insurer is reported, check your
+    plan's official notices rather than assuming a single lawsuit or guilty
+    plea changes your coverage right away.
 ---
 
 For cases like this, what matters is whether public pressure actually turns into concrete rules, costs and pricing lag — not how dramatic the headline sounds.
