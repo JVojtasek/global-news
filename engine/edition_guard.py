@@ -15,9 +15,15 @@ def inspect(day: dt.date | None = None) -> tuple[list[str], list[str]]:
     day = day or dt.date.today()
     date = day.isoformat()
     errors, warnings = [], []
+    # Agenda je vstup pro pisatele, ne výstup vydání. Když sloty nakonec
+    # vyšly i bez ní, na hotových novinách není nic špatně a nemá cenu
+    # kvůli tomu shodit celou ranní úlohu — zvlášť když ta úloha teprve
+    # přebírá články z inboxu a je to jediný krok, který díru zaplní.
+    # 17. srpna 2026 přesně tohle nastalo: agenda nevznikla, tři sloty
+    # se doplnily ručně, a hlídač zablokoval jejich převzetí.
     agenda = config.DATA / "daily-agenda" / f"{date}.md"
     if not agenda.exists():
-        errors.append(f"chybí výzkumná agenda {agenda.relative_to(config.ROOT)}")
+        warnings.append(f"chybí výzkumná agenda {agenda.relative_to(config.ROOT)}")
 
     candidates = []
     for path in (config.CONTENT / "inbox").glob("*.md"):
@@ -106,7 +112,9 @@ def run(day: dt.date | None = None) -> int:
     for error in errors:
         config.log(f"✗ {error}")
     if not errors:
-        config.log("✓ Denní agenda a všech šest veřejných slotů jsou kompletní.")
+        config.log("✓ Všech šest veřejných slotů je obsazeno."
+                   + (" Agenda a zadržené texty jsou ve varováních výš."
+                      if warnings else ""))
     return 1 if errors else 0
 
 
