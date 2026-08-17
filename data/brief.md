@@ -28,41 +28,7 @@
   - **Investing.com** — Iran defiant on strait as Trump tells Americans to accept high gas prices
     <https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490>
 
-### 2. France's top court blocks social media ban for under-15s
-- id události: `feba530ce504`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — France's top court blocks social media ban for under-15s
-    <https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss>
-    > The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.
-  - **The Guardian World** — French court blocks Macron’s social media ban for under-15s
-    <https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s>
-    > Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation France’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy. The decision is a blow to Pr
-  - **Al Jazeera** — Top French court upholds assisted dying law, rejects teen social media ban
-    <https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss>
-    > The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
-  - **France 24** — France blocks under 15 social media ban
-    <https://www.france24.com/en/france-blocks-under-15-social-media-ban>
-    > France’s Constitutional Council has blocked a bill that would have banned social media access for under-15s, ruling that it infringed on freedom of expression. It’s a setback for President Emmanuel Macron, who has championed the legislation and has now asked his prime minister to
-
-### 3. Bezos-backed consortium buys a third of Liverpool
-- id události: `ecebd07d0359`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Bezos-backed consortium buys a third of Liverpool
-    <https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&at_campaign=rss>
-    > Liverpool's owners agree to sell around a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.
-  - **Al Jazeera** — Liverpool to sell minority stake to consortium including Jeff Bezos
-    <https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss>
-    > The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
-  - **CNBC Top** — Group including Jeff Bezos buys minority stake in Liverpool FC, with option to become controlling owner
-    <https://www.cnbc.com/2026/08/14/jeff-bezos-group-buys-stake-liverpool-fc.html>
-    > The group that includes Jeff Bezos has an option to become the majority shareholder within the next year.
-  - **Guardian Sport** — Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos
-    <https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium>
-    > Confirmed deal values club as a whole at £5.5bn Amit Bhatia will become club’s new vice-chairman Liverpool’s owner, Fenway Sports Group, has confirmed it has agreed the sale of 30% of the club to a consortium including Amit Bhatia, the Amazon founder Jeff Bezos and the Facebook c
-
-### 4. Nine killed in Israeli strikes on southern Lebanon, authorities say
+### 2. Nine killed in Israeli strikes on southern Lebanon, authorities say
 - id události: `8890d3817dfd`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -76,6 +42,34 @@
     <https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss>
     > An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
 
+### 3. Supreme Court rejects Verizon bid for $47 million refund of FCC fine
+- id události: `9739585c4084`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Ars Technica** — Supreme Court rejects Verizon bid for $47 million refund of FCC fine
+    <https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/>
+    > Despite loss, carriers still claim selling device-location data isn't illegal.
+  - **Al Jazeera** — Trump loses second Supreme Court bid over E Jean Carroll sex abuse case
+    <https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss>
+    > E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.
+  - **France 24** — Russia’s Supreme Court upholds ban on anti-war party Yabloko
+    <https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko>
+    > Russia’s Supreme Court on Monday upheld the exclusion of liberal opposition party Yabloko from September’s legislative elections, eliminating the country’s only explicitly anti-war party from the ballot, as dozens of the party's supporters were detained outside the court. The dec
+
+### 4. Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
+- id události: `e3d7c0ac2a93`  ·  rubrika: `world`  ·  skóre: 58  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
+    <https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates>
+    > Jared Kushner set to meet Netanyahu following talks with Hamas Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza Jared Kushner reportedly spent over two hours on Sunday at the meeting with Hamas chief Khalil al-Hayya in Egypt, where they discussed disarmament, 
+  - **France 24** — Middle East : Kushner to meet Netanyahu after talks with Hamas on Gaza plan
+    <https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan>
+    > US envoy Jared Kushner is due to meet Israeli Prime Minister Benjamin Netanyahu on Monday after holding talks with Hamas leaders in Egypt aimed at reviving a US-backed Gaza peace plan that Israel has so far rejected. Noga Tarnopolsky, FRANCE 24's correspondent in Israel, has more
+  - **Al Jazeera** — Kushner to meet Netanyahu to push Trump Gaza plan
+    <https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss>
+    > The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -84,8 +78,8 @@
 - rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
   - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
 
 ---
 

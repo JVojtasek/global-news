@@ -529,18 +529,18 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "board",
-    "trump's",
-    "netanyahu",
-    "jerusalem",
-    "east",
     "peace",
+    "jerusalem",
+    "hamas",
+    "board",
+    "trump",
+    "trump's",
+    "middle",
+    "kushner",
+    "east",
     "israel",
     "gaza",
-    "trump",
-    "middle",
-    "hamas",
-    "kushner",
+    "netanyahu",
     "jared"
    ],
    "event_ids": [
@@ -550,7 +550,8 @@
     "25ce347a430e",
     "e3d7c0ac2a93",
     "a3f7b5bea254",
-    "06df00086e0c"
+    "06df00086e0c",
+    "2ab296b93709"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-17",
@@ -634,6 +635,17 @@
       "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
       "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2ab296b93709",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -714,15 +726,19 @@
    "title": "Hayden Panettiere: A life of struggles alongside screen success",
    "section": "world",
    "entities": [
-    "panettiere",
     "nashville",
-    "heroes",
-    "hayden"
+    "hayden",
+    "hassenger",
+    "hollywood",
+    "panettiere",
+    "jesse",
+    "heroes"
    ],
    "event_ids": [
     "72d2d7721049",
     "9f3eca5c4f2d",
-    "f083deebbe24"
+    "f083deebbe24",
+    "0bc188fe0bfa"
    ],
    "first_seen": "2026-08-17",
    "last_seen": "2026-08-17",
@@ -760,6 +776,100 @@
      "links": [
       "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
       "https://www.cnbc.com/2026/08/17/hayden-panettiere-who-starred-in-heroes-and-nashville-dies-at-36.html"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hollywood continues to fail child stars and Hayden Panettiere is the latest casualty | Jesse Hassenger",
+     "sources": 1,
+     "score": 40,
+     "event_id": "0bc188fe0bfa",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-hollywood-child-stars",
+      "https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-panettiere-death-star-tv-movies-nashville-heroes-scream"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e183c545cb4c",
+   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+   "section": "world",
+   "entities": [
+    "infantino",
+    "fifa",
+    "oceania",
+    "zealand"
+   ],
+   "event_ids": [
+    "e183c545cb4c",
+    "496f55f6a2bd",
+    "6f4ad346fb6d"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-17",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
+     "sources": 6,
+     "score": 83,
+     "event_id": "e183c545cb4c",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
+     "sources": 2,
+     "score": 41,
+     "event_id": "496f55f6a2bd",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Top Fifa official sacked after Infantino plan criticism",
+     "sources": 2,
+     "score": 40,
+     "event_id": "6f4ad346fb6d",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9739585c4084",
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "section": "world",
+   "entities": [
+    "supreme",
+    "verizon",
+    "court"
+   ],
+   "event_ids": [
+    "9739585c4084"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-17",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9739585c4084",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
      ]
     }
    ]
@@ -1041,48 +1151,6 @@
       "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
       "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
       "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e183c545cb4c",
-   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-   "section": "world",
-   "entities": [
-    "zealand",
-    "oceania",
-    "fifa",
-    "infantino"
-   ],
-   "event_ids": [
-    "e183c545cb4c",
-    "496f55f6a2bd"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-14",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
-     "sources": 6,
-     "score": 83,
-     "event_id": "e183c545cb4c",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
-     "sources": 2,
-     "score": 41,
-     "event_id": "496f55f6a2bd",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
-      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
      ]
     }
    ]
@@ -1732,5 +1800,5 @@
    ]
   }
  ],
- "updated": "2026-08-17T18:27:02+00:00"
+ "updated": "2026-08-17T21:25:35+00:00"
 }

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-17
 
-Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
+Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
 
 ---
 
@@ -35,7 +35,7 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 8 dní · 7 záznamů
+- rubrika `world` · sledováno 8 dní · 8 záznamů
 - časová osa:
   - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
   - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
@@ -44,6 +44,9 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (3 zdrojů) Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
   - **2026-08-17** (2 zdrojů) Middle East updates: Kushner meets Netanyahu in Jerusalem
   - **2026-08-17** (2 zdrojů) Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal
+  - **2026-08-17** (2 zdrojů) Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 3 dní · 5 záznamů
@@ -62,10 +65,10 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) 'He's the professor' - Rodri's Manchester City journey
   - **2026-08-17** (1 zdrojů) Enzo Maresca’s Manchester City opener was startlingly bad
 
-### Nigel Farage wins Clacton byelection in contest boycotted by every other major party
+### Hayden Panettiere: A life of struggles alongside screen success
 - rubrika `world` · sledováno 0 dní · 4 záznamů
 - časová osa:
-  - **2026-08-14** (3 zdrojů) Nigel Farage wins Clacton byelection in contest boycotted by every other major party
-  - **2026-08-14** (2 zdrojů) Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live
-  - **2026-08-14** (2 zdrojů) Clacton by-election: Farage may win the town, but can he win the country?
-  - **2026-08-14** (5 zdrojů) Futile Clacton byelection has done Farage no favours
+  - **2026-08-17** (3 zdrojů) Hayden Panettiere: A life of struggles alongside screen success
+  - **2026-08-17** (3 zdrojů) Heroes actress Hayden Panettiere dies aged 36
+  - **2026-08-17** (2 zdrojů) Hayden Panettiere, actor in Heroes and Nashville, dies aged 36
+  - **2026-08-17** (1 zdrojů) Hollywood continues to fail child stars and Hayden Panettiere is the latest casualty | Jesse Hassenger
