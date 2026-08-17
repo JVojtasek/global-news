@@ -1,6 +1,23 @@
 {
- "generated": "2026-08-17T06:43:19+00:00",
+ "generated": "2026-08-17T08:42:27+00:00",
  "articles": [
+  {
+   "lang": "en",
+   "slug": "public-disgrace-jason-arday",
+   "title": "Jason Arday Resigned Amid a Plagiarism Row. A Week Later, He Was Found Dead.",
+   "dek": "What three news reports actually confirm about this story, what they don't, and the harder question left over once the facts run out.",
+   "date": "2026-08-17",
+   "status": "review",
+   "section": "meaning",
+   "type": "analysis",
+   "depth": "open",
+   "confidence": 83,
+   "path": "content/en/2026-08-17-public-disgrace-jason-arday.md",
+   "access": "public",
+   "url": "",
+   "review": {},
+   "problems": []
+  },
   {
    "lang": "cs",
    "slug": "public-disgrace-jason-arday",
@@ -19,6 +36,23 @@
    "problems": []
   },
   {
+   "lang": "en",
+   "slug": "nato-drone-latvia-airspace",
+   "title": "A Drone Crossed Into Latvia. NATO Jets Had Minutes to Decide What To Do About It",
+   "dek": "The drone that entered Latvian airspace on August 14 was shot down fast. What's slower to settle is whose it was, and what that uncertainty is starting to cost.",
+   "date": "2026-08-17",
+   "status": "published",
+   "section": "safety",
+   "type": "analysis",
+   "depth": "open",
+   "confidence": 88,
+   "path": "content/en/2026-08-17-nato-drone-latvia-airspace.md",
+   "access": "public",
+   "url": "/en/safety/nato-drone-latvia-airspace/",
+   "review": {},
+   "problems": []
+  },
+  {
    "lang": "cs",
    "slug": "nato-drone-latvia-airspace",
    "title": "Dron přeletěl nad Lotyšsko. Stíhačky NATO měly na rozhodnutí pár minut",
@@ -32,6 +66,23 @@
    "path": "content/cs/2026-08-17-slot-4-nato-drone-latvia-airspace.md",
    "access": "public",
    "url": "",
+   "review": {},
+   "problems": []
+  },
+  {
+   "lang": "en",
+   "slug": "ai-speed-vs-safety",
+   "title": "Three AI Companies, One Week, Zero Time to Check Each Other's Work",
+   "dek": "Google shipped a new model in three weeks, OpenAI dissolved the team built to catch dangerous ones, and Meta argued openness is safety. None of it was checked by anyone outside the building.",
+   "date": "2026-08-17",
+   "status": "published",
+   "section": "tech",
+   "type": "analysis",
+   "depth": "open",
+   "confidence": 95,
+   "path": "content/en/2026-08-17-ai-speed-vs-safety.md",
+   "access": "public",
+   "url": "/en/tech/ai-speed-vs-safety/",
    "review": {},
    "problems": []
   },
