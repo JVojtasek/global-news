@@ -9,7 +9,10 @@ brand:
   tagline_en: "Your paper, your pace."
   tagline_cs: "Tvoje noviny, tvým tempem."
   url: "https://mypaper.news"
-  email: "jarda.vojtasek@centrum.cz"
+  # Redakční adresa. Soukromá adresa majitele tu být nesmí — roboti ji
+  # z veřejné stránky seberou během pár týdnů. Až poběží přeposílání
+  # na Cloudflare, vymění se tohle za hello@mypaper.news.
+  email: "supportmypaper@gmail.com"
 
 languages:
   master: en
