@@ -1,16 +1,16 @@
 ---
 slug: airline-fuel-surcharge-yq
 title: Your Ticket Has a Tax Box. Some of What Sits in It Belongs to the Airline.
-dek: The fuel surcharge is a carrier charge with a code of its own, YQ. Japan is
-  the one large market that makes airlines file the formula, and its published number
+dek: The fuel surcharge is a carrier charge with a code of its own, YQ. Japan is the
+  one large market that makes airlines file the formula, and its published number
   has gone from 29,000 yen to 65,000 and back to 55,000 in seven months.
 section: travel
 type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -76,13 +76,11 @@ impact:
   areas:
   - money
   - life
-  line: >-
-    The fuel surcharge on an air ticket is carrier revenue, coded YQ or YR, sitting
+  line: The fuel surcharge on an air ticket is carrier revenue, coded YQ or YR, sitting
     beside government taxes in the same box. Delta publishes a ceiling of 650 dollars
     each way; ANA publishes 55,000 yen one way to Europe for September 2026 tickets.
-  todo: >-
-    Open the fare breakdown before paying and read the surcharge line apart from the
-    tax lines. Any published surcharge table is keyed to the ticket issue date.
+  todo: Open the fare breakdown before paying and read the surcharge line apart from
+    the tax lines. Any published surcharge table is keyed to the ticket issue date.
 ---
 
 ## BRIEFLY

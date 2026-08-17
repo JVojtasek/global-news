@@ -11,8 +11,8 @@ type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -59,11 +59,11 @@ sources:
 - name: International Council on Clean Transportation — On the way to real-world CO2
     values? Evidence from 2021-2023 on-board fuel consumption monitoring data
   url: https://theicct.org/wp-content/uploads/2026/06/ID-627-%E2%80%93-Real-world-CO2-values_report_final.pdf
-  published: '2026-06'
+  published: 2026-06
 - name: Transport & Environment — Closing the growing PHEV loophole, briefing on the
     utility factor correction
   url: https://uploads.transportenvironment.org/production/files/2025_09_TE_briefing_PHEV_gap_growing.pdf
-  published: '2025-09'
+  published: 2025-09
 - name: Oeko-Institut and ifeu — Regulatory adjustments for plug-in hybrid vehicles
     in Europe
   url: https://www.oeko.de/fileadmin/oekodoc/Analyse_PHEV_2025_EN_final.pdf
@@ -71,22 +71,20 @@ sources:
 - name: European Parliamentary Research Service — Revision of CO2 emission performance
     standards for new light-duty vehicles and vehicle labelling, PE 782.664
   url: https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/782664/EPRS_BRI(2026)782664_EN.pdf
-  published: '2026-02'
+  published: 2026-02
 qma_path: ''
 tickers: []
 impact:
   areas:
   - money
   - life
-  line: >-
-    An on-board meter has recorded lifetime fuel use in new EU cars since 2021, and
-    roadworthiness tests collect the reading. For cars registered in 2023, petrol and
-    diesel ran 19 per cent above the official CO2 figure and plug-in hybrids 401 per
-    cent.
-  todo: >-
-    Where these rules apply, ask at the next roadworthiness test what the car's own
-    fuel meter reads. The European Environment Agency publishes the aggregated figures
-    by registration year.
+  line: An on-board meter has recorded lifetime fuel use in new EU cars since 2021,
+    and roadworthiness tests collect the reading. For cars registered in 2023, petrol
+    and diesel ran 19 per cent above the official CO2 figure and plug-in hybrids 401
+    per cent.
+  todo: Where these rules apply, ask at the next roadworthiness test what the car's
+    own fuel meter reads. The European Environment Agency publishes the aggregated
+    figures by registration year.
 ---
 
 ## BRIEFLY

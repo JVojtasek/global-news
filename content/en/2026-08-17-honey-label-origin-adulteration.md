@@ -10,8 +10,8 @@ type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 93
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -44,7 +44,7 @@ sources:
 - name: European Commission, DG Agriculture and Rural Development — honey market presentation
     (data to January 2026)
   url: https://agriculture.ec.europa.eu/document/download/c04a9774-5ba3-41f5-b256-08396b2888ec_en?filename=market-presentation-honey_spring2024_en.pdf
-  published: '2026-01'
+  published: 2026-01
 - name: European Commission — clearer rules on origin and composition of honey, Commission
     sets up the Honey Platform
   url: https://agriculture.ec.europa.eu/media/news/clearer-rules-origin-and-composition-honey-commission-sets-honey-platform-2024-06-13_en
@@ -54,7 +54,7 @@ sources:
   published: '2018'
 - name: Apimondia, BeeLife, EPBA and Copa-Cogeca — joint statement on honey adulteration
   url: https://apimondia.org/wp-content/uploads/2025/11/JOINT-STATEMENT-HONEY-ADULTERATION.pdf
-  published: '2025-10'
+  published: 2025-10
 - name: Global Honey Organization — criticism of the methods used in the EU From the
     Hives report
   url: https://www.globalhoney.org/news-gho/eu-from-the-hives-report-a-scientific-debacle/
@@ -65,13 +65,12 @@ impact:
   areas:
   - money
   - life
-  line: >-
-    EU border sampling in 2021 and 2022 found 147 of 320 imported honey consignments,
+  line: EU border sampling in 2021 and 2022 found 147 of 320 imported honey consignments,
     46 percent, carrying at least one marker of added sugar syrup. Since 14 June 2026
     EU jars of blended honey must name every country of origin with its share.
-  todo: >-
-    Read the origin list on the jar as origin only, not purity. Elsewhere, ask your
-    national food agency which honey tests it runs and whether it publishes the results.
+  todo: Read the origin list on the jar as origin only, not purity. Elsewhere, ask
+    your national food agency which honey tests it runs and whether it publishes the
+    results.
 ---
 
 ## BRIEFLY

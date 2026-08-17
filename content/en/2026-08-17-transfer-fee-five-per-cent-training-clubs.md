@@ -11,8 +11,8 @@ type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -27,17 +27,17 @@ sources:
 - name: FIFA — Regulations on the Status and Transfer of Players, January 2026 edition
     (articles 20 and 21, Annexe 4 and Annexe 5)
   url: https://digitalhub.fifa.com/m/696d877ea35ca761/original/Regulations-on-the-Status-and-Transfer-of-Players-January-2026-edition.pdf
-  published: '2026-01'
+  published: 2026-01
 - name: FIFA — Regulations on the Status and Transfer of Players, January 2027 edition
     (article 21bis, player participation in transfer fees)
   url: https://digitalhub.fifa.com/asset/e495d04b-ef95-4d07-ace2-ea4d7781d7de/Regulations-on-the-Status-and-Transfer-of-Players_January-2027.pdf
   published: '2026-06-10'
 - name: FIFA — FIFA Clearing House Regulations, January 2026 edition (article 12.4)
   url: https://digitalhub.fifa.com/m/743a062f59a3a50b/original/FIFA-Clearing-House-Regulations-January-2026-edition.pdf
-  published: '2026-01'
+  published: 2026-01
 - name: FIFA — FIFA Clearing House, the first 24 months (annual report)
   url: https://digitalhub.fifa.com/m/428eb58ffd3e7dd/original/Clearing-House-Report-2023-24-V12.pdf
-  published: '2024-11'
+  published: 2024-11
 - name: FIFA — FIFA World Cup 2026 shines spotlight on FIFA Clearing House and training
     rewards as USD 1 billion milestone approaches
   url: https://inside.fifa.com/media-releases/world-cup-2026-shines-spotlight-clearing-house-training-rewards-1-billion-usd-milestone
@@ -75,13 +75,11 @@ impact:
   areas:
   - money
   - life
-  line: >-
-    Five per cent of a transfer fee is owed to the clubs that trained the player between
-    12 and 23. Payments worldwide ran at USD 35 to 55 million a year before November
-    2022; USD 164.8 million was paid in 2024.
-  todo: >-
-    Read an announced fee as money with more than one claimant. FIFA publishes its
-    rulebook, the clearing-house regulations and training-reward totals by association,
+  line: Five per cent of a transfer fee is owed to the clubs that trained the player
+    between 12 and 23. Payments worldwide ran at USD 35 to 55 million a year before
+    November 2022; USD 164.8 million was paid in 2024.
+  todo: Read an announced fee as money with more than one claimant. FIFA publishes
+    its rulebook, the clearing-house regulations and training-reward totals by association,
     all free to download.
 ---
 
