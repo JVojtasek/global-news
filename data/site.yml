@@ -12,7 +12,7 @@ brand:
   # Redakční adresa. Soukromá adresa majitele tu být nesmí — roboti ji
   # z veřejné stránky seberou během pár týdnů. Až poběží přeposílání
   # na Cloudflare, vymění se tohle za hello@mypaper.news.
-  email: "supportmypaper@gmail.com"
+  email: "hello@mypaper.news"
 
 languages:
   master: en

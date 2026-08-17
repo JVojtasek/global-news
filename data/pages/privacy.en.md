@@ -76,7 +76,7 @@ appears. Sensitive categories never publish without a human first. More on the
 
 ## Ask us anything
 
-supportmypaper@gmail.com
+hello@mypaper.news
 
 That includes "what do you have on me". The answer is nothing, and we will gladly
 explain why.
