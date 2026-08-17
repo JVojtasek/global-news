@@ -82,6 +82,17 @@ def inspect(day: dt.date | None = None) -> tuple[list[str], list[str]]:
         # guard also inspects files that the gate has already promoted to
         # ``published``, so it validates the same editorial contract while
         # accepting that legitimate final-state transition.
+        # Článek, který síto schválně zadrželo pro člověka (`status: review`),
+        # není chyba vydání. Redakce svou práci odvedla a teď je na řadě
+        # člověk. Kdyby to bylo tvrdá chyba, jeden citlivý text by shodil
+        # celé ranní vydání — a přesně to se 17. srpna 2026 stalo: článek
+        # o úmrtí konkrétního člověka uprostřed obvinění zůstal čekat na
+        # rozhodnutí a zablokoval tím zbytek novin.
+        if str(meta.get("status") or "").lower() == "review":
+            warnings.append(
+                f"slot {slot} čeká na člověka: {path.name} má status: review"
+            )
+            continue
         problems = inbox._edition_check(meta, body, allow_published=True)
         if problems:
             errors.append(f"{path.name}: {problems[0]}")
