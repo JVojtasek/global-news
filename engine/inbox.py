@@ -165,6 +165,15 @@ def _edition_check(meta: dict, body: str, *, allow_published: bool = False) -> l
     if automation_role not in {"", "edition"}:
         return [f"neznámá automatická role '{automation_role}'"]
 
+    # Text navíc, mimo číslované vydání. Slot 0 žádný slot nezabírá, hlídač
+    # vydání ho nepočítá a vlajkovou lodí dne se stát nemůže — plán pro něj
+    # proto žádnou specifikaci nemá. Tak se otevírá prázdná rubrika, aniž by
+    # to shodilo sloty 1–7. Platí obecná pravidla a povinnost přijít jako draft.
+    if slot == 0:
+        if meta.get("status") != "draft":
+            return [f"článek mimo vydání musí mít status: draft, ne {meta.get('status')}"]
+        return []
+
     spec = _planned_slot(meta)
     if not spec or slot not in range(1, 8):
         return ["automatický článek nemá platný edition_slot 1–7 pro svůj den"]

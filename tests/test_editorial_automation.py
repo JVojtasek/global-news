@@ -71,6 +71,18 @@ class ScheduledArticleGateTests(unittest.TestCase):
         problems = inbox._edition_check(meta, self.layers)
         self.assertTrue(any("běžný článek" in problem for problem in problems))
 
+    def test_extra_article_outside_the_edition_uses_slot_zero(self):
+        # Otevření prázdné rubriky mimo číslované vydání: slot 0 nic nezabírá,
+        # ale nesmí propustit hotový text rovnou na web.
+        meta = dict(self.meta, section="travel", edition_slot=0,
+                    automation_role="edition", generator="claude-cowork")
+        self.assertEqual([], inbox._edition_check(meta, self.layers))
+        published = dict(meta, status="published")
+        self.assertTrue(
+            any("mimo vydání" in problem
+                for problem in inbox._edition_check(published, self.layers))
+        )
+
     def test_scheduled_slot_must_match_plan_contract(self):
         meta = dict(self.meta, section="world", type="news", status="published")
         problems = inbox._edition_check(meta, "Too short for the assigned slot. " * 40)
