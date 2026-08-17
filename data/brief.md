@@ -84,8 +84,8 @@
 - rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
   - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
 
 ---
 
@@ -106,13 +106,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 26  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 27  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 26
-  2026-08-11  (2 zdrojů, síla 45)  Trump demands Iran pay compensation for decades of US soldier deaths
+rubrika: world · sledováno od 2026-08-09 · záznamů: 27
   2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue
   2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
   2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
@@ -132,6 +131,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 26
   2026-08-17  (2 zdrojů, síla 45)  Trump orders US to scale back South Korea military drills
   2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces
   2026-08-17  (2 zdrojů, síla 44)  Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
+  2026-08-17  (2 zdrojů, síla 44)  Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

@@ -7,9 +7,8 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 8 dní · 26 záznamů
+- rubrika `world` · sledováno 8 dní · 27 záznamů
 - časová osa:
-  - **2026-08-15** (2 zdrojů) Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
   - **2026-08-15** (2 zdrojů) Trump threatens to declare strait of Hormuz ‘territory of the United States’
   - **2026-08-16** (2 zdrojů) Iran war: Qatar denies holding missing Iranian fighter pilots
   - **2026-08-16** (2 zdrojů) Qatar denies capturing three Iranian pilots after downing fighter jets
@@ -19,6 +18,7 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Trump orders US to scale back South Korea military drills
   - **2026-08-17** (2 zdrojů) Troops from North Korea to boost Russia's Ukraine forces
   - **2026-08-17** (2 zdrojů) Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
+  - **2026-08-17** (2 zdrojů) Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 6 dní · 10 záznamů
@@ -35,7 +35,7 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 8 dní · 6 záznamů
+- rubrika `world` · sledováno 8 dní · 7 záznamů
 - časová osa:
   - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
   - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
@@ -43,6 +43,7 @@ Paměť obsahuje **29 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza
   - **2026-08-17** (3 zdrojů) Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
   - **2026-08-17** (2 zdrojů) Middle East updates: Kushner meets Netanyahu in Jerusalem
+  - **2026-08-17** (2 zdrojů) Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 3 dní · 5 záznamů
