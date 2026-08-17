@@ -7,9 +7,8 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 8 dní · 21 záznamů
+- rubrika `world` · sledováno 8 dní · 22 záznamů
 - časová osa:
-  - **2026-08-12** (2 zdrojů) Lebanon becomes first Middle East country to end death penalty
   - **2026-08-13** (3 zdrojů) ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
   - **2026-08-15** (4 zdrojů) Donald Trump to declare Hormuz US territory 'soon'
   - **2026-08-15** (2 zdrojů) Donald Trump says he faced ‘greater risk’ on swapped plane
@@ -19,6 +18,7 @@ Paměť obsahuje **28 vláken**. Aktivních za posledních 14 dní: **15**.
   - **2026-08-16** (2 zdrojů) Iran war: Qatar denies holding missing Iranian fighter pilots
   - **2026-08-16** (2 zdrojů) Qatar denies capturing three Iranian pilots after downing fighter jets
   - **2026-08-17** (3 zdrojů) Trump says US to scale back military drills with South Korea after it stayed out of Iran war
+  - **2026-08-17** (2 zdrojů) Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 4 dní · 8 záznamů

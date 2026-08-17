@@ -6,28 +6,29 @@
    "section": "world",
    "entities": [
     "korea",
-    "trump",
-    "tennessee",
-    "bluster",
     "china",
-    "middle",
-    "turkey",
-    "hormuz",
+    "bluster",
     "iranian",
-    "iran",
-    "groundhog",
-    "south",
+    "tennessee",
+    "north",
+    "gulf",
     "east",
+    "iran",
+    "lebanon",
+    "qatar",
     "strait",
-    "oman",
+    "south",
     "taiwan",
+    "trump",
+    "hormuz",
     "united",
     "states",
-    "justified",
-    "gulf",
+    "turkey",
+    "oman",
     "donald",
-    "qatar",
-    "lebanon"
+    "middle",
+    "justified",
+    "groundhog"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -50,7 +51,8 @@
     "def668b7e9dc",
     "0e11f2f770e0",
     "ca01092fef56",
-    "d39bc91ddc0a"
+    "d39bc91ddc0a",
+    "c5e1e17987ea"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-17",
@@ -291,6 +293,17 @@
       "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
       "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5e1e17987ea",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -1503,5 +1516,5 @@
    ]
   }
  ],
- "updated": "2026-08-17T00:28:17+00:00"
+ "updated": "2026-08-17T03:33:17+00:00"
 }

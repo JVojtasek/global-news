@@ -112,13 +112,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 21  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 22  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 21
-  2026-08-10  (3 zdrojů, síla 55)  Middle East: Iran wants US concessions before opening Hormuz
+rubrika: world · sledováno od 2026-08-09 · záznamů: 22
   2026-08-11  (2 zdrojů, síla 44)  Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation
   2026-08-11  (2 zdrojů, síla 43)  Trump signals shift to economic pressure on Iran over new military strikes
   2026-08-11  (2 zdrojů, síla 41)  Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
@@ -138,6 +137,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 21
   2026-08-16  (2 zdrojů, síla 42)  Iran war: Qatar denies holding missing Iranian fighter pilots
   2026-08-16  (2 zdrojů, síla 42)  Qatar denies capturing three Iranian pilots after downing fighter jets
   2026-08-17  (3 zdrojů, síla 55)  Trump says US to scale back military drills with South Korea after it stayed out of Iran war
+  2026-08-17  (2 zdrojů, síla 46)  Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
