@@ -1,20 +1,18 @@
 ---
 slug: library-ebook-dormant-laws
-title: >-
-  A Library E-Book Can Expire After 26 Loans. Three Places Banned That, and All
+title: A Library E-Book Can Expire After 26 Loans. Three Places Banned That, and All
   Three Bans Are Asleep.
-dek: >-
-  Connecticut, Rhode Island and Washington DC have each outlawed expiring
-  library digital licences. Each law switches on only when enough other places
-  do the same, so none is in force — and meanwhile the queue you are standing in
-  is what decides which titles come back.
+dek: Connecticut, Rhode Island and Washington DC have each outlawed expiring library
+  digital licences. Each law switches on only when enough other places do the same,
+  so none is in force — and meanwhile the queue you are standing in is what decides
+  which titles come back.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 88
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -26,77 +24,90 @@ event_id: ''
 series: ''
 image_query: public library reading room
 sources:
-- name: 'Montana State Library — MontanaLibrary2Go Collection Development Policy, 2026 revision'
+- name: Montana State Library — MontanaLibrary2Go Collection Development Policy, 2026
+    revision
   url: https://www.msl.mt.gov/libraries/statewide_projects/montanalibrary2go/Updated-MTLibrary2Go-Collection-Development-Policy-2026-Final.pdf
   published: '2026'
-- name: 'Noorda and Berens — Digital Public Library Ecosystem 2023 Report, published by the American Library Association'
+- name: Noorda and Berens — Digital Public Library Ecosystem 2023 Report, published
+    by the American Library Association
   url: https://www.ala.org/sites/default/files/advocacy/content/ebooks/Digital-PL-Ecosystem-Report%20(1).pdf
   published: '2023'
-- name: 'Rhode Island General Assembly — 2026 S 2525 Substitute A, Library Ebook Contracts (full text)'
+- name: Rhode Island General Assembly — 2026 S 2525 Substitute A, Library Ebook Contracts
+    (full text)
   url: https://webserver.rilegislature.gov/BillText26/SenateText26/S2525A.pdf
   published: '2026-02-13'
-- name: 'Illinois General Assembly — HB5236, Digital Library Protection Act, bill status and engrossed text'
+- name: Illinois General Assembly — HB5236, Digital Library Protection Act, bill status
+    and engrossed text
   url: https://www.ilga.gov/Legislation/BillStatus?DocNum=5236&GAID=18&DocTypeID=HB&SessionID=114&GA=104
   published: '2026-04-17'
-- name: 'District of Columbia Office of the Chief Financial Officer — Fiscal Impact Statement, Library E-book Pricing Fairness Amendment Act of 2026'
+- name: District of Columbia Office of the Chief Financial Officer — Fiscal Impact
+    Statement, Library E-book Pricing Fairness Amendment Act of 2026
   url: https://app.cfo.dc.gov/services/fiscal_impact/pdf/spring09/FIS%20Bill%2026-490%20%20Library%20E-Book%20Pricing.pdf
   published: '2026-03-12'
-- name: 'OverDrive — Libraries break digital lending records in 2025 with over 820 million checkouts'
+- name: OverDrive — Libraries break digital lending records in 2025 with over 820
+    million checkouts
   url: https://company.overdrive.com/2026/01/21/libraries-break-digital-lending-records-in-2025-with-over-820-million-checkouts-and-over-1-billion-minutes-streamed/
   published: '2026-01-21'
-- name: 'Rhode Island Current — Rhode Island joins multistate push to rein in e-book licensing costs for libraries'
+- name: Rhode Island Current — Rhode Island joins multistate push to rein in e-book
+    licensing costs for libraries
   url: https://rhodeislandcurrent.com/2026/06/22/rhode-island-joins-multistate-push-to-rein-in-e-book-licensing-costs-for-libraries/
   published: '2026-06-22'
-- name: 'CT News Junkie — Connecticut libraries face rising e-book costs as new law remains inactive'
+- name: CT News Junkie — Connecticut libraries face rising e-book costs as new law
+    remains inactive
   url: https://ctnewsjunkie.com/2026/05/29/connecticut-libraries-face-rising-e-book-costs-as-new-law-remains-inactive/
   published: '2026-05-29'
-- name: 'Connecticut Mirror — CT House approves bill placing limits on library e-book contracts'
+- name: Connecticut Mirror — CT House approves bill placing limits on library e-book
+    contracts
   url: https://ctmirror.org/2025/05/15/ct-library-e-book-contracts-passes/
   published: '2025-05-15'
-- name: 'UConn Law Library — new Connecticut laws in effect 1 July 2025, including Public Act 25-9'
+- name: UConn Law Library — new Connecticut laws in effect 1 July 2025, including
+    Public Act 25-9
   url: https://library.law.uconn.edu/2025/06/30/new-connecticut-laws-in-effect-july-1-2
   published: '2025-06-30'
-- name: 'Association of American Publishers v. Frosh, US District Court for the District of Maryland, memorandum opinion'
+- name: Association of American Publishers v. Frosh, US District Court for the District
+    of Maryland, memorandum opinion
   url: https://law.justia.com/cases/federal/district-courts/maryland/mddce/1:2021cv03133/504378/30/
   published: '2022-06-13'
-- name: 'Copyright Alliance — position statement on state e-book licensing bills'
+- name: Copyright Alliance — position statement on state e-book licensing bills
   url: https://copyrightalliance.org/policy/positions/state-ebook-licensing-bills/
   published: '2022'
-- name: 'Authors Guild — statement on the Maryland e-book licensing decision'
+- name: Authors Guild — statement on the Maryland e-book licensing decision
   url: https://authorsguild.org/news/authors-guild-statement-on-aaps-win-in-maryland-e-book-licensing-case/
   published: '2022-02-18'
-- name: 'Authors Alliance — backing Illinois HB5236 and the broader state e-book licensing effort'
+- name: Authors Alliance — backing Illinois HB5236 and the broader state e-book licensing
+    effort
   url: https://www.authorsalliance.org/2026/05/12/authors-alliance-backs-illinois-hb5236-and-the-broader-state-ebook-licensing-effort/
   published: '2026-05-12'
-- name: 'Court of Justice of the European Union — press release 123/16, judgment in Case C-174/15 (Vereniging Openbare Bibliotheken)'
+- name: Court of Justice of the European Union — press release 123/16, judgment in
+    Case C-174/15 (Vereniging Openbare Bibliotheken)
   url: https://curia.europa.eu/jcms/upload/docs/application/pdf/2016-11/cp160123en.pdf
   published: '2016-11-10'
-- name: 'US Census Bureau — 2020 Census population change data table by state'
+- name: US Census Bureau — 2020 Census population change data table by state
   url: https://www2.census.gov/programs-surveys/decennial/2020/data/apportionment/population-change-data-table.pdf
   published: '2021-04-26'
 qma_path: ''
 tickers: []
 quiz:
-  question: What did Connecticut's 2025 library e-book law do about its own starting date?
+  question: What did Connecticut's 2025 library e-book law do about its own starting
+    date?
   options:
   - It came into force the moment the governor signed it
-  - It stays dormant until other states with a combined population of seven million pass similar laws
+  - It stays dormant until other states with a combined population of seven million
+    pass similar laws
   - It expires automatically after two years unless renewed
   answer: 1
-  explanation: The act was signed in May 2025 and reached the statute book that July, but its substance switches on only once other states meeting a population threshold act. The state librarian checks quarterly.
+  explanation: The act was signed in May 2025 and reached the statute book that July,
+    but its substance switches on only once other states meeting a population threshold
+    act. The state librarian checks quarterly.
 impact:
   areas:
   - life
   - money
-  line: >-
-    Public libraries mostly rent digital books rather than own them. A common
-    licence ends after about 26 loans or two years. One US state's officials
-    priced a print book at about $15 against an e-book licence of $56 to $78
-    in 2026.
-  todo: >-
-    Place the hold and use the notify-me tag anyway: many library systems buy
-    copies straight from their holds queue, and some publish the ratio they aim
-    for.
+  line: Public libraries mostly rent digital books rather than own them. A common
+    licence ends after about 26 loans or two years. One US state's officials priced
+    a print book at about $15 against an e-book licence of $56 to $78 in 2026.
+  todo: 'Place the hold and use the notify-me tag anyway: many library systems buy
+    copies straight from their holds queue, and some publish the ratio they aim for.'
 ---
 
 ## BRIEFLY

@@ -1,18 +1,16 @@
 ---
 slug: school-phone-pouches-evidence
-title: >-
-  Nearly 5,000 Schools Locked the Phones Away. Year One Looked Like a Mistake.
-dek: >-
-  The largest study yet of lockable phone pouches found test scores flat,
-  suspensions up and pupils feeling worse in the first year — and pupils
-  feeling clearly better by the second.
+title: Nearly 5,000 Schools Locked the Phones Away. Year One Looked Like a Mistake.
+dek: The largest study yet of lockable phone pouches found test scores flat, suspensions
+  up and pupils feeling worse in the first year — and pupils feeling clearly better
+  by the second.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -24,50 +22,56 @@ event_id: ''
 series: ''
 image_query: school corridor lockers
 sources:
-- name: 'NBER working paper 35132 — The Effects of School Phone Bans: National Evidence from Lockable Pouches'
+- name: 'NBER working paper 35132 — The Effects of School Phone Bans: National Evidence
+    from Lockable Pouches'
   url: https://www.nber.org/papers/w35132
-  published: '2026-04'
-- name: 'Allcott, Baron, Dee, Duckworth, Gentzkow and Jacob — full text of the phone-pouch study (Stanford)'
+  published: 2026-04
+- name: Allcott, Baron, Dee, Duckworth, Gentzkow and Jacob — full text of the phone-pouch
+    study (Stanford)
   url: https://web.stanford.edu/~gentzkow/research/PhoneBans.pdf
-  published: '2026-05'
-- name: 'Education Next — Figlio and Ozek on Florida''s bell-to-bell cellphone ban'
+  published: 2026-05
+- name: Education Next — Figlio and Ozek on Florida's bell-to-bell cellphone ban
   url: https://www.educationnext.org/wp-content/uploads/2026/05/ednext_26_2_research_figlio_ozek.pdf
   published: '2026-05-12'
-- name: 'NBER working paper 34388 — The Impact of Cellphone Bans in Schools on Student Outcomes: Evidence from Florida'
+- name: 'NBER working paper 34388 — The Impact of Cellphone Bans in Schools on Student
+    Outcomes: Evidence from Florida'
   url: https://www.nber.org/papers/w34388
-  published: '2025-10'
-- name: 'University of Birmingham research record — SMART Schools, The Lancet Regional Health Europe'
+  published: 2025-10
+- name: University of Birmingham research record — SMART Schools, The Lancet Regional
+    Health Europe
   url: https://research.birmingham.ac.uk/en/publications/school-phone-policies-and-their-association-with-mental-wellbeing/
   published: '2025-02-04'
-- name: 'Journal of Human Resources — Abrahamsson, Smartphone Bans, Student Outcomes and Mental Health'
+- name: Journal of Human Resources — Abrahamsson, Smartphone Bans, Student Outcomes
+    and Mental Health
   url: https://jhr.uwpress.org/content/early/2026/03/04/jhr.0224-13403R2
   published: '2026-03-11'
-- name: 'UNESCO Global Education Monitoring Report — Phone bans in schools are spreading worldwide'
+- name: UNESCO Global Education Monitoring Report — Phone bans in schools are spreading
+    worldwide
   url: https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages
   published: '2026-03-17'
 qma_path: ''
 tickers: []
 quiz:
-  question: In the nationwide US study of lockable phone pouches, what happened to average standardised test scores after schools adopted them?
+  question: In the nationwide US study of lockable phone pouches, what happened to
+    average standardised test scores after schools adopted them?
   options:
   - They rose by roughly half a school year of learning
   - They stayed essentially unchanged, and precisely so
   - They fell sharply in both maths and reading
   answer: 1
-  explanation: The pooled estimate was close to zero and tightly measured. The authors say they can rule out average improvements larger than about 0.008 student-level standard deviations.
+  explanation: The pooled estimate was close to zero and tightly measured. The authors
+    say they can rule out average improvements larger than about 0.008 student-level
+    standard deviations.
 impact:
   areas:
   - life
   - health
-  line: >-
-    Where schools lock phones in pouches, the largest US study to date found
-    average test scores unchanged, suspension rates up about 16 percent in the
-    adoption year, and pupil wellbeing worse at first and better by the second
-    year.
-  todo: >-
-    Ask your school what its phone rule was before the current one, and whether
-    it publishes discipline or wellbeing figures you can compare from one year
-    to the next.
+  line: Where schools lock phones in pouches, the largest US study to date found average
+    test scores unchanged, suspension rates up about 16 percent in the adoption year,
+    and pupil wellbeing worse at first and better by the second year.
+  todo: Ask your school what its phone rule was before the current one, and whether
+    it publishes discipline or wellbeing figures you can compare from one year to
+    the next.
 ---
 
 ## BRIEFLY

@@ -1,18 +1,17 @@
 ---
 slug: seven-thousand-steps
-title: >-
-  10,000 Steps Came From a Product Name in 1965. Australia's Guidelines Now Say 7,000.
-dek: >-
-  The world's best-known health target began as a pedometer's trade name. The
-  largest review of the evidence puts the bend in the curve between 5,000 and
-  7,000 steps — and finds five outcomes where it never bends at all.
+title: 10,000 Steps Came From a Product Name in 1965. Australia's Guidelines Now Say
+  7,000.
+dek: The world's best-known health target began as a pedometer's trade name. The largest
+  review of the evidence puts the bend in the curve between 5,000 and 7,000 steps
+  — and finds five outcomes where it never bends at all.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: draft
-confidence: 91
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -24,64 +23,76 @@ event_id: ''
 series: ''
 image_query: pedometer step counter
 sources:
-- name: 'Ding and colleagues — Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis, The Lancet Public Health (record and full abstract)'
+- name: 'Ding and colleagues — Daily steps and health outcomes in adults: a systematic
+    review and dose-response meta-analysis, The Lancet Public Health (record and full
+    abstract)'
   url: https://pubmed.ncbi.nlm.nih.gov/40713949/
   published: '2025-07-23'
-- name: 'Australian Government Department of Health, Disability and Ageing — Australian 24-Hour Movement Guidelines for Adults (18 to 64 years) and Older Adults (65+ years)'
+- name: Australian Government Department of Health, Disability and Ageing — Australian
+    24-Hour Movement Guidelines for Adults (18 to 64 years) and Older Adults (65+
+    years)
   url: https://www.health.gov.au/sites/default/files/2026-03/australian-24-hour-movement-guidelines-for-adults-18-to-64-years-and-older-adults-65-years.pdf
-  published: '2026-03'
-- name: 'Lee and colleagues — Association of Step Volume and Intensity With All-Cause Mortality in Older Women, JAMA Internal Medicine (full text)'
+  published: 2026-03
+- name: Lee and colleagues — Association of Step Volume and Intensity With All-Cause
+    Mortality in Older Women, JAMA Internal Medicine (full text)
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6547157/
   published: '2019-05-29'
-- name: 'Yamasa Tokei Keiki — company website, history of the manpo-kei pedometer and current 8,000-step message'
+- name: Yamasa Tokei Keiki — company website, history of the manpo-kei pedometer and
+    current 8,000-step message
   url: https://www.yamasa-tokei.co.jp/
   published: '2026-08-01'
-- name: 'Paluch and colleagues — Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts, The Lancet Public Health'
+- name: 'Paluch and colleagues — Daily steps and all-cause mortality: a meta-analysis
+    of 15 international cohorts, The Lancet Public Health'
   url: https://pubmed.ncbi.nlm.nih.gov/35247352/
-  published: '2022-03'
-- name: 'Japan Ministry of Health, Labour and Welfare — recommendation sheet for the Physical Activity and Exercise Guide for Health Promotion 2023'
+  published: 2022-03
+- name: Japan Ministry of Health, Labour and Welfare — recommendation sheet for the
+    Physical Activity and Exercise Guide for Health Promotion 2023
   url: https://kennet.mhlw.go.jp/information/information/exercise/s-00-002.html
   published: '2024-02-22'
-- name: 'Japan Ministry of Health, Labour and Welfare — step targets under Health Japan 21 (third term)'
+- name: Japan Ministry of Health, Labour and Welfare — step targets under Health Japan
+    21 (third term)
   url: https://kennet.mhlw.go.jp/information/information/exercise/s-00-001.html
   published: '2024'
-- name: 'World Health Organization — physical activity fact sheet'
+- name: World Health Organization — physical activity fact sheet
   url: https://www.who.int/news-room/fact-sheets/detail/physical-activity
   published: '2024-06-26'
-- name: 'Science Media Centre — expert reaction to the daily step count meta-analysis'
+- name: Science Media Centre — expert reaction to the daily step count meta-analysis
   url: https://www.sciencemediacentre.org/expert-reaction-to-systematic-review-and-meta-analysis-of-daily-step-count-and-risk-of-chronic-diseases-cognitive-decline-and-death/
   published: '2025-07-23'
-- name: 'University of Sydney — Rethink the 10,000-a-day step goal, study suggests'
+- name: University of Sydney — Rethink the 10,000-a-day step goal, study suggests
   url: https://www.sydney.edu.au/news-opinion/news/2025/07/24/rethink-the-10000-a-day-step-goal-study-suggests.html
   published: '2025-07-24'
-- name: 'Ekelund and colleagues — Dose-response associations between accelerometry measured physical activity and all cause mortality, The BMJ'
+- name: Ekelund and colleagues — Dose-response associations between accelerometry
+    measured physical activity and all cause mortality, The BMJ
   url: https://pubmed.ncbi.nlm.nih.gov/31434697/
   published: '2019-08-21'
-- name: 'McLaughlin, Salmon and McCue — Australia''s new physical activity guidelines will not shift the needle, UNSW Sydney'
+- name: McLaughlin, Salmon and McCue — Australia's new physical activity guidelines
+    will not shift the needle, UNSW Sydney
   url: https://www.unsw.edu.au/student/student-life/news/2026/04/australia-new-physical-activity-guidelines
   published: '2026-04-06'
 qma_path: ''
 tickers: []
 quiz:
-  question: Where does the 10,000-step goal most likely come from, according to the researchers who have examined its origin?
+  question: Where does the 10,000-step goal most likely come from, according to the
+    researchers who have examined its origin?
   options:
   - A World Health Organization recommendation issued in 1965
   - The trade name of a Japanese pedometer put on sale in 1965
   - A 1965 clinical trial of walking in older adults
   answer: 1
-  explanation: I-Min Lee and colleagues wrote in JAMA Internal Medicine in 2019 that the origin is unclear but likely derives from the trade name of a pedometer sold in 1965 by a Japanese clock and instrument maker.
+  explanation: I-Min Lee and colleagues wrote in JAMA Internal Medicine in 2019 that
+    the origin is unclear but likely derives from the trade name of a pedometer sold
+    in 1965 by a Japanese clock and instrument maker.
 impact:
   areas:
   - health
   - life
-  line: >-
-    Australia's 2026 movement guidelines tell adults who track steps to aim for
-    7,000 or more a day, and Japan's guide names about 8,000 for adults aged 20
-    to 64. World Health Organization guidance still counts minutes, not steps.
-  todo: >-
-    Check whether your health ministry's activity guidance names a step number
-    and what it says for your age group. A doctor or physiotherapist can say
-    what applies to you.
+  line: Australia's 2026 movement guidelines tell adults who track steps to aim for
+    7,000 or more a day, and Japan's guide names about 8,000 for adults aged 20 to
+    64. World Health Organization guidance still counts minutes, not steps.
+  todo: Check whether your health ministry's activity guidance names a step number
+    and what it says for your age group. A doctor or physiotherapist can say what
+    applies to you.
 ---
 
 ## BRIEFLY

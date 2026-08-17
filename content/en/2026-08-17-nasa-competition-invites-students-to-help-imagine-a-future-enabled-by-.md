@@ -1,0 +1,71 @@
+---
+slug: nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-
+title: NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar
+  Technologies
+dek: NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original
+  concepts to the 2027 edition of a student challenge focused on aerospace innovation
+  that could&#160;help the agency envisi
+section: science
+type: syndicated
+depth: open
+lang: en
+date: '2026-08-17'
+status: published
+confidence: 0
+image_query: NASA Competition Invites Students to Help
+syndicated:
+  source: NASA
+  author: Bailey G. Light
+  url: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/
+  license: Public domain (U.S. Government work)
+  license_url: https://www.nasa.gov/nasa-brand-center/images-and-media/
+  attribution: Originally published by <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/">NASA</a>.
+    NASA material is generally not subject to copyright protection.
+  may_translate: true
+  may_edit: true
+sources:
+- name: NASA
+  url: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/
+---
+
+3 min read
+
+NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology.
+
+The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to support sustained operations in the lunar South Pole region.
+
+“This competition showcases the technical excellence and creativity of the next generation of explorers and innovators,” said Chris Jones, chief technologist, Systems Analysis and Concepts Directorate, NASA’s Langley Research Center in Hampton, Virginia. “The concepts students develop through RASC-AL demonstrate exceptional talent and contribute to the body of work that advances NASA’s missions.”
+
+Since 2002, the annual RASC-AL competition has helped foster aerospace concepts, technology, and prototyping by making connections among universities, NASA, and industry. This year’s competition includes themes ranging from the development of concepts to support prospecting in the permanently shadowed regions of lunar craters to the advancement of critical and expandable infrastructure for future astronauts.
+
+“NASA’s RASC-AL competition connects top university researchers with the agency’s technology and engineering challenges,” said Gabe Merrill, acting cross-program integration lead for the Advanced Research and Technology Division in NASA’s Research and Technology Mission Directorate. “By asking student innovators to design concepts for what our future on the Moon might look like, this competition accelerates the technology we need to explore the Moon and provides a development opportunity for future aerospace innovators and leaders.”
+
+Teams interested in participating are required to submit a non-binding notice of intent by Tuesday, Oct. 13, and will be invited to a Q&A session with NASA experts on Oct. 27.
+
+Challenge proposals and accompanying video submissions are due Feb. 24, 2027. Proposals should demonstrate innovative solutions supported by original engineering and analysis in response to one of the four 2027 RASC-AL themes:
+
+- Enabling extreme exploration
+
+- Transit pathway construction
+
+- Lunar resource exploration
+
+- Smart and resilient lunar habitat
+
+The competition will select as many as 14 teams to advance to its final phase, which involves further developing their concepts, writing a technical paper, and creating a technical poster. Each finalist team will receive a $7,500 award to facilitate its full participation. Finalists will present their concepts to a panel of NASA and industry experts at the 2027 RASC-AL Forum in Cocoa Beach, Florida, June 7 to 10, 2027.
+
+The top two overall teams will receive an additional monetary award and an invitation to attend and present their concept at an aerospace conference later in 2027.
+
+Interested student teams are encouraged to visit the official RASC-AL competition website for detailed guidelines and eligibility requirements.
+
+The 2027 NASA RASC-AL Competition is administered by the National Institute of Aerospace on behalf of NASA’s Advanced Research and Technology Division within the Research and Technology Mission Directorate. NASA’s Center of Excellence for Collaborative Innovation, part of the Prizes, Challenges, and Crowdsourcing Program within the Research and Technology Mission Directorate, manages the challenge contract.
+
+### Discover More Topics From NASA
+
+NASA Prizes, Challenges, and Crowdsourcing
+
+Langley Research Center
+
+NASA’s Lunar Surface Innovation Initiative
+
+CoECI
