@@ -320,7 +320,10 @@ seo:
   #   nebo celá adresa. Obrázek má mít 1200 × 630 bodů.
   #   Dokud je políčko prázdné, nevypíše se žádná značka — odkaz na
   #   neexistující obrázek je horší než náhled bez obrázku.
-  share_image: ""
+  #   Soubor vyrábí tools/make-share-image.py — je to titulní strana
+  #   novin, ne fotka, aby se u žádného článku netvrdilo nic, co v něm
+  #   není.
+  share_image: "/share.jpg"
   # Kolik souvisejících článků nabídnout na konci textu
   related_count: 3
   # Vypsat u článku odhad doby čtení
@@ -414,3 +417,73 @@ seo_plus:
 problems:
   order: [housing, energy, water, ageing, teachers, roads,
           antibiotics, loneliness, plastic, disinformation]
+
+  # Kdy se pod článkem objeví odkaz na stránku velkého problému.
+  #
+  # Odkaz se ukáže, jen když se slovo opravdu v textu vyskytne — a to
+  # nejméně dvakrát (engine/problems.py, MATCH_MIN). Jedna zmínka
+  # mimochodem nestačí. Rozcestník se nesmí lepit pod všechno, co jen
+  # vzdáleně souvisí: čtenář by přestal odkazům věřit a vyhledávač by
+  # to poznal taky.
+  #
+  # Píše se kmen slova, ne celé slovo. „bydlen" chytí i „bydlení"
+  # a „bydlením", „teacher" i „teachers" a „teaching". Začátek slova
+  # se hlídá, konec ne.
+  #
+  # Slova jsou schválně úzká. Samotné „nájem" nebo „energie" se objeví
+  # i v rozboru akcií realitního fondu a odkaz na stálou stránku by
+  # tam nedával smysl — proto tu stojí „regulace nájemného"
+  # a „ceny energií", ne holé kmeny.
+  match:
+    housing:
+      en: [housing, homeless, "rent control", renters, "social housing",
+           "mortgage rate", "house price", "home ownership", "affordable home"]
+      cs: [bydlen, bezdomov, "regulace nájemného", "nájemního bydlení",
+           "ceny bytů", "hypoteční sazb", "dostupné bydlen", "vlastní bydlen"]
+    energy:
+      en: ["energy bill", "energy price", "energy poverty", "power grid",
+           "electricity price", blackout, "heating cost", "power cut"]
+      cs: ["ceny energi", "energetická chudoba", "cena elektřiny", "rozvodná síť",
+           blackout, "náklady na vytápěn", "výpadek proudu", "ceny elektřiny"]
+    water:
+      en: [drought, "water supply", reservoir, aquifer, "drinking water",
+           "water shortage", "water rationing"]
+      cs: [sucho, vodovod, přehrad, vodonosn, "pitná voda", "nedostatek vody",
+           "omezení odběru vody"]
+    ageing:
+      en: ["pension system", "pension age", "state pension", "pension reform",
+           "ageing population", "aging population", "care home",
+           "long-term care", "retirement age"]
+      cs: ["důchodový systém", "důchodová reform", "důchodový věk",
+           "starobní důchod", "stárnutí populace", "stárnoucí populac",
+           pečovatelsk, "domov pro seniory", "dlouhodobá péče"]
+    teachers:
+      en: [teacher, "teaching staff", classroom, "school shortage", curriculum,
+           pupil, "class size"]
+      cs: [učitel, "sbor ve škol", "ve třídě", "nedostatek kantor", osnov,
+           "žáků na", "počet žáků"]
+    roads:
+      en: ["road death", "road safety", "speed limit", "road crash",
+           pedestrian, cyclist, "traffic fatalit"]
+      cs: ["dopravní nehod", "bezpečnost silnic", "rychlostní limit", chodec,
+           chodců, cyklist, "obětí na silnicích"]
+    antibiotics:
+      en: [antibiotic, "antimicrobial resistance", superbug, "drug-resistant",
+           "resistant bacteria"]
+      cs: [antibiotik, "antimikrobiální rezistenc", superbakteri,
+           "odolné bakteri", "rezistentní bakteri"]
+    loneliness:
+      en: [loneliness, lonely, "social isolation", "social connection",
+           "living alone", friendship]
+      cs: [osamělost, osamělí, "sociální izolac", "sociální kontakt",
+           "žijících sam", přátelstv]
+    plastic:
+      en: [plastic, "recycling rate", microplastic, "single-use plastic",
+           landfill, "packaging waste"]
+      cs: [plast, "míra recyklac", mikroplast, "jednorázové plast",
+           "jednorázových plast", skládk, "obalový odpad"]
+    disinformation:
+      en: [disinformation, misinformation, "fact-check", propaganda, deepfake,
+           "false claim"]
+      cs: [dezinformac, "ověřování faktů", "fact-check", propagand, deepfake,
+           "nepravdivé tvrzen"]

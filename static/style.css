@@ -767,6 +767,14 @@ nav.sections a.nav-you:hover{border-color:var(--accent)}
 .morerow a{display:inline-block;padding:.24rem .75rem;border:1px solid var(--line);
   border-radius:99px;font-size:.82rem;text-decoration:none;color:var(--ink)}
 .morerow a:hover{border-color:var(--accent);color:var(--accent)}
+/* Druhý řádek („Kde to dopadá“) navazuje hned pod prvním, proto
+   bez další linky nahoře. Když má oba popisky, druhý dostane
+   trochu místa, ať se nesplete se štítky před ním. */
+.morerow-where{margin-top:.6rem;padding-top:0;border-top:0}
+.morerow-where .morerow-lab + a{margin-left:0}
+.morerow-where a + .morerow-lab{margin-left:.7rem}
+.morerow-where a{border-style:dashed}
+.morerow-where a:hover{border-style:solid}
 
 /* Tichá pozvánka k odběru uvnitř článku: dva řádky a odkaz. Žádné
    políčko, žádné vyskakovací okno — kdo dočetl, ten si najde cestu sám. */

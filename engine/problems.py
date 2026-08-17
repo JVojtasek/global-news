@@ -52,6 +52,7 @@ rozhodnutí, a kvůli němu se nemá sahat do Pythonu.
 """
 from __future__ import annotations
 
+import functools
 import re
 import unicodedata
 
@@ -325,6 +326,68 @@ def load(lang: str) -> list[dict]:
         p["id"],
     ))
     return pages
+
+
+# ------------------------------------------------ co s článkem souvisí
+# Kolikrát musí být slovo v textu, aby se odkaz ukázal. Jedna zmínka
+# mimochodem nestačí: článek o rozpočtu se dotkne bydlení jednou větou
+# a odkaz na stálou stránku by pak sliboval víc, než uvnitř je.
+MATCH_MIN = 2
+# Nejvýš dva odkazy pod jedním článkem. Tři už je řádek, který nikdo
+# nečte, a vyhledávači to začne připadat jako podbízení.
+MATCH_MAX = 2
+
+
+@functools.lru_cache(maxsize=8)
+def _matchers(lang: str) -> tuple:
+    """Slova z data/site.yml převedená na hledací vzory.
+
+    Píše se kmen slova, hlídá se jen jeho začátek — „nájem" tak chytí
+    „nájemné" i „nájemní" a „rent" chytí „rental". Čeština bez toho
+    nejde: skloňovaných tvarů je víc než slov.
+    """
+    block = config.site().get("problems")
+    block = block.get("match") if isinstance(block, dict) else None
+    if not isinstance(block, dict):
+        return ()
+    out = []
+    for pid, langs in block.items():
+        words = _list((langs or {}).get(lang)) if isinstance(langs, dict) else _list(langs)
+        stems = [re.escape(_str(w).lower()) for w in words if _str(w)]
+        if not stems:
+            continue
+        # \b jen na začátku: konec slova zůstává volný kvůli koncovkám.
+        out.append((_code(pid), re.compile(r"\b(?:" + "|".join(stems) + r")", re.I | re.U)))
+    return tuple(out)
+
+
+def match(meta: dict, body: str, lang: str) -> list[str]:
+    """Které velké problémy článek opravdu otevírá.
+
+    Vrací id stránek, na které má smysl pod článkem odkázat. Hledá se
+    v titulku, perexu i v textu; stránka musí existovat a být hotová,
+    jinak by odkaz vedl na 404 nebo na rozepsaný text.
+    """
+    text = " ".join([
+        _str((meta or {}).get("title")),
+        _str((meta or {}).get("dek")),
+        str(body or ""),
+    ]).lower()
+    if not text.strip():
+        return []
+    ready = {p["id"] for p in load(lang)}
+    hits = []
+    for pid, rx in _matchers(lang):
+        if pid not in ready:
+            continue
+        n = len(rx.findall(text))
+        if n >= MATCH_MIN:
+            hits.append((n, pid))
+    # Nejdřív to, čeho je v textu nejvíc; při shodě rozhoduje pořadí
+    # z data/site.yml, ať web vypadá při každé stavbě stejně.
+    order = _order()
+    hits.sort(key=lambda h: (-h[0], order.index(h[1]) if h[1] in order else len(order)))
+    return [pid for _, pid in hits[:MATCH_MAX]]
 
 
 def one(pid: str, lang: str) -> dict | None:

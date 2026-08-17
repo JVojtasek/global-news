@@ -19,8 +19,13 @@
 <meta property="og:image:height" content="{{ a.img_h }}">
 {% endif %}<meta name="twitter:image" content="{{ site_url }}{{ a.image }}">
 {% elif a.share_image %}{# Článek bez vlastní fotky dostane společný obrázek novin
-   ze `seo.share_image`. Dokud tam žádný není, zůstane náhled bez obrázku. #}
+   ze `seo.share_image`. Je to titulní strana, ne fotka — u článku bez
+   obrázku se tak nic nepředstírá. Dokud tam žádný není, zůstane náhled
+   bez obrázku. #}
 <meta property="og:image" content="{{ a.share_image }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ brand }}">
 <meta name="twitter:image" content="{{ a.share_image }}">
 {% endif %}<meta name="twitter:title" content="{{ a.title }}">
 <meta name="twitter:description" content="{{ a.dek }}">
@@ -202,6 +207,21 @@
     <nav class="morerow" aria-label="{{ t.hub_more }}">
       <span class="morerow-lab">{{ t.hub_more }}</span>
       {% for h in a.hubs %}<a href="{{ h.url }}">{{ h.label }}</a>{% endfor %}
+    </nav>
+    {% endif %}
+
+    {#  Kam to dopadá. Země, které článek jmenuje, vedou na stránku
+        „co to znamená pro mou zemi"; stálá stránka velkého problému
+        na to, co se s tím kde opravdu zkusilo. Obojí se počítá z textu
+        článku při stavbě webu — z nastavení čtenáře se nebere nic.  #}
+    {% if a.country_links or a.problem_links %}
+    <nav class="morerow morerow-where" aria-label="{{ t.row_where }}">
+      {% if a.country_links %}<span class="morerow-lab">{{ t.row_where }}</span>
+      {% for c in a.country_links %}<a href="{{ c.url }}">{{ c.label }}</a>{% endfor %}
+      {% endif %}
+      {% if a.problem_links %}<span class="morerow-lab">{{ t.row_problem }}</span>
+      {% for pr in a.problem_links %}<a href="{{ pr.url }}">{{ pr.label }}</a>{% endfor %}
+      {% endif %}
     </nav>
     {% endif %}
 

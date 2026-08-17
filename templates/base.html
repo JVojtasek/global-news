@@ -44,6 +44,9 @@
    `seo.share_image` v data/site.yml — dokud tam nic není, nevypíše se
    nic. Odkaz na neexistující obrázek je horší než náhled bez obrázku. #}
 {% if share_image %}<meta property="og:image" content="{{ share_image }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ brand }}">
 <meta name="twitter:image" content="{{ share_image }}">
 {% endif %}{% endif %}
 {# Strukturovaný popis stránky pro vyhledávač. Titulní strana jím říká,

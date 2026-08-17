@@ -445,6 +445,9 @@ Write to {email}. We answer.""",
         "count_few": "%d articles",
         "count_many": "%d articles",
         "hub_more": "More on this",
+        # Řádek pod článkem, který vede na stálé stránky.
+        "row_where": "Where this lands",
+        "row_problem": "The long-running problem behind it",
         "hub_intro": "Everything we have published on %s, newest first. Background, research "
                      "and plain explanation — not only the headline of the day.",
         "hub_back": "Browse the whole %s section",
@@ -965,6 +968,8 @@ Pište na {email}. Odpovídáme.""",
         "count_few": "%d články",
         "count_many": "%d článků",
         "hub_more": "Víc k tématu",
+        "row_where": "Kde to dopadá",
+        "row_problem": "Dlouhodobý problém za tím",
         "hub_intro": "Všechno, co jsme vydali k tématu %s, od nejnovějšího. Souvislosti, výzkum "
                      "a srozumitelné vysvětlení — ne jenom titulek dne.",
         "hub_back": "Prohlédnout celou rubriku %s",
@@ -1374,6 +1379,10 @@ def _view(meta: dict, body: str, path=None) -> dict:
         # Které země se v textu jmenují a jak daleko ta zpráva dosáhne.
         # Počítá se tady, protože jinde už není po ruce celý text.
         "countries": countries.detect(meta, body),
+        # Které stálé stránky velkých problémů článek opravdu otevírá.
+        # Slova jsou v data/site.yml (problems.match) a musí v textu
+        # padnout aspoň dvakrát — jedna zmínka mimochodem nestačí.
+        "problem_ids": problems.match(meta, body, lang),
         "published_iso": _published_iso(meta, path),
         "published_label": _published_label(meta, path, lang),
         "body_html": body_html,
@@ -2106,6 +2115,16 @@ def run() -> None:
         hub_by_id = {h["id"]: h for h in hubs}
 
         # --- článek ---
+        # Stránky, na které se smí odkazovat. Země existují všechny,
+        # problémy jen ty hotové — odkaz na rozepsaný text by skončil
+        # na 404. Titulek problému je na řádek moc dlouhý, bere se
+        # proto jen slovo před dvojtečkou („Housing: what has actually
+        # worked" → „Housing").
+        country_codes = {c["code"] for c in countries.catalogue()}
+        problem_short = {
+            pr["id"]: (pr["title"].split(":")[0].strip() or pr["title"])
+            for pr in everything[lang]["problems"]
+        }
         rep_cfg = site.get("republish", {})
         seo = site.get("seo", {})
         for a in arts:
@@ -2129,6 +2148,27 @@ def run() -> None:
                 for tag in (a.get("tags_csv") or "").split(",")
                 if (h := hub_by_id.get(tag))
             ][:4]
+            # Řádek „Kde to dopadá" pod článkem: země, které text
+            # jmenuje, a stálá stránka problému, o kterém opravdu je.
+            #
+            # Tyhle dvě rubriky jsou pro čtenáře to nejužitečnější, co
+            # web má — a byly dosud slepé. Ze všech tří set článků na
+            # ně nevedl jediný odkaz, takže se k nim nedostal ani člověk,
+            # ani vyhledávač. Bere se to z textu článku, ne z toho, co
+            # kdo čte (EDITORIAL-CODE, oddíl 5).
+            a["country_links"] = [
+                {"code": code,
+                 "label": countries.label(code, lang),
+                 "url": f"{config.base_path()}/{lang}/country/{code}/"}
+                for code in ((a.get("countries") or {}).get("direct") or [])
+                if code in country_codes
+            ][:3]
+            a["problem_links"] = [
+                {"id": pid, "label": problem_short.get(pid, ""),
+                 "url": f"{config.base_path()}/{lang}/problems/{pid}/"}
+                for pid in (a.get("problem_ids") or [])
+                if pid in problem_short
+            ][:2]
             a["republish"] = (
                 _republish_html(a, site)
                 if not early and rep_cfg.get("enabled")
@@ -2573,16 +2613,20 @@ def run() -> None:
     # --- kořen webu ---
     master = site["languages"]["master"]
     bp = config.base_path()
+    # Kořen vede na titulní stranu, ne na briefing. Vyhledávač bere
+    # doménu jako jednu stránku a tou má být to, co novinám opravdu
+    # patří nahoru — celé vydání. Briefing je jedna rubrika z něj
+    # a odkaz na něj stojí hned na titulní straně.
     _write(out / "index.html",
            f'<!doctype html><html lang="{master}"><meta charset="utf-8">'
-           f'<meta http-equiv="refresh" content="0; url={bp}/{master}/briefing/">'
+           f'<meta http-equiv="refresh" content="0; url={bp}/{master}/">'
            # Kanonická adresa musí být celá i tady. Relativní cestu si
            # vyhledávač sice domyslí, ale u přesměrování se to plete
            # nejsnáz a je to jedna z mála adres, kterou opravdu zná
            # každý — bez ní se doména hlásí sama za sebe.
-           f'<link rel="canonical" href="{config.origin()}{bp}/{master}/briefing/">'
+           f'<link rel="canonical" href="{config.origin()}{bp}/{master}/">'
            f'<title>{site["brand"]["name_en"]}</title>'
-           f'<p>→ <a href="{bp}/{master}/briefing/">{site["brand"]["name_en"]} Briefing</a></p>')
+           f'<p>→ <a href="{bp}/{master}/">{site["brand"]["name_en"]}</a></p>')
     # robots.txt — co smí robot vyhledávače a kde najde mapu webu.
     # SeznamBot a Googlebot-News uvádíme zvlášť, ať je to jednoznačné;
     # roboty, které jen odsávají obsah na trénink, sem nepatří.
@@ -2709,6 +2753,12 @@ def _sitemap(out, url: str) -> str:
         # /weekend/ je jen přesměrování na nejnovější číslo. Do mapy webu
         # patří samo číslo (/weekend/3/), ne rozcestí k němu.
         if rel.endswith("/weekend"):
+            continue
+        # Kořen webu je taky jen přesměrování — na titulní stranu
+        # v hlavním jazyce. Do mapy patří ta titulní strana (/en/),
+        # ne cesta k ní. Posílat vyhledávači obojí znamená nabídnout
+        # mu dvě adresy pro jednu stránku.
+        if rel == ".":
             continue
         # Stránka označená `noindex` do mapy webu nepatří — poslat ji tam
         # znamená říct vyhledávači dvě opačné věci najednou. Týká se to
