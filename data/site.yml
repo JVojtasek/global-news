@@ -82,6 +82,14 @@ editorial:
       - safety
       - soul
       - goodnews
+      # Doplněno 17. 8. 2026. Tyhle čtyři rubriky v rotaci chyběly, takže
+      # je plán nikdy nemohl zadat a jejich stránky zůstávaly prázdné —
+      # v navigaci byly, ale nevedly nikam. Prázdná rubrika je horší než
+      # žádná: čtenář klikne a odejde.
+      - travel
+      - food
+      - sport
+      - motoring
     min_words: 1100
     max_words: 1900
 

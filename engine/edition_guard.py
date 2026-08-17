@@ -69,7 +69,9 @@ def inspect(day: dt.date | None = None) -> tuple[list[str], list[str]]:
             f"(automation_generated: false): {names}"
         )
 
-    plan = edition.build(day)
+    # Zmrazený plán z rána, ne přepočet. Jinak by hlídač soudil vydání
+    # podle jiného zadání, než jaké pisatelé ráno dostali.
+    plan = edition.today_plan(day)
     specs = list(plan.get("slots") or [])
     if plan.get("reserve"):
         specs.append(plan["reserve"])

@@ -102,7 +102,7 @@ def _planned_slot(meta: dict) -> dict | None:
         slot = int(meta.get("edition_slot") or 0)
     except (TypeError, ValueError):
         return None
-    plan = edition.build(day)
+    plan = edition.today_plan(day)
     specs = list(plan.get("slots") or [])
     if plan.get("reserve"):
         specs.append(plan["reserve"])

@@ -149,6 +149,35 @@ def run() -> int:
     if rej:
         print(f"{WARN}{len(rej)} článků neprošlo kontrolou — viz content/inbox/_rejected/")
 
+    # --- vyváženost rubrik ---
+    # Bez tohohle pohledu se dá měsíce vydávat plný počet článků a přitom
+    # mít polovinu webu prázdnou. 17. srpna 2026 držel byznys 63 článků
+    # a cestování, jídlo, sport a motorismus nulu — v navigaci byly,
+    # ale nevedly nikam.
+    import datetime as _dt
+    from . import edition as _edition
+    window = _edition.HUNGER_WINDOW
+    cut = (_dt.date.today() - _dt.timedelta(days=window)).isoformat()
+    counts = {}
+    for meta, _b, _p in article.load_all(site["languages"]["master"]):
+        if meta.get("status") != "published" or str(meta.get("date") or "") < cut:
+            continue
+        sec = str(meta.get("section") or "")
+        if sec:
+            counts[sec] = counts.get(sec, 0) + 1
+    all_secs = [x["id"] for x in site["sections"]]
+    empty = [s for s in all_secs if counts.get(s, 0) == 0]
+    thin = [s for s in all_secs if 0 < counts.get(s, 0) <= 1]
+    top = sorted(counts.items(), key=lambda kv: -kv[1])[:3]
+    share = round(100 * sum(v for _, v in top) / max(sum(counts.values()), 1))
+    print(f"{OK} Rubriky za {window} dní: {len(all_secs) - len(empty)} z {len(all_secs)} "
+          f"má obsah; tři největší berou {share} % článků "
+          f"({', '.join(f'{k} {v}' for k, v in top)})")
+    if empty:
+        print(f"{WARN}Prázdné rubriky ({len(empty)}): {', '.join(empty)}")
+    if thin:
+        print(f"{WARN}Skoro prázdné ({len(thin)}): {', '.join(thin)}")
+
     print("=" * 60)
     print("HOTOVO." if not problems else f"NALEZENO {problems} VÁŽNÝCH PROBLÉMŮ.")
     return problems

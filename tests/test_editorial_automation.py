@@ -1,4 +1,5 @@
 import datetime as dt
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -144,6 +145,11 @@ class EditionCompletenessTests(unittest.TestCase):
             (data / "daily-agenda" / "2026-08-13.md").write_text(
                 "# Agenda\n", encoding="utf-8"
             )
+            # Ranní úloha plán zapisuje na disk a hlídač ho pak jen čte.
+            # Bez toho by si ho přepočítal nad prázdným obsahem a soudil
+            # vydání podle jiných rubrik, než pro které se psalo.
+            (data / "edition-plan.json").write_text(
+                json.dumps(plan, ensure_ascii=False), encoding="utf-8")
             for spec in plan["slots"]:
                 words = "useful " * int(spec["min_words"])
                 meta = self._meta(spec)

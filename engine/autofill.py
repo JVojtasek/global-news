@@ -98,7 +98,7 @@ def _occupied(day: dt.date) -> set[int]:
 
 def missing_slots(day: dt.date) -> list[dict]:
     """Specifikace veřejných slotů 1–6, které dnes chybí. Rezervu vynechává."""
-    plan = edition.build(day)
+    plan = edition.today_plan(day)
     taken = _occupied(day)
     return [s for s in (plan.get("slots") or []) if int(s["slot"]) not in taken]
 
