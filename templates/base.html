@@ -120,6 +120,18 @@
           data-thanks="{{ base }}/{{ lang }}/thanks/">
       <input type="email" name="{{ newsletter.field_name }}" required placeholder="your@email.com" aria-label="e-mail" autocomplete="email">
       <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="nl-trap">
+      {#  Denní a týdenní rytmus jsou dva různé sliby a jeden se nedá
+          vnutit druhému: kdo chce ranní briefing, chce ho ráno; komu
+          stačí jedno vydání týdně, toho denní e-mail odhlásí. Proto
+          si vybírá čtenář, ne my. Předvybraná je sobota — menší slib,
+          který se dá dodržet.  #}
+      <fieldset class="nl-cadence">
+        <legend>{{ t.nl_pick }}</legend>
+        <label><input type="radio" name="cadence" value="weekly" checked>
+          <span><b>{{ t.nl_weekly }}</b> {{ t.nl_weekly_help }}</span></label>
+        <label><input type="radio" name="cadence" value="daily">
+          <span><b>{{ t.nl_daily }}</b> {{ t.nl_daily_help }}</span></label>
+      </fieldset>
       <input type="hidden" name="lang" value="{{ lang }}">
       <input type="hidden" name="source" value="{{ alt_path or '/' }}">
       <input type="hidden" name="consent_text" value="{{ t.nl_privacy }}">

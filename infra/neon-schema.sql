@@ -24,6 +24,15 @@ create table if not exists mypaper.subscribers (
   email_lower    text        generated always as (lower(email)) stored,
   lang           text        not null default 'en',   -- 'en' | 'cs'
 
+  -- Jak často chce psát. Čtenář si vybírá při přihlášení, protože
+  -- denní a týdenní rytmus jsou dvě různé sliby a jeden se nedá vnutit
+  -- druhému. Kdo chce ranní briefing, ten ho chce ráno; kdo chce jednu
+  -- zprávu týdně, toho denní e-mail odhlásí.
+  --   'daily'  = ranní briefing, každý den
+  --   'weekly' = sobotní vydání, jednou týdně
+  cadence        text        not null default 'weekly'
+                 check (cadence in ('daily', 'weekly')),
+
   -- Odkud přišel: '/en/', '/cs/problems/housing/', 'weekend'…
   -- Časem z toho poznáš, která stránka lidi doopravdy získává.
   source         text,
@@ -51,6 +60,18 @@ create table if not exists mypaper.subscribers (
 
 -- Jeden člověk = jeden řádek. Když se přihlásí podruhé, řádek se
 -- aktualizuje (viz ON CONFLICT ve workeru), nezaloží se druhý.
+-- Kdyby už tabulka existovala z dřívějška, tohle ji dorovná. Skript se
+-- smí pustit vícekrát a nic nerozbije.
+alter table mypaper.subscribers
+  add column if not exists cadence text not null default 'weekly';
+do $$
+begin
+  alter table mypaper.subscribers
+    add constraint subscribers_cadence_check check (cadence in ('daily', 'weekly'));
+exception
+  when duplicate_object then null;
+end $$;
+
 create unique index if not exists subscribers_email_key
   on mypaper.subscribers (email_lower);
 
@@ -58,6 +79,10 @@ create index if not exists subscribers_active_idx
   on mypaper.subscribers (unsubscribed_at) where unsubscribed_at is null;
 
 create index if not exists subscribers_lang_idx on mypaper.subscribers (lang);
+
+-- Podle tohohle se vybírá, komu ráno a komu v sobotu.
+create index if not exists subscribers_cadence_idx
+  on mypaper.subscribers (cadence) where unsubscribed_at is null;
 
 -- Co se komu poslalo. Zatím prázdné; naplní se, až budou kampaně.
 create table if not exists mypaper.campaigns (
@@ -76,16 +101,25 @@ create or replace view mypaper.subscribers_overview as
 select
   date_trunc('day', consent_at)::date as den,
   lang,
+  cadence                              as rytmus,
   coalesce(source, '(neznámo)')       as odkud,
   count(*)                             as prihlaseni,
   count(confirmed_at)                  as potvrzeni,
   count(unsubscribed_at)               as odhlaseni
 from mypaper.subscribers
-group by 1, 2, 3
-order by 1 desc, 4 desc;
+group by 1, 2, 3, 4
+order by 1 desc, 5 desc;
 
 -- Aktivní příjemci — tohle je ten seznam, který se posílá.
 create or replace view mypaper.active_subscribers as
-select id, email, lang, source, consent_at, confirmed_at, unsub_token
+select id, email, lang, cadence, source, consent_at, confirmed_at, unsub_token
 from mypaper.subscribers
 where unsubscribed_at is null and confirmed_at is not null;
+
+-- Dva seznamy, které se opravdu rozesílají. Ranní briefing chodí každý
+-- den, sobotní vydání jednou týdně — a nikdo nedostane obojí.
+create or replace view mypaper.list_daily as
+select * from mypaper.active_subscribers where cadence = 'daily';
+
+create or replace view mypaper.list_weekly as
+select * from mypaper.active_subscribers where cadence = 'weekly';

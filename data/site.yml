@@ -336,10 +336,11 @@ newsletter:
   # Návod, kde tu adresu vzít, je v NAVOD.md, krok 8.
   form_action: ""
   field_name: "email"
-  headline_en: "One good piece of thinking a day"
-  headline_cs: "Jedna dobrá myšlenka denně"
-  text_en: "The day's most worthwhile story, and the question underneath it. No spam, one click to leave."
-  text_cs: "Nejzajímavější příběh dne a otázka, která pod ním leží. Žádný spam, odhlášení jedním kliknutím."
+  # Nadpis nesmí slibovat rytmus — čtenář si ho vybírá sám hned pod ním.
+  headline_en: "My Paper in your inbox"
+  headline_cs: "My Paper do tvojí schránky"
+  text_en: "Every morning, or once on Saturday — you choose. The story worth your time, and the question underneath it. One click to leave."
+  text_cs: "Každé ráno, nebo jednou v sobotu — vybereš si sám. Příběh, který stojí za čas, a otázka, která pod ním leží. Odhlášení jedním kliknutím."
   button_en: "Subscribe"
   button_cs: "Odebírat"
 

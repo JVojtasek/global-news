@@ -272,6 +272,19 @@ details.republish textarea{width:100%;min-height:9rem;font-family:ui-monospace,m
    krabička, která nic neudělá, by byla slib naprázdno */
 .signup .nl-off input,.signup .nl-off button{opacity:.55;cursor:not-allowed}
 .signup .nl-thanks{font-size:.92rem;margin:0;max-width:30rem;color:var(--ink)}
+/* Volba rytmu: dva řádky pod políčkem na adresu. Zabírá celou šířku
+   formuláře, aby se to netlačilo vedle tlačítka. Rámeček fieldsetu
+   nechceme — je to volba, ne úřední formulář. */
+.signup .nl-cadence{flex:0 0 100%;order:2;border:0;margin:.2rem 0 0;padding:0;
+  display:flex;flex-wrap:wrap;gap:.15rem .9rem;align-items:baseline}
+.signup .nl-cadence legend{padding:0;font-size:.72rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-soft);font-family:ui-sans-serif,system-ui,sans-serif}
+.signup .nl-cadence label{display:flex;align-items:baseline;gap:.4rem;
+  font-size:.88rem;cursor:pointer;color:var(--ink-soft)}
+.signup .nl-cadence input{flex:0 0 auto;min-width:0;width:auto;padding:0;
+  border:0;border-radius:0;background:none;accent-color:var(--accent)}
+.signup .nl-cadence b{color:var(--ink);font-weight:600}
+.signup .nl-live button{order:3}
 .signup .nl-thanks[hidden]{display:none}
 .signup .nl-priv{font-family:ui-sans-serif,system-ui,sans-serif;font-size:.74rem;line-height:1.5;
   color:var(--ink-soft);margin:.8rem 0 0;max-width:30rem}

@@ -66,6 +66,7 @@
         body: JSON.stringify({
           email: (form.querySelector("input[type=email]") || {}).value || "",
           website: (form.querySelector("input[name=website]") || {}).value || "",
+          cadence: (form.querySelector("input[name=cadence]:checked") || {}).value || "weekly",
           lang: (form.querySelector("input[name=lang]") || {}).value || "",
           source: (form.querySelector("input[name=source]") || {}).value || "",
           consent_text: (form.querySelector("input[name=consent_text]") || {}).value || ""

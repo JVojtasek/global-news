@@ -58,7 +58,7 @@ async function readFields(request) {
 
 /* Předání rozesílací službě. Podporuje beehiiv i MailerLite — obojí má
    free tarif. Když v nastavení nic není, tichý přeskok. */
-async function forwardToProvider(env, email, lang) {
+async function forwardToProvider(env, email, lang, cadence) {
   const provider = (env.PROVIDER || "").toLowerCase();
   try {
     if (provider === "beehiiv" && env.PROVIDER_KEY && env.BEEHIIV_PUBLICATION_ID) {
@@ -68,7 +68,9 @@ async function forwardToProvider(env, email, lang) {
           method: "POST",
           headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.PROVIDER_KEY}` },
           body: JSON.stringify({ email, reactivate_existing: true, send_welcome_email: true,
-                                 utm_source: "mypaper", custom_fields: [{ name: "lang", value: lang }] }),
+                                 utm_source: "mypaper",
+                                 custom_fields: [{ name: "lang", value: lang },
+                                                 { name: "cadence", value: cadence }] }),
         });
       const body = await r.json().catch(() => ({}));
       return { ok: r.ok, id: body?.data?.id || null };
@@ -77,7 +79,7 @@ async function forwardToProvider(env, email, lang) {
       const r = await fetch("https://connect.mailerlite.com/api/subscribers", {
         method: "POST",
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.PROVIDER_KEY}` },
-        body: JSON.stringify({ email, fields: { lang } }),
+        body: JSON.stringify({ email, fields: { lang, cadence } }),
       });
       const body = await r.json().catch(() => ({}));
       return { ok: r.ok, id: body?.data?.id || null };
@@ -130,6 +132,10 @@ export default {
     if (!looksLikeEmail(email)) return json({ ok: false, error: "email" }, head, request, env, 400);
 
     const lang = ["cs", "en"].includes(String(fields.lang || "")) ? fields.lang : "en";
+    /* Jak často chce psát. Když si nevybere nebo přijde nesmysl, platí
+       týdenní — je to menší slib a odhlásí se z něj míň lidí než
+       z denního, který si nikdo nevyžádal. */
+    const cadence = ["daily", "weekly"].includes(String(fields.cadence || "")) ? fields.cadence : "weekly";
     const source = String(fields.source || "").slice(0, 200) || null;
     const consentText = String(fields.consent_text || "").slice(0, 500) || null;
     const ipHash = await hashIp(request.headers.get("CF-Connecting-IP"), env.IP_SALT);
@@ -138,11 +144,15 @@ export default {
     let unsubToken = null;
     try {
       const rows = await sql`
-        insert into mypaper.subscribers (email, lang, source, consent_ip, consent_text)
-        values (${email}, ${lang}, ${source}, ${ipHash}, ${consentText})
+        insert into mypaper.subscribers (email, lang, cadence, source, consent_ip, consent_text)
+        values (${email}, ${lang}, ${cadence}, ${source}, ${ipHash}, ${consentText})
         on conflict (email_lower) do update
            set unsubscribed_at = null,
                lang            = excluded.lang,
+               -- Rytmus se přepíše: kdo se přihlásí podruhé, právě teď
+               -- řekl, co chce. Zdroj se naopak nechává ten první —
+               -- zajímá nás stránka, která ho získala.
+               cadence         = excluded.cadence,
                source          = coalesce(mypaper.subscribers.source, excluded.source),
                updated_at      = now()
         returning unsub_token`;
@@ -151,7 +161,7 @@ export default {
       return json({ ok: false, error: "db" }, head, request, env, 500);
     }
 
-    const fwd = await forwardToProvider(env, email, lang);
+    const fwd = await forwardToProvider(env, email, lang, cadence);
     if (fwd.ok) {
       try {
         await sql`update mypaper.subscribers
@@ -162,19 +172,21 @@ export default {
       } catch { /* uloženo je, zbytek je kosmetika */ }
     }
 
-    return json({ ok: true, delivered: fwd.ok, unsub: unsubToken }, head, request, env);
+    return json({ ok: true, delivered: fwd.ok, unsub: unsubToken }, head, request, env, 200, lang);
   },
 };
 
 /* Prohlížeč s JavaScriptem chce odpověď v JSON a zůstane na stránce.
    Bez JavaScriptu se formulář odešle normálně — tomu odpovíme
    přesměrováním na děkovnou stránku, ať člověk nekouká do prázdna. */
-function json(payload, head, request, env, status = 200) {
+function json(payload, head, request, env, status = 200, lang = "en") {
   const accept = request.headers.get("Accept") || "";
   const wantsHtml = accept.includes("text/html");
   if (wantsHtml) {
     const base = (env.SITE_URL || "https://mypaper.news").replace(/\/$/, "");
-    const to = payload.ok ? `${base}/en/thanks/` : `${base}/en/#newsletter`;
+    /* Čech se nesmí po přihlášení ocitnout na anglické stránce. */
+    const l = ["cs", "en"].includes(lang) ? lang : "en";
+    const to = payload.ok ? `${base}/${l}/thanks/` : `${base}/${l}/#newsletter`;
     return new Response(null, { status: 303, headers: { ...head, Location: to } });
   }
   return new Response(JSON.stringify(payload), {
