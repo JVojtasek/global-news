@@ -5,7 +5,7 @@ title: "Stárnutí: kdo doopravdy platí péči a co zjistilo pět zemí"
 dek: "Na sto pracujících připadá v zemích OECD 32,6 lidí nad 65 let, v roce 2054 jich má být 55,2. Japonsko na to v roce 2000 postavilo pojištění. Anglie ho legislativně chystá od roku 2011 a pořád žádné nemá."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-08-17'
 
 measure:
   name: "Poměr seniorů k lidem v produktivním věku — počet lidí ve věku 65 a více let na 100 lidí ve věku 20 až 64 let"

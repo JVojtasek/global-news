@@ -26,6 +26,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/16/escalation-of-sexual-violence-raises-alarm-in-the-democratic-republic-of-the-congo/
+impact:
+  areas: [safety, life]
+  line: "Women and girls in eastern DRC are directly at risk; for readers elsewhere, it shows how conflict and collapsing security hit them hardest."
+  todo: "Anyone who wants current figures can follow UN reporting (OCHA, UN Women) on eastern DRC."
 ---
 
 Between December 2025 and February 2026, more than 1,100 rape cases were recorded in South Kivu, eastern DRC

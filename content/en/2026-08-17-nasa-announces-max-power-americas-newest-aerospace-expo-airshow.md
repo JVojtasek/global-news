@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/
+impact:
+  areas: [life]
+  line: "This mainly affects people in Florida or planning a trip there in November 2026; for most readers elsewhere, nothing changes."
+  todo: "Anyone interested in tickets and the schedule can check nasa.gov/maxpower for details."
 ---
 
 In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida.

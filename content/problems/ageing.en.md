@@ -5,7 +5,7 @@ title: "Ageing: who actually pays for care, and what five countries found out"
 dek: "There are 32.6 people over 65 for every 100 workers in the OECD, and 55.2 are projected by 2054. Japan built an insurance for it in 2000. England has been legislating one since 2011 and still has none."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-08-17'
 
 measure:
   name: "Demographic old-age to working-age ratio — people aged 65 and over per 100 people aged 20 to 64"

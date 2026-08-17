@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/
+impact:
+  areas: [life]
+  line: "This mainly matters to people who enjoy photographing the night sky; it changes nothing day-to-day for most readers."
+  todo: "Anyone with a camera and a clear sky after dusk can join the Space Cloud Watch project and submit a photo."
 ---
 
 - Science

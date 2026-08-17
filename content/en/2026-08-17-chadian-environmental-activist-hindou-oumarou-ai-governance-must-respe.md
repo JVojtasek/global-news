@@ -26,6 +26,10 @@ syndicated:
 sources:
 - name: Global Voices Advox
   url: https://advox.globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/
+impact:
+  areas: [life]
+  line: "This directly affects communities whose land and traditional knowledge could end up feeding AI systems; for most readers elsewhere, daily life doesn't change."
+  todo: "Anyone who wants to follow this can track outputs from the UN's Global Dialogue on AI Governance and the UN Permanent Forum on Indigenous Issues."
 ---
 
 African governments can lead by requiring environmental and social impact assessments for AI infrastructure

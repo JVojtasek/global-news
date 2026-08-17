@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/
+impact:
+  areas: [life]
+  line: "This has direct relevance wherever politicians reach for 'who was here first' rhetoric; for most readers elsewhere, it changes nothing day to day."
+  todo: "Next time someone calls a group 'native' or 'autochthonous' as a political argument rather than a description, notice it."
 ---
 
 Popular culture taught generations to admire resistance to colonialism; nationalism turned ‘firstness’ into claims of exclusive ownership
