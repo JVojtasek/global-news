@@ -445,6 +445,49 @@ Write to {email}. We answer.""",
         "count_few": "%d articles",
         "count_many": "%d articles",
         "hub_more": "More on this",
+        # --- Poznej se (templates/know.html) ---
+        "kn_title": "Know Yourself",
+        "kn_desc": "Two tools that tell you something true about yourself. No score to brag about, and no invented number.",
+        "kn_lede": "Most tests on the internet hand you a number and hope you share it. These hand you something you can use, and they are honest about what they cannot measure.",
+        "kn_promise_h": "Nothing you do here leaves this page.",
+        "kn_promise": "No answer, no result and no timing is sent anywhere. There is nowhere to send it: this paper is a set of static files and has no server that could receive it. That is not a promise about our intentions. It is a property of how the site is built.",
+        "kn_span_h": "How much your working memory holds",
+        "kn_span_intro": "Digits appear one at a time. When they stop, type them back in order. The rows get longer until you miss two at the same length. This is a standard clinical task, unchanged since the 1930s.",
+        "kn_span_start": "Start",
+        "kn_span_more_h": "What this actually measures — and what it does not",
+        "kn_span_more": "<p>This is working memory: the small board your mind writes on while it is using something. It is not intelligence, not knowledge, and not how good your memory is for your own life.</p><p>Most adults land between five and nine. The famous phrase is George Miller's \u201cseven, plus or minus two\u201d, from a 1956 paper — but Miller himself called it a joke about a number that kept following him around. Later work by Nelson Cowan put pure capacity closer to <b>four</b> items when you are prevented from rehearsing them under your breath. Almost everything above four is technique, not capacity.</p><p>Which is why the number moves so much: whether you were rehearsing, whether the room was quiet, whether you grouped the digits into pairs. Grouping is the whole trick. It is also why a long score here does not transfer to remembering names at a party.</p>",
+        "span_watch": "Watch.",
+        "span_type": "Type them in order, no spaces.",
+        "span_again": "Not quite. Same length once more.",
+        "span_span": "Your span",
+        "span_note": "Grouping the digits into pairs or threes is the difference between most scores. That is a technique, not a capacity — which is exactly the point.",
+        "again": "Try again",
+        "kn_bias_h": "Three ways your mind takes a shortcut",
+        "kn_bias_intro": "Nothing here is scored. Answer, then find out what happened to the people this was tested on, and why. The point is not to learn how you did. It is to watch the mistake happen from the inside.",
+        "kn_answer": "Answer",
+        "kn_anchor_high_n": "6000",
+        "kn_anchor_low_n": "500",
+        "kn_anchor_q1": "Is the Danube longer or shorter than",
+        "kn_anchor_q2": "km? Now write down your best estimate of its actual length.",
+        "kn_anchor_r_h": "The number you were shown was chosen by a coin flip.",
+        "kn_anchor_r1": "You wrote",
+        "kn_anchor_r2": "km. The Danube runs about 2,850 km through or along ten countries.",
+        "anchor_high": "You were shown 6,000 km. The other half of readers were shown 500.",
+        "anchor_low": "You were shown 500 km. The other half of readers were shown 6,000.",
+        "kn_anchor_r3": "This is anchoring. In the original experiments the two groups' estimates pulled apart sharply, and they did so even when people were told the number was random, even when they were warned about the effect, and even among experts estimating in their own field. Knowing about it does not switch it off. The only reliable defence is to work out your own number before you look at anyone else's.",
+        "kn_base_q": "A disease affects 1 person in 100. A test finds it in 90 out of 100 people who have it, and wrongly flags 9 out of 100 people who do not. Your test comes back positive. What is the chance you have the disease?",
+        "kn_base_a": "About 90%",
+        "kn_base_b": "About 50%",
+        "kn_base_c": "About 9%",
+        "kn_base_d": "About 1%",
+        "kn_base_r_h": "About 9%. Count 1,000 people.",
+        "kn_base_r": "<p>Ten of them have the disease, and the test catches nine. The other 990 are healthy, and the test wrongly flags about 89 of them.</p><p>So about 98 people get a positive result — and only nine of them are ill. Nine out of ninety-eight is roughly one in eleven.</p><p>The trap is that the 90% is so loud that the 1% disappears. This is base rate neglect, and it is not a beginner's error: when researchers put versions of this to doctors, large numbers of them gave the wrong answer too. It is the single most useful piece of arithmetic to carry into any conversation about screening.</p>",
+        "kn_conj_q": "Tom is 34, quiet, reads a great deal and was good at mathematics at school. Which is more likely?",
+        "kn_conj_a": "Tom plays a musical instrument",
+        "kn_conj_b": "Tom plays a musical instrument and works in IT",
+        "kn_conj_r_h": "The first one — always, and no description could change that.",
+        "kn_conj_r": "<p>Every person who plays an instrument <i>and</i> works in IT is already inside the group of people who play an instrument. The second group cannot be larger than the first. It is a subset. No amount of detail about Tom can reverse that.</p><p>Yet most people pick the second, because it makes a better story. Amos Tversky and Daniel Kahneman named this the conjunction fallacy in 1983; in their best-known version around 85% of people chose the conjunction.</p><p>This is worth noticing in yourself, because it is exactly how a detailed, vivid, well-told scenario comes to feel more probable than a vague one — when detail can only ever make something less likely.</p>",
+        "kn_footer": "<p>Sources: George Miller, <i>The Magical Number Seven, Plus or Minus Two</i>, Psychological Review, 1956 · Nelson Cowan, <i>The magical number 4 in short-term memory</i>, Behavioral and Brain Sciences, 2001 · Amos Tversky and Daniel Kahneman, <i>Extensional versus intuitive reasoning</i>, Psychological Review, 1983.</p><p>More tools will be added here. There will never be an IQ score: a real intelligence test is administered in person against a normed sample, and a number produced by a web page would be invented.</p>",
         # --- volba rytmu v přihlašovacím okénku ---
         "nl_pick": "How often?",
         "nl_daily": "Every morning",
@@ -974,6 +1017,49 @@ Pište na {email}. Odpovídáme.""",
         "count_few": "%d články",
         "count_many": "%d článků",
         "hub_more": "Víc k tématu",
+        # --- Poznej se (templates/know.html) ---
+        "kn_title": "Poznej se",
+        "kn_desc": "Dva nástroje, které ti o tobě řeknou něco pravdivého. Žádné skóre na chlubení a žádné vymyšlené číslo.",
+        "kn_lede": "Většina testů na internetu ti dá číslo a doufá, že ho budeš sdílet. Tyhle ti dají něco použitelného — a poctivě říkají, co změřit neumějí.",
+        "kn_promise_h": "Nic z toho, co tady uděláš, neopustí tuhle stránku.",
+        "kn_promise": "Žádná odpověď, žádný výsledek ani čas se nikam neodesílá. Není kam: tyhle noviny jsou statické soubory a nemají server, který by to přijal. Není to slib o našich úmyslech. Je to vlastnost toho, jak je web postavený.",
+        "kn_span_h": "Kolik toho udrží tvoje pracovní paměť",
+        "kn_span_intro": "Číslice se objevují po jedné. Až přestanou, napiš je zpátky v pořadí. Řady se prodlužují, dokud dvakrát neminieš stejnou délku. Je to standardní klinická úloha, nezměněná od třicátých let.",
+        "kn_span_start": "Začít",
+        "kn_span_more_h": "Co to doopravdy měří — a co ne",
+        "kn_span_more": "<p>Tohle je pracovní paměť: ta malá tabule, na kterou si mysl píše, co zrovna používá. Není to inteligence, nejsou to znalosti a není to ani to, jak dobře si pamatuješ vlastní život.</p><p>Většina dospělých se vejde mezi pět a devět. Slavná věta je „sedm, plus minus dvě\u201c od George Millera z roku 1956 — Miller sám ji ale myslel napůl jako vtip o čísle, které ho pořád pronásledovalo. Pozdější práce Nelsona Cowana posunula čistou kapacitu spíš ke <b>čtyřem</b> položkám, když ti zabrání opakovat si je pod vousy. Skoro všechno nad čtyřkou je technika, ne kapacita.</p><p>Proto se to číslo tak hýbe: podle toho, jestli sis to opakoval, jestli bylo ticho, jestli sis číslice seskupil po dvou. To seskupování je celý trik. A je to taky důvod, proč se dlouhé skóre nepřenese do toho, že si zapamatuješ jména na večírku.</p>",
+        "span_watch": "Sleduj.",
+        "span_type": "Napiš je v pořadí, bez mezer.",
+        "span_again": "Ne úplně. Ještě jednou stejná délka.",
+        "span_span": "Tvůj rozsah",
+        "span_note": "Rozdíl mezi většinou výsledků dělá to, jestli sis číslice seskupil po dvou nebo po třech. To je technika, ne kapacita — a přesně o to jde.",
+        "again": "Zkusit znovu",
+        "kn_bias_h": "Tři způsoby, jak si tvoje mysl zkracuje cestu",
+        "kn_bias_intro": "Nic se tu nehodnotí. Odpověz a pak se dozvíš, co vyšlo lidem, na kterých se to zkoušelo, a proč. Smysl není zjistit, jak jsi dopadl. Smysl je vidět tu chybu zevnitř, na sobě.",
+        "kn_answer": "Odpovědět",
+        "kn_anchor_high_n": "6000",
+        "kn_anchor_low_n": "500",
+        "kn_anchor_q1": "Je Dunaj delší, nebo kratší než",
+        "kn_anchor_q2": "km? Teď napiš svůj odhad jeho skutečné délky.",
+        "kn_anchor_r_h": "To číslo, které jsi viděl, vybral los.",
+        "kn_anchor_r1": "Napsal jsi",
+        "kn_anchor_r2": "km. Dunaj měří zhruba 2 850 km a protéká deseti zeměmi nebo je lemuje.",
+        "anchor_high": "Tobě se ukázalo 6 000 km. Druhé polovině čtenářů se ukázalo 500.",
+        "anchor_low": "Tobě se ukázalo 500 km. Druhé polovině čtenářů se ukázalo 6 000.",
+        "kn_anchor_r3": "Tomuhle se říká ukotvení. V původních pokusech se odhady obou skupin výrazně rozešly — a rozešly se i tehdy, když lidem řekli, že to číslo je náhodné, i když je na ten jev předem upozornili, a dokonce i u odborníků odhadujících ve vlastním oboru. Vědět o tom ho nevypne. Jediná spolehlivá obrana je udělat si vlastní číslo dřív, než se podíváš na cizí.",
+        "kn_base_q": "Nemoc má jeden člověk ze sta. Test ji najde u 90 ze 100 lidí, kteří ji mají, a mylně označí 9 ze 100 lidí, kteří ji nemají. Tobě vyšel test pozitivní. Jaká je šance, že tu nemoc máš?",
+        "kn_base_a": "Asi 90 %",
+        "kn_base_b": "Asi 50 %",
+        "kn_base_c": "Asi 9 %",
+        "kn_base_d": "Asi 1 %",
+        "kn_base_r_h": "Asi 9 %. Spočítej tisíc lidí.",
+        "kn_base_r": "<p>Deset z nich tu nemoc má a test devět z nich odhalí. Zbylých 990 je zdravých a test jich mylně označí zhruba 89.</p><p>Pozitivní výsledek tedy dostane asi 98 lidí — a nemocných je z nich devět. Devět z devadesáti osmi je zhruba jeden z jedenácti.</p><p>Past je v tom, že těch 90 % je tak hlasitých, že to jedno procento zmizí. Říká se tomu zanedbání základní míry a není to chyba začátečníků: když výzkumníci předložili obdoby téhle úlohy lékařům, velká část z nich odpověděla taky špatně. Je to ten nejužitečnější počet, který si člověk může vzít s sebou do jakéhokoli hovoru o screeningu.</p>",
+        "kn_conj_q": "Tomášovi je 34, je tichý, hodně čte a ve škole mu šla matematika. Co je pravděpodobnější?",
+        "kn_conj_a": "Tomáš hraje na hudební nástroj",
+        "kn_conj_b": "Tomáš hraje na hudební nástroj a pracuje v IT",
+        "kn_conj_r_h": "To první — vždycky, a žádný popis na tom nic nezmění.",
+        "kn_conj_r": "<p>Každý člověk, který hraje na nástroj <i>a zároveň</i> dělá v IT, už je uvnitř skupiny lidí, kteří hrají na nástroj. Druhá skupina nemůže být větší než první. Je to její část. Sebevíc podrobností o Tomášovi to neotočí.</p><p>Přesto většina lidí vybere to druhé, protože to dává lepší příběh. Amos Tversky a Daniel Kahneman to v roce 1983 pojmenovali jako konjunkční klam; v jejich nejznámější verzi zvolilo tu složenější možnost kolem 85 % lidí.</p><p>Stojí za to si toho na sobě všimnout, protože přesně takhle začne podrobný, barvitý a dobře vyprávěný scénář působit pravděpodobněji než mlhavý — přitom podrobnost může věc jedině znepravděpodobnit.</p>",
+        "kn_footer": "<p>Zdroje: George Miller, <i>The Magical Number Seven, Plus or Minus Two</i>, Psychological Review, 1956 · Nelson Cowan, <i>The magical number 4 in short-term memory</i>, Behavioral and Brain Sciences, 2001 · Amos Tversky a Daniel Kahneman, <i>Extensional versus intuitive reasoning</i>, Psychological Review, 1983.</p><p>Nástrojů sem bude přibývat. Nikdy tu nebude IQ skóre: skutečný test inteligence se dělá osobně proti normovanému vzorku a číslo, které by vyrobila webová stránka, by bylo vymyšlené.</p>",
         "nl_pick": "Jak často?",
         "nl_daily": "Každé ráno",
         "nl_daily_help": "Briefing na pět minut.",
@@ -1955,7 +2041,7 @@ def _write(path, text: str) -> None:
 def _asset_version() -> str:
     """Short content hash used to invalidate cached CSS and JavaScript."""
     digest = hashlib.sha256()
-    for name in ("style.css", "reader.js", "live.js", "quiz.js"):
+    for name in ("style.css", "reader.js", "live.js", "quiz.js", "know.js"):
         path = config.STATIC / name
         digest.update(name.encode("utf-8"))
         digest.update(path.read_bytes())
@@ -2591,6 +2677,20 @@ def run() -> None:
                                   # na ni dostane jen z formuláře a z výsledků
                                   # hledání by přišel na prázdno.
                                   noindex=(name == "thanks"))))
+
+        # --- Poznej se ---------------------------------------------
+        # Nástroje, které o čtenáři zjistí něco pravdivého. Běží celé
+        # v prohlížeči: odpověď ani výsledek se nikam neodesílá, protože
+        # tenhle web nemá server, který by je přijal. Proto tu taky
+        # nikdy nebude IQ skóre — číslo z webové stránky by bylo
+        # vymyšlené a tyhle noviny stojí na opaku.
+        _write(out / lang / "know" / "index.html",
+               env.get_template("know.html").render(
+                   **page("know/", "page",
+                          page_jsonld=_list_jsonld(
+                              site, lang, name=STRINGS[lang]["kn_title"],
+                              description=STRINGS[lang]["kn_desc"],
+                              path="know/", trail=[], kind="WebPage"))))
 
         # --- předpovědi ---
         fc = analyst.load_forecasts()["forecasts"]

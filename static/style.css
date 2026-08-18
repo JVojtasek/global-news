@@ -1637,3 +1637,48 @@ nav.sections a.nav-brief{color:var(--accent);font-weight:700;letter-spacing:.1em
 /* Past na roboty — pro člověka neviditelná, pro čtečku obrazovky skrytá.
    Nesmí se schovat přes `display:none`; část robotů takové pole přeskočí. */
 .nl-trap{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}
+
+/* ---------------------------------------------------------------
+   Poznej se — nástroje, které o čtenáři zjistí něco pravdivého.
+   Vypadá to jako součást novin, ne jako vložená hračka: stejné
+   písmo, stejné barvy, žádné animace navíc.
+   --------------------------------------------------------------- */
+.k-promise{background:var(--accent-soft);border:1px solid var(--line);border-radius:11px;
+  padding:.9rem 1.1rem;margin:1.4rem 0 2rem}
+.k-promise b{display:block;margin-bottom:.3rem}
+.k-promise p{margin:0;font-size:.92rem;color:var(--ink-soft)}
+.k-tool{border-top:1px solid var(--line);padding-top:1.6rem;margin-top:2.4rem}
+.k-tool h2{margin:0 0 .4rem}
+.k-stage-wrap{display:flex;justify-content:center;margin:1.4rem 0 .6rem}
+.k-span-stage{width:5.5rem;height:5.5rem;display:flex;align-items:center;justify-content:center;
+  border:1px solid var(--line);border-radius:14px;background:var(--card);
+  font:600 2.6rem/1 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--ink-soft)}
+.k-span-stage.on{color:var(--ink);border-color:var(--accent)}
+.k-span-info{text-align:center;color:var(--ink-soft);font-size:.92rem;min-height:1.4rem;margin:.2rem 0 .6rem}
+.k-span-form{display:flex;justify-content:center;margin-bottom:.8rem}
+.k-span-input{max-width:12rem;text-align:center;letter-spacing:.35em;
+  font:1.1rem ui-monospace,SFMono-Regular,Menlo,monospace;padding:.5rem .6rem;
+  border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.k-span-result{background:var(--card);border:1px solid var(--line);border-radius:11px;
+  padding:.9rem 1.1rem;margin:.8rem 0}
+.k-span-result p{margin:.2rem 0}
+.k-more{margin-top:1rem;border-top:1px solid var(--line);padding-top:.8rem}
+.k-more summary{cursor:pointer;color:var(--accent);font-size:.92rem}
+.k-more p{font-size:.94rem}
+.k-bias-item{border:1px solid var(--line);border-radius:11px;background:var(--card);
+  padding:1rem 1.1rem;margin:1.1rem 0}
+.k-q{margin:0 0 .8rem;font-size:1.02rem}
+.k-opts{display:flex;flex-direction:column;gap:.45rem}
+.k-opt{text-align:left;padding:.55rem .8rem;border:1px solid var(--line);border-radius:8px;
+  background:var(--bg);color:var(--ink);font:inherit;font-size:.95rem;cursor:pointer}
+.k-opt:hover:not(:disabled){border-color:var(--accent)}
+.k-opt:disabled{cursor:default;opacity:.75}
+.k-opt.picked{border-color:var(--accent);background:var(--accent-soft);color:var(--accent);font-weight:600;opacity:1}
+.k-bias-number{display:flex;gap:.5rem;flex-wrap:wrap}
+.k-bias-number input{max-width:9rem;padding:.5rem .6rem;border:1px solid var(--line);
+  border-radius:8px;background:var(--bg);color:var(--ink);font:inherit}
+.k-bias-reveal{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--line);font-size:.95rem}
+.k-bias-reveal p{margin:.4rem 0}
+.k-anchor-which{color:var(--accent)}
+.k-note{display:block;margin-top:2.4rem;padding-top:1rem;border-top:1px solid var(--line);
+  color:var(--ink-soft);font-size:.86rem}

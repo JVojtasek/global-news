@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block title %}{{ t.kn_title }} — {{ brand }}{% endblock %}
+{% block description %}{{ t.kn_desc }}{% endblock %}
+{% block head %}
+{% if page_jsonld %}<script type="application/ld+json">{{ page_jsonld|safe }}</script>{% endif %}
+{% endblock %}
+{% block body %}
+<article class="post"><div class="wrap">
+  <h1>{{ t.kn_title }}</h1>
+  <p class="dek">{{ t.kn_lede }}</p>
+
+  {# Tohle stojí nahoře schválně. Je to jediný slib, který tahle
+     stránka dává, a je splnitelný ze stavby webu, ne z dobré vůle. #}
+  <aside class="k-promise">
+    <b>{{ t.kn_promise_h }}</b>
+    <p>{{ t.kn_promise }}</p>
+  </aside>
+
+  <!-- ---------------- paměť ---------------- -->
+  <section class="k-tool k-span">
+    <h2>{{ t.kn_span_h }}</h2>
+    <p>{{ t.kn_span_intro }}</p>
+    <div class="k-stage-wrap">
+      <div class="k-span-stage" aria-live="polite"></div>
+    </div>
+    <p class="k-span-info" aria-live="polite"></p>
+    <form class="k-span-form">
+      <input class="k-span-input" type="text" inputmode="numeric" autocomplete="off"
+             hidden aria-label="{{ t.kn_span_h }}">
+    </form>
+    <button class="act k-span-start">{{ t.kn_span_start }}</button>
+    <div class="k-span-result" hidden></div>
+    <details class="k-more">
+      <summary>{{ t.kn_span_more_h }}</summary>
+      {{ t.kn_span_more|safe }}
+    </details>
+  </section>
+
+  <!-- ---------------- zkreslení ---------------- -->
+  <section class="k-tool k-bias">
+    <h2>{{ t.kn_bias_h }}</h2>
+    <p>{{ t.kn_bias_intro }}</p>
+
+    <div class="k-bias-item k-anchor" data-high="{{ t.kn_anchor_high_n }}" data-low="{{ t.kn_anchor_low_n }}">
+      <p class="k-q">{{ t.kn_anchor_q1 }} <b class="k-anchor-value"></b> {{ t.kn_anchor_q2 }}</p>
+      <form class="k-bias-number">
+        <input type="number" inputmode="numeric" placeholder="km" aria-label="km" required>
+        <button class="act" type="submit">{{ t.kn_answer }}</button>
+      </form>
+      <div class="k-bias-reveal" hidden>
+        <p><b>{{ t.kn_anchor_r_h }}</b></p>
+        <p>{{ t.kn_anchor_r1 }} <b class="k-your-answer"></b> {{ t.kn_anchor_r2 }}</p>
+        <p class="k-anchor-which"></p>
+        <p>{{ t.kn_anchor_r3 }}</p>
+      </div>
+    </div>
+
+    <div class="k-bias-item">
+      <p class="k-q">{{ t.kn_base_q }}</p>
+      <div class="k-opts">
+        <button class="k-opt">{{ t.kn_base_a }}</button>
+        <button class="k-opt">{{ t.kn_base_b }}</button>
+        <button class="k-opt">{{ t.kn_base_c }}</button>
+        <button class="k-opt">{{ t.kn_base_d }}</button>
+      </div>
+      <div class="k-bias-reveal" hidden>
+        <p><b>{{ t.kn_base_r_h }}</b></p>
+        {{ t.kn_base_r|safe }}
+      </div>
+    </div>
+
+    <div class="k-bias-item">
+      <p class="k-q">{{ t.kn_conj_q }}</p>
+      <div class="k-opts">
+        <button class="k-opt">{{ t.kn_conj_a }}</button>
+        <button class="k-opt">{{ t.kn_conj_b }}</button>
+      </div>
+      <div class="k-bias-reveal" hidden>
+        <p><b>{{ t.kn_conj_r_h }}</b></p>
+        {{ t.kn_conj_r|safe }}
+      </div>
+    </div>
+  </section>
+
+  <aside class="k-note">{{ t.kn_footer|safe }}</aside>
+</div></article>
+{# Texty, které potřebuje samotný nástroj (static/know.js). Do JavaScriptu
+   se nedostanou přes šablonu jinak než takhle — a musí sem, jinak by
+   se českému čtenáři ukázaly anglické věty nebo rovnou názvy klíčů. #}
+<script>window.KNOW_STRINGS = {
+  span_watch: {{ t.span_watch|tojson }},
+  span_type: {{ t.span_type|tojson }},
+  span_again: {{ t.span_again|tojson }},
+  span_span: {{ t.span_span|tojson }},
+  span_note: {{ t.span_note|tojson }},
+  again: {{ t.again|tojson }},
+  anchor_high: {{ t.anchor_high|tojson }},
+  anchor_low: {{ t.anchor_low|tojson }}
+};</script>
+<script src="{{ base }}/know.js?v={{ asset_version }}" defer></script>
+{% endblock %}
