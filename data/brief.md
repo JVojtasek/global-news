@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **0**
+- Článků v zásobě: **2**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -69,12 +69,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### why relationships fail
-- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### two factor authentication
+- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
+  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
+  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
 
 ---
 
@@ -95,13 +95,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 29  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 30  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 29
-  2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
+rubrika: world · sledováno od 2026-08-09 · záznamů: 30
   2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative
   2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty
   2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
@@ -121,15 +120,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 29
   2026-08-17  (2 zdrojů, síla 44)  Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
   2026-08-18  (3 zdrojů, síla 58)  BBC breaks down Trump's latest shift on North and South Korea
   2026-08-18  (3 zdrojů, síla 55)  South Korea president calls for military independence in wake of Trump call to cut joint drills
+  2026-08-18  (2 zdrojů, síla 40)  South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 10  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 11  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 10
+rubrika: world · sledováno od 2026-08-11 · záznamů: 11
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -140,6 +140,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 10
   2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles
   2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region
   2026-08-17  (2 zdrojů, síla 49)  Why Kyiv keeps attacking Russian retail giant Wildberries
+  2026-08-18  (2 zdrojů, síla 43)  Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
 ```
 
 ---

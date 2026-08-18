@@ -7,9 +7,8 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 9 dní · 29 záznamů
+- rubrika `world` · sledováno 9 dní · 30 záznamů
 - časová osa:
-  - **2026-08-16** (2 zdrojů) Qatar denies capturing three Iranian pilots after downing fighter jets
   - **2026-08-17** (3 zdrojů) Trump says US to scale back military drills with South Korea after it stayed out of Iran war
   - **2026-08-17** (2 zdrojů) Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
   - **2026-08-17** (3 zdrojů) Trump orders Pentagon to scale back joint exercises with South Korea
@@ -19,11 +18,11 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
   - **2026-08-18** (3 zdrojů) BBC breaks down Trump's latest shift on North and South Korea
   - **2026-08-18** (3 zdrojů) South Korea president calls for military independence in wake of Trump call to cut joint drills
+  - **2026-08-18** (2 zdrojů) South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 6 dní · 10 záznamů
+- rubrika `world` · sledováno 7 dní · 11 záznamů
 - časová osa:
-  - **2026-08-11** (3 zdrojů) Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
   - **2026-08-11** (2 zdrojů) Ukraine drone strike on oil refinery deep inside Russia kills at least 13
   - **2026-08-11** (2 zdrojů) Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
@@ -33,6 +32,19 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
   - **2026-08-17** (2 zdrojů) Ukraine and Russia intensify attacks, several killed in Belgorod border region
   - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
+  - **2026-08-18** (2 zdrojů) Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
+
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 5 dní · 8 záznamů
+- časová osa:
+  - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
+  - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
+  - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
+  - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
+  - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
+  - **2026-08-18** (1 zdrojů) Palestinian American returns to his West Bank home, under siege by Israeli settlers
+  - **2026-08-18** (2 zdrojů) Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
+  - **2026-08-18** (1 zdrojů) Palestine weekly: Global outcry fails to break West Bank siege
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
@@ -47,16 +59,6 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 5 dní · 6 záznamů
-- časová osa:
-  - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
-  - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
-  - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
-  - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
-  - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
-  - **2026-08-18** (1 zdrojů) Palestinian American returns to his West Bank home, under siege by Israeli settlers
 
 ### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
 - rubrika `sport` · sledováno 1 dní · 4 záznamů
