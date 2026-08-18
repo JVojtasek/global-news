@@ -90,6 +90,8 @@ editorial:
       # v navigaci byly, ale nevedly nikam. Prázdná rubrika je horší než
       # žádná: čtenář klikne a odejde.
       - travel
+      # Doplněno 18. 8. 2026 spolu se založením rubriky.
+      - mysteries
       - food
       - sport
       - motoring
@@ -142,6 +144,14 @@ sections:
   # zpravodajství nemá čas. Záměrně primary: false — do menu se dostane,
   # teprve až v ní budou články, aby nikdy nesvítila prázdná.
   - {id: soul,      en: "Soul",           cs: "Duše",          primary: false, calm: true}
+  # Záhady = otázky, na které se odpovídalo desítky nebo stovky let.
+  # Vyřešené staré případy, dodnes otevřené hádanky, bitvy rozhodnuté
+  # doložitelnou maličkostí. NENÍ to rubrika o nadpřirozenu a není to
+  # true crime pro zábavu: pravidla jsou v engine/prompts/MYSTERIES.md
+  # a to hlavní z nich zní, že hrdinou textu je důkaz, ne pachatel.
+  # primary: false, dokud v ní nebude aspoň pár článků — prázdná
+  # rubrika v menu je horší než žádná.
+  - {id: mysteries, en: "Mysteries",      cs: "Záhady",        primary: false, calm: true}
 
 # ---------------------------------------------------------------------
 # SOBOTNÍ VYDÁNÍ

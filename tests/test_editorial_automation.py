@@ -115,6 +115,12 @@ class EditionCompletenessTests(unittest.TestCase):
             (content / "en").mkdir()
             (data / "daily-agenda").mkdir(parents=True)
             (data / "daily-agenda" / "2026-08-13.md").write_text("# Agenda\n", encoding="utf-8")
+            # Provoz si plán dne zmrazí do data/edition-plan.json a hlídač
+            # čte právě ten. Test to musí udělat taky — jinak si hlídač
+            # plán přepočítá nad prázdnou složkou článků, vyjde mu jiné
+            # pořadí rubrik (hladové rubriky jdou dopředu) a spadne to
+            # na rozdílu, který v provozu nikdy nenastane.
+            (data / "edition-plan.json").write_text(json.dumps(plan), encoding="utf-8")
             for spec in plan["slots"]:
                 words = "useful " * int(spec["min_words"])
                 path = content / "inbox" / f"slot-{spec['slot']}.md"
