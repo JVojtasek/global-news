@@ -95,13 +95,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 28  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 29  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 28
-  2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
+rubrika: world · sledováno od 2026-08-09 · záznamů: 29
   2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
   2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative
   2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty
@@ -121,6 +120,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 28
   2026-08-17  (2 zdrojů, síla 44)  Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
   2026-08-17  (2 zdrojů, síla 44)  Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
   2026-08-18  (3 zdrojů, síla 58)  BBC breaks down Trump's latest shift on North and South Korea
+  2026-08-18  (3 zdrojů, síla 55)  South Korea president calls for military independence in wake of Trump call to cut joint drills
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

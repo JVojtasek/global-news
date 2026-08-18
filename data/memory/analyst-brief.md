@@ -7,9 +7,8 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 9 dní · 28 záznamů
+- rubrika `world` · sledováno 9 dní · 29 záznamů
 - časová osa:
-  - **2026-08-16** (2 zdrojů) Iran war: Qatar denies holding missing Iranian fighter pilots
   - **2026-08-16** (2 zdrojů) Qatar denies capturing three Iranian pilots after downing fighter jets
   - **2026-08-17** (3 zdrojů) Trump says US to scale back military drills with South Korea after it stayed out of Iran war
   - **2026-08-17** (2 zdrojů) Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
@@ -19,6 +18,7 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
   - **2026-08-17** (2 zdrojů) Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
   - **2026-08-18** (3 zdrojů) BBC breaks down Trump's latest shift on North and South Korea
+  - **2026-08-18** (3 zdrojů) South Korea president calls for military independence in wake of Trump call to cut joint drills
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 6 dní · 10 záznamů
@@ -49,13 +49,14 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 3 dní · 5 záznamů
+- rubrika `world` · sledováno 5 dní · 6 záznamů
 - časová osa:
   - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
   - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
   - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
   - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
   - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
+  - **2026-08-18** (1 zdrojů) Palestinian American returns to his West Bank home, under siege by Israeli settlers
 
 ### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
 - rubrika `sport` · sledováno 1 dní · 4 záznamů

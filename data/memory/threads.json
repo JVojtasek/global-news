@@ -5,35 +5,35 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "oman",
     "iranian",
-    "states",
-    "taiwan",
+    "middle",
+    "justified",
     "troops",
-    "east",
     "donald",
-    "pentagon",
-    "trump's",
-    "tennessee",
-    "korea",
-    "lebanon",
     "bluster",
-    "north",
+    "taiwan",
+    "russia's",
+    "east",
     "united",
     "iran",
+    "lebanon",
+    "north",
     "trump",
-    "qatar",
-    "russia's",
-    "turkey",
-    "strait",
+    "china",
     "south",
     "gulf",
-    "justified",
-    "china",
-    "middle",
     "ukraine",
+    "pentagon",
+    "qatar",
     "groundhog",
-    "hormuz"
+    "states",
+    "strait",
+    "korea",
+    "tennessee",
+    "turkey",
+    "trump's",
+    "hormuz",
+    "oman"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -63,7 +63,8 @@
     "2685bccdeea4",
     "fddaa90f876f",
     "d4ca08041bea",
-    "24d62d122ca6"
+    "24d62d122ca6",
+    "80e2d954a5ba"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-18",
@@ -384,6 +385,115 @@
       "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
       "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+     "sources": 3,
+     "score": 55,
+     "event_id": "80e2d954a5ba",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+      "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "bank",
+    "palestinian",
+    "american",
+    "palestinians",
+    "colombia",
+    "west",
+    "israeli",
+    "netanyahu",
+    "week"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c",
+    "727b036de961",
+    "d9fabac5169e",
+    "dd3e8e775a11"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-18",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69fbd7c00f3b",
+     "links": [
+      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c56a140b572c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
+     "sources": 2,
+     "score": 50,
+     "event_id": "727b036de961",
+     "links": [
+      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "sources": 2,
+     "score": 49,
+     "event_id": "d9fabac5169e",
+     "links": [
+      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dd3e8e775a11",
+     "links": [
+      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
      ]
     }
    ]
@@ -884,89 +994,6 @@
       "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
       "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
       "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "bank",
-    "palestinians",
-    "week",
-    "israeli",
-    "netanyahu",
-    "colombia",
-    "west"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b",
-    "c56a140b572c",
-    "727b036de961",
-    "d9fabac5169e"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-16",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-     "sources": 3,
-     "score": 59,
-     "event_id": "09443cca3ddd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69fbd7c00f3b",
-     "links": [
-      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
-      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c56a140b572c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "sources": 2,
-     "score": 50,
-     "event_id": "727b036de961",
-     "links": [
-      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9fabac5169e",
-     "links": [
-      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
      ]
     }
    ]
@@ -1814,5 +1841,5 @@
    ]
   }
  ],
- "updated": "2026-08-18T03:31:02+00:00"
+ "updated": "2026-08-18T06:27:38+00:00"
 }
