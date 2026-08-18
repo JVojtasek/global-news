@@ -5,34 +5,35 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "hormuz",
-    "groundhog",
-    "iran",
-    "turkey",
-    "iranian",
-    "north",
-    "trump",
-    "donald",
-    "troops",
-    "middle",
-    "pentagon",
-    "strait",
-    "taiwan",
-    "bluster",
-    "states",
-    "justified",
     "oman",
-    "china",
-    "qatar",
-    "tennessee",
+    "iranian",
+    "states",
+    "taiwan",
+    "troops",
     "east",
-    "ukraine",
-    "gulf",
-    "united",
+    "donald",
+    "pentagon",
+    "trump's",
+    "tennessee",
     "korea",
-    "south",
     "lebanon",
-    "russia's"
+    "bluster",
+    "north",
+    "united",
+    "iran",
+    "trump",
+    "qatar",
+    "russia's",
+    "turkey",
+    "strait",
+    "south",
+    "gulf",
+    "justified",
+    "china",
+    "middle",
+    "ukraine",
+    "groundhog",
+    "hormuz"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -61,10 +62,11 @@
     "2f607baa744d",
     "2685bccdeea4",
     "fddaa90f876f",
-    "d4ca08041bea"
+    "d4ca08041bea",
+    "24d62d122ca6"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-17",
+   "last_seen": "2026-08-18",
    "timeline": [
     {
      "date": "2026-08-09",
@@ -370,6 +372,18 @@
      "links": [
       "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
       "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "BBC breaks down Trump's latest shift on North and South Korea",
+     "sources": 3,
+     "score": 58,
+     "event_id": "24d62d122ca6",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
      ]
     }
    ]
@@ -1800,5 +1814,5 @@
    ]
   }
  ],
- "updated": "2026-08-18T00:27:55+00:00"
+ "updated": "2026-08-18T03:31:02+00:00"
 }

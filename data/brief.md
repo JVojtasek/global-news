@@ -9,26 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Donald Trump to declare Hormuz US territory 'soon'
-- id události: `19a5a4d8911d`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **DW News** — Donald Trump to declare Hormuz US territory 'soon'
-    <https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf>
-    > Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared since Iran closed Hormuz in response to US and Israeli attacks.
-  - **The Guardian World** — Trump threatens to declare strait of Hormuz ‘territory of the United States’
-    <https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory>
-    > Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration struggles to conclude the war with Iran. During a spee
-  - **Al Jazeera** — Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’
-    <https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss>
-    > US President Trump says that 'pretty soon' he will declare the Strait of Hormuz a US territory once Iran is defeated.
-  - **Al Jazeera** — Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
-    <https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss>
-    > Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
-  - **Investing.com** — Iran defiant on strait as Trump tells Americans to accept high gas prices
-    <https://www.investing.com/news/commodities-news/trump-urges-americans-to-accept-higher-gas-prices-as-he-escalates-iran-rhetoric-4861490>
-
-### 2. Nine killed in Israeli strikes on southern Lebanon, authorities say
+### 1. Nine killed in Israeli strikes on southern Lebanon, authorities say
 - id události: `8890d3817dfd`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -42,7 +23,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss>
     > An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
 
-### 3. Supreme Court rejects Verizon bid for $47 million refund of FCC fine
+### 2. Supreme Court rejects Verizon bid for $47 million refund of FCC fine
 - id události: `9739585c4084`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -56,7 +37,7 @@
     <https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko>
     > Russia’s Supreme Court on Monday upheld the exclusion of liberal opposition party Yabloko from September’s legislative elections, eliminating the country’s only explicitly anti-war party from the ballot, as dozens of the party's supporters were detained outside the court. The dec
 
-### 4. Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
+### 3. Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
 - id události: `e3d7c0ac2a93`  ·  rubrika: `world`  ·  skóre: 58  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -69,6 +50,20 @@
   - **Al Jazeera** — Kushner to meet Netanyahu to push Trump Gaza plan
     <https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss>
     > The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.
+
+### 4. BBC breaks down Trump's latest shift on North and South Korea
+- id události: `24d62d122ca6`  ·  rubrika: `world`  ·  skóre: 58  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — BBC breaks down Trump's latest shift on North and South Korea
+    <https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss>
+    > Trump said the US will "substantially reduce" joint military exercises with South Korea, citing his "very good relationship" with Kim Jong Un.
+  - **The Guardian World** — South Korea city deluged by almost a metre of rain, triggering deadly landslide
+    <https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding>
+    > Person dies after landslide hits apartment building in southern city of Geoje as torrential rains lead to power cuts and mass evacuations Torrential downpours that pounded southern parts of South Korea since Saturday have killed one person and injured four others, officials have 
+  - **Al Jazeera** — Trump says talking to North Korea’s Kim makes the south safer
+    <https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss>
+    > US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
 
 ---
 
@@ -100,13 +95,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 27  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 28  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 27
-  2026-08-11  (2 zdrojů, síla 42)  Trump demands compensation from Iran as talks on Strait of Hormuz continue
+rubrika: world · sledováno od 2026-08-09 · záznamů: 28
   2026-08-11  (2 zdrojů, síla 48)  Trump pivots back to sanctions for Iran as other strategies to end his war fizzle
   2026-08-11  (4 zdrojů, síla 73)  Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat
   2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative
@@ -126,6 +120,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 27
   2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces
   2026-08-17  (2 zdrojů, síla 44)  Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
   2026-08-17  (2 zdrojů, síla 44)  Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
+  2026-08-18  (3 zdrojů, síla 58)  BBC breaks down Trump's latest shift on North and South Korea
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
