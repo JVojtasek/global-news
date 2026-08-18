@@ -9,21 +9,40 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Nine killed in Israeli strikes on southern Lebanon, authorities say
-- id události: `8890d3817dfd`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 1. Premier League to publish verdicts on referee and VAR decisions
+- id události: `e8a425cbff50`  ·  rubrika: `sport`  ·  skóre: 64  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Nine killed in Israeli strikes on southern Lebanon, authorities say
-    <https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss>
-    > Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as an earlier action against its soldiers.
-  - **The Guardian World** — Israeli strikes on south Lebanon kill nine in worst toll since June
-    <https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says>
-    > Two airstrikes reportedly hit homes in Ansar and Deir al-Zahrani with rescue services trying to find survivors Nine people have been killed, including three children, and 11 injured in two Israeli airstrikes on south Lebanon, the worst toll since deals in June brought a lull in h
-  - **Al Jazeera** — At scene of deadly Israeli strike on Lebanon home
-    <https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss>
-    > An overnight Israeli strike on a family home in Ansar, southern Lebanon, killed at least seven people.
+  - **BBC Sport** — Premier League to publish verdicts on referee and VAR decisions
+    <https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss>
+    > The Premier League will publish the judgements of its Key Match Incidents Panel for the first time this season.
+  - **Al Jazeera** — Premier League what to know: Schedule, prediction, transfers and more
+    <https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss>
+    > Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
+  - **Guardian Sport** — Premier League 2026-27 preview No 14: Liverpool
+    <https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool>
+    > Andoni Iraola has his hands full – replacing Mo Salah and restoring faith at Anfield – and will hope big name investors bring stability not disharmony Guardian writers’ predicted position: 4th (NB: this is not necessarily Andy Hunter’s prediction but the average of our writers’ t
+  - **Guardian Sport** — David Squires on … new managers causing a stir before Premier League’s return
+    <https://www.theguardian.com/football/picture/2026/aug/18/david-squires-new-managers-causing-stir-premier-league-return>
+    > Our cartoonist on the nine fresh faces in club dugouts and their potential impact as they begin work Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...
 
-### 2. Supreme Court rejects Verizon bid for $47 million refund of FCC fine
+### 2. OpenAI makes ChatGPT less 'human' for teens in new safety update
+- id události: `762a25ddd63d`  ·  rubrika: `tech`  ·  skóre: 64  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Technology** — OpenAI makes ChatGPT less 'human' for teens in new safety update
+    <https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss>
+    > OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.
+  - **The Verge** — ChatGPT is getting a dedicated mode for teens
+    <https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode>
+    > OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and t
+  - **The Verge AI** — ChatGPT is getting a dedicated mode for teens
+    <https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode>
+    > OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and t
+  - **Investing.com** — OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls
+    <https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012>
+
+### 3. Supreme Court rejects Verizon bid for $47 million refund of FCC fine
 - id události: `9739585c4084`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -37,7 +56,7 @@
     <https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko>
     > Russia’s Supreme Court on Monday upheld the exclusion of liberal opposition party Yabloko from September’s legislative elections, eliminating the country’s only explicitly anti-war party from the ballot, as dozens of the party's supporters were detained outside the court. The dec
 
-### 3. Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
+### 4. Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
 - id události: `e3d7c0ac2a93`  ·  rubrika: `world`  ·  skóre: 58  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -50,20 +69,6 @@
   - **Al Jazeera** — Kushner to meet Netanyahu to push Trump Gaza plan
     <https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss>
     > The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.
-
-### 4. BBC breaks down Trump's latest shift on North and South Korea
-- id události: `24d62d122ca6`  ·  rubrika: `world`  ·  skóre: 58  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — BBC breaks down Trump's latest shift on North and South Korea
-    <https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss>
-    > Trump said the US will "substantially reduce" joint military exercises with South Korea, citing his "very good relationship" with Kim Jong Un.
-  - **The Guardian World** — South Korea city deluged by almost a metre of rain, triggering deadly landslide
-    <https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding>
-    > Person dies after landslide hits apartment building in southern city of Geoje as torrential rains lead to power cuts and mass evacuations Torrential downpours that pounded southern parts of South Korea since Saturday have killed one person and injured four others, officials have 
-  - **Al Jazeera** — Trump says talking to North Korea’s Kim makes the south safer
-    <https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss>
-    > US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
 
 ---
 
@@ -95,13 +100,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 30  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 31  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 30
-  2026-08-12  (2 zdrojů, síla 42)  Gulf states scramble for Strait of Hormuz alternative
+rubrika: world · sledováno od 2026-08-09 · záznamů: 31
   2026-08-12  (2 zdrojů, síla 42)  Lebanon becomes first Middle East country to end death penalty
   2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
   2026-08-15  (4 zdrojů, síla 69)  Donald Trump to declare Hormuz US territory 'soon'
@@ -121,15 +125,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 30
   2026-08-18  (3 zdrojů, síla 58)  BBC breaks down Trump's latest shift on North and South Korea
   2026-08-18  (3 zdrojů, síla 55)  South Korea president calls for military independence in wake of Trump call to cut joint drills
   2026-08-18  (2 zdrojů, síla 40)  South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
+  2026-08-18  (2 zdrojů, síla 40)  Why has Trump threatened to bomb Oman – for a second time?
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 11  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 12  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 11
+rubrika: world · sledováno od 2026-08-11 · záznamů: 12
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -141,6 +146,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 11
   2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region
   2026-08-17  (2 zdrojů, síla 49)  Why Kyiv keeps attacking Russian retail giant Wildberries
   2026-08-18  (2 zdrojů, síla 43)  Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
+  2026-08-18  (2 zdrojů, síla 46)  Ukraine, Russia trade strikes; Wildberries site hit again
 ```
 
 ---

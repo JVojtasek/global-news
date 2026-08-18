@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-18
 
-Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
+Paměť obsahuje **31 vláken**. Aktivních za posledních 14 dní: **18**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 9 dní · 30 záznamů
+- rubrika `world` · sledováno 9 dní · 31 záznamů
 - časová osa:
-  - **2026-08-17** (3 zdrojů) Trump says US to scale back military drills with South Korea after it stayed out of Iran war
   - **2026-08-17** (2 zdrojů) Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
   - **2026-08-17** (3 zdrojů) Trump orders Pentagon to scale back joint exercises with South Korea
   - **2026-08-17** (2 zdrojů) Trump orders US to scale back South Korea military drills
@@ -19,11 +18,11 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-18** (3 zdrojů) BBC breaks down Trump's latest shift on North and South Korea
   - **2026-08-18** (3 zdrojů) South Korea president calls for military independence in wake of Trump call to cut joint drills
   - **2026-08-18** (2 zdrojů) South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
+  - **2026-08-18** (2 zdrojů) Why has Trump threatened to bomb Oman – for a second time?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 7 dní · 11 záznamů
+- rubrika `world` · sledováno 7 dní · 12 záznamů
 - časová osa:
-  - **2026-08-11** (2 zdrojů) Russia using North Korean missiles to strike Ukraine, Zelensky says
   - **2026-08-11** (2 zdrojů) Ukraine drone strike on oil refinery deep inside Russia kills at least 13
   - **2026-08-11** (2 zdrojů) Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
   - **2026-08-11** (2 zdrojů) Ukraine says Russia fired North Korean missiles
@@ -33,6 +32,7 @@ Paměť obsahuje **30 vláken**. Aktivních za posledních 14 dní: **16**.
   - **2026-08-17** (2 zdrojů) Ukraine and Russia intensify attacks, several killed in Belgorod border region
   - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
   - **2026-08-18** (2 zdrojů) Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
+  - **2026-08-18** (2 zdrojů) Ukraine, Russia trade strikes; Wildberries site hit again
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 5 dní · 8 záznamů
