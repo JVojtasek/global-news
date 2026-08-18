@@ -110,5 +110,93 @@ await t("výpadek databáze vrátí chybu, ne prázdno", async () => {
   eq(r.status, 500, "stav");
 });
 
+
+console.log("\nADMIN — ČÍSLA O ODBĚRATELÍCH\n");
+
+const adminEnv = { ...env, ADMIN_TOKEN: "a".repeat(40) };
+const get = (path, token) => new Request("https://w.dev" + path, {
+  headers: Object.assign({ Origin: "https://mypaper.news" },
+                         token ? { Authorization: "Bearer " + token } : {}),
+});
+
+await t("bez tokenu nevydá nic", async () => {
+  const r = await worker.fetch(get("/admin/summary"), adminEnv);
+  eq(r.status, 401, "stav");
+});
+
+await t("se špatným tokenem nevydá nic", async () => {
+  const r = await worker.fetch(get("/admin/summary", "b".repeat(40)), adminEnv);
+  eq(r.status, 401, "stav");
+});
+
+await t("když ADMIN_TOKEN není nastavený, je zavřeno", async () => {
+  const r = await worker.fetch(get("/admin/summary", "cokoli"), env);
+  eq(r.status, 401, "stav");
+});
+
+await t("krátký token se odmítne, i kdyby seděl", async () => {
+  const slabe = { ...env, ADMIN_TOKEN: "kratke" };
+  const r = await worker.fetch(get("/admin/summary", "kratke"), slabe);
+  eq(r.status, 401, "stav");
+});
+
+await t("se správným tokenem vrátí čísla", async () => {
+  const puvodni = globalThis.fetch;
+  globalThis.fetch = async () => ({ ok: true, json: async () => ({ rows: [
+    { celkem: 3, potvrzeni: 2, odhlaseni: 0, rano: 1, sobota: 2, za7dni: 3, za30dni: 3 },
+  ] }) });
+  const r = await worker.fetch(get("/admin/summary", "a".repeat(40)), adminEnv);
+  const b = await r.json();
+  globalThis.fetch = puvodni;
+  eq(r.status, 200, "stav");
+  eq(b.celkem, 3, "celkem");
+});
+
+await t("adresy jsou v přehledu zakryté", async () => {
+  const puvodni = globalThis.fetch;
+  let n = 0;
+  globalThis.fetch = async () => ({ ok: true, json: async () => {
+    n++;
+    if (n === 1) return { rows: [{ celkem: 1 }] };
+    if (n === 5) return { rows: [{ email: "jaroslav@seznam.cz", lang: "cs", cadence: "daily" }] };
+    return { rows: [] };
+  } });
+  const b = await (await worker.fetch(get("/admin/summary", "a".repeat(40)), adminEnv)).json();
+  globalThis.fetch = puvodni;
+  const e = b.recent[0].email;
+  if (e.includes("jaroslav")) throw new Error("celá adresa v přehledu: " + e);
+  if (!e.endsWith("@seznam.cz")) throw new Error("nepoznáš, čí to je: " + e);
+});
+
+await t("tabulka ke stažení ošetří vzorce v Excelu", async () => {
+  const puvodni = globalThis.fetch;
+  globalThis.fetch = async () => ({ ok: true, json: async () => ({ rows: [
+    { email: "=CMD()|a", lang: "cs", cadence: "daily", source: "", consent_at: "", confirmed: "ano" },
+  ] }) });
+  const r = await worker.fetch(get("/admin/export.csv?segment=daily", "a".repeat(40)), adminEnv);
+  const text = await r.text();
+  globalThis.fetch = puvodni;
+  if (!text.includes("\"'=CMD()|a\"")) throw new Error("vzorec neošetřen: " + text.slice(0, 80));
+});
+
+await t("výběr segmentu se posílá jako parametr, ne v textu dotazu", async () => {
+  const puvodni = globalThis.fetch;
+  let dotaz = null;
+  globalThis.fetch = async (u, o) => { dotaz = JSON.parse(o.body); return { ok: true, json: async () => ({ rows: [] }) }; };
+  await worker.fetch(get("/admin/export.csv?segment=daily&lang=cs", "a".repeat(40)), adminEnv);
+  globalThis.fetch = puvodni;
+  eq(dotaz.params, ["daily", "cs"], "parametry");
+});
+
+await t("nesmyslný segment se ignoruje, nevloží se do dotazu", async () => {
+  const puvodni = globalThis.fetch;
+  let dotaz = null;
+  globalThis.fetch = async (u, o) => { dotaz = JSON.parse(o.body); return { ok: true, json: async () => ({ rows: [] }) }; };
+  await worker.fetch(get("/admin/export.csv?segment=' or 1=1--", "a".repeat(40)), adminEnv);
+  globalThis.fetch = puvodni;
+  eq(dotaz.params, [], "žádné parametry");
+  if (dotaz.query.includes("1=1")) throw new Error("podvržený text se dostal do dotazu!");
+});
+
 console.log(`\n${ok} v pořádku, ${bad} chyb\n`);
 process.exit(bad ? 1 : 0);

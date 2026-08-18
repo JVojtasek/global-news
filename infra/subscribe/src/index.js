@@ -75,8 +75,8 @@ function cors(origin, allowed) {
   const ok = allowed.includes(origin) ? origin : allowed[0];
   return {
     "Access-Control-Allow-Origin": ok,
-    "Access-Control-Allow-Methods": "POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
+    "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type, Authorization",
     "Vary": "Origin",
   };
 }
@@ -124,6 +124,124 @@ async function forwardToProvider(env, email, lang, cadence) {
   return { ok: false, id: null, error: "provider not configured" };
 }
 
+/* --------------------------------------------------------------- admin
+
+   Odpovědi pro rubriku „Odběratelé" v /admin/. Bez `ADMIN_TOKEN` se
+   nepustí vůbec — zapomenuté nastavení nesmí znamenat, že je seznam
+   čtenářů veřejně ke stažení.
+
+   Adresy se ven posílají jen dvěma způsoby: zakryté (m***@seznam.cz)
+   v přehledu, a celé v tabulce ke stažení, o kterou si člověk musí
+   říct kliknutím. Není to bezpečnostní opatření — kdo má token, dostane
+   se ke všemu — je to proto, aby se cizí e-maily neválely na obrazovce
+   pokaždé, když se člověk jde podívat na čísla. */
+function timingSafeEqual(a, b) {
+  if (typeof a !== "string" || typeof b !== "string" || a.length !== b.length) return false;
+  let diff = 0;
+  for (let i = 0; i < a.length; i++) diff |= a.charCodeAt(i) ^ b.charCodeAt(i);
+  return diff === 0;
+}
+
+function adminAllowed(request, env) {
+  const want = env.ADMIN_TOKEN;
+  // Nenastaveno = zavřeno. Nikdy naopak.
+  if (!want || want.length < 16) return false;
+  const got = (request.headers.get("Authorization") || "").replace(/^Bearer\s+/i, "");
+  return timingSafeEqual(got, want);
+}
+
+/* m***@seznam.cz — pozná se podle ní vlastní adresa, cizí ne. */
+function maskEmail(value) {
+  const [name, domain] = String(value || "").split("@");
+  if (!domain) return "—";
+  const head = name.slice(0, 1);
+  return `${head}${"*".repeat(Math.max(2, Math.min(name.length - 1, 5)))}@${domain}`;
+}
+
+async function adminSummary(env) {
+  const [totals] = await sql(env, `
+    select count(*)::int                                                as celkem,
+           count(confirmed_at)::int                                     as potvrzeni,
+           count(unsubscribed_at)::int                                  as odhlaseni,
+           count(*) filter (where cadence = 'daily'
+                              and unsubscribed_at is null)::int         as rano,
+           count(*) filter (where cadence = 'weekly'
+                              and unsubscribed_at is null)::int         as sobota,
+           count(*) filter (where consent_at > now() - interval '7 days')::int  as za7dni,
+           count(*) filter (where consent_at > now() - interval '30 days')::int as za30dni
+      from mypaper.subscribers`);
+
+  const byLang = await sql(env, `
+    select lang, count(*)::int as n
+      from mypaper.subscribers where unsubscribed_at is null
+     group by lang order by n desc`);
+
+  /* Odkud lidé přišli. Tohle je ze všech čísel to nejužitečnější:
+     říká, která stránka odběratele opravdu získává — a která je jen
+     čtená. */
+  const bySource = await sql(env, `
+    select coalesce(nullif(source, ''), '(neznámo)') as source, count(*)::int as n
+      from mypaper.subscribers where unsubscribed_at is null
+     group by 1 order by n desc limit 25`);
+
+  const byDay = await sql(env, `
+    select to_char(consent_at, 'YYYY-MM-DD') as day, count(*)::int as n
+      from mypaper.subscribers
+     where consent_at > now() - interval '60 days'
+     group by 1 order by 1`);
+
+  const recent = await sql(env, `
+    select email, lang, cadence, source,
+           to_char(consent_at, 'YYYY-MM-DD HH24:MI') as at,
+           (confirmed_at is not null) as confirmed,
+           (unsubscribed_at is not null) as gone
+      from mypaper.subscribers order by consent_at desc limit 30`);
+
+  return {
+    ...totals,
+    byLang, bySource, byDay,
+    recent: recent.map((r) => ({ ...r, email: maskEmail(r.email) })),
+  };
+}
+
+async function adminExport(env, segment, lang) {
+  const where = ["unsubscribed_at is null"];
+  const params = [];
+  if (segment === "daily" || segment === "weekly") {
+    params.push(segment);
+    where.push(`cadence = $${params.length}`);
+  }
+  if (lang === "cs" || lang === "en") {
+    params.push(lang);
+    where.push(`lang = $${params.length}`);
+  }
+  const rows = await sql(env, `
+    select email, lang, cadence, coalesce(source, '') as source,
+           to_char(consent_at, 'YYYY-MM-DD HH24:MI') as consent_at,
+           case when confirmed_at is null then 'ne' else 'ano' end as confirmed
+      from mypaper.subscribers
+     where ${where.join(" and ")}
+     order by consent_at desc`, params);
+
+  /* Buňka, která začíná = + - @, se v Excelu vyhodnotí jako vzorec.
+     U e-mailů to zní neškodně, ale je to známá cesta, jak někomu
+     podstrčit příkaz do tabulky. Proto se takové buňce předsadí
+     apostrof. */
+  const cell = (v) => {
+    let t = String(v ?? "");
+    if (/^[=+\-@\t\r]/.test(t)) t = "'" + t;
+    return `"${t.replace(/"/g, '""')}"`;
+  };
+  const head = ["email", "jazyk", "rytmus", "odkud", "prihlasen", "potvrzeno"];
+  const lines = [head.join(",")];
+  for (const r of rows) {
+    lines.push([r.email, r.lang, r.cadence, r.source, r.consent_at, r.confirmed].map(cell).join(","));
+  }
+  // BOM, jinak Excel rozbije diakritiku
+  return "\uFEFF" + lines.join("\r\n") + "\r\n";
+}
+
+
 export default {
   async fetch(request, env) {
     const origin = request.headers.get("Origin") || "";
@@ -153,6 +271,41 @@ export default {
         "odhlášenou, abychom ti omylem nezačali psát znovu.</p>" +
         "<p><a href='https://mypaper.news/'>Zpátky na My Paper</a></p>",
         { status: 200, headers: { ...head, "Content-Type": "text/html; charset=utf-8" } });
+    }
+
+    /* --- admin: čísla o odběratelích ------------------------------ */
+    if (url.pathname.startsWith("/admin/")) {
+      if (!adminAllowed(request, env)) {
+        // Stejná odpověď na špatný token i na nenastavený, ať se z ní
+        // nedá poznat, jestli tu admin vůbec je.
+        return new Response(JSON.stringify({ ok: false, error: "nope" }), {
+          status: 401,
+          headers: { ...head, "Content-Type": "application/json" },
+        });
+      }
+      try {
+        if (url.pathname === "/admin/summary") {
+          return new Response(JSON.stringify(await adminSummary(env)), {
+            status: 200,
+            headers: { ...head, "Content-Type": "application/json",
+                       "Cache-Control": "no-store" },
+          });
+        }
+        if (url.pathname === "/admin/export.csv") {
+          const csv = await adminExport(env, url.searchParams.get("segment"),
+                                             url.searchParams.get("lang"));
+          return new Response(csv, {
+            status: 200,
+            headers: { ...head, "Content-Type": "text/csv; charset=utf-8",
+                       "Cache-Control": "no-store",
+                       "Content-Disposition": 'attachment; filename="odberatele.csv"' },
+          });
+        }
+      } catch (err) {
+        return new Response(JSON.stringify({ ok: false, error: String(err).slice(0, 200) }), {
+          status: 500, headers: { ...head, "Content-Type": "application/json" } });
+      }
+      return new Response("Nenalezeno", { status: 404, headers: head });
     }
 
     if (request.method !== "POST") return new Response("Method not allowed", { status: 405, headers: head });

@@ -39,6 +39,9 @@ button.act{background:var(--accent);color:#fff;border:0;border-radius:8px;paddin
  font:inherit;font-size:.88rem;cursor:pointer}
 button.act:hover{filter:brightness(1.08)}
 button.ghost{background:none;border:1px solid var(--line);color:var(--ink)}
+a.actlink{display:inline-block;text-decoration:none;background:none;border:1px solid var(--line);
+ color:var(--ink);border-radius:8px;padding:.45rem .9rem;font-size:.88rem}
+a.actlink:hover{border-color:var(--accent);color:var(--accent)}
 button.danger{background:var(--bad)}
 button:disabled{opacity:.5;cursor:default}
 input,select,textarea{font:inherit;background:var(--bg);color:var(--ink);border:1px solid var(--line);
@@ -181,6 +184,7 @@ const TABS = [
   {id:"dash",   name:"Přehled"},
   {id:"review", name:"Ke schválení", count:()=> S.data.index.articles.filter(a=>a.status==="review"&&a.lang==="en").length},
   {id:"social", name:"Sociální sítě", count:()=> S.data.queue.items.filter(i=>i.status==="pending").length},
+  {id:"subs",   name:"Odběratelé"},
   {id:"members",name:"Členové"},
   {id:"posts",  name:"Články"},
   {id:"fc",     name:"Předpovědi"},
@@ -196,8 +200,8 @@ function renderTabs(){
 }
 function go(t){ S.tab=t; renderTabs(); render(); }
 
-function render(){ ({dash:vDash, review:vReview, social:vSocial, members:vMembers, posts:vPosts,
-                     fc:vForecasts, set:vSettings, run:vRun})[S.tab](); }
+function render(){ ({dash:vDash, review:vReview, social:vSocial, subs:vSubs, members:vMembers,
+                     posts:vPosts, fc:vForecasts, set:vSettings, run:vRun})[S.tab](); }
 
 /* ---------------- přehled ---------------- */
 function vDash(){
@@ -897,6 +901,182 @@ async function runFlow(file, btn){
   btn.disabled = true; btn.textContent = "Spouštím…";
   try { await dispatch(file); toast("Spuštěno. Za pár minut bude hotovo."); btn.textContent="Spuštěno"; }
   catch(e){ toast("Nepovedlo se: "+e.message); btn.disabled=false; btn.textContent="Spustit"; }
+}
+
+/* ---------------- odběratelé (vlastní seznam v Neonu) ----------------
+
+   Tahle rubrika se ptá programu na Cloudflare, ten se ptá Neonu. Je to
+   jediné místo, kde vidíš, ODKUD čtenář přišel — u rozesílací služby
+   tahle informace není a nikdy nebude. Právě ta je přitom nejcennější:
+   říká, která stránka odběratele opravdu získává.
+
+   Adresa programu a heslo k němu zůstávají jen v tomhle prohlížeči.
+   Do repozitáře nepatří — je veřejný.                                */
+const SUB_STORE = "mypaper-admin-subs";
+function subCfgRead(){
+  try { return JSON.parse(localStorage.getItem(SUB_STORE) || "{}") || {}; } catch(e){ return {}; }
+}
+function subCfgWrite(c){ localStorage.setItem(SUB_STORE, JSON.stringify(c)); }
+
+function vSubs(){
+  const c = subCfgRead();
+  $("#view").innerHTML = `<h2>Odběratelé</h2>
+    <p class="sub">Tvůj vlastní seznam v Neonu. Rozesílací služba ti řekne, kolik lidí ti otevřelo
+       e-mail; tohle ti řekne, <b>odkud přišli</b> — a to je jediné číslo, podle kterého se dá
+       rozhodnout, co psát dál.</p>
+    <div class="card">
+      <div class="split">
+        <div><label>Adresa programu na Cloudflare</label>
+          <input id="sub-url" autocomplete="off" placeholder="https://mypaper-subscribe.ucet.workers.dev"
+                 value="${esc(c.url||"")}"></div>
+        <div><label>Heslo do adminu (ADMIN_TOKEN)</label>
+          <input id="sub-tok" type="password" autocomplete="off" placeholder="to, co jsi zadal na Cloudflare"></div>
+      </div>
+      <p class="muted" style="margin:.7rem 0 0">Obojí zůstane jen v tomhle prohlížeči, v položce
+        <b>${SUB_STORE}</b>. Do žádného souboru v repozitáři to nevkládej — je veřejný.</p>
+      <div style="margin-top:.8rem">
+        <button class="act" onclick="subLoad()">Načíst čísla</button>
+        <button class="act ghost" onclick="subForget()">Zapomenout heslo</button>
+      </div>
+    </div>
+    <div id="sub-body"></div>`;
+  if (c.url && c.tok) { $("#sub-tok").value = c.tok; subLoad(); }
+}
+function subForget(){ localStorage.removeItem(SUB_STORE); toast("Zapomenuto."); vSubs(); }
+
+async function subApi(path){
+  const c = subCfgRead();
+  const base = String(c.url||"").replace(/\/+$/,"");
+  const r = await fetch(base + path, { headers:{ "Authorization":"Bearer " + c.tok } });
+  if (r.status === 401) throw new Error("Heslo nesedí, nebo na Cloudflare chybí ADMIN_TOKEN.");
+  if (!r.ok) throw new Error("Program odpověděl chybou " + r.status + ".");
+  return r;
+}
+
+async function subLoad(){
+  const url = ($("#sub-url")||{}).value?.trim() || "";
+  const tok = ($("#sub-tok")||{}).value?.trim() || "";
+  if (!url || !tok) { toast("Vyplň adresu i heslo."); return; }
+  subCfgWrite({ url, tok });
+  const box = $("#sub-body");
+  box.innerHTML = `<div class="empty">Ptám se…</div>`;
+  try {
+    const d = await (await subApi("/admin/summary")).json();
+    subRender(d);
+  } catch(e){
+    box.innerHTML = `<div class="card"><b>Nepovedlo se.</b>
+      <div class="muted" style="margin-top:.4rem">${esc(e.message)}</div>
+      <p class="muted">Když jsi program ještě nenasadil, je to čekaná — návod je
+        v repozitáři v <b>infra/README.md</b>.</p></div>`;
+  }
+}
+
+function subRender(d){
+  const aktivni = (d.celkem||0) - (d.odhlaseni||0);
+  const tile = (n,l)=>`<div class="tile"><b>${n}</b><span>${l}</span></div>`;
+  const radek = (a,b,c)=>`<tr><td style="padding:.2rem 0">${a}</td>` +
+    `<td style="text-align:right;padding:.2rem 0 .2rem 1rem;font-variant-numeric:tabular-nums">${b}</td>` +
+    `<td class="muted" style="text-align:left;width:4rem;padding-left:.9rem;font-variant-numeric:tabular-nums">${c||""}</td></tr>`;
+  const pct = n => aktivni ? Math.round(n*100/aktivni) + " %" : "—";
+
+  // Sloupečky růstu za posledních 30 dní. Bez knihovny, jen divy.
+  const dny = (d.byDay||[]).slice(-30);
+  const max = Math.max(1, ...dny.map(x=>x.n));
+  const graf = dny.length
+    ? `<div style="display:flex;align-items:flex-end;gap:2px;height:64px;margin:.6rem 0">
+        ${dny.map(x=>`<div title="${esc(x.day)}: ${x.n}" style="flex:1;min-width:3px;
+           background:var(--accent);opacity:${0.35 + 0.65*x.n/max};
+           height:${Math.max(6, Math.round(x.n*100/max))}%"></div>`).join("")}
+       </div><div class="muted" style="font-size:.78rem">${esc(dny[0].day)} → ${esc(dny[dny.length-1].day)}</div>`
+    : `<p class="muted">Zatím se nikdo nepřihlásil, takže není co kreslit.</p>`;
+
+  $("#sub-body").innerHTML = `
+    <div class="tiles">
+      ${tile(aktivni, "odběratelů")}
+      ${tile(d.rano||0, "ráno / denně")}
+      ${tile(d.sobota||0, "v sobotu")}
+      ${tile(d.potvrzeni||0, "potvrzených")}
+      ${tile(d.za7dni||0, "za 7 dní")}
+      ${tile(d.odhlaseni||0, "odhlášených")}
+    </div>
+
+    ${(d.celkem||0) === 0 ? `<div class="card"><b>Zatím nikdo.</b>
+      <div class="muted" style="margin-top:.4rem">Tabulky stojí a program běží — jen se ještě nikdo
+      nepřihlásil. Až se přihlásí první člověk, objeví se tady do vteřiny.</div></div>` : ""}
+
+    <div class="card">
+      <b>Odkud přišli</b>
+      <div class="muted" style="margin:.2rem 0 .6rem">Stránka, na které stál formulář. Číslo u ní je
+        důvod, proč se vyplatí psát další takový článek.</div>
+      <table style="width:100%;border-collapse:collapse">
+        <tbody>${(d.bySource||[]).map(x=>radek(
+          `<a href="https://mypaper.news${esc(x.source)}" target="_blank" rel="noopener">${esc(x.source)}</a>`,
+          x.n, pct(x.n))).join("") || radek("—","0","")}</tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <b>Jazyk</b>
+      <table style="width:100%;border-collapse:collapse;margin-top:.5rem">
+        <tbody>${(d.byLang||[]).map(x=>radek(
+          x.lang === "cs" ? "česky" : "anglicky", x.n, pct(x.n))).join("") || radek("—","0","")}</tbody>
+      </table>
+    </div>
+
+    <div class="card"><b>Přírůstek za 30 dní</b>${graf}</div>
+
+    <div class="card">
+      <b>Posledních 30 přihlášení</b>
+      <div class="muted" style="margin:.2rem 0 .6rem">Adresy jsou schválně zakryté. Poznáš mezi nimi
+        tu svoji, cizí ne — a nemusí se ti válet na obrazovce pokaždé, když se jdeš podívat na čísla.
+        Celé je dostaneš v tabulce níž.</div>
+      <table style="width:100%;border-collapse:collapse">
+        <tbody>${(d.recent||[]).map(r=>`<tr>
+          <td>${esc(r.email)}</td>
+          <td class="muted">${r.cadence === "daily" ? "ráno" : "v sobotu"} · ${esc(r.lang)}</td>
+          <td class="muted">${esc(r.source||"")}</td>
+          <td class="muted" style="text-align:right">${esc(r.at||"")}</td>
+          <td style="text-align:right">${r.gone ? '<span class="pill">odhlášen</span>'
+            : r.confirmed ? '<span class="pill published">potvrzen</span>'
+            : '<span class="pill review">čeká</span>'}</td>
+        </tr>`).join("") || `<tr><td class="muted">Zatím nikdo.</td></tr>`}</tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <b>Stáhnout seznam</b>
+      <div class="muted" style="margin:.2rem 0 .6rem">Tabulka s celými adresami. Otevře se v Excelu.
+        Používej ji, jen když ji opravdu potřebuješ — a nikam ji neukládej natrvalo.</div>
+      <button class="act ghost" onclick="subExport('all')">Všichni</button>
+      <button class="act ghost" onclick="subExport('daily')">Jen ranní</button>
+      <button class="act ghost" onclick="subExport('weekly')">Jen sobotní</button>
+    </div>
+
+    <div class="card">
+      <b>Kampaň a nabídky</b>
+      <div class="muted" style="margin-top:.4rem">Rozesílání nedělá tenhle web a dělat nebude. Za
+        doručením do schránky stojí SPF, DKIM, odhlašovací odkaz a pověst domény — kdyby to noviny
+        posílaly samy z čerstvé <b>mypaper.news</b>, spadnou do spamu a tu pověst si poškodí
+        natrvalo. Text kampaně proto piš v rozesílací službě; tahle stránka ti řekne, <i>komu</i>
+        a <i>na základě čeho</i>.</div>
+      <div style="margin-top:.7rem">
+        <a class="actlink" href="https://app.beehiiv.com" target="_blank" rel="noopener">Otevřít beehiiv</a>
+        <button class="act ghost" onclick="go('members')">Rubrika Členové</button>
+      </div>
+    </div>`;
+}
+
+async function subExport(segment){
+  try {
+    const r = await subApi("/admin/export.csv?segment=" + encodeURIComponent(segment));
+    const blob = await r.blob();
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "odberatele-" + segment + ".csv";
+    a.click();
+    setTimeout(()=>URL.revokeObjectURL(a.href), 4000);
+    toast("Staženo.");
+  } catch(e){ toast("Nepovedlo se: " + e.message); }
 }
 
 /* ---------------- start ---------------- */
