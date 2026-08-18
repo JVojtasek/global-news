@@ -23,6 +23,12 @@ navrhoval. Uložit adresu je snadné. Doručit e-mail není.
 
 ## Krok 1 — tabulky v Neonu (5 minut)
 
+**Rychlejší cesta:** připoj v Claude oficiální konektor **Neon**
+(nastavení konektorů). Pak tenhle krok nedělej — Claude tabulky založí
+sám a ty do konzole vůbec nemusíš.
+
+Ručně to jde takhle:
+
 1. Otevři [console.neon.tech](https://console.neon.tech) a vyber projekt,
    který už máš od QMA. Nový zakládat nemusíš — My Paper si sedne vedle
    do vlastního schématu `mypaper`, takže se s QMA nepotkají.
@@ -88,9 +94,14 @@ npx wrangler secret put BEEHIIV_PUBLICATION_ID
 ```bash
 npx wrangler secret put IP_SALT
 ```
-→ vlož jakoukoli dlouhou náhodnou změť znaků, třeba čtyřicet písmen
-a číslic. Slouží k tomu, aby se z uložených otisků IP adres nedala
-zpětně poskládat čitelná IP.
+→ vlož dlouhou náhodnou změť znaků. Vyrob si ji tímhle a výsledek vlož:
+
+```bash
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+```
+
+Slouží k tomu, aby se z uložených otisků IP adres nedala zpětně
+poskládat čitelná IP.
 
 A nakonec:
 
@@ -107,6 +118,25 @@ je veřejná, není to žádné tajemství, a já ji zapíšu do webu.
 Zapíšu tu adresu do `data/site.yml` pod `newsletter.form_action`, přidám
 děkovnou stránku a odhlašovací odkaz a nasadím to. Od té chvíle okénko
 funguje.
+
+## Dva seznamy, ne jeden
+
+Čtenář si při přihlášení vybere, jak často chce psát:
+
+| Volba | Sloupec `cadence` | Pohled v Neonu |
+|---|---|---|
+| Každé ráno — briefing na pět minut | `daily` | `mypaper.list_daily` |
+| V sobotu — jedno vydání týdně | `weekly` | `mypaper.list_weekly` |
+
+Předvybraná je sobota. Denní a týdenní rytmus jsou dva různé sliby
+a jeden se nedá vnutit druhému: kdo chce ranní briefing, chce ho ráno;
+komu stačí jedna zpráva týdně, toho denní e-mail odhlásí. Proto si
+vybírá čtenář, ne my — a proto je předvybraný ten menší slib, který
+se dá dodržet i ve špatném týdnu.
+
+Rozesílat se tedy budou dva seznamy, ne jeden. V beehiiv jim odpovídají
+dvě různé kampaně; rozliší se podle pole `cadence`, které tam program
+posílá spolu s adresou.
 
 ---
 
