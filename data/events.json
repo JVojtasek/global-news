@@ -1106,46 +1106,6 @@
   ]
  },
  {
-  "id": "b12aefc8c3ca",
-  "headline": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
-  "section": "business",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T20:32:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
-    "url": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
-    "source": "CNBC Top",
-    "summary": "The proposed investment ⁠is part of Nvidia's talks with OpenAI ⁠and SB Energy on providing credit support for a panned Ohio data center campus, the report said.",
-    "published_at": "2026-08-15T20:32:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
-   },
-   {
-    "title": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information",
-    "url": "https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-15T20:07:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
-   },
-   {
-    "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports",
-    "url": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-3-billion-in-sb-energy-as-part-of-openai-data-center-deal-the-information-reports-4861844",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-15T19:42:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
-   }
-  ]
- },
- {
   "id": "5467f9af8d64",
   "headline": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
   "section": "world",
@@ -1886,33 +1846,64 @@
   ]
  },
  {
-  "id": "019e47e73731",
-  "headline": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
-  "section": "world",
-  "score": 43,
+  "id": "aea005a4b89e",
+  "headline": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+  "section": "sport",
+  "score": 44,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T18:44:49+00:00",
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T20:41:50+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
-    "url": "https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea",
-    "source": "The Guardian World",
-    "summary": "Fans line streets, singing Total Eclipse of the Heart ahead of Welsh singer’s Swansea funeral Thousands of Bonnie Tyler fans lined the streets of her home town in south Wales to pay respects to the singer as her coffin was brought back to her former home. The singer, whose real name was Gaynor Sullivan, died unexpectedly on 8 July in Portugal at the age of 75. Continue reading...",
-    "published_at": "2026-08-15T18:44:49+00:00",
+    "title": "Jose Mourinho returns to Real Madrid in closed-door ceremony",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/jose-mourinho-returns-to-real-madrid-in-closed-door-ceremony?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "In an unusually private ceremony, Jose Mourinho has officially begun his second spell as Real Madrid manager.",
+    "published_at": "2026-08-18T20:41:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
    },
    {
-    "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-    "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-    "published_at": "2026-08-15T17:33:38+00:00",
+    "title": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+    "url": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
+    "source": "Guardian Sport",
+    "summary": "Spain’s World Cup-winning captain has completed his move to Camp Nou where he is a natural successor to club legend By the time Flight PTN27B started its descent into El Prat a bit before 8pm on Monday evening, a small crowd had gathered by the terminal doors, waiting for it to land. A few people stood and watched the sky, cameras out to capture its arrival. A lot more watched on their phones. In ",
+    "published_at": "2026-08-18T19:49:19+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a4bd0e1b72a3",
+  "headline": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+  "section": "safety",
+  "score": 44,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T17:44:05+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+    "source": "The Hacker News",
+    "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
+    "published_at": "2026-08-18T17:44:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   },
+   {
+    "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+    "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
+    "published_at": "2026-08-18T11:20:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
@@ -2183,37 +2174,6 @@
     "published_at": "2026-08-18T17:54:46+00:00",
     "source_countries": [],
     "seen_at": "2026-08-18T18:27:04+00:00"
-   }
-  ]
- },
- {
-  "id": "ca01092fef56",
-  "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T21:03:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-    "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-    "published_at": "2026-08-15T21:03:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
-   },
-   {
-    "title": "Qatar denies it is detaining three Iranian bomber pilots",
-    "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
-    "published_at": "2026-08-15T20:55:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
    }
   ]
  },
@@ -2630,6 +2590,28 @@
   ]
  },
  {
+  "id": "5b74b20b428e",
+  "headline": "This Newly Approved Narcolepsy Drug Is the First to Target the Sleep Disorder's Root Cause Rather Than Its Symptoms",
+  "section": "culture",
+  "score": 42,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T19:18:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "This Newly Approved Narcolepsy Drug Is the First to Target the Sleep Disorder's Root Cause Rather Than Its Symptoms",
+    "url": "https://www.smithsonianmag.com/smart-news/this-newly-approved-narcolepsy-drug-is-the-first-to-target-the-sleep-disorders-root-cause-rather-than-its-symptoms-180989362/",
+    "source": "Smithsonian Mag",
+    "summary": "The Food and Drug Administration just greenlit a medication called Orzeyful for the treatment of narcolepsy type 1 in adults. The condition is caused by the loss of brain cells that produce orexin, a chemical important for regulating the sleep-wake cycle",
+    "published_at": "2026-08-18T19:18:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   }
+  ]
+ },
+ {
   "id": "f1fbae21c7d1",
   "headline": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
   "section": "sport",
@@ -2874,6 +2856,28 @@
     "published_at": "2026-08-18T15:24:39+00:00",
     "source_countries": [],
     "seen_at": "2026-08-18T18:27:04+00:00"
+   }
+  ]
+ },
+ {
+  "id": "83f7c37409bb",
+  "headline": "Do Monkeys Keep Pets? Study Finds Widespread Primate Interactions With Other Animal Species, From Mice to Deer",
+  "section": "science",
+  "score": 41,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T20:22:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Do Monkeys Keep Pets? Study Finds Widespread Primate Interactions With Other Animal Species, From Mice to Deer",
+    "url": "https://www.smithsonianmag.com/smart-news/do-monkeys-keep-pets-study-finds-widespread-primate-interactions-with-other-animal-species-from-mice-to-deer-180989356/",
+    "source": "Smithsonian Mag",
+    "summary": "This social behavior might reveal the evolutionary roots of traits that underlie pet-keeping in humans, scientists say, from caregiving to tolerance and curiosity. But it's not the same as a person keeping a cat or a dog",
+    "published_at": "2026-08-18T20:22:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
@@ -3661,64 +3665,33 @@
   ]
  },
  {
-  "id": "803a25ffb81d",
-  "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-  "section": "world",
-  "score": 39,
+  "id": "9dffd5e77e26",
+  "headline": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+  "section": "tech",
+  "score": 40,
   "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T20:28:30+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-    "published_at": "2026-08-15T20:28:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
-   },
-   {
-    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-    "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-    "published_at": "2026-08-15T20:28:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
-   }
-  ]
- },
- {
-  "id": "0e4015d571e6",
-  "headline": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
-  "section": "world",
-  "score": 39,
-  "sources_count": 1,
   "depth_signal": 2,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T20:07:07+00:00",
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T19:48:26+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
-    "published_at": "2026-08-15T20:07:07+00:00",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "source": "The Verge",
+    "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the […]",
+    "published_at": "2026-08-18T19:48:26+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
    },
    {
-    "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-    "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
-    "published_at": "2026-08-15T19:46:20+00:00",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "source": "The Verge AI",
+    "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the […]",
+    "published_at": "2026-08-18T19:48:26+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
@@ -4015,24 +3988,33 @@
   ]
  },
  {
-  "id": "ddde6961d499",
-  "headline": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
-  "section": "sport",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T19:00:04+00:00",
+  "id": "5c0ac9fb35f9",
+  "headline": "Judge swapped in Trump's defamation case against BBC",
+  "section": "world",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T19:52:32+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
-    "url": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact",
-    "source": "Guardian Sport",
-    "summary": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018 The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical",
-    "published_at": "2026-08-15T19:00:04+00:00",
+    "title": "Judge swapped in Trump's defamation case against BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+    "published_at": "2026-08-18T19:52:32+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   },
+   {
+    "title": "Judge swapped in Trump's defamation case against BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+    "published_at": "2026-08-18T19:52:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
@@ -5116,46 +5098,55 @@
   ]
  },
  {
-  "id": "1e7368142814",
-  "headline": "Britain's quarter century: Experts in sex, mental health, nutrition and addiction assess nation's changing well-being",
-  "section": "health",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T21:00:01+00:00",
+  "id": "75a9a8c6b579",
+  "headline": "Why Japanese firms are being so slow to use AI",
+  "section": "business",
+  "score": 37,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-12T23:00:47+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Britain's quarter century: Experts in sex, mental health, nutrition and addiction assess nation's changing well-being",
-    "url": "https://medicalxpress.com/news/2026-08-britain-quarter-century-experts-sex.html",
-    "source": "Medical Xpress",
-    "summary": "A good way to follow the health of a nation is to glance at what is known as period life expectancy. This calculates how long a person born today would live if the current death rates remained exactly the same for the rest of their life. This had two major turning points in the UK over the period: a marked slowdown in improvements from around 2011 and a sharp, historically unprecedented fall in 20",
-    "published_at": "2026-08-15T21:00:01+00:00",
+    "title": "Why Japanese firms are being so slow to use AI",
+    "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
+    "published_at": "2026-08-12T23:00:47+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   },
+   {
+    "title": "Why Japanese firms are being so slow to use AI",
+    "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
+    "published_at": "2026-08-12T23:00:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
  {
-  "id": "22cfcb63d6d8",
-  "headline": "Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
-  "section": "sport",
-  "score": 36,
+  "id": "5f44f59015aa",
+  "headline": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+  "section": "science",
+  "score": 37,
   "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T19:18:10+00:00",
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T14:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
-    "url": "https://www.theguardian.com/football/2026/aug/15/newcastle-matthias-jaissle-bayer-leverkusen-defeat-amar-dedic",
-    "source": "Guardian Sport",
-    "summary": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar Dedic Reasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat by Bayer Leverkusen. The",
-    "published_at": "2026-08-15T19:18:10+00:00",
+    "title": "NASA Glenn’s Legacy Forged Through Decades of Flight Research",
+    "url": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
+    "source": "NASA",
+    "summary": "Many of NASA’s most important aerospace breakthroughs that began in the laboratory were ultimately proven in the sky. For decades, experts at NASA’s Glenn Research Center in Cleveland conducted flight tests — piloting aircraft into targeted environments such as icing clouds and carefully defined atmospheric routes. This approach allowed them to collect measurements directly in flight, providing cr",
+    "published_at": "2026-08-18T14:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
@@ -5950,24 +5941,86 @@
   ]
  },
  {
-  "id": "7039a21130e9",
-  "headline": "Twenty-two more bodies recovered after Zimbabwe boat accident",
-  "section": "world",
-  "score": 35,
+  "id": "d49508984e01",
+  "headline": "CitroTech to Ring NYSE Closing Bell August 19, Elevating Its Fire Prevention Technology to the National Stage",
+  "section": "business",
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T19:39:07+00:00",
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T21:01:22+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
-    "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-    "source": "The Guardian World",
-    "summary": "Death toll now stands at 68, with 18 children among the killed after ferry capsized on Lake Kariba Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday. The ferry capsized on Tuesday on Lake Kariba , on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Contin",
-    "published_at": "2026-08-15T19:39:07+00:00",
+    "title": "CitroTech to Ring NYSE Closing Bell August 19, Elevating Its Fire Prevention Technology to the National Stage",
+    "url": "https://www.investing.com/news/press-releases/citrotech-to-ring-nyse-closing-bell-august-19-elevating-its-fire-prevention-technology-to-the-national-stage-4866127",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-08-18T21:01:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "34d85fbbba0b",
+  "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+  "section": "tech",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T19:28:30+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "source": "The Verge",
+    "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the […]",
+    "published_at": "2026-08-18T19:28:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   },
+   {
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "source": "The Verge AI",
+    "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the […]",
+    "published_at": "2026-08-18T19:28:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9b655fd72814",
+  "headline": "ZZ Top drummer Frank Beard dies aged 77",
+  "section": "culture",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T20:56:21+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "ZZ Top drummer Frank Beard dies aged 77",
+    "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+    "published_at": "2026-08-18T20:56:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   },
+   {
+    "title": "ZZ Top drummer Frank Beard dies aged 77",
+    "url": "https://www.theguardian.com/music/2026/aug/18/frank-beard-dies-zz-top",
+    "source": "Guardian Culture",
+    "summary": "Tributes paid to ‘great friend and collaborator’ who played with band for 56 years and died in hospice care in Texas The ZZ Top drummer Frank Beard has died at the age of 77. A spokesperson for the band confirmed that Beard died on 17 August in hospice care at his ranch in Richmond, Texas. His family were by his side. Continue reading...",
+    "published_at": "2026-08-18T20:20:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
@@ -6558,24 +6611,46 @@
   ]
  },
  {
-  "id": "711092954015",
-  "headline": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
-  "section": "world",
-  "score": 34,
+  "id": "c11f0c99ad93",
+  "headline": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+  "section": "science",
+  "score": 35,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T20:00:06+00:00",
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T18:49:50+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show Get our breaking news email , free app or daily news podcast One Nation senator Tyron Whitten has claimed parents supporting their children who identify as transgender are engaging in “child abuse”, telling a fringe YouTube show: “there’s male, there’s female, and then there’s mental illness”. Guard",
-    "published_at": "2026-08-15T20:00:06+00:00",
+    "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
+    "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details/",
+    "source": "NASA",
+    "summary": "Between Aug. 11 and 12, NASA’s Lunar Reconnaissance Orbiter (LRO) captured a series of images of a new crater on the Moon. The crater formed on Aug. 5, when a SpaceX Falcon 9 upper stage impacted the surface following its January 2025 launch of the Firefly Blue Ghost 1 mission. To capture imagery of the […]",
+    "published_at": "2026-08-18T18:49:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
+    "seen_at": "2026-08-18T21:25:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f6406b27b4c0",
+  "headline": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+  "section": "science",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-18T21:25:38+00:00",
+  "event_time": "2026-08-18T18:03:44+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+    "url": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+    "source": "NASA",
+    "summary": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or sooner. Infrastructure is the foundation of the nation’s strong economy, global competitiveness, and daily quality of life. When that infrastructure is […]",
+    "published_at": "2026-08-18T18:03:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-18T21:25:35+00:00"
    }
   ]
  },
@@ -8384,81 +8459,6 @@
     "published_at": "2026-08-18T18:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-08-18T18:27:04+00:00"
-   }
-  ]
- },
- {
-  "id": "13288893237f",
-  "headline": "Tesla ‘Robotaxi’ rams through bollards weeks after ‘impeccable’ claim",
-  "section": "motoring",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-18T18:27:07+00:00",
-  "event_time": "2026-08-18T17:04:56+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Tesla ‘Robotaxi’ rams through bollards weeks after ‘impeccable’ claim",
-    "url": "https://electrek.co/2026/08/18/tesla-robotaxi-rams-through-bollards-austin/",
-    "source": "Electrek",
-    "summary": "A Tesla “Robotaxi” running with no safety monitor onboard drove straight through a row of bollards protecting a closed-off lane in Austin, then kept driving. The video surfaced Monday, less than a month after Tesla’s head of AI told investors the Robotaxi program has an “impeccable safety record” with “zero notable incidents.” While no one was hurt or in danger in this incident, it is worrying to ",
-    "published_at": "2026-08-18T17:04:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-18T18:27:04+00:00"
-   },
-   {
-    "title": "Tesla grows Robotaxi fleet by 50%, Einride gets a partner, and China goes BIG",
-    "url": "https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/",
-    "source": "Electrek",
-    "summary": "On this second consecutive self-steering episode of Quick Charge , we take a look at how Tesla increased its national self-driving Robotaxi fleet by half with the stroke of a pen, and see how the company’s autonomous deployments compare to the rest of the world’s.",
-    "published_at": "2026-08-18T02:06:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-18T18:27:04+00:00"
-   }
-  ]
- },
- {
-  "id": "592fb90c07c4",
-  "headline": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-12T07:30:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-    "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
-    "published_at": "2026-08-12T07:30:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
-   }
-  ]
- },
- {
-  "id": "85c97221b011",
-  "headline": "'Fury' at Tarling death as cycling union calls for better helmets",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-15T21:24:48+00:00",
-  "event_time": "2026-08-15T19:05:32+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'Fury' at Tarling death as cycling union calls for better helmets",
-    "url": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.",
-    "published_at": "2026-08-15T19:05:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-15T21:24:45+00:00"
    }
   ]
  }
