@@ -21,13 +21,20 @@ navrhoval. Uložit adresu je snadné. Doručit e-mail není.
 
 ---
 
-## Krok 1 — tabulky v Neonu (5 minut)
+## Krok 1 — tabulky v Neonu — HOTOVO
 
-**Rychlejší cesta:** připoj v Claude oficiální konektor **Neon**
-(nastavení konektorů). Pak tenhle krok nedělej — Claude tabulky založí
-sám a ty do konzole vůbec nemusíš.
+Tabulky už v projektu **QMA** stojí, ve vlastním schématu `mypaper`
+vedle tabulek QMA. Založil je Claude 18. 8. 2026 přes konektor Neon.
+Znovu to dělat nemusíš.
 
-Ručně to jde takhle:
+Zkontrolovat si to můžeš takhle — má vrátit prázdný seznam, ne chybu:
+
+```sql
+select * from mypaper.subscribers limit 5;
+```
+
+Kdyby bylo někdy potřeba je založit znovu (jiný projekt, čistý začátek),
+skript `infra/neon-schema.sql` se smí pustit vícekrát a nic nerozbije:
 
 1. Otevři [console.neon.tech](https://console.neon.tech) a vyber projekt,
    který už máš od QMA. Nový zakládat nemusíš — My Paper si sedne vedle
@@ -60,58 +67,59 @@ Obojí si někam odlož, hned je použiješ. **Neposílej mi je do chatu** —
 zadáš je sám v dalším kroku, uloží se zašifrovaně na Cloudflare a už
 je nikdo neuvidí.
 
-## Krok 3 — program na Cloudflare (5 minut)
+## Krok 3 — program na Cloudflare (10 minut, jen klikání)
 
-Otevři si na počítači příkazovou řádku a piš postupně:
+Program schválně nepoužívá žádnou knihovnu, takže se **nic neinstaluje
+a nepotřebuješ příkazovou řádku**. Celý se vloží do editoru na webu.
+
+1. Otevři [dash.cloudflare.com](https://dash.cloudflare.com) →
+   **Compute** → **Workers & Pages** → **Create** → **Start with Hello World**
+   → **Deploy**. Pojmenuj ho `mypaper-subscribe`.
+2. Klikni na **Edit code**. Smaž, co tam je, a vlož celý obsah souboru
+   `infra/subscribe/src/index.js`. Dej **Deploy**.
+3. Zpátky v přehledu Workeru: **Settings** → **Variables and Secrets**.
+
+   Nejdřív tři obyčejné proměnné (typ *Text*):
+
+   | Jméno | Hodnota |
+   |---|---|
+   | `ALLOWED_ORIGINS` | `https://mypaper.news` |
+   | `SITE_URL` | `https://mypaper.news` |
+   | `PROVIDER` | `beehiiv` |
+
+   Pak čtyři tajné (typ **Secret** — po uložení je neuvidí ani Cloudflare):
+
+   | Jméno | Co tam patří |
+   |---|---|
+   | `DATABASE_URL` | připojovací řetězec z Neonu, **Pooled connection** |
+   | `PROVIDER_KEY` | API key z beehiiv |
+   | `BEEHIIV_PUBLICATION_ID` | to `pub_…` z beehiiv |
+   | `IP_SALT` | dlouhá náhodná změť znaků |
+
+   Sůl si vyrobíš třeba tímhle v konzoli prohlížeče (F12):
+
+   ```js
+   crypto.randomUUID() + crypto.randomUUID()
+   ```
+
+4. Nahoře je adresa Workeru, něco jako
+   `https://mypaper-subscribe.tvuj-ucet.workers.dev`. **Tu mi pošli** —
+   je veřejná, není to žádné tajemství.
+
+Jestli máš radši příkazovou řádku, jde to pořád i postaru:
+`npm install && npx wrangler login && npx wrangler deploy`, pak
+`npx wrangler secret put DATABASE_URL` a tak dál. Výsledek je stejný.
+
+### Zkouška, jestli program dělá, co má
+
+Nic se neinstaluje a databáze se nevolá:
 
 ```bash
-cd D:\projekty\global-news\infra\subscribe
-npm install
-npx wrangler login
+node infra/subscribe/test/subscribe.test.mjs
 ```
 
-(Poslední příkaz otevře prohlížeč a zeptá se, jestli to povoluješ.)
-
-Teď zadáš ty tajné údaje. U každého příkazu se tě řádka zeptá na hodnotu
-a ta se **nikde nezobrazí**:
-
-```bash
-npx wrangler secret put DATABASE_URL
-```
-→ vlož připojovací řetězec z Neonu (v konzoli **Connect** → *Connection string*,
-zvol variantu **Pooled connection**)
-
-```bash
-npx wrangler secret put PROVIDER_KEY
-```
-→ vlož API key z beehiiv
-
-```bash
-npx wrangler secret put BEEHIIV_PUBLICATION_ID
-```
-→ vlož to `pub_…`
-
-```bash
-npx wrangler secret put IP_SALT
-```
-→ vlož dlouhou náhodnou změť znaků. Vyrob si ji tímhle a výsledek vlož:
-
-```bash
-node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
-```
-
-Slouží k tomu, aby se z uložených otisků IP adres nedala zpětně
-poskládat čitelná IP.
-
-A nakonec:
-
-```bash
-npx wrangler deploy
-```
-
-Vypíše to adresu, něco jako
-`https://mypaper-subscribe.tvuj-ucet.workers.dev`. **Tu adresu mi pošli** —
-je veřejná, není to žádné tajemství, a já ji zapíšu do webu.
+Deset zkoušek — mimo jiné že se parametry nelepí do textu dotazu, že
+se ukládá jen otisk IP adresy a že past na roboty tiše zabere.
 
 ## Krok 4 — já dopíšu zbytek
 

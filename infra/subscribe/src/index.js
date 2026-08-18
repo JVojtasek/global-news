@@ -17,9 +17,41 @@
    a program to řekne. Nic se neztratí.
 
    Nasazení: infra/README.md
+
+   Program schválně nepoužívá jedinou cizí knihovnu. Neon má SQL i přes
+   obyčejné HTTP, takže se sem vejde celý na pár řádků — a hlavně: soubor
+   se dá vložit rovnou do editoru na webu Cloudflare. Odpadá tím
+   instalace, příkazová řádka i nástroj wrangler. Pro člověka, který
+   není programátor, je to rozdíl mezi „hotovo za pět minut" a „hotovo
+   možná".
    ===================================================================== */
 
-import { neon } from "@neondatabase/serverless";
+/* Dotaz do Neonu přes HTTP. Přesně tohle dělá i oficiální knihovna
+   @neondatabase/serverless — jen kolem toho má ještě tisíce řádků,
+   které tady k ničemu nejsou.
+
+   Parametry se posílají zvlášť ($1, $2 …), nikdy se nelepí do textu
+   dotazu. Kdyby se lepily, stačilo by, aby někdo do políčka na e-mail
+   napsal kus SQL, a mohl by si s databází dělat, co chce. */
+async function sql(env, query, params = []) {
+  const conn = env.DATABASE_URL;
+  if (!conn) throw new Error("DATABASE_URL není nastavené");
+  const host = new URL(conn).hostname;
+  const res = await fetch(`https://${host}/sql`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Neon-Connection-String": conn,
+    },
+    body: JSON.stringify({ query, params }),
+  });
+  if (!res.ok) {
+    const detail = await res.text().catch(() => "");
+    throw new Error(`Neon ${res.status}: ${detail.slice(0, 200)}`);
+  }
+  const body = await res.json();
+  return body.rows || [];
+}
 
 /* Nikam neposíláme čitelnou IP adresu. K doložení souhlasu stačí otisk;
    zpětně z něj nikoho nedohledáš, ale prokážeš, že souhlas vznikl. */
@@ -105,10 +137,15 @@ export default {
     if (url.pathname === "/unsubscribe") {
       const token = url.searchParams.get("t");
       if (!token) return new Response("Chybí klíč.", { status: 400, headers: head });
-      const sql = neon(env.DATABASE_URL);
-      await sql`update mypaper.subscribers
-                   set unsubscribed_at = now(), updated_at = now()
-                 where unsub_token = ${token}::uuid and unsubscribed_at is null`;
+      try {
+        await sql(env,
+          `update mypaper.subscribers
+              set unsubscribed_at = now(), updated_at = now()
+            where unsub_token = $1::uuid and unsubscribed_at is null`,
+          [token]);
+      } catch {
+        return new Response("Klíč nesedí.", { status: 400, headers: head });
+      }
       return new Response(
         "<!doctype html><meta charset=utf-8><title>Odhlášeno</title>" +
         "<body style='font:16px/1.6 Georgia,serif;max-width:34rem;margin:4rem auto;padding:0 1rem'>" +
@@ -140,22 +177,23 @@ export default {
     const consentText = String(fields.consent_text || "").slice(0, 500) || null;
     const ipHash = await hashIp(request.headers.get("CF-Connecting-IP"), env.IP_SALT);
 
-    const sql = neon(env.DATABASE_URL);
     let unsubToken = null;
     try {
-      const rows = await sql`
-        insert into mypaper.subscribers (email, lang, cadence, source, consent_ip, consent_text)
-        values (${email}, ${lang}, ${cadence}, ${source}, ${ipHash}, ${consentText})
-        on conflict (email_lower) do update
-           set unsubscribed_at = null,
-               lang            = excluded.lang,
-               -- Rytmus se přepíše: kdo se přihlásí podruhé, právě teď
-               -- řekl, co chce. Zdroj se naopak nechává ten první —
-               -- zajímá nás stránka, která ho získala.
-               cadence         = excluded.cadence,
-               source          = coalesce(mypaper.subscribers.source, excluded.source),
-               updated_at      = now()
-        returning unsub_token`;
+      const rows = await sql(env,
+        `insert into mypaper.subscribers
+              (email, lang, cadence, source, consent_ip, consent_text)
+         values ($1, $2, $3, $4, $5, $6)
+         on conflict (email_lower) do update
+            set unsubscribed_at = null,
+                lang            = excluded.lang,
+                -- Rytmus se přepíše: kdo se přihlásí podruhé, právě teď
+                -- řekl, co chce. Zdroj se naopak nechává ten první —
+                -- zajímá nás stránka, která ho získala.
+                cadence         = excluded.cadence,
+                source          = coalesce(mypaper.subscribers.source, excluded.source),
+                updated_at      = now()
+         returning unsub_token`,
+        [email, lang, cadence, source, ipHash, consentText]);
       unsubToken = rows?.[0]?.unsub_token || null;
     } catch (err) {
       return json({ ok: false, error: "db" }, head, request, env, 500);
@@ -164,11 +202,11 @@ export default {
     const fwd = await forwardToProvider(env, email, lang, cadence);
     if (fwd.ok) {
       try {
-        await sql`update mypaper.subscribers
-                     set provider = ${(env.PROVIDER || "").toLowerCase()},
-                         provider_id = ${fwd.id},
-                         updated_at = now()
-                   where email_lower = ${email}`;
+        await sql(env,
+          `update mypaper.subscribers
+              set provider = $1, provider_id = $2, updated_at = now()
+            where email_lower = $3`,
+          [(env.PROVIDER || "").toLowerCase(), fwd.id, email]);
       } catch { /* uloženo je, zbytek je kosmetika */ }
     }
 

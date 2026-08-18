@@ -5,7 +5,9 @@
 name = "mypaper-subscribe"
 main = "src/index.js"
 compatibility_date = "2026-08-01"
-compatibility_flags = ["nodejs_compat"]
+# Program nepoužívá žádnou knihovnu ani nic z Node.js, takže tu žádné
+# příznaky nejsou potřeba. Díky tomu se dá vložit i rovnou do editoru
+# na webu Cloudflare — viz infra/README.md.
 
 [vars]
 ALLOWED_ORIGINS = "https://mypaper.news"
