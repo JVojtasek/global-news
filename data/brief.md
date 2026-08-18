@@ -82,7 +82,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
   - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Transaction authentication number — <https://en.wikipedia.org/wiki/Transaction_authentication_number>
+  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
 
 ---
 
@@ -103,13 +103,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 32  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 33  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 32
-  2026-08-13  (3 zdrojů, síla 57)  ‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran
+rubrika: world · sledováno od 2026-08-09 · záznamů: 33
   2026-08-15  (4 zdrojů, síla 69)  Donald Trump to declare Hormuz US territory 'soon'
   2026-08-15  (2 zdrojů, síla 41)  Donald Trump says he faced ‘greater risk’ on swapped plane
   2026-08-15  (2 zdrojů, síla 45)  Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
@@ -129,6 +128,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 32
   2026-08-18  (2 zdrojů, síla 40)  South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
   2026-08-18  (2 zdrojů, síla 40)  Why has Trump threatened to bomb Oman – for a second time?
   2026-08-18  (1 zdrojů, síla 42)  Iran clubs face Qatar and UAE sides at neutral venues in Champions League
+  2026-08-18  (2 zdrojů, síla 41)  The United States is about to wake up to the threat from China's space program
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

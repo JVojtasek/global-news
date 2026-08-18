@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-18
 
-Paměť obsahuje **32 vláken**. Aktivních za posledních 14 dní: **18**.
+Paměť obsahuje **33 vláken**. Aktivních za posledních 14 dní: **18**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 9 dní · 32 záznamů
+- rubrika `world` · sledováno 9 dní · 33 záznamů
 - časová osa:
-  - **2026-08-17** (3 zdrojů) Trump orders Pentagon to scale back joint exercises with South Korea
   - **2026-08-17** (2 zdrojů) Trump orders US to scale back South Korea military drills
   - **2026-08-17** (2 zdrojů) Troops from North Korea to boost Russia's Ukraine forces
   - **2026-08-17** (2 zdrojů) Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
@@ -19,6 +18,7 @@ Paměť obsahuje **32 vláken**. Aktivních za posledních 14 dní: **18**.
   - **2026-08-18** (2 zdrojů) South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
   - **2026-08-18** (2 zdrojů) Why has Trump threatened to bomb Oman – for a second time?
   - **2026-08-18** (1 zdrojů) Iran clubs face Qatar and UAE sides at neutral venues in Champions League
+  - **2026-08-18** (2 zdrojů) The United States is about to wake up to the threat from China's space program
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 7 dní · 13 záznamů
