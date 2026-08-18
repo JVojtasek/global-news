@@ -932,6 +932,10 @@ function vSubs(){
         <div><label>Heslo do adminu (ADMIN_TOKEN)</label>
           <input id="sub-tok" type="password" autocomplete="off" placeholder="to, co jsi zadal na Cloudflare"></div>
       </div>
+      <div id="sub-gen"></div>
+      <div style="margin-top:.6rem">
+        <button class="act ghost" onclick="subMakeToken()">Ještě žádné heslo nemám — vyrob mi ho</button>
+      </div>
       <p class="muted" style="margin:.7rem 0 0">Obojí zůstane jen v tomhle prohlížeči, v položce
         <b>${SUB_STORE}</b>. Do žádného souboru v repozitáři to nevkládej — je veřejný.</p>
       <div style="margin-top:.8rem">
@@ -943,6 +947,26 @@ function vSubs(){
   if (c.url && c.tok) { $("#sub-tok").value = c.tok; subLoad(); }
 }
 function subForget(){ localStorage.removeItem(SUB_STORE); toast("Zapomenuto."); vSubs(); }
+
+/* Heslo si člověk nemusí vymýšlet ani nikde hledat. Vyrobí se tady
+   v prohlížeči z náhodných čísel, dvakrát se ukáže a zkopíruje se na
+   dvě místa: sem a na Cloudflare. Nikam se neposílá. */
+function subMakeToken(){
+  const b = new Uint8Array(24);
+  crypto.getRandomValues(b);
+  const heslo = [...b].map(x=>x.toString(16).padStart(2,"0")).join("");
+  const el = $("#sub-tok"); if (el) el.value = heslo;
+  $("#sub-gen").innerHTML = `<div style="margin-top:.8rem;padding:.8rem 1rem;
+      border:1px solid var(--line);border-radius:9px;background:var(--bg)">
+    <b>Tvoje nové heslo</b>
+    <pre class="copy" style="margin:.5rem 0">${esc(heslo)}</pre>
+    <div class="muted">Zkopíruj ho a vlož na Cloudflare jako hodnotu
+      <b>ADMIN_TOKEN</b>. Sem už se vyplnilo samo. Zapamatovat si ho nemusíš —
+      kdykoli si můžeš vyrobit nové, jen ho pak musíš vyměnit i na Cloudflare.</div>
+    <div style="margin-top:.6rem"><button class="act ghost"
+      onclick="navigator.clipboard.writeText('${heslo}').then(()=>toast('Zkopírováno.'))">Zkopírovat</button></div>
+  </div>`;
+}
 
 async function subApi(path){
   const c = subCfgRead();
