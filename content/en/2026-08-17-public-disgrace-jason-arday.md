@@ -8,7 +8,7 @@ type: analysis
 depth: open
 lang: en
 date: '2026-08-17'
-status: review
+status: published
 confidence: 83
 load: 0
 topics: []
