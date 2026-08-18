@@ -151,7 +151,7 @@ sections:
   # a to hlavní z nich zní, že hrdinou textu je důkaz, ne pachatel.
   # primary: false, dokud v ní nebude aspoň pár článků — prázdná
   # rubrika v menu je horší než žádná.
-  - {id: mysteries, en: "Mysteries",      cs: "Záhady",        primary: false, calm: true}
+  - {id: mysteries, en: "Mysteries",      cs: "Záhady",        primary: true,  calm: true}
 
 # ---------------------------------------------------------------------
 # SOBOTNÍ VYDÁNÍ
