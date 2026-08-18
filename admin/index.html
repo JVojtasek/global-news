@@ -127,13 +127,35 @@ async function gh(path, opts={}){
   if (rem) $("#rate") && ($("#rate").textContent = "API "+rem);
   if (r.status === 401) { toast("Token neplatí nebo vypršel."); throw new Error("401"); }
   if (r.status === 403) { toast("Tokenu chybí oprávnění."); throw new Error("403"); }
+  if (r.status === 409) { const e = new Error("409"); e.konflikt = true; throw e; }
   if (!r.ok && r.status !== 404) { const t = await r.text(); throw new Error(r.status+" "+t.slice(0,180)); }
   return r.status === 404 ? null : (r.status === 204 ? {} : r.json());
 }
-async function getFile(path){
-  const j = await gh(`/repos/${S.repo}/contents/${path}?ref=main`);
+async function getFile(path, cerstve){
+  /* GitHub servíruje obsah souborů z vyrovnávací paměti a po zápisu
+     ještě pár vteřin vrací starou verzi. Když pak podle ní zapíšeš,
+     odmítne to. Při druhém pokusu si proto vynutíme čerstvá data. */
+  const q = cerstve ? `/repos/${S.repo}/contents/${path}?ref=main&_=${Date.now()}`
+                    : `/repos/${S.repo}/contents/${path}?ref=main`;
+  const j = await gh(q, cerstve ? { headers:{ "Cache-Control":"no-cache" } } : {});
   if (!j) return null;
   return { text: b64decode(j.content), sha: j.sha };
+}
+
+/* Načti, uprav, zapiš — a když mezitím soubor někdo změnil, zkus to
+   znovu s čerstvou verzí. Tři pokusy stačí; když ani pak ne, je to
+   opravdová srážka a má o ní člověk vědět. */
+async function putFresh(path, uprav, message){
+  for (let pokus = 0; pokus < 3; pokus++){
+    const f = await getFile(path, pokus > 0);
+    if (!f) throw new Error("Ten článek už v repozitáři není.");
+    try {
+      return await putFile(path, uprav(f.text), f.sha, message);
+    } catch(e){
+      if (!e.konflikt || pokus === 2) throw e;
+      await new Promise(r => setTimeout(r, 1200 * (pokus + 1)));
+    }
+  }
 }
 async function putFile(path, text, sha, message){
   return gh(`/repos/${S.repo}/contents/${path}`, { method:"PUT",
@@ -264,22 +286,32 @@ async function vReview(){
 
 async function approve(path, slug){
   try{
-    const f = await getFile(path);
-    const text = f.text.replace(/^status:\s*\w+/m, "status: published");
-    await putFile(path, text, f.sha, "admin: vydán článek "+slug);
+    await putFresh(path, t => t.replace(/^status:\s*\w+/m, "status: published"),
+                   "admin: vydán článek "+slug);
     toast("Vydáno. Web se přestaví do dvou minut.");
     await loadAll(); renderTabs(); render();
-  } catch(e){ toast("Nepovedlo se: "+e.message); }
+  } catch(e){ toast(lidskaChyba(e)); }
+}
+
+/* Ze syrové chyby udělá větu, které člověk rozumí a ví, co s ní. */
+function lidskaChyba(e){
+  if (e.konflikt) return "Někdo (nebo něco) ten soubor právě změnil. Načti stránku znovu a zkus to.";
+  const m = String(e.message || "");
+  if (m.startsWith("401")) return "Token neplatí nebo vypršel. Přihlas se znovu.";
+  if (m.startsWith("403")) return "Tokenu chybí oprávnění — potřebuje Contents: Read and write.";
+  if (m.startsWith("404")) return "Ten článek už v repozitáři není.";
+  return "Nepovedlo se: " + m.slice(0, 120);
 }
 async function reject(path, slug){
   if (!confirm("Opravdu zahodit? Článek se smaže z repozitáře.")) return;
   try{
-    const f = await gh(`/repos/${S.repo}/contents/${path}?ref=main`);
+    const f = await getFile(path, true);
+    if (!f) { toast("Ten článek už v repozitáři není."); await loadAll(); renderTabs(); render(); return; }
     await gh(`/repos/${S.repo}/contents/${path}`, { method:"DELETE",
       body: JSON.stringify({ message:"admin: zahozen článek "+slug, sha:f.sha, branch:"main" })});
     toast("Zahozeno.");
     await loadAll(); renderTabs(); render();
-  } catch(e){ toast("Nepovedlo se: "+e.message); }
+  } catch(e){ toast(lidskaChyba(e)); }
 }
 async function openEditor(path){
   const slug = path.split("/").pop().replace(/\.md$/,"").replace(/^\d{4}-\d{2}-\d{2}-/,"");
@@ -295,7 +327,8 @@ async function openEditor(path){
 }
 async function saveArticle(path, sha, slug){
   try{
-    await putFile(path, document.getElementById("t-"+slug).value, sha, "admin: úprava "+slug);
+    const novy = document.getElementById("t-"+slug).value;
+    await putFresh(path, () => novy, "admin: úprava "+slug);
     toast("Uloženo.");
     await loadAll(); renderTabs(); render();
   } catch(e){ toast("Nepovedlo se: "+e.message); }
