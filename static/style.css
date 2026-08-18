@@ -1680,5 +1680,12 @@ nav.sections a.nav-brief{color:var(--accent);font-weight:700;letter-spacing:.1em
 .k-bias-reveal{margin-top:.9rem;padding-top:.8rem;border-top:1px solid var(--line);font-size:.95rem}
 .k-bias-reveal p{margin:.4rem 0}
 .k-anchor-which{color:var(--accent)}
+/* Třída .act existuje jen v adminu, ne v novinách — tlačítka téhle
+   stránky si proto vzhled nesou samy. */
+.k-tool .act,.k-bias-number .act{display:inline-block;padding:.55rem 1.2rem;border:0;
+  border-radius:8px;background:var(--accent);color:#fff;font:inherit;font-size:.95rem;cursor:pointer}
+.k-tool .act:hover,.k-bias-number .act:hover{filter:brightness(1.08)}
+.k-tool .act:disabled,.k-bias-number .act:disabled{opacity:.5;cursor:default;filter:none}
+.k-span-start{display:block;margin:0 auto}
 .k-note{display:block;margin-top:2.4rem;padding-top:1rem;border-top:1px solid var(--line);
   color:var(--ink-soft);font-size:.86rem}
