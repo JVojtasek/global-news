@@ -487,23 +487,24 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "palestinians",
-    "global",
-    "gaza",
-    "israeli",
-    "former",
-    "palestine",
     "bank",
+    "palestine",
+    "palestinian",
+    "former",
+    "gaza",
+    "palestinians",
+    "israeli",
+    "global",
+    "multiple",
     "hind",
-    "israel",
+    "rajab",
+    "west",
+    "colombia",
+    "ben-gvir",
+    "american",
     "week",
     "netanyahu",
-    "colombia",
-    "west",
-    "american",
-    "ben-gvir",
-    "rajab",
-    "palestinian"
+    "israel"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -515,7 +516,8 @@
     "a6b6f34c8e21",
     "bdaf2e87b992",
     "f0db32b6db43",
-    "50063425df92"
+    "50063425df92",
+    "a0e824c0fefc"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-19",
@@ -633,6 +635,17 @@
       "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
       "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
       "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a0e824c0fefc",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
      ]
     }
    ]
@@ -842,6 +855,36 @@
       "https://www.scmp.com/business/china-business/article/3364508/hong-kong-gold-exchange-taps-tech-strength-joint-venture-power-gold-settlement?utm_source=rss_feed",
       "https://www.atlasobscura.com/places/dolphin-sunset",
       "https://www.investing.com/news/stock-market-news/why-is-china-unicom-hong-kong-stock-sliding-today-93CH-4866398"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "81515d5a1191",
+   "title": "Robinson and Tongue guide England to strong start against Pakistan",
+   "section": "sport",
+   "entities": [
+    "pakistan",
+    "robinson",
+    "tongue",
+    "england"
+   ],
+   "event_ids": [
+    "81515d5a1191"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
+     "sources": 2,
+     "score": 55,
+     "event_id": "81515d5a1191",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
      ]
     }
    ]
@@ -2265,5 +2308,5 @@
    ]
   }
  ],
- "updated": "2026-08-19T18:26:45+00:00"
+ "updated": "2026-08-19T21:25:21+00:00"
 }
