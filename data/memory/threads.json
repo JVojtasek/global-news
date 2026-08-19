@@ -5,39 +5,40 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "east",
-    "champions",
-    "china's",
-    "tennessee",
-    "jong",
-    "russia's",
-    "bluster",
-    "turkey",
-    "qatar",
-    "middle",
-    "strait",
-    "troops",
-    "tehran",
-    "ukraine",
-    "groundhog",
-    "taiwan",
-    "donald",
-    "league",
-    "trump",
-    "korea",
-    "iran",
-    "china",
-    "gulf",
-    "trump's",
-    "united",
-    "iranian",
-    "south",
-    "states",
     "hormuz",
     "justified",
-    "north",
+    "china",
+    "middle",
+    "qatar",
+    "south",
     "pentagon",
+    "north",
+    "china's",
+    "strait",
+    "trump's",
+    "gulf",
+    "iranian",
+    "jong",
+    "trump",
+    "iran",
+    "taiwan",
+    "troops",
+    "ukraine",
+    "groundhog",
+    "united",
     "lebanon",
+    "korea",
+    "turkey",
+    "tennessee",
+    "bluster",
+    "states",
+    "champions",
+    "tehran",
+    "donald",
+    "washington",
+    "east",
+    "russia's",
+    "league",
     "oman"
    ],
    "event_ids": [
@@ -74,7 +75,8 @@
     "6cffb2755854",
     "f0d5ecba517b",
     "172febb378d5",
-    "d68c149320ae"
+    "d68c149320ae",
+    "fe307da7bf3f"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-19",
@@ -465,6 +467,18 @@
       "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
       "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "South Korea shortens war games with US, citing Washington request",
+     "sources": 5,
+     "score": 80,
+     "event_id": "fe307da7bf3f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
+      "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf"
+     ]
     }
    ]
   },
@@ -515,11 +529,13 @@
    "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
    "section": "world",
    "entities": [
+    "canadian",
     "canada",
     "trump"
    ],
    "event_ids": [
-    "6854b3ddf9a5"
+    "6854b3ddf9a5",
+    "000d3ef7dbe1"
    ],
    "first_seen": "2026-08-19",
    "last_seen": "2026-08-19",
@@ -534,6 +550,17 @@
       "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "sources": 2,
+     "score": 40,
+     "event_id": "000d3ef7dbe1",
+     "links": [
+      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -2170,5 +2197,5 @@
    ]
   }
  ],
- "updated": "2026-08-19T03:31:50+00:00"
+ "updated": "2026-08-19T06:27:13+00:00"
 }

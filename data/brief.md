@@ -2,14 +2,34 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **2**
+- Článků v zásobě: **1**
 - Jazyk, ve kterém se píše: **en**
 
 ---
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Trump pauses new tariffs on Canada and says countries close to a deal
+### 1. South Korea shortens war games with US, citing Washington request
+- id události: `fe307da7bf3f`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — South Korea shortens war games with US, citing Washington request
+    <https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss>
+    > It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a "very good" relationship with North Korea's Kim Jong Un.
+  - **The Guardian World** — In cutting joint drills, Trump has given South Korea’s president what he wants. So why does Seoul look so uneasy?
+    <https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security>
+    > President Lee Jae Myung has long pushed for stronger homegrown defences, yet Donald Trump’s move has sparked alarm in some quarters At their first summit , in August last year, South Korean president Lee Jae Myung told Donald Trump: “If you, Mr President, become the peacemaker, t
+  - **DW News** — US, South Korea cut short joint drills after Trump criticism
+    <https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf>
+    > Allies US and South Korea are currently holding joint military exercises. The drills will, however, wrap up earlier than planned after Trump ordered cuts.
+  - **Al Jazeera** — South Korea, US scale back annual military drills after Trump’s order
+    <https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss>
+    > Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.
+  - **France 24** — Trump scales back joint military drills between South Korea and US
+    <https://www.france24.com/en/asia-pacific/20260819-trump-scales-back-joint-military-drills-between-south-korea-and-us>
+    > South Korea and the US will cut the duration of their annual joint military drills to five days from 11 and scale back some field training, ​the allies said on Wednesday, ‌after President Donald Trump ordered a substantial reduction in US participation. Trump's move could reflect
+
+### 2. Trump pauses new tariffs on Canada and says countries close to a deal
 - id události: `6854b3ddf9a5`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -28,7 +48,7 @@
   - **Investing.com** — Trump pauses 50% tariffs on Canada, claims trade deal is close
     <https://www.investing.com/news/economy-news/trump-pauses-50-tariffs-on-canada-claims-trade-deal-is-close-4866391>
 
-### 2. Premier League to publish verdicts on referee and VAR decisions
+### 3. Premier League to publish verdicts on referee and VAR decisions
 - id události: `e8a425cbff50`  ·  rubrika: `sport`  ·  skóre: 64  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -45,7 +65,7 @@
     <https://www.theguardian.com/football/picture/2026/aug/18/david-squires-new-managers-causing-stir-premier-league-return>
     > Our cartoonist on the nine fresh faces in club dugouts and their potential impact as they begin work Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...
 
-### 3. OpenAI makes ChatGPT less 'human' for teens in new safety update
+### 4. OpenAI makes ChatGPT less 'human' for teens in new safety update
 - id události: `762a25ddd63d`  ·  rubrika: `tech`  ·  skóre: 64  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -61,23 +81,6 @@
   - **Investing.com** — OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls
     <https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012>
 
-### 4. Vieira named new Senegal head coach
-- id události: `4ff3970f10ae`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Vieira named new Senegal head coach
-    <https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss>
-    > Former Arsenal and France captain Patrick Vieira is appointed as the new head coach of the Senegal men's national team.
-  - **Guardian Sport** — Patrick Vieira appointed as head coach of Senegal, the country of his birth
-    <https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach>
-    > Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Patrick Vieira has been appointed as the head coach of Senegal. The Senegal-born former Arsenal captain has been out of work since leaving his post as manager of the Serie A side Genoa l
-  - **Al Jazeera** — Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming
-    <https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss>
-    > Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.
-  - **France 24** — France's Vieira appointed head coach of Senegal national football team
-    <https://www.france24.com/en/sport/20260818-france-vieira-appointed-head-coach-senegal-national-football-team>
-    > Former France midfielder Patrick Vieira has been appointed Senegal coach, succeeding Pape Thiaw following the team's World Cup elimination. Born in Dakar, the 50-year-old takes charge of a national team for the first time after coaching in England, France and Italy. Vieira will b
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -87,7 +90,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
   - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
 
 ---
 
@@ -108,13 +111,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 34  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 35  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 34
-  2026-08-15  (2 zdrojů, síla 41)  Donald Trump says he faced ‘greater risk’ on swapped plane
+rubrika: world · sledováno od 2026-08-09 · záznamů: 35
   2026-08-15  (2 zdrojů, síla 45)  Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control
   2026-08-15  (2 zdrojů, síla 45)  Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
   2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’
@@ -134,6 +136,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 34
   2026-08-18  (1 zdrojů, síla 42)  Iran clubs face Qatar and UAE sides at neutral venues in Champions League
   2026-08-18  (2 zdrojů, síla 41)  The United States is about to wake up to the threat from China's space program
   2026-08-19  (2 zdrojů, síla 47)  Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
+  2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
