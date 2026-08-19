@@ -487,22 +487,23 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "west",
-    "american",
-    "hind",
-    "colombia",
-    "bank",
-    "netanyahu",
-    "israeli",
-    "palestinian",
-    "gaza",
     "palestinians",
     "global",
-    "ben-gvir",
-    "week",
+    "gaza",
+    "israeli",
+    "former",
     "palestine",
+    "bank",
+    "hind",
+    "israel",
+    "week",
+    "netanyahu",
+    "colombia",
+    "west",
+    "american",
+    "ben-gvir",
     "rajab",
-    "former"
+    "palestinian"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -513,7 +514,8 @@
     "dd3e8e775a11",
     "a6b6f34c8e21",
     "bdaf2e87b992",
-    "f0db32b6db43"
+    "f0db32b6db43",
+    "50063425df92"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-19",
@@ -620,6 +622,71 @@
       "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
      ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+     "sources": 3,
+     "score": 61,
+     "event_id": "50063425df92",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
+      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6854b3ddf9a5",
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "section": "world",
+   "entities": [
+    "canada",
+    "canadian",
+    "trump"
+   ],
+   "event_ids": [
+    "6854b3ddf9a5",
+    "000d3ef7dbe1",
+    "fa3d91cb7277"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "sources": 5,
+     "score": 73,
+     "event_id": "6854b3ddf9a5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "sources": 2,
+     "score": 40,
+     "event_id": "000d3ef7dbe1",
+     "links": [
+      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+     "sources": 2,
+     "score": 41,
+     "event_id": "fa3d91cb7277",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
+     ]
     }
    ]
   },
@@ -666,42 +733,85 @@
    ]
   },
   {
-   "id": "6854b3ddf9a5",
-   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "id": "48a7d81e65e9",
+   "title": "Kennedy Center board approves Trump name on facade, renovation plan",
    "section": "world",
    "entities": [
-    "canadian",
-    "canada",
-    "trump"
+    "sept",
+    "center",
+    "trump",
+    "trump's",
+    "kennedy"
    ],
    "event_ids": [
-    "6854b3ddf9a5",
-    "000d3ef7dbe1"
+    "48a7d81e65e9",
+    "29028ab379ac"
    ],
-   "first_seen": "2026-08-19",
+   "first_seen": "2026-08-13",
    "last_seen": "2026-08-19",
    "timeline": [
     {
-     "date": "2026-08-19",
-     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-     "sources": 5,
-     "score": 73,
-     "event_id": "6854b3ddf9a5",
+     "date": "2026-08-13",
+     "headline": "Kennedy Center board approves Trump name on facade, renovation plan",
+     "sources": 4,
+     "score": 69,
+     "event_id": "48a7d81e65e9",
      "links": [
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+      "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+      "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html"
      ]
     },
     {
      "date": "2026-08-19",
-     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "headline": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
      "sources": 2,
-     "score": 40,
-     "event_id": "000d3ef7dbe1",
+     "score": 44,
+     "event_id": "29028ab379ac",
      "links": [
-      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
+      "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+      "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "94761ad38bf7",
+   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+   "section": "tech",
+   "entities": [
+    "pixel",
+    "google"
+   ],
+   "event_ids": [
+    "94761ad38bf7",
+    "cf70bce2fbbe"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-19",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+     "sources": 5,
+     "score": 81,
+     "event_id": "94761ad38bf7",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Google Pixel 11 series review: Is the magic fading?",
+     "sources": 2,
+     "score": 43,
+     "event_id": "cf70bce2fbbe",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
      ]
     }
    ]
@@ -1722,63 +1832,6 @@
    ]
   },
   {
-   "id": "48a7d81e65e9",
-   "title": "Kennedy Center board approves Trump name on facade, renovation plan",
-   "section": "world",
-   "entities": [
-    "trump",
-    "center",
-    "kennedy"
-   ],
-   "event_ids": [
-    "48a7d81e65e9"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-13",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "Kennedy Center board approves Trump name on facade, renovation plan",
-     "sources": 4,
-     "score": 69,
-     "event_id": "48a7d81e65e9",
-     "links": [
-      "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-      "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "94761ad38bf7",
-   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-   "section": "tech",
-   "entities": [
-    "google",
-    "pixel"
-   ],
-   "event_ids": [
-    "94761ad38bf7"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-     "sources": 5,
-     "score": 81,
-     "event_id": "94761ad38bf7",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "cdb44fe21545",
    "title": "Syria sentences Bashar Assad to death in absentia",
    "section": "world",
@@ -2212,5 +2265,5 @@
    ]
   }
  ],
- "updated": "2026-08-19T15:26:27+00:00"
+ "updated": "2026-08-19T18:26:45+00:00"
 }
