@@ -5,39 +5,40 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "south",
     "east",
-    "pentagon",
-    "league",
-    "troops",
-    "qatar",
-    "china",
-    "hormuz",
-    "korea",
-    "jong",
+    "champions",
+    "china's",
     "tennessee",
+    "jong",
     "russia's",
+    "bluster",
+    "turkey",
+    "qatar",
+    "middle",
+    "strait",
+    "troops",
+    "tehran",
+    "ukraine",
     "groundhog",
     "taiwan",
-    "bluster",
+    "donald",
+    "league",
     "trump",
-    "middle",
-    "justified",
-    "states",
-    "turkey",
-    "north",
-    "gulf",
-    "lebanon",
-    "china's",
-    "champions",
+    "korea",
     "iran",
-    "strait",
-    "iranian",
-    "oman",
-    "united",
+    "china",
+    "gulf",
     "trump's",
-    "ukraine",
-    "donald"
+    "united",
+    "iranian",
+    "south",
+    "states",
+    "hormuz",
+    "justified",
+    "north",
+    "pentagon",
+    "lebanon",
+    "oman"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -72,10 +73,11 @@
     "d72eed2c40c7",
     "6cffb2755854",
     "f0d5ecba517b",
-    "172febb378d5"
+    "172febb378d5",
+    "d68c149320ae"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-18",
+   "last_seen": "2026-08-19",
    "timeline": [
     {
      "date": "2026-08-09",
@@ -450,6 +452,60 @@
      "links": [
       "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
       "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+     "sources": 2,
+     "score": 47,
+     "event_id": "d68c149320ae",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
+      "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "42d214b6358f",
+   "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+   "section": "business",
+   "entities": [
+    "facebook",
+    "meta",
+    "instagram"
+   ],
+   "event_ids": [
+    "42d214b6358f",
+    "20564c93e8ea"
+   ],
+   "first_seen": "2026-08-18",
+   "last_seen": "2026-08-19",
+   "timeline": [
+    {
+     "date": "2026-08-18",
+     "headline": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+     "sources": 3,
+     "score": 55,
+     "event_id": "42d214b6358f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "https://www.scmp.com/news/world/united-states-canada/article/3364482/meta-accused-targeting-children-boost-facebook-and-instagram-use-us-trial-begins?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Meta hooked children on Facebook and Instagram, court hears",
+     "sources": 3,
+     "score": 53,
+     "event_id": "20564c93e8ea",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -928,35 +984,6 @@
       "https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach",
       "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "42d214b6358f",
-   "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-   "section": "business",
-   "entities": [
-    "instagram",
-    "facebook",
-    "meta"
-   ],
-   "event_ids": [
-    "42d214b6358f"
-   ],
-   "first_seen": "2026-08-18",
-   "last_seen": "2026-08-18",
-   "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-     "sources": 3,
-     "score": 55,
-     "event_id": "42d214b6358f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "https://www.scmp.com/news/world/united-states-canada/article/3364482/meta-accused-targeting-children-boost-facebook-and-instagram-use-us-trial-begins?utm_source=rss_feed"
      ]
     }
    ]
@@ -2085,5 +2112,5 @@
    ]
   }
  ],
- "updated": "2026-08-18T21:25:38+00:00"
+ "updated": "2026-08-19T00:27:58+00:00"
 }
