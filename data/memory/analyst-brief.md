@@ -35,7 +35,7 @@ Paměť obsahuje **35 vláken**. Aktivních za posledních 14 dní: **20**.
   - **2026-08-18** (3 zdrojů) Ukraine appeals to FIA to overturn Russia inclusion
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 5 dní · 8 záznamů
+- rubrika `world` · sledováno 6 dní · 9 záznamů
 - časová osa:
   - **2026-08-13** (3 zdrojů) More troops to be sent to West Bank village besieged by Israeli settlers
   - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
@@ -45,6 +45,7 @@ Paměť obsahuje **35 vláken**. Aktivních za posledních 14 dní: **20**.
   - **2026-08-18** (1 zdrojů) Palestinian American returns to his West Bank home, under siege by Israeli settlers
   - **2026-08-18** (2 zdrojů) Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
   - **2026-08-18** (1 zdrojů) Palestine weekly: Global outcry fails to break West Bank siege
+  - **2026-08-19** (2 zdrojů) Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
