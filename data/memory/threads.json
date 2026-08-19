@@ -511,6 +511,64 @@
    ]
   },
   {
+   "id": "6854b3ddf9a5",
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "section": "world",
+   "entities": [
+    "canada",
+    "trump"
+   ],
+   "event_ids": [
+    "6854b3ddf9a5"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "sources": 5,
+     "score": 73,
+     "event_id": "6854b3ddf9a5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dd259ae0318e",
+   "title": "Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement",
+   "section": "travel",
+   "entities": [
+    "hong",
+    "exchange",
+    "kong",
+    "gold"
+   ],
+   "event_ids": [
+    "dd259ae0318e"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-19",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Hong Kong Gold Exchange taps tech strength in joint venture to power gold settlement",
+     "sources": 3,
+     "score": 55,
+     "event_id": "dd259ae0318e",
+     "links": [
+      "https://www.scmp.com/business/china-business/article/3364508/hong-kong-gold-exchange-taps-tech-strength-joint-venture-power-gold-settlement?utm_source=rss_feed",
+      "https://www.atlasobscura.com/places/dolphin-sunset",
+      "https://www.investing.com/news/stock-market-news/why-is-china-unicom-hong-kong-stock-sliding-today-93CH-4866398"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -2112,5 +2170,5 @@
    ]
   }
  ],
- "updated": "2026-08-19T00:27:58+00:00"
+ "updated": "2026-08-19T03:31:50+00:00"
 }

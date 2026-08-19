@@ -9,7 +9,26 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Premier League to publish verdicts on referee and VAR decisions
+### 1. Trump pauses new tariffs on Canada and says countries close to a deal
+- id události: `6854b3ddf9a5`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Trump pauses new tariffs on Canada and says countries close to a deal
+    <https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss>
+    > US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
+  - **BBC Business** — Trump pauses new tariffs on Canada and says countries close to a deal
+    <https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss>
+    > US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
+  - **The Guardian World** — Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project
+    <https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline>
+    > US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have aff
+  - **Al Jazeera** — US, Canada reach trade deal to avert steep tariffs, Trump says
+    <https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss>
+    > Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.
+  - **Investing.com** — Trump pauses 50% tariffs on Canada, claims trade deal is close
+    <https://www.investing.com/news/economy-news/trump-pauses-50-tariffs-on-canada-claims-trade-deal-is-close-4866391>
+
+### 2. Premier League to publish verdicts on referee and VAR decisions
 - id události: `e8a425cbff50`  ·  rubrika: `sport`  ·  skóre: 64  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -26,7 +45,7 @@
     <https://www.theguardian.com/football/picture/2026/aug/18/david-squires-new-managers-causing-stir-premier-league-return>
     > Our cartoonist on the nine fresh faces in club dugouts and their potential impact as they begin work Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...
 
-### 2. OpenAI makes ChatGPT less 'human' for teens in new safety update
+### 3. OpenAI makes ChatGPT less 'human' for teens in new safety update
 - id události: `762a25ddd63d`  ·  rubrika: `tech`  ·  skóre: 64  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -42,7 +61,7 @@
   - **Investing.com** — OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls
     <https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012>
 
-### 3. Vieira named new Senegal head coach
+### 4. Vieira named new Senegal head coach
 - id události: `4ff3970f10ae`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -58,20 +77,6 @@
   - **France 24** — France's Vieira appointed head coach of Senegal national football team
     <https://www.france24.com/en/sport/20260818-france-vieira-appointed-head-coach-senegal-national-football-team>
     > Former France midfielder Patrick Vieira has been appointed Senegal coach, succeeding Pape Thiaw following the team's World Cup elimination. Born in Dakar, the 50-year-old takes charge of a national team for the first time after coaching in England, France and Italy. Vieira will b
-
-### 4. Supreme Court rejects Verizon bid for $47 million refund of FCC fine
-- id události: `9739585c4084`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Ars Technica** — Supreme Court rejects Verizon bid for $47 million refund of FCC fine
-    <https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/>
-    > Despite loss, carriers still claim selling device-location data isn't illegal.
-  - **Al Jazeera** — Trump loses second Supreme Court bid over E Jean Carroll sex abuse case
-    <https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss>
-    > E Jean Carroll secures another legal victory as US Supreme Court refuses Donald Trump’s appeal over 1996 abuse claims.
-  - **France 24** — Russia’s Supreme Court upholds ban on anti-war party Yabloko
-    <https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko>
-    > Russia’s Supreme Court on Monday upheld the exclusion of liberal opposition party Yabloko from September’s legislative elections, eliminating the country’s only explicitly anti-war party from the ballot, as dozens of the party's supporters were detained outside the court. The dec
 
 ---
 
