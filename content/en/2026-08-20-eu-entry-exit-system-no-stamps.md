@@ -1,7 +1,7 @@
 ---
 lang: en
 date: '2026-08-20'
-status: draft
+status: published
 automation_generated: true
 automation_role: edition
 generator: claude-cowork
@@ -14,9 +14,9 @@ title: Nobody Stamps Your Passport at the EU Border Any More. A Database Now Cou
   Your Days, and It Does Not Forget.
 dek: Since 10 April the ink stamp is gone from 29 countries' external borders, replaced
   by your face, four fingerprints and an automatic tally. The 90-day rule has not
-  changed. What changed is that it is now enforced by arithmetic instead of by a
-  border guard squinting at smudged ink.
-confidence: 90
+  changed. What changed is that it is now enforced by arithmetic instead of by a border
+  guard squinting at smudged ink.
+confidence: 95
 load: 0
 topics: []
 format: ''
@@ -60,8 +60,8 @@ impact:
     your entries and exits are now recorded biometrically and your days are counted
     by a database rather than estimated from ink.
   todo: Before your next trip, add up your days in the Schengen area over the last
-    180 days. If you have been running close to 90, the margin for error you used to
-    have is gone.
+    180 days. If you have been running close to 90, the margin for error you used
+    to have is gone.
 ---
 
 ## BRIEFLY

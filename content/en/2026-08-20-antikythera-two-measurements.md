@@ -1,7 +1,7 @@
 ---
 lang: en
 date: '2026-08-20'
-status: draft
+status: published
 automation_generated: true
 automation_role: edition
 generator: claude-cowork
@@ -12,10 +12,10 @@ depth: open
 slug: antikythera-two-measurements
 title: One Team Says the Antikythera Mechanism Was More Precise Than We Thought. Another
   Says It Would Have Jammed.
-dek: Both were measuring the same corroded bronze. The disagreement is not really about
-  the machine — it is about what two thousand years on a seabed does to a measurement,
+dek: Both were measuring the same corroded bronze. The disagreement is not really
+  about the machine — it is about what two thousand years on a seabed does to a measurement,
   and neither paper says what the headlines said it said.
-confidence: 88
+confidence: 94
 load: 0
 topics: []
 format: ''
