@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "slug": "can-your-household-find-each-other",
+  "date": "2026-08-20",
+  "category": "preparedness",
+  "mode": "assessment",
+  "estimated_minutes": 4,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Could your household find each other when networks fail?",
+      "cs": "Dokázala by se vaše domácnost najít při výpadku sítí?"
+    },
+    "dek": {
+      "en": "An eight-question check of alerts, contacts, meeting places and backup communication.",
+      "cs": "Osm otázek prověří varování, kontakty, místa setkání a záložní komunikaci."
+    },
+    "intro": {
+      "en": "Answer for the plan that works today, not the plan you mean to create. The aim is to reveal one useful gap before an emergency makes ordinary communication unreliable.",
+      "cs": "Odpovídejte podle plánu, který funguje dnes, ne podle plánu, který teprve chcete vytvořit. Cílem je odhalit jednu užitečnou mezeru dříve, než mimořádná událost naruší běžnou komunikaci."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check based on public preparedness guidance, not a validated readiness test or official emergency plan. Hazards, alert systems, emergency numbers and public instructions differ by location. Follow local authorities during an event and do not delay an emergency call to complete this quiz.",
+      "cs": "Jde o původní vzdělávací sebehodnocení založené na veřejných doporučeních, nikoli o ověřený test připravenosti nebo úřední krizový plán. Rizika, varovné systémy, tísňová čísla a veřejné pokyny se liší podle místa. Při události se řiďte místními úřady a kvůli tomuto kvízu neodkládejte tísňové volání."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "alerts-information",
+      "label": {"en": "Alerts and information", "cs": "Varování a informace"},
+      "why": {"en": "A plan starts with knowing which local source carries official instructions and having another way to receive them.", "cs": "Plán začíná znalostí místního zdroje úředních pokynů a druhého způsobu, jak je přijmout."},
+      "action": {"en": "Find your local emergency-management page, enable its alerts and write down one backup source such as radio or a trusted neighbour.", "cs": "Najděte stránku místního krizového řízení, zapněte jeho výstrahy a zapište si jeden záložní zdroj, například rádio nebo důvěryhodného souseda."}
+    },
+    {
+      "id": "contacts-messages",
+      "label": {"en": "Contacts and messages", "cs": "Kontakty a zprávy"},
+      "why": {"en": "A shared contact and short message reduce repeated calls when networks are congested.", "cs": "Společný kontakt a krátká zpráva omezují opakované volání při přetížené síti."},
+      "action": {"en": "Choose an out-of-area contact, give everyone a paper copy and agree on a short check-in message.", "cs": "Vyberte kontakt mimo oblast, dejte každému papírovou kopii a dohodněte krátkou kontrolní zprávu."}
+    },
+    {
+      "id": "places-routes",
+      "label": {"en": "Places and routes", "cs": "Místa a trasy"},
+      "why": {"en": "A precise meeting place still works when phones do not, and a backup matters if the first place is unsafe.", "cs": "Přesné místo setkání funguje i bez telefonů a záloha je důležitá, pokud první místo není bezpečné."},
+      "action": {"en": "Choose one nearby and one out-of-neighbourhood meeting place, then check how each person could reach them.", "cs": "Vyberte jedno blízké a jedno vzdálenější místo setkání a ověřte, jak se k nim každý dostane."}
+    },
+    {
+      "id": "people-backups",
+      "label": {"en": "People and backups", "cs": "Lidé a zálohy"},
+      "why": {"en": "Children, disabilities, language needs, pets and essential equipment can change how communication must work.", "cs": "Děti, zdravotní omezení, jazykové potřeby, zvířata a nezbytné vybavení mohou změnit způsob komunikace."},
+      "action": {"en": "Assign a primary and backup helper for each unresolved need and test whether everyone can use the plan.", "cs": "Určete hlavního a záložního pomocníka pro každou nevyřešenou potřebu a ověřte, zda plán zvládnou použít všichni."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "official-alerts",
+      "dimension": "alerts-information",
+      "text": {"en": "How would your household receive official local warnings?", "cs": "Jak by vaše domácnost přijala oficiální místní varování?"},
+      "options": [
+        {"label": {"en": "We do not know which service to use", "cs": "Nevíme, kterou službu použít"}, "score": 0},
+        {"label": {"en": "One person follows a general news or weather source", "cs": "Jedna osoba sleduje obecný zpravodajský nebo meteorologický zdroj"}, "score": 1},
+        {"label": {"en": "At least one official local alert is enabled", "cs": "Máme zapnuté alespoň jedno oficiální místní varování"}, "score": 2},
+        {"label": {"en": "Official alerts are enabled and everyone knows a backup source", "cs": "Oficiální varování jsou zapnutá a všichni znají záložní zdroj"}, "score": 3}
+      ]
+    },
+    {
+      "id": "without-internet",
+      "dimension": "alerts-information",
+      "text": {"en": "Could you get essential instructions without mobile data or home internet?", "cs": "Dokázali byste získat důležité pokyny bez mobilních dat nebo domácího internetu?"},
+      "options": [
+        {"label": {"en": "No backup has been considered", "cs": "O záloze jsme neuvažovali"}, "score": 0},
+        {"label": {"en": "We would try a car radio or ask someone, but it is not planned", "cs": "Zkusili bychom autorádio nebo se někoho zeptali, ale není to naplánované"}, "score": 1},
+        {"label": {"en": "One working non-internet source is identified", "cs": "Máme určený jeden funkční zdroj bez internetu"}, "score": 2},
+        {"label": {"en": "A source is identified, accessible to everyone who needs it and has been checked", "cs": "Zdroj je určený, dostupný všem potřebným a ověřený"}, "score": 3}
+      ]
+    },
+    {
+      "id": "out-of-area-contact",
+      "dimension": "contacts-messages",
+      "text": {"en": "Does everyone know the same out-of-area contact?", "cs": "Zná každý stejný kontakt mimo zasaženou oblast?"},
+      "options": [
+        {"label": {"en": "No contact has been chosen", "cs": "Žádný kontakt jsme nevybrali"}, "score": 0},
+        {"label": {"en": "Someone could be chosen, but not everyone knows who", "cs": "Někoho bychom mohli vybrat, ale ne každý ví koho"}, "score": 1},
+        {"label": {"en": "The contact is chosen and stored in phones", "cs": "Kontakt je vybraný a uložený v telefonech"}, "score": 2},
+        {"label": {"en": "The contact has agreed and everyone also carries the details on paper", "cs": "Kontakt souhlasil a každý má údaje také na papíře"}, "score": 3}
+      ]
+    },
+    {
+      "id": "short-message",
+      "dimension": "contacts-messages",
+      "text": {"en": "What would you send if calls were difficult but a text might go through?", "cs": "Co byste poslali, kdyby volání nefungovalo, ale SMS mohla projít?"},
+      "options": [
+        {"label": {"en": "We have not discussed it", "cs": "Nemluvili jsme o tom"}, "score": 0},
+        {"label": {"en": "Each person would improvise", "cs": "Každý by improvizoval"}, "score": 1},
+        {"label": {"en": "We agree to send location and whether help is needed", "cs": "Dohodli jsme se poslat polohu a informaci, zda potřebujeme pomoc"}, "score": 2},
+        {"label": {"en": "The message format, group and out-of-area relay have been tested", "cs": "Formát zprávy, skupina i kontakt mimo oblast byly vyzkoušeny"}, "score": 3}
+      ]
+    },
+    {
+      "id": "nearby-place",
+      "dimension": "places-routes",
+      "text": {"en": "Is there a precise nearby meeting place if you must leave separately?", "cs": "Máte přesné blízké místo setkání, pokud musíte odejít odděleně?"},
+      "options": [
+        {"label": {"en": "No", "cs": "Ne"}, "score": 0},
+        {"label": {"en": "We would meet somewhere outside", "cs": "Sešli bychom se někde venku"}, "score": 1},
+        {"label": {"en": "One exact place is named", "cs": "Máme určené jedno přesné místo"}, "score": 2},
+        {"label": {"en": "The place is named, safe for likely hazards and known to everyone", "cs": "Místo je přesné, bezpečné pro pravděpodobná rizika a znají ho všichni"}, "score": 3}
+      ]
+    },
+    {
+      "id": "distant-place",
+      "dimension": "places-routes",
+      "text": {"en": "Do you have a second meeting place outside the neighbourhood?", "cs": "Máte druhé místo setkání mimo okolí bydliště?"},
+      "options": [
+        {"label": {"en": "No", "cs": "Ne"}, "score": 0},
+        {"label": {"en": "A possible place has been mentioned", "cs": "Zmínili jsme možné místo"}, "score": 1},
+        {"label": {"en": "The place and normal route are agreed", "cs": "Místo a běžná trasa jsou dohodnuté"}, "score": 2},
+        {"label": {"en": "The place, alternative route and transport needs are understood", "cs": "Místo, náhradní trasa a dopravní potřeby jsou jasné"}, "score": 3}
+      ]
+    },
+    {
+      "id": "individual-needs",
+      "dimension": "people-backups",
+      "text": {"en": "Does the communication plan work for every person in the household?", "cs": "Funguje komunikační plán pro každého člena domácnosti?"},
+      "options": [
+        {"label": {"en": "We have not checked individual needs", "cs": "Individuální potřeby jsme neověřili"}, "score": 0},
+        {"label": {"en": "One need involving age, disability or language is unresolved", "cs": "Jedna potřeba související s věkem, omezením nebo jazykem není vyřešená"}, "score": 1},
+        {"label": {"en": "Needs and primary helpers are identified", "cs": "Potřeby a hlavní pomocníci jsou určení"}, "score": 2},
+        {"label": {"en": "The plan is accessible and includes a backup helper for each critical need", "cs": "Plán je přístupný a pro každou zásadní potřebu má záložního pomocníka"}, "score": 3}
+      ]
+    },
+    {
+      "id": "practice-update",
+      "dimension": "people-backups",
+      "text": {"en": "When was the complete plan last checked together?", "cs": "Kdy jste celý plán naposledy společně ověřili?"},
+      "options": [
+        {"label": {"en": "Never", "cs": "Nikdy"}, "score": 0},
+        {"label": {"en": "More than a year ago or nobody remembers", "cs": "Před více než rokem nebo si nikdo nevzpomíná"}, "score": 1},
+        {"label": {"en": "Within the past year", "cs": "Během posledního roku"}, "score": 2},
+        {"label": {"en": "Within six months and after any household change", "cs": "Během šesti měsíců a po každé změně domácnosti"}, "score": 3}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {"en": "Start with one contact and one place", "cs": "Začněte jedním kontaktem a jedním místem"},
+      "summary": {"en": "Your household would currently need to improvise. Today, choose one out-of-area contact and one precise meeting place, then write both on paper.", "cs": "Vaše domácnost by nyní musela improvizovat. Dnes vyberte jeden kontakt mimo oblast a jedno přesné místo setkání a obojí napište na papír."}
+    },
+    {
+      "min": 8,
+      "max": 15,
+      "title": {"en": "Useful pieces with a weak link", "cs": "Užitečné části se slabým článkem"},
+      "summary": {"en": "Some pieces exist, but the plan may depend on one phone, one person or one route. Improve the lowest-scoring dimension before adding more equipment.", "cs": "Některé části existují, ale plán může záviset na jednom telefonu, člověku nebo trase. Nejdříve zlepšete nejslabší oblast, než přidáte další vybavení."}
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "title": {"en": "A credible plan that needs a rehearsal", "cs": "Věrohodný plán, který potřebuje nácvik"},
+      "summary": {"en": "The essentials are mostly in place. Run one calm check without internet: receive information, send the agreed message and have each person name both meeting places.", "cs": "Základy jsou většinou připravené. Proveďte jednu klidnou zkoušku bez internetu: získejte informace, pošlete dohodnutou zprávu a nechte každého určit obě místa setkání."}
+    },
+    {
+      "min": 21,
+      "max": 24,
+      "title": {"en": "Ready to communicate without one fragile link", "cs": "Připraveni komunikovat bez jednoho křehkého článku"},
+      "summary": {"en": "Your plan has strong coverage and backups. Keep paper contacts current, check official alert services and review the plan every six months or whenever people, schools, workplaces or care needs change.", "cs": "Váš plán má dobré pokrytí i zálohy. Aktualizujte papírové kontakty, kontrolujte oficiální varovné služby a plán projděte každých šest měsíců nebo při změně lidí, školy, práce či péče."}
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ready.gov — Make A Plan",
+      "url": "https://www.ready.gov/plan",
+      "published": "2026-07-02",
+      "type": "primary"
+    },
+    {
+      "name": "American Red Cross — How to Prepare for Emergencies",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies.html",
+      "published": "",
+      "type": "primary"
+    },
+    {
+      "name": "American Red Cross — Inclusive Preparedness Resources",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/inclusive-preparedness-resources.html",
+      "published": "",
+      "type": "primary"
+    },
+    {
+      "name": "Habitat for Humanity — Family communications plan",
+      "url": "https://www.habitat.org/our-work/disaster-response/disaster-preparedness-homeowners/family-communications-plan",
+      "published": "",
+      "type": "secondary"
+    }
+  ]
+}
