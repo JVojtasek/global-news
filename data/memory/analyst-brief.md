@@ -7,9 +7,8 @@ Paměť obsahuje **37 vláken**. Aktivních za posledních 14 dní: **24**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 11 dní · 40 záznamů
+- rubrika `world` · sledováno 11 dní · 41 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) Why has Trump threatened to bomb Oman – for a second time?
   - **2026-08-18** (1 zdrojů) Iran clubs face Qatar and UAE sides at neutral venues in Champions League
   - **2026-08-18** (2 zdrojů) The United States is about to wake up to the threat from China's space program
   - **2026-08-19** (2 zdrojů) Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
@@ -19,6 +18,7 @@ Paměť obsahuje **37 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-20** (3 zdrojů) Middle East updates: Trump warns 'economic consequences' for nations helping Iran
   - **2026-08-20** (2 zdrojů) North Korea fires 10 missiles day after Trump curtails South Korea joint drills
   - **2026-08-20** (1 zdrojů) How China and Russia could hobble Trump’s plans to isolate Iran
+  - **2026-08-20** (2 zdrojů) North Korea fires ballistic missiles as US-South Korea drills near end
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 9 dní · 16 záznamů

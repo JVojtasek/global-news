@@ -1201,42 +1201,33 @@
   ]
  },
  {
-  "id": "acb1e48a2ecd",
-  "headline": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-  "section": "tech",
-  "score": 50,
-  "sources_count": 3,
+  "id": "c95f1350e30d",
+  "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+  "section": "safety",
+  "score": 51,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T18:13:47+00:00",
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T17:44:36+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "source": "Ars Technica",
-    "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-    "published_at": "2026-08-17T18:13:47+00:00",
+    "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+    "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+    "source": "Schneier on Security",
+    "summary": "OpenAI presented details of its AI’s model’s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It’s really interesting to read through—and really impressive cyberoffense work.",
+    "published_at": "2026-08-20T17:44:36+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
    },
    {
-    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "source": "Ars Technica AI",
-    "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-    "published_at": "2026-08-17T18:13:47+00:00",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "source": "Hugging Face",
+    "summary": "",
+    "published_at": "2026-06-30T00:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   },
-   {
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "source": "TechCrunch",
-    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "published_at": "2026-08-17T16:38:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
    }
   ]
  },
@@ -2003,68 +1994,6 @@
   ]
  },
  {
-  "id": "d4ca08041bea",
-  "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T17:43:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-    "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
-    "source": "The Guardian World",
-    "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat says US politics live – latest updates Donald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine. The US president abruptly ordered the P",
-    "published_at": "2026-08-17T17:43:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   },
-   {
-    "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-    "url": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Republican Senator Thom Tillis says the decision allows North Korea to provide more support to Russia in Ukraine.",
-    "published_at": "2026-08-17T16:14:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   }
-  ]
- },
- {
-  "id": "06df00086e0c",
-  "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T16:42:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-    "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-    "source": "The Guardian World",
-    "summary": "Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive Benjamin Netanyahu has told Donald Trump’s son-in-law and envoy Jared Kushner there can be no progress on the stalled Gaza ceasefire deal or an Israeli withdrawal from the coastal strip until Hamas first disarms. An Israeli official said there had been no breakthrough in ‌the meet",
-    "published_at": "2026-08-17T16:42:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   },
-   {
-    "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
-    "published_at": "2026-08-17T16:50:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   }
-  ]
- },
- {
   "id": "c2dd4df5ef08",
   "headline": "Half of homes in Great Britain taking longer to sell than last year amid mortgage volatility",
   "section": "world",
@@ -2690,6 +2619,28 @@
   ]
  },
  {
+  "id": "27b08b11af81",
+  "headline": "Narwhals Sport Iconic Straight, Spiraled Tusks. Scientists Just Uncovered Some of the Eye-Catching Feature's Structural Secrets",
+  "section": "culture",
+  "score": 43,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T15:11:05+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Narwhals Sport Iconic Straight, Spiraled Tusks. Scientists Just Uncovered Some of the Eye-Catching Feature's Structural Secrets",
+    "url": "https://www.smithsonianmag.com/smart-news/narwhals-sport-iconic-straight-spiraled-tusks-scientists-just-uncovered-some-of-the-eye-catching-features-structural-secrets-180989368/",
+    "source": "Smithsonian Mag",
+    "summary": "The Arctic whales are the only known animals with straight tusks, and ones that consistently twist to the left. New research reveals that the inner layer twists to the right and that the opposing spirals provide strength and help the tusks grow straight",
+    "published_at": "2026-08-20T15:11:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
   "id": "a2eff4e11293",
   "headline": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
   "section": "safety",
@@ -3310,6 +3261,37 @@
   ]
  },
  {
+  "id": "7092d0f6864b",
+  "headline": "North Korea fires ballistic missiles as US-South Korea drills near end",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T17:00:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
+    "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "South Korea convened an emergency security meeting following the launches, as Trump seeks to sway Pyongyang.",
+    "published_at": "2026-08-20T17:00:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   },
+   {
+    "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
+    "url": "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet",
+    "source": "France 24",
+    "summary": "North Korea fired several short-range ballistic missiles on Thursday, the South said, and Pyongyang mocked US \"servant\" Seoul, after President Donald Trump suggested he would meet Kim Jong Un this year. The latest launches from the nuclear-armed North come as South Korea and the United States hold a shorter edition of their annual Ulchi Freedom Shield military exercises, following an order from Tr",
+    "published_at": "2026-08-20T15:21:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
   "id": "172febb378d5",
   "headline": "The United States is about to wake up to the threat from China's space program",
   "section": "tech",
@@ -3611,28 +3593,6 @@
     "published_at": "2026-08-20T14:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "3cc82c9af07d",
-  "headline": "When Did Animals Start Giving Birth to Live Young? This 236-Million-Year-Old Fossil Might Rewrite Mammals' Evolutionary History",
-  "section": "culture",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T16:23:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "When Did Animals Start Giving Birth to Live Young? This 236-Million-Year-Old Fossil Might Rewrite Mammals' Evolutionary History",
-    "url": "https://www.smithsonianmag.com/smart-news/when-did-animals-start-giving-birth-to-live-young-this-236-million-year-old-fossil-might-rewrite-mammals-evolutionary-history-180989343/",
-    "source": "Smithsonian Mag",
-    "summary": "A bone feature found in a mammal ancestor hints that the creature was relatively large as a newborn, more in line with the size of a creature birthed live than hatched from an egg. Still, it provides only indirect evidence",
-    "published_at": "2026-08-17T16:23:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
    }
   ]
  },
@@ -4766,6 +4726,90 @@
   ]
  },
  {
+  "id": "f6bc1f7107f5",
+  "headline": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T16:22:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain.",
+    "published_at": "2026-08-20T16:22:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   },
+   {
+    "title": "Hundreds of migrants relocated to temporary shelters following Ceuta border crisis",
+    "url": "https://www.france24.com/en/video/20260820-hundreds-of-migrants-relocated-to-temporary-shelters-following-ceuta-border-crisis",
+    "source": "France 24",
+    "summary": "Spanish authorities have cleared the El Trampolín beach area in Ceuta, relocating around 1,500 migrants and asylum seekers according to official government figures. This large-scale operation addresses the humanitarian crisis triggered when thousands of migrants crossed the border from Morocco on 30 and 31 July.",
+    "published_at": "2026-08-20T15:17:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3b1af9ca0fdc",
+  "headline": "How Should the Bayeux Tapestry End? A New Competition Invites Children to Reimagine Its Missing Final Panel",
+  "section": "culture",
+  "score": 40,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T15:50:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How Should the Bayeux Tapestry End? A New Competition Invites Children to Reimagine Its Missing Final Panel",
+    "url": "https://www.smithsonianmag.com/smart-news/how-should-the-bayeux-tapestry-end-new-a-competition-invites-childresn-to-reimagine-its-missing-final-panel-180989366/",
+    "source": "Smithsonian Mag",
+    "summary": "Some historians think the 230-foot-long artwork is missing its final panel, which may have once depicted William the Conqueror's coronation. As the tapestry goes on view in London, students will be drafting endings of their own",
+    "published_at": "2026-08-20T15:50:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "babd54f26a95",
+  "headline": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
+  "section": "sport",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T16:21:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Australian rider Maeve Plouffe says she narrowly avoided being hit by a car during the first stage of the Tour Of Britain Women.",
+    "published_at": "2026-08-20T16:21:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   },
+   {
+    "title": "Australian rider says she was nearly hit by car at Tour of Britain Women",
+    "url": "https://www.theguardian.com/sport/2026/aug/20/australian-rider-says-she-was-nearly-hit-by-car-at-tour-of-britain-women-cycling",
+    "source": "Guardian Sport",
+    "summary": "Maeve Plouffe says incident on Wednesday was ‘scary’ Josh Tarling to ride in Vuelta in memory of brother Fin The Australian rider Maeve Plouffe has said she was nearly hit by a non-race car during the opening stage of the Tour of Britain Women. With cycling still coming to terms with the death at the Volta a Portugal of the 19-year-old British rider Finlay Tarling , killed last week in a collision",
+    "published_at": "2026-08-20T16:47:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
   "id": "185dc5cc29b7",
   "headline": "Congo's fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead",
   "section": "health",
@@ -5135,33 +5179,95 @@
   ]
  },
  {
-  "id": "76324f9aad92",
-  "headline": "Ministers drop plan to relax affordable housing rules after negative response",
+  "id": "ca07405d6d5d",
+  "headline": "BBC’s Trevor Nelson recovering after brain tumour surgery",
   "section": "world",
-  "score": 38,
+  "score": 39,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T17:45:17+00:00",
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T17:41:21+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Ministers drop plan to relax affordable housing rules after negative response",
-    "url": "https://www.theguardian.com/society/2026/aug/17/ministers-drop-plan-to-relax-affordable-housing-rules-after-rural-homes-backlash",
+    "title": "BBC’s Trevor Nelson recovering after brain tumour surgery",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/20/bbc-trevor-nelson-surgery-brain-tumour",
     "source": "The Guardian World",
-    "summary": "Government concedes ‘significant opposition’ requires new approach on quotas for medium-sized development sites Ministers have dropped plans to relax affordable housing rules for developers in England after a backlash from housing experts who warned it could drastically cut the number of cheaper homes available in rural areas. The government said on Monday it would not go ahead with proposals to e",
-    "published_at": "2026-08-17T17:45:17+00:00",
+    "summary": "Radio 2 DJ, who stepped back from work commitments in June, says operation went ‘incredibly well’ Trevor Nelson, the BBC Radio 2 DJ, has revealed he had surgery after being diagnosed with a brain tumour and is now on the mend. The broadcaster, 62, said in June that he was taking a break from work commitments to deal with health issues. Continue reading...",
+    "published_at": "2026-08-20T17:41:21+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
    },
    {
-    "title": "Ministers drop plan to relax affordable housing rules after negative response",
-    "url": "https://www.theguardian.com/society/2026/aug/17/ministers-drop-plan-to-relax-affordable-housing-rules-after-rural-homes-backlash",
-    "source": "Guardian Business",
-    "summary": "Government concedes ‘significant opposition’ requires new approach on quotas for medium-sized development sites Ministers have dropped plans to relax affordable housing rules for developers in England after a backlash from housing experts who warned it could drastically cut the number of cheaper homes available in rural areas. The government said on Monday it would not go ahead with proposals to e",
-    "published_at": "2026-08-17T17:45:17+00:00",
+    "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
+    "url": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The 62-year-old said that his \"world was turned upside down\" when a brain tumour was discovered.",
+    "published_at": "2026-08-20T16:01:37+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e3d35b96083c",
+  "headline": "Liverpool have £50m bid rejected for Brighton's Minteh",
+  "section": "sport",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T17:06:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh.",
+    "published_at": "2026-08-20T17:06:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   },
+   {
+    "title": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
+    "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
+    "source": "Guardian Sport",
+    "summary": "Minteh targeted as replacement for Mohamed Salah Winger sidelined after recovering from leg surgery Liverpool have had a £50m bid for Yankuba Minteh rejected by Brighton. The club are looking to add two wide forwards to Andoni Iraola’s squad before the transfer deadline, with their pursuit of Paris Saint-Germain’s Bradley Barcola continuing. Liverpool’s shortlist of targets also includes Minteh bu",
+    "published_at": "2026-08-20T16:59:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "444699a5d173",
+  "headline": "Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
+  "section": "sport",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T17:04:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
+    "url": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter",
+    "source": "Guardian Sport",
+    "summary": "Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Area 51, we have never had much truck with tinfoil hat-wearing conspiracy theorists when it comes to officiating in football. While refereeing a match in which all 22 participants are expert gaslighters will inev",
+    "published_at": "2026-08-20T17:04:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   },
+   {
+    "title": "Robot building and Essien: Yirenkyi’s circuitous path to Premier League",
+    "url": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark",
+    "source": "Guardian Sport",
+    "summary": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the German border, at Nordsjælland’s pre-season camp. The Danish Superliga club’s coaching staff, including Michael Essien, are preparing for the new campaign, the stunning scenery par for the course. Every ",
+    "published_at": "2026-08-20T14:29:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
    }
   ]
  },
@@ -6056,77 +6162,33 @@
   ]
  },
  {
-  "id": "01f936d7ed56",
-  "headline": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
+  "id": "e72641f35d91",
+  "headline": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
   "section": "world",
-  "score": 37,
+  "score": 38,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T16:01:47+00:00",
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T15:37:57+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-    "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
+    "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+    "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
     "source": "The Guardian World",
-    "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in particular warning of “catastrophic” harvests. French vegetable production is down by “a very signific",
-    "published_at": "2026-08-17T16:01:47+00:00",
+    "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the country’s book production capacity. The",
+    "published_at": "2026-08-20T15:37:57+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
    },
    {
-    "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-    "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-    "source": "Guardian Business",
-    "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide drought Successive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in particular warning of “catastrophic” harvests. French vegetable production is down by “a very signific",
-    "published_at": "2026-08-17T16:01:47+00:00",
+    "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+    "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+    "source": "Guardian Culture",
+    "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the country’s book production capacity. The",
+    "published_at": "2026-08-20T15:37:57+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   }
-  ]
- },
- {
-  "id": "213e8e46fd31",
-  "headline": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 8,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T17:37:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-    "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Family members allege security officers ignored warnings about the man's hemophilia and subjected him to severe abuse.",
-    "published_at": "2026-08-17T17:37:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   }
-  ]
- },
- {
-  "id": "e2e320bc20ef",
-  "headline": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
-  "section": "science",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T15:09:05+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
-    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/",
-    "source": "NASA",
-    "summary": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface. To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels. Five teams from 128 submissions and 49 countries advanced to the final phase of the [",
-    "published_at": "2026-08-17T15:09:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
    }
   ]
  },
@@ -6590,117 +6652,33 @@
   ]
  },
  {
-  "id": "402f56ab13b1",
-  "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-  "section": "world",
-  "score": 36,
+  "id": "a21a66e3a143",
+  "headline": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+  "section": "tech",
+  "score": 37,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T15:33:42+00:00",
+  "depth_signal": 2,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T17:27:47+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-    "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-    "published_at": "2026-08-17T15:33:42+00:00",
+    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "source": "TechCrunch",
+    "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
+    "published_at": "2026-08-20T17:27:47+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   }
-  ]
- },
- {
-  "id": "cc4c9a150c81",
-  "headline": "China’s economy showing signs that slowdown may be extending",
-  "section": "business",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T15:36:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "China’s economy showing signs that slowdown may be extending",
-    "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-    "source": "The Guardian World",
-    "summary": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity. After the world’s second largest economy posted one of its lowest quarterly growth readings o",
-    "published_at": "2026-08-17T15:36:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
    },
    {
-    "title": "China’s economy showing signs that slowdown may be extending",
-    "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-    "source": "Guardian Business",
-    "summary": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates ever China’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity. After the world’s second largest economy posted one of its lowest quarterly growth readings o",
-    "published_at": "2026-08-17T15:36:25+00:00",
+    "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
+    "url": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
+    "source": "TechCrunch",
+    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "published_at": "2026-08-20T15:53:49+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   }
-  ]
- },
- {
-  "id": "feadfb2495ff",
-  "headline": "Ferrari’s bespoke Luce EV one-off fetches $40 million at charity auction",
-  "section": "motoring",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T18:06:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ferrari’s bespoke Luce EV one-off fetches $40 million at charity auction",
-    "url": "https://www.investing.com/news/stock-market-news/ferraris-bespoke-luce-ev-oneoff-fetches-40-million-at-charity-auction-4862354",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-17T18:06:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   },
-   {
-    "title": "Ferrari CZ26: what if the Luce had a baby with a SF90",
-    "url": "https://electrek.co/2026/08/14/ferrari-cz26-one-off-luce-design-sf90-hybrid/",
-    "source": "Electrek",
-    "summary": "Ferrari rolled out a new one-off at Monterey called the CZ26, and the face of it looks a lot like the brand’s first electric car. Underneath, it’s an SF90 Stradale plug-in hybrid with a 7.9 kWh battery and 25 km of electric range. So Ferrari built something that wears the Luce’s design language on top of a twin-turbo V8. Basically, what you’d get if the Luce and the SF90 had a baby.",
-    "published_at": "2026-08-14T14:13:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   }
-  ]
- },
- {
-  "id": "b2a5c143e2b6",
-  "headline": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
-  "section": "ai",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T15:33:42+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
-    "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies which seems to be entirely focused on making that happen. Persona’s approach has been to carefully select a job that is economically viable for robots right now, and they’ve found one that was also the job of one of the very first industrial robots ever sold : welding",
-    "published_at": "2026-08-17T15:33:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
-   },
-   {
-    "title": "The Secret to Marathon-Winning Humanoid Robots",
-    "url": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "On 19 April 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds , beating the human world record by 7 minutes and the best robot time from 2025 by almost 2 hours. How did Honor do it? Is there some magical technology or technique that unlocked this performance? How did the company beat the significantly better-known Unitree (which reportedly had to supply its ",
-    "published_at": "2026-06-17T12:19:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
    }
   ]
  },
@@ -7650,24 +7628,33 @@
   ]
  },
  {
-  "id": "d9901f89445c",
-  "headline": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
-  "section": "science",
-  "score": 35,
-  "sources_count": 1,
+  "id": "0f9772a27c74",
+  "headline": "Debates over AI consciousness are a trap",
+  "section": "ai",
+  "score": 36,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-17T18:27:02+00:00",
-  "event_time": "2026-08-17T15:00:11+00:00",
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T15:42:39+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
-    "url": "https://science.nasa.gov/missions/hubble/hubble-solves-merger-mystery-from-milky-ways-early-years/",
-    "source": "NASA",
-    "summary": "New Hubble data shows definitive evidence of a dwarf galaxy merging with the young Milky Way in the earliest phases of its evolution.",
-    "published_at": "2026-08-17T15:00:11+00:00",
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "source": "MIT TR — AI",
+    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
+    "published_at": "2026-08-20T15:42:39+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T18:26:58+00:00"
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   },
+   {
+    "title": "Debates over AI consciousness are a trap",
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "source": "MIT Tech Review",
+    "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
+    "published_at": "2026-08-20T15:42:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
    }
   ]
  },
@@ -8588,6 +8575,169 @@
   ]
  },
  {
+  "id": "e88f2c3f6902",
+  "headline": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T16:19:30+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+    "url": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffered from the rare medical condition haemophilia.",
+    "published_at": "2026-08-20T16:19:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "88a73cbacea2",
+  "headline": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T17:26:30+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Education Department recalculates student loan forgiveness counts, setting some PSLF borrowers back",
+    "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
+    "source": "CNBC Top",
+    "summary": "Many borrowers pursuing Public Service Loan Forgiveness have recently learned that they're further away from debt cancellation than they'd expected.",
+    "published_at": "2026-08-20T17:26:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d7ef29755808",
+  "headline": "It’s Greg Brockman’s OpenAI now",
+  "section": "tech",
+  "score": 34,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T15:45:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "source": "The Verge",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]",
+    "published_at": "2026-08-20T15:45:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   },
+   {
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "source": "The Verge AI",
+    "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]",
+    "published_at": "2026-08-20T15:45:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "359e3ffe2c0c",
+  "headline": "Researcher, heal thyself: meet the scientists studying their own diseases",
+  "section": "science",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
+    "url": "https://www.nature.com/articles/d41586-026-02455-y",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02455-y Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.",
+    "published_at": "2026-08-20T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "adbaffb551ff",
+  "headline": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+  "section": "ai",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-06-30T16:02:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "source": "Google DeepMind",
+    "summary": "",
+    "published_at": "2026-06-30T16:02:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a86231235229",
+  "headline": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-07-08T12:31:39+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+    "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+    "source": "Krebs on Security",
+    "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+    "published_at": "2026-07-08T12:31:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "329280ed717e",
+  "headline": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T18:27:19+00:00",
+  "event_time": "2026-08-20T14:36:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "source": "The Hacker News",
+    "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+    "published_at": "2026-08-20T14:36:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T18:27:17+00:00"
+   }
+  ]
+ },
+ {
   "id": "b00681b9d5d4",
   "headline": "Ex-Zambian minister killed in security raid on opposition",
   "section": "world",
@@ -8716,147 +8866,6 @@
     "published_at": "2026-08-18T16:58:16+00:00",
     "source_countries": [],
     "seen_at": "2026-08-20T12:27:32+00:00"
-   }
-  ]
- },
- {
-  "id": "854cfb2dfbed",
-  "headline": "Assad officer extradited to Syria on war crimes charges for first time",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T12:38:35+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Assad officer extradited to Syria on war crimes charges for first time",
-    "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-    "published_at": "2026-08-20T12:38:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "e675145349dd",
-  "headline": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T12:34:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
-    "url": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
-    "source": "The Guardian World",
-    "summary": "Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Jewish extremists Israel’s far-right national security minister, Itamar Ben-Gvir, has posted a gloating video of the construction of a gallows complex where Palestinians convicted of terror offences – but not Jewish extremists accused of similar c",
-    "published_at": "2026-08-20T12:34:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "3ecd2201566d",
-  "headline": "Funeral for 50 Palestinians recovered from Gaza rubble",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T13:39:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
-    "published_at": "2026-08-20T13:39:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   },
-   {
-    "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-    "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.",
-    "published_at": "2026-08-20T13:05:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "3351b3f8117a",
-  "headline": "Gold mine collapse in Central African Republic leaves at least 100 dead",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T14:22:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Gold mine collapse in Central African Republic leaves at least 100 dead",
-    "url": "https://www.france24.com/en/video/20260820-gold-mine-collapse-in-central-african-republic-leaves-at-least-100-dead",
-    "source": "France 24",
-    "summary": "**This video contains sensitive content** The death toll from August 18's gold mine collapse in Zamboye, Central African Republic has surpassed 100. Several survivors were also critically injured. An investigation has been opened to determine the cause of the collapse, identify the victims and those responsible for operating the site, and establish any potential criminal liability.",
-    "published_at": "2026-08-20T14:22:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "f807dc202411",
-  "headline": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T14:59:55+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-    "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-    "source": "CNBC Top",
-    "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
-    "published_at": "2026-08-20T14:59:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "7ad32640c5ad",
-  "headline": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-  "section": "science",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-    "url": "https://www.nature.com/articles/d41586-026-02612-3",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
-    "published_at": "2026-08-20T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  }
