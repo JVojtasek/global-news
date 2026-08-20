@@ -619,6 +619,46 @@
   ]
  },
  {
+  "id": "44c13320414b",
+  "headline": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+  "section": "world",
+  "score": 56,
+  "sources_count": 2,
+  "depth_signal": 5,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T15:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
+    "source": "The Guardian World",
+    "summary": "Family relationships remain damaged and there is no clarity on how Sussexes’ security concerns have been resolved Just as the Duke and Duchess of Sussex’s departure from the UK six years ago came as a complete surprise, so too is their shock announcement they now intend to return. Their unilateral decision could fairly be said to have blind-sided the royals. King Charles was only informed on Sunda",
+    "published_at": "2026-08-20T15:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "Prince Harry and Meghan to move back to Britain",
+    "url": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
+    "source": "France 24",
+    "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from ​their royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve ou",
+    "published_at": "2026-08-20T13:27:02+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "Huge questions loom over Prince Harry and Meghan's shock return to UK",
+    "url": "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk",
+    "source": "France 24",
+    "summary": "Dozens of questions swirled Thursday as Prince Harry prepares to move back to the UK with his wife and children, six years after his departure sparked a bitter rift with the royal family. In a surprise move, Harry and Meghan \"plan to leave the United States by the end of the month to settle in a private, non-royal residence, which is said to be located outside London\", The Daily Telegraph reported",
+    "published_at": "2026-08-20T13:24:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
   "id": "80e2d954a5ba",
   "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
   "section": "world",
@@ -1241,37 +1281,6 @@
   ]
  },
  {
-  "id": "dba47316b75a",
-  "headline": "Why Kyiv keeps attacking Russian retail giant Wildberries",
-  "section": "world",
-  "score": 49,
-  "sources_count": 2,
-  "depth_signal": 5,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-16T15:45:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Why Kyiv keeps attacking Russian retail giant Wildberries",
-    "url": "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Ukraine has been striking warehouses belonging to Russia's largest online marketplace, saying the attacks disrupt Moscow's military logistics. But experts see wider risks for Russia's economy.",
-    "published_at": "2026-08-16T15:45:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'",
-    "url": "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity",
-    "source": "France 24",
-    "summary": "A central book market in Kyiv was hit by a Russian strike on Sunday. FRANCE 24’s correspondent in Ukraine, Emmanuelle Chaze, describes the strikes as an attack on \"Ukrainian culture, the Ukrainian language and Ukrainian identity.” She says that “since the beginning of the summer, Russia has already destroyed millions of books” in strikes, while churches and other key cultural sites have also been ",
-    "published_at": "2026-08-17T15:06:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
   "id": "41179a85b0d9",
   "headline": "Haaland's main rivals for the Premier League Golden Boot",
   "section": "sport",
@@ -1339,6 +1348,37 @@
     "published_at": "2026-08-20T08:13:27+00:00",
     "source_countries": [],
     "seen_at": "2026-08-20T09:26:44+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1bc0cee300a9",
+  "headline": "New Manic Android malware can exfiltrate data through nearby devices",
+  "section": "safety",
+  "score": 49,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T10:02:02+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New Manic Android malware can exfiltrate data through nearby devices",
+    "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+    "source": "BleepingComputer",
+    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+    "published_at": "2026-08-20T10:02:02+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+    "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+    "source": "The Hacker News",
+    "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
+    "published_at": "2026-08-20T11:26:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
@@ -1578,37 +1618,6 @@
   ]
  },
  {
-  "id": "73a89b591dd0",
-  "headline": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
-  "section": "culture",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T14:29:58+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
-    "url": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Fans, friends and family travel to Swansea to pay tribute to Total Eclipse of the Heart singer.",
-    "published_at": "2026-08-17T14:29:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Thousands of Bonnie Tyler fans gather to pay respects as coffin brought home",
-    "url": "https://www.theguardian.com/music/2026/aug/15/bonnie-tyler-fans-gather-pay-respects-swansea",
-    "source": "Guardian Culture",
-    "summary": "Fans line streets, singing Total Eclipse of the Heart ahead of Welsh singer’s Swansea funeral Thousands of Bonnie Tyler fans lined the streets of her home town in south Wales to pay respects to the singer as her coffin was brought back to her former home. The singer, whose real name was Gaynor Sullivan, died unexpectedly on 8 July in Portugal at the age of 75. Continue reading...",
-    "published_at": "2026-08-15T18:44:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
   "id": "98346948dc87",
   "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
   "section": "world",
@@ -1729,6 +1738,28 @@
     "published_at": "2026-08-20T11:45:00+00:00",
     "source_countries": [],
     "seen_at": "2026-08-20T12:27:32+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b440e5fc3ebf",
+  "headline": "Construction in Austria Revealed a Roman-Era Mass Grave Beneath a Soccer Field. New Research Suggests That the Men's Enemies Targeted Their 'Sensitive Areas'",
+  "section": "culture",
+  "score": 46,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T15:06:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Construction in Austria Revealed a Roman-Era Mass Grave Beneath a Soccer Field. New Research Suggests That the Men's Enemies Targeted Their 'Sensitive Areas'",
+    "url": "https://www.smithsonianmag.com/smart-news/construction-in-austria-revealed-roman-era-mass-grave-beneath-soccer-field-new-research-suggests-that-the-mens-enemies-targeted-their-sensitive-areas-180989372/",
+    "source": "Smithsonian Mag",
+    "summary": "No written records mention a fight in this specific part of Vienna at the time of the men's deaths. But the brutal nature of their injuries, particularly to the pelvis area, indicates that these individuals died on the battlefield",
+    "published_at": "2026-08-20T15:06:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
@@ -1941,33 +1972,33 @@
   ]
  },
  {
-  "id": "fddaa90f876f",
-  "headline": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-  "section": "world",
-  "score": 44,
+  "id": "d94ad932442f",
+  "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+  "section": "sport",
+  "score": 45,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T14:59:02+00:00",
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T15:00:43+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-    "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
-    "published_at": "2026-08-17T14:59:02+00:00",
+    "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+    "url": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "From Bruno Fernandes's future to a Champions League return, all to know about Manchester United before the new season.",
+    "published_at": "2026-08-20T15:00:43+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
+    "seen_at": "2026-08-20T15:27:01+00:00"
    },
    {
-    "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
-    "url": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November's US midterms.",
-    "published_at": "2026-08-17T15:06:14+00:00",
+    "title": "Robot building and Djimi Traoré: Caleb Yirenkyi’s circuitous path to Premier League",
+    "url": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark",
+    "source": "Guardian Sport",
+    "summary": "Coventry’s record signing is set to make a big top-flight impact after emerging from Right to Dream academy It is mid-July on FC Nordsjælland’s pre-season camp in Kössen, an Austrian village on the edge of the Alps, close to the German border. The Danish Superliga club’s coaching staff, including Michael Essien, are preparing for the new campaign, the stunning scenery par for the course. Every tra",
+    "published_at": "2026-08-20T14:29:33+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
@@ -2659,37 +2690,6 @@
   ]
  },
  {
-  "id": "f083deebbe24",
-  "headline": "Hayden Panettiere, actor in Heroes and Nashville, dies aged 36",
-  "section": "culture",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T04:39:58+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hayden Panettiere, actor in Heroes and Nashville, dies aged 36",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
-    "source": "Guardian Culture",
-    "summary": "Panettiere’s death was announced by her father, who called her ‘an incredible light and a force of nature who brought immeasurable love and joy’ Hayden Panettiere – a life in pictures Hayden Panettiere: an actor so magnetic that entire shows were rewritten for her Hayden Panettiere, the actor known for her roles in television shows such as Heroes and Nashville , has died at the age of 36. Panettie",
-    "published_at": "2026-08-17T04:39:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Hayden Panettiere, who starred in ‘Heroes’ and ‘Nashville,’ dies at 36",
-    "url": "https://www.cnbc.com/2026/08/17/hayden-panettiere-who-starred-in-heroes-and-nashville-dies-at-36.html",
-    "source": "CNBC Top",
-    "summary": "Panettiere's role in \"Heroes\" propelled her to fame in 2006. The series revolved around the mantra \"Save the cheerleader, save the world.\"",
-    "published_at": "2026-08-17T14:36:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
   "id": "a2eff4e11293",
   "headline": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
   "section": "safety",
@@ -3310,68 +3310,6 @@
   ]
  },
  {
-  "id": "dc65ea40c9a4",
-  "headline": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-  "section": "tech",
-  "score": 41,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T15:23:42+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-    "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-    "source": "CNBC Top",
-    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
-    "published_at": "2026-08-17T15:23:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "source": "TechCrunch",
-    "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-    "published_at": "2026-08-17T15:16:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "cb7f47a5868f",
-  "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
-  "section": "sport",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T15:00:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Enzo Maresca’s Manchester City opener was startlingly bad",
-    "url": "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-    "source": "Guardian Sport",
-    "summary": "The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter here There are caveats. It was only the Community Shield – and no side has gone on to win the league after lifting the Community Shield since 2018. It was against the league champions, whose pre-season has invo",
-    "published_at": "2026-08-17T15:00:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Football transfer rumours: Manchester City to move for Alexis Mac Allister?",
-    "url": "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister",
-    "source": "Guardian Sport",
-    "summary": "Today’s fluff lacks community spirit After looking a tad silly in the Community Shield loss to Arsenal , with not having a midfield being one problem for Enzo Maresca and the further blow of Rodri’s departure getting closer, Manchester City really need some new blood. A surprise name linked to them is Alexis Mac Allister of Liverpool, who may receive a bid in the coming days as City aim to ready t",
-    "published_at": "2026-08-17T07:42:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
   "id": "172febb378d5",
   "headline": "The United States is about to wake up to the threat from China's space program",
   "section": "tech",
@@ -3633,24 +3571,46 @@
   ]
  },
  {
-  "id": "4ced7b76a3e6",
-  "headline": "This Couple Found a Mysterious 150-Pound Sculpture Buried in Their Backyard. Now, They're Trying to Figure Out Who Made It",
+  "id": "423678273598",
+  "headline": "Ireland's 'Kerry Cow' Bones Are Actually Wild Boar and Bear, Shaking Up the Story of Farming's Arrival on the Island",
   "section": "culture",
-  "score": 40,
+  "score": 41,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T14:33:57+00:00",
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:40:44+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "This Couple Found a Mysterious 150-Pound Sculpture Buried in Their Backyard. Now, They're Trying to Figure Out Who Made It",
-    "url": "https://www.smithsonianmag.com/smart-news/this-couple-found-a-mysterious-150-pound-sculpture-buried-in-their-backyard-now-theyre-trying-to-figure-out-who-made-it-180989347/",
+    "title": "Ireland's 'Kerry Cow' Bones Are Actually Wild Boar and Bear, Shaking Up the Story of Farming's Arrival on the Island",
+    "url": "https://www.smithsonianmag.com/smart-news/irelands-kerry-cow-bones-are-actually-wild-boar-and-bear-shaking-up-the-story-of-farmings-arrival-on-the-island-180989371/",
     "source": "Smithsonian Mag",
-    "summary": "After discovering a large limestone bust on their San Francisco property in May, Greg Gatwood and Judy Gittelsohn have spent the past few months trying to unravel its backstory",
-    "published_at": "2026-08-17T14:33:57+00:00",
+    "summary": "The bones were discovered on the Dingle Peninsula more than 30 years ago, but scientists recently decided to take another look at them, this time using modern techniques",
+    "published_at": "2026-08-20T14:40:44+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "257575f0bd9e",
+  "headline": "Archaeologists Have Found Thousands of Intact Ancient Human Brains. Scientists Say They've Figured Out Why the Organs Don't Always Rot",
+  "section": "culture",
+  "score": 41,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Archaeologists Have Found Thousands of Intact Ancient Human Brains. Scientists Say They've Figured Out Why the Organs Don't Always Rot",
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-have-found-thousands-of-intact-ancient-human-brains-scientists-say-theyve-figured-out-why-the-organs-dont-always-rot-180989370/",
+    "source": "Smithsonian Mag",
+    "summary": "Under the right conditions—wet and oxygen-deprived—the same chemical reactions that cause tissue to break down can instead have the opposite effect, according to a new study",
+    "published_at": "2026-08-20T14:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
@@ -4735,6 +4695,77 @@
   ]
  },
  {
+  "id": "a40a6718dfd9",
+  "headline": "UK cinemas look at banning Meta smart glasses over piracy fears",
+  "section": "business",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:57:25+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+    "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+    "source": "The Guardian World",
+    "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films. The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasse",
+    "published_at": "2026-08-20T14:57:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+    "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+    "source": "Guardian Business",
+    "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films. The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasse",
+    "published_at": "2026-08-20T14:57:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2493ae91f899",
+  "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
+  "section": "world",
+  "score": 40,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:55:47+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
+    "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
+    "published_at": "2026-08-20T14:55:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+    "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion\" from America’s own crisis.\"",
+    "published_at": "2026-08-20T14:40:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.",
+    "published_at": "2026-08-20T13:14:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
   "id": "185dc5cc29b7",
   "headline": "Congo's fast-moving Ebola outbreak becomes the country's worst with over 2,300 dead",
   "section": "health",
@@ -5100,68 +5131,6 @@
     "published_at": "2026-08-20T11:00:04+00:00",
     "source_countries": [],
     "seen_at": "2026-08-20T12:27:32+00:00"
-   }
-  ]
- },
- {
-  "id": "2b41b528626a",
-  "headline": "Uber partners with Zipline on Eats drone deliveries",
-  "section": "tech",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T14:24:35+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Uber partners with Zipline on Eats drone deliveries",
-    "url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
-    "source": "The Verge",
-    "summary": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching one million daily drone deliveries by 2029. Uber also said it was making a strategic investment in Zipline, a California-based company that has been orchestrating drone deliveries in Texas since 2025. The news comes […]",
-    "published_at": "2026-08-17T14:24:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Uber adds Zipline drones to its Eats delivery network",
-    "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
-    "source": "TechCrunch",
-    "summary": "Uber is also making investing in Zipline a part of the tie-up.",
-    "published_at": "2026-08-17T13:18:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "5f4906e98d31",
-  "headline": "Microsoft confirms GitHub is down worldwide",
-  "section": "tech",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T14:47:08+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Microsoft confirms GitHub is down worldwide",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-    "source": "BleepingComputer",
-    "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-    "published_at": "2026-08-17T14:47:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "GitHub down again? no PR access",
-    "url": "https://news.ycombinator.com/item?id=49330632",
-    "source": "Hacker News Best",
-    "summary": "Githubstatus.com currently says everything is working, but it isn't Comments URL: https://news.ycombinator.com/item?id=49330632 Points: 182 # Comments: 51",
-    "published_at": "2026-08-17T13:37:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
    }
   ]
  },
@@ -6025,24 +5994,64 @@
   ]
  },
  {
-  "id": "cfe1a7d09642",
-  "headline": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-  "section": "safety",
-  "score": 37,
-  "sources_count": 1,
+  "id": "498d4004e512",
+  "headline": "Lewes rail line to reopen in September as work under way to remove train",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-11T16:35:27+00:00",
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:13:34+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-    "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-    "source": "The Hacker News",
-    "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat",
-    "published_at": "2026-08-11T16:35:27+00:00",
+    "title": "Lewes rail line to reopen in September as work under way to remove train",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/20/lewes-rail-line-reopen-september-work-under-way-remove-train",
+    "source": "The Guardian World",
+    "summary": "Derailed carriages lifted using two cranes as workers operate under ‘very challenging circumstances’ Business live – latest updates The East Sussex railway line on which a train derailed will reopen in September as crews continue to remove the carriages that left the track. Rail bosses said they were prioritising reopening the route before the end of the school holidays, despite recovery workers o",
+    "published_at": "2026-08-20T14:13:34+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "Lewes rail line to reopen in September as work under way to remove train",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/20/lewes-rail-line-reopen-september-work-under-way-remove-train",
+    "source": "Guardian Business",
+    "summary": "Derailed carriages lifted using two cranes as workers operate under ‘very challenging circumstances’ Business live – latest updates The East Sussex railway line on which a train derailed will reopen in September as crews continue to remove the carriages that left the track. Rail bosses said they were prioritising reopening the route before the end of the school holidays, despite recovery workers o",
+    "published_at": "2026-08-20T14:13:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "901b75f2181a",
+  "headline": "Grok exfiltrates user data when malicious instructions are encrypted",
+  "section": "tech",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T13:00:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica",
+    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "published_at": "2026-08-20T13:00:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
+   {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica AI",
+    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "published_at": "2026-08-20T13:00:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
@@ -6577,59 +6586,6 @@
     "published_at": "2026-08-19T18:02:40+00:00",
     "source_countries": [],
     "seen_at": "2026-08-20T00:27:47+00:00"
-   }
-  ]
- },
- {
-  "id": "6451d469b5c3",
-  "headline": "Scientists uncover the hidden nerve network fueling breast cancer",
-  "section": "science",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T12:06:50+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scientists uncover the hidden nerve network fueling breast cancer",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814011038.htm",
-    "source": "ScienceDaily",
-    "summary": "Researchers have uncovered a surprising way triple-negative breast cancer may turn the body against itself. Tumors appear to recruit macrophages—immune cells normally involved in healing and fighting infection—and use them to release a protein called BDNF that draws nerves into the tumor. Those nerves may then help the cancer grow, resist treatment, and potentially spread.",
-    "published_at": "2026-08-17T12:06:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Scientists uncover the hidden nerve network fueling breast cancer",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260814011038.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Researchers have uncovered a surprising way triple-negative breast cancer may turn the body against itself. Tumors appear to recruit macrophages—immune cells normally involved in healing and fighting infection—and use them to release a protein called BDNF that draws nerves into the tumor. Those nerves may then help the cancer grow, resist treatment, and potentially spread.",
-    "published_at": "2026-08-17T12:06:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "5b34f756b433",
-  "headline": "Listen Up, Parents: Running With a Stroller Might Make You Less Prone to Overuse Injuries",
-  "section": "culture",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T14:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Listen Up, Parents: Running With a Stroller Might Make You Less Prone to Overuse Injuries",
-    "url": "https://www.smithsonianmag.com/smart-news/listen-up-parents-running-with-a-stroller-might-make-you-less-prone-to-overuse-injuries-180989345/",
-    "source": "Smithsonian Mag",
-    "summary": "Runners often experience conditions like shin splints, runner’s knee and plantar fasciitis, which causes pain in the bottom of the heel. But pushing a stroller’s handlebar seems to make you distribute your weight differently",
-    "published_at": "2026-08-17T14:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
    }
   ]
  },
@@ -7694,147 +7650,6 @@
   ]
  },
  {
-  "id": "02e13c28d4ef",
-  "headline": "Finland halts deportation of Russian family who ‘risked everything’ to oppose Ukraine invasion",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T14:04:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Finland halts deportation of Russian family who ‘risked everything’ to oppose Ukraine invasion",
-    "url": "https://www.theguardian.com/world/2026/aug/17/finland-halts-deportation-russian-family-opposed-ukraine-invasion",
-    "source": "The Guardian World",
-    "summary": "Mother and son Olga and Nikita Belov say they were facing jail and potential torture after asylum case was rejected A Russian family who were on the brink of being deported from Finland after repeatedly being denied asylum – despite the threat of arrest, imprisonment and torture for their pro-Ukrainian activism – have won a court appeal and will have their case reconsidered. Nikita Belov and his m",
-    "published_at": "2026-08-17T14:04:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "fafd24ceadc9",
-  "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-  "section": "tech",
-  "score": 35,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-16T20:57:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "source": "TechCrunch",
-    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-    "published_at": "2026-08-16T20:57:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   },
-   {
-    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "source": "Hacker News Best",
-    "summary": "Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 428 # Comments: 266",
-    "published_at": "2026-08-16T20:31:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "9901b9de39cd",
-  "headline": "Chris Carter is mistaken if he thinks more gore will bring The X-Files: I Want to Believe back to life",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T10:14:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Chris Carter is mistaken if he thinks more gore will bring The X-Files: I Want to Believe back to life",
-    "url": "https://www.theguardian.com/film/2026/aug/17/chris-carter-x-files-i-want-to-believe-directors-cut-critique-spoilers",
-    "source": "Guardian Culture",
-    "summary": "The director’s cut includes a host more body parts but no more insight into the villains’ personalities. What could be a gothic masterstroke is turned into a dreary procedural in the snow Warning: this article contains spoilers Everyone loves a director’s cut. But unlike some, The X-Files: I Want to Believe – Vrach Frankenshteyn, which debuted on Friday on Disney+, is not the kind of director’s cu",
-    "published_at": "2026-08-17T10:14:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "0c540985c72d",
-  "headline": "Brandon Flowers: Thrasher review – Killers frontman’s country pivot is a rootin’ tootin’ cowboy-bootin’ hoot!",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T07:00:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Brandon Flowers: Thrasher review – Killers frontman’s country pivot is a rootin’ tootin’ cowboy-bootin’ hoot!",
-    "url": "https://www.theguardian.com/music/2026/aug/17/brandon-flowers-thrasher-review-killers-frontman-country-album",
-    "source": "Guardian Culture",
-    "summary": "(Island) Even a couple of bafflingly misguided social commentary songs can’t detract from the joys of Flowers’ classically full-throated commitment to the Nashville bit Here are three immutable facts about Brandon Richard Flowers: he was born just outside Las Vegas, Nevada. He is 45 years old. And he never does anything by halves. When he and his band the Killers debuted in the early 2000s, as dis",
-    "published_at": "2026-08-17T07:00:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "373f92e3c9a1",
-  "headline": "Agrippa by Robert Harris review – persuasive portrait of rivalry in ancient Rome",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-08-17T06:00:46+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Agrippa by Robert Harris review – persuasive portrait of rivalry in ancient Rome",
-    "url": "https://www.theguardian.com/books/2026/aug/17/agrippa-by-robert-harris-review-persuasive-portrait-of-rivalry-in-ancient-rome",
-    "source": "Guardian Culture",
-    "summary": "This fictional memoir by Octavius’s right-hand man shows us bloodshed, betrayal and hectic jockeying for power If you’re one of those people who thinks about the Roman empire several times a week, Robert Harris has you covered. He follows his trilogy of novels about the life of Cicero and his one-off about the unpleasantness in Pompeii with a narrative that takes us from civil war through the assa",
-    "published_at": "2026-08-17T06:00:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
-  "id": "30202ae9848b",
-  "headline": "Visual Language Models Train Robots to Read Human Emotions",
-  "section": "ai",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-17T15:25:19+00:00",
-  "event_time": "2026-06-13T13:00:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Visual Language Models Train Robots to Read Human Emotions",
-    "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities , it becomes more likely that humans may find themselves working alongside them. If that happens, how will robots’ emotional capabilities need to advance for them to successfully work with people? In a recent study, researchers tra",
-    "published_at": "2026-06-13T13:00:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-17T15:25:17+00:00"
-   }
-  ]
- },
- {
   "id": "d9901f89445c",
   "headline": "Hubble Solves Merger Mystery From Milky Way’s Early Years",
   "section": "science",
@@ -8478,6 +8293,50 @@
   ]
  },
  {
+  "id": "1acfe0c02203",
+  "headline": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T13:04:15+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+    "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+    "published_at": "2026-08-20T13:04:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ca547b480665",
+  "headline": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
+  "section": "culture",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T04:06:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
+    "url": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
+    "source": "Guardian Culture",
+    "summary": "The Seinfeld and Curb Your Enthusiasm creator says Dershowitz, who also defended Jeffrey Epstein and Harvey Weinstein, ‘only has himself to blame’ for being ostracised Larry David has opened up about the collapse of his friendship with Alan Dershowitz, saying that Dershowitz “made a deal with the devil” when he became Donald Trump’s lawyer. Dershowitz, a former Harvard University law professor, ha",
+    "published_at": "2026-08-20T04:06:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
   "id": "3e1f712b26cd",
   "headline": "Belgian car salesman becomes prince after royal parentage confirmed",
   "section": "world",
@@ -8593,6 +8452,138 @@
     "published_at": "2026-08-20T09:48:55+00:00",
     "source_countries": [],
     "seen_at": "2026-08-20T12:27:32+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a1a3f0c4c104",
+  "headline": "Landslide at unlicensed Colombian gold mine kills 13",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T15:07:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Landslide at unlicensed Colombian gold mine kills 13",
+    "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Four members of an indigenous family are among the dead, witnesses said.",
+    "published_at": "2026-08-20T15:07:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1c34de0e62df",
+  "headline": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest",
+  "section": "science",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:00:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The higher the hope, the harder the fall: Study finds ESG downgrades hit optimistic investors the hardest",
+    "url": "https://phys.org/news/2026-08-higher-harder-fall-esg-downgrades.html",
+    "source": "Phys.org",
+    "summary": "A new study from Murdoch University has found that Environmental, Social and Governance (ESG) downgrades trigger significantly larger share price losses when they come as a surprise to optimistic investors. The findings are published in the journal International Review of Economics & Finance.",
+    "published_at": "2026-08-20T14:00:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2b849e5b0581",
+  "headline": "Hazy sunshine, factor-50 smiles and Cliff Richard at the wheel: the 20 best summer holiday movies – ranked!",
+  "section": "culture",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T12:05:39+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hazy sunshine, factor-50 smiles and Cliff Richard at the wheel: the 20 best summer holiday movies – ranked!",
+    "url": "https://www.theguardian.com/film/2026/aug/20/best-summer-holiday-movies-ranked-seasonal-romance",
+    "source": "Guardian Culture",
+    "summary": "From feelgood romances to heated interactions, here are the films that best capture the seasonal moment Let’s begin at the end. 2 September 1962: the final night of the summer vacation; one last big blowout before adult life intervenes. George Lucas’s rambunctious salute to footloose youth paints vivid vignettes of Modesto, California, rocking around the clock with its loose-knit gaggle of charact",
+    "published_at": "2026-08-20T12:05:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bf160d7528d9",
+  "headline": "Josh Tarling to ride in Vuelta a Espana after brother's death",
+  "section": "sport",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:30:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Josh Tarling to ride in Vuelta a Espana after brother's death",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c98vz8dm331o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Finlay Tarling, 19, died in a high-speed collision with a van, which had strayed on to the road during the eighth stage of the Volta a Portugal.",
+    "published_at": "2026-08-20T14:30:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9e6bf7ac9b2e",
+  "headline": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T13:24:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+    "source": "The Hacker News",
+    "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution. \"A remote code execution vulnerability exists in Zimbra",
+    "published_at": "2026-08-20T13:24:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8bfad57d2556",
+  "headline": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T12:01:24+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+    "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+    "source": "The Hacker News",
+    "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography. The attack, which the researchers named \"Zombie Card,\" requires physical",
+    "published_at": "2026-08-20T12:01:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
@@ -8729,134 +8720,143 @@
   ]
  },
  {
-  "id": "186057e22fbd",
-  "headline": "‘You have got to go’: former NSW minister tells Icac ‘something strange at play’ when she was sacked by Perrottet",
+  "id": "854cfb2dfbed",
+  "headline": "Assad officer extradited to Syria on war crimes charges for first time",
   "section": "world",
-  "score": 32,
+  "score": 33,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-20T12:27:35+00:00",
-  "event_time": "2026-08-20T12:21:52+00:00",
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T12:38:35+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "‘You have got to go’: former NSW minister tells Icac ‘something strange at play’ when she was sacked by Perrottet",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb",
+    "title": "Assad officer extradited to Syria on war crimes charges for first time",
+    "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+    "published_at": "2026-08-20T12:38:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e675145349dd",
+  "headline": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T12:34:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians",
+    "url": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
     "source": "The Guardian World",
-    "summary": "Eleni Petinos tells inquiry her sacking as a minister in Dominic Perrottet’s government was potentially motivated by her reluctance to get rid of the building commissioner Get our breaking news email , free app or daily news podcast The former New South Wales fair trading minister Eleni Petinos has given evidence at a corruption inquiry that she may have been used by fellow Liberals to try to get ",
-    "published_at": "2026-08-20T12:21:52+00:00",
+    "summary": "Far-right minister says those convicted in military courts of terror offences will be executed after passing of death penalty law that does not apply to Jewish extremists Israel’s far-right national security minister, Itamar Ben-Gvir, has posted a gloating video of the construction of a gallows complex where Palestinians convicted of terror offences – but not Jewish extremists accused of similar c",
+    "published_at": "2026-08-20T12:34:11+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T12:27:32+00:00"
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
  {
-  "id": "836f8342f000",
-  "headline": "Munich prosecutors close fatal 1970 antisemitic arson case",
+  "id": "3ecd2201566d",
+  "headline": "Funeral for 50 Palestinians recovered from Gaza rubble",
   "section": "world",
-  "score": 32,
+  "score": 33,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-20T12:27:35+00:00",
-  "event_time": "2026-08-20T11:19:00+00:00",
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T13:39:38+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
-    "url": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Prosecutors and police in Munich believe they have identified the man who set a 1970 fire at a Jewish community center and old people's home that killed seven people. But he died in 2020, so prosecution is not possible.",
-    "published_at": "2026-08-20T11:19:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T12:27:32+00:00"
-   }
-  ]
- },
- {
-  "id": "18c1c65ab681",
-  "headline": "Who was Hind Rajab and why is Israel investigating her killing?",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-20T12:27:35+00:00",
-  "event_time": "2026-08-20T11:48:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Who was Hind Rajab and why is Israel investigating her killing?",
-    "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+    "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "After two years of denial, Israel admits firing on the 5-year-old's car. But her family and others don't expect justice.",
-    "published_at": "2026-08-20T11:48:18+00:00",
+    "summary": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
+    "published_at": "2026-08-20T13:39:38+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T12:27:32+00:00"
-   }
-  ]
- },
- {
-  "id": "4fb508bfd699",
-  "headline": "Merck is a buy as strong cancer drug pipeline offsets Keytruda patent expiration, Morgan Stanley says",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T12:27:35+00:00",
-  "event_time": "2026-08-20T12:01:13+00:00",
-  "time_kind": "published",
-  "items": [
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   },
    {
-    "title": "Merck is a buy as strong cancer drug pipeline offsets Keytruda patent expiration, Morgan Stanley says",
-    "url": "https://www.cnbc.com/2026/08/20/merck-is-finding-more-ways-to-boost-its-shares-morgan-stanley-says.html",
-    "source": "CNBC Top",
-    "summary": "Merck, which makes the popular cancer treatment Keytruda, is poised to gain ground as its pipeline drugs get close to coming to market, per Morgan Stanley.",
-    "published_at": "2026-08-20T12:01:13+00:00",
+    "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
+    "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.",
+    "published_at": "2026-08-20T13:05:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T12:27:32+00:00"
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
  {
-  "id": "f9dba3cf9e99",
-  "headline": "Stocks making the biggest moves premarket: Walmart, Coinbase, Moderna, Alibaba & more",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T12:27:35+00:00",
-  "event_time": "2026-08-20T12:24:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Stocks making the biggest moves premarket: Walmart, Coinbase, Moderna, Alibaba & more",
-    "url": "https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-premarket-.html",
-    "source": "CNBC Top",
-    "summary": "These are the stocks posting the largest moves in the premarket.",
-    "published_at": "2026-08-20T12:24:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T12:27:32+00:00"
-   }
-  ]
- },
- {
-  "id": "1278c6f6ecd9",
-  "headline": "Leigh’s Favorite Oatmeal Chocolate Chip Cookies",
-  "section": "travel",
-  "score": 32,
+  "id": "3351b3f8117a",
+  "headline": "Gold mine collapse in Central African Republic leaves at least 100 dead",
+  "section": "world",
+  "score": 33,
   "sources_count": 1,
   "depth_signal": 2,
-  "created": "2026-08-20T12:27:35+00:00",
-  "event_time": "2026-04-09T00:50:00+00:00",
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:22:25+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Leigh’s Favorite Oatmeal Chocolate Chip Cookies",
-    "url": "https://www.atlasobscura.com/foods/leighs-favorite-oatmeal-chocolate-chip-cookies",
-    "source": "Atlas Obscura",
-    "summary": "Leigh Myers’ signature cookies are crispy on the edges, tender in the center, and jazzed up with spicy nuts. Ingredients 1 1/2 cup (200 grams) all-purpose flour 1 teaspoon baking soda 1 teaspoon fine sea salt 1 teaspoon cinnamon 16 tablespoons (228 grams) unsalted butter, softened 1 cup (188 grams) packed brown sugar 1/2 cup (118 grams) granulated sugar 2 large eggs, at room temperature 4 tablespo",
-    "published_at": "2026-04-09T00:50:00+00:00",
+    "title": "Gold mine collapse in Central African Republic leaves at least 100 dead",
+    "url": "https://www.france24.com/en/video/20260820-gold-mine-collapse-in-central-african-republic-leaves-at-least-100-dead",
+    "source": "France 24",
+    "summary": "**This video contains sensitive content** The death toll from August 18's gold mine collapse in Zamboye, Central African Republic has surpassed 100. Several survivors were also critically injured. An investigation has been opened to determine the cause of the collapse, identify the victims and those responsible for operating the site, and establish any potential criminal liability.",
+    "published_at": "2026-08-20T14:22:25+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T12:27:32+00:00"
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f807dc202411",
+  "headline": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T14:59:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+    "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
+    "source": "CNBC Top",
+    "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+    "published_at": "2026-08-20T14:59:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7ad32640c5ad",
+  "headline": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+  "section": "science",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-20T15:27:04+00:00",
+  "event_time": "2026-08-20T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+    "url": "https://www.nature.com/articles/d41586-026-02612-3",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
+    "published_at": "2026-08-20T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  }

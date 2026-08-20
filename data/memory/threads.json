@@ -5,41 +5,42 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "justified",
-    "north",
-    "groundhog",
-    "china",
-    "jong",
-    "lebanon",
-    "iran",
-    "troops",
-    "taiwan",
-    "south",
-    "tennessee",
-    "korea",
-    "iranian",
-    "donald",
-    "trump's",
-    "washington",
-    "bluster",
-    "gulf",
     "tehran",
-    "states",
-    "china's",
-    "qatar",
-    "hormuz",
-    "trump",
-    "league",
-    "middle",
-    "east",
-    "turkey",
     "united",
-    "champions",
+    "groundhog",
     "russia's",
-    "ukraine",
-    "pentagon",
+    "china",
+    "donald",
+    "russia",
+    "bluster",
+    "taiwan",
+    "north",
+    "gulf",
+    "lebanon",
+    "champions",
     "oman",
-    "strait"
+    "china's",
+    "trump",
+    "turkey",
+    "strait",
+    "league",
+    "justified",
+    "pentagon",
+    "south",
+    "korea",
+    "hormuz",
+    "states",
+    "troops",
+    "iranian",
+    "qatar",
+    "jong",
+    "tennessee",
+    "east",
+    "ukraine",
+    "washington",
+    "middle",
+    "trump's",
+    "iran"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -80,7 +81,8 @@
     "e68fe4f445db",
     "61c52ea5c150",
     "fbb58bedad9a",
-    "ac6b33f602a5"
+    "ac6b33f602a5",
+    "2493ae91f899"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-20",
@@ -530,6 +532,18 @@
       "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
       "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
      ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
+     "sources": 1,
+     "score": 40,
+     "event_id": "2493ae91f899",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -764,25 +778,27 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "golden",
     "sports",
-    "phil",
+    "mcnulty's",
+    "golden",
     "league",
+    "opening",
+    "boot",
+    "youtube",
     "premier",
+    "five",
     "nottingham",
     "forest",
-    "mcnulty's",
-    "opening",
     "haaland's",
-    "boot",
-    "youtube"
+    "phil"
    ],
    "event_ids": [
     "e8a425cbff50",
     "41179a85b0d9",
     "3ff3a046513a",
     "e7e4d04839a4",
-    "dfde3543e4ba"
+    "dfde3543e4ba",
+    "d94ad932442f"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-20",
@@ -843,6 +859,17 @@
       "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
       "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
       "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d94ad932442f",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
      ]
     }
    ]
@@ -955,6 +982,49 @@
      "links": [
       "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "44c13320414b",
+   "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+   "section": "world",
+   "entities": [
+    "rival",
+    "prince",
+    "meghan",
+    "britain",
+    "harry"
+   ],
+   "event_ids": [
+    "44c13320414b",
+    "8baa910d825c"
+   ],
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-20",
+   "timeline": [
+    {
+     "date": "2026-08-20",
+     "headline": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+     "sources": 2,
+     "score": 56,
+     "event_id": "44c13320414b",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
+      "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
+      "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Prince Harry and Meghan ‘moving back to Britain this month’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8baa910d825c",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
+      "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit"
      ]
     }
    ]
@@ -2468,5 +2538,5 @@
    ]
   }
  ],
- "updated": "2026-08-20T12:27:35+00:00"
+ "updated": "2026-08-20T15:27:04+00:00"
 }

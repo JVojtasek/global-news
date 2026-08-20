@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-20
 
-Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
+Paměť obsahuje **37 vláken**. Aktivních za posledních 14 dní: **24**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 11 dní · 39 záznamů
+- rubrika `world` · sledováno 11 dní · 40 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
   - **2026-08-18** (2 zdrojů) Why has Trump threatened to bomb Oman – for a second time?
   - **2026-08-18** (1 zdrojů) Iran clubs face Qatar and UAE sides at neutral venues in Champions League
   - **2026-08-18** (2 zdrojů) The United States is about to wake up to the threat from China's space program
@@ -19,6 +18,7 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
   - **2026-08-20** (4 zdrojů) Trump threatens 'tremendous economic consequences' on any country helping Iran
   - **2026-08-20** (3 zdrojů) Middle East updates: Trump warns 'economic consequences' for nations helping Iran
   - **2026-08-20** (2 zdrojů) North Korea fires 10 missiles day after Trump curtails South Korea joint drills
+  - **2026-08-20** (1 zdrojů) How China and Russia could hobble Trump’s plans to isolate Iran
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 9 dní · 16 záznamů
@@ -63,13 +63,14 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 2 dní · 5 záznamů
+- rubrika `sport` · sledováno 2 dní · 6 záznamů
 - časová osa:
   - **2026-08-18** (3 zdrojů) Premier League to publish verdicts on referee and VAR decisions
   - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
   - **2026-08-20** (2 zdrojů) How will your club fare? Phil McNulty's Premier League predictions
   - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
   - **2026-08-20** (1 zdrojů) Premier League 2026-27 preview No 18: Nottingham Forest
+  - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 8 dní · 4 záznamů
