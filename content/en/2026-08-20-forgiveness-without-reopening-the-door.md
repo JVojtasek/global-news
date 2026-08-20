@@ -1,16 +1,21 @@
 ---
 slug: forgiveness-without-reopening-the-door
 title: Forgiveness Does Not Have to Reopen the Door
-dek: Letting go of revenge, restoring trust and resuming contact are three different decisions. Confusing them can turn a healing idea into pressure.
+dek: Letting go of revenge, restoring trust and resuming contact are three different
+  decisions. Confusing them can turn a healing idea into pressure.
 section: soul
 type: analysis
 depth: open
 lang: en
 date: '2026-08-20'
-status: draft
-confidence: 88
+status: review
+confidence: 89
 load: 0
-topics: [forgiveness, boundaries, relationships, healing]
+topics:
+- forgiveness
+- boundaries
+- relationships
+- healing
 automation_generated: true
 edition_slot: 5
 automation_role: edition
@@ -23,13 +28,16 @@ sources:
 - name: Ho et al. — International REACH forgiveness intervention, BMJ Public Health
   url: https://bmjpublichealth.bmj.com/content/2/1/e000072
   published: '2024-03-13'
-- name: Wade et al. — Efficacy of psychotherapeutic interventions to promote forgiveness, NCBI Bookshelf review record
+- name: Wade et al. — Efficacy of psychotherapeutic interventions to promote forgiveness,
+    NCBI Bookshelf review record
   url: https://www.ncbi.nlm.nih.gov/books/NBK201856/
   published: '2014'
-- name: Frise and McMinn — Forgiveness and Reconciliation, Journal of Psychology and Theology
+- name: Frise and McMinn — Forgiveness and Reconciliation, Journal of Psychology and
+    Theology
   url: https://digitalcommons.georgefox.edu/gscp_fac/201/
   published: '2010'
-- name: Woodyatt — Reconsidering Forgiveness and Unforgiveness, Social and Personality Psychology Compass
+- name: Woodyatt — Reconsidering Forgiveness and Unforgiveness, Social and Personality
+    Psychology Compass
   url: https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.70047
   published: '2025-03-09'
 qma_path: ''
@@ -41,11 +49,19 @@ quiz:
   - Forgiveness, trust and reconciliation can be separate decisions
   - A boundary proves that forgiveness has failed
   answer: 1
-  explanation: Psychological research commonly treats forgiveness as an internal response to a wrong, while reconciliation is a mutual process. Trust and contact may therefore remain limited when safety or accountability is missing.
+  explanation: Psychological research commonly treats forgiveness as an internal response
+    to a wrong, while reconciliation is a mutual process. Trust and contact may therefore
+    remain limited when safety or accountability is missing.
 impact:
-  areas: [life, relationships, mental-health]
-  line: A person can work on resentment without excusing harm, restoring trust or granting someone access again.
-  todo: Write down three separate answers — what you want to release, what evidence would rebuild trust, and what contact is safe now.
+  areas:
+  - life
+  - relationships
+  - mental-health
+  line: A person can work on resentment without excusing harm, restoring trust or
+    granting someone access again.
+  todo: Write down three separate answers — what you want to release, what evidence
+    would rebuild trust, and what contact is safe now.
+review_reason: 'citlivé téma: abuse'
 ---
 
 ## BRIEFLY
@@ -120,4 +136,3 @@ Return to that late-night message, but do not answer it with one overloaded yes 
 4. Who can reality-check the decision without pressuring me toward reunion or permanent anger?
 
 The door is not a moral scoreboard. Opening it is not proof of goodness, and keeping it closed is not proof of bitterness. The important question is whether the choice is free, truthful and safe.
-

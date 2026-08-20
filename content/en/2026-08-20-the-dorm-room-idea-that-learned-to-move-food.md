@@ -1,16 +1,21 @@
 ---
 slug: the-dorm-room-idea-that-learned-to-move-food
 title: The Dorm-Room Idea That Learned to Move Mountains of Food
-dek: Evan Ehlers began with unused meal credits. A record produce giveaway shows how far the idea travelled — and why rescue is mostly a problem of logistics.
+dek: Evan Ehlers began with unused meal credits. A record produce giveaway shows how
+  far the idea travelled — and why rescue is mostly a problem of logistics.
 section: goodnews
 type: analysis
 depth: open
 lang: en
 date: '2026-08-20'
-status: draft
-confidence: 91
+status: published
+confidence: 95
 load: 0
-topics: [food-rescue, food-waste, community, logistics]
+topics:
+- food-rescue
+- food-waste
+- community
+- logistics
 automation_generated: true
 edition_slot: 6
 automation_role: edition
@@ -44,11 +49,18 @@ quiz:
   - Record events can replace everyday food assistance
   - Misshapen vegetables are unsafe for ordinary shops
   answer: 0
-  explanation: Ehlers concluded that the obstacle was often access rather than a total lack of food. The organisation focuses on transport, coordination and delivery of usable surplus.
+  explanation: Ehlers concluded that the obstacle was often access rather than a total
+    lack of food. The organisation focuses on transport, coordination and delivery
+    of usable surplus.
 impact:
-  areas: [community, food, climate]
-  line: A verified 543,501 pounds of produce moved in 24 hours, but the durable lesson is the network that matched surplus with people who could use it.
-  todo: Ask one local grocer, restaurant or food bank how surplus donations are collected and what practical bottleneck limits them.
+  areas:
+  - community
+  - food
+  - climate
+  line: A verified 543,501 pounds of produce moved in 24 hours, but the durable lesson
+    is the network that matched surplus with people who could use it.
+  todo: Ask one local grocer, restaurant or food bank how surplus donations are collected
+    and what practical bottleneck limits them.
 ---
 
 ## BRIEFLY
@@ -121,4 +133,3 @@ If you want to help locally, begin with the bottleneck rather than a food drive:
 4. Look for reporting that separates donated, collected and distributed quantities.
 
 The lesson of those unused meal credits is not that one generous act becomes a record. It is that generosity lasts when somebody builds the route.
-
