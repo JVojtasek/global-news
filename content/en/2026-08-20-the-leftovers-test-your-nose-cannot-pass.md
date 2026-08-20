@@ -1,16 +1,21 @@
 ---
 slug: the-leftovers-test-your-nose-cannot-pass
 title: The Leftovers Test Your Nose Cannot Pass
-dek: "A container can smell fine and still be unsafe. The reliable kitchen clues are less dramatic: time, temperature and how quickly food cooled."
+dek: 'A container can smell fine and still be unsafe. The reliable kitchen clues are
+  less dramatic: time, temperature and how quickly food cooled.'
 section: food
 type: feature
 depth: open
 lang: en
 date: '2026-08-20'
 status: reserve
-confidence: 95
+confidence: 89
 load: 0
-topics: [food-safety, leftovers, kitchen, practical-life]
+topics:
+- food-safety
+- leftovers
+- kitchen
+- practical-life
 automation_generated: true
 edition_slot: 7
 automation_role: edition
@@ -41,11 +46,18 @@ quiz:
   - They spent too long warm before refrigeration
   - Their surface looks dry after reheating
   answer: 1
-  explanation: Harmful bacteria may not change smell, taste or appearance. Time and temperature history are more useful safety evidence than a sniff test.
+  explanation: Harmful bacteria may not change smell, taste or appearance. Time and
+    temperature history are more useful safety evidence than a sniff test.
 impact:
-  areas: [health, food, household]
-  line: Official U.S. guidance says refrigerate perishables within two hours, keep the fridge at or below 40°F/4°C, and use most cooked leftovers within three to four days.
-  todo: Put a thermometer in the refrigerator and label tonight's leftovers with the date.
+  areas:
+  - health
+  - food
+  - household
+  line: Official U.S. guidance says refrigerate perishables within two hours, keep
+    the fridge at or below 40°F/4°C, and use most cooked leftovers within three to
+    four days.
+  todo: Put a thermometer in the refrigerator and label tonight's leftovers with the
+    date.
 ---
 
 ## BRIEFLY
