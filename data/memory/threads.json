@@ -5,41 +5,41 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "china's",
+    "justified",
+    "north",
+    "groundhog",
+    "china",
     "jong",
-    "ukraine",
-    "korea",
+    "lebanon",
+    "iran",
     "troops",
-    "trump's",
-    "champions",
-    "states",
-    "russia's",
+    "taiwan",
+    "south",
     "tennessee",
-    "qatar",
-    "east",
-    "oman",
+    "korea",
+    "iranian",
+    "donald",
+    "trump's",
     "washington",
     "bluster",
-    "pentagon",
-    "middle",
-    "north",
-    "lebanon",
-    "south",
-    "iranian",
-    "china",
-    "groundhog",
-    "hormuz",
-    "united",
-    "trump",
-    "strait",
-    "turkey",
     "gulf",
     "tehran",
-    "donald",
+    "states",
+    "china's",
+    "qatar",
+    "hormuz",
+    "trump",
     "league",
-    "iran",
-    "justified",
-    "taiwan"
+    "middle",
+    "east",
+    "turkey",
+    "united",
+    "champions",
+    "russia's",
+    "ukraine",
+    "pentagon",
+    "oman",
+    "strait"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -79,7 +79,8 @@
     "fe307da7bf3f",
     "e68fe4f445db",
     "61c52ea5c150",
-    "fbb58bedad9a"
+    "fbb58bedad9a",
+    "ac6b33f602a5"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-20",
@@ -518,6 +519,17 @@
       "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
       "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ac6b33f602a5",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+      "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+     ]
     }
    ]
   },
@@ -752,22 +764,25 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "premier",
-    "boot",
-    "league",
     "golden",
-    "mcnulty's",
-    "youtube",
-    "phil",
-    "haaland's",
     "sports",
-    "opening"
+    "phil",
+    "league",
+    "premier",
+    "nottingham",
+    "forest",
+    "mcnulty's",
+    "opening",
+    "haaland's",
+    "boot",
+    "youtube"
    ],
    "event_ids": [
     "e8a425cbff50",
     "41179a85b0d9",
     "3ff3a046513a",
-    "e7e4d04839a4"
+    "e7e4d04839a4",
+    "dfde3543e4ba"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-20",
@@ -816,6 +831,87 @@
       "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
       "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
       "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Premier League 2026-27 preview No 18: Nottingham Forest",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dfde3543e4ba",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
+      "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "secretary",
+    "press",
+    "white",
+    "trump",
+    "house",
+    "leavitt",
+    "karoline",
+    "crypto"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-20",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
      ]
     }
    ]
@@ -1939,63 +2035,6 @@
    ]
   },
   {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "house",
-    "karoline",
-    "leavitt",
-    "trump",
-    "secretary",
-    "white",
-    "press"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-13",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "cdb44fe21545",
    "title": "Syria sentences Bashar Assad to death in absentia",
    "section": "world",
@@ -2429,5 +2468,5 @@
    ]
   }
  ],
- "updated": "2026-08-20T09:26:47+00:00"
+ "updated": "2026-08-20T12:27:35+00:00"
 }
