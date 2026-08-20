@@ -35,9 +35,8 @@ Paměť obsahuje **37 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 6 dní · 11 záznamů
+- rubrika `world` · sledováno 7 dní · 12 záznamů
 - časová osa:
-  - **2026-08-13** (2 zdrojů) Israeli military moves as settlers besiege 3 West Bank homes
   - **2026-08-14** (2 zdrojů) Israeli military plans to transfer law enforcement in occupied West Bank to police
   - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
   - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
@@ -47,6 +46,7 @@ Paměť obsahuje **37 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-19** (2 zdrojů) Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
   - **2026-08-19** (3 zdrojů) Israel admits its soldiers fired at car in which Hind Rajab was killed
   - **2026-08-19** (2 zdrojů) Multiple deadly Israeli strikes in Gaza in under 24 hours
+  - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
@@ -63,7 +63,7 @@ Paměť obsahuje **37 vláken**. Aktivních za posledních 14 dní: **24**.
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 2 dní · 6 záznamů
+- rubrika `sport` · sledováno 2 dní · 7 záznamů
 - časová osa:
   - **2026-08-18** (3 zdrojů) Premier League to publish verdicts on referee and VAR decisions
   - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
@@ -71,6 +71,7 @@ Paměť obsahuje **37 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
   - **2026-08-20** (1 zdrojů) Premier League 2026-27 preview No 18: Nottingham Forest
   - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
+  - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 8 dní · 4 záznamů
