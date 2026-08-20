@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "timezone": "Europe/Prague",
   "public_count": 6,
   "slots": [
@@ -9,7 +9,7 @@
       "type": "daily",
       "min_words": 1400,
       "max_words": 2000,
-      "section": "wonder",
+      "section": "travel",
       "status": "draft"
     },
     {
@@ -18,7 +18,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "travel",
+      "section": "mysteries",
       "status": "draft"
     },
     {
@@ -64,7 +64,7 @@
     "type": "feature",
     "min_words": 1000,
     "max_words": 1600,
-    "section": "mysteries",
+    "section": "food",
     "status": "reserve"
   },
   "rules": {

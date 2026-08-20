@@ -5,41 +5,41 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "hormuz",
-    "justified",
-    "china",
-    "middle",
-    "qatar",
-    "south",
-    "pentagon",
     "north",
-    "china's",
-    "strait",
-    "trump's",
-    "gulf",
     "iranian",
-    "jong",
-    "trump",
-    "iran",
-    "taiwan",
-    "troops",
-    "ukraine",
-    "groundhog",
-    "united",
+    "east",
+    "trump's",
     "lebanon",
-    "korea",
-    "turkey",
+    "troops",
+    "groundhog",
+    "justified",
+    "united",
+    "ukraine",
     "tennessee",
     "bluster",
-    "states",
-    "champions",
+    "iran",
+    "qatar",
+    "hormuz",
+    "korea",
     "tehran",
-    "donald",
-    "washington",
-    "east",
     "russia's",
+    "trump",
+    "pentagon",
+    "washington",
+    "champions",
+    "states",
+    "china's",
+    "gulf",
     "league",
-    "oman"
+    "jong",
+    "taiwan",
+    "middle",
+    "donald",
+    "south",
+    "turkey",
+    "china",
+    "oman",
+    "strait"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -76,10 +76,11 @@
     "f0d5ecba517b",
     "172febb378d5",
     "d68c149320ae",
-    "fe307da7bf3f"
+    "fe307da7bf3f",
+    "e68fe4f445db"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-19",
+   "last_seen": "2026-08-20",
    "timeline": [
     {
      "date": "2026-08-09",
@@ -479,6 +480,118 @@
       "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
       "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf"
      ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+     "sources": 3,
+     "score": 56,
+     "event_id": "e68fe4f445db",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+      "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e8a425cbff50",
+   "title": "Premier League to publish verdicts on referee and VAR decisions",
+   "section": "sport",
+   "entities": [
+    "haaland's",
+    "boot",
+    "mcnulty's",
+    "phil",
+    "premier",
+    "league",
+    "golden"
+   ],
+   "event_ids": [
+    "e8a425cbff50",
+    "41179a85b0d9",
+    "3ff3a046513a"
+   ],
+   "first_seen": "2026-08-18",
+   "last_seen": "2026-08-20",
+   "timeline": [
+    {
+     "date": "2026-08-18",
+     "headline": "Premier League to publish verdicts on referee and VAR decisions",
+     "sources": 3,
+     "score": 64,
+     "event_id": "e8a425cbff50",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Haaland's main rivals for the Premier League Golden Boot",
+     "sources": 2,
+     "score": 49,
+     "event_id": "41179a85b0d9",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3ff3a046513a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "81515d5a1191",
+   "title": "Robinson and Tongue guide England to strong start against Pakistan",
+   "section": "sport",
+   "entities": [
+    "tongue",
+    "pakistan",
+    "robinson",
+    "england",
+    "headingley"
+   ],
+   "event_ids": [
+    "81515d5a1191",
+    "c2083dc9b402"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-20",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
+     "sources": 2,
+     "score": 55,
+     "event_id": "81515d5a1191",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Tongue & Robinson cut Headingley ball in half",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2083dc9b402",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
     }
    ]
   },
@@ -860,36 +973,6 @@
    ]
   },
   {
-   "id": "81515d5a1191",
-   "title": "Robinson and Tongue guide England to strong start against Pakistan",
-   "section": "sport",
-   "entities": [
-    "pakistan",
-    "robinson",
-    "tongue",
-    "england"
-   ],
-   "event_ids": [
-    "81515d5a1191"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-19",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
-     "sources": 2,
-     "score": 55,
-     "event_id": "81515d5a1191",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -1166,49 +1249,6 @@
       "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
       "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
       "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e8a425cbff50",
-   "title": "Premier League to publish verdicts on referee and VAR decisions",
-   "section": "sport",
-   "entities": [
-    "haaland's",
-    "league",
-    "boot",
-    "premier",
-    "golden"
-   ],
-   "event_ids": [
-    "e8a425cbff50",
-    "41179a85b0d9"
-   ],
-   "first_seen": "2026-08-18",
-   "last_seen": "2026-08-18",
-   "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "Premier League to publish verdicts on referee and VAR decisions",
-     "sources": 3,
-     "score": 64,
-     "event_id": "e8a425cbff50",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Haaland's main rivals for the Premier League Golden Boot",
-     "sources": 2,
-     "score": 49,
-     "event_id": "41179a85b0d9",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
      ]
     }
    ]
@@ -2308,5 +2348,5 @@
    ]
   }
  ],
- "updated": "2026-08-19T21:25:21+00:00"
+ "updated": "2026-08-20T00:27:50+00:00"
 }
