@@ -48,7 +48,24 @@
   - **Investing.com** — Trump pauses 50% tariffs on Canada, claims trade deal is close
     <https://www.investing.com/news/economy-news/trump-pauses-50-tariffs-on-canada-claims-trade-deal-is-close-4866391>
 
-### 3. Trump threatens 'tremendous economic consequences' on any country helping Iran
+### 3. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+- id události: `cedf7f5c0142`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+    <https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss>
+    > Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, according to the State Emergency Service of Ukraine.
+  - **The Guardian World** — Kyiv comes under Russian missile attack, killing at least nine
+    <https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack>
+    > Death reported after residential areas and warehouses hit in heavy bombardment in capital and surrounding region A heavy Russian bombardment killed at least nine people in Ukraine’s capital and its surrounding region overnight, authorities said on Thursday. A missile attack on Ky
+  - **France 24** — Kyiv targeted by massive Russian strikes killing several people
+    <https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people>
+    > A Russian missile barrage overnight on Thursday killed at least nine people in Kyiv as explosions echoed across the capital throughout the night, local authorities said. At least 33 people were wounded.
+  - **Al Jazeera** — At least 6 killed in multiple Russian missile strikes across Ukraine
+    <https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss>
+    > Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
+
+### 4. Trump threatens 'tremendous economic consequences' on any country helping Iran
 - id události: `61c52ea5c150`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,23 +82,6 @@
     <https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year>
     > US President Donald Trump said Wednesday he plans to meet North Korean leader Kim Jong Un later this year, seeking to revive their first-term relationship. Trump said it was important to “get along” with Kim and claimed Pyongyang possessed 57 “very powerful” nuclear weapons, amid
 
-### 4. Premier League to publish verdicts on referee and VAR decisions
-- id události: `e8a425cbff50`  ·  rubrika: `sport`  ·  skóre: 64  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Premier League to publish verdicts on referee and VAR decisions
-    <https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss>
-    > The Premier League will publish the judgements of its Key Match Incidents Panel for the first time this season.
-  - **Al Jazeera** — Premier League what to know: Schedule, prediction, transfers and more
-    <https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss>
-    > Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
-  - **Guardian Sport** — Premier League 2026-27 preview No 14: Liverpool
-    <https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool>
-    > Andoni Iraola has his hands full – replacing Mo Salah and restoring faith at Anfield – and will hope big name investors bring stability not disharmony Guardian writers’ predicted position: 4th (NB: this is not necessarily Andy Hunter’s prediction but the average of our writers’ t
-  - **Guardian Sport** — David Squires on … new managers causing a stir before Premier League’s return
-    <https://www.theguardian.com/football/picture/2026/aug/18/david-squires-new-managers-causing-stir-premier-league-return>
-    > Our cartoonist on the nine fresh faces in club dugouts and their potential impact as they begin work Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -91,7 +91,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Regulation of artificial intelligence — <https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
 
 ---
 
@@ -112,13 +112,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 37  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 38  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 37
-  2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’
+rubrika: world · sledováno od 2026-08-09 · záznamů: 38
   2026-08-16  (2 zdrojů, síla 42)  Iran war: Qatar denies holding missing Iranian fighter pilots
   2026-08-16  (2 zdrojů, síla 42)  Qatar denies capturing three Iranian pilots after downing fighter jets
   2026-08-17  (3 zdrojů, síla 55)  Trump says US to scale back military drills with South Korea after it stayed out of Iran war
@@ -138,15 +137,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 37
   2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request
   2026-08-20  (3 zdrojů, síla 56)  Iran war live: Trump announces ‘most crushing’ Iran sanctions
   2026-08-20  (4 zdrojů, síla 67)  Trump threatens 'tremendous economic consequences' on any country helping Iran
+  2026-08-20  (3 zdrojů, síla 57)  Middle East updates: Trump warns 'economic consequences' for nations helping Iran
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 14  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 15  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 14
+rubrika: world · sledováno od 2026-08-11 · záznamů: 15
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -161,6 +161,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 14
   2026-08-18  (2 zdrojů, síla 46)  Ukraine, Russia trade strikes; Wildberries site hit again
   2026-08-18  (3 zdrojů, síla 53)  Ukraine appeals to FIA to overturn Russia inclusion
   2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv
+  2026-08-20  (4 zdrojů, síla 69)  Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
 ```
 
 ---

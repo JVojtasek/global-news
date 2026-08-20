@@ -5,41 +5,41 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "tehran",
-    "hormuz",
-    "north",
-    "champions",
-    "russia's",
-    "turkey",
-    "washington",
     "china's",
+    "jong",
+    "ukraine",
+    "korea",
+    "troops",
+    "trump's",
+    "champions",
+    "states",
+    "russia's",
     "tennessee",
-    "league",
     "qatar",
+    "east",
+    "oman",
+    "washington",
+    "bluster",
+    "pentagon",
+    "middle",
+    "north",
+    "lebanon",
+    "south",
+    "iranian",
+    "china",
+    "groundhog",
+    "hormuz",
+    "united",
     "trump",
     "strait",
-    "taiwan",
-    "united",
-    "east",
-    "iran",
-    "jong",
-    "trump's",
-    "china",
-    "ukraine",
-    "oman",
-    "groundhog",
-    "bluster",
-    "justified",
-    "lebanon",
-    "pentagon",
-    "troops",
-    "middle",
-    "iranian",
-    "states",
-    "south",
-    "korea",
+    "turkey",
     "gulf",
-    "donald"
+    "tehran",
+    "donald",
+    "league",
+    "iran",
+    "justified",
+    "taiwan"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -78,7 +78,8 @@
     "d68c149320ae",
     "fe307da7bf3f",
     "e68fe4f445db",
-    "61c52ea5c150"
+    "61c52ea5c150",
+    "fbb58bedad9a"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-20",
@@ -505,6 +506,18 @@
       "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Middle East updates: Trump warns 'economic consequences' for nations helping Iran",
+     "sources": 3,
+     "score": 57,
+     "event_id": "fbb58bedad9a",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-trump-warns-economic-consequences-for-nations-helping-iran/live-78438056?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -513,22 +526,22 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "zelenskyy",
-    "north",
-    "several",
-    "izmail",
     "ukraine",
+    "izmail",
+    "overnight",
+    "kyiv",
+    "four",
+    "several",
     "atacms",
+    "zelenskyy",
+    "wildberries",
+    "russia",
+    "europe",
     "russian",
     "korean",
-    "overnight",
     "belgorod",
-    "wildberries",
-    "four",
-    "europe",
-    "russia",
-    "zelensky",
-    "kyiv"
+    "north",
+    "zelensky"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -544,7 +557,8 @@
     "4e323bc20345",
     "98346948dc87",
     "df0b1bdc163d",
-    "e2b32b0aa268"
+    "e2b32b0aa268",
+    "cedf7f5c0142"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-08-20",
@@ -704,6 +718,18 @@
      "links": [
       "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+     "sources": 4,
+     "score": 69,
+     "event_id": "cedf7f5c0142",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
      ]
     }
    ]
@@ -2374,5 +2400,5 @@
    ]
   }
  ],
- "updated": "2026-08-20T03:31:51+00:00"
+ "updated": "2026-08-20T06:27:21+00:00"
 }
