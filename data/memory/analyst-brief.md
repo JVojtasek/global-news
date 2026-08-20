@@ -21,9 +21,8 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
   - **2026-08-20** (3 zdrojů) Middle East updates: Trump warns 'economic consequences' for nations helping Iran
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 9 dní · 15 záznamů
+- rubrika `world` · sledováno 9 dní · 16 záznamů
 - časová osa:
-  - **2026-08-12** (2 zdrojů) Four killed in overnight attacks in southern Russia, Ukraine
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
   - **2026-08-17** (2 zdrojů) Ukraine and Russia intensify attacks, several killed in Belgorod border region
@@ -33,6 +32,7 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
   - **2026-08-18** (3 zdrojů) Ukraine appeals to FIA to overturn Russia inclusion
   - **2026-08-20** (2 zdrojů) Ukraine: Several killed in fresh Russian strikes on Kyiv
   - **2026-08-20** (4 zdrojů) Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+  - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 6 dní · 11 záznamů
@@ -62,6 +62,14 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 2 dní · 4 záznamů
+- časová osa:
+  - **2026-08-18** (3 zdrojů) Premier League to publish verdicts on referee and VAR decisions
+  - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
+  - **2026-08-20** (2 zdrojů) How will your club fare? Phil McNulty's Premier League predictions
+  - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
+
 ### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
 - rubrika `sport` · sledováno 1 dní · 4 záznamů
 - časová osa:
@@ -69,11 +77,3 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
   - **2026-08-16** (2 zdrojů) Arsenal cruise to win over Manchester City in Community Shield
   - **2026-08-17** (2 zdrojů) 'He's the professor' - Rodri's Manchester City journey
   - **2026-08-17** (1 zdrojů) Enzo Maresca’s Manchester City opener was startlingly bad
-
-### Hayden Panettiere: A life of struggles alongside screen success
-- rubrika `world` · sledováno 0 dní · 4 záznamů
-- časová osa:
-  - **2026-08-17** (3 zdrojů) Hayden Panettiere: A life of struggles alongside screen success
-  - **2026-08-17** (3 zdrojů) Heroes actress Hayden Panettiere dies aged 36
-  - **2026-08-17** (2 zdrojů) Hayden Panettiere, actor in Heroes and Nashville, dies aged 36
-  - **2026-08-17** (1 zdrojů) Hollywood continues to fail child stars and Hayden Panettiere is the latest casualty | Jesse Hassenger
