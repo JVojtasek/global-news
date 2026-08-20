@@ -48,7 +48,24 @@
   - **Investing.com** — Trump pauses 50% tariffs on Canada, claims trade deal is close
     <https://www.investing.com/news/economy-news/trump-pauses-50-tariffs-on-canada-claims-trade-deal-is-close-4866391>
 
-### 3. Premier League to publish verdicts on referee and VAR decisions
+### 3. Trump threatens 'tremendous economic consequences' on any country helping Iran
+- id události: `61c52ea5c150`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Trump threatens 'tremendous economic consequences' on any country helping Iran
+    <https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss>
+    > It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
+  - **BBC Business** — Trump threatens 'tremendous economic consequences' on any country helping Iran
+    <https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss>
+    > It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
+  - **Al Jazeera** — Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+    <https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss>
+    > Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
+  - **France 24** — Trump says he will meet North Korea’s Kim Jong Un later this year
+    <https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year>
+    > US President Donald Trump said Wednesday he plans to meet North Korean leader Kim Jong Un later this year, seeking to revive their first-term relationship. Trump said it was important to “get along” with Kim and claimed Pyongyang possessed 57 “very powerful” nuclear weapons, amid
+
+### 4. Premier League to publish verdicts on referee and VAR decisions
 - id události: `e8a425cbff50`  ·  rubrika: `sport`  ·  skóre: 64  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,22 +82,6 @@
     <https://www.theguardian.com/football/picture/2026/aug/18/david-squires-new-managers-causing-stir-premier-league-return>
     > Our cartoonist on the nine fresh faces in club dugouts and their potential impact as they begin work Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...
 
-### 4. OpenAI makes ChatGPT less 'human' for teens in new safety update
-- id události: `762a25ddd63d`  ·  rubrika: `tech`  ·  skóre: 64  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Technology** — OpenAI makes ChatGPT less 'human' for teens in new safety update
-    <https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss>
-    > OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.
-  - **The Verge** — ChatGPT is getting a dedicated mode for teens
-    <https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode>
-    > OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and t
-  - **The Verge AI** — ChatGPT is getting a dedicated mode for teens
-    <https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode>
-    > OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and t
-  - **Investing.com** — OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls
-    <https://www.investing.com/news/stock-market-news/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls-4865012>
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -90,7 +91,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Regulation of artificial intelligence — <https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence>
 
 ---
 
@@ -111,13 +112,12 @@
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 36  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 37  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 36
-  2026-08-15  (2 zdrojů, síla 45)  Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+rubrika: world · sledováno od 2026-08-09 · záznamů: 37
   2026-08-15  (2 zdrojů, síla 40)  Trump threatens to declare strait of Hormuz ‘territory of the United States’
   2026-08-16  (2 zdrojů, síla 42)  Iran war: Qatar denies holding missing Iranian fighter pilots
   2026-08-16  (2 zdrojů, síla 42)  Qatar denies capturing three Iranian pilots after downing fighter jets
@@ -137,15 +137,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 36
   2026-08-19  (2 zdrojů, síla 47)  Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
   2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request
   2026-08-20  (3 zdrojů, síla 56)  Iran war live: Trump announces ‘most crushing’ Iran sanctions
+  2026-08-20  (4 zdrojů, síla 67)  Trump threatens 'tremendous economic consequences' on any country helping Iran
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 13  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 14  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 13
+rubrika: world · sledováno od 2026-08-11 · záznamů: 14
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -159,6 +160,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 13
   2026-08-18  (2 zdrojů, síla 43)  Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
   2026-08-18  (2 zdrojů, síla 46)  Ukraine, Russia trade strikes; Wildberries site hit again
   2026-08-18  (3 zdrojů, síla 53)  Ukraine appeals to FIA to overturn Russia inclusion
+  2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv
 ```
 
 ---

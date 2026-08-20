@@ -7,9 +7,8 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 11 dní · 36 záznamů
+- rubrika `world` · sledováno 11 dní · 37 záznamů
 - časová osa:
-  - **2026-08-17** (2 zdrojů) Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
   - **2026-08-18** (3 zdrojů) BBC breaks down Trump's latest shift on North and South Korea
   - **2026-08-18** (3 zdrojů) South Korea president calls for military independence in wake of Trump call to cut joint drills
   - **2026-08-18** (2 zdrojů) South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
@@ -19,11 +18,11 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
   - **2026-08-19** (2 zdrojů) Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
   - **2026-08-19** (5 zdrojů) South Korea shortens war games with US, citing Washington request
   - **2026-08-20** (3 zdrojů) Iran war live: Trump announces ‘most crushing’ Iran sanctions
+  - **2026-08-20** (4 zdrojů) Trump threatens 'tremendous economic consequences' on any country helping Iran
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 7 dní · 13 záznamů
+- rubrika `world` · sledováno 9 dní · 14 záznamů
 - časová osa:
-  - **2026-08-11** (2 zdrojů) Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
   - **2026-08-11** (2 zdrojů) Ukraine says Russia fired North Korean missiles
   - **2026-08-12** (2 zdrojů) Four killed in overnight attacks in southern Russia, Ukraine
   - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
@@ -33,6 +32,7 @@ Paměť obsahuje **36 vláken**. Aktivních za posledních 14 dní: **23**.
   - **2026-08-18** (2 zdrojů) Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
   - **2026-08-18** (2 zdrojů) Ukraine, Russia trade strikes; Wildberries site hit again
   - **2026-08-18** (3 zdrojů) Ukraine appeals to FIA to overturn Russia inclusion
+  - **2026-08-20** (2 zdrojů) Ukraine: Several killed in fresh Russian strikes on Kyiv
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 6 dní · 11 záznamů
