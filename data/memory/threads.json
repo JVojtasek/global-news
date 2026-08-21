@@ -281,6 +281,63 @@
    ]
   },
   {
+   "id": "44c13320414b",
+   "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+   "section": "world",
+   "entities": [
+    "mail",
+    "prince",
+    "rival",
+    "daily",
+    "meghan",
+    "britain",
+    "harry"
+   ],
+   "event_ids": [
+    "44c13320414b",
+    "8baa910d825c",
+    "885f09d9d276"
+   ],
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-20",
+     "headline": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+     "sources": 2,
+     "score": 56,
+     "event_id": "44c13320414b",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
+      "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
+      "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Prince Harry and Meghan ‘moving back to Britain this month’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8baa910d825c",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
+      "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
+     "sources": 2,
+     "score": 48,
+     "event_id": "885f09d9d276",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260821-prince-harry-and-meghan-are-returning-to-the-uk-with-their-children"
+     ]
+    }
+   ]
+  },
+  {
    "id": "84ce4047c1c5",
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
@@ -1385,49 +1442,6 @@
      "links": [
       "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
       "https://huggingface.co/blog/eee-community-evals"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "44c13320414b",
-   "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
-   "section": "world",
-   "entities": [
-    "rival",
-    "prince",
-    "meghan",
-    "britain",
-    "harry"
-   ],
-   "event_ids": [
-    "44c13320414b",
-    "8baa910d825c"
-   ],
-   "first_seen": "2026-08-20",
-   "last_seen": "2026-08-20",
-   "timeline": [
-    {
-     "date": "2026-08-20",
-     "headline": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
-     "sources": 2,
-     "score": 56,
-     "event_id": "44c13320414b",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
-      "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
-      "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Prince Harry and Meghan ‘moving back to Britain this month’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8baa910d825c",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
-      "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit"
      ]
     }
    ]
@@ -2720,5 +2734,5 @@
    ]
   }
  ],
- "updated": "2026-08-21T12:27:45+00:00"
+ "updated": "2026-08-21T15:26:54+00:00"
 }
