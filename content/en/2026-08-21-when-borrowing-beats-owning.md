@@ -1,14 +1,15 @@
 ---
 slug: when-borrowing-beats-owning
-title: "The Library Beyond Books: When Borrowing Things Really Beats Owning Them"
-dek: "A shared drill or carpet cleaner can save money and materials, but only when the loan replaces a purchase and the journey, upkeep and rules still make sense."
+title: 'The Library Beyond Books: When Borrowing Things Really Beats Owning Them'
+dek: A shared drill or carpet cleaner can save money and materials, but only when
+  the loan replaces a purchase and the journey, upkeep and rules still make sense.
 section: goodnews
 type: analysis
 depth: open
 lang: en
 date: '2026-08-21'
-status: draft
-confidence: 91
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: evergreen-library-of-things-borrowing-test
 series: The Wider Lens
-image_query: conceptual editorial illustration community library shelves holding tools household equipment camping gear no brands no text
+image_query: conceptual editorial illustration community library shelves holding tools
+  household equipment camping gear no brands no text
 sources:
 - title: Our year in review 2023
   publisher: Library of Things
@@ -49,7 +51,8 @@ quiz:
   - When the loan replaces a purchase and travel and upkeep do not erase the saving
   - Only when the item is electrical
   answer: 1
-  explanation: Sharing helps most when it displaces production of another item; transport, cleaning, repair and breakage still belong in the calculation.
+  explanation: Sharing helps most when it displaces production of another item; transport,
+    cleaning, repair and breakage still belong in the calculation.
 ---
 
 ## BRIEFLY

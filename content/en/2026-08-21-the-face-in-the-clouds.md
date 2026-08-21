@@ -1,14 +1,15 @@
 ---
 slug: the-face-in-the-clouds
-title: "The Face in the Clouds: Why the Brain Finds People in Things"
-dek: "A socket can look startled and a car can seem to smile because face detection is fast, generous and corrected only after it has already raised the possibility."
+title: 'The Face in the Clouds: Why the Brain Finds People in Things'
+dek: A socket can look startled and a car can seem to smile because face detection
+  is fast, generous and corrected only after it has already raised the possibility.
 section: mysteries
 type: feature
 depth: open
 lang: en
 date: '2026-08-21'
 status: reserve
-confidence: 93
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: evergreen-face-pareidolia-perception
 series: The Wider Lens
-image_query: playful editorial still life ordinary objects appearing face-like sockets kettle car front clouds no actual people no text
+image_query: playful editorial still life ordinary objects appearing face-like sockets
+  kettle car front clouds no actual people no text
 sources:
 - title: Neural correlates of face pareidolia
   publisher: PLOS ONE via PubMed Central
@@ -43,13 +45,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What did the 2020 brain-imaging study find happened within roughly 250 milliseconds?
+  question: What did the 2020 brain-imaging study find happened within roughly 250
+    milliseconds?
   options:
   - Illusory faces became permanently indistinguishable from human faces
   - The brain stopped processing the image
   - The representation shifted from face-like toward an ordinary object
   answer: 2
-  explanation: The early response treated face-like objects more like faces, but within about 250 milliseconds their representation became similar to ordinary objects.
+  explanation: The early response treated face-like objects more like faces, but within
+    about 250 milliseconds their representation became similar to ordinary objects.
 ---
 
 ## BRIEFLY

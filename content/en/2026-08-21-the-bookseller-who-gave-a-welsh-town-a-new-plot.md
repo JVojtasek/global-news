@@ -1,14 +1,15 @@
 ---
 slug: the-bookseller-who-gave-a-welsh-town-a-new-plot
-title: "The Bookseller Who Gave a Welsh Town a New Plot"
-dek: "Richard Booth did not rescue Hay-on-Wye with one shop or one stunt. He helped create a cluster, a story and a reason for visitors to stay."
+title: The Bookseller Who Gave a Welsh Town a New Plot
+dek: Richard Booth did not rescue Hay-on-Wye with one shop or one stunt. He helped
+  create a cluster, a story and a reason for visitors to stay.
 section: travel
 type: analysis
 depth: open
 lang: en
 date: '2026-08-21'
-status: draft
-confidence: 92
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: evergreen-hay-on-wye-book-town
 series: The Wider Lens
-image_query: editorial travel illustration Hay-on-Wye Welsh market town independent secondhand bookshops castle streets no logos no text
+image_query: editorial travel illustration Hay-on-Wye Welsh market town independent
+  secondhand bookshops castle streets no logos no text
 sources:
 - title: The King of Hay
   publisher: Hay Castle Trust
@@ -43,13 +45,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What made Hay-on-Wye more durable as a destination than a single famous bookshop?
+  question: What made Hay-on-Wye more durable as a destination than a single famous
+    bookshop?
   options:
   - A cluster of complementary shops, institutions and recurring events
   - One permanent publicity stunt
   - Cheap books alone
   answer: 0
-  explanation: Booth helped form a concentration of booksellers, while the castle, town businesses and festival gave visitors several reasons to come and stay.
+  explanation: Booth helped form a concentration of booksellers, while the castle,
+    town businesses and festival gave visitors several reasons to come and stay.
 ---
 
 ## BRIEFLY
