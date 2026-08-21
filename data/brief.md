@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-20
+# ZADÁNÍ PRO REDAKCI — 2026-08-21
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -86,12 +86,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### phishing scam
+- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Generative AI — <https://en.wikipedia.org/wiki/Generative_AI>
+  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
+  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
 
 ---
 

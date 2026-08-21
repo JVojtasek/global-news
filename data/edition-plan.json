@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "timezone": "Europe/Prague",
   "public_count": 6,
   "slots": [
@@ -9,7 +9,7 @@
       "type": "daily",
       "min_words": 1400,
       "max_words": 2000,
-      "section": "travel",
+      "section": "food",
       "status": "draft"
     },
     {
@@ -18,7 +18,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "mysteries",
+      "section": "sport",
       "status": "draft"
     },
     {
@@ -27,7 +27,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "ai",
+      "section": "safety",
       "status": "draft"
     },
     {
@@ -36,7 +36,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1600,
-      "section": "safety",
+      "section": "soul",
       "status": "draft"
     },
     {
@@ -45,7 +45,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "soul",
+      "section": "goodnews",
       "status": "draft"
     },
     {
@@ -54,7 +54,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "goodnews",
+      "section": "travel",
       "status": "draft"
     }
   ],
@@ -64,7 +64,7 @@
     "type": "feature",
     "min_words": 1000,
     "max_words": 1600,
-    "section": "food",
+    "section": "mysteries",
     "status": "reserve"
   },
   "rules": {
