@@ -1,59 +1,68 @@
 ---
 slug: how-the-five-stages-of-grief-became-a-checklist
-title: "How the Five Stages of Grief Became a Checklist"
-dek: "A humane idea about listening to dying patients escaped its original setting and hardened into a sequence many mourners think they must pass. The history offers a better way to use the model."
+title: How the Five Stages of Grief Became a Checklist
+dek: A humane idea about listening to dying patients escaped its original setting
+  and hardened into a sequence many mourners think they must pass. The history offers
+  a better way to use the model.
 section: soul
 type: analysis
 depth: open
 lang: en
-date: 2026-08-21
-status: draft
-confidence: 90
+date: '2026-08-21'
+status: review
+confidence: 94
 load: 0
 topics:
-  - grief
-  - psychology
-  - mental health
-  - history of ideas
+- grief
+- psychology
+- mental health
+- history of ideas
 automation_generated: true
 edition_slot: 4
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: "The Wider Lens"
-image_query: "conceptual editorial illustration of a winding path through changing weather grief memory and acceptance no text no people"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: The Wider Lens
+image_query: conceptual editorial illustration of a winding path through changing
+  weather grief memory and acceptance no text no people
 sources:
-  - title: "Stanford acquires the archive of death and dying pioneer Elisabeth Kübler-Ross"
-    publisher: "Stanford Medicine"
-    published_at: "2019-03-26"
-    source_type: "institutional archive report"
-    url: "https://med.stanford.edu/news/all-news/2019/03/stanford-acquires-archive-of-elisabeth-kubler-ross.html"
-  - title: "Cautioning Health-Care Professionals: Bereaved Persons Are Misguided Through the Stages of Grief"
-    publisher: "Omega: Journal of Death and Dying / PubMed Central"
-    published_at: "2017-02-13"
-    source_type: "peer-reviewed critical analysis"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5375020/"
-  - title: "Stages of Grief Portrayed on the Internet: A Systematic Analysis and Critical Appraisal"
-    publisher: "Frontiers in Psychology"
-    published_at: "2021-12-02"
-    source_type: "peer-reviewed systematic web-content analysis"
-    url: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.772696/full"
-  - title: "Prolonged Grief Disorder"
-    publisher: "American Psychiatric Association"
-    published_at: "2025-08-01"
-    source_type: "professional clinical guidance; physician reviewed August 2025"
-    url: "https://www.psychiatry.org/patients-families/prolonged-grief-disorder"
-qma_path: ""
+- title: Stanford acquires the archive of death and dying pioneer Elisabeth Kübler-Ross
+  publisher: Stanford Medicine
+  published_at: '2019-03-26'
+  source_type: institutional archive report
+  url: https://med.stanford.edu/news/all-news/2019/03/stanford-acquires-archive-of-elisabeth-kubler-ross.html
+- title: 'Cautioning Health-Care Professionals: Bereaved Persons Are Misguided Through
+    the Stages of Grief'
+  publisher: 'Omega: Journal of Death and Dying / PubMed Central'
+  published_at: '2017-02-13'
+  source_type: peer-reviewed critical analysis
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5375020/
+- title: 'Stages of Grief Portrayed on the Internet: A Systematic Analysis and Critical
+    Appraisal'
+  publisher: Frontiers in Psychology
+  published_at: '2021-12-02'
+  source_type: peer-reviewed systematic web-content analysis
+  url: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.772696/full
+- title: Prolonged Grief Disorder
+  publisher: American Psychiatric Association
+  published_at: '2025-08-01'
+  source_type: professional clinical guidance; physician reviewed August 2025
+  url: https://www.psychiatry.org/patients-families/prolonged-grief-disorder
+qma_path: ''
 tickers: []
 quiz:
-  question: "The observations behind Kübler-Ross's 1969 model primarily concerned which group?"
+  question: The observations behind Kübler-Ross's 1969 model primarily concerned which
+    group?
   options:
-    - "Recently bereaved family members"
-    - "People who were terminally ill and facing their own deaths"
-    - "Emergency workers after disasters"
+  - Recently bereaved family members
+  - People who were terminally ill and facing their own deaths
+  - Emergency workers after disasters
   answer: 1
-  explanation: "On Death and Dying grew from interviews with terminally ill patients. The stages were later transferred much more broadly to bereavement and other forms of change."
+  explanation: On Death and Dying grew from interviews with terminally ill patients.
+    The stages were later transferred much more broadly to bereavement and other forms
+    of change.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

@@ -1,59 +1,64 @@
 ---
 slug: the-ten-minute-charging-audit
-title: "The Ten-Minute Charging Audit: Reducing Lithium-Ion Fire Risk at Home"
-dek: "Most batteries work without incident. A short household check can keep an uncommon failure from becoming a blocked exit, a fast-moving fire or an avoidable injury."
+title: 'The Ten-Minute Charging Audit: Reducing Lithium-Ion Fire Risk at Home'
+dek: Most batteries work without incident. A short household check can keep an uncommon
+  failure from becoming a blocked exit, a fast-moving fire or an avoidable injury.
 section: safety
 type: analysis
 depth: open
 lang: en
-date: 2026-08-21
-status: draft
-confidence: 91
+date: '2026-08-21'
+status: published
+confidence: 94
 load: 0
 topics:
-  - battery safety
-  - household preparedness
-  - fire prevention
-  - micromobility
+- battery safety
+- household preparedness
+- fire prevention
+- micromobility
 automation_generated: true
 edition_slot: 3
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: "The Wider Lens"
-image_query: "conceptual editorial illustration of safe household battery charging station clear exit uncluttered floor no brands"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: The Wider Lens
+image_query: conceptual editorial illustration of safe household battery charging
+  station clear exit uncluttered floor no brands
 sources:
-  - title: "Battery Fire Safety"
-    publisher: "U.S. Fire Administration"
-    published_at: "2024-11-07"
-    source_type: "official guidance"
-    url: "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/batteries/"
-  - title: "Micromobility Information Center"
-    publisher: "U.S. Consumer Product Safety Commission"
-    published_at: "2026-08-21"
-    source_type: "regulator guidance; page accessed on this date"
-    url: "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Micromobility-Information-Center"
-  - title: "Learn to Take C.H.A.R.G.E. of Battery Safety"
-    publisher: "U.S. Fire Administration"
-    published_at: "2023-11-30"
-    source_type: "official guidance; reviewed 2026-05-01"
-    url: "https://www.usfa.fema.gov/blog/learn-to-take-charge-of-battery-safety/"
-  - title: "CPSC Urges Consumers to Not Buy or Use Universal Chargers with Micromobility Products Due to Fire Hazard"
-    publisher: "U.S. Consumer Product Safety Commission"
-    published_at: "2024-09-05"
-    source_type: "regulator warning"
-    url: "https://www.cpsc.gov/Newsroom/News-Releases/2024/CPSC-Urges-Consumers-to-Not-Buy-or-Use-Universal-Chargers-with-Micromobility-Products-Due-to-Fire-Hazard"
-qma_path: ""
+- title: Battery Fire Safety
+  publisher: U.S. Fire Administration
+  published_at: '2024-11-07'
+  source_type: official guidance
+  url: https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/batteries/
+- title: Micromobility Information Center
+  publisher: U.S. Consumer Product Safety Commission
+  published_at: '2026-08-21'
+  source_type: regulator guidance; page accessed on this date
+  url: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Micromobility-Information-Center
+- title: Learn to Take C.H.A.R.G.E. of Battery Safety
+  publisher: U.S. Fire Administration
+  published_at: '2023-11-30'
+  source_type: official guidance; reviewed 2026-05-01
+  url: https://www.usfa.fema.gov/blog/learn-to-take-charge-of-battery-safety/
+- title: CPSC Urges Consumers to Not Buy or Use Universal Chargers with Micromobility
+    Products Due to Fire Hazard
+  publisher: U.S. Consumer Product Safety Commission
+  published_at: '2024-09-05'
+  source_type: regulator warning
+  url: https://www.cpsc.gov/Newsroom/News-Releases/2024/CPSC-Urges-Consumers-to-Not-Buy-or-Use-Universal-Chargers-with-Micromobility-Products-Due-to-Fire-Hazard
+qma_path: ''
 tickers: []
 quiz:
-  question: "Your e-bike charger is lost. Which replacement is the safest choice?"
+  question: Your e-bike charger is lost. Which replacement is the safest choice?
   options:
-    - "A universal charger whose plug fits"
-    - "A charger supplied or specifically approved for that exact device"
-    - "The highest-wattage charger available"
+  - A universal charger whose plug fits
+  - A charger supplied or specifically approved for that exact device
+  - The highest-wattage charger available
   answer: 1
-  explanation: "CPSC warns that a plug can fit while the charger remains electrically incompatible. Use the original charger or a replacement tested and approved for the specific device."
+  explanation: CPSC warns that a plug can fit while the charger remains electrically
+    incompatible. Use the original charger or a replacement tested and approved for
+    the specific device.
 ---
 
 ## BRIEFLY

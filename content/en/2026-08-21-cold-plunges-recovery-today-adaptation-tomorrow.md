@@ -1,42 +1,48 @@
 ---
 slug: cold-plunges-recovery-today-adaptation-tomorrow
-title: "Cold Plunges After Training: Recovery Today, Adaptation Tomorrow"
-dek: "Cold water may ease tomorrow's soreness while working against some of the adaptation you trained for. The right question is not whether it works, but which result matters."
+title: 'Cold Plunges After Training: Recovery Today, Adaptation Tomorrow'
+dek: Cold water may ease tomorrow's soreness while working against some of the adaptation
+  you trained for. The right question is not whether it works, but which result matters.
 section: sport
 type: analysis
 depth: open
 lang: en
-date: 2026-08-21
-status: draft
-confidence: 82
+date: '2026-08-21'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: "The Wider Lens"
-image_query: "conceptual sports recovery illustration of training shoes beside a cold water tub, no people, brands or text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: The Wider Lens
+image_query: conceptual sports recovery illustration of training shoes beside a cold
+  water tub, no people, brands or text
 sources:
-  - name: "The Journal of Physiology via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/26174323/"
-    published: "2015-08-13"
-  - name: "Sports Medicine"
-    url: "https://link.springer.com/article/10.1007/s40279-022-01644-9"
-    published: "2022-02-14"
-  - name: "Sports Medicine via Macquarie University"
-    url: "https://researchers.mq.edu.au/en/publications/effects-of-cold-water-immersion-compared-with-other-recovery-moda/"
-    published: "2022-12-17"
-  - name: "Frontiers in Sports and Active Living"
-    url: "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.660291/full"
-    published: "2021-04-26"
+- name: The Journal of Physiology via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/26174323/
+  published: '2015-08-13'
+- name: Sports Medicine
+  url: https://link.springer.com/article/10.1007/s40279-022-01644-9
+  published: '2022-02-14'
+- name: Sports Medicine via Macquarie University
+  url: https://researchers.mq.edu.au/en/publications/effects-of-cold-water-immersion-compared-with-other-recovery-moda/
+  published: '2022-12-17'
+- name: Frontiers in Sports and Active Living
+  url: https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.660291/full
+  published: '2021-04-26'
 quiz:
-  question: "What did the 2022 review find 24 hours after high-intensity exercise?"
-  options: ["Cold water reliably restored maximal strength", "Cold water improved soreness and perceived recovery but not strength recovery", "Cold water prevented all signs of muscle damage"]
+  question: What did the 2022 review find 24 hours after high-intensity exercise?
+  options:
+  - Cold water reliably restored maximal strength
+  - Cold water improved soreness and perceived recovery but not strength recovery
+  - Cold water prevented all signs of muscle damage
   answer: 1
-  explanation: "The review found benefits for soreness, perceived recovery and muscular power, while strength recovery did not improve significantly."
+  explanation: The review found benefits for soreness, perceived recovery and muscular
+    power, while strength recovery did not improve significantly.
 ---
 
 ## BRIEFLY

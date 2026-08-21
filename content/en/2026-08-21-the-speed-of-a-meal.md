@@ -1,42 +1,50 @@
 ---
 slug: the-speed-of-a-meal
-title: "The Speed of a Meal: What Food Texture Can Tell Us About Overeating"
-dek: "Before blaming appetite or willpower, look at the quiet engineering of a meal: how quickly it can be swallowed and how many calories arrive with each bite."
+title: 'The Speed of a Meal: What Food Texture Can Tell Us About Overeating'
+dek: 'Before blaming appetite or willpower, look at the quiet engineering of a meal:
+  how quickly it can be swallowed and how many calories arrive with each bite.'
 section: food
 type: daily
 depth: open
 lang: en
-date: 2026-08-21
-status: draft
-confidence: 86
+date: '2026-08-21'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: "The Wider Lens"
-image_query: "conceptual editorial still life showing two meal paths, one soft fast meal and one textured slow meal, no brands or text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: The Wider Lens
+image_query: conceptual editorial still life showing two meal paths, one soft fast
+  meal and one textured slow meal, no brands or text
 sources:
-  - name: "Cell Metabolism via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/31105044/"
-    published: "2019-05-16"
-  - name: "The American Journal of Clinical Nutrition via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/35285882/"
-    published: "2022-03-14"
-  - name: "The American Journal of Clinical Nutrition via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/41314613/"
-    published: "2025-11-26"
-  - name: "Nature Medicine"
-    url: "https://www.nature.com/articles/s41591-025-03842-0"
-    published: "2025-08-04"
+- name: Cell Metabolism via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/31105044/
+  published: '2019-05-16'
+- name: The American Journal of Clinical Nutrition via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/35285882/
+  published: '2022-03-14'
+- name: The American Journal of Clinical Nutrition via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/41314613/
+  published: '2025-11-26'
+- name: Nature Medicine
+  url: https://www.nature.com/articles/s41591-025-03842-0
+  published: '2025-08-04'
 quiz:
-  question: "In the four-lunch crossover trial, which combination produced the lowest energy intake?"
-  options: ["Soft ultra-processed food", "Hard minimally processed food", "Hard ultra-processed food"]
+  question: In the four-lunch crossover trial, which combination produced the lowest
+    energy intake?
+  options:
+  - Soft ultra-processed food
+  - Hard minimally processed food
+  - Hard ultra-processed food
   answer: 1
-  explanation: "The hard minimally processed lunch produced the lowest measured intake; the soft ultra-processed lunch produced the highest."
+  explanation: The hard minimally processed lunch produced the lowest measured intake;
+    the soft ultra-processed lunch produced the highest.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
