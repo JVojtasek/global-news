@@ -21,9 +21,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-20** (2 zdrojů) North Korea fires ballistic missiles as US-South Korea drills near end
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 9 dní · 16 záznamů
+- rubrika `world` · sledováno 10 dní · 17 záznamů
 - časová osa:
-  - **2026-08-13** (2 zdrojů) Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
   - **2026-08-17** (2 zdrojů) Ukraine and Russia intensify attacks, several killed in Belgorod border region
   - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
@@ -33,6 +32,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-20** (2 zdrojů) Ukraine: Several killed in fresh Russian strikes on Kyiv
   - **2026-08-20** (4 zdrojů) Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
   - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
+  - **2026-08-21** (2 zdrojů) Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 8 dní · 14 záznamů
@@ -48,6 +48,18 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 3 dní · 8 záznamů
+- časová osa:
+  - **2026-08-18** (3 zdrojů) Premier League to publish verdicts on referee and VAR decisions
+  - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
+  - **2026-08-20** (2 zdrojů) How will your club fare? Phil McNulty's Premier League predictions
+  - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
+  - **2026-08-20** (1 zdrojů) Premier League 2026-27 preview No 18: Nottingham Forest
+  - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
+  - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
+  - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
+
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
 - časová osa:
@@ -62,21 +74,11 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 2 dní · 7 záznamů
-- časová osa:
-  - **2026-08-18** (3 zdrojů) Premier League to publish verdicts on referee and VAR decisions
-  - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
-  - **2026-08-20** (2 zdrojů) How will your club fare? Phil McNulty's Premier League predictions
-  - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
-  - **2026-08-20** (1 zdrojů) Premier League 2026-27 preview No 18: Nottingham Forest
-  - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
-  - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
-
 ### Robinson and Tongue guide England to strong start against Pakistan
-- rubrika `sport` · sledováno 2 dní · 4 záznamů
+- rubrika `sport` · sledováno 2 dní · 5 záznamů
 - časová osa:
   - **2026-08-19** (2 zdrojů) Robinson and Tongue guide England to strong start against Pakistan
   - **2026-08-20** (2 zdrojů) Tongue & Robinson cut Headingley ball in half
   - **2026-08-20** (2 zdrojů) Brook shines as England take control against Pakistan
   - **2026-08-21** (2 zdrojů) England v Pakistan: first Test, day three – live
+  - **2026-08-21** (2 zdrojů) Root reveals incoming England coach Fleming was in daily contact during first Test win

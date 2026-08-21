@@ -143,12 +143,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 41
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 16  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 17  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 16
+rubrika: world · sledováno od 2026-08-11 · záznamů: 17
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -165,6 +165,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 16
   2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv
   2026-08-20  (4 zdrojů, síla 69)  Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
   2026-08-20  (3 zdrojů, síla 59)  Ukraine: Several killed in 'massive' Russian strikes on Kyiv
+  2026-08-21  (2 zdrojů, síla 52)  Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
 ```
 
 ---

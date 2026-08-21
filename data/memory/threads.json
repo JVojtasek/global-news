@@ -1,6 +1,246 @@
 {
  "threads": [
   {
+   "id": "1bf4b58ce158",
+   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+   "section": "world",
+   "entities": [
+    "back-to-back",
+    "kyiv",
+    "zelenskyy",
+    "wildberries",
+    "belgorod",
+    "russian",
+    "atacms",
+    "overnight",
+    "russia",
+    "ukraine",
+    "zelensky",
+    "north",
+    "europe",
+    "izmail",
+    "korean",
+    "four",
+    "several"
+   ],
+   "event_ids": [
+    "1bf4b58ce158",
+    "ab563eb385f2",
+    "3fc6b4461f50",
+    "a9756de264c6",
+    "b984d1ff1c1f",
+    "84e20c91b19d",
+    "5ee2dd433419",
+    "0ed2f09480ff",
+    "27fa2321e1da",
+    "dba47316b75a",
+    "4e323bc20345",
+    "98346948dc87",
+    "df0b1bdc163d",
+    "e2b32b0aa268",
+    "cedf7f5c0142",
+    "e1239ee18ddf",
+    "38f1f3daedca"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-11",
+     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+     "sources": 3,
+     "score": 62,
+     "event_id": "1bf4b58ce158",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+     "sources": 2,
+     "score": 54,
+     "event_id": "ab563eb385f2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3fc6b4461f50",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a9756de264c6",
+     "links": [
+      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine says Russia fired North Korean missiles",
+     "sources": 2,
+     "score": 46,
+     "event_id": "b984d1ff1c1f",
+     "links": [
+      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
+      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "84e20c91b19d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5ee2dd433419",
+     "links": [
+      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
+      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Ukraine strikes major Russian rocket factory with cruise missiles",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0ed2f09480ff",
+     "links": [
+      "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+     "sources": 2,
+     "score": 42,
+     "event_id": "27fa2321e1da",
+     "links": [
+      "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
+      "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Why Kyiv keeps attacking Russian retail giant Wildberries",
+     "sources": 2,
+     "score": 49,
+     "event_id": "dba47316b75a",
+     "links": [
+      "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
+     "sources": 2,
+     "score": 43,
+     "event_id": "4e323bc20345",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
+     "sources": 2,
+     "score": 46,
+     "event_id": "98346948dc87",
+     "links": [
+      "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Ukraine appeals to FIA to overturn Russia inclusion",
+     "sources": 3,
+     "score": 53,
+     "event_id": "df0b1bdc163d",
+     "links": [
+      "https://www.bbc.co.uk/sport/formula1/articles/c5y6jz0xx7do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/18/kanye-west-announces-tour-dates-st-petersburg-russia-ye",
+      "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e2b32b0aa268",
+     "links": [
+      "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+     "sources": 4,
+     "score": 69,
+     "event_id": "cedf7f5c0142",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
+     "sources": 3,
+     "score": 59,
+     "event_id": "e1239ee18ddf",
+     "links": [
+      "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre",
+     "sources": 2,
+     "score": 52,
+     "event_id": "38f1f3daedca",
+     "links": [
+      "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
+      "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "09443cca3ddd",
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
@@ -211,13 +451,144 @@
    ]
   },
   {
+   "id": "e8a425cbff50",
+   "title": "Premier League to publish verdicts on referee and VAR decisions",
+   "section": "sport",
+   "entities": [
+    "opening",
+    "forest",
+    "haaland's",
+    "mcnulty's",
+    "five",
+    "boot",
+    "coventry",
+    "premier",
+    "sports",
+    "nottingham",
+    "city",
+    "golden",
+    "youtube",
+    "arsenal",
+    "league",
+    "phil"
+   ],
+   "event_ids": [
+    "e8a425cbff50",
+    "41179a85b0d9",
+    "3ff3a046513a",
+    "e7e4d04839a4",
+    "dfde3543e4ba",
+    "d94ad932442f",
+    "e0b2bb707b45",
+    "ca9b3648741f"
+   ],
+   "first_seen": "2026-08-18",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-18",
+     "headline": "Premier League to publish verdicts on referee and VAR decisions",
+     "sources": 3,
+     "score": 64,
+     "event_id": "e8a425cbff50",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Haaland's main rivals for the Premier League Golden Boot",
+     "sources": 2,
+     "score": 49,
+     "event_id": "41179a85b0d9",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3ff3a046513a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+     "sources": 1,
+     "score": 46,
+     "event_id": "e7e4d04839a4",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+      "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
+      "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Premier League 2026-27 preview No 18: Nottingham Forest",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dfde3543e4ba",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
+      "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d94ad932442f",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e0b2bb707b45",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Arsenal v Coventry City: Premier League – live",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ca9b3648741f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "81515d5a1191",
    "title": "Robinson and Tongue guide England to strong start against Pakistan",
    "section": "sport",
    "entities": [
-    "robinson",
-    "pakistan",
     "brook",
+    "root",
+    "robinson",
+    "fleming",
+    "pakistan",
     "headingley",
     "tongue",
     "england",
@@ -227,7 +598,8 @@
     "81515d5a1191",
     "c2083dc9b402",
     "01a37345b72e",
-    "22dc48990b22"
+    "22dc48990b22",
+    "251989e37557"
    ],
    "first_seen": "2026-08-19",
    "last_seen": "2026-08-21",
@@ -276,6 +648,17 @@
       "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
       "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
       "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
+     "sources": 2,
+     "score": 43,
+     "event_id": "251989e37557",
+     "links": [
+      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
+      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
      ]
     }
    ]
@@ -964,347 +1347,6 @@
      "links": [
       "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
       "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1bf4b58ce158",
-   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-   "section": "world",
-   "entities": [
-    "russian",
-    "russia",
-    "kyiv",
-    "overnight",
-    "zelensky",
-    "north",
-    "four",
-    "zelenskyy",
-    "korean",
-    "izmail",
-    "belgorod",
-    "atacms",
-    "wildberries",
-    "ukraine",
-    "europe",
-    "several"
-   ],
-   "event_ids": [
-    "1bf4b58ce158",
-    "ab563eb385f2",
-    "3fc6b4461f50",
-    "a9756de264c6",
-    "b984d1ff1c1f",
-    "84e20c91b19d",
-    "5ee2dd433419",
-    "0ed2f09480ff",
-    "27fa2321e1da",
-    "dba47316b75a",
-    "4e323bc20345",
-    "98346948dc87",
-    "df0b1bdc163d",
-    "e2b32b0aa268",
-    "cedf7f5c0142",
-    "e1239ee18ddf"
-   ],
-   "first_seen": "2026-08-11",
-   "last_seen": "2026-08-20",
-   "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-     "sources": 3,
-     "score": 62,
-     "event_id": "1bf4b58ce158",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-     "sources": 2,
-     "score": 54,
-     "event_id": "ab563eb385f2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3fc6b4461f50",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a9756de264c6",
-     "links": [
-      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine says Russia fired North Korean missiles",
-     "sources": 2,
-     "score": 46,
-     "event_id": "b984d1ff1c1f",
-     "links": [
-      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
-      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
-      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "84e20c91b19d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5ee2dd433419",
-     "links": [
-      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
-      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Ukraine strikes major Russian rocket factory with cruise missiles",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0ed2f09480ff",
-     "links": [
-      "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
-     "sources": 2,
-     "score": 42,
-     "event_id": "27fa2321e1da",
-     "links": [
-      "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
-      "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Why Kyiv keeps attacking Russian retail giant Wildberries",
-     "sources": 2,
-     "score": 49,
-     "event_id": "dba47316b75a",
-     "links": [
-      "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-     "sources": 2,
-     "score": 43,
-     "event_id": "4e323bc20345",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
-     "sources": 2,
-     "score": 46,
-     "event_id": "98346948dc87",
-     "links": [
-      "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Ukraine appeals to FIA to overturn Russia inclusion",
-     "sources": 3,
-     "score": 53,
-     "event_id": "df0b1bdc163d",
-     "links": [
-      "https://www.bbc.co.uk/sport/formula1/articles/c5y6jz0xx7do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/18/kanye-west-announces-tour-dates-st-petersburg-russia-ye",
-      "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
-     "sources": 2,
-     "score": 44,
-     "event_id": "e2b32b0aa268",
-     "links": [
-      "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-     "sources": 4,
-     "score": 69,
-     "event_id": "cedf7f5c0142",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
-     "sources": 3,
-     "score": 59,
-     "event_id": "e1239ee18ddf",
-     "links": [
-      "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e8a425cbff50",
-   "title": "Premier League to publish verdicts on referee and VAR decisions",
-   "section": "sport",
-   "entities": [
-    "sports",
-    "boot",
-    "opening",
-    "arsenal",
-    "league",
-    "forest",
-    "mcnulty's",
-    "nottingham",
-    "five",
-    "youtube",
-    "coventry",
-    "phil",
-    "haaland's",
-    "golden",
-    "premier"
-   ],
-   "event_ids": [
-    "e8a425cbff50",
-    "41179a85b0d9",
-    "3ff3a046513a",
-    "e7e4d04839a4",
-    "dfde3543e4ba",
-    "d94ad932442f",
-    "e0b2bb707b45"
-   ],
-   "first_seen": "2026-08-18",
-   "last_seen": "2026-08-20",
-   "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "Premier League to publish verdicts on referee and VAR decisions",
-     "sources": 3,
-     "score": 64,
-     "event_id": "e8a425cbff50",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Haaland's main rivals for the Premier League Golden Boot",
-     "sources": 2,
-     "score": 49,
-     "event_id": "41179a85b0d9",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3ff3a046513a",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
-     "sources": 1,
-     "score": 46,
-     "event_id": "e7e4d04839a4",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
-      "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
-      "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Premier League 2026-27 preview No 18: Nottingham Forest",
-     "sources": 1,
-     "score": 43,
-     "event_id": "dfde3543e4ba",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
-      "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d94ad932442f",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e0b2bb707b45",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
      ]
     }
    ]
@@ -2734,5 +2776,5 @@
    ]
   }
  ],
- "updated": "2026-08-21T15:26:54+00:00"
+ "updated": "2026-08-21T18:26:51+00:00"
 }
