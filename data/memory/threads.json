@@ -1,6 +1,35 @@
 {
  "threads": [
   {
+   "id": "84ce4047c1c5",
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "section": "world",
+   "entities": [
+    "hong",
+    "kong's",
+    "tiananmen"
+   ],
+   "event_ids": [
+    "84ce4047c1c5"
+   ],
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+     "sources": 5,
+     "score": 85,
+     "event_id": "84ce4047c1c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -2610,5 +2639,5 @@
    ]
   }
  ],
- "updated": "2026-08-21T00:28:02+00:00"
+ "updated": "2026-08-21T03:34:49+00:00"
 }
