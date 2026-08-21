@@ -1,6 +1,273 @@
 {
  "threads": [
   {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "palestinian",
+    "canada",
+    "colombia",
+    "hind",
+    "germany",
+    "israel's",
+    "france",
+    "italy",
+    "netanyahu",
+    "palestine",
+    "west",
+    "bank",
+    "palestinians",
+    "gaza",
+    "rajab",
+    "former",
+    "ben-gvir",
+    "israel",
+    "israeli",
+    "american",
+    "global",
+    "multiple",
+    "week"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c",
+    "727b036de961",
+    "d9fabac5169e",
+    "dd3e8e775a11",
+    "a6b6f34c8e21",
+    "bdaf2e87b992",
+    "f0db32b6db43",
+    "50063425df92",
+    "a0e824c0fefc",
+    "e28573af70a1",
+    "be74360785ae"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69fbd7c00f3b",
+     "links": [
+      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c56a140b572c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
+     "sources": 2,
+     "score": 50,
+     "event_id": "727b036de961",
+     "links": [
+      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "sources": 2,
+     "score": 49,
+     "event_id": "d9fabac5169e",
+     "links": [
+      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dd3e8e775a11",
+     "links": [
+      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a6b6f34c8e21",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdaf2e87b992",
+     "links": [
+      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+     "sources": 2,
+     "score": 47,
+     "event_id": "f0db32b6db43",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+     "sources": 3,
+     "score": 61,
+     "event_id": "50063425df92",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
+      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a0e824c0fefc",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e28573af70a1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be74360785ae",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "81515d5a1191",
+   "title": "Robinson and Tongue guide England to strong start against Pakistan",
+   "section": "sport",
+   "entities": [
+    "robinson",
+    "pakistan",
+    "brook",
+    "headingley",
+    "tongue",
+    "england",
+    "test"
+   ],
+   "event_ids": [
+    "81515d5a1191",
+    "c2083dc9b402",
+    "01a37345b72e",
+    "22dc48990b22"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
+     "sources": 2,
+     "score": 55,
+     "event_id": "81515d5a1191",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Tongue & Robinson cut Headingley ball in half",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2083dc9b402",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Brook shines as England take control against Pakistan",
+     "sources": 2,
+     "score": 43,
+     "event_id": "01a37345b72e",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "England v Pakistan: first Test, day three – live",
+     "sources": 2,
+     "score": 49,
+     "event_id": "22dc48990b22",
+     "links": [
+      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
+      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
+     ]
+    }
+   ]
+  },
+  {
    "id": "84ce4047c1c5",
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
@@ -25,6 +292,34 @@
       "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
       "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "142c24046870",
+   "title": "Panama Canal to cut number of ships passing through due to El Niño",
+   "section": "world",
+   "entities": [
+    "panama",
+    "canal"
+   ],
+   "event_ids": [
+    "142c24046870"
+   ],
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-21",
+     "headline": "Panama Canal to cut number of ships passing through due to El Niño",
+     "sources": 4,
+     "score": 62,
+     "event_id": "142c24046870",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -816,191 +1111,6 @@
    ]
   },
   {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "italy",
-    "palestine",
-    "american",
-    "former",
-    "netanyahu",
-    "west",
-    "israeli",
-    "canada",
-    "france",
-    "multiple",
-    "hind",
-    "colombia",
-    "week",
-    "germany",
-    "israel's",
-    "israel",
-    "palestinians",
-    "bank",
-    "palestinian",
-    "gaza",
-    "ben-gvir",
-    "global",
-    "rajab"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b",
-    "c56a140b572c",
-    "727b036de961",
-    "d9fabac5169e",
-    "dd3e8e775a11",
-    "a6b6f34c8e21",
-    "bdaf2e87b992",
-    "f0db32b6db43",
-    "50063425df92",
-    "a0e824c0fefc",
-    "e28573af70a1"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-20",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-     "sources": 3,
-     "score": 59,
-     "event_id": "09443cca3ddd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69fbd7c00f3b",
-     "links": [
-      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
-      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c56a140b572c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "sources": 2,
-     "score": 50,
-     "event_id": "727b036de961",
-     "links": [
-      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9fabac5169e",
-     "links": [
-      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-     "sources": 1,
-     "score": 43,
-     "event_id": "dd3e8e775a11",
-     "links": [
-      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a6b6f34c8e21",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdaf2e87b992",
-     "links": [
-      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-     "sources": 2,
-     "score": 47,
-     "event_id": "f0db32b6db43",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-     "sources": 3,
-     "score": 61,
-     "event_id": "50063425df92",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
-      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a0e824c0fefc",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e28573af70a1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -1248,62 +1358,6 @@
      "links": [
       "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
       "https://huggingface.co/blog/eee-community-evals"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "81515d5a1191",
-   "title": "Robinson and Tongue guide England to strong start against Pakistan",
-   "section": "sport",
-   "entities": [
-    "england",
-    "brook",
-    "pakistan",
-    "robinson",
-    "headingley",
-    "tongue"
-   ],
-   "event_ids": [
-    "81515d5a1191",
-    "c2083dc9b402",
-    "01a37345b72e"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-20",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
-     "sources": 2,
-     "score": 55,
-     "event_id": "81515d5a1191",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Tongue & Robinson cut Headingley ball in half",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c2083dc9b402",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Brook shines as England take control against Pakistan",
-     "sources": 2,
-     "score": 43,
-     "event_id": "01a37345b72e",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
      ]
     }
    ]
@@ -2639,5 +2693,5 @@
    ]
   }
  ],
- "updated": "2026-08-21T06:27:20+00:00"
+ "updated": "2026-08-21T09:27:18+00:00"
 }
