@@ -5,23 +5,25 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "back-to-back",
-    "kyiv",
-    "zelenskyy",
+    "four",
     "wildberries",
-    "belgorod",
-    "russian",
-    "atacms",
-    "overnight",
-    "russia",
-    "ukraine",
-    "zelensky",
+    "izmail",
+    "back-to-back",
+    "masha",
+    "kyiv",
     "north",
     "europe",
-    "izmail",
-    "korean",
-    "four",
-    "several"
+    "several",
+    "ukraine",
+    "russian",
+    "bear",
+    "zelenskyy",
+    "russia",
+    "belgorod",
+    "overnight",
+    "atacms",
+    "zelensky",
+    "korean"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -40,7 +42,8 @@
     "e2b32b0aa268",
     "cedf7f5c0142",
     "e1239ee18ddf",
-    "38f1f3daedca"
+    "38f1f3daedca",
+    "8e855f427aa3"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-08-21",
@@ -236,6 +239,17 @@
       "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
       "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8e855f427aa3",
+     "links": [
+      "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
      ]
     }
    ]
@@ -455,22 +469,23 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "opening",
-    "forest",
     "haaland's",
+    "forest",
+    "league",
+    "golden",
+    "opening",
+    "city",
     "mcnulty's",
-    "five",
+    "youtube",
     "boot",
     "coventry",
     "premier",
+    "tzolis",
+    "phil",
     "sports",
-    "nottingham",
-    "city",
-    "golden",
-    "youtube",
     "arsenal",
-    "league",
-    "phil"
+    "five",
+    "nottingham"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -480,7 +495,8 @@
     "dfde3543e4ba",
     "d94ad932442f",
     "e0b2bb707b45",
-    "ca9b3648741f"
+    "ca9b3648741f",
+    "7647b16128ca"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-21",
@@ -575,6 +591,18 @@
       "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
       "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
       "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
+     "sources": 3,
+     "score": 54,
+     "event_id": "7647b16128ca",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
      ]
     }
    ]
@@ -759,6 +787,49 @@
       "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
       "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9739585c4084",
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "section": "world",
+   "entities": [
+    "court",
+    "verizon",
+    "supreme",
+    "trump's"
+   ],
+   "event_ids": [
+    "9739585c4084",
+    "bead7cd93cfe"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-21",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9739585c4084",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "sources": 3,
+     "score": 56,
+     "event_id": "bead7cd93cfe",
+     "links": [
+      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
      ]
     }
    ]
@@ -2088,35 +2159,6 @@
    ]
   },
   {
-   "id": "9739585c4084",
-   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-   "section": "world",
-   "entities": [
-    "supreme",
-    "verizon",
-    "court"
-   ],
-   "event_ids": [
-    "9739585c4084"
-   ],
-   "first_seen": "2026-08-17",
-   "last_seen": "2026-08-17",
-   "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9739585c4084",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
-     ]
-    }
-   ]
-  },
-  {
    "id": "534775643230",
    "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
    "section": "sport",
@@ -2776,5 +2818,5 @@
    ]
   }
  ],
- "updated": "2026-08-21T18:26:51+00:00"
+ "updated": "2026-08-21T21:25:25+00:00"
 }

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-21
 
-Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
+Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-20** (2 zdrojů) North Korea fires ballistic missiles as US-South Korea drills near end
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 10 dní · 17 záznamů
+- rubrika `world` · sledováno 10 dní · 18 záznamů
 - časová osa:
-  - **2026-08-15** (2 zdrojů) Ukraine strikes major Russian rocket factory with cruise missiles
   - **2026-08-17** (2 zdrojů) Ukraine and Russia intensify attacks, several killed in Belgorod border region
   - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
   - **2026-08-18** (2 zdrojů) Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
@@ -33,6 +32,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-20** (4 zdrojů) Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
   - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
   - **2026-08-21** (2 zdrojů) Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
+  - **2026-08-21** (2 zdrojů) 'Masha and the Bear': Ukraine sanctions Russian cartoon
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 8 dní · 14 záznamů
@@ -49,7 +49,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 3 dní · 8 záznamů
+- rubrika `sport` · sledováno 3 dní · 9 záznamů
 - časová osa:
   - **2026-08-18** (3 zdrojů) Premier League to publish verdicts on referee and VAR decisions
   - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
@@ -59,6 +59,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
   - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
   - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
+  - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
