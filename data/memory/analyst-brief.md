@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-21
 
-Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **24**.
+Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **25**.
 
 ---
 
@@ -35,9 +35,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 8 dní · 13 záznamů
+- rubrika `world` · sledováno 8 dní · 14 záznamů
 - časová osa:
-  - **2026-08-15** (2 zdrojů) US urges Netanyahu to condemn settlers besieging Palestinians in West Bank
   - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
   - **2026-08-18** (1 zdrojů) Palestinian American returns to his West Bank home, under siege by Israeli settlers
   - **2026-08-18** (2 zdrojů) Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
@@ -47,6 +46,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-19** (2 zdrojů) Multiple deadly Israeli strikes in Gaza in under 24 hours
   - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
   - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
+  - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů

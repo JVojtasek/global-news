@@ -5,29 +5,29 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "palestinian",
-    "canada",
-    "colombia",
-    "hind",
-    "germany",
-    "israel's",
-    "france",
-    "italy",
-    "netanyahu",
-    "palestine",
-    "west",
     "bank",
+    "ben-gvir",
+    "palestine",
+    "global",
+    "netanyahu",
+    "canada",
+    "israel",
+    "multiple",
     "palestinians",
     "gaza",
-    "rajab",
-    "former",
-    "ben-gvir",
-    "israel",
-    "israeli",
+    "israel's",
+    "colombia",
+    "germany",
     "american",
-    "global",
-    "multiple",
-    "week"
+    "israeli",
+    "former",
+    "hind",
+    "italy",
+    "week",
+    "france",
+    "rajab",
+    "west",
+    "palestinian"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -42,7 +42,8 @@
     "50063425df92",
     "a0e824c0fefc",
     "e28573af70a1",
-    "be74360785ae"
+    "be74360785ae",
+    "5e2205225644"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-21",
@@ -194,6 +195,18 @@
       "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
+     "sources": 2,
+     "score": 54,
+     "event_id": "5e2205225644",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
+      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
+      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -272,12 +285,14 @@
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
    "entities": [
-    "hong",
+    "tiananmen",
+    "kong",
     "kong's",
-    "tiananmen"
+    "hong"
    ],
    "event_ids": [
-    "84ce4047c1c5"
+    "84ce4047c1c5",
+    "0df2dafecfc9"
    ],
    "first_seen": "2026-08-21",
    "last_seen": "2026-08-21",
@@ -292,6 +307,18 @@
       "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
       "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong convicts Tiananmen vigil leaders",
+     "sources": 3,
+     "score": 67,
+     "event_id": "0df2dafecfc9",
+     "links": [
+      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
      ]
     }
    ]
@@ -2693,5 +2720,5 @@
    ]
   }
  ],
- "updated": "2026-08-21T09:27:18+00:00"
+ "updated": "2026-08-21T12:27:45+00:00"
 }
