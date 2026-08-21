@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-read-a-health-claim",
+  "date": "2026-08-21",
+  "category": "health-literacy",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Can you read what a health claim really proves?",
+      "cs": "Poznáte, co zdravotní tvrzení skutečně dokazuje?"
+    },
+    "dek": {
+      "en": "Eight short news and social-media situations test the questions that matter before a claim changes your mind.",
+      "cs": "Osm krátkých situací ze zpráv a sociálních sítí prověří otázky, které je dobré položit dříve, než tvrzení změní váš názor."
+    },
+    "intro": {
+      "en": "You do not need a medical degree to slow down a persuasive headline. Look for the study type, the people studied, the size of the effect, the source and the financial purpose. Choose the strongest answer in each situation.",
+      "cs": "K přibrzdění přesvědčivého titulku nepotřebujete lékařský diplom. Hledejte typ studie, zkoumané lidi, velikost účinku, zdroj a finanční účel. V každé situaci vyberte nejsilnější odpověď."
+    },
+    "disclaimer": {
+      "en": "This is an original educational knowledge quiz based on public guidance. It is not a validated health-literacy instrument, medical advice or a test of intelligence. It cannot decide whether a treatment or product is right for you. Discuss health decisions with an appropriate qualified professional.",
+      "cs": "Jde o původní vzdělávací znalostní kvíz založený na veřejných doporučeních. Není to ověřený nástroj zdravotní gramotnosti, lékařská rada ani test inteligence. Nemůže rozhodnout, zda je pro vás léčba nebo výrobek vhodný. Zdravotní rozhodnutí konzultujte s příslušným kvalifikovaným odborníkem."
+    }
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "association-causation",
+      "text": {
+        "en": "An observational study finds that people who drink a certain tea live longer. What is the most accurate conclusion?",
+        "cs": "Pozorovací studie zjistí, že lidé pijící určitý čaj žijí déle. Který závěr je nejpřesnější?"
+      },
+      "options": [
+        {"label": {"en": "The tea has been proved to extend life", "cs": "Bylo prokázáno, že čaj prodlužuje život"}, "correct": false},
+        {"label": {"en": "Tea drinking is associated with longer life, but other differences may explain it", "cs": "Pití čaje souvisí s delším životem, ale vysvětlením mohou být jiné rozdíly"}, "correct": true},
+        {"label": {"en": "The study proves the tea has no effect", "cs": "Studie dokazuje, že čaj nemá žádný účinek"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Observational research can find a pattern, but unmeasured differences—such as diet or activity—may be responsible. Association is not proof of causation.",
+        "cs": "Pozorovací výzkum může najít souvislost, ale příčinou mohou být neměřené rozdíly, například strava nebo pohyb. Souvislost není důkazem příčiny."
+      }
+    },
+    {
+      "id": "relative-absolute",
+      "text": {
+        "en": "A headline says a product cuts risk by 50%. Which missing number would most help you judge the practical size of the benefit?",
+        "cs": "Titulek uvádí, že výrobek snižuje riziko o 50 %. Který chybějící údaj nejvíce pomůže posoudit praktickou velikost přínosu?"
+      },
+      "options": [
+        {"label": {"en": "The starting risk in the comparison group", "cs": "Výchozí riziko ve srovnávací skupině"}, "correct": true},
+        {"label": {"en": "The colour of the product package", "cs": "Barva obalu výrobku"}, "correct": false},
+        {"label": {"en": "The number of times the headline was shared", "cs": "Počet sdílení titulku"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "A fall from 2 in 1,000 to 1 in 1,000 and a fall from 20 in 100 to 10 in 100 are both 50% relative reductions, but their absolute differences are very different.",
+        "cs": "Pokles ze 2 případů z 1 000 na 1 z 1 000 i pokles z 20 ze 100 na 10 ze 100 jsou relativním snížením o 50 %, ale absolutní rozdíly jsou velmi odlišné."
+      }
+    },
+    {
+      "id": "study-population",
+      "text": {
+        "en": "A story says a treatment 'worked in a study' but does not say who or what was studied. What should you check first?",
+        "cs": "Zpráva tvrdí, že léčba „fungovala ve studii“, ale neuvádí, kdo nebo co bylo zkoumáno. Co je třeba ověřit jako první?"
+      },
+      "options": [
+        {"label": {"en": "Whether the study involved people, animals, cells or a computer model", "cs": "Zda studie zkoumala lidi, zvířata, buňky nebo počítačový model"}, "correct": true},
+        {"label": {"en": "Whether the story has a dramatic photograph", "cs": "Zda má zpráva dramatickou fotografii"}, "correct": false},
+        {"label": {"en": "Whether a celebrity mentioned it", "cs": "Zda se o ní zmínila celebrita"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Results in cells or animals can guide further research, but they do not automatically establish safety or benefit in people.",
+        "cs": "Výsledky na buňkách nebo zvířatech mohou nasměrovat další výzkum, ale automaticky nedokazují bezpečnost ani přínos pro lidi."
+      }
+    },
+    {
+      "id": "testimonial",
+      "text": {
+        "en": "A seller's page contains dozens of personal success stories but no controlled evidence. What do the stories establish?",
+        "cs": "Stránka prodejce obsahuje desítky osobních příběhů o úspěchu, ale žádné kontrolované důkazy. Co tyto příběhy prokazují?"
+      },
+      "options": [
+        {"label": {"en": "That every buyer will get the same result", "cs": "Že každý kupující dosáhne stejného výsledku"}, "correct": false},
+        {"label": {"en": "That the product is safe because users sound sincere", "cs": "Že je výrobek bezpečný, protože uživatelé znějí upřímně"}, "correct": false},
+        {"label": {"en": "Very little about cause, average benefit or safety", "cs": "Velmi málo o příčině, průměrném přínosu nebo bezpečnosti"}, "correct": true}
+      ],
+      "explanation": {
+        "en": "Testimonials can be selective, mistaken or fabricated. The FDA warns that personal success stories are not a substitute for scientific evidence.",
+        "cs": "Reference mohou být výběrové, mylné nebo vymyšlené. FDA upozorňuje, že osobní příběhy o úspěchu nenahrazují vědecké důkazy."
+      }
+    },
+    {
+      "id": "funding-purpose",
+      "text": {
+        "en": "A polished health website sells the only product it recommends. Which response is best?",
+        "cs": "Profesionálně vypadající zdravotní web prodává jediný výrobek, který doporučuje. Jaká reakce je nejlepší?"
+      },
+      "options": [
+        {"label": {"en": "Trust it because professional design proves expertise", "cs": "Důvěřovat mu, protože profesionální vzhled dokazuje odbornost"}, "correct": false},
+        {"label": {"en": "Check who runs and funds it, its sources and independent reliable confirmation", "cs": "Ověřit provozovatele a financování, zdroje a nezávislé spolehlivé potvrzení"}, "correct": true},
+        {"label": {"en": "Reject every commercial source without reading it", "cs": "Odmítnout každý komerční zdroj bez čtení"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "A financial interest does not automatically make information false, but it is a reason to inspect purpose, evidence, review process and independent agreement.",
+        "cs": "Finanční zájem automaticky neznamená nepravdu, je však důvodem zkontrolovat účel, důkazy, proces odborné kontroly a nezávislou shodu."
+      }
+    },
+    {
+      "id": "date-update",
+      "text": {
+        "en": "A generally reputable page gives health advice but shows no publication or review date. What is the honest conclusion?",
+        "cs": "Obecně důvěryhodná stránka nabízí zdravotní doporučení, ale neuvádí datum zveřejnění ani kontroly. Jaký závěr je poctivý?"
+      },
+      "options": [
+        {"label": {"en": "It must still be current because the organisation is reputable", "cs": "Musí být stále aktuální, protože organizace je důvěryhodná"}, "correct": false},
+        {"label": {"en": "The missing date creates uncertainty that should be checked against current sources", "cs": "Chybějící datum vytváří nejistotu, kterou je třeba ověřit v aktuálních zdrojích"}, "correct": true},
+        {"label": {"en": "Undated advice is always fraudulent", "cs": "Nedatované doporučení je vždy podvodné"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Reliable organisations can host old pages. MedlinePlus advises checking when information was written, reviewed or updated.",
+        "cs": "I spolehlivé organizace mohou mít staré stránky. MedlinePlus doporučuje ověřit, kdy byla informace napsána, zkontrolována nebo aktualizována."
+      }
+    },
+    {
+      "id": "miracle-language",
+      "text": {
+        "en": "Which phrase is the clearest health-fraud warning sign?",
+        "cs": "Která formulace je nejvýraznějším varovným znakem zdravotního podvodu?"
+      },
+      "options": [
+        {"label": {"en": "Evidence is limited and results vary", "cs": "Důkazy jsou omezené a výsledky se liší"}, "correct": false},
+        {"label": {"en": "Guaranteed natural cure for many unrelated diseases", "cs": "Zaručený přírodní lék na mnoho nesouvisejících nemocí"}, "correct": true},
+        {"label": {"en": "Ask a pharmacist about possible interactions", "cs": "Zeptejte se lékárníka na možné interakce"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "The FDA flags cure-all claims, guaranteed results, quick fixes and 'all natural' safety claims as common warning signs.",
+        "cs": "FDA uvádí tvrzení o všeléku, zaručené výsledky, rychlá řešení a bezpečnost založenou na označení „zcela přírodní“ jako běžné varovné znaky."
+      }
+    },
+    {
+      "id": "decision-next-step",
+      "text": {
+        "en": "After finding credible general information online, what is the safest next step before changing treatment?",
+        "cs": "Jaký je nejbezpečnější další krok před změnou léčby poté, co najdete důvěryhodné obecné informace online?"
+      },
+      "options": [
+        {"label": {"en": "Change it immediately while the information is fresh", "cs": "Okamžitě léčbu změnit, dokud je informace čerstvá"}, "correct": false},
+        {"label": {"en": "Ask strangers to vote in a social-media poll", "cs": "Nechat cizí lidi hlasovat v anketě na sociální síti"}, "correct": false},
+        {"label": {"en": "Discuss how the information applies to you with an appropriate qualified professional", "cs": "Probrat s příslušným kvalifikovaným odborníkem, jak se informace vztahuje právě na vás"}, "correct": true}
+      ],
+      "explanation": {
+        "en": "Good general information may still not fit your diagnosis, medicines, risks or circumstances. MedlinePlus recommends discussing it with a health care provider before relying on it.",
+        "cs": "Kvalitní obecná informace nemusí odpovídat vaší diagnóze, lékům, rizikům ani okolnostem. MedlinePlus doporučuje před jejím využitím vše probrat se zdravotníkem."
+      }
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 2,
+      "title": {"en": "Build a three-question pause", "cs": "Vytvořte si pauzu se třemi otázkami"},
+      "summary": {"en": "Persuasive presentation may currently outrun your evidence check. Before acting, ask: Who is making the claim? What was actually studied? What independent source agrees? This score is not a measure of intelligence or your ability to manage health.", "cs": "Přesvědčivá prezentace může zatím předbíhat vaši kontrolu důkazů. Před jednáním se ptejte: Kdo tvrzení předkládá? Co bylo skutečně zkoumáno? Který nezávislý zdroj souhlasí? Výsledek neměří inteligenci ani schopnost pečovat o zdraví."}
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "title": {"en": "Good instincts, one more layer", "cs": "Dobré základy, přidejte ještě jednu vrstvu"},
+      "summary": {"en": "You recognise several common warning signs. Strengthen the habit by checking study population, absolute numbers, date and funding before sharing or acting. A short quiz cannot test every health-information skill.", "cs": "Rozpoznáváte několik běžných varovných znaků. Posilte návyk kontrolou zkoumané populace, absolutních čísel, data a financování před sdílením nebo jednáním. Krátký kvíz nemůže prověřit všechny dovednosti zdravotní gramotnosti."}
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "title": {"en": "You read beyond the headline", "cs": "Čtete dál než jen titulek"},
+      "summary": {"en": "You usually separate a persuasive claim from the evidence needed to support it. Keep checking current independent sources and remember that evaluating a claim does not determine whether a treatment is suitable for one person.", "cs": "Obvykle oddělujete přesvědčivé tvrzení od důkazů, které je mají podpořit. Nadále kontrolujte aktuální nezávislé zdroje a pamatujte, že posouzení tvrzení neurčuje vhodnost léčby pro konkrétního člověka."}
+    }
+  ],
+  "sources": [
+    {
+      "name": "MedlinePlus — Evaluating Health Information",
+      "url": "https://medlineplus.gov/evaluatinghealthinformation.html",
+      "published": "2024-02-26",
+      "type": "primary public guidance"
+    },
+    {
+      "name": "NCCIH — Reduced Mortality Risks and Correlation vs. Causation",
+      "url": "https://www.nccih.nih.gov/research/blog/reduced-mortality-risks-and-correlation-vs-causation",
+      "published": "2015-07-22",
+      "type": "primary public research guidance"
+    },
+    {
+      "name": "FDA — 6 Tip-offs to Rip-offs: Don't Fall for Health Fraud Scams",
+      "url": "https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams",
+      "published": "2024-08-06",
+      "type": "primary regulator guidance"
+    }
+  ]
+}
