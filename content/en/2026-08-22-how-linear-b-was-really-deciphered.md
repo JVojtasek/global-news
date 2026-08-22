@@ -1,44 +1,50 @@
 ---
 slug: how-linear-b-was-really-deciphered
-title: "The Architect, the Index Cards and the Ancient Script"
-dek: "Michael Ventris made the famous breakthrough, but Linear B yielded only after years of patient work by people who learned its patterns before claiming to know its words."
+title: The Architect, the Index Cards and the Ancient Script
+dek: Michael Ventris made the famous breakthrough, but Linear B yielded only after
+  years of patient work by people who learned its patterns before claiming to know
+  its words.
 section: mysteries
 type: analysis
 depth: open
 lang: en
 date: '2026-08-22'
-status: draft
-confidence: 87
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "history-linear-b-decipherment-kober-ventris"
-series: "The Wider Lens"
-image_query: "Linear B clay tablet index cards syllabic grid"
+format: ''
+event_id: history-linear-b-decipherment-kober-ventris
+series: The Wider Lens
+image_query: Linear B clay tablet index cards syllabic grid
 sources:
-  - name: "University of Texas at Austin, Alice E. Kober Papers"
-    url: "https://sites.utexas.edu/scripts/files/2016/11/Alice-E.-Kober-Papers-Finding-Aid.pdf"
-    published: ""
-  - name: "Bulletin of the Institute of Classical Studies"
-    url: "https://academic.oup.com/bics/article/67/1/86/7977031"
-    published: "2024-06"
-  - name: "History Today"
-    url: "https://www.historytoday.com/archive/months-past/decoding-linear-b"
-    published: "2024-07"
-  - name: "University of Cambridge Faculty of Classics"
-    url: "https://www.classics.cam.ac.uk/research/projects/mycep/decipherment/ventris"
-    published: ""
-qma_path: ""
+- name: University of Texas at Austin, Alice E. Kober Papers
+  url: https://sites.utexas.edu/scripts/files/2016/11/Alice-E.-Kober-Papers-Finding-Aid.pdf
+  published: ''
+- name: Bulletin of the Institute of Classical Studies
+  url: https://academic.oup.com/bics/article/67/1/86/7977031
+  published: 2024-06
+- name: History Today
+  url: https://www.historytoday.com/archive/months-past/decoding-linear-b
+  published: 2024-07
+- name: University of Cambridge Faculty of Classics
+  url: https://www.classics.cam.ac.uk/research/projects/mycep/decipherment/ventris
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "What made the Linear B reading persuasive rather than a clever resemblance?"
-  options: ["It explained patterns consistently and could be checked on other tablets", "It made every sign look like a modern letter", "It depended on one dramatic translation"]
+  question: What made the Linear B reading persuasive rather than a clever resemblance?
+  options:
+  - It explained patterns consistently and could be checked on other tablets
+  - It made every sign look like a modern letter
+  - It depended on one dramatic translation
   answer: 0
-  explanation: "A sound decipherment must work across many signs and texts and generate readings that independent scholars can test."
+  explanation: A sound decipherment must work across many signs and texts and generate
+    readings that independent scholars can test.
 ---
 
 ## BRIEFLY

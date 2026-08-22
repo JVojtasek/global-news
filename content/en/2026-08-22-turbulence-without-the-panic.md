@@ -1,44 +1,50 @@
 ---
 slug: turbulence-without-the-panic
-title: "Turbulence Without the Panic"
-dek: "The aircraft, the cabin and your body do not face the same risk—and one ordinary habit changes the part passengers can control."
+title: Turbulence Without the Panic
+dek: The aircraft, the cabin and your body do not face the same risk—and one ordinary
+  habit changes the part passengers can control.
 section: travel
 type: analysis
 depth: open
 lang: en
 date: '2026-08-22'
-status: draft
-confidence: 88
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "evergreen-turbulence-passenger-risk"
-series: "The Wider Lens"
-image_query: "commercial aircraft cabin seat belt calm turbulence"
+format: ''
+event_id: evergreen-turbulence-passenger-risk
+series: The Wider Lens
+image_query: commercial aircraft cabin seat belt calm turbulence
 sources:
-  - name: "U.S. Federal Aviation Administration"
-    url: "https://www.faa.gov/travelers/fly_safe/turbulence"
-    published: "2026-03-20"
-  - name: "U.S. National Transportation Safety Board"
-    url: "https://www.ntsb.gov/safety/safety-recs/recletters/A-21-025-045.pdf"
-    published: "2021-09-07"
-  - name: "U.S. National Weather Service"
-    url: "https://www.weather.gov/source/zhu/ZHU_Training_Page/turbulence_stuff/turbulence/turbulence.htm"
-    published: ""
-  - name: "University of Reading"
-    url: "https://www.reading.ac.uk/news/2023/Research-News/Aviation-turbulence-strengthened-as-the-world-warmed"
-    published: "2023-06-08"
-qma_path: ""
+- name: U.S. Federal Aviation Administration
+  url: https://www.faa.gov/travelers/fly_safe/turbulence
+  published: '2026-03-20'
+- name: U.S. National Transportation Safety Board
+  url: https://www.ntsb.gov/safety/safety-recs/recletters/A-21-025-045.pdf
+  published: '2021-09-07'
+- name: U.S. National Weather Service
+  url: https://www.weather.gov/source/zhu/ZHU_Training_Page/turbulence_stuff/turbulence/turbulence.htm
+  published: ''
+- name: University of Reading
+  url: https://www.reading.ac.uk/news/2023/Research-News/Aviation-turbulence-strengthened-as-the-world-warmed
+  published: '2023-06-08'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why does a seat belt reduce the most immediate passenger risk during unexpected turbulence?"
-  options: ["It stops turbulent air reaching the aircraft", "It keeps the body moving with the seat and cabin", "It makes the pilot detect clear-air turbulence sooner"]
+  question: Why does a seat belt reduce the most immediate passenger risk during unexpected
+    turbulence?
+  options:
+  - It stops turbulent air reaching the aircraft
+  - It keeps the body moving with the seat and cabin
+  - It makes the pilot detect clear-air turbulence sooner
   answer: 1
-  explanation: "The belt cannot remove turbulence, but it restrains the passenger when the aircraft changes motion."
+  explanation: The belt cannot remove turbulence, but it restrains the passenger when
+    the aircraft changes motion.
 ---
 
 ## BRIEFLY
