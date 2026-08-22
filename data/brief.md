@@ -48,26 +48,7 @@
     <https://www.france24.com/en/asia-pacific/20260819-trump-scales-back-joint-military-drills-between-south-korea-and-us>
     > South Korea and the US will cut the duration of their annual joint military drills to five days from 11 and scale back some field training, ​the allies said on Wednesday, ‌after President Donald Trump ordered a substantial reduction in US participation. Trump's move could reflect
 
-### 3. Trump pauses new tariffs on Canada and says countries close to a deal
-- id události: `6854b3ddf9a5`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Trump pauses new tariffs on Canada and says countries close to a deal
-    <https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss>
-    > US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
-  - **BBC Business** — Trump pauses new tariffs on Canada and says countries close to a deal
-    <https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss>
-    > US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
-  - **The Guardian World** — Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project
-    <https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline>
-    > US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have aff
-  - **Al Jazeera** — US, Canada reach trade deal to avert steep tariffs, Trump says
-    <https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss>
-    > Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.
-  - **Investing.com** — Trump pauses 50% tariffs on Canada, claims trade deal is close
-    <https://www.investing.com/news/economy-news/trump-pauses-50-tariffs-on-canada-claims-trade-deal-is-close-4866391>
-
-### 4. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+### 3. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
 - id události: `cedf7f5c0142`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -83,6 +64,24 @@
   - **Al Jazeera** — At least 6 killed in multiple Russian missile strikes across Ukraine
     <https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss>
     > Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
+
+### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+- id události: `1ba93b103296`  ·  rubrika: `business`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+    <https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss>
+    > A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.
+  - **The Guardian World** — Canada vows to match Trump’s 50% tariffs after trade deal talks fail
+    <https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail>
+    > Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs “dollar for dollar”, after the two sides failed to agree a trad
+  - **CNBC Top** — U.S., Canada fail to reach a tariff deal, deepen trade war
+    <https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html>
+    > The United States and Canada failed to reach a trade deal late on Friday, and the U.S. said it would impose 50% tariffs on some imports from Canada.
+  - **Investing.com** — US hits Canadian goods with 50% tariffs after trade talks fail
+    <https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745>
+  - **Investing.com** — U.S. tariffs on Canada take effect after trade talks collapse
+    <https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296>
 
 ---
 
