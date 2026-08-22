@@ -28,27 +28,7 @@
   - **Investing.com** — Shein targets Hong Kong market debut on September 1, sources say
     <https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257>
 
-### 2. South Korea shortens war games with US, citing Washington request
-- id události: `fe307da7bf3f`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — South Korea shortens war games with US, citing Washington request
-    <https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss>
-    > It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a "very good" relationship with North Korea's Kim Jong Un.
-  - **The Guardian World** — In cutting joint drills, Trump has given South Korea’s president what he wants. So why does Seoul look so uneasy?
-    <https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security>
-    > President Lee Jae Myung has long pushed for stronger homegrown defences, yet Donald Trump’s move has sparked alarm in some quarters At their first summit , in August last year, South Korean president Lee Jae Myung told Donald Trump: “If you, Mr President, become the peacemaker, t
-  - **DW News** — US, South Korea cut short joint drills after Trump criticism
-    <https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf>
-    > Allies US and South Korea are currently holding joint military exercises. The drills will, however, wrap up earlier than planned after Trump ordered cuts.
-  - **Al Jazeera** — South Korea, US scale back annual military drills after Trump’s order
-    <https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss>
-    > Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.
-  - **France 24** — Trump scales back joint military drills between South Korea and US
-    <https://www.france24.com/en/asia-pacific/20260819-trump-scales-back-joint-military-drills-between-south-korea-and-us>
-    > South Korea and the US will cut the duration of their annual joint military drills to five days from 11 and scale back some field training, ​the allies said on Wednesday, ‌after President Donald Trump ordered a substantial reduction in US participation. Trump's move could reflect
-
-### 3. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+### 2. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
 - id události: `cedf7f5c0142`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,7 +45,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss>
     > Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
 
-### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 3. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 - id události: `1ba93b103296`  ·  rubrika: `business`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,6 +62,23 @@
     <https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745>
   - **Investing.com** — U.S. tariffs on Canada take effect after trade talks collapse
     <https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296>
+
+### 4. Trump threatens 'tremendous economic consequences' on any country helping Iran
+- id události: `61c52ea5c150`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Trump threatens 'tremendous economic consequences' on any country helping Iran
+    <https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss>
+    > It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
+  - **BBC Business** — Trump threatens 'tremendous economic consequences' on any country helping Iran
+    <https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss>
+    > It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
+  - **Al Jazeera** — Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+    <https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss>
+    > Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
+  - **France 24** — Trump says he will meet North Korea’s Kim Jong Un later this year
+    <https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year>
+    > US President Donald Trump said Wednesday he plans to meet North Korean leader Kim Jong Un later this year, seeking to revive their first-term relationship. Trump said it was important to “get along” with Kim and claimed Pyongyang possessed 57 “very powerful” nuclear weapons, amid
 
 ---
 
