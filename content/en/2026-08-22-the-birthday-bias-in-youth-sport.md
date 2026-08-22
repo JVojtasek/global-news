@@ -1,44 +1,50 @@
 ---
 slug: the-birthday-bias-in-youth-sport
-title: "The Birthday Bias Hidden in Youth Sport"
-dek: "A selection cutoff can make one child almost a year older than a teammate—and turn temporary maturity into a verdict about talent."
+title: The Birthday Bias Hidden in Youth Sport
+dek: A selection cutoff can make one child almost a year older than a teammate—and
+  turn temporary maturity into a verdict about talent.
 section: sport
 type: feature
 depth: open
 lang: en
 date: '2026-08-22'
 status: reserve
-confidence: 86
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "evergreen-relative-age-effect-youth-sport"
-series: "The Wider Lens"
-image_query: "youth football training mixed ages coach assessment"
+format: ''
+event_id: evergreen-relative-age-effect-youth-sport
+series: The Wider Lens
+image_query: youth football training mixed ages coach assessment
 sources:
-  - name: "Sports Medicine via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/19290678/"
-    published: "2009-03"
-  - name: "Journal of Sports Sciences via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/16195011/"
-    published: "2005-06"
-  - name: "Annals of Human Biology via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/31960720/"
-    published: "2020-06"
-  - name: "U.S. Soccer Learning Center"
-    url: "https://learning.ussoccer.com/articles/hip/article/relative-age-effects-in-us-youth-female-soccer"
-    published: ""
-qma_path: ""
+- name: Sports Medicine via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/19290678/
+  published: 2009-03
+- name: Journal of Sports Sciences via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/16195011/
+  published: 2005-06
+- name: Annals of Human Biology via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/31960720/
+  published: 2020-06
+- name: U.S. Soccer Learning Center
+  url: https://learning.ussoccer.com/articles/hip/article/relative-age-effects-in-us-youth-female-soccer
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is the safest conclusion when early-year birthdays are overrepresented in a youth squad?"
-  options: ["Every later-born child was treated unfairly", "The selection system may be confusing relative age with potential", "Children born early in the year have more sporting talent"]
+  question: What is the safest conclusion when early-year birthdays are overrepresented
+    in a youth squad?
+  options:
+  - Every later-born child was treated unfairly
+  - The selection system may be confusing relative age with potential
+  - Children born early in the year have more sporting talent
   answer: 1
-  explanation: "A skewed group distribution can signal selection bias, but it does not prove what happened to any one child."
+  explanation: A skewed group distribution can signal selection bias, but it does
+    not prove what happened to any one child.
 ---
 
 ## BRIEFLY
