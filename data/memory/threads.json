@@ -574,98 +574,29 @@
    ]
   },
   {
-   "id": "44c13320414b",
-   "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
-   "section": "world",
-   "entities": [
-    "rival",
-    "britain",
-    "daily",
-    "mail",
-    "meghan",
-    "harry",
-    "prince"
-   ],
-   "event_ids": [
-    "44c13320414b",
-    "8baa910d825c",
-    "885f09d9d276",
-    "fd31439f723e"
-   ],
-   "first_seen": "2026-08-20",
-   "last_seen": "2026-08-22",
-   "timeline": [
-    {
-     "date": "2026-08-20",
-     "headline": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
-     "sources": 2,
-     "score": 56,
-     "event_id": "44c13320414b",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
-      "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
-      "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Prince Harry and Meghan ‘moving back to Britain this month’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8baa910d825c",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
-      "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
-     "sources": 2,
-     "score": 48,
-     "event_id": "885f09d9d276",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260821-prince-harry-and-meghan-are-returning-to-the-uk-with-their-children"
-     ]
-    },
-    {
-     "date": "2026-08-22",
-     "headline": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-     "sources": 2,
-     "score": 41,
-     "event_id": "fd31439f723e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "four",
-    "wildberries",
+    "korean",
     "izmail",
-    "back-to-back",
-    "masha",
-    "kyiv",
-    "north",
-    "europe",
-    "several",
-    "ukraine",
     "russian",
-    "bear",
-    "zelenskyy",
-    "russia",
-    "belgorod",
-    "overnight",
+    "europe",
     "atacms",
+    "wildberries",
+    "russia",
+    "ukraine",
+    "masha",
+    "zelenskyy",
+    "belgorod",
+    "kyiv",
+    "bear",
+    "back-to-back",
+    "overnight",
+    "four",
     "zelensky",
-    "korean"
+    "several",
+    "north"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -685,10 +616,11 @@
     "cedf7f5c0142",
     "e1239ee18ddf",
     "38f1f3daedca",
-    "8e855f427aa3"
+    "8e855f427aa3",
+    "0053421a02cb"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-08-21",
+   "last_seen": "2026-08-22",
    "timeline": [
     {
      "date": "2026-08-11",
@@ -892,6 +824,244 @@
      "links": [
       "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-22",
+     "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0053421a02cb",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+      "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e8a425cbff50",
+   "title": "Premier League to publish verdicts on referee and VAR decisions",
+   "section": "sport",
+   "entities": [
+    "phil",
+    "city",
+    "haaland's",
+    "golden",
+    "league",
+    "mcnulty's",
+    "boot",
+    "arsenal",
+    "five",
+    "forest",
+    "coventry",
+    "youtube",
+    "premier",
+    "sports",
+    "manchester",
+    "hull",
+    "united",
+    "nottingham",
+    "opening",
+    "tzolis"
+   ],
+   "event_ids": [
+    "e8a425cbff50",
+    "41179a85b0d9",
+    "3ff3a046513a",
+    "e7e4d04839a4",
+    "dfde3543e4ba",
+    "d94ad932442f",
+    "e0b2bb707b45",
+    "ca9b3648741f",
+    "7647b16128ca",
+    "3ed1a03ec11c"
+   ],
+   "first_seen": "2026-08-18",
+   "last_seen": "2026-08-22",
+   "timeline": [
+    {
+     "date": "2026-08-18",
+     "headline": "Premier League to publish verdicts on referee and VAR decisions",
+     "sources": 3,
+     "score": 64,
+     "event_id": "e8a425cbff50",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Haaland's main rivals for the Premier League Golden Boot",
+     "sources": 2,
+     "score": 49,
+     "event_id": "41179a85b0d9",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3ff3a046513a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+     "sources": 1,
+     "score": 46,
+     "event_id": "e7e4d04839a4",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+      "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
+      "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Premier League 2026-27 preview No 18: Nottingham Forest",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dfde3543e4ba",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
+      "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d94ad932442f",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e0b2bb707b45",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Arsenal v Coventry City: Premier League – live",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ca9b3648741f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
+     "sources": 3,
+     "score": 54,
+     "event_id": "7647b16128ca",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-22",
+     "headline": "Hull City v Manchester United: Premier League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3ed1a03ec11c",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/22/hull-city-v-manchester-united-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "44c13320414b",
+   "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+   "section": "world",
+   "entities": [
+    "rival",
+    "britain",
+    "daily",
+    "mail",
+    "meghan",
+    "harry",
+    "prince"
+   ],
+   "event_ids": [
+    "44c13320414b",
+    "8baa910d825c",
+    "885f09d9d276",
+    "fd31439f723e"
+   ],
+   "first_seen": "2026-08-20",
+   "last_seen": "2026-08-22",
+   "timeline": [
+    {
+     "date": "2026-08-20",
+     "headline": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
+     "sources": 2,
+     "score": 56,
+     "event_id": "44c13320414b",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
+      "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
+      "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Prince Harry and Meghan ‘moving back to Britain this month’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8baa910d825c",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
+      "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher",
+     "sources": 2,
+     "score": 48,
+     "event_id": "885f09d9d276",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260821-prince-harry-and-meghan-are-returning-to-the-uk-with-their-children"
+     ]
+    },
+    {
+     "date": "2026-08-22",
+     "headline": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+     "sources": 2,
+     "score": 41,
+     "event_id": "fd31439f723e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream"
      ]
     }
    ]
@@ -1102,149 +1272,6 @@
       "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
       "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
       "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e8a425cbff50",
-   "title": "Premier League to publish verdicts on referee and VAR decisions",
-   "section": "sport",
-   "entities": [
-    "haaland's",
-    "forest",
-    "league",
-    "golden",
-    "opening",
-    "city",
-    "mcnulty's",
-    "youtube",
-    "boot",
-    "coventry",
-    "premier",
-    "tzolis",
-    "phil",
-    "sports",
-    "arsenal",
-    "five",
-    "nottingham"
-   ],
-   "event_ids": [
-    "e8a425cbff50",
-    "41179a85b0d9",
-    "3ff3a046513a",
-    "e7e4d04839a4",
-    "dfde3543e4ba",
-    "d94ad932442f",
-    "e0b2bb707b45",
-    "ca9b3648741f",
-    "7647b16128ca"
-   ],
-   "first_seen": "2026-08-18",
-   "last_seen": "2026-08-21",
-   "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "Premier League to publish verdicts on referee and VAR decisions",
-     "sources": 3,
-     "score": 64,
-     "event_id": "e8a425cbff50",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Haaland's main rivals for the Premier League Golden Boot",
-     "sources": 2,
-     "score": 49,
-     "event_id": "41179a85b0d9",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3ff3a046513a",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
-     "sources": 1,
-     "score": 46,
-     "event_id": "e7e4d04839a4",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
-      "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
-      "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Premier League 2026-27 preview No 18: Nottingham Forest",
-     "sources": 1,
-     "score": 43,
-     "event_id": "dfde3543e4ba",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
-      "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d94ad932442f",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e0b2bb707b45",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Arsenal v Coventry City: Premier League – live",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ca9b3648741f",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
-      "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
-     "sources": 3,
-     "score": 54,
-     "event_id": "7647b16128ca",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
      ]
     }
    ]
@@ -2843,5 +2870,5 @@
    ]
   }
  ],
- "updated": "2026-08-22T09:25:40+00:00"
+ "updated": "2026-08-22T12:26:46+00:00"
 }
