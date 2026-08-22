@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-read-the-clouds",
+  "date": "2026-08-22",
+  "category": "science",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Can you read what the clouds are telling you?",
+      "cs": "Dokážete přečíst, co vám říkají oblaka?"
+    },
+    "dek": {
+      "en": "Eight sky-reading questions turn familiar shapes into useful weather science.",
+      "cs": "Osm otázek o čtení oblohy promění známé tvary v užitečnou meteorologii."
+    },
+    "intro": {
+      "en": "Cloud names are not a secret language for experts. They describe height, shape and development. Choose the best answer, then use the explanation the next time you look up.",
+      "cs": "Názvy oblaků nejsou tajným jazykem odborníků. Popisují výšku, tvar a vývoj. Vyberte nejlepší odpověď a vysvětlení si příště ověřte pohledem na oblohu."
+    },
+    "disclaimer": {
+      "en": "This is an original educational quiz based on public meteorological guidance. It is not a validated instrument, an intelligence test or a substitute for an official forecast or severe-weather warning. Cloud appearance alone cannot provide a complete local forecast.",
+      "cs": "Jde o původní vzdělávací kvíz založený na veřejných meteorologických zdrojích. Není to ověřený test, zkouška inteligence ani náhrada oficiální předpovědi či výstrahy. Samotný vzhled oblaků neposkytne úplnou místní předpověď."
+    }
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "classification",
+      "text": {
+        "en": "What two features are central to the standard classification of ordinary clouds?",
+        "cs": "Které dvě vlastnosti jsou základem běžné klasifikace oblaků?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Height and appearance",
+            "cs": "Výška a vzhled"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "Day of the week and wind name",
+            "cs": "Den v týdnu a název větru"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Colour and distance from the nearest city",
+            "cs": "Barva a vzdálenost od nejbližšího města"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "The National Weather Service classifies clouds mainly by their height and visible form or texture.",
+        "cs": "Americká meteorologická služba klasifikuje oblaka především podle výšky a viditelného tvaru či struktury."
+      }
+    },
+    {
+      "id": "cirro",
+      "text": {
+        "en": "In a cloud name, what does the root “cirro-” usually indicate?",
+        "cs": "Co v názvu oblaku obvykle znamená základ „cirro-“?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "A high-level cloud",
+            "cs": "Oblak vysokého patra"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "A thunderstorm touching the ground",
+            "cs": "Bouřku dotýkající se země"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "A cloud made only of smoke",
+            "cs": "Oblak tvořený pouze kouřem"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "“Cirro-” refers to high cloud. At those cold heights, clouds are mainly made of ice crystals.",
+        "cs": "„Cirro-“ označuje vysoké oblaky. V těchto chladných výškách je tvoří především ledové krystalky."
+      }
+    },
+    {
+      "id": "strato",
+      "text": {
+        "en": "What shape does the root “strato-” suggest?",
+        "cs": "Jaký tvar naznačuje základ „strato-“?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "A broad layer or sheet",
+            "cs": "Rozsáhlou vrstvu nebo plochu"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "A narrow spinning funnel",
+            "cs": "Úzký rotující trychtýř"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "A heap with strong vertical growth",
+            "cs": "Hromadu se silným svislým růstem"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "“Strato-” means a layer. “Cumulo-” refers to a heap or piled form.",
+        "cs": "„Strato-“ znamená vrstvu. „Cumulo-“ označuje kupovitý nebo navršený tvar."
+      }
+    },
+    {
+      "id": "anvil",
+      "text": {
+        "en": "A tall cloud grows rapidly and spreads into an anvil-shaped top. What is the safest interpretation?",
+        "cs": "Vysoký oblak rychle roste a nahoře se rozšiřuje do tvaru kovadliny. Jaký je nejbezpečnější výklad?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "It is a sign of a mature cumulonimbus thunderstorm",
+            "cs": "Je to znak vyvinutého bouřkového oblaku cumulonimbus"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "It proves the weather will stay dry",
+            "cs": "Dokazuje to, že počasí zůstane suché"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "It is always harmless high cirrus",
+            "cs": "Vždy jde o neškodný vysoký cirrus"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "The WMO classifies an anvil-topped form as cumulonimbus capillatus. Use official warnings because visual identification cannot show every hazard.",
+        "cs": "WMO klasifikuje kovadlinovitý vrchol jako cumulonimbus capillatus. Sledujte oficiální výstrahy, protože vzhled neukáže všechna nebezpečí."
+      }
+    },
+    {
+      "id": "fog",
+      "text": {
+        "en": "What is fog in cloud terms?",
+        "cs": "Co je mlha z hlediska oblaků?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "A cloud at or very near the ground",
+            "cs": "Oblak při zemi nebo těsně nad ní"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "A high cloud falling toward Earth",
+            "cs": "Vysoký oblak padající k Zemi"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Water vapour that cannot contain droplets",
+            "cs": "Vodní pára, která nemůže obsahovat kapičky"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Fog is a suspension of tiny water droplets or ice crystals near the surface—the cloud has reached ground level.",
+        "cs": "Mlha je suspenze drobných vodních kapiček nebo ledových krystalků u povrchu; oblak se nachází při zemi."
+      }
+    },
+    {
+      "id": "dark-base",
+      "text": {
+        "en": "Why can the base of a thick cloud look dark from below?",
+        "cs": "Proč může základna mohutného oblaku vypadat zespodu tmavě?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "The thick cloud blocks and scatters much of the sunlight above it",
+            "cs": "Mohutný oblak pohltí a rozptýlí velkou část slunečního světla nad ním"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "All dark clouds are made of pollution",
+            "cs": "Všechna tmavá oblaka jsou tvořena znečištěním"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Darkness proves a tornado is forming",
+            "cs": "Tmavost dokazuje vznik tornáda"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Thickness and lighting strongly affect apparent colour. A dark base can accompany rain, but colour alone does not diagnose a storm.",
+        "cs": "Zdánlivou barvu výrazně ovlivňuje tloušťka a osvětlení. Tmavá základna může doprovázet déšť, ale samotná barva neurčuje druh bouře."
+      }
+    },
+    {
+      "id": "shelf-wall",
+      "text": {
+        "en": "Why should a dramatic low cloud under a storm not be identified from one still photo alone?",
+        "cs": "Proč by se dramatický nízký oblak pod bouří neměl určovat jen z jedné fotografie?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Shelf, wall and ragged scud clouds can look similar while motion and storm position differ",
+            "cs": "Shelf cloud, wall cloud a roztrhané scud oblaky mohou vypadat podobně, ale liší se pohybem a polohou v bouři"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "Clouds have no recognised forms",
+            "cs": "Oblaka nemají rozpoznatelné tvary"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Every low cloud produces a tornado",
+            "cs": "Každý nízký oblak vytváří tornádo"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "The National Weather Service notes that shelf clouds and scud are often mistaken for wall or funnel clouds. Context, movement and official radar information matter.",
+        "cs": "Americká meteorologická služba upozorňuje, že shelf cloud a scud bývají zaměňovány za wall cloud či nálevkový oblak. Záleží na kontextu, pohybu a oficiálních radarových údajích."
+      }
+    },
+    {
+      "id": "weather-climate",
+      "text": {
+        "en": "You see the same cloud type on several afternoons. What can you honestly conclude about climate?",
+        "cs": "Několik odpolední vidíte stejný typ oblaku. Co z toho lze poctivě usoudit o klimatu?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Almost nothing by itself; climate is a long-term pattern, not a few observations",
+            "cs": "Samo o sobě téměř nic; klima je dlouhodobý vzorec, ne několik pozorování"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "The local climate has definitely changed",
+            "cs": "Místní klima se určitě změnilo"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Cloud type and climate are unrelated in every way",
+            "cs": "Typ oblaků a klima spolu nijak nesouvisejí"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "NASA defines climate change through long-term shifts in average weather patterns. A few cloud observations are weather evidence, not a climate trend.",
+        "cs": "NASA vymezuje změnu klimatu jako dlouhodobý posun průměrných vzorců počasí. Několik pozorování oblaků vypovídá o počasí, nikoli o klimatickém trendu."
+      }
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 2,
+      "title": {
+        "en": "Start with shape and height",
+        "cs": "Začněte tvarem a výškou"
+      },
+      "summary": {
+        "en": "Cloud names may still feel like a catalogue. On your next walk, notice just two things: layer or heap, then low or high. Check an official cloud guide afterward. This short quiz cannot assess forecasting skill.",
+        "cs": "Názvy oblaků mohou zatím působit jako katalog. Při příští procházce sledujte jen dvě věci: vrstva, nebo kupa; potom nízko, nebo vysoko. Následně se podívejte do oficiálního atlasu. Krátký kvíz neměří schopnost předpovídat počasí."
+      }
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "title": {
+        "en": "You can see the structure",
+        "cs": "Dokážete vidět strukturu"
+      },
+      "summary": {
+        "en": "You recognise several useful cloud clues. Strengthen the habit by comparing one real sky with the WMO or NWS guide, while relying on official forecasts for decisions. Appearance alone leaves important uncertainty.",
+        "cs": "Rozpoznáváte několik užitečných znaků oblaků. Posilte dovednost porovnáním skutečné oblohy s atlasem WMO nebo NWS; při rozhodování se opírejte o oficiální předpověď. Samotný vzhled ponechává důležitou nejistotu."
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "title": {
+        "en": "You read the sky with healthy caution",
+        "cs": "Čtete oblohu se zdravou opatrností"
+      },
+      "summary": {
+        "en": "You connect cloud form with basic atmospheric processes without turning a clue into a complete forecast. Keep observing changes over time and verify hazardous-weather interpretations with official warnings. The score is knowledge, not intelligence.",
+        "cs": "Spojujete tvar oblaků se základními ději v atmosféře, aniž byste z jednoho znaku dělali úplnou předpověď. Sledujte vývoj v čase a nebezpečné jevy ověřujte podle oficiálních výstrah. Skóre měří znalosti, ne inteligenci."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "WMO International Cloud Atlas",
+      "url": "https://cloudatlas.wmo.int/",
+      "published": "",
+      "type": "primary international meteorological reference"
+    },
+    {
+      "name": "U.S. National Weather Service — Cloud Classification",
+      "url": "https://www.weather.gov/lmk/cloud_classification",
+      "published": "",
+      "type": "primary public meteorological guidance"
+    },
+    {
+      "name": "NASA — What Is Climate Change?",
+      "url": "https://science.nasa.gov/climate-change/what-is-climate-change/",
+      "published": "2024-10-21",
+      "type": "primary public science guidance"
+    }
+  ]
+}
