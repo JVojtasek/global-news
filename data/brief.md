@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-21
+# ZADÁNÍ PRO REDAKCI — 2026-08-22
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -88,12 +88,7 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### phishing scam
-- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
-- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
-  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
+_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ---
 
