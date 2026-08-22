@@ -1,47 +1,60 @@
 ---
-slug: "when-exhaustion-is-not-the-whole-story"
-title: "When Exhaustion Is Not the Whole Story"
-dek: "Sometimes the wound at work is not simply too much to do. It is being asked to cross a moral line, watching one crossed, or feeling abandoned when you tried to do the right thing."
-section: "soul"
-type: "analysis"
-depth: "open"
-lang: "en"
-date: "2026-08-22"
-status: "draft"
-confidence: 84
+slug: when-exhaustion-is-not-the-whole-story
+title: When Exhaustion Is Not the Whole Story
+dek: Sometimes the wound at work is not simply too much to do. It is being asked to
+  cross a moral line, watching one crossed, or feeling abandoned when you tried to
+  do the right thing.
+section: soul
+type: analysis
+depth: open
+lang: en
+date: '2026-08-22'
+status: review
+confidence: 89
 load: 0
-topics: ["moral injury", "workplace wellbeing", "burnout", "values", "mental health"]
+topics:
+- moral injury
+- workplace wellbeing
+- burnout
+- values
+- mental health
 automation_generated: true
 edition_slot: 3
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "quiet empty hospital corridor at dawn conceptual editorial photography no people no logos"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: quiet empty hospital corridor at dawn conceptual editorial photography
+  no people no logos
 sources:
-  - name: "U.S. Department of Veterans Affairs — Moral Injury (accessed 2026-08-22)"
-    url: "https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury.asp"
-    published: "2026-08-22"
-  - name: "VA Health Systems Research — Moral Injury Outcome Scale"
-    url: "https://www.hsrd.research.va.gov/impacts/mids.cfm"
-    published: "2025-03-13"
-  - name: "VA Evidence Synthesis Program — Moral Injury and Mental Health Among US Combat Veterans"
-    url: "https://www.hsrd.research.va.gov/publications/management_briefs/default.cfm?ManagementBriefsMenu=eBrief-no234"
-    published: "2025-05-01"
-  - name: "Frontiers in Psychiatry — Moral Injury in Health-Care Workers During COVID-19"
-    url: "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.784523/full"
-    published: "2022-02-14"
-qma_path: ""
+- name: U.S. Department of Veterans Affairs — Moral Injury (accessed 2026-08-22)
+  url: https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury.asp
+  published: '2026-08-22'
+- name: VA Health Systems Research — Moral Injury Outcome Scale
+  url: https://www.hsrd.research.va.gov/impacts/mids.cfm
+  published: '2025-03-13'
+- name: VA Evidence Synthesis Program — Moral Injury and Mental Health Among US Combat
+    Veterans
+  url: https://www.hsrd.research.va.gov/publications/management_briefs/default.cfm?ManagementBriefsMenu=eBrief-no234
+  published: '2025-05-01'
+- name: Frontiers in Psychiatry — Moral Injury in Health-Care Workers During COVID-19
+  url: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.784523/full
+  published: '2022-02-14'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What most clearly distinguishes moral injury from ordinary workload exhaustion?"
+  question: What most clearly distinguishes moral injury from ordinary workload exhaustion?
   options:
-    - "It always involves physical danger"
-    - "It centres on a perceived violation or betrayal of deeply held values"
-    - "It disappears after one good night's sleep"
+  - It always involves physical danger
+  - It centres on a perceived violation or betrayal of deeply held values
+  - It disappears after one good night's sleep
   answer: 1
-  explanation: "Moral injury describes the lasting distress that can follow doing, failing to prevent, witnessing, or being betrayed around an act that violates deeply held moral beliefs. It can overlap with exhaustion or PTSD, but neither is required."
+  explanation: Moral injury describes the lasting distress that can follow doing,
+    failing to prevent, witnessing, or being betrayed around an act that violates
+    deeply held moral beliefs. It can overlap with exhaustion or PTSD, but neither
+    is required.
+review_reason: 'citlivé téma: self-harm'
 ---
 
 ## BRIEFLY

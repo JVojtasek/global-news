@@ -1,47 +1,57 @@
 ---
-slug: "the-ozone-layer-is-healing"
-title: "The Ozone Layer Is Healing"
-dek: "A generation after governments agreed to remove invisible chemicals from everyday products, the atmosphere is responding. The victory is real—but it is slow, measured and still unfinished."
-section: "goodnews"
-type: "analysis"
-depth: "open"
-lang: "en"
-date: "2026-08-22"
-status: "draft"
-confidence: 91
+slug: the-ozone-layer-is-healing
+title: The Ozone Layer Is Healing
+dek: A generation after governments agreed to remove invisible chemicals from everyday
+  products, the atmosphere is responding. The victory is real—but it is slow, measured
+  and still unfinished.
+section: goodnews
+type: analysis
+depth: open
+lang: en
+date: '2026-08-22'
+status: published
+confidence: 89
 load: 0
-topics: ["ozone layer", "Montreal Protocol", "environment", "science", "global cooperation"]
+topics:
+- ozone layer
+- Montreal Protocol
+- environment
+- science
+- global cooperation
 automation_generated: true
 edition_slot: 4
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "blue atmospheric layers above Antarctica scientific editorial illustration no text no logos"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: blue atmospheric layers above Antarctica scientific editorial illustration
+  no text no logos
 sources:
-  - name: "UN Environment Programme — Scientific Assessment of Ozone Depletion 2022"
-    url: "https://www.unep.org/resources/publication/scientific-assessment-ozone-layer-depletion-2022"
-    published: "2023-01-09"
-  - name: "NOAA and WMO — Scientific Assessment of Ozone Depletion 2022 Executive Summary"
-    url: "https://csl.noaa.gov/assessments/ozone/2022/executivesummary/"
-    published: "2022-12-01"
-  - name: "UN Environment Programme Ozone Secretariat — Montreal Protocol (accessed 2026-08-22)"
-    url: "https://ozone.unep.org/treaties/montreal-protocol"
-    published: "2026-08-22"
-  - name: "NASA Earth Observatory — Ozone Hole Continues Healing in 2024"
-    url: "https://science.nasa.gov/earth/earth-observatory/ozone-hole-continues-healing-in-2024-153523/"
-    published: "2024-10-31"
-qma_path: ""
+- name: UN Environment Programme — Scientific Assessment of Ozone Depletion 2022
+  url: https://www.unep.org/resources/publication/scientific-assessment-ozone-layer-depletion-2022
+  published: '2023-01-09'
+- name: NOAA and WMO — Scientific Assessment of Ozone Depletion 2022 Executive Summary
+  url: https://csl.noaa.gov/assessments/ozone/2022/executivesummary/
+  published: '2022-12-01'
+- name: UN Environment Programme Ozone Secretariat — Montreal Protocol (accessed 2026-08-22)
+  url: https://ozone.unep.org/treaties/montreal-protocol
+  published: '2026-08-22'
+- name: NASA Earth Observatory — Ozone Hole Continues Healing in 2024
+  url: https://science.nasa.gov/earth/earth-observatory/ozone-hole-continues-healing-in-2024-153523/
+  published: '2024-10-31'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why does ozone recovery take decades after emissions are cut?"
+  question: Why does ozone recovery take decades after emissions are cut?
   options:
-    - "Ozone can form only during rare solar events"
-    - "Many ozone-depleting chemicals already released remain in the atmosphere for decades"
-    - "The Montreal Protocol does not take effect until 2066"
+  - Ozone can form only during rare solar events
+  - Many ozone-depleting chemicals already released remain in the atmosphere for decades
+  - The Montreal Protocol does not take effect until 2066
   answer: 1
-  explanation: "Many controlled chemicals are long-lived. Their atmospheric concentrations decline slowly, so the ozone layer responds over decades even after production and consumption are sharply reduced."
+  explanation: Many controlled chemicals are long-lived. Their atmospheric concentrations
+    decline slowly, so the ozone layer responds over decades even after production
+    and consumption are sharply reduced.
 ---
 
 ## BRIEFLY

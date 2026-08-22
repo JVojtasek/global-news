@@ -1,44 +1,53 @@
 ---
 slug: are-electric-cars-really-cleaner
-title: "Are Electric Cars Really Cleaner? The Boundary Test Behind Every Confident Answer"
-dek: "Battery production matters, power grids differ and vehicle size counts—yet full lifecycle comparisons usually still favour electric cars when like is compared with like."
+title: Are Electric Cars Really Cleaner? The Boundary Test Behind Every Confident
+  Answer
+dek: Battery production matters, power grids differ and vehicle size counts—yet full
+  lifecycle comparisons usually still favour electric cars when like is compared with
+  like.
 section: motoring
 type: analysis
 depth: open
 lang: en
-date: 2026-08-22
-status: draft
-confidence: 86
+date: '2026-08-22'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual lifecycle comparison of electric and combustion cars, battery factory, power grid and road, clean editorial infographic without text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual lifecycle comparison of electric and combustion cars, battery
+  factory, power grid and road, clean editorial infographic without text
 sources:
-  - name: "International Energy Agency — EV Life Cycle Assessment Calculator"
-    url: "https://www.iea.org/data-and-statistics/data-tools/ev-life-cycle-assessment-calculator"
-    published: "2024-06-05"
-  - name: "U.S. Environmental Protection Agency — Electric Vehicle Myths"
-    url: "https://www.epa.gov/greenvehicles/electric-vehicle-myths"
-    published: "2026-08-22"
-  - name: "U.S. Department of Energy — Emissions from Electric Vehicles"
-    url: "https://afdc.energy.gov/vehicles/electric-emissions"
-    published: "2026-08-22"
-  - name: "Reuters — Battery electric cars produce 73% less emissions"
-    url: "https://www.reuters.com/sustainability/climate-energy/battery-electric-cars-produce-73-less-emissions-research-2025-07-08/"
-    published: "2025-07-09"
-qma_path: ""
+- name: International Energy Agency — EV Life Cycle Assessment Calculator
+  url: https://www.iea.org/data-and-statistics/data-tools/ev-life-cycle-assessment-calculator
+  published: '2024-06-05'
+- name: U.S. Environmental Protection Agency — Electric Vehicle Myths
+  url: https://www.epa.gov/greenvehicles/electric-vehicle-myths
+  published: '2026-08-22'
+- name: U.S. Department of Energy — Emissions from Electric Vehicles
+  url: https://afdc.energy.gov/vehicles/electric-emissions
+  published: '2026-08-22'
+- name: Reuters — Battery electric cars produce 73% less emissions
+  url: https://www.reuters.com/sustainability/climate-energy/battery-electric-cars-produce-73-less-emissions-research-2025-07-08/
+  published: '2025-07-09'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which comparison best tests whether an electric car has lower lifecycle greenhouse-gas emissions?"
-  options: ["Tailpipe emissions alone", "Two similarly sized cars using local electricity, realistic mileage and full production", "The largest available EV against the smallest petrol car"]
+  question: Which comparison best tests whether an electric car has lower lifecycle
+    greenhouse-gas emissions?
+  options:
+  - Tailpipe emissions alone
+  - Two similarly sized cars using local electricity, realistic mileage and full production
+  - The largest available EV against the smallest petrol car
   answer: 1
-  explanation: "A fair lifecycle comparison matches vehicle class and includes manufacture, energy supply, use, lifetime distance and end of life."
+  explanation: A fair lifecycle comparison matches vehicle class and includes manufacture,
+    energy supply, use, lifetime distance and end of life.
 ---
 
 ## BRIEFLY

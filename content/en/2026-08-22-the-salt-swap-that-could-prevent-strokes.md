@@ -1,44 +1,52 @@
 ---
 slug: the-salt-swap-that-could-prevent-strokes
-title: "The Salt Swap That Could Prevent Strokes — and the People Who Should Not Make It Alone"
-dek: "Replacing some sodium with potassium can lower blood pressure and may prevent strokes, but the supermarket shortcut comes with an important safety question."
+title: The Salt Swap That Could Prevent Strokes — and the People Who Should Not Make
+  It Alone
+dek: Replacing some sodium with potassium can lower blood pressure and may prevent
+  strokes, but the supermarket shortcut comes with an important safety question.
 section: food
 type: daily
 depth: open
 lang: en
-date: 2026-08-22
-status: draft
-confidence: 88
+date: '2026-08-22'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual editorial still life of two salt cellars and a split mineral crystal path, warm kitchen light, no people, no text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual editorial still life of two salt cellars and a split mineral
+  crystal path, warm kitchen light, no people, no text
 sources:
-  - name: "World Health Organization — lower-sodium salt substitutes guideline"
-    url: "https://www.who.int/publications/i/item/9789240105591"
-    published: "2025-01-27"
-  - name: "New England Journal of Medicine — Salt Substitute and Stroke Study"
-    url: "https://pubmed.ncbi.nlm.nih.gov/34459569/"
-    published: "2021-08-29"
-  - name: "World Health Organization — Sodium reduction"
-    url: "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction"
-    published: "2026-05-11"
-  - name: "BMC Medicine — salt substitute network meta-analysis"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12911277/"
-    published: "2026-01-23"
-qma_path: ""
+- name: World Health Organization — lower-sodium salt substitutes guideline
+  url: https://www.who.int/publications/i/item/9789240105591
+  published: '2025-01-27'
+- name: New England Journal of Medicine — Salt Substitute and Stroke Study
+  url: https://pubmed.ncbi.nlm.nih.gov/34459569/
+  published: '2021-08-29'
+- name: World Health Organization — Sodium reduction
+  url: https://www.who.int/news-room/fact-sheets/detail/sodium-reduction
+  published: '2026-05-11'
+- name: BMC Medicine — salt substitute network meta-analysis
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12911277/
+  published: '2026-01-23'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why should some people ask a clinician or pharmacist before using potassium-enriched salt?"
-  options: ["It always raises blood pressure", "Their kidneys or medicines may allow potassium to build up", "It contains no sodium at all"]
+  question: Why should some people ask a clinician or pharmacist before using potassium-enriched
+    salt?
+  options:
+  - It always raises blood pressure
+  - Their kidneys or medicines may allow potassium to build up
+  - It contains no sodium at all
   answer: 1
-  explanation: "Potassium-enriched salt can be hazardous when kidney function is impaired or medicines reduce the body's ability to remove potassium."
+  explanation: Potassium-enriched salt can be hazardous when kidney function is impaired
+    or medicines reduce the body's ability to remove potassium.
 ---
 
 ## BRIEFLY
