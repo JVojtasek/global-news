@@ -109,13 +109,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 41  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 42  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 41
-  2026-08-17  (2 zdrojů, síla 46)  Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience
+rubrika: world · sledováno od 2026-08-09 · záznamů: 42
   2026-08-17  (3 zdrojů, síla 53)  Trump orders Pentagon to scale back joint exercises with South Korea
   2026-08-17  (2 zdrojů, síla 45)  Trump orders US to scale back South Korea military drills
   2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces
@@ -135,6 +134,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 41
   2026-08-20  (2 zdrojů, síla 44)  North Korea fires 10 missiles day after Trump curtails South Korea joint drills
   2026-08-20  (1 zdrojů, síla 40)  How China and Russia could hobble Trump’s plans to isolate Iran
   2026-08-20  (2 zdrojů, síla 42)  North Korea fires ballistic missiles as US-South Korea drills near end
+  2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

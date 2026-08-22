@@ -1,6 +1,579 @@
 {
  "threads": [
   {
+   "id": "639e1a78a571",
+   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+   "section": "world",
+   "entities": [
+    "turkey",
+    "united",
+    "league",
+    "hormuz",
+    "china",
+    "strait",
+    "lebanon",
+    "us-south",
+    "trump",
+    "east",
+    "oman",
+    "south",
+    "bluster",
+    "states",
+    "iran",
+    "ukraine",
+    "iranian",
+    "champions",
+    "north",
+    "taiwan",
+    "qatar",
+    "washington",
+    "troops",
+    "american",
+    "middle",
+    "trump's",
+    "donald",
+    "gulf",
+    "jong",
+    "pentagon",
+    "china's",
+    "justified",
+    "groundhog",
+    "tehran",
+    "tennessee",
+    "russia's",
+    "korea",
+    "russia"
+   ],
+   "event_ids": [
+    "639e1a78a571",
+    "0624eb1ba208",
+    "816e48902267",
+    "0a4c58727150",
+    "a60728b498fa",
+    "123a1f07cf24",
+    "56f469f39f91",
+    "720fe4b034c3",
+    "f0099e190d82",
+    "965561c723dd",
+    "b193e4544a0d",
+    "0316549f9ed5",
+    "3eaa33015060",
+    "19a5a4d8911d",
+    "f3c480adacd2",
+    "01a1c27cf3db",
+    "8aebfd5175f1",
+    "def668b7e9dc",
+    "0e11f2f770e0",
+    "ca01092fef56",
+    "d39bc91ddc0a",
+    "c5e1e17987ea",
+    "4ee875e3fe43",
+    "2f607baa744d",
+    "2685bccdeea4",
+    "fddaa90f876f",
+    "d4ca08041bea",
+    "24d62d122ca6",
+    "80e2d954a5ba",
+    "d72eed2c40c7",
+    "6cffb2755854",
+    "f0d5ecba517b",
+    "172febb378d5",
+    "d68c149320ae",
+    "fe307da7bf3f",
+    "e68fe4f445db",
+    "61c52ea5c150",
+    "fbb58bedad9a",
+    "ac6b33f602a5",
+    "2493ae91f899",
+    "7092d0f6864b",
+    "7b6cc89252d4"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-08-22",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+     "sources": 6,
+     "score": 83,
+     "event_id": "639e1a78a571",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0624eb1ba208",
+     "links": [
+      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+     "sources": 2,
+     "score": 44,
+     "event_id": "816e48902267",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump signals shift to economic pressure on Iran over new military strikes",
+     "sources": 2,
+     "score": 43,
+     "event_id": "0a4c58727150",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a60728b498fa",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
+     "sources": 3,
+     "score": 52,
+     "event_id": "123a1f07cf24",
+     "links": [
+      "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
+      "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
+      "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
+     "sources": 2,
+     "score": 45,
+     "event_id": "56f469f39f91",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
+      "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+     "sources": 2,
+     "score": 42,
+     "event_id": "720fe4b034c3",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+     "sources": 2,
+     "score": 48,
+     "event_id": "f0099e190d82",
+     "links": [
+      "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+      "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
+     "sources": 4,
+     "score": 73,
+     "event_id": "965561c723dd",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+      "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Gulf states scramble for Strait of Hormuz alternative",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b193e4544a0d",
+     "links": [
+      "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Lebanon becomes first Middle East country to end death penalty",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0316549f9ed5",
+     "links": [
+      "https://www.france24.com/en/lebanon-becomes-first-middle-east-country-to-end-death-penalty",
+      "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+     "sources": 3,
+     "score": 57,
+     "event_id": "3eaa33015060",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Donald Trump to declare Hormuz US territory 'soon'",
+     "sources": 4,
+     "score": 69,
+     "event_id": "19a5a4d8911d",
+     "links": [
+      "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+      "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Donald Trump says he faced ‘greater risk’ on swapped plane",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f3c480adacd2",
+     "links": [
+      "https://www.france24.com/en/donald-trump-says-he-faced-greater-risk-on-swapped-plane",
+      "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
+     "sources": 2,
+     "score": 45,
+     "event_id": "01a1c27cf3db",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
+      "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8aebfd5175f1",
+     "links": [
+      "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
+     "sources": 2,
+     "score": 40,
+     "event_id": "def668b7e9dc",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
+      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0e11f2f770e0",
+     "links": [
+      "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ca01092fef56",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+     "sources": 3,
+     "score": 55,
+     "event_id": "d39bc91ddc0a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5e1e17987ea",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Trump orders Pentagon to scale back joint exercises with South Korea",
+     "sources": 3,
+     "score": 53,
+     "event_id": "4ee875e3fe43",
+     "links": [
+      "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+      "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Trump orders US to scale back South Korea military drills",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2f607baa744d",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
+      "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start",
+      "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Troops from North Korea to boost Russia's Ukraine forces",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2685bccdeea4",
+     "links": [
+      "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+     "sources": 2,
+     "score": 44,
+     "event_id": "fddaa90f876f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4ca08041bea",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "BBC breaks down Trump's latest shift on North and South Korea",
+     "sources": 3,
+     "score": 58,
+     "event_id": "24d62d122ca6",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+     "sources": 3,
+     "score": 55,
+     "event_id": "80e2d954a5ba",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+      "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d72eed2c40c7",
+     "links": [
+      "https://www.france24.com/en/south-korea-calls-for-solid-us-alliance-after-trump-says-good-relationship-with-kim-jong-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Why has Trump threatened to bomb Oman – for a second time?",
+     "sources": 2,
+     "score": 40,
+     "event_id": "6cffb2755854",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
+      "https://www.france24.com/en/trump-threatens-to-bomb-oman-as-its-ally-tires-to-mediate-iran-negotiations"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+     "sources": 1,
+     "score": 42,
+     "event_id": "f0d5ecba517b",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "The United States is about to wake up to the threat from China's space program",
+     "sources": 2,
+     "score": 41,
+     "event_id": "172febb378d5",
+     "links": [
+      "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+      "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+     "sources": 2,
+     "score": 47,
+     "event_id": "d68c149320ae",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
+      "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "South Korea shortens war games with US, citing Washington request",
+     "sources": 5,
+     "score": 80,
+     "event_id": "fe307da7bf3f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
+      "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+     "sources": 3,
+     "score": 56,
+     "event_id": "e68fe4f445db",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+      "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+     "sources": 4,
+     "score": 67,
+     "event_id": "61c52ea5c150",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Middle East updates: Trump warns 'economic consequences' for nations helping Iran",
+     "sources": 3,
+     "score": 57,
+     "event_id": "fbb58bedad9a",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-trump-warns-economic-consequences-for-nations-helping-iran/live-78438056?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ac6b33f602a5",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+      "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
+     "sources": 1,
+     "score": 40,
+     "event_id": "2493ae91f899",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "North Korea fires ballistic missiles as US-South Korea drills near end",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7092d0f6864b",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
+      "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet"
+     ]
+    },
+    {
+     "date": "2026-08-22",
+     "headline": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7b6cc89252d4",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions-4872246"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -858,566 +1431,6 @@
       "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "639e1a78a571",
-   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-   "section": "world",
-   "entities": [
-    "states",
-    "iranian",
-    "trump",
-    "taiwan",
-    "bluster",
-    "oman",
-    "middle",
-    "turkey",
-    "league",
-    "qatar",
-    "gulf",
-    "tennessee",
-    "north",
-    "trump's",
-    "hormuz",
-    "china's",
-    "justified",
-    "washington",
-    "groundhog",
-    "russia",
-    "china",
-    "pentagon",
-    "ukraine",
-    "us-south",
-    "tehran",
-    "korea",
-    "lebanon",
-    "jong",
-    "russia's",
-    "donald",
-    "east",
-    "iran",
-    "strait",
-    "south",
-    "champions",
-    "troops",
-    "united"
-   ],
-   "event_ids": [
-    "639e1a78a571",
-    "0624eb1ba208",
-    "816e48902267",
-    "0a4c58727150",
-    "a60728b498fa",
-    "123a1f07cf24",
-    "56f469f39f91",
-    "720fe4b034c3",
-    "f0099e190d82",
-    "965561c723dd",
-    "b193e4544a0d",
-    "0316549f9ed5",
-    "3eaa33015060",
-    "19a5a4d8911d",
-    "f3c480adacd2",
-    "01a1c27cf3db",
-    "8aebfd5175f1",
-    "def668b7e9dc",
-    "0e11f2f770e0",
-    "ca01092fef56",
-    "d39bc91ddc0a",
-    "c5e1e17987ea",
-    "4ee875e3fe43",
-    "2f607baa744d",
-    "2685bccdeea4",
-    "fddaa90f876f",
-    "d4ca08041bea",
-    "24d62d122ca6",
-    "80e2d954a5ba",
-    "d72eed2c40c7",
-    "6cffb2755854",
-    "f0d5ecba517b",
-    "172febb378d5",
-    "d68c149320ae",
-    "fe307da7bf3f",
-    "e68fe4f445db",
-    "61c52ea5c150",
-    "fbb58bedad9a",
-    "ac6b33f602a5",
-    "2493ae91f899",
-    "7092d0f6864b"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-20",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-     "sources": 6,
-     "score": 83,
-     "event_id": "639e1a78a571",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0624eb1ba208",
-     "links": [
-      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-     "sources": 2,
-     "score": 44,
-     "event_id": "816e48902267",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump signals shift to economic pressure on Iran over new military strikes",
-     "sources": 2,
-     "score": 43,
-     "event_id": "0a4c58727150",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a60728b498fa",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
-     "sources": 3,
-     "score": 52,
-     "event_id": "123a1f07cf24",
-     "links": [
-      "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
-      "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
-      "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
-     "sources": 2,
-     "score": 45,
-     "event_id": "56f469f39f91",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/10/trump-demands-iran-pay-compensation-for-decades-of-us-soldier-deaths",
-      "https://www.cnbc.com/2026/08/10/trump-iran-oil-jones-act-shipping.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-     "sources": 2,
-     "score": 42,
-     "event_id": "720fe4b034c3",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-     "sources": 2,
-     "score": 48,
-     "event_id": "f0099e190d82",
-     "links": [
-      "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-      "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-     "sources": 4,
-     "score": 73,
-     "event_id": "965561c723dd",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
-      "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Gulf states scramble for Strait of Hormuz alternative",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b193e4544a0d",
-     "links": [
-      "https://www.dw.com/en/gulf-states-scramble-for-strait-of-hormuz-alternative/a-78336679?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Lebanon becomes first Middle East country to end death penalty",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0316549f9ed5",
-     "links": [
-      "https://www.france24.com/en/lebanon-becomes-first-middle-east-country-to-end-death-penalty",
-      "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
-     "sources": 3,
-     "score": 57,
-     "event_id": "3eaa33015060",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Donald Trump to declare Hormuz US territory 'soon'",
-     "sources": 4,
-     "score": 69,
-     "event_id": "19a5a4d8911d",
-     "links": [
-      "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-      "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Donald Trump says he faced ‘greater risk’ on swapped plane",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f3c480adacd2",
-     "links": [
-      "https://www.france24.com/en/donald-trump-says-he-faced-greater-risk-on-swapped-plane",
-      "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
-     "sources": 2,
-     "score": 45,
-     "event_id": "01a1c27cf3db",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260815-middle-east-live-trump-threatens-us-takeover-of-hormuz-as-iran-vows-to-retain-control",
-      "https://www.investing.com/news/economy-news/adnoc-vessel-attacked-in-hormuz-as-trump-defends-extended-carrier-deployment-4861748"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8aebfd5175f1",
-     "links": [
-      "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-     "sources": 2,
-     "score": 40,
-     "event_id": "def668b7e9dc",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-      "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0e11f2f770e0",
-     "links": [
-      "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-     "sources": 2,
-     "score": 42,
-     "event_id": "ca01092fef56",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-     "sources": 3,
-     "score": 55,
-     "event_id": "d39bc91ddc0a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/16/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea.html"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5e1e17987ea",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Trump orders Pentagon to scale back joint exercises with South Korea",
-     "sources": 3,
-     "score": 53,
-     "event_id": "4ee875e3fe43",
-     "links": [
-      "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-      "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Trump orders US to scale back South Korea military drills",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2f607baa744d",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
-      "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start",
-      "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Troops from North Korea to boost Russia's Ukraine forces",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2685bccdeea4",
-     "links": [
-      "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/us-south-korea-drills-renew-questions-over-north-korea-s-military-power"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
-     "sources": 2,
-     "score": 44,
-     "event_id": "fddaa90f876f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4ca08041bea",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
-      "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "BBC breaks down Trump's latest shift on North and South Korea",
-     "sources": 3,
-     "score": 58,
-     "event_id": "24d62d122ca6",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
-     "sources": 3,
-     "score": 55,
-     "event_id": "80e2d954a5ba",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
-      "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d72eed2c40c7",
-     "links": [
-      "https://www.france24.com/en/south-korea-calls-for-solid-us-alliance-after-trump-says-good-relationship-with-kim-jong-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Why has Trump threatened to bomb Oman – for a second time?",
-     "sources": 2,
-     "score": 40,
-     "event_id": "6cffb2755854",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
-      "https://www.france24.com/en/trump-threatens-to-bomb-oman-as-its-ally-tires-to-mediate-iran-negotiations"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-     "sources": 1,
-     "score": 42,
-     "event_id": "f0d5ecba517b",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "The United States is about to wake up to the threat from China's space program",
-     "sources": 2,
-     "score": 41,
-     "event_id": "172febb378d5",
-     "links": [
-      "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
-      "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-     "sources": 2,
-     "score": 47,
-     "event_id": "d68c149320ae",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260818-trump-says-no-iran-talks-planned-insists-strait-of-hormuz-remains-open",
-      "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "South Korea shortens war games with US, citing Washington request",
-     "sources": 5,
-     "score": 80,
-     "event_id": "fe307da7bf3f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
-      "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-     "sources": 3,
-     "score": 56,
-     "event_id": "e68fe4f445db",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-     "sources": 4,
-     "score": 67,
-     "event_id": "61c52ea5c150",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Middle East updates: Trump warns 'economic consequences' for nations helping Iran",
-     "sources": 3,
-     "score": 57,
-     "event_id": "fbb58bedad9a",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-trump-warns-economic-consequences-for-nations-helping-iran/live-78438056?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ac6b33f602a5",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-      "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
-     "sources": 1,
-     "score": 40,
-     "event_id": "2493ae91f899",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "North Korea fires ballistic missiles as US-South Korea drills near end",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7092d0f6864b",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-      "https://www.france24.com/en/video/20260820-north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet"
      ]
     }
    ]
@@ -2818,5 +2831,5 @@
    ]
   }
  ],
- "updated": "2026-08-22T00:28:14+00:00"
+ "updated": "2026-08-22T03:29:23+00:00"
 }
