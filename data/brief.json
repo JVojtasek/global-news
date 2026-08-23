@@ -3,7 +3,7 @@
  "mode": "normal",
  "days_since_human": 0,
  "confidence_threshold": 82,
- "reserve_articles": 3,
+ "reserve_articles": 4,
  "news_assignments": [
   {
    "id": "84ce4047c1c5",
@@ -60,56 +60,6 @@
      "published_at": "2026-08-21T03:18:38+00:00",
      "source_countries": [],
      "seen_at": "2026-08-21T03:34:45+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
-   "id": "cedf7f5c0142",
-   "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-   "section": "world",
-   "score": 69,
-   "sources_count": 4,
-   "depth_signal": 2,
-   "created": "2026-08-20T06:27:21+00:00",
-   "event_time": "2026-08-20T05:25:23+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-     "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-     "published_at": "2026-08-20T05:25:23+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-20T06:27:18+00:00"
-    },
-    {
-     "title": "Kyiv comes under Russian missile attack, killing at least nine",
-     "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-     "source": "The Guardian World",
-     "summary": "Death reported after residential areas and warehouses hit in heavy bombardment in capital and surrounding region A heavy Russian bombardment killed at least nine people in Ukraine’s capital and its surrounding region overnight, authorities said on Thursday. A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, ",
-     "published_at": "2026-08-20T05:25:28+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-20T06:27:18+00:00"
-    },
-    {
-     "title": "Kyiv targeted by massive Russian strikes killing several people",
-     "url": "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people",
-     "source": "France 24",
-     "summary": "A Russian missile barrage overnight on Thursday killed at least nine people in Kyiv as explosions echoed across the capital throughout the night, local authorities said. At least 33 people were wounded.",
-     "published_at": "2026-08-20T05:30:24+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-20T06:27:18+00:00"
-    },
-    {
-     "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
-     "published_at": "2026-08-20T04:59:22+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-20T06:27:18+00:00"
     }
    ],
    "depth": "open"
@@ -219,6 +169,56 @@
      "published_at": "2026-08-21T00:40:04+00:00",
      "source_countries": [],
      "seen_at": "2026-08-21T12:27:41+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "142c24046870",
+   "headline": "Panama Canal to cut number of ships passing through due to El Niño",
+   "section": "world",
+   "score": 62,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-08-21T09:27:18+00:00",
+   "event_time": "2026-08-21T06:46:08+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Panama Canal to cut number of ships passing through due to El Niño",
+     "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+     "published_at": "2026-08-21T06:46:08+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-21T09:27:14+00:00"
+    },
+    {
+     "title": "Panama Canal to cut number of ships passing through due to El Niño",
+     "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+     "published_at": "2026-08-21T06:46:08+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-21T09:27:14+00:00"
+    },
+    {
+     "title": "Panama Canal to cap ship transits due to El Nino drought",
+     "url": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event.",
+     "published_at": "2026-08-21T07:30:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-21T09:27:14+00:00"
+    },
+    {
+     "title": "Panama Canal to reduce shipping over El Niño-fueled drought",
+     "url": "https://phys.org/news/2026-08-panama-canal-shipping-el-nio.html",
+     "source": "Phys.org",
+     "summary": "The Panama Canal will cut the number of ships passing through it starting next month because of drought caused by the El Niño phenomenon, the operator of the strategic waterway linking the Atlantic and Pacific said Thursday.",
+     "published_at": "2026-08-21T08:24:16+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-21T09:27:14+00:00"
     }
    ],
    "depth": "open"

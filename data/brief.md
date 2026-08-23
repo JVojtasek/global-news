@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **3**
+- Článků v zásobě: **4**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -28,24 +28,7 @@
   - **Investing.com** — Shein targets Hong Kong market debut on September 1, sources say
     <https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257>
 
-### 2. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
-- id události: `cedf7f5c0142`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
-    <https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss>
-    > Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, according to the State Emergency Service of Ukraine.
-  - **The Guardian World** — Kyiv comes under Russian missile attack, killing at least nine
-    <https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack>
-    > Death reported after residential areas and warehouses hit in heavy bombardment in capital and surrounding region A heavy Russian bombardment killed at least nine people in Ukraine’s capital and its surrounding region overnight, authorities said on Thursday. A missile attack on Ky
-  - **France 24** — Kyiv targeted by massive Russian strikes killing several people
-    <https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people>
-    > A Russian missile barrage overnight on Thursday killed at least nine people in Kyiv as explosions echoed across the capital throughout the night, local authorities said. At least 33 people were wounded.
-  - **Al Jazeera** — At least 6 killed in multiple Russian missile strikes across Ukraine
-    <https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss>
-    > Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
-
-### 3. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 2. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 - id události: `1ba93b103296`  ·  rubrika: `business`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -63,7 +46,7 @@
   - **Investing.com** — U.S. tariffs on Canada take effect after trade talks collapse
     <https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296>
 
-### 4. Hong Kong convicts Tiananmen vigil leaders
+### 3. Hong Kong convicts Tiananmen vigil leaders
 - id události: `0df2dafecfc9`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -79,6 +62,23 @@
   - **Medical Xpress** — Hong Kong's first screening tool to detect social frailty in seniors
     <https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html>
     > Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple, objective way to identify those most at risk. Researchers at The Hong Kong Polytechnic University (PolyU) have developed a set of commun
+
+### 4. Panama Canal to cut number of ships passing through due to El Niño
+- id události: `142c24046870`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Panama Canal to cut number of ships passing through due to El Niño
+    <https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss>
+    > The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.
+  - **BBC Business** — Panama Canal to cut number of ships passing through due to El Niño
+    <https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss>
+    > The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.
+  - **DW News** — Panama Canal to cap ship transits due to El Nino drought
+    <https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf>
+    > Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event.
+  - **Phys.org** — Panama Canal to reduce shipping over El Niño-fueled drought
+    <https://phys.org/news/2026-08-panama-canal-shipping-el-nio.html>
+    > The Panama Canal will cut the number of ships passing through it starting next month because of drought caused by the El Niño phenomenon, the operator of the strategic waterway linking the Atlantic and Pacific said Thursday.
 
 ---
 

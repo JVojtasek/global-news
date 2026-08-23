@@ -86,6 +86,71 @@
    ]
   },
   {
+   "id": "6854b3ddf9a5",
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "section": "world",
+   "entities": [
+    "canada",
+    "trump",
+    "canadian"
+   ],
+   "event_ids": [
+    "6854b3ddf9a5",
+    "000d3ef7dbe1",
+    "fa3d91cb7277",
+    "86cf952c4920"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-23",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "sources": 5,
+     "score": 73,
+     "event_id": "6854b3ddf9a5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "sources": 2,
+     "score": 40,
+     "event_id": "000d3ef7dbe1",
+     "links": [
+      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+     "sources": 2,
+     "score": 41,
+     "event_id": "fa3d91cb7277",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Trump hits out at Canada over retaliatory tariffs",
+     "sources": 2,
+     "score": 42,
+     "event_id": "86cf952c4920",
+     "links": [
+      "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -1697,59 +1762,6 @@
    ]
   },
   {
-   "id": "6854b3ddf9a5",
-   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-   "section": "world",
-   "entities": [
-    "canada",
-    "canadian",
-    "trump"
-   ],
-   "event_ids": [
-    "6854b3ddf9a5",
-    "000d3ef7dbe1",
-    "fa3d91cb7277"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-19",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-     "sources": 5,
-     "score": 73,
-     "event_id": "6854b3ddf9a5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-     "sources": 2,
-     "score": 40,
-     "event_id": "000d3ef7dbe1",
-     "links": [
-      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
-     "sources": 2,
-     "score": 41,
-     "event_id": "fa3d91cb7277",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "42d214b6358f",
    "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
    "section": "business",
@@ -2883,5 +2895,5 @@
    ]
   }
  ],
- "updated": "2026-08-23T06:27:07+00:00"
+ "updated": "2026-08-23T09:25:59+00:00"
 }
