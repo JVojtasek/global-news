@@ -63,22 +63,22 @@
   - **Investing.com** — U.S. tariffs on Canada take effect after trade talks collapse
     <https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296>
 
-### 4. Trump threatens 'tremendous economic consequences' on any country helping Iran
-- id události: `61c52ea5c150`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+### 4. Hong Kong convicts Tiananmen vigil leaders
+- id události: `0df2dafecfc9`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Trump threatens 'tremendous economic consequences' on any country helping Iran
-    <https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss>
-    > It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
-  - **BBC Business** — Trump threatens 'tremendous economic consequences' on any country helping Iran
-    <https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss>
-    > It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
-  - **Al Jazeera** — Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
-    <https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss>
-    > Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
-  - **France 24** — Trump says he will meet North Korea’s Kim Jong Un later this year
-    <https://www.france24.com/en/americas/20260820-trump-says-he-will-meet-north-korea-s-kim-jong-un-later-this-year>
-    > US President Donald Trump said Wednesday he plans to meet North Korean leader Kim Jong Un later this year, seeking to revive their first-term relationship. Trump said it was important to “get along” with Kim and claimed Pyongyang possessed 57 “very powerful” nuclear weapons, amid
+  - **DW News** — Hong Kong convicts Tiananmen vigil leaders
+    <https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf>
+    > The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high-profile case has been widely criticized for highlighting the deterioration of freedom of expression.
+  - **France 24** — Two organisers of Hong Kong's Tiananmen vigils charged for inciting subversion
+    <https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion>
+    > Two former organisers of Hong Kong’s annual vigils in remembrance of the 1989 Tiananmen Square massacre were convicted for "incitement to subversion". Three government-vetted judges ruled that Lee Cheuk-yan and Chow Hang-tung had "incited other persons to organise, plan, commit o
+  - **France 24** — Hong Kong's Tiananmen vigils organisers convicted in national security case
+    <https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case>
+    > Two former organisers of Hong Kong’s annual vigils in remembrance of the 1989 Tiananmen Square crackdown were convicted by government-approved judges Friday for inciting others to overthrow China's communist leadership. Lee Cheuk-yan and Chow Hang-tung, former leaders of the Hong
+  - **Medical Xpress** — Hong Kong's first screening tool to detect social frailty in seniors
+    <https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html>
+    > Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple, objective way to identify those most at risk. Researchers at The Hong Kong Polytechnic University (PolyU) have developed a set of commun
 
 ---
 
