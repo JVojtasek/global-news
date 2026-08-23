@@ -105,13 +105,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 42  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 43  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 42
-  2026-08-17  (3 zdrojů, síla 53)  Trump orders Pentagon to scale back joint exercises with South Korea
+rubrika: world · sledováno od 2026-08-09 · záznamů: 43
   2026-08-17  (2 zdrojů, síla 45)  Trump orders US to scale back South Korea military drills
   2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces
   2026-08-17  (2 zdrojů, síla 44)  Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
@@ -131,15 +130,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 42
   2026-08-20  (1 zdrojů, síla 40)  How China and Russia could hobble Trump’s plans to isolate Iran
   2026-08-20  (2 zdrojů, síla 42)  North Korea fires ballistic missiles as US-South Korea drills near end
   2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
+  2026-08-23  (2 zdrojů, síla 42)  Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 19  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 20  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 19
+rubrika: world · sledováno od 2026-08-11 · záznamů: 20
   2026-08-11  (3 zdrojů, síla 62)  Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
   2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
@@ -159,6 +159,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 19
   2026-08-21  (2 zdrojů, síla 52)  Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
   2026-08-21  (2 zdrojů, síla 45)  'Masha and the Bear': Ukraine sanctions Russian cartoon
   2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack
+  2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy
 ```
 
 ---

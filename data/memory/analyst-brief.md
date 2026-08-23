@@ -7,9 +7,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 13 dní · 42 záznamů
+- rubrika `world` · sledováno 14 dní · 43 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) The United States is about to wake up to the threat from China's space program
   - **2026-08-19** (2 zdrojů) Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
   - **2026-08-19** (5 zdrojů) South Korea shortens war games with US, citing Washington request
   - **2026-08-20** (3 zdrojů) Iran war live: Trump announces ‘most crushing’ Iran sanctions
@@ -19,11 +18,11 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-20** (1 zdrojů) How China and Russia could hobble Trump’s plans to isolate Iran
   - **2026-08-20** (2 zdrojů) North Korea fires ballistic missiles as US-South Korea drills near end
   - **2026-08-22** (2 zdrojů) Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
+  - **2026-08-23** (2 zdrojů) Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 11 dní · 19 záznamů
+- rubrika `world` · sledováno 12 dní · 20 záznamů
 - časová osa:
-  - **2026-08-17** (2 zdrojů) Why Kyiv keeps attacking Russian retail giant Wildberries
   - **2026-08-18** (2 zdrojů) Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
   - **2026-08-18** (2 zdrojů) Ukraine, Russia trade strikes; Wildberries site hit again
   - **2026-08-18** (3 zdrojů) Ukraine appeals to FIA to overturn Russia inclusion
@@ -33,11 +32,11 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-21** (2 zdrojů) Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
   - **2026-08-21** (2 zdrojů) 'Masha and the Bear': Ukraine sanctions Russian cartoon
   - **2026-08-22** (2 zdrojů) Russian strikes kill 6 people in Ukraine, day after shopping complex attack
+  - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 8 dní · 14 záznamů
+- rubrika `world` · sledováno 10 dní · 15 záznamů
 - časová osa:
-  - **2026-08-16** (2 zdrojů) Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank
   - **2026-08-18** (1 zdrojů) Palestinian American returns to his West Bank home, under siege by Israeli settlers
   - **2026-08-18** (2 zdrojů) Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
   - **2026-08-18** (1 zdrojů) Palestine weekly: Global outcry fails to break West Bank siege
@@ -47,6 +46,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
   - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
+  - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 4 dní · 10 záznamů

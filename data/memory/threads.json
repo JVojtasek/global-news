@@ -1,198 +1,49 @@
 {
  "threads": [
   {
-   "id": "9ffb6bd91201",
-   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-   "section": "sport",
-   "entities": [
-    "manchester",
-    "rodri's",
-    "he's",
-    "city",
-    "community",
-    "maresca",
-    "arsenal",
-    "nightmare",
-    "enzo",
-    "rodri",
-    "shield"
-   ],
-   "event_ids": [
-    "9ffb6bd91201",
-    "2fef58e0d72e",
-    "b5cc84461c06",
-    "cb7f47a5868f",
-    "c6aec83a4cd2"
-   ],
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-08-23",
-   "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9ffb6bd91201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2fef58e0d72e",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "'He's the professor' - Rodri's Manchester City journey",
-     "sources": 2,
-     "score": 49,
-     "event_id": "b5cc84461c06",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
-     "sources": 1,
-     "score": 41,
-     "event_id": "cb7f47a5868f",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City will 'try to find the new Rodri' - Maresca",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c6aec83a4cd2",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6854b3ddf9a5",
-   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-   "section": "world",
-   "entities": [
-    "canada",
-    "trump",
-    "canadian"
-   ],
-   "event_ids": [
-    "6854b3ddf9a5",
-    "000d3ef7dbe1",
-    "fa3d91cb7277",
-    "86cf952c4920"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-23",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-     "sources": 5,
-     "score": 73,
-     "event_id": "6854b3ddf9a5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-     "sources": 2,
-     "score": 40,
-     "event_id": "000d3ef7dbe1",
-     "links": [
-      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
-     "sources": 2,
-     "score": 41,
-     "event_id": "fa3d91cb7277",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Trump hits out at Canada over retaliatory tariffs",
-     "sources": 2,
-     "score": 42,
-     "event_id": "86cf952c4920",
-     "links": [
-      "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens"
-     ]
-    }
-   ]
-  },
-  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "turkey",
+    "justified",
+    "north",
+    "bluster",
+    "oman",
+    "iranian",
+    "groundhog",
+    "russia's",
     "united",
+    "middle",
+    "lebanon",
+    "iran",
+    "south",
+    "taiwan",
+    "trump's",
+    "russia",
+    "gulf",
+    "us-south",
+    "east",
+    "tehran",
+    "china's",
+    "iran's",
+    "states",
+    "turkey",
+    "ukraine",
+    "pentagon",
+    "tennessee",
+    "washington",
     "league",
     "hormuz",
     "china",
-    "strait",
-    "lebanon",
-    "us-south",
-    "trump",
-    "east",
-    "oman",
-    "south",
-    "bluster",
-    "states",
-    "iran",
-    "ukraine",
-    "iranian",
-    "champions",
-    "north",
-    "taiwan",
     "qatar",
-    "washington",
-    "troops",
-    "american",
-    "middle",
-    "trump's",
-    "donald",
-    "gulf",
     "jong",
-    "pentagon",
-    "china's",
-    "justified",
-    "groundhog",
-    "tehran",
-    "tennessee",
-    "russia's",
+    "trump",
+    "donald",
+    "american",
+    "champions",
+    "troops",
     "korea",
-    "russia"
+    "strait"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -236,10 +87,11 @@
     "ac6b33f602a5",
     "2493ae91f899",
     "7092d0f6864b",
-    "7b6cc89252d4"
+    "7b6cc89252d4",
+    "0d5f455ce96f"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-22",
+   "last_seen": "2026-08-23",
    "timeline": [
     {
      "date": "2026-08-09",
@@ -720,6 +572,17 @@
       "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
       "https://www.investing.com/news/commodities-news/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions-4872246"
      ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0d5f455ce96f",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
+      "https://www.investing.com/news/earnings/sinopec-reports-19-profit-jump-in-h1-2026-despite-middle-east-crisis-4872438"
+     ]
     }
    ]
   },
@@ -728,25 +591,26 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
+    "bear",
+    "ukraine",
+    "belgorod",
+    "holding",
+    "north",
+    "masha",
+    "kyiv",
+    "wildberries",
+    "overnight",
     "korean",
-    "izmail",
+    "back-to-back",
+    "several",
+    "zelenskyy",
+    "atacms",
+    "russia",
+    "zelensky",
     "russian",
     "europe",
-    "atacms",
-    "wildberries",
-    "russia",
-    "ukraine",
-    "masha",
-    "zelenskyy",
-    "belgorod",
-    "kyiv",
-    "bear",
-    "back-to-back",
-    "overnight",
-    "four",
-    "zelensky",
-    "several",
-    "north"
+    "izmail",
+    "four"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -767,10 +631,11 @@
     "e1239ee18ddf",
     "38f1f3daedca",
     "8e855f427aa3",
-    "0053421a02cb"
+    "0053421a02cb",
+    "39ea562d9b81"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-08-22",
+   "last_seen": "2026-08-23",
    "timeline": [
     {
      "date": "2026-08-11",
@@ -985,6 +850,391 @@
      "links": [
       "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
       "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+     "sources": 2,
+     "score": 40,
+     "event_id": "39ea562d9b81",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "bank",
+    "hind",
+    "palestine",
+    "colombia",
+    "germany",
+    "italy",
+    "week",
+    "ben-gvir",
+    "israel",
+    "israel's",
+    "israeli",
+    "canada",
+    "multiple",
+    "palestinians",
+    "palestinian",
+    "american",
+    "netanyahu",
+    "labour",
+    "france",
+    "rajab",
+    "burnham",
+    "gaza",
+    "former",
+    "global",
+    "west"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c",
+    "727b036de961",
+    "d9fabac5169e",
+    "dd3e8e775a11",
+    "a6b6f34c8e21",
+    "bdaf2e87b992",
+    "f0db32b6db43",
+    "50063425df92",
+    "a0e824c0fefc",
+    "e28573af70a1",
+    "be74360785ae",
+    "5e2205225644",
+    "0f7415ce5b12"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-08-23",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69fbd7c00f3b",
+     "links": [
+      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c56a140b572c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
+     "sources": 2,
+     "score": 50,
+     "event_id": "727b036de961",
+     "links": [
+      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "sources": 2,
+     "score": 49,
+     "event_id": "d9fabac5169e",
+     "links": [
+      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dd3e8e775a11",
+     "links": [
+      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a6b6f34c8e21",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdaf2e87b992",
+     "links": [
+      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+     "sources": 2,
+     "score": 47,
+     "event_id": "f0db32b6db43",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+     "sources": 3,
+     "score": 61,
+     "event_id": "50063425df92",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
+      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a0e824c0fefc",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e28573af70a1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be74360785ae",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
+     "sources": 2,
+     "score": 54,
+     "event_id": "5e2205225644",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
+      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
+      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0f7415ce5b12",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ffb6bd91201",
+   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+   "section": "sport",
+   "entities": [
+    "manchester",
+    "rodri's",
+    "he's",
+    "city",
+    "community",
+    "maresca",
+    "arsenal",
+    "nightmare",
+    "enzo",
+    "rodri",
+    "shield"
+   ],
+   "event_ids": [
+    "9ffb6bd91201",
+    "2fef58e0d72e",
+    "b5cc84461c06",
+    "cb7f47a5868f",
+    "c6aec83a4cd2"
+   ],
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-08-23",
+   "timeline": [
+    {
+     "date": "2026-08-16",
+     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9ffb6bd91201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2fef58e0d72e",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "'He's the professor' - Rodri's Manchester City journey",
+     "sources": 2,
+     "score": 49,
+     "event_id": "b5cc84461c06",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
+     "sources": 1,
+     "score": 41,
+     "event_id": "cb7f47a5868f",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City will 'try to find the new Rodri' - Maresca",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c6aec83a4cd2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6854b3ddf9a5",
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "section": "world",
+   "entities": [
+    "canada",
+    "trump",
+    "canadian"
+   ],
+   "event_ids": [
+    "6854b3ddf9a5",
+    "000d3ef7dbe1",
+    "fa3d91cb7277",
+    "86cf952c4920"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-23",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "sources": 5,
+     "score": 73,
+     "event_id": "6854b3ddf9a5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "sources": 2,
+     "score": 40,
+     "event_id": "000d3ef7dbe1",
+     "links": [
+      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+     "sources": 2,
+     "score": 41,
+     "event_id": "fa3d91cb7277",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Trump hits out at Canada over retaliatory tariffs",
+     "sources": 2,
+     "score": 42,
+     "event_id": "86cf952c4920",
+     "links": [
+      "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens"
      ]
     }
    ]
@@ -1212,216 +1462,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "bank",
-    "ben-gvir",
-    "palestine",
-    "global",
-    "netanyahu",
-    "canada",
-    "israel",
-    "multiple",
-    "palestinians",
-    "gaza",
-    "israel's",
-    "colombia",
-    "germany",
-    "american",
-    "israeli",
-    "former",
-    "hind",
-    "italy",
-    "week",
-    "france",
-    "rajab",
-    "west",
-    "palestinian"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b",
-    "c56a140b572c",
-    "727b036de961",
-    "d9fabac5169e",
-    "dd3e8e775a11",
-    "a6b6f34c8e21",
-    "bdaf2e87b992",
-    "f0db32b6db43",
-    "50063425df92",
-    "a0e824c0fefc",
-    "e28573af70a1",
-    "be74360785ae",
-    "5e2205225644"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-21",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-     "sources": 3,
-     "score": 59,
-     "event_id": "09443cca3ddd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69fbd7c00f3b",
-     "links": [
-      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
-      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c56a140b572c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "sources": 2,
-     "score": 50,
-     "event_id": "727b036de961",
-     "links": [
-      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9fabac5169e",
-     "links": [
-      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-     "sources": 1,
-     "score": 43,
-     "event_id": "dd3e8e775a11",
-     "links": [
-      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a6b6f34c8e21",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdaf2e87b992",
-     "links": [
-      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-     "sources": 2,
-     "score": 47,
-     "event_id": "f0db32b6db43",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-     "sources": 3,
-     "score": 61,
-     "event_id": "50063425df92",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
-      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a0e824c0fefc",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e28573af70a1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be74360785ae",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-     "sources": 2,
-     "score": 54,
-     "event_id": "5e2205225644",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
-      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
      ]
     }
    ]
@@ -2895,5 +2935,5 @@
    ]
   }
  ],
- "updated": "2026-08-23T09:25:59+00:00"
+ "updated": "2026-08-23T12:26:27+00:00"
 }
