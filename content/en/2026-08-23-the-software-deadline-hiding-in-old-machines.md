@@ -1,47 +1,52 @@
 ---
 slug: the-software-deadline-hiding-in-old-machines
-title: "03:14:08 — The Software Deadline Hiding in Old Machines"
-dek: "The Year 2038 problem is real, but the sensible response is an inventory and interface audit, not countdown panic."
+title: 03:14:08 — The Software Deadline Hiding in Old Machines
+dek: The Year 2038 problem is real, but the sensible response is an inventory and
+  interface audit, not countdown panic.
 section: tech
 type: feature
 depth: open
 lang: en
-date: 2026-08-23
+date: '2026-08-23'
 status: reserve
-confidence: 90
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "embedded industrial computer clock timestamp maintenance audit"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: embedded industrial computer clock timestamp maintenance audit
 sources:
-  - name: "Linux man-pages project"
-    url: "https://man7.org/linux/man-pages/man2/time.2.html"
-    published: "2026-02-08"
-  - name: "GNU C Library Manual"
-    url: "https://sourceware.org/glibc/manual/latest/html_node/Feature-Test-Macros.html"
-    published: ""
-  - name: "GNU Gnulib Manual"
-    url: "https://www.gnu.org/software/gnulib/manual/html_node/Avoiding-the-year-2038-problem.html"
-    published: ""
-  - name: "RFC Editor — RFC 9636"
-    url: "https://www.rfc-editor.org/info/rfc9636/"
-    published: "2024-11"
-  - name: "Oracle MySQL 8.0.28 Release Notes"
-    url: "https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-28.html"
-    published: "2022-01-18"
-qma_path: ""
+- name: Linux man-pages project
+  url: https://man7.org/linux/man-pages/man2/time.2.html
+  published: '2026-02-08'
+- name: GNU C Library Manual
+  url: https://sourceware.org/glibc/manual/latest/html_node/Feature-Test-Macros.html
+  published: ''
+- name: GNU Gnulib Manual
+  url: https://www.gnu.org/software/gnulib/manual/html_node/Avoiding-the-year-2038-problem.html
+  published: ''
+- name: RFC Editor — RFC 9636
+  url: https://www.rfc-editor.org/info/rfc9636/
+  published: 2024-11
+- name: Oracle MySQL 8.0.28 Release Notes
+  url: https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-28.html
+  published: '2022-01-18'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is the safest first step in a Year 2038 review?"
-  options: ["Change every production clock to 2038", "Replace every 32-bit processor", "Inventory long-lived systems, stored timestamps and interfaces"]
+  question: What is the safest first step in a Year 2038 review?
+  options:
+  - Change every production clock to 2038
+  - Replace every 32-bit processor
+  - Inventory long-lived systems, stored timestamps and interfaces
   answer: 2
-  explanation: "Exposure depends on data types, software interfaces and dependencies, so inventory comes before controlled testing or replacement."
+  explanation: Exposure depends on data types, software interfaces and dependencies,
+    so inventory comes before controlled testing or replacement.
 ---
 
 ## BRIEFLY

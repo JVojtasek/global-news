@@ -1,47 +1,52 @@
 ---
 slug: what-your-vo2-max-number-really-means
-title: "What Your VO₂ Max Number Really Means"
-dek: "A watch can estimate your aerobic fitness, but the useful signal is a careful trend, not a verdict from your wrist."
+title: What Your VO₂ Max Number Really Means
+dek: A watch can estimate your aerobic fitness, but the useful signal is a careful
+  trend, not a verdict from your wrist.
 section: sport
 type: analysis
 depth: open
 lang: en
-date: 2026-08-23
-status: draft
-confidence: 88
+date: '2026-08-23'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "runner checking smartwatch on quiet park path aerobic fitness"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: runner checking smartwatch on quiet park path aerobic fitness
 sources:
-  - name: "American Heart Association Professional Heart Daily"
-    url: "https://professional.heart.org/en/science-news/importance-of-assessing-cardiorespiratory-fitness-in-clinical-practice-a-case-for-fitness/commentary"
-    published: "2016-11-21"
-  - name: "JAMA Network Open"
-    url: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707428"
-    published: "2018-10-19"
-  - name: "Frontiers in Sports and Active Living"
-    url: "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1707991/full"
-    published: "2025"
-  - name: "JMIR Biomedical Engineering"
-    url: "https://biomedeng.jmir.org/2024/1/e59459"
-    published: "2024"
-  - name: "PLOS ONE"
-    url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323741"
-    published: "2025-05-15"
-qma_path: ""
+- name: American Heart Association Professional Heart Daily
+  url: https://professional.heart.org/en/science-news/importance-of-assessing-cardiorespiratory-fitness-in-clinical-practice-a-case-for-fitness/commentary
+  published: '2016-11-21'
+- name: JAMA Network Open
+  url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2707428
+  published: '2018-10-19'
+- name: Frontiers in Sports and Active Living
+  url: https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2025.1707991/full
+  published: '2025'
+- name: JMIR Biomedical Engineering
+  url: https://biomedeng.jmir.org/2024/1/e59459
+  published: '2024'
+- name: PLOS ONE
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323741
+  published: '2025-05-15'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is the most useful way to read a watch's VO₂ max estimate?"
-  options: ["Treat one reading as a medical diagnosis", "Compare the trend under similar conditions", "Compare it directly with every other brand"]
+  question: What is the most useful way to read a watch's VO₂ max estimate?
+  options:
+  - Treat one reading as a medical diagnosis
+  - Compare the trend under similar conditions
+  - Compare it directly with every other brand
   answer: 1
-  explanation: "Wearables estimate rather than directly measure VO₂ max, so a like-for-like trend is usually more informative than one isolated value."
+  explanation: Wearables estimate rather than directly measure VO₂ max, so a like-for-like
+    trend is usually more informative than one isolated value.
 ---
 
 ## BRIEFLY

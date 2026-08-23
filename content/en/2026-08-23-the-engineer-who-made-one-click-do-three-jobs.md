@@ -1,47 +1,53 @@
 ---
 slug: the-engineer-who-made-one-click-do-three-jobs
-title: "The Engineer Who Made One Click Do Three Jobs"
-dek: "Nils Bohlin’s three-point belt worked because geometry, comfort and human behaviour were designed together."
+title: The Engineer Who Made One Click Do Three Jobs
+dek: Nils Bohlin’s three-point belt worked because geometry, comfort and human behaviour
+  were designed together.
 section: motoring
 type: analysis
 depth: open
 lang: en
-date: 2026-08-23
-status: draft
-confidence: 91
+date: '2026-08-23'
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "vintage car interior three point seat belt engineering drawing"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: vintage car interior three point seat belt engineering drawing
 sources:
-  - name: "German Patent and Trade Mark Office"
-    url: "https://www.dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/safetybelt/index.html"
-    published: "2026-01-16"
-  - name: "US Patent 3043625A"
-    url: "https://patents.google.com/patent/US3043625A/en"
-    published: "1962-07-10"
-  - name: "National Highway Traffic Safety Administration"
-    url: "https://www.nhtsa.gov/vehicle-safety/seat-belts"
-    published: ""
-  - name: "NHTSA Countermeasures That Work"
-    url: "https://www.nhtsa.gov/book/countermeasures-that-work/seat-belts-and-child-restraints"
-    published: ""
-  - name: "WIRED"
-    url: "https://www.wired.com/2008/07/july-10-1962-3-point-seat-belt-patented/"
-    published: "2008-07-10"
-qma_path: ""
+- name: German Patent and Trade Mark Office
+  url: https://www.dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/safetybelt/index.html
+  published: '2026-01-16'
+- name: US Patent 3043625A
+  url: https://patents.google.com/patent/US3043625A/en
+  published: '1962-07-10'
+- name: National Highway Traffic Safety Administration
+  url: https://www.nhtsa.gov/vehicle-safety/seat-belts
+  published: ''
+- name: NHTSA Countermeasures That Work
+  url: https://www.nhtsa.gov/book/countermeasures-that-work/seat-belts-and-child-restraints
+  published: ''
+- name: WIRED
+  url: https://www.wired.com/2008/07/july-10-1962-3-point-seat-belt-patented/
+  published: '2008-07-10'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why was Bohlin's three-point design more than an extra strap?"
-  options: ["It combined pelvis and torso restraint with easy one-handed use", "It eliminated the need for airbags", "It worked without vehicle anchors"]
+  question: Why was Bohlin's three-point design more than an extra strap?
+  options:
+  - It combined pelvis and torso restraint with easy one-handed use
+  - It eliminated the need for airbags
+  - It worked without vehicle anchors
   answer: 0
-  explanation: "Its geometry restrained the pelvis and torso while one buckle made everyday use practical."
+  explanation: Its geometry restrained the pelvis and torso while one buckle made
+    everyday use practical.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY
