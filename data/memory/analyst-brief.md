@@ -49,10 +49,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 5 dní · 11 záznamů
+- rubrika `sport` · sledováno 5 dní · 13 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
-  - **2026-08-20** (2 zdrojů) How will your club fare? Phil McNulty's Premier League predictions
   - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
   - **2026-08-20** (1 zdrojů) Premier League 2026-27 preview No 18: Nottingham Forest
   - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
@@ -61,6 +59,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
   - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
   - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
+  - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
+  - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
@@ -77,7 +77,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
-- rubrika `sport` · sledováno 7 dní · 6 záznamů
+- rubrika `sport` · sledováno 7 dní · 7 záznamů
 - časová osa:
   - **2026-08-16** (2 zdrojů) Nightmare Man City start for Maresca - are Arsenal really so far ahead?
   - **2026-08-16** (2 zdrojů) Arsenal cruise to win over Manchester City in Community Shield
@@ -85,3 +85,4 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-17** (1 zdrojů) Enzo Maresca’s Manchester City opener was startlingly bad
   - **2026-08-23** (2 zdrojů) Man City will 'try to find the new Rodri' - Maresca
   - **2026-08-23** (2 zdrojů) Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
+  - **2026-08-23** (2 zdrojů) Man City 'completely deserved to win' - Maresca

@@ -1107,28 +1107,33 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "youtube",
-    "phil",
     "liverpool",
-    "haaland's",
-    "manchester",
-    "opening",
+    "nottingham",
     "five",
-    "forest",
-    "hull",
-    "coventry",
-    "city",
+    "salah",
     "premier",
     "league",
-    "boot",
     "arsenal",
-    "newcastle",
-    "sports",
-    "golden",
-    "united",
-    "mcnulty's",
     "tzolis",
-    "nottingham"
+    "phil",
+    "opening",
+    "haaland's",
+    "boot",
+    "united",
+    "youtube",
+    "mcnulty's",
+    "forest",
+    "isak",
+    "golden",
+    "life",
+    "city",
+    "wirtz",
+    "newcastle",
+    "wissa",
+    "hull",
+    "manchester",
+    "coventry",
+    "sports"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1141,7 +1146,9 @@
     "ca9b3648741f",
     "7647b16128ca",
     "3ed1a03ec11c",
-    "4774e258c054"
+    "4774e258c054",
+    "3d51e83a35a8",
+    "aa48b1799b4d"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-23",
@@ -1271,6 +1278,29 @@
       "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
       "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
+     "sources": 2,
+     "score": 50,
+     "event_id": "3d51e83a35a8",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c9q9q2gnxvjo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
+     "sources": 2,
+     "score": 46,
+     "event_id": "aa48b1799b4d",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live"
+     ]
     }
    ]
   },
@@ -1279,19 +1309,19 @@
    "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
    "section": "sport",
    "entities": [
-    "rodri's",
     "rodri",
-    "arsenal",
-    "manchester",
-    "community",
     "nightmare",
-    "gvardiol",
-    "maresca",
-    "bournemouth",
+    "shield",
+    "community",
     "enzo",
+    "gvardiol",
     "city",
+    "bournemouth",
+    "rodri's",
+    "manchester",
     "he's",
-    "shield"
+    "maresca",
+    "arsenal"
    ],
    "event_ids": [
     "9ffb6bd91201",
@@ -1299,7 +1329,8 @@
     "b5cc84461c06",
     "cb7f47a5868f",
     "c6aec83a4cd2",
-    "4a7b92cbd9ac"
+    "4a7b92cbd9ac",
+    "81646cf59625"
    ],
    "first_seen": "2026-08-16",
    "last_seen": "2026-08-23",
@@ -1370,6 +1401,17 @@
       "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
       "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City 'completely deserved to win' - Maresca",
+     "sources": 2,
+     "score": 41,
+     "event_id": "81646cf59625",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
      ]
     }
    ]
@@ -2977,5 +3019,5 @@
    ]
   }
  ],
- "updated": "2026-08-23T15:25:05+00:00"
+ "updated": "2026-08-23T18:26:02+00:00"
 }

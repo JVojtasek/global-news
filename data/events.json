@@ -254,46 +254,6 @@
   ]
  },
  {
-  "id": "44c13320414b",
-  "headline": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
-  "section": "world",
-  "score": 56,
-  "sources_count": 2,
-  "depth_signal": 5,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T15:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/20/rival-courts-prince-harry-meghan-surprise-uk-return-king-charles-prince-william",
-    "source": "The Guardian World",
-    "summary": "Family relationships remain damaged and there is no clarity on how Sussexes’ security concerns have been resolved Just as the Duke and Duchess of Sussex’s departure from the UK six years ago came as a complete surprise, so too is their shock announcement they now intend to return. Their unilateral decision could fairly be said to have blind-sided the royals. King Charles was only informed on Sunda",
-    "published_at": "2026-08-20T15:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   },
-   {
-    "title": "Prince Harry and Meghan to move back to Britain",
-    "url": "https://www.france24.com/en/video/20260820-prince-harry-and-meghan-to-move-back-to-britain",
-    "source": "France 24",
-    "summary": "Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they stepped down from ​their royal duties and relocated to the US, a source close to the couple said. The surprise move comes after the couple spent recent years repeatedly criticising the royal family and lambasting the British press, saying the tabloids had made their lives hell and they wanted to carve ou",
-    "published_at": "2026-08-20T13:27:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   },
-   {
-    "title": "Huge questions loom over Prince Harry and Meghan's shock return to UK",
-    "url": "https://www.france24.com/en/video/20260820-huge-questions-loom-over-prince-harry-and-meghan-s-shock-return-to-uk",
-    "source": "France 24",
-    "summary": "Dozens of questions swirled Thursday as Prince Harry prepares to move back to the UK with his wife and children, six years after his departure sparked a bitter rift with the royal family. In a surprise move, Harry and Meghan \"plan to leave the United States by the end of the month to settle in a private, non-royal residence, which is said to be located outside London\", The Daily Telegraph reported",
-    "published_at": "2026-08-20T13:24:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
   "id": "bead7cd93cfe",
   "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
   "section": "world",
@@ -903,33 +863,82 @@
   ]
  },
  {
-  "id": "1bc0cee300a9",
-  "headline": "New Manic Android malware can exfiltrate data through nearby devices",
-  "section": "safety",
-  "score": 49,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T10:02:02+00:00",
+  "id": "c3bfba41d611",
+  "headline": "Guinea rubbish landfill collapse kills 30",
+  "section": "world",
+  "score": 50,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T18:17:37+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "New Manic Android malware can exfiltrate data through nearby devices",
-    "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-    "source": "BleepingComputer",
-    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-    "published_at": "2026-08-20T10:02:02+00:00",
+    "title": "Guinea rubbish landfill collapse kills 30",
+    "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+    "published_at": "2026-08-23T18:17:37+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
    },
    {
-    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-    "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-    "source": "The Hacker News",
-    "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
-    "published_at": "2026-08-20T11:26:08+00:00",
+    "title": "Guinea: Garbage collapse at landfill kills dozens",
+    "url": "https://www.dw.com/en/guinea-garbage-collapse-at-landfill-kills-dozens/a-78478597?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn.",
+    "published_at": "2026-08-23T17:48:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "Landfill collapse in Guinea kills at least 30 people",
+    "url": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Heavy rains wash over the site, triggering a landslide that buries several shacks.",
+    "published_at": "2026-08-23T17:35:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3d51e83a35a8",
+  "headline": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
+  "section": "sport",
+  "score": 50,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T17:36:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9q9q2gnxvjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "How Newcastle United and Liverpool's players rated in their Premier League match.",
+    "published_at": "2026-08-23T17:36:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
+    "published_at": "2026-08-23T15:53:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "Liverpool’s Szoboszlai spot on with late, late leveller to salvage point at Newcastle",
+    "url": "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-premier-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "Before kick-off a banner was raised in the Gallowgate End inscribed with a quotation from the late Kevin Keegan. “I want people to dream about their football,” it read. “We should all be dreamers at heart.” Out on the pitch it swiftly became apparent that both Matthias Jaissle, Keegan’s latest successor in the Newcastle dugout, and Liverpool’s Andoni Iraola are on individual missions to create for",
+    "published_at": "2026-08-23T17:43:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
    }
   ]
  },
@@ -1001,6 +1010,37 @@
     "published_at": "2026-08-21T06:30:27+00:00",
     "source_countries": [],
     "seen_at": "2026-08-21T15:26:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b11fa1f9ca0d",
+  "headline": "Thousands struggling without power in Indiana 12 days after severe storms",
+  "section": "world",
+  "score": 49,
+  "sources_count": 2,
+  "depth_signal": 5,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T15:54:32+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+    "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+    "published_at": "2026-08-23T15:54:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+    "url": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+    "source": "NPR News",
+    "summary": "A round of storms impacted the region on Aug. 11",
+    "published_at": "2026-08-23T16:55:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
    }
   ]
  },
@@ -1249,24 +1289,33 @@
   ]
  },
  {
-  "id": "b440e5fc3ebf",
-  "headline": "Construction in Austria Revealed a Roman-Era Mass Grave Beneath a Soccer Field. New Research Suggests That the Men's Enemies Targeted Their 'Sensitive Areas'",
-  "section": "culture",
-  "score": 46,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T15:06:00+00:00",
+  "id": "6a947221af67",
+  "headline": "GB's Brennan wins Vuelta stage two on Grand Tour debut",
+  "section": "sport",
+  "score": 47,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T17:47:58+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Construction in Austria Revealed a Roman-Era Mass Grave Beneath a Soccer Field. New Research Suggests That the Men's Enemies Targeted Their 'Sensitive Areas'",
-    "url": "https://www.smithsonianmag.com/smart-news/construction-in-austria-revealed-roman-era-mass-grave-beneath-soccer-field-new-research-suggests-that-the-mens-enemies-targeted-their-sensitive-areas-180989372/",
-    "source": "Smithsonian Mag",
-    "summary": "No written records mention a fight in this specific part of Vienna at the time of the men's deaths. But the brutal nature of their injuries, particularly to the pelvis area, indicates that these individuals died on the battlefield",
-    "published_at": "2026-08-20T15:06:00+00:00",
+    "title": "GB's Brennan wins Vuelta stage two on Grand Tour debut",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c62q2qzg65go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Britain's Matt Brennan sprints to victory in the second stage of the Vuelta a Espana on Sunday as overall race favourite Tadej Pogacar holds on to the leader's red jersey.",
+    "published_at": "2026-08-23T17:47:58+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "Vuelta a España: Britain’s Matt Brennan leaves Pogacar in wake to win stage two",
+    "url": "https://www.theguardian.com/sport/2026/aug/23/vuelta-a-espana-britains-matt-brennan-soars-to-victory-in-second-stage",
+    "source": "Guardian Sport",
+    "summary": "The 20-year-old Briton is riding in his first Grand Tour Tadej Pogacar retains overall leader’s red jersey Matt Brennan emerged triumphant from a bunch sprint to claim victory in the second stage of the Vuelta a España, while overall favourite Tadej Pogacar retained the red jersey on Sunday. Britain’s Brennan was followed over the line by Pau Miquel and Pogacar after a long 214.3km stage with over",
+    "published_at": "2026-08-23T15:58:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
    }
   ]
  },
@@ -1519,33 +1568,33 @@
   ]
  },
  {
-  "id": "d94ad932442f",
-  "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+  "id": "f228a5a67be8",
+  "headline": "Aston Villa 'must accept everything' - Emery after Brighton thrashing",
   "section": "sport",
-  "score": 45,
+  "score": 46,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T15:00:43+00:00",
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T16:20:57+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-    "url": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "From Bruno Fernandes's future to a Champions League return, all to know about Manchester United before the new season.",
-    "published_at": "2026-08-20T15:00:43+00:00",
+    "title": "Aston Villa 'must accept everything' - Emery after Brighton thrashing",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Aston Villa manager Unai Emery reacts to a difficult opening day after a thrashing at the hands of Brighton, having conceding four goals in the first half.",
+    "published_at": "2026-08-23T16:20:57+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
    },
    {
-    "title": "Robot building and Djimi Traoré: Caleb Yirenkyi’s circuitous path to Premier League",
-    "url": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark",
+    "title": "‘Call his agent’: Emery feels Watkins should explain absence from Villa’s rout by Brighton",
+    "url": "https://www.theguardian.com/football/2026/aug/23/unai-emery-feels-ollie-watkins-should-explain-absence-from-aston-villa-loss-brighton",
     "source": "Guardian Sport",
-    "summary": "Coventry’s record signing is set to make a big top-flight impact after emerging from Right to Dream academy It is mid-July on FC Nordsjælland’s pre-season camp in Kössen, an Austrian village on the edge of the Alps, close to the German border. The Danish Superliga club’s coaching staff, including Michael Essien, are preparing for the new campaign, the stunning scenery par for the course. Every tra",
-    "published_at": "2026-08-20T14:29:33+00:00",
+    "summary": "England forward is considering move to Al-Hilal ‘This question is for him … I answer only with silence’ Unai Emery did nothing to deny that Ollie Watkins had refused to play for Aston Villa in their sobering 4-0 defeat by Brighton at the Amex on Sunday. The head coach had a selection crisis up front with Brian Madjo and Tammy Abraham injured. However, he did not include Watkins in the matchday squ",
+    "published_at": "2026-08-23T17:04:17+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
    }
   ]
  },
@@ -2157,6 +2206,37 @@
   ]
  },
  {
+  "id": "f1c15a1086ee",
+  "headline": "Norris beats Antonelli to claim final Dutch GP win",
+  "section": "sport",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T15:20:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Norris beats Antonelli to claim final Dutch GP win",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Lando Norris and McLaren beats Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix.",
+    "published_at": "2026-08-23T15:20:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "Lando Norris denies Antonelli in F1 Dutch GP after Verstappen crashes out of home race",
+    "url": "https://www.theguardian.com/sport/2026/aug/23/lando-norris-kimi-antonelli-george-russell-max-verstappen-crash-f1-dutch-grand-prix",
+    "source": "Guardian Sport",
+    "summary": "Antonelli second and Russell third in final Zandvoort race Dutch driver hits wall on opening lap resulting in restart With a display of fighting spirit worthy of a world champion, Lando Norris’s victory in the Dutch Grand Prix was not only an epic finale for the meeting’s last entry on the Formula One calendar but as the British driver feistily declared, also hopefully heralds what could be an equ",
+    "published_at": "2026-08-23T15:28:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "7092d0f6864b",
   "headline": "North Korea fires ballistic missiles as US-South Korea drills near end",
   "section": "world",
@@ -2693,50 +2773,6 @@
   ]
  },
  {
-  "id": "423678273598",
-  "headline": "Ireland's 'Kerry Cow' Bones Are Actually Wild Boar and Bear, Shaking Up the Story of Farming's Arrival on the Island",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T14:40:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ireland's 'Kerry Cow' Bones Are Actually Wild Boar and Bear, Shaking Up the Story of Farming's Arrival on the Island",
-    "url": "https://www.smithsonianmag.com/smart-news/irelands-kerry-cow-bones-are-actually-wild-boar-and-bear-shaking-up-the-story-of-farmings-arrival-on-the-island-180989371/",
-    "source": "Smithsonian Mag",
-    "summary": "The bones were discovered on the Dingle Peninsula more than 30 years ago, but scientists recently decided to take another look at them, this time using modern techniques",
-    "published_at": "2026-08-20T14:40:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "257575f0bd9e",
-  "headline": "Archaeologists Have Found Thousands of Intact Ancient Human Brains. Scientists Say They've Figured Out Why the Organs Don't Always Rot",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T14:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Archaeologists Have Found Thousands of Intact Ancient Human Brains. Scientists Say They've Figured Out Why the Organs Don't Always Rot",
-    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-have-found-thousands-of-intact-ancient-human-brains-scientists-say-theyve-figured-out-why-the-organs-dont-always-rot-180989370/",
-    "source": "Smithsonian Mag",
-    "summary": "Under the right conditions—wet and oxygen-deprived—the same chemical reactions that cause tissue to break down can instead have the opposite effect, according to a new study",
-    "published_at": "2026-08-20T14:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
   "id": "1c3f8616caba",
   "headline": "Alaska charter flight crash kills 8",
   "section": "world",
@@ -2927,73 +2963,33 @@
   ]
  },
  {
-  "id": "a40a6718dfd9",
-  "headline": "UK cinemas look at banning Meta smart glasses over piracy fears",
-  "section": "business",
-  "score": 40,
+  "id": "81646cf59625",
+  "headline": "Man City 'completely deserved to win' - Maresca",
+  "section": "sport",
+  "score": 41,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T14:57:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
-    "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
-    "source": "The Guardian World",
-    "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films. The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasse",
-    "published_at": "2026-08-20T14:57:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   },
-   {
-    "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
-    "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
-    "source": "Guardian Business",
-    "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology Cinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films. The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasse",
-    "published_at": "2026-08-20T14:57:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "2493ae91f899",
-  "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
-  "section": "world",
-  "score": 40,
-  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T14:55:47+00:00",
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T15:52:45+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-    "url": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
-    "published_at": "2026-08-20T14:55:47+00:00",
+    "title": "Man City 'completely deserved to win' - Maresca",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 season.",
+    "published_at": "2026-08-23T15:52:45+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
    },
    {
-    "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-    "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion\" from America’s own crisis.\"",
-    "published_at": "2026-08-20T14:40:51+00:00",
+    "title": "Maresca concedes Manchester City ‘a work in progress’ after hair-raising escape",
+    "url": "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth",
+    "source": "Guardian Sport",
+    "summary": "Gvardiol’s stoppage-time strike gives City points ‘I’m looking for solutions. When you win games it helps’ Enzo Maresca said Manchester City remain a “work in progress” after Sunday’s last-gasp win over Bournemouth at the Etihad Stadium. Marc Guéhi’s 85th-minute equaliser and Josko Gvardiol’s 91st-minute winner gave City’s new manager victory in his first game, after Marcus Tavernier’s first-half ",
+    "published_at": "2026-08-23T16:32:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   },
-   {
-    "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.",
-    "published_at": "2026-08-20T13:14:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
    }
   ]
  },
@@ -3578,6 +3574,37 @@
   ]
  },
  {
+  "id": "fb87ad05da20",
+  "headline": "ECB investigates Carse 'nightclub incident'",
+  "section": "sport",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T15:07:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "ECB investigates Carse 'nightclub incident'",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
+    "published_at": "2026-08-23T15:07:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "Brydon Carse handcuffed by police outside nightclub prompting ECB investigation",
+    "url": "https://www.theguardian.com/sport/2026/aug/23/brydon-carse-handcuffed-by-police-outside-nightclub-prompting-ecb-investigation",
+    "source": "Guardian Sport",
+    "summary": "England fast bowler released without charge Incident happened in Derby as Durham celebrated win Brydon Carse has become the latest England cricketer involved in a late-night incident after footage emerged of the fast bowler in police handcuffs outside a bar in Derby. The England and Wales Cricket Board has confirmed it is investigating the incident, which occurred after Durham, the Division Two le",
+    "published_at": "2026-08-23T16:04:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "ca07405d6d5d",
   "headline": "BBC’s Trevor Nelson recovering after brain tumour surgery",
   "section": "world",
@@ -3963,64 +3990,24 @@
   ]
  },
  {
-  "id": "498d4004e512",
-  "headline": "Lewes rail line to reopen in September as work under way to remove train",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T14:13:34+00:00",
+  "id": "10c2ee3e3b05",
+  "headline": "Man Rescued Alive After Being Trapped in Underwater Cave for 15 Days Without Food or Light",
+  "section": "goodnews",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 8,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-20T11:00:04+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Lewes rail line to reopen in September as work under way to remove train",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/20/lewes-rail-line-reopen-september-work-under-way-remove-train",
-    "source": "The Guardian World",
-    "summary": "Derailed carriages lifted using two cranes as workers operate under ‘very challenging circumstances’ Business live – latest updates The East Sussex railway line on which a train derailed will reopen in September as crews continue to remove the carriages that left the track. Rail bosses said they were prioritising reopening the route before the end of the school holidays, despite recovery workers o",
-    "published_at": "2026-08-20T14:13:34+00:00",
+    "title": "Man Rescued Alive After Being Trapped in Underwater Cave for 15 Days Without Food or Light",
+    "url": "https://www.goodnewsnetwork.org/man-rescued-alive-after-being-trapped-in-underwater-cave-for-15-days-without-food-or-light/",
+    "source": "Good News Network",
+    "summary": "A harrowing story of survival and perseverance comes to us from Mexico, where a fisherman was rescued after spending 15 days in a pitch black cave. The man, Erasto Crisanto Valdez, said he trusted in god to deliver him from the situation, which he survived by drinking rainwater and breathing from an air pocket. According […] The post Man Rescued Alive After Being Trapped in Underwater Cave for 15 ",
+    "published_at": "2026-08-20T11:00:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   },
-   {
-    "title": "Lewes rail line to reopen in September as work under way to remove train",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/20/lewes-rail-line-reopen-september-work-under-way-remove-train",
-    "source": "Guardian Business",
-    "summary": "Derailed carriages lifted using two cranes as workers operate under ‘very challenging circumstances’ Business live – latest updates The East Sussex railway line on which a train derailed will reopen in September as crews continue to remove the carriages that left the track. Rail bosses said they were prioritising reopening the route before the end of the school holidays, despite recovery workers o",
-    "published_at": "2026-08-20T14:13:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "901b75f2181a",
-  "headline": "Grok exfiltrates user data when malicious instructions are encrypted",
-  "section": "tech",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T13:00:35+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-    "source": "Ars Technica",
-    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-    "published_at": "2026-08-20T13:00:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   },
-   {
-    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-    "source": "Ars Technica AI",
-    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-    "published_at": "2026-08-20T13:00:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
+    "seen_at": "2026-08-23T18:25:58+00:00"
    }
   ]
  },
@@ -5298,6 +5285,37 @@
   ]
  },
  {
+  "id": "05a262ac14ca",
+  "headline": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+  "section": "business",
+  "score": 37,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T17:24:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+    "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+    "source": "The Guardian World",
+    "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, accord",
+    "published_at": "2026-08-23T17:24:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   },
+   {
+    "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+    "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+    "source": "Guardian Business",
+    "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, accord",
+    "published_at": "2026-08-23T17:24:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "0f9772a27c74",
   "headline": "Debates over AI consciousness are a trap",
   "section": "ai",
@@ -5983,50 +6001,6 @@
     "published_at": "2026-08-23T15:15:41+00:00",
     "source_countries": [],
     "seen_at": "2026-08-23T15:25:02+00:00"
-   }
-  ]
- },
- {
-  "id": "1acfe0c02203",
-  "headline": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T13:04:15+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-    "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-    "published_at": "2026-08-20T13:04:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
-   }
-  ]
- },
- {
-  "id": "ca547b480665",
-  "headline": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-20T15:27:04+00:00",
-  "event_time": "2026-08-20T04:06:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
-    "source": "Guardian Culture",
-    "summary": "The Seinfeld and Curb Your Enthusiasm creator says Dershowitz, who also defended Jeffrey Epstein and Harvey Weinstein, ‘only has himself to blame’ for being ostracised Larry David has opened up about the collapse of his friendship with Alan Dershowitz, saying that Dershowitz “made a deal with the devil” when he became Donald Trump’s lawyer. Dershowitz, a former Harvard University law professor, ha",
-    "published_at": "2026-08-20T04:06:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-20T15:27:01+00:00"
    }
   ]
  },
@@ -6819,6 +6793,28 @@
   ]
  },
  {
+  "id": "205682e3e19c",
+  "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-23T18:17:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+    "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+    "published_at": "2026-08-23T18:17:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "36d02f88aa83",
   "headline": "Hiker Lily Hooper remembered as someone ‘everyone liked’ – as it happened",
   "section": "world",
@@ -7476,6 +7472,50 @@
     "published_at": "2026-08-23T04:31:43+00:00",
     "source_countries": [],
     "seen_at": "2026-08-23T15:25:02+00:00"
+   }
+  ]
+ },
+ {
+  "id": "80703c01ba93",
+  "headline": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-07-02T19:27:33+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+    "source": "Krebs on Security",
+    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botn",
+    "published_at": "2026-07-02T19:27:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "329280ed717e",
+  "headline": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-23T18:26:02+00:00",
+  "event_time": "2026-08-20T14:36:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "source": "The Hacker News",
+    "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+    "published_at": "2026-08-20T14:36:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-23T18:25:58+00:00"
    }
   ]
  },
@@ -8381,28 +8421,6 @@
     "source": "The Guardian World",
     "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Get our breaking news email , free app or daily news podcast First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market. New entrants are now the only cohort applying for more ",
     "published_at": "2026-08-23T15:00:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T15:25:02+00:00"
-   }
-  ]
- },
- {
-  "id": "3dc8ee756f87",
-  "headline": "Spying device detectors may give domestic abuse victims false sense of security, study finds",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T15:25:05+00:00",
-  "event_time": "2026-08-23T15:00:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Spying device detectors may give domestic abuse victims false sense of security, study finds",
-    "url": "https://www.theguardian.com/society/2026/aug/23/spying-device-detectors-may-give-domestic-abuse-victims-false-sense-of-security-study-finds",
-    "source": "The Guardian World",
-    "summary": "Many tools fail to help victims find hidden cameras, microphones and trackers, leaving them at risk of ongoing surveillance Commercial detectors intended to help domestic abuse victims find hidden spying devices may actually give them a false sense of security, a study has found. The consumer detection tools claim to identify hidden cameras, microphones or trackers through methods such as signal-s",
-    "published_at": "2026-08-23T15:00:37+00:00",
     "source_countries": [],
     "seen_at": "2026-08-23T15:25:02+00:00"
    }
