@@ -1,0 +1,403 @@
+{
+  "schema_version": 1,
+  "slug": "before-you-share-the-headline",
+  "date": "2026-08-23",
+  "category": "media-literacy",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Before you share the headline, what do you actually check?",
+      "cs": "Co skutečně ověříte, než sdílíte titulek?"
+    },
+    "dek": {
+      "en": "Eight everyday situations reveal where a small verification habit could protect you from online persuasion.",
+      "cs": "Osm běžných situací ukáže, kde vás drobný ověřovací návyk může chránit před online přesvědčováním."
+    },
+    "intro": {
+      "en": "Choose the response closest to what you usually do, not the one that sounds ideal. The result is a practice map, not a label.",
+      "cs": "Vyberte odpověď nejbližší tomu, co obvykle děláte, ne tu, která zní ideálně. Výsledek je mapou návyků, nikoli nálepkou."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check informed by public media-literacy guidance. It is not a validated psychological instrument, intelligence test or measure of moral worth. It cannot determine whether every item you read is true.",
+      "cs": "Jde o původní vzdělávací sebehodnocení vycházející z veřejných doporučení pro mediální gramotnost. Není to ověřený psychologický nástroj, test inteligence ani měřítko morální hodnoty. Nedokáže určit pravdivost všeho, co čtete."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "pause",
+      "label": {
+        "en": "Pause",
+        "cs": "Zastavení"
+      },
+      "why": {
+        "en": "Strong emotion and urgency can shorten the distance between seeing and sharing.",
+        "cs": "Silná emoce a naléhavost mohou zkrátit cestu mezi zhlédnutím a sdílením."
+      },
+      "action": {
+        "en": "Name the emotion and wait long enough to ask what claim is actually being made.",
+        "cs": "Pojmenujte emoci a počkejte tak dlouho, abyste si položili otázku, jaké tvrzení se vlastně předkládá."
+      }
+    },
+    {
+      "id": "source",
+      "label": {
+        "en": "Source",
+        "cs": "Zdroj"
+      },
+      "why": {
+        "en": "A polished page can describe itself persuasively; independent information about its record is more useful.",
+        "cs": "Uhlazená stránka se umí přesvědčivě popsat sama; užitečnější jsou nezávislé informace o její pověsti."
+      },
+      "action": {
+        "en": "Open another tab and investigate the publisher, author and expertise.",
+        "cs": "Otevřete další kartu a prověřte vydavatele, autora i odbornost."
+      }
+    },
+    {
+      "id": "context",
+      "label": {
+        "en": "Context",
+        "cs": "Kontext"
+      },
+      "why": {
+        "en": "Old, cropped or relabelled material can be authentic and still mislead.",
+        "cs": "Starý, oříznutý či přeznačený materiál může být pravý, a přesto klamat."
+      },
+      "action": {
+        "en": "Trace the date, place, full quotation and original media.",
+        "cs": "Dohledejte datum, místo, celý citát a původní médium."
+      }
+    },
+    {
+      "id": "evidence",
+      "label": {
+        "en": "Evidence",
+        "cs": "Důkazy"
+      },
+      "why": {
+        "en": "Several posts may repeat one unsupported claim rather than independently confirm it.",
+        "cs": "Více příspěvků může opakovat jediné nepodložené tvrzení, nikoli je nezávisle potvrdit."
+      },
+      "action": {
+        "en": "Find stronger coverage and trace important claims to primary evidence.",
+        "cs": "Najděte kvalitnější zpracování a důležitá tvrzení dohledávejte k primárním důkazům."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "urgent-friend",
+      "dimension": "pause",
+      "text": {
+        "en": "A friend sends a shocking headline and writes, “Share before it is deleted.” What is closest to your usual response?",
+        "cs": "Přítel pošle šokující titulek se slovy „Sdílej, než to smažou.“ Co je nejbližší vaší obvyklé reakci?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Share immediately because deletion would remove the chance",
+            "cs": "Hned sdílím, protože smazáním by možnost zmizela"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Read the post and share if it sounds plausible",
+            "cs": "Přečtu příspěvek a sdílím, pokud zní věrohodně"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Pause and search the headline or central claim first",
+            "cs": "Zastavím se a nejprve vyhledám titulek nebo hlavní tvrzení"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "perfect-agreement",
+      "dimension": "pause",
+      "text": {
+        "en": "A post perfectly confirms something you already believe. What usually happens next?",
+        "cs": "Příspěvek dokonale potvrzuje něco, čemu už věříte. Co obvykle následuje?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I treat agreement as a sign that it is probably right",
+            "cs": "Shodu beru jako známku, že je to nejspíš správně"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I read comments to see whether others agree",
+            "cs": "Přečtu si komentáře, zda souhlasí i ostatní"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I apply the same verification I would use for an opposing claim",
+            "cs": "Použiji stejné ověření jako u tvrzení, s nímž nesouhlasím"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "professional-site",
+      "dimension": "source",
+      "text": {
+        "en": "An unfamiliar news site looks professional and has a reassuring About page. What do you do?",
+        "cs": "Neznámý zpravodajský web vypadá profesionálně a má uklidňující stránku O nás. Co uděláte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Trust the design and About page",
+            "cs": "Důvěřuji vzhledu a stránce O nás"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Check whether the page names an editor and address",
+            "cs": "Zkontroluji, zda stránka uvádí editora a adresu"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Leave the site and see what independent sources say about it",
+            "cs": "Web opustím a zjistím, co o něm říkají nezávislé zdroje"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "expert-quote",
+      "dimension": "source",
+      "text": {
+        "en": "A viral card quotes “a leading scientist” without a link. What is your likely next step?",
+        "cs": "Virální kartička cituje „předního vědce“ bez odkazu. Jaký bude váš pravděpodobný další krok?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Accept it if the wording sounds technical",
+            "cs": "Přijmu to, pokud formulace zní odborně"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Search the person's name only",
+            "cs": "Vyhledám pouze jméno člověka"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Check identity, relevant expertise and the original statement",
+            "cs": "Ověřím totožnost, odpovídající odbornost a původní vyjádření"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "dramatic-video",
+      "dimension": "context",
+      "text": {
+        "en": "A dramatic video has no date or place. What do you usually check?",
+        "cs": "Dramatické video nemá datum ani místo. Co obvykle ověříte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Nothing if the images look real",
+            "cs": "Nic, pokud záběry vypadají skutečně"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "The caption and top comments",
+            "cs": "Popisek a nejvýše hodnocené komentáře"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Earlier copies, original upload, location and date",
+            "cs": "Starší kopie, původní nahrání, místo a datum"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "short-quote",
+      "dimension": "context",
+      "text": {
+        "en": "A short quotation makes a public figure sound outrageous. What is closest to your habit?",
+        "cs": "Krátký citát působí, že veřejně známá osoba řekla něco pobuřujícího. Co je nejbližší vašemu návyku?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "React to the quoted sentence",
+            "cs": "Reaguji na citovanou větu"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Look for a longer quotation on the same account",
+            "cs": "Hledám delší citát na stejném účtu"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Find the full recording, transcript or original document",
+            "cs": "Najdu celé video, přepis nebo původní dokument"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "many-posts",
+      "dimension": "evidence",
+      "text": {
+        "en": "Five accounts repeat the same numerical claim. How do you judge confirmation?",
+        "cs": "Pět účtů opakuje stejné číselné tvrzení. Jak posoudíte potvrzení?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Five posts mean five confirmations",
+            "cs": "Pět příspěvků znamená pět potvrzení"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I check whether one account has many followers",
+            "cs": "Zkontroluji, zda má jeden účet hodně sledujících"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I trace whether they rely on one source and inspect the underlying data",
+            "cs": "Zjistím, zda vycházejí z jediného zdroje, a prověřím podkladová data"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "study-headline",
+      "dimension": "evidence",
+      "text": {
+        "en": "A headline says a study “proves” a food prevents disease. What do you usually seek?",
+        "cs": "Titulek tvrdí, že studie „dokazuje“, že potravina brání nemoci. Co obvykle hledáte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "A confident conclusion in the article",
+            "cs": "Sebevědomý závěr v článku"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Another article repeating the result",
+            "cs": "Jiný článek opakující výsledek"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "The study design, population, size, limitations and independent context",
+            "cs": "Typ studie, zkoumanou skupinu, velikost, omezení a nezávislý kontext"
+          },
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 8,
+      "title": {
+        "en": "Build one pause into the feed",
+        "cs": "Vložte do proudu jedno zastavení"
+      },
+      "summary": {
+        "en": "Your current pattern may let urgency, agreement or presentation do too much of the deciding. This short self-check cannot measure all your real behaviour. For one week, choose one rule: do not share a factual claim until you have opened one independent source.",
+        "cs": "Ve vašem současném návyku může naléhavost, souhlas či vzhled rozhodovat příliš mnoho. Krátké sebehodnocení neměří veškeré skutečné chování. Na týden si zvolte jediné pravidlo: faktické tvrzení nesdílejte, dokud neotevřete jeden nezávislý zdroj."
+      }
+    },
+    {
+      "min": 9,
+      "max": 16,
+      "title": {
+        "en": "You check, but not always at the strongest point",
+        "cs": "Ověřujete, ale ne vždy na nejsilnějším místě"
+      },
+      "summary": {
+        "en": "You already interrupt some persuasive cues, yet comments, familiar sources or repeated coverage may sometimes substitute for original evidence. This is a habit snapshot, not a verdict. Practise one lateral-reading move: leave the page and investigate the source before reading deeper.",
+        "cs": "Některé přesvědčovací podněty už přerušujete, komentáře, známé zdroje či opakované pokrytí však někdy mohou nahrazovat původní důkazy. Jde o snímek návyků, ne rozsudek. Procvičte jeden krok laterálního čtení: opusťte stránku a před hlubším čtením prověřte zdroj."
+      }
+    },
+    {
+      "min": 17,
+      "max": 24,
+      "title": {
+        "en": "Your verification habit has useful structure",
+        "cs": "Váš ověřovací návyk má užitečnou strukturu"
+      },
+      "summary": {
+        "en": "You tend to pause, investigate sources, restore context and inspect evidence. That does not make you immune to error, especially when tired or emotionally invested. Keep one humility check: ask what evidence would change your mind, then trace the most important claim to its origin.",
+        "cs": "Máte sklon se zastavit, prověřit zdroj, obnovit kontext a zkoumat důkazy. Ani to vás nechrání před omylem, zvlášť při únavě či emočním zaujetí. Zachovejte si kontrolu pokory: ptejte se, jaký důkaz by změnil váš názor, a nejdůležitější tvrzení dohledávejte k původu."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "The News Literacy Project — Quiz catalogue",
+      "url": "https://newslit.org/news_and_research/resources_type/quiz/",
+      "published": "",
+      "type": "current public media-literacy catalogue reviewed for reader demand; no items reproduced"
+    },
+    {
+      "name": "FactCheck.org — NewsFeed Defenders",
+      "url": "https://www.factcheck.org/newsfeed-defenders/",
+      "published": "",
+      "type": "public educational guidance on verification, transparency, context and source evaluation"
+    },
+    {
+      "name": "Baer and Kipnis — Evaluating Online Sources Through Lateral Reading",
+      "url": "https://rdw.rowan.edu/lib_scholarship/36/",
+      "published": "2022",
+      "type": "openly licensed educational tutorial based on lateral-reading research"
+    },
+    {
+      "name": "Mike Caulfield — SIFT: The Four Moves",
+      "url": "https://checkplease.neocities.org/older-projects/sift-method/",
+      "published": "",
+      "type": "original public explanation of the SIFT framework"
+    }
+  ]
+}
