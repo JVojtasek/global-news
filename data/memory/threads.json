@@ -1,6 +1,91 @@
 {
  "threads": [
   {
+   "id": "9ffb6bd91201",
+   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+   "section": "sport",
+   "entities": [
+    "manchester",
+    "rodri's",
+    "he's",
+    "city",
+    "community",
+    "maresca",
+    "arsenal",
+    "nightmare",
+    "enzo",
+    "rodri",
+    "shield"
+   ],
+   "event_ids": [
+    "9ffb6bd91201",
+    "2fef58e0d72e",
+    "b5cc84461c06",
+    "cb7f47a5868f",
+    "c6aec83a4cd2"
+   ],
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-08-23",
+   "timeline": [
+    {
+     "date": "2026-08-16",
+     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9ffb6bd91201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2fef58e0d72e",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "'He's the professor' - Rodri's Manchester City journey",
+     "sources": 2,
+     "score": 49,
+     "event_id": "b5cc84461c06",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
+     "sources": 1,
+     "score": 41,
+     "event_id": "cb7f47a5868f",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City will 'try to find the new Rodri' - Maresca",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c6aec83a4cd2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -2015,78 +2100,6 @@
    ]
   },
   {
-   "id": "9ffb6bd91201",
-   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-   "section": "sport",
-   "entities": [
-    "arsenal",
-    "community",
-    "rodri's",
-    "maresca",
-    "enzo",
-    "city",
-    "nightmare",
-    "shield",
-    "manchester",
-    "he's"
-   ],
-   "event_ids": [
-    "9ffb6bd91201",
-    "2fef58e0d72e",
-    "b5cc84461c06",
-    "cb7f47a5868f"
-   ],
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-08-17",
-   "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9ffb6bd91201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2fef58e0d72e",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "'He's the professor' - Rodri's Manchester City journey",
-     "sources": 2,
-     "score": 49,
-     "event_id": "b5cc84461c06",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
-     "sources": 1,
-     "score": 41,
-     "event_id": "cb7f47a5868f",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    }
-   ]
-  },
-  {
    "id": "72d2d7721049",
    "title": "Hayden Panettiere: A life of struggles alongside screen success",
    "section": "world",
@@ -2870,5 +2883,5 @@
    ]
   }
  ],
- "updated": "2026-08-22T21:24:56+00:00"
+ "updated": "2026-08-23T00:27:55+00:00"
 }

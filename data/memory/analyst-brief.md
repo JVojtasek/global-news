@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-22
+# ANALYTICKÉ ZADÁNÍ — 2026-08-23
 
 Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
 
@@ -76,11 +76,11 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
-### Robinson and Tongue guide England to strong start against Pakistan
-- rubrika `sport` · sledováno 2 dní · 5 záznamů
+### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
+- rubrika `sport` · sledováno 7 dní · 5 záznamů
 - časová osa:
-  - **2026-08-19** (2 zdrojů) Robinson and Tongue guide England to strong start against Pakistan
-  - **2026-08-20** (2 zdrojů) Tongue & Robinson cut Headingley ball in half
-  - **2026-08-20** (2 zdrojů) Brook shines as England take control against Pakistan
-  - **2026-08-21** (2 zdrojů) England v Pakistan: first Test, day three – live
-  - **2026-08-21** (2 zdrojů) Root reveals incoming England coach Fleming was in daily contact during first Test win
+  - **2026-08-16** (2 zdrojů) Nightmare Man City start for Maresca - are Arsenal really so far ahead?
+  - **2026-08-16** (2 zdrojů) Arsenal cruise to win over Manchester City in Community Shield
+  - **2026-08-17** (2 zdrojů) 'He's the professor' - Rodri's Manchester City journey
+  - **2026-08-17** (1 zdrojů) Enzo Maresca’s Manchester City opener was startlingly bad
+  - **2026-08-23** (2 zdrojů) Man City will 'try to find the new Rodri' - Maresca
