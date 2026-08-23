@@ -591,26 +591,26 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "bear",
-    "ukraine",
-    "belgorod",
-    "holding",
     "north",
-    "masha",
-    "kyiv",
-    "wildberries",
-    "overnight",
-    "korean",
-    "back-to-back",
-    "several",
-    "zelenskyy",
-    "atacms",
-    "russia",
-    "zelensky",
-    "russian",
-    "europe",
+    "bear",
+    "holding",
     "izmail",
-    "four"
+    "europe",
+    "four",
+    "russia",
+    "korean",
+    "zelenskyy",
+    "russian",
+    "zelensky",
+    "masha",
+    "atacms",
+    "kyiv",
+    "overnight",
+    "ukraine",
+    "wildberries",
+    "belgorod",
+    "several",
+    "back-to-back"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -632,7 +632,8 @@
     "38f1f3daedca",
     "8e855f427aa3",
     "0053421a02cb",
-    "39ea562d9b81"
+    "39ea562d9b81",
+    "374572a43be2"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-08-23",
@@ -862,6 +863,18 @@
       "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
       "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf"
      ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+     "sources": 2,
+     "score": 51,
+     "event_id": "374572a43be2",
+     "links": [
+      "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+      "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+      "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country"
+     ]
     }
    ]
   },
@@ -1090,180 +1103,32 @@
    ]
   },
   {
-   "id": "9ffb6bd91201",
-   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-   "section": "sport",
-   "entities": [
-    "manchester",
-    "rodri's",
-    "he's",
-    "city",
-    "community",
-    "maresca",
-    "arsenal",
-    "nightmare",
-    "enzo",
-    "rodri",
-    "shield"
-   ],
-   "event_ids": [
-    "9ffb6bd91201",
-    "2fef58e0d72e",
-    "b5cc84461c06",
-    "cb7f47a5868f",
-    "c6aec83a4cd2"
-   ],
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-08-23",
-   "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9ffb6bd91201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2fef58e0d72e",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "'He's the professor' - Rodri's Manchester City journey",
-     "sources": 2,
-     "score": 49,
-     "event_id": "b5cc84461c06",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
-     "sources": 1,
-     "score": 41,
-     "event_id": "cb7f47a5868f",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City will 'try to find the new Rodri' - Maresca",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c6aec83a4cd2",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6854b3ddf9a5",
-   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-   "section": "world",
-   "entities": [
-    "canada",
-    "trump",
-    "canadian"
-   ],
-   "event_ids": [
-    "6854b3ddf9a5",
-    "000d3ef7dbe1",
-    "fa3d91cb7277",
-    "86cf952c4920"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-23",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-     "sources": 5,
-     "score": 73,
-     "event_id": "6854b3ddf9a5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-     "sources": 2,
-     "score": 40,
-     "event_id": "000d3ef7dbe1",
-     "links": [
-      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
-     "sources": 2,
-     "score": 41,
-     "event_id": "fa3d91cb7277",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Trump hits out at Canada over retaliatory tariffs",
-     "sources": 2,
-     "score": 42,
-     "event_id": "86cf952c4920",
-     "links": [
-      "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
+    "youtube",
     "phil",
-    "city",
+    "liverpool",
     "haaland's",
-    "golden",
-    "league",
-    "mcnulty's",
-    "boot",
-    "arsenal",
+    "manchester",
+    "opening",
     "five",
     "forest",
-    "coventry",
-    "youtube",
-    "premier",
-    "sports",
-    "manchester",
     "hull",
+    "coventry",
+    "city",
+    "premier",
+    "league",
+    "boot",
+    "arsenal",
+    "newcastle",
+    "sports",
+    "golden",
     "united",
-    "nottingham",
-    "opening",
-    "tzolis"
+    "mcnulty's",
+    "tzolis",
+    "nottingham"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1275,10 +1140,11 @@
     "e0b2bb707b45",
     "ca9b3648741f",
     "7647b16128ca",
-    "3ed1a03ec11c"
+    "3ed1a03ec11c",
+    "4774e258c054"
    ],
    "first_seen": "2026-08-18",
-   "last_seen": "2026-08-22",
+   "last_seen": "2026-08-23",
    "timeline": [
     {
      "date": "2026-08-18",
@@ -1393,6 +1259,182 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/aug/22/hull-city-v-manchester-united-premier-league-live",
       "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Newcastle United v Liverpool: Premier League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4774e258c054",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ffb6bd91201",
+   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+   "section": "sport",
+   "entities": [
+    "rodri's",
+    "rodri",
+    "arsenal",
+    "manchester",
+    "community",
+    "nightmare",
+    "gvardiol",
+    "maresca",
+    "bournemouth",
+    "enzo",
+    "city",
+    "he's",
+    "shield"
+   ],
+   "event_ids": [
+    "9ffb6bd91201",
+    "2fef58e0d72e",
+    "b5cc84461c06",
+    "cb7f47a5868f",
+    "c6aec83a4cd2",
+    "4a7b92cbd9ac"
+   ],
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-08-23",
+   "timeline": [
+    {
+     "date": "2026-08-16",
+     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9ffb6bd91201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2fef58e0d72e",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "'He's the professor' - Rodri's Manchester City journey",
+     "sources": 2,
+     "score": 49,
+     "event_id": "b5cc84461c06",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
+     "sources": 1,
+     "score": 41,
+     "event_id": "cb7f47a5868f",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City will 'try to find the new Rodri' - Maresca",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c6aec83a4cd2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+     "sources": 2,
+     "score": 59,
+     "event_id": "4a7b92cbd9ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6854b3ddf9a5",
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "section": "world",
+   "entities": [
+    "canada",
+    "trump",
+    "canadian"
+   ],
+   "event_ids": [
+    "6854b3ddf9a5",
+    "000d3ef7dbe1",
+    "fa3d91cb7277",
+    "86cf952c4920"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-23",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "sources": 5,
+     "score": 73,
+     "event_id": "6854b3ddf9a5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "sources": 2,
+     "score": 40,
+     "event_id": "000d3ef7dbe1",
+     "links": [
+      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+     "sources": 2,
+     "score": 41,
+     "event_id": "fa3d91cb7277",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Trump hits out at Canada over retaliatory tariffs",
+     "sources": 2,
+     "score": 42,
+     "event_id": "86cf952c4920",
+     "links": [
+      "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens"
      ]
     }
    ]
@@ -2935,5 +2977,5 @@
    ]
   }
  ],
- "updated": "2026-08-23T12:26:27+00:00"
+ "updated": "2026-08-23T15:25:05+00:00"
 }

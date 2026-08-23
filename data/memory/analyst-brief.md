@@ -21,9 +21,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-23** (2 zdrojů) Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 12 dní · 20 záznamů
+- rubrika `world` · sledováno 12 dní · 21 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
   - **2026-08-18** (2 zdrojů) Ukraine, Russia trade strikes; Wildberries site hit again
   - **2026-08-18** (3 zdrojů) Ukraine appeals to FIA to overturn Russia inclusion
   - **2026-08-20** (2 zdrojů) Ukraine: Several killed in fresh Russian strikes on Kyiv
@@ -33,6 +32,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-21** (2 zdrojů) 'Masha and the Bear': Ukraine sanctions Russian cartoon
   - **2026-08-22** (2 zdrojů) Russian strikes kill 6 people in Ukraine, day after shopping complex attack
   - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
+  - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 10 dní · 15 záznamů
@@ -49,9 +49,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 4 dní · 10 záznamů
+- rubrika `sport` · sledováno 5 dní · 11 záznamů
 - časová osa:
-  - **2026-08-18** (3 zdrojů) Premier League to publish verdicts on referee and VAR decisions
   - **2026-08-18** (2 zdrojů) Haaland's main rivals for the Premier League Golden Boot
   - **2026-08-20** (2 zdrojů) How will your club fare? Phil McNulty's Premier League predictions
   - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
@@ -61,6 +60,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
   - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
   - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
+  - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
@@ -77,10 +77,11 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
-- rubrika `sport` · sledováno 7 dní · 5 záznamů
+- rubrika `sport` · sledováno 7 dní · 6 záznamů
 - časová osa:
   - **2026-08-16** (2 zdrojů) Nightmare Man City start for Maresca - are Arsenal really so far ahead?
   - **2026-08-16** (2 zdrojů) Arsenal cruise to win over Manchester City in Community Shield
   - **2026-08-17** (2 zdrojů) 'He's the professor' - Rodri's Manchester City journey
   - **2026-08-17** (1 zdrojů) Enzo Maresca’s Manchester City opener was startlingly bad
   - **2026-08-23** (2 zdrojů) Man City will 'try to find the new Rodri' - Maresca
+  - **2026-08-23** (2 zdrojů) Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
