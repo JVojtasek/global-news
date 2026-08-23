@@ -1,14 +1,15 @@
 ---
 slug: will-incognito-mode-find-a-cheaper-flight
-title: "Will Incognito Mode Really Find a Cheaper Flight?"
-dek: "Private browsing can reset a session, but the price jump travellers fear usually begins in a fare bucket—not in a cookie jar."
+title: Will Incognito Mode Really Find a Cheaper Flight?
+dek: Private browsing can reset a session, but the price jump travellers fear usually
+  begins in a fare bucket—not in a cookie jar.
 section: travel
 type: analysis
 depth: open
 lang: en
 date: '2026-08-23'
-status: draft
-confidence: 90
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,9 +19,11 @@ generator: chatgpt-work
 format: ''
 event_id: airfare-incognito-evidence
 series: The Wider Lens
-image_query: "airline booking comparison on two anonymous browser windows conceptual editorial illustration no readable text no logos"
+image_query: airline booking comparison on two anonymous browser windows conceptual
+  editorial illustration no readable text no logos
 sources:
-- name: Reuters — Lawmakers question if JetBlue is using personal data to set ticket prices
+- name: Reuters — Lawmakers question if JetBlue is using personal data to set ticket
+    prices
   url: https://www.reuters.com/world/us/lawmakers-question-if-jetblue-is-using-personal-data-set-ticket-prices-2026-04-21/
   published: '2026-04-21'
 - name: UC Berkeley Haas — Research shows how airline pricing really works
@@ -38,13 +41,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: "What is the most common evidence-backed reason a flight price jumps between two searches?"
+  question: What is the most common evidence-backed reason a flight price jumps between
+    two searches?
   options:
-  - "The browser counted how many times one person looked"
-  - "The cheaper fare bucket sold out or the seller refreshed an outdated price"
-  - "Incognito mode adds an airline privacy fee"
+  - The browser counted how many times one person looked
+  - The cheaper fare bucket sold out or the seller refreshed an outdated price
+  - Incognito mode adds an airline privacy fee
   answer: 1
-  explanation: "Airlines sell limited inventory at preset fare levels, while travel sellers can briefly display cached prices that are no longer available."
+  explanation: Airlines sell limited inventory at preset fare levels, while travel
+    sellers can briefly display cached prices that are no longer available.
 ---
 
 ## BRIEFLY

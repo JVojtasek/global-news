@@ -1,7 +1,7 @@
 ---
 lang: en
-date: '2026-08-17'
-status: reserve
+date: '2026-08-23'
+status: published
 automation_generated: false
 edition_slot: 0
 type: feature

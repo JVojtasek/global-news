@@ -1,14 +1,16 @@
 ---
 slug: how-orange-juice-became-breakfast
-title: "How Orange Juice Became Breakfast—and Started Losing the Table"
-dek: "The morning glass looks like a natural tradition. It was actually built from wartime research, cold-chain engineering, advertising and standards—and those same forces help explain its decline."
+title: How Orange Juice Became Breakfast—and Started Losing the Table
+dek: The morning glass looks like a natural tradition. It was actually built from
+  wartime research, cold-chain engineering, advertising and standards—and those same
+  forces help explain its decline.
 section: food
 type: analysis
 depth: open
 lang: en
 date: '2026-08-23'
-status: draft
-confidence: 90
+status: published
+confidence: 94
 load: 0
 topics:
 - orange juice
@@ -23,9 +25,11 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: The Wider Lens
-image_query: mid-century breakfast table with orange juice can refrigerator and fresh oranges conceptual editorial still life no people no brands no text
+image_query: mid-century breakfast table with orange juice can refrigerator and fresh
+  oranges conceptual editorial still life no people no brands no text
 sources:
-- name: USDA National Agricultural Statistics Service — Frozen Concentrated Orange Juice
+- name: USDA National Agricultural Statistics Service — Frozen Concentrated Orange
+    Juice
   url: https://www.nass.usda.gov/Publications/Trends_in_U.S._Agriculture/Frozen_Orange_Juice/index.php
   published: '2018-05-04'
 - name: U.S. Food and Drug Administration — Orange and Other Juice Inspection Guide
@@ -34,19 +38,24 @@ sources:
 - name: TIME — How World War II Brought the World Frozen Orange Juice
   url: https://time.com/4922457/wwii-orange-juice-history/
   published: '2017-08-31'
-- name: The Washington Post — Orange Juice Is Getting Squeezed by Competitors, Prices and Storms
+- name: The Washington Post — Orange Juice Is Getting Squeezed by Competitors, Prices
+    and Storms
   url: https://www.washingtonpost.com/food/2025/03/05/orange-juice-decline-tropicana/
   published: '2025-03-05'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why could frozen orange-juice concentrate become a national breakfast staple after the Second World War?"
+  question: Why could frozen orange-juice concentrate become a national breakfast
+    staple after the Second World War?
   options:
-  - "Removing water reduced storage and transport while flavour restoration, freezing and home refrigerators made the product practical"
-  - "Oranges suddenly began growing year-round in every American region"
-  - "Federal standards required households to drink juice each morning"
+  - Removing water reduced storage and transport while flavour restoration, freezing
+    and home refrigerators made the product practical
+  - Oranges suddenly began growing year-round in every American region
+  - Federal standards required households to drink juice each morning
   answer: 0
-  explanation: "The decisive system combined concentration, flavour restoration, a cold chain, household freezers and convenience marketing. Standards defined products; they did not mandate consumption."
+  explanation: The decisive system combined concentration, flavour restoration, a
+    cold chain, household freezers and convenience marketing. Standards defined products;
+    they did not mandate consumption.
 review_reason: ''
 ---
 

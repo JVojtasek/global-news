@@ -1,14 +1,16 @@
 ---
 slug: the-last-guinea-worm-is-the-hardest
-title: "Ten Human Cases, Hundreds of Animal Infections: Why the Last Guinea Worm Is the Hardest"
-dek: "A disease that once struck millions is close to disappearing, but the final cases reveal why eradication is a surveillance problem as much as a medical one."
+title: 'Ten Human Cases, Hundreds of Animal Infections: Why the Last Guinea Worm Is
+  the Hardest'
+dek: A disease that once struck millions is close to disappearing, but the final cases
+  reveal why eradication is a surveillance problem as much as a medical one.
 section: goodnews
 type: daily
 depth: open
 lang: en
 date: '2026-08-23'
-status: draft
-confidence: 93
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,9 @@ generator: chatgpt-work
 format: ''
 event_id: guinea-worm-last-mile-2025
 series: The Wider Lens
-image_query: "conceptual editorial illustration of the last broken link in a waterborne parasite transmission chain, village water filters and surveillance map, no text, no logos"
+image_query: conceptual editorial illustration of the last broken link in a waterborne
+  parasite transmission chain, village water filters and surveillance map, no text,
+  no logos
 sources:
 - name: World Health Organization — Dracunculiasis data
   url: https://www.who.int/data/gho/data/themes/topics/dracunculiasis-guinea-worm-disease
@@ -35,13 +39,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why can Guinea worm disease not be declared eradicated simply because only 10 human cases were reported in 2025?"
+  question: Why can Guinea worm disease not be declared eradicated simply because
+    only 10 human cases were reported in 2025?
   options:
-  - "The parasite can survive only in seawater"
-  - "Animal infections and the need for years of reliable surveillance can sustain or conceal transmission"
-  - "Eradication is impossible without inventing a vaccine"
+  - The parasite can survive only in seawater
+  - Animal infections and the need for years of reliable surveillance can sustain
+    or conceal transmission
+  - Eradication is impossible without inventing a vaccine
   answer: 1
-  explanation: "The same parasite infects humans and animals, and WHO certification requires adequate nationwide surveillance after indigenous transmission has stopped."
+  explanation: The same parasite infects humans and animals, and WHO certification
+    requires adequate nationwide surveillance after indigenous transmission has stopped.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
