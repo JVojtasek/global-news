@@ -1107,33 +1107,35 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "liverpool",
-    "nottingham",
-    "five",
-    "salah",
-    "premier",
-    "league",
-    "arsenal",
-    "tzolis",
-    "phil",
-    "opening",
-    "haaland's",
-    "boot",
-    "united",
     "youtube",
-    "mcnulty's",
-    "forest",
+    "salah",
+    "nottingham",
+    "newcastle",
     "isak",
-    "golden",
-    "life",
+    "wissa",
+    "league",
     "city",
     "wirtz",
-    "newcastle",
-    "wissa",
+    "sports",
     "hull",
-    "manchester",
+    "phil",
+    "forest",
+    "liverpool",
+    "relief",
     "coventry",
-    "sports"
+    "iraola",
+    "boot",
+    "arsenal",
+    "united",
+    "mcnulty's",
+    "premier",
+    "golden",
+    "tzolis",
+    "life",
+    "haaland's",
+    "five",
+    "manchester",
+    "opening"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1148,7 +1150,8 @@
     "3ed1a03ec11c",
     "4774e258c054",
     "3d51e83a35a8",
-    "aa48b1799b4d"
+    "aa48b1799b4d",
+    "f0a55f3207b0"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-23",
@@ -1300,6 +1303,18 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+     "sources": 2,
+     "score": 49,
+     "event_id": "f0a55f3207b0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/andoni-iraola-liverpool-alexander-isak-matthias-jaissle-newcastle"
      ]
     }
    ]
@@ -3019,5 +3034,5 @@
    ]
   }
  ],
- "updated": "2026-08-23T18:26:02+00:00"
+ "updated": "2026-08-23T21:24:50+00:00"
 }

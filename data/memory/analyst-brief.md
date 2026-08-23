@@ -49,9 +49,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 5 dní · 13 záznamů
+- rubrika `sport` · sledováno 5 dní · 14 záznamů
 - časová osa:
-  - **2026-08-20** (1 zdrojů) Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube
   - **2026-08-20** (1 zdrojů) Premier League 2026-27 preview No 18: Nottingham Forest
   - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
   - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
@@ -61,6 +60,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
   - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
   - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
+  - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
