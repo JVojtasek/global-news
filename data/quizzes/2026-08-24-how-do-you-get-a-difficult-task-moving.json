@@ -1,0 +1,663 @@
+{
+  "schema_version": 1,
+  "slug": "how-do-you-get-a-difficult-task-moving",
+  "date": "2026-08-24",
+  "category": "personality",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "How do you get a difficult task moving?",
+      "cs": "Jak rozhýbete obtížný úkol?"
+    },
+    "dek": {
+      "en": "Eight situations reveal which starting move you reach for first—and which alternative may help when it stops working.",
+      "cs": "Osm situací ukáže, po jakém prvním kroku saháte nejčastěji a co může pomoci, když přestane fungovat."
+    },
+    "intro": {
+      "en": "Choose what you would most naturally do, not the answer that sounds most productive. Your result describes a current preference, not a permanent type.",
+      "cs": "Vyberte, co byste udělali nejpřirozeněji, ne odpověď, která zní nejproduktivněji. Výsledek popisuje současnou tendenci, nikoli trvalý typ."
+    },
+    "disclaimer": {
+      "en": "This is an original reflective self-check informed by research on planning, task initiation and procrastination. It is not a validated personality instrument, diagnosis or measure of ability. Context, workload, health and the task itself can change your answers.",
+      "cs": "Jde o původní reflektivní sebehodnocení vycházející z výzkumu plánování, zahájení úkolů a odkládání. Není to validovaný osobnostní test, diagnóza ani měřítko schopností. Odpovědi může změnit situace, pracovní zátěž, zdraví i samotný úkol."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "clarify",
+      "label": {
+        "en": "Clarify the unknown",
+        "cs": "Vyjasnit neznámé"
+      },
+      "why": {
+        "en": "You gain traction by defining the real question, constraints and finish line.",
+        "cs": "Rozjíždíte se tím, že určíte skutečnou otázku, omezení a cílový stav."
+      },
+      "action": {
+        "en": "Write the smallest unanswered question and spend ten minutes finding only what resolves it.",
+        "cs": "Napište nejmenší nezodpovězenou otázku a deset minut hledejte jen to, co ji vyřeší."
+      }
+    },
+    {
+      "id": "structure",
+      "label": {
+        "en": "Build a route",
+        "cs": "Vytvořit trasu"
+      },
+      "why": {
+        "en": "You reduce friction by turning a vague obligation into ordered, scheduled actions.",
+        "cs": "Snižujete tření tím, že z neurčité povinnosti uděláte seřazené a naplánované kroky."
+      },
+      "action": {
+        "en": "Write an if-then start: when a specific cue occurs, open the task and complete one named step.",
+        "cs": "Napište start ve tvaru když–pak: při konkrétním podnětu úkol otevřete a dokončíte jeden pojmenovaný krok."
+      }
+    },
+    {
+      "id": "experiment",
+      "label": {
+        "en": "Make a rough first move",
+        "cs": "Udělat hrubý první krok"
+      },
+      "why": {
+        "en": "You learn by producing a small draft, test or prototype before certainty arrives.",
+        "cs": "Učíte se tím, že vytvoříte malý návrh, test či prototyp dříve, než přijde jistota."
+      },
+      "action": {
+        "en": "Run a reversible 15-minute version whose purpose is information, not quality.",
+        "cs": "Spusťte vratnou patnáctiminutovou verzi, jejímž cílem jsou informace, ne kvalita."
+      }
+    },
+    {
+      "id": "connect",
+      "label": {
+        "en": "Create useful accountability",
+        "cs": "Vytvořit užitečnou odpovědnost"
+      },
+      "why": {
+        "en": "Conversation, commitment or a shared checkpoint helps turn intention into movement.",
+        "cs": "Rozhovor, závazek či společný kontrolní bod vám pomáhá proměnit záměr v pohyb."
+      },
+      "action": {
+        "en": "Tell one appropriate person the next observable step and agree when you will report what happened.",
+        "cs": "Řekněte vhodnému člověku další viditelný krok a domluvte se, kdy oznámíte, jak to dopadlo."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "blank-page",
+      "text": {
+        "en": "A blank document is open and the task feels too large. What do you do first?",
+        "cs": "Máte otevřený prázdný dokument a úkol působí příliš velký. Co uděláte nejdřív?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Write the exact question the document must answer",
+            "cs": "Napíšu přesnou otázku, na kterou má dokument odpovědět"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 1,
+            "experiment": 0,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Create headings and reserve a time block for each",
+            "cs": "Vytvořím nadpisy a pro každý vyhradím čas"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 3,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Write an intentionally rough opening paragraph",
+            "cs": "Napíšu záměrně hrubý úvodní odstavec"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 0,
+            "experiment": 3,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Message a colleague with the first deliverable I will send",
+            "cs": "Napíšu kolegovi, jaký první výstup mu pošlu"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 1,
+            "experiment": 0,
+            "connect": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "unclear-request",
+      "text": {
+        "en": "A request from someone important is ambiguous. Your natural first move is to…",
+        "cs": "Požadavek od důležitého člověka je nejasný. Přirozeně nejdřív…"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Ask what decision the finished work should support",
+            "cs": "Zeptám se, jaké rozhodnutí má hotová práce podpořit"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 0,
+            "experiment": 0,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Turn the request into a checklist with assumptions marked",
+            "cs": "Převedu požadavek na seznam kroků s vyznačenými předpoklady"
+          },
+          "scores": {
+            "clarify": 1,
+            "structure": 3,
+            "experiment": 0,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Make a quick sample and ask whether it is on the right track",
+            "cs": "Udělám rychlou ukázku a zeptám se, zda míří správně"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 0,
+            "experiment": 3,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Arrange a short conversation before beginning",
+            "cs": "Domluvím krátký rozhovor před zahájením"
+          },
+          "scores": {
+            "clarify": 1,
+            "structure": 0,
+            "experiment": 0,
+            "connect": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "low-energy",
+      "text": {
+        "en": "You have little energy but one important task cannot wait. What is most like you?",
+        "cs": "Máte málo energie, ale jeden důležitý úkol nemůže čekat. Co vás vystihuje nejvíc?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Identify the one unknown blocking every other step",
+            "cs": "Určím jedinou neznámou, která blokuje všechny další kroky"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 1,
+            "experiment": 0,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Set a start cue and a short, bounded work period",
+            "cs": "Stanovím spouštěč a krátký ohraničený čas práce"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 3,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Do the smallest imperfect piece immediately",
+            "cs": "Okamžitě udělám nejmenší nedokonalou část"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 1,
+            "experiment": 3,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Ask someone to check in after the first step",
+            "cs": "Požádám někoho, aby se ozval po prvním kroku"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 0,
+            "experiment": 1,
+            "connect": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "high-stakes",
+      "text": {
+        "en": "A high-stakes task makes you hesitate. Which move feels most stabilising?",
+        "cs": "U důležitého úkolu váháte. Který krok vás nejvíc stabilizuje?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Separate known facts from assumptions and questions",
+            "cs": "Oddělím známá fakta od předpokladů a otázek"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 1,
+            "experiment": 0,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Build milestones, deadlines and a review point",
+            "cs": "Vytvořím milníky, termíny a bod kontroly"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 3,
+            "experiment": 0,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Test the riskiest assumption on a small scale",
+            "cs": "Otestuji nejrizikovější předpoklad v malém měřítku"
+          },
+          "scores": {
+            "clarify": 1,
+            "structure": 0,
+            "experiment": 3,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Ask a trusted person to pressure-test the approach",
+            "cs": "Požádám důvěryhodného člověka, aby přístup prověřil"
+          },
+          "scores": {
+            "clarify": 1,
+            "structure": 0,
+            "experiment": 0,
+            "connect": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "stalled-plan",
+      "text": {
+        "en": "A careful plan has stalled. What do you try next?",
+        "cs": "Pečlivý plán se zastavil. Co zkusíte dál?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Recheck whether I am solving the right problem",
+            "cs": "Znovu ověřím, zda řeším správný problém"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 0,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Reduce the plan to the next scheduled action",
+            "cs": "Zredukuji plán na další naplánovaný krok"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 3,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Abandon part of the plan and run a quick test",
+            "cs": "Část plánu opustím a provedu rychlý test"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 0,
+            "experiment": 3,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Show the blockage to someone who can respond",
+            "cs": "Ukážu překážku někomu, kdo na ni může reagovat"
+          },
+          "scores": {
+            "clarify": 1,
+            "structure": 0,
+            "experiment": 0,
+            "connect": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-skill",
+      "text": {
+        "en": "You must begin something that requires a skill you do not yet have. What comes first?",
+        "cs": "Musíte začít něco, k čemu ještě nemáte potřebnou dovednost. Co přijde první?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Define precisely which part I do not know",
+            "cs": "Přesně určím, kterou část neumím"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 1,
+            "experiment": 0,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Choose a learning sequence and put it on the calendar",
+            "cs": "Vyberu pořadí učení a zapíšu je do kalendáře"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 3,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Try a beginner version and learn from the errors",
+            "cs": "Zkusím začátečnickou verzi a poučím se z chyb"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 0,
+            "experiment": 3,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Find a person who can demonstrate the first move",
+            "cs": "Najdu člověka, který může ukázat první krok"
+          },
+          "scores": {
+            "clarify": 1,
+            "structure": 0,
+            "experiment": 0,
+            "connect": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "no-deadline",
+      "text": {
+        "en": "A meaningful personal project has no deadline. How are you most likely to start?",
+        "cs": "Smysluplný osobní projekt nemá termín. Jak nejspíš začnete?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Write why it matters and what finished means",
+            "cs": "Napíšu, proč je důležitý a co znamená hotovo"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 1,
+            "experiment": 0,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Choose a recurring time and first milestone",
+            "cs": "Zvolím opakovaný čas a první milník"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 3,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Make a tiny visible version today",
+            "cs": "Ještě dnes vytvořím malou viditelnou verzi"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 0,
+            "experiment": 3,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Invite someone to work beside me or review progress",
+            "cs": "Pozvu někoho ke společné práci nebo kontrole pokroku"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 1,
+            "experiment": 0,
+            "connect": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "after-setback",
+      "text": {
+        "en": "Your first attempt fails. What most naturally gets you moving again?",
+        "cs": "První pokus selže. Co vás nejpřirozeněji znovu rozhýbe?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Work out what the failure actually revealed",
+            "cs": "Zjistím, co selhání skutečně odhalilo"
+          },
+          "scores": {
+            "clarify": 3,
+            "structure": 0,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Revise the sequence and set a new start point",
+            "cs": "Upravím pořadí a stanovím nový začátek"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 3,
+            "experiment": 1,
+            "connect": 0
+          }
+        },
+        {
+          "label": {
+            "en": "Change one variable and try again quickly",
+            "cs": "Změním jednu proměnnou a rychle to zkusím znovu"
+          },
+          "scores": {
+            "clarify": 0,
+            "structure": 0,
+            "experiment": 3,
+            "connect": 1
+          }
+        },
+        {
+          "label": {
+            "en": "Debrief with someone and commit to the next attempt",
+            "cs": "Rozeberu to s někým a zavážu se k dalšímu pokusu"
+          },
+          "scores": {
+            "clarify": 1,
+            "structure": 0,
+            "experiment": 0,
+            "connect": 3
+          }
+        }
+      ]
+    }
+  ],
+  "outcomes": {
+    "clarify": {
+      "title": {
+        "en": "You tend to start by making the problem legible",
+        "cs": "Začínáte tím, že problém učiníte srozumitelným"
+      },
+      "summary": {
+        "en": "When a task feels difficult, you often seek the real question, missing fact or definition of done. This is a current preference, not a fixed trait.",
+        "cs": "Když je úkol obtížný, často hledáte skutečnou otázku, chybějící údaj či definici hotového výsledku. Jde o současnou tendenci, ne pevnou vlastnost."
+      },
+      "strength": {
+        "en": "You can prevent energetic work on the wrong problem.",
+        "cs": "Dokážete zabránit usilovné práci na nesprávném problému."
+      },
+      "watch": {
+        "en": "Research can become a comfortable waiting room if the next action never begins.",
+        "cs": "Zkoumání se může stát pohodlnou čekárnou, pokud nikdy nezačne další krok."
+      },
+      "action": {
+        "en": "After ten minutes of clarification, name one reversible action and do it.",
+        "cs": "Po deseti minutách vyjasňování pojmenujte jeden vratný krok a udělejte jej."
+      }
+    },
+    "structure": {
+      "title": {
+        "en": "You tend to start by building a route",
+        "cs": "Začínáte vytvořením trasy"
+      },
+      "summary": {
+        "en": "You often turn uncertainty into milestones, cues and ordered steps. This quiz cannot tell whether that approach fits every task.",
+        "cs": "Nejistotu často měníte v milníky, spouštěče a seřazené kroky. Kvíz neurčí, zda tento přístup vyhovuje každému úkolu."
+      },
+      "strength": {
+        "en": "You make intentions easier to execute and easier to resume.",
+        "cs": "Usnadňujete uskutečnění záměru i návrat k přerušené práci."
+      },
+      "watch": {
+        "en": "A polished plan can postpone contact with messy reality.",
+        "cs": "Uhlazený plán může odkládat setkání s neuspořádanou realitou."
+      },
+      "action": {
+        "en": "Put one if-then start in the calendar, then test the plan before refining it.",
+        "cs": "Vložte do kalendáře jeden start když–pak a plán otestujte dříve, než jej zdokonalíte."
+      }
+    },
+    "experiment": {
+      "title": {
+        "en": "You tend to start by making something",
+        "cs": "Začínáte tím, že něco vytvoříte"
+      },
+      "summary": {
+        "en": "You often learn through a rough draft, prototype or small test. That preference can vary with risk and experience.",
+        "cs": "Často se učíte pomocí hrubého návrhu, prototypu či malého testu. Tato tendence se může měnit podle rizika a zkušenosti."
+      },
+      "strength": {
+        "en": "You replace imagined difficulty with information from reality.",
+        "cs": "Nahrazujete domnělou obtížnost informacemi ze skutečnosti."
+      },
+      "watch": {
+        "en": "Fast action can waste effort when the question, constraint or consequence is unclear.",
+        "cs": "Rychlá akce může plýtvat úsilím, pokud není jasná otázka, omezení či důsledek."
+      },
+      "action": {
+        "en": "Before the next test, write what you expect to learn and what would make you stop.",
+        "cs": "Před dalším testem napište, co se chcete dozvědět a co by vás přimělo zastavit."
+      }
+    },
+    "connect": {
+      "title": {
+        "en": "You tend to start through useful connection",
+        "cs": "Začínáte prostřednictvím užitečného spojení"
+      },
+      "summary": {
+        "en": "Conversation, accountability or shared work often helps you cross the starting line. This does not mean you cannot work independently.",
+        "cs": "Rozhovor, odpovědnost či společná práce vám často pomáhá překročit startovní čáru. Neznamená to, že neumíte pracovat samostatně."
+      },
+      "strength": {
+        "en": "You make commitments visible and gain perspectives you may not generate alone.",
+        "cs": "Zviditelňujete závazky a získáváte pohledy, které by vás samotné nemusely napadnout."
+      },
+      "watch": {
+        "en": "Waiting for the right person or for reassurance can transfer ownership of the start.",
+        "cs": "Čekání na správného člověka či ujištění může přesunout odpovědnost za začátek."
+      },
+      "action": {
+        "en": "Ask for one specific response, set a checkpoint and complete a private first step before it.",
+        "cs": "Požádejte o jednu konkrétní reakci, stanovte kontrolní bod a ještě před ním dokončete vlastní první krok."
+      }
+    }
+  },
+  "sources": [
+    {
+      "name": "Princeton University McGraw Center — Understanding and Overcoming Procrastination",
+      "url": "https://mcgraw.princeton.edu/undergraduates/resources/resource-library/understanding-and-overcoming-procrastination",
+      "published": "2007",
+      "type": "university educational guidance reviewed for task-initiation mechanisms; no questionnaire items reproduced"
+    },
+    {
+      "name": "Procrastination and Stress — conceptual review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/",
+      "published": "2023-03-27",
+      "type": "peer-reviewed review of context, emotion regulation and procrastination"
+    },
+    {
+      "name": "Implementation Intention and Reminder Effects on Behavior Change",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5730820/",
+      "published": "2017-12-20",
+      "type": "peer-reviewed research on if-then planning and action"
+    },
+    {
+      "name": "Weekly planning behaviour field experiment",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10952538/",
+      "published": "2024",
+      "type": "peer-reviewed field experiment on planning and self-regulation"
+    }
+  ]
+}
