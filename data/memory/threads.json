@@ -5,45 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "justified",
-    "north",
+    "troops",
     "bluster",
-    "oman",
-    "iranian",
-    "groundhog",
-    "russia's",
-    "united",
-    "middle",
-    "lebanon",
-    "iran",
-    "south",
-    "taiwan",
-    "trump's",
-    "russia",
-    "gulf",
-    "us-south",
-    "east",
-    "tehran",
-    "china's",
-    "iran's",
-    "states",
-    "turkey",
-    "ukraine",
+    "trump",
     "pentagon",
-    "tennessee",
-    "washington",
+    "lebanon",
+    "iran's",
+    "united",
+    "us-south",
     "league",
     "hormuz",
-    "china",
-    "qatar",
     "jong",
-    "trump",
-    "donald",
-    "american",
-    "champions",
-    "troops",
+    "trump's",
+    "gulf",
+    "taiwan",
+    "east",
+    "iran",
+    "south",
+    "tennessee",
+    "russia",
+    "russia's",
+    "washington",
+    "strait",
+    "qatar",
+    "oman",
     "korea",
-    "strait"
+    "tehran",
+    "american",
+    "states",
+    "indycar",
+    "turkey",
+    "iranian",
+    "start",
+    "groundhog",
+    "china",
+    "north",
+    "china's",
+    "donald",
+    "champions",
+    "justified",
+    "ukraine"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -88,10 +89,11 @@
     "2493ae91f899",
     "7092d0f6864b",
     "7b6cc89252d4",
-    "0d5f455ce96f"
+    "0d5f455ce96f",
+    "8edb640d7bec"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "timeline": [
     {
      "date": "2026-08-09",
@@ -582,6 +584,17 @@
      "links": [
       "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
       "https://www.investing.com/news/earnings/sinopec-reports-19-profit-jump-in-h1-2026-despite-middle-east-crisis-4872438"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race",
+     "sources": 1,
+     "score": 42,
+     "event_id": "8edb640d7bec",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc",
+      "https://www.theguardian.com/sport/2026/aug/23/kyle-kirkwood-freedom-250-indycar-trump"
      ]
     }
    ]
@@ -3034,5 +3047,5 @@
    ]
   }
  ],
- "updated": "2026-08-23T21:24:50+00:00"
+ "updated": "2026-08-24T00:28:15+00:00"
 }
