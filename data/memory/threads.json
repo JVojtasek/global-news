@@ -604,26 +604,27 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "north",
-    "bear",
-    "holding",
-    "izmail",
-    "europe",
-    "four",
-    "russia",
-    "korean",
-    "zelenskyy",
-    "russian",
-    "zelensky",
-    "masha",
     "atacms",
-    "kyiv",
-    "overnight",
-    "ukraine",
+    "russian",
     "wildberries",
+    "ukraine",
+    "europe",
+    "izmail",
+    "overnight",
     "belgorod",
+    "bear",
+    "korean",
+    "burnham",
+    "masha",
     "several",
-    "back-to-back"
+    "kyiv",
+    "back-to-back",
+    "four",
+    "holding",
+    "north",
+    "russia",
+    "zelenskyy",
+    "zelensky"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -646,10 +647,11 @@
     "8e855f427aa3",
     "0053421a02cb",
     "39ea562d9b81",
-    "374572a43be2"
+    "374572a43be2",
+    "6c51db20726b"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "timeline": [
     {
      "date": "2026-08-11",
@@ -887,6 +889,17 @@
       "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
       "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
       "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6c51db20726b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -3047,5 +3060,5 @@
    ]
   }
  ],
- "updated": "2026-08-24T00:28:15+00:00"
+ "updated": "2026-08-24T03:35:30+00:00"
 }

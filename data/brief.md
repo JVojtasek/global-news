@@ -9,26 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Hong Kong's Tiananmen activists guilty in national security trial
-- id události: `84ce4047c1c5`  ·  rubrika: `world`  ·  skóre: 85  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Hong Kong's Tiananmen activists guilty in national security trial
-    <https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss>
-    > Three activists were accused of inciting others to subvert state power under the China-introduced law.
-  - **The Guardian World** — Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’
-    <https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung>
-    > Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty of “incitement to subversion”, in on
-  - **DW News** — Hong Kong convicts activists in national security trial
-    <https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf>
-    > The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high profile case has been widely criticized for highlighting the deterioration of freedom of expression.
-  - **Medical Xpress** — Hong Kong's first screening tool to detect social frailty in seniors
-    <https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html>
-    > Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple, objective way to identify those most at risk. Researchers at The Hong Kong Polytechnic University (PolyU) have developed a set of commun
-  - **Investing.com** — Shein targets Hong Kong market debut on September 1, sources say
-    <https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257>
-
-### 2. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 1. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 - id události: `1ba93b103296`  ·  rubrika: `business`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -46,7 +27,7 @@
   - **Investing.com** — U.S. tariffs on Canada take effect after trade talks collapse
     <https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296>
 
-### 3. Hong Kong convicts Tiananmen vigil leaders
+### 2. Hong Kong convicts Tiananmen vigil leaders
 - id události: `0df2dafecfc9`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -63,7 +44,7 @@
     <https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html>
     > Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple, objective way to identify those most at risk. Researchers at The Hong Kong Polytechnic University (PolyU) have developed a set of commun
 
-### 4. Panama Canal to cut number of ships passing through due to El Niño
+### 3. Panama Canal to cut number of ships passing through due to El Niño
 - id události: `142c24046870`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -79,6 +60,20 @@
   - **Phys.org** — Panama Canal to reduce shipping over El Niño-fueled drought
     <https://phys.org/news/2026-08-panama-canal-shipping-el-nio.html>
     > The Panama Canal will cut the number of ships passing through it starting next month because of drought caused by the El Niño phenomenon, the operator of the strategic waterway linking the Atlantic and Pacific said Thursday.
+
+### 4. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
+- id události: `4a7b92cbd9ac`  ·  rubrika: `sport`  ·  skóre: 59  ·  nezávislých zdrojů: 2
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
+    <https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss>
+    > How Man City and Bournemouth players rated following their Premier League match.
+  - **Guardian Sport** — Guéhi and Gvardiol late show earns Manchester City dramatic win against Bournemouth
+    <https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report>
+    > “WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging loss became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until the
+  - **Guardian Sport** — Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi
+    <https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer>
+    > Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club
 
 ---
 
@@ -134,13 +129,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 44
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 21  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 22  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 21
-  2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says
+rubrika: world · sledováno od 2026-08-11 · záznamů: 22
   2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
   2026-08-11  (2 zdrojů, síla 41)  Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
   2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles
@@ -160,6 +154,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 21
   2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack
   2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy
   2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
+  2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
 ```
 
 ---

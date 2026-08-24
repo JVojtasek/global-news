@@ -21,9 +21,8 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-24** (1 zdrojů) Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 12 dní · 21 záznamů
+- rubrika `world` · sledováno 13 dní · 22 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) Ukraine, Russia trade strikes; Wildberries site hit again
   - **2026-08-18** (3 zdrojů) Ukraine appeals to FIA to overturn Russia inclusion
   - **2026-08-20** (2 zdrojů) Ukraine: Several killed in fresh Russian strikes on Kyiv
   - **2026-08-20** (4 zdrojů) Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
@@ -33,6 +32,7 @@ Paměť obsahuje **39 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-22** (2 zdrojů) Russian strikes kill 6 people in Ukraine, day after shopping complex attack
   - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
   - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
+  - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 10 dní · 15 záznamů

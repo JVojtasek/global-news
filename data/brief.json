@@ -6,65 +6,6 @@
  "reserve_articles": 4,
  "news_assignments": [
   {
-   "id": "84ce4047c1c5",
-   "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-   "section": "world",
-   "score": 85,
-   "sources_count": 5,
-   "depth_signal": 8,
-   "created": "2026-08-21T03:34:48+00:00",
-   "event_time": "2026-08-21T02:59:46+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-     "published_at": "2026-08-21T02:59:46+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-21T03:34:45+00:00"
-    },
-    {
-     "title": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
-     "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-     "source": "The Guardian World",
-     "summary": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty of “incitement to subversion”, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69",
-     "published_at": "2026-08-21T03:28:02+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-21T03:34:45+00:00"
-    },
-    {
-     "title": "Hong Kong convicts activists in national security trial",
-     "url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high profile case has been widely criticized for highlighting the deterioration of freedom of expression.",
-     "published_at": "2026-08-21T02:39:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-21T03:34:45+00:00"
-    },
-    {
-     "title": "Hong Kong's first screening tool to detect social frailty in seniors",
-     "url": "https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html",
-     "source": "Medical Xpress",
-     "summary": "Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple, objective way to identify those most at risk. Researchers at The Hong Kong Polytechnic University (PolyU) have developed a set of community-based, preventive approaches to address social frailty among seniors, including a new screening tool and nature-base",
-     "published_at": "2026-08-21T00:40:04+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-21T03:34:45+00:00"
-    },
-    {
-     "title": "Shein targets Hong Kong market debut on September 1, sources say",
-     "url": "https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-08-21T03:18:38+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-21T03:34:45+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "1ba93b103296",
    "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
    "section": "business",
@@ -222,6 +163,47 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "4a7b92cbd9ac",
+   "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+   "section": "sport",
+   "score": 59,
+   "sources_count": 2,
+   "depth_signal": 5,
+   "created": "2026-08-23T15:25:05+00:00",
+   "event_time": "2026-08-23T15:05:14+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "How Man City and Bournemouth players rated following their Premier League match.",
+     "published_at": "2026-08-23T15:05:14+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-23T15:25:02+00:00"
+    },
+    {
+     "title": "Guéhi and Gvardiol late show earns Manchester City dramatic win against Bournemouth",
+     "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+     "source": "Guardian Sport",
+     "summary": "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging loss became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until then, Marco Rose had been closing in on leading Bournemouth to a first ever away victory at City. But two lapses in defence",
+     "published_at": "2026-08-23T15:14:19+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-23T15:25:02+00:00"
+    },
+    {
+     "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
+     "url": "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer",
+     "source": "Guardian Sport",
+     "summary": "Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club’s summer spend to nearly £200m after Elliot Anderson’s £116m signing earlier in the window. The 18-year-old was stood d",
+     "published_at": "2026-08-23T12:32:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-23T15:25:02+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -267,8 +249,8 @@
    "title_hint": "What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live\nrubrika: world · sledováno od 2026-08-11 · záznamů: 21\n  2026-08-11  (2 zdrojů, síla 54)  Russia using North Korean missiles to strike Ukraine, Zelensky says\n  2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13\n  2026-08-11  (2 zdrojů, síla 41)  Ukraine and Russia exchange attacks as Kyiv buys new ATACMS\n  2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles\n  2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine\n  2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure\n  2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles\n  2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region\n  2026-08-17  (2 zdrojů, síla 49)  Why Kyiv keeps attacking Russian retail giant Wildberries\n  2026-08-18  (2 zdrojů, síla 43)  Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live\n  2026-08-18  (2 zdrojů, síla 46)  Ukraine, Russia trade strikes; Wildberries site hit again\n  2026-08-18  (3 zdrojů, síla 53)  Ukraine appeals to FIA to overturn Russia inclusion\n  2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv\n  2026-08-20  (4 zdrojů, síla 69)  Russia launches missile strikes on Kyiv and surrounding region, killing at least eight\n  2026-08-20  (3 zdrojů, síla 59)  Ukraine: Several killed in 'massive' Russian strikes on Kyiv\n  2026-08-21  (2 zdrojů, síla 52)  Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre\n  2026-08-21  (2 zdrojů, síla 45)  'Masha and the Bear': Ukraine sanctions Russian cartoon\n  2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack\n  2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy\n  2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-   "thread_days": 21
+   "timeline": "VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live\nrubrika: world · sledováno od 2026-08-11 · záznamů: 22\n  2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13\n  2026-08-11  (2 zdrojů, síla 41)  Ukraine and Russia exchange attacks as Kyiv buys new ATACMS\n  2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles\n  2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine\n  2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure\n  2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles\n  2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region\n  2026-08-17  (2 zdrojů, síla 49)  Why Kyiv keeps attacking Russian retail giant Wildberries\n  2026-08-18  (2 zdrojů, síla 43)  Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live\n  2026-08-18  (2 zdrojů, síla 46)  Ukraine, Russia trade strikes; Wildberries site hit again\n  2026-08-18  (3 zdrojů, síla 53)  Ukraine appeals to FIA to overturn Russia inclusion\n  2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv\n  2026-08-20  (4 zdrojů, síla 69)  Russia launches missile strikes on Kyiv and surrounding region, killing at least eight\n  2026-08-20  (3 zdrojů, síla 59)  Ukraine: Several killed in 'massive' Russian strikes on Kyiv\n  2026-08-21  (2 zdrojů, síla 52)  Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre\n  2026-08-21  (2 zdrojů, síla 45)  'Masha and the Bear': Ukraine sanctions Russian cartoon\n  2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack\n  2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy\n  2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine\n  2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+   "thread_days": 22
   }
  ],
  "demand_assignments": [
