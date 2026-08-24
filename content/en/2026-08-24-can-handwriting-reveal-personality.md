@@ -1,47 +1,53 @@
 ---
 slug: can-handwriting-reveal-personality
-title: "Can Your Handwriting Reveal Your Personality?"
-dek: "Handwriting can help compare writers, but the evidence does not support using loops, slants and spacing as a reliable map of character."
+title: Can Your Handwriting Reveal Your Personality?
+dek: Handwriting can help compare writers, but the evidence does not support using
+  loops, slants and spacing as a reliable map of character.
 section: mysteries
 type: analysis
 depth: open
 lang: en
-date: 2026-08-24
-status: draft
-confidence: 91
+date: '2026-08-24'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: ""
-series: ""
-image_query: "handwritten page under a magnifying glass beside neutral personality cards conceptual evidence illustration"
+format: ''
+event_id: ''
+series: ''
+image_query: handwritten page under a magnifying glass beside neutral personality
+  cards conceptual evidence illustration
 sources:
-  - name: "Neter and Ben-Shakhar — Predictive validity of graphological inferences"
-    url: "https://cris.openu.ac.il/en/publications/the-predictive-validity-of-graphological-inferences-a-meta-analyt-2/"
-    published: "1989"
-  - name: "Dazzi and Pedrabissi — Graphology and personality"
-    url: "https://pubmed.ncbi.nlm.nih.gov/20229925/"
-    published: "2009-12"
-  - name: "European Psychologist — Handwriting Analysis and Personality Assessment"
-    url: "https://econtent.hogrefe.com/doi/10.1027//1016-9040.5.1.44"
-    published: "2000"
-  - name: "Association for Psychological Science — Graphology and the Barnum effect demonstration"
-    url: "https://www.psychologicalscience.org/conventions/archive/2025annual/paper/55674/"
-    published: "2025-05-21"
-  - name: "NIST — Forensic Handwriting Examination and Human Factors"
-    url: "https://www.nist.gov/programs-projects/forensic-handwriting-examination-and-human-factors"
-    published: "2021-05"
-qma_path: ""
+- name: Neter and Ben-Shakhar — Predictive validity of graphological inferences
+  url: https://cris.openu.ac.il/en/publications/the-predictive-validity-of-graphological-inferences-a-meta-analyt-2/
+  published: '1989'
+- name: Dazzi and Pedrabissi — Graphology and personality
+  url: https://pubmed.ncbi.nlm.nih.gov/20229925/
+  published: 2009-12
+- name: European Psychologist — Handwriting Analysis and Personality Assessment
+  url: https://econtent.hogrefe.com/doi/10.1027//1016-9040.5.1.44
+  published: '2000'
+- name: Association for Psychological Science — Graphology and the Barnum effect demonstration
+  url: https://www.psychologicalscience.org/conventions/archive/2025annual/paper/55674/
+  published: '2025-05-21'
+- name: NIST — Forensic Handwriting Examination and Human Factors
+  url: https://www.nist.gov/programs-projects/forensic-handwriting-examination-and-human-factors
+  published: 2021-05
+qma_path: ''
 tickers: []
 quiz:
-  question: "What question does forensic handwriting examination primarily address?"
-  options: ["Whether a writer is emotionally stable", "Whether questioned writing may share a source with known writing", "Whether large letters predict ambition"]
+  question: What question does forensic handwriting examination primarily address?
+  options:
+  - Whether a writer is emotionally stable
+  - Whether questioned writing may share a source with known writing
+  - Whether large letters predict ambition
   answer: 1
-  explanation: "Forensic document examination compares questioned and known writing for source or authenticity; it does not infer personality."
+  explanation: Forensic document examination compares questioned and known writing
+    for source or authenticity; it does not infer personality.
 ---
 
 ## BRIEFLY

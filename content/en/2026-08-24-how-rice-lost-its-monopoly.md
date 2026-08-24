@@ -1,47 +1,53 @@
 ---
 slug: how-rice-lost-its-monopoly
-title: "How RICE Lost Its Monopoly on Sports-Injury Advice"
-dek: "A memorable four-letter rule became first aid folklore; the evidence now asks a different question—are you seeking relief, protection or recovery?"
+title: How RICE Lost Its Monopoly on Sports-Injury Advice
+dek: A memorable four-letter rule became first aid folklore; the evidence now asks
+  a different question—are you seeking relief, protection or recovery?
 section: sport
 type: analysis
 depth: open
 lang: en
-date: 2026-08-24
-status: draft
-confidence: 85
+date: '2026-08-24'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "ankle sports injury ice pack rehabilitation exercise"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: ankle sports injury ice pack rehabilitation exercise
 sources:
-  - name: "Medical Science in Sports and Exercise — Acute soft tissue injuries review"
-    url: "https://pubmed.ncbi.nlm.nih.gov/3534506/"
-    published: "1986-10-01"
-  - name: "American Journal of Sports Medicine — Systematic review of ice"
-    url: "https://pubmed.ncbi.nlm.nih.gov/14754753/"
-    published: "2004-01-01"
-  - name: "British Journal of Sports Medicine — PEACE and LOVE framework"
-    url: "https://pubmed.ncbi.nlm.nih.gov/31377722/"
-    published: "2019-08-03"
-  - name: "European Journal of Applied Physiology — The cold truth"
-    url: "https://pubmed.ncbi.nlm.nih.gov/33877402/"
-    published: "2021-04-20"
-  - name: "British Journal of Sports Medicine — Cryotherapy in sport medicine review"
-    url: "https://pubmed.ncbi.nlm.nih.gov/39237265/"
-    published: "2024-09-03"
-qma_path: ""
+- name: Medical Science in Sports and Exercise — Acute soft tissue injuries review
+  url: https://pubmed.ncbi.nlm.nih.gov/3534506/
+  published: '1986-10-01'
+- name: American Journal of Sports Medicine — Systematic review of ice
+  url: https://pubmed.ncbi.nlm.nih.gov/14754753/
+  published: '2004-01-01'
+- name: British Journal of Sports Medicine — PEACE and LOVE framework
+  url: https://pubmed.ncbi.nlm.nih.gov/31377722/
+  published: '2019-08-03'
+- name: European Journal of Applied Physiology — The cold truth
+  url: https://pubmed.ncbi.nlm.nih.gov/33877402/
+  published: '2021-04-20'
+- name: British Journal of Sports Medicine — Cryotherapy in sport medicine review
+  url: https://pubmed.ncbi.nlm.nih.gov/39237265/
+  published: '2024-09-03'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is the best-supported immediate benefit of traditional icing in human soft-tissue injury research?"
-  options: ["Guaranteed faster tissue healing", "Short-term pain reduction", "Prevention of every form of swelling"]
+  question: What is the best-supported immediate benefit of traditional icing in human
+    soft-tissue injury research?
+  options:
+  - Guaranteed faster tissue healing
+  - Short-term pain reduction
+  - Prevention of every form of swelling
   answer: 1
-  explanation: "Reviews consistently identify pain relief as the clearest human benefit; effects on healing and long-term recovery remain uncertain and protocol-dependent."
+  explanation: Reviews consistently identify pain relief as the clearest human benefit;
+    effects on healing and long-term recovery remain uncertain and protocol-dependent.
 ---
 
 ## BRIEFLY

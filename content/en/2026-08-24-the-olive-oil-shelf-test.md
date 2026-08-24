@@ -1,44 +1,49 @@
 ---
 slug: the-olive-oil-shelf-test
-title: "The Olive Oil Shelf Test"
-dek: "The bottle that tastes bright on day one can fade quietly beside the cooker; four ordinary choices decide how quickly."
+title: The Olive Oil Shelf Test
+dek: The bottle that tastes bright on day one can fade quietly beside the cooker;
+  four ordinary choices decide how quickly.
 section: food
 type: analysis
 depth: open
 lang: en
-date: 2026-08-24
-status: draft
-confidence: 88
+date: '2026-08-24'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "olive oil dark bottle pantry kitchen shelf"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: olive oil dark bottle pantry kitchen shelf
 sources:
-  - name: "International Olive Council — Consumer Guidelines on Storage"
-    url: "https://www.internationaloliveoil.org/wp-content/uploads/2020/12/COI-CBPS-Doc.-n%C2%BA-1-ENG.pdf"
-    published: "2020-11-01"
-  - name: "UC Davis Food Quality — Olive Oil Myths and Facts"
-    url: "https://ucfoodquality.ucdavis.edu/olive-oil/olive-oil-myths-and-facts"
-    published: "2025-07-09"
-  - name: "Frontiers in Nutrition — Storage effect on olive oil phenols"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11285335/"
-    published: "2024-07-10"
-  - name: "Foods — Effects of packaging and storage temperature on shelf life"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6218649/"
-    published: "2018-10-25"
-qma_path: ""
+- name: International Olive Council — Consumer Guidelines on Storage
+  url: https://www.internationaloliveoil.org/wp-content/uploads/2020/12/COI-CBPS-Doc.-n%C2%BA-1-ENG.pdf
+  published: '2020-11-01'
+- name: UC Davis Food Quality — Olive Oil Myths and Facts
+  url: https://ucfoodquality.ucdavis.edu/olive-oil/olive-oil-myths-and-facts
+  published: '2025-07-09'
+- name: Frontiers in Nutrition — Storage effect on olive oil phenols
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11285335/
+  published: '2024-07-10'
+- name: Foods — Effects of packaging and storage temperature on shelf life
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6218649/
+  published: '2018-10-25'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which observation can authenticate extra-virgin olive oil at home?"
-  options: ["It clouds in the refrigerator", "It comes in dark glass", "Neither observation authenticates it"]
+  question: Which observation can authenticate extra-virgin olive oil at home?
+  options:
+  - It clouds in the refrigerator
+  - It comes in dark glass
+  - Neither observation authenticates it
   answer: 2
-  explanation: "Cold behaviour varies with composition, and protective packaging preserves quality but does not prove what is inside."
+  explanation: Cold behaviour varies with composition, and protective packaging preserves
+    quality but does not prove what is inside.
 ---
 
 ## BRIEFLY

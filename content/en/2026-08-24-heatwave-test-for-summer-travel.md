@@ -1,44 +1,51 @@
 ---
 slug: heatwave-test-for-summer-travel
-title: "The Heatwave Test Every Summer Trip Now Needs"
-dek: "A good hot-weather itinerary does not merely follow the forecast; it moves the hardest exposure, protects the night's recovery and leaves room to change course."
+title: The Heatwave Test Every Summer Trip Now Needs
+dek: A good hot-weather itinerary does not merely follow the forecast; it moves the
+  hardest exposure, protects the night's recovery and leaves room to change course.
 section: travel
 type: daily
 depth: open
 lang: en
-date: 2026-08-24
-status: draft
-confidence: 90
+date: '2026-08-24'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual summer city travel itinerary divided between harsh midday heat and shaded evening route"
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual summer city travel itinerary divided between harsh midday
+  heat and shaded evening route
 sources:
-  - name: "CDC Yellow Book — Heat and Cold Illness in Travelers"
-    url: "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/heat-and-cold-illness-in-travelers.html"
-    published: "2025-04-23"
-  - name: "TravelHealthPro — Extreme heat"
-    url: "https://travelhealthpro.org.uk/factsheets/extreme-heat"
-    published: "2025-05-09"
-  - name: "World Health Organization — Heat and health"
-    url: "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
-    published: "2026-07-31"
-  - name: "ECMWF and Copernicus — Urban heat islands and heat mortality"
-    url: "https://stories.ecmwf.int/urban-heat-islands-and-heat-mortality/index.html"
-    published: "2026-08-24"
-qma_path: ""
+- name: CDC Yellow Book — Heat and Cold Illness in Travelers
+  url: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/heat-and-cold-illness-in-travelers.html
+  published: '2025-04-23'
+- name: TravelHealthPro — Extreme heat
+  url: https://travelhealthpro.org.uk/factsheets/extreme-heat
+  published: '2025-05-09'
+- name: World Health Organization — Heat and health
+  url: https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health
+  published: '2026-07-31'
+- name: ECMWF and Copernicus — Urban heat islands and heat mortality
+  url: https://stories.ecmwf.int/urban-heat-islands-and-heat-mortality/index.html
+  published: '2026-08-24'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which change most directly reduces a traveller's heat exposure?"
-  options: ["Move the longest outdoor walk away from the hottest hours", "Wear heavier clothing so sweat stays on the skin", "Force large amounts of plain water even when not thirsty"]
+  question: Which change most directly reduces a traveller's heat exposure?
+  options:
+  - Move the longest outdoor walk away from the hottest hours
+  - Wear heavier clothing so sweat stays on the skin
+  - Force large amounts of plain water even when not thirsty
   answer: 0
-  explanation: "Rescheduling strenuous outdoor activity cuts the heat load itself; heavy clothing impairs cooling, while forced over-drinking can also create risk."
+  explanation: Rescheduling strenuous outdoor activity cuts the heat load itself;
+    heavy clothing impairs cooling, while forced over-drinking can also create risk.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
