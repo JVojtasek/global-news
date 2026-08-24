@@ -1,14 +1,15 @@
 ---
 slug: margaret-hamilton-apollo-software
-title: "The Woman Beside the Code"
-dek: "Margaret Hamilton helped make Apollo software resilient, but the famous photograph tells a richer team story than the lone-genius legend."
+title: The Woman Beside the Code
+dek: Margaret Hamilton helped make Apollo software resilient, but the famous photograph
+  tells a richer team story than the lone-genius legend.
 section: tech
 type: analysis
 depth: open
 lang: en
 date: '2026-08-24'
-status: draft
-confidence: 95
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,31 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "Margaret Hamilton beside Apollo guidance software printout"
+image_query: Margaret Hamilton beside Apollo guidance software printout
 sources:
-  - name: "MIT News"
-    url: "https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817"
-    published: '2016-08-17'
-  - name: "NASA Science"
-    url: "https://science.nasa.gov/people/margaret-hamilton/"
-    published: ''
-  - name: "Computer History Museum"
-    url: "https://computerhistory.org/blog/margaret-hamilton-in-her-own-words/"
-    published: '2022-03-10'
-  - name: "NASA Technical Reports Server"
-    url: "https://ntrs.nasa.gov/api/citations/19710024203/downloads/19710024203.pdf"
-    published: '1971'
+- name: MIT News
+  url: https://news.mit.edu/2016/scene-at-mit-margaret-hamilton-apollo-code-0817
+  published: '2016-08-17'
+- name: NASA Science
+  url: https://science.nasa.gov/people/margaret-hamilton/
+  published: ''
+- name: Computer History Museum
+  url: https://computerhistory.org/blog/margaret-hamilton-in-her-own-words/
+  published: '2022-03-10'
+- name: NASA Technical Reports Server
+  url: https://ntrs.nasa.gov/api/citations/19710024203/downloads/19710024203.pdf
+  published: '1971'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What allowed the Apollo guidance computer to remain useful during overload?"
+  question: What allowed the Apollo guidance computer to remain useful during overload?
   options:
-    - "It could discard lower-priority work while preserving essential tasks"
-    - "It had unlimited processing capacity"
-    - "Astronauts rewrote its code during descent"
+  - It could discard lower-priority work while preserving essential tasks
+  - It had unlimited processing capacity
+  - Astronauts rewrote its code during descent
   answer: 0
-  explanation: "Priority scheduling and restart protection let essential guidance work continue while less important tasks were rejected."
+  explanation: Priority scheduling and restart protection let essential guidance work
+    continue while less important tasks were rejected.
 ---
 
 ## BRIEFLY

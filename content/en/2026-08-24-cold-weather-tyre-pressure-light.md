@@ -1,14 +1,15 @@
 ---
 slug: cold-weather-tyre-pressure-light
-title: "Why the Tyre-Pressure Light Comes On When the Weather Turns Cold"
-dek: "A warning that disappears after driving may be weather physics, but it still deserves a cold-pressure check."
+title: Why the Tyre-Pressure Light Comes On When the Weather Turns Cold
+dek: A warning that disappears after driving may be weather physics, but it still
+  deserves a cold-pressure check.
 section: motoring
 type: analysis
 depth: open
 lang: en
 date: '2026-08-24'
-status: draft
-confidence: 96
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,31 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "car tyre pressure gauge on a cold autumn morning"
+image_query: car tyre pressure gauge on a cold autumn morning
 sources:
-  - name: "NHTSA TireWise"
-    url: "https://www.nhtsa.gov/vehicle-safety/tires"
-    published: ''
-  - name: "FuelEconomy.gov"
-    url: "https://www.fueleconomy.gov/feg/maintain.jsp"
-    published: ''
-  - name: "Transport Canada"
-    url: "https://tc.canada.ca/en/road-transportation/motor-vehicle-safety/inflating-your-tires"
-    published: '2013-12-10'
-  - name: "NHTSA FMVSS 138 compliance procedure"
-    url: "https://www.nhtsa.gov/sites/nhtsa.gov/files/2026-04/TP-138-04.pdf"
-    published: '2026-04'
+- name: NHTSA TireWise
+  url: https://www.nhtsa.gov/vehicle-safety/tires
+  published: ''
+- name: FuelEconomy.gov
+  url: https://www.fueleconomy.gov/feg/maintain.jsp
+  published: ''
+- name: Transport Canada
+  url: https://tc.canada.ca/en/road-transportation/motor-vehicle-safety/inflating-your-tires
+  published: '2013-12-10'
+- name: NHTSA FMVSS 138 compliance procedure
+  url: https://www.nhtsa.gov/sites/nhtsa.gov/files/2026-04/TP-138-04.pdf
+  published: 2026-04
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which pressure should normally guide inflation?"
+  question: Which pressure should normally guide inflation?
   options:
-    - "The maximum printed on the tyre sidewall"
-    - "The vehicle maker's cold pressure on the placard"
-    - "Whatever makes the warning disappear after driving"
+  - The maximum printed on the tyre sidewall
+  - The vehicle maker's cold pressure on the placard
+  - Whatever makes the warning disappear after driving
   answer: 1
-  explanation: "The placard or owner's manual gives the vehicle maker's recommended cold pressure; the sidewall figure is not the normal setting."
+  explanation: The placard or owner's manual gives the vehicle maker's recommended
+    cold pressure; the sidewall figure is not the normal setting.
 ---
 
 ## BRIEFLY

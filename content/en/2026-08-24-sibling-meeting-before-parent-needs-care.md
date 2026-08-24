@@ -1,14 +1,15 @@
 ---
 slug: sibling-meeting-before-parent-needs-care
-title: "The Sibling Meeting to Have Before a Parent Needs Care"
-dek: "A fair family plan is rarely an equal split; it makes wishes, work, money, distance and backup visible before a crisis."
+title: The Sibling Meeting to Have Before a Parent Needs Care
+dek: A fair family plan is rarely an equal split; it makes wishes, work, money, distance
+  and backup visible before a crisis.
 section: relationships
 type: feature
 depth: open
 lang: en
 date: '2026-08-24'
 status: reserve
-confidence: 94
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,33 +19,35 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "adult siblings and ageing parent planning together at kitchen table"
+image_query: adult siblings and ageing parent planning together at kitchen table
 sources:
-  - name: "US National Institute on Aging — Sharing caregiving responsibilities"
-    url: "https://www.nia.nih.gov/health/caregiving/sharing-caregiving-responsibilities"
-    published: '2023-10-12'
-  - name: "Journals of Gerontology Series B"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6419738/"
-    published: '2019'
-  - name: "Dementia"
-    url: "https://journals.sagepub.com/doi/10.1177/14713012211053970"
-    published: '2022'
-  - name: "Family Caregiver Alliance"
-    url: "https://www.caregiver.org/resource/caregiving-and-sibling-relationships-challenges-and-opportunities/"
-    published: ''
-  - name: "US National Institute on Aging — Advance care planning"
-    url: "https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care"
-    published: '2022-10-31'
+- name: US National Institute on Aging — Sharing caregiving responsibilities
+  url: https://www.nia.nih.gov/health/caregiving/sharing-caregiving-responsibilities
+  published: '2023-10-12'
+- name: Journals of Gerontology Series B
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6419738/
+  published: '2019'
+- name: Dementia
+  url: https://journals.sagepub.com/doi/10.1177/14713012211053970
+  published: '2022'
+- name: Family Caregiver Alliance
+  url: https://www.caregiver.org/resource/caregiving-and-sibling-relationships-challenges-and-opportunities/
+  published: ''
+- name: US National Institute on Aging — Advance care planning
+  url: https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care
+  published: '2022-10-31'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What is the most useful starting point for dividing future family care?"
+  question: What is the most useful starting point for dividing future family care?
   options:
-    - "Give every sibling exactly the same number of hours"
-    - "Begin with the parent's wishes and make different kinds of work visible"
-    - "Let the nearest sibling handle everything until help is requested"
+  - Give every sibling exactly the same number of hours
+  - Begin with the parent's wishes and make different kinds of work visible
+  - Let the nearest sibling handle everything until help is requested
   answer: 1
-  explanation: "A workable plan starts with the parent's participation and maps time, proximity, money, skills, administration and backup rather than assuming equal hours."
+  explanation: A workable plan starts with the parent's participation and maps time,
+    proximity, money, skills, administration and backup rather than assuming equal
+    hours.
 ---
 
 ## BRIEFLY
