@@ -57,19 +57,19 @@
     <https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer>
     > Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club
 
-### 4. Supreme Court allows Trump's ballroom construction to continue for now
-- id události: `bead7cd93cfe`  ·  rubrika: `world`  ·  skóre: 56  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. TikTok to pay $400m to US in one of largest child privacy settlements
+- id události: `f3ee26afe8b1`  ·  rubrika: `tech`  ·  skóre: 55  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **NPR News** — Supreme Court allows Trump's ballroom construction to continue for now
-    <https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now>
-    > The ruling comes after months of back and forth between the Trump administration and the National Trust for Historic Preservation.
-  - **CNBC Top** — Supreme Court allows Trump to continue White House ballroom construction for now
-    <https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html>
-    > President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.
-  - **Al Jazeera** — US Supreme Court allows Trump’s ballroom project to continue for now
-    <https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss>
-    > The Trump administration has argued the $400m White House ballroom is needed for national security purposes.
+  - **BBC Technology** — TikTok to pay $400m to US in one of largest child privacy settlements
+    <https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss>
+    > The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
+  - **DW News** — TikTok agrees to pay $400m to settle US children's privacy case
+    <https://www.dw.com/en/tiktok-agrees-to-pay-400m-to-settle-us-children-s-privacy-case/a-78466204?maca=en-rss-en-all-1573-rdf>
+    > The US Justice Department sued TikTok in 2024 over allegations that it violated children's online privacy laws. The settlement is believed to be one of the largest ever over the issue.
+  - **The Verge** — TikTok will pay $400 million to settle DOJ child privacy lawsuit
+    <https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa>
+    > The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without not
 
 ---
 
