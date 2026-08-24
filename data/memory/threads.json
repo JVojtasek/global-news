@@ -628,27 +628,27 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "atacms",
-    "russian",
-    "wildberries",
-    "ukraine",
-    "europe",
-    "izmail",
+    "masha",
     "overnight",
+    "north",
     "belgorod",
+    "europe",
+    "zelenskyy",
+    "zelensky",
+    "four",
+    "several",
+    "russia",
+    "atacms",
+    "burnham",
+    "wildberries",
+    "russian",
+    "izmail",
     "bear",
     "korean",
-    "burnham",
-    "masha",
-    "several",
-    "kyiv",
-    "back-to-back",
-    "four",
     "holding",
-    "north",
-    "russia",
-    "zelenskyy",
-    "zelensky"
+    "ukraine",
+    "back-to-back",
+    "kyiv"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -672,7 +672,8 @@
     "0053421a02cb",
     "39ea562d9b81",
     "374572a43be2",
-    "6c51db20726b"
+    "6c51db20726b",
+    "eae5ac2e5ace"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-08-24",
@@ -924,6 +925,17 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+     "sources": 2,
+     "score": 47,
+     "event_id": "eae5ac2e5ace",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy"
      ]
     }
    ]
@@ -3153,5 +3165,5 @@
    ]
   }
  ],
- "updated": "2026-08-24T15:27:59+00:00"
+ "updated": "2026-08-24T18:27:16+00:00"
 }

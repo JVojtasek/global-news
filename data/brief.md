@@ -125,13 +125,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 46
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 22  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 23  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 22
-  2026-08-11  (2 zdrojů, síla 42)  Ukraine drone strike on oil refinery deep inside Russia kills at least 13
+rubrika: world · sledováno od 2026-08-11 · záznamů: 23
   2026-08-11  (2 zdrojů, síla 41)  Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
   2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles
   2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine
@@ -151,6 +150,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 22
   2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy
   2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
+  2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
 ```
 
 ---

@@ -21,9 +21,8 @@ Paměť obsahuje **40 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-24** (2 zdrojů) What do locals think of IndyCar in Washington DC?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 13 dní · 22 záznamů
+- rubrika `world` · sledováno 13 dní · 23 záznamů
 - časová osa:
-  - **2026-08-18** (3 zdrojů) Ukraine appeals to FIA to overturn Russia inclusion
   - **2026-08-20** (2 zdrojů) Ukraine: Several killed in fresh Russian strikes on Kyiv
   - **2026-08-20** (4 zdrojů) Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
   - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
@@ -33,6 +32,7 @@ Paměť obsahuje **40 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
   - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
+  - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 10 dní · 15 záznamů
