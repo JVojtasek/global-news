@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "troops",
-    "bluster",
-    "trump",
-    "pentagon",
-    "lebanon",
     "iran's",
-    "united",
-    "us-south",
-    "league",
     "hormuz",
-    "jong",
-    "trump's",
-    "gulf",
-    "taiwan",
-    "east",
-    "iran",
     "south",
-    "tennessee",
-    "russia",
-    "russia's",
-    "washington",
-    "strait",
-    "qatar",
-    "oman",
-    "korea",
+    "pentagon",
     "tehran",
-    "american",
-    "states",
-    "indycar",
-    "turkey",
-    "iranian",
-    "start",
-    "groundhog",
-    "china",
-    "north",
-    "china's",
-    "donald",
-    "champions",
     "justified",
-    "ukraine"
+    "oman",
+    "us-south",
+    "iran",
+    "china",
+    "league",
+    "washington",
+    "lebanon",
+    "jong",
+    "russia's",
+    "champions",
+    "d-day",
+    "trump",
+    "russia",
+    "ukraine",
+    "north",
+    "bluster",
+    "turkey",
+    "start",
+    "taiwan",
+    "iranian",
+    "east",
+    "tennessee",
+    "groundhog",
+    "american",
+    "trump's",
+    "states",
+    "gulf",
+    "united",
+    "strait",
+    "donald",
+    "qatar",
+    "korea",
+    "china's",
+    "indycar"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -90,7 +90,8 @@
     "7092d0f6864b",
     "7b6cc89252d4",
     "0d5f455ce96f",
-    "8edb640d7bec"
+    "8edb640d7bec",
+    "d02361daf1a5"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-24",
@@ -596,6 +597,17 @@
       "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-indycar-race-dc",
       "https://www.theguardian.com/sport/2026/aug/23/kyle-kirkwood-freedom-250-indycar-trump"
      ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+     "sources": 2,
+     "score": 42,
+     "event_id": "d02361daf1a5",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522"
+     ]
     }
    ]
   },
@@ -909,17 +921,19 @@
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
    "entities": [
-    "hong",
-    "fast-fashion",
-    "kong's",
-    "tiananmen",
     "kong",
-    "shein"
+    "tiananmen",
+    "hong",
+    "kong's",
+    "alibaba",
+    "shein",
+    "fast-fashion"
    ],
    "event_ids": [
     "84ce4047c1c5",
     "0df2dafecfc9",
-    "2c91a82a84c2"
+    "2c91a82a84c2",
+    "f33cc723a614"
    ],
    "first_seen": "2026-08-21",
    "last_seen": "2026-08-24",
@@ -957,6 +971,18 @@
      "links": [
       "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
       "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+     "sources": 3,
+     "score": 53,
+     "event_id": "f33cc723a614",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
+      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
      ]
     }
    ]
@@ -3074,5 +3100,5 @@
    ]
   }
  ],
- "updated": "2026-08-24T06:28:15+00:00"
+ "updated": "2026-08-24T09:31:21+00:00"
 }

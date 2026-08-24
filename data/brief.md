@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **4**
+- Článků v zásobě: **5**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -44,24 +44,7 @@
     <https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html>
     > Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple, objective way to identify those most at risk. Researchers at The Hong Kong Polytechnic University (PolyU) have developed a set of commun
 
-### 3. Panama Canal to cut number of ships passing through due to El Niño
-- id události: `142c24046870`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Panama Canal to cut number of ships passing through due to El Niño
-    <https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss>
-    > The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.
-  - **BBC Business** — Panama Canal to cut number of ships passing through due to El Niño
-    <https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss>
-    > The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.
-  - **DW News** — Panama Canal to cap ship transits due to El Nino drought
-    <https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-rdf>
-    > Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event.
-  - **Phys.org** — Panama Canal to reduce shipping over El Niño-fueled drought
-    <https://phys.org/news/2026-08-panama-canal-shipping-el-nio.html>
-    > The Panama Canal will cut the number of ships passing through it starting next month because of drought caused by the El Niño phenomenon, the operator of the strategic waterway linking the Atlantic and Pacific said Thursday.
-
-### 4. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
+### 3. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
 - id události: `4a7b92cbd9ac`  ·  rubrika: `sport`  ·  skóre: 59  ·  nezávislých zdrojů: 2
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -74,6 +57,20 @@
   - **Guardian Sport** — Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi
     <https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer>
     > Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club
+
+### 4. Supreme Court allows Trump's ballroom construction to continue for now
+- id události: `bead7cd93cfe`  ·  rubrika: `world`  ·  skóre: 56  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **NPR News** — Supreme Court allows Trump's ballroom construction to continue for now
+    <https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now>
+    > The ruling comes after months of back and forth between the Trump administration and the National Trust for Historic Preservation.
+  - **CNBC Top** — Supreme Court allows Trump to continue White House ballroom construction for now
+    <https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html>
+    > President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.
+  - **Al Jazeera** — US Supreme Court allows Trump’s ballroom project to continue for now
+    <https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss>
+    > The Trump administration has argued the $400m White House ballroom is needed for national security purposes.
 
 ---
 
@@ -100,13 +97,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 44  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 45  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 44
-  2026-08-17  (2 zdrojů, síla 44)  Troops from North Korea to boost Russia's Ukraine forces
+rubrika: world · sledováno od 2026-08-09 · záznamů: 45
   2026-08-17  (2 zdrojů, síla 44)  Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
   2026-08-17  (2 zdrojů, síla 44)  Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
   2026-08-18  (3 zdrojů, síla 58)  BBC breaks down Trump's latest shift on North and South Korea
@@ -126,6 +122,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 44
   2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
   2026-08-23  (2 zdrojů, síla 42)  Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
   2026-08-24  (1 zdrojů, síla 42)  Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
+  2026-08-24  (2 zdrojů, síla 42)  US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
@@ -166,15 +163,3 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 22
 - Výchozí text: Joshua 2; Joshua 6
 - **depth: `scripture`**
 - Úhel pohledu: Archaeology and daily life in the oldest continuously inhabited city we know of. What did it actually look like, who lived there, what did they eat, who did they worship?
-
-### 2. The seven days at Jericho, step by step
-- id: `jericho-battle`  ·  rubrika: `history`  ·  série: Great Battles of the Bible
-- Výchozí text: Joshua 6
-- **depth: `scripture`**
-- Úhel pohledu: A military campaign with no siege engines. Reconstruct the seven days hour by hour, then honestly compare the text with what excavation can and cannot confirm.
-
-### 3. Rahab: the woman everyone had written off
-- id: `rahab`  ·  rubrika: `history`  ·  série: People of the Bible
-- Výchozí text: Joshua 2; Matthew 1:5; Hebrews 11:31
-- **depth: `scripture`**
-- Úhel pohledu: A foreign woman with a disgraced profession ends up in the family line of Jesus. Follow the thread from Jericho to Matthew 1 without moralising.
