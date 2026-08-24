@@ -929,6 +929,84 @@
    ]
   },
   {
+   "id": "6854b3ddf9a5",
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "section": "world",
+   "entities": [
+    "canadian",
+    "canada",
+    "trump"
+   ],
+   "event_ids": [
+    "6854b3ddf9a5",
+    "000d3ef7dbe1",
+    "fa3d91cb7277",
+    "86cf952c4920",
+    "e1302c549656"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-24",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+     "sources": 5,
+     "score": 73,
+     "event_id": "6854b3ddf9a5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+     "sources": 2,
+     "score": 40,
+     "event_id": "000d3ef7dbe1",
+     "links": [
+      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+     "sources": 2,
+     "score": 41,
+     "event_id": "fa3d91cb7277",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Trump hits out at Canada over retaliatory tariffs",
+     "sources": 2,
+     "score": 42,
+     "event_id": "86cf952c4920",
+     "links": [
+      "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Trump says Canada to face 50% auto, steel tariffs from 2027",
+     "sources": 4,
+     "score": 61,
+     "event_id": "e1302c549656",
+     "links": [
+      "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse"
+     ]
+    }
+   ]
+  },
+  {
    "id": "84ce4047c1c5",
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
@@ -995,6 +1073,34 @@
       "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
       "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
       "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "53b75ea36da9",
+   "title": "Former world snooker champion Dott guilty of child sex abuse",
+   "section": "sport",
+   "entities": [
+    "dott",
+    "former"
+   ],
+   "event_ids": [
+    "53b75ea36da9"
+   ],
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "timeline": [
+    {
+     "date": "2026-08-24",
+     "headline": "Former world snooker champion Dott guilty of child sex abuse",
+     "sources": 3,
+     "score": 55,
+     "event_id": "53b75ea36da9",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children",
+      "https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children"
      ]
     }
    ]
@@ -1548,71 +1654,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6854b3ddf9a5",
-   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-   "section": "world",
-   "entities": [
-    "canada",
-    "trump",
-    "canadian"
-   ],
-   "event_ids": [
-    "6854b3ddf9a5",
-    "000d3ef7dbe1",
-    "fa3d91cb7277",
-    "86cf952c4920"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-23",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-     "sources": 5,
-     "score": 73,
-     "event_id": "6854b3ddf9a5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-     "sources": 2,
-     "score": 40,
-     "event_id": "000d3ef7dbe1",
-     "links": [
-      "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "US and Canada reach ‘very fair’ trade agreement, Trump says",
-     "sources": 2,
-     "score": 41,
-     "event_id": "fa3d91cb7277",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Trump hits out at Canada over retaliatory tariffs",
-     "sources": 2,
-     "score": 42,
-     "event_id": "86cf952c4920",
-     "links": [
-      "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260823-trump-says-canada-wants-benefits-of-being-a-state-as-trade-war-deepens"
      ]
     }
    ]
@@ -3112,5 +3153,5 @@
    ]
   }
  ],
- "updated": "2026-08-24T12:27:18+00:00"
+ "updated": "2026-08-24T15:27:59+00:00"
 }

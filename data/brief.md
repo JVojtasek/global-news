@@ -27,22 +27,21 @@
   - **Investing.com** — U.S. tariffs on Canada take effect after trade talks collapse
     <https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296>
 
-### 2. Hong Kong convicts Tiananmen vigil leaders
-- id události: `0df2dafecfc9`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 2. Trump says Canada to face 50% auto, steel tariffs from 2027
+- id události: `e1302c549656`  ·  rubrika: `world`  ·  skóre: 61  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **DW News** — Hong Kong convicts Tiananmen vigil leaders
-    <https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf>
-    > The two pro-democracy Tiananmen activists were found guilty of inciting subversion. The high-profile case has been widely criticized for highlighting the deterioration of freedom of expression.
-  - **France 24** — Two organisers of Hong Kong's Tiananmen vigils charged for inciting subversion
-    <https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion>
-    > Two former organisers of Hong Kong’s annual vigils in remembrance of the 1989 Tiananmen Square massacre were convicted for "incitement to subversion". Three government-vetted judges ruled that Lee Cheuk-yan and Chow Hang-tung had "incited other persons to organise, plan, commit o
-  - **France 24** — Hong Kong's Tiananmen vigils organisers convicted in national security case
-    <https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case>
-    > Two former organisers of Hong Kong’s annual vigils in remembrance of the 1989 Tiananmen Square crackdown were convicted by government-approved judges Friday for inciting others to overthrow China's communist leadership. Lee Cheuk-yan and Chow Hang-tung, former leaders of the Hong
-  - **Medical Xpress** — Hong Kong's first screening tool to detect social frailty in seniors
-    <https://medicalxpress.com/news/2026-08-hong-kong-screening-tool-social.html>
-    > Loneliness and social isolation are widely recognized as harmful to older adults' health, yet frontline care workers have long lacked a simple, objective way to identify those most at risk. Researchers at The Hong Kong Polytechnic University (PolyU) have developed a set of commun
+  - **DW News** — Trump says Canada to face 50% auto, steel tariffs from 2027
+    <https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf>
+    > The latest threat comes after the neighbors failed to reach a deal to avert a 50% US levy on a range of other Canadian goods. Ottawa says it plans to impose retaliatory tariffs.
+  - **CNBC Top** — Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates
+    <https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html>
+    > President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027
+  - **France 24** — ‘We don’t need Canada’: Trump threatens to double auto tariffs after trade talks collapse
+    <https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse>
+    > US tariffs ​on all Canadian cars and trucks, automotive parts and steel will be increased to 50% starting January 1, 2027, President Donald Trump said ​in a social ‌post on Monday. Doubling down on his threats, Trump said the US does not “need” Canada after trade talks between th
+  - **Investing.com** — Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
+    <https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756>
 
 ### 3. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
 - id události: `4a7b92cbd9ac`  ·  rubrika: `sport`  ·  skóre: 59  ·  nezávislých zdrojů: 2
