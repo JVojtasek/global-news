@@ -556,6 +556,46 @@
   ]
  },
  {
+  "id": "37d6d89925ef",
+  "headline": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
+  "section": "world",
+  "score": 52,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T10:54:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Dutch broadcaster Avrotros pulls out of  2027 Eurovision Song Contest",
+    "url": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
+    "published_at": "2026-08-24T10:54:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Dutch pull out of 'no longer neutral' Eurovision",
+    "url": "https://www.dw.com/en/dutch-pull-out-of-no-longer-neutral-eurovision/a-78482430?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The Netherlands will not participate in the 2027 Eurovision Song Contest in Bulgaria, the state broadcaster has said, citing divisions over the situation in Gaza. It's the second time the country is boycotting the event.",
+    "published_at": "2026-08-24T08:43:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision",
+    "url": "https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "AVROTROS says escalating international conflicts are undermining the event's neutrality and fuelling divisions.",
+    "published_at": "2026-08-24T10:42:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "24f1a783acac",
   "headline": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
   "section": "world",
@@ -650,6 +690,46 @@
     "published_at": "2026-08-23T12:19:12+00:00",
     "source_countries": [],
     "seen_at": "2026-08-23T15:25:02+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b4290bb9d1bd",
+  "headline": "UK minister urges social media firms to remove dangerous driving videos",
+  "section": "world",
+  "score": 51,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T11:46:21+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "UK minister urges social media firms to remove dangerous driving videos",
+    "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
+    "published_at": "2026-08-24T11:46:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Minister tells social media firms to remove posts that ‘celebrate’ dangerous driving after A66 crash",
+    "url": "https://www.theguardian.com/media/2026/aug/24/minister-tells-social-media-firms-to-remove-posts-that-celebrate-dangerous-driving-after-a66-crash",
+    "source": "The Guardian World",
+    "summary": "Luke Pollard says government will force platforms to remove content, after latest deadly crash involving a car driving in wrong direction A minister has pressed social media companies to remove content from their platforms showcasing dangerous driving after a fatal collision that killed seven people in Middlesbrough. The crash in the early hours of Saturday, in which PC Matthew Blades and PC Tom C",
+    "published_at": "2026-08-24T10:50:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Minister tells social media firms to remove posts that ‘celebrate’ dangerous driving after A66 crash",
+    "url": "https://www.theguardian.com/media/2026/aug/24/minister-tells-social-media-firms-to-remove-posts-that-celebrate-dangerous-driving-after-a66-crash",
+    "source": "Guardian Business",
+    "summary": "Luke Pollard says government will force platforms to remove content, after latest deadly crash involving a car driving in wrong direction A minister has pressed social media companies to remove content from their platforms showcasing dangerous driving after a fatal collision that killed seven people in Middlesbrough. The crash in the early hours of Saturday, in which PC Matthew Blades and PC Tom C",
+    "published_at": "2026-08-24T10:50:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
    }
   ]
  },
@@ -1448,6 +1528,37 @@
   ]
  },
  {
+  "id": "08f456205e68",
+  "headline": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+  "section": "safety",
+  "score": 46,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T11:56:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+    "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+    "source": "The Hacker News",
+    "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+    "published_at": "2026-08-24T11:56:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+    "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+    "source": "The Hacker News",
+    "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
+    "published_at": "2026-08-20T13:35:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "8e855f427aa3",
   "headline": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
   "section": "world",
@@ -1838,6 +1949,37 @@
   ]
  },
  {
+  "id": "ac57718967a8",
+  "headline": "What do locals think of IndyCar in Washington DC?",
+  "section": "world",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T04:51:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "What do locals think of IndyCar in Washington DC?",
+    "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
+    "published_at": "2026-08-24T04:51:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
+    "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+    "source": "NPR News",
+    "summary": "IndyCar drivers zoomed past some of the nation's most famous landmarks this weekend. They faced novel challenges on an unconventional route.",
+    "published_at": "2026-08-24T09:36:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "251989e37557",
   "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
   "section": "sport",
@@ -1998,6 +2140,28 @@
     "published_at": "2026-08-23T15:28:13+00:00",
     "source_countries": [],
     "seen_at": "2026-08-23T18:25:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "49a65a2aeee5",
+  "headline": "Stunning Antiquities and Frida Kahlo’s Home Are Just Some of the Offerings That Have Bolstered Mexico City’s Fantastic Array of Museums",
+  "section": "culture",
+  "score": 43,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T11:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Stunning Antiquities and Frida Kahlo’s Home Are Just Some of the Offerings That Have Bolstered Mexico City’s Fantastic Array of Museums",
+    "url": "https://www.smithsonianmag.com/travel/frida-kahlo-home-stunning-antiquities-just-some-offerings-bolstered-mexico-citys-fantastic-museums-180989293/",
+    "source": "Smithsonian Mag",
+    "summary": "The ancient capital has plenty of artwork and fossils, if that’s what you like. Or tour the writing rooms of a Nobel winner, the fortified home of an exiled Russian revolutionary and towers of skulls",
+    "published_at": "2026-08-24T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
    }
   ]
  },
@@ -2569,6 +2733,37 @@
   ]
  },
  {
+  "id": "c15f24fceb27",
+  "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T09:47:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+    "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+    "published_at": "2026-08-24T09:47:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+    "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+    "published_at": "2026-08-24T09:47:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "efeab1258760",
   "headline": "Priyanka Chopra Jonas on making a film about love and caste inequality",
   "section": "culture",
@@ -2755,6 +2950,59 @@
     "published_at": "2026-08-24T03:27:11+00:00",
     "source_countries": [],
     "seen_at": "2026-08-24T03:35:24+00:00"
+   }
+  ]
+ },
+ {
+  "id": "cdeb4f595e97",
+  "headline": "Thames Water creditors accused of ‘shuffling deckchairs’ with plan for new board",
+  "section": "world",
+  "score": 41,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T10:38:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Thames Water creditors accused of ‘shuffling deckchairs’ with plan for new board",
+    "url": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
+    "source": "The Guardian World",
+    "summary": "Campaigners say proposal for £10bn rescue deal in bid to avoid nationalisation is a ‘cosy stitch-up’ Business live – latest updates The group of creditors pursuing a rescue bid for Thames Water have been accused of shuffling the deckchairs on the Titanic after proposing an overhaul of the stricken utility’s board. In a bid to stave off temporary nationalisation by Andy Burnham, the lenders said th",
+    "published_at": "2026-08-24T10:38:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Thames Water creditors accused of ‘shuffling deckchairs’ with plan for new board",
+    "url": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
+    "source": "Guardian Business",
+    "summary": "Campaigners say proposal for £10bn rescue deal in bid to avoid nationalisation is a ‘cosy stitch-up’ Business live – latest updates The group of creditors pursuing a rescue bid for Thames Water have been accused of shuffling the deckchairs on the Titanic after proposing an overhaul of the stricken utility’s board. In a bid to stave off temporary nationalisation by Andy Burnham, the lenders said th",
+    "published_at": "2026-08-24T10:38:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fbd6b78f9377",
+  "headline": "This 18th-Century British Queen Turned King Arthur Into a P.R. Strategy, Drawing on Myth to Promote Her Dynasty's Claim to the Throne",
+  "section": "culture",
+  "score": 41,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T11:45:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "This 18th-Century British Queen Turned King Arthur Into a P.R. Strategy, Drawing on Myth to Promote Her Dynasty's Claim to the Throne",
+    "url": "https://www.smithsonianmag.com/history/this-18th-century-british-queen-turned-king-arthur-into-a-pr-strategy-drawing-on-myth-to-promote-her-dynastys-claim-to-the-throne-180989367/",
+    "source": "Smithsonian Mag",
+    "summary": "In 1735, Caroline of Brandenburg-Ansbach commissioned a cottage called Merlin's Cave, which linked the German House of Hanover to both Britain’s ancient heritage and its future success",
+    "published_at": "2026-08-24T11:45:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
    }
   ]
  },
@@ -3246,6 +3494,68 @@
   ]
  },
  {
+  "id": "6655729cdf12",
+  "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T10:39:23+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+    "published_at": "2026-08-24T10:39:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+    "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+    "published_at": "2026-08-24T10:39:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "97b17091f0d0",
+  "headline": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T11:53:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+    "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+    "source": "The Guardian World",
+    "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”. In advance of the U",
+    "published_at": "2026-08-24T11:53:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "US to unveil new Iran sanctions, says war entering 'endgame'",
+    "url": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "In what Donald Trump has called \"economic D-Day,\" the US says the new economic sanctions will be \"the single greatest financial offensive ever marshaled.\" Tehran says any support of the measures is an \"act of war.\"",
+    "published_at": "2026-08-24T11:35:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "45c9862556c8",
   "headline": "Jamie and Jools Oliver pay themselves £1.7m dividend as profits almost halve",
   "section": "business",
@@ -3587,6 +3897,37 @@
     "published_at": "2026-08-24T06:55:06+00:00",
     "source_countries": [],
     "seen_at": "2026-08-24T09:31:18+00:00"
+   }
+  ]
+ },
+ {
+  "id": "167ff1849df6",
+  "headline": "France and Saudi Arabia hold talks ranging from Middle East to esports",
+  "section": "world",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T10:03:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "France and Saudi Arabia hold talks ranging from Middle East to esports",
+    "url": "https://www.france24.com/en/france-and-saudi-arabia-hold-talks-ranging-from-middle-east-to-esports",
+    "source": "France 24",
+    "summary": "Mohammed bin Salman has arrived in Paris for a two-day official visit with French President Emmanuel Macron. Talks are expected to include the war in Iran and the Strait of Hormuz, as well as new energy routes to bypass the Strait. The two made an appearance at the closing ceremony of the Esports World Cup, held for the first time outside of Saudi Arabia but largely funded by Riyadh.",
+    "published_at": "2026-08-24T10:03:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   },
+   {
+    "title": "Strategic talks in Paris show France and Saudi Arabia 'need each other too much'",
+    "url": "https://www.france24.com/en/strategic-talks-in-paris-show-france-and-saudi-arabia-need-each-other-too-much",
+    "source": "France 24",
+    "summary": "The Saudi crown prince and French President Emmanuel Macron are to chair on August 24 the first meeting of the Saudi-French strategic partnership council, and a number of agreements arer expected to be signed. Among them are a new Dragon-Ball themed amusement park deal in the Paris region and the sale of French military equipment to the kingdom. FRANCE 24's Philip Turle tells us more on what to kn",
+    "published_at": "2026-08-24T09:27:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
    }
   ]
  },
@@ -5460,6 +5801,28 @@
   ]
  },
  {
+  "id": "dd3abd4dcc34",
+  "headline": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T10:11:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
+    "url": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
+    "source": "The Guardian World",
+    "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almost two months since the country announced an epidemic. A national outbreak was declared on 4 July, just over a week after a 27-year-old woman became the first ",
+    "published_at": "2026-08-24T10:11:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "592ff884b9bf",
   "headline": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
   "section": "safety",
@@ -7191,6 +7554,50 @@
   ]
  },
  {
+  "id": "3a7e4db0591f",
+  "headline": "Four arrested over suspected poisoning of elephants in Kenya",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-24T11:08:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Four arrested over suspected poisoning of elephants in Kenya",
+    "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+    "published_at": "2026-08-24T11:08:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "889dbed7dbbb",
+  "headline": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
+  "section": "culture",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-24T12:27:17+00:00",
+  "event_time": "2026-08-21T06:00:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Life of M by Rachel Cusk review – is this story of a film star based on Natalie Portman?",
+    "url": "https://www.theguardian.com/books/2026/aug/21/life-of-m-by-rachel-cusk-review-is-this-story-of-a-film-star-based-on-natalie-portman",
+    "source": "Guardian Culture",
+    "summary": "A teasing tale of the friendship between a writer and an actor explores the fallout from fame, and the blurring between pretence and reality M is a celebrated film actor. A star since childhood, now the face of a major fashion brand, she has been famous all her life. That her career closely resembles Natalie Portman’s has been gleefully seized upon by the press, something Rachel Cusk must surely h",
+    "published_at": "2026-08-21T06:00:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-24T12:27:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "1ca6cd8b7314",
   "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
   "section": "world",
@@ -7962,323 +8369,6 @@
     "published_at": "2026-08-20T22:18:56+00:00",
     "source_countries": [],
     "seen_at": "2026-08-23T09:25:53+00:00"
-   }
-  ]
- },
- {
-  "id": "82a2676821c5",
-  "headline": "Manuscript fragments hiding in plain sight shed light on medieval Guernsey’s literary life",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T12:26:27+00:00",
-  "event_time": "2026-08-23T11:00:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Manuscript fragments hiding in plain sight shed light on medieval Guernsey’s literary life",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey",
-    "source": "The Guardian World",
-    "summary": "Researchers say texts from 12th to 15th centuries ‘hint at a culture which has not even been imagined’ Unprecedented insights into the literary and intellectual life on the island of Guernsey during the middle ages have been revealed through the discovery of 17 medieval manuscript fragments. Dating from between the 12th and 15th centuries, they offer evidence of wide-ranging reading tastes, with e",
-    "published_at": "2026-08-23T11:00:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T12:26:24+00:00"
-   }
-  ]
- },
- {
-  "id": "9b94841f34eb",
-  "headline": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T12:26:27+00:00",
-  "event_time": "2026-08-23T10:00:30+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
-    "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
-    "source": "Guardian Business",
-    "summary": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity to work in the middle of the ocean. “I had no views other than the darkness at work,” he said. “Then I went polar opposite.” Continue reading...",
-    "published_at": "2026-08-23T10:00:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T12:26:24+00:00"
-   }
-  ]
- },
- {
-  "id": "313e96fead9d",
-  "headline": "Investors in Situational Awareness deserved to lose their shirts",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T12:26:27+00:00",
-  "event_time": "2026-08-04T17:11:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Investors in Situational Awareness deserved to lose their shirts",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
-    "source": "Economist Finance",
-    "summary": "The plight of the hedge fund says more about them than about its 24-year-old founder",
-    "published_at": "2026-08-04T17:11:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T12:26:24+00:00"
-   }
-  ]
- },
- {
-  "id": "13980f13c03e",
-  "headline": "Rooney says Man Utd must become feared - but what went wrong at Hull?",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-23T12:26:27+00:00",
-  "event_time": "2026-08-23T11:43:19+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Rooney says Man Utd must become feared - but what went wrong at Hull?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvgxg1g8nkro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Manchester United made an awful start to their Premier League campaign at newly-promoted Hull. What went wrong?",
-    "published_at": "2026-08-23T11:43:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T12:26:24+00:00"
-   }
-  ]
- },
- {
-  "id": "3d38ad745d2b",
-  "headline": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T15:25:05+00:00",
-  "event_time": "2026-08-23T15:00:36+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
-    "url": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
-    "source": "The Guardian World",
-    "summary": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Get our breaking news email , free app or daily news podcast Halloween’s Michael Myers is one of film’s most feared boogeymen, responsible for some of the most brutal on-screen deaths in horror cinema. US video game developer",
-    "published_at": "2026-08-23T15:00:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T15:25:02+00:00"
-   }
-  ]
- },
- {
-  "id": "a3043fc96e77",
-  "headline": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T15:25:05+00:00",
-  "event_time": "2026-08-23T15:00:35+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
-    "source": "The Guardian World",
-    "summary": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Get our breaking news email , free app or daily news podcast First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market. New entrants are now the only cohort applying for more ",
-    "published_at": "2026-08-23T15:00:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T15:25:02+00:00"
-   }
-  ]
- },
- {
-  "id": "a3ba3e622ed6",
-  "headline": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-23T21:24:50+00:00",
-  "event_time": "2026-08-23T18:27:46+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.",
-    "published_at": "2026-08-23T18:27:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T21:24:47+00:00"
-   }
-  ]
- },
- {
-  "id": "09811bda9e4b",
-  "headline": "Maresca's Manchester City reign begins with dramatic comeback against Bournemouth",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T21:24:50+00:00",
-  "event_time": "2026-08-23T19:03:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Maresca's Manchester City reign begins with dramatic comeback against Bournemouth",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cpd7dp7zeqzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
-    "published_at": "2026-08-23T19:03:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T21:24:47+00:00"
-   }
-  ]
- },
- {
-  "id": "9cf7bfe27592",
-  "headline": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T21:24:50+00:00",
-  "event_time": "2026-08-23T15:07:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
-    "url": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
-    "source": "Guardian Sport",
-    "summary": "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a victory over Manchester United on Saturday. It was a disastrous start to the campaign for the visitors. While Michael Carrick said before the game it would not b",
-    "published_at": "2026-08-23T15:07:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T21:24:47+00:00"
-   }
-  ]
- },
- {
-  "id": "7be125b55e04",
-  "headline": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
-  "section": "ai",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T21:24:50+00:00",
-  "event_time": "2026-06-19T10:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
-    "url": "https://spectrum.ieee.org/amazon-astro-robot-sound",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot . Astro used cameras and other sensors to map and navigate your home and workplace , and could proactively patrol, check up on loved ones, and transport small items using its built-in cargo bin. While there was a well-defined feature set and form factor, initially there was no character direction. ",
-    "published_at": "2026-06-19T10:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T21:24:47+00:00"
-   }
-  ]
- },
- {
-  "id": "5da4278949fb",
-  "headline": "'I didn't speak the Queen's English': Why people worry about their accents",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-24T00:28:15+00:00",
-  "event_time": "2026-08-23T23:25:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-    "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
-    "published_at": "2026-08-23T23:25:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-24T00:28:12+00:00"
-   }
-  ]
- },
- {
-  "id": "cb5ad9714c37",
-  "headline": "'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-24T00:28:15+00:00",
-  "event_time": "2026-08-23T22:39:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal.",
-    "published_at": "2026-08-23T22:39:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-24T00:28:12+00:00"
-   }
-  ]
- },
- {
-  "id": "cc8f328a2f2e",
-  "headline": "Arthur Fils wins first Masters title after beating Frances Tiafoe in Cincinnati final",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-24T00:28:15+00:00",
-  "event_time": "2026-08-23T22:59:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Arthur Fils wins first Masters title after beating Frances Tiafoe in Cincinnati final",
-    "url": "https://www.theguardian.com/sport/2026/aug/23/arthur-fils-masters-frances-tiafoe-cincinnati-tennis",
-    "source": "Guardian Sport",
-    "summary": "22-year-old wins 6-3, 1-6, 6-0 Fils now ranked No 11 in world Arthur Fils has always believed he was on the path to the very top of his chosen sport. Even when others considered him too young, too green or far too self-confident, he has entered the biggest tournaments in the world with the intention of winning them, ambitions he did not hesitate to express. On a historic afternoon in Mason, Ohio, ",
-    "published_at": "2026-08-23T22:59:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-24T00:28:12+00:00"
-   }
-  ]
- },
- {
-  "id": "9991baf0073b",
-  "headline": "Earnings call transcript: Mitchell Services posts FY2026 profit surge, shares rise",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-24T03:35:30+00:00",
-  "event_time": "2026-08-24T03:01:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Earnings call transcript: Mitchell Services posts FY2026 profit surge, shares rise",
-    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-mitchell-services-posts-fy2026-profit-surge-shares-rise-93CH-4872588",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-24T03:01:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-24T03:35:24+00:00"
-   },
-   {
-    "title": "Earnings call transcript: EVT lifts FY2026 profit, shares jump on growth outlook",
-    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-evt-lifts-fy2026-profit-shares-jump-on-growth-outlook-93CH-4872583",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-24T02:33:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-24T03:35:24+00:00"
    }
   ]
  }

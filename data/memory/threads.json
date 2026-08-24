@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "iran's",
-    "hormuz",
-    "south",
-    "pentagon",
-    "tehran",
-    "justified",
     "oman",
-    "us-south",
-    "iran",
-    "china",
-    "league",
-    "washington",
+    "donald",
+    "ukraine",
+    "pentagon",
+    "united",
     "lebanon",
     "jong",
-    "russia's",
+    "china",
+    "korea",
+    "south",
+    "justified",
+    "us-south",
     "champions",
-    "d-day",
-    "trump",
-    "russia",
-    "ukraine",
-    "north",
-    "bluster",
-    "turkey",
-    "start",
-    "taiwan",
-    "iranian",
-    "east",
-    "tennessee",
-    "groundhog",
     "american",
+    "turkey",
+    "hormuz",
+    "start",
     "trump's",
+    "groundhog",
+    "taiwan",
+    "russia's",
+    "washington",
+    "iranian",
     "states",
     "gulf",
-    "united",
-    "strait",
-    "donald",
-    "qatar",
-    "korea",
+    "tehran",
+    "league",
+    "trump",
+    "russia",
     "china's",
-    "indycar"
+    "bluster",
+    "east",
+    "iran",
+    "tennessee",
+    "indycar",
+    "d-day",
+    "iran's",
+    "qatar",
+    "strait",
+    "north"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -91,7 +91,8 @@
     "7b6cc89252d4",
     "0d5f455ce96f",
     "8edb640d7bec",
-    "d02361daf1a5"
+    "d02361daf1a5",
+    "ac57718967a8"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-24",
@@ -607,6 +608,17 @@
      "links": [
       "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
       "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "What do locals think of IndyCar in Washington DC?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ac57718967a8",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall"
      ]
     }
    ]
@@ -3100,5 +3112,5 @@
    ]
   }
  ],
- "updated": "2026-08-24T09:31:21+00:00"
+ "updated": "2026-08-24T12:27:18+00:00"
 }
