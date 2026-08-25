@@ -9,7 +9,39 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Dolly Parton, one of country music's most singular performers, has died at age 80
+### 1. Remembering Dolly Parton: 8 facts about the icon
+- id události: `510624bdc84f`  ·  rubrika: `culture`  ·  skóre: 79  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Remembering Dolly Parton: 8 facts about the icon
+    <https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf>
+    > Dolly Parton was one of the world's most successful artists. On Tuesday, her family announced that she passed away at 80. Here are some important and extraordinary facts about the country music superstar.
+  - **BBC Entertainment** — Dolly Parton: A life in pictures
+    <https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss>
+    > The singer rose from humble beginnings to become one of the most beloved entertainers in the world.
+  - **BBC Entertainment** — Dolly Parton: The life of an iconic country singer
+    <https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss>
+    > Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
+  - **Guardian Culture** — Dolly Parton – a life in pictures
+    <https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures>
+    > The country music star, actor and philanthropist’s long and varied career spanned decades Dolly Parton, country star, actor and philanthropist, dies aged 80 Country music legend Dolly Parton dies aged 80 – latest updates Dolly Parton’s family say goodbye to their aunt, sister, gr
+  - **Guardian Culture** — Dolly Parton, country star, actor and philanthropist, dies aged 80
+    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
+    > Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes Alexis Petridis on Dolly Parton’s peerless career which turned country music cliches inside out Dolly Parton – a life in pictures Countr
+  - **Al Jazeera** — Dolly Parton, beloved US country music icon, dies at 80
+    <https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss>
+    > Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.
+  - **Al Jazeera** — Video: US country music legend Dolly Parton dies
+    <https://www.aljazeera.com/video/newsfeed/2026/8/25/video-us-country-music-legend-dolly-parton-dies?traffic_source=rss>
+    > US country music star Dolly Parton has died aged 80, her family have announced in a video on social media.
+  - **France 24** — Beloved US country music icon Dolly Parton dies at 80
+    <https://www.france24.com/en/americas/20260825-us-country-music-legend-dolly-parton-dies-at>
+    > US singer-songwriter, actress, businesswoman and philanthropist Dolly Parton died on Tuesday at the age of 80, her family said in a statement. The prolific songwriter released 49 studio albums, more than 100 compilation and collorabative albums, won 10 Grammys and 13 Academy of C
+  - **Hacker News Best** — Dolly Parton has died
+    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
+    > https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 P
+
+### 2. Dolly Parton, one of country music's most singular performers, has died at age 80
 - id události: `1301430cb05f`  ·  rubrika: `culture`  ·  skóre: 71  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -29,7 +61,7 @@
     <https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html>
     > With songs such as "Coat of Many Colors," "Jolene" and "I Will Always Love You," she was one of the best-selling female artists of all time.
 
-### 2. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
+### 3. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
 - id události: `0430628ddb98`  ·  rubrika: `tech`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -52,7 +84,7 @@
     <https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/>
     > Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 327 # Comments: 279
 
-### 3. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
+### 4. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
 - id události: `94a6ef56b551`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -74,23 +106,6 @@
   - **France 24** — Replay: Canada announces countermeasures to new US tariffs
     <https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs>
     > Rewatch as Canadian ministers lay out a series of countermeasures as its trade war with the US deepens after the Trump administration imposed new tariffs on Canadian goods.
-
-### 4. What does your Premier League club still need in the transfer window?
-- id události: `6302b95a195e`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — What does your Premier League club still need in the transfer window?
-    <https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss>
-    > BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days.
-  - **BBC Sport** — Ranking the best managers in Premier League history
-    <https://www.bbc.co.uk/sport/football/articles/cr59zj42plvo?at_medium=RSS&at_campaign=rss>
-    > Thirteen managers have won the Premier League title, but which of them will make it into our top 10 covering the competition's history?
-  - **France 24** — Premier League: Chelsea defeat Fulham in Xabi Alonso's first game as manager
-    <https://www.france24.com/en/tv-shows/sports/20260825-premier-league-chelsea-defeat-fulham-in-xabi-alonso-s-first-game-as-manager>
-    > In Xabi Alonso’s first match as manager, Chelsea beat Fulham 3–2 in the Premier League.
-  - **Al Jazeera** — Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
-    <https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss>
-    > Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
 
 ---
 
