@@ -6,65 +6,6 @@
  "reserve_articles": 5,
  "news_assignments": [
   {
-   "id": "1ba93b103296",
-   "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-   "section": "business",
-   "score": 68,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-08-22T06:26:56+00:00",
-   "event_time": "2026-08-22T04:46:33+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-     "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-     "published_at": "2026-08-22T04:46:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T06:26:53+00:00"
-    },
-    {
-     "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
-     "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-     "source": "The Guardian World",
-     "summary": "Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs “dollar for dollar”, after the two sides failed to agree a trade deal by the deadline of midnight on Friday. Canadian officials had worked hard in good faith but “last-minute changes ",
-     "published_at": "2026-08-22T06:05:58+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T06:26:53+00:00"
-    },
-    {
-     "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
-     "url": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
-     "source": "CNBC Top",
-     "summary": "The United States and Canada failed to reach a trade deal late on Friday, and the U.S. said it would impose 50% tariffs on some imports from Canada.",
-     "published_at": "2026-08-22T06:20:46+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T06:26:53+00:00"
-    },
-    {
-     "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
-     "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-08-22T05:30:25+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T06:26:53+00:00"
-    },
-    {
-     "title": "U.S. tariffs on Canada take effect after trade talks collapse",
-     "url": "https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-08-22T04:15:29+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T06:26:53+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "e1302c549656",
    "headline": "Trump says Canada to face 50% auto, steel tariffs from 2027",
    "section": "world",
@@ -195,6 +136,47 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "32150869e65b",
+   "headline": "Infantino asked to stay away from youth tournament",
+   "section": "world",
+   "score": 55,
+   "sources_count": 3,
+   "depth_signal": 0,
+   "created": "2026-08-22T15:24:58+00:00",
+   "event_time": "2026-08-22T14:29:55+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Infantino asked to stay away from youth tournament",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
+     "published_at": "2026-08-22T14:29:55+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-22T15:24:54+00:00"
+    },
+    {
+     "title": "Infantino defies FIFA vice president's request to stay away from Caribbean youth tournament",
+     "url": "https://www.france24.com/en/sport/20260822-infantino-defies-fifa-vice-president-s-request-to-stay-away-from-caribbean-youth-tournament",
+     "source": "France 24",
+     "summary": "FIFA president Gianni Infantino made a rare public appearance in the Caribbean despite a request from vice president Victor Montagliani to abstain as pressure mounts over his failed plan to sell future World Cup profits to private investors.",
+     "published_at": "2026-08-22T15:07:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-22T15:24:54+00:00"
+    },
+    {
+     "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
+     "url": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.",
+     "published_at": "2026-08-22T12:37:26+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-22T15:24:54+00:00"
+    }
+   ],
+   "depth": "scripture"
   }
  ],
  "feature_assignments": [

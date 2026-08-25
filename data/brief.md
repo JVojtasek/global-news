@@ -9,25 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
-- id události: `1ba93b103296`  ·  rubrika: `business`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
-    <https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss>
-    > A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.
-  - **The Guardian World** — Canada vows to match Trump’s 50% tariffs after trade deal talks fail
-    <https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail>
-    > Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talks Canadian prime minister Mark Carney has promised to match US tariffs “dollar for dollar”, after the two sides failed to agree a trad
-  - **CNBC Top** — U.S., Canada fail to reach a tariff deal, deepen trade war
-    <https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html>
-    > The United States and Canada failed to reach a trade deal late on Friday, and the U.S. said it would impose 50% tariffs on some imports from Canada.
-  - **Investing.com** — US hits Canadian goods with 50% tariffs after trade talks fail
-    <https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745>
-  - **Investing.com** — U.S. tariffs on Canada take effect after trade talks collapse
-    <https://www.investing.com/news/economy-news/us-tariffs-on-canada-take-effect-after-trade-talks-collapse-4872296>
-
-### 2. Trump says Canada to face 50% auto, steel tariffs from 2027
+### 1. Trump says Canada to face 50% auto, steel tariffs from 2027
 - id události: `e1302c549656`  ·  rubrika: `world`  ·  skóre: 61  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -43,7 +25,7 @@
   - **Investing.com** — Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
     <https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756>
 
-### 3. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
+### 2. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
 - id události: `4a7b92cbd9ac`  ·  rubrika: `sport`  ·  skóre: 59  ·  nezávislých zdrojů: 2
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -57,7 +39,7 @@
     <https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer>
     > Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club
 
-### 4. 'To have a good team, we need a great Cole' - Alonso on Palmer
+### 3. 'To have a good team, we need a great Cole' - Alonso on Palmer
 - id události: `7411478fd6a3`  ·  rubrika: `sport`  ·  skóre: 56  ·  nezávislých zdrojů: 2
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -70,6 +52,20 @@
   - **Guardian Sport** — Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson
     <https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham>
     > The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed in After a weekend on which pretty much every potential challenger to Arsenal had demonstrated their flaws , there was a sense, perhaps eve
+
+### 4. Infantino asked to stay away from youth tournament
+- id události: `32150869e65b`  ·  rubrika: `world`  ·  skóre: 55  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC Sport** — Infantino asked to stay away from youth tournament
+    <https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss>
+    > Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.
+  - **France 24** — Infantino defies FIFA vice president's request to stay away from Caribbean youth tournament
+    <https://www.france24.com/en/sport/20260822-infantino-defies-fifa-vice-president-s-request-to-stay-away-from-caribbean-youth-tournament>
+    > FIFA president Gianni Infantino made a rare public appearance in the Caribbean despite a request from vice president Victor Montagliani to abstain as pressure mounts over his failed plan to sell future World Cup profits to private investors.
+  - **Al Jazeera** — CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
+    <https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss>
+    > The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
 
 ---
 
