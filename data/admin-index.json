@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T06:44:23+00:00",
+ "generated": "2026-08-25T08:43:41+00:00",
  "articles": [
   {
    "lang": "en",
@@ -15,6 +15,23 @@
    "path": "content/en/2026-08-25-why-abs-crash-data-looked-disappointing.md",
    "access": "public",
    "url": "/en/motoring/why-abs-crash-data-looked-disappointing/",
+   "review": {},
+   "problems": []
+  },
+  {
+   "lang": "en",
+   "slug": "two-homes-one-relationship",
+   "title": "Two Homes, One Relationship",
+   "dek": "Living apart together can protect autonomy in later life, but affection alone does not answer questions about care, money, family authority or emergencies.",
+   "date": "2026-08-25",
+   "status": "review",
+   "section": "relationships",
+   "type": "analysis",
+   "depth": "open",
+   "confidence": 89,
+   "path": "content/en/2026-08-25-two-homes-one-relationship.md",
+   "access": "public",
+   "url": "",
    "review": {},
    "problems": []
   },
@@ -49,6 +66,40 @@
    "path": "content/en/2026-08-25-running-shoe-comfort-test.md",
    "access": "public",
    "url": "/en/sport/running-shoe-comfort-test/",
+   "review": {},
+   "problems": []
+  },
+  {
+   "lang": "en",
+   "slug": "a-purr-is-not-a-mood-ring",
+   "title": "A Purr Is Not a Mood Ring",
+   "dek": "New biomechanics has changed the leading explanation for how cats make that low rumble, but the sound still cannot translate a cat’s feelings on its own.",
+   "date": "2026-08-25",
+   "status": "reserve",
+   "section": "science",
+   "type": "feature",
+   "depth": "open",
+   "confidence": 89,
+   "path": "content/en/2026-08-25-a-purr-is-not-a-mood-ring.md",
+   "access": "public",
+   "url": "",
+   "review": {},
+   "problems": []
+  },
+  {
+   "lang": "en",
+   "slug": "a-password-manager-is-not-the-whole-risk",
+   "title": "A Password Manager Is a Single Point of Failure—That Is Not the Whole Risk",
+   "dek": "A vault concentrates secrets, but the honest comparison is with reused passwords, lost recovery codes and ordinary human memory—not with perfect security.",
+   "date": "2026-08-25",
+   "status": "published",
+   "section": "tech",
+   "type": "analysis",
+   "depth": "open",
+   "confidence": 89,
+   "path": "content/en/2026-08-25-a-password-manager-is-not-the-whole-risk.md",
+   "access": "public",
+   "url": "/en/tech/a-password-manager-is-not-the-whole-risk/",
    "review": {},
    "problems": []
   },
