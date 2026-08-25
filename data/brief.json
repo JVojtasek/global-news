@@ -3,8 +3,58 @@
  "mode": "normal",
  "days_since_human": 0,
  "confidence_threshold": 82,
- "reserve_articles": 5,
+ "reserve_articles": 6,
  "news_assignments": [
+  {
+   "id": "6302b95a195e",
+   "headline": "What does your Premier League club still need in the transfer window?",
+   "section": "sport",
+   "score": 62,
+   "sources_count": 3,
+   "depth_signal": 0,
+   "created": "2026-08-25T09:27:14+00:00",
+   "event_time": "2026-08-25T08:40:20+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "What does your Premier League club still need in the transfer window?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days.",
+     "published_at": "2026-08-25T08:40:20+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T09:27:12+00:00"
+    },
+    {
+     "title": "Ranking the best managers in Premier League history",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cr59zj42plvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Thirteen managers have won the Premier League title, but which of them will make it into our top 10 covering the competition's history?",
+     "published_at": "2026-08-25T07:42:03+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T09:27:12+00:00"
+    },
+    {
+     "title": "Premier League: Chelsea defeat Fulham in Xabi Alonso's first game as manager",
+     "url": "https://www.france24.com/en/tv-shows/sports/20260825-premier-league-chelsea-defeat-fulham-in-xabi-alonso-s-first-game-as-manager",
+     "source": "France 24",
+     "summary": "In Xabi Alonso’s first match as manager, Chelsea beat Fulham 3–2 in the Premier League.",
+     "published_at": "2026-08-25T07:31:47+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T09:27:12+00:00"
+    },
+    {
+     "title": "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
+     "url": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.",
+     "published_at": "2026-08-25T06:32:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T09:27:12+00:00"
+    }
+   ],
+   "depth": "open"
+  },
   {
    "id": "e1302c549656",
    "headline": "Trump says Canada to face 50% auto, steel tariffs from 2027",
@@ -136,47 +186,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "32150869e65b",
-   "headline": "Infantino asked to stay away from youth tournament",
-   "section": "world",
-   "score": 55,
-   "sources_count": 3,
-   "depth_signal": 0,
-   "created": "2026-08-22T15:24:58+00:00",
-   "event_time": "2026-08-22T14:29:55+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Infantino asked to stay away from youth tournament",
-     "url": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
-     "published_at": "2026-08-22T14:29:55+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T15:24:54+00:00"
-    },
-    {
-     "title": "Infantino defies FIFA vice president's request to stay away from Caribbean youth tournament",
-     "url": "https://www.france24.com/en/sport/20260822-infantino-defies-fifa-vice-president-s-request-to-stay-away-from-caribbean-youth-tournament",
-     "source": "France 24",
-     "summary": "FIFA president Gianni Infantino made a rare public appearance in the Caribbean despite a request from vice president Victor Montagliani to abstain as pressure mounts over his failed plan to sell future World Cup profits to private investors.",
-     "published_at": "2026-08-22T15:07:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T15:24:54+00:00"
-    },
-    {
-     "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
-     "url": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.",
-     "published_at": "2026-08-22T12:37:26+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-22T15:24:54+00:00"
-    }
-   ],
-   "depth": "scripture"
   }
  ],
  "feature_assignments": [

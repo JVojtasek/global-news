@@ -2,14 +2,31 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **5**
+- Článků v zásobě: **6**
 - Jazyk, ve kterém se píše: **en**
 
 ---
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Trump says Canada to face 50% auto, steel tariffs from 2027
+### 1. What does your Premier League club still need in the transfer window?
+- id události: `6302b95a195e`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — What does your Premier League club still need in the transfer window?
+    <https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss>
+    > BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days.
+  - **BBC Sport** — Ranking the best managers in Premier League history
+    <https://www.bbc.co.uk/sport/football/articles/cr59zj42plvo?at_medium=RSS&at_campaign=rss>
+    > Thirteen managers have won the Premier League title, but which of them will make it into our top 10 covering the competition's history?
+  - **France 24** — Premier League: Chelsea defeat Fulham in Xabi Alonso's first game as manager
+    <https://www.france24.com/en/tv-shows/sports/20260825-premier-league-chelsea-defeat-fulham-in-xabi-alonso-s-first-game-as-manager>
+    > In Xabi Alonso’s first match as manager, Chelsea beat Fulham 3–2 in the Premier League.
+  - **Al Jazeera** — Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
+    <https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss>
+    > Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
+
+### 2. Trump says Canada to face 50% auto, steel tariffs from 2027
 - id události: `e1302c549656`  ·  rubrika: `world`  ·  skóre: 61  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -25,7 +42,7 @@
   - **Investing.com** — Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
     <https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756>
 
-### 2. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
+### 3. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
 - id události: `4a7b92cbd9ac`  ·  rubrika: `sport`  ·  skóre: 59  ·  nezávislých zdrojů: 2
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -39,7 +56,7 @@
     <https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer>
     > Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club
 
-### 3. 'To have a good team, we need a great Cole' - Alonso on Palmer
+### 4. 'To have a good team, we need a great Cole' - Alonso on Palmer
 - id události: `7411478fd6a3`  ·  rubrika: `sport`  ·  skóre: 56  ·  nezávislých zdrojů: 2
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -52,20 +69,6 @@
   - **Guardian Sport** — Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson
     <https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham>
     > The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed in After a weekend on which pretty much every potential challenger to Arsenal had demonstrated their flaws , there was a sense, perhaps eve
-
-### 4. Infantino asked to stay away from youth tournament
-- id události: `32150869e65b`  ·  rubrika: `world`  ·  skóre: 55  ·  nezávislých zdrojů: 3
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC Sport** — Infantino asked to stay away from youth tournament
-    <https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss>
-    > Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.
-  - **France 24** — Infantino defies FIFA vice president's request to stay away from Caribbean youth tournament
-    <https://www.france24.com/en/sport/20260822-infantino-defies-fifa-vice-president-s-request-to-stay-away-from-caribbean-youth-tournament>
-    > FIFA president Gianni Infantino made a rare public appearance in the Caribbean despite a request from vice president Victor Montagliani to abstain as pressure mounts over his failed plan to sell future World Cup profits to private investors.
-  - **Al Jazeera** — CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
-    <https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss>
-    > The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
 
 ---
 

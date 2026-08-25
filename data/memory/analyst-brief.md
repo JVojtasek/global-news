@@ -34,6 +34,20 @@ Paměť obsahuje **41 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 7 dní · 15 záznamů
+- časová osa:
+  - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
+  - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
+  - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
+  - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
+  - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
+  - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
+  - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
+  - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
+  - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
+  - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 10 dní · 15 záznamů
 - časová osa:
@@ -47,20 +61,6 @@ Paměť obsahuje **41 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 5 dní · 14 záznamů
-- časová osa:
-  - **2026-08-20** (1 zdrojů) Premier League 2026-27 preview No 18: Nottingham Forest
-  - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
-  - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
-  - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
-  - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
-  - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
-  - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
-  - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
-  - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
-  - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
