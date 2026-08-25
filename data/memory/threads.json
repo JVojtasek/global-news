@@ -1,6 +1,35 @@
 {
  "threads": [
   {
+   "id": "7411478fd6a3",
+   "title": "'To have a good team, we need a great Cole' - Alonso on Palmer",
+   "section": "sport",
+   "entities": [
+    "alonso",
+    "palmer",
+    "cole"
+   ],
+   "event_ids": [
+    "7411478fd6a3"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "'To have a good team, we need a great Cole' - Alonso on Palmer",
+     "sources": 2,
+     "score": 56,
+     "event_id": "7411478fd6a3",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -3177,5 +3206,5 @@
    ]
   }
  ],
- "updated": "2026-08-24T21:26:04+00:00"
+ "updated": "2026-08-25T00:27:56+00:00"
 }

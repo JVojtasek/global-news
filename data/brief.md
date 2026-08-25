@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-24
+# ZADÁNÍ PRO REDAKCI — 2026-08-25
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -57,19 +57,19 @@
     <https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer>
     > Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club
 
-### 4. TikTok to pay $400m to US in one of largest child privacy settlements
-- id události: `f3ee26afe8b1`  ·  rubrika: `tech`  ·  skóre: 55  ·  nezávislých zdrojů: 3
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. 'To have a good team, we need a great Cole' - Alonso on Palmer
+- id události: `7411478fd6a3`  ·  rubrika: `sport`  ·  skóre: 56  ·  nezávislých zdrojů: 2
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Technology** — TikTok to pay $400m to US in one of largest child privacy settlements
-    <https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss>
-    > The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
-  - **DW News** — TikTok agrees to pay $400m to settle US children's privacy case
-    <https://www.dw.com/en/tiktok-agrees-to-pay-400m-to-settle-us-children-s-privacy-case/a-78466204?maca=en-rss-en-all-1573-rdf>
-    > The US Justice Department sued TikTok in 2024 over allegations that it violated children's online privacy laws. The settlement is believed to be one of the largest ever over the issue.
-  - **The Verge** — TikTok will pay $400 million to settle DOJ child privacy lawsuit
-    <https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa>
-    > The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without not
+  - **BBC Sport** — 'To have a good team, we need a great Cole' - Alonso on Palmer
+    <https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o?at_medium=RSS&at_campaign=rss>
+    > Chelsea manager Xabi Alonso praises Cole Palmer's "responsibility, maturity and freedom" after a goal and an assist from the playmaker seals a 3-2 victory over Fulham at Craven Cottage. In Alonso's first Premier League match in charge, the Spaniard insists his new squad can achie
+  - **BBC Sport** — Palmer impresses as Chelsea edge past Fulham to give Alonso first win
+    <https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss>
+    > Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.
+  - **Guardian Sport** — Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson
+    <https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham>
+    > The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed in After a weekend on which pretty much every potential challenger to Arsenal had demonstrated their flaws , there was a sense, perhaps eve
 
 ---
 
