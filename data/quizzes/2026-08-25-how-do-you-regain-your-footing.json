@@ -1,0 +1,453 @@
+{
+  "schema_version": 1,
+  "slug": "how-do-you-regain-your-footing",
+  "date": "2026-08-25",
+  "category": "resilience",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "How do you regain your footing after a setback?",
+      "cs": "Jak znovu získáte pevnou půdu pod nohama po nezdaru?"
+    },
+    "dek": {
+      "en": "Eight everyday situations identify which recovery capacity is ready to use—and which one deserves deliberate practice.",
+      "cs": "Osm běžných situací ukáže, kterou schopnost obnovy už umíte využít a která si zaslouží vědomý trénink."
+    },
+    "intro": {
+      "en": "Answer for a difficult but ordinary week, not your best day or your worst crisis. There are no virtuous answers; the useful result is the next small capacity to strengthen.",
+      "cs": "Odpovídejte podle náročného, ale běžného týdne, ne podle nejlepšího dne ani nejhorší krize. Neexistují ctnostné odpovědi; užitečný je další malý krok k posílení."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check informed by public guidance on coping with stress and adversity. It is not a validated resilience scale, diagnosis, treatment plan or judgment of worth. Circumstances, health, safety and available support strongly affect what a person can do.",
+      "cs": "Jde o původní vzdělávací sebehodnocení vycházející z veřejných doporučení ke zvládání stresu a nepřízně. Není to validovaná škála odolnosti, diagnóza, léčebný plán ani hodnocení lidské hodnoty. Možnosti člověka výrazně ovlivňují okolnosti, zdraví, bezpečí a dostupná podpora."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "steady",
+      "label": {
+        "en": "Settle the immediate surge",
+        "cs": "Zklidnit první nápor"
+      },
+      "why": {
+        "en": "A brief pause can create enough room to choose rather than react automatically.",
+        "cs": "Krátká pauza může vytvořit prostor pro volbu místo automatické reakce."
+      },
+      "action": {
+        "en": "Practise one two-minute reset—slower breathing, grounding or a short walk—before solving the problem.",
+        "cs": "Před řešením problému zkuste dvouminutové zklidnění: pomalejší dech, ukotvení v přítomnosti nebo krátkou chůzi."
+      }
+    },
+    {
+      "id": "orient",
+      "label": {
+        "en": "Find the next workable step",
+        "cs": "Najít další proveditelný krok"
+      },
+      "why": {
+        "en": "Separating facts, control and the next action keeps a setback from becoming one undivided threat.",
+        "cs": "Oddělení faktů, ovlivnitelných věcí a dalšího kroku brání tomu, aby se nezdar změnil v jedinou nerozlišenou hrozbu."
+      },
+      "action": {
+        "en": "Write three lines: what happened, what is controllable today, and the smallest useful next step.",
+        "cs": "Napište tři řádky: co se stalo, co lze dnes ovlivnit a jaký je nejmenší užitečný další krok."
+      }
+    },
+    {
+      "id": "connect",
+      "label": {
+        "en": "Use support well",
+        "cs": "Dobře využít podporu"
+      },
+      "why": {
+        "en": "Specific connection can add perspective, practical help and a reminder that strain need not be carried alone.",
+        "cs": "Konkrétní spojení může přinést jiný pohled, praktickou pomoc a připomenutí, že zátěž nemusíte nést sami."
+      },
+      "action": {
+        "en": "Ask one suitable person for one named thing: listening, information, practical help or a later check-in.",
+        "cs": "Požádejte vhodného člověka o jednu konkrétní věc: vyslechnutí, informaci, praktickou pomoc nebo pozdější kontrolu."
+      }
+    },
+    {
+      "id": "restore",
+      "label": {
+        "en": "Restore capacity",
+        "cs": "Obnovit kapacitu"
+      },
+      "why": {
+        "en": "Sleep, movement, meals, breaks and routine do not erase a problem, but they support the attention needed to face it.",
+        "cs": "Spánek, pohyb, jídlo, přestávky a rutina problém nevymažou, ale podpoří pozornost potřebnou k jeho řešení."
+      },
+      "action": {
+        "en": "Choose one basic routine to protect for three days, then notice whether decisions become easier.",
+        "cs": "Vyberte jednu základní rutinu, kterou tři dny ochráníte, a sledujte, zda se rozhodování usnadní."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "bad-news",
+      "dimension": "steady",
+      "text": {
+        "en": "A plan you counted on falls apart. During the first ten minutes, what is most like you?",
+        "cs": "Plán, na který jste spoléhali, se rozpadne. Co vás nejvíc vystihuje během prvních deseti minut?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I react immediately and often wish I had paused",
+            "cs": "Okamžitě reaguji a často si pak přeji, abych se zastavil/a"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I know a pause would help, but rarely create one",
+            "cs": "Vím, že by pomohla pauza, ale málokdy si ji vytvořím"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I usually take a short pause before deciding",
+            "cs": "Obvykle si před rozhodnutím dám krátkou pauzu"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I have a brief, reliable way to settle before acting",
+            "cs": "Mám krátký spolehlivý způsob, jak se před jednáním zklidnit"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "body-alarm",
+      "dimension": "steady",
+      "text": {
+        "en": "Stress shows up in your body while you still need to function. What happens next?",
+        "cs": "Stres se projeví v těle, ale stále potřebujete fungovat. Co následuje?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I ignore it until I am depleted or overwhelmed",
+            "cs": "Ignoruji jej, dokud nejsem vyčerpaný/á nebo zahlcený/á"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I notice it but do not know what response helps",
+            "cs": "Všimnu si ho, ale nevím, jaká reakce pomáhá"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I use a simple reset that helps sometimes",
+            "cs": "Použiji jednoduché zklidnění, které někdy pomůže"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I notice early signs and choose a safe response suited to the moment",
+            "cs": "Včas si všimnu signálů a zvolím bezpečnou reakci odpovídající situaci"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "messy-problem",
+      "dimension": "orient",
+      "text": {
+        "en": "A setback creates five new problems at once. How do you begin?",
+        "cs": "Nezdar vytvoří pět nových problémů najednou. Jak začnete?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Everything blends together and I cannot identify a start",
+            "cs": "Všechno se slije dohromady a nedokážu najít začátek"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I list concerns, but the list remains too broad to act on",
+            "cs": "Sepíšu obavy, ale seznam zůstane příliš široký pro jednání"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I separate what I can influence from what I cannot",
+            "cs": "Oddělím, co mohu ovlivnit a co ne"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I identify one controllable step, a time to do it and what would follow",
+            "cs": "Určím jeden ovlivnitelný krok, čas provedení a co bude následovat"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "failed-attempt",
+      "dimension": "orient",
+      "text": {
+        "en": "Your first attempt does not work. Which response is closest?",
+        "cs": "První pokus nefunguje. Která reakce je vám nejbližší?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I treat the failure as proof that the whole effort is hopeless",
+            "cs": "Beru selhání jako důkaz, že celé úsilí je beznadějné"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I try again without being clear what should change",
+            "cs": "Zkusím to znovu, aniž bych věděl/a, co změnit"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I identify what the attempt taught me and adjust one thing",
+            "cs": "Určím, co mě pokus naučil, a upravím jednu věc"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I compare the result with my aim, adjust, and set a realistic next checkpoint",
+            "cs": "Porovnám výsledek s cílem, upravím postup a stanovím realistický kontrolní bod"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "asking-help",
+      "dimension": "connect",
+      "text": {
+        "en": "The problem is becoming too heavy to carry alone. What do you usually do?",
+        "cs": "Problém začíná být příliš těžký na to, abyste jej nesli sami. Co obvykle uděláte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I withdraw and hope nobody notices",
+            "cs": "Stáhnu se a doufám, že si nikdo nevšimne"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I hint that things are hard but do not make a clear request",
+            "cs": "Naznačím, že je to těžké, ale nevyslovím jasnou žádost"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I contact someone trustworthy and explain what is happening",
+            "cs": "Oslovím důvěryhodného člověka a vysvětlím, co se děje"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I ask an appropriate person for a specific kind of support and agree on a next check-in",
+            "cs": "Požádám vhodného člověka o konkrétní podporu a domluvím další kontakt"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "support-fit",
+      "dimension": "connect",
+      "text": {
+        "en": "Someone offers help after a setback. How well can you use it?",
+        "cs": "Někdo vám po nezdaru nabídne pomoc. Jak dobře ji umíte využít?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I reject it automatically, even when I need it",
+            "cs": "Automaticky ji odmítnu, i když ji potřebuji"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I accept vaguely, so neither of us knows what would help",
+            "cs": "Neurčitě ji přijmu, takže nikdo neví, co by pomohlo"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I can name one practical or emotional need",
+            "cs": "Dokážu pojmenovat jednu praktickou nebo emoční potřebu"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I can accept useful help, keep boundaries and say when a different kind is needed",
+            "cs": "Dokážu přijmout užitečnou pomoc, zachovat hranice a říct, kdy potřebuji jiný druh"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "basic-routines",
+      "dimension": "restore",
+      "text": {
+        "en": "During a demanding week, what happens to basic routines?",
+        "cs": "Co se během náročného týdne stane se základními rutinami?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Sleep, meals, movement and breaks all disappear",
+            "cs": "Spánek, jídlo, pohyb i přestávky zmizí"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I protect them only after my functioning has already dropped",
+            "cs": "Začnu je chránit až poté, co moje fungování výrazně klesne"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I keep at least one stabilising routine most days",
+            "cs": "Většinu dnů udržím alespoň jednu stabilizující rutinu"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I deliberately simplify and protect a small set of routines that support recovery",
+            "cs": "Záměrně zjednoduším a chráním malou sadu rutin podporujících obnovu"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "returning",
+      "dimension": "restore",
+      "text": {
+        "en": "After the urgent part is over, how do you rebuild capacity?",
+        "cs": "Jak po odeznění naléhavé části obnovujete kapacitu?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I keep pushing until another problem forces me to stop",
+            "cs": "Pokračuji bez zastavení, dokud mě nezastaví další problém"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I wait to feel completely better before resuming anything useful",
+            "cs": "Čekám, až se budu cítit úplně dobře, než obnovím něco užitečného"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I return gradually and notice what drains or restores me",
+            "cs": "Vracím se postupně a sleduji, co mě vyčerpává a co obnovuje"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I use a modest recovery plan, review it and seek extra help if functioning does not improve",
+            "cs": "Použiji skromný plán obnovy, vyhodnotím jej a při nezlepšení fungování vyhledám další pomoc"
+          },
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {
+        "en": "Start with one stabilising foothold",
+        "cs": "Začněte jedním stabilním bodem"
+      },
+      "summary": {
+        "en": "Your answers suggest that setbacks currently consume much of the capacity needed to respond. This score does not measure character or predict how you will cope in another situation. Choose the lowest-scoring dimension and practise its action once in a low-stakes setting; if distress persists or daily functioning is impaired, consider appropriate professional support.",
+        "cs": "Odpovědi naznačují, že nezdary nyní spotřebují velkou část kapacity potřebné k reakci. Skóre neměří charakter ani nepředpovídá zvládání jiné situace. Vyberte nejslabší dimenzi a jednou nacvičte její krok v málo náročné situaci; pokud potíže trvají nebo narušují běžné fungování, zvažte vhodnou odbornou podporu."
+      }
+    },
+    {
+      "min": 8,
+      "max": 15,
+      "title": {
+        "en": "You have some useful moves—make one dependable",
+        "cs": "Máte několik užitečných kroků—jeden upevněte"
+      },
+      "summary": {
+        "en": "You can access parts of a recovery process, but they may depend on timing or circumstance. This is a snapshot, not a validated resilience score. Pick one dimension that varies most and attach its action to a clear cue during the next ordinary setback.",
+        "cs": "K některým částem obnovy máte přístup, ale mohou záviset na načasování či okolnostech. Jde o momentku, ne validované skóre odolnosti. Vyberte dimenzi, která nejvíc kolísá, a při příštím běžném nezdaru spojte její krok s jasným podnětem."
+      }
+    },
+    {
+      "min": 16,
+      "max": 24,
+      "title": {
+        "en": "You can draw on several recovery capacities",
+        "cs": "Umíte využít několik schopností obnovy"
+      },
+      "summary": {
+        "en": "Your answers suggest access to pausing, orienting, support and restoration in many ordinary setbacks. A high score is not invulnerability and cannot account for trauma, unsafe conditions, illness or lack of resources. Keep the capacity current by testing one backup plan: who you would contact, which routine you would protect or how you would find the next step under strain.",
+        "cs": "Odpovědi naznačují, že při mnoha běžných nezdarech umíte využít zklidnění, orientaci, podporu i obnovu. Vysoké skóre neznamená nezranitelnost a nezohlední trauma, nebezpečné podmínky, nemoc ani nedostatek zdrojů. Udržujte schopnost aktuální otestováním jednoho záložního plánu: koho oslovíte, kterou rutinu ochráníte nebo jak ve stresu najdete další krok."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Health Organization — Doing What Matters in Times of Stress",
+      "url": "https://www.who.int/publications/i/item/9789240003927",
+      "published": "2020-04-29",
+      "type": "public evidence-informed stress-management guide; no questionnaire items reproduced"
+    },
+    {
+      "name": "CDC — Managing Stress",
+      "url": "https://www.cdc.gov/mental-health/living-with/index.html",
+      "published": "2026-05-12",
+      "type": "official public-health guidance on stress, routines, connection and seeking support"
+    },
+    {
+      "name": "National Institute of Mental Health — I’m So Stressed Out! Fact Sheet",
+      "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+      "published": "",
+      "type": "official public-domain guidance on stress responses, coping and when to seek help"
+    }
+  ]
+}
