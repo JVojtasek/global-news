@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "iran",
-    "south",
-    "league",
-    "champions",
-    "taiwan",
-    "lebanon",
-    "d-day",
     "start",
-    "gulf",
-    "american",
-    "turkey",
-    "strait",
-    "jong",
-    "middle",
-    "pentagon",
-    "iranian",
-    "china's",
-    "us-south",
-    "east",
-    "hormuz",
-    "oman",
-    "russia",
-    "tehran",
-    "briton",
-    "north",
-    "trump's",
-    "indycar",
-    "korea",
     "iran's",
-    "tennessee",
-    "donald",
-    "china",
-    "bluster",
-    "groundhog",
-    "ukraine",
-    "washington",
+    "indycar",
+    "iran",
+    "north",
+    "korea",
+    "qatar",
     "trump",
-    "states",
+    "gulf",
+    "middle",
+    "american",
+    "tehran",
+    "scott",
+    "iranian",
+    "us-south",
+    "ukraine",
     "justified",
-    "qatar"
+    "donald",
+    "champions",
+    "tennessee",
+    "bluster",
+    "washington",
+    "states",
+    "strait",
+    "secretary",
+    "south",
+    "d-day",
+    "trump's",
+    "briton",
+    "east",
+    "turkey",
+    "league",
+    "jong",
+    "china's",
+    "china",
+    "taiwan",
+    "groundhog",
+    "treasury",
+    "hormuz",
+    "oman"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -95,7 +95,10 @@
     "ac57718967a8",
     "62bd4787a022",
     "b3ad4cde8512",
-    "b41b011401b8"
+    "b41b011401b8",
+    "5746dd2a7a4f",
+    "82ec1ffae029",
+    "26cc05249f5d"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-25",
@@ -657,6 +660,39 @@
       "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html"
      ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "5746dd2a7a4f",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
+      "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "82ec1ffae029",
+     "links": [
+      "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+      "https://www.france24.com/en/what-could-new-us-sanctions-on-iran-entail"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "26cc05249f5d",
+     "links": [
+      "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-strait-of-hormuz-has-been-demined-warns-iran-not-to-plant-more-4875671"
+     ]
     }
    ]
   },
@@ -915,6 +951,34 @@
       "https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0430628ddb98",
+   "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+   "section": "tech",
+   "entities": [
+    "apple",
+    "mini"
+   ],
+   "event_ids": [
+    "0430628ddb98"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-25",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+     "sources": 4,
+     "score": 67,
+     "event_id": "0430628ddb98",
+     "links": [
+      "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+      "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+      "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html"
      ]
     }
    ]
@@ -3256,5 +3320,5 @@
    ]
   }
  ],
- "updated": "2026-08-25T12:27:37+00:00"
+ "updated": "2026-08-25T15:29:24+00:00"
 }

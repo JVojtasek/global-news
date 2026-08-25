@@ -1,17 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-25
 
-Paměť obsahuje **41 vláken**. Aktivních za posledních 14 dní: **24**.
+Paměť obsahuje **42 vláken**. Aktivních za posledních 14 dní: **24**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 16 dní · 49 záznamů
+- rubrika `world` · sledováno 16 dní · 52 záznamů
 - časová osa:
-  - **2026-08-20** (1 zdrojů) How China and Russia could hobble Trump’s plans to isolate Iran
-  - **2026-08-20** (2 zdrojů) North Korea fires ballistic missiles as US-South Korea drills near end
-  - **2026-08-22** (2 zdrojů) Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
   - **2026-08-23** (2 zdrojů) Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
   - **2026-08-24** (1 zdrojů) Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
   - **2026-08-24** (2 zdrojů) US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
@@ -19,6 +16,9 @@ Paměť obsahuje **41 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-25** (3 zdrojů) China warns it will safeguard its interests after US widens sanctions against Iran
   - **2026-08-25** (2 zdrojů) Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
   - **2026-08-25** (2 zdrojů) Middle East: Iran vows response to fresh US sanctions
+  - **2026-08-25** (2 zdrojů) Is Scott Bessent the Fed chair Donald Trump always wanted?
+  - **2026-08-25** (2 zdrojů) Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
+  - **2026-08-25** (2 zdrojů) Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 13 dní · 23 záznamů

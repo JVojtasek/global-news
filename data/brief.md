@@ -9,7 +9,30 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. What does your Premier League club still need in the transfer window?
+### 1. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
+- id události: `0430628ddb98`  ·  rubrika: `tech`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **TechCrunch** — Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
+    <https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/>
+    > The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.
+  - **The Verge** — Where to preorder the updated Mac Mini and Mac Studio
+    <https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder>
+    > Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The M
+  - **CNBC Top** — Apple announces new Mac Mini and Mac Studio models with AI upgrades
+    <https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html>
+    > "With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
+  - **The Verge** — Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices
+    <https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs>
+    > Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4 Pro models, but with […]
+  - **Hacker News Best** — Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+    <https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/>
+    > Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 262 # Comments: 155
+  - **Hacker News Best** — Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
+    <https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/>
+    > Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 327 # Comments: 279
+
+### 2. What does your Premier League club still need in the transfer window?
 - id události: `6302b95a195e`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -26,7 +49,7 @@
     <https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss>
     > Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
 
-### 2. Trump says Canada to face 50% auto, steel tariffs from 2027
+### 3. Trump says Canada to face 50% auto, steel tariffs from 2027
 - id události: `e1302c549656`  ·  rubrika: `world`  ·  skóre: 61  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -42,33 +65,21 @@
   - **Investing.com** — Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
     <https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756>
 
-### 3. Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
-- id události: `4a7b92cbd9ac`  ·  rubrika: `sport`  ·  skóre: 59  ·  nezávislých zdrojů: 2
+### 4. Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens
+- id události: `a063d72852dd`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
-    <https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss>
-    > How Man City and Bournemouth players rated following their Premier League match.
-  - **Guardian Sport** — Guéhi and Gvardiol late show earns Manchester City dramatic win against Bournemouth
-    <https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report>
-    > “WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging loss became a memorable win due to Marc Guéhi’s 84th-minute equaliser and Josko Gvardiol’s added-time winner. Until the
-  - **Guardian Sport** — Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi
-    <https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer>
-    > Signing will take City’s window spending to nearly £200m Moroccan stood down from Lille’s game against Angers Manchester City have agreed a deal with Lille worth €95m (£81.4m) plus €5m in potential add-ons for Ayyoub Bouaddi, with the Morocco midfielder’s arrival to take the club
-
-### 4. 'To have a good team, we need a great Cole' - Alonso on Palmer
-- id události: `7411478fd6a3`  ·  rubrika: `sport`  ·  skóre: 56  ·  nezávislých zdrojů: 2
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — 'To have a good team, we need a great Cole' - Alonso on Palmer
-    <https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o?at_medium=RSS&at_campaign=rss>
-    > Chelsea manager Xabi Alonso praises Cole Palmer's "responsibility, maturity and freedom" after a goal and an assist from the playmaker seals a 3-2 victory over Fulham at Craven Cottage. In Alonso's first Premier League match in charge, the Spaniard insists his new squad can achie
-  - **BBC Sport** — Palmer impresses as Chelsea edge past Fulham to give Alonso first win
-    <https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss>
-    > Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.
-  - **Guardian Sport** — Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson
-    <https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham>
-    > The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed in After a weekend on which pretty much every potential challenger to Arsenal had demonstrated their flaws , there was a sense, perhaps eve
+  - **NPR News** — Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens
+    <https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs>
+    > The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.
+  - **CNBC Top** — Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
+    <https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html>
+    > Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.
+  - **France 24** — Canada to announce measures to protect workers as trade war with US deepens
+    <https://www.france24.com/en/canada-to-announce-measures-to-protect-workers-as-trade-war-with-us-deepens>
+    > As the US escalates its trade war with Canada, Ottawa is preparing to hit back. With new tariffs threatening its car industry, as well as a wave of other products, Canada has announced its finance, labor and industry will be announcing new countermeasures to protect workers whose
+  - **Investing.com** — Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures
+    <https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679>
 
 ---
 
@@ -95,15 +106,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 49  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 52  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 49
-  2026-08-18  (2 zdrojů, síla 40)  South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
-  2026-08-18  (2 zdrojů, síla 40)  Why has Trump threatened to bomb Oman – for a second time?
-  2026-08-18  (1 zdrojů, síla 42)  Iran clubs face Qatar and UAE sides at neutral venues in Champions League
+rubrika: world · sledováno od 2026-08-09 · záznamů: 52
   2026-08-18  (2 zdrojů, síla 41)  The United States is about to wake up to the threat from China's space program
   2026-08-19  (2 zdrojů, síla 47)  Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
   2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request
@@ -121,6 +129,9 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 49
   2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran
   2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
   2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions
+  2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?
+  2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
+  2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
