@@ -9,7 +9,27 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
+### 1. Dolly Parton, one of country music's most singular performers, has died at age 80
+- id události: `1301430cb05f`  ·  rubrika: `culture`  ·  skóre: 71  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **NPR News** — Dolly Parton, one of country music's most singular performers, has died at age 80
+    <https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary>
+    > The artist was a star performer in country music, and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.
+  - **BBC Entertainment** — Dolly Parton: The country legend who sang from the heart
+    <https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss>
+    > The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.
+  - **DW News** — US country music legend Dolly Parton dies aged 80
+    <https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf>
+    > The family of the US country music legend announced her passing on social media. Dolly Parton's career spans more than half a century and includes a wide array of smash hits.
+  - **Guardian Culture** — Dolly Parton, country star, actor and philanthropist, dies aged 80
+    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
+    > Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes Alexis Petridis on Dolly Parton’s peerless career which turned country music cliches inside out Dolly Parton – a life in pictures Countr
+  - **CNBC Top** — Dolly Parton, queen of country music, dies at 80
+    <https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html>
+    > With songs such as "Coat of Many Colors," "Jolene" and "I Will Always Love You," she was one of the best-selling female artists of all time.
+
+### 2. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
 - id události: `0430628ddb98`  ·  rubrika: `tech`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -32,7 +52,30 @@
     <https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/>
     > Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 327 # Comments: 279
 
-### 2. What does your Premier League club still need in the transfer window?
+### 3. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
+- id události: `94a6ef56b551`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
+    <https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss>
+    > The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
+  - **Guardian Business** — Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video
+    <https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney>
+    > Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar' Continue reading...
+  - **Guardian Business** — Canada announces retaliatory tariffs on wide range of US goods
+    <https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods>
+    > Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last week US politics live – latest updates Canada has announced it will impose tariffs on a wide range of key American industries including cosmetics, dairy, wood
+  - **DW News** — Canada announces retaliatory tariffs on US goods
+    <https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf>
+    > Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carney.
+  - **France 24** — Canada strikes back at Trump with retaliatory tariffs as US trade war escalates
+    <https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates>
+    > Canada on Tuesday announced retaliatory tariffs on C$27.6 billion ($19.94 billion) worth of US goods, including steel and dairy products, in a dollar-for-dollar response to President Donald Trump's punitive tariffs on Canadian products. Ottawa also announced a C$7.5 billion aid p
+  - **France 24** — Replay: Canada announces countermeasures to new US tariffs
+    <https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs>
+    > Rewatch as Canadian ministers lay out a series of countermeasures as its trade war with the US deepens after the Trump administration imposed new tariffs on Canadian goods.
+
+### 4. What does your Premier League club still need in the transfer window?
 - id události: `6302b95a195e`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -48,38 +91,6 @@
   - **Al Jazeera** — Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
     <https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss>
     > Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.
-
-### 3. Trump says Canada to face 50% auto, steel tariffs from 2027
-- id události: `e1302c549656`  ·  rubrika: `world`  ·  skóre: 61  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **DW News** — Trump says Canada to face 50% auto, steel tariffs from 2027
-    <https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf>
-    > The latest threat comes after the neighbors failed to reach a deal to avert a 50% US levy on a range of other Canadian goods. Ottawa says it plans to impose retaliatory tariffs.
-  - **CNBC Top** — Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates
-    <https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html>
-    > President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027
-  - **France 24** — ‘We don’t need Canada’: Trump threatens to double auto tariffs after trade talks collapse
-    <https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse>
-    > US tariffs ​on all Canadian cars and trucks, automotive parts and steel will be increased to 50% starting January 1, 2027, President Donald Trump said ​in a social ‌post on Monday. Doubling down on his threats, Trump said the US does not “need” Canada after trade talks between th
-  - **Investing.com** — Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight
-    <https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756>
-
-### 4. Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens
-- id události: `a063d72852dd`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **NPR News** — Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens
-    <https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs>
-    > The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.
-  - **CNBC Top** — Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
-    <https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html>
-    > Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.
-  - **France 24** — Canada to announce measures to protect workers as trade war with US deepens
-    <https://www.france24.com/en/canada-to-announce-measures-to-protect-workers-as-trade-war-with-us-deepens>
-    > As the US escalates its trade war with Canada, Ottawa is preparing to hit back. With new tariffs threatening its car industry, as well as a wave of other products, Canada has announced its finance, labor and industry will be announcing new countermeasures to protect workers whose
-  - **Investing.com** — Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures
-    <https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679>
 
 ---
 
@@ -106,14 +117,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 52  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 54  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 52
-  2026-08-18  (2 zdrojů, síla 41)  The United States is about to wake up to the threat from China's space program
-  2026-08-19  (2 zdrojů, síla 47)  Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’
+rubrika: world · sledováno od 2026-08-09 · záznamů: 54
   2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request
   2026-08-20  (3 zdrojů, síla 56)  Iran war live: Trump announces ‘most crushing’ Iran sanctions
   2026-08-20  (4 zdrojů, síla 67)  Trump threatens 'tremendous economic consequences' on any country helping Iran
@@ -132,6 +141,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 52
   2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?
   2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
   2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
+  2026-08-25  (2 zdrojů, síla 42)  ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
+  2026-08-25  (2 zdrojů, síla 40)  US launches Economic war on Iran
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

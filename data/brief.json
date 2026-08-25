@@ -6,6 +6,65 @@
  "reserve_articles": 6,
  "news_assignments": [
   {
+   "id": "1301430cb05f",
+   "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "score": 71,
+   "sources_count": 5,
+   "depth_signal": 2,
+   "created": "2026-08-25T18:27:12+00:00",
+   "event_time": "2026-08-25T18:17:32+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "url": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+     "source": "NPR News",
+     "summary": "The artist was a star performer in country music, and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.",
+     "published_at": "2026-08-25T18:17:32+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Dolly Parton: The country legend who sang from the heart",
+     "url": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Entertainment",
+     "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+     "published_at": "2026-08-25T18:14:13+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "US country music legend Dolly Parton dies aged 80",
+     "url": "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "The family of the US country music legend announced her passing on social media. Dolly Parton's career spans more than half a century and includes a wide array of smash hits.",
+     "published_at": "2026-08-25T18:11:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80",
+     "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+     "source": "Guardian Culture",
+     "summary": "Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes Alexis Petridis on Dolly Parton’s peerless career which turned country music cliches inside out Dolly Parton – a life in pictures Country music legend Dolly Parton dies aged 80 – latest updates Dolly Parton, one of the greatest singer-songwriters in countr",
+     "published_at": "2026-08-25T17:59:40+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Dolly Parton, queen of country music, dies at 80",
+     "url": "https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html",
+     "source": "CNBC Top",
+     "summary": "With songs such as \"Coat of Many Colors,\" \"Jolene\" and \"I Will Always Love You,\" she was one of the best-selling female artists of all time.",
+     "published_at": "2026-08-25T18:25:41+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    }
+   ],
+   "depth": "scripture"
+  },
+  {
    "id": "0430628ddb98",
    "headline": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
    "section": "tech",
@@ -74,6 +133,74 @@
    "depth": "open"
   },
   {
+   "id": "94a6ef56b551",
+   "headline": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+   "section": "world",
+   "score": 67,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-08-25T18:27:12+00:00",
+   "event_time": "2026-08-25T17:54:03+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+     "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+     "published_at": "2026-08-25T17:54:03+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
+     "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
+     "source": "Guardian Business",
+     "summary": "Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar' Continue reading...",
+     "published_at": "2026-08-25T16:39:26+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Canada announces retaliatory tariffs on wide range of US goods",
+     "url": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
+     "source": "Guardian Business",
+     "summary": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last week US politics live – latest updates Canada has announced it will impose tariffs on a wide range of key American industries including cosmetics, dairy, wood products and outdoor equipment in the coming weeks, as it retaliates roughly “dollar for dollar” against levies imposed",
+     "published_at": "2026-08-25T16:17:44+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Canada announces retaliatory tariffs on US goods",
+     "url": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carney.",
+     "published_at": "2026-08-25T15:17:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Canada strikes back at Trump with retaliatory tariffs as US trade war escalates",
+     "url": "https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates",
+     "source": "France 24",
+     "summary": "Canada on Tuesday announced retaliatory tariffs on C$27.6 billion ($19.94 billion) worth of US goods, including steel and dairy products, in a dollar-for-dollar response to President Donald Trump's punitive tariffs on Canadian products. Ottawa also announced a C$7.5 billion aid package for impacted Canadian businesses and workers as the trade war between the two countries escalated.",
+     "published_at": "2026-08-25T16:15:47+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    },
+    {
+     "title": "Replay: Canada announces countermeasures to new US tariffs",
+     "url": "https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs",
+     "source": "France 24",
+     "summary": "Rewatch as Canadian ministers lay out a series of countermeasures as its trade war with the US deepens after the Trump administration imposed new tariffs on Canadian goods.",
+     "published_at": "2026-08-25T15:42:36+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-25T18:27:09+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
    "id": "6302b95a195e",
    "headline": "What does your Premier League club still need in the transfer window?",
    "section": "sport",
@@ -122,106 +249,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "e1302c549656",
-   "headline": "Trump says Canada to face 50% auto, steel tariffs from 2027",
-   "section": "world",
-   "score": 61,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-08-24T15:27:59+00:00",
-   "event_time": "2026-08-24T14:13:00+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Trump says Canada to face 50% auto, steel tariffs from 2027",
-     "url": "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "The latest threat comes after the neighbors failed to reach a deal to avert a 50% US levy on a range of other Canadian goods. Ottawa says it plans to impose retaliatory tariffs.",
-     "published_at": "2026-08-24T14:13:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-24T15:27:54+00:00"
-    },
-    {
-     "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
-     "url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-     "source": "CNBC Top",
-     "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027",
-     "published_at": "2026-08-24T15:00:10+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-24T15:27:54+00:00"
-    },
-    {
-     "title": "‘We don’t need Canada’: Trump threatens to double auto tariffs after trade talks collapse",
-     "url": "https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse",
-     "source": "France 24",
-     "summary": "US tariffs ​on all Canadian cars and trucks, automotive parts and steel will be increased to 50% starting January 1, 2027, President Donald Trump said ​in a social ‌post on Monday. Doubling down on his threats, Trump said the US does not “need” Canada after trade talks between the two countries collapsed over the weekend.",
-     "published_at": "2026-08-24T14:55:13+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-24T15:27:54+00:00"
-    },
-    {
-     "title": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
-     "url": "https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-08-24T15:18:30+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-24T15:27:54+00:00"
-    }
-   ],
-   "depth": "scripture"
-  },
-  {
-   "id": "a063d72852dd",
-   "headline": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
-   "section": "world",
-   "score": 60,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-08-25T15:29:24+00:00",
-   "event_time": "2026-08-25T15:20:18+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
-     "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
-     "source": "NPR News",
-     "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
-     "published_at": "2026-08-25T15:20:18+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-25T15:29:21+00:00"
-    },
-    {
-     "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-     "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-     "source": "CNBC Top",
-     "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-     "published_at": "2026-08-25T15:20:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-25T15:29:21+00:00"
-    },
-    {
-     "title": "Canada to announce measures to protect workers as trade war with US deepens",
-     "url": "https://www.france24.com/en/canada-to-announce-measures-to-protect-workers-as-trade-war-with-us-deepens",
-     "source": "France 24",
-     "summary": "As the US escalates its trade war with Canada, Ottawa is preparing to hit back. With new tariffs threatening its car industry, as well as a wave of other products, Canada has announced its finance, labor and industry will be announcing new countermeasures to protect workers whose jobs may be at risk.",
-     "published_at": "2026-08-25T13:27:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-25T15:29:21+00:00"
-    },
-    {
-     "title": "Canada announces retaliatory tariffs on $20 billion worth of US goods, unveils support measures",
-     "url": "https://www.investing.com/news/economy-news/canada-announces-20-billion-retaliatory-tariffs-on-us-goods-unveils-support-measures-4875679",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-08-25T15:18:55+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-25T15:29:21+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -241,8 +268,8 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 52\n  2026-08-18  (2 zdrojů, síla 41)  The United States is about to wake up to the threat from China's space program\n  2026-08-19  (2 zdrojů, síla 47)  Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’\n  2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request\n  2026-08-20  (3 zdrojů, síla 56)  Iran war live: Trump announces ‘most crushing’ Iran sanctions\n  2026-08-20  (4 zdrojů, síla 67)  Trump threatens 'tremendous economic consequences' on any country helping Iran\n  2026-08-20  (3 zdrojů, síla 57)  Middle East updates: Trump warns 'economic consequences' for nations helping Iran\n  2026-08-20  (2 zdrojů, síla 44)  North Korea fires 10 missiles day after Trump curtails South Korea joint drills\n  2026-08-20  (1 zdrojů, síla 40)  How China and Russia could hobble Trump’s plans to isolate Iran\n  2026-08-20  (2 zdrojů, síla 42)  North Korea fires ballistic missiles as US-South Korea drills near end\n  2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’\n  2026-08-23  (2 zdrojů, síla 42)  Middle East live: Iran's president says country facing 'many problems' as US sanctions loom\n  2026-08-24  (1 zdrojů, síla 42)  Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race\n  2026-08-24  (2 zdrojů, síla 42)  US threat of ‘economic D-Day’ for Iran tests Trump’s China detente\n  2026-08-24  (2 zdrojů, síla 44)  What do locals think of IndyCar in Washington DC?\n  2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran\n  2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine\n  2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions\n  2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?\n  2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran\n  2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
-   "thread_days": 52
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 54\n  2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request\n  2026-08-20  (3 zdrojů, síla 56)  Iran war live: Trump announces ‘most crushing’ Iran sanctions\n  2026-08-20  (4 zdrojů, síla 67)  Trump threatens 'tremendous economic consequences' on any country helping Iran\n  2026-08-20  (3 zdrojů, síla 57)  Middle East updates: Trump warns 'economic consequences' for nations helping Iran\n  2026-08-20  (2 zdrojů, síla 44)  North Korea fires 10 missiles day after Trump curtails South Korea joint drills\n  2026-08-20  (1 zdrojů, síla 40)  How China and Russia could hobble Trump’s plans to isolate Iran\n  2026-08-20  (2 zdrojů, síla 42)  North Korea fires ballistic missiles as US-South Korea drills near end\n  2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’\n  2026-08-23  (2 zdrojů, síla 42)  Middle East live: Iran's president says country facing 'many problems' as US sanctions loom\n  2026-08-24  (1 zdrojů, síla 42)  Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race\n  2026-08-24  (2 zdrojů, síla 42)  US threat of ‘economic D-Day’ for Iran tests Trump’s China detente\n  2026-08-24  (2 zdrojů, síla 44)  What do locals think of IndyCar in Washington DC?\n  2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran\n  2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine\n  2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions\n  2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?\n  2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran\n  2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?\n  2026-08-25  (2 zdrojů, síla 42)  ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest\n  2026-08-25  (2 zdrojů, síla 40)  US launches Economic war on Iran",
+   "thread_days": 54
   },
   {
    "id": "1bf4b58ce158",
