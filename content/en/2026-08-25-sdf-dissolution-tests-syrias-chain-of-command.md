@@ -1,14 +1,15 @@
 ---
 slug: sdf-dissolution-tests-syrias-chain-of-command
-title: "The SDF Is Gone. Syria's Chain of Command Is the Real Test"
-dek: "Dissolving a U.S.-backed force closes one chapter on paper; the harder evidence will be who gives orders, protects Kurdish rights and secures Islamic State detainees."
+title: The SDF Is Gone. Syria's Chain of Command Is the Real Test
+dek: Dissolving a U.S.-backed force closes one chapter on paper; the harder evidence
+  will be who gives orders, protects Kurdish rights and secures Islamic State detainees.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-08-25'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -17,49 +18,52 @@ automation_role: intraday
 generator: chatgpt-work
 format: roundtable
 event_id: sdf-dissolution-damascus-integration-2026-08-25
-series: "The Newsroom Table"
+series: The Newsroom Table
 image_query: ''
 sources:
-  - name: Reuters — Syria's Kurdish-led SDF dissolves
-    url: https://www.reuters.com/world/middle-east/syrias-kurdish-led-sdf-dissolves-part-integration-with-damascus-2026-08-25/
-    published: '2026-08-25'
-  - name: Associated Press — Kurdish-led group dissolves after army merger
-    url: https://apnews.com/article/syrian-democratic-forces-dissolution-mazloum-abdi-1b7d210c96d2c608007b0411db25f453
-    published: '2026-08-25'
-  - name: Syrian Arab News Agency — 2025 integration agreement
-    url: https://archive.sana.sy/en/?p=349228
-    published: '2025-03-10'
-  - name: Reuters — Syria gives Kurdish forces four days to integrate
-    url: https://www.reuters.com/world/middle-east/kurdish-rudaw-website-reports-around-1500-islamic-state-members-escaped-syrias-2026-01-19/
-    published: '2026-01-21'
-  - name: The Washington Post — ISIS detention centres threatened during transition
-    url: https://www.washingtonpost.com/world/2026/01/20/kurdish-fighters-syria-isis-detention/
-    published: '2026-01-20'
-  - name: The Syrian Observer — Senior commander said dissolution was imminent
-    url: https://syrianobserver.com/syrian-actors/top-sdf-commander-says-dissolution-of-forces-and-autonomous-administration-to-be-declared-within-days.html
-    published: '2026-08-17'
+- name: Reuters — Syria's Kurdish-led SDF dissolves
+  url: https://www.reuters.com/world/middle-east/syrias-kurdish-led-sdf-dissolves-part-integration-with-damascus-2026-08-25/
+  published: '2026-08-25'
+- name: Associated Press — Kurdish-led group dissolves after army merger
+  url: https://apnews.com/article/syrian-democratic-forces-dissolution-mazloum-abdi-1b7d210c96d2c608007b0411db25f453
+  published: '2026-08-25'
+- name: Syrian Arab News Agency — 2025 integration agreement
+  url: https://archive.sana.sy/en/?p=349228
+  published: '2025-03-10'
+- name: Reuters — Syria gives Kurdish forces four days to integrate
+  url: https://www.reuters.com/world/middle-east/kurdish-rudaw-website-reports-around-1500-islamic-state-members-escaped-syrias-2026-01-19/
+  published: '2026-01-21'
+- name: The Washington Post — ISIS detention centres threatened during transition
+  url: https://www.washingtonpost.com/world/2026/01/20/kurdish-fighters-syria-isis-detention/
+  published: '2026-01-20'
+- name: The Syrian Observer — Senior commander said dissolution was imminent
+  url: https://syrianobserver.com/syrian-actors/top-sdf-commander-says-dissolution-of-forces-and-autonomous-administration-to-be-declared-within-days.html
+  published: '2026-08-17'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What evidence would best show that the SDF merger has become a functioning unified security system?"
+  question: What evidence would best show that the SDF merger has become a functioning
+    unified security system?
   options:
-    - "The SDF name disappearing from official statements"
-    - "Former SDF units following one accountable command while detention sites and local security remain stable"
-    - "A larger military parade in Damascus"
+  - The SDF name disappearing from official statements
+  - Former SDF units following one accountable command while detention sites and local
+    security remain stable
+  - A larger military parade in Damascus
   answer: 1
-  explanation: "A dissolved label proves a formal change; shared command, accountability and stable security functions show whether integration works in practice."
+  explanation: A dissolved label proves a formal change; shared command, accountability
+    and stable security functions show whether integration works in practice.
 impact:
-  areas: [safety, society]
-  line: >-
-    The formal merger changes who is responsible for security, detention sites
-    and state authority across northeastern Syria. Its success or failure will
-    affect Kurdish communities, local institutions and the risk of Islamic State
-    networks exploiting gaps in control.
-  todo: >-
-    Most readers have no immediate action to take. Watch verified reporting on
-    command appointments, local policing, Kurdish civil rights and the custody
-    of Islamic State detainees rather than treating the dissolution announcement
-    as proof that every institution has already merged safely.
+  areas:
+  - safety
+  - society
+  line: The formal merger changes who is responsible for security, detention sites
+    and state authority across northeastern Syria. Its success or failure will affect
+    Kurdish communities, local institutions and the risk of Islamic State networks
+    exploiting gaps in control.
+  todo: Most readers have no immediate action to take. Watch verified reporting on
+    command appointments, local policing, Kurdish civil rights and the custody of
+    Islamic State detainees rather than treating the dissolution announcement as proof
+    that every institution has already merged safely.
 ---
 
 ## BRIEFLY
