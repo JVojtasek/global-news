@@ -1,14 +1,15 @@
 ---
 slug: canada-tariff-list-becomes-supply-chain-test
-title: "Canada's Tariff List Turns a Threat Into a Supply-Chain Test"
-dek: "The countermeasures are narrower than a full trade wall, but their design shows where costs, bargaining pressure and uncertainty will travel next."
+title: Canada's Tariff List Turns a Threat Into a Supply-Chain Test
+dek: The countermeasures are narrower than a full trade wall, but their design shows
+  where costs, bargaining pressure and uncertainty will travel next.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-08-25'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -17,44 +18,48 @@ automation_role: intraday
 generator: chatgpt-work
 format: roundtable
 event_id: canada-counter-tariffs-2026-08-25
-series: "The Newsroom Table"
+series: The Newsroom Table
 image_query: ''
 sources:
-  - name: Government of Canada — Complete list of U.S. products subject to counter tariffs
-    url: https://www.canada.ca/en/department-finance/programs/international-trade-finance-policy/canadas-response-us-tariffs/complete-list-us-products-subject-to-counter-tariffs.html
-    published: '2026-08-25'
-  - name: Reuters — Canada announces retaliatory tariffs and support measures
-    url: https://www.reuters.com/business/canada-announces-20-bln-retaliatory-tariffs-us-goods-unveils-support-measures-2026-08-25/
-    published: '2026-08-25'
-  - name: The Wall Street Journal — Canada targets U.S. metals, foods and motorcycles
-    url: https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b
-    published: '2026-08-25'
-  - name: Reuters — World braces as Canada tariff stand-off escalates
-    url: https://www.reuters.com/commentary/reuters-open-interest/world-braces-trumps-canada-tariff-stand-off-escalates-2026-08-25/
-    published: '2026-08-25'
-  - name: Reuters — U.S. tariffs take effect after trade talks fail
-    url: https://www.reuters.com/world/americas/us-canadian-trade-teams-meet-again-tariffs-deadline-looms-2026-08-21/
-    published: '2026-08-22'
+- name: Government of Canada — Complete list of U.S. products subject to counter tariffs
+  url: https://www.canada.ca/en/department-finance/programs/international-trade-finance-policy/canadas-response-us-tariffs/complete-list-us-products-subject-to-counter-tariffs.html
+  published: '2026-08-25'
+- name: Reuters — Canada announces retaliatory tariffs and support measures
+  url: https://www.reuters.com/business/canada-announces-20-bln-retaliatory-tariffs-us-goods-unveils-support-measures-2026-08-25/
+  published: '2026-08-25'
+- name: The Wall Street Journal — Canada targets U.S. metals, foods and motorcycles
+  url: https://www.wsj.com/world/americas/canada-targets-u-s-metals-foods-motorcycles-in-retaliatory-tariff-package-f677222b
+  published: '2026-08-25'
+- name: Reuters — World braces as Canada tariff stand-off escalates
+  url: https://www.reuters.com/commentary/reuters-open-interest/world-braces-trumps-canada-tariff-stand-off-escalates-2026-08-25/
+  published: '2026-08-25'
+- name: Reuters — U.S. tariffs take effect after trade talks fail
+  url: https://www.reuters.com/world/americas/us-canadian-trade-teams-meet-again-tariffs-deadline-looms-2026-08-21/
+  published: '2026-08-22'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What would show that the tariff dispute is moving from a targeted shock toward a broader North American supply-chain problem?"
+  question: What would show that the tariff dispute is moving from a targeted shock
+    toward a broader North American supply-chain problem?
   options:
-    - "A short-lived fall in one automaker's share price"
-    - "More sectors being added and firms delaying production or investment across the border"
-    - "A new political slogan about trade"
+  - A short-lived fall in one automaker's share price
+  - More sectors being added and firms delaying production or investment across the
+    border
+  - A new political slogan about trade
   answer: 1
-  explanation: "The durable signal is widening coverage plus measurable changes in production, sourcing or investment—not rhetoric or one market session."
+  explanation: The durable signal is widening coverage plus measurable changes in
+    production, sourcing or investment—not rhetoric or one market session.
 impact:
-  areas: [money, business, work]
-  line: >-
-    Canadian importers and households may face higher costs on listed U.S. goods
-    from September 8, while U.S. exporters lose some price advantage. The larger
-    risk is delayed investment in industries built across the border.
-  todo: >-
-    Check the official tariff-item list rather than broad product headlines, and
-    watch for exemptions, implementation notices and production changes before
-    assuming every Canadian-U.S. transaction is affected.
+  areas:
+  - money
+  - business
+  - work
+  line: Canadian importers and households may face higher costs on listed U.S. goods
+    from September 8, while U.S. exporters lose some price advantage. The larger risk
+    is delayed investment in industries built across the border.
+  todo: Check the official tariff-item list rather than broad product headlines, and
+    watch for exemptions, implementation notices and production changes before assuming
+    every Canadian-U.S. transaction is affected.
 ---
 
 ## BRIEFLY
