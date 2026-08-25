@@ -1,50 +1,54 @@
 ---
 slug: why-abs-crash-data-looked-disappointing
-title: "ABS Worked in the Lab. Why Did Early Crash Data Look So Disappointing?"
-dek: "Anti-lock brakes did what engineers expected at the wheel, yet early road statistics refused to tell a simple success story."
+title: ABS Worked in the Lab. Why Did Early Crash Data Look So Disappointing?
+dek: Anti-lock brakes did what engineers expected at the wheel, yet early road statistics
+  refused to tell a simple success story.
 section: motoring
 type: analysis
 depth: open
 lang: en
-date: 2026-08-25
-status: draft
-confidence: 91
+date: '2026-08-25'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual car braking tyre grip steering path wet road ABS"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual car braking tyre grip steering path wet road ABS
 sources:
-  - name: "US National Highway Traffic Safety Administration"
-    url: "https://www.nhtsa.gov/sites/nhtsa.gov/files/lvabstask1_crashdatareport.pdf"
-    published: "2000-09"
-  - name: "US National Highway Traffic Safety Administration"
-    url: "https://www.nhtsa.gov/sites/nhtsa.gov/files/nhtsaabs7-2finalreport.pdf"
-    published: "2003"
-  - name: "US National Highway Traffic Safety Administration"
-    url: "https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/811182"
-    published: "2009-08"
-  - name: "Insurance Institute for Highway Safety"
-    url: "https://www.iihs.org/news/detail/largest-study-of-its-kind-strengthens-argument-for-motorcycle-abs"
-    published: "2021-08-31"
-  - name: "UK Department for Transport"
-    url: "https://www.gov.uk/guidance/the-highway-code/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158"
-    published: "2015-10-01"
-qma_path: ""
+- name: US National Highway Traffic Safety Administration
+  url: https://www.nhtsa.gov/sites/nhtsa.gov/files/lvabstask1_crashdatareport.pdf
+  published: 2000-09
+- name: US National Highway Traffic Safety Administration
+  url: https://www.nhtsa.gov/sites/nhtsa.gov/files/nhtsaabs7-2finalreport.pdf
+  published: '2003'
+- name: US National Highway Traffic Safety Administration
+  url: https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/811182
+  published: 2009-08
+- name: Insurance Institute for Highway Safety
+  url: https://www.iihs.org/news/detail/largest-study-of-its-kind-strengthens-argument-for-motorcycle-abs
+  published: '2021-08-31'
+- name: UK Department for Transport
+  url: https://www.gov.uk/guidance/the-highway-code/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158
+  published: '2015-10-01'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why can ABS preserve steering control during hard braking?"
+  question: Why can ABS preserve steering control during hard braking?
   options:
-    - "It prevents every wheel from ever slowing down"
-    - "It modulates brake pressure to limit wheel lock, leaving tyres able to generate steering force"
-    - "It automatically chooses a safe escape route"
+  - It prevents every wheel from ever slowing down
+  - It modulates brake pressure to limit wheel lock, leaving tyres able to generate
+    steering force
+  - It automatically chooses a safe escape route
   answer: 1
-  explanation: "ABS senses impending wheel lock and modulates hydraulic pressure. That can preserve directional control, but the driver still chooses the path and available grip still sets the limit."
+  explanation: ABS senses impending wheel lock and modulates hydraulic pressure. That
+    can preserve directional control, but the driver still chooses the path and available
+    grip still sets the limit.
 ---
 
 On a test track, the promise looked almost embarrassingly clear. Stamp on the brake in a car without anti-lock brakes, lock the front wheels, and the steering wheel becomes more of a suggestion than a control. Let ABS pulse the brake pressure instead, and the tyres can keep enough grip to steer.

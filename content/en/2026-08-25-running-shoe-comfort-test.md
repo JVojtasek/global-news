@@ -1,47 +1,51 @@
 ---
 slug: running-shoe-comfort-test
-title: "The Running-Shoe Test That Starts With Comfort, Not Foot Type"
-dek: "An arch scan can describe your foot, but it cannot promise an injury-proof shoe; a better fitting ritual starts with fit, comfort, purpose and a gradual transition."
+title: The Running-Shoe Test That Starts With Comfort, Not Foot Type
+dek: An arch scan can describe your foot, but it cannot promise an injury-proof shoe;
+  a better fitting ritual starts with fit, comfort, purpose and a gradual transition.
 section: sport
 type: analysis
 depth: open
 lang: en
-date: 2026-08-25
-status: draft
-confidence: 87
+date: '2026-08-25'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "recreational runner comparing running shoes in neutral specialist shop"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: recreational runner comparing running shoes in neutral specialist shop
 sources:
-  - name: "Cochrane"
-    url: "https://www.cochrane.org/evidence/CD013368_running-shoes-preventing-lower-limb-running-injuries-adults"
-    published: "2022-08-22"
-  - name: "Frontiers in Sports and Active Living"
-    url: "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2022.815675/full"
-    published: "2022-03-09"
-  - name: "Footwear Science"
-    url: "https://www.tandfonline.com/doi/full/10.1080/19424280.2023.2180543"
-    published: "2023"
-  - name: "Cureus / PubMed Central"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13189237/"
-    published: "2026"
-qma_path: ""
+- name: Cochrane
+  url: https://www.cochrane.org/evidence/CD013368_running-shoes-preventing-lower-limb-running-injuries-adults
+  published: '2022-08-22'
+- name: Frontiers in Sports and Active Living
+  url: https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2022.815675/full
+  published: '2022-03-09'
+- name: Footwear Science
+  url: https://www.tandfonline.com/doi/full/10.1080/19424280.2023.2180543
+  published: '2023'
+- name: Cureus / PubMed Central
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13189237/
+  published: '2026'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What does the best available review say about choosing running shoes from static foot posture alone?"
+  question: What does the best available review say about choosing running shoes from
+    static foot posture alone?
   options:
-    - "It guarantees fewer lower-limb injuries"
-    - "It probably makes little or no difference to injury rates"
-    - "It works only when the most expensive shoe is chosen"
+  - It guarantees fewer lower-limb injuries
+  - It probably makes little or no difference to injury rates
+  - It works only when the most expensive shoe is chosen
   answer: 1
-  explanation: "The Cochrane review found moderate-certainty evidence that prescription based on static foot posture probably makes little or no difference, although the relevant trials were in military populations."
+  explanation: The Cochrane review found moderate-certainty evidence that prescription
+    based on static foot posture probably makes little or no difference, although
+    the relevant trials were in military populations.
 ---
 
 The machine draws a neat map of your arches. A salesperson points to a colour band, gives your foot a label and reaches for the shoe that supposedly belongs to it. It feels scientific. It may even be useful for discussing size or shape. What it cannot do is guarantee that this shoe will protect you from injury.

@@ -1,44 +1,52 @@
 ---
 slug: the-manuscript-we-still-cannot-read
-title: "The Manuscript We Still Cannot Read—and What We Actually Know"
-dek: "The Voynich Manuscript attracts confident solutions because its pictures invite stories; a real decipherment would have to survive tests that pictures alone cannot pass."
+title: The Manuscript We Still Cannot Read—and What We Actually Know
+dek: The Voynich Manuscript attracts confident solutions because its pictures invite
+  stories; a real decipherment would have to survive tests that pictures alone cannot
+  pass.
 section: mysteries
 type: daily
 depth: open
 lang: en
-date: 2026-08-25
-status: draft
-confidence: 86
+date: '2026-08-25'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual medieval manuscript evidence ladder ink parchment botanical diagrams analytical verification"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual medieval manuscript evidence ladder ink parchment botanical
+  diagrams analytical verification
 sources:
-  - name: "Beinecke Rare Book and Manuscript Library, Yale University"
-    url: "https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript"
-    published: "undated; accessed 2026-08-25"
-  - name: "Yale Library"
-    url: "https://library.yale.edu/news/alumna-joins-long-search-unlock-enigmatic-15th-century-manuscript"
-    published: "2024-08-19"
-  - name: "The Atlantic"
-    url: "https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/"
-    published: "2024-08-08"
-  - name: "Yale News"
-    url: "https://news.yale.edu/2016/10/31/mysterious-voynich-manuscript-reborn-facsimile-edition"
-    published: "2016-10-31"
-qma_path: ""
+- name: Beinecke Rare Book and Manuscript Library, Yale University
+  url: https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript
+  published: undated; accessed 2026-08-25
+- name: Yale Library
+  url: https://library.yale.edu/news/alumna-joins-long-search-unlock-enigmatic-15th-century-manuscript
+  published: '2024-08-19'
+- name: The Atlantic
+  url: https://www.theatlantic.com/magazine/archive/2024/09/decoding-voynich-manuscript/679157/
+  published: '2024-08-08'
+- name: Yale News
+  url: https://news.yale.edu/2016/10/31/mysterious-voynich-manuscript-reborn-facsimile-edition
+  published: '2016-10-31'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What would most strengthen a claimed decipherment of the Voynich Manuscript?"
-  options: ["A translation that resembles one illustration", "A stable method that works across the manuscript and makes independently testable predictions", "A computer model that produces fluent-looking sentences"]
+  question: What would most strengthen a claimed decipherment of the Voynich Manuscript?
+  options:
+  - A translation that resembles one illustration
+  - A stable method that works across the manuscript and makes independently testable
+    predictions
+  - A computer model that produces fluent-looking sentences
   answer: 1
-  explanation: "A real decipherment must apply consistently beyond selected passages, explain difficult cases and produce results that independent researchers can reproduce."
+  explanation: A real decipherment must apply consistently beyond selected passages,
+    explain difficult cases and produce results that independent researchers can reproduce.
 ---
 
 ## BRIEFLY
