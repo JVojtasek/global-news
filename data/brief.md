@@ -95,15 +95,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 46  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 49  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 46
-  2026-08-17  (2 zdrojů, síla 44)  Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say
-  2026-08-18  (3 zdrojů, síla 58)  BBC breaks down Trump's latest shift on North and South Korea
-  2026-08-18  (3 zdrojů, síla 55)  South Korea president calls for military independence in wake of Trump call to cut joint drills
+rubrika: world · sledováno od 2026-08-09 · záznamů: 49
   2026-08-18  (2 zdrojů, síla 40)  South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un
   2026-08-18  (2 zdrojů, síla 40)  Why has Trump threatened to bomb Oman – for a second time?
   2026-08-18  (1 zdrojů, síla 42)  Iran clubs face Qatar and UAE sides at neutral venues in Champions League
@@ -121,6 +118,9 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 46
   2026-08-24  (1 zdrojů, síla 42)  Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
   2026-08-24  (2 zdrojů, síla 42)  US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
   2026-08-24  (2 zdrojů, síla 44)  What do locals think of IndyCar in Washington DC?
+  2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran
+  2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
+  2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

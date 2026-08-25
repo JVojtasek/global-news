@@ -7,11 +7,8 @@ Paměť obsahuje **41 vláken**. Aktivních za posledních 14 dní: **24**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 15 dní · 46 záznamů
+- rubrika `world` · sledováno 16 dní · 49 záznamů
 - časová osa:
-  - **2026-08-20** (4 zdrojů) Trump threatens 'tremendous economic consequences' on any country helping Iran
-  - **2026-08-20** (3 zdrojů) Middle East updates: Trump warns 'economic consequences' for nations helping Iran
-  - **2026-08-20** (2 zdrojů) North Korea fires 10 missiles day after Trump curtails South Korea joint drills
   - **2026-08-20** (1 zdrojů) How China and Russia could hobble Trump’s plans to isolate Iran
   - **2026-08-20** (2 zdrojů) North Korea fires ballistic missiles as US-South Korea drills near end
   - **2026-08-22** (2 zdrojů) Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
@@ -19,6 +16,9 @@ Paměť obsahuje **41 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-24** (1 zdrojů) Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
   - **2026-08-24** (2 zdrojů) US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
   - **2026-08-24** (2 zdrojů) What do locals think of IndyCar in Washington DC?
+  - **2026-08-25** (3 zdrojů) China warns it will safeguard its interests after US widens sanctions against Iran
+  - **2026-08-25** (2 zdrojů) Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
+  - **2026-08-25** (2 zdrojů) Middle East: Iran vows response to fresh US sanctions
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 13 dní · 23 záznamů
