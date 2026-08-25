@@ -1,44 +1,55 @@
 ---
 slug: two-homes-one-relationship
-title: "Two Homes, One Relationship"
-dek: "Living apart together can protect autonomy in later life, but affection alone does not answer questions about care, money, family authority or emergencies."
+title: Two Homes, One Relationship
+dek: Living apart together can protect autonomy in later life, but affection alone
+  does not answer questions about care, money, family authority or emergencies.
 section: relationships
 type: analysis
 depth: open
 lang: en
-date: 2026-08-25
-status: draft
-confidence: 86
+date: '2026-08-25'
+status: review
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "ucl-older-adults-living-apart-together-2024"
-series: ""
-image_query: "two warmly lit neighboring apartment windows connected by a shared garden path no people no text"
+format: ''
+event_id: ucl-older-adults-living-apart-together-2024
+series: ''
+image_query: two warmly lit neighboring apartment windows connected by a shared garden
+  path no people no text
 sources:
-  - name: "The Washington Post — Living Apart Together: A New Option for Older Adults"
-    url: "https://www.washingtonpost.com/national/health-science/living-apart-together-a-new-option-for-older-adults/2018/05/11/fa021f54-54fb-11e8-a6d4-ca1d035642ce_story.html"
-    published: "2018-05-11"
-  - name: "The Journals of Gerontology: Series B — Living Apart Together and Mental Health"
-    url: "https://academic.oup.com/psychsocgerontology/article/80/3/gbae192/7915174"
-    published: "2024-12-03"
-  - name: "UCL — Study reveals why many older adult couples live apart"
-    url: "https://www.ucl.ac.uk/news/2024/dec/study-reveals-why-many-older-adult-couples-live-apart"
-    published: "2024-12-03"
-  - name: "Canadian Journal on Aging — Intra-couple Caregiving of Older Adults Living Apart Together"
-    url: "https://www.cambridge.org/core/journals/canadian-journal-on-aging-la-revue-canadienne-du-vieillissement/article/intracouple-caregiving-of-older-adults-living-apart-together-commitment-and-independence/C5BF380CDFCC3984EF8D2FF98851401A"
-    published: "2015"
-qma_path: ""
+- name: 'The Washington Post — Living Apart Together: A New Option for Older Adults'
+  url: https://www.washingtonpost.com/national/health-science/living-apart-together-a-new-option-for-older-adults/2018/05/11/fa021f54-54fb-11e8-a6d4-ca1d035642ce_story.html
+  published: '2018-05-11'
+- name: 'The Journals of Gerontology: Series B — Living Apart Together and Mental
+    Health'
+  url: https://academic.oup.com/psychsocgerontology/article/80/3/gbae192/7915174
+  published: '2024-12-03'
+- name: UCL — Study reveals why many older adult couples live apart
+  url: https://www.ucl.ac.uk/news/2024/dec/study-reveals-why-many-older-adult-couples-live-apart
+  published: '2024-12-03'
+- name: Canadian Journal on Aging — Intra-couple Caregiving of Older Adults Living
+    Apart Together
+  url: https://www.cambridge.org/core/journals/canadian-journal-on-aging-la-revue-canadienne-du-vieillissement/article/intracouple-caregiving-of-older-adults-living-apart-together-commitment-and-independence/C5BF380CDFCC3984EF8D2FF98851401A
+  published: '2015'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why do couples living in separate homes need an explicit emergency-access conversation?"
-  options: ["Because emotional commitment does not automatically grant legal authority or physical access", "Because separate homes always weaken commitment", "Because adult children cannot participate in care decisions"]
+  question: Why do couples living in separate homes need an explicit emergency-access
+    conversation?
+  options:
+  - Because emotional commitment does not automatically grant legal authority or physical
+    access
+  - Because separate homes always weaken commitment
+  - Because adult children cannot participate in care decisions
   answer: 0
-  explanation: "Affection and commitment do not by themselves create keys, contact permissions, medical authority or a recognised role during a crisis."
+  explanation: Affection and commitment do not by themselves create keys, contact
+    permissions, medical authority or a recognised role during a crisis.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

@@ -1,44 +1,51 @@
 ---
 slug: a-password-manager-is-not-the-whole-risk
-title: "A Password Manager Is a Single Point of Failure—That Is Not the Whole Risk"
-dek: "A vault concentrates secrets, but the honest comparison is with reused passwords, lost recovery codes and ordinary human memory—not with perfect security."
+title: A Password Manager Is a Single Point of Failure—That Is Not the Whole Risk
+dek: A vault concentrates secrets, but the honest comparison is with reused passwords,
+  lost recovery codes and ordinary human memory—not with perfect security.
 section: tech
 type: analysis
 depth: open
 lang: en
-date: 2026-08-25
-status: draft
-confidence: 88
+date: '2026-08-25'
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "nist-800-63b-password-manager-household-risk"
-series: ""
-image_query: "conceptual encrypted vault with separate recovery key and household devices no logos"
+format: ''
+event_id: nist-800-63b-password-manager-household-risk
+series: ''
+image_query: conceptual encrypted vault with separate recovery key and household devices
+  no logos
 sources:
-  - name: "NIST Special Publication 800-63B"
-    url: "https://pages.nist.gov/800-63-4/sp800-63b.html"
-    published: "2025-07-31"
-  - name: "USENIX Security 2018 — Better Managed than Memorized?"
-    url: "https://www.usenix.org/conference/usenixsecurity18/presentation/lyastani"
-    published: "2018-08-15"
-  - name: "USENIX Security 2022 — Password Managers: Attacks and Defenses"
-    url: "https://www.usenix.org/system/files/sec22-mayer.pdf"
-    published: "2022-08"
-  - name: "ETH Zurich — Password managers less secure than promised"
-    url: "https://ethz.ch/en/news-and-events/eth-news/news/2026/02/password-managers-less-secure-than-promised.html"
-    published: "2026-02-16"
-qma_path: ""
+- name: NIST Special Publication 800-63B
+  url: https://pages.nist.gov/800-63-4/sp800-63b.html
+  published: '2025-07-31'
+- name: USENIX Security 2018 — Better Managed than Memorized?
+  url: https://www.usenix.org/conference/usenixsecurity18/presentation/lyastani
+  published: '2018-08-15'
+- name: 'USENIX Security 2022 — Password Managers: Attacks and Defenses'
+  url: https://www.usenix.org/system/files/sec22-mayer.pdf
+  published: 2022-08
+- name: ETH Zurich — Password managers less secure than promised
+  url: https://ethz.ch/en/news-and-events/eth-news/news/2026/02/password-managers-less-secure-than-promised.html
+  published: '2026-02-16'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which problem does storing recovery codes outside the password vault mainly address?"
-  options: ["Password reuse", "Being locked out of the vault", "Malware on an unlocked device"]
+  question: Which problem does storing recovery codes outside the password vault mainly
+    address?
+  options:
+  - Password reuse
+  - Being locked out of the vault
+  - Malware on an unlocked device
   answer: 1
-  explanation: "An external recovery method improves availability when the vault or second factor cannot be reached; it does not make a compromised device safe."
+  explanation: An external recovery method improves availability when the vault or
+    second factor cannot be reached; it does not make a compromised device safe.
 ---
 
 ## BRIEFLY

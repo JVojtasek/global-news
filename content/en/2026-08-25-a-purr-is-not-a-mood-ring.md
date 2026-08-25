@@ -1,44 +1,53 @@
 ---
 slug: a-purr-is-not-a-mood-ring
-title: "A Purr Is Not a Mood Ring"
-dek: "New biomechanics has changed the leading explanation for how cats make that low rumble, but the sound still cannot translate a cat’s feelings on its own."
+title: A Purr Is Not a Mood Ring
+dek: New biomechanics has changed the leading explanation for how cats make that low
+  rumble, but the sound still cannot translate a cat’s feelings on its own.
 section: science
 type: feature
 depth: open
 lang: en
-date: 2026-08-25
+date: '2026-08-25'
 status: reserve
-confidence: 87
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "current-biology-cat-purr-larynx-2023"
-series: ""
-image_query: "close conceptual scientific illustration of cat throat airflow and gentle sound waves no text"
+format: ''
+event_id: current-biology-cat-purr-larynx-2023
+series: ''
+image_query: close conceptual scientific illustration of cat throat airflow and gentle
+  sound waves no text
 sources:
-  - name: "Current Biology / PubMed — Domestic cat larynges can produce purring frequencies without neural input"
-    url: "https://pubmed.ncbi.nlm.nih.gov/37794583/"
-    published: "2023-10-03"
-  - name: "Current Biology / PubMed — The cry embedded within the purr"
-    url: "https://pubmed.ncbi.nlm.nih.gov/19602409/"
-    published: "2009-07-14"
-  - name: "NC State University College of Veterinary Medicine — Why Do Cats Purr?"
-    url: "https://cvm.ncsu.edu/news/why-do-cats-purr-nc-state-university-college-of-veterinary-medicine-behavior-expert-explains/"
-    published: "2012-07-30"
-  - name: "Science — How do cats purr? New finding challenges long-held assumptions"
-    url: "https://www.science.org/content/article/how-do-cats-purr-new-finding-challenges-long-held-assumptions"
-    published: "2023-10-03"
-qma_path: ""
+- name: Current Biology / PubMed — Domestic cat larynges can produce purring frequencies
+    without neural input
+  url: https://pubmed.ncbi.nlm.nih.gov/37794583/
+  published: '2023-10-03'
+- name: Current Biology / PubMed — The cry embedded within the purr
+  url: https://pubmed.ncbi.nlm.nih.gov/19602409/
+  published: '2009-07-14'
+- name: NC State University College of Veterinary Medicine — Why Do Cats Purr?
+  url: https://cvm.ncsu.edu/news/why-do-cats-purr-nc-state-university-college-of-veterinary-medicine-behavior-expert-explains/
+  published: '2012-07-30'
+- name: Science — How do cats purr? New finding challenges long-held assumptions
+  url: https://www.science.org/content/article/how-do-cats-purr-new-finding-challenges-long-held-assumptions
+  published: '2023-10-03'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What did the 2023 excised-larynx experiment demonstrate?"
-  options: ["That cats purr only when content", "That cat larynges can produce purr-range frequencies without a nerve impulse for every vibration", "That purring heals bone"]
+  question: What did the 2023 excised-larynx experiment demonstrate?
+  options:
+  - That cats purr only when content
+  - That cat larynges can produce purr-range frequencies without a nerve impulse for
+    every vibration
+  - That purring heals bone
   answer: 1
-  explanation: "Airflow through specialised laryngeal tissue produced low-frequency oscillation without cyclical neural input; the experiment did not decode emotion or prove healing."
+  explanation: Airflow through specialised laryngeal tissue produced low-frequency
+    oscillation without cyclical neural input; the experiment did not decode emotion
+    or prove healing.
 ---
 
 ## BRIEFLY
