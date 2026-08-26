@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "china's",
-    "jong",
-    "donald",
-    "hormuz",
-    "taiwan",
-    "celtic",
-    "iran",
-    "states",
-    "strait",
-    "league",
-    "middle",
-    "indycar",
-    "scott",
-    "iran's",
-    "groundhog",
-    "north",
-    "east",
-    "gulf",
-    "start",
-    "china",
-    "champions",
-    "us-south",
     "trump",
-    "ukraine",
-    "iranian",
-    "qatar",
-    "american",
-    "south",
-    "oman",
-    "briton",
-    "bluster",
-    "trump's",
-    "korea",
-    "justified",
-    "tehran",
     "economic",
-    "treasury",
-    "turkey",
+    "bluster",
+    "justified",
+    "oman",
+    "china",
+    "jong",
+    "groundhog",
+    "donald",
+    "american",
+    "east",
+    "china's",
+    "champions",
     "d-day",
-    "secretary"
+    "eswatini",
+    "trump's",
+    "celtic",
+    "scott",
+    "qatar",
+    "hormuz",
+    "iran's",
+    "strait",
+    "iran",
+    "korea",
+    "states",
+    "us-south",
+    "taiwan",
+    "turkey",
+    "gulf",
+    "north",
+    "south",
+    "iranian",
+    "ukraine",
+    "secretary",
+    "briton",
+    "middle",
+    "start",
+    "league",
+    "indycar",
+    "treasury"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -103,7 +103,8 @@
     "baac0500a8d1",
     "9e5ec8aee781",
     "d00029b2e66b",
-    "95584f14b3e1"
+    "95584f14b3e1",
+    "033193ef8aba"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-26",
@@ -755,6 +756,17 @@
       "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
       "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+     "sources": 2,
+     "score": 46,
+     "event_id": "033193ef8aba",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -763,33 +775,34 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "ben-gvir",
-    "burnham",
-    "global",
-    "france",
-    "palestinians",
     "bank",
-    "american",
     "us-led",
-    "former",
-    "hind",
-    "rajab",
-    "israel",
-    "israeli",
-    "palestine",
-    "colombia",
-    "palestinian",
-    "hamas",
-    "israel's",
     "west",
-    "week",
-    "netanyahu",
-    "multiple",
-    "canada",
-    "labour",
-    "gaza",
+    "hamas",
+    "far-right",
     "italy",
-    "germany"
+    "palestinians",
+    "canada",
+    "former",
+    "labour",
+    "israeli",
+    "netanyahu",
+    "american",
+    "palestine",
+    "palestinian",
+    "global",
+    "hind",
+    "ben-gvir",
+    "multiple",
+    "rajab",
+    "burnham",
+    "week",
+    "gaza",
+    "israel's",
+    "germany",
+    "france",
+    "israel",
+    "colombia"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -807,7 +820,8 @@
     "be74360785ae",
     "5e2205225644",
     "0f7415ce5b12",
-    "5a37c8f3f9af"
+    "5a37c8f3f9af",
+    "f1f5dde9d5e4"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-26",
@@ -993,6 +1007,17 @@
       "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
       "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f1f5dde9d5e4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1083,6 +1108,7 @@
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
    "entities": [
+    "covid",
     "remembering",
     "dolly",
     "parton"
@@ -1091,7 +1117,8 @@
     "1301430cb05f",
     "510624bdc84f",
     "f98076571ee0",
-    "5bb13a447624"
+    "5bb13a447624",
+    "8f63c883fb07"
    ],
    "first_seen": "2026-08-25",
    "last_seen": "2026-08-26",
@@ -1141,6 +1168,18 @@
       "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
      ]
     }
    ]
@@ -1195,6 +1234,35 @@
      "links": [
       "https://www.theguardian.com/technology/2026/aug/25/instagram-ceo-teen-safety-lawsuit",
       "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7955e8f87e6c",
+   "title": "Man City complete £86m Bouaddi signing from Lille",
+   "section": "sport",
+   "entities": [
+    "bouaddi",
+    "lille",
+    "city"
+   ],
+   "event_ids": [
+    "7955e8f87e6c"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-08-26",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Man City complete £86m Bouaddi signing from Lille",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7955e8f87e6c",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle"
      ]
     }
    ]
@@ -3489,5 +3557,5 @@
    ]
   }
  ],
- "updated": "2026-08-26T09:28:09+00:00"
+ "updated": "2026-08-26T12:27:45+00:00"
 }

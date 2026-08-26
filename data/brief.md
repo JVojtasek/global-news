@@ -41,7 +41,33 @@
     <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
     > https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 P
 
-### 2. Dolly Parton, one of country music's most singular performers, has died at age 80
+### 2. How Dolly Parton helped the world - from children's books to supporting Covid vaccine
+- id události: `8f63c883fb07`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Entertainment** — How Dolly Parton helped the world - from children's books to supporting Covid vaccine
+    <https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss>
+    > The late singer-songwriter's charity causes were as eclectic as her music, but she had a personal connection to each one.
+  - **NPR News** — Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton
+    <https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters>
+    > Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions "dollar for dollar." And, remembering the legacy of country star and icon Dolly Parton, who died at 80.
+  - **France 24** — US country music legend Dolly Parton dies, aged 80
+    <https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80>
+    > Dolly Parton was one of the rare celebrities that transcended divides in the United States. The country music legend and actress died, aged 80, on August 25.
+  - **France 24** — Canada strikes back at US with retaliatory tariffs as trade war escalates
+    <https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates>
+    > Canada struck back at the United States on Tuesday with retaliatory tariffs on about $20 billion worth of American goods, including steel, dairy products, appliances and farm equipment, as the trade war between the once-friendly neighbors escalated sharply. The confrontation thre
+  - **France 24** — America unites in mourning for Dolly Parton
+    <https://www.france24.com/en/video/20260826-america-unites-in-mourning-for-dolly-parton>
+    > Americans of all stripes united to grieve the death of country music legend Dolly Parton, offering a rare moment of agreement as presidents of both parties joined entertainment and business giants in paying her tribute. The singer, who was 80, was long heralded as one of the few 
+  - **France 24** — 'Truly unique': Dolly Parton, music star, actor and beloved figure who spanned generations
+    <https://www.france24.com/en/video/20260826-truly-unique-dolly-parton-music-star-actor-and-beloved-figure-who-spanned-generations>
+    > Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died in Nashville. She was 80 years old. Known for her curvy physi
+  - **CNBC Top** — Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
+    <https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html>
+    > Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.
+
+### 3. Dolly Parton, one of country music's most singular performers, has died at age 80
 - id události: `1301430cb05f`  ·  rubrika: `culture`  ·  skóre: 71  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -61,7 +87,7 @@
     <https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html>
     > With songs such as "Coat of Many Colors," "Jolene" and "I Will Always Love You," she was one of the best-selling female artists of all time.
 
-### 3. 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
+### 4. 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
 - id události: `5bb13a447624`  ·  rubrika: `culture`  ·  skóre: 68  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -80,29 +106,6 @@
   - **France 24** — Embraced across divides, Dolly Parton leaves a lasting legacy
     <https://www.france24.com/en/culture/20260826-embraced-across-divides-dolly-parton-leaves-a-lasting-legacy>
     > Throughout her lifetime, Dolly Parton worked to build a better world, while becoming inextricable from the American imagination. She was embraced by fans across gender, race and class, embodying a mythology typically inaccessible to even the most influential historical figures. I
-
-### 4. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
-- id události: `0430628ddb98`  ·  rubrika: `tech`  ·  skóre: 67  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **TechCrunch** — Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
-    <https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/>
-    > The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.
-  - **The Verge** — Where to preorder the updated Mac Mini and Mac Studio
-    <https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder>
-    > Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The M
-  - **CNBC Top** — Apple announces new Mac Mini and Mac Studio models with AI upgrades
-    <https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html>
-    > "With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac," Apple said.
-  - **The Verge** — Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices
-    <https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs>
-    > Apple is announcing a new generation of the Mac Mini, once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4 Pro models, but with […]
-  - **Hacker News Best** — Apple Introduces New Mac Studio with M5 Max and M5 Ultra
-    <https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/>
-    > Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 262 # Comments: 155
-  - **Hacker News Best** — Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
-    <https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/>
-    > Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 327 # Comments: 279
 
 ---
 
@@ -129,13 +132,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 57  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 58  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 57
-  2026-08-20  (3 zdrojů, síla 57)  Middle East updates: Trump warns 'economic consequences' for nations helping Iran
+rubrika: world · sledováno od 2026-08-09 · záznamů: 58
   2026-08-20  (2 zdrojů, síla 44)  North Korea fires 10 missiles day after Trump curtails South Korea joint drills
   2026-08-20  (1 zdrojů, síla 40)  How China and Russia could hobble Trump’s plans to isolate Iran
   2026-08-20  (2 zdrojů, síla 42)  North Korea fires ballistic missiles as US-South Korea drills near end
@@ -155,6 +157,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 57
   2026-08-26  (4 zdrojů, síla 66)  Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
   2026-08-26  (3 zdrojů, síla 60)  Celtic deficiencies laid bare on another night of Champions League pain
   2026-08-26  (2 zdrojů, síla 40)  Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
+  2026-08-26  (2 zdrojů, síla 46)  China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

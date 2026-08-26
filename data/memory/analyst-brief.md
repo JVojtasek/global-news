@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-26
 
-Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **24**.
+Paměť obsahuje **44 vláken**. Aktivních za posledních 14 dní: **24**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 17 dní · 57 záznamů
+- rubrika `world` · sledováno 17 dní · 58 záznamů
 - časová osa:
-  - **2026-08-25** (2 zdrojů) Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
   - **2026-08-25** (2 zdrojů) Middle East: Iran vows response to fresh US sanctions
   - **2026-08-25** (2 zdrojů) Is Scott Bessent the Fed chair Donald Trump always wanted?
   - **2026-08-25** (2 zdrojů) Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
@@ -19,6 +18,7 @@ Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-26** (4 zdrojů) Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
   - **2026-08-26** (3 zdrojů) Celtic deficiencies laid bare on another night of Champions League pain
   - **2026-08-26** (2 zdrojů) Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
+  - **2026-08-26** (2 zdrojů) China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 13 dní · 23 záznamů
@@ -35,9 +35,8 @@ Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 13 dní · 16 záznamů
+- rubrika `world` · sledováno 13 dní · 17 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
   - **2026-08-18** (1 zdrojů) Palestine weekly: Global outcry fails to break West Bank siege
   - **2026-08-19** (2 zdrojů) Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
   - **2026-08-19** (3 zdrojů) Israel admits its soldiers fired at car in which Hind Rajab was killed
@@ -47,6 +46,7 @@ Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
   - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
+  - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 7 dní · 15 záznamů
