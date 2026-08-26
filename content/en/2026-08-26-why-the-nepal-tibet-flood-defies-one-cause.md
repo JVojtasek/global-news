@@ -1,14 +1,15 @@
 ---
 slug: why-the-nepal-tibet-flood-defies-one-cause
-title: "The Nepal–Tibet Flood Is a Chain of Failures, Not a One-Cause Story"
-dek: "The verified disaster is growing clearer, but the trigger remains unsettled—and that distinction matters for warnings far beyond one Himalayan valley."
+title: The Nepal–Tibet Flood Is a Chain of Failures, Not a One-Cause Story
+dek: The verified disaster is growing clearer, but the trigger remains unsettled—and
+  that distinction matters for warnings far beyond one Himalayan valley.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-08-26'
-status: draft
-confidence: 87
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -17,8 +18,8 @@ automation_role: intraday
 generator: chatgpt-work
 format: roundtable
 event_id: reuters-nepal-tibet-flood-2026-08-26
-series: "The Newsroom Table"
-image_query: "aerial view Himalayan river valley flood damage Nepal Tibet border"
+series: The Newsroom Table
+image_query: aerial view Himalayan river valley flood damage Nepal Tibet border
 sources:
 - name: Reuters
   url: https://www.reuters.com/business/environment/nepal-flash-flood-washes-away-villages-project-sites-near-tibet-border-2026-08-26/
@@ -38,13 +39,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: "What is the strongest conclusion about the flood's trigger at this stage?"
+  question: What is the strongest conclusion about the flood's trigger at this stage?
   options:
-  - "The earthquake alone has been proved to have caused it"
-  - "A debris-laden surge followed an ice-rock collapse, but the initiating trigger remains under investigation"
-  - "Monsoon rain alone has been proved to have caused it"
+  - The earthquake alone has been proved to have caused it
+  - A debris-laden surge followed an ice-rock collapse, but the initiating trigger
+    remains under investigation
+  - Monsoon rain alone has been proved to have caused it
   answer: 1
-  explanation: "Satellite analysis supports an ice-rock collapse and debris surge, while experts and officials have not yet established what initiated the collapse."
+  explanation: Satellite analysis supports an ice-rock collapse and debris surge,
+    while experts and officials have not yet established what initiated the collapse.
+review_reason: 'citlivé téma: killed'
 ---
 
 ## BRIEFLY
