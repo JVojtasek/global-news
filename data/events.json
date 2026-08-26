@@ -713,6 +713,46 @@
   ]
  },
  {
+  "id": "63243808b149",
+  "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+  "section": "ai",
+  "score": 52,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-25T09:15:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "source": "The Verge AI",
+    "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama […]",
+    "published_at": "2026-08-25T09:15:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   },
+   {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "Hugging Face",
+    "summary": "",
+    "published_at": "2026-08-13T17:16:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   },
+   {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "source": "Hugging Face",
+    "summary": "",
+    "published_at": "2026-07-07T15:20:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "374572a43be2",
   "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
   "section": "world",
@@ -3205,6 +3245,99 @@
   ]
  },
  {
+  "id": "7d870e101eec",
+  "headline": "Trump sends Saudi civil nuclear agreement to Congress for review",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-26T03:17:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump sends Saudi civil nuclear agreement to Congress for review",
+    "url": "https://www.france24.com/en/americas/20260826-trump-saudi-civil-nuclear-agreement-congress",
+    "source": "France 24",
+    "summary": "US President Donald Trump has submitted a civilian nuclear cooperation agreement with Saudi Arabia to Congress for review, an administration official said. The classified pact, sent to Capitol Hill on Monday, is aimed at bolstering Riyadh’s nuclear programme but remains contingent on Saudi Arabia normalising relations with Israel.",
+    "published_at": "2026-08-26T03:17:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   },
+   {
+    "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk",
+    "url": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
+    "source": "CNBC Top",
+    "summary": "Some Democratic lawmakers and nonproliferation advocates have criticized the pact for not including a permanent prohibition on enrichment or reprocessing.",
+    "published_at": "2026-08-26T02:34:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c0e59faad76c",
+  "headline": "Musk's rocket firm SpaceX to build $100bn launch facility",
+  "section": "business",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-26T01:32:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+    "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+    "published_at": "2026-08-26T01:32:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   },
+   {
+    "title": "SpaceX to build $100 billion rocket launch facility in southern Louisiana",
+    "url": "https://www.france24.com/en/americas/20260826-spacex-to-build-100-billion-rocket-launch-complex-in-southern-louisiana",
+    "source": "France 24",
+    "summary": "SpaceX unveiled plans on Tuesday for a $100 billion rocket launch complex in southern Louisiana, its largest yet, aimed at supporting Starship and AI satellite missions. The 125,000-acre Starbase Louisiana site on Pecan Island could eventually handle thousands of Starship launches annually, the company said.",
+    "published_at": "2026-08-26T02:36:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "cf3951101d71",
+  "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+  "section": "ai",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-13T17:00:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "source": "Ars Technica AI",
+    "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+    "published_at": "2026-08-13T17:00:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   },
+   {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "source": "Google DeepMind",
+    "summary": "",
+    "published_at": "2026-06-24T16:30:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "81646cf59625",
   "headline": "Man City 'completely deserved to win' - Maresca",
   "section": "sport",
@@ -5501,28 +5634,6 @@
   ]
  },
  {
-  "id": "07fa1256153f",
-  "headline": "Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-23T03:34:43+00:00",
-  "event_time": "2026-08-23T00:42:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
-    "url": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
-    "source": "The Guardian World",
-    "summary": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland. The seal was found dead at Beachport on Wednesday",
-    "published_at": "2026-08-23T00:42:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T03:34:37+00:00"
-   }
-  ]
- },
- {
   "id": "978628afeb7d",
   "headline": "Onshore windfarm applications hit 10-year high in England",
   "section": "world",
@@ -7266,46 +7377,77 @@
   ]
  },
  {
-  "id": "4f21b246542f",
-  "headline": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
+  "id": "deed0a0e4383",
+  "headline": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
   "section": "world",
-  "score": 34,
+  "score": 35,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-23T03:34:43+00:00",
-  "event_time": "2026-08-23T02:14:52+00:00",
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-26T01:43:13+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+    "title": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
     "source": "The Guardian World",
-    "summary": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast In a week’s time, the proud runners finishing the Sydney Marathon will receive a medal showing the landmarks they have just sped past – plus one they definitely didn’t. In wh",
-    "published_at": "2026-08-23T02:14:52+00:00",
+    "summary": "Labor put ‘levy on all public transport fares in metropolitan Melbourne and regional Victoria’ since January 2025, auditor general says Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian government secretly increased public transport fares to raise money to help pay for the Suburban Rail Loop and other Big Build project",
+    "published_at": "2026-08-26T01:43:13+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-23T03:34:37+00:00"
+    "seen_at": "2026-08-26T03:35:56+00:00"
    }
   ]
  },
  {
-  "id": "e4c21819349e",
-  "headline": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-  "section": "safety",
-  "score": 34,
-  "sources_count": 1,
+  "id": "2b694f5ccb62",
+  "headline": "Your genes may decide whether a low-carb diet sends cholesterol soaring",
+  "section": "health",
+  "score": 35,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-23T03:34:43+00:00",
-  "event_time": "2026-08-19T19:02:40+00:00",
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-26T01:31:50+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-    "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-    "source": "The Hacker News",
-    "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
-    "published_at": "2026-08-19T19:02:40+00:00",
+    "title": "Your genes may decide whether a low-carb diet sends cholesterol soaring",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823015009.htm",
+    "source": "ScienceDaily",
+    "summary": "A low-carb diet may raise LDL cholesterol much more sharply in people who are genetically predisposed to high cholesterol, particularly when they consume lots of saturated fat. The findings could help explain why people following seemingly similar diets can have dramatically different results.",
+    "published_at": "2026-08-26T01:31:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-23T03:34:37+00:00"
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   },
+   {
+    "title": "Your genes may decide whether a low-carb diet sends cholesterol soaring",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260823015009.htm",
+    "source": "ScienceDaily Health",
+    "summary": "A low-carb diet may raise LDL cholesterol much more sharply in people who are genetically predisposed to high cholesterol, particularly when they consume lots of saturated fat. The findings could help explain why people following seemingly similar diets can have dramatically different results.",
+    "published_at": "2026-08-26T01:31:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "229ad88b0432",
+  "headline": "Prime minister Andy Burnham ‘heartbroken’ after death of rugby league legend Billy Boston",
+  "section": "sport",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-25T15:26:38+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Prime minister Andy Burnham ‘heartbroken’ after death of rugby league legend Billy Boston",
+    "url": "https://www.theguardian.com/sport/2026/aug/25/sir-billy-boston-first-rugby-league-player-to-receive-knighthood-dies-aged-92",
+    "source": "Guardian Sport",
+    "summary": "Boston was one of the finest players in the sport’s history Wigan plan series of tributes in Thursday’s Hull KR clash Andy ­Burnham says he is “heart­broken” by the death of Sir Billy ­Boston after the prime minister led tri­butes to the rugby league icon. Boston died on Tuesday at the age of 92. He was one of the sport’s all‑time great players, scoring almost 500 tries during an illustrious caree",
+    "published_at": "2026-08-25T15:26:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-26T03:35:56+00:00"
    }
   ]
  },
@@ -8461,68 +8603,24 @@
   ]
  },
  {
-  "id": "fb2509a17843",
-  "headline": "One Nation MP concedes party’s migration target ‘not too different’ from Labor’s once rural workforce included",
+  "id": "97d306bab1fa",
+  "headline": "US firefighters say major blaze near Reno about a quarter contained",
   "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T03:34:43+00:00",
-  "event_time": "2026-08-23T03:12:58+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "One Nation MP concedes party’s migration target ‘not too different’ from Labor’s once rural workforce included",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
-    "source": "The Guardian World",
-    "summary": "David Farley says party wants 100,000 migrant rural workers in addition to the 130,000 migration target it considers the ‘true’ number Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast One Nation MP David Farley has conceded the minor party’s net migration target is “not too different” to Labor’s, echoing an earlier claim over which",
-    "published_at": "2026-08-23T03:12:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T03:34:37+00:00"
-   }
-  ]
- },
- {
-  "id": "7c36e5eb2f2b",
-  "headline": "‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?",
-  "section": "business",
-  "score": 33,
+  "score": 34,
   "sources_count": 1,
   "depth_signal": 2,
-  "created": "2026-08-23T03:34:43+00:00",
-  "event_time": "2026-08-22T05:00:57+00:00",
+  "created": "2026-08-26T03:35:59+00:00",
+  "event_time": "2026-08-25T09:49:02+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?",
-    "url": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
-    "source": "Guardian Business",
-    "summary": "As fitness-conscious consumers turn away from processed foods, the industry is scrambling for new ideas, including nutrient-rich lollies and protein-packed tubs. Will they take the fun out of this summer treat? Last month, I stood in the biggest ice-cream factory in Britain and watched a 5-metre Viennetta mint-flavoured ice-cream cake get made. The factory – which is owned by the Magnum Ice Cream ",
-    "published_at": "2026-08-22T05:00:57+00:00",
+    "title": "US firefighters say major blaze near Reno about a quarter contained",
+    "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+    "published_at": "2026-08-25T09:49:02+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-23T03:34:37+00:00"
-   }
-  ]
- },
- {
-  "id": "c1c988556190",
-  "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-  "section": "ai",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-23T03:34:43+00:00",
-  "event_time": "2026-08-13T17:16:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "source": "Hugging Face",
-    "summary": "",
-    "published_at": "2026-08-13T17:16:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-23T03:34:37+00:00"
+    "seen_at": "2026-08-26T03:35:56+00:00"
    }
   ]
  },
@@ -8739,59 +8837,6 @@
     "published_at": "2026-08-25T06:40:33+00:00",
     "source_countries": [],
     "seen_at": "2026-08-25T21:25:51+00:00"
-   }
-  ]
- },
- {
-  "id": "bd7d7612c857",
-  "headline": "D-Wave Quantum stock slips as CFO announces retirement",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-25T21:25:54+00:00",
-  "event_time": "2026-08-25T21:06:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "D-Wave Quantum stock slips as CFO announces retirement",
-    "url": "https://www.investing.com/news/stock-market-news/dwave-quantum-stock-slips-as-cfo-announces-retirement-93CH-4875970",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-25T21:06:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-25T21:25:51+00:00"
-   },
-   {
-    "title": "D-Wave Quantum names Greg Golkov acting CFO as Markovich retires",
-    "url": "https://www.investing.com/news/company-news/dwave-quantum-names-greg-golkov-acting-cfo-as-markovich-retires-93CH-4875967",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-25T21:04:33+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-25T21:25:51+00:00"
-   }
-  ]
- },
- {
-  "id": "22bb8b9f844a",
-  "headline": "Wife of US soldier deported after Trump rollback on military family protections",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T20:23:55+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Wife of US soldier deported after Trump rollback on military family protections",
-    "url": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-    "source": "The Guardian World",
-    "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras , according to her family and the federal Department of Homeland Security (DHS). Cristy Maryori Villafranca-Trejo is at least the seventh spouse or parent of an active-duty US soldier to be deported unde",
-    "published_at": "2026-08-25T20:23:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
    }
   ]
  }
