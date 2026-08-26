@@ -61,7 +61,27 @@
     <https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html>
     > With songs such as "Coat of Many Colors," "Jolene" and "I Will Always Love You," she was one of the best-selling female artists of all time.
 
-### 3. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
+### 3. 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
+- id události: `5bb13a447624`  ·  rubrika: `culture`  ·  skóre: 68  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Entertainment** — 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
+    <https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss>
+    > The much-loved country singer-songwriter in her own words, following her death aged 80.
+  - **BBC Entertainment** — Dolly Parton was the one thing most Americans could agree on
+    <https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss>
+    > The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.
+  - **BBC Entertainment** — Elton John, Oprah Winfrey and Paul McCartney join tributes to Dolly Parton
+    <https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss>
+    > The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon.
+  - **DW News** — US country music legend Dolly Parton dies aged 80
+    <https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf>
+    > Representatives of the country music legend told US media that Dolly Parton died after a "brief battle with cancer." Parton's career spans more than half a century and includes a wide array of smash hits.
+  - **France 24** — Embraced across divides, Dolly Parton leaves a lasting legacy
+    <https://www.france24.com/en/culture/20260826-embraced-across-divides-dolly-parton-leaves-a-lasting-legacy>
+    > Throughout her lifetime, Dolly Parton worked to build a better world, while becoming inextricable from the American imagination. She was embraced by fans across gender, race and class, embodying a mythology typically inaccessible to even the most influential historical figures. I
+
+### 4. Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899
 - id události: `0430628ddb98`  ·  rubrika: `tech`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -83,29 +103,6 @@
   - **Hacker News Best** — Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
     <https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/>
     > Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 327 # Comments: 279
-
-### 4. Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
-- id události: `94a6ef56b551`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
-    <https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss>
-    > The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
-  - **Guardian Business** — Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video
-    <https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney>
-    > Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar' Continue reading...
-  - **Guardian Business** — Canada announces retaliatory tariffs on wide range of US goods
-    <https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods>
-    > Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last week US politics live – latest updates Canada has announced it will impose tariffs on a wide range of key American industries including cosmetics, dairy, wood
-  - **DW News** — Canada announces retaliatory tariffs on US goods
-    <https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-rdf>
-    > Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carney.
-  - **France 24** — Canada strikes back at Trump with retaliatory tariffs as US trade war escalates
-    <https://www.france24.com/en/americas/20260825-canada-strikes-back-trump-with-retaliatory-tariffs-us-trade-war-escalates>
-    > Canada on Tuesday announced retaliatory tariffs on C$27.6 billion ($19.94 billion) worth of US goods, including steel and dairy products, in a dollar-for-dollar response to President Donald Trump's punitive tariffs on Canadian products. Ottawa also announced a C$7.5 billion aid p
-  - **France 24** — Replay: Canada announces countermeasures to new US tariffs
-    <https://www.france24.com/en/replay-canada-announces-countermeasures-to-new-us-tariffs>
-    > Rewatch as Canadian ministers lay out a series of countermeasures as its trade war with the US deepens after the Trump administration imposed new tariffs on Canadian goods.
 
 ---
 
@@ -132,14 +129,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 55  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 57  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 55
-  2026-08-20  (3 zdrojů, síla 56)  Iran war live: Trump announces ‘most crushing’ Iran sanctions
-  2026-08-20  (4 zdrojů, síla 67)  Trump threatens 'tremendous economic consequences' on any country helping Iran
+rubrika: world · sledováno od 2026-08-09 · záznamů: 57
   2026-08-20  (3 zdrojů, síla 57)  Middle East updates: Trump warns 'economic consequences' for nations helping Iran
   2026-08-20  (2 zdrojů, síla 44)  North Korea fires 10 missiles day after Trump curtails South Korea joint drills
   2026-08-20  (1 zdrojů, síla 40)  How China and Russia could hobble Trump’s plans to isolate Iran
@@ -158,6 +153,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 55
   2026-08-25  (2 zdrojů, síla 42)  ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
   2026-08-25  (2 zdrojů, síla 40)  US launches Economic war on Iran
   2026-08-26  (4 zdrojů, síla 66)  Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
+  2026-08-26  (3 zdrojů, síla 60)  Celtic deficiencies laid bare on another night of Champions League pain
+  2026-08-26  (2 zdrojů, síla 40)  Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

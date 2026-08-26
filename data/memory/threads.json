@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "bluster",
-    "american",
-    "briton",
-    "justified",
-    "us-south",
-    "gulf",
-    "oman",
-    "trump",
-    "donald",
-    "trump's",
-    "economic",
-    "turkey",
-    "south",
     "china's",
-    "qatar",
-    "groundhog",
+    "jong",
+    "donald",
+    "hormuz",
     "taiwan",
+    "celtic",
     "iran",
     "states",
-    "washington",
-    "ukraine",
-    "east",
-    "treasury",
-    "indycar",
-    "champions",
-    "secretary",
     "strait",
-    "scott",
-    "tehran",
-    "iranian",
-    "hormuz",
-    "north",
-    "d-day",
-    "korea",
-    "iran's",
-    "jong",
     "league",
-    "start",
     "middle",
-    "china"
+    "indycar",
+    "scott",
+    "iran's",
+    "groundhog",
+    "north",
+    "east",
+    "gulf",
+    "start",
+    "china",
+    "champions",
+    "us-south",
+    "trump",
+    "ukraine",
+    "iranian",
+    "qatar",
+    "american",
+    "south",
+    "oman",
+    "briton",
+    "bluster",
+    "trump's",
+    "korea",
+    "justified",
+    "tehran",
+    "economic",
+    "treasury",
+    "turkey",
+    "d-day",
+    "secretary"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -101,7 +101,9 @@
     "26cc05249f5d",
     "1fb25d7662d0",
     "baac0500a8d1",
-    "9e5ec8aee781"
+    "9e5ec8aee781",
+    "d00029b2e66b",
+    "95584f14b3e1"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-26",
@@ -730,6 +732,29 @@
       "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
       "https://www.france24.com/en/middle-east/20260826-middle-east-live-iran-says-hormuz-strait-still-closed-despite-transit-corridor-talks-with-oman"
      ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Celtic deficiencies laid bare on another night of Champions League pain",
+     "sources": 3,
+     "score": 60,
+     "event_id": "d00029b2e66b",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/26/martin-oneill-celtic-champions-league-collapse-lask-painful"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
+     "sources": 2,
+     "score": 40,
+     "event_id": "95584f14b3e1",
+     "links": [
+      "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+      "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1065,7 +1090,8 @@
    "event_ids": [
     "1301430cb05f",
     "510624bdc84f",
-    "f98076571ee0"
+    "f98076571ee0",
+    "5bb13a447624"
    ],
    "first_seen": "2026-08-25",
    "last_seen": "2026-08-26",
@@ -1103,6 +1129,18 @@
      "links": [
       "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
       "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -3451,5 +3489,5 @@
    ]
   }
  ],
- "updated": "2026-08-26T06:27:32+00:00"
+ "updated": "2026-08-26T09:28:09+00:00"
 }
