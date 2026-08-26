@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-25
+# ANALYTICKÉ ZADÁNÍ — 2026-08-26
 
-Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **25**.
+Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **24**.
 
 ---
 
@@ -34,6 +34,20 @@ Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
 
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 13 dní · 16 záznamů
+- časová osa:
+  - **2026-08-18** (2 zdrojů) Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
+  - **2026-08-18** (1 zdrojů) Palestine weekly: Global outcry fails to break West Bank siege
+  - **2026-08-19** (2 zdrojů) Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
+  - **2026-08-19** (3 zdrojů) Israel admits its soldiers fired at car in which Hind Rajab was killed
+  - **2026-08-19** (2 zdrojů) Multiple deadly Israeli strikes in Gaza in under 24 hours
+  - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
+  - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
+  - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
+  - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
+  - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
+
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 7 dní · 15 záznamů
 - časová osa:
@@ -47,20 +61,6 @@ Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
   - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
   - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 10 dní · 15 záznamů
-- časová osa:
-  - **2026-08-18** (1 zdrojů) Palestinian American returns to his West Bank home, under siege by Israeli settlers
-  - **2026-08-18** (2 zdrojů) Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
-  - **2026-08-18** (1 zdrojů) Palestine weekly: Global outcry fails to break West Bank siege
-  - **2026-08-19** (2 zdrojů) Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
-  - **2026-08-19** (3 zdrojů) Israel admits its soldiers fired at car in which Hind Rajab was killed
-  - **2026-08-19** (2 zdrojů) Multiple deadly Israeli strikes in Gaza in under 24 hours
-  - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
-  - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
-  - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
-  - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
