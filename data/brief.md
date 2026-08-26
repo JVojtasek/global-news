@@ -9,7 +9,64 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Remembering Dolly Parton: 8 facts about the icon
+### 1. Meta agrees to pay up to $18bn to settle social media case
+- id události: `dd68857a78db`  ·  rubrika: `business`  ·  skóre: 84  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Business** — Meta agrees to pay up to $18bn to settle social media case
+    <https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss>
+    > The deal has been reached during a California federal court trial over claims brought by US states.
+  - **BBC Technology** — Meta agrees to pay up to $18bn to settle social media case
+    <https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss>
+    > The deal has been reached during a California federal court trial over claims brought by US states.
+  - **NPR News** — Meta, states agree to $17 billion settlement in child safety trial
+    <https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit>
+    > The social media giant also agreed to make sweeping changes to Instagram and Facebook.
+  - **CNBC Top** — Meta settles social media addiction case with California, other states for $16.7 billion
+    <https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html>
+    > Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.
+  - **France 24** — Meta reaches $17 billion settlement with US states over social media harm to teens
+    <https://www.france24.com/en/americas/20260826-meta-reaches-17-billion-settlement-with-us-states-over-social-media-harm-teens>
+    > Meta Platforms on Wednesday agreed to pay $17 billion to settle claims, filed by 47 US states, that the company designed Facebook and Instagram to deliberately make teens addicted to their products while deceiving the public, according to state attorneys general. The company agre
+  - **TechCrunch** — Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children
+    <https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/>
+    > The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.
+  - **Investing.com** — Meta reaches $18 billion of settlements over children’s social media addiction
+    <https://www.investing.com/news/stock-market-news/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction-4877554>
+
+### 2. Watch Nashville fans lay flowers in tribute to Dolly Parton
+- id události: `4d5d929d3f9b`  ·  rubrika: `culture`  ·  skóre: 83  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Watch Nashville fans lay flowers in tribute to Dolly Parton
+    <https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss>
+    > The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.
+  - **Guardian Culture** — Dolly Parton was a rare singer who proved herself to be an electric movie star
+    <https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress>
+    > From 9 to 5 to Steel Magnolias to Joyful Noise, the late star had real big screen presence that was impossible to imitate ‘I just give from my heart’: how Dolly Parton’s philanthropy focused most on helping children Celebrity tributes pour in for Dolly Parton: ‘a gift to the worl
+  - **NPR News** — Dolly Parton didn't just write hits — she created an American songbook
+    <https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting>
+    > Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.
+  - **Guardian Culture** — Backwoods Barbie and the ‘God almighty’ PMS Blues: Dolly Parton’s 10 best deep cuts
+    <https://www.theguardian.com/music/2026/aug/26/dolly-parton-10-best-deep-cuts-singer-dead>
+    > From heartbreaking spoken word to wry takes on the double standards women face, here are some of the late country singer’s lesser known gems Alexis Petridis on Dolly Parton’s peerless career Dolly Parton – a life in pictures Share your tributes and memories of Dolly Parton Dolly 
+  - **Guardian Culture** — From Jolene to Islands in the Stream: Dolly Parton’s 10 best recordings
+    <https://www.theguardian.com/music/2026/aug/26/dolly-parton-best-songs-jolene>
+    > The late star created some of the most beloved country and pop songs in American music Alexis Petridis on Dolly Parton’s peerless career that turned country music cliches inside out Dolly Parton – a life in pictures Country music legend Dolly Parton dies aged 80 – latest updates 
+  - **Guardian Culture** — Dolly Parton’s peerless career turned country music cliches inside out | Alexis Petridis
+    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-music-career>
+    > Beneath the wig and rhinestones, Parton was the genius behind strings of classic songs from Jolene to I Will Always Love You that continue to inspire new artists Dolly Parton, US country star, actor and philanthropist, dies aged 80 Dolly Parton’s family say goodbye to their aunt,
+  - **France 24** — Dolly Parton, queen of country music, dies at 80
+    <https://www.france24.com/en/video/20260826-dolly-parton-queen-of-country-music-dies-at-80>
+    > Dolly Parton was around six when she wrote her first song: "Little Tiny Tasseltop," an ⁠ode to her corncob doll with ​corn-silk hair. Her mother stored it preciously in a shoebox. Parton never stopped making music after that. The irrepressible country music singer, songwriter and
+  - **CNBC Top** — I manage Dolly Parton’s Imagination Library in Cincinnati—the No. 1 lesson she taught me about success
+    <https://www.cnbc.com/2026/08/26/the-no-1-lesson-dolly-parton-taught-me-about-success.html>
+    > Cincinnati literacy leader Kristy High reflects on Dolly Parton’s Imagination Library and the lesson Parton's philanthropy taught her about success.
+  - **Good News Network** — In Memorium: Dolly Parton the Country Music Star, Philanthropist, and Champion of Literacy
+    <https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/>
+    > Dolly Parton passed away yesterday at age 80 following a brief battle with cancer. She leaves behind a legacy captured in many GNN stories; one of championing childhood literacy, uplifting Americans of every gender, color, and creed, and of several enduring musical hits in the co
+
+### 3. Remembering Dolly Parton: 8 facts about the icon
 - id události: `510624bdc84f`  ·  rubrika: `culture`  ·  skóre: 79  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -41,7 +98,7 @@
     <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
     > https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 P
 
-### 2. How Dolly Parton helped the world - from children's books to supporting Covid vaccine
+### 4. How Dolly Parton helped the world - from children's books to supporting Covid vaccine
 - id události: `8f63c883fb07`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -66,46 +123,6 @@
   - **CNBC Top** — Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
     <https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html>
     > Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.
-
-### 3. Dolly Parton, one of country music's most singular performers, has died at age 80
-- id události: `1301430cb05f`  ·  rubrika: `culture`  ·  skóre: 71  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **NPR News** — Dolly Parton, one of country music's most singular performers, has died at age 80
-    <https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary>
-    > The artist was a star performer in country music, and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.
-  - **BBC Entertainment** — Dolly Parton: The country legend who sang from the heart
-    <https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss>
-    > The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.
-  - **DW News** — US country music legend Dolly Parton dies aged 80
-    <https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf>
-    > The family of the US country music legend announced her passing on social media. Dolly Parton's career spans more than half a century and includes a wide array of smash hits.
-  - **Guardian Culture** — Dolly Parton, country star, actor and philanthropist, dies aged 80
-    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
-    > Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes Alexis Petridis on Dolly Parton’s peerless career which turned country music cliches inside out Dolly Parton – a life in pictures Countr
-  - **CNBC Top** — Dolly Parton, queen of country music, dies at 80
-    <https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html>
-    > With songs such as "Coat of Many Colors," "Jolene" and "I Will Always Love You," she was one of the best-selling female artists of all time.
-
-### 4. 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
-- id události: `5bb13a447624`  ·  rubrika: `culture`  ·  skóre: 68  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Entertainment** — 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
-    <https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss>
-    > The much-loved country singer-songwriter in her own words, following her death aged 80.
-  - **BBC Entertainment** — Dolly Parton was the one thing most Americans could agree on
-    <https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss>
-    > The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.
-  - **BBC Entertainment** — Elton John, Oprah Winfrey and Paul McCartney join tributes to Dolly Parton
-    <https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss>
-    > The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon.
-  - **DW News** — US country music legend Dolly Parton dies aged 80
-    <https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf>
-    > Representatives of the country music legend told US media that Dolly Parton died after a "brief battle with cancer." Parton's career spans more than half a century and includes a wide array of smash hits.
-  - **France 24** — Embraced across divides, Dolly Parton leaves a lasting legacy
-    <https://www.france24.com/en/culture/20260826-embraced-across-divides-dolly-parton-leaves-a-lasting-legacy>
-    > Throughout her lifetime, Dolly Parton worked to build a better world, while becoming inextricable from the American imagination. She was embraced by fans across gender, race and class, embodying a mythology typically inaccessible to even the most influential historical figures. I
 
 ---
 

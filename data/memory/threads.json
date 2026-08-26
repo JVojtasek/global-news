@@ -775,34 +775,36 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "bank",
-    "us-led",
-    "west",
-    "hamas",
-    "far-right",
-    "italy",
-    "palestinians",
-    "canada",
     "former",
-    "labour",
-    "israeli",
-    "netanyahu",
-    "american",
-    "palestine",
-    "palestinian",
-    "global",
+    "hamas",
     "hind",
-    "ben-gvir",
-    "multiple",
-    "rajab",
-    "burnham",
-    "week",
-    "gaza",
-    "israel's",
     "germany",
-    "france",
     "israel",
-    "colombia"
+    "dutch",
+    "christian",
+    "us-led",
+    "italy",
+    "week",
+    "labour",
+    "multiple",
+    "west",
+    "palestinian",
+    "colombia",
+    "burnham",
+    "israeli",
+    "american",
+    "bank",
+    "netanyahu",
+    "palestine",
+    "rajab",
+    "israel's",
+    "canada",
+    "france",
+    "global",
+    "ben-gvir",
+    "palestinians",
+    "far-right",
+    "gaza"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -821,7 +823,8 @@
     "5e2205225644",
     "0f7415ce5b12",
     "5a37c8f3f9af",
-    "f1f5dde9d5e4"
+    "f1f5dde9d5e4",
+    "4dbfa63e7365"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-26",
@@ -1018,6 +1021,112 @@
       "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+     "sources": 1,
+     "score": 40,
+     "event_id": "4dbfa63e7365",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "dolly",
+    "covid",
+    "nashville",
+    "parton",
+    "remembering"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-26",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
     }
    ]
   },
@@ -1104,87 +1213,6 @@
    ]
   },
   {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "covid",
-    "remembering",
-    "dolly",
-    "parton"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-08-26",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    }
-   ]
-  },
-  {
    "id": "42d214b6358f",
    "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
    "section": "business",
@@ -1239,6 +1267,49 @@
    ]
   },
   {
+   "id": "e94dfc725bd7",
+   "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+   "section": "tech",
+   "entities": [
+    "download",
+    "kids",
+    "bill",
+    "gates"
+   ],
+   "event_ids": [
+    "e94dfc725bd7",
+    "4832d5ccae67"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-08-26",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+     "sources": 3,
+     "score": 59,
+     "event_id": "e94dfc725bd7",
+     "links": [
+      "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Bill Gates calls for ‘human reserved’ jobs in face of AI takeover",
+     "sources": 3,
+     "score": 50,
+     "event_id": "4832d5ccae67",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+      "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet"
+     ]
+    }
+   ]
+  },
+  {
    "id": "7955e8f87e6c",
    "title": "Man City complete £86m Bouaddi signing from Lille",
    "section": "sport",
@@ -1263,6 +1334,34 @@
       "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
       "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "acca06fb4c4f",
+   "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+   "section": "world",
+   "entities": [
+    "nepal",
+    "china"
+   ],
+   "event_ids": [
+    "acca06fb4c4f"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-08-26",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+     "sources": 4,
+     "score": 63,
+     "event_id": "acca06fb4c4f",
+     "links": [
+      "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
+      "https://www.cnbc.com/2026/08/26/flash-floods-deaths-missing-nepal-china.html",
+      "https://www.france24.com/en/video/20260826-hundreds-missing-in-nepal-catastrophic-flash-floods"
      ]
     }
    ]
@@ -3557,5 +3656,5 @@
    ]
   }
  ],
- "updated": "2026-08-26T12:27:45+00:00"
+ "updated": "2026-08-26T15:50:38+00:00"
 }

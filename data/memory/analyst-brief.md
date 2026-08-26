@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-26
 
-Paměť obsahuje **44 vláken**. Aktivních za posledních 14 dní: **24**.
+Paměť obsahuje **46 vláken**. Aktivních za posledních 14 dní: **25**.
 
 ---
 
@@ -35,9 +35,8 @@ Paměť obsahuje **44 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 13 dní · 17 záznamů
+- rubrika `world` · sledováno 13 dní · 18 záznamů
 - časová osa:
-  - **2026-08-18** (1 zdrojů) Palestine weekly: Global outcry fails to break West Bank siege
   - **2026-08-19** (2 zdrojů) Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
   - **2026-08-19** (3 zdrojů) Israel admits its soldiers fired at car in which Hind Rajab was killed
   - **2026-08-19** (2 zdrojů) Multiple deadly Israeli strikes in Gaza in under 24 hours
@@ -47,6 +46,7 @@ Paměť obsahuje **44 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
   - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
   - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
+  - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 7 dní · 15 záznamů
