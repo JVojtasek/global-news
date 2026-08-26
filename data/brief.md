@@ -9,7 +9,33 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Meta agrees to pay up to $18bn to settle social media case
+### 1. Dolly Parton dies aged 80 – researchers celebrate her contributions to science
+- id události: `13c0684b4af3`  ·  rubrika: `culture`  ·  skóre: 86  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Nature News** — Dolly Parton dies aged 80 – researchers celebrate her contributions to science
+    <https://www.nature.com/articles/d41586-026-02676-1>
+    > Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02676-1 The country singer was an advocate for vaccines, public health, literacy and marginalized communities.
+  - **Smithsonian Mag** — Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
+    <https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/>
+    > After growing up in poverty, she became famous for her legendary songs, big heart and larger-than-life style. But the iconic musician insisted that "the songs lead to everything else"
+  - **BBC Entertainment** — Miley Cyrus remembers godmother Dolly Parton as an 'angel by my side'
+    <https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss>
+    > Tributes pour in from across the worlds of music, film and politics for the star, who died at the age of 80.
+  - **Guardian Culture** — Affairs? Drugs? You could ask Dolly Parton about anything and get a laugh. Just stay away from politics …
+    <https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics>
+    > One autumn day in 2023 I bathed in the luminous glow of this utterly authentic star – and while she did have one weak spot, her life and music will speak for themselves • Celebrity tributes pour in for Dolly Parton: ‘a gift to the world’ • Backwoods Barbie and the ‘God almighty’ 
+  - **BBC Entertainment** — Dolly Parton was the one thing most Americans could agree on
+    <https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss>
+    > The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.
+  - **CNBC Top** — How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'
+    <https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html>
+    > The legendary Dolly Parton inspired women to dream bigger and fight for what they deserve. Female business leaders and workers share what the icon meant to them.
+  - **France 24** — Dolly Parton: Buckingham Palace guards play musical tribute
+    <https://www.france24.com/en/video/20260826-dolly-parton-buckingham-palace-guards-play-musical-tribute>
+    > Britain’s royal family posted a video on social media Wednesday of the band of the Buckingham Palace guards playing Dolly Parton’s “9 to 5”, in tribute to the American country music legend who passed away Tuesday aged 80.
+
+### 2. Meta agrees to pay up to $18bn to settle social media case
 - id události: `dd68857a78db`  ·  rubrika: `business`  ·  skóre: 84  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -34,7 +60,7 @@
   - **Investing.com** — Meta reaches $18 billion of settlements over children’s social media addiction
     <https://www.investing.com/news/stock-market-news/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction-4877554>
 
-### 2. Watch Nashville fans lay flowers in tribute to Dolly Parton
+### 3. Watch Nashville fans lay flowers in tribute to Dolly Parton
 - id události: `4d5d929d3f9b`  ·  rubrika: `culture`  ·  skóre: 83  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -66,7 +92,7 @@
     <https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/>
     > Dolly Parton passed away yesterday at age 80 following a brief battle with cancer. She leaves behind a legacy captured in many GNN stories; one of championing childhood literacy, uplifting Americans of every gender, color, and creed, and of several enduring musical hits in the co
 
-### 3. Remembering Dolly Parton: 8 facts about the icon
+### 4. Remembering Dolly Parton: 8 facts about the icon
 - id události: `510624bdc84f`  ·  rubrika: `culture`  ·  skóre: 79  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -97,32 +123,6 @@
   - **Hacker News Best** — Dolly Parton has died
     <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
     > https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 P
-
-### 4. How Dolly Parton helped the world - from children's books to supporting Covid vaccine
-- id události: `8f63c883fb07`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Entertainment** — How Dolly Parton helped the world - from children's books to supporting Covid vaccine
-    <https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss>
-    > The late singer-songwriter's charity causes were as eclectic as her music, but she had a personal connection to each one.
-  - **NPR News** — Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton
-    <https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters>
-    > Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions "dollar for dollar." And, remembering the legacy of country star and icon Dolly Parton, who died at 80.
-  - **France 24** — US country music legend Dolly Parton dies, aged 80
-    <https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80>
-    > Dolly Parton was one of the rare celebrities that transcended divides in the United States. The country music legend and actress died, aged 80, on August 25.
-  - **France 24** — Canada strikes back at US with retaliatory tariffs as trade war escalates
-    <https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates>
-    > Canada struck back at the United States on Tuesday with retaliatory tariffs on about $20 billion worth of American goods, including steel, dairy products, appliances and farm equipment, as the trade war between the once-friendly neighbors escalated sharply. The confrontation thre
-  - **France 24** — America unites in mourning for Dolly Parton
-    <https://www.france24.com/en/video/20260826-america-unites-in-mourning-for-dolly-parton>
-    > Americans of all stripes united to grieve the death of country music legend Dolly Parton, offering a rare moment of agreement as presidents of both parties joined entertainment and business giants in paying her tribute. The singer, who was 80, was long heralded as one of the few 
-  - **France 24** — 'Truly unique': Dolly Parton, music star, actor and beloved figure who spanned generations
-    <https://www.france24.com/en/video/20260826-truly-unique-dolly-parton-music-star-actor-and-beloved-figure-who-spanned-generations>
-    > Dolly Parton, the country music icon whose soaring vibrato vocals, poignant songwriting and sparkling costumes defined her rise from a log cabin in the Tennessee mountains to the height of stardom and acclaim, has died in Nashville. She was 80 years old. Known for her curvy physi
-  - **CNBC Top** — Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
-    <https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html>
-    > Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.
 
 ---
 

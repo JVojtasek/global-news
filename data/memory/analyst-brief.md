@@ -49,9 +49,8 @@ Paměť obsahuje **46 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 7 dní · 15 záznamů
+- rubrika `sport` · sledováno 8 dní · 16 záznamů
 - časová osa:
-  - **2026-08-20** (2 zdrojů) Man Utd preview: Five key talking points for 2026-27 Premier League season
   - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
   - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
   - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
@@ -61,6 +60,7 @@ Paměť obsahuje **46 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
   - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
   - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
+  - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
@@ -76,13 +76,13 @@ Paměť obsahuje **46 vláken**. Aktivních za posledních 14 dní: **25**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
-### Nightmare Man City start for Maresca - are Arsenal really so far ahead?
-- rubrika `sport` · sledováno 7 dní · 7 záznamů
+### Dolly Parton, one of country music's most singular performers, has died at age 80
+- rubrika `culture` · sledováno 1 dní · 7 záznamů
 - časová osa:
-  - **2026-08-16** (2 zdrojů) Nightmare Man City start for Maresca - are Arsenal really so far ahead?
-  - **2026-08-16** (2 zdrojů) Arsenal cruise to win over Manchester City in Community Shield
-  - **2026-08-17** (2 zdrojů) 'He's the professor' - Rodri's Manchester City journey
-  - **2026-08-17** (1 zdrojů) Enzo Maresca’s Manchester City opener was startlingly bad
-  - **2026-08-23** (2 zdrojů) Man City will 'try to find the new Rodri' - Maresca
-  - **2026-08-23** (2 zdrojů) Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth
-  - **2026-08-23** (2 zdrojů) Man City 'completely deserved to win' - Maresca
+  - **2026-08-25** (5 zdrojů) Dolly Parton, one of country music's most singular performers, has died at age 80
+  - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
+  - **2026-08-26** (2 zdrojů) Dolly Parton – a life in pictures
+  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
+  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
+  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
+  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
