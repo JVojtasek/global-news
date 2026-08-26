@@ -1,13 +1,14 @@
 ---
 slug: flood-damage-test-used-car
-title: "The Flood-Damage Test Before You Buy a Used Car"
-dek: "A clean cabin and a clean title can both miss old water damage; this layered screen shows what to check and when to walk away."
+title: The Flood-Damage Test Before You Buy a Used Car
+dek: A clean cabin and a clean title can both miss old water damage; this layered
+  screen shows what to check and when to walk away.
 section: motoring
 type: analysis
 depth: open
 lang: en
 date: '2026-08-26'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics: []
@@ -18,30 +19,34 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "used car inspection hidden flood damage under dashboard and carpet"
+image_query: used car inspection hidden flood damage under dashboard and carpet
 sources:
-  - name: "US National Highway Traffic Safety Administration"
-    url: "https://www.nhtsa.gov/hurricane-and-flood-damaged-vehicles"
-    published: "2026-08-26"
-  - name: "US Federal Trade Commission — flood-damaged cars"
-    url: "https://consumer.ftc.gov/consumer-alerts/2022/11/how-steer-clear-flood-damaged-car"
-    published: "2022-11-15"
-  - name: "National Insurance Crime Bureau"
-    url: "https://www.nicb.org/news/news-releases/nicb-warns-consumers-watch-flood-damaged-vehicles-during-peak-flood-season"
-    published: "2026-08-13"
-  - name: "US Federal Trade Commission — buying a used car"
-    url: "https://consumer.ftc.gov/articles/buying-used-car-dealer"
-    published: "2026-08-26"
+- name: US National Highway Traffic Safety Administration
+  url: https://www.nhtsa.gov/hurricane-and-flood-damaged-vehicles
+  published: '2026-08-26'
+- name: US Federal Trade Commission — flood-damaged cars
+  url: https://consumer.ftc.gov/consumer-alerts/2022/11/how-steer-clear-flood-damaged-car
+  published: '2022-11-15'
+- name: National Insurance Crime Bureau
+  url: https://www.nicb.org/news/news-releases/nicb-warns-consumers-watch-flood-damaged-vehicles-during-peak-flood-season
+  published: '2026-08-13'
+- name: US Federal Trade Commission — buying a used car
+  url: https://consumer.ftc.gov/articles/buying-used-car-dealer
+  published: '2026-08-26'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which finding is enough on its own to clear a used car of possible flood damage?"
+  question: Which finding is enough on its own to clear a used car of possible flood
+    damage?
   options:
-    - "A clean-looking cabin"
-    - "A vehicle-history report with no flood entry"
-    - "Neither; records, physical clues and an independent inspection must be considered together"
+  - A clean-looking cabin
+  - A vehicle-history report with no flood entry
+  - Neither; records, physical clues and an independent inspection must be considered
+    together
   answer: 2
-  explanation: "Cleaning can hide physical clues, and history databases depend on what insurers and jurisdictions reported. An independent inspection is a separate and essential layer."
+  explanation: Cleaning can hide physical clues, and history databases depend on what
+    insurers and jurisdictions reported. An independent inspection is a separate and
+    essential layer.
 ---
 
 ## BRIEFLY

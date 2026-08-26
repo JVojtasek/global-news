@@ -1,14 +1,15 @@
 ---
 slug: what-gras-really-means
 title: What “Generally Recognized as Safe” Really Means
-dek: A new FDA proposal would close a large information gap around food ingredients, but mandatory notification would still not mean conventional premarket approval.
+dek: A new FDA proposal would close a large information gap around food ingredients,
+  but mandatory notification would still not mean conventional premarket approval.
 section: food
 type: daily
 depth: open
 lang: en
 date: '2026-08-26'
-status: draft
-confidence: 95
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: conceptual food ingredient safety evidence pathway label transparency review
+image_query: conceptual food ingredient safety evidence pathway label transparency
+  review
 sources:
 - name: Federal Register / US Food and Drug Administration
   url: https://www.federalregister.gov/documents/2026/08/11/2026-16296/substances-generally-recognized-as-safe
@@ -35,13 +37,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: If the FDA's proposed GRAS rule becomes final, what would it primarily require?
+  question: If the FDA's proposed GRAS rule becomes final, what would it primarily
+    require?
   options:
   - Every existing food ingredient would receive conventional premarket approval
   - Companies would notify FDA of covered GRAS conclusions and provide their basis
   - The words “generally recognized as safe” would disappear from food law
   answer: 1
-  explanation: The proposal would make covered GRAS notices mandatory and improve transparency, while GRAS uses would remain legally distinct from conventionally approved food additives.
+  explanation: The proposal would make covered GRAS notices mandatory and improve
+    transparency, while GRAS uses would remain legally distinct from conventionally
+    approved food additives.
 ---
 
 ## BRIEFLY

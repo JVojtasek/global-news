@@ -7,8 +7,8 @@ section: food
 type: feature
 depth: open
 lang: en
-date: '2026-08-20'
-status: reserve
+date: '2026-08-26'
+status: published
 confidence: 89
 load: 0
 topics:

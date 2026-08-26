@@ -1,14 +1,15 @@
 ---
 slug: stretching-is-not-one-question
 title: Stretching Is Not One Question
-dek: Stretching can increase range of motion, but performance, flexibility and injury prevention are different goals—and the useful answer depends on dose and timing.
+dek: Stretching can increase range of motion, but performance, flexibility and injury
+  prevention are different goals—and the useful answer depends on dose and timing.
 section: sport
 type: analysis
 depth: open
 lang: en
 date: '2026-08-26'
-status: draft
-confidence: 93
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -22,16 +23,16 @@ image_query: athlete warm-up dynamic movement and static stretching evidence com
 sources:
 - name: Applied Physiology, Nutrition, and Metabolism / PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/26642915/
-  published: '2016-01'
+  published: 2016-01
 - name: British Journal of Sports Medicine / PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/24100287/
-  published: '2014-06'
+  published: 2014-06
 - name: Journal of Sport and Health Science / PubMed Central
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12305623/
   published: '2025'
 - name: Journal of Sport and Health Science / PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/37301370/
-  published: '2024-03'
+  published: 2024-03
 qma_path: ''
 tickers: []
 quiz:
@@ -39,9 +40,12 @@ quiz:
   options:
   - Stretching alone reliably prevents sports injuries of every kind
   - Any static stretch before exercise causes a large performance loss
-  - Brief stretching within a dynamic warm-up is different from prolonged static stretching before an explosive effort
+  - Brief stretching within a dynamic warm-up is different from prolonged static stretching
+    before an explosive effort
   answer: 2
-  explanation: Longer static holds immediately before maximal or explosive work can modestly reduce performance, while brief stretching followed by dynamic activity is unlikely to have the same effect.
+  explanation: Longer static holds immediately before maximal or explosive work can
+    modestly reduce performance, while brief stretching followed by dynamic activity
+    is unlikely to have the same effect.
 ---
 
 ## BRIEFLY
