@@ -7,9 +7,8 @@ Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **24**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 16 dní · 54 záznamů
+- rubrika `world` · sledováno 17 dní · 55 záznamů
 - časová osa:
-  - **2026-08-24** (2 zdrojů) US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
   - **2026-08-24** (2 zdrojů) What do locals think of IndyCar in Washington DC?
   - **2026-08-25** (3 zdrojů) China warns it will safeguard its interests after US widens sanctions against Iran
   - **2026-08-25** (2 zdrojů) Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
@@ -19,6 +18,7 @@ Paměť obsahuje **43 vláken**. Aktivních za posledních 14 dní: **24**.
   - **2026-08-25** (2 zdrojů) Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
   - **2026-08-25** (2 zdrojů) ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
   - **2026-08-25** (2 zdrojů) US launches Economic war on Iran
+  - **2026-08-26** (4 zdrojů) Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 13 dní · 23 záznamů

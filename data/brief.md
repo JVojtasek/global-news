@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **6**
+- Článků v zásobě: **5**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -132,13 +132,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 54  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 55  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 54
-  2026-08-19  (5 zdrojů, síla 80)  South Korea shortens war games with US, citing Washington request
+rubrika: world · sledováno od 2026-08-09 · záznamů: 55
   2026-08-20  (3 zdrojů, síla 56)  Iran war live: Trump announces ‘most crushing’ Iran sanctions
   2026-08-20  (4 zdrojů, síla 67)  Trump threatens 'tremendous economic consequences' on any country helping Iran
   2026-08-20  (3 zdrojů, síla 57)  Middle East updates: Trump warns 'economic consequences' for nations helping Iran
@@ -158,6 +157,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 54
   2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
   2026-08-25  (2 zdrojů, síla 42)  ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
   2026-08-25  (2 zdrojů, síla 40)  US launches Economic war on Iran
+  2026-08-26  (4 zdrojů, síla 66)  Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
