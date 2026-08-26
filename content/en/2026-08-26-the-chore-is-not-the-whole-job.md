@@ -1,44 +1,49 @@
 ---
 slug: the-chore-is-not-the-whole-job
-title: "The Chore Is Not the Whole Job"
-dek: "Household fairness is easier to discuss when couples count the noticing, deciding and checking that happen before and after a visible task."
+title: The Chore Is Not the Whole Job
+dek: Household fairness is easier to discuss when couples count the noticing, deciding
+  and checking that happen before and after a visible task.
 section: relationships
 type: analysis
 depth: open
 lang: en
-date: 2026-08-26
-status: draft
-confidence: 88
+date: '2026-08-26'
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "household-cognitive-labour-ownership-map"
-series: ""
-image_query: "couple planning household tasks at kitchen table calendar groceries"
+format: ''
+event_id: household-cognitive-labour-ownership-map
+series: ''
+image_query: couple planning household tasks at kitchen table calendar groceries
 sources:
-  - name: "American Sociological Review"
-    url: "https://journals.sagepub.com/doi/10.1177/0003122419859007"
-    published: "2019-07-09"
-  - name: "US Bureau of Labor Statistics"
-    url: "https://www.bls.gov/news.release/atus.nr0.htm?s=vs"
-    published: "2026-06-25"
-  - name: "Pew Research Center"
-    url: "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/"
-    published: "2026-06-16"
-  - name: "Archives of Women's Mental Health via PubMed Central"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11761833/"
-    published: "2024"
-qma_path: ""
+- name: American Sociological Review
+  url: https://journals.sagepub.com/doi/10.1177/0003122419859007
+  published: '2019-07-09'
+- name: US Bureau of Labor Statistics
+  url: https://www.bls.gov/news.release/atus.nr0.htm?s=vs
+  published: '2026-06-25'
+- name: Pew Research Center
+  url: https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/
+  published: '2026-06-16'
+- name: Archives of Women's Mental Health via PubMed Central
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11761833/
+  published: '2024'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What does end-to-end ownership of a household responsibility include?"
-  options: ["Doing the visible task when reminded", "Noticing, deciding, doing and verifying the responsibility", "Keeping a minute-by-minute score of both partners"]
+  question: What does end-to-end ownership of a household responsibility include?
+  options:
+  - Doing the visible task when reminded
+  - Noticing, deciding, doing and verifying the responsibility
+  - Keeping a minute-by-minute score of both partners
   answer: 1
-  explanation: "Ownership includes the cognitive stages around the visible chore, so reminders and follow-up do not quietly become someone else's job."
+  explanation: Ownership includes the cognitive stages around the visible chore, so
+    reminders and follow-up do not quietly become someone else's job.
 ---
 
 ## BRIEFLY

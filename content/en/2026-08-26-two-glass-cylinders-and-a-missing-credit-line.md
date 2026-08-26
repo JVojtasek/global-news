@@ -1,44 +1,50 @@
 ---
 slug: two-glass-cylinders-and-a-missing-credit-line
-title: "Two Glass Cylinders and a Missing Credit Line"
-dek: "Eunice Foote connected carbon dioxide with atmospheric warming in 1856, but restoring her place in science requires precision about what her experiment did—and did not—show."
+title: Two Glass Cylinders and a Missing Credit Line
+dek: Eunice Foote connected carbon dioxide with atmospheric warming in 1856, but restoring
+  her place in science requires precision about what her experiment did—and did not—show.
 section: science
 type: analysis
 depth: open
 lang: en
-date: 2026-08-26
-status: draft
-confidence: 87
+date: '2026-08-26'
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "eunice-foote-1856-carbon-dioxide-experiment"
-series: ""
-image_query: "nineteenth century glass cylinders thermometers sunlight scientific experiment"
+format: ''
+event_id: eunice-foote-1856-carbon-dioxide-experiment
+series: ''
+image_query: nineteenth century glass cylinders thermometers sunlight scientific experiment
 sources:
-  - name: "NOAA Climate.gov"
-    url: "https://www.climate.gov/news-features/features/happy-200th-birthday-eunice-foote-hidden-climate-science-pioneer"
-    published: "2019-07-17"
-  - name: "American Institute of Physics"
-    url: "https://history.aip.org/climate/co2.htm"
-    published: ""
-  - name: "Niels Bohr Library and Archives"
-    url: "https://www.aip.org/library/initial-conditions-episode-1-eunice-foote"
-    published: "2022-07-21"
-  - name: "Byrd Polar and Climate Research Center"
-    url: "https://byrd.osu.edu/featured/history-corner/who-first-concluded-rising-co2-levels-could-cause-climate-change"
-    published: ""
-qma_path: ""
+- name: NOAA Climate.gov
+  url: https://www.climate.gov/news-features/features/happy-200th-birthday-eunice-foote-hidden-climate-science-pioneer
+  published: '2019-07-17'
+- name: American Institute of Physics
+  url: https://history.aip.org/climate/co2.htm
+  published: ''
+- name: Niels Bohr Library and Archives
+  url: https://www.aip.org/library/initial-conditions-episode-1-eunice-foote
+  published: '2022-07-21'
+- name: Byrd Polar and Climate Research Center
+  url: https://byrd.osu.edu/featured/history-corner/who-first-concluded-rising-co2-levels-could-cause-climate-change
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is the safest historical description of Eunice Foote's 1856 result?"
-  options: ["She isolated infrared absorption with spectroscopy", "She showed that glass alone creates modern climate change", "She observed greater warming and slower cooling in carbon-dioxide-rich air and connected atmospheric composition with climate"]
+  question: What is the safest historical description of Eunice Foote's 1856 result?
+  options:
+  - She isolated infrared absorption with spectroscopy
+  - She showed that glass alone creates modern climate change
+  - She observed greater warming and slower cooling in carbon-dioxide-rich air and
+    connected atmospheric composition with climate
   answer: 2
-  explanation: "Foote made an important experimental observation and climatic inference, but her apparatus did not isolate the infrared mechanism later measured more directly."
+  explanation: Foote made an important experimental observation and climatic inference,
+    but her apparatus did not isolate the infrared mechanism later measured more directly.
 ---
 
 ## BRIEFLY
