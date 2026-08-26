@@ -1,14 +1,15 @@
 ---
 slug: meta-settlement-is-a-test-of-product-defaults
-title: "Meta’s $18 Billion Headline Is Really a Test of Product Defaults"
-dek: "The proposed settlement does more than price a lawsuit: it turns time limits, night blocks, age assurance and independent auditing into enforceable product requirements."
+title: Meta’s $18 Billion Headline Is Really a Test of Product Defaults
+dek: 'The proposed settlement does more than price a lawsuit: it turns time limits,
+  night blocks, age assurance and independent auditing into enforceable product requirements.'
 section: tech
 type: analysis
 depth: open
 lang: en
 date: '2026-08-26'
-status: draft
-confidence: 92
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -17,8 +18,9 @@ automation_role: intraday
 generator: chatgpt-work
 format: roundtable
 event_id: nd-cal-4-23-cv-05448-meta-consent-judgment-2026-08-26
-series: "The Newsroom Table"
-image_query: "teen smartphone social media time limit parental controls neutral editorial illustration"
+series: The Newsroom Table
+image_query: teen smartphone social media time limit parental controls neutral editorial
+  illustration
 sources:
 - name: U.S. District Court settlement agreement via California Department of Justice
   url: https://oag.ca.gov/system/files/attachments/press-docs/23-05448-ecf-572-1-exhibit-1-mdl-consent-judgment-final-settlment-agreement-fully-executed.pdf
@@ -38,13 +40,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which part of the settlement is guaranteed regardless of whether rival platforms join?"
+  question: Which part of the settlement is guaranteed regardless of whether rival
+    platforms join?
   options:
-  - "The entire headline amount of about $18 billion"
-  - "About $12.7 billion, while roughly $5.3 billion is contingent on conditions involving TikTok and YouTube"
-  - "No payment until every large social platform adopts identical rules"
+  - The entire headline amount of about $18 billion
+  - About $12.7 billion, while roughly $5.3 billion is contingent on conditions involving
+    TikTok and YouTube
+  - No payment until every large social platform adopts identical rules
   answer: 1
-  explanation: "The agreement separates a guaranteed payment from a contingent portion designed to encourage similar safeguards and payments from rival platforms."
+  explanation: The agreement separates a guaranteed payment from a contingent portion
+    designed to encourage similar safeguards and payments from rival platforms.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
