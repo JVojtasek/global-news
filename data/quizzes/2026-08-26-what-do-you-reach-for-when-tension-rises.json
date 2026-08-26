@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "slug": "what-do-you-reach-for-when-tension-rises",
+  "date": "2026-08-26",
+  "category": "relationships",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "What do you reach for when tension rises?",
+      "cs": "Po čem sáhnete, když roste napětí?"
+    },
+    "dek": {
+      "en": "Eight ordinary disagreements reveal the response you tend to use first—and the complementary move that may keep the conversation workable.",
+      "cs": "Osm běžných neshod ukáže, jakou reakci volíte nejdřív a který doplňující krok může udržet rozhovor zvládnutelný."
+    },
+    "intro": {
+      "en": "Choose what you would most naturally do in a safe, ordinary disagreement—not the answer that sounds most mature. Every tendency can help, and every one can become unhelpful when used alone.",
+      "cs": "Vyberte, co byste nejspíš udělali v bezpečné běžné neshodě, ne odpověď, která zní nejzraleji. Každá tendence může pomoci a každá může škodit, pokud zůstane jedinou reakcí."
+    },
+    "disclaimer": {
+      "en": "This is an original reflective self-check informed by public relationship research; it does not reproduce a proprietary instrument. It is not a validated test, diagnosis, compatibility score or prediction. Context, power and safety change what a useful response looks like. If a relationship involves fear, coercion or violence, ordinary communication exercises are not a substitute for appropriate local support.",
+      "cs": "Jde o původní reflektivní sebehodnocení vycházející z veřejného vztahového výzkumu; nepřebírá licencovaný nástroj. Není to validovaný test, diagnóza, skóre kompatibility ani předpověď. Užitečnou reakci mění kontext, moc i bezpečí. Pokud vztah zahrnuje strach, nátlak či násilí, běžná komunikační cvičení nenahrazují vhodnou místní pomoc."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "pause",
+      "label": {"en": "Create breathing room", "cs": "Vytvořit prostor"},
+      "why": {"en": "You try to slow the exchange before heat chooses the next sentence.", "cs": "Snažíte se rozhovor zpomalit dříve, než další větu zvolí emoce."},
+      "action": {"en": "Name a short pause and an exact return time; a pause without a return can feel like withdrawal.", "cs": "Pojmenujte krátkou pauzu a přesný čas návratu; pauza bez návratu může působit jako stažení."}
+    },
+    {
+      "id": "understand",
+      "label": {"en": "Understand the other view", "cs": "Porozumět druhému pohledu"},
+      "why": {"en": "You reduce ambiguity by asking, listening and checking what you heard.", "cs": "Snižujete nejasnost tím, že se ptáte, posloucháte a ověřujete, co jste slyšeli."},
+      "action": {"en": "Reflect one concrete point accurately before adding your own explanation.", "cs": "Než přidáte vlastní vysvětlení, přesně zopakujte jeden konkrétní bod druhého člověka."}
+    },
+    {
+      "id": "solve",
+      "label": {"en": "Move toward a workable agreement", "cs": "Směřovat k proveditelné dohodě"},
+      "why": {"en": "You look for the decision, boundary or experiment that changes what happens next.", "cs": "Hledáte rozhodnutí, hranici či pokus, který změní další průběh."},
+      "action": {"en": "Agree on one small next step and a review point instead of trying to settle every issue at once.", "cs": "Domluvte jeden malý další krok a termín kontroly místo řešení všech témat najednou."}
+    },
+    {
+      "id": "repair",
+      "label": {"en": "Protect the connection", "cs": "Chránit spojení"},
+      "why": {"en": "You notice tone, hurt and the need to restore goodwill around the problem.", "cs": "Všímáte si tónu, zranění a potřeby obnovit dobrou vůli kolem problému."},
+      "action": {"en": "Offer one specific repair—an apology, appreciation or calmer restart—without using warmth to avoid the issue.", "cs": "Nabídněte konkrétní nápravu: omluvu, ocenění či klidnější nový začátek, ale nepoužívejte vřelost k obcházení problému."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "plans-changed",
+      "text": {"en": "Someone close changes a shared plan without asking. What is your first useful instinct?", "cs": "Blízký člověk změní společný plán bez domluvy. Jaký je váš první užitečný instinkt?"},
+      "options": [
+        {"label": {"en": "Ask for ten minutes to settle, then return", "cs": "Požádám o deset minut na zklidnění a pak se vrátím"}, "scores": {"pause": 3, "understand": 0, "solve": 1, "repair": 0}},
+        {"label": {"en": "Ask what led to the change and check I understood", "cs": "Zeptám se, co ke změně vedlo, a ověřím si porozumění"}, "scores": {"pause": 0, "understand": 3, "solve": 1, "repair": 0}},
+        {"label": {"en": "Propose a rule for changing shared plans next time", "cs": "Navrhnu pravidlo pro příští změny společných plánů"}, "scores": {"pause": 0, "understand": 1, "solve": 3, "repair": 0}},
+        {"label": {"en": "Say the surprise hurt, while affirming that I want to sort it out", "cs": "Řeknu, že mě překvapení zranilo, a zároveň potvrdím, že to chci vyřešit"}, "scores": {"pause": 0, "understand": 0, "solve": 1, "repair": 3}}
+      ]
+    },
+    {
+      "id": "sharp-message",
+      "text": {"en": "A text message sounds sharper than expected. What do you tend to reach for?", "cs": "Textová zpráva zní ostřeji, než jste čekali. Po čem obvykle sáhnete?"},
+      "options": [
+        {"label": {"en": "Wait until I can reply without matching the tone", "cs": "Počkám, dokud nedokážu odpovědět, aniž bych napodobil/a jeho tón"}, "scores": {"pause": 3, "understand": 1, "solve": 0, "repair": 0}},
+        {"label": {"en": "Ask whether I am reading the tone correctly", "cs": "Zeptám se, zda tón čtu správně"}, "scores": {"pause": 0, "understand": 3, "solve": 0, "repair": 1}},
+        {"label": {"en": "Move the discussion to a call and define the question", "cs": "Přesunu rozhovor do hovoru a vymezím otázku"}, "scores": {"pause": 1, "understand": 0, "solve": 3, "repair": 0}},
+        {"label": {"en": "Acknowledge the tension and invite a fresh start", "cs": "Přiznám napětí a nabídnu nový začátek"}, "scores": {"pause": 0, "understand": 1, "solve": 0, "repair": 3}}
+      ]
+    },
+    {
+      "id": "same-argument",
+      "text": {"en": "The same disagreement is returning for the third time. Your instinct is to…", "cs": "Stejná neshoda se vrací potřetí. Váš instinkt je…"},
+      "options": [
+        {"label": {"en": "Stop before repeating the usual exchange and schedule a calmer talk", "cs": "Zastavit obvyklý průběh a naplánovat klidnější rozhovor"}, "scores": {"pause": 3, "understand": 0, "solve": 1, "repair": 0}},
+        {"label": {"en": "Ask what each of us believes is still unheard", "cs": "Zeptat se, co podle každého z nás stále nebylo vyslyšeno"}, "scores": {"pause": 0, "understand": 3, "solve": 0, "repair": 1}},
+        {"label": {"en": "Try one different arrangement for a week and review it", "cs": "Na týden zkusit jiné uspořádání a pak je vyhodnotit"}, "scores": {"pause": 0, "understand": 1, "solve": 3, "repair": 0}},
+        {"label": {"en": "Name the pattern without blame and reaffirm the shared aim", "cs": "Pojmenovat vzorec bez obviňování a potvrdit společný cíl"}, "scores": {"pause": 0, "understand": 0, "solve": 1, "repair": 3}}
+      ]
+    },
+    {
+      "id": "interrupted",
+      "text": {"en": "You feel repeatedly interrupted during a difficult conversation. What comes first?", "cs": "Během obtížného rozhovoru máte pocit, že vás druhý opakovaně přerušuje. Co přijde nejdřív?"},
+      "options": [
+        {"label": {"en": "Pause the exchange before frustration takes over", "cs": "Pozastavím rozhovor dříve, než převládne frustrace"}, "scores": {"pause": 3, "understand": 0, "solve": 1, "repair": 0}},
+        {"label": {"en": "Ask what the other person is urgently trying to add", "cs": "Zeptám se, co se druhý naléhavě snaží dodat"}, "scores": {"pause": 0, "understand": 3, "solve": 0, "repair": 1}},
+        {"label": {"en": "Suggest taking uninterrupted turns of two minutes", "cs": "Navrhnu nepřerušované dvouminutové střídání"}, "scores": {"pause": 1, "understand": 0, "solve": 3, "repair": 0}},
+        {"label": {"en": "Explain the effect gently and invite a reset", "cs": "Jemně vysvětlím dopad a nabídnu nový začátek"}, "scores": {"pause": 0, "understand": 1, "solve": 0, "repair": 3}}
+      ]
+    },
+    {
+      "id": "made-mistake",
+      "text": {"en": "You realise you contributed to the problem. What is your natural next move?", "cs": "Uvědomíte si, že jste k problému přispěli. Jaký je váš přirozený další krok?"},
+      "options": [
+        {"label": {"en": "Take a moment so I can respond without defending myself", "cs": "Na chvíli se zastavím, abych nereagoval/a obranou"}, "scores": {"pause": 3, "understand": 1, "solve": 0, "repair": 0}},
+        {"label": {"en": "Ask how my action affected the other person", "cs": "Zeptám se, jak můj čin ovlivnil druhého člověka"}, "scores": {"pause": 0, "understand": 3, "solve": 0, "repair": 1}},
+        {"label": {"en": "Name what I will do differently next time", "cs": "Pojmenuji, co příště udělám jinak"}, "scores": {"pause": 0, "understand": 1, "solve": 3, "repair": 0}},
+        {"label": {"en": "Offer a specific apology without adding an excuse", "cs": "Nabídnu konkrétní omluvu bez výmluvy"}, "scores": {"pause": 0, "understand": 0, "solve": 1, "repair": 3}}
+      ]
+    },
+    {
+      "id": "different-priorities",
+      "text": {"en": "You agree on the facts but want different outcomes. What do you try?", "cs": "Shodnete se na faktech, ale chcete jiné výsledky. Co zkusíte?"},
+      "options": [
+        {"label": {"en": "Take a break before positions harden", "cs": "Dám pauzu, než postoje ztvrdnou"}, "scores": {"pause": 3, "understand": 0, "solve": 1, "repair": 0}},
+        {"label": {"en": "Ask what need or value sits beneath each preference", "cs": "Zeptám se, jaká potřeba či hodnota stojí pod každou volbou"}, "scores": {"pause": 0, "understand": 3, "solve": 1, "repair": 0}},
+        {"label": {"en": "List constraints and build two workable options", "cs": "Sepíšu omezení a vytvořím dvě proveditelné možnosti"}, "scores": {"pause": 0, "understand": 1, "solve": 3, "repair": 0}},
+        {"label": {"en": "Emphasise that disagreement does not cancel the relationship", "cs": "Zdůrazním, že neshoda neruší náš vztah"}, "scores": {"pause": 0, "understand": 1, "solve": 0, "repair": 3}}
+      ]
+    },
+    {
+      "id": "public-tension",
+      "text": {"en": "A disagreement starts in front of other people. Your first instinct is to…", "cs": "Neshoda začne před dalšími lidmi. Váš první instinkt je…"},
+      "options": [
+        {"label": {"en": "Pause it and agree when to continue privately", "cs": "Pozastavit ji a domluvit soukromé pokračování"}, "scores": {"pause": 3, "understand": 0, "solve": 1, "repair": 0}},
+        {"label": {"en": "Quietly check what the other person needs right now", "cs": "Tiše ověřit, co druhý právě potřebuje"}, "scores": {"pause": 0, "understand": 3, "solve": 0, "repair": 1}},
+        {"label": {"en": "Agree on the immediate decision and defer the wider issue", "cs": "Dohodnout bezprostřední rozhodnutí a širší téma odložit"}, "scores": {"pause": 1, "understand": 0, "solve": 3, "repair": 0}},
+        {"label": {"en": "Protect each other's dignity and signal that we will reconnect", "cs": "Chránit důstojnost obou a dát najevo, že se k sobě vrátíme"}, "scores": {"pause": 0, "understand": 1, "solve": 0, "repair": 3}}
+      ]
+    },
+    {
+      "id": "afterwards",
+      "text": {"en": "The practical issue is settled, but the conversation left a bruise. What do you naturally do?", "cs": "Praktické téma je vyřešené, ale rozhovor zanechal šrám. Co přirozeně uděláte?"},
+      "options": [
+        {"label": {"en": "Let things cool, then return at a named time", "cs": "Nechám věci vychladnout a vrátím se v domluvený čas"}, "scores": {"pause": 3, "understand": 0, "solve": 0, "repair": 1}},
+        {"label": {"en": "Ask what part of the exchange landed badly", "cs": "Zeptám se, která část rozhovoru dopadla špatně"}, "scores": {"pause": 0, "understand": 3, "solve": 0, "repair": 1}},
+        {"label": {"en": "Agree on one change to the way we discuss it next time", "cs": "Dohodnu jednu změnu pro příští podobný rozhovor"}, "scores": {"pause": 0, "understand": 1, "solve": 3, "repair": 0}},
+        {"label": {"en": "Acknowledge the hurt and offer a specific repair", "cs": "Uznám zranění a nabídnu konkrétní nápravu"}, "scores": {"pause": 0, "understand": 1, "solve": 0, "repair": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "pause": {
+      "title": {"en": "You create breathing room", "cs": "Vytváříte prostor"},
+      "summary": {"en": "Your current tendency is to slow the exchange before continuing. That can protect judgment when emotion is high.", "cs": "Vaší současnou tendencí je zpomalit rozhovor před pokračováním. Při silných emocích to může chránit úsudek."},
+      "strength": {"en": "You recognise that timing can change the quality of a conversation.", "cs": "Vnímáte, že načasování může změnit kvalitu rozhovoru."},
+      "watch": {"en": "A pause becomes withdrawal when the other person does not know whether or when you will return. This profile is contextual, not a fixed type.", "cs": "Pauza se mění ve stažení, pokud druhý neví, zda a kdy se vrátíte. Profil závisí na situaci a není trvalým typem."},
+      "action": {"en": "Next time, state the length of the pause and the exact way the conversation will resume.", "cs": "Příště řekněte délku pauzy a přesný způsob pokračování rozhovoru."}
+    },
+    "understand": {
+      "title": {"en": "You look for the unheard point", "cs": "Hledáte nevyslyšený bod"},
+      "summary": {"en": "Your current tendency is to ask and reflect before deciding. Feeling understood can make cooperation easier.", "cs": "Vaší současnou tendencí je ptát se a shrnovat před rozhodnutím. Pocit porozumění může usnadnit spolupráci."},
+      "strength": {"en": "You make room for information that a fast defence or solution could miss.", "cs": "Dáváte prostor informacím, které by rychlá obrana či řešení mohly minout."},
+      "watch": {"en": "Understanding can become delay if no decision or boundary follows. This quiz cannot measure listening quality from self-report alone.", "cs": "Porozumění se může změnit v odklad, pokud po něm nenásleduje rozhodnutí či hranice. Kvíz nemůže ze sebereflexe změřit kvalitu naslouchání."},
+      "action": {"en": "After reflecting the other view, name one point of agreement or the decision still required.", "cs": "Po shrnutí druhého pohledu pojmenujte jeden bod shody nebo rozhodnutí, které stále chybí."}
+    },
+    "solve": {
+      "title": {"en": "You build the next workable step", "cs": "Stavíte další proveditelný krok"},
+      "summary": {"en": "Your current tendency is to turn disagreement into an arrangement, boundary or experiment.", "cs": "Vaší současnou tendencí je převádět neshodu do uspořádání, hranice či pokusu."},
+      "strength": {"en": "You help a conversation produce something observable rather than circle forever.", "cs": "Pomáháte rozhovoru vytvořit něco viditelného místo nekonečného kroužení."},
+      "watch": {"en": "A technically neat solution may fail if someone does not feel heard or safe. These scenarios do not show how power operates in a real relationship.", "cs": "Technicky úhledné řešení může selhat, pokud se někdo necítí vyslyšený či bezpečný. Scénáře neukazují mocenské poměry ve skutečném vztahu."},
+      "action": {"en": "Before proposing the next step, accurately state what matters most to the other person.", "cs": "Před návrhem dalšího kroku přesně řekněte, na čem druhému nejvíc záleží."}
+    },
+    "repair": {
+      "title": {"en": "You protect the connection", "cs": "Chráníte spojení"},
+      "summary": {"en": "Your current tendency is to notice the relational bruise around the practical issue and restore goodwill.", "cs": "Vaší současnou tendencí je všímat si vztahového šrámu kolem praktického tématu a obnovovat dobrou vůli."},
+      "strength": {"en": "You recognise that being right about the issue does not repair the way people were treated.", "cs": "Vnímáte, že mít pravdu v tématu nenapraví způsob, jakým se s lidmi zacházelo."},
+      "watch": {"en": "Warmth can become avoidance if the underlying decision never returns. A high score does not prove relationship health or compatibility.", "cs": "Vřelost se může změnit v obcházení, pokud se základní rozhodnutí nevrátí. Vysoké skóre nedokazuje zdraví ani kompatibilitu vztahu."},
+      "action": {"en": "Pair one repair with one concrete next step or a scheduled return to the issue.", "cs": "Spojte jednu nápravu s konkrétním krokem nebo domluveným návratem k tématu."}
+    }
+  },
+  "sources": [
+    {"name": "Holley, Sturm and Levenson — demand-withdraw patterns", "url": "https://pubmed.ncbi.nlm.nih.gov/20455136/", "published": "2010", "type": "peer-reviewed observational study"},
+    {"name": "Canevello and Crocker — partner responsiveness", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2891543/", "published": "2010", "type": "peer-reviewed relationship research"},
+    {"name": "Johnson et al. — communication and relationship satisfaction", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8915221/", "published": "2022", "type": "peer-reviewed longitudinal study"},
+    {"name": "American Psychological Association — healthy relationships", "url": "https://www.apa.org/topics/marriage-relationships/healthy-relationships", "published": "2020-01-01", "type": "professional public guidance"}
+  ]
+}
