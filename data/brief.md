@@ -149,13 +149,12 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
 ### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 58  ·  **depth: `open`**
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 59  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 58
-  2026-08-20  (2 zdrojů, síla 44)  North Korea fires 10 missiles day after Trump curtails South Korea joint drills
+rubrika: world · sledováno od 2026-08-09 · záznamů: 59
   2026-08-20  (1 zdrojů, síla 40)  How China and Russia could hobble Trump’s plans to isolate Iran
   2026-08-20  (2 zdrojů, síla 42)  North Korea fires ballistic missiles as US-South Korea drills near end
   2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
@@ -175,6 +174,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 58
   2026-08-26  (3 zdrojů, síla 60)  Celtic deficiencies laid bare on another night of Champions League pain
   2026-08-26  (2 zdrojů, síla 40)  Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
   2026-08-26  (2 zdrojů, síla 46)  China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
+  2026-08-26  (1 zdrojů, síla 53)  How to follow Thursday's Champions League draw - and who is in each pot?
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

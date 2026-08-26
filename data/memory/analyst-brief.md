@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-26
 
-Paměť obsahuje **46 vláken**. Aktivních za posledních 14 dní: **25**.
+Paměť obsahuje **48 vláken**. Aktivních za posledních 14 dní: **26**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 17 dní · 58 záznamů
+- rubrika `world` · sledováno 17 dní · 59 záznamů
 - časová osa:
-  - **2026-08-25** (2 zdrojů) Middle East: Iran vows response to fresh US sanctions
   - **2026-08-25** (2 zdrojů) Is Scott Bessent the Fed chair Donald Trump always wanted?
   - **2026-08-25** (2 zdrojů) Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
   - **2026-08-25** (2 zdrojů) Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
@@ -19,6 +18,7 @@ Paměť obsahuje **46 vláken**. Aktivních za posledních 14 dní: **25**.
   - **2026-08-26** (3 zdrojů) Celtic deficiencies laid bare on another night of Champions League pain
   - **2026-08-26** (2 zdrojů) Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
   - **2026-08-26** (2 zdrojů) China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
+  - **2026-08-26** (1 zdrojů) How to follow Thursday's Champions League draw - and who is in each pot?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 13 dní · 23 záznamů
