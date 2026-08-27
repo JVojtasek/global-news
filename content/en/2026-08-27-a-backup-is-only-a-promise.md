@@ -1,14 +1,15 @@
 ---
 slug: a-backup-is-only-a-promise
 title: A Backup Is Only a Promise Until You Restore It
-dek: A green checkmark proves that something was copied. A small restore test proves that the copy can still help you.
+dek: A green checkmark proves that something was copied. A small restore test proves
+  that the copy can still help you.
 section: tech
 type: analysis
 depth: open
 lang: en
 date: '2026-08-27'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,11 +19,12 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: conceptual archive box with one recovered family photo and document no logos
+image_query: conceptual archive box with one recovered family photo and document no
+  logos
 sources:
 - name: NIST SP 800-184 — Guide for Cybersecurity Event Recovery
   url: https://csrc.nist.gov/pubs/sp/800/184/final
-  published: '2016-12'
+  published: 2016-12
 - name: UK National Cyber Security Centre — Mitigating malware and ransomware attacks
   url: https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks
   published: '2020-02-13'
@@ -38,13 +40,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What does a successful small restore test prove that a “backup completed” message does not?
+  question: What does a successful small restore test prove that a “backup completed”
+    message does not?
   options:
   - That the copied data can be found, opened and used
   - That every future backup will be perfect
   - That ransomware cannot reach any device
   answer: 0
-  explanation: A restore test checks recoverability of selected data. It cannot guarantee future jobs or eliminate other security risks.
+  explanation: A restore test checks recoverability of selected data. It cannot guarantee
+    future jobs or eliminate other security risks.
 ---
 
 ## BRIEFLY

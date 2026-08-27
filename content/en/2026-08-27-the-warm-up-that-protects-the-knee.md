@@ -1,45 +1,49 @@
 ---
 slug: the-warm-up-that-protects-the-knee
-title: "The Warm-Up That Protects the Knee"
-dek: "A short neuromuscular routine cannot make sport risk-free, but the evidence says it can prevent a meaningful share of serious knee injuries—if teams actually keep doing it."
+title: The Warm-Up That Protects the Knee
+dek: A short neuromuscular routine cannot make sport risk-free, but the evidence says
+  it can prevent a meaningful share of serious knee injuries—if teams actually keep
+  doing it.
 section: sport
 type: daily
 depth: open
 lang: en
-date: 2026-08-27
-status: draft
-confidence: 90
+date: '2026-08-27'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual sports warm-up balance landing control knee protection"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual sports warm-up balance landing control knee protection
 sources:
-  - name: "PubMed — American Journal of Sports Medicine systematic review and meta-analysis"
-    url: "https://pubmed.ncbi.nlm.nih.gov/30001501/"
-    published: "2018-07-12"
-  - name: "CDC Stacks — US high-school knee injury surveillance study"
-    url: "https://stacks.cdc.gov/view/cdc/29730/cdc_29730_DS1.pdf"
-    published: "2013-03-01"
-  - name: "University of Copenhagen Research Portal — randomized controlled trial"
-    url: "https://researchprofiles.ku.dk/en/publications/effects-of-evidence-based-prevention-training-on-neuromuscular-an/"
-    published: "2016-05-01"
-  - name: "University of Kentucky — compliance meta-analysis"
-    url: "https://scholars.uky.edu/en/publications/compliance-with-neuromuscular-training-and-anterior-cruciate-liga/"
-    published: "2012-12-01"
+- name: PubMed — American Journal of Sports Medicine systematic review and meta-analysis
+  url: https://pubmed.ncbi.nlm.nih.gov/30001501/
+  published: '2018-07-12'
+- name: CDC Stacks — US high-school knee injury surveillance study
+  url: https://stacks.cdc.gov/view/cdc/29730/cdc_29730_DS1.pdf
+  published: '2013-03-01'
+- name: University of Copenhagen Research Portal — randomized controlled trial
+  url: https://researchprofiles.ku.dk/en/publications/effects-of-evidence-based-prevention-training-on-neuromuscular-an/
+  published: '2016-05-01'
+- name: University of Kentucky — compliance meta-analysis
+  url: https://scholars.uky.edu/en/publications/compliance-with-neuromuscular-training-and-anterior-cruciate-liga/
+  published: '2012-12-01'
 quiz:
-  question: "Which feature most consistently separates a useful ACL-prevention warm-up from a routine that exists only on paper?"
+  question: Which feature most consistently separates a useful ACL-prevention warm-up
+    from a routine that exists only on paper?
   options:
-    - "It is performed regularly, with strength and landing-control exercises"
-    - "It is saved for the week before an important match"
-    - "It relies mainly on a knee brace"
+  - It is performed regularly, with strength and landing-control exercises
+  - It is saved for the week before an important match
+  - It relies mainly on a knee brace
   answer: 0
-  explanation: "The evidence points to repeated neuromuscular training, including lower-body strength and controlled landing, while compliance is closely linked to benefit."
+  explanation: The evidence points to repeated neuromuscular training, including lower-body
+    strength and controlled landing, while compliance is closely linked to benefit.
 ---
 
 ## BRIEFLY

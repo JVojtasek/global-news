@@ -1,14 +1,15 @@
 ---
 slug: the-friendship-recession-is-not-one-number
 title: The Friendship Recession Is Not One Number
-dek: Three reputable surveys found very different rates of friendlessness. The disagreement reveals what friendship statistics can—and cannot—remember for us.
+dek: Three reputable surveys found very different rates of friendlessness. The disagreement
+  reveals what friendship statistics can—and cannot—remember for us.
 section: relationships
 type: analysis
 depth: open
 lang: en
 date: '2026-08-27'
-status: draft
-confidence: 92
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: empty and occupied chairs around several small café tables conceptual friendship networks no people
+image_query: empty and occupied chairs around several small café tables conceptual
+  friendship networks no people
 sources:
 - name: Survey Center on American Life — The State of American Friendship
   url: https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/
@@ -31,7 +33,7 @@ sources:
   published: '2024-07-30'
 - name: US Surgeon General — Our Epidemic of Loneliness and Isolation
   url: https://www.hhs.gov/sites/default/files/sg-social-connection-general.pdf
-  published: '2023-05'
+  published: 2023-05
 qma_path: ''
 tickers: []
 quiz:
@@ -41,7 +43,8 @@ quiz:
   - Friendship cannot be studied with surveys at all
   - The 1990 result included only people younger than 30
   answer: 0
-  explanation: Both surveys asked about close friends, but telephone and online administration can change disclosure, and respondents supplied their own definition of “close.”
+  explanation: Both surveys asked about close friends, but telephone and online administration
+    can change disclosure, and respondents supplied their own definition of “close.”
 ---
 
 ## BRIEFLY

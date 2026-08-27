@@ -1,14 +1,15 @@
 ---
 slug: the-first-solo-journey-is-a-rehearsal
-title: "The First Solo Journey Should Not Be the First Rehearsal"
-dek: "A child's independent route is safer when freedom is granted in small, observable steps—not on a birthday or after one confident promise."
+title: The First Solo Journey Should Not Be the First Rehearsal
+dek: A child's independent route is safer when freedom is granted in small, observable
+  steps—not on a birthday or after one confident promise.
 section: parenting
 type: analysis
 depth: open
 lang: en
 date: '2026-08-27'
-status: draft
-confidence: 92
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,35 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "parent and school-age child studying a familiar walking route at a pedestrian crossing"
+image_query: parent and school-age child studying a familiar walking route at a pedestrian
+  crossing
 sources:
-  - name: "UK THINK! — Safe Adventures"
-    url: "https://www.think.gov.uk/campaign/safe-adventures/"
-    published: '2024-04'
-  - name: "American Academy of Pediatrics — Bright Futures 5 Year Visit"
-    url: "https://www.aap.org/en/practice-management/bright-futures/bright-futures-family-centered-care/well-child-visits-parent-and-patient-education/bright-futures-information-for-parents-5-year-visit/"
-    published: '2022-04-19'
-  - name: "International Journal of Environmental Research and Public Health — Systematic review of children's independent mobility"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8835222/"
-    published: '2022-01-29'
-  - name: "Active Travel Studies — Parents and children's independent mobility"
-    url: "https://activetravelstudies.org/article/id/2003/"
-    published: '2026'
+- name: UK THINK! — Safe Adventures
+  url: https://www.think.gov.uk/campaign/safe-adventures/
+  published: 2024-04
+- name: American Academy of Pediatrics — Bright Futures 5 Year Visit
+  url: https://www.aap.org/en/practice-management/bright-futures/bright-futures-family-centered-care/well-child-visits-parent-and-patient-education/bright-futures-information-for-parents-5-year-visit/
+  published: '2022-04-19'
+- name: International Journal of Environmental Research and Public Health — Systematic
+    review of children's independent mobility
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8835222/
+  published: '2022-01-29'
+- name: Active Travel Studies — Parents and children's independent mobility
+  url: https://activetravelstudies.org/article/id/2003/
+  published: '2026'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What is the strongest sign that a child may be ready for a familiar solo route?"
+  question: What is the strongest sign that a child may be ready for a familiar solo
+    route?
   options:
-    - "They repeatedly handle the route's real decisions during practice"
-    - "They have reached the same birthday as a sibling did"
-    - "They own a phone with location sharing"
+  - They repeatedly handle the route's real decisions during practice
+  - They have reached the same birthday as a sibling did
+  - They own a phone with location sharing
   answer: 0
-  explanation: "Readiness is route-specific and shown through repeated behaviour. Age and a phone can inform the decision but cannot replace practiced judgment."
+  explanation: Readiness is route-specific and shown through repeated behaviour. Age
+    and a phone can inform the decision but cannot replace practiced judgment.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

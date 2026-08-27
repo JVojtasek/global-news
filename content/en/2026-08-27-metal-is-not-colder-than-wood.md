@@ -1,14 +1,15 @@
 ---
 slug: metal-is-not-colder-than-wood
-title: "The Metal Is Not Colder Than the Wood"
-dek: "Two objects can share a temperature and feel completely different because your skin senses the speed of heat flow, not a number on a thermometer."
+title: The Metal Is Not Colder Than the Wood
+dek: Two objects can share a temperature and feel completely different because your
+  skin senses the speed of heat flow, not a number on a thermometer.
 section: science
 type: analysis
 depth: open
 lang: en
 date: '2026-08-27'
-status: draft
-confidence: 94
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,32 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "bare hand near same-temperature metal and wooden blocks on laboratory table"
+image_query: bare hand near same-temperature metal and wooden blocks on laboratory
+  table
 sources:
-  - name: "OpenStax College Physics 2e — Conduction"
-    url: "https://openstax.org/books/college-physics-2e/pages/14-5-conduction"
-    published: '2022-07-13'
-  - name: "MIT News — Stick, peel, or bounce"
-    url: "https://news.mit.edu/2017/stick-peel-bounce-controlling-freezing-droplets-0911"
-    published: '2017-09-11'
-  - name: "PubMed — Thermal effusivity of different tabletop materials"
-    url: "https://pubmed.ncbi.nlm.nih.gov/34890830/"
-    published: '2022-02'
-  - name: "International Journal of Heat and Mass Transfer — The role of thermal effusivity"
-    url: "https://www.sciencedirect.com/science/article/pii/S0017931022011899"
-    published: '2023-02'
+- name: OpenStax College Physics 2e — Conduction
+  url: https://openstax.org/books/college-physics-2e/pages/14-5-conduction
+  published: '2022-07-13'
+- name: MIT News — Stick, peel, or bounce
+  url: https://news.mit.edu/2017/stick-peel-bounce-controlling-freezing-droplets-0911
+  published: '2017-09-11'
+- name: PubMed — Thermal effusivity of different tabletop materials
+  url: https://pubmed.ncbi.nlm.nih.gov/34890830/
+  published: 2022-02
+- name: International Journal of Heat and Mass Transfer — The role of thermal effusivity
+  url: https://www.sciencedirect.com/science/article/pii/S0017931022011899
+  published: 2023-02
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why can room-temperature metal feel colder than room-temperature wood?"
+  question: Why can room-temperature metal feel colder than room-temperature wood?
   options:
-    - "Metal draws heat from the skin faster"
-    - "Metal must secretly be at a lower temperature"
-    - "Wood continuously produces heat"
+  - Metal draws heat from the skin faster
+  - Metal must secretly be at a lower temperature
+  - Wood continuously produces heat
   answer: 0
-  explanation: "Touch registers the rapid cooling of the skin. Metal usually exchanges heat with it much faster than wood does."
+  explanation: Touch registers the rapid cooling of the skin. Metal usually exchanges
+    heat with it much faster than wood does.
 ---
 
 ## BRIEFLY

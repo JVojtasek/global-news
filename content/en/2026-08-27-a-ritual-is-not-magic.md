@@ -1,14 +1,15 @@
 ---
 slug: a-ritual-is-not-magic
-title: "A Ritual Is Not Magic. It Still Marks the Doorway"
-dek: "Repeated symbolic acts can focus attention, create a sense of order and bind a group—but the evidence is smaller and more fragile than the grand claims."
+title: A Ritual Is Not Magic. It Still Marks the Doorway
+dek: Repeated symbolic acts can focus attention, create a sense of order and bind
+  a group—but the evidence is smaller and more fragile than the grand claims.
 section: meaning
 type: feature
 depth: open
 lang: en
 date: '2026-08-27'
 status: reserve
-confidence: 89
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,33 +19,36 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "single candle and handwritten card marking a quiet life transition no people"
+image_query: single candle and handwritten card marking a quiet life transition no
+  people
 sources:
-  - name: "Journal of Experimental Psychology — Rituals alleviate grieving"
-    url: "https://pubmed.ncbi.nlm.nih.gov/23398180/"
-    published: '2014-02'
-  - name: "Psychological Science — Rituals enhance consumption"
-    url: "https://pubmed.ncbi.nlm.nih.gov/23863754/"
-    published: '2013-09'
-  - name: "Philosophical Transactions B — Ritual explained"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7423255/"
-    published: '2020-08-31'
-  - name: "Frontiers in Psychology — United on Sunday"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7840012/"
-    published: '2021-01-14'
-  - name: "Organizational Behavior and Human Decision Processes — Retraction notice"
-    url: "https://www.sciencedirect.com/science/article/abs/pii/S0749597824000771"
-    published: '2024-11'
+- name: Journal of Experimental Psychology — Rituals alleviate grieving
+  url: https://pubmed.ncbi.nlm.nih.gov/23398180/
+  published: 2014-02
+- name: Psychological Science — Rituals enhance consumption
+  url: https://pubmed.ncbi.nlm.nih.gov/23863754/
+  published: 2013-09
+- name: Philosophical Transactions B — Ritual explained
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7423255/
+  published: '2020-08-31'
+- name: Frontiers in Psychology — United on Sunday
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7840012/
+  published: '2021-01-14'
+- name: Organizational Behavior and Human Decision Processes — Retraction notice
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0749597824000771
+  published: 2024-11
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which conclusion best fits the evidence reviewed here?"
+  question: Which conclusion best fits the evidence reviewed here?
   options:
-    - "Ritual can shape attention and meaning, but effects depend on context and evidence quality"
-    - "Any repeated action reliably cures grief or anxiety"
-    - "Ritual matters only when a person already believes it has supernatural power"
+  - Ritual can shape attention and meaning, but effects depend on context and evidence
+    quality
+  - Any repeated action reliably cures grief or anxiety
+  - Ritual matters only when a person already believes it has supernatural power
   answer: 0
-  explanation: "Studies suggest several psychological and social mechanisms, but they do not justify universal therapeutic claims."
+  explanation: Studies suggest several psychological and social mechanisms, but they
+    do not justify universal therapeutic claims.
 ---
 
 ## BRIEFLY

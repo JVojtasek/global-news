@@ -1,48 +1,51 @@
 ---
 slug: premium-gas-is-not-better-gas
-title: "Premium Gas Is Not Better Gas"
-dek: "Higher octane can help an engine designed to use it, but the word premium does not mean cleaner, more powerful or more economical in every car."
+title: Premium Gas Is Not Better Gas
+dek: Higher octane can help an engine designed to use it, but the word premium does
+  not mean cleaner, more powerful or more economical in every car.
 section: motoring
 type: analysis
 depth: open
 lang: en
-date: 2026-08-27
-status: draft
-confidence: 92
+date: '2026-08-27'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "gas pump octane buttons owner manual conceptual comparison"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: gas pump octane buttons owner manual conceptual comparison
 sources:
-  - name: "AAA Automotive Research Center — premium fuel phase I"
-    url: "https://newsroom.aaa.com/2016/09/u-s-drivers-waste-2-1-billion-annually-premium-gasoline/"
-    published: "2016-09-20"
-  - name: "AAA Automotive Research Center — premium fuel phase II"
-    url: "https://newsroom.aaa.com/2017/12/dont-fueled-premium-not-always-worth-price/"
-    published: "2017-12-12"
-  - name: "US Department of Energy and Environmental Protection Agency — Selecting the Right Octane Fuel"
-    url: "https://www.fueleconomy.gov/feg/octane.shtml"
-    published: "2026-08-27"
-  - name: "Federal Trade Commission — Fuel Rating Rule guidance"
-    url: "https://www.ftc.gov/business-guidance/resources/complying-ftc-fuel-rating-rule"
-    published: "2016-10-14"
-  - name: "US Environmental Protection Agency — Octane Benefits technical presentation"
-    url: "https://www.epa.gov/sites/default/files/2015-05/documents/050515mstrs_jones.pdf"
-    published: "2015-05-05"
+- name: AAA Automotive Research Center — premium fuel phase I
+  url: https://newsroom.aaa.com/2016/09/u-s-drivers-waste-2-1-billion-annually-premium-gasoline/
+  published: '2016-09-20'
+- name: AAA Automotive Research Center — premium fuel phase II
+  url: https://newsroom.aaa.com/2017/12/dont-fueled-premium-not-always-worth-price/
+  published: '2017-12-12'
+- name: US Department of Energy and Environmental Protection Agency — Selecting the
+    Right Octane Fuel
+  url: https://www.fueleconomy.gov/feg/octane.shtml
+  published: '2026-08-27'
+- name: Federal Trade Commission — Fuel Rating Rule guidance
+  url: https://www.ftc.gov/business-guidance/resources/complying-ftc-fuel-rating-rule
+  published: '2016-10-14'
+- name: US Environmental Protection Agency — Octane Benefits technical presentation
+  url: https://www.epa.gov/sites/default/files/2015-05/documents/050515mstrs_jones.pdf
+  published: '2015-05-05'
 quiz:
-  question: "What does a gasoline octane number primarily describe?"
+  question: What does a gasoline octane number primarily describe?
   options:
-    - "How much cleaning detergent the fuel contains"
-    - "How resistant the fuel is to uncontrolled combustion under pressure"
-    - "How much energy every gallon contains"
+  - How much cleaning detergent the fuel contains
+  - How resistant the fuel is to uncontrolled combustion under pressure
+  - How much energy every gallon contains
   answer: 1
-  explanation: "Octane is an anti-knock rating. It is not a general score for fuel cleanliness, energy content or quality."
+  explanation: Octane is an anti-knock rating. It is not a general score for fuel
+    cleanliness, energy content or quality.
 ---
 
 ## BRIEFLY
