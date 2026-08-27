@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "south",
-    "hormuz",
-    "league",
-    "briton",
-    "iranian",
-    "lyon",
-    "oman",
-    "north",
-    "secretary",
-    "iran's",
-    "east",
-    "jong",
-    "indycar",
-    "qatar",
-    "chaos",
-    "trump's",
-    "justified",
-    "d-day",
-    "american",
-    "china's",
     "donald",
-    "korea",
-    "champions",
-    "middle",
-    "taiwan",
-    "us-south",
-    "scott",
-    "fenerbahce",
-    "celtic",
-    "thursday's",
-    "eswatini",
-    "turkey",
-    "groundhog",
-    "strait",
-    "economic",
-    "start",
     "trump",
+    "korea",
+    "start",
+    "turkey",
+    "indycar",
+    "uefa",
+    "oman",
+    "china's",
+    "us-south",
+    "taiwan",
+    "qatar",
+    "economic",
+    "celtic",
+    "middle",
+    "lyon",
+    "d-day",
+    "south",
+    "chaos",
+    "secretary",
     "gulf",
+    "iranian",
+    "hormuz",
+    "iran's",
+    "champions",
+    "east",
+    "fenerbahce",
+    "briton",
+    "north",
     "treasury",
-    "ukraine"
+    "league",
+    "justified",
+    "jong",
+    "american",
+    "trump's",
+    "thursday's",
+    "ukraine",
+    "strait",
+    "groundhog",
+    "scott"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -107,23 +107,12 @@
     "033193ef8aba",
     "e618b3e50f22",
     "6c6b7d488472",
-    "661a16f42eb6"
+    "661a16f42eb6",
+    "c4587de4f82f"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-27",
    "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Middle East: Iran wants US concessions before opening Hormuz",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0624eb1ba208",
-     "links": [
-      "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
-     ]
-    },
     {
      "date": "2026-08-11",
      "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
@@ -793,6 +782,18 @@
       "https://www.france24.com/en/tv-shows/sports/20260827-champions-league-heartbreak-lyon-knocked-out-in-play-offs",
       "https://www.aljazeera.com/video/newsfeed/2026/8/27/frances-guendouzi-attacked-by-lyon-fans-at-champions-league-match?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Uefa Champions League 2026-27: league phase draw – live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c4587de4f82f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/27/uefa-champions-league-2026-27-league-phase-draw-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/27/champions-league-draw-live-2026-27-league-phase-fixtures-schedule?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/yaya-toure-becomes-first-african-coach-to-lead-a-team-into-champions-league?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1258,14 +1259,14 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "cyberattack",
-    "detailed",
     "alabama",
-    "unexpected",
-    "openai",
-    "face",
+    "detailed",
     "timeline",
-    "hugging"
+    "face",
+    "hugging",
+    "unexpected",
+    "cyberattack",
+    "openai"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1274,7 +1275,8 @@
     "c95f1350e30d",
     "63243808b149",
     "b392bbbec1f4",
-    "bd2de1c640b6"
+    "bd2de1c640b6",
+    "3544561ca685"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-08-27",
@@ -1359,6 +1361,127 @@
       "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
       "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
      ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e0d783f4ac39",
+   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+   "section": "safety",
+   "entities": [
+    "chatgpt",
+    "india",
+    "openai"
+   ],
+   "event_ids": [
+    "e0d783f4ac39",
+    "762a25ddd63d",
+    "b32137f532da"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+     "sources": 3,
+     "score": 60,
+     "event_id": "e0d783f4ac39",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+     "sources": 4,
+     "score": 64,
+     "event_id": "762a25ddd63d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+     "sources": 2,
+     "score": 44,
+     "event_id": "b32137f532da",
+     "links": [
+      "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c873f6019692",
+   "title": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
+   "section": "culture",
+   "entities": [
+    "japanese",
+    "kusama",
+    "yayoi"
+   ],
+   "event_ids": [
+    "c873f6019692",
+    "0b04db51a003",
+    "8c7c5944f603"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
+     "sources": 3,
+     "score": 56,
+     "event_id": "c873f6019692",
+     "links": [
+      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art",
+      "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/artanddesign/gallery/2026/aug/27/yayoi-kusama-gallery-life-in-pictures"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Yayoi Kusama, high priestess of polka dots, has died",
+     "sources": 3,
+     "score": 51,
+     "event_id": "0b04db51a003",
+     "links": [
+      "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
+      "https://www.dw.com/en/japanese-artist-yayoi-kusama-dies-at-97/a-78518473?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Japanese polka dot artist Yayoi Kusama dies aged 97",
+     "sources": 3,
+     "score": 50,
+     "event_id": "8c7c5944f603",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260827-japanese-avant-garde-artist-yayoi-kusama-dies-at-97"
+     ]
     }
    ]
   },
@@ -1386,6 +1509,152 @@
       "https://www.dw.com/en/india-news-india-steps-up-efforts-as-hundreds-missing-in-nepal-floods/live-78519583?maca=en-rss-en-all-1573-rdf",
       "https://www.dw.com/en/nepal-floods-more-than-270-killed-nearly-1-400-missing/a-78519407?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/8/27/more-than-1300-missing-in-nepal-and-china-after-deadly-himalayan-flood?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d1cd553177b4",
+   "title": "People pulled from mud in Nepal after deadly flash floods",
+   "section": "world",
+   "entities": [
+    "people",
+    "nepal"
+   ],
+   "event_ids": [
+    "d1cd553177b4"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "People pulled from mud in Nepal after deadly flash floods",
+     "sources": 4,
+     "score": 75,
+     "event_id": "d1cd553177b4",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/tragedy-in-nepal-how-do-flash-floods-happen/a-78526421?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/aug/27/britons-missing-flash-floods-nepal-tibet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "64969c4b1451",
+   "title": "UEFA to bring criminal complaint against Infantino",
+   "section": "world",
+   "entities": [
+    "infantino",
+    "uefa"
+   ],
+   "event_ids": [
+    "64969c4b1451"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "UEFA to bring criminal complaint against Infantino",
+     "sources": 4,
+     "score": 71,
+     "event_id": "64969c4b1451",
+     "links": [
+      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ed2d132fe5dc",
+   "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+   "section": "world",
+   "entities": [
+    "ratko",
+    "mladic",
+    "bosnia",
+    "butcher"
+   ],
+   "event_ids": [
+    "ed2d132fe5dc"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+     "sources": 4,
+     "score": 68,
+     "event_id": "ed2d132fe5dc",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
+      "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6d2cad015ca3",
+   "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+   "section": "world",
+   "entities": [
+    "bosnian",
+    "convicted",
+    "serb"
+   ],
+   "event_ids": [
+    "6d2cad015ca3"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+     "sources": 3,
+     "score": 61,
+     "event_id": "6d2cad015ca3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260827-ratko-mladic-former-general-convicted-of-bosnia-genocide-dies",
+      "https://www.aljazeera.com/news/2026/8/27/bosnian-serb-general-ratko-mladic-has-died-un-official-says?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "861f4dd4c580",
+   "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+   "section": "safety",
+   "entities": [
+    "teampcp",
+    "hackers",
+    "arrested",
+    "australia",
+    "alleged"
+   ],
+   "event_ids": [
+    "861f4dd4c580"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+     "sources": 3,
+     "score": 57,
+     "event_id": "861f4dd4c580",
+     "links": [
+      "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+      "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"
      ]
     }
    ]
@@ -2889,47 +3158,6 @@
    ]
   },
   {
-   "id": "e0d783f4ac39",
-   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-   "section": "safety",
-   "entities": [
-    "openai",
-    "chatgpt"
-   ],
-   "event_ids": [
-    "e0d783f4ac39",
-    "762a25ddd63d"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-08-18",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-     "sources": 3,
-     "score": 60,
-     "event_id": "e0d783f4ac39",
-     "links": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-     "sources": 4,
-     "score": 64,
-     "event_id": "762a25ddd63d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
-     ]
-    }
-   ]
-  },
-  {
    "id": "4ff3970f10ae",
    "title": "Vieira named new Senegal head coach",
    "section": "sport",
@@ -3866,5 +4094,5 @@
    ]
   }
  ],
- "updated": "2026-08-27T09:23:14+00:00"
+ "updated": "2026-08-27T15:57:14+00:00"
 }

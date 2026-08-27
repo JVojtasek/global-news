@@ -155,7 +155,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
   2026-08-23  (2 zdrojů, síla 42)  Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
   2026-08-24  (1 zdrojů, síla 42)  Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
   2026-08-24  (2 zdrojů, síla 42)  US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
@@ -175,6 +174,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-26  (1 zdrojů, síla 53)  How to follow Thursday's Champions League draw - and who is in each pot?
   2026-08-27  (2 zdrojů, síla 44)  Trump says all mines cleared from Strait of Hormuz
   2026-08-27  (2 zdrojů, síla 54)  Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
+  2026-08-27  (2 zdrojů, síla 46)  Uefa Champions League 2026-27: league phase draw – live
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

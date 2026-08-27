@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-27
 
-Paměť obsahuje **49 vláken**. Aktivních za posledních 14 dní: **26**.
+Paměť obsahuje **55 vláken**. Aktivních za posledních 14 dní: **27**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **49 vláken**. Aktivních za posledních 14 dní: **26**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 18 dní · 60 záznamů
 - časová osa:
-  - **2026-08-25** (2 zdrojů) Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
   - **2026-08-25** (2 zdrojů) ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
   - **2026-08-25** (2 zdrojů) US launches Economic war on Iran
   - **2026-08-26** (4 zdrojů) Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
@@ -19,6 +18,7 @@ Paměť obsahuje **49 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-26** (1 zdrojů) How to follow Thursday's Champions League draw - and who is in each pot?
   - **2026-08-27** (2 zdrojů) Trump says all mines cleared from Strait of Hormuz
   - **2026-08-27** (2 zdrojů) Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
+  - **2026-08-27** (2 zdrojů) Uefa Champions League 2026-27: league phase draw – live
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 16 dní · 24 záznamů
@@ -74,16 +74,14 @@ Paměť obsahuje **49 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
   - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
 
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 8 dní · 8 záznamů
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 17 dní · 8 záznamů
 - časová osa:
-  - **2026-08-09** (7 zdrojů) Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-  - **2026-08-10** (2 zdrojů) Netanyahu, at odds with Trump, rejects Gaza peace plan
-  - **2026-08-16** (3 zdrojů) Trump envoy Kushner meets Hamas leader to push Gaza peace plan
-  - **2026-08-17** (2 zdrojů) Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza
-  - **2026-08-17** (3 zdrojů) Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live
-  - **2026-08-17** (2 zdrojů) Middle East updates: Kushner meets Netanyahu in Jerusalem
-  - **2026-08-17** (2 zdrojů) Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal
-  - **2026-08-17** (2 zdrojů) Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
+  - **2026-08-10** (4 zdrojů) OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+  - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
+  - **2026-08-18** (2 zdrojů) OpenAI institutes new safeguards after Hugging Face breach
+  - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
+  - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
+  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
+  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
+  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
