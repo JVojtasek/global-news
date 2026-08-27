@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-27
 
-Paměť obsahuje **55 vláken**. Aktivních za posledních 14 dní: **27**.
+Paměť obsahuje **56 vláken**. Aktivních za posledních 14 dní: **29**.
 
 ---
 
@@ -9,8 +9,6 @@ Paměť obsahuje **55 vláken**. Aktivních za posledních 14 dní: **27**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 18 dní · 60 záznamů
 - časová osa:
-  - **2026-08-25** (2 zdrojů) ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
-  - **2026-08-25** (2 zdrojů) US launches Economic war on Iran
   - **2026-08-26** (4 zdrojů) Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
   - **2026-08-26** (3 zdrojů) Celtic deficiencies laid bare on another night of Champions League pain
   - **2026-08-26** (2 zdrojů) Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
@@ -19,6 +17,8 @@ Paměť obsahuje **55 vláken**. Aktivních za posledních 14 dní: **27**.
   - **2026-08-27** (2 zdrojů) Trump says all mines cleared from Strait of Hormuz
   - **2026-08-27** (2 zdrojů) Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
   - **2026-08-27** (2 zdrojů) Uefa Champions League 2026-27: league phase draw – live
+  - **2026-08-27** (4 zdrojů) Man City and Aston Villa to face holders PSG in Champions League
+  - **2026-08-27** (2 zdrojů) Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 16 dní · 24 záznamů
@@ -62,6 +62,19 @@ Paměť obsahuje **55 vláken**. Aktivních za posledních 14 dní: **27**.
   - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
   - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
 
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 17 dní · 9 záznamů
+- časová osa:
+  - **2026-08-10** (4 zdrojů) OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+  - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
+  - **2026-08-18** (2 zdrojů) OpenAI institutes new safeguards after Hugging Face breach
+  - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
+  - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
+  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
+  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
+  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
+
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 2 dní · 8 záznamů
 - časová osa:
@@ -73,15 +86,3 @@ Paměť obsahuje **55 vláken**. Aktivních za posledních 14 dní: **27**.
   - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
   - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
   - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
-
-### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 17 dní · 8 záznamů
-- časová osa:
-  - **2026-08-10** (4 zdrojů) OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-  - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
-  - **2026-08-18** (2 zdrojů) OpenAI institutes new safeguards after Hugging Face breach
-  - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
-  - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
-  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
-  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
-  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face

@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "donald",
-    "trump",
-    "korea",
-    "start",
-    "turkey",
-    "indycar",
-    "uefa",
-    "oman",
-    "china's",
-    "us-south",
     "taiwan",
-    "qatar",
-    "economic",
-    "celtic",
-    "middle",
-    "lyon",
-    "d-day",
-    "south",
-    "chaos",
-    "secretary",
-    "gulf",
-    "iranian",
-    "hormuz",
     "iran's",
-    "champions",
-    "east",
-    "fenerbahce",
-    "briton",
+    "trump",
+    "qatar",
     "north",
-    "treasury",
-    "league",
     "justified",
-    "jong",
+    "economic",
+    "city",
+    "gulf",
     "american",
-    "trump's",
-    "thursday's",
-    "ukraine",
-    "strait",
+    "league",
+    "aston",
+    "middle",
+    "hormuz",
+    "chaos",
+    "briton",
+    "lyon",
     "groundhog",
-    "scott"
+    "treasury",
+    "us-south",
+    "champions",
+    "thursday's",
+    "republican",
+    "times",
+    "uefa",
+    "korea",
+    "east",
+    "indycar",
+    "donald",
+    "turkey",
+    "south",
+    "china's",
+    "d-day",
+    "jong",
+    "celtic",
+    "fenerbahce",
+    "oman",
+    "start",
+    "iranian",
+    "ukraine"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -108,33 +108,13 @@
     "e618b3e50f22",
     "6c6b7d488472",
     "661a16f42eb6",
-    "c4587de4f82f"
+    "c4587de4f82f",
+    "f9dbbedd95e4",
+    "628e327cc7dc"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-27",
    "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-     "sources": 2,
-     "score": 44,
-     "event_id": "816e48902267",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Trump signals shift to economic pressure on Iran over new military strikes",
-     "sources": 2,
-     "score": 43,
-     "event_id": "0a4c58727150",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html"
-     ]
-    },
     {
      "date": "2026-08-11",
      "headline": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
@@ -794,6 +774,29 @@
       "https://www.aljazeera.com/sports/liveblog/2026/8/27/champions-league-draw-live-2026-27-league-phase-fixtures-schedule?traffic_source=rss",
       "https://www.aljazeera.com/sports/2026/8/27/yaya-toure-becomes-first-african-coach-to-lead-a-team-into-champions-league?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Man City and Aston Villa to face holders PSG in Champions League",
+     "sources": 4,
+     "score": 71,
+     "event_id": "f9dbbedd95e4",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c07ln9jj2n7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
+     "sources": 2,
+     "score": 43,
+     "event_id": "628e327cc7dc",
+     "links": [
+      "https://www.cnbc.com/2026/08/27/trump-jr-told-gop-state-attorneys-general-dont-fight-prediction-markets-nyt-reports.html",
+      "https://www.aljazeera.com/news/longform/2026/8/27/how-california-is-preparing-to-fight-trumps-criticisms-of-the-midterm-vote?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1127,6 +1130,142 @@
    ]
   },
   {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "hugging",
+    "openai",
+    "detailed",
+    "face",
+    "timeline",
+    "cyberattack",
+    "nvidia",
+    "alabama",
+    "unexpected"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6",
+    "3544561ca685",
+    "df3a38888008"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+     "sources": 3,
+     "score": 57,
+     "event_id": "df3a38888008",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1301430cb05f",
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
@@ -1255,123 +1394,198 @@
    ]
   },
   {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
+   "id": "81515d5a1191",
+   "title": "Robinson and Tongue guide England to strong start against Pakistan",
+   "section": "sport",
    "entities": [
-    "alabama",
-    "detailed",
-    "timeline",
-    "face",
-    "hugging",
-    "unexpected",
-    "cyberattack",
-    "openai"
+    "headingley",
+    "tongue",
+    "test",
+    "pakistan",
+    "abbas",
+    "brook",
+    "england",
+    "root",
+    "fleming",
+    "robinson"
    ],
    "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4",
-    "bd2de1c640b6",
-    "3544561ca685"
+    "81515d5a1191",
+    "c2083dc9b402",
+    "01a37345b72e",
+    "22dc48990b22",
+    "251989e37557",
+    "0d4f9b3b0b25"
    ],
-   "first_seen": "2026-08-10",
+   "first_seen": "2026-08-19",
    "last_seen": "2026-08-27",
    "timeline": [
     {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "date": "2026-08-19",
+     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
      "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
+     "score": 55,
+     "event_id": "81515d5a1191",
      "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
+      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
      ]
     },
     {
      "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "headline": "Tongue & Robinson cut Headingley ball in half",
      "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
+     "score": 42,
+     "event_id": "c2083dc9b402",
      "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
+      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
      ]
     },
     {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "date": "2026-08-20",
+     "headline": "Brook shines as England take control against Pakistan",
      "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
+     "score": 43,
+     "event_id": "01a37345b72e",
      "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
      ]
     },
     {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
+     "date": "2026-08-21",
+     "headline": "England v Pakistan: first Test, day three – live",
+     "sources": 2,
+     "score": 49,
+     "event_id": "22dc48990b22",
      "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
+      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
+     "sources": 2,
+     "score": 43,
+     "event_id": "251989e37557",
+     "links": [
+      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
+      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
      ]
     },
     {
      "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "headline": "Abbas gives Pakistan edge with four wickets against England in second Test",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0d4f9b3b0b25",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-first-day-match-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c873f6019692",
+   "title": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
+   "section": "culture",
+   "entities": [
+    "backdrops",
+    "yayoi",
+    "fantastical",
+    "infinity",
+    "keep",
+    "cosmos",
+    "volunteers",
+    "spanned",
+    "counterculture",
+    "became",
+    "created",
+    "mirror",
+    "castle",
+    "japanese",
+    "toward",
+    "work",
+    "decade",
+    "back",
+    "original",
+    "restoration",
+    "pull",
+    "kusama",
+    "world's",
+    "rooms",
+    "famous",
+    "location"
+   ],
+   "event_ids": [
+    "c873f6019692",
+    "0b04db51a003",
+    "8c7c5944f603",
+    "60b5bbdb12c5",
+    "3878d84c9fb9"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
      "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
+     "score": 56,
+     "event_id": "c873f6019692",
      "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art",
+      "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/artanddesign/gallery/2026/aug/27/yayoi-kusama-gallery-life-in-pictures"
      ]
     },
     {
      "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
+     "headline": "Yayoi Kusama, high priestess of polka dots, has died",
+     "sources": 3,
+     "score": 51,
+     "event_id": "0b04db51a003",
      "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+      "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
+      "https://www.dw.com/en/japanese-artist-yayoi-kusama-dies-at-97/a-78518473?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Japanese polka dot artist Yayoi Kusama dies aged 97",
+     "sources": 3,
+     "score": 50,
+     "event_id": "8c7c5944f603",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260827-japanese-avant-garde-artist-yayoi-kusama-dies-at-97"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Yayoi Kusama Created Fantastical 'Infinity Mirror Rooms' That Became the Art World's Most Famous Backdrops. Her Work Spanned Counterculture to the Cosmos",
+     "sources": 1,
+     "score": 44,
+     "event_id": "60b5bbdb12c5",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/yayoi-kusama-created-fantastical-infinity-mirror-rooms-that-became-the-most-famous-backdrops-of-the-art-world-her-work-spanned-from-counterculture-to-cosmos-180989409/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "1,800 Volunteers Pull a 400-Ton Japanese Castle Keep Back Toward Its Original Location After a Decade of Restoration Work",
+     "sources": 1,
+     "score": 40,
+     "event_id": "3878d84c9fb9",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/1800-people-pull-a-400-ton-japanese-castle-keep-back-toward-its-original-location-after-a-decade-of-restoration-work-180989401/"
      ]
     }
    ]
@@ -1431,56 +1645,87 @@
    ]
   },
   {
-   "id": "c873f6019692",
-   "title": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
-   "section": "culture",
+   "id": "64969c4b1451",
+   "title": "UEFA to bring criminal complaint against Infantino",
+   "section": "world",
    "entities": [
-    "japanese",
-    "kusama",
-    "yayoi"
+    "infantino",
+    "uefa",
+    "hughes",
+    "matt"
    ],
    "event_ids": [
-    "c873f6019692",
-    "0b04db51a003",
-    "8c7c5944f603"
+    "64969c4b1451",
+    "2d68919227f3"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-08-27",
    "timeline": [
     {
      "date": "2026-08-27",
-     "headline": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
-     "sources": 3,
-     "score": 56,
-     "event_id": "c873f6019692",
+     "headline": "UEFA to bring criminal complaint against Infantino",
+     "sources": 4,
+     "score": 71,
+     "event_id": "64969c4b1451",
      "links": [
-      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art",
-      "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/artanddesign/gallery/2026/aug/27/yayoi-kusama-gallery-life-in-pictures"
+      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
      ]
     },
     {
      "date": "2026-08-27",
-     "headline": "Yayoi Kusama, high priestess of polka dots, has died",
-     "sources": 3,
-     "score": 51,
-     "event_id": "0b04db51a003",
+     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2d68919227f3",
      "links": [
-      "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
-      "https://www.dw.com/en/japanese-artist-yayoi-kusama-dies-at-97/a-78518473?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
+      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
+      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ed2d132fe5dc",
+   "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+   "section": "world",
+   "entities": [
+    "butcher",
+    "mladic",
+    "bosnia",
+    "ratko",
+    "srebrenica"
+   ],
+   "event_ids": [
+    "ed2d132fe5dc",
+    "790f7f4c343b"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+     "sources": 4,
+     "score": 68,
+     "event_id": "ed2d132fe5dc",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
+      "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
      ]
     },
     {
      "date": "2026-08-27",
-     "headline": "Japanese polka dot artist Yayoi Kusama dies aged 97",
-     "sources": 3,
-     "score": 50,
-     "event_id": "8c7c5944f603",
+     "headline": "The man behind Srebrenica: Ratko Mladic dies at 84",
+     "sources": 2,
+     "score": 52,
+     "event_id": "790f7f4c343b",
      "links": [
-      "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20260827-japanese-avant-garde-artist-yayoi-kusama-dies-at-97"
+      "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/27/obituary-ratko-mladic-war-criminal-convicted-of-srebrenica-genocide-dies?traffic_source=rss"
      ]
     }
    ]
@@ -1542,64 +1787,6 @@
    ]
   },
   {
-   "id": "64969c4b1451",
-   "title": "UEFA to bring criminal complaint against Infantino",
-   "section": "world",
-   "entities": [
-    "infantino",
-    "uefa"
-   ],
-   "event_ids": [
-    "64969c4b1451"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-08-27",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "UEFA to bring criminal complaint against Infantino",
-     "sources": 4,
-     "score": 71,
-     "event_id": "64969c4b1451",
-     "links": [
-      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ed2d132fe5dc",
-   "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
-   "section": "world",
-   "entities": [
-    "ratko",
-    "mladic",
-    "bosnia",
-    "butcher"
-   ],
-   "event_ids": [
-    "ed2d132fe5dc"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-08-27",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
-     "sources": 4,
-     "score": 68,
-     "event_id": "ed2d132fe5dc",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
-      "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
-     ]
-    }
-   ]
-  },
-  {
    "id": "6d2cad015ca3",
    "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
    "section": "world",
@@ -1655,6 +1842,36 @@
       "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
       "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
       "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fc871ed3ce64",
+   "title": "Trump signs order to rename Lake Ontario as Lake America",
+   "section": "world",
+   "entities": [
+    "ontario",
+    "trump",
+    "america",
+    "lake"
+   ],
+   "event_ids": [
+    "fc871ed3ce64"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Trump signs order to rename Lake Ontario as Lake America",
+     "sources": 7,
+     "score": 82,
+     "event_id": "fc871ed3ce64",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
      ]
     }
    ]
@@ -2863,90 +3080,6 @@
    ]
   },
   {
-   "id": "81515d5a1191",
-   "title": "Robinson and Tongue guide England to strong start against Pakistan",
-   "section": "sport",
-   "entities": [
-    "brook",
-    "root",
-    "robinson",
-    "fleming",
-    "pakistan",
-    "headingley",
-    "tongue",
-    "england",
-    "test"
-   ],
-   "event_ids": [
-    "81515d5a1191",
-    "c2083dc9b402",
-    "01a37345b72e",
-    "22dc48990b22",
-    "251989e37557"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-21",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
-     "sources": 2,
-     "score": 55,
-     "event_id": "81515d5a1191",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Tongue & Robinson cut Headingley ball in half",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c2083dc9b402",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Brook shines as England take control against Pakistan",
-     "sources": 2,
-     "score": 43,
-     "event_id": "01a37345b72e",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "England v Pakistan: first Test, day three – live",
-     "sources": 2,
-     "score": 49,
-     "event_id": "22dc48990b22",
-     "links": [
-      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
-      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
-     "sources": 2,
-     "score": 43,
-     "event_id": "251989e37557",
-     "links": [
-      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
-      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "142c24046870",
    "title": "Panama Canal to cut number of ships passing through due to El Niño",
    "section": "world",
@@ -4094,5 +4227,5 @@
    ]
   }
  ],
- "updated": "2026-08-27T15:57:14+00:00"
+ "updated": "2026-08-27T21:26:31+00:00"
 }

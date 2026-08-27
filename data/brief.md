@@ -92,37 +92,34 @@
     <https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/>
     > Dolly Parton passed away yesterday at age 80 following a brief battle with cancer. She leaves behind a legacy captured in many GNN stories; one of championing childhood literacy, uplifting Americans of every gender, color, and creed, and of several enduring musical hits in the co
 
-### 4. Remembering Dolly Parton: 8 facts about the icon
-- id události: `510624bdc84f`  ·  rubrika: `culture`  ·  skóre: 79  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Trump signs order to rename Lake Ontario as Lake America
+- id události: `fc871ed3ce64`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **DW News** — Remembering Dolly Parton: 8 facts about the icon
-    <https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf>
-    > Dolly Parton was one of the world's most successful artists. On Tuesday, her family announced that she passed away at 80. Here are some important and extraordinary facts about the country music superstar.
-  - **BBC Entertainment** — Dolly Parton: A life in pictures
-    <https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss>
-    > The singer rose from humble beginnings to become one of the most beloved entertainers in the world.
-  - **BBC Entertainment** — Dolly Parton: The life of an iconic country singer
-    <https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss>
-    > Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
-  - **Guardian Culture** — Dolly Parton – a life in pictures
-    <https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures>
-    > The country music star, actor and philanthropist’s long and varied career spanned decades Dolly Parton, country star, actor and philanthropist, dies aged 80 Country music legend Dolly Parton dies aged 80 – latest updates Dolly Parton’s family say goodbye to their aunt, sister, gr
-  - **Guardian Culture** — Dolly Parton, country star, actor and philanthropist, dies aged 80
-    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
-    > Songwriter of I Will Always Love You, Jolene and 9 to 5 also invested millions in child literacy, Covid-19 vaccine development and other causes Alexis Petridis on Dolly Parton’s peerless career which turned country music cliches inside out Dolly Parton – a life in pictures Countr
-  - **Al Jazeera** — Dolly Parton, beloved US country music icon, dies at 80
-    <https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss>
-    > Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.
-  - **Al Jazeera** — Video: US country music legend Dolly Parton dies
-    <https://www.aljazeera.com/video/newsfeed/2026/8/25/video-us-country-music-legend-dolly-parton-dies?traffic_source=rss>
-    > US country music star Dolly Parton has died aged 80, her family have announced in a video on social media.
-  - **France 24** — Beloved US country music icon Dolly Parton dies at 80
-    <https://www.france24.com/en/americas/20260825-us-country-music-legend-dolly-parton-dies-at>
-    > US singer-songwriter, actress, businesswoman and philanthropist Dolly Parton died on Tuesday at the age of 80, her family said in a statement. The prolific songwriter released 49 studio albums, more than 100 compilation and collorabative albums, won 10 Grammys and 13 Academy of C
-  - **Hacker News Best** — Dolly Parton has died
-    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead>
-    > https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 P
+  - **BBC World** — Trump signs order to rename Lake Ontario as Lake America
+    <https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss>
+    > Trump's order comes after the trade talks between the US and Canada collapsed late last week.
+  - **NPR News** — Trump directs federal government to rename Lake Ontario to Lake America
+    <https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america>
+    > President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .
+  - **The Guardian World** — Trump signs executive order to rename Lake Ontario as Lake America
+    <https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america>
+    > Symbolic move to rename lake shared by US and Canada comes amid escalating trade war with northern neighbor US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid h
+  - **DW News** — Trump signs order to rename Lake Ontario as Lake America
+    <https://www.dw.com/en/trump-signs-order-to-rename-lake-ontario-as-lake-america/a-78537838?maca=en-rss-en-all-1573-rdf>
+    > The move is the latest in the ongoing rift between the US and Canada. The US president has also tried to rename the Gulf of Mexico as the "Gulf of America" in the past. Canadian PM Carney has said nothing will change.
+  - **CNBC Top** — Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war
+    <https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html>
+    > President Donald Trump signed an executive order that he said will "immediately" change the name of Lake Ontario to "Lake America."
+  - **Al Jazeera** — Video: Trump signs order to re-name Lake Ontario as Lake America
+    <https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss>
+    > US President Donald Trump has signed an executive order to rename Lake Ontario as Lake America.
+  - **France 24** — Trump signs order to rename Lake Ontario to 'Lake America' as Carney pushes back
+    <https://www.france24.com/en/americas/20260827-trump-signs-order-to-rename-lake-ontario-to-lake-america-as-carney-pushes-back>
+    > US President Donald Trump on Thursday signed an executive order to update the name of Lake Ontario to "Lake America" in the country's geographic naming service. Canadian Prime Minister Mark Carney pushed back, citing the name's Indigenous origins, as the row between the neighbors
+  - **Al Jazeera** — US President Trump signs order renaming Lake Ontario to ‘Lake America’
+    <https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss>
+    > The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
 
 ---
 
@@ -155,8 +152,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-23  (2 zdrojů, síla 42)  Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
-  2026-08-24  (1 zdrojů, síla 42)  Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
   2026-08-24  (2 zdrojů, síla 42)  US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
   2026-08-24  (2 zdrojů, síla 44)  What do locals think of IndyCar in Washington DC?
   2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran
@@ -175,6 +170,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-27  (2 zdrojů, síla 44)  Trump says all mines cleared from Strait of Hormuz
   2026-08-27  (2 zdrojů, síla 54)  Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
   2026-08-27  (2 zdrojů, síla 46)  Uefa Champions League 2026-27: league phase draw – live
+  2026-08-27  (4 zdrojů, síla 71)  Man City and Aston Villa to face holders PSG in Champions League
+  2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
