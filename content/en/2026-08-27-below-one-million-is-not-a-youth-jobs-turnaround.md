@@ -1,14 +1,15 @@
 ---
 slug: below-one-million-is-not-a-youth-jobs-turnaround
-title: "Below One Million Is Not a Youth-Jobs Turnaround"
-dek: "Britain’s latest NEET estimate fell by 30,000 in a quarter and rose by 30,000 in a year. The useful question is not which arrow wins, but what the total conceals."
+title: Below One Million Is Not a Youth-Jobs Turnaround
+dek: Britain’s latest NEET estimate fell by 30,000 in a quarter and rose by 30,000
+  in a year. The useful question is not which arrow wins, but what the total conceals.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-08-27'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -17,37 +18,42 @@ automation_role: intraday
 generator: chatgpt-work
 format: roundtable
 event_id: ons-uk-neet-april-june-2026-release
-series: "The Newsroom Table"
-image_query: "empty entry level workplace desk beside college notebook neutral editorial"
+series: The Newsroom Table
+image_query: empty entry level workplace desk beside college notebook neutral editorial
 sources:
-  - name: "UK Office for National Statistics — Young people not in education, employment or training"
-    url: "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/bulletins/youngpeoplenotineducationemploymentortrainingneet/august2026"
-    published: '2026-08-27'
-  - name: "Reuters — Number of UK young people not in work or education drops under 1 million"
-    url: "https://www.reuters.com/business/world-at-work/number-uk-young-people-not-work-or-education-drops-under-1-million-2026-08-27/"
-    published: '2026-08-27'
-  - name: "The Guardian — Number of young people not in work or education falls but remains high"
-    url: "https://www.theguardian.com/business/live/2026/aug/27/asian-technology-shares-ride-high-ai-optimism-nvidias-stunning-results-jackson-hole-live-updates"
-    published: '2026-08-27'
-  - name: "UK Government — Young people and work: interim report"
-    url: "https://www.gov.uk/government/publications/young-people-and-work-interim-report/young-people-and-work-interim-report"
-    published: '2026-08-10'
-  - name: "Institute for Fiscal Studies — Why has the NEET rate risen?"
-    url: "https://ifs.org.uk/publications/why-has-neet-rate-risen-understanding-trends-and-drivers-using-administrative-data"
-    published: '2026'
-  - name: "Resolution Foundation — Lost in transition"
-    url: "https://www.resolutionfoundation.org/publications/lost-in-transition/"
-    published: '2026-04-28'
+- name: UK Office for National Statistics — Young people not in education, employment
+    or training
+  url: https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/bulletins/youngpeoplenotineducationemploymentortrainingneet/august2026
+  published: '2026-08-27'
+- name: Reuters — Number of UK young people not in work or education drops under 1
+    million
+  url: https://www.reuters.com/business/world-at-work/number-uk-young-people-not-work-or-education-drops-under-1-million-2026-08-27/
+  published: '2026-08-27'
+- name: The Guardian — Number of young people not in work or education falls but remains
+    high
+  url: https://www.theguardian.com/business/live/2026/aug/27/asian-technology-shares-ride-high-ai-optimism-nvidias-stunning-results-jackson-hole-live-updates
+  published: '2026-08-27'
+- name: 'UK Government — Young people and work: interim report'
+  url: https://www.gov.uk/government/publications/young-people-and-work-interim-report/young-people-and-work-interim-report
+  published: '2026-08-10'
+- name: Institute for Fiscal Studies — Why has the NEET rate risen?
+  url: https://ifs.org.uk/publications/why-has-neet-rate-risen-understanding-trends-and-drivers-using-administrative-data
+  published: '2026'
+- name: Resolution Foundation — Lost in transition
+  url: https://www.resolutionfoundation.org/publications/lost-in-transition/
+  published: '2026-04-28'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why does the fall from 1.011 million to 981,000 not establish a turnaround?"
+  question: Why does the fall from 1.011 million to 981,000 not establish a turnaround?
   options:
-    - "The estimate was still 30,000 higher than a year earlier, and short-term survey movements are volatile"
-    - "The ONS excludes everyone who is looking for work"
-    - "The figure covers only university graduates"
+  - The estimate was still 30,000 higher than a year earlier, and short-term survey
+    movements are volatile
+  - The ONS excludes everyone who is looking for work
+  - The figure covers only university graduates
   answer: 0
-  explanation: "The quarter improved while the year worsened, and the ONS advises caution because this smaller survey subgroup has substantial sampling variability."
+  explanation: The quarter improved while the year worsened, and the ONS advises caution
+    because this smaller survey subgroup has substantial sampling variability.
 ---
 
 ## BRIEFLY
