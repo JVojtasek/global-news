@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "treasury",
-    "iran's",
-    "d-day",
-    "jong",
-    "qatar",
-    "trump",
-    "states",
-    "trump's",
-    "north",
-    "thursday's",
-    "china's",
-    "strait",
-    "hormuz",
-    "league",
-    "korea",
-    "start",
-    "indycar",
-    "iranian",
-    "groundhog",
-    "justified",
-    "oman",
-    "donald",
-    "iran",
-    "east",
-    "gulf",
-    "south",
-    "champions",
-    "turkey",
-    "eswatini",
-    "us-south",
-    "economic",
-    "taiwan",
-    "secretary",
     "ukraine",
-    "bluster",
-    "scott",
-    "briton",
-    "middle",
+    "east",
+    "groundhog",
+    "jong",
+    "north",
+    "strait",
+    "justified",
+    "china's",
+    "iranian",
+    "south",
+    "d-day",
+    "states",
+    "us-south",
+    "oman",
     "american",
-    "celtic"
+    "trump",
+    "thursday's",
+    "start",
+    "korea",
+    "celtic",
+    "champions",
+    "bluster",
+    "qatar",
+    "middle",
+    "eswatini",
+    "iran",
+    "briton",
+    "secretary",
+    "league",
+    "indycar",
+    "iran's",
+    "scott",
+    "economic",
+    "turkey",
+    "treasury",
+    "trump's",
+    "taiwan",
+    "gulf",
+    "hormuz",
+    "donald"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -105,10 +105,11 @@
     "d00029b2e66b",
     "95584f14b3e1",
     "033193ef8aba",
-    "e618b3e50f22"
+    "e618b3e50f22",
+    "6c6b7d488472"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-26",
+   "last_seen": "2026-08-27",
    "timeline": [
     {
      "date": "2026-08-09",
@@ -779,6 +780,17 @@
       "https://www.bbc.co.uk/sport/football/articles/c3v0q3r554xo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/videos/cdx0rd2z8pjo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/videos/cvgywl4k0e1o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Trump says all mines cleared from Strait of Hormuz",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6c6b7d488472",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html"
      ]
     }
    ]
@@ -3780,5 +3792,5 @@
    ]
   }
  ],
- "updated": "2026-08-27T02:00:11+00:00"
+ "updated": "2026-08-27T05:02:53+00:00"
 }
