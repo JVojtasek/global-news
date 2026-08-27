@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-26
+# ZADÁNÍ PRO REDAKCI — 2026-08-27
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
