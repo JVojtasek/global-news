@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **5**
+- Článků v zásobě: **6**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -155,7 +155,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-20  (2 zdrojů, síla 42)  North Korea fires ballistic missiles as US-South Korea drills near end
   2026-08-22  (2 zdrojů, síla 40)  Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
   2026-08-23  (2 zdrojů, síla 42)  Middle East live: Iran's president says country facing 'many problems' as US sanctions loom
   2026-08-24  (1 zdrojů, síla 42)  Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race
@@ -175,16 +174,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-26  (2 zdrojů, síla 46)  China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
   2026-08-26  (1 zdrojů, síla 53)  How to follow Thursday's Champions League draw - and who is in each pot?
   2026-08-27  (2 zdrojů, síla 44)  Trump says all mines cleared from Strait of Hormuz
+  2026-08-27  (2 zdrojů, síla 54)  Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 23  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 24  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 23
-  2026-08-11  (2 zdrojů, síla 41)  Ukraine and Russia exchange attacks as Kyiv buys new ATACMS
+rubrika: world · sledováno od 2026-08-11 · záznamů: 24
   2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles
   2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine
   2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
@@ -204,6 +203,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 23
   2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
+  2026-08-27  (2 zdrojů, síla 44)  Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
 ```
 
 ---

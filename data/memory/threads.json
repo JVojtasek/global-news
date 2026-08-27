@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "ukraine",
-    "east",
-    "groundhog",
-    "jong",
-    "north",
-    "strait",
-    "justified",
-    "china's",
-    "iranian",
     "south",
-    "d-day",
-    "states",
-    "us-south",
-    "oman",
-    "american",
-    "trump",
-    "thursday's",
-    "start",
-    "korea",
-    "celtic",
-    "champions",
-    "bluster",
-    "qatar",
-    "middle",
-    "eswatini",
-    "iran",
-    "briton",
-    "secretary",
-    "league",
-    "indycar",
-    "iran's",
-    "scott",
-    "economic",
-    "turkey",
-    "treasury",
-    "trump's",
-    "taiwan",
-    "gulf",
     "hormuz",
-    "donald"
+    "league",
+    "briton",
+    "iranian",
+    "lyon",
+    "oman",
+    "north",
+    "secretary",
+    "iran's",
+    "east",
+    "jong",
+    "indycar",
+    "qatar",
+    "chaos",
+    "trump's",
+    "justified",
+    "d-day",
+    "american",
+    "china's",
+    "donald",
+    "korea",
+    "champions",
+    "middle",
+    "taiwan",
+    "us-south",
+    "scott",
+    "fenerbahce",
+    "celtic",
+    "thursday's",
+    "eswatini",
+    "turkey",
+    "groundhog",
+    "strait",
+    "economic",
+    "start",
+    "trump",
+    "gulf",
+    "treasury",
+    "ukraine"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -106,23 +106,12 @@
     "95584f14b3e1",
     "033193ef8aba",
     "e618b3e50f22",
-    "6c6b7d488472"
+    "6c6b7d488472",
+    "661a16f42eb6"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-27",
    "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-     "sources": 6,
-     "score": 83,
-     "event_id": "639e1a78a571",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach"
-     ]
-    },
     {
      "date": "2026-08-10",
      "headline": "Middle East: Iran wants US concessions before opening Hormuz",
@@ -792,6 +781,612 @@
       "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
       "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html"
      ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Chaos mars Fenerbahce’s Champions League qualifying win over Lyon",
+     "sources": 2,
+     "score": 54,
+     "event_id": "661a16f42eb6",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss",
+      "https://www.france24.com/en/tv-shows/sports/20260827-champions-league-heartbreak-lyon-knocked-out-in-play-offs",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/27/frances-guendouzi-attacked-by-lyon-fans-at-champions-league-match?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1bf4b58ce158",
+   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+   "section": "world",
+   "entities": [
+    "korean",
+    "back-to-back",
+    "overnight",
+    "russia",
+    "zelensky",
+    "belgorod",
+    "russian",
+    "masha",
+    "kyiv",
+    "holding",
+    "four",
+    "burnham",
+    "north",
+    "izmail",
+    "atacms",
+    "bear",
+    "wildberries",
+    "several",
+    "europe",
+    "ukraine",
+    "zelenskyy"
+   ],
+   "event_ids": [
+    "1bf4b58ce158",
+    "ab563eb385f2",
+    "3fc6b4461f50",
+    "a9756de264c6",
+    "b984d1ff1c1f",
+    "84e20c91b19d",
+    "5ee2dd433419",
+    "0ed2f09480ff",
+    "27fa2321e1da",
+    "dba47316b75a",
+    "4e323bc20345",
+    "98346948dc87",
+    "df0b1bdc163d",
+    "e2b32b0aa268",
+    "cedf7f5c0142",
+    "e1239ee18ddf",
+    "38f1f3daedca",
+    "8e855f427aa3",
+    "0053421a02cb",
+    "39ea562d9b81",
+    "374572a43be2",
+    "6c51db20726b",
+    "eae5ac2e5ace",
+    "8460282a6ecc"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-11",
+     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+     "sources": 3,
+     "score": 62,
+     "event_id": "1bf4b58ce158",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+     "sources": 2,
+     "score": 54,
+     "event_id": "ab563eb385f2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3fc6b4461f50",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a9756de264c6",
+     "links": [
+      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine says Russia fired North Korean missiles",
+     "sources": 2,
+     "score": 46,
+     "event_id": "b984d1ff1c1f",
+     "links": [
+      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
+      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "84e20c91b19d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5ee2dd433419",
+     "links": [
+      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
+      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Ukraine strikes major Russian rocket factory with cruise missiles",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0ed2f09480ff",
+     "links": [
+      "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+     "sources": 2,
+     "score": 42,
+     "event_id": "27fa2321e1da",
+     "links": [
+      "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
+      "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Why Kyiv keeps attacking Russian retail giant Wildberries",
+     "sources": 2,
+     "score": 49,
+     "event_id": "dba47316b75a",
+     "links": [
+      "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
+     "sources": 2,
+     "score": 43,
+     "event_id": "4e323bc20345",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
+     "sources": 2,
+     "score": 46,
+     "event_id": "98346948dc87",
+     "links": [
+      "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Ukraine appeals to FIA to overturn Russia inclusion",
+     "sources": 3,
+     "score": 53,
+     "event_id": "df0b1bdc163d",
+     "links": [
+      "https://www.bbc.co.uk/sport/formula1/articles/c5y6jz0xx7do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/18/kanye-west-announces-tour-dates-st-petersburg-russia-ye",
+      "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e2b32b0aa268",
+     "links": [
+      "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+     "sources": 4,
+     "score": 69,
+     "event_id": "cedf7f5c0142",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
+     "sources": 3,
+     "score": 59,
+     "event_id": "e1239ee18ddf",
+     "links": [
+      "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre",
+     "sources": 2,
+     "score": 52,
+     "event_id": "38f1f3daedca",
+     "links": [
+      "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
+      "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8e855f427aa3",
+     "links": [
+      "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-22",
+     "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0053421a02cb",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+      "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+     "sources": 2,
+     "score": 40,
+     "event_id": "39ea562d9b81",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+     "sources": 2,
+     "score": 51,
+     "event_id": "374572a43be2",
+     "links": [
+      "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+      "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+      "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6c51db20726b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+     "sources": 2,
+     "score": 47,
+     "event_id": "eae5ac2e5ace",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8460282a6ecc",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
+      "https://www.france24.com/en/game-of-drones-deep-strikes-into-russia-keeping-ukraine-in-this-game"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "country",
+    "music",
+    "biggest",
+    "songwriter",
+    "history",
+    "stars",
+    "parton",
+    "wanted",
+    "covid",
+    "remembered",
+    "dolly",
+    "nashville",
+    "remembering"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b",
+    "13c0684b4af3",
+    "92a48ee35a16"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
+     "sources": 6,
+     "score": 86,
+     "event_id": "13c0684b4af3",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02676-1",
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
+     "sources": 2,
+     "score": 54,
+     "event_id": "92a48ee35a16",
+     "links": [
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "cyberattack",
+    "detailed",
+    "alabama",
+    "unexpected",
+    "openai",
+    "face",
+    "timeline",
+    "hugging"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f0a2b81c016e",
+   "title": "India news: India steps up efforts as hundreds missing in Nepal floods",
+   "section": "world",
+   "entities": [
+    "nepal",
+    "india"
+   ],
+   "event_ids": [
+    "f0a2b81c016e"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-27",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "India news: India steps up efforts as hundreds missing in Nepal floods",
+     "sources": 3,
+     "score": 61,
+     "event_id": "f0a2b81c016e",
+     "links": [
+      "https://www.dw.com/en/india-news-india-steps-up-efforts-as-hundreds-missing-in-nepal-floods/live-78519583?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/nepal-floods-more-than-270-killed-nearly-1-400-missing/a-78519407?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/27/more-than-1300-missing-in-nepal-and-china-after-deadly-himalayan-flood?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1303,210 +1898,6 @@
    ]
   },
   {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "dolly",
-    "covid",
-    "nashville",
-    "remembering",
-    "parton"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07",
-    "4d5d929d3f9b",
-    "13c0684b4af3"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-08-26",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-     "sources": 6,
-     "score": 83,
-     "event_id": "4d5d929d3f9b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
-      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
-     "sources": 6,
-     "score": 86,
-     "event_id": "13c0684b4af3",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02676-1",
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "entities": [
-    "cyberattack",
-    "hugging",
-    "detailed",
-    "face",
-    "openai",
-    "timeline",
-    "alabama",
-    "unexpected"
-   ],
-   "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-08-26",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-     "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
-     "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "42d214b6358f",
    "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
    "section": "business",
@@ -1785,323 +2176,6 @@
       "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
       "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
       "https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1bf4b58ce158",
-   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-   "section": "world",
-   "entities": [
-    "masha",
-    "overnight",
-    "north",
-    "belgorod",
-    "europe",
-    "zelenskyy",
-    "zelensky",
-    "four",
-    "several",
-    "russia",
-    "atacms",
-    "burnham",
-    "wildberries",
-    "russian",
-    "izmail",
-    "bear",
-    "korean",
-    "holding",
-    "ukraine",
-    "back-to-back",
-    "kyiv"
-   ],
-   "event_ids": [
-    "1bf4b58ce158",
-    "ab563eb385f2",
-    "3fc6b4461f50",
-    "a9756de264c6",
-    "b984d1ff1c1f",
-    "84e20c91b19d",
-    "5ee2dd433419",
-    "0ed2f09480ff",
-    "27fa2321e1da",
-    "dba47316b75a",
-    "4e323bc20345",
-    "98346948dc87",
-    "df0b1bdc163d",
-    "e2b32b0aa268",
-    "cedf7f5c0142",
-    "e1239ee18ddf",
-    "38f1f3daedca",
-    "8e855f427aa3",
-    "0053421a02cb",
-    "39ea562d9b81",
-    "374572a43be2",
-    "6c51db20726b",
-    "eae5ac2e5ace"
-   ],
-   "first_seen": "2026-08-11",
-   "last_seen": "2026-08-24",
-   "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-     "sources": 3,
-     "score": 62,
-     "event_id": "1bf4b58ce158",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-     "sources": 2,
-     "score": 54,
-     "event_id": "ab563eb385f2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3fc6b4461f50",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a9756de264c6",
-     "links": [
-      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine says Russia fired North Korean missiles",
-     "sources": 2,
-     "score": 46,
-     "event_id": "b984d1ff1c1f",
-     "links": [
-      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
-      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
-      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "84e20c91b19d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5ee2dd433419",
-     "links": [
-      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
-      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Ukraine strikes major Russian rocket factory with cruise missiles",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0ed2f09480ff",
-     "links": [
-      "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
-     "sources": 2,
-     "score": 42,
-     "event_id": "27fa2321e1da",
-     "links": [
-      "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
-      "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Why Kyiv keeps attacking Russian retail giant Wildberries",
-     "sources": 2,
-     "score": 49,
-     "event_id": "dba47316b75a",
-     "links": [
-      "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-     "sources": 2,
-     "score": 43,
-     "event_id": "4e323bc20345",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
-     "sources": 2,
-     "score": 46,
-     "event_id": "98346948dc87",
-     "links": [
-      "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Ukraine appeals to FIA to overturn Russia inclusion",
-     "sources": 3,
-     "score": 53,
-     "event_id": "df0b1bdc163d",
-     "links": [
-      "https://www.bbc.co.uk/sport/formula1/articles/c5y6jz0xx7do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/18/kanye-west-announces-tour-dates-st-petersburg-russia-ye",
-      "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
-     "sources": 2,
-     "score": 44,
-     "event_id": "e2b32b0aa268",
-     "links": [
-      "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-     "sources": 4,
-     "score": 69,
-     "event_id": "cedf7f5c0142",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
-     "sources": 3,
-     "score": 59,
-     "event_id": "e1239ee18ddf",
-     "links": [
-      "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre",
-     "sources": 2,
-     "score": 52,
-     "event_id": "38f1f3daedca",
-     "links": [
-      "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
-      "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8e855f427aa3",
-     "links": [
-      "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-22",
-     "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0053421a02cb",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-      "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-     "sources": 2,
-     "score": 40,
-     "event_id": "39ea562d9b81",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-     "sources": 2,
-     "score": 51,
-     "event_id": "374572a43be2",
-     "links": [
-      "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
-      "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
-      "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6c51db20726b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
-     "sources": 2,
-     "score": 47,
-     "event_id": "eae5ac2e5ace",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
-      "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy"
      ]
     }
    ]
@@ -3792,5 +3866,5 @@
    ]
   }
  ],
- "updated": "2026-08-27T05:02:53+00:00"
+ "updated": "2026-08-27T09:23:14+00:00"
 }

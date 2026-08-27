@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-27
 
-Paměť obsahuje **48 vláken**. Aktivních za posledních 14 dní: **26**.
+Paměť obsahuje **49 vláken**. Aktivních za posledních 14 dní: **26**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **48 vláken**. Aktivních za posledních 14 dní: **26**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 18 dní · 60 záznamů
 - časová osa:
-  - **2026-08-25** (2 zdrojů) Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
   - **2026-08-25** (2 zdrojů) Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
   - **2026-08-25** (2 zdrojů) ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
   - **2026-08-25** (2 zdrojů) US launches Economic war on Iran
@@ -19,11 +18,11 @@ Paměť obsahuje **48 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-26** (2 zdrojů) China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
   - **2026-08-26** (1 zdrojů) How to follow Thursday's Champions League draw - and who is in each pot?
   - **2026-08-27** (2 zdrojů) Trump says all mines cleared from Strait of Hormuz
+  - **2026-08-27** (2 zdrojů) Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 13 dní · 23 záznamů
+- rubrika `world` · sledováno 16 dní · 24 záznamů
 - časová osa:
-  - **2026-08-20** (2 zdrojů) Ukraine: Several killed in fresh Russian strikes on Kyiv
   - **2026-08-20** (4 zdrojů) Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
   - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
   - **2026-08-21** (2 zdrojů) Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
@@ -33,6 +32,7 @@ Paměť obsahuje **48 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
+  - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 13 dní · 18 záznamů
@@ -62,6 +62,18 @@ Paměť obsahuje **48 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
   - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
 
+### Dolly Parton, one of country music's most singular performers, has died at age 80
+- rubrika `culture` · sledováno 2 dní · 8 záznamů
+- časová osa:
+  - **2026-08-25** (5 zdrojů) Dolly Parton, one of country music's most singular performers, has died at age 80
+  - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
+  - **2026-08-26** (2 zdrojů) Dolly Parton – a life in pictures
+  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
+  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
+  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
+  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
+  - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
+
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 8 dní · 8 záznamů
 - časová osa:
@@ -75,14 +87,3 @@ Paměť obsahuje **48 vláken**. Aktivních za posledních 14 dní: **26**.
   - **2026-08-17** (2 zdrojů) Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
-
-### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 1 dní · 7 záznamů
-- časová osa:
-  - **2026-08-25** (5 zdrojů) Dolly Parton, one of country music's most singular performers, has died at age 80
-  - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
-  - **2026-08-26** (2 zdrojů) Dolly Parton – a life in pictures
-  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
-  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
-  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
-  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
