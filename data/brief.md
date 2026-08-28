@@ -159,7 +159,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran
   2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
   2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions
   2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?
@@ -179,16 +178,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
   2026-08-28  (2 zdrojů, síla 49)  Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
   2026-08-28  (2 zdrojů, síla 44)  O'Neill hopeful on transfers despite Champions League play-off exit
+  2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 24  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 25  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 24
-  2026-08-11  (2 zdrojů, síla 46)  Ukraine says Russia fired North Korean missiles
+rubrika: world · sledováno od 2026-08-11 · záznamů: 25
   2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine
   2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles
@@ -208,6 +207,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 24
   2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
   2026-08-27  (2 zdrojů, síla 44)  Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
+  2026-08-28  (2 zdrojů, síla 48)  Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
 ```
 
 ---

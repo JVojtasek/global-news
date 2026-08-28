@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-28
 
-Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
+Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **32**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 19 dní · 60 záznamů
 - časová osa:
-  - **2026-08-26** (2 zdrojů) Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
   - **2026-08-26** (2 zdrojů) China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
   - **2026-08-26** (1 zdrojů) How to follow Thursday's Champions League draw - and who is in each pot?
   - **2026-08-27** (2 zdrojů) Trump says all mines cleared from Strait of Hormuz
@@ -19,11 +18,11 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-27** (2 zdrojů) Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
   - **2026-08-28** (2 zdrojů) Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
   - **2026-08-28** (2 zdrojů) O'Neill hopeful on transfers despite Champions League play-off exit
+  - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 16 dní · 24 záznamů
+- rubrika `world` · sledováno 17 dní · 25 záznamů
 - časová osa:
-  - **2026-08-20** (4 zdrojů) Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
   - **2026-08-20** (3 zdrojů) Ukraine: Several killed in 'massive' Russian strikes on Kyiv
   - **2026-08-21** (2 zdrojů) Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
   - **2026-08-21** (2 zdrojů) 'Masha and the Bear': Ukraine sanctions Russian cartoon
@@ -33,11 +32,11 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
   - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
+  - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 10 dní · 18 záznamů
+- rubrika `sport` · sledováno 10 dní · 19 záznamů
 - časová osa:
-  - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
   - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
   - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
   - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
@@ -47,11 +46,11 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
   - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
   - **2026-08-28** (2 zdrojů) LIVE: Crystal Palace vs Manchester City – Premier League
+  - **2026-08-28** (3 zdrojů) Haaland and Cherki fire impressive Man City to victory at Palace
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 13 dní · 18 záznamů
+- rubrika `world` · sledováno 15 dní · 19 záznamů
 - časová osa:
-  - **2026-08-19** (2 zdrojů) Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
   - **2026-08-19** (3 zdrojů) Israel admits its soldiers fired at car in which Hind Rajab was killed
   - **2026-08-19** (2 zdrojů) Multiple deadly Israeli strikes in Gaza in under 24 hours
   - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
@@ -61,6 +60,21 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
   - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
+  - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
+
+### Dolly Parton, one of country music's most singular performers, has died at age 80
+- rubrika `culture` · sledováno 3 dní · 11 záznamů
+- časová osa:
+  - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
+  - **2026-08-26** (2 zdrojů) Dolly Parton – a life in pictures
+  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
+  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
+  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
+  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
+  - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
+  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
+  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
+  - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 18 dní · 10 záznamů
@@ -75,17 +89,3 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
   - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
-
-### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 3 dní · 10 záznamů
-- časová osa:
-  - **2026-08-25** (5 zdrojů) Dolly Parton, one of country music's most singular performers, has died at age 80
-  - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
-  - **2026-08-26** (2 zdrojů) Dolly Parton – a life in pictures
-  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
-  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
-  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
-  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
-  - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
-  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
-  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
