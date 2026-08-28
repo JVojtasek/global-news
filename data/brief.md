@@ -2,14 +2,45 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **6**
+- Článků v zásobě: **7**
 - Jazyk, ve kterém se píše: **en**
 
 ---
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Dolly Parton dies aged 80 – researchers celebrate her contributions to science
+### 1. Norway's King Harald dies aged 89
+- id události: `f92d737c76de`  ·  rubrika: `world`  ·  skóre: 88  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Norway's King Harald dies aged 89
+    <https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss>
+    > The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.
+  - **The Guardian World** — Norway’s King Harald dies aged 89
+    <https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links>
+    > Monarch’s death comes at turbulent time for royal family over association of crown princess with Jeffrey Epstein King Harald V of Norway, Europe’s oldest reigning monarch, has died aged 89, the royal palace in Oslo has announced. He will be succeeded by his son King Haakon VIII. 
+  - **DW News** — Norway's King Harald dies at 89
+    <https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-rdf>
+    > King Harald, who has been Norway's ceremonial head of state since 1991, had always insisted he would not abdicate, saying his oath as king was for life. His son, Prince Haakon, is now Norway's new king.
+  - **NPR News** — Norway's King Harald V dies at 89 and his son becomes King Haakon VIII
+    <https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii>
+    > King Harald V of Norway, who went into exile in the United States as a child during the Nazi occupation of his homeland and refused a string of European noblewomen to marry his school sweetheart, died Friday.
+  - **France 24** — King Harald's death puts focus on Norway's future king
+    <https://www.france24.com/en/king-harald-s-death-puts-focus-on-norway-s-future-king>
+    > Following King Harald's death, attention is turning to Crown Prince Haakon, who is set to become Norway's next king after a turbulent year for the royal family. His wife, Crown Princess Mette-Marit, underwent a lung transplant in June and has faced scrutiny over reported past tie
+  - **Al Jazeera** — Norway’s King Harald V dies, succeeded by son
+    <https://www.aljazeera.com/news/2026/8/28/norways-king-harald-v-dies-succeeded-by-son?traffic_source=rss>
+    > Harald V, who was Europe's oldest reigning monarch, has died at the age of 89. His son will reign as King Haakon VIII.
+  - **France 24** — Norway's King Haakon, the new face of a monarchy shaken by scandal
+    <https://www.france24.com/en/europe/20260828-norway-s-king-haakon-the-new-face-of-a-monarchy-shaken-by-scandal>
+    > Norway's King Haakon VIII automatically succeeded to the throne after his father, King Harald, passed away on Friday. As comfortable in a duffel coat as in ceremonial dress, he is the new face of a monarchy long praised for its modernity and modesty, but now beset by woe and scan
+  - **France 24** — 🔴 Europe's oldest monarch, King Harald V of Norway dies at 89
+    <https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii>
+  - **France 24** — Norway's King Harald V dies at 89, his son becomes King Haakon VIII
+    <https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii>
+    > King Harald V of Norway, who was Europe's oldest reigning monarch, died at the age of 89, the palace announced on Friday. He is automatically succeeded by his son, King Haakon VIII, the former crown prince.
+
+### 2. Dolly Parton dies aged 80 – researchers celebrate her contributions to science
 - id události: `13c0684b4af3`  ·  rubrika: `culture`  ·  skóre: 86  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -35,7 +66,7 @@
     <https://www.france24.com/en/video/20260826-dolly-parton-buckingham-palace-guards-play-musical-tribute>
     > Britain’s royal family posted a video on social media Wednesday of the band of the Buckingham Palace guards playing Dolly Parton’s “9 to 5”, in tribute to the American country music legend who passed away Tuesday aged 80.
 
-### 2. Meta agrees to pay up to $18bn to settle social media case
+### 3. Meta agrees to pay up to $18bn to settle social media case
 - id události: `dd68857a78db`  ·  rubrika: `business`  ·  skóre: 84  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -60,7 +91,7 @@
   - **Investing.com** — Meta reaches $18 billion of settlements over children’s social media addiction
     <https://www.investing.com/news/stock-market-news/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction-4877554>
 
-### 3. Watch Nashville fans lay flowers in tribute to Dolly Parton
+### 4. Watch Nashville fans lay flowers in tribute to Dolly Parton
 - id události: `4d5d929d3f9b`  ·  rubrika: `culture`  ·  skóre: 83  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -91,35 +122,6 @@
   - **Good News Network** — In Memorium: Dolly Parton the Country Music Star, Philanthropist, and Champion of Literacy
     <https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/>
     > Dolly Parton passed away yesterday at age 80 following a brief battle with cancer. She leaves behind a legacy captured in many GNN stories; one of championing childhood literacy, uplifting Americans of every gender, color, and creed, and of several enduring musical hits in the co
-
-### 4. Trump signs order to rename Lake Ontario as Lake America
-- id události: `fc871ed3ce64`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Trump signs order to rename Lake Ontario as Lake America
-    <https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss>
-    > Trump's order comes after the trade talks between the US and Canada collapsed late last week.
-  - **NPR News** — Trump directs federal government to rename Lake Ontario to Lake America
-    <https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america>
-    > President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .
-  - **The Guardian World** — Trump signs executive order to rename Lake Ontario as Lake America
-    <https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america>
-    > Symbolic move to rename lake shared by US and Canada comes amid escalating trade war with northern neighbor US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid h
-  - **DW News** — Trump signs order to rename Lake Ontario as Lake America
-    <https://www.dw.com/en/trump-signs-order-to-rename-lake-ontario-as-lake-america/a-78537838?maca=en-rss-en-all-1573-rdf>
-    > The move is the latest in the ongoing rift between the US and Canada. The US president has also tried to rename the Gulf of Mexico as the "Gulf of America" in the past. Canadian PM Carney has said nothing will change.
-  - **CNBC Top** — Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war
-    <https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html>
-    > President Donald Trump signed an executive order that he said will "immediately" change the name of Lake Ontario to "Lake America."
-  - **Al Jazeera** — Video: Trump signs order to re-name Lake Ontario as Lake America
-    <https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss>
-    > US President Donald Trump has signed an executive order to rename Lake Ontario as Lake America.
-  - **France 24** — Trump signs order to rename Lake Ontario to 'Lake America' as Carney pushes back
-    <https://www.france24.com/en/americas/20260827-trump-signs-order-to-rename-lake-ontario-to-lake-america-as-carney-pushes-back>
-    > US President Donald Trump on Thursday signed an executive order to update the name of Lake Ontario to "Lake America" in the country's geographic naming service. Canadian Prime Minister Mark Carney pushed back, citing the name's Indigenous origins, as the row between the neighbors
-  - **Al Jazeera** — US President Trump signs order renaming Lake Ontario to ‘Lake America’
-    <https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss>
-    > The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
 
 ---
 

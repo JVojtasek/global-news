@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-28
 
-Paměť obsahuje **57 vláken**. Aktivních za posledních 14 dní: **30**.
+Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
 
 ---
 
@@ -77,7 +77,7 @@ Paměť obsahuje **57 vláken**. Aktivních za posledních 14 dní: **30**.
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 2 dní · 8 záznamů
+- rubrika `culture` · sledováno 3 dní · 9 záznamů
 - časová osa:
   - **2026-08-25** (5 zdrojů) Dolly Parton, one of country music's most singular performers, has died at age 80
   - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
@@ -87,3 +87,4 @@ Paměť obsahuje **57 vláken**. Aktivních za posledních 14 dní: **30**.
   - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
   - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
   - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
+  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it

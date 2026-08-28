@@ -3,8 +3,103 @@
  "mode": "normal",
  "days_since_human": 0,
  "confidence_threshold": 82,
- "reserve_articles": 6,
+ "reserve_articles": 7,
  "news_assignments": [
+  {
+   "id": "f92d737c76de",
+   "headline": "Norway's King Harald dies aged 89",
+   "section": "world",
+   "score": 88,
+   "sources_count": 6,
+   "depth_signal": 5,
+   "created": "2026-08-28T09:25:18+00:00",
+   "event_time": "2026-08-28T08:00:10+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Norway's King Harald dies aged 89",
+     "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.",
+     "published_at": "2026-08-28T08:00:10+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "Norway’s King Harald dies aged 89",
+     "url": "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
+     "source": "The Guardian World",
+     "summary": "Monarch’s death comes at turbulent time for royal family over association of crown princess with Jeffrey Epstein King Harald V of Norway, Europe’s oldest reigning monarch, has died aged 89, the royal palace in Oslo has announced. He will be succeeded by his son King Haakon VIII. “It is with deep sadness that we announce that His Majesty King Harald passed away today. King Harald passed away peacef",
+     "published_at": "2026-08-28T08:30:34+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "Norway's King Harald dies at 89",
+     "url": "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "King Harald, who has been Norway's ceremonial head of state since 1991, had always insisted he would not abdicate, saying his oath as king was for life. His son, Prince Haakon, is now Norway's new king.",
+     "published_at": "2026-08-28T08:28:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
+     "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
+     "source": "NPR News",
+     "summary": "King Harald V of Norway, who went into exile in the United States as a child during the Nazi occupation of his homeland and refused a string of European noblewomen to marry his school sweetheart, died Friday.",
+     "published_at": "2026-08-28T07:11:46+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "King Harald's death puts focus on Norway's future king",
+     "url": "https://www.france24.com/en/king-harald-s-death-puts-focus-on-norway-s-future-king",
+     "source": "France 24",
+     "summary": "Following King Harald's death, attention is turning to Crown Prince Haakon, who is set to become Norway's next king after a turbulent year for the royal family. His wife, Crown Princess Mette-Marit, underwent a lung transplant in June and has faced scrutiny over reported past ties to Jeffrey Epstein, while her son was sentenced to four years in prison for rape.",
+     "published_at": "2026-08-28T08:55:35+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "Norway’s King Harald V dies, succeeded by son",
+     "url": "https://www.aljazeera.com/news/2026/8/28/norways-king-harald-v-dies-succeeded-by-son?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Harald V, who was Europe's oldest reigning monarch, has died at the age of 89. His son will reign as King Haakon VIII.",
+     "published_at": "2026-08-28T08:54:14+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "Norway's King Haakon, the new face of a monarchy shaken by scandal",
+     "url": "https://www.france24.com/en/europe/20260828-norway-s-king-haakon-the-new-face-of-a-monarchy-shaken-by-scandal",
+     "source": "France 24",
+     "summary": "Norway's King Haakon VIII automatically succeeded to the throne after his father, King Harald, passed away on Friday. As comfortable in a duffel coat as in ceremonial dress, he is the new face of a monarchy long praised for its modernity and modesty, but now beset by woe and scandal. He swears an oath before the government later in the day.",
+     "published_at": "2026-08-28T07:51:11+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "🔴 Europe's oldest monarch, King Harald V of Norway dies at 89",
+     "url": "https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii",
+     "source": "France 24",
+     "summary": "",
+     "published_at": "2026-08-28T07:03:02+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    },
+    {
+     "title": "Norway's King Harald V dies at 89, his son becomes King Haakon VIII",
+     "url": "https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii",
+     "source": "France 24",
+     "summary": "King Harald V of Norway, who was Europe's oldest reigning monarch, died at the age of 89, the palace announced on Friday. He is automatically succeeded by his son, King Haakon VIII, the former crown prince.",
+     "published_at": "2026-08-28T06:57:15+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-28T09:25:15+00:00"
+    }
+   ],
+   "depth": "open"
+  },
   {
    "id": "13c0684b4af3",
    "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
@@ -253,92 +348,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "fc871ed3ce64",
-   "headline": "Trump signs order to rename Lake Ontario as Lake America",
-   "section": "world",
-   "score": 82,
-   "sources_count": 7,
-   "depth_signal": 0,
-   "created": "2026-08-27T21:26:31+00:00",
-   "event_time": "2026-08-27T21:07:05+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Trump signs order to rename Lake Ontario as Lake America",
-     "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Trump's order comes after the trade talks between the US and Canada collapsed late last week.",
-     "published_at": "2026-08-27T21:07:05+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    },
-    {
-     "title": "Trump directs federal government to rename Lake Ontario to Lake America",
-     "url": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-     "source": "NPR News",
-     "summary": "President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .",
-     "published_at": "2026-08-27T18:53:17+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    },
-    {
-     "title": "Trump signs executive order to rename Lake Ontario as Lake America",
-     "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-     "source": "The Guardian World",
-     "summary": "Symbolic move to rename lake shared by US and Canada comes amid escalating trade war with northern neighbor US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid his escalating trade war with Canada. The order directs federal agencies to adopt the name-change on US maps, documents a",
-     "published_at": "2026-08-27T18:44:35+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    },
-    {
-     "title": "Trump signs order to rename Lake Ontario as Lake America",
-     "url": "https://www.dw.com/en/trump-signs-order-to-rename-lake-ontario-as-lake-america/a-78537838?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "The move is the latest in the ongoing rift between the US and Canada. The US president has also tried to rename the Gulf of Mexico as the \"Gulf of America\" in the past. Canadian PM Carney has said nothing will change.",
-     "published_at": "2026-08-27T17:49:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    },
-    {
-     "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
-     "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-     "source": "CNBC Top",
-     "summary": "President Donald Trump signed an executive order that he said will \"immediately\" change the name of Lake Ontario to \"Lake America.\"",
-     "published_at": "2026-08-27T21:16:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    },
-    {
-     "title": "Video: Trump signs order to re-name Lake Ontario as Lake America",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "US President Donald Trump has signed an executive order to rename Lake Ontario as Lake America.",
-     "published_at": "2026-08-27T20:52:27+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    },
-    {
-     "title": "Trump signs order to rename Lake Ontario to 'Lake America' as Carney pushes back",
-     "url": "https://www.france24.com/en/americas/20260827-trump-signs-order-to-rename-lake-ontario-to-lake-america-as-carney-pushes-back",
-     "source": "France 24",
-     "summary": "US President Donald Trump on Thursday signed an executive order to update the name of Lake Ontario to \"Lake America\" in the country's geographic naming service. Canadian Prime Minister Mark Carney pushed back, citing the name's Indigenous origins, as the row between the neighbors roiled on.",
-     "published_at": "2026-08-27T20:39:59+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    },
-    {
-     "title": "US President Trump signs order renaming Lake Ontario to ‘Lake America’",
-     "url": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.",
-     "published_at": "2026-08-27T20:06:46+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-27T21:26:28+00:00"
-    }
-   ],
-   "depth": "scripture"
   }
  ],
  "feature_assignments": [
