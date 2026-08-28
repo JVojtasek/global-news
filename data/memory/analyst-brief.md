@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-27
+# ANALYTICKÉ ZADÁNÍ — 2026-08-28
 
-Paměť obsahuje **56 vláken**. Aktivních za posledních 14 dní: **29**.
+Paměť obsahuje **57 vláken**. Aktivních za posledních 14 dní: **30**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 18 dní · 60 záznamů
+- rubrika `world` · sledováno 19 dní · 60 záznamů
 - časová osa:
-  - **2026-08-26** (4 zdrojů) Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
   - **2026-08-26** (3 zdrojů) Celtic deficiencies laid bare on another night of Champions League pain
   - **2026-08-26** (2 zdrojů) Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
   - **2026-08-26** (2 zdrojů) China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
@@ -19,6 +18,7 @@ Paměť obsahuje **56 vláken**. Aktivních za posledních 14 dní: **29**.
   - **2026-08-27** (2 zdrojů) Uefa Champions League 2026-27: league phase draw – live
   - **2026-08-27** (4 zdrojů) Man City and Aston Villa to face holders PSG in Champions League
   - **2026-08-27** (2 zdrojů) Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
+  - **2026-08-28** (2 zdrojů) Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 16 dní · 24 záznamů
@@ -49,9 +49,8 @@ Paměť obsahuje **56 vláken**. Aktivních za posledních 14 dní: **29**.
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 8 dní · 16 záznamů
+- rubrika `sport` · sledováno 10 dní · 17 záznamů
 - časová osa:
-  - **2026-08-20** (2 zdrojů) Arsenal vs Coventry: Premier League – prediction, lineups, teams
   - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
   - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
   - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
@@ -61,9 +60,10 @@ Paměť obsahuje **56 vláken**. Aktivních za posledních 14 dní: **29**.
   - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
   - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
   - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
+  - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 17 dní · 9 záznamů
+- rubrika `ai` · sledováno 18 dní · 10 záznamů
 - časová osa:
   - **2026-08-10** (4 zdrojů) OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
   - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
@@ -74,6 +74,7 @@ Paměť obsahuje **56 vláken**. Aktivních za posledních 14 dní: **29**.
   - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
   - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
   - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
+  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 2 dní · 8 záznamů

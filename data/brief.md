@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-27
+# ZADÁNÍ PRO REDAKCI — 2026-08-28
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -125,7 +125,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
+### electric car battery
+- rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
 
@@ -152,7 +157,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-24  (2 zdrojů, síla 42)  US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
   2026-08-24  (2 zdrojů, síla 44)  What do locals think of IndyCar in Washington DC?
   2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran
   2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
@@ -172,6 +176,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-27  (2 zdrojů, síla 46)  Uefa Champions League 2026-27: league phase draw – live
   2026-08-27  (4 zdrojů, síla 71)  Man City and Aston Villa to face holders PSG in Champions League
   2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
+  2026-08-28  (2 zdrojů, síla 49)  Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
