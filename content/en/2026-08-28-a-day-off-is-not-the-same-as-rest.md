@@ -1,50 +1,54 @@
 ---
 slug: a-day-off-is-not-the-same-as-rest
-title: "A Day Off Is Not the Same as Rest"
-dek: "Recovery begins when work stops borrowing the mind, not merely when the calendar says the shift is over."
+title: A Day Off Is Not the Same as Rest
+dek: Recovery begins when work stops borrowing the mind, not merely when the calendar
+  says the shift is over.
 section: meaning
 type: analysis
 depth: open
 lang: en
-date: 2026-08-28
-status: draft
-confidence: 86
+date: '2026-08-28'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: ""
-series: "The Wider Lens"
-image_query: "closed laptop beside walking shoes and quiet window evening"
+format: ''
+event_id: ''
+series: The Wider Lens
+image_query: closed laptop beside walking shoes and quiet window evening
 sources:
-  - name: "Sinval et al., Cochrane review of work-recovery interventions"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8670591/"
-    published: "2021-12-01"
-  - name: "Shimazu et al., Industrial Health"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4202757/"
-    published: "2014-03-01"
-  - name: "Shimazu et al., Industrial Health"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4939862/"
-    published: "2016-07-01"
-  - name: "Virtanen et al., International Journal of Environmental Research and Public Health"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7007884/"
-    published: "2019-12-27"
-  - name: "Blake et al., BMC Public Health"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11731735/"
-    published: "2025-01-07"
-qma_path: ""
+- name: Sinval et al., Cochrane review of work-recovery interventions
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8670591/
+  published: '2021-12-01'
+- name: Shimazu et al., Industrial Health
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4202757/
+  published: '2014-03-01'
+- name: Shimazu et al., Industrial Health
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4939862/
+  published: '2016-07-01'
+- name: Virtanen et al., International Journal of Environmental Research and Public
+    Health
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7007884/
+  published: '2019-12-27'
+- name: Blake et al., BMC Public Health
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11731735/
+  published: '2025-01-07'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What distinguishes psychological detachment from simply being away from the workplace?"
+  question: What distinguishes psychological detachment from simply being away from
+    the workplace?
   options:
-    - "It requires travelling somewhere new"
-    - "It means not doing or mentally rehearsing work during off-time"
-    - "It means never enjoying or thinking positively about work"
+  - It requires travelling somewhere new
+  - It means not doing or mentally rehearsing work during off-time
+  - It means never enjoying or thinking positively about work
   answer: 1
-  explanation: "Research defines detachment as mental as well as physical distance from work; it does not require travel or indifference."
+  explanation: Research defines detachment as mental as well as physical distance
+    from work; it does not require travel or indifference.
 ---
 
 ## BRIEFLY
