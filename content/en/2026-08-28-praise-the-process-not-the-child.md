@@ -1,50 +1,53 @@
 ---
 slug: praise-the-process-not-the-child
-title: "Praise the Process, Not the Child"
-dek: "Useful praise points to a choice, strategy or improvement; it does not turn one good result into a verdict on who a child is."
+title: Praise the Process, Not the Child
+dek: Useful praise points to a choice, strategy or improvement; it does not turn one
+  good result into a verdict on who a child is.
 section: parenting
 type: analysis
 depth: open
 lang: en
-date: 2026-08-28
-status: draft
-confidence: 88
+date: '2026-08-28'
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: ""
-series: "The Wider Lens"
-image_query: "parent and child building wooden blocks together natural light"
+format: ''
+event_id: ''
+series: The Wider Lens
+image_query: parent and child building wooden blocks together natural light
 sources:
-  - name: "Mueller and Dweck, Journal of Personality and Social Psychology"
-    url: "https://pubmed.ncbi.nlm.nih.gov/9686450/"
-    published: "1998-07-01"
-  - name: "Gunderson et al., Child Development"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3655123/"
-    published: "2013-02-12"
-  - name: "Gunderson et al., Developmental Psychology"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC5826820/"
-    published: "2018-03-01"
-  - name: "Brummelman et al., Developmental Psychology"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8943146/"
-    published: "2022-03-01"
-  - name: "Yeager and Dweck, American Psychologist"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8299535/"
-    published: "2020-10-01"
-qma_path: ""
+- name: Mueller and Dweck, Journal of Personality and Social Psychology
+  url: https://pubmed.ncbi.nlm.nih.gov/9686450/
+  published: '1998-07-01'
+- name: Gunderson et al., Child Development
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3655123/
+  published: '2013-02-12'
+- name: Gunderson et al., Developmental Psychology
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5826820/
+  published: '2018-03-01'
+- name: Brummelman et al., Developmental Psychology
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8943146/
+  published: '2022-03-01'
+- name: Yeager and Dweck, American Psychologist
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8299535/
+  published: '2020-10-01'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which praise gives a child the clearest clue about what can be repeated?"
+  question: Which praise gives a child the clearest clue about what can be repeated?
   options:
-    - "You are a natural mathematician"
-    - "You kept trying three ways until one worked"
-    - "Perfect — you never make mistakes"
+  - You are a natural mathematician
+  - You kept trying three ways until one worked
+  - Perfect — you never make mistakes
   answer: 1
-  explanation: "The second response names an observable strategy and persistence, rather than turning one result into a fixed identity."
+  explanation: The second response names an observable strategy and persistence, rather
+    than turning one result into a fixed identity.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

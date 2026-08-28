@@ -1,14 +1,15 @@
 ---
 slug: the-ocean-floor-that-moved-a-consensus
 title: The Ocean Floor That Moved a Scientific Consensus
-dek: Wegener had telling clues, but plate tectonics won only when new maps, a workable mechanism and magnetic stripes turned movement into a testable system.
+dek: Wegener had telling clues, but plate tectonics won only when new maps, a workable
+  mechanism and magnetic stripes turned movement into a testable system.
 section: science
 type: analysis
 depth: open
 lang: en
 date: '2026-08-28'
-status: draft
-confidence: 95
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,9 +19,11 @@ generator: chatgpt-work
 format: ''
 event_id: continental-drift-to-plate-tectonics-evidence-timeline
 series: ''
-image_query: conceptual ocean floor magnetic stripes continents moving geological timeline no text
+image_query: conceptual ocean floor magnetic stripes continents moving geological
+  timeline no text
 sources:
-- name: American Physical Society — Alfred Wegener Presents His Theory of Continental Drift
+- name: American Physical Society — Alfred Wegener Presents His Theory of Continental
+    Drift
   url: https://www.aps.org/apsnews/2019/01/alfred-wegener-theory-continental-drift
   published: '2019-01-01'
 - name: American Museum of Natural History — Harry Hess and Seafloor Spreading
@@ -29,7 +32,8 @@ sources:
 - name: Smithsonian Ocean — How the Ocean Floor Helped Seal the Deal for Plate Tectonics
   url: https://ocean.si.edu/planet-ocean/seafloor/how-ocean-floor-helped-seal-deal-plate-tectonics
   published: '2022-06-01'
-- name: Geological Magazine — A Historical Account of Continental Drift and Plate Tectonics
+- name: Geological Magazine — A Historical Account of Continental Drift and Plate
+    Tectonics
   url: https://www.cambridge.org/core/journals/geological-magazine/article/historical-account-of-how-continental-drift-and-plate-tectonics-provided-the-framework-for-our-current-understanding-of-palaeogeography/0C32B80E52ECBBBF07C1F5156582043F
   published: '2018-03-19'
 qma_path: ''
@@ -41,7 +45,9 @@ quiz:
   - The modern coastlines fitting together perfectly
   - A photograph of continents moving during one expedition
   answer: 0
-  explanation: Alternating magnetic polarity recorded in newly formed basalt produced symmetrical stripes on both sides of spreading ridges, a predicted pattern that could be mapped and compared.
+  explanation: Alternating magnetic polarity recorded in newly formed basalt produced
+    symmetrical stripes on both sides of spreading ridges, a predicted pattern that
+    could be mapped and compared.
 ---
 
 ## BRIEFLY

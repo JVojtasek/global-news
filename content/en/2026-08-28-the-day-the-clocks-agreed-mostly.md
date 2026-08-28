@@ -1,50 +1,52 @@
 ---
 slug: the-day-the-clocks-agreed-mostly
-title: "The Day the Clocks Agreed — Mostly"
-dek: "Railways standardised North American time in 1883; diplomats chose Greenwich in 1884. The familiar story wrongly turns two different decisions into one."
+title: The Day the Clocks Agreed — Mostly
+dek: Railways standardised North American time in 1883; diplomats chose Greenwich
+  in 1884. The familiar story wrongly turns two different decisions into one.
 section: history
 type: feature
 depth: open
 lang: en
-date: 2026-08-28
+date: '2026-08-28'
 status: reserve
-confidence: 91
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: ""
-series: "The Wider Lens"
-image_query: "nineteenth century railway station clocks pocket watches timetable"
+format: ''
+event_id: ''
+series: The Wider Lens
+image_query: nineteenth century railway station clocks pocket watches timetable
 sources:
-  - name: "Smithsonian National Museum of American History"
-    url: "https://americanhistory.si.edu/ontime/synchronizing/zones.html"
-    published: ""
-  - name: "National Institute of Standards and Technology"
-    url: "https://www.nist.gov/pml/time-and-frequency-division/popular-links/walk-through-time/walk-through-time-world-time-scales"
-    published: "2009-08-12"
-  - name: "US Bureau of Transportation Statistics"
-    url: "https://www.bts.gov/explore-topics-and-geography/geography/geospatial-portal/history-time-zones-and-daylight-saving"
-    published: "2026-07-21"
-  - name: "International Meridian Conference proceedings"
-    url: "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm"
-    published: "1884-10-22"
-  - name: "Royal Observatory Greenwich archive"
-    url: "https://www.royalobservatorygreenwich.org/"
-    published: ""
-qma_path: ""
+- name: Smithsonian National Museum of American History
+  url: https://americanhistory.si.edu/ontime/synchronizing/zones.html
+  published: ''
+- name: National Institute of Standards and Technology
+  url: https://www.nist.gov/pml/time-and-frequency-division/popular-links/walk-through-time/walk-through-time-world-time-scales
+  published: '2009-08-12'
+- name: US Bureau of Transportation Statistics
+  url: https://www.bts.gov/explore-topics-and-geography/geography/geospatial-portal/history-time-zones-and-daylight-saving
+  published: '2026-07-21'
+- name: International Meridian Conference proceedings
+  url: https://www.gutenberg.org/files/17759/17759-h/17759-h.htm
+  published: '1884-10-22'
+- name: Royal Observatory Greenwich archive
+  url: https://www.royalobservatorygreenwich.org/
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "What did the 1884 International Meridian Conference actually choose?"
+  question: What did the 1884 International Meridian Conference actually choose?
   options:
-    - "Every national time-zone boundary"
-    - "Greenwich as the recommended common zero of longitude and a universal day"
-    - "The four North American railway zones"
+  - Every national time-zone boundary
+  - Greenwich as the recommended common zero of longitude and a universal day
+  - The four North American railway zones
   answer: 1
-  explanation: "North American railways introduced coordinated zones in 1883; the 1884 conference recommended Greenwich as the prime meridian and a universal day."
+  explanation: North American railways introduced coordinated zones in 1883; the 1884
+    conference recommended Greenwich as the prime meridian and a universal day.
 ---
 
 ## BRIEFLY

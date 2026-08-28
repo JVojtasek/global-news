@@ -1,14 +1,15 @@
 ---
 slug: a-good-apology-does-not-demand-forgiveness
 title: A Good Apology Does Not Demand Forgiveness
-dek: The words matter, but responsibility and repair carry more weight than asking the injured person to make everything comfortable again.
+dek: The words matter, but responsibility and repair carry more weight than asking
+  the injured person to make everything comfortable again.
 section: relationships
 type: analysis
 depth: open
 lang: en
 date: '2026-08-28'
-status: draft
-confidence: 93
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,9 +19,11 @@ generator: chatgpt-work
 format: ''
 event_id: effective-apology-responsibility-repair
 series: ''
-image_query: two people repairing a cracked ceramic bowl together conceptual no faces no text
+image_query: two people repairing a cracked ceramic bowl together conceptual no faces
+  no text
 sources:
-- name: Negotiation and Conflict Management Research — An Exploration of the Structure of Effective Apologies
+- name: Negotiation and Conflict Management Research — An Exploration of the Structure
+    of Effective Apologies
   url: https://ncmr.lps.library.cmu.edu/article/id/264/
   published: '2016-04-06'
 - name: Ohio State News — The 6 Elements of an Effective Apology
@@ -41,7 +44,10 @@ quiz:
   - Acknowledging responsibility and offering repair
   - Expressing regret and waiting for the issue to fade
   answer: 1
-  explanation: Across the two experiments, acknowledgment of responsibility ranked first and an offer of repair second; asking for forgiveness was the least important component.
+  explanation: Across the two experiments, acknowledgment of responsibility ranked
+    first and an offer of repair second; asking for forgiveness was the least important
+    component.
+review_reason: 'citlivé téma: abuse'
 ---
 
 ## BRIEFLY
