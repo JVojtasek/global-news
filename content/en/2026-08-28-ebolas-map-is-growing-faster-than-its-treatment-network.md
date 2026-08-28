@@ -1,14 +1,15 @@
 ---
 slug: ebolas-map-is-growing-faster-than-its-treatment-network
 title: Ebola’s Map Is Growing Faster Than Its Treatment Network
-dek: Two more health zones are affected and a new treatment centre has opened. The decisive measure is whether surveillance can find transmission before patients arrive.
+dek: Two more health zones are affected and a new treatment centre has opened. The
+  decisive measure is whether surveillance can find transmission before patients arrive.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-08-28'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -38,13 +39,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which measure best shows whether the response is getting ahead of this outbreak?
+  question: Which measure best shows whether the response is getting ahead of this
+    outbreak?
   options:
-  - The share of new cases already linked to monitored contacts rises while new affected zones stop increasing
+  - The share of new cases already linked to monitored contacts rises while new affected
+    zones stop increasing
   - The total number of treatment beds rises, regardless of where cases are detected
   - The cumulative case count stops setting round-number records
   answer: 0
-  explanation: Beds can improve care, but containment depends on finding transmission chains early. More cases arising among known contacts, fewer community deaths and a stable geographic footprint would show surveillance gaining ground.
+  explanation: Beds can improve care, but containment depends on finding transmission
+    chains early. More cases arising among known contacts, fewer community deaths
+    and a stable geographic footprint would show surveillance gaining ground.
 ---
 
 ## BRIEFLY
