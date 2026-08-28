@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-read-an-otc-medicine-label",
+  "date": "2026-08-28",
+  "category": "health-literacy",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Can you read an over-the-counter medicine label?",
+      "cs": "Umíte číst příbalové údaje volně prodejného léku?"
+    },
+    "dek": {
+      "en": "Eight everyday label decisions test whether you can find the ingredient, dose, warning and duplication that matter.",
+      "cs": "Osm běžných situací prověří, zda na obalu najdete důležitou účinnou látku, dávku, varování a riziko zdvojení."
+    },
+    "intro": {
+      "en": "Brand names can change while an active ingredient stays the same. This quiz uses the standard US Drug Facts layout as a clear teaching example; labels and legal wording differ by country. Choose the safest label-reading answer, not a treatment for a particular person.",
+      "cs": "Obchodní názvy se mohou lišit, i když účinná látka zůstává stejná. Kvíz používá jako názorný příklad standardní americký přehled Drug Facts; vzhled a právní formulace se v jednotlivých zemích liší. Vyberte nejbezpečnější postup při čtení údajů, nikoli léčbu pro konkrétního člověka."
+    },
+    "disclaimer": {
+      "en": "This is an original educational knowledge quiz based on public guidance. It does not reproduce a licensed instrument and is not medical advice, a diagnosis or a decision about whether a medicine is suitable for you. Read the complete local label and leaflet; ask a pharmacist or other qualified professional when ingredients, doses, interactions, age limits, pregnancy, symptoms or existing conditions create uncertainty. For a suspected overdose or urgent reaction, contact local emergency or poison services.",
+      "cs": "Jde o původní vzdělávací znalostní kvíz založený na veřejných doporučeních. Nepřebírá licencovaný nástroj a není lékařskou radou, diagnózou ani rozhodnutím, zda je pro vás lék vhodný. Přečtěte celý místní obal a příbalovou informaci; při nejasnostech ohledně účinných látek, dávkování, interakcí, věkových omezení, těhotenství, příznaků nebo existujících onemocnění se obraťte na lékárníka či jiného kvalifikovaného odborníka. Při podezření na předávkování nebo naléhavou reakci kontaktujte místní pohotovostní nebo toxikologickou službu."
+    }
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "active-ingredient",
+      "text": {
+        "en": "Two cold remedies have different brand names. What should you compare first to avoid unknowingly taking the same medicine twice?",
+        "cs": "Dva přípravky na nachlazení mají odlišné obchodní názvy. Co je třeba porovnat jako první, abyste nevědomky neužili stejný lék dvakrát?"
+      },
+      "options": [
+        {"label": {"en": "The active ingredient and its amount", "cs": "Účinnou látku a její množství"}, "correct": true},
+        {"label": {"en": "The package colour", "cs": "Barvu obalu"}, "correct": false},
+        {"label": {"en": "Which advertisement you remember", "cs": "Kterou reklamu si pamatujete"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "The active ingredient produces the medicine's effect. Different brands may contain the same ingredient, sometimes inside combination products.",
+        "cs": "Účinná látka vyvolává účinek léku. Různé značky mohou obsahovat stejnou látku, někdy i jako součást kombinovaného přípravku."
+      }
+    },
+    {
+      "id": "purpose-versus-use",
+      "text": {
+        "en": "On a Drug Facts label, what is the difference between “Purpose” and “Uses”?",
+        "cs": "Jaký je na americkém štítku Drug Facts rozdíl mezi položkami „Purpose“ a „Uses“?"
+      },
+      "options": [
+        {"label": {"en": "Purpose names the drug class or action; Uses lists the symptoms or conditions it is intended to address", "cs": "Purpose uvádí skupinu nebo účinek léku; Uses vyjmenovává příznaky či stavy, pro které je určen"}, "correct": true},
+        {"label": {"en": "Purpose is the price and Uses is the expiry date", "cs": "Purpose je cena a Uses datum použitelnosti"}, "correct": false},
+        {"label": {"en": "They are always identical marketing slogans", "cs": "Vždy jde o totožné reklamní slogany"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "The standard layout separates what the ingredient does from the approved uses described on the label.",
+        "cs": "Standardní přehled odděluje působení účinné látky od schválených způsobů použití uvedených na obalu."
+      }
+    },
+    {
+      "id": "directions-unit",
+      "text": {
+        "en": "A liquid medicine says “10 mL per dose.” Which household utensil is the weakest choice for measuring it?",
+        "cs": "U tekutého léku je uvedeno „10 ml na dávku“. Která domácí pomůcka je pro měření nejméně vhodná?"
+      },
+      "options": [
+        {"label": {"en": "The supplied dosing cup or oral syringe marked in mL", "cs": "Přiložená odměrka nebo perorální stříkačka označená v ml"}, "correct": false},
+        {"label": {"en": "An ordinary kitchen spoon", "cs": "Běžná kuchyňská lžíce"}, "correct": true},
+        {"label": {"en": "A medicine-measuring device that matches the label's units", "cs": "Dávkovací pomůcka odpovídající jednotkám na obalu"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Kitchen spoons vary in size. A marked dosing device that uses the same units as the directions reduces measurement error.",
+        "cs": "Kuchyňské lžíce mají různou velikost. Označená dávkovací pomůcka se stejnými jednotkami jako návod snižuje riziko chyby."
+      }
+    },
+    {
+      "id": "warnings",
+      "text": {
+        "en": "Where should you look for conditions, other medicines or activities that may make an OTC product unsuitable or require professional advice?",
+        "cs": "Kde hledat onemocnění, jiné léky nebo činnosti, kvůli nimž nemusí být volně prodejný přípravek vhodný nebo je nutná odborná rada?"
+      },
+      "options": [
+        {"label": {"en": "Warnings", "cs": "Varování / upozornění"}, "correct": true},
+        {"label": {"en": "The brand logo", "cs": "Logo značky"}, "correct": false},
+        {"label": {"en": "The barcode", "cs": "Čárový kód"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Warnings can identify interactions, circumstances requiring a clinician or pharmacist, activities to avoid and reasons to stop use.",
+        "cs": "Upozornění mohou uvádět interakce, situace vyžadující lékaře či lékárníka, činnosti, kterým se vyhnout, a důvody k ukončení užívání."
+      }
+    },
+    {
+      "id": "age-band",
+      "text": {
+        "en": "The directions list doses for adults and children aged 12 years and over, then say to ask a doctor for younger children. What is the label-based conclusion for an eight-year-old?",
+        "cs": "Návod uvádí dávku pro dospělé a děti od 12 let a u mladších dětí doporučuje poradit se s lékařem. Jaký závěr z obalu plyne pro osmileté dítě?"
+      },
+      "options": [
+        {"label": {"en": "Give half the adult dose automatically", "cs": "Automaticky podat polovinu dávky pro dospělé"}, "correct": false},
+        {"label": {"en": "Do not invent a dose; obtain the professional advice requested by the label", "cs": "Dávku neodhadovat a vyžádat si odbornou radu požadovanou na obalu"}, "correct": true},
+        {"label": {"en": "Use the adult dose if the child is tall", "cs": "Použít dávku pro dospělé, pokud je dítě vysoké"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "A smaller body is not a simple fraction of an adult for every medicine. Follow the stated age directions and the instruction to seek advice.",
+        "cs": "Menší tělo není u každého léku prostým zlomkem dospělého. Řiďte se uvedeným věkem a pokynem vyžádat si odbornou radu."
+      }
+    },
+    {
+      "id": "maximum-frequency",
+      "text": {
+        "en": "Why must you read both the amount per dose and how often the dose may be repeated?",
+        "cs": "Proč je nutné přečíst množství v jedné dávce i to, jak často lze dávku opakovat?"
+      },
+      "options": [
+        {"label": {"en": "Together they determine how much may be taken over the stated period", "cs": "Společně určují, kolik lze užít za uvedené období"}, "correct": true},
+        {"label": {"en": "Frequency only affects the taste", "cs": "Četnost ovlivňuje pouze chuť"}, "correct": false},
+        {"label": {"en": "The amount per dose makes the frequency irrelevant", "cs": "Množství v jedné dávce činí četnost nepodstatnou"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Directions specify dose size, interval and often a daily limit. Reading only one of those can lead to an unintended total.",
+        "cs": "Návod stanoví velikost dávky, odstup a často i denní maximum. Přečtení pouze jednoho údaje může vést k nechtěnému celkovému množství."
+      }
+    },
+    {
+      "id": "inactive-ingredients",
+      "text": {
+        "en": "Why might the inactive-ingredients list still matter?",
+        "cs": "Proč může být důležitý i seznam pomocných látek?"
+      },
+      "options": [
+        {"label": {"en": "It can identify colours, sweeteners or other substances relevant to an allergy or intolerance", "cs": "Může odhalit barviva, sladidla či jiné látky důležité při alergii nebo nesnášenlivosti"}, "correct": true},
+        {"label": {"en": "Inactive means the list can never matter", "cs": "Pomocná látka znamená, že seznam nikdy není důležitý"}, "correct": false},
+        {"label": {"en": "It tells you which symptom the medicine treats", "cs": "Uvádí, který příznak lék léčí"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Inactive ingredients are not the intended therapeutic agents, but they can still matter to people with particular allergies or sensitivities.",
+        "cs": "Pomocné látky nejsou zamýšlenými léčivými složkami, ale mohou být významné pro lidi s určitými alergiemi nebo citlivostí."
+      }
+    },
+    {
+      "id": "tamper-and-expiry",
+      "text": {
+        "en": "A package seal is broken and the expiry date has passed. What does careful label reading support?",
+        "cs": "Ochranný uzávěr obalu je porušený a doba použitelnosti uplynula. Jaký postup podporuje pečlivé čtení obalu?"
+      },
+      "options": [
+        {"label": {"en": "Use it because the tablets look normal", "cs": "Použít jej, protože tablety vypadají normálně"}, "correct": false},
+        {"label": {"en": "Do not use that package; follow local advice for return or disposal", "cs": "Tento obal nepoužívat a řídit se místními pokyny pro vrácení či likvidaci"}, "correct": true},
+        {"label": {"en": "Take a larger dose to compensate for age", "cs": "Vzít vyšší dávku jako náhradu za stáří přípravku"}, "correct": false}
+      ],
+      "explanation": {
+        "en": "Public guidance advises checking tamper evidence and expiry information. Appearance alone cannot establish that a compromised package is safe.",
+        "cs": "Veřejná doporučení radí kontrolovat ochranné prvky i dobu použitelnosti. Samotný vzhled nemůže potvrdit bezpečnost narušeného obalu."
+      }
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 2,
+      "title": {"en": "Start with the ingredient", "cs": "Začněte účinnou látkou"},
+      "summary": {
+        "en": "The label still has several traps for you, especially duplicate ingredients and dose instructions. Limitation: this score reflects eight US-layout examples, not your ability to make medical decisions or read every national label. Next step: take one unopened OTC product and locate its active ingredient, warnings and complete directions before you need it.",
+        "cs": "Na obalu vás stále může překvapit několik věcí, zejména zdvojené účinné látky a dávkování. Omezení: výsledek vychází z osmi příkladů amerického uspořádání, nehodnotí schopnost činit zdravotní rozhodnutí ani číst všechny národní obaly. Další krok: vezměte jeden neotevřený volně prodejný přípravek a ještě před použitím najděte účinnou látku, upozornění a celý návod."
+      }
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "title": {"en": "You find the main panel", "cs": "Hlavní údaje najdete"},
+      "summary": {
+        "en": "You recognise much of the label, but one missed unit, warning or duplicate ingredient can still matter. Limitation: a short quiz cannot account for your medicines, conditions or local labelling rules. Next step: compare the active ingredients of two combination cold or pain products and ask a pharmacist about anything unclear.",
+        "cs": "Velkou část údajů poznáte, ale přehlédnutá jednotka, varování nebo zdvojená účinná látka může být důležitá. Omezení: krátký kvíz nemůže zohlednit vaše léky, onemocnění ani místní pravidla značení. Další krok: porovnejte účinné látky dvou kombinovaných přípravků na nachlazení či bolest a nejasnosti proberte s lékárníkem."
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "title": {"en": "You read beyond the brand name", "cs": "Čtete dál než obchodní název"},
+      "summary": {
+        "en": "You usually look for the ingredient, warnings, dose and measuring unit that carry the real decision. Limitation: strong label knowledge does not show whether a particular medicine is appropriate for you, and labels differ between countries. Next step: keep the habit of reading the full current label each time and use a pharmacist for interactions or uncertain instructions.",
+        "cs": "Obvykle hledáte účinnou látku, upozornění, dávku a měrnou jednotku, které jsou pro rozhodnutí podstatné. Omezení: dobrá znalost obalu neurčuje, zda je konkrétní lék pro vás vhodný, a značení se mezi zeměmi liší. Další krok: pokaždé čtěte celý aktuální obal a při interakcích či nejasném návodu využijte lékárníka."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "US Food and Drug Administration — The Over-the-Counter Drug Facts Label",
+      "url": "https://www.fda.gov/drugs/understanding-over-counter-medicines/over-counter-drug-facts-label",
+      "published": "2024-10-25",
+      "type": "government guidance"
+    },
+    {
+      "name": "MedlinePlus — Using over-the-counter medicines safely",
+      "url": "https://medlineplus.gov/ency/patientinstructions/000882.htm",
+      "published": "2024-07-23",
+      "type": "public health guidance"
+    },
+    {
+      "name": "National Capital Poison Center — OTC drug labels",
+      "url": "https://www.poison.org/articles/otc-drug-labels",
+      "published": "",
+      "type": "poison safety guidance"
+    }
+  ]
+}
