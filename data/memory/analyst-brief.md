@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-28
 
-Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
+Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **31**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 19 dní · 60 záznamů
 - časová osa:
-  - **2026-08-26** (3 zdrojů) Celtic deficiencies laid bare on another night of Champions League pain
   - **2026-08-26** (2 zdrojů) Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
   - **2026-08-26** (2 zdrojů) China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
   - **2026-08-26** (1 zdrojů) How to follow Thursday's Champions League draw - and who is in each pot?
@@ -19,6 +18,7 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
   - **2026-08-27** (4 zdrojů) Man City and Aston Villa to face holders PSG in Champions League
   - **2026-08-27** (2 zdrojů) Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
   - **2026-08-28** (2 zdrojů) Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
+  - **2026-08-28** (2 zdrojů) O'Neill hopeful on transfers despite Champions League play-off exit
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 16 dní · 24 záznamů
@@ -34,6 +34,20 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
   - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 10 dní · 18 záznamů
+- časová osa:
+  - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
+  - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
+  - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
+  - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
+  - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
+  - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
+  - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
+  - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
+  - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
+  - **2026-08-28** (2 zdrojů) LIVE: Crystal Palace vs Manchester City – Premier League
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 13 dní · 18 záznamů
 - časová osa:
@@ -47,20 +61,6 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
   - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
   - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 10 dní · 17 záznamů
-- časová osa:
-  - **2026-08-21** (2 zdrojů) Arsenal v Coventry City: Premier League – live
-  - **2026-08-21** (3 zdrojů) Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
-  - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
-  - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
-  - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
-  - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
-  - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
-  - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
-  - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
-  - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 18 dní · 10 záznamů
@@ -77,7 +77,7 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 3 dní · 9 záznamů
+- rubrika `culture` · sledováno 3 dní · 10 záznamů
 - časová osa:
   - **2026-08-25** (5 zdrojů) Dolly Parton, one of country music's most singular performers, has died at age 80
   - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
@@ -88,3 +88,4 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **30**.
   - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
   - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
   - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
+  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science

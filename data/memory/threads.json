@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
+    "trump",
+    "china's",
     "lyon",
-    "city",
-    "d-day",
-    "gulf",
-    "times",
-    "jong",
-    "thursday's",
-    "june",
-    "iran",
-    "donald",
+    "chaos",
+    "indycar",
+    "economic",
     "american",
-    "east",
-    "hormuz",
     "celtic",
-    "taiwan",
+    "aston",
+    "ukraine",
+    "times",
+    "city",
+    "iran",
+    "oman",
+    "o'neill",
+    "us-south",
+    "briton",
+    "justified",
+    "middle",
+    "qatar",
+    "east",
+    "iran's",
+    "league",
     "treasury",
+    "start",
+    "jong",
+    "north",
+    "champions",
     "iranian",
     "south",
-    "league",
-    "chaos",
-    "us-south",
-    "oman",
-    "ukraine",
+    "gulf",
     "fenerbahce",
-    "trump",
-    "economic",
-    "middle",
-    "briton",
-    "indycar",
-    "china's",
-    "iran's",
-    "start",
-    "qatar",
-    "uefa",
-    "justified",
+    "d-day",
     "groundhog",
-    "aston",
-    "north",
+    "thursday's",
     "korea",
-    "champions"
+    "donald",
+    "hormuz",
+    "taiwan",
+    "june"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -111,23 +111,12 @@
     "c4587de4f82f",
     "f9dbbedd95e4",
     "628e327cc7dc",
-    "d9a4bcff8ff4"
+    "d9a4bcff8ff4",
+    "5a30adc8d141"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-28",
    "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Bluster and backdown have turned Iran war into Trump’s own Groundhog Day",
-     "sources": 3,
-     "score": 52,
-     "event_id": "123a1f07cf24",
-     "links": [
-      "https://www.theguardian.com/world/ng-interactive/2026/aug/08/trump-iran-war-criticism-groundhog-day",
-      "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
-      "https://www.investing.com/news/economy-news/fire-at-saudi-aramcos-jazan-refinery-extinguished-no-injuries-reported-4847703"
-     ]
-    },
     {
      "date": "2026-08-11",
      "headline": "Trump demands Iran pay compensation for decades of US soldier deaths",
@@ -799,6 +788,17 @@
       "https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz?traffic_source=rss",
       "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "O'Neill hopeful on transfers despite Champions League play-off exit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5a30adc8d141",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c790zjlw2v0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa"
+     ]
     }
    ]
   },
@@ -807,35 +807,37 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
+    "boot",
+    "palace",
+    "forest",
+    "arsenal",
+    "salah",
+    "manchester",
+    "relief",
+    "mcnulty's",
+    "five",
+    "united",
+    "liverpool",
+    "city",
+    "isak",
+    "opening",
+    "wirtz",
+    "haaland's",
+    "phil",
+    "crystal",
+    "premier",
+    "iraola",
+    "hull",
+    "nottingham",
+    "coventry",
+    "tzolis",
+    "newcastle",
+    "sports",
+    "life",
     "youtube",
     "golden",
-    "city",
-    "salah",
-    "forest",
     "league",
-    "mcnulty's",
-    "iraola",
-    "arsenal",
-    "united",
-    "hull",
-    "five",
-    "wissa",
-    "nottingham",
-    "tzolis",
-    "relief",
-    "wirtz",
-    "opening",
-    "manchester",
-    "liverpool",
-    "haaland's",
-    "boot",
-    "newcastle",
-    "isak",
-    "phil",
-    "coventry",
-    "premier",
-    "life",
-    "sports"
+    "wissa"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -854,7 +856,8 @@
     "f0a55f3207b0",
     "6302b95a195e",
     "fa7dac5445af",
-    "158c46bf8a36"
+    "158c46bf8a36",
+    "48e10bd0f355"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-28",
@@ -1054,6 +1057,18 @@
       "https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace",
       "https://www.aljazeera.com/sports/2026/8/27/crystal-palace-vs-man-city-premier-league-prediction-teams-lineups?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "LIVE: Crystal Palace vs Manchester City – Premier League",
+     "sources": 2,
+     "score": 52,
+     "event_id": "48e10bd0f355",
+     "links": [
+      "https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/28/europa-league-draw-bournemouth-sunderland-milan-crystal-palace-lyon",
+      "https://www.theguardian.com/football/2026/aug/28/premier-league-h2h-record-manager-form-data-analysis"
+     ]
     }
    ]
   },
@@ -1212,19 +1227,21 @@
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
    "entities": [
-    "stars",
-    "history",
-    "covid",
-    "remembering",
     "country",
+    "biggest",
     "music",
-    "remembered",
-    "wanted",
-    "dolly",
+    "remembering",
     "parton",
     "nashville",
+    "chat",
+    "covid",
+    "briefing",
+    "remembered",
+    "history",
+    "wanted",
+    "stars",
     "songwriter",
-    "biggest"
+    "dolly"
    ],
    "event_ids": [
     "1301430cb05f",
@@ -1235,7 +1252,8 @@
     "4d5d929d3f9b",
     "13c0684b4af3",
     "92a48ee35a16",
-    "dbe2fb28d382"
+    "dbe2fb28d382",
+    "200127734810"
    ],
    "first_seen": "2026-08-25",
    "last_seen": "2026-08-28",
@@ -1344,6 +1362,18 @@
       "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
       "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
      ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
+     "sources": 3,
+     "score": 66,
+     "event_id": "200127734810",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02732-w",
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
+     ]
     }
    ]
   },
@@ -1353,13 +1383,16 @@
    "section": "world",
    "entities": [
     "trump",
-    "lake",
     "america",
-    "ontario"
+    "weekly",
+    "lake",
+    "ontario",
+    "politics"
    ],
    "event_ids": [
     "fc871ed3ce64",
-    "d303cedaf846"
+    "d303cedaf846",
+    "69769cf42fdf"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-08-28",
@@ -1386,6 +1419,62 @@
       "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
       "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
       "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "How did Trump get so rich? | Politics Weekly America",
+     "sources": 4,
+     "score": 62,
+     "event_id": "69769cf42fdf",
+     "links": [
+      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "92331c1455c6",
+   "title": "Who is in the Europa League draw and who is in each pot?",
+   "section": "sport",
+   "entities": [
+    "milan",
+    "sunderland",
+    "europa",
+    "league",
+    "bournemouth"
+   ],
+   "event_ids": [
+    "92331c1455c6",
+    "e57d28176fe6"
+   ],
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-08-28",
+   "timeline": [
+    {
+     "date": "2026-08-28",
+     "headline": "Who is in the Europa League draw and who is in each pot?",
+     "sources": 3,
+     "score": 57,
+     "event_id": "92331c1455c6",
+     "links": [
+      "https://www.bbc.co.uk/sport/articles/cew91j189v2o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/sports/20260828-champions-league-draw-psg-to-face-barcelona-and-man-city",
+      "https://praguemorning.cz/slavia-prague-champions-league-draw-2026-27/"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Sunderland and Bournemouth draw AC Milan in Europa League",
+     "sources": 3,
+     "score": 56,
+     "event_id": "e57d28176fe6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ymr4dxz9mo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260828-marseille-and-lyon-to-face-leverkusen-in-europa-league-rennes-take-on-juventus",
+      "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss"
      ]
     }
    ]
@@ -1473,34 +1562,6 @@
       "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "92331c1455c6",
-   "title": "Who is in the Europa League draw and who is in each pot?",
-   "section": "sport",
-   "entities": [
-    "league",
-    "europa"
-   ],
-   "event_ids": [
-    "92331c1455c6"
-   ],
-   "first_seen": "2026-08-28",
-   "last_seen": "2026-08-28",
-   "timeline": [
-    {
-     "date": "2026-08-28",
-     "headline": "Who is in the Europa League draw and who is in each pot?",
-     "sources": 3,
-     "score": 57,
-     "event_id": "92331c1455c6",
-     "links": [
-      "https://www.bbc.co.uk/sport/articles/cew91j189v2o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/sports/20260828-champions-league-draw-psg-to-face-barcelona-and-man-city",
-      "https://praguemorning.cz/slavia-prague-champions-league-draw-2026-27/"
      ]
     }
    ]
@@ -4396,5 +4457,5 @@
    ]
   }
  ],
- "updated": "2026-08-28T09:25:18+00:00"
+ "updated": "2026-08-28T16:24:16+00:00"
 }

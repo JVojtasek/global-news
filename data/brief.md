@@ -159,7 +159,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-24  (2 zdrojů, síla 44)  What do locals think of IndyCar in Washington DC?
   2026-08-25  (3 zdrojů, síla 51)  China warns it will safeguard its interests after US widens sanctions against Iran
   2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
   2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions
@@ -179,6 +178,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-27  (4 zdrojů, síla 71)  Man City and Aston Villa to face holders PSG in Champions League
   2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
   2026-08-28  (2 zdrojů, síla 49)  Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
+  2026-08-28  (2 zdrojů, síla 44)  O'Neill hopeful on transfers despite Champions League play-off exit
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
