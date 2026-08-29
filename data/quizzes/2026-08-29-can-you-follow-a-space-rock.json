@@ -1,0 +1,366 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-follow-a-space-rock",
+  "date": "2026-08-29",
+  "category": "science",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Can you follow a space rock from orbit to ground?",
+      "cs": "Dokážete sledovat kosmický kámen od dráhy až na zem?"
+    },
+    "dek": {
+      "en": "Eight questions separate meteoroids, meteors, meteorites, showers and fireballs without turning every streak into a fallen rock.",
+      "cs": "Osm otázek rozliší meteoroidy, meteory, meteority, roje a bolidy, aniž by z každé světelné stopy dělal kámen dopadlý na zem."
+    },
+    "intro": {
+      "en": "The same object can receive different names at different stages of its journey. Choose the term or mechanism that best fits each scene.",
+      "cs": "Tentýž objekt může v různých fázích své cesty dostat jiné jméno. Vyberte pojem nebo mechanismus, který nejlépe odpovídá každé situaci."
+    },
+    "disclaimer": {
+      "en": "This is an original educational knowledge quiz based on public astronomy guidance. It does not reproduce a licensed instrument, diagnose expertise or predict any danger. Meteor terminology has technical boundaries that may be refined by scientific organizations; the questions use the cited public definitions.",
+      "cs": "Jde o původní vzdělávací znalostní kvíz založený na veřejných astronomických zdrojích. Nepřebírá licencovaný nástroj, neurčuje odbornou úroveň ani nepředpovídá nebezpečí. Technické hranice pojmů se mohou ve vědeckých organizacích upřesňovat; otázky používají citované veřejné definice."
+    }
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "object-in-space",
+      "text": {
+        "en": "A small natural rocky object is still moving through space. What is it called?",
+        "cs": "Malý přírodní kamenný objekt se stále pohybuje vesmírem. Jak se nazývá?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "A meteoroid",
+            "cs": "Meteoroid"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "A meteor",
+            "cs": "Meteor"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "A meteorite",
+            "cs": "Meteorit"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "A meteoroid is the object while it is in space. The visible atmospheric phenomenon is a meteor; material that survives to the ground is a meteorite.",
+        "cs": "Meteoroid je objekt ve vesmíru. Viditelný jev v atmosféře je meteor; materiál, který přežije až na zem, je meteorit."
+      }
+    },
+    {
+      "id": "streak-in-sky",
+      "text": {
+        "en": "You see a brief streak of light as material enters the atmosphere. What are you seeing?",
+        "cs": "Při vstupu materiálu do atmosféry spatříte krátkou světelnou stopu. Co pozorujete?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "A meteor",
+            "cs": "Meteor"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "A comet nucleus",
+            "cs": "Jádro komety"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "A meteorite already on the ground",
+            "cs": "Meteorit již na zemi"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "A meteor is the luminous phenomenon produced as a meteoroid travels through the atmosphere. The light is not simply the rock glowing like a coal; heated and ionized atmospheric gas contributes.",
+        "cs": "Meteor je světelný jev vznikající při průletu meteoroidu atmosférou. Světlo není jen kámen rozžhavený jako uhlík; podílí se na něm zahřátý a ionizovaný atmosférický plyn."
+      }
+    },
+    {
+      "id": "survives-to-ground",
+      "text": {
+        "en": "Part of the original object survives atmospheric passage and is recovered from the ground. What is that fragment?",
+        "cs": "Část původního objektu přežije průlet atmosférou a je nalezena na zemi. Co je to za úlomek?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "A meteorite",
+            "cs": "Meteorit"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "A radiant",
+            "cs": "Radiant"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "A meteor shower",
+            "cs": "Meteorický roj"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "A surviving piece found on Earth is a meteorite. Most small shower particles burn up and never become meteorites.",
+        "cs": "Kus, který přežije a dopadne na Zemi, je meteorit. Většina drobných částic meteorických rojů zanikne a meteority se z nich nestanou."
+      }
+    },
+    {
+      "id": "why-showers-repeat",
+      "text": {
+        "en": "Why can a meteor shower return at roughly the same time each year?",
+        "cs": "Proč se meteorický roj může vracet přibližně ve stejnou dobu každý rok?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Earth crosses a debris stream along its orbit",
+            "cs": "Země na své dráze protíná proud částic"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "Stars fall from the same constellation on a schedule",
+            "cs": "Hvězdy padají podle rozvrhu ze stejného souhvězdí"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "The Moon releases stored meteors once a year",
+            "cs": "Měsíc jednou ročně vypouští uložené meteory"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Shower particles occupy a stream left by a comet or, for some showers, an asteroid. Earth encounters that stream at a recurring place in its orbit.",
+        "cs": "Částice roje tvoří proud zanechaný kometou nebo u některých rojů planetkou. Země tento proud potkává na opakujícím se místě své dráhy."
+      }
+    },
+    {
+      "id": "radiant-perspective",
+      "text": {
+        "en": "During a shower, meteors seem to fan out from one point called the radiant. What best explains this?",
+        "cs": "Během roje se zdá, že meteory vybíhají z jednoho bodu zvaného radiant. Co to nejlépe vysvětluje?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Perspective makes nearly parallel paths appear to converge",
+            "cs": "Perspektiva způsobuje, že téměř rovnoběžné dráhy vypadají jako sbíhající se"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "The constellation physically launches rocks toward Earth",
+            "cs": "Souhvězdí fyzicky vrhá kameny k Zemi"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "All meteors explode at one fixed point in the atmosphere",
+            "cs": "Všechny meteory vybuchují v jednom pevném bodě atmosféry"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Like parallel railway tracks appearing to meet in the distance, similar trajectories create an apparent point of origin. The background constellation is a direction, not the source.",
+        "cs": "Podobně jako se zdá, že se rovnoběžné koleje v dálce sbíhají, vytvářejí podobné dráhy zdánlivý bod původu. Souhvězdí v pozadí určuje směr, nikoli zdroj."
+      }
+    },
+    {
+      "id": "shower-name",
+      "text": {
+        "en": "Why are the Perseids associated with Perseus?",
+        "cs": "Proč jsou Perseidy spojovány se souhvězdím Persea?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Their radiant appears in the direction of Perseus",
+            "cs": "Jejich radiant se nachází ve směru souhvězdí Persea"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "They are fragments of stars inside Perseus",
+            "cs": "Jsou to úlomky hvězd uvnitř Persea"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "They can be seen only from the planet Perseus",
+            "cs": "Lze je vidět jen z planety Perseus"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Meteor showers are generally named for the constellation containing or nearest their radiant. The particles are in the Solar System, not falling from distant stars.",
+        "cs": "Meteorické roje se obvykle pojmenovávají podle souhvězdí, ve kterém leží nebo k němuž má blízko jejich radiant. Částice jsou ve Sluneční soustavě, nepadají ze vzdálených hvězd."
+      }
+    },
+    {
+      "id": "fireball",
+      "text": {
+        "en": "Astronomers describe a meteor as a fireball. What does that primarily tell you?",
+        "cs": "Astronomové označí meteor jako bolid neboli fireball. Co vám to především říká?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "It was exceptionally bright",
+            "cs": "Byl mimořádně jasný"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "It certainly produced a meteorite",
+            "cs": "Určitě z něj vznikl meteorit"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "It came from the Sun",
+            "cs": "Přiletěl ze Slunce"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Fireball is a brightness description; NASA uses it for meteors brighter than Venus. Brightness alone does not prove that material reached the ground.",
+        "cs": "Fireball označuje jasnost; NASA tak nazývá meteory jasnější než Venuše. Samotná jasnost nedokazuje, že materiál dopadl na zem."
+      }
+    },
+    {
+      "id": "best-viewing",
+      "text": {
+        "en": "Which change usually improves your chance of seeing more meteors from a shower?",
+        "cs": "Která změna obvykle zvýší šanci spatřit více meteorů z roje?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Move away from bright lights and allow your eyes to adapt",
+            "cs": "Vzdalte se od jasných světel a nechte oči přivyknout tmě"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "Aim a telescope at the radiant",
+            "cs": "Namiřte dalekohled přímo na radiant"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Watch through a brightly lit window",
+            "cs": "Pozorujte osvětleným oknem"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Meteor viewing benefits from a wide field of view and dark-adapted eyes. A telescope shows too small an area for most shower watching, and local light hides fainter streaks.",
+        "cs": "Pozorování meteorů prospívá široké zorné pole a oči přivyklé tmě. Dalekohled zabírá pro většinu rojů příliš malou oblast a místní světlo zakrývá slabší stopy."
+      }
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 2,
+      "title": {
+        "en": "Start with the journey",
+        "cs": "Začněte cestou"
+      },
+      "summary": {
+        "en": "The three related words are still colliding. Limitation: eight questions cannot cover meteor physics or identification of a found rock. Next step: remember the route—meteoroid in space, meteor in the atmosphere, meteorite on the ground—and revisit one shower question.",
+        "cs": "Tři příbuzná slova se vám zatím pletou. Omezení: osm otázek nepokrývá fyziku meteorů ani určování nalezeného kamene. Další krok: zapamatujte si cestu—meteoroid ve vesmíru, meteor v atmosféře, meteorit na zemi—a vraťte se k jedné otázce o roji."
+      }
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "title": {
+        "en": "You can follow the streak",
+        "cs": "Světelnou stopu už sledujete"
+      },
+      "summary": {
+        "en": "You understand the basic journey but a radiant, shower source or fireball can still mislead you. Limitation: the score reflects these definitions, not observing skill. Next step: use a current astronomy calendar to identify one shower, then explain why its radiant is a perspective effect.",
+        "cs": "Základní cestě rozumíte, ale radiant, zdroj roje nebo bolid vás ještě může zmást. Omezení: skóre odráží tyto pojmy, nikoli pozorovatelskou dovednost. Další krok: v aktuálním astronomickém kalendáři najděte jeden roj a vysvětlete, proč je jeho radiant důsledkem perspektivy."
+      }
+    },
+    {
+      "min": 6,
+      "max": 8,
+      "title": {
+        "en": "You keep object and phenomenon apart",
+        "cs": "Rozlišujete objekt a jev"
+      },
+      "summary": {
+        "en": "You distinguish the material from the light and can explain the geometry of a shower. Limitation: terminology alone cannot confirm whether a particular ground object is a meteorite. Next step: watch a shower from a dark location and describe the radiant without tracing every meteor backward literally.",
+        "cs": "Rozlišujete materiál od světelného jevu a umíte vysvětlit geometrii roje. Omezení: samotné názvosloví nepotvrdí, zda je konkrétní předmět na zemi meteoritem. Další krok: pozorujte roj z tmavého místa a popište radiant, aniž byste dráhu každého meteoru chápali doslovně."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA Science — Meteors and Meteorites Facts",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/facts/",
+      "published": "",
+      "type": "space agency educational guidance"
+    },
+    {
+      "name": "NASA Science — Meteor Showers",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/meteor-showers/",
+      "published": "",
+      "type": "space agency educational guidance"
+    },
+    {
+      "name": "International Astronomical Union astroEDU — Meteoroids, Meteors and Meteorites",
+      "url": "https://astroedu.iau.org/activities/meteoroids-meteors-and-meteorites/",
+      "published": "",
+      "type": "astronomy education resource"
+    },
+    {
+      "name": "American Meteor Society — Meteor FAQ",
+      "url": "https://www.amsmeteors.org/meteor-showers/meteor-faq/",
+      "published": "",
+      "type": "scientific society educational guidance"
+    }
+  ]
+}
