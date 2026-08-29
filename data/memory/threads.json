@@ -164,6 +164,73 @@
    ]
   },
   {
+   "id": "9739585c4084",
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "section": "world",
+   "entities": [
+    "verizon",
+    "court",
+    "supreme",
+    "trump's"
+   ],
+   "event_ids": [
+    "9739585c4084",
+    "bead7cd93cfe",
+    "be7b7e3d8994",
+    "246b3636a67b"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-08-29",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9739585c4084",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "sources": 3,
+     "score": 56,
+     "event_id": "bead7cd93cfe",
+     "links": [
+      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be7b7e3d8994",
+     "links": [
+      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
+     "sources": 2,
+     "score": 43,
+     "event_id": "246b3636a67b",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
+      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "d1fd3bc001a5",
    "title": "US and Venezuela reach 'historic' oil deal, Trump says",
    "section": "world",
@@ -172,7 +239,8 @@
     "venezuela"
    ],
    "event_ids": [
-    "d1fd3bc001a5"
+    "d1fd3bc001a5",
+    "bbd635d6f494"
    ],
    "first_seen": "2026-08-29",
    "last_seen": "2026-08-29",
@@ -187,6 +255,70 @@
       "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+     "sources": 3,
+     "score": 51,
+     "event_id": "bbd635d6f494",
+     "links": [
+      "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+      "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "nasa",
+    "award",
+    "muscle",
+    "president",
+    "deep",
+    "space",
+    "honors",
+    "highest",
+    "network",
+    "adds",
+    "dish",
+    "crew",
+    "next-gen",
+    "artemis"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-08-29",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
      ]
     }
    ]
@@ -3172,61 +3304,6 @@
    ]
   },
   {
-   "id": "9739585c4084",
-   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-   "section": "world",
-   "entities": [
-    "court",
-    "verizon",
-    "supreme",
-    "trump's"
-   ],
-   "event_ids": [
-    "9739585c4084",
-    "bead7cd93cfe",
-    "be7b7e3d8994"
-   ],
-   "first_seen": "2026-08-17",
-   "last_seen": "2026-08-24",
-   "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9739585c4084",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "sources": 3,
-     "score": 56,
-     "event_id": "bead7cd93cfe",
-     "links": [
-      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be7b7e3d8994",
-     "links": [
-      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "53b75ea36da9",
    "title": "Former world snooker champion Dott guilty of child sex abuse",
    "section": "sport",
@@ -4583,5 +4660,5 @@
    ]
   }
  ],
- "updated": "2026-08-29T00:51:58+00:00"
+ "updated": "2026-08-29T03:26:48+00:00"
 }
