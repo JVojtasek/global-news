@@ -40,33 +40,7 @@
     <https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii>
     > King Harald V of Norway, who was Europe's oldest reigning monarch, died at the age of 89, the palace announced on Friday. He is automatically succeeded by his son, King Haakon VIII, the former crown prince.
 
-### 2. Dolly Parton dies aged 80 – researchers celebrate her contributions to science
-- id události: `13c0684b4af3`  ·  rubrika: `culture`  ·  skóre: 86  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Nature News** — Dolly Parton dies aged 80 – researchers celebrate her contributions to science
-    <https://www.nature.com/articles/d41586-026-02676-1>
-    > Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02676-1 The country singer was an advocate for vaccines, public health, literacy and marginalized communities.
-  - **Smithsonian Mag** — Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
-    <https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/>
-    > After growing up in poverty, she became famous for her legendary songs, big heart and larger-than-life style. But the iconic musician insisted that "the songs lead to everything else"
-  - **BBC Entertainment** — Miley Cyrus remembers godmother Dolly Parton as an 'angel by my side'
-    <https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss>
-    > Tributes pour in from across the worlds of music, film and politics for the star, who died at the age of 80.
-  - **Guardian Culture** — Affairs? Drugs? You could ask Dolly Parton about anything and get a laugh. Just stay away from politics …
-    <https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics>
-    > One autumn day in 2023 I bathed in the luminous glow of this utterly authentic star – and while she did have one weak spot, her life and music will speak for themselves • Celebrity tributes pour in for Dolly Parton: ‘a gift to the world’ • Backwoods Barbie and the ‘God almighty’ 
-  - **BBC Entertainment** — Dolly Parton was the one thing most Americans could agree on
-    <https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss>
-    > The cultural icon was one of the rare celebrities adored by Americans of all ages, races and political persuasions.
-  - **CNBC Top** — How Dolly Parton inspired women in leadership: 'We all owe Dolly a debt'
-    <https://www.cnbc.com/2026/08/26/dolly-parton-women-leadership.html>
-    > The legendary Dolly Parton inspired women to dream bigger and fight for what they deserve. Female business leaders and workers share what the icon meant to them.
-  - **France 24** — Dolly Parton: Buckingham Palace guards play musical tribute
-    <https://www.france24.com/en/video/20260826-dolly-parton-buckingham-palace-guards-play-musical-tribute>
-    > Britain’s royal family posted a video on social media Wednesday of the band of the Buckingham Palace guards playing Dolly Parton’s “9 to 5”, in tribute to the American country music legend who passed away Tuesday aged 80.
-
-### 3. Trump signs order to rename Lake Ontario as Lake America
+### 2. Trump signs order to rename Lake Ontario as Lake America
 - id události: `fc871ed3ce64`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -95,7 +69,7 @@
     <https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss>
     > The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
 
-### 4. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
+### 3. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
 - id události: `2458fe404ed3`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -119,6 +93,32 @@
     > A Russian drone strike triggered a major fire and explosions at a warehouse on the outskirts of Ukraine's capital Kyiv, forcing hundreds to evacuate the region, authorities said early Saturday.
   - **Investing.com** — Russian strike kills 27 near Kyiv as Moscow militarizes schools
     <https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964>
+
+### 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+- id události: `3544561ca685`  ·  rubrika: `tech`  ·  skóre: 77  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Ars Technica** — How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+    <https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/>
+    > Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
+  - **Ars Technica AI** — How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+    <https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/>
+    > Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
+  - **MIT Tech Review** — The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
+    <https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/>
+    > This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvert
+  - **TechCrunch** — Hugging Face is selling a cute $399 open-source duck robot, Microduck
+    <https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/>
+    > Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.
+  - **The Verge** — Hugging Face’s new robot is an adorable rollerskating duck
+    <https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot>
+    > Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the li
+  - **The Verge AI** — Hugging Face’s new robot is an adorable rollerskating duck
+    <https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot>
+    > Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the li
+  - **Hacker News Best** — The Hugging Face incident and the road ahead
+    <https://openai.com/index/hugging-face-incident-and-the-road-ahead/>
+    > Article URL: https://openai.com/index/hugging-face-incident-and-the-road-ahead/ Comments URL: https://news.ycombinator.com/item?id=49454314 Points: 306 # Comments: 397
 
 ---
 
