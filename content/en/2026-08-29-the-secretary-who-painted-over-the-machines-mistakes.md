@@ -1,14 +1,16 @@
 ---
 slug: the-secretary-who-painted-over-the-machines-mistakes
 title: The Secretary Who Painted Over the Machine’s Mistakes
-dek: Bette Nesmith Graham did not accept that one mistyped character should ruin a page. Liquid Paper grew from a clerical workaround into a lesson about who gets to redesign work.
+dek: Bette Nesmith Graham did not accept that one mistyped character should ruin a
+  page. Liquid Paper grew from a clerical workaround into a lesson about who gets
+  to redesign work.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-08-29'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: ''
 event_id: bette-nesmith-graham-liquid-paper-user-innovation
 series: ''
-image_query: 1950s office typist with small correction-fluid bottle period accurate no logos no readable text
+image_query: 1950s office typist with small correction-fluid bottle period accurate
+  no logos no readable text
 sources:
 - name: United States Patent and Trademark Office — Perseverance, thy name is Bette
   url: https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/perseverance-thy-name-bette
@@ -40,11 +43,14 @@ tickers: []
 quiz:
   question: What made Bette Nesmith Graham’s correction fluid a form of user innovation?
   options:
-  - She adapted a painter’s method to solve a problem she experienced directly in office work
+  - She adapted a painter’s method to solve a problem she experienced directly in
+    office work
   - She invented the electric typewriter before working as a secretary
   - IBM commissioned her to develop a correction product for its machines
   answer: 0
-  explanation: Graham saw sign painters cover mistakes and adapted that principle to typing. IBM declined her proposal; the product grew from a workaround developed by someone doing the work.
+  explanation: Graham saw sign painters cover mistakes and adapted that principle
+    to typing. IBM declined her proposal; the product grew from a workaround developed
+    by someone doing the work.
 ---
 
 ## BRIEFLY

@@ -1,14 +1,15 @@
 ---
 slug: earwax-is-a-conveyor-belt-not-dirt
 title: Earwax Is a Conveyor Belt, Not Dirt
-dek: The ear canal normally moves wax outward while we talk and chew. Cleaning can interrupt that system, and a blocked feeling is not enough to diagnose the cause.
+dek: The ear canal normally moves wax outward while we talk and chew. Cleaning can
+  interrupt that system, and a blocked feeling is not enough to diagnose the cause.
 section: health
 type: feature
 depth: open
 lang: en
 date: '2026-08-29'
 status: reserve
-confidence: 94
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,9 +19,11 @@ generator: chatgpt-work
 format: ''
 event_id: earwax-self-cleaning-cerumen-impaction-safety
 series: ''
-image_query: medical illustration of outer ear canal showing natural outward wax movement clean neutral background
+image_query: medical illustration of outer ear canal showing natural outward wax movement
+  clean neutral background
 sources:
-- name: American Academy of Otolaryngology–Head and Neck Surgery — Clinical Practice Guideline, Cerumen Impaction
+- name: American Academy of Otolaryngology–Head and Neck Surgery — Clinical Practice
+    Guideline, Cerumen Impaction
   url: https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/cerumen-impaction/
   published: '2017-01-03'
 - name: PubMed — Clinical Practice Guideline Update, Earwax (Cerumen Impaction)
@@ -44,7 +47,8 @@ quiz:
   - It makes the ear produce a new eardrum
   - It permanently stops the jaw from moving wax
   answer: 0
-  explanation: The ear canal normally carries wax outward. Objects placed inside can pack wax deeper, irritate the canal or injure the eardrum.
+  explanation: The ear canal normally carries wax outward. Objects placed inside can
+    pack wax deeper, irritate the canal or injure the eardrum.
 ---
 
 ## BRIEFLY

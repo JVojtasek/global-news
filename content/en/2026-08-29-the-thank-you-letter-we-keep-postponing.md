@@ -1,14 +1,16 @@
 ---
 slug: the-thank-you-letter-we-keep-postponing
 title: The Thank-You Letter We Keep Postponing
-dek: We often delay a specific note of appreciation because we expect awkwardness. The evidence suggests the recipient usually experiences more warmth—and less discomfort—than the writer predicts.
+dek: We often delay a specific note of appreciation because we expect awkwardness.
+  The evidence suggests the recipient usually experiences more warmth—and less discomfort—than
+  the writer predicts.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-08-29'
-status: draft
-confidence: 91
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +20,38 @@ generator: chatgpt-work
 format: ''
 event_id: gratitude-letter-benefit-awkwardness-gap
 series: ''
-image_query: handwritten thank-you letter beside an envelope warm natural light no readable text
+image_query: handwritten thank-you letter beside an envelope warm natural light no
+  readable text
 sources:
-- name: University of Chicago News — People underestimate the value of sending letters of appreciation
+- name: University of Chicago News — People underestimate the value of sending letters
+    of appreciation
   url: https://news.uchicago.edu/story/people-underestimate-value-sending-letters-appreciation
   published: '2018-09-05'
 - name: Psychological Science — Undervaluing Gratitude
   url: https://pubmed.ncbi.nlm.nih.gov/29949445/
   published: '2018-06-27'
-- name: Journal of Happiness Studies — A randomized controlled trial of a gratitude intervention
+- name: Journal of Happiness Studies — A randomized controlled trial of a gratitude
+    intervention
   url: https://pubmed.ncbi.nlm.nih.gov/30949102/
   published: '2019-03-21'
-- name: Journal of Positive Psychology — Are some ways of expressing gratitude more beneficial than others?
+- name: Journal of Positive Psychology — Are some ways of expressing gratitude more
+    beneficial than others?
   url: https://pubmed.ncbi.nlm.nih.gov/37070012/
   published: '2023'
 qma_path: ''
 tickers: []
 quiz:
-  question: Why do people often postpone a sincere thank-you letter, according to the research discussed here?
+  question: Why do people often postpone a sincere thank-you letter, according to
+    the research discussed here?
   options:
   - They correctly predict that recipients prefer a short list of compliments
-  - They tend to underestimate the recipient's positive reaction and overestimate awkwardness
+  - They tend to underestimate the recipient's positive reaction and overestimate
+    awkwardness
   - Gratitude helps only when the writer uses polished language
   answer: 1
-  explanation: Experiments found a systematic forecasting gap. Writers focused on wording and expected more awkwardness, while recipients generally felt more positive and less uncomfortable than writers predicted.
+  explanation: Experiments found a systematic forecasting gap. Writers focused on
+    wording and expected more awkwardness, while recipients generally felt more positive
+    and less uncomfortable than writers predicted.
 ---
 
 ## BRIEFLY
