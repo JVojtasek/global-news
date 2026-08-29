@@ -35,9 +35,8 @@ Paměť obsahuje **62 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 11 dní · 20 záznamů
+- rubrika `sport` · sledováno 11 dní · 21 záznamů
 - časová osa:
-  - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
   - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
   - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
   - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
@@ -47,6 +46,7 @@ Paměť obsahuje **62 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-28** (2 zdrojů) LIVE: Crystal Palace vs Manchester City – Premier League
   - **2026-08-28** (3 zdrojů) Haaland and Cherki fire impressive Man City to victory at Palace
   - **2026-08-29** (2 zdrojů) Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
+  - **2026-08-29** (3 zdrojů) Iraola urges 'passive' Liverpool to learn quickly after Forest draw
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 15 dní · 19 záznamů

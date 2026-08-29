@@ -5,40 +5,40 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "wirtz",
-    "life",
-    "nottingham",
-    "league",
-    "hull",
-    "haaland's",
-    "relief",
-    "youtube",
-    "boot",
-    "transfer",
-    "five",
     "cherki",
-    "liverpool",
-    "manchester",
-    "forest",
-    "city",
+    "transfer",
     "mcnulty's",
-    "coventry",
-    "premier",
-    "arsenal",
-    "salah",
-    "isak",
-    "sports",
+    "five",
     "tzolis",
-    "united",
     "haaland",
-    "iraola",
-    "newcastle",
-    "wissa",
-    "phil",
-    "golden",
-    "opening",
+    "coventry",
+    "isak",
     "palace",
-    "crystal"
+    "nottingham",
+    "salah",
+    "golden",
+    "league",
+    "haaland's",
+    "arsenal",
+    "sports",
+    "opening",
+    "hull",
+    "wirtz",
+    "newcastle",
+    "manchester",
+    "life",
+    "wissa",
+    "boot",
+    "liverpool",
+    "forest",
+    "relief",
+    "crystal",
+    "united",
+    "iraola",
+    "phil",
+    "city",
+    "youtube",
+    "premier"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -60,7 +60,8 @@
     "158c46bf8a36",
     "48e10bd0f355",
     "95f3edbe9e13",
-    "0eb6f99b53b6"
+    "0eb6f99b53b6",
+    "44a656893df0"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-29",
@@ -295,6 +296,18 @@
       "https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live",
       "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
       "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "Iraola urges 'passive' Liverpool to learn quickly after Forest draw",
+     "sources": 3,
+     "score": 64,
+     "event_id": "44a656893df0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cwyz8dr7jz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss"
      ]
     }
    ]
@@ -4688,5 +4701,5 @@
    ]
   }
  ],
- "updated": "2026-08-29T12:30:37+00:00"
+ "updated": "2026-08-29T15:21:01+00:00"
 }
