@@ -1,14 +1,16 @@
 ---
 slug: the-baby-sleep-advice-that-reversed-itself
 title: The Baby-Sleep Advice That Reversed Itself
-dek: A generation was once told that babies should sleep on their stomachs. The history of the back-sleep campaign shows how public-health advice changes—and why today's guidance covers the whole sleep space.
+dek: A generation was once told that babies should sleep on their stomachs. The history
+  of the back-sleep campaign shows how public-health advice changes—and why today's
+  guidance covers the whole sleep space.
 section: parenting
 type: analysis
 depth: open
 lang: en
 date: '2026-08-29'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: ''
 event_id: infant-safe-sleep-advice-history
 series: ''
-image_query: conceptual generational baby sleep guidance timeline empty crib firm flat mattress no infant no text no logos
+image_query: conceptual generational baby sleep guidance timeline empty crib firm
+  flat mattress no infant no text no logos
 sources:
 - name: American Academy of Pediatrics — How to Keep Your Sleeping Baby Safe
   url: https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/a-parents-guide-to-safe-sleep.aspx
@@ -32,7 +35,8 @@ sources:
 - name: CDC — Data and Statistics for SUID and SIDS
   url: https://www.cdc.gov/sudden-infant-death/data-research/data/index.html
   published: '2026-08-13'
-- name: U.S. Consumer Product Safety Commission — Rules Implementing Safe Sleep Product Bans
+- name: U.S. Consumer Product Safety Commission — Rules Implementing Safe Sleep Product
+    Bans
   url: https://www.cpsc.gov/Newsroom/News-Releases/2023/CPSC-Approves-Rules-Implementing-Bans-on-Inclined-Sleepers-for-Infants-and-Crib-Bumpers
   published: '2023-08-07'
 qma_path: ''
@@ -42,9 +46,12 @@ quiz:
   options:
   - Back sleeping had been disproved and was abandoned
   - The campaign shifted from infant safety to improving how long babies sleep
-  - Back sleeping remained central, while evidence showed that the sleep surface, bedding and other environmental hazards also mattered
+  - Back sleeping remained central, while evidence showed that the sleep surface,
+    bedding and other environmental hazards also mattered
   answer: 2
-  explanation: The 2012 expansion retained placing healthy babies on their backs and added the broader sleep environment to address SIDS as well as other sleep-related deaths, including suffocation.
+  explanation: The 2012 expansion retained placing healthy babies on their backs and
+    added the broader sleep environment to address SIDS as well as other sleep-related
+    deaths, including suffocation.
 ---
 
 ## BRIEFLY

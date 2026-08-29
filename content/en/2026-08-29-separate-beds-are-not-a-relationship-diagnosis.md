@@ -1,14 +1,16 @@
 ---
 slug: separate-beds-are-not-a-relationship-diagnosis
 title: Separate Beds Are Not a Relationship Diagnosis
-dek: Sharing a bed can support closeness and alter sleep physiology. Sleeping apart can remove snoring, movement and schedule conflicts. The arrangement matters less than the reason and the conversation around it.
+dek: Sharing a bed can support closeness and alter sleep physiology. Sleeping apart
+  can remove snoring, movement and schedule conflicts. The arrangement matters less
+  than the reason and the conversation around it.
 section: relationships
 type: analysis
 depth: evidence
 lang: en
 date: '2026-08-29'
-status: draft
-confidence: 91
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -23,7 +25,8 @@ sources:
 - name: Frontiers in Psychiatry — Bed-Sharing in Couples and REM Sleep
   url: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2020.00583/full
   published: '2020-06-25'
-- name: Social Psychological and Personality Science — The Role of Sleep in Interpersonal Conflict
+- name: Social Psychological and Personality Science — The Role of Sleep in Interpersonal
+    Conflict
   url: https://journals.sagepub.com/doi/abs/10.1177/1948550613488952
   published: '2013-05-14'
 - name: Frontiers in Psychiatry — Couple Relationships and REM Sleep
@@ -35,13 +38,18 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What can current research most safely tell a couple considering separate beds?
+  question: What can current research most safely tell a couple considering separate
+    beds?
   options:
   - Separate beds reliably improve every relationship by improving sleep
   - Bed-sharing is biologically necessary for a healthy relationship
-  - Sleep and relationship quality affect each other, but the best arrangement depends on causes, preferences and how closeness is protected
+  - Sleep and relationship quality affect each other, but the best arrangement depends
+    on causes, preferences and how closeness is protected
   answer: 2
-  explanation: Studies show links among shared sleep, REM patterns, poor sleep and conflict, but they do not establish one universally superior sleeping arrangement. Much of the evidence is small, observational or not designed to test a permanent move to separate beds.
+  explanation: Studies show links among shared sleep, REM patterns, poor sleep and
+    conflict, but they do not establish one universally superior sleeping arrangement.
+    Much of the evidence is small, observational or not designed to test a permanent
+    move to separate beds.
 ---
 
 ## BRIEFLY

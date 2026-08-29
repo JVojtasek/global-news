@@ -1,14 +1,16 @@
 ---
 slug: if-your-phone-disappears-where-do-your-passkeys-go
 title: If Your Phone Disappears, Where Do Your Passkeys Go?
-dek: Passkeys remove the password from sign-in, but they do not remove recovery. The important question is whether your key is synced, device-bound or backed by another route.
+dek: Passkeys remove the password from sign-in, but they do not remove recovery. The
+  important question is whether your key is synced, device-bound or backed by another
+  route.
 section: tech
 type: daily
 depth: flagship
 lang: en
 date: '2026-08-29'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: ''
 event_id: passkey-lost-device-recovery-audit
 series: ''
-image_query: conceptual passkey recovery across a missing phone and trusted devices no readable interface no logos
+image_query: conceptual passkey recovery across a missing phone and trusted devices
+  no readable interface no logos
 sources:
 - name: NIST — Digital Identity Guidelines, Authentication and Authenticator Management
   url: https://csrc.nist.gov/pubs/sp/800/63/b/4/final
@@ -38,13 +41,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What most directly determines whether losing one phone also removes immediate access to a passkey?
+  question: What most directly determines whether losing one phone also removes immediate
+    access to a passkey?
   options:
   - Whether the website calls it a passkey rather than a security key
-  - Whether the passkey is synced through a credential manager or bound to the lost device
+  - Whether the passkey is synced through a credential manager or bound to the lost
+    device
   - Whether the phone used facial recognition instead of a PIN
   answer: 1
-  explanation: Synced passkeys can usually be restored after access to the credential-manager account is recovered. A device-bound passkey stays with its device or hardware key, so another registered credential or the service's recovery process is needed.
+  explanation: Synced passkeys can usually be restored after access to the credential-manager
+    account is recovered. A device-bound passkey stays with its device or hardware
+    key, so another registered credential or the service's recovery process is needed.
 ---
 
 ## BRIEFLY

@@ -1,14 +1,16 @@
 ---
 slug: a-clear-glass-of-water-proves-almost-nothing
 title: A Clear Glass of Water Proves Almost Nothing
-dek: Private-well water can look and taste perfect while carrying a problem. A useful test begins with local hazards, careful sampling and a certified laboratory—not a universal strip.
+dek: Private-well water can look and taste perfect while carrying a problem. A useful
+  test begins with local hazards, careful sampling and a certified laboratory—not
+  a universal strip.
 section: science
 type: analysis
 depth: open
 lang: en
 date: '2026-08-29'
-status: draft
-confidence: 93
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: ''
 event_id: private-well-water-testing-chain
 series: ''
-image_query: conceptual clear glass of well water beside labeled sample bottles geological layers no text no logos
+image_query: conceptual clear glass of well water beside labeled sample bottles geological
+  layers no text no logos
 sources:
 - name: U.S. EPA — Protect Your Home's Water
   url: https://www.epa.gov/privatewells/protect-your-homes-water
@@ -35,13 +38,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which finding is the best evidence that water from a private well is safe for the hazards relevant to that home?
+  question: Which finding is the best evidence that water from a private well is safe
+    for the hazards relevant to that home?
   options:
   - It is clear, odorless and tastes normal
-  - A correctly collected sample was tested for locally relevant contaminants by a certified laboratory and interpreted against current standards
+  - A correctly collected sample was tested for locally relevant contaminants by a
+    certified laboratory and interpreted against current standards
   - A general-purpose home strip produced no unusual color changes
   answer: 1
-  explanation: Appearance and taste can miss harmful germs and chemicals, while a broad home strip tests only the substances and ranges printed on its label. Safety evidence requires the right analytes, a controlled sample and an appropriate benchmark.
+  explanation: Appearance and taste can miss harmful germs and chemicals, while a
+    broad home strip tests only the substances and ranges printed on its label. Safety
+    evidence requires the right analytes, a controlled sample and an appropriate benchmark.
 ---
 
 ## BRIEFLY
