@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-28
+# ANALYTICKÉ ZADÁNÍ — 2026-08-29
 
-Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **32**.
+Paměť obsahuje **61 vláken**. Aktivních za posledních 14 dní: **31**.
 
 ---
 
@@ -62,6 +62,20 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **32**.
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
   - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
 
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 19 dní · 11 záznamů
+- časová osa:
+  - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
+  - **2026-08-18** (2 zdrojů) OpenAI institutes new safeguards after Hugging Face breach
+  - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
+  - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
+  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
+  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
+  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
+  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
+  - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
+
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 3 dní · 11 záznamů
 - časová osa:
@@ -75,17 +89,3 @@ Paměť obsahuje **60 vláken**. Aktivních za posledních 14 dní: **32**.
   - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
   - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
   - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
-
-### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 18 dní · 10 záznamů
-- časová osa:
-  - **2026-08-10** (4 zdrojů) OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-  - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
-  - **2026-08-18** (2 zdrojů) OpenAI institutes new safeguards after Hugging Face breach
-  - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
-  - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
-  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
-  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
-  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
-  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack

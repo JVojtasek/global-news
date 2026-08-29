@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-28
+# ZADÁNÍ PRO REDAKCI — 2026-08-29
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -127,12 +127,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### electric car battery
-- rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### artificial intelligence jobs
+- rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
-  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
-  - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
+  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
 
 ---
 

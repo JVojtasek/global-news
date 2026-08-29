@@ -845,6 +845,131 @@
   ]
  },
  {
+  "id": "69b225fb598b",
+  "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+  "section": "ai",
+  "score": 71,
+  "sources_count": 4,
+  "depth_signal": 0,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-26T19:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT TR — AI",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+    "published_at": "2026-08-26T19:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "source": "MIT Tech Review",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
+    "published_at": "2026-08-27T12:10:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT Tech Review",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+    "published_at": "2026-08-26T19:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+    "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+    "source": "The Hacker News",
+    "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI models, and that it was mainly fueled by what it described as a \"highly capable",
+    "published_at": "2026-08-27T18:36:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "source": "Hugging Face",
+    "summary": "",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d1fd3bc001a5",
+  "headline": "US and Venezuela reach 'historic' oil deal, Trump says",
+  "section": "world",
+  "score": 70,
+  "sources_count": 6,
+  "depth_signal": 0,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-29T00:25:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "US and Venezuela reach 'historic' oil deal, Trump says",
+    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
+    "published_at": "2026-08-29T00:25:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "US and Venezuela reach 'historic' oil deal, Trump says",
+    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
+    "published_at": "2026-08-29T00:25:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "Trump announces new US oil agreement with Venezuela",
+    "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+    "source": "The Guardian World",
+    "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves. The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been broke",
+    "published_at": "2026-08-28T23:34:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "Trump announces new US oil agreement with Venezuela",
+    "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+    "source": "Guardian Business",
+    "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves. The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been broke",
+    "published_at": "2026-08-28T23:34:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "Trump hails major oil deal with Venezuela",
+    "url": "https://www.dw.com/en/trump-hails-major-oil-deal-with-venezuela/a-78553607?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "US President Donald Trump announced an agreement with Venezuela to take control of 65 billion barrels of oil. The South American country has the largest proven oil reserves in the world.",
+    "published_at": "2026-08-28T23:23:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+    "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+    "source": "CNBC Top",
+    "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+    "published_at": "2026-08-28T23:42:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "b34b50a2bf4d",
   "headline": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
   "section": "world",
@@ -2645,55 +2770,6 @@
   ]
  },
  {
-  "id": "c7c9f391fddb",
-  "headline": "Firms scramble for battery power in Spain and Portugal",
-  "section": "science",
-  "score": 50,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T23:09:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Firms scramble for battery power in Spain and Portugal",
-    "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-    "published_at": "2026-08-25T23:09:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Firms scramble for battery power in Spain and Portugal",
-    "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-    "published_at": "2026-08-25T23:09:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Firms scramble for battery power in Spain and Portugal",
-    "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-    "published_at": "2026-08-25T23:09:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Firms scramble for battery power in Spain and Portugal",
-    "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-    "published_at": "2026-08-25T23:09:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   }
-  ]
- },
- {
   "id": "4832d5ccae67",
   "headline": "Bill Gates calls for ‘human reserved’ jobs in face of AI takeover",
   "section": "business",
@@ -3746,6 +3822,37 @@
   ]
  },
  {
+  "id": "46cab11314fe",
+  "headline": "Berlin is being blackmailed by hackers, mayor says",
+  "section": "world",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-28T21:29:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Berlin is being blackmailed by hackers, mayor says",
+    "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
+    "published_at": "2026-08-28T21:29:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+    "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+    "source": "The Hacker News",
+    "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
+    "published_at": "2026-08-28T21:30:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "def065f9c844",
   "headline": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
   "section": "science",
@@ -3981,68 +4088,6 @@
     "published_at": "2026-08-28T19:23:32+00:00",
     "source_countries": [],
     "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "73fb8d015393",
-  "headline": "Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing",
-  "section": "sport",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T23:25:29+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Alcaraz and Williams thrill in brief but bright US Open mixed doubles showing",
-    "url": "https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Serena Williams and Carlos Alcaraz were among the star double-acts in New York as the US Open mixed doubles competition got under way on Tuesday.",
-    "published_at": "2026-08-25T23:25:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Serena Williams thrills New York crowd on US Open return with Alcaraz",
-    "url": "https://www.theguardian.com/sport/2026/aug/26/serena-williams-carlos-alcaraz-us-open-tennis-mixed-doubles",
-    "source": "Guardian Sport",
-    "summary": "Former women’s No 1 proves she’s no nostalgia act before star pairing crash out in mixed doubles quarter-finals Serena Williams’ US Open return lasted two matches and one afternoon Tuesday as she and Carlos Alcaraz followed a first-round win with a quarter-final defeat by Belinda Bencic and Flavio Cobolli in the headline attraction of the reimagined mixed doubles competition. Back inside Arthur As",
-    "published_at": "2026-08-25T23:02:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   }
-  ]
- },
- {
-  "id": "eef7cfd34377",
-  "headline": "'I'm very proud of this' - Fernandes wins PFA player of the year",
-  "section": "sport",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T21:29:08+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'I'm very proud of this' - Fernandes wins PFA player of the year",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cjdv55g4871o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Manchester United captain Bruno Fernandes reacts to winning the men's 2026 PFA player of the year award.",
-    "published_at": "2026-08-25T21:29:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards",
-    "url": "https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year",
-    "source": "Guardian Sport",
-    "summary": "Fellow players pick Manchester United and Manchester City stars Nico O’Reilly and Olivia Smith collect young players’ honours Manchester United’s captain Bruno Fernandes has been crowned Professional Footballers’ Association Player of the Year as Manchester City’s Khadija Shaw won the women’s award for the second time. Playmaker Fernandes broke the record for Premier League assists during an outst",
-    "published_at": "2026-08-25T21:50:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
    }
   ]
  },
@@ -4561,37 +4606,6 @@
     "published_at": "2026-08-28T15:56:55+00:00",
     "source_countries": [],
     "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "5a37c8f3f9af",
-  "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
-  "section": "world",
-  "score": 43,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T21:49:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
-    "url": "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
-    "source": "France 24",
-    "summary": "The US-led board overseeing the Gaza peace plan warned Hamas on Tuesday to halt militant activity, including flying kites, after Israel threatened retaliatory strikes. A Board of Peace official said Israel must also respect the ceasefire, limiting military action to responses to “genuine and imminent threats.”",
-    "published_at": "2026-08-25T21:49:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
-    "url": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Health Ministry warns of 'complete collapse of the basic necessities of life' in Gaza as Israel's attacks continue.",
-    "published_at": "2026-08-25T21:26:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
    }
   ]
  },
@@ -5415,33 +5429,33 @@
   ]
  },
  {
-  "id": "f98076571ee0",
-  "headline": "Dolly Parton – a life in pictures",
-  "section": "culture",
-  "score": 41,
+  "id": "61fa525bac0d",
+  "headline": "Leeds go back top with thumping win at St Helens",
+  "section": "sport",
+  "score": 42,
   "sources_count": 2,
   "depth_signal": 2,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T18:10:12+00:00",
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-28T21:59:42+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Dolly Parton – a life in pictures",
-    "url": "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-    "source": "Guardian Culture",
-    "summary": "The country music star, actor and philanthropist’s long and varied career spanned decades Dolly Parton, country star, actor and philanthropist, dies aged 80 Country music legend Dolly Parton dies aged 80 – latest updates Dolly Parton’s family say goodbye to their aunt, sister, grandmother - video Share your tributes and memories of Dolly Parton Continue reading...",
-    "published_at": "2026-08-25T18:10:12+00:00",
+    "title": "Leeds go back top with thumping win at St Helens",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Leeds Rhinos go back to the top of the Super League standings on points difference with a rare and comprehensive away win at St Helens.",
+    "published_at": "2026-08-28T21:59:42+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
+    "seen_at": "2026-08-29T00:51:56+00:00"
    },
    {
-    "title": "Who was the ‘Queen of Country’ Dolly Parton?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.",
-    "published_at": "2026-08-25T21:29:11+00:00",
+    "title": "St Helens playoff hopes hang by a thread after thrashing by Leeds",
+    "url": "https://www.theguardian.com/sport/2026/aug/28/st-helens-leeds-super-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "St Helens 6-34 Leeds Rhinos return to top of table after running in six tries If you needed any further proof that Super League’s two most successful sides are travelling in different directions in 2026, this was about as conclusive as you can get. There are two very different fates awaiting Leeds Rhinos and St Helens in three weeks or so. The Rhinos will now almost certainly be resting up for a S",
+    "published_at": "2026-08-28T21:20:18+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
+    "seen_at": "2026-08-29T00:51:56+00:00"
    }
   ]
  },
@@ -5831,59 +5845,6 @@
     "published_at": "2026-08-28T14:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-08-28T16:24:12+00:00"
-   }
-  ]
- },
- {
-  "id": "ffbab5c020ed",
-  "headline": "Three years after his death, the Met goes after Mohamed Al Fayed. As for his enablers – well, you can’t rush things, can you? | Marina Hyde",
-  "section": "business",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T13:35:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Three years after his death, the Met goes after Mohamed Al Fayed. As for his enablers – well, you can’t rush things, can you? | Marina Hyde",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/25/mohamed-al-fayed-police-met-crimes-victims-justice",
-    "source": "Guardian Business",
-    "summary": "The crimes he stands accused of required whole armies of facilitators. Don’t the victims deserve to see them face justice too? How reassuring to learn that police investigating claims of sexual assault against Mohamed Al Fayed have handed a file to the Crown Prosecution Service, a mere three years after the former Harrods owner’s death at the age of 94, and just decades after the first survivors m",
-    "published_at": "2026-08-25T13:35:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   }
-  ]
- },
- {
-  "id": "61aaffd21625",
-  "headline": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
-  "section": "business",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T22:47:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
-    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-worst-day-ever-jim-cramer-advice.html",
-    "source": "CNBC Top",
-    "summary": "CNBC’s Jim Cramer said investors shouldn’t give up on Dick’s after its record 30% plunge.",
-    "published_at": "2026-08-25T22:47:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
-    "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
-    "source": "CNBC Top",
-    "summary": "Dick's Sporting Goods reported fiscal second-quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
-    "published_at": "2026-08-25T20:38:59+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
    }
   ]
  },
@@ -7768,6 +7729,37 @@
   ]
  },
  {
+  "id": "90b5220f9876",
+  "headline": "US arrests far-right provocateur Milo Yiannopoulos",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-28T21:45:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "US arrests far-right provocateur Milo Yiannopoulos",
+    "url": "https://www.dw.com/en/us-arrests-far-right-provocateur-milo-yiannopoulos/a-78553559?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Yiannopoulos, a far-right commentator, was an early supporter of Donald Trump and his immigration crackdown, but they have since fallen out. DHS said he was an \"illegal alien\" who overstayed his visit in the US.",
+    "published_at": "2026-08-28T21:45:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   },
+   {
+    "title": "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
+    "url": "https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.",
+    "published_at": "2026-08-28T23:04:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "3afa3673189d",
   "headline": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
   "section": "science",
@@ -8231,33 +8223,24 @@
   ]
  },
  {
-  "id": "5f62f6214669",
-  "headline": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
-  "section": "science",
-  "score": 36,
+  "id": "71e85c1f0044",
+  "headline": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+  "section": "world",
+  "score": 37,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T23:41:13+00:00",
+  "depth_signal": 2,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-29T00:35:04+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
-    "url": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
-    "published_at": "2026-08-25T23:41:13+00:00",
+    "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+    "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
+    "published_at": "2026-08-29T00:35:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "A nosy polar bear and a lucky squirrel: Wildlife Photographer of the Year 2026 shortlist",
-    "url": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "The polar bear image taken by Audun Rikardsen was among the 'highly commended' entries in this year's competition.",
-    "published_at": "2026-08-25T23:41:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
+    "seen_at": "2026-08-29T00:51:56+00:00"
    }
   ]
  },
@@ -9153,59 +9136,6 @@
   ]
  },
  {
-  "id": "0949cac34305",
-  "headline": "Toxic waste sites exposed in Michael Sheen documentary 'tip of the iceberg'",
-  "section": "science",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-25T21:53:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Toxic waste sites exposed in Michael Sheen documentary 'tip of the iceberg'",
-    "url": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "One scientist says there are thousands of sites across the UK that need investigating.",
-    "published_at": "2026-08-25T21:53:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   },
-   {
-    "title": "Toxic waste sites exposed in Michael Sheen documentary 'tip of the iceberg'",
-    "url": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "One scientist says there are thousands of sites across the UK that need investigating.",
-    "published_at": "2026-08-25T21:53:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   }
-  ]
- },
- {
-  "id": "592ff884b9bf",
-  "headline": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T00:27:56+00:00",
-  "event_time": "2026-08-21T10:03:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-    "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-    "source": "The Hacker News",
-    "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
-    "published_at": "2026-08-21T10:03:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T00:27:53+00:00"
-   }
-  ]
- },
- {
   "id": "deed0a0e4383",
   "headline": "Suburban Rail Loop: Victorian government secretly increased public transport fares to help pay for controversial SRL",
   "section": "world",
@@ -9669,6 +9599,50 @@
   ]
  },
  {
+  "id": "929aeaf9b438",
+  "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-28T22:05:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+    "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+    "published_at": "2026-08-28T22:05:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "cdf32bc6833c",
+  "headline": "Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-28T22:53:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel",
+    "url": "https://www.theguardian.com/world/2026/aug/29/australians-missing-nepal-floods-total-rises-albanese-dfat-personnel-arriving",
+    "source": "The Guardian World",
+    "summary": "There are now 41 Australians missing, and four rapid response team members are expected to arrive in Kathmandu At least 93,000 ‘in great need’ after Nepal-Tibet flash floods How the deadly Nepal and Tibet flash flood unfolded – a visual guide Get our breaking news email , free app or daily news podcast The number of Australians who were reported missing in the catastrophic Nepal flooding disaster ",
+    "published_at": "2026-08-28T22:53:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "5409916515f8",
   "headline": "Families of 33 missing Britons rush to Nepal as fears grow of more floods",
   "section": "world",
@@ -9806,6 +9780,50 @@
     "published_at": "2026-08-27T13:57:08+00:00",
     "source_countries": [],
     "seen_at": "2026-08-28T16:24:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "61e44c76636c",
+  "headline": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-28T21:17:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+    "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+    "published_at": "2026-08-28T21:17:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e29aab8f709e",
+  "headline": "The Dog Stars review – Ridley Scott’s lethargic postapocalyptic drama is a misfire",
+  "section": "culture",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-29T00:51:58+00:00",
+  "event_time": "2026-08-26T00:00:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Dog Stars review – Ridley Scott’s lethargic postapocalyptic drama is a misfire",
+    "url": "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review",
+    "source": "Guardian Culture",
+    "summary": "An adaptation of Peter Heller’s 2012 novel never finds its footing with overly familiar survival beats and a glum lack of energy Looking towards the end of an August movie dumping ground littered with more unwanted trash than usual, there seemed to be a faint glimmer of hope, a shiny treasure poking out through the dusty mass of unnecessary sequels and sex purge romcoms . Somehow, there was a $110",
+    "published_at": "2026-08-26T00:00:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-29T00:51:56+00:00"
    }
   ]
  }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "timezone": "Europe/Prague",
   "public_count": 6,
   "slots": [
@@ -9,7 +9,7 @@
       "type": "daily",
       "min_words": 1400,
       "max_words": 2000,
-      "section": "motoring",
+      "section": "tech",
       "status": "draft"
     },
     {
@@ -18,7 +18,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "tech",
+      "section": "relationships",
       "status": "draft"
     },
     {
@@ -27,7 +27,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "relationships",
+      "section": "science",
       "status": "draft"
     },
     {
@@ -36,7 +36,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1600,
-      "section": "science",
+      "section": "parenting",
       "status": "draft"
     },
     {
@@ -45,7 +45,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "parenting",
+      "section": "meaning",
       "status": "draft"
     },
     {
@@ -54,7 +54,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "meaning",
+      "section": "history",
       "status": "draft"
     }
   ],
@@ -64,7 +64,7 @@
     "type": "feature",
     "min_words": 1000,
     "max_words": 1600,
-    "section": "history",
+    "section": "health",
     "status": "reserve"
   },
   "rules": {
