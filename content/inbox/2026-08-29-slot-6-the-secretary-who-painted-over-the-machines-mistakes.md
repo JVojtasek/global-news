@@ -107,15 +107,6 @@ Liquid Paper also arrived during an expansion of clerical work in postwar corpor
 
 Graham’s company culture reflected her view that business could be organized differently. Historical accounts describe employee benefits and facilities unusual for the period, including childcare, a library and a credit union. Those programs should not be romanticized without company records and worker testimony, but they fit a consistent theme: the people doing routine work were not incidental to the enterprise.
 
-## PEOPLE
-
-The central human moment is easy to miss because it looks so ordinary: a worker brings a homemade fix into the office, and coworkers ask for some.
-
-That is an early form of market research. The users did not complete a survey about unmet needs. They recognized relief. Every requested bottle was evidence that the problem was shared.
-
-Graham’s own position made the experiment risky. She was a single mother supporting a household, mixing product after work and financing growth without the institutional safety available to a corporate research team. Losing her bank job removed income even as it forced a decision about the business.
-
-The later fortune can obscure those years. Success makes the early risk look inevitable. It was not.
 
 ## DEEPER
 
