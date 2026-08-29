@@ -35,9 +35,8 @@ Paměť obsahuje **62 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 10 dní · 19 záznamů
+- rubrika `sport` · sledováno 11 dní · 20 záznamů
 - časová osa:
-  - **2026-08-22** (2 zdrojů) Hull City v Manchester United: Premier League – live
   - **2026-08-23** (2 zdrojů) Newcastle United v Liverpool: Premier League – live
   - **2026-08-23** (2 zdrojů) Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
   - **2026-08-23** (2 zdrojů) Life after Salah - why Isak and Wirtz must step up for Liverpool
@@ -47,6 +46,7 @@ Paměť obsahuje **62 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
   - **2026-08-28** (2 zdrojů) LIVE: Crystal Palace vs Manchester City – Premier League
   - **2026-08-28** (3 zdrojů) Haaland and Cherki fire impressive Man City to victory at Palace
+  - **2026-08-29** (2 zdrojů) Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 15 dní · 19 záznamů
@@ -62,6 +62,20 @@ Paměť obsahuje **62 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
   - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
 
+### Dolly Parton, one of country music's most singular performers, has died at age 80
+- rubrika `culture` · sledováno 4 dní · 12 záznamů
+- časová osa:
+  - **2026-08-26** (2 zdrojů) Dolly Parton – a life in pictures
+  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
+  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
+  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
+  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
+  - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
+  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
+  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
+  - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
+  - **2026-08-29** (3 zdrojů) How America celebrated and mourned Dolly Parton, in Nashville and beyond
+
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 19 dní · 11 záznamů
 - časová osa:
@@ -75,17 +89,3 @@ Paměť obsahuje **62 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
   - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
-
-### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 3 dní · 11 záznamů
-- časová osa:
-  - **2026-08-25** (6 zdrojů) Remembering Dolly Parton: 8 facts about the icon
-  - **2026-08-26** (2 zdrojů) Dolly Parton – a life in pictures
-  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
-  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
-  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
-  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
-  - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
-  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
-  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
-  - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
