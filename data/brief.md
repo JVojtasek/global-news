@@ -66,62 +66,59 @@
     <https://www.france24.com/en/video/20260826-dolly-parton-buckingham-palace-guards-play-musical-tribute>
     > Britain’s royal family posted a video on social media Wednesday of the band of the Buckingham Palace guards playing Dolly Parton’s “9 to 5”, in tribute to the American country music legend who passed away Tuesday aged 80.
 
-### 3. Meta agrees to pay up to $18bn to settle social media case
-- id události: `dd68857a78db`  ·  rubrika: `business`  ·  skóre: 84  ·  nezávislých zdrojů: 7
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 3. Trump signs order to rename Lake Ontario as Lake America
+- id události: `fc871ed3ce64`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Business** — Meta agrees to pay up to $18bn to settle social media case
-    <https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss>
-    > The deal has been reached during a California federal court trial over claims brought by US states.
-  - **BBC Technology** — Meta agrees to pay up to $18bn to settle social media case
-    <https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss>
-    > The deal has been reached during a California federal court trial over claims brought by US states.
-  - **NPR News** — Meta, states agree to $17 billion settlement in child safety trial
-    <https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit>
-    > The social media giant also agreed to make sweeping changes to Instagram and Facebook.
-  - **CNBC Top** — Meta settles social media addiction case with California, other states for $16.7 billion
-    <https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html>
-    > Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.
-  - **France 24** — Meta reaches $17 billion settlement with US states over social media harm to teens
-    <https://www.france24.com/en/americas/20260826-meta-reaches-17-billion-settlement-with-us-states-over-social-media-harm-teens>
-    > Meta Platforms on Wednesday agreed to pay $17 billion to settle claims, filed by 47 US states, that the company designed Facebook and Instagram to deliberately make teens addicted to their products while deceiving the public, according to state attorneys general. The company agre
-  - **TechCrunch** — Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children
-    <https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/>
-    > The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.
-  - **Investing.com** — Meta reaches $18 billion of settlements over children’s social media addiction
-    <https://www.investing.com/news/stock-market-news/meta-reaches-18-billion-of-settlements-over-childrens-social-media-addiction-4877554>
+  - **BBC World** — Trump signs order to rename Lake Ontario as Lake America
+    <https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss>
+    > Trump's order comes after the trade talks between the US and Canada collapsed late last week.
+  - **NPR News** — Trump directs federal government to rename Lake Ontario to Lake America
+    <https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america>
+    > President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .
+  - **The Guardian World** — Trump signs executive order to rename Lake Ontario as Lake America
+    <https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america>
+    > Symbolic move to rename lake shared by US and Canada comes amid escalating trade war with northern neighbor US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid h
+  - **DW News** — Trump signs order to rename Lake Ontario as Lake America
+    <https://www.dw.com/en/trump-signs-order-to-rename-lake-ontario-as-lake-america/a-78537838?maca=en-rss-en-all-1573-rdf>
+    > The move is the latest in the ongoing rift between the US and Canada. The US president has also tried to rename the Gulf of Mexico as the "Gulf of America" in the past. Canadian PM Carney has said nothing will change.
+  - **CNBC Top** — Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war
+    <https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html>
+    > President Donald Trump signed an executive order that he said will "immediately" change the name of Lake Ontario to "Lake America."
+  - **Al Jazeera** — Video: Trump signs order to re-name Lake Ontario as Lake America
+    <https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss>
+    > US President Donald Trump has signed an executive order to rename Lake Ontario as Lake America.
+  - **France 24** — Trump signs order to rename Lake Ontario to 'Lake America' as Carney pushes back
+    <https://www.france24.com/en/americas/20260827-trump-signs-order-to-rename-lake-ontario-to-lake-america-as-carney-pushes-back>
+    > US President Donald Trump on Thursday signed an executive order to update the name of Lake Ontario to "Lake America" in the country's geographic naming service. Canadian Prime Minister Mark Carney pushed back, citing the name's Indigenous origins, as the row between the neighbors
+  - **Al Jazeera** — US President Trump signs order renaming Lake Ontario to ‘Lake America’
+    <https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss>
+    > The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
 
-### 4. Watch Nashville fans lay flowers in tribute to Dolly Parton
-- id události: `4d5d929d3f9b`  ·  rubrika: `culture`  ·  skóre: 83  ·  nezávislých zdrojů: 6
+### 4. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
+- id události: `2458fe404ed3`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Watch Nashville fans lay flowers in tribute to Dolly Parton
-    <https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss>
-    > The BBC's Helena Humphrey is outside the Country Music Hall of Fame where fans gathered to mourn Dolly Parton.
-  - **Guardian Culture** — Dolly Parton was a rare singer who proved herself to be an electric movie star
-    <https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress>
-    > From 9 to 5 to Steel Magnolias to Joyful Noise, the late star had real big screen presence that was impossible to imitate ‘I just give from my heart’: how Dolly Parton’s philanthropy focused most on helping children Celebrity tributes pour in for Dolly Parton: ‘a gift to the worl
-  - **NPR News** — Dolly Parton didn't just write hits — she created an American songbook
-    <https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting>
-    > Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.
-  - **Guardian Culture** — Backwoods Barbie and the ‘God almighty’ PMS Blues: Dolly Parton’s 10 best deep cuts
-    <https://www.theguardian.com/music/2026/aug/26/dolly-parton-10-best-deep-cuts-singer-dead>
-    > From heartbreaking spoken word to wry takes on the double standards women face, here are some of the late country singer’s lesser known gems Alexis Petridis on Dolly Parton’s peerless career Dolly Parton – a life in pictures Share your tributes and memories of Dolly Parton Dolly 
-  - **Guardian Culture** — From Jolene to Islands in the Stream: Dolly Parton’s 10 best recordings
-    <https://www.theguardian.com/music/2026/aug/26/dolly-parton-best-songs-jolene>
-    > The late star created some of the most beloved country and pop songs in American music Alexis Petridis on Dolly Parton’s peerless career that turned country music cliches inside out Dolly Parton – a life in pictures Country music legend Dolly Parton dies aged 80 – latest updates 
-  - **Guardian Culture** — Dolly Parton’s peerless career turned country music cliches inside out | Alexis Petridis
-    <https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-music-career>
-    > Beneath the wig and rhinestones, Parton was the genius behind strings of classic songs from Jolene to I Will Always Love You that continue to inspire new artists Dolly Parton, US country star, actor and philanthropist, dies aged 80 Dolly Parton’s family say goodbye to their aunt,
-  - **France 24** — Dolly Parton, queen of country music, dies at 80
-    <https://www.france24.com/en/video/20260826-dolly-parton-queen-of-country-music-dies-at-80>
-    > Dolly Parton was around six when she wrote her first song: "Little Tiny Tasseltop," an ⁠ode to her corncob doll with ​corn-silk hair. Her mother stored it preciously in a shoebox. Parton never stopped making music after that. The irrepressible country music singer, songwriter and
-  - **CNBC Top** — I manage Dolly Parton’s Imagination Library in Cincinnati—the No. 1 lesson she taught me about success
-    <https://www.cnbc.com/2026/08/26/the-no-1-lesson-dolly-parton-taught-me-about-success.html>
-    > Cincinnati literacy leader Kristy High reflects on Dolly Parton’s Imagination Library and the lesson Parton's philanthropy taught her about success.
-  - **Good News Network** — In Memorium: Dolly Parton the Country Music Star, Philanthropist, and Champion of Literacy
-    <https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/>
-    > Dolly Parton passed away yesterday at age 80 following a brief battle with cancer. She leaves behind a legacy captured in many GNN stories; one of championing childhood literacy, uplifting Americans of every gender, color, and creed, and of several enduring musical hits in the co
+  - **BBC World** — At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
+    <https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss>
+    > An investigation has been launched into the storage of weapons in the deopt near a residential area.
+  - **The Guardian World** — Russian strike on warehouse near Kyiv kills at least 37
+    <https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37>
+    > Attack on business apparently storing ‘explosive objects’ sparks huge fire, damaging residential buildings At least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs which appears to have been storing “explosive objects”. The attack d
+  - **DW News** — Russian strike on warehouse near Kyiv kills dozens
+    <https://www.dw.com/en/russian-strike-on-warehouse-near-kyiv-kills-dozens/a-78556008?maca=en-rss-en-all-1573-rdf>
+    > Hundreds were also forced to evacuate after a Russian attack on a warehouse near Ukraine's capital, Kyiv, sparked a huge fire and explosions.
+  - **Al Jazeera** — Russian attack on warehouse near Ukraine’s Kyiv kills at least 27
+    <https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss>
+    > Zelenskyy says a warehouse was struck outside Kyiv, 'followed by a detonation', triggering a major fire and explosions.
+  - **France 24** — Dozens dead after Russian drone strike hits warehouse
+    <https://www.france24.com/en/dozens-dead-after-russian-drone-strike-hits-warehouse>
+    > At least 27 people have died after a Russian drone struck a depot near Kyiv's western suburbs overnight, sparking a huge fire and explosions, authorities said Saturday. FRANCE 24's Emmanuelle Chaze reports.
+  - **France 24** — Russian strikes hit homes, warehouse, shopping mall across Ukraine
+    <https://www.france24.com/en/russian-strikes-hit-homes-warehouse-shopping-mall-across-ukraine>
+    > A Russian drone strike triggered a major fire and explosions at a warehouse on the outskirts of Ukraine's capital Kyiv, forcing hundreds to evacuate the region, authorities said early Saturday.
+  - **Investing.com** — Russian strike kills 27 near Kyiv as Moscow militarizes schools
+    <https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964>
 
 ---
 
@@ -182,13 +179,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 25  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 26  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 25
-  2026-08-12  (2 zdrojů, síla 44)  Four killed in overnight attacks in southern Russia, Ukraine
+rubrika: world · sledováno od 2026-08-11 · záznamů: 26
   2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
   2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles
   2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region
@@ -208,6 +204,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 25
   2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
   2026-08-27  (2 zdrojů, síla 44)  Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
   2026-08-28  (2 zdrojů, síla 48)  Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
+  2026-08-29  (2 zdrojů, síla 42)  Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
 ```
 
 ---
