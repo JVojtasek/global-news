@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-30
 
-Paměť obsahuje **63 vláken**. Aktivních za posledních 14 dní: **31**.
+Paměť obsahuje **65 vláken**. Aktivních za posledních 14 dní: **31**.
 
 ---
 
@@ -35,9 +35,8 @@ Paměť obsahuje **63 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 12 dní · 23 záznamů
+- rubrika `sport` · sledováno 12 dní · 24 záznamů
 - časová osa:
-  - **2026-08-23** (2 zdrojů) Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
   - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
   - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
   - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
@@ -47,6 +46,7 @@ Paměť obsahuje **63 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-29** (3 zdrojů) Iraola urges 'passive' Liverpool to learn quickly after Forest draw
   - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
   - **2026-08-30** (2 zdrojů) Antonio helps young Ghanaians chase Premier League dreams
+  - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 17 dní · 21 záznamů

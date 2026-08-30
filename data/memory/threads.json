@@ -5,43 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "cherki",
-    "iraola",
-    "wissa",
-    "united",
-    "nottingham",
-    "antonio",
-    "five",
-    "hull",
-    "isak",
-    "haaland's",
     "salah",
+    "haaland",
+    "wirtz",
+    "antonio",
+    "transfer",
+    "youtube",
+    "united",
+    "relief",
+    "golden",
+    "cherki",
     "mcnulty's",
     "city",
-    "palace",
-    "wirtz",
+    "tzolis",
+    "hull's",
+    "opening",
+    "chelsea",
+    "nottingham",
+    "isak",
+    "ghanaians",
+    "five",
     "newcastle",
-    "liverpool",
+    "hull",
     "arsenal",
-    "sports",
+    "brighton",
+    "leeds",
+    "wissa",
+    "brentford",
+    "manchester",
+    "crystal",
     "phil",
     "life",
-    "boot",
-    "youtube",
-    "tzolis",
-    "opening",
-    "transfer",
-    "coventry",
-    "league",
-    "crystal",
-    "premier",
-    "haaland",
-    "relief",
-    "manchester",
-    "ghanaians",
-    "hull's",
     "forest",
-    "golden"
+    "sports",
+    "boot",
+    "fulham",
+    "league",
+    "sunderland",
+    "coventry",
+    "iraola",
+    "liverpool"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -66,7 +69,8 @@
     "0eb6f99b53b6",
     "44a656893df0",
     "eb6c94972eaf",
-    "0818c2669ed5"
+    "0818c2669ed5",
+    "d5134ea0c398"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-30",
@@ -335,6 +339,17 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d5134ea0c398",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss"
      ]
     }
    ]
@@ -710,6 +725,74 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1377348ebb36",
+   "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
+   "section": "business",
+   "entities": [
+    "energy",
+    "nancy",
+    "matter",
+    "launches",
+    "exoplanets",
+    "unravel",
+    "mysteries",
+    "dark",
+    "grace",
+    "find",
+    "nasa's",
+    "roman",
+    "space",
+    "telescope"
+   ],
+   "event_ids": [
+    "1377348ebb36"
+   ],
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-08-30",
+   "timeline": [
+    {
+     "date": "2026-08-30",
+     "headline": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy",
+     "sources": 4,
+     "score": 69,
+     "event_id": "1377348ebb36",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/",
+      "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+      "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "80226a3cb4a8",
+   "title": "Boat carrying some 270 people capsizes off northern Cyprus",
+   "section": "world",
+   "entities": [
+    "cyprus",
+    "boat"
+   ],
+   "event_ids": [
+    "80226a3cb4a8"
+   ],
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-08-30",
+   "timeline": [
+    {
+     "date": "2026-08-30",
+     "headline": "Boat carrying some 270 people capsizes off northern Cyprus",
+     "sources": 4,
+     "score": 61,
+     "event_id": "80226a3cb4a8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus-reports/a-78562769?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20260830-ferry-carrying-more-than-250-passengers-capsizes-off-northern-cyprus"
      ]
     }
    ]
@@ -4821,5 +4904,5 @@
    ]
   }
  ],
- "updated": "2026-08-30T09:24:41+00:00"
+ "updated": "2026-08-30T12:31:58+00:00"
 }
