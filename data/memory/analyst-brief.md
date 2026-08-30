@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-30
 
-Paměť obsahuje **65 vláken**. Aktivních za posledních 14 dní: **31**.
+Paměť obsahuje **66 vláken**. Aktivních za posledních 14 dní: **32**.
 
 ---
 
@@ -20,6 +20,20 @@ Paměť obsahuje **65 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-28** (2 zdrojů) O'Neill hopeful on transfers despite Champions League play-off exit
   - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 12 dní · 26 záznamů
+- časová osa:
+  - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
+  - **2026-08-28** (2 zdrojů) LIVE: Crystal Palace vs Manchester City – Premier League
+  - **2026-08-28** (3 zdrojů) Haaland and Cherki fire impressive Man City to victory at Palace
+  - **2026-08-29** (2 zdrojů) Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
+  - **2026-08-29** (3 zdrojů) Iraola urges 'passive' Liverpool to learn quickly after Forest draw
+  - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
+  - **2026-08-30** (2 zdrojů) Antonio helps young Ghanaians chase Premier League dreams
+  - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
+  - **2026-08-30** (2 zdrojů) Joao Pedro a central figure - player ratings for Chelsea v Brighton
+  - **2026-08-30** (2 zdrojů) Manchester United v Ipswich Town: Premier League – live
+
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 18 dní · 26 záznamů
 - časová osa:
@@ -34,24 +48,9 @@ Paměť obsahuje **65 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
   - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
 
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 12 dní · 24 záznamů
-- časová osa:
-  - **2026-08-25** (3 zdrojů) What does your Premier League club still need in the transfer window?
-  - **2026-08-26** (2 zdrojů) Will a Premier League club break record for transfer sales in one window?
-  - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
-  - **2026-08-28** (2 zdrojů) LIVE: Crystal Palace vs Manchester City – Premier League
-  - **2026-08-28** (3 zdrojů) Haaland and Cherki fire impressive Man City to victory at Palace
-  - **2026-08-29** (2 zdrojů) Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
-  - **2026-08-29** (3 zdrojů) Iraola urges 'passive' Liverpool to learn quickly after Forest draw
-  - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
-  - **2026-08-30** (2 zdrojů) Antonio helps young Ghanaians chase Premier League dreams
-  - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
-
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 17 dní · 21 záznamů
+- rubrika `world` · sledováno 17 dní · 22 záznamů
 - časová osa:
-  - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
   - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
@@ -61,6 +60,7 @@ Paměť obsahuje **65 vláken**. Aktivních za posledních 14 dní: **31**.
   - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
   - **2026-08-29** (3 zdrojů) BBC tracks one week of Israeli settler violence in occupied West Bank
   - **2026-08-30** (2 zdrojů) Palestinian woman and NBC News team reportedly attacked in West Bank
+  - **2026-08-30** (2 zdrojů) Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 4 dní · 12 záznamů

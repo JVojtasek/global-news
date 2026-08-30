@@ -128,8 +128,8 @@
 - rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
   - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
@@ -178,33 +178,33 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown
 ```
 
-### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 26  ·  **depth: `open`**
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 26  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 26
-  2026-08-13  (2 zdrojů, síla 42)  Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure
-  2026-08-15  (2 zdrojů, síla 44)  Ukraine strikes major Russian rocket factory with cruise missiles
-  2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region
-  2026-08-17  (2 zdrojů, síla 49)  Why Kyiv keeps attacking Russian retail giant Wildberries
-  2026-08-18  (2 zdrojů, síla 43)  Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
-  2026-08-18  (2 zdrojů, síla 46)  Ukraine, Russia trade strikes; Wildberries site hit again
-  2026-08-18  (3 zdrojů, síla 53)  Ukraine appeals to FIA to overturn Russia inclusion
-  2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv
-  2026-08-20  (4 zdrojů, síla 69)  Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
-  2026-08-20  (3 zdrojů, síla 59)  Ukraine: Several killed in 'massive' Russian strikes on Kyiv
-  2026-08-21  (2 zdrojů, síla 52)  Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
-  2026-08-21  (2 zdrojů, síla 45)  'Masha and the Bear': Ukraine sanctions Russian cartoon
-  2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack
-  2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy
-  2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
-  2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
-  2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
-  2026-08-27  (2 zdrojů, síla 44)  Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
-  2026-08-28  (2 zdrojů, síla 48)  Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
-  2026-08-29  (2 zdrojů, síla 42)  Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 26
+  2026-08-20  (2 zdrojů, síla 40)  Arsenal vs Coventry: Premier League – prediction, lineups, teams
+  2026-08-21  (2 zdrojů, síla 48)  Arsenal v Coventry City: Premier League – live
+  2026-08-21  (3 zdrojů, síla 54)  Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
+  2026-08-22  (2 zdrojů, síla 42)  Hull City v Manchester United: Premier League – live
+  2026-08-23  (2 zdrojů, síla 42)  Newcastle United v Liverpool: Premier League – live
+  2026-08-23  (2 zdrojů, síla 50)  Wissa shines as Isak struggles - Newcastle v Liverpool player ratings
+  2026-08-23  (2 zdrojů, síla 46)  Life after Salah - why Isak and Wirtz must step up for Liverpool
+  2026-08-23  (2 zdrojů, síla 49)  Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle
+  2026-08-25  (3 zdrojů, síla 62)  What does your Premier League club still need in the transfer window?
+  2026-08-26  (2 zdrojů, síla 44)  Will a Premier League club break record for transfer sales in one window?
+  2026-08-28  (3 zdrojů, síla 60)  Premier League: 10 things to look out for this weekend
+  2026-08-28  (2 zdrojů, síla 52)  LIVE: Crystal Palace vs Manchester City – Premier League
+  2026-08-28  (3 zdrojů, síla 65)  Haaland and Cherki fire impressive Man City to victory at Palace
+  2026-08-29  (2 zdrojů, síla 47)  Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
+  2026-08-29  (3 zdrojů, síla 64)  Iraola urges 'passive' Liverpool to learn quickly after Forest draw
+  2026-08-29  (2 zdrojů, síla 42)  'Not bad for the worst team in Premier League history' - Hull's perfect start
+  2026-08-30  (2 zdrojů, síla 49)  Antonio helps young Ghanaians chase Premier League dreams
+  2026-08-30  (2 zdrojů, síla 40)  Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
+  2026-08-30  (2 zdrojů, síla 44)  Joao Pedro a central figure - player ratings for Chelsea v Brighton
+  2026-08-30  (2 zdrojů, síla 40)  Manchester United v Ipswich Town: Premier League – live
 ```
 
 ---

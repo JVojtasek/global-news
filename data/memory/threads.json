@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "salah",
-    "haaland",
-    "wirtz",
-    "antonio",
-    "transfer",
-    "youtube",
-    "united",
-    "relief",
-    "golden",
-    "cherki",
-    "mcnulty's",
-    "city",
-    "tzolis",
-    "hull's",
-    "opening",
-    "chelsea",
+    "joao",
     "nottingham",
-    "isak",
-    "ghanaians",
-    "five",
-    "newcastle",
     "hull",
-    "arsenal",
-    "brighton",
+    "iraola",
     "leeds",
+    "boot",
     "wissa",
     "brentford",
+    "antonio",
+    "premier",
     "manchester",
-    "crystal",
-    "phil",
-    "life",
+    "hull's",
     "forest",
-    "sports",
-    "boot",
-    "fulham",
-    "league",
     "sunderland",
+    "fulham",
+    "cherki",
+    "newcastle",
+    "tzolis",
+    "arsenal",
+    "ipswich",
+    "wirtz",
+    "salah",
+    "liverpool",
+    "life",
+    "transfer",
+    "phil",
+    "opening",
+    "golden",
+    "sports",
+    "pedro",
+    "relief",
+    "brighton",
+    "haaland",
+    "united",
+    "ghanaians",
+    "crystal",
+    "chelsea",
+    "league",
     "coventry",
-    "iraola",
-    "liverpool"
+    "mcnulty's"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -70,7 +70,9 @@
     "44a656893df0",
     "eb6c94972eaf",
     "0818c2669ed5",
-    "d5134ea0c398"
+    "d5134ea0c398",
+    "733eca9e3ba8",
+    "8e3412e5f1ca"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-30",
@@ -351,6 +353,28 @@
       "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
       "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Joao Pedro a central figure - player ratings for Chelsea v Brighton",
+     "sources": 2,
+     "score": 44,
+     "event_id": "733eca9e3ba8",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Manchester United v Ipswich Town: Premier League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "8e3412e5f1ca",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-manchester-united-vs-ipswich-town-premier-league?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -359,38 +383,41 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "week",
-    "hamas",
-    "jenin",
-    "multiple",
-    "burnham",
-    "netanyahu",
-    "palestine",
-    "labour",
-    "colombia",
-    "canada",
-    "american",
     "palestinians",
-    "italy",
-    "news",
-    "west",
-    "ben-gvir",
-    "gaza",
-    "rajab",
-    "germany",
-    "hind",
-    "dutch",
-    "christian",
-    "us-led",
-    "israeli",
     "israel",
-    "former",
-    "bank",
+    "dutch",
+    "ben-gvir",
     "france",
-    "israel's",
-    "global",
+    "multiple",
+    "hamas",
+    "palestinian",
+    "parton",
     "far-right",
-    "palestinian"
+    "labour",
+    "palestine",
+    "netanyahu",
+    "italy",
+    "colombia",
+    "germany",
+    "global",
+    "israel's",
+    "nepal",
+    "christian",
+    "canada",
+    "us-led",
+    "burnham",
+    "gaza",
+    "israeli",
+    "dolly",
+    "former",
+    "week",
+    "bank",
+    "jenin",
+    "american",
+    "rajab",
+    "hind",
+    "news",
+    "west"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -413,7 +440,8 @@
     "4dbfa63e7365",
     "ddc89ece41e7",
     "a7f4b944d680",
-    "80ad369697ca"
+    "80ad369697ca",
+    "5bd816fda1dc"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-30",
@@ -655,6 +683,17 @@
       "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
       "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
+     "sources": 2,
+     "score": 52,
+     "event_id": "5bd816fda1dc",
+     "links": [
+      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
+      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
+     ]
     }
    ]
   },
@@ -663,19 +702,20 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
-    "ontario",
-    "trump",
     "canada",
-    "lake",
+    "trump",
+    "ontario",
+    "weekly",
     "america",
-    "politics",
-    "weekly"
+    "lake",
+    "politics"
    ],
    "event_ids": [
     "fc871ed3ce64",
     "d303cedaf846",
     "69769cf42fdf",
-    "4dcd5aa8edee"
+    "4dcd5aa8edee",
+    "f1acf504161f"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-08-30",
@@ -726,6 +766,18 @@
       "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+     "sources": 3,
+     "score": 59,
+     "event_id": "f1acf504161f",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
+     ]
     }
    ]
   },
@@ -734,23 +786,28 @@
    "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
    "section": "business",
    "entities": [
-    "energy",
-    "nancy",
+    "hubble",
+    "nasa",
     "matter",
-    "launches",
-    "exoplanets",
+    "nancy",
     "unravel",
-    "mysteries",
-    "dark",
-    "grace",
-    "find",
-    "nasa's",
+    "telescope",
+    "energy",
     "roman",
     "space",
-    "telescope"
+    "find",
+    "dark",
+    "nasa's",
+    "exoplanets",
+    "grace",
+    "lift-off",
+    "mysteries",
+    "launches"
    ],
    "event_ids": [
-    "1377348ebb36"
+    "1377348ebb36",
+    "2568853c5333",
+    "eb2a7b4512f2"
    ],
    "first_seen": "2026-08-30",
    "last_seen": "2026-08-30",
@@ -765,6 +822,28 @@
       "https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/",
       "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
       "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+     "sources": 2,
+     "score": 43,
+     "event_id": "2568853c5333",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02727-7",
+      "https://www.france24.com/en/video/20260830-nasa-launches-new-space-telescope"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+     "sources": 2,
+     "score": 41,
+     "event_id": "eb2a7b4512f2",
+     "links": [
+      "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+      "https://phys.org/news/2026-08-nasa-telescope-honors-nancy-grace.html"
      ]
     }
    ]
@@ -793,6 +872,34 @@
       "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus-reports/a-78562769?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/europe/20260830-ferry-carrying-more-than-250-passengers-capsizes-off-northern-cyprus"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "27bddd865523",
+   "title": "Northern Cyprus ferry disaster: at least seven dead as vessel capsizes – latest updates",
+   "section": "world",
+   "entities": [
+    "cyprus",
+    "northern"
+   ],
+   "event_ids": [
+    "27bddd865523"
+   ],
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-08-30",
+   "timeline": [
+    {
+     "date": "2026-08-30",
+     "headline": "Northern Cyprus ferry disaster: at least seven dead as vessel capsizes – latest updates",
+     "sources": 3,
+     "score": 58,
+     "event_id": "27bddd865523",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
+      "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
+      "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus/a-78562769?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -4904,5 +5011,5 @@
    ]
   }
  ],
- "updated": "2026-08-30T12:31:58+00:00"
+ "updated": "2026-08-30T15:22:20+00:00"
 }
