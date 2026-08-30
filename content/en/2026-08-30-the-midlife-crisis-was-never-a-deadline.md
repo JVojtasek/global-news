@@ -1,50 +1,56 @@
 ---
 slug: the-midlife-crisis-was-never-a-deadline
-title: "The Midlife Crisis Was Never a Deadline"
-dek: "The phrase began as a theory about creativity and mortality, became a cultural script, and now sits uneasily beside evidence that some midlife pressures are real but no single crisis is inevitable."
+title: The Midlife Crisis Was Never a Deadline
+dek: The phrase began as a theory about creativity and mortality, became a cultural
+  script, and now sits uneasily beside evidence that some midlife pressures are real
+  but no single crisis is inevitable.
 section: meaning
 type: analysis
 depth: open
 lang: en
-date: 2026-08-30
-status: draft
-confidence: 88
+date: '2026-08-30'
+status: review
+confidence: 89
 load: 0
 topics:
-  - midlife
-  - wellbeing
-  - history of psychology
+- midlife
+- wellbeing
+- history of psychology
 automation_generated: true
 edition_slot: 4
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "conceptual life course crossroads at midday, non-photorealistic, no person"
-qma_path: ""
+event_id: ''
+series: ''
+image_query: conceptual life course crossroads at midday, non-photorealistic, no person
+qma_path: ''
 tickers: []
 sources:
-  - name: "Elliott Jaques — Death and the Mid-Life Crisis"
-    url: "https://pubmed.ncbi.nlm.nih.gov/5866085/"
-    published: "1965-10-01"
-  - name: "Lachman et al. — Midlife as a Pivotal Period in the Life Course"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4286887/"
-    published: "2015-01-01"
-  - name: "Galambos et al. — The U Shape of Happiness Across the Life Course"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7529452/"
-    published: "2020-05-06"
-  - name: "Giuntella et al. — The Midlife Crisis"
-    url: "https://onlinelibrary.wiley.com/doi/10.1111/ecca.12452"
-    published: "2022-11-14"
+- name: Elliott Jaques — Death and the Mid-Life Crisis
+  url: https://pubmed.ncbi.nlm.nih.gov/5866085/
+  published: '1965-10-01'
+- name: Lachman et al. — Midlife as a Pivotal Period in the Life Course
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4286887/
+  published: '2015-01-01'
+- name: Galambos et al. — The U Shape of Happiness Across the Life Course
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7529452/
+  published: '2020-05-06'
+- name: Giuntella et al. — The Midlife Crisis
+  url: https://onlinelibrary.wiley.com/doi/10.1111/ecca.12452
+  published: '2022-11-14'
 quiz:
-  question: "What can research on average midlife distress tell an individual?"
+  question: What can research on average midlife distress tell an individual?
   options:
-    - "That everyone must experience a crisis at roughly the same age"
-    - "That midlife can concentrate pressures, but an average pattern is not a personal timetable or diagnosis"
-    - "That any unhappiness after age 40 is caused by ageing"
+  - That everyone must experience a crisis at roughly the same age
+  - That midlife can concentrate pressures, but an average pattern is not a personal
+    timetable or diagnosis
+  - That any unhappiness after age 40 is caused by ageing
   answer: 1
-  explanation: "Studies disagree about the shape and prevalence of midlife distress, and individual trajectories vary. Population patterns can identify pressure points without making crisis inevitable for any one person."
+  explanation: Studies disagree about the shape and prevalence of midlife distress,
+    and individual trajectories vary. Population patterns can identify pressure points
+    without making crisis inevitable for any one person.
+review_reason: 'citlivé téma: self-harm'
 ---
 
 ## BRIEFLY

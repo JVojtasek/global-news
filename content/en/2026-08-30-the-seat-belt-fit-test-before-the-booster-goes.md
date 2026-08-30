@@ -1,50 +1,59 @@
 ---
 slug: the-seat-belt-fit-test-before-the-booster-goes
-title: "The Seat-Belt Fit Test Before the Booster Goes"
-dek: "A birthday and a height mark are only proxies. The safer question is whether the adult belt fits this child in this vehicle—and whether that fit lasts for the whole ride."
+title: The Seat-Belt Fit Test Before the Booster Goes
+dek: A birthday and a height mark are only proxies. The safer question is whether
+  the adult belt fits this child in this vehicle—and whether that fit lasts for the
+  whole ride.
 section: parenting
 type: analysis
 depth: open
 lang: en
-date: 2026-08-30
-status: draft
-confidence: 91
+date: '2026-08-30'
+status: review
+confidence: 89
 load: 0
 topics:
-  - child passenger safety
-  - booster seats
-  - parenting
+- child passenger safety
+- booster seats
+- parenting
 automation_generated: true
 edition_slot: 3
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "conceptual child car safety seat belt fit illustration, no real child"
-qma_path: ""
+event_id: ''
+series: ''
+image_query: conceptual child car safety seat belt fit illustration, no real child
+qma_path: ''
 tickers: []
 sources:
-  - name: "US National Highway Traffic Safety Administration — Car Seats and Booster Seats"
-    url: "https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats"
-    published: "2026-08-30"
-  - name: "American Academy of Pediatrics — Car Seats: Information for Families"
-    url: "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx"
-    published: "2026-04-16"
-  - name: "Centers for Disease Control and Prevention — Booster Seat Planning Guide"
-    url: "https://stacks.cdc.gov/view/cdc/137296/cdc_137296_DS1.pdf"
-    published: "2021-01-01"
-  - name: "West et al. — Belt fit for children in vehicle seats with and without belt-positioning boosters"
-    url: "https://pubmed.ncbi.nlm.nih.gov/36026460/"
-    published: "2022-08-26"
+- name: US National Highway Traffic Safety Administration — Car Seats and Booster
+    Seats
+  url: https://www.nhtsa.gov/vehicle-safety/car-seats-and-booster-seats
+  published: '2026-08-30'
+- name: 'American Academy of Pediatrics — Car Seats: Information for Families'
+  url: https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Safety-Seats-Information-for-Families.aspx
+  published: '2026-04-16'
+- name: Centers for Disease Control and Prevention — Booster Seat Planning Guide
+  url: https://stacks.cdc.gov/view/cdc/137296/cdc_137296_DS1.pdf
+  published: '2021-01-01'
+- name: West et al. — Belt fit for children in vehicle seats with and without belt-positioning
+    boosters
+  url: https://pubmed.ncbi.nlm.nih.gov/36026460/
+  published: '2022-08-26'
 quiz:
-  question: "What is the best sign that a child is ready to stop using a booster seat?"
+  question: What is the best sign that a child is ready to stop using a booster seat?
   options:
-    - "The child has reached the minimum legal age"
-    - "The adult belt fits correctly in that vehicle seat and the child can maintain the position"
-    - "The child's feet can touch the floor"
+  - The child has reached the minimum legal age
+  - The adult belt fits correctly in that vehicle seat and the child can maintain
+    the position
+  - The child's feet can touch the floor
   answer: 1
-  explanation: "Age and height are useful guides, but safe graduation depends on belt geometry: the lap belt must lie low on the upper thighs or hips, the shoulder belt must cross the chest and shoulder, and the child must remain properly seated for the journey."
+  explanation: 'Age and height are useful guides, but safe graduation depends on belt
+    geometry: the lap belt must lie low on the upper thighs or hips, the shoulder
+    belt must cross the chest and shoulder, and the child must remain properly seated
+    for the journey.'
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY
