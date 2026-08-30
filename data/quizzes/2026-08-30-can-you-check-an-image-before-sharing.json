@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "diagnostic": false,
+  "slug": "can-you-check-an-image-before-sharing",
+  "date": "2026-08-30",
+  "category": "media-literacy",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "copy": {
+    "title": {
+      "en": "Can you check an image before sharing?",
+      "cs": "Umíte ověřit obrázek před sdílením?"
+    },
+    "dek": {
+      "en": "Eight realistic situations reveal where your image-verification routine is strong and which small habit would help most.",
+      "cs": "Osm realistických situací ukáže, kde je váš postup ověřování obrázků silný a který drobný návyk by nejvíc pomohl."
+    },
+    "intro": {
+      "en": "A genuine photograph can support a false claim when its date, place or caption changes. Choose what you would most likely do—not the answer that sounds most expert. This original educational self-check looks at four practical habits: pausing, tracing provenance, checking context and seeking corroboration.",
+      "cs": "Pravá fotografie může podporovat nepravdivé tvrzení, když se změní datum, místo nebo popisek. Vyberte, co byste nejspíš skutečně udělali, ne odpověď, která zní nejodborněji. Tento původní vzdělávací sebetest sleduje čtyři praktické návyky: zastavení, dohledání původu, kontrolu kontextu a nezávislé potvrzení."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check, not a diagnostic or a licensed psychological instrument. It cannot certify that you will spot every manipulated or miscaptioned image. Tools also have limits: missing Content Credentials do not prove fakery, and present credentials describe provenance rather than whether a caption is true.",
+      "cs": "Jde o původní vzdělávací sebetest, nikoli diagnózu ani licencovaný psychologický nástroj. Neumí zaručit, že odhalíte každý upravený nebo chybně popsaný obrázek. Také nástroje mají limity: chybějící Content Credentials nedokazují podvrh a přítomné údaje popisují původ, nikoli pravdivost popisku."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "pause",
+      "label": {"en": "Pause before reaction", "cs": "Pauza před reakcí"},
+      "why": {
+        "en": "Strong emotion and urgency can turn sharing into a reflex before the claim has been identified.",
+        "cs": "Silná emoce a naléhavost mohou změnit sdílení v reflex dřív, než vůbec pojmenujeme tvrzení."
+      },
+      "action": {
+        "en": "Before sharing, state in one sentence what the image is claimed to show and what evidence would confirm it.",
+        "cs": "Před sdílením jednou větou pojmenujte, co má obrázek údajně ukazovat a jaký důkaz by to potvrdil."
+      }
+    },
+    {
+      "id": "provenance",
+      "label": {"en": "Trace the source", "cs": "Dohledání zdroje"},
+      "why": {
+        "en": "The earliest available post, original publisher and editing history often reveal more than visual guesswork.",
+        "cs": "Nejstarší dostupné zveřejnění, původní vydavatel a historie úprav často řeknou víc než odhad podle vzhledu."
+      },
+      "action": {
+        "en": "Use reverse-image search, follow credit links and inspect available provenance information without treating any one tool as a verdict.",
+        "cs": "Použijte reverzní vyhledávání obrázků, sledujte autorské odkazy a dostupné údaje o původu, ale žádný nástroj nepovažujte za konečný verdikt."
+      }
+    },
+    {
+      "id": "context",
+      "label": {"en": "Check time and place", "cs": "Kontrola času a místa"},
+      "why": {
+        "en": "Many misleading images are authentic photographs recycled from another year, location or event.",
+        "cs": "Mnoho zavádějících obrázků jsou pravé fotografie znovu použité z jiného roku, místa nebo události."
+      },
+      "action": {
+        "en": "Compare dates, landmarks, weather, signs and the full caption with reliable records of the claimed event.",
+        "cs": "Porovnejte data, orientační body, počasí, nápisy a celý popisek se spolehlivými záznamy o tvrzené události."
+      }
+    },
+    {
+      "id": "corroboration",
+      "label": {"en": "Seek independent confirmation", "cs": "Nezávislé potvrzení"},
+      "why": {
+        "en": "A reposting chain can look like several sources while all of them depend on one unverified upload.",
+        "cs": "Řetězec sdílení může vypadat jako několik zdrojů, i když všechny závisejí na jediném neověřeném nahrání."
+      },
+      "action": {
+        "en": "Look laterally for reporting, official records or other images from genuinely independent observers.",
+        "cs": "Hledejte napříč webem zpravodajství, oficiální záznamy nebo další obrázky od skutečně nezávislých pozorovatelů."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "dimension": "pause",
+      "text": {
+        "en": "A shocking image appears with the words “Share before they delete this.” What do you do first?",
+        "cs": "Objeví se šokující obrázek s textem „Sdílejte, než to smažou.“ Co uděláte nejdřív?"
+      },
+      "options": [
+        {"text": {"en": "Share it privately so at least someone has a copy", "cs": "Soukromě ho přepošlu, aby měl alespoň někdo kopii"}, "score": 0},
+        {"text": {"en": "Read the comments to see whether people believe it", "cs": "Přečtu komentáře, zda tomu lidé věří"}, "score": 1},
+        {"text": {"en": "Pause and identify the exact claim, source and date before reacting", "cs": "Zastavím se a před reakcí určím přesné tvrzení, zdroj a datum"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q2",
+      "dimension": "pause",
+      "text": {
+        "en": "A photograph strongly confirms what you already suspected about a public figure. Which response is closest to yours?",
+        "cs": "Fotografie silně potvrzuje, co jste si už mysleli o veřejně známé osobě. Která reakce je vám nejbližší?"
+      },
+      "options": [
+        {"text": {"en": "I treat agreement with my prior view as a reason to slow down", "cs": "Shodu se svým předchozím názorem beru jako důvod zpomalit"}, "score": 3},
+        {"text": {"en": "I check only whether the account usually posts things I like", "cs": "Ověřím jen, zda účet obvykle zveřejňuje věci, které se mi líbí"}, "score": 1},
+        {"text": {"en": "I assume the image is probably right because it fits a known pattern", "cs": "Předpokládám, že obrázek je asi pravý, protože zapadá do známého vzorce"}, "score": 0}
+      ]
+    },
+    {
+      "id": "q3",
+      "dimension": "provenance",
+      "text": {
+        "en": "A viral image has no photographer credit. What is your most useful next step?",
+        "cs": "Virální obrázek nemá uvedeného fotografa. Jaký je nejužitečnější další krok?"
+      },
+      "options": [
+        {"text": {"en": "Run a reverse-image search and follow results toward the earliest credible publication", "cs": "Spustím reverzní vyhledávání a sleduji výsledky k nejstaršímu důvěryhodnému zveřejnění"}, "score": 3},
+        {"text": {"en": "Zoom in until editing becomes obvious", "cs": "Přibližuji obrázek, dokud nebude úprava zjevná"}, "score": 1},
+        {"text": {"en": "Trust the largest account that reposted it", "cs": "Věřím největšímu účtu, který obrázek sdílel"}, "score": 0}
+      ]
+    },
+    {
+      "id": "q4",
+      "dimension": "provenance",
+      "text": {
+        "en": "An image has valid Content Credentials naming a reputable publisher. What can you safely conclude?",
+        "cs": "Obrázek má platné Content Credentials se jménem důvěryhodného vydavatele. Co lze bezpečně vyvodit?"
+      },
+      "options": [
+        {"text": {"en": "Every caption attached to the image is true", "cs": "Každý popisek připojený k obrázku je pravdivý"}, "score": 0},
+        {"text": {"en": "The recorded provenance can be checked, but the present claim still needs context", "cs": "Zaznamenaný původ lze ověřit, ale současné tvrzení stále potřebuje kontext"}, "score": 3},
+        {"text": {"en": "The picture cannot have been cropped or edited", "cs": "Obrázek nemohl být oříznut ani upraven"}, "score": 1}
+      ]
+    },
+    {
+      "id": "q5",
+      "dimension": "context",
+      "text": {
+        "en": "A post says a photograph shows today's flood in your city. Reverse search finds the same picture in a report from three years ago. What now?",
+        "cs": "Příspěvek tvrdí, že fotografie zachycuje dnešní povodeň ve vašem městě. Reverzní hledání najde stejný snímek ve zprávě před třemi lety. Co dál?"
+      },
+      "options": [
+        {"text": {"en": "Treat the current caption as unsupported and compare the older source's place and date", "cs": "Současný popisek považuji za nepodložený a porovnám místo a datum staršího zdroje"}, "score": 3},
+        {"text": {"en": "Assume both floods simply looked identical", "cs": "Předpokládám, že obě povodně prostě vypadaly stejně"}, "score": 0},
+        {"text": {"en": "Share it with a note that the date might be wrong", "cs": "Sdílím ho s poznámkou, že datum možná nesedí"}, "score": 1}
+      ]
+    },
+    {
+      "id": "q6",
+      "dimension": "context",
+      "text": {
+        "en": "A genuine image shows a crowded street, but the crop excludes the end of the queue. Which check adds the most context?",
+        "cs": "Pravá fotografie ukazuje přeplněnou ulici, ale ořez skrývá konec fronty. Která kontrola nejlépe doplní kontext?"
+      },
+      "options": [
+        {"text": {"en": "Find the uncropped frame or sequence and read the original caption", "cs": "Najdu neoříznutý snímek nebo celou sérii a přečtu původní popisek"}, "score": 3},
+        {"text": {"en": "Count only the people still visible", "cs": "Spočítám pouze stále viditelné lidi"}, "score": 1},
+        {"text": {"en": "Judge the photographer's motive from the crop", "cs": "Z ořezu posoudím motiv fotografa"}, "score": 0}
+      ]
+    },
+    {
+      "id": "q7",
+      "dimension": "corroboration",
+      "text": {
+        "en": "Six accounts post the same image and wording. How many independent confirmations is that?",
+        "cs": "Šest účtů zveřejní stejný obrázek a stejný text. Kolik je to nezávislých potvrzení?"
+      },
+      "options": [
+        {"text": {"en": "Six, because the accounts are different", "cs": "Šest, protože jde o různé účty"}, "score": 0},
+        {"text": {"en": "At least two if some accounts are verified", "cs": "Alespoň dvě, pokud jsou některé účty ověřené"}, "score": 1},
+        {"text": {"en": "Possibly only one; I need to trace whether they share a common source", "cs": "Možná jen jedno; musím zjistit, zda všechny čerpají ze stejného zdroje"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q8",
+      "dimension": "corroboration",
+      "text": {
+        "en": "You cannot find the claimed event in major news coverage. What is the strongest response?",
+        "cs": "Tvrzenou událost nenajdete ve velkých médiích. Jaká reakce je nejsilnější?"
+      },
+      "options": [
+        {"text": {"en": "Declare it false because major outlets missed it", "cs": "Prohlásím ji za nepravdivou, protože ji velká média nemají"}, "score": 1},
+        {"text": {"en": "Keep the claim unverified and check relevant local, official and independent sources", "cs": "Tvrzení ponechám jako neověřené a zkontroluji relevantní místní, oficiální a nezávislé zdroje"}, "score": 3},
+        {"text": {"en": "Assume a cover-up explains the silence", "cs": "Předpokládám, že mlčení vysvětluje utajování"}, "score": 0}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {"en": "Reaction is outrunning verification", "cs": "Reakce předbíhá ověřování"},
+      "summary": {
+        "en": "Your current choices favour speed, familiarity or popularity over tracing the image. That does not measure intelligence and it cannot predict every real decision. Start with one repeatable step: before sharing, name the claim and run one source or reverse-image check.",
+        "cs": "Vaše současné volby upřednostňují rychlost, známost nebo popularitu před dohledáním obrázku. Neměří to inteligenci ani to nepředpovídá každé skutečné rozhodnutí. Začněte jedním opakovatelným krokem: před sdílením pojmenujte tvrzení a proveďte jednu kontrolu zdroje nebo reverzní hledání."
+      }
+    },
+    {
+      "min": 8,
+      "max": 15,
+      "title": {"en": "You have pieces of a useful routine", "cs": "Máte části užitečného postupu"},
+      "summary": {
+        "en": "You use some sound checks but may stop after the first reassuring clue. The result is limited to these eight scenarios. Choose your lowest-scoring dimension and attach its action to your next image check so the routine becomes consistent.",
+        "cs": "Některé dobré kontroly používáte, ale někdy skončíte u prvního uklidňujícího vodítka. Výsledek platí jen pro těchto osm situací. Vyberte svou nejslabší dimenzi a její doporučený krok přidejte k příštímu ověřování obrázku."
+      }
+    },
+    {
+      "min": 16,
+      "max": 21,
+      "title": {"en": "Your verification routine is becoming reliable", "cs": "Váš ověřovací postup začíná být spolehlivý"},
+      "summary": {
+        "en": "You usually pause, seek origin and compare context rather than trusting appearance alone. No short self-check can certify performance under pressure. Strengthen the habit by recording the source, date and one independent confirmation whenever the stakes are high.",
+        "cs": "Obvykle se zastavíte, hledáte původ a porovnáváte kontext místo důvěry ve vzhled. Krátký sebetest nemůže zaručit výkon pod tlakem. Posilte návyk tím, že si u důležitých případů zapíšete zdroj, datum a jedno nezávislé potvrzení."
+      }
+    },
+    {
+      "min": 22,
+      "max": 24,
+      "title": {"en": "You treat images as claims, not verdicts", "cs": "Berete obrázky jako tvrzení, ne jako verdikty"},
+      "summary": {
+        "en": "Across these scenarios, you combine emotional pause, provenance, context and corroboration. That is a strong current habit, not immunity to deception. Keep one deliberate safeguard: when an image perfectly confirms your beliefs, require the same checks you would demand from an opposing claim.",
+        "cs": "V těchto situacích spojujete emoční odstup, původ, kontext a potvrzení. Je to silný současný návyk, ne imunita vůči klamu. Zachovejte jednu vědomou pojistku: když obrázek dokonale potvrzuje váš názor, vyžadujte stejné kontroly jako u opačného tvrzení."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "UNESCO — Journalism, Fake News & Disinformation handbook",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000265552.locale=en",
+      "published": "2018-01-01",
+      "type": "international-organisation handbook"
+    },
+    {
+      "name": "C2PA — Content Credentials Explained",
+      "url": "https://c2pa.org/wp-content/uploads/sites/33/2025/10/content_credentials_wp_0925.pdf",
+      "published": "2025-09-01",
+      "type": "open-standard technical explainer"
+    },
+    {
+      "name": "Cornell University Library — Getting your facts straight",
+      "url": "https://www.library.cornell.edu/about/news/getting-your-facts-straight-tips-on-media-literacy/",
+      "published": "2024-10-03",
+      "type": "university media-literacy guidance"
+    },
+    {
+      "name": "UNESCO — Pause, verify, share training",
+      "url": "https://www.unesco.org/en/articles/ai-meets-governance-bhutan-civil-servants-trained-ai-and-media-information-literacy",
+      "published": "2025-08-20",
+      "type": "international-organisation training report"
+    }
+  ]
+}
