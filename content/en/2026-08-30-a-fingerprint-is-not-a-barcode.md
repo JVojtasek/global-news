@@ -1,14 +1,16 @@
 ---
 slug: a-fingerprint-is-not-a-barcode
 title: A Fingerprint Is Not a Barcode
-dek: Fingerprints became useful when clerks learned to classify them and computers learned to search them, but a latent print still needs interpretation rather than faith.
+dek: Fingerprints became useful when clerks learned to classify them and computers
+  learned to search them, but a latent print still needs interpretation rather than
+  faith.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-08-30'
-status: draft
-confidence: 91
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -35,13 +37,15 @@ sources:
   url: https://archive.org/details/fingerprints00galt
   published: '1892-01-01'
 quiz:
-  question: What does a computer fingerprint search normally produce for a latent print?
+  question: What does a computer fingerprint search normally produce for a latent
+    print?
   options:
   - A legally final identification
   - A ranked set of candidates for an examiner to compare
   - A measurement of when the print was left
   answer: 1
-  explanation: Automated systems make large collections searchable; they do not replace comparison, document the print's age or remove uncertainty from the conclusion.
+  explanation: Automated systems make large collections searchable; they do not replace
+    comparison, document the print's age or remove uncertainty from the conclusion.
 ---
 
 ## BRIEFLY

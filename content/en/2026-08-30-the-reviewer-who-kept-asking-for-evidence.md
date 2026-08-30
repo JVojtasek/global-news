@@ -1,14 +1,15 @@
 ---
 slug: the-reviewer-who-kept-asking-for-evidence
 title: The Reviewer Who Kept Asking for Evidence
-dek: Frances Kelsey did not stop thalidomide with a flash of intuition. She used the slow, ordinary power of an unanswered safety question.
+dek: Frances Kelsey did not stop thalidomide with a flash of intuition. She used the
+  slow, ordinary power of an unanswered safety question.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-08-30'
-status: draft
-confidence: 93
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -41,7 +42,9 @@ quiz:
   - The application had not adequately answered safety concerns
   - Every medicine used during pregnancy was prohibited
   answer: 1
-  explanation: Kelsey repeatedly asked the sponsor for adequate safety evidence; her decision was a review of the submitted case, not a blanket rule based on origin or pregnancy.
+  explanation: Kelsey repeatedly asked the sponsor for adequate safety evidence; her
+    decision was a review of the submitted case, not a blanket rule based on origin
+    or pregnancy.
 ---
 
 ## BRIEFLY
