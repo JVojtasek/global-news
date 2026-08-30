@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-29
+# ZADÁNÍ PRO REDAKCI — 2026-08-30
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -124,12 +124,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### why relationships fail
+- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 

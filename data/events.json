@@ -398,73 +398,6 @@
   ]
  },
  {
-  "id": "b392bbbec1f4",
-  "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-  "section": "tech",
-  "score": 73,
-  "sources_count": 6,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T22:03:45+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-    "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
-    "published_at": "2026-08-26T22:03:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-    "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
-    "published_at": "2026-08-26T22:03:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "source": "MIT TR — AI",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-    "published_at": "2026-08-26T19:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "source": "MIT Tech Review",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-    "published_at": "2026-08-26T19:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-    "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-    "source": "CNBC Top",
-    "summary": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
-    "published_at": "2026-08-26T21:17:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "source": "TechCrunch",
-    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-    "published_at": "2026-08-26T19:05:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
   "id": "64969c4b1451",
   "headline": "UEFA to bring criminal complaint against Infantino",
   "section": "world",
@@ -720,64 +653,6 @@
     "published_at": "2026-08-28T23:42:26+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T00:51:56+00:00"
-   }
-  ]
- },
- {
-  "id": "b34b50a2bf4d",
-  "headline": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
-  "section": "world",
-  "score": 69,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T21:25:30+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
-    "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "They are among hundreds of people still unaccounted for, with authorities for both countries saying they are closely monitoring the situation.",
-    "published_at": "2026-08-26T21:25:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "News live: dozens of Australians believed to be among hundreds missing in Nepal flash floods",
-    "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "Powerful floods in Himalayan border area sweep away houses, roads and bridges. Follow today’s news live Get our breaking news email , free app or daily news podcast The prime minister, Anthony Albanese , says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country. A local tourism official said they believed 34 Australians were",
-    "published_at": "2026-08-26T21:51:33+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Dozens of Australians believed to be among hundreds of people missing in Nepal flash floods",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
-    "source": "The Guardian World",
-    "summary": "Powerful floods in Himalayan border area sweep away houses, roads and bridges Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Dozens of Australian tourists are reportedly missing in the deadly flash floods that swept through the Nepal-Tibet border, as the Australian government says it is urgently working to confirm their welfare. ",
-    "published_at": "2026-08-26T21:16:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Video: Survivors recount moment flash floods hit Nepal",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Survivors of the flash flooding in Nepal have been describing the moment their homes swept away in the landslide.",
-    "published_at": "2026-08-26T21:15:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Nepal: Hundreds reported missing after deadly flash floods",
-    "url": "https://www.france24.com/en/video/20260826-nepal-hundreds-reported-missing-after-deadly-flash-floods",
-    "source": "France 24",
-    "summary": "Entire roads and villages have been engulfed in mud after flash floods struck a border crossing between Tibet and Nepal. Hundreds are reported missing, including over 300 tourists. Flood alerts have also been issued in the Indian states of Bihar and Uttar Pradesh.",
-    "published_at": "2026-08-26T14:30:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
    }
   ]
  },
@@ -1348,55 +1223,6 @@
   ]
  },
  {
-  "id": "e138211becc3",
-  "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-  "section": "tech",
-  "score": 59,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T19:19:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "source": "Ars Technica",
-    "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-    "published_at": "2026-08-26T19:19:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "source": "Ars Technica AI",
-    "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-    "published_at": "2026-08-26T19:19:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-    "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-    "source": "TechCrunch",
-    "summary": "Consumer AI apps need to stop making users learn their product architecture.",
-    "published_at": "2026-08-26T19:37:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Google Gemini is getting a dedicated student hub",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-    "source": "The Verge AI",
-    "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates […]",
-    "published_at": "2026-08-19T19:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
   "id": "117b4062144e",
   "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
   "section": "science",
@@ -1946,73 +1772,6 @@
   ]
  },
  {
-  "id": "e618b3e50f22",
-  "headline": "How to follow Thursday's Champions League draw - and who is in each pot?",
-  "section": "sport",
-  "score": 53,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T22:05:08+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "How to follow Thursday's Champions League draw - and who is in each pot?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3v0q3r554xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "BBC Sport's Ask Me Anything team explains when the league phase draw for the 2026-27 Champions League is, as well as looking at who is in each pot",
-    "published_at": "2026-08-26T22:05:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Viking reach Champions League for first time with victory over Dinamo Zagreb",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cdx0rd2z8pjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Viking shock Dinamo Zagreb with a 3-1 win to book their place in the Champions League.",
-    "published_at": "2026-08-26T21:34:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Fenerbahce back in the Champions League after 18 years",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cvgywl4k0e1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Goals from Vedat Muriqi and Archie Brown prove to be enough for Fenerbahce to get past Lyon and in to the league stage of the Champions League.",
-    "published_at": "2026-08-26T21:26:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Stunning comeback sees Sabah reach Champions League for the first time",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c9v9pp9zmkko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Azerbaijan side Sabah fight back from 4-2 down on aggregate to beat Hapoel Be'er Sheva of Israel 6-4 on aggregate to secure their place in the main draw of the Champions League for the first time.",
-    "published_at": "2026-08-26T21:01:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Bodo/Glimt thrash NEC to ease into Champions League main draw",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ce9ejgj70p7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Bodo/Glimt reach the main draw of the Champions League for a second successive season after beating Dutch side NEC Nijmegen 3-0 in the second leg of their play-off, qualifying 6-1 on aggregate.",
-    "published_at": "2026-08-26T21:00:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Celtic crash out of Champions League after humiliating defeat to LASK",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c07ln9jj2n7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Despite leading 4-0 on aggregate, Celtic are humiliated by LASK as they lose the second leg of their Champions League play-off 5-1 and are knocked out 5-4 on aggregate in Austria to miss out on the main draw of the Champions League for a second successive season.",
-    "published_at": "2026-08-26T21:00:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
   "id": "4f68e69f3e90",
   "headline": "US Federal Reserve’s Kevin Warsh gears up for key Jackson Hole conference as inflation fears mount – business live",
   "section": "business",
@@ -2351,46 +2110,6 @@
     "published_at": "2026-08-29T02:32:51+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T03:26:45+00:00"
-   }
-  ]
- },
- {
-  "id": "b4a5a5127d14",
-  "headline": "Nvidia revenue doubles on continued AI demand",
-  "section": "business",
-  "score": 50,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T21:49:26+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nvidia revenue doubles on continued AI demand",
-    "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
-    "published_at": "2026-08-26T21:49:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Nvidia revenue doubles on continued AI demand",
-    "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
-    "published_at": "2026-08-26T21:49:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Nvidia quarterly revenue more than doubles, guidance beats; stock down after hours",
-    "url": "https://www.investing.com/news/earnings/nvidia-delivers-quarterly-top-and-bottomline-beat-shares-slip-after-hours-4877807",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-26T20:40:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
    }
   ]
  },
@@ -2861,6 +2580,37 @@
   ]
  },
  {
+  "id": "e0444b2aedb4",
+  "headline": "Itauma punches himself out against Hrgovic in world-title fight",
+  "section": "sport",
+  "score": 48,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T23:16:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Itauma punches himself out against Hrgovic in world-title fight",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.",
+    "published_at": "2026-08-29T23:16:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   },
+   {
+    "title": "Filip Hrgovic stuns Britain’s Moses Itauma to claim IBF world heavyweight title",
+    "url": "https://www.theguardian.com/sport/2026/aug/30/filip-hrgovic-stuns-moses-itauma-ibf-world-boxing-heavyweight-title",
+    "source": "Guardian Sport",
+    "summary": "21-year-old Itauma stopped after ninth-round rally 34-year-old Hrgovic is first Croat to win such a title Moses Itauma’s hopes of becoming the second-youngest world heavyweight champion in history lay in ruins after the extraordinarily tough and resilient Filip Hrgovic stopped him in the ninth round of their IBF title fight. Yet, until the latter stages of round eight, the sheer speed and dextrous",
+    "published_at": "2026-08-29T23:40:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
   "id": "098b18ef1b40",
   "headline": "Current shingles vaccine linked to lower risk of coronary heart disease, stroke and heart failure",
   "section": "health",
@@ -3030,6 +2780,37 @@
     "published_at": "2026-08-29T09:26:53+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T12:30:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4dcd5aa8edee",
+  "headline": "Canada installs large Lake Ontario sign in latest jab at US",
+  "section": "world",
+  "score": 47,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-30T00:17:25+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Canada installs large Lake Ontario sign in latest jab at US",
+    "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+    "published_at": "2026-08-30T00:17:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   },
+   {
+    "title": "Ontario’s Doug Ford prods Trump with sign rejecting ‘Lake America’ name",
+    "url": "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The 'Lake Ontario' sign comes in response to the US president's efforts to rename the body of water 'Lake America'.",
+    "published_at": "2026-08-29T22:50:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
    }
   ]
  },
@@ -3318,33 +3099,33 @@
   ]
  },
  {
-  "id": "2b23ff81189e",
-  "headline": "Vrancken's side come of age as Hearts bid goodnight Vienna",
-  "section": "sport",
-  "score": 45,
+  "id": "80ad369697ca",
+  "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+  "section": "world",
+  "score": 46,
   "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T20:54:28+00:00",
+  "depth_signal": 2,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T21:55:08+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Vrancken's side come of age as Hearts bid goodnight Vienna",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c7v468zj6r5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "After some early season setbacks, \"proud\" Wouter Vrancken believes Hearts are getting their rewards by securing Conference League progress.",
-    "published_at": "2026-08-26T20:54:28+00:00",
+    "title": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+    "url": "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+    "source": "The Guardian World",
+    "summary": "Matt Bradley and crew assaulted while interviewing woman who said settlers had driven family out of home A Palestinian woman and an NBC News team are reported to have been attacked and injured by masked Israeli settlers in the Israeli-occupied West Bank on Saturday, amid worsening confrontations in the area. Benjamin Netanyahu said he condemned the violence committed “by a handful of rioters”. Con",
+    "published_at": "2026-08-29T21:55:08+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
+    "seen_at": "2026-08-30T01:02:57+00:00"
    },
    {
-    "title": "Ten-man Hearts stun Rapid Vienna in shootout to reach Conference League",
-    "url": "https://www.theguardian.com/football/2026/aug/26/conference-league-rapid-vienna-hearts-qualifying-playoff-match-report",
-    "source": "Guardian Sport",
-    "summary": "Playoff second leg: Rapid 2-2 Hearts (aet, 3-4 on pens) Kara 34, Cvetkovic 119; Kabore 79, Miller 100 Beau Reus made two penalty saves as heroic Hearts overcame Tomas Magnusson’s red card to pull off a stunning shootout victory away to Rapid Vienna, and book themselves a return to the Conference League’s main phase. Following a 2-2 draw in the first leg at Tynecastle, the Jambos’ European journey ",
-    "published_at": "2026-08-26T20:16:04+00:00",
+    "title": "Israeli settlers attack international news team in occupied West Bank",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+    "published_at": "2026-08-29T23:48:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
+    "seen_at": "2026-08-30T01:02:57+00:00"
    }
   ]
  },
@@ -3553,68 +3334,6 @@
     "published_at": "2026-08-29T18:14:18+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T18:26:27+00:00"
-   }
-  ]
- },
- {
-  "id": "3bd38b72bba2",
-  "headline": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-  "section": "business",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T21:44:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-    "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
-    "source": "CNBC Top",
-    "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
-    "published_at": "2026-08-26T21:44:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse’ concerns",
-    "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-    "source": "CNBC Top",
-    "summary": "\"We're delivering a dynamic interface that thinks, reasons, and acts,\" Salesforce CEO Marc Benioff said in a statement.",
-    "published_at": "2026-08-26T20:50:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Why is Salesforce stock surging today?",
-    "url": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-surging-today-93CH-4877920",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-08-26T20:40:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
-  "id": "07b1b88d4309",
-  "headline": "For the First Time, a Selection of Islamic Masterpieces From the Louvre Is Coming to the United States. See the Treasures Soon to Be Displayed at the Smithsonian's National Museum of Asian Art",
-  "section": "culture",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T19:00:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "For the First Time, a Selection of Islamic Masterpieces From the Louvre Is Coming to the United States. See the Treasures Soon to Be Displayed at the Smithsonian's National Museum of Asian Art",
-    "url": "https://www.smithsonianmag.com/smart-news/for-the-first-time-a-selection-of-islamic-masterpieces-from-the-louvre-is-coming-to-the-united-states-see-the-treasures-soon-to-be-displayed-at-the-smithsonians-national-museum-of-asian-art-180989402/",
-    "source": "Smithsonian Mag",
-    "summary": "Twenty-six works spanning many centuries and regions will form the September exhibition titled \"From the Louvre: Masterpieces of Islamic Art\"",
-    "published_at": "2026-08-26T19:00:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
    }
   ]
  },
@@ -3938,37 +3657,6 @@
     "published_at": "2026-08-29T20:51:56+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T21:21:30+00:00"
-   }
-  ]
- },
- {
-  "id": "380ee43401ea",
-  "headline": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
-  "section": "world",
-  "score": 43,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T19:19:46+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
-    "url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
-    "published_at": "2026-08-26T19:19:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
-    "url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
-    "published_at": "2026-08-26T19:19:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
    }
   ]
  },
@@ -5469,59 +5157,6 @@
   ]
  },
  {
-  "id": "d3ee67e427bb",
-  "headline": "Turn Your Eyes to the Night Skies This Week to See a Near-Total Lunar Eclipse. It'll Temporarily Turn the Moon Red",
-  "section": "culture",
-  "score": 39,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T18:57:29+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Turn Your Eyes to the Night Skies This Week to See a Near-Total Lunar Eclipse. It'll Temporarily Turn the Moon Red",
-    "url": "https://www.smithsonianmag.com/smart-news/turn-your-eyes-to-the-night-skies-this-week-to-see-a-near-total-lunar-eclipse-itll-temporarily-turn-the-moon-red-180989404/",
-    "source": "Smithsonian Mag",
-    "summary": "During the peak, 96 percent of the moon will be within the darkest part of our planet's shadow. The orb will take on an eerie glow because of how sunlight gets filtered through Earth's atmosphere",
-    "published_at": "2026-08-26T18:57:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
-  "id": "3c7879b6c2d3",
-  "headline": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
-  "section": "sport",
-  "score": 39,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T21:39:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
-    "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe",
-    "source": "Guardian Sport",
-    "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach. Mbappé put Madrid ahead in the 40th minute before Luka Sucic levelled four minutes later, but the ⁠France forward restored the ⁠hosts’ lead on ​the hour. Vinícius Júnior added a third in the 68th minute before Mbappé complet",
-    "published_at": "2026-08-26T21:39:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Debutant Malard breaks Chelsea duck after Real Sociedad threaten WCL shock",
-    "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-real-sociedad-womens-champions-league-match-report",
-    "source": "Guardian Sport",
-    "summary": "Third qualifying round, first leg: Chelsea 5-2 Real Sociedad Girma 29, Buurman 54, Malard 67 88, James 74; Marín 7, Marcos 59 Chelsea’s sluggish start in the first leg of their Champions League qualifier against Real Sociedad will have made far from satisfying viewing for their suspended head coach, Sonia Bompastor, but two goals from the new signing Melvine Malard contributed to a five-goal haul ",
-    "published_at": "2026-08-26T19:50:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
   "id": "e7ad091fd4b3",
   "headline": "Man Makes 200+ Trips to Remote Villages to Connect Elders with Their Children Working Abroad",
   "section": "parenting",
@@ -5668,68 +5303,6 @@
     "published_at": "2026-08-28T09:32:14+00:00",
     "source_countries": [],
     "seen_at": "2026-08-28T16:24:12+00:00"
-   }
-  ]
- },
- {
-  "id": "9dcd81f39013",
-  "headline": "‘Work is good for you’: how UK scheme could help tackle youth mental health crisis",
-  "section": "business",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T21:30:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘Work is good for you’: how UK scheme could help tackle youth mental health crisis",
-    "url": "https://www.theguardian.com/society/2026/aug/26/work-good-for-you-jobs-guarantee-youth-mental-health-crisis-pat-mcfadden",
-    "source": "The Guardian World",
-    "summary": "Paid employment can boost confidence and wellbeing, says Pat McFadden as jobs guarantee scheme gets under way Work must be “part of the answer” to the mental health crisis among young people, the work and pensions secretary, Pat McFadden, has said as he met some of the first beneficiaries of Labour’s youth jobs guarantee scheme . He was speaking on a visit to Boots’s headquarters in Nottingham on ",
-    "published_at": "2026-08-26T21:30:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "‘Work is good for you’: how UK scheme could help tackle youth mental health crisis",
-    "url": "https://www.theguardian.com/society/2026/aug/26/work-good-for-you-jobs-guarantee-youth-mental-health-crisis-pat-mcfadden",
-    "source": "Guardian Business",
-    "summary": "Paid employment can boost confidence and wellbeing, says Pat McFadden as jobs guarantee scheme gets under way Work must be “part of the answer” to the mental health crisis among young people, the work and pensions secretary, Pat McFadden, has said as he met some of the first beneficiaries of Labour’s youth jobs guarantee scheme . He was speaking on a visit to Boots’s headquarters in Nottingham on ",
-    "published_at": "2026-08-26T21:30:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
-  "id": "fbbe9e7cb9c5",
-  "headline": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-  "section": "ai",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T21:25:27+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "source": "Ars Technica",
-    "summary": "Reuters report shows Meta's challenges replacing people with AI agents.",
-    "published_at": "2026-08-26T21:25:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "source": "Ars Technica AI",
-    "summary": "Reuters report shows Meta's challenges replacing people with AI agents.",
-    "published_at": "2026-08-26T21:25:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
    }
   ]
  },
@@ -6411,37 +5984,6 @@
   ]
  },
  {
-  "id": "4664e13c040c",
-  "headline": "Plug-in balcony solar panels to go on sale in UK for first time",
-  "section": "world",
-  "score": 37,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-26T21:30:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Plug-in balcony solar panels to go on sale in UK for first time",
-    "url": "https://www.theguardian.com/environment/2026/aug/26/plug-in-balcony-solar-panels-to-go-on-sale-in-uk-for-first-time",
-    "source": "The Guardian World",
-    "summary": "DIY system will be stocked by big retailers, starting with Argos, enabling more homes to lower bills by generating own electricity Plug-in solar panels will go on sale in the UK for the first time from Thursday, allowing households unable to use rooftop panels to also generate their own cheap electricity. Households across the country will be able to join the millions across mainland Europe who ge",
-    "published_at": "2026-08-26T21:30:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   },
-   {
-    "title": "Plug-in balcony solar panels to go on sale in UK for first time",
-    "url": "https://www.theguardian.com/environment/2026/aug/26/plug-in-balcony-solar-panels-to-go-on-sale-in-uk-for-first-time",
-    "source": "Guardian Business",
-    "summary": "DIY system will be stocked by big retailers, starting with Argos, enabling more homes to lower bills by generating own electricity Plug-in solar panels will go on sale in the UK for the first time from Thursday, allowing households unable to use rooftop panels to also generate their own cheap electricity. Households across the country will be able to join the millions across mainland Europe who ge",
-    "published_at": "2026-08-26T21:30:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
   "id": "c9d4063283c0",
   "headline": "City firms race to prepare for FCA crackdown on bullying and harassment",
   "section": "world",
@@ -7003,50 +6545,6 @@
     "published_at": "2026-08-29T18:19:53+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T18:26:27+00:00"
-   }
-  ]
- },
- {
-  "id": "e5b664a37aa3",
-  "headline": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-  "section": "ai",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-08-10T16:25:36+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "source": "Hugging Face",
-    "summary": "",
-    "published_at": "2026-08-10T16:25:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
-   }
-  ]
- },
- {
-  "id": "3da70ef6e63c",
-  "headline": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-  "section": "safety",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-26T22:15:45+00:00",
-  "event_time": "2026-06-23T16:12:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-    "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-    "source": "Krebs on Security",
-    "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-wee",
-    "published_at": "2026-06-23T16:12:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-26T22:15:42+00:00"
    }
   ]
  },
@@ -7682,6 +7180,28 @@
   ]
  },
  {
+  "id": "5f546757d942",
+  "headline": "Families balance hope and despair in race to find survivors in Nepal as 41 Australians still missing",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-30T00:27:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Families balance hope and despair in race to find survivors in Nepal as 41 Australians still missing",
+    "url": "https://www.theguardian.com/world/2026/aug/30/families-balance-hope-and-despair-in-race-to-find-survivors-in-nepal-as-australians-still-missing",
+    "source": "The Guardian World",
+    "summary": "The walls of a teaching hospital are filled with pictures of unidentified victims as authorities collect DNA samples and plan burials before morgues fill up Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Some of them are young, some old; most of them appear to be men. Some of them could be sleeping, except for the mud that covers",
+    "published_at": "2026-08-30T00:27:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
   "id": "d742c20d4f85",
   "headline": "Oslo mayor calls off wedding ceremony after death of Norway's king",
   "section": "world",
@@ -8035,6 +7555,28 @@
     "published_at": "2026-05-16T03:14:17+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T21:21:30+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a326e7a8bc9a",
+  "headline": "News live: limits on smartglasses being considered, Plibersek says; missing Australian woman located safely in Nepal",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-30T00:51:23+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "News live: limits on smartglasses being considered, Plibersek says; missing Australian woman located safely in Nepal",
+    "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "‘My heart goes out to all the Nepalese families who are grieving loved ones,’ Cara Severino says. Follow latest updates live Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used sheep and cattle to illustrate is claim that One Nation wants to cut net overseas migration to 130,000 people without counting short-stay visas. No it’s not. … Short-term visa stay and ",
+    "published_at": "2026-08-30T00:51:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
    }
   ]
  },
@@ -8485,6 +8027,28 @@
     "published_at": "2026-08-29T19:12:20+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T21:21:30+00:00"
+   }
+  ]
+ },
+ {
+  "id": "22a8245c0185",
+  "headline": "William Jewell running back MicahJo Barnett dies after medical emergency during game",
+  "section": "sport",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T23:43:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "William Jewell running back MicahJo Barnett dies after medical emergency during game",
+    "url": "https://www.theguardian.com/sport/2026/aug/29/division-ii-running-back-dies-after-experiencing-medical-emergency-on-the-sideline-shortly-after-scoring-touchdown",
+    "source": "Guardian Sport",
+    "summary": "Junior taken to hospital after first-quarter emergency Division II season opener suspended and later canceled School plans vigil for Barnett and his family William Jewell College running back MicahJo Barnett had a medical emergency on the sideline during ⁠the school’s season opener on Saturday. and the school later announced his death. Barnett, a junior, ⁠reportedly experienced seizure-like ⁠sympt",
+    "published_at": "2026-08-29T23:43:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
    }
   ]
  },
@@ -8951,6 +8515,72 @@
   ]
  },
  {
+  "id": "1686f7294433",
+  "headline": "One Nation claims victory in Secret Harbour byelection in Western Australia",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-30T00:00:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
+    "source": "The Guardian World",
+    "summary": "One Nation candidate Luke Herdegen secures 57% of the vote after preferences as Barnaby Joyce says ‘politics has changed’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Barnaby Joyce has declared “politics has changed” after One Nation claimed victory in the Secret Harbour state byelection in Western Australia. The One Nation MP ",
+    "published_at": "2026-08-30T00:00:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ac3f80307712",
+  "headline": "Norway’s new King Haakon remembers ‘dear father’ Harald in first speech as sovereign",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T22:22:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Norway’s new King Haakon remembers ‘dear father’ Harald in first speech as sovereign",
+    "url": "https://www.dw.com/en/norway-s-new-king-haakon-remembers-dear-father-harald-in-first-speech-as-sovereign/a-78560155?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "New monarch Haakon VIII paid an emotional tribute to his late father, Harald V, in his first address to the nation. Vowing to follow his own path, Haakon pledged to uphold Norway’s democracy, unity and inclusive values.",
+    "published_at": "2026-08-29T22:22:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8c5999271c5f",
+  "headline": "Addisu Gobena smashes Sydney Marathon record as Jepchirchir wins fourth women’s major",
+  "section": "sport",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-30T00:27:53+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Addisu Gobena smashes Sydney Marathon record as Jepchirchir wins fourth women’s major",
+    "url": "https://www.theguardian.com/sport/2026/aug/30/sydney-marathon-major-addisu-gobena-peres-jepchirchir",
+    "source": "Guardian Sport",
+    "summary": "Ethiopian former javelin thrower claims men’s race in 2hr 4min 42sec Kenyan adds harbourside crown to Boston, New York and London titles Ethiopia’s Addisu Gobena surged to a record-breaking victory in the men’s race at the Sydney Marathon, while Kenya’s Peres Jepchirchir claimed the women’s crown on Sunday. In perfect conditions, Gobena won the hotly contested men’s race in two hours four minutes ",
+    "published_at": "2026-08-30T00:27:53+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
   "id": "4216e67f1247",
   "headline": "Several killed in Israeli strikes on Gaza and West Bank",
   "section": "world",
@@ -9361,6 +8991,160 @@
     "published_at": "2026-08-29T20:12:45+00:00",
     "source_countries": [],
     "seen_at": "2026-08-29T21:21:30+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c7c9f391fddb",
+  "headline": "Firms scramble for battery power in Spain and Portugal",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-25T23:09:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Firms scramble for battery power in Spain and Portugal",
+    "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+    "published_at": "2026-08-25T23:09:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "285f8292eee9",
+  "headline": "Tennessee governor says he backs airport name change to honor Dolly Parton",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T19:57:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tennessee governor says he backs airport name change to honor Dolly Parton",
+    "url": "https://www.theguardian.com/music/2026/aug/29/tennessee-dolly-parton-airport-name-change",
+    "source": "Guardian Business",
+    "summary": "Bill Lee says he favors proposal to rename Nashville’s international airport after legendary country singer Bill Lee, the Tennessee governor, on Friday said he favored a proposal to rename Nashville’s international airport after legendary country singer Dolly Parton , who died three days earlier at age 80. In a statement , Lee said he and the managers of the airport in Tennessee’s capital city – w",
+    "published_at": "2026-08-29T19:57:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b7b15a9b3565",
+  "headline": "I've been to Gamescom six times - here's what excited me this year",
+  "section": "tech",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T23:02:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "I've been to Gamescom six times - here's what excited me this year",
+    "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+    "published_at": "2026-08-29T23:02:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a0b39007acf8",
+  "headline": "Hovland leads Tour Championship as Scheffler and McIlroy impress",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T23:43:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hovland leads Tour Championship as Scheffler and McIlroy impress",
+    "url": "https://www.bbc.co.uk/sport/golf/articles/ckgx9y2dr1no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Norway's Viktor Hovland will head into the final round of the Tour Championship in Atlanta on Sunday with a one-stroke lead.",
+    "published_at": "2026-08-29T23:43:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e59fdb90fa7c",
+  "headline": "Novak Djokovic feels ‘as best as I can be’ before tilt at 25th grand slam title in New York",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-29T22:58:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Novak Djokovic feels ‘as best as I can be’ before tilt at 25th grand slam title in New York",
+    "url": "https://www.theguardian.com/sport/2026/aug/29/novak-djokovic-in-good-shape-as-he-aims-for-25th-grand-slam-title-in-new-york",
+    "source": "Guardian Sport",
+    "summary": "Serb hopes to take advantage of wide-open men’s draw Elena Rybakina has eyes on No 1 world ranking Novak Djokovic said he was as prepared as he could be for the US Open as he attempts to take advantage of the wide-open men’s draw and battle for a potential 25th grand slam title. Djokovic arrived in New York having competed only once after his semi-final run at Wimbledon, losing in his opening matc",
+    "published_at": "2026-08-29T22:58:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b2a5c143e2b6",
+  "headline": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+  "section": "ai",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-17T15:33:42+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+    "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+    "source": "IEEE Spectrum Robotics",
+    "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies that seems to be entirely focused on making that happen. Persona AI’s approach has been to carefully select a job that is economically viable for robots right now, and they’ve found one that was also the job of one of the very first industrial robots ever sold : weldi",
+    "published_at": "2026-08-17T15:33:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b49158829d72",
+  "headline": "PMOS clinics 'good start, but more can be done'",
+  "section": "health",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-08-30T01:03:00+00:00",
+  "event_time": "2026-08-27T05:26:15+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "PMOS clinics 'good start, but more can be done'",
+    "url": "https://www.bbc.co.uk/news/articles/cwy422pz1yro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "Jersey's government launches a three-month trial clinic to help women with the ovarian syndrome.",
+    "published_at": "2026-08-27T05:26:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-08-30T01:02:57+00:00"
    }
   ]
  }

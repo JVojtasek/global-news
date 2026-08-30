@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-29
+# ANALYTICKÉ ZADÁNÍ — 2026-08-30
 
-Paměť obsahuje **63 vláken**. Aktivních za posledních 14 dní: **34**.
+Paměť obsahuje **63 vláken**. Aktivních za posledních 14 dní: **31**.
 
 ---
 
@@ -49,9 +49,8 @@ Paměť obsahuje **63 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 16 dní · 20 záznamů
+- rubrika `world` · sledováno 17 dní · 21 záznamů
 - časová osa:
-  - **2026-08-19** (2 zdrojů) Multiple deadly Israeli strikes in Gaza in under 24 hours
   - **2026-08-20** (2 zdrojů) UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project
   - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
@@ -61,6 +60,7 @@ Paměť obsahuje **63 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
   - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
   - **2026-08-29** (3 zdrojů) BBC tracks one week of Israeli settler violence in occupied West Bank
+  - **2026-08-30** (2 zdrojů) Palestinian woman and NBC News team reportedly attacked in West Bank
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 4 dní · 12 záznamů
