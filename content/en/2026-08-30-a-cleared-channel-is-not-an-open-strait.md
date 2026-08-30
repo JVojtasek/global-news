@@ -1,14 +1,15 @@
 ---
 slug: a-cleared-channel-is-not-an-open-strait
 title: A Cleared Channel Is Not an Open Strait
-dek: A U.S. strike on alleged mine-capable launchers near the Strait of Hormuz shows why removing mines is an operation, while restoring commercial confidence is a system.
+dek: A U.S. strike on alleged mine-capable launchers near the Strait of Hormuz shows
+  why removing mines is an operation, while restoring commercial confidence is a system.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-08-30'
-status: draft
-confidence: 88
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,12 +19,14 @@ generator: chatgpt-work
 format: roundtable
 event_id: us-strike-larak-iran-sea-mine-launchers-2026-08-30
 series: The Newsroom Table
-image_query: Strait of Hormuz shipping channel Larak Island tanker mine clearance neutral editorial
+image_query: Strait of Hormuz shipping channel Larak Island tanker mine clearance
+  neutral editorial
 sources:
 - name: Associated Press — U.S. strikes Iranian rocket launchers near Strait of Hormuz
   url: https://apnews.com/article/iran-strait-hormuz-strike-united-states-6b098da673ac3161a266ee459d5eff44
   published: '2026-08-30'
-- name: Reuters — Iran's Revolutionary Guards vow response to U.S. attack on Larak Island
+- name: Reuters — Iran's Revolutionary Guards vow response to U.S. attack on Larak
+    Island
   url: https://www.reuters.com/world/middle-east/irans-revolutionary-guards-vow-response-us-attack-larak-island-2026-08-30/
   published: '2026-08-30'
 - name: Reuters — Explosion heard near Iran's Larak Island
@@ -41,13 +44,20 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why can the Strait of Hormuz remain commercially constrained after a shipping lane has been cleared of known mines?
+  question: Why can the Strait of Hormuz remain commercially constrained after a shipping
+    lane has been cleared of known mines?
   options:
-  - Because clearance removes detected hazards but does not remove the capability to lay more mines, other threats or insurers' uncertainty
-  - Because mine clearance permanently closes the lane until every government signs a treaty
-  - Because ships are legally forbidden to use any channel that has ever contained a mine
+  - Because clearance removes detected hazards but does not remove the capability
+    to lay more mines, other threats or insurers' uncertainty
+  - Because mine clearance permanently closes the lane until every government signs
+    a treaty
+  - Because ships are legally forbidden to use any channel that has ever contained
+    a mine
   answer: 0
-  explanation: Clearance is a time-specific operational result. Commercial reopening also depends on whether threats can recur, what authorities can verify and whether crews, owners and insurers judge the risk manageable.
+  explanation: Clearance is a time-specific operational result. Commercial reopening
+    also depends on whether threats can recur, what authorities can verify and whether
+    crews, owners and insurers judge the risk manageable.
+review_reason: 'citlivé téma: casualties'
 ---
 
 ## BRIEFLY
