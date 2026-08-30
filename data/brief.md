@@ -69,7 +69,33 @@
     <https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss>
     > The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
 
-### 3. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
+### 3. Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
+- id události: `887fb7f3bbc2`  ·  rubrika: `science`  ·  skóre: 81  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **NASA** — Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
+    <https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/>
+    > Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026. From lef
+  - **NASA** — NASA Deep Space Network’s New Goldstone Antenna Goes Online
+    <https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/>
+    > Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance 
+  - **NASA** — NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
+    <https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/>
+    > Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kenned
+  - **DW News** — NASA launches first telescope named after female scientist
+    <https://www.dw.com/en/nasa-launches-first-telescope-named-after-female-scientist/a-78565941?maca=en-rss-en-all-1573-rdf>
+    > The Nancy Grace Roman Space Telescope, named after NASA's first Chief of Astronomy, will observe black holes, exoplanets and exploding stars.
+  - **Al Jazeera** — NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets
+    <https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss>
+    > SpaceX Falcon Heavy propels telescope on cosmic quest to investigate dark energy and matter.
+  - **The Verge** — The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy
+    <https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch>
+    > After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will 
+  - **Phys.org** — NASA's newest Roman space telescope launches on a quest to explore the hidden universe
+    <https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html>
+    > NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.
+
+### 4. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
 - id události: `2458fe404ed3`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -94,32 +120,6 @@
   - **Investing.com** — Russian strike kills 27 near Kyiv as Moscow militarizes schools
     <https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964>
 
-### 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-- id události: `3544561ca685`  ·  rubrika: `tech`  ·  skóre: 77  ·  nezávislých zdrojů: 7
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Ars Technica** — How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-    <https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/>
-    > Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
-  - **Ars Technica AI** — How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-    <https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/>
-    > Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
-  - **MIT Tech Review** — The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
-    <https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/>
-    > This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvert
-  - **TechCrunch** — Hugging Face is selling a cute $399 open-source duck robot, Microduck
-    <https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/>
-    > Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.
-  - **The Verge** — Hugging Face’s new robot is an adorable rollerskating duck
-    <https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot>
-    > Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the li
-  - **The Verge AI** — Hugging Face’s new robot is an adorable rollerskating duck
-    <https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot>
-    > Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the li
-  - **Hacker News Best** — The Hugging Face incident and the road ahead
-    <https://openai.com/index/hugging-face-incident-and-the-road-ahead/>
-    > Article URL: https://openai.com/index/hugging-face-incident-and-the-road-ahead/ Comments URL: https://news.ycombinator.com/item?id=49454314 Points: 306 # Comments: 397
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -128,8 +128,8 @@
 - rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
@@ -179,13 +179,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 26  ·  **depth: `open`**
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 27  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 26
-  2026-08-20  (2 zdrojů, síla 40)  Arsenal vs Coventry: Premier League – prediction, lineups, teams
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 27
   2026-08-21  (2 zdrojů, síla 48)  Arsenal v Coventry City: Premier League – live
   2026-08-21  (3 zdrojů, síla 54)  Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
   2026-08-22  (2 zdrojů, síla 42)  Hull City v Manchester United: Premier League – live
@@ -205,6 +204,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 26
   2026-08-30  (2 zdrojů, síla 40)  Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
   2026-08-30  (2 zdrojů, síla 44)  Joao Pedro a central figure - player ratings for Chelsea v Brighton
   2026-08-30  (2 zdrojů, síla 40)  Manchester United v Ipswich Town: Premier League – live
+  2026-08-30  (2 zdrojů, síla 52)  Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
 ```
 
 ---

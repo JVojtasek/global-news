@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "joao",
-    "nottingham",
-    "hull",
-    "iraola",
-    "leeds",
-    "boot",
-    "wissa",
-    "brentford",
-    "antonio",
-    "premier",
-    "manchester",
-    "hull's",
-    "forest",
-    "sunderland",
-    "fulham",
-    "cherki",
-    "newcastle",
-    "tzolis",
-    "arsenal",
-    "ipswich",
-    "wirtz",
-    "salah",
-    "liverpool",
-    "life",
-    "transfer",
-    "phil",
-    "opening",
-    "golden",
-    "sports",
-    "pedro",
-    "relief",
-    "brighton",
-    "haaland",
-    "united",
-    "ghanaians",
-    "crystal",
     "chelsea",
-    "league",
+    "fulham",
+    "united",
+    "leeds",
+    "sports",
+    "ghanaians",
+    "arsenal",
+    "opening",
+    "pedro's",
+    "tzolis",
+    "wissa",
+    "nottingham",
+    "life",
+    "boot",
     "coventry",
-    "mcnulty's"
+    "wirtz",
+    "phil",
+    "hull's",
+    "salah",
+    "golden",
+    "antonio",
+    "league",
+    "newcastle",
+    "mcnulty's",
+    "brighton",
+    "pedro",
+    "hull",
+    "ipswich",
+    "sunderland",
+    "manchester",
+    "brentford",
+    "transfer",
+    "alonso",
+    "iraola",
+    "joao",
+    "premier",
+    "forest",
+    "haaland",
+    "cherki",
+    "crystal"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -72,7 +72,8 @@
     "0818c2669ed5",
     "d5134ea0c398",
     "733eca9e3ba8",
-    "8e3412e5f1ca"
+    "8e3412e5f1ca",
+    "2496eadc17a6"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-30",
@@ -374,6 +375,18 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
       "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-manchester-united-vs-ipswich-town-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
+     "sources": 2,
+     "score": 52,
+     "event_id": "2496eadc17a6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/30/chelsea-beat-brighton-4-3-to-extend-perfect-start-under-xabi-alonso?traffic_source=rss"
      ]
     }
    ]
@@ -844,6 +857,74 @@
      "links": [
       "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
       "https://phys.org/news/2026-08-nasa-telescope-honors-nancy-grace.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "artemis",
+    "president",
+    "honors",
+    "dish",
+    "ribbon-cutting",
+    "next-gen",
+    "crew",
+    "network",
+    "event",
+    "deep",
+    "highest",
+    "station",
+    "adds",
+    "space",
+    "award",
+    "nasa",
+    "muscle"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-08-30",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
      ]
     }
    ]
@@ -1709,58 +1790,6 @@
       "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
       "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/8/29/trump-announces-biggest-oil-deal-in-world-history-with-venezuela?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "nasa",
-    "award",
-    "muscle",
-    "president",
-    "deep",
-    "space",
-    "honors",
-    "highest",
-    "network",
-    "adds",
-    "dish",
-    "crew",
-    "next-gen",
-    "artemis"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-08-29",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
      ]
     }
    ]
@@ -5011,5 +5040,5 @@
    ]
   }
  ],
- "updated": "2026-08-30T15:22:20+00:00"
+ "updated": "2026-08-30T18:26:30+00:00"
 }

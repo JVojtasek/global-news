@@ -21,9 +21,8 @@ Paměť obsahuje **66 vláken**. Aktivních za posledních 14 dní: **32**.
   - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 12 dní · 26 záznamů
+- rubrika `sport` · sledováno 12 dní · 27 záznamů
 - časová osa:
-  - **2026-08-28** (3 zdrojů) Premier League: 10 things to look out for this weekend
   - **2026-08-28** (2 zdrojů) LIVE: Crystal Palace vs Manchester City – Premier League
   - **2026-08-28** (3 zdrojů) Haaland and Cherki fire impressive Man City to victory at Palace
   - **2026-08-29** (2 zdrojů) Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
@@ -33,6 +32,7 @@ Paměť obsahuje **66 vláken**. Aktivních za posledních 14 dní: **32**.
   - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
   - **2026-08-30** (2 zdrojů) Joao Pedro a central figure - player ratings for Chelsea v Brighton
   - **2026-08-30** (2 zdrojů) Manchester United v Ipswich Town: Premier League – live
+  - **2026-08-30** (2 zdrojů) Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 18 dní · 26 záznamů
