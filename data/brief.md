@@ -128,8 +128,8 @@
 - rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
   - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
@@ -179,13 +179,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 27  ·  **depth: `open`**
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 28  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 27
-  2026-08-21  (2 zdrojů, síla 48)  Arsenal v Coventry City: Premier League – live
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 28
   2026-08-21  (3 zdrojů, síla 54)  Tzolis shines on Premier League debut - Arsenal v Coventry player ratings
   2026-08-22  (2 zdrojů, síla 42)  Hull City v Manchester United: Premier League – live
   2026-08-23  (2 zdrojů, síla 42)  Newcastle United v Liverpool: Premier League – live
@@ -205,6 +204,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 27
   2026-08-30  (2 zdrojů, síla 44)  Joao Pedro a central figure - player ratings for Chelsea v Brighton
   2026-08-30  (2 zdrojů, síla 40)  Manchester United v Ipswich Town: Premier League – live
   2026-08-30  (2 zdrojů, síla 52)  Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
+  2026-08-30  (1 zdrojů, síla 42)  Michael Carrick hails Manchester United’s grit after rout of Ipswich
 ```
 
 ---

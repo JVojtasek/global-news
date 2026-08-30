@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "chelsea",
-    "fulham",
-    "united",
-    "leeds",
-    "sports",
-    "ghanaians",
-    "arsenal",
-    "opening",
-    "pedro's",
-    "tzolis",
-    "wissa",
-    "nottingham",
-    "life",
-    "boot",
-    "coventry",
-    "wirtz",
-    "phil",
-    "hull's",
-    "salah",
-    "golden",
-    "antonio",
-    "league",
-    "newcastle",
-    "mcnulty's",
-    "brighton",
-    "pedro",
-    "hull",
-    "ipswich",
-    "sunderland",
     "manchester",
-    "brentford",
-    "transfer",
-    "alonso",
-    "iraola",
-    "joao",
+    "league",
+    "sports",
+    "hull",
+    "tzolis",
+    "hull's",
+    "ipswich",
+    "ghanaians",
+    "carrick",
+    "crystal",
+    "golden",
     "premier",
-    "forest",
-    "haaland",
+    "boot",
+    "phil",
+    "newcastle",
+    "arsenal",
+    "chelsea",
     "cherki",
-    "crystal"
+    "united",
+    "wissa",
+    "coventry",
+    "michael",
+    "leeds",
+    "pedro",
+    "pedro's",
+    "forest",
+    "mcnulty's",
+    "transfer",
+    "sunderland",
+    "life",
+    "joao",
+    "salah",
+    "brighton",
+    "wirtz",
+    "antonio",
+    "haaland",
+    "alonso",
+    "brentford",
+    "nottingham",
+    "iraola"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -73,7 +73,8 @@
     "d5134ea0c398",
     "733eca9e3ba8",
     "8e3412e5f1ca",
-    "2496eadc17a6"
+    "2496eadc17a6",
+    "af484d739144"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-08-30",
@@ -387,6 +388,17 @@
       "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/8/30/chelsea-beat-brighton-4-3-to-extend-perfect-start-under-xabi-alonso?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Michael Carrick hails Manchester United’s grit after rout of Ipswich",
+     "sources": 1,
+     "score": 42,
+     "event_id": "af484d739144",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
+      "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford"
      ]
     }
    ]
@@ -711,6 +723,130 @@
    ]
   },
   {
+   "id": "81515d5a1191",
+   "title": "Robinson and Tongue guide England to strong start against Pakistan",
+   "section": "sport",
+   "entities": [
+    "abbas",
+    "lawrence",
+    "robinson",
+    "england",
+    "fleming",
+    "brook",
+    "test",
+    "tongue",
+    "headingley",
+    "pakistan",
+    "root",
+    "lord's"
+   ],
+   "event_ids": [
+    "81515d5a1191",
+    "c2083dc9b402",
+    "01a37345b72e",
+    "22dc48990b22",
+    "251989e37557",
+    "0d4f9b3b0b25",
+    "1af8b64037cb",
+    "3b069fa24056"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-08-30",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
+     "sources": 2,
+     "score": 55,
+     "event_id": "81515d5a1191",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Tongue & Robinson cut Headingley ball in half",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2083dc9b402",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Brook shines as England take control against Pakistan",
+     "sources": 2,
+     "score": 43,
+     "event_id": "01a37345b72e",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "England v Pakistan: first Test, day three – live",
+     "sources": 2,
+     "score": 49,
+     "event_id": "22dc48990b22",
+     "links": [
+      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
+      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
+     "sources": 2,
+     "score": 43,
+     "event_id": "251989e37557",
+     "links": [
+      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
+      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Abbas gives Pakistan edge with four wickets against England in second Test",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0d4f9b3b0b25",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-first-day-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "England humble poor Pakistan to confirm series win at Lord's",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1af8b64037cb",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/clyqnkxq87po?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/30/joe-root-england-pakistan-lords-test-series"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Lawrence helps England build big lead on rain-affected day at Lord's",
+     "sources": 1,
+     "score": 41,
+     "event_id": "3b069fa24056",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "fc871ed3ce64",
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
@@ -981,6 +1117,35 @@
       "https://www.theguardian.com/world/live/2026/aug/30/northern-cyprus-ferry-capsizes-latest-news-updates",
       "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
       "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus/a-78562769?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "77c755dad93a",
+   "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+   "section": "world",
+   "entities": [
+    "island",
+    "larak",
+    "iranian"
+   ],
+   "event_ids": [
+    "77c755dad93a"
+   ],
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-08-30",
+   "timeline": [
+    {
+     "date": "2026-08-30",
+     "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+     "sources": 4,
+     "score": 65,
+     "event_id": "77c755dad93a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island-reports/live-78566992?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz"
      ]
     }
    ]
@@ -2794,103 +2959,6 @@
       "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "81515d5a1191",
-   "title": "Robinson and Tongue guide England to strong start against Pakistan",
-   "section": "sport",
-   "entities": [
-    "headingley",
-    "tongue",
-    "test",
-    "pakistan",
-    "abbas",
-    "brook",
-    "england",
-    "root",
-    "fleming",
-    "robinson"
-   ],
-   "event_ids": [
-    "81515d5a1191",
-    "c2083dc9b402",
-    "01a37345b72e",
-    "22dc48990b22",
-    "251989e37557",
-    "0d4f9b3b0b25"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-27",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
-     "sources": 2,
-     "score": 55,
-     "event_id": "81515d5a1191",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Tongue & Robinson cut Headingley ball in half",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c2083dc9b402",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Brook shines as England take control against Pakistan",
-     "sources": 2,
-     "score": 43,
-     "event_id": "01a37345b72e",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "England v Pakistan: first Test, day three – live",
-     "sources": 2,
-     "score": 49,
-     "event_id": "22dc48990b22",
-     "links": [
-      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
-      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
-     "sources": 2,
-     "score": 43,
-     "event_id": "251989e37557",
-     "links": [
-      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
-      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Abbas gives Pakistan edge with four wickets against England in second Test",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0d4f9b3b0b25",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-first-day-match-report"
      ]
     }
    ]
@@ -5040,5 +5108,5 @@
    ]
   }
  ],
- "updated": "2026-08-30T18:26:30+00:00"
+ "updated": "2026-08-30T21:21:20+00:00"
 }
