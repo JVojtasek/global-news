@@ -8,8 +8,8 @@ type: analysis
 depth: open
 lang: en
 date: '2026-08-30'
-status: draft
-confidence: 93
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -19,7 +19,8 @@ generator: chatgpt-work
 format: roundtable
 event_id: iceland-referendum-eu-accession-talks-2026-08-29
 series: The Newsroom Table
-image_query: Iceland coastline fishing harbour European flags referendum ballot neutral editorial
+image_query: Iceland coastline fishing harbour European flags referendum ballot neutral
+  editorial
 sources:
 - name: Associated Press — Icelandic voters reject proposal to restart EU negotiations
   url: https://apnews.com/article/iceland-european-union-election-referendum-accession-fish-d29f8d4e140894fe22db17005e9c2a2e
@@ -46,7 +47,9 @@ quiz:
   - Iceland's existing participation in the European Economic Area and Schengen
   answer: 0
   explanation: The ballot concerned reopening accession negotiations. A completed
-    membership agreement, if one emerged, would still have required another public vote.
+    membership agreement, if one emerged, would still have required another public
+    vote.
+review_reason: 'citlivé téma: referendum'
 ---
 
 ## BRIEFLY
