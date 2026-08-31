@@ -1,14 +1,15 @@
 ---
 slug: one-blood-pressure-reading-is-not-a-verdict
 title: One Blood Pressure Reading Is Not a Verdict
-dek: A cuff produces two useful numbers, but the setting, the technique and the pattern across time decide what those numbers can honestly tell you.
+dek: A cuff produces two useful numbers, but the setting, the technique and the pattern
+  across time decide what those numbers can honestly tell you.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-08-31'
-status: draft
-confidence: 94
+status: published
+confidence: 89
 load: 0
 topics:
 - blood pressure
@@ -41,17 +42,21 @@ impact:
   - health
   - measurement
   line: A single reading is a snapshot; a well-measured series is evidence.
-  todo: If you monitor at home, use a validated upper-arm cuff, follow the same preparation each time and keep the readings for a clinician to interpret.
+  todo: If you monitor at home, use a validated upper-arm cuff, follow the same preparation
+    each time and keep the readings for a clinician to interpret.
 qma_path: ''
 tickers: []
 quiz:
-  question: Why is a repeated, properly measured blood-pressure series more informative than one isolated reading?
+  question: Why is a repeated, properly measured blood-pressure series more informative
+    than one isolated reading?
   options:
   - Because averaging automatically makes every device accurate
   - Because blood pressure varies and technique or setting can distort a single snapshot
   - Because only the lower number changes from moment to moment
   answer: 1
-  explanation: Blood pressure varies naturally, and posture, recent activity, cuff fit and the clinical setting can affect a reading. Repeated standardised measurements reveal a more useful pattern.
+  explanation: Blood pressure varies naturally, and posture, recent activity, cuff
+    fit and the clinical setting can affect a reading. Repeated standardised measurements
+    reveal a more useful pattern.
 ---
 
 ## BRIEFLY

@@ -1,14 +1,15 @@
 ---
 slug: the-box-that-taught-the-world-to-move
 title: The Box That Taught the World to Move
-dek: Malcom McLean’s steel container mattered because ships, cranes, trucks, ports and standards learned to treat it as the same object.
+dek: Malcom McLean’s steel container mattered because ships, cranes, trucks, ports
+  and standards learned to treat it as the same object.
 section: business
 type: feature
 depth: open
 lang: en
 date: '2026-08-31'
 status: reserve
-confidence: 93
+confidence: 95
 load: 0
 topics:
 - container shipping
@@ -43,18 +44,24 @@ impact:
   areas:
   - business
   - supply chains
-  line: The container lowered the cost of transfer, but it made reliable interfaces and ports more valuable than the box itself.
-  todo: When assessing a supply-chain claim, ask where the handoff occurs and whether capacity, standards or timing—not inventory alone—is the constraint.
+  line: The container lowered the cost of transfer, but it made reliable interfaces
+    and ports more valuable than the box itself.
+  todo: When assessing a supply-chain claim, ask where the handoff occurs and whether
+    capacity, standards or timing—not inventory alone—is the constraint.
 qma_path: ''
 tickers: []
 quiz:
-  question: Why did the shipping container transform trade more than an ordinary reusable box would have?
+  question: Why did the shipping container transform trade more than an ordinary reusable
+    box would have?
   options:
-  - Its value came from a system of standard dimensions, fittings, cranes, ships, trucks and procedures
+  - Its value came from a system of standard dimensions, fittings, cranes, ships,
+    trucks and procedures
   - It eliminated every need to handle cargo at ports
   - It made distance and port congestion irrelevant
   answer: 0
-  explanation: The breakthrough was intermodal compatibility. Standardised containers could move through a coordinated network without their contents being unloaded at every transfer.
+  explanation: The breakthrough was intermodal compatibility. Standardised containers
+    could move through a coordinated network without their contents being unloaded
+    at every transfer.
 ---
 
 ## BRIEFLY

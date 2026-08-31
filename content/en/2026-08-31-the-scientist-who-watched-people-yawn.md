@@ -1,14 +1,15 @@
 ---
 slug: the-scientist-who-watched-people-yawn
 title: The Scientist Who Watched People Yawn
-dek: Robert Provine made an awkward reflex into a laboratory subject—and found that the simplest human behaviours can resist the neatest explanations.
+dek: Robert Provine made an awkward reflex into a laboratory subject—and found that
+  the simplest human behaviours can resist the neatest explanations.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-08-31'
-status: draft
-confidence: 91
+status: published
+confidence: 95
 load: 0
 topics:
 - yawning
@@ -24,7 +25,8 @@ event_id: ''
 series: ''
 image_query: scientist laboratory observing contagious yawning human behaviour
 sources:
-- name: Association for Psychological Science — Robert Provine, Scholar of Laughter, Yawns, and Hiccups
+- name: Association for Psychological Science — Robert Provine, Scholar of Laughter,
+    Yawns, and Hiccups
   url: https://www.psychologicalscience.org/news/robert-provine-scholar-of-laughter-yawns-and-hiccups-dies-at-76.html
   published: '2019-10-31'
 - name: Robert Provine — Faces as Releasers of Contagious Yawning
@@ -33,7 +35,8 @@ sources:
 - name: Andrew Gallup and Gordon Gallup — The Thermoregulatory Theory of Yawning
   url: https://pubmed.ncbi.nlm.nih.gov/23293583/
   published: '2013-05-01'
-- name: Jorg Massen and colleagues — Why Contagious Yawning Does Not Yet Equate to Empathy
+- name: Jorg Massen and colleagues — Why Contagious Yawning Does Not Yet Equate to
+    Empathy
   url: https://pubmed.ncbi.nlm.nih.gov/28735879/
   published: '2017-09-01'
 - name: Duke Health — Contagious Yawning May Not Be Linked to Empathy
@@ -44,17 +47,20 @@ impact:
   - questions
   - behavioural science
   line: A contagious yawn is evidence of a response, not a personality verdict.
-  todo: Notice the cue and context before assigning a story such as boredom, rudeness or exceptional empathy.
+  todo: Notice the cue and context before assigning a story such as boredom, rudeness
+    or exceptional empathy.
 qma_path: ''
 tickers: []
 quiz:
-  question: What can researchers safely conclude when someone yawns after seeing another person yawn?
+  question: What can researchers safely conclude when someone yawns after seeing another
+    person yawn?
   options:
   - The response occurred, but its mechanism and relationship to empathy remain uncertain
   - The person is bored and trying to end the interaction
   - The person necessarily has unusually high empathy
   answer: 0
-  explanation: Contagious yawning is measurable, but evidence connecting it directly to empathy is inconsistent and confounded by attention, age and social context.
+  explanation: Contagious yawning is measurable, but evidence connecting it directly
+    to empathy is inconsistent and confounded by attention, age and social context.
 ---
 
 ## BRIEFLY
