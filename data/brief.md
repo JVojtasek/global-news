@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-30
+# ZADÁNÍ PRO REDAKCI — 2026-08-31
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -40,36 +40,7 @@
     <https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii>
     > King Harald V of Norway, who was Europe's oldest reigning monarch, died at the age of 89, the palace announced on Friday. He is automatically succeeded by his son, King Haakon VIII, the former crown prince.
 
-### 2. Trump signs order to rename Lake Ontario as Lake America
-- id události: `fc871ed3ce64`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Trump signs order to rename Lake Ontario as Lake America
-    <https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss>
-    > Trump's order comes after the trade talks between the US and Canada collapsed late last week.
-  - **NPR News** — Trump directs federal government to rename Lake Ontario to Lake America
-    <https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america>
-    > President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .
-  - **The Guardian World** — Trump signs executive order to rename Lake Ontario as Lake America
-    <https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america>
-    > Symbolic move to rename lake shared by US and Canada comes amid escalating trade war with northern neighbor US politics live – latest updates Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid h
-  - **DW News** — Trump signs order to rename Lake Ontario as Lake America
-    <https://www.dw.com/en/trump-signs-order-to-rename-lake-ontario-as-lake-america/a-78537838?maca=en-rss-en-all-1573-rdf>
-    > The move is the latest in the ongoing rift between the US and Canada. The US president has also tried to rename the Gulf of Mexico as the "Gulf of America" in the past. Canadian PM Carney has said nothing will change.
-  - **CNBC Top** — Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war
-    <https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html>
-    > President Donald Trump signed an executive order that he said will "immediately" change the name of Lake Ontario to "Lake America."
-  - **Al Jazeera** — Video: Trump signs order to re-name Lake Ontario as Lake America
-    <https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss>
-    > US President Donald Trump has signed an executive order to rename Lake Ontario as Lake America.
-  - **France 24** — Trump signs order to rename Lake Ontario to 'Lake America' as Carney pushes back
-    <https://www.france24.com/en/americas/20260827-trump-signs-order-to-rename-lake-ontario-to-lake-america-as-carney-pushes-back>
-    > US President Donald Trump on Thursday signed an executive order to update the name of Lake Ontario to "Lake America" in the country's geographic naming service. Canadian Prime Minister Mark Carney pushed back, citing the name's Indigenous origins, as the row between the neighbors
-  - **Al Jazeera** — US President Trump signs order renaming Lake Ontario to ‘Lake America’
-    <https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss>
-    > The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
-
-### 3. Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
+### 2. Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
 - id události: `887fb7f3bbc2`  ·  rubrika: `science`  ·  skóre: 81  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -95,7 +66,7 @@
     <https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html>
     > NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.
 
-### 4. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
+### 3. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
 - id události: `2458fe404ed3`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -120,16 +91,37 @@
   - **Investing.com** — Russian strike kills 27 near Kyiv as Moscow militarizes schools
     <https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964>
 
+### 4. Iran war: US military strikes Iran's Larak Island
+- id události: `edf475066b1f`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Iran war: US military strikes Iran's Larak Island
+    <https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf>
+    > The attack targeting Iranian rocket launchers in the Strait of Hormuz was the first in over a month. Iran's Revolutionary Guards have vowed retaliation. DW has the latest.
+  - **CNBC Top** — Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island
+    <https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html>
+    > Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.
+  - **Al Jazeera** — Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island
+    <https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss>
+    > US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.
+  - **France 24** — Middle East Live: US strikes Iran for first time in a month as Tehran retaliates against Jordan base
+    <https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month>
+    > US forces struck Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. Iran swiftly vowed to retaliate for what it called a deadly attack. 
+  - **Investing.com** — Oil prices climb after U.S. strikes Iranian launchers on Larak Island
+    <https://www.investing.com/news/commodities-news/oil-prices-climb-after-us-strikes-iranian-launchers-on-larak-island-4882083>
+  - **Investing.com** — Oil jumps more than 2% after US attack on Iran’s Larak island
+    <https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075>
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### why relationships fail
-- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
 
 ---
 
@@ -156,7 +148,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-25  (2 zdrojů, síla 46)  Yorkshireman believed to be first Briton to die fighting for Russia against Ukraine
   2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions
   2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?
   2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
@@ -176,6 +167,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-28  (2 zdrojů, síla 49)  Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
   2026-08-28  (2 zdrojů, síla 44)  O'Neill hopeful on transfers despite Champions League play-off exit
   2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown
+  2026-08-31  (2 zdrojů, síla 42)  US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

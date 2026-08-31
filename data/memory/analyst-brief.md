@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-30
+# ANALYTICKÉ ZADÁNÍ — 2026-08-31
 
-Paměť obsahuje **67 vláken**. Aktivních za posledních 14 dní: **32**.
+Paměť obsahuje **67 vláken**. Aktivních za posledních 14 dní: **34**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 19 dní · 60 záznamů
+- rubrika `world` · sledováno 22 dní · 60 záznamů
 - časová osa:
-  - **2026-08-26** (2 zdrojů) China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
   - **2026-08-26** (1 zdrojů) How to follow Thursday's Champions League draw - and who is in each pot?
   - **2026-08-27** (2 zdrojů) Trump says all mines cleared from Strait of Hormuz
   - **2026-08-27** (2 zdrojů) Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
@@ -19,6 +18,7 @@ Paměť obsahuje **67 vláken**. Aktivních za posledních 14 dní: **32**.
   - **2026-08-28** (2 zdrojů) Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
   - **2026-08-28** (2 zdrojů) O'Neill hopeful on transfers despite Champions League play-off exit
   - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
+  - **2026-08-31** (2 zdrojů) US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 12 dní · 28 záznamů
