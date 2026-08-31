@@ -2,45 +2,14 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **7**
+- Článků v zásobě: **8**
 - Jazyk, ve kterém se píše: **en**
 
 ---
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Norway's King Harald dies aged 89
-- id události: `f92d737c76de`  ·  rubrika: `world`  ·  skóre: 88  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Norway's King Harald dies aged 89
-    <https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss>
-    > The late king, who reigned for 35 years, broke with tradition by marrying a commoner and was widely loved by Norwegians.
-  - **The Guardian World** — Norway’s King Harald dies aged 89
-    <https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links>
-    > Monarch’s death comes at turbulent time for royal family over association of crown princess with Jeffrey Epstein King Harald V of Norway, Europe’s oldest reigning monarch, has died aged 89, the royal palace in Oslo has announced. He will be succeeded by his son King Haakon VIII. 
-  - **DW News** — Norway's King Harald dies at 89
-    <https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-rdf>
-    > King Harald, who has been Norway's ceremonial head of state since 1991, had always insisted he would not abdicate, saying his oath as king was for life. His son, Prince Haakon, is now Norway's new king.
-  - **NPR News** — Norway's King Harald V dies at 89 and his son becomes King Haakon VIII
-    <https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii>
-    > King Harald V of Norway, who went into exile in the United States as a child during the Nazi occupation of his homeland and refused a string of European noblewomen to marry his school sweetheart, died Friday.
-  - **France 24** — King Harald's death puts focus on Norway's future king
-    <https://www.france24.com/en/king-harald-s-death-puts-focus-on-norway-s-future-king>
-    > Following King Harald's death, attention is turning to Crown Prince Haakon, who is set to become Norway's next king after a turbulent year for the royal family. His wife, Crown Princess Mette-Marit, underwent a lung transplant in June and has faced scrutiny over reported past tie
-  - **Al Jazeera** — Norway’s King Harald V dies, succeeded by son
-    <https://www.aljazeera.com/news/2026/8/28/norways-king-harald-v-dies-succeeded-by-son?traffic_source=rss>
-    > Harald V, who was Europe's oldest reigning monarch, has died at the age of 89. His son will reign as King Haakon VIII.
-  - **France 24** — Norway's King Haakon, the new face of a monarchy shaken by scandal
-    <https://www.france24.com/en/europe/20260828-norway-s-king-haakon-the-new-face-of-a-monarchy-shaken-by-scandal>
-    > Norway's King Haakon VIII automatically succeeded to the throne after his father, King Harald, passed away on Friday. As comfortable in a duffel coat as in ceremonial dress, he is the new face of a monarchy long praised for its modernity and modesty, but now beset by woe and scan
-  - **France 24** — 🔴 Europe's oldest monarch, King Harald V of Norway dies at 89
-    <https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii>
-  - **France 24** — Norway's King Harald V dies at 89, his son becomes King Haakon VIII
-    <https://www.france24.com/en/europe/20260828-king-harald-v-of-norway-dies-at-89-and-his-son-becomes-king-haakon-viii>
-    > King Harald V of Norway, who was Europe's oldest reigning monarch, died at the age of 89, the palace announced on Friday. He is automatically succeeded by his son, King Haakon VIII, the former crown prince.
-
-### 2. Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
+### 1. Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
 - id události: `887fb7f3bbc2`  ·  rubrika: `science`  ·  skóre: 81  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -66,7 +35,7 @@
     <https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html>
     > NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.
 
-### 3. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
+### 2. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
 - id události: `2458fe404ed3`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -91,7 +60,7 @@
   - **Investing.com** — Russian strike kills 27 near Kyiv as Moscow militarizes schools
     <https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964>
 
-### 4. Iran war: US military strikes Iran's Larak Island
+### 3. Iran war: US military strikes Iran's Larak Island
 - id události: `edf475066b1f`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -111,6 +80,25 @@
     <https://www.investing.com/news/commodities-news/oil-prices-climb-after-us-strikes-iranian-launchers-on-larak-island-4882083>
   - **Investing.com** — Oil jumps more than 2% after US attack on Iran’s Larak island
     <https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075>
+
+### 4. The inside story on why OpenAI agents hacked Hugging Face
+- id události: `69b225fb598b`  ·  rubrika: `ai`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **MIT TR — AI** — The inside story on why OpenAI agents hacked Hugging Face
+    <https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/>
+    > The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity
+  - **MIT Tech Review** — The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
+    <https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/>
+    > This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvert
+  - **MIT Tech Review** — The inside story on why OpenAI agents hacked Hugging Face
+    <https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/>
+    > The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity
+  - **The Hacker News** — OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
+    <https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html>
+    > OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersec
+  - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
+    <https://huggingface.co/blog/pwc-search>
 
 ---
 
