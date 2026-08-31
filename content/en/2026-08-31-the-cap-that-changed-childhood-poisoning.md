@@ -1,14 +1,16 @@
 ---
 slug: the-cap-that-changed-childhood-poisoning
 title: The Cap That Changed Childhood Poisoning
-dek: Child-resistant packaging turned a moment of household inattention into a harder engineering problem—and showed both the power and the limits of designing safety into ordinary objects.
+dek: Child-resistant packaging turned a moment of household inattention into a harder
+  engineering problem—and showed both the power and the limits of designing safety
+  into ordinary objects.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-08-31'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics:
 - child safety
@@ -30,7 +32,8 @@ sources:
 - name: Electronic Code of Federal Regulations — 16 CFR Part 1700
   url: https://www.ecfr.gov/current/title-16/chapter-II/subchapter-E/part-1700
   published: '2026-08-27'
-- name: Gregory B. Rodgers — Safety Effects of Child-Resistant Packaging for Oral Prescription Drugs
+- name: Gregory B. Rodgers — Safety Effects of Child-Resistant Packaging for Oral
+    Prescription Drugs
   url: https://jamanetwork.com/journals/jama/fullarticle/403183
   published: '1996-06-05'
 - name: Gregory B. Rodgers — Effectiveness of Child-Resistant Packaging for Aspirin
@@ -43,18 +46,24 @@ impact:
   areas:
   - history
   - child safety
-  line: A resistant closure buys time; safe storage keeps the hazard from becoming a test of the closure.
-  todo: Reclose medicines fully, keep them in original containers and store them locked and out of children's sight and reach.
+  line: A resistant closure buys time; safe storage keeps the hazard from becoming
+    a test of the closure.
+  todo: Reclose medicines fully, keep them in original containers and store them locked
+    and out of children's sight and reach.
 qma_path: ''
 tickers: []
 quiz:
   question: What does “child-resistant” legally and practically mean?
   options:
   - No child can open the package under any circumstances
-  - The package is significantly difficult for young children to open within a test period while remaining usable by adults
+  - The package is significantly difficult for young children to open within a test
+    period while remaining usable by adults
   - The contents are harmless if a child opens the package
   answer: 1
-  explanation: US rules require measured resistance, not impossibility. The law explicitly does not define a package that every child is unable to open, so secure storage remains necessary.
+  explanation: US rules require measured resistance, not impossibility. The law explicitly
+    does not define a package that every child is unable to open, so secure storage
+    remains necessary.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

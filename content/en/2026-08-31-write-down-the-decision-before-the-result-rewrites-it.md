@@ -1,14 +1,15 @@
 ---
 slug: write-down-the-decision-before-the-result-rewrites-it
 title: Write Down the Decision Before the Result Rewrites It
-dek: A ten-minute record cannot remove uncertainty, but it can stop a lucky result from masquerading as wisdom—and an unlucky one from erasing a sound process.
+dek: A ten-minute record cannot remove uncertainty, but it can stop a lucky result
+  from masquerading as wisdom—and an unlucky one from erasing a sound process.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-08-31'
-status: draft
-confidence: 91
+status: published
+confidence: 83
 load: 0
 topics:
 - decisions
@@ -37,18 +38,23 @@ impact:
   areas:
   - meaning
   - decisions
-  line: Judge the choice by what was knowable when it was made, then use the outcome as new evidence.
-  todo: Keep a short decision record for one consequential choice and review it on a date chosen in advance.
+  line: Judge the choice by what was knowable when it was made, then use the outcome
+    as new evidence.
+  todo: Keep a short decision record for one consequential choice and review it on
+    a date chosen in advance.
 qma_path: ''
 tickers: []
 quiz:
-  question: What is the main purpose of writing a decision record before the outcome is known?
+  question: What is the main purpose of writing a decision record before the outcome
+    is known?
   options:
   - To guarantee that the chosen option succeeds
   - To preserve what was known, expected and uncertain when the choice was made
   - To prove later that other people gave poor advice
   answer: 1
-  explanation: Hindsight and outcome bias alter how a past choice feels after the result arrives. A contemporaneous record preserves the original information and reasoning; it does not guarantee success or assign blame.
+  explanation: Hindsight and outcome bias alter how a past choice feels after the
+    result arrives. A contemporaneous record preserves the original information and
+    reasoning; it does not guarantee success or assign blame.
 ---
 
 ## BRIEFLY

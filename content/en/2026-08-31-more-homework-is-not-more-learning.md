@@ -1,14 +1,16 @@
 ---
 slug: more-homework-is-not-more-learning
 title: More Homework Is Not More Learning
-dek: The evidence does not support a simple war between homework and no homework. For younger children, purpose, design and feedback matter more than the size of the pile.
+dek: The evidence does not support a simple war between homework and no homework.
+  For younger children, purpose, design and feedback matter more than the size of
+  the pile.
 section: parenting
 type: analysis
 depth: open
 lang: en
 date: '2026-08-31'
-status: draft
-confidence: 91
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -20,7 +22,8 @@ event_id: ''
 series: ''
 image_query: child homework desk pencil notebook calm evening
 sources:
-- name: Campbell Systematic Reviews — Homework time and academic performance among K-12 students
+- name: Campbell Systematic Reviews — Homework time and academic performance among
+    K-12 students
   url: https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1431
   published: '2024-09-18'
 - name: Education Endowment Foundation — Homework
@@ -36,18 +39,23 @@ impact:
   areas:
   - family
   - education
-  line: Parents can judge homework more usefully by its purpose, independence and feedback loop than by minutes completed or pages filled.
-  todo: Track one week of actual homework time and where your child gets stuck, then bring that concrete pattern to the teacher instead of finishing the work for them.
+  line: Parents can judge homework more usefully by its purpose, independence and
+    feedback loop than by minutes completed or pages filled.
+  todo: Track one week of actual homework time and where your child gets stuck, then
+    bring that concrete pattern to the teacher instead of finishing the work for them.
 qma_path: ''
 tickers: []
 quiz:
-  question: Which feature is most consistently associated with more effective homework in the evidence reviewed here?
+  question: Which feature is most consistently associated with more effective homework
+    in the evidence reviewed here?
   options:
   - A clear link to classroom learning and useful feedback
   - The greatest possible number of pages
   - A parent correcting every answer before submission
   answer: 0
-  explanation: Evidence reviews find that task quality, connection to classroom work and feedback matter more than simply increasing the quantity assigned.
+  explanation: Evidence reviews find that task quality, connection to classroom work
+    and feedback matter more than simply increasing the quantity assigned.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY
