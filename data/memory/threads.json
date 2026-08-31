@@ -1200,6 +1200,105 @@
    ]
   },
   {
+   "id": "fc871ed3ce64",
+   "title": "Trump signs order to rename Lake Ontario as Lake America",
+   "section": "world",
+   "entities": [
+    "politics",
+    "weekly",
+    "ontario",
+    "lake",
+    "maps",
+    "trump",
+    "america",
+    "google",
+    "canada"
+   ],
+   "event_ids": [
+    "fc871ed3ce64",
+    "d303cedaf846",
+    "69769cf42fdf",
+    "4dcd5aa8edee",
+    "f1acf504161f",
+    "eded7a46ce69"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Trump signs order to rename Lake Ontario as Lake America",
+     "sources": 7,
+     "score": 82,
+     "event_id": "fc871ed3ce64",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
+     "sources": 4,
+     "score": 64,
+     "event_id": "d303cedaf846",
+     "links": [
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "How did Trump get so rich? | Politics Weekly America",
+     "sources": 4,
+     "score": 62,
+     "event_id": "69769cf42fdf",
+     "links": [
+      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
+     "sources": 2,
+     "score": 47,
+     "event_id": "4dcd5aa8edee",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+     "sources": 3,
+     "score": 59,
+     "event_id": "f1acf504161f",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+     "sources": 3,
+     "score": 60,
+     "event_id": "eded7a46ce69",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1377348ebb36",
    "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
    "section": "business",
@@ -1287,6 +1386,90 @@
      "links": [
       "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
       "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "house",
+    "leavitt",
+    "white",
+    "court",
+    "secretary",
+    "karoline",
+    "crypto",
+    "trump",
+    "press",
+    "supreme"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
      ]
     }
    ]
@@ -2401,90 +2584,6 @@
       "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fc871ed3ce64",
-   "title": "Trump signs order to rename Lake Ontario as Lake America",
-   "section": "world",
-   "entities": [
-    "canada",
-    "trump",
-    "ontario",
-    "weekly",
-    "america",
-    "lake",
-    "politics"
-   ],
-   "event_ids": [
-    "fc871ed3ce64",
-    "d303cedaf846",
-    "69769cf42fdf",
-    "4dcd5aa8edee",
-    "f1acf504161f"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-08-30",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Trump signs order to rename Lake Ontario as Lake America",
-     "sources": 7,
-     "score": 82,
-     "event_id": "fc871ed3ce64",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
-     "sources": 4,
-     "score": 64,
-     "event_id": "d303cedaf846",
-     "links": [
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "How did Trump get so rich? | Politics Weekly America",
-     "sources": 4,
-     "score": 62,
-     "event_id": "69769cf42fdf",
-     "links": [
-      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
-     "sources": 2,
-     "score": 47,
-     "event_id": "4dcd5aa8edee",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-     "sources": 3,
-     "score": 59,
-     "event_id": "f1acf504161f",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
      ]
     }
    ]
@@ -4274,75 +4373,6 @@
    ]
   },
   {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "secretary",
-    "press",
-    "white",
-    "trump",
-    "house",
-    "leavitt",
-    "karoline",
-    "crypto"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-20",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    }
-   ]
-  },
-  {
    "id": "48a7d81e65e9",
    "title": "Kennedy Center board approves Trump name on facade, renovation plan",
    "section": "world",
@@ -5351,5 +5381,5 @@
    ]
   }
  ],
- "updated": "2026-08-31T18:30:54+00:00"
+ "updated": "2026-08-31T21:22:53+00:00"
 }

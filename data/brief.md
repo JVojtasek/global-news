@@ -109,7 +109,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
   - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
 
 ---
 
