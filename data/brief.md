@@ -109,7 +109,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
   - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
-  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -136,7 +136,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-25  (2 zdrojů, síla 42)  Middle East: Iran vows response to fresh US sanctions
   2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?
   2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
   2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
@@ -156,6 +155,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-28  (2 zdrojů, síla 44)  O'Neill hopeful on transfers despite Champions League play-off exit
   2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown
   2026-08-31  (2 zdrojů, síla 42)  US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
+  2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

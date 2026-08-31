@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "qatar",
     "start",
-    "groundhog",
-    "chaos",
-    "thursday's",
-    "ukraine",
-    "d-day",
-    "us-south",
-    "china's",
-    "korea",
-    "celtic",
-    "iran's",
-    "aston",
-    "jordan",
-    "oman",
-    "trump",
-    "indycar",
-    "city",
-    "fenerbahce",
-    "middle",
-    "hormuz",
-    "o'neill",
-    "south",
-    "june",
-    "taiwan",
-    "champions",
-    "american",
-    "treasury",
     "lyon",
+    "june",
+    "indycar",
+    "o'neill",
+    "thursday's",
+    "qatar",
+    "oman",
     "donald",
-    "briton",
-    "iranian",
-    "league",
-    "iran",
-    "gulf",
-    "economic",
-    "jong",
     "times",
+    "justified",
+    "jordan",
+    "us-south",
+    "middle",
+    "celtic",
+    "d-day",
+    "korea",
+    "treasury",
+    "chaos",
+    "champions",
+    "briton",
+    "iran",
+    "trump",
+    "economic",
+    "fenerbahce",
+    "aston",
+    "taiwan",
+    "ukraine",
+    "american",
+    "china's",
+    "gulf",
+    "iran's",
+    "jong",
+    "league",
+    "groundhog",
+    "south",
     "north",
-    "justified"
+    "hormuz",
+    "iranian",
+    "city"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -114,22 +114,12 @@
     "d9a4bcff8ff4",
     "5a30adc8d141",
     "4da5ffdbac11",
-    "01273f5eeed2"
+    "01273f5eeed2",
+    "20436c3fa08b"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-08-31",
    "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-     "sources": 2,
-     "score": 48,
-     "event_id": "f0099e190d82",
-     "links": [
-      "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-      "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-08-11",
      "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
@@ -801,6 +791,18 @@
       "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
       "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html"
      ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Trump threatens further action as US and Iran exchange fire in new flare-up",
+     "sources": 2,
+     "score": 48,
+     "event_id": "20436c3fa08b",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
+      "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1022,34 +1024,211 @@
    ]
   },
   {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "hugging",
+    "nvidia",
+    "alabama",
+    "detailed",
+    "cyberattack",
+    "timeline",
+    "openai",
+    "nearly",
+    "face",
+    "unexpected"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6",
+    "3544561ca685",
+    "df3a38888008",
+    "0321378bd042",
+    "69b225fb598b",
+    "de5690d7d612"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+     "sources": 3,
+     "score": 57,
+     "event_id": "df3a38888008",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+     "sources": 3,
+     "score": 50,
+     "event_id": "0321378bd042",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+     "sources": 4,
+     "score": 71,
+     "event_id": "69b225fb598b",
+     "links": [
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
+     "sources": 2,
+     "score": 45,
+     "event_id": "de5690d7d612",
+     "links": [
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1377348ebb36",
    "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
    "section": "business",
    "entities": [
-    "launches",
-    "telescope",
-    "hubble",
-    "grace",
-    "matter",
     "unravel",
-    "nasa's",
-    "space",
-    "roman",
-    "mysteries",
-    "exoplanets",
     "nasa",
-    "dark",
+    "space",
+    "hubble",
+    "exoplanets",
     "lift-off",
     "universe",
-    "energy",
     "nancy",
-    "find"
+    "roman",
+    "telescope",
+    "find",
+    "nasa's",
+    "dark",
+    "energy",
+    "mysteries",
+    "matter",
+    "grace",
+    "launches"
    ],
    "event_ids": [
     "1377348ebb36",
     "2568853c5333",
     "eb2a7b4512f2",
-    "df1eb6b51875"
+    "df1eb6b51875",
+    "403d6e497feb"
    ],
    "first_seen": "2026-08-30",
    "last_seen": "2026-08-31",
@@ -1097,6 +1276,17 @@
      "links": [
       "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
       "https://www.goodnewsnetwork.org/nancy-grace-roman-space-telescope-survives-attempted-budget-cuts-to-launch-9-months-early/"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "NASA’s Nancy Grace Roman Space Telescope Launches",
+     "sources": 1,
+     "score": 45,
+     "event_id": "403d6e497feb",
+     "links": [
+      "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
      ]
     }
    ]
@@ -1336,6 +1526,35 @@
       "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b041c95e70b8",
+   "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
+   "section": "world",
+   "entities": [
+    "messi",
+    "lionel",
+    "argentina"
+   ],
+   "event_ids": [
+    "b041c95e70b8"
+   ],
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-31",
+     "headline": "Lionel Messi says he's retiring from playing internationally for Argentina",
+     "sources": 4,
+     "score": 62,
+     "event_id": "b041c95e70b8",
+     "links": [
+      "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
+      "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss"
      ]
     }
    ]
@@ -2744,169 +2963,6 @@
      "links": [
       "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
       "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "entities": [
-    "face",
-    "hugging",
-    "nvidia",
-    "cyberattack",
-    "timeline",
-    "nearly",
-    "detailed",
-    "unexpected",
-    "alabama",
-    "openai"
-   ],
-   "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4",
-    "bd2de1c640b6",
-    "3544561ca685",
-    "df3a38888008",
-    "0321378bd042",
-    "69b225fb598b"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-08-29",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-     "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
-     "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
-     "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
-     "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-     "sources": 3,
-     "score": 57,
-     "event_id": "df3a38888008",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-     "sources": 3,
-     "score": 50,
-     "event_id": "0321378bd042",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-     "sources": 4,
-     "score": 71,
-     "event_id": "69b225fb598b",
-     "links": [
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
      ]
     }
    ]
@@ -5295,5 +5351,5 @@
    ]
   }
  ],
- "updated": "2026-08-31T15:26:04+00:00"
+ "updated": "2026-08-31T18:30:54+00:00"
 }

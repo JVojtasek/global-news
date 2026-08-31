@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-31
 
-Paměť obsahuje **70 vláken**. Aktivních za posledních 14 dní: **36**.
+Paměť obsahuje **71 vláken**. Aktivních za posledních 14 dní: **36**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **70 vláken**. Aktivních za posledních 14 dní: **36**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 22 dní · 60 záznamů
 - časová osa:
-  - **2026-08-26** (1 zdrojů) How to follow Thursday's Champions League draw - and who is in each pot?
   - **2026-08-27** (2 zdrojů) Trump says all mines cleared from Strait of Hormuz
   - **2026-08-27** (2 zdrojů) Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
   - **2026-08-27** (2 zdrojů) Uefa Champions League 2026-27: league phase draw – live
@@ -19,6 +18,7 @@ Paměť obsahuje **70 vláken**. Aktivních za posledních 14 dní: **36**.
   - **2026-08-28** (2 zdrojů) O'Neill hopeful on transfers despite Champions League play-off exit
   - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
   - **2026-08-31** (2 zdrojů) US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
+  - **2026-08-31** (2 zdrojů) Trump threatens further action as US and Iran exchange fire in new flare-up
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 12 dní · 28 záznamů
@@ -77,9 +77,8 @@ Paměť obsahuje **70 vláken**. Aktivních za posledních 14 dní: **36**.
   - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 19 dní · 11 záznamů
+- rubrika `ai` · sledováno 21 dní · 12 záznamů
 - časová osa:
-  - **2026-08-10** (2 zdrojů) Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'
   - **2026-08-18** (2 zdrojů) OpenAI institutes new safeguards after Hugging Face breach
   - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
   - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
@@ -89,3 +88,4 @@ Paměť obsahuje **70 vláken**. Aktivních za posledních 14 dní: **36**.
   - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
   - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
+  - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
