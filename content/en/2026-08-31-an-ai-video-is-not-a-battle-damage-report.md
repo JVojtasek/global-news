@@ -1,14 +1,16 @@
 ---
 slug: an-ai-video-is-not-a-battle-damage-report
 title: An AI Video Is Not a Battle-Damage Report
-dek: A presidential post claimed Iran’s main oil hub was being destroyed, but the accompanying synthetic clip proved only that an image had been published—not that a strike had occurred.
+dek: A presidential post claimed Iran’s main oil hub was being destroyed, but the
+  accompanying synthetic clip proved only that an image had been published—not that
+  a strike had occurred.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-08-31'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics:
 - Iran
@@ -22,7 +24,8 @@ generator: chatgpt-work
 format: roundtable
 event_id: trump-truth-social-ai-kharg-claim-2026-08-31
 series: The Newsroom Table
-image_query: Kharg Island oil terminal satellite view digital verification neutral editorial
+image_query: Kharg Island oil terminal satellite view digital verification neutral
+  editorial
 sources:
 - name: Donald J. Trump — Truth Social post on Kharg Island
   url: https://truthsocial.com/@realDonaldTrump/posts/117187722429803464
@@ -41,24 +44,29 @@ sources:
   published: '2024-11-20'
 - name: C2PA — Content Credentials Technical Specification 2.4
   url: https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html
-  published: '2026-04'
+  published: 2026-04
 impact:
   areas:
   - world
   - media literacy
   - energy
-  line: In an active conflict, a dramatic clip can move expectations before physical consequences are independently established.
-  todo: Separate the existence of an official post from evidence of the event it depicts; watch operational reporting, imagery and named-source confirmation.
+  line: In an active conflict, a dramatic clip can move expectations before physical
+    consequences are independently established.
+  todo: Separate the existence of an official post from evidence of the event it depicts;
+    watch operational reporting, imagery and named-source confirmation.
 qma_path: ''
 tickers: []
 quiz:
   question: What did the presidential post itself establish about Kharg Island?
   options:
-  - That a claim and a dramatic video were published, not that the depicted attack had been independently verified
+  - That a claim and a dramatic video were published, not that the depicted attack
+    had been independently verified
   - That all oil operations on Kharg had permanently stopped
   - That forensic software can determine the location and time of every explosion
   answer: 0
-  explanation: The post is primary evidence that the president made the claim. Reuters assessed the clip as most likely synthetic, while no US confirmation or independent evidence of a new Kharg attack had appeared at publication time.
+  explanation: The post is primary evidence that the president made the claim. Reuters
+    assessed the clip as most likely synthetic, while no US confirmation or independent
+    evidence of a new Kharg attack had appeared at publication time.
 ---
 
 ## BRIEFLY
