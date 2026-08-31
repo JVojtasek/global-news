@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "slug": "what-protects-your-focus-when-the-day-fragments",
+  "date": "2026-08-31",
+  "category": "personality",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "What protects your focus when the day fragments?", "cs": "Co chrání vaše soustředění, když se den tříští?"},
+    "dek": {"en": "Eight everyday interruptions reveal the move you reach for first—and a second move that may make returning easier.", "cs": "Osm běžných vyrušení ukáže, po jakém kroku saháte nejdřív a co dalšího může usnadnit návrat."},
+    "intro": {"en": "Choose the response most like your real behaviour, not the one that sounds ideal. The result describes a current tendency, not a fixed type.", "cs": "Vyberte odpověď, která nejvíc odpovídá vašemu skutečnému chování, ne ideálu. Výsledek popisuje současnou tendenci, nikoli pevný typ."},
+    "disclaimer": {"en": "This is an original reflective self-check informed by research on interruptions, attention residue and implementation intentions. It is not a validated personality instrument, diagnosis, productivity score or measure of ability. It does not collect your answers, and workload, health, care duties and job control can change them.", "cs": "Jde o původní reflektivní sebehodnocení inspirované výzkumem vyrušení, zbytkové pozornosti a realizačních záměrů. Není to validovaný osobnostní test, diagnóza, skóre produktivity ani měřítko schopností. Odpovědi se neukládají a může je měnit pracovní zátěž, zdraví, péče o druhé i míra kontroly nad prací."}
+  },
+  "dimensions": [
+    {"id": "boundary", "label": {"en": "Guard the boundary", "cs": "Chránit hranici"}, "why": {"en": "You protect concentration by controlling when an interruption can enter.", "cs": "Soustředění chráníte tím, že řídíte, kdy může vyrušení vstoupit."}, "action": {"en": "Create one visible focus window and one specific time for replies.", "cs": "Vytvořte jedno viditelné okno soustředění a jeden konkrétní čas pro odpovědi."}},
+    {"id": "environment", "label": {"en": "Shape the environment", "cs": "Upravit prostředí"}, "why": {"en": "You reduce the cues that invite attention to switch.", "cs": "Omezujete podněty, které vybízejí pozornost k přepnutí."}, "action": {"en": "Remove one recurring cue—notification, open tab or nearby phone—for the next work block.", "cs": "Pro příští pracovní blok odstraňte jeden opakovaný podnět: oznámení, otevřenou kartu či telefon nablízku."}},
+    {"id": "checkpoint", "label": {"en": "Leave a return path", "cs": "Zanechat cestu zpět"}, "why": {"en": "You preserve the next step so the interrupted task is easier to resume.", "cs": "Uchováte další krok, aby se k přerušenému úkolu dalo snáze vrátit."}, "action": {"en": "Before switching, write one sentence: where I stopped, what comes next and what is still unknown.", "cs": "Před přepnutím napište jednu větu: kde jsem skončil, co následuje a co ještě nevím."}},
+    {"id": "reset", "label": {"en": "Reset deliberately", "cs": "Vědomě se vrátit"}, "why": {"en": "You use a brief routine to settle attention after the interruption has happened.", "cs": "Po vyrušení používáte krátký rituál, který znovu usadí pozornost."}, "action": {"en": "Use a 60-second return: close the interruption, breathe, reread the checkpoint and begin one small step.", "cs": "Použijte šedesátisekundový návrat: uzavřete vyrušení, nadechněte se, přečtěte kontrolní poznámku a začněte malým krokem."}}
+  ],
+  "questions": [
+    {
+      "id": "message-arrives",
+      "text": {"en": "An ordinary message arrives while you are writing something difficult. What do you most naturally do?", "cs": "Při psaní obtížného textu přijde běžná zpráva. Co uděláte nejpřirozeněji?"},
+      "options": [
+        {"label": {"en": "Leave it for the reply window I already set", "cs": "Nechám ji na čas pro odpovědi, který jsem si stanovil"}, "scores": {"boundary": 3, "environment": 1, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Silence the channel and hide its badge", "cs": "Ztiším kanál a skryji jeho upozornění"}, "scores": {"boundary": 1, "environment": 3, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Note the next sentence before checking it", "cs": "Před kontrolou si zapíšu další větu"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 3, "reset": 1}},
+        {"label": {"en": "Check it, then use a short ritual to return", "cs": "Zkontroluji ji a pak se krátkým rituálem vrátím"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    },
+    {
+      "id": "colleague-question",
+      "text": {"en": "A colleague asks a non-urgent question during a focus block. Your first move is to…", "cs": "Kolega položí během soustředěné práce nenaléhavou otázku. Nejdřív…"},
+      "options": [
+        {"label": {"en": "Say when I can respond and continue", "cs": "Řeknu, kdy mohu odpovědět, a pokračuji"}, "scores": {"boundary": 3, "environment": 0, "checkpoint": 0, "reset": 1}},
+        {"label": {"en": "Move to a quieter place or signal that I am focusing", "cs": "Přesunu se do klidu nebo dám najevo, že se soustředím"}, "scores": {"boundary": 1, "environment": 3, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Write exactly where I am before answering", "cs": "Než odpovím, přesně si zapíšu, kde jsem skončil"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 3, "reset": 1}},
+        {"label": {"en": "Answer, then reopen the task with a brief reset", "cs": "Odpovím a pak úkol znovu otevřu krátkým návratem"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    },
+    {
+      "id": "too-many-tabs",
+      "text": {"en": "You notice you are bouncing among tabs. What is most like you?", "cs": "Všimnete si, že přeskakujete mezi kartami. Co vás vystihuje nejvíc?"},
+      "options": [
+        {"label": {"en": "Define what is out of scope until this block ends", "cs": "Určím, co je mimo záběr do konce tohoto bloku"}, "scores": {"boundary": 3, "environment": 1, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Close every tab not needed for the current step", "cs": "Zavřu všechny karty nepotřebné pro současný krok"}, "scores": {"boundary": 0, "environment": 3, "checkpoint": 1, "reset": 0}},
+        {"label": {"en": "Write the next step beside the tab I need", "cs": "Vedle potřebné karty si zapíšu další krok"}, "scores": {"boundary": 0, "environment": 1, "checkpoint": 3, "reset": 0}},
+        {"label": {"en": "Pause, settle, and restart with one small action", "cs": "Zastavím se, zklidním a začnu znovu jedním malým krokem"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    },
+    {
+      "id": "urgent-switch",
+      "text": {"en": "A genuinely urgent request forces you to switch tasks. What helps most?", "cs": "Skutečně naléhavý požadavek vás donutí přepnout úkol. Co pomůže nejvíc?"},
+      "options": [
+        {"label": {"en": "Clarify that everything else waits until the urgent work ends", "cs": "Vyjasním, že vše ostatní počká do dokončení naléhavé práce"}, "scores": {"boundary": 3, "environment": 0, "checkpoint": 0, "reset": 1}},
+        {"label": {"en": "Clear the workspace so only the urgent task is visible", "cs": "Vyčistím pracovní prostor, aby byl vidět jen naléhavý úkol"}, "scores": {"boundary": 0, "environment": 3, "checkpoint": 1, "reset": 0}},
+        {"label": {"en": "Leave a precise resumption note on the original task", "cs": "U původního úkolu nechám přesnou poznámku pro návrat"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 3, "reset": 1}},
+        {"label": {"en": "Plan a short decompression before returning", "cs": "Naplánuji krátké zklidnění před návratem"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    },
+    {
+      "id": "phone-reach",
+      "text": {"en": "You keep reaching for your phone without deciding to. What do you try first?", "cs": "Opakovaně saháte po telefonu, aniž byste se rozhodli. Co zkusíte nejdřív?"},
+      "options": [
+        {"label": {"en": "Set a clear rule for when I will check it", "cs": "Stanovím jasné pravidlo, kdy jej zkontroluji"}, "scores": {"boundary": 3, "environment": 1, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Put it out of sight and reach", "cs": "Dám jej z dohledu a dosahu"}, "scores": {"boundary": 1, "environment": 3, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Mark the exact point I need to reach before checking", "cs": "Označím přesný bod, kam se dostanu před kontrolou"}, "scores": {"boundary": 0, "environment": 1, "checkpoint": 3, "reset": 0}},
+        {"label": {"en": "Notice the impulse, pause, and restart the step", "cs": "Všimnu si impulzu, zastavím se a znovu začnu krok"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    },
+    {
+      "id": "meeting-return",
+      "text": {"en": "You return from a meeting to unfinished work. What gets you back in?", "cs": "Po poradě se vracíte k nedokončené práci. Co vás do ní znovu dostane?"},
+      "options": [
+        {"label": {"en": "Protect the next block from new requests", "cs": "Ochráním další blok před novými požadavky"}, "scores": {"boundary": 3, "environment": 0, "checkpoint": 0, "reset": 1}},
+        {"label": {"en": "Restore the desk and screen to one task", "cs": "Vrátím stůl i obrazovku k jedinému úkolu"}, "scores": {"boundary": 0, "environment": 3, "checkpoint": 1, "reset": 0}},
+        {"label": {"en": "Read the note I left about the next move", "cs": "Přečtu si poznámku, kterou jsem nechal o dalším kroku"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 3, "reset": 1}},
+        {"label": {"en": "Use the same brief return routine each time", "cs": "Pokaždé použiji stejný krátký návratový rituál"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    },
+    {
+      "id": "care-interruption",
+      "text": {"en": "A care duty interrupts a task and cannot be postponed. Which support feels most useful?", "cs": "Péče o druhého přeruší úkol a nelze ji odložit. Která opora je nejužitečnější?"},
+      "options": [
+        {"label": {"en": "Make later availability explicit to others", "cs": "Ostatním jasně sdělím svou pozdější dostupnost"}, "scores": {"boundary": 3, "environment": 0, "checkpoint": 1, "reset": 0}},
+        {"label": {"en": "Prepare a low-friction place to resume", "cs": "Připravím prostředí, kde se dá snadno navázat"}, "scores": {"boundary": 0, "environment": 3, "checkpoint": 1, "reset": 0}},
+        {"label": {"en": "Leave the smallest possible next-step note", "cs": "Nechám co nejmenší poznámku s dalším krokem"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 3, "reset": 1}},
+        {"label": {"en": "Allow a gentle reset instead of demanding instant focus", "cs": "Dopřeji si laskavý návrat místo požadavku na okamžité soustředění"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    },
+    {
+      "id": "fragmented-day",
+      "text": {"en": "The whole day has become a chain of small interruptions. Your most natural recovery is to…", "cs": "Celý den se změnil v řetězec drobných vyrušení. Nejpřirozeněji se zotavíte tím, že…"},
+      "options": [
+        {"label": {"en": "Renegotiate what may interrupt the next hour", "cs": "Znovu určím, co smí narušit příští hodinu"}, "scores": {"boundary": 3, "environment": 1, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Remove every avoidable cue from the workspace", "cs": "Odstraním z pracovního prostoru každý zbytečný podnět"}, "scores": {"boundary": 1, "environment": 3, "checkpoint": 0, "reset": 0}},
+        {"label": {"en": "Choose one task and write its finish line and next step", "cs": "Vyberu jeden úkol a napíšu jeho cílový bod a další krok"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 3, "reset": 1}},
+        {"label": {"en": "Take a short reset, then begin one bounded block", "cs": "Krátce se zklidním a pak začnu jeden ohraničený blok"}, "scores": {"boundary": 0, "environment": 0, "checkpoint": 1, "reset": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "boundary": {"title": {"en": "You tend to protect focus with boundaries", "cs": "Soustředění chráníte hranicemi"}, "summary": {"en": "You often preserve attention by deciding when requests can enter. This is a current tendency, not a fixed trait.", "cs": "Pozornost často chráníte rozhodnutím, kdy mohou požadavky vstoupit. Jde o současnou tendenci, nikoli pevnou vlastnost."}, "strength": {"en": "You make availability deliberate instead of continuous.", "cs": "Dostupnost měníte z nepřetržité na záměrnou."}, "watch": {"en": "Some roles and care duties offer little control, and rigid boundaries can shift costs to others.", "cs": "Některé role a pečující povinnosti nabízejí málo kontroly a příliš pevné hranice mohou přesunout náklady na druhé."}, "action": {"en": "Name one focus window and one reliable route for genuinely urgent contact.", "cs": "Pojmenujte jedno okno soustředění a jednu spolehlivou cestu pro skutečně naléhavý kontakt."}},
+    "environment": {"title": {"en": "You tend to protect focus by shaping cues", "cs": "Soustředění chráníte úpravou podnětů"}, "summary": {"en": "You often change the physical or digital environment so fewer invitations to switch are present.", "cs": "Často měníte fyzické či digitální prostředí tak, aby nabízelo méně podnětů k přepnutí."}, "strength": {"en": "You reduce the need to win the same attention battle repeatedly.", "cs": "Snižujete nutnost opakovaně svádět stejný boj o pozornost."}, "watch": {"en": "A quiet setup cannot solve unclear priorities or unavoidable human needs.", "cs": "Tiché prostředí nevyřeší nejasné priority ani neodkladné lidské potřeby."}, "action": {"en": "Remove one recurring cue and decide when it will return.", "cs": "Odstraňte jeden opakovaný podnět a rozhodněte, kdy se vrátí."}},
+    "checkpoint": {"title": {"en": "You tend to protect the path back", "cs": "Chráníte cestu zpět"}, "summary": {"en": "You often leave a clear state marker so an interruption does not erase the task’s next move.", "cs": "Často zanecháte jasnou stopu, aby vyrušení nevymazalo další krok úkolu."}, "strength": {"en": "You lower the cognitive cost of reconstructing unfinished work.", "cs": "Snižujete mentální náklady na znovusestavení nedokončené práce."}, "watch": {"en": "Detailed notes can become another task if the interruption is very brief.", "cs": "Podrobné poznámky se mohou stát dalším úkolem, pokud je vyrušení velmi krátké."}, "action": {"en": "Use a three-part checkpoint: stopped here, next action, open question.", "cs": "Použijte tříbodovou poznámku: skončil jsem zde, další krok, otevřená otázka."}},
+    "reset": {"title": {"en": "You tend to rebuild focus with a reset", "cs": "Soustředění obnovujete návratovým rituálem"}, "summary": {"en": "You often accept that switching happened and use a brief routine to settle into the task again.", "cs": "Často přijmete, že k přepnutí došlo, a krátkým rituálem se znovu usadíte v úkolu."}, "strength": {"en": "You treat recovery as a skill instead of demanding instant concentration.", "cs": "Návrat berete jako dovednost místo požadavku na okamžité soustředění."}, "watch": {"en": "Recovery routines cannot compensate for a system that interrupts without limit.", "cs": "Návratové rituály nenahradí systém, který vyrušuje bez omezení."}, "action": {"en": "Pair the reset with either a visible boundary or a written next step.", "cs": "Spojte návratový rituál buď s viditelnou hranicí, nebo se zapsaným dalším krokem."}}
+  },
+  "sources": [
+    {"name": "Leroy — Why Is It So Hard to Do My Work? The Challenge of Attention Residue", "url": "https://www.sciencedirect.com/science/article/pii/S0749597809000399", "published": "2009-07-01", "type": "peer-reviewed research on attention residue after switching tasks; no questionnaire items reproduced"},
+    {"name": "Mark, Gudith and Klocke — The Cost of Interrupted Work", "url": "https://interruptions.net/literature/Mark-CHI08.pdf", "published": "2008-04-05", "type": "peer-reviewed experimental research on interruptions, speed and stress; no instrument reproduced"},
+    {"name": "Baethge and colleagues — Work Interruptions of Office Workers", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10789356/", "published": "2024", "type": "open-access diary study of interruption frequency, task complexity and subjective workload"},
+    {"name": "Gollwitzer and Sheeran — Implementation Intentions and Goal Achievement", "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf", "published": "2006", "type": "meta-analysis of if-then planning; no proprietary items reproduced"}
+  ]
+}
