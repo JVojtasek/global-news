@@ -809,25 +809,35 @@
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
    "entities": [
-    "covid",
-    "margaret",
-    "songwriter",
-    "wanted",
-    "stars",
-    "remembering",
-    "nashville",
-    "dolly",
+    "disease",
     "music",
-    "parton",
-    "remembered",
-    "sullivan",
-    "country",
-    "americans",
+    "covid",
+    "wanted",
     "chat",
-    "biggest",
-    "briefing",
+    "stars",
+    "chronic",
+    "scientists",
+    "country",
+    "dolly",
+    "relief",
+    "many",
+    "working",
     "america",
-    "history"
+    "songwriter",
+    "remembering",
+    "remembered",
+    "americans",
+    "still",
+    "margaret",
+    "tirelessly",
+    "briefing",
+    "history",
+    "parton",
+    "biggest",
+    "nashville",
+    "disabling",
+    "bring",
+    "sullivan"
    ],
    "event_ids": [
     "1301430cb05f",
@@ -842,7 +852,8 @@
     "200127734810",
     "d314b5251d2f",
     "38850f6a5dfa",
-    "f14aa1a495df"
+    "f14aa1a495df",
+    "bdbcab469084"
    ],
    "first_seen": "2026-08-25",
    "last_seen": "2026-08-31",
@@ -997,6 +1008,96 @@
       "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
      ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdbcab469084",
+     "links": [
+      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1377348ebb36",
+   "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
+   "section": "business",
+   "entities": [
+    "launches",
+    "telescope",
+    "hubble",
+    "grace",
+    "matter",
+    "unravel",
+    "nasa's",
+    "space",
+    "roman",
+    "mysteries",
+    "exoplanets",
+    "nasa",
+    "dark",
+    "lift-off",
+    "universe",
+    "energy",
+    "nancy",
+    "find"
+   ],
+   "event_ids": [
+    "1377348ebb36",
+    "2568853c5333",
+    "eb2a7b4512f2",
+    "df1eb6b51875"
+   ],
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-30",
+     "headline": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy",
+     "sources": 4,
+     "score": 69,
+     "event_id": "1377348ebb36",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/",
+      "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+      "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+     "sources": 2,
+     "score": 43,
+     "event_id": "2568853c5333",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02727-7",
+      "https://www.france24.com/en/video/20260830-nasa-launches-new-space-telescope"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "NASA’s Roman telescope will see 100 times more sky than Hubble",
+     "sources": 2,
+     "score": 41,
+     "event_id": "eb2a7b4512f2",
+     "links": [
+      "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
+      "https://phys.org/news/2026-08-nasa-telescope-honors-nancy-grace.html"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+     "sources": 2,
+     "score": 50,
+     "event_id": "df1eb6b51875",
+     "links": [
+      "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
+      "https://www.goodnewsnetwork.org/nancy-grace-roman-space-telescope-survives-attempted-budget-cuts-to-launch-9-months-early/"
+     ]
     }
    ]
   },
@@ -1109,7 +1210,8 @@
     "djokovic"
    ],
    "event_ids": [
-    "ee6884085d8e"
+    "ee6884085d8e",
+    "edc03cc07a9a"
    ],
    "first_seen": "2026-08-31",
    "last_seen": "2026-08-31",
@@ -1123,6 +1225,18 @@
      "links": [
       "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/31/novak-djokovic-defeated-mariano-navone-us-open-first-round-earliest-exit-in-20-years"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Watch: Djokovic overcome with emotion during US Open loss",
+     "sources": 3,
+     "score": 58,
+     "event_id": "edc03cc07a9a",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/videos/clyk5gmvmero?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ailing-djokovic-despised-every-moment-of-us-open-defeat/a-78572187?maca=en-rss-en-all-1573-rdf",
       "https://www.theguardian.com/sport/2026/aug/31/novak-djokovic-defeated-mariano-navone-us-open-first-round-earliest-exit-in-20-years"
      ]
     }
@@ -2054,73 +2168,6 @@
       "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
       "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
       "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1377348ebb36",
-   "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
-   "section": "business",
-   "entities": [
-    "hubble",
-    "nasa",
-    "matter",
-    "nancy",
-    "unravel",
-    "telescope",
-    "energy",
-    "roman",
-    "space",
-    "find",
-    "dark",
-    "nasa's",
-    "exoplanets",
-    "grace",
-    "lift-off",
-    "mysteries",
-    "launches"
-   ],
-   "event_ids": [
-    "1377348ebb36",
-    "2568853c5333",
-    "eb2a7b4512f2"
-   ],
-   "first_seen": "2026-08-30",
-   "last_seen": "2026-08-30",
-   "timeline": [
-    {
-     "date": "2026-08-30",
-     "headline": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy",
-     "sources": 4,
-     "score": 69,
-     "event_id": "1377348ebb36",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/",
-      "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
-      "https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
-     "sources": 2,
-     "score": 43,
-     "event_id": "2568853c5333",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02727-7",
-      "https://www.france24.com/en/video/20260830-nasa-launches-new-space-telescope"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-     "sources": 2,
-     "score": 41,
-     "event_id": "eb2a7b4512f2",
-     "links": [
-      "https://www.sciencedaily.com/releases/2026/08/260828082333.htm",
-      "https://phys.org/news/2026-08-nasa-telescope-honors-nancy-grace.html"
      ]
     }
    ]
@@ -5178,5 +5225,5 @@
    ]
   }
  ],
- "updated": "2026-08-31T09:33:33+00:00"
+ "updated": "2026-08-31T12:37:14+00:00"
 }

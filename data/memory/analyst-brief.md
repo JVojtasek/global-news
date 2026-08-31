@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-08-31
 
-Paměť obsahuje **68 vláken**. Aktivních za posledních 14 dní: **34**.
+Paměť obsahuje **68 vláken**. Aktivních za posledních 14 dní: **35**.
 
 ---
 
@@ -63,9 +63,8 @@ Paměť obsahuje **68 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-30** (2 zdrojů) Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 6 dní · 13 záznamů
+- rubrika `culture` · sledováno 6 dní · 14 záznamů
 - časová osa:
-  - **2026-08-26** (3 zdrojů) 'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton
   - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
   - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
   - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
@@ -75,6 +74,7 @@ Paměť obsahuje **68 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
   - **2026-08-29** (3 zdrojů) How America celebrated and mourned Dolly Parton, in Nashville and beyond
   - **2026-08-31** (2 zdrojů) Dolly Parton laid to rest alongside husband in Nashville
+  - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 19 dní · 11 záznamů
