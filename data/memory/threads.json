@@ -1243,6 +1243,104 @@
    ]
   },
   {
+   "id": "acca06fb4c4f",
+   "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+   "section": "world",
+   "entities": [
+    "tibet",
+    "nepal",
+    "china"
+   ],
+   "event_ids": [
+    "acca06fb4c4f",
+    "630cc0cfdd38"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+     "sources": 4,
+     "score": 63,
+     "event_id": "acca06fb4c4f",
+     "links": [
+      "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
+      "https://www.cnbc.com/2026/08/26/flash-floods-deaths-missing-nepal-china.html",
+      "https://www.france24.com/en/video/20260826-hundreds-missing-in-nepal-catastrophic-flash-floods"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "How China buried Tibet flood images after Nepal disaster",
+     "sources": 2,
+     "score": 40,
+     "event_id": "630cc0cfdd38",
+     "links": [
+      "https://www.dw.com/en/how-china-buried-tibet-flood-images-after-nepal-disaster/a-78576472?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/aug/31/china-concealing-scale-nepal-flood-disaster-say-tibet-campaigners"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fdcbb689323c",
+   "title": "Barcola joins Liverpool from PSG in £123m move",
+   "section": "world",
+   "entities": [
+    "barcola",
+    "liverpool"
+   ],
+   "event_ids": [
+    "fdcbb689323c"
+   ],
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-31",
+     "headline": "Barcola joins Liverpool from PSG in £123m move",
+     "sources": 4,
+     "score": 69,
+     "event_id": "fdcbb689323c",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss",
+      "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "915ffff48c98",
+   "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+   "section": "ai",
+   "entities": [
+    "reddit",
+    "chatgpt",
+    "eu's"
+   ],
+   "event_ids": [
+    "915ffff48c98"
+   ],
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-31",
+     "headline": "ChatGPT and Reddit now face EU's toughest online safety rules",
+     "sources": 5,
+     "score": 67,
+     "event_id": "915ffff48c98",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -3648,34 +3746,6 @@
    ]
   },
   {
-   "id": "acca06fb4c4f",
-   "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
-   "section": "world",
-   "entities": [
-    "nepal",
-    "china"
-   ],
-   "event_ids": [
-    "acca06fb4c4f"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
-     "sources": 4,
-     "score": 63,
-     "event_id": "acca06fb4c4f",
-     "links": [
-      "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
-      "https://www.cnbc.com/2026/08/26/flash-floods-deaths-missing-nepal-china.html",
-      "https://www.france24.com/en/video/20260826-hundreds-missing-in-nepal-catastrophic-flash-floods"
-     ]
-    }
-   ]
-  },
-  {
    "id": "b34b50a2bf4d",
    "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
    "section": "world",
@@ -5225,5 +5295,5 @@
    ]
   }
  ],
- "updated": "2026-08-31T12:37:14+00:00"
+ "updated": "2026-08-31T15:26:04+00:00"
 }
