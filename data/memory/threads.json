@@ -905,6 +905,34 @@
    ]
   },
   {
+   "id": "ee6884085d8e",
+   "title": "Djokovic in tears during US Open first-round exit",
+   "section": "sport",
+   "entities": [
+    "open",
+    "djokovic"
+   ],
+   "event_ids": [
+    "ee6884085d8e"
+   ],
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-08-31",
+   "timeline": [
+    {
+     "date": "2026-08-31",
+     "headline": "Djokovic in tears during US Open first-round exit",
+     "sources": 3,
+     "score": 59,
+     "event_id": "ee6884085d8e",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/31/novak-djokovic-defeated-mariano-navone-us-open-first-round-earliest-exit-in-20-years"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -5138,5 +5166,5 @@
    ]
   }
  ],
- "updated": "2026-08-31T03:31:48+00:00"
+ "updated": "2026-08-31T06:49:01+00:00"
 }
