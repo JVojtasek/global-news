@@ -1775,304 +1775,27 @@
    ]
   },
   {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "press",
-    "army",
-    "driscoll",
-    "crypto",
-    "nabep",
-    "days",
-    "secretary",
-    "chinese",
-    "trump",
-    "karoline",
-    "white",
-    "venezuela",
-    "supreme",
-    "house",
-    "leavitt",
-    "court"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "84ce4047c1c5",
-   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-   "section": "world",
-   "entities": [
-    "fast-fashion",
-    "hong",
-    "shein's",
-    "alibaba",
-    "kong",
-    "kong's",
-    "shein",
-    "tiananmen"
-   ],
-   "event_ids": [
-    "84ce4047c1c5",
-    "0df2dafecfc9",
-    "2c91a82a84c2",
-    "f33cc723a614",
-    "a74878e9b76a"
-   ],
-   "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "sources": 5,
-     "score": 85,
-     "event_id": "84ce4047c1c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong convicts Tiananmen vigil leaders",
-     "sources": 3,
-     "score": 67,
-     "event_id": "0df2dafecfc9",
-     "links": [
-      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
-      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-     "sources": 2,
-     "score": 40,
-     "event_id": "2c91a82a84c2",
-     "links": [
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
-     "sources": 3,
-     "score": 53,
-     "event_id": "f33cc723a614",
-     "links": [
-      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
-      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
-     "sources": 2,
-     "score": 46,
-     "event_id": "a74878e9b76a",
-     "links": [
-      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "03db067f9792",
-   "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
-   "section": "world",
-   "entities": [
-    "tupac",
-    "moment",
-    "shakur's",
-    "davis",
-    "duane",
-    "keffe"
-   ],
-   "event_ids": [
-    "03db067f9792"
-   ],
-   "first_seen": "2026-09-01",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-09-01",
-     "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
-     "sources": 3,
-     "score": 58,
-     "event_id": "03db067f9792",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "90341f43f40f",
-   "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
-   "section": "world",
-   "entities": [
-    "jury",
-    "tupac",
-    "shakur"
-   ],
-   "event_ids": [
-    "90341f43f40f"
-   ],
-   "first_seen": "2026-09-01",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-09-01",
-     "headline": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
-     "sources": 3,
-     "score": 62,
-     "event_id": "90341f43f40f",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder",
-      "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "7b46dd318f11",
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "hugging",
-    "nvidia",
-    "alabama",
-    "detailed",
-    "cyberattack",
-    "timeline",
-    "openai",
-    "nearly",
+    "drove",
     "face",
-    "unexpected"
+    "cyberattack",
+    "exploit",
+    "hacking",
+    "hugging",
+    "alabama",
+    "nearly",
+    "reward",
+    "detailed",
+    "breach",
+    "agents",
+    "timeline",
+    "nvidia",
+    "zero-days",
+    "unexpected",
+    "openai"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -2086,10 +1809,11 @@
     "df3a38888008",
     "0321378bd042",
     "69b225fb598b",
-    "de5690d7d612"
+    "de5690d7d612",
+    "e4222c90706c"
    ],
    "first_seen": "2026-08-10",
-   "last_seen": "2026-08-31",
+   "last_seen": "2026-09-01",
    "timeline": [
     {
      "date": "2026-08-10",
@@ -2231,6 +1955,155 @@
       "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
      ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e4222c90706c",
+     "links": [
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "press",
+    "army",
+    "driscoll",
+    "crypto",
+    "nabep",
+    "days",
+    "secretary",
+    "chinese",
+    "trump",
+    "karoline",
+    "white",
+    "venezuela",
+    "supreme",
+    "house",
+    "leavitt",
+    "court"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
     }
    ]
   },
@@ -2239,15 +2112,17 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
-    "politics",
     "weekly",
-    "ontario",
+    "politics",
+    "apple",
     "lake",
-    "maps",
-    "trump",
     "america",
+    "maps",
+    "canada",
+    "trump",
     "google",
-    "canada"
+    "mapquest",
+    "ontario"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -2255,10 +2130,11 @@
     "69769cf42fdf",
     "4dcd5aa8edee",
     "f1acf504161f",
-    "eded7a46ce69"
+    "eded7a46ce69",
+    "513bc8ca4fe5"
    ],
    "first_seen": "2026-08-27",
-   "last_seen": "2026-08-31",
+   "last_seen": "2026-09-01",
    "timeline": [
     {
      "date": "2026-08-27",
@@ -2329,6 +2205,205 @@
       "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
       "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
       "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
+     "sources": 2,
+     "score": 41,
+     "event_id": "513bc8ca4fe5",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "84ce4047c1c5",
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "section": "world",
+   "entities": [
+    "fast-fashion",
+    "hong",
+    "shein's",
+    "alibaba",
+    "kong",
+    "kong's",
+    "shein",
+    "tiananmen"
+   ],
+   "event_ids": [
+    "84ce4047c1c5",
+    "0df2dafecfc9",
+    "2c91a82a84c2",
+    "f33cc723a614",
+    "a74878e9b76a"
+   ],
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+     "sources": 5,
+     "score": 85,
+     "event_id": "84ce4047c1c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong convicts Tiananmen vigil leaders",
+     "sources": 3,
+     "score": 67,
+     "event_id": "0df2dafecfc9",
+     "links": [
+      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+     "sources": 2,
+     "score": 40,
+     "event_id": "2c91a82a84c2",
+     "links": [
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+     "sources": 3,
+     "score": 53,
+     "event_id": "f33cc723a614",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
+      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a74878e9b76a",
+     "links": [
+      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b041c95e70b8",
+   "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
+   "section": "world",
+   "entities": [
+    "messi",
+    "argentina",
+    "lionel"
+   ],
+   "event_ids": [
+    "b041c95e70b8",
+    "1f6476b20094"
+   ],
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-08-31",
+     "headline": "Lionel Messi says he's retiring from playing internationally for Argentina",
+     "sources": 4,
+     "score": 62,
+     "event_id": "b041c95e70b8",
+     "links": [
+      "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
+      "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+     "sources": 2,
+     "score": 48,
+     "event_id": "1f6476b20094",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-records-argentina-international-retirement-football?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "03db067f9792",
+   "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+   "section": "world",
+   "entities": [
+    "tupac",
+    "moment",
+    "shakur's",
+    "davis",
+    "duane",
+    "keffe"
+   ],
+   "event_ids": [
+    "03db067f9792"
+   ],
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-09-01",
+     "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+     "sources": 3,
+     "score": 58,
+     "event_id": "03db067f9792",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "90341f43f40f",
+   "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+   "section": "world",
+   "entities": [
+    "jury",
+    "tupac",
+    "shakur"
+   ],
+   "event_ids": [
+    "90341f43f40f"
+   ],
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-09-01",
+     "headline": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+     "sources": 3,
+     "score": 62,
+     "event_id": "90341f43f40f",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder",
+      "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss"
      ]
     }
    ]
@@ -2660,35 +2735,6 @@
       "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "b041c95e70b8",
-   "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-   "section": "world",
-   "entities": [
-    "messi",
-    "lionel",
-    "argentina"
-   ],
-   "event_ids": [
-    "b041c95e70b8"
-   ],
-   "first_seen": "2026-08-31",
-   "last_seen": "2026-08-31",
-   "timeline": [
-    {
-     "date": "2026-08-31",
-     "headline": "Lionel Messi says he's retiring from playing internationally for Argentina",
-     "sources": 4,
-     "score": 62,
-     "event_id": "b041c95e70b8",
-     "links": [
-      "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-      "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss"
      ]
     }
    ]
@@ -5588,5 +5634,5 @@
    ]
   }
  ],
- "updated": "2026-09-01T12:36:00+00:00"
+ "updated": "2026-09-01T15:42:25+00:00"
 }

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-01
 
-Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
+Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **34**.
 
 ---
 
@@ -77,9 +77,8 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 21 dní · 12 záznamů
+- rubrika `ai` · sledováno 22 dní · 13 záznamů
 - časová osa:
-  - **2026-08-18** (2 zdrojů) OpenAI institutes new safeguards after Hugging Face breach
   - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
   - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
   - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
@@ -89,3 +88,4 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
   - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
   - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
+  - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
