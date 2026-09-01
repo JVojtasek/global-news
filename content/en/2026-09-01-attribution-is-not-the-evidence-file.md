@@ -1,14 +1,15 @@
 ---
 slug: attribution-is-not-the-evidence-file
 title: An Attribution Is Not the Evidence File
-dek: Germany now says Russia directed the explosive-drone attempt at Leipzig/Halle Airport, but the public case is still a conclusion without its underlying evidence.
+dek: Germany now says Russia directed the explosive-drone attempt at Leipzig/Halle
+  Airport, but the public case is still a conclusion without its underlying evidence.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-01'
-status: draft
-confidence: 91
+status: published
+confidence: 95
 load: 0
 topics:
 - Germany
@@ -44,8 +45,10 @@ impact:
   - European security
   - aviation
   - diplomacy
-  line: Germany has converted a suspected sabotage incident at a civilian and military logistics hub into a formal state attribution with diplomatic consequences.
-  todo: Watch for published forensic evidence, criminal charges, allied attribution and the implementation of Germany's announced closures and sanctions proposals.
+  line: Germany has converted a suspected sabotage incident at a civilian and military
+    logistics hub into a formal state attribution with diplomatic consequences.
+  todo: Watch for published forensic evidence, criminal charges, allied attribution
+    and the implementation of Germany's announced closures and sanctions proposals.
 qma_path: ''
 tickers: []
 quiz:
@@ -55,7 +58,8 @@ quiz:
   - Investigators discovered the drone for the first time
   - NATO declared that Article 5 had been triggered
   answer: 0
-  explanation: The drone was found on 4 August. The new development was Germany's formal attribution and diplomatic response; NATO did not invoke Article 5.
+  explanation: The drone was found on 4 August. The new development was Germany's
+    formal attribution and diplomatic response; NATO did not invoke Article 5.
 ---
 
 ## BRIEFLY
