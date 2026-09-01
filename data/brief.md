@@ -56,7 +56,30 @@
   - **Investing.com** — Oil jumps more than 2% after US attack on Iran’s Larak island
     <https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075>
 
-### 3. NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
+### 3. Germany says Russia behind Leipzig airport drone attack
+- id události: `10a1cf734426`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Germany says Russia behind Leipzig airport drone attack
+    <https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss>
+    > A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
+  - **The Guardian World** — Germany blames Russia for drone attack at Leipzig airport
+    <https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport>
+    > Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacks The German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Mosc
+  - **DW News** — Germany says Russia behind attempted drone attack at Leipzig airport
+    <https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf>
+    > Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The German government said on Tuesday that it held Russia "responsible."
+  - **France 24** — Germany blames Russia for Leipzig airport drone attack, orders Russian consulate closed
+    <https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed>
+    > Germany's government on Tuesday blamed Russia for an attempted attack at Leipzig/Halle Airport on 4 August using an explosive-laden drone, and announced that it would shut down a Russian consulate among other measures against Moscow. NATO Secretary-General Mark Rutte and EU chief
+  - **Al Jazeera** — Germany accuses Russia of drone attack on Leipzig airport
+    <https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss>
+    > Findings announced as European countries report an increase in sabotage attacks and attempts that they blame on Russia.
+  - **France 24** — Germany set to blame Russia for airport explosive-laden drone incident
+    <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
+    > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
+
+### 4. NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
 - id události: `1377348ebb36`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -73,25 +96,6 @@
   - **Hacker News Best** — Nancy Grace Roman Space Telescope
     <https://science.nasa.gov/mission/roman-space-telescope/>
     > https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 218 # Comments: 80
-
-### 4. Barcola joins Liverpool from PSG in £123m move
-- id události: `fdcbb689323c`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Barcola joins Liverpool from PSG in £123m move
-    <https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss>
-    > Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.
-  - **Al Jazeera** — Liverpool sign Bradley Barcola from Paris Saint-Germain
-    <https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss>
-    > Barcola's move comes as Liverpool seek to reinforce their forward line after Mohamed Salah's departure.
-  - **France 24** — 🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer
-    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
-  - **France 24** — Bradley Barcola joins Liverpool from PSG for record fee
-    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
-    > Liverpool ⁠have signed ​France forward Bradley Barcola ​from European champions Paris Saint-Germain on a long-term contract, ​the ‌Premier League ⁠club said on Monday, making ‌him the latest marquee addition ⁠to their frontline. The whopping fee is estimated to be around £120 mil
-  - **Guardian Sport** — Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal
-    <https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg>
-    > France international says title ‘one of my biggest dreams’ He is second winger to join in window, after Victor Muñoz Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m
 
 ---
 
@@ -129,7 +133,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
   2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
   2026-08-25  (2 zdrojů, síla 42)  ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
   2026-08-25  (2 zdrojů, síla 40)  US launches Economic war on Iran
@@ -149,6 +152,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-31  (2 zdrojů, síla 42)  US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
   2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up
   2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
+  2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

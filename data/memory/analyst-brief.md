@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-01
 
-Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **34**.
+Paměť obsahuje **74 vláken**. Aktivních za posledních 14 dní: **34**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **34**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 23 dní · 60 záznamů
 - časová osa:
-  - **2026-08-27** (2 zdrojů) Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
   - **2026-08-27** (2 zdrojů) Uefa Champions League 2026-27: league phase draw – live
   - **2026-08-27** (4 zdrojů) Man City and Aston Villa to face holders PSG in Champions League
   - **2026-08-27** (2 zdrojů) Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
@@ -19,6 +18,7 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-31** (2 zdrojů) US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
   - **2026-08-31** (2 zdrojů) Trump threatens further action as US and Iran exchange fire in new flare-up
   - **2026-09-01** (2 zdrojů) Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
+  - **2026-09-01** (2 zdrojů) U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 21 dní · 30 záznamů
