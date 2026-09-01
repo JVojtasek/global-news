@@ -219,131 +219,6 @@
   ]
  },
  {
-  "id": "69b225fb598b",
-  "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-  "section": "ai",
-  "score": 71,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-26T19:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "source": "MIT TR — AI",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-    "published_at": "2026-08-26T19:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-    "source": "MIT Tech Review",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
-    "published_at": "2026-08-27T12:10:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "source": "MIT Tech Review",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-    "published_at": "2026-08-26T19:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-    "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-    "source": "The Hacker News",
-    "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI models, and that it was mainly fueled by what it described as a \"highly capable",
-    "published_at": "2026-08-27T18:36:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "url": "https://huggingface.co/blog/pwc-search",
-    "source": "Hugging Face",
-    "summary": "",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   }
-  ]
- },
- {
-  "id": "d1fd3bc001a5",
-  "headline": "US and Venezuela reach 'historic' oil deal, Trump says",
-  "section": "world",
-  "score": 70,
-  "sources_count": 6,
-  "depth_signal": 0,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-29T00:25:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
-    "published_at": "2026-08-29T00:25:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
-    "published_at": "2026-08-29T00:25:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "Trump announces new US oil agreement with Venezuela",
-    "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
-    "source": "The Guardian World",
-    "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves. The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been broke",
-    "published_at": "2026-08-28T23:34:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "Trump announces new US oil agreement with Venezuela",
-    "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
-    "source": "Guardian Business",
-    "summary": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves. The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been broke",
-    "published_at": "2026-08-28T23:34:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "Trump hails major oil deal with Venezuela",
-    "url": "https://www.dw.com/en/trump-hails-major-oil-deal-with-venezuela/a-78553607?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "US President Donald Trump announced an agreement with Venezuela to take control of 65 billion barrels of oil. The South American country has the largest proven oil reserves in the world.",
-    "published_at": "2026-08-28T23:23:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-    "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
-    "source": "CNBC Top",
-    "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
-    "published_at": "2026-08-28T23:42:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   }
-  ]
- },
- {
   "id": "1377348ebb36",
   "headline": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy",
   "section": "business",
@@ -514,73 +389,6 @@
     "published_at": "2026-08-31T13:27:36+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T15:26:00+00:00"
-   }
-  ]
- },
- {
-  "id": "95f3edbe9e13",
-  "headline": "Haaland and Cherki fire impressive Man City to victory at Palace",
-  "section": "sport",
-  "score": 65,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T21:30:06+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Haaland and Cherki fire impressive Man City to victory at Palace",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
-    "published_at": "2026-08-28T21:30:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Cherki genius and Wharton excels -  Palace v Man City player ratings",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "How Crystal Palace and Manchester City's players rated following their Premier League match.",
-    "published_at": "2026-08-28T21:01:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Crystal Palace 1-4 Manchester City: Premier League – live reaction",
-    "url": "https://www.theguardian.com/football/live/2026/aug/28/crystal-palace-v-manchester-city-premier-league-live",
-    "source": "Guardian Sport",
-    "summary": "Updates from 8pm kickoff (BST) at Selhurst Park Get in touch: email Michael about the game We’re off at Selhurst Park, a stadium that Erling Haaland has never failed to score at. The Norwegian gives a nod to compatriot Strand Larsen as Palace get us underway. The teams are out! Palace in their red and blue, while City are donning their black away kit, with a gold trim. Continue reading...",
-    "published_at": "2026-08-28T21:13:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Cherki and Haaland double up in Manchester City cruise at Crystal Palace",
-    "url": "https://www.theguardian.com/football/2026/aug/28/crystal-palace-manchester-city-premier-league-match-report",
-    "source": "Guardian Sport",
-    "summary": "All who attend the Rayan Cherki show know the ticket comes with a guarantee of entertainment. Enzo Maresca, a manager famed for his obsessive positional control, does not need to put limits on the Manchester City wizard. Cherki has to feel free and he was at his creative best against Crystal Palace, who were in this game before City’s creative heartbeat took it away from them in the second half. I",
-    "published_at": "2026-08-28T20:59:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Haaland and Cherki doubles send Man City to EPL win at Crystal Palace",
-    "url": "https://www.aljazeera.com/sports/2026/8/28/cherki-double-sends-man-city-to-win-at-crystal-palace-in-premier-league?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Manchester City make it back-to-back wins to start the Premier League season as Crystal Palace slip to another defeat.",
-    "published_at": "2026-08-28T20:53:51+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Premier League news: ‘Mackems in Milan’ as Le Bris revels in Sunderland’s rise",
-    "url": "https://www.theguardian.com/football/2026/aug/28/prremier-league-news-sunderland-newcastle-manchester-united-everton",
-    "source": "Guardian Sport",
-    "summary": "Sunderland will visit San Siro in Europa League while Carlos Baleba must wait for his Manchester United debut Continue reading...",
-    "published_at": "2026-08-28T17:09:33+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
    }
   ]
  },
@@ -1137,6 +945,55 @@
   ]
  },
  {
+  "id": "03db067f9792",
+  "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+  "section": "world",
+  "score": 58,
+  "sources_count": 3,
+  "depth_signal": 2,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-09-01T00:31:20+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+    "url": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The rapper's killing became one of popular culture's great mysteries, with countless theories but no arrests until 2023.",
+    "published_at": "2026-09-01T00:31:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Tupac Shakur murder trial: Duane 'Keffe D' Davis guilty",
+    "url": "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The jury reached a verdict in less than three hours in a case that had been unsolved for nearly 30 years.",
+    "published_at": "2026-09-01T00:27:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Duane “Keffe D” Davis found guilty in Tupac Shakur murder",
+    "url": "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder",
+    "source": "France 24",
+    "summary": "",
+    "published_at": "2026-09-01T00:57:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Duane “Keffe D” Davis found guilty in Tupac Shakur murder",
+    "url": "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder",
+    "source": "France 24",
+    "summary": "Duane “Keffe D” Davis was found guilty Monday of orchestrating the 1996 murder of rap icon Tupac Shakur, becoming the first person convicted in the decades-old case. The 63-year-old faces a possible life sentence after a Las Vegas jury deliberated for less than three hours.",
+    "published_at": "2026-09-01T00:53:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
   "id": "a7f4b944d680",
   "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
   "section": "world",
@@ -1226,6 +1083,46 @@
   ]
  },
  {
+  "id": "bcab6080a3cb",
+  "headline": "Festival honouring Dolly Parton set for Nashville and London",
+  "section": "culture",
+  "score": 55,
+  "sources_count": 3,
+  "depth_signal": 2,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T18:58:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Festival honouring Dolly Parton set for Nashville and London",
+    "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.",
+    "published_at": "2026-08-31T18:58:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Dolly Parton laid to rest in private Nashville funeral",
+    "url": "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+    "source": "Guardian Culture",
+    "summary": "The queen of country was interred next to her late husband in an intimate ceremony attended by close family Dolly Parton was laid to rest in a private ceremony in Nashville on Friday, her family has confirmed. The queen of country music, who died aged 80 on 25 August “after bravely facing a brief battle with cancer”, was interred at Woodlawn Memorial Park and Mausoleum alongside her husband of 60 ",
+    "published_at": "2026-08-31T16:17:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Dolly Parton: A life in pictures",
+    "url": "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world.",
+    "published_at": "2026-08-25T18:34:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
   "id": "c8b1a8499ee5",
   "headline": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
   "section": "ai",
@@ -1262,6 +1159,46 @@
     "published_at": "2026-08-31T18:42:08+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T21:22:49+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0ec9d940b056",
+  "headline": "Saka earns Arsenal hard-fought win at Aston Villa",
+  "section": "sport",
+  "score": 54,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T21:37:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Saka earns Arsenal hard-fought win at Aston Villa",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+    "published_at": "2026-08-31T21:37:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
+    "url": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Victory ​lifts Arsenal to six points ⁠along with Man ⁠City, Hull City and Chelsea, while Villa remain without a point.",
+    "published_at": "2026-08-31T21:21:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+    "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length. Unai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroub",
+    "published_at": "2026-08-31T21:08:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
    }
   ]
  },
@@ -1559,33 +1496,42 @@
   ]
  },
  {
-  "id": "1dd516218cfb",
-  "headline": "Norway mourns King Harald as Haakon VIII ascends throne",
-  "section": "world",
-  "score": 49,
-  "sources_count": 2,
-  "depth_signal": 5,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T19:40:45+00:00",
+  "id": "3a8a40ab3dcd",
+  "headline": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+  "section": "tech",
+  "score": 50,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T21:28:49+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-    "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-    "published_at": "2026-08-28T19:40:45+00:00",
+    "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+    "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+    "published_at": "2026-08-31T21:28:49+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
+    "seen_at": "2026-09-01T01:10:26+00:00"
    },
    {
-    "title": "Norway mourns King Harald as Haakon prepares to take the throne",
-    "url": "https://www.france24.com/en/norway-mourns-king-harald-as-haakon-prepares-to-take-the-throne",
-    "source": "France 24",
-    "summary": "Norway is mourning King Harald V after the country's longest-serving monarch died at the age of 89, with tributes pouring in from across Europe. His death paves the way for Crown Prince Haakon to become king, as the royal family faces renewed scrutiny over Crown Princess Mette-Marit's reported past ties to Jeffrey Epstein and the conviction of her son for rape.",
-    "published_at": "2026-08-28T16:31:12+00:00",
+    "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+    "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+    "published_at": "2026-08-31T21:28:49+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+    "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+    "source": "The Verge",
+    "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the […]",
+    "published_at": "2026-08-31T21:41:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
    }
   ]
  },
@@ -1657,46 +1603,6 @@
     "published_at": "2026-08-31T12:01:13+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T12:37:10+00:00"
-   }
-  ]
- },
- {
-  "id": "69ad75470922",
-  "headline": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
-  "section": "world",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T17:05:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
-    "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
-    "source": "The Guardian World",
-    "summary": "Moscow recruits an estimated 1,000 people a day but western officials say it cannot keep up with casualty level Russia is losing about 6,000 more troops in Ukraine each month than it can recruit, western officials have said. While Russia is still acquiring new battlefield recruits at speed, with an estimated rate of 1,000 a day, in the last two months even this has not been sufficient to replace t",
-    "published_at": "2026-08-28T17:05:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Ukraine’s Zelenskyy plans to hit Russia with ‘1,000 drones’ a day",
-    "url": "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Ongoing Russian attacks have killed several people and wounded dozens across Ukraine.",
-    "published_at": "2026-08-28T19:03:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
-    "url": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "After repeated disappointments over US Patriots, Kyiv switches to attacking Russia using European weapons.",
-    "published_at": "2026-08-28T16:42:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
    }
   ]
  },
@@ -2007,37 +1913,6 @@
   ]
  },
  {
-  "id": "46cab11314fe",
-  "headline": "Berlin is being blackmailed by hackers, mayor says",
-  "section": "world",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-28T21:29:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Berlin is being blackmailed by hackers, mayor says",
-    "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-    "published_at": "2026-08-28T21:29:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-    "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-    "source": "The Hacker News",
-    "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
-    "published_at": "2026-08-28T21:30:52+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   }
-  ]
- },
- {
   "id": "85dfe8cdac28",
   "headline": "Spurs 'didn't deserve' loss to Newcastle - De Zerbi",
   "section": "sport",
@@ -2189,68 +2064,6 @@
     "published_at": "2026-08-31T18:53:41+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T21:22:49+00:00"
-   }
-  ]
- },
- {
-  "id": "d314b5251d2f",
-  "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-  "section": "culture",
-  "score": 45,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T09:00:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-    "source": "Guardian Culture",
-    "summary": "The singer had a serendipitous mixture of humor, humility and humanity. We could all stand to channel it a bit more The moment that the world found out that Dolly Parton had died , I was in a hair salon in the reddest congressional district in New York state. The neighborhood on the shore of Lake Erie where I move every summer voted solidly for Donald Trump in 2024. I often pass a lawn sign that h",
-    "published_at": "2026-08-28T09:00:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Remembering Dolly Parton: 8 facts about the icon",
-    "url": "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Dolly Parton, one of the world's most successful artists, has died at the age of 80. Here are some important and extraordinary facts about the country music superstar.",
-    "published_at": "2026-08-25T18:42:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "4da5ffdbac11",
-  "headline": "The economic costs of Donald Trump’s immigration crackdown",
-  "section": "world",
-  "score": 45,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-27T09:49:05+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The economic costs of Donald Trump’s immigration crackdown",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
-    "source": "Economist Finance",
-    "summary": "A smaller workforce and slower growth",
-    "published_at": "2026-08-27T09:49:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "President Donald Trump signs order creating US Space Academy",
-    "url": "https://www.aljazeera.com/news/2026/8/28/president-donald-trump-signs-order-creating-us-space-academy?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "The president said graduates of the new academy would serve the US Space Force, NASA and the civilian flight industry.",
-    "published_at": "2026-08-28T19:23:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
    }
   ]
  },
@@ -2415,90 +2228,6 @@
     "published_at": "2026-08-30T14:53:08+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
-  "id": "831269d18b64",
-  "headline": "What will Jackson bring to Villa with Watkins set for exit?",
-  "section": "sport",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T19:14:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "What will Jackson bring to Villa with Watkins set for exit?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
-    "published_at": "2026-08-28T19:14:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire",
-    "url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html",
-    "source": "CNBC Top",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "published_at": "2026-08-28T18:03:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "d72636d3f7ae",
-  "headline": "Forests Didn't Fare Well During an Ancient Global Warming Event, Offering a 'Cautionary' Tale About Today's Climate Change",
-  "section": "culture",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T18:43:58+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Forests Didn't Fare Well During an Ancient Global Warming Event, Offering a 'Cautionary' Tale About Today's Climate Change",
-    "url": "https://www.smithsonianmag.com/smart-news/forests-didnt-fare-well-during-an-ancient-global-warming-event-offering-a-cautionary-tale-about-todays-climate-change-180989353/",
-    "source": "Smithsonian Mag",
-    "summary": "An intense global warming event 56 million years ago caused a forest in modern-day Wyoming to lose around 60 percent of its canopy cover, and it took more than 100,000 years to bounce back, a study suggests",
-    "published_at": "2026-08-28T18:43:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "3cb4c952ff5e",
-  "headline": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-  "section": "safety",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T20:38:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-    "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-    "source": "The Hacker News",
-    "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affected versions are < 0.6.2 and >=",
-    "published_at": "2026-08-28T20:38:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-    "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. The vulnerability, tracked as CVE-2023-49105 (CVSS score: 9.8), is a case of",
-    "published_at": "2026-08-28T15:56:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
    }
   ]
  },
@@ -2720,90 +2449,6 @@
   ]
  },
  {
-  "id": "aa0ad534bed5",
-  "headline": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-  "section": "world",
-  "score": 43,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T17:29:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-    "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-    "published_at": "2026-08-28T17:29:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Austria museum heist: Thieves snatch diamond necklace",
-    "url": "https://www.dw.com/en/austria-museum-heist-thieves-snatch-diamond-necklace/a-78552889?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The stolen necklace, studded with 673 precious stones, belonged to Egypt's Queen Nazli. It was being displayed as part of the museum's exhibition for designs by France's Van Cleef and Arpels.",
-    "published_at": "2026-08-28T20:32:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "ddc89ece41e7",
-  "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-  "section": "world",
-  "score": 43,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T17:47:17+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-    "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Israel's prime minister and defence minister praise the attack as Hamas calls for Israeli 'crimes' to stop.",
-    "published_at": "2026-08-28T17:47:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Israel army carries out rare West Bank air strike, killing 'three terrorists'",
-    "url": "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists",
-    "source": "France 24",
-    "summary": "Israel's military said it carried out an air strike in the Jenin area in the West Bank on Friday that killed a ​Palestinian it described as a Hamas militant operative as well as two of his accomplices, in a rare use of deadly Israeli air power in the occupied territory.",
-    "published_at": "2026-08-28T17:14:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "da70d29f03be",
-  "headline": "Historical Pollution, Not Current Industrial Emissions, Damaged the World's Largest and Oldest Collection of Ancient Rock Art, Study Suggests",
-  "section": "culture",
-  "score": 43,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T18:04:36+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Historical Pollution, Not Current Industrial Emissions, Damaged the World's Largest and Oldest Collection of Ancient Rock Art, Study Suggests",
-    "url": "https://www.smithsonianmag.com/smart-news/historical-pollution-not-current-industrial-emissions-damaged-worlds-largest-oldest-collection-ancient-rock-art-180989416/",
-    "source": "Smithsonian Mag",
-    "summary": "Researchers say that past exposure to sulfur dioxide is likely to blame for the increased porosity of the Murujuga rock art created by the Ngarda-Ngarli people tens of thousands of years ago",
-    "published_at": "2026-08-28T18:04:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
   "id": "246b3636a67b",
   "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
   "section": "tech",
@@ -2928,33 +2573,33 @@
   ]
  },
  {
-  "id": "61fa525bac0d",
-  "headline": "Leeds go back top with thumping win at St Helens",
-  "section": "sport",
-  "score": 42,
+  "id": "443b5bb24cd2",
+  "headline": "Selena Gomez pushes back against 'frivolous' fraud claims",
+  "section": "business",
+  "score": 43,
   "sources_count": 2,
   "depth_signal": 2,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-28T21:59:42+00:00",
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-28T05:53:05+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Leeds go back top with thumping win at St Helens",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Leeds Rhinos go back to the top of the Super League standings on points difference with a rare and comprehensive away win at St Helens.",
-    "published_at": "2026-08-28T21:59:42+00:00",
+    "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
+    "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
+    "published_at": "2026-08-28T05:53:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
+    "seen_at": "2026-09-01T01:10:26+00:00"
    },
    {
-    "title": "St Helens playoff hopes hang by a thread after thrashing by Leeds",
-    "url": "https://www.theguardian.com/sport/2026/aug/28/st-helens-leeds-super-league-match-report",
-    "source": "Guardian Sport",
-    "summary": "St Helens 6-34 Leeds Rhinos return to top of table after running in six tries If you needed any further proof that Super League’s two most successful sides are travelling in different directions in 2026, this was about as conclusive as you can get. There are two very different fates awaiting Leeds Rhinos and St Helens in three weeks or so. The Rhinos will now almost certainly be resting up for a S",
-    "published_at": "2026-08-28T21:20:18+00:00",
+    "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
+    "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
+    "published_at": "2026-08-28T05:53:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
+    "seen_at": "2026-09-01T01:10:26+00:00"
    }
   ]
  },
@@ -3238,6 +2883,37 @@
   ]
  },
  {
+  "id": "2de7ae790f6c",
+  "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-09-01T01:06:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+    "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+    "source": "CNBC Top",
+    "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
+    "published_at": "2026-09-01T01:06:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
+    "url": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The decision replaces a temporary order issued earlier this month.",
+    "published_at": "2026-08-31T22:08:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
   "id": "3b069fa24056",
   "headline": "Lawrence helps England build big lead on rain-affected day at Lord's",
   "section": "sport",
@@ -3376,37 +3052,6 @@
     "published_at": "2026-08-31T17:54:23+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
-  "id": "cc243d05ce4a",
-  "headline": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
-  "section": "safety",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T21:02:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
-    "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
-    "source": "Schneier on Security",
-    "summary": "Ugh : A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the “Squidpocalypse of ’26.” That would be twenty tons of squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation poli",
-    "published_at": "2026-08-28T21:02:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Friday Squid Blogging: Neon Flying Squid",
-    "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-    "source": "Schneier on Security",
-    "summary": "The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a thing, which looked like the early stages of an alien invasion. They were probably neon flying squid ( Ommastrephes bartramii ",
-    "published_at": "2026-08-21T21:07:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
    }
   ]
  },
@@ -3960,6 +3605,37 @@
   ]
  },
  {
+  "id": "4d6c783b648a",
+  "headline": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-09-01T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
+    "published_at": "2026-09-01T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "Oil extends gains as Trump threatens further Iran strikes",
+    "url": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-01T00:43:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
   "id": "4a5618ffd878",
   "headline": "Iceland appears to have rejected EU accession talks in referendum, reports say",
   "section": "world",
@@ -4345,130 +4021,6 @@
     "published_at": "2026-08-31T16:21:17+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T21:22:49+00:00"
-   }
-  ]
- },
- {
-  "id": "3a30c00ca047",
-  "headline": "London Science Museum cuts links with BP after decades of partnership",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T16:57:06+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "London Science Museum cuts links with BP after decades of partnership",
-    "url": "https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership",
-    "source": "The Guardian World",
-    "summary": "Campaigners say ‘seismic shift’ follows years of pressure to sever ties with oil and gas firm The London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described as a “seismic shift” for the museum. The Science Museum Group academy, which was established in 2018 to provide training and resources, announced on Friday that it would be ending it",
-    "published_at": "2026-08-28T16:57:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "London Science Museum cuts links with BP after decades of partnership",
-    "url": "https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership",
-    "source": "Guardian Business",
-    "summary": "Campaigners say ‘seismic shift’ follows years of pressure to sever ties with oil and gas firm The London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described as a “seismic shift” for the museum. The Science Museum Group academy, which was established in 2018 to provide training and resources, announced on Friday that it would be ending it",
-    "published_at": "2026-08-28T16:57:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "82515d4a921f",
-  "headline": "Kevin Warsh tries being a normal central banker",
-  "section": "business",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T17:02:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Kevin Warsh tries being a normal central banker",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
-    "source": "Economist Finance",
-    "summary": "And markets like it",
-    "published_at": "2026-08-28T17:02:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "What will Kevin Warsh do if America’s economy breaks?",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
-    "source": "Economist Finance",
-    "summary": "An enigmatic Fed faces the risk of AI stocks falling and the oil price soaring",
-    "published_at": "2026-08-02T16:12:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "9d521aac8c78",
-  "headline": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-  "section": "ai",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T18:07:55+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-    "source": "Ars Technica",
-    "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-    "published_at": "2026-08-28T18:07:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-    "source": "Ars Technica AI",
-    "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-    "published_at": "2026-08-28T18:07:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "90b5220f9876",
-  "headline": "US arrests far-right provocateur Milo Yiannopoulos",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-28T21:45:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US arrests far-right provocateur Milo Yiannopoulos",
-    "url": "https://www.dw.com/en/us-arrests-far-right-provocateur-milo-yiannopoulos/a-78553559?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Yiannopoulos, a far-right commentator, was an early supporter of Donald Trump and his immigration crackdown, but they have since fallen out. DHS said he was an \"illegal alien\" who overstayed his visit in the US.",
-    "published_at": "2026-08-28T21:45:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   },
-   {
-    "title": "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
-    "url": "https://www.aljazeera.com/news/2026/8/28/far-right-uk-provocateur-milo-yiannopoulos-detained-by-ice-in-us?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A Trump administration official says the controversial commentator overstayed his visit in the US and will be removed.",
-    "published_at": "2026-08-28T23:04:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
    }
   ]
  },
@@ -5154,24 +4706,33 @@
   ]
  },
  {
-  "id": "71e85c1f0044",
-  "headline": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+  "id": "9fbd7b1e012e",
+  "headline": "UK houses near top state secondary schools cost £40,000 more, research reveals",
   "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-29T00:35:04+00:00",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T23:01:37+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
-    "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
-    "published_at": "2026-08-29T00:35:04+00:00",
+    "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
+    "url": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
+    "source": "The Guardian World",
+    "summary": "Premium of nearly 10% paid by housebuyers comparable with cost of a cheaper private school over seven years A house near a top state secondary school costs an extra £40,000 on average, according to research that reveals education premiums that rank alongside some private school fees. The average property in a postcode district that includes a top 50 state secondary commands a price tag of £415,791",
+    "published_at": "2026-08-31T23:01:37+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   },
+   {
+    "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
+    "url": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
+    "source": "Guardian Business",
+    "summary": "Premium of nearly 10% paid by housebuyers comparable with cost of a cheaper private school over seven years A house near a top state secondary school costs an extra £40,000 on average, according to research that reveals education premiums that rank alongside some private school fees. The average property in a postcode district that includes a top 50 state secondary commands a price tag of £415,791",
+    "published_at": "2026-08-31T23:01:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
    }
   ]
  },
@@ -5552,81 +5113,6 @@
     "published_at": "2026-08-31T21:14:31+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T21:22:49+00:00"
-   }
-  ]
- },
- {
-  "id": "4aa10fdaf6f4",
-  "headline": "Nepal: A newly formed lake is sparking fears of more flooding along the Chinese border",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T12:36:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nepal: A newly formed lake is sparking fears of more flooding along the Chinese border",
-    "url": "https://www.france24.com/en/video/20260828-nepal-a-newly-formed-lake-is-sparking-fears-of-more-flooding-along-the-chinese-border",
-    "source": "France 24",
-    "summary": "Rescue operations are continuing after the devastating Nepal-China floods, but authorities have ordered emergency teams to stay on high alert as a newly formed upstream lake threatens to burst and trigger fresh flooding. Satellite imagery suggests the lake formed in the same area where a glacier collapse on Wednesday unleashed the deadly chain of events. FRANCE 24's Navodita Kumari has the latest ",
-    "published_at": "2026-08-28T12:36:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "5e5de51c218c",
-  "headline": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T17:23:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-    "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-    "source": "Ars Technica",
-    "summary": "Annual Apple TV subscriptions get the biggest bump.",
-    "published_at": "2026-08-28T17:23:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
-    "url": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
-    "source": "CNBC Top",
-    "summary": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs.",
-    "published_at": "2026-08-28T19:09:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "82f1bbeace6e",
-  "headline": "Deep Inside a Spanish Cave, Roman Women May Have Worshipped a Mysterious Goddess",
-  "section": "culture",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T18:43:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Deep Inside a Spanish Cave, Roman Women May Have Worshipped a Mysterious Goddess",
-    "url": "https://www.smithsonianmag.com/smart-news/deep-inside-spanish-cave-roman-women-may-have-worshipped-mysterious-goddess-180989414/",
-    "source": "Smithsonian Mag",
-    "summary": "Best known for its Paleolithic art, Valencia’s Cova de les Dones also contains a Roman sanctuary where researchers say women appear to have played an active role in the worship of a female deity",
-    "published_at": "2026-08-28T18:43:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
    }
   ]
  },
@@ -6055,134 +5541,6 @@
     "published_at": "2026-08-31T18:46:34+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T21:22:49+00:00"
-   }
-  ]
- },
- {
-  "id": "2c0deb26fc84",
-  "headline": "Trump’s EPA wants to let data centers hide their air pollution",
-  "section": "tech",
-  "score": 35,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T16:28:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "source": "The Verge",
-    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites […]",
-    "published_at": "2026-08-28T16:28:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "source": "The Verge AI",
-    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites […]",
-    "published_at": "2026-08-28T16:28:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "727aeaa8848d",
-  "headline": "Depression may shut down the brain’s ability to make new neurons",
-  "section": "science",
-  "score": 35,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-25T05:06:08+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Depression may shut down the brain’s ability to make new neurons",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-    "source": "ScienceDaily",
-    "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.",
-    "published_at": "2026-08-25T05:06:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   },
-   {
-    "title": "Depression may shut down the brain’s ability to make new neurons",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
-    "source": "ScienceDaily Health",
-    "summary": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.",
-    "published_at": "2026-08-25T05:06:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "6a95d214a6d0",
-  "headline": "Cape Bear Lighthouse and Marconi Station in Murray Harbour, Prince Edward Island",
-  "section": "travel",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-28T21:31:51+00:00",
-  "event_time": "2026-08-28T20:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cape Bear Lighthouse and Marconi Station in Murray Harbour, Prince Edward Island",
-    "url": "https://www.atlasobscura.com/places/cape-bear-lighthouse-and-marconi-station",
-    "source": "Atlas Obscura",
-    "summary": "Cape Bear Lighthouse has been in operation since 1881, and it's light can be seen up to 22km/14 mi away. For a small fee, take a tour of the lighthouse to learn about the history of it's keepers, and an opportunity to climb all the way up to the lantern room to see panoramic views of the Northumberland Strait and Nova Scotia. While Marconi Station ceased operations in 1922 and now serves as a fami",
-    "published_at": "2026-08-28T20:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-28T21:31:48+00:00"
-   }
-  ]
- },
- {
-  "id": "929aeaf9b438",
-  "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-28T22:05:41+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-    "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-    "published_at": "2026-08-28T22:05:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
-   }
-  ]
- },
- {
-  "id": "cdf32bc6833c",
-  "headline": "Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-29T00:51:58+00:00",
-  "event_time": "2026-08-28T22:53:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel",
-    "url": "https://www.theguardian.com/world/2026/aug/29/australians-missing-nepal-floods-total-rises-albanese-dfat-personnel-arriving",
-    "source": "The Guardian World",
-    "summary": "There are now 41 Australians missing, and four rapid response team members are expected to arrive in Kathmandu At least 93,000 ‘in great need’ after Nepal-Tibet flash floods How the deadly Nepal and Tibet flash flood unfolded – a visual guide Get our breaking news email , free app or daily news podcast The number of Australians who were reported missing in the catastrophic Nepal flooding disaster ",
-    "published_at": "2026-08-28T22:53:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-29T00:51:56+00:00"
    }
   ]
  },
@@ -8215,6 +7573,182 @@
   ]
  },
  {
+  "id": "8b8dbefcc48a",
+  "headline": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T14:50:36+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+    "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
+    "published_at": "2026-08-31T14:50:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6c71b16b3f53",
+  "headline": "Orangutans in danger as wildfires blaze through Borneo",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T22:05:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Orangutans in danger as wildfires blaze through Borneo",
+    "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.",
+    "published_at": "2026-08-31T22:05:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "dbc843acca56",
+  "headline": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T20:42:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+    "url": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
+    "source": "NPR News",
+    "summary": "The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What's the reason for this back-and-forth?",
+    "published_at": "2026-08-31T20:42:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "23cd8a59c1e6",
+  "headline": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T20:21:47+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+    "source": "NPR News",
+    "summary": "Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000.",
+    "published_at": "2026-08-31T20:21:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "08165069af1d",
+  "headline": "Glacial flood death toll surpasses 900 in Nepal and Tibet",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T23:34:26+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Glacial flood death toll surpasses 900 in Nepal and Tibet",
+    "url": "https://www.france24.com/en/asia-pacific/20260831-glacial-flood-death-toll-surpasses-900-in-nepal-and-tibet",
+    "source": "France 24",
+    "summary": "Rescuers battled mud and debris Monday as the death toll from devastating glacial floods along the China-Nepal border topped 900, with nearly 4,500 people still missing. Rescue teams continued a desperate search for survivors as entire communities were swept away.",
+    "published_at": "2026-08-31T23:34:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b392bbbec1f4",
+  "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+  "section": "tech",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-26T22:03:45+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+    "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+    "published_at": "2026-08-26T22:03:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ba7f6688b285",
+  "headline": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
+  "section": "health",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T21:51:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
+    "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
+    "published_at": "2026-08-31T21:51:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4aa3a715c5f9",
+  "headline": "Harry Edward, Britain’s first black Olympic medallist, inducted into England Athletics hall of fame",
+  "section": "sport",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T23:01:37+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Harry Edward, Britain’s first black Olympic medallist, inducted into England Athletics hall of fame",
+    "url": "https://www.theguardian.com/sport/2026/sep/01/harry-edward-britain-first-black-olympic-medallist-inducted-england-athletics-hall-of-fame",
+    "source": "Guardian Sport",
+    "summary": "Edward and Mo Farah among those to be inducted Sonia Lannaman and Shirley Strong also honoured Britain’s first black Olympic medal winner Harry Edward is to be inducted into the England Athletics Hall of Fame. Edward will join the likes of Mo Farah, former sprinter Sonia Lannaman and medal-winning hurdler Shirley Strong, who will all be honoured at a ceremony in Birmingham in November. Edward’s ci",
+    "published_at": "2026-08-31T23:01:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
   "id": "530911ddb66f",
   "headline": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows",
   "section": "world",
@@ -8783,6 +8317,292 @@
     "published_at": "2026-08-30T05:51:53+00:00",
     "source_countries": [],
     "seen_at": "2026-08-30T06:35:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "abf73a408774",
+  "headline": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+  "section": "tech",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-09-01T00:30:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "url": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+    "source": "TechCrunch",
+    "summary": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
+    "published_at": "2026-09-01T00:30:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "723ebc6d219d",
+  "headline": "Jammy tomato risotto and amaretto roast peaches: Toklas chef Chris Shaw’s simple summer recipes",
+  "section": "food",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-19T05:00:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jammy tomato risotto and amaretto roast peaches: Toklas chef Chris Shaw’s simple summer recipes",
+    "url": "https://www.theguardian.com/food/2026/aug/19/risotto-datterini-tomatoes-amaretto-roast-peaches-recipe-chris-shaw",
+    "source": "Guardian Food",
+    "summary": "Make the most of the season’s freshest produce with a light but richly flavoured tomato-dosed dinner and a booze-laced, New York-inspired dessert At Toklas, ingredients such as datterini tomatoes and ripe peaches are taking centre stage. These recipes celebrate the simplicity of summer cooking, allowing produce to shine with minimal intervention. From a risotto layered with sweet tomatoes, pecorin",
+    "published_at": "2026-08-19T05:00:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9dfc660a8a18",
+  "headline": "High level privacy and security design for NHS COVID-19 contact tracing app",
+  "section": "safety",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2020-05-04T12:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "High level privacy and security design for NHS COVID-19 contact tracing app",
+    "url": "https://www.ncsc.gov.uk/report/nhs-covid-19-app-privacy-security-report",
+    "source": "NCSC UK",
+    "summary": "NCSC technical paper about the privacy and security design of the NHS contact tracing app developed to help slow the spread of coronavirus.",
+    "published_at": "2020-05-04T12:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6d16e3c4670d",
+  "headline": "How Shein lost its shine ahead of long-awaited stock market debut",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-09-01T00:56:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+    "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+    "published_at": "2026-09-01T00:56:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ab99546d1015",
+  "headline": "Japan Inc is betting big on India as China risks deepen",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T22:07:19+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Japan Inc is betting big on India as China risks deepen",
+    "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+    "published_at": "2026-08-31T22:07:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "66ab8a27d143",
+  "headline": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+  "section": "science",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-28T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+    "url": "https://www.nature.com/articles/d41586-026-02688-x",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.",
+    "published_at": "2026-08-28T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5914799a7dcf",
+  "headline": "As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?",
+  "section": "ai",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-25T05:00:08+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "As drug giants grow cautious, can Chinese biotech firms still cash in on licensing deals?",
+    "url": "https://www.scmp.com/business/china-business/article/3365125/global-drug-giants-grow-cautious-can-chinese-biotech-keep-cashing-out-licensing?utm_source=rss_feed",
+    "source": "SCMP Tech (Čína)",
+    "summary": "Record-breaking cross-border deals helped make some formerly loss-making Chinese biotech companies profitable in the first half of the year, but multinational drugmakers are now signalling plans to tighten deal budgets. Analysts said deals with global partners had overtaken initial public offerings and pre-IPO fundraising as the main funding option for cash-starved Chinese biotech firms wanting to",
+    "published_at": "2026-08-25T05:00:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c140e70619e7",
+  "headline": "Man shot and killed in Sydney home invasion was ‘targeted attack’, police believe",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-09-01T00:09:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Man shot and killed in Sydney home invasion was ‘targeted attack’, police believe",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/01/man-shot-killed-glen-alpine-sydney-home-invasion-nsw-police-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Alleged offenders at large after man in his early 20s fatally shot in early hours of Tuesday Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man in his early 20s has been fatally shot in an alleged home invasion in Sydney’s south-west that police believe was a “targeted attack”. A homicide investigation is under way, with the al",
+    "published_at": "2026-09-01T00:09:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2c1c22a9b179",
+  "headline": "Investigation into Powerhouse Parramatta museum under way as stop-gap leader steps in",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T23:42:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Investigation into Powerhouse Parramatta museum under way as stop-gap leader steps in",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/01/powerhouse-parramatta-western-sydney-investigation-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "‘Opera House of the west’ still slated to open to the public as scheduled on 7 November, NSW arts minister says Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An investigation is under way into allegations of misconduct involving senior executives at the soon-to-be-opened Powerhouse Parramatta. The $915m museum in western Sydney,",
+    "published_at": "2026-08-31T23:42:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c21659ad0a0a",
+  "headline": "Trump officials cut political interference ban after unusual Census Bureau report",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T22:24:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+    "url": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+    "source": "NPR News",
+    "summary": "After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned.",
+    "published_at": "2026-08-31T22:24:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "cc4d67f04fbc",
+  "headline": "Niger's failed coup exposes cracks in the military — and Russia's influence",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T11:32:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Niger's failed coup exposes cracks in the military — and Russia's influence",
+    "url": "https://www.dw.com/en/niger-s-failed-coup-exposes-cracks-in-the-military-and-russia-s-influence/a-78572278?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The failed coup in Niger has brought deep divisions within the military to light. As Russia's support highlights the junta's fading influence, soldiers continue to face jihadi attacks, poor equipment and little pay.",
+    "published_at": "2026-08-31T11:32:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "efdf1b8e9aac",
+  "headline": "Burnham’s bumpy ride ahead: PM’s in-tray full of dilemmas as parliament returns",
+  "section": "business",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-08-31T15:00:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Burnham’s bumpy ride ahead: PM’s in-tray full of dilemmas as parliament returns",
+    "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-in-tray-parliament-return",
+    "source": "Guardian Business",
+    "summary": "Labour leader faces tough decisions on issues such as North Sea drilling, electoral reform and defence spending After a relatively cheery summer in which he announced a range of eye-catching cost of living policies, Andy Burnham may find his return to parliament this week to be a rude awakening. While the new prime minister has enjoyed some success in the polls, he is faced with many of the same p",
+    "published_at": "2026-08-31T15:00:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
+   }
+  ]
+ },
+ {
+  "id": "621b595eff94",
+  "headline": "Stock futures are little changed after Wall Street closes out winning August: Live updates",
+  "section": "business",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-01T01:10:29+00:00",
+  "event_time": "2026-09-01T00:16:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Stock futures are little changed after Wall Street closes out winning August: Live updates",
+    "url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+    "source": "CNBC Top",
+    "summary": "The major averages fell Monday, but notched gains for the month.",
+    "published_at": "2026-09-01T00:16:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-01T01:10:26+00:00"
    }
   ]
  }

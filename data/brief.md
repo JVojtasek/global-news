@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-08-31
+# ZADÁNÍ PRO REDAKCI — 2026-09-01
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -81,35 +81,34 @@
   - **Investing.com** — Oil jumps more than 2% after US attack on Iran’s Larak island
     <https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075>
 
-### 4. The inside story on why OpenAI agents hacked Hugging Face
-- id události: `69b225fb598b`  ·  rubrika: `ai`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+### 4. NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
+- id události: `1377348ebb36`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **MIT TR — AI** — The inside story on why OpenAI agents hacked Hugging Face
-    <https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/>
-    > The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity
-  - **MIT Tech Review** — The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US
-    <https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/>
-    > This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvert
-  - **MIT Tech Review** — The inside story on why OpenAI agents hacked Hugging Face
-    <https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/>
-    > The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity
-  - **The Hacker News** — OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
-    <https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html>
-    > OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersec
-  - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
-    <https://huggingface.co/blog/pwc-search>
+  - **Smithsonian Mag** — NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
+    <https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/>
+    > The new observatory will complete three surveys of the universe in five years, although it's designed to function at least twice as long. Its data could change scientists' basic understanding of the cosmos
+  - **NPR News** — NASA has successfully launched its newest space telescope
+    <https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa>
+    > The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.
+  - **Investing.com** — SpaceX launches NASA’s $4.3 billion Roman space telescope
+    <https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035>
+  - **Investing.com** — NASA launches powerful new Roman Space Telescope from Florida
+    <https://www.investing.com/news/stock-market-news/nasa-launches-powerful-new-roman-space-telescope-from-florida-4882040>
+  - **Hacker News Best** — Nancy Grace Roman Space Telescope
+    <https://science.nasa.gov/mission/roman-space-telescope/>
+    > https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 218 # Comments: 80
 
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### space telescope
-- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### toddler tantrums
+- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
-  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
+  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
+  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
+  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
 
 ---
 
@@ -136,7 +135,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-25  (2 zdrojů, síla 47)  Is Scott Bessent the Fed chair Donald Trump always wanted?
   2026-08-25  (2 zdrojů, síla 42)  Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran
   2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
   2026-08-25  (2 zdrojů, síla 42)  ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
@@ -156,6 +154,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown
   2026-08-31  (2 zdrojů, síla 42)  US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
   2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up
+  2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

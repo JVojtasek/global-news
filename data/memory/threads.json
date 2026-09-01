@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "start",
-    "lyon",
-    "june",
-    "indycar",
-    "o'neill",
-    "thursday's",
-    "qatar",
-    "oman",
-    "donald",
-    "times",
-    "justified",
-    "jordan",
-    "us-south",
-    "middle",
+    "treasury",
+    "champions",
     "celtic",
     "d-day",
-    "korea",
-    "treasury",
-    "chaos",
-    "champions",
-    "briton",
-    "iran",
-    "trump",
-    "economic",
-    "fenerbahce",
-    "aston",
-    "taiwan",
     "ukraine",
-    "american",
-    "china's",
-    "gulf",
-    "iran's",
-    "jong",
-    "league",
-    "groundhog",
-    "south",
+    "times",
+    "indycar",
     "north",
+    "lyon",
+    "fenerbahce",
+    "gulf",
+    "korea",
+    "china's",
+    "league",
+    "jordan",
+    "middle",
+    "o'neill",
+    "chaos",
+    "south",
+    "aston",
+    "iran's",
+    "taiwan",
+    "trump",
+    "justified",
+    "jong",
+    "thursday's",
+    "june",
+    "economic",
     "hormuz",
+    "groundhog",
+    "start",
+    "qatar",
+    "us-south",
     "iranian",
-    "city"
+    "city",
+    "iran",
+    "oman",
+    "donald",
+    "american",
+    "briton"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -115,23 +115,12 @@
     "5a30adc8d141",
     "4da5ffdbac11",
     "01273f5eeed2",
-    "20436c3fa08b"
+    "20436c3fa08b",
+    "4d6c783b648a"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-08-31",
+   "last_seen": "2026-09-01",
    "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Trump reportedly hid in catering container to board secret flight in Turkey amid Iran threat",
-     "sources": 4,
-     "score": 73,
-     "event_id": "965561c723dd",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
-      "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-12",
      "headline": "Gulf states scramble for Strait of Hormuz alternative",
@@ -803,6 +792,17 @@
       "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+     "sources": 2,
+     "score": 40,
+     "event_id": "4d6c783b648a",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412"
+     ]
     }
    ]
   },
@@ -811,35 +811,37 @@
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
    "entities": [
-    "disease",
-    "music",
-    "covid",
+    "nashville",
     "wanted",
-    "chat",
-    "stars",
-    "chronic",
-    "scientists",
-    "country",
-    "dolly",
+    "margaret",
+    "festival",
+    "covid",
+    "disabling",
+    "parton",
+    "history",
+    "london",
     "relief",
-    "many",
-    "working",
-    "america",
-    "songwriter",
     "remembering",
     "remembered",
-    "americans",
-    "still",
-    "margaret",
-    "tirelessly",
+    "chat",
+    "working",
     "briefing",
-    "history",
-    "parton",
+    "chronic",
     "biggest",
-    "nashville",
-    "disabling",
+    "stars",
+    "americans",
     "bring",
-    "sullivan"
+    "dolly",
+    "still",
+    "tirelessly",
+    "scientists",
+    "many",
+    "sullivan",
+    "america",
+    "music",
+    "disease",
+    "country",
+    "songwriter"
    ],
    "event_ids": [
     "1301430cb05f",
@@ -855,10 +857,11 @@
     "d314b5251d2f",
     "38850f6a5dfa",
     "f14aa1a495df",
-    "bdbcab469084"
+    "bdbcab469084",
+    "bcab6080a3cb"
    ],
    "first_seen": "2026-08-25",
-   "last_seen": "2026-08-31",
+   "last_seen": "2026-09-01",
    "timeline": [
     {
      "date": "2026-08-25",
@@ -1019,6 +1022,148 @@
      "event_id": "bdbcab469084",
      "links": [
       "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Festival honouring Dolly Parton set for Nashville and London",
+     "sources": 3,
+     "score": 55,
+     "event_id": "bcab6080a3cb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "karoline",
+    "leavitt",
+    "nabep",
+    "trump",
+    "press",
+    "secretary",
+    "supreme",
+    "venezuela",
+    "house",
+    "crypto",
+    "court",
+    "white"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "03db067f9792",
+   "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+   "section": "world",
+   "entities": [
+    "tupac",
+    "moment",
+    "shakur's",
+    "davis",
+    "duane",
+    "keffe"
+   ],
+   "event_ids": [
+    "03db067f9792"
+   ],
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-09-01",
+     "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+     "sources": 3,
+     "score": 58,
+     "event_id": "03db067f9792",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder"
      ]
     }
    ]
@@ -1386,90 +1531,6 @@
      "links": [
       "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
       "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "house",
-    "leavitt",
-    "white",
-    "court",
-    "secretary",
-    "karoline",
-    "crypto",
-    "trump",
-    "press",
-    "supreme"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-31",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
      ]
     }
    ]
@@ -5381,5 +5442,5 @@
    ]
   }
  ],
- "updated": "2026-08-31T21:22:53+00:00"
+ "updated": "2026-09-01T01:10:29+00:00"
 }

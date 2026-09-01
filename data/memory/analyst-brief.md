@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-08-31
+# ANALYTICKÉ ZADÁNÍ — 2026-09-01
 
-Paměť obsahuje **71 vláken**. Aktivních za posledních 14 dní: **36**.
+Paměť obsahuje **72 vláken**. Aktivních za posledních 14 dní: **33**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 22 dní · 60 záznamů
+- rubrika `world` · sledováno 23 dní · 60 záznamů
 - časová osa:
-  - **2026-08-27** (2 zdrojů) Trump says all mines cleared from Strait of Hormuz
   - **2026-08-27** (2 zdrojů) Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
   - **2026-08-27** (2 zdrojů) Uefa Champions League 2026-27: league phase draw – live
   - **2026-08-27** (4 zdrojů) Man City and Aston Villa to face holders PSG in Champions League
@@ -19,6 +18,7 @@ Paměť obsahuje **71 vláken**. Aktivních za posledních 14 dní: **36**.
   - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
   - **2026-08-31** (2 zdrojů) US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
   - **2026-08-31** (2 zdrojů) Trump threatens further action as US and Iran exchange fire in new flare-up
+  - **2026-09-01** (2 zdrojů) Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 12 dní · 28 záznamů
@@ -63,9 +63,8 @@ Paměť obsahuje **71 vláken**. Aktivních za posledních 14 dní: **36**.
   - **2026-08-30** (2 zdrojů) Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 6 dní · 14 záznamů
+- rubrika `culture` · sledováno 7 dní · 15 záznamů
 - časová osa:
-  - **2026-08-26** (4 zdrojů) How Dolly Parton helped the world - from children's books to supporting Covid vaccine
   - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
   - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
   - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
@@ -75,6 +74,7 @@ Paměť obsahuje **71 vláken**. Aktivních za posledních 14 dní: **36**.
   - **2026-08-29** (3 zdrojů) How America celebrated and mourned Dolly Parton, in Nashville and beyond
   - **2026-08-31** (2 zdrojů) Dolly Parton laid to rest alongside husband in Nashville
   - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
+  - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 21 dní · 12 záznamů
