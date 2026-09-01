@@ -1411,18 +1411,20 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "karoline",
-    "leavitt",
-    "nabep",
-    "trump",
-    "press",
-    "secretary",
-    "supreme",
+    "driscoll",
     "venezuela",
+    "supreme",
+    "trump",
     "house",
+    "secretary",
     "crypto",
+    "white",
+    "press",
+    "karoline",
     "court",
-    "white"
+    "army",
+    "nabep",
+    "leavitt"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1430,7 +1432,8 @@
     "82ed3a7c13e3",
     "d411c0b43223",
     "08f45c7b66fd",
-    "2de7ae790f6c"
+    "2de7ae790f6c",
+    "1b7fcfb1169d"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-01",
@@ -1500,6 +1503,17 @@
      "links": [
       "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
       "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
      ]
     }
    ]
@@ -1617,6 +1631,35 @@
       "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "90341f43f40f",
+   "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+   "section": "world",
+   "entities": [
+    "jury",
+    "tupac",
+    "shakur"
+   ],
+   "event_ids": [
+    "90341f43f40f"
+   ],
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-09-01",
+     "headline": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+     "sources": 3,
+     "score": 62,
+     "event_id": "90341f43f40f",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder",
+      "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/1/ex-gang-leader-keffe-d-found-guilty-of-killing-rap-legend-tupac-shakur?traffic_source=rss"
      ]
     }
    ]
@@ -5470,5 +5513,5 @@
    ]
   }
  ],
- "updated": "2026-09-01T03:32:37+00:00"
+ "updated": "2026-09-01T06:41:35+00:00"
 }
