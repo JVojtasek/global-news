@@ -20,6 +20,20 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-31** (2 zdrojů) Trump threatens further action as US and Iran exchange fire in new flare-up
   - **2026-09-01** (2 zdrojů) Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
 
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 21 dní · 28 záznamů
+- časová osa:
+  - **2026-08-22** (2 zdrojů) Russian strikes kill 6 people in Ukraine, day after shopping complex attack
+  - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
+  - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
+  - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
+  - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
+  - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
+  - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
+  - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
+  - **2026-09-01** (2 zdrojů) Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
+  - **2026-09-01** (2 zdrojů) At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
+
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 12 dní · 28 záznamů
 - časová osa:
@@ -33,20 +47,6 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-30** (2 zdrojů) Manchester United v Ipswich Town: Premier League – live
   - **2026-08-30** (2 zdrojů) Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
   - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 21 dní · 27 záznamů
-- časová osa:
-  - **2026-08-21** (2 zdrojů) 'Masha and the Bear': Ukraine sanctions Russian cartoon
-  - **2026-08-22** (2 zdrojů) Russian strikes kill 6 people in Ukraine, day after shopping complex attack
-  - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
-  - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
-  - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
-  - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
-  - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
-  - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
-  - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
-  - **2026-09-01** (2 zdrojů) Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 17 dní · 22 záznamů

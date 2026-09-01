@@ -811,29 +811,29 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "moscow",
-    "wildberries",
-    "bessent",
-    "holding",
-    "overnight",
-    "burnham",
-    "zelensky",
-    "europe",
-    "back-to-back",
-    "belgorod",
-    "korean",
-    "bear",
-    "russian",
     "ukraine",
-    "izmail",
-    "several",
-    "russia",
-    "zelenskyy",
-    "kyiv",
-    "four",
-    "atacms",
+    "europe",
+    "burnham",
+    "russian",
     "masha",
-    "north"
+    "several",
+    "wildberries",
+    "overnight",
+    "kyiv",
+    "north",
+    "korean",
+    "bessent",
+    "zelenskyy",
+    "atacms",
+    "back-to-back",
+    "russia",
+    "zelensky",
+    "izmail",
+    "holding",
+    "moscow",
+    "bear",
+    "belgorod",
+    "four"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -862,7 +862,8 @@
     "8460282a6ecc",
     "69ad75470922",
     "30a1b5c27f3a",
-    "7af0d74c8105"
+    "7af0d74c8105",
+    "4715ccb6c821"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-01",
@@ -1171,6 +1172,17 @@
       "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
       "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "At least 12 people killed in Russian overnight attacks on Ukraine – Europe live",
+     "sources": 2,
+     "score": 43,
+     "event_id": "4715ccb6c821",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
+      "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1411,20 +1423,21 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "driscoll",
-    "venezuela",
-    "supreme",
     "trump",
-    "house",
-    "secretary",
-    "crypto",
-    "white",
+    "venezuela",
     "press",
     "karoline",
+    "driscoll",
     "court",
-    "army",
+    "supreme",
+    "leavitt",
+    "days",
     "nabep",
-    "leavitt"
+    "crypto",
+    "house",
+    "army",
+    "white",
+    "secretary"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1433,7 +1446,8 @@
     "d411c0b43223",
     "08f45c7b66fd",
     "2de7ae790f6c",
-    "1b7fcfb1169d"
+    "1b7fcfb1169d",
+    "1cb3a78483ce"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-01",
@@ -1514,6 +1528,17 @@
      "links": [
       "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
       "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
      ]
     }
    ]
@@ -5513,5 +5538,5 @@
    ]
   }
  ],
- "updated": "2026-09-01T06:41:35+00:00"
+ "updated": "2026-09-01T09:30:16+00:00"
 }
