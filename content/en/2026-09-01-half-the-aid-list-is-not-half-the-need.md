@@ -1,14 +1,15 @@
 ---
 slug: half-the-aid-list-is-not-half-the-need
 title: Half the Aid List Is Not Half the Need
-dek: WFP is cutting West Bank food assistance from 400,000 people to 200,000, turning a funding shortfall into a consequential decision about who remains eligible.
+dek: WFP is cutting West Bank food assistance from 400,000 people to 200,000, turning
+  a funding shortfall into a consequential decision about who remains eligible.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-01'
-status: draft
-confidence: 96
+status: published
+confidence: 95
 load: 0
 topics:
 - West Bank
@@ -44,8 +45,10 @@ impact:
   - world
   - food security
   - household income
-  line: Two hundred thousand people are due to leave WFP's West Bank assistance coverage while measured need is rising.
-  todo: Track the published eligibility method, actual September coverage and whether new funding restores assistance.
+  line: Two hundred thousand people are due to leave WFP's West Bank assistance coverage
+    while measured need is rising.
+  todo: Track the published eligibility method, actual September coverage and whether
+    new funding restores assistance.
 qma_path: ''
 tickers: []
 quiz:
@@ -55,7 +58,9 @@ quiz:
   - A finding that food insecurity has fallen by half
   - A uniform 50 percent reduction in every household's food consumption
   answer: 0
-  explanation: WFP announced a reduction in the number of people covered. The release does not say that need has fallen or that every household will receive exactly half as much.
+  explanation: WFP announced a reduction in the number of people covered. The release
+    does not say that need has fallen or that every household will receive exactly
+    half as much.
 ---
 
 ## BRIEFLY
