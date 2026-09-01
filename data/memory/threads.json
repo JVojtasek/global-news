@@ -2113,17 +2113,17 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
-    "weekly",
-    "politics",
-    "apple",
-    "lake",
-    "america",
-    "maps",
     "canada",
     "trump",
+    "ontario",
     "google",
+    "weekly",
+    "america",
+    "apple",
+    "maps",
     "mapquest",
-    "ontario"
+    "lake",
+    "politics"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -2132,7 +2132,8 @@
     "4dcd5aa8edee",
     "f1acf504161f",
     "eded7a46ce69",
-    "513bc8ca4fe5"
+    "513bc8ca4fe5",
+    "2063b9e83ecd"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-09-01",
@@ -2217,6 +2218,17 @@
      "links": [
       "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
       "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Apple Maps follows Google in renaming Lake Ontario",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2063b9e83ecd",
+     "links": [
+      "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america"
      ]
     }
    ]
@@ -5678,5 +5690,5 @@
    ]
   }
  ],
- "updated": "2026-09-01T18:31:16+00:00"
+ "updated": "2026-09-01T21:23:48+00:00"
 }
