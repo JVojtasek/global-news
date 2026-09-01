@@ -1,14 +1,15 @@
 ---
 slug: a-tantrum-is-not-a-small-adults-argument
 title: A Tantrum Is Not a Small Adult's Argument
-dek: The useful question is not how to win the moment, but what a young nervous system can actually do while it is overwhelmed.
+dek: The useful question is not how to win the moment, but what a young nervous system
+  can actually do while it is overwhelmed.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-01'
-status: draft
-confidence: high
+status: review
+confidence: 94
 load: 0
 topics:
 - child development
@@ -21,7 +22,8 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration of co-regulation during a preschool tantrum, no text or identifiable people
+image_query: conceptual editorial illustration of co-regulation during a preschool
+  tantrum, no text or identifiable people
 sources:
 - name: CDC — Emotion Coaching
   url: https://www.cdc.gov/parenting-toddlers/noticing-and-naming/emotion-coaching.html
@@ -32,7 +34,8 @@ sources:
 - name: NHS — Temper Tantrums
   url: https://www.nhs.uk/baby/babys-development/behaviour/temper-tantrums/
   published: '2022-11-07'
-- name: Belden et al. — Temper Tantrums in Healthy Versus Depressed and Disruptive Preschoolers
+- name: Belden et al. — Temper Tantrums in Healthy Versus Depressed and Disruptive
+    Preschoolers
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2211733/
   published: '2008-01-01'
 impact:
@@ -40,17 +43,23 @@ impact:
   - family life
   - child wellbeing
   line: Calm the nervous system first; teach and repair after it can listen again.
-  todo: Use fewer words, keep the boundary, and review patterns rather than judging one difficult episode.
+  todo: Use fewer words, keep the boundary, and review patterns rather than judging
+    one difficult episode.
 qma_path: ''
 tickers: []
 quiz:
-  question: When a young child is in the most intense part of a tantrum, what is usually the most useful first response?
+  question: When a young child is in the most intense part of a tantrum, what is usually
+    the most useful first response?
   options:
   - Give a detailed explanation so the child understands why the limit is fair.
-  - Make the situation safe, stay regulated, and save teaching for after both of you are calmer.
+  - Make the situation safe, stay regulated, and save teaching for after both of you
+    are calmer.
   - Reverse the limit so the child learns that adults can be flexible.
   answer: 1
-  explanation: CDC, NHS and AAP guidance all put safety and calm before reasoning. Changing a sound limit merely to stop the protest can also teach that escalation changes the answer.
+  explanation: CDC, NHS and AAP guidance all put safety and calm before reasoning.
+    Changing a sound limit merely to stop the protest can also teach that escalation
+    changes the answer.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

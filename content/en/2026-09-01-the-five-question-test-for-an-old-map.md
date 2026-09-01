@@ -1,14 +1,15 @@
 ---
 slug: the-five-question-test-for-an-old-map
-title: "The Five-Question Test for an Old Map"
-dek: "A historic map can reveal a vanished street, a family address or an old boundary—but first ask what job the map was built to do."
+title: The Five-Question Test for an Old Map
+dek: A historic map can reveal a vanished street, a family address or an old boundary—but
+  first ask what job the map was built to do.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-09-01'
-status: draft
-confidence: 88
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,32 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "historian examining detailed antique city map with magnifying glass archive table"
+image_query: historian examining detailed antique city map with magnifying glass archive
+  table
 sources:
-  - name: "American Historical Association — Maps, Methods, and Motifs"
-    url: "https://www.historians.org/perspectives-article/maps-methods-and-motifs/"
-    published: "1995-12-01"
-  - name: "Stanford Environmental History — Mapping Environmental History"
-    url: "https://envirohist.stanford.edu/mapping-environmental-history/"
-    published: "2024-12-04"
-  - name: "U.S. National Archives — Cartographic and Architectural Records"
-    url: "https://www.archives.gov/research/cartographic"
-    published: "2025-02-20"
-  - name: "School Library Connection — Analyzing Historic Maps"
-    url: "https://schoollibraryconnection.com/Content/LessonPlan/2293205"
-    published: "2022-09-01"
+- name: American Historical Association — Maps, Methods, and Motifs
+  url: https://www.historians.org/perspectives-article/maps-methods-and-motifs/
+  published: '1995-12-01'
+- name: Stanford Environmental History — Mapping Environmental History
+  url: https://envirohist.stanford.edu/mapping-environmental-history/
+  published: '2024-12-04'
+- name: U.S. National Archives — Cartographic and Architectural Records
+  url: https://www.archives.gov/research/cartographic
+  published: '2025-02-20'
+- name: School Library Connection — Analyzing Historic Maps
+  url: https://schoollibraryconnection.com/Content/LessonPlan/2293205
+  published: '2022-09-01'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What is the best first question when judging what an old map can prove?"
+  question: What is the best first question when judging what an old map can prove?
   options:
-    - "Who made it, for whom, and for what purpose?"
-    - "Whether its paper looks old enough"
-    - "Whether it shows more detail than a modern map"
+  - Who made it, for whom, and for what purpose?
+  - Whether its paper looks old enough
+  - Whether it shows more detail than a modern map
   answer: 0
-  explanation: "A map's maker, audience and purpose determine what was measured, emphasized or omitted; age and visual detail alone do not establish reliability."
+  explanation: A map's maker, audience and purpose determine what was measured, emphasized
+    or omitted; age and visual detail alone do not establish reliability.
 ---
 
 ## BRIEFLY

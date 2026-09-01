@@ -1,14 +1,15 @@
 ---
 slug: the-ulcer-story-did-not-end-with-h-pylori
-title: "The Ulcer Story Did Not End With H. pylori"
-dek: "The bacterial discovery overturned decades of confident advice about stress and acid. Then resistance and other causes complicated the cleaner version of the story."
+title: The Ulcer Story Did Not End With H. pylori
+dek: The bacterial discovery overturned decades of confident advice about stress and
+  acid. Then resistance and other causes complicated the cleaner version of the story.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-01'
-status: draft
-confidence: 91
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,34 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "historical medical laboratory microscope gastric bacteria research archival illustration"
+image_query: historical medical laboratory microscope gastric bacteria research archival
+  illustration
 sources:
-  - name: "Warren and Marshall — Unidentified Curved Bacilli on Gastric Epithelium"
-    url: "https://research-repository.uwa.edu.au/en/publications/unidentified-curved-bacilli-on-gastric-epithelium-in-active-chron/"
-    published: "1983-06-04"
-  - name: "Therapeutics Initiative — Definitive Treatment of Peptic Ulcer Disease"
-    url: "https://www.ncbi.nlm.nih.gov/books/NBK598539/"
-    published: "1994-11-01"
-  - name: "NIDDK — Peptic Ulcers"
-    url: "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
-    published: "2022-09-01"
-  - name: "American College of Gastroenterology — 2024 H. pylori Guideline Summary"
-    url: "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/"
-    published: "2024-09-17"
+- name: Warren and Marshall — Unidentified Curved Bacilli on Gastric Epithelium
+  url: https://research-repository.uwa.edu.au/en/publications/unidentified-curved-bacilli-on-gastric-epithelium-in-active-chron/
+  published: '1983-06-04'
+- name: Therapeutics Initiative — Definitive Treatment of Peptic Ulcer Disease
+  url: https://www.ncbi.nlm.nih.gov/books/NBK598539/
+  published: '1994-11-01'
+- name: NIDDK — Peptic Ulcers
+  url: https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers
+  published: '2022-09-01'
+- name: American College of Gastroenterology — 2024 H. pylori Guideline Summary
+  url: https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/
+  published: '2024-09-17'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which statement best reflects today's understanding of peptic ulcers?"
+  question: Which statement best reflects today's understanding of peptic ulcers?
   options:
-    - "They are mainly caused by stress, with bacteria playing a minor role"
-    - "H. pylori explains every peptic ulcer"
-    - "H. pylori and NSAIDs are the two most common causes, and treatment depends on establishing the cause"
+  - They are mainly caused by stress, with bacteria playing a minor role
+  - H. pylori explains every peptic ulcer
+  - H. pylori and NSAIDs are the two most common causes, and treatment depends on
+    establishing the cause
   answer: 2
-  explanation: "NIDDK identifies H. pylori infection and NSAID use as the two most common causes; the bacterial discovery corrected the old model without making every ulcer the same."
+  explanation: NIDDK identifies H. pylori infection and NSAID use as the two most
+    common causes; the bacterial discovery corrected the old model without making
+    every ulcer the same.
 ---
 
 ## BRIEFLY

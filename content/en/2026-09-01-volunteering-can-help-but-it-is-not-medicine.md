@@ -1,14 +1,15 @@
 ---
 slug: volunteering-can-help-but-it-is-not-medicine
 title: Volunteering Can Help, but It Is Not Medicine
-dek: Giving time can create connection, structure and purpose. The evidence is encouraging, but it does not support prescribing goodness by the hour.
+dek: Giving time can create connection, structure and purpose. The evidence is encouraging,
+  but it does not support prescribing goodness by the hour.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-09-01'
-status: draft
-confidence: medium-high
+status: published
+confidence: 89
 load: 0
 topics:
 - volunteering
@@ -39,18 +40,25 @@ impact:
   areas:
   - community life
   - healthy ageing
-  line: Volunteering may support wellbeing when the role creates connection and agency without becoming another burden.
-  todo: Test a bounded role for fit, support and energy instead of treating hours served as a dose.
+  line: Volunteering may support wellbeing when the role creates connection and agency
+    without becoming another burden.
+  todo: Test a bounded role for fit, support and energy instead of treating hours
+    served as a dose.
 qma_path: ''
 tickers: []
 quiz:
-  question: What is the most accurate conclusion from current evidence on volunteering and wellbeing?
+  question: What is the most accurate conclusion from current evidence on volunteering
+    and wellbeing?
   options:
-  - Volunteering reliably improves mental health as long as a person completes enough hours.
+  - Volunteering reliably improves mental health as long as a person completes enough
+    hours.
   - Volunteering has no measurable connection with wellbeing once age is considered.
-  - Benefits are plausible and often observed, but causality, role design and selection effects still matter.
+  - Benefits are plausible and often observed, but causality, role design and selection
+    effects still matter.
   answer: 2
-  explanation: Reviews find many positive associations, while experimental evidence is smaller and mixed. Outcomes vary with the role, support, intensity and whether people actually engage.
+  explanation: Reviews find many positive associations, while experimental evidence
+    is smaller and mixed. Outcomes vary with the role, support, intensity and whether
+    people actually engage.
 ---
 
 ## BRIEFLY
