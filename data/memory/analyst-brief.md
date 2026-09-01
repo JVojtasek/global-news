@@ -35,9 +35,8 @@ Paměť obsahuje **72 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 18 dní · 26 záznamů
+- rubrika `world` · sledováno 21 dní · 27 záznamů
 - časová osa:
-  - **2026-08-21** (2 zdrojů) Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
   - **2026-08-21** (2 zdrojů) 'Masha and the Bear': Ukraine sanctions Russian cartoon
   - **2026-08-22** (2 zdrojů) Russian strikes kill 6 people in Ukraine, day after shopping complex attack
   - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
@@ -47,6 +46,7 @@ Paměť obsahuje **72 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
   - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
   - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
+  - **2026-09-01** (2 zdrojů) Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 17 dní · 22 záznamů

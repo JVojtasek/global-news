@@ -807,6 +807,374 @@
    ]
   },
   {
+   "id": "1bf4b58ce158",
+   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+   "section": "world",
+   "entities": [
+    "moscow",
+    "wildberries",
+    "bessent",
+    "holding",
+    "overnight",
+    "burnham",
+    "zelensky",
+    "europe",
+    "back-to-back",
+    "belgorod",
+    "korean",
+    "bear",
+    "russian",
+    "ukraine",
+    "izmail",
+    "several",
+    "russia",
+    "zelenskyy",
+    "kyiv",
+    "four",
+    "atacms",
+    "masha",
+    "north"
+   ],
+   "event_ids": [
+    "1bf4b58ce158",
+    "ab563eb385f2",
+    "3fc6b4461f50",
+    "a9756de264c6",
+    "b984d1ff1c1f",
+    "84e20c91b19d",
+    "5ee2dd433419",
+    "0ed2f09480ff",
+    "27fa2321e1da",
+    "dba47316b75a",
+    "4e323bc20345",
+    "98346948dc87",
+    "df0b1bdc163d",
+    "e2b32b0aa268",
+    "cedf7f5c0142",
+    "e1239ee18ddf",
+    "38f1f3daedca",
+    "8e855f427aa3",
+    "0053421a02cb",
+    "39ea562d9b81",
+    "374572a43be2",
+    "6c51db20726b",
+    "eae5ac2e5ace",
+    "8460282a6ecc",
+    "69ad75470922",
+    "30a1b5c27f3a",
+    "7af0d74c8105"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-08-11",
+     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
+     "sources": 3,
+     "score": 62,
+     "event_id": "1bf4b58ce158",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+     "sources": 2,
+     "score": 54,
+     "event_id": "ab563eb385f2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3fc6b4461f50",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a9756de264c6",
+     "links": [
+      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
+     ]
+    },
+    {
+     "date": "2026-08-11",
+     "headline": "Ukraine says Russia fired North Korean missiles",
+     "sources": 2,
+     "score": 46,
+     "event_id": "b984d1ff1c1f",
+     "links": [
+      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
+      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
+      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "84e20c91b19d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5ee2dd433419",
+     "links": [
+      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
+      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "Ukraine strikes major Russian rocket factory with cruise missiles",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0ed2f09480ff",
+     "links": [
+      "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
+     "sources": 2,
+     "score": 42,
+     "event_id": "27fa2321e1da",
+     "links": [
+      "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
+      "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Why Kyiv keeps attacking Russian retail giant Wildberries",
+     "sources": 2,
+     "score": 49,
+     "event_id": "dba47316b75a",
+     "links": [
+      "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
+     "sources": 2,
+     "score": 43,
+     "event_id": "4e323bc20345",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
+     "sources": 2,
+     "score": 46,
+     "event_id": "98346948dc87",
+     "links": [
+      "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Ukraine appeals to FIA to overturn Russia inclusion",
+     "sources": 3,
+     "score": 53,
+     "event_id": "df0b1bdc163d",
+     "links": [
+      "https://www.bbc.co.uk/sport/formula1/articles/c5y6jz0xx7do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/18/kanye-west-announces-tour-dates-st-petersburg-russia-ye",
+      "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e2b32b0aa268",
+     "links": [
+      "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+     "sources": 4,
+     "score": 69,
+     "event_id": "cedf7f5c0142",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
+     "sources": 3,
+     "score": 59,
+     "event_id": "e1239ee18ddf",
+     "links": [
+      "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre",
+     "sources": 2,
+     "score": 52,
+     "event_id": "38f1f3daedca",
+     "links": [
+      "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
+      "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8e855f427aa3",
+     "links": [
+      "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-22",
+     "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0053421a02cb",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+      "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+     "sources": 2,
+     "score": 40,
+     "event_id": "39ea562d9b81",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
+     "sources": 2,
+     "score": 51,
+     "event_id": "374572a43be2",
+     "links": [
+      "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
+      "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
+      "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6c51db20726b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+     "sources": 2,
+     "score": 47,
+     "event_id": "eae5ac2e5ace",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8460282a6ecc",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
+      "https://www.france24.com/en/game-of-drones-deep-strikes-into-russia-keeping-ukraine-in-this-game"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69ad75470922",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
+      "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "30a1b5c27f3a",
+     "links": [
+      "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+     "sources": 2,
+     "score": 46,
+     "event_id": "7af0d74c8105",
+     "links": [
+      "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+      "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1301430cb05f",
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
@@ -1132,6 +1500,91 @@
      "links": [
       "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
       "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "84ce4047c1c5",
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "section": "world",
+   "entities": [
+    "fast-fashion",
+    "hong",
+    "shein's",
+    "alibaba",
+    "kong",
+    "kong's",
+    "shein",
+    "tiananmen"
+   ],
+   "event_ids": [
+    "84ce4047c1c5",
+    "0df2dafecfc9",
+    "2c91a82a84c2",
+    "f33cc723a614",
+    "a74878e9b76a"
+   ],
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+     "sources": 5,
+     "score": 85,
+     "event_id": "84ce4047c1c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong convicts Tiananmen vigil leaders",
+     "sources": 3,
+     "score": 67,
+     "event_id": "0df2dafecfc9",
+     "links": [
+      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+     "sources": 2,
+     "score": 40,
+     "event_id": "2c91a82a84c2",
+     "links": [
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+     "sources": 3,
+     "score": 53,
+     "event_id": "f33cc723a614",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
+      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a74878e9b76a",
+     "links": [
+      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
      ]
     }
    ]
@@ -2774,360 +3227,6 @@
    ]
   },
   {
-   "id": "1bf4b58ce158",
-   "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-   "section": "world",
-   "entities": [
-    "back-to-back",
-    "kyiv",
-    "belgorod",
-    "ukraine",
-    "several",
-    "russian",
-    "korean",
-    "atacms",
-    "holding",
-    "masha",
-    "zelenskyy",
-    "izmail",
-    "russia",
-    "zelensky",
-    "four",
-    "burnham",
-    "overnight",
-    "bear",
-    "north",
-    "wildberries",
-    "europe"
-   ],
-   "event_ids": [
-    "1bf4b58ce158",
-    "ab563eb385f2",
-    "3fc6b4461f50",
-    "a9756de264c6",
-    "b984d1ff1c1f",
-    "84e20c91b19d",
-    "5ee2dd433419",
-    "0ed2f09480ff",
-    "27fa2321e1da",
-    "dba47316b75a",
-    "4e323bc20345",
-    "98346948dc87",
-    "df0b1bdc163d",
-    "e2b32b0aa268",
-    "cedf7f5c0142",
-    "e1239ee18ddf",
-    "38f1f3daedca",
-    "8e855f427aa3",
-    "0053421a02cb",
-    "39ea562d9b81",
-    "374572a43be2",
-    "6c51db20726b",
-    "eae5ac2e5ace",
-    "8460282a6ecc",
-    "69ad75470922",
-    "30a1b5c27f3a"
-   ],
-   "first_seen": "2026-08-11",
-   "last_seen": "2026-08-29",
-   "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-     "sources": 3,
-     "score": 62,
-     "event_id": "1bf4b58ce158",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
-      "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-     "sources": 2,
-     "score": 54,
-     "event_id": "ab563eb385f2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3fc6b4461f50",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
-      "https://www.france24.com/en/video/20260810-ukraine-drone-strike-on-russian-oil-refining-city-kills-12-people"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a9756de264c6",
-     "links": [
-      "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/russia-and-ukraine-exchange-deadly-overnight-strikes"
-     ]
-    },
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine says Russia fired North Korean missiles",
-     "sources": 2,
-     "score": 46,
-     "event_id": "b984d1ff1c1f",
-     "links": [
-      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
-      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
-      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "84e20c91b19d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5ee2dd433419",
-     "links": [
-      "https://www.france24.com/en/europe/20260813-live-russian-attack-sets-ablaze-ukraine-s-izmail-port-infrastructure",
-      "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "Ukraine strikes major Russian rocket factory with cruise missiles",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0ed2f09480ff",
-     "links": [
-      "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
-     "sources": 2,
-     "score": 42,
-     "event_id": "27fa2321e1da",
-     "links": [
-      "https://www.france24.com/en/europe/20260817-ukraine-and-russia-intensify-attacks-several-killed-in-belgorod-border-region",
-      "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Why Kyiv keeps attacking Russian retail giant Wildberries",
-     "sources": 2,
-     "score": 49,
-     "event_id": "dba47316b75a",
-     "links": [
-      "https://www.dw.com/en/why-kyiv-keeps-attacking-russian-retail-giant-wildberries/a-78384605?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260817-russian-strike-on-kyiv-book-market-an-attempt-to-annihilate-ukrainian-identity"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-     "sources": 2,
-     "score": 43,
-     "event_id": "4e323bc20345",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Ukraine, Russia trade strikes; Wildberries site hit again",
-     "sources": 2,
-     "score": 46,
-     "event_id": "98346948dc87",
-     "links": [
-      "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Ukraine appeals to FIA to overturn Russia inclusion",
-     "sources": 3,
-     "score": 53,
-     "event_id": "df0b1bdc163d",
-     "links": [
-      "https://www.bbc.co.uk/sport/formula1/articles/c5y6jz0xx7do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/18/kanye-west-announces-tour-dates-st-petersburg-russia-ye",
-      "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
-     "sources": 2,
-     "score": 44,
-     "event_id": "e2b32b0aa268",
-     "links": [
-      "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-     "sources": 4,
-     "score": 69,
-     "event_id": "cedf7f5c0142",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "https://www.france24.com/en/europe/20260820-kyiv-targeted-by-massive-russian-strikes-killing-several-people"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Ukraine: Several killed in 'massive' Russian strikes on Kyiv",
-     "sources": 3,
-     "score": 59,
-     "event_id": "e1239ee18ddf",
-     "links": [
-      "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "https://www.france24.com/en/video/20260820-russian-strikes-kill-at-least-12-in-kyiv-surrounding-region"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre",
-     "sources": 2,
-     "score": 52,
-     "event_id": "38f1f3daedca",
-     "links": [
-      "https://www.france24.com/en/europe/20260821-back-to-back-russian-drone-strikes-kill-14-people-in-ukraine-shopping-centre",
-      "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8e855f427aa3",
-     "links": [
-      "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-22",
-     "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0053421a02cb",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-      "https://www.france24.com/en/russian-strikes-zelensky-s-hometown-in-ukraine-killing-15-people-wounding-130"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-     "sources": 2,
-     "score": 40,
-     "event_id": "39ea562d9b81",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
-     "sources": 2,
-     "score": 51,
-     "event_id": "374572a43be2",
-     "links": [
-      "https://www.france24.com/en/zelensky-rejects-wartime-elections-saying-vote-would-split-ukraine",
-      "https://www.france24.com/en/zelensky-rejects-rival-s-call-for-elections-says-would-be-huge-risk-for-ukraine",
-      "https://www.france24.com/en/president-zelensky-says-having-elections-in-ukraine-would-destroy-the-country"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6c51db20726b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/ukraine-uk-pm-andy-burnham-to-visit-kyiv-in-show-of-support/live-78479580?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
-     "sources": 2,
-     "score": 47,
-     "event_id": "eae5ac2e5ace",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
-      "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Ukraine’s drone attacks have left Russia desperately scrambling for oil imports",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8460282a6ecc",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/27/ukraines-drone-attacks-have-left-russia-desperately-scrambling-for-oil-imports",
-      "https://www.france24.com/en/game-of-drones-deep-strikes-into-russia-keeping-ukraine-in-this-game"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69ad75470922",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
-      "https://www.aljazeera.com/news/2026/8/28/ukraines-zelenskyy-plans-to-hit-russia-with-1000-drones-a-day?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "30a1b5c27f3a",
-     "links": [
-      "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "9739585c4084",
    "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
    "section": "world",
@@ -4121,77 +4220,6 @@
       "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
       "https://www.france24.com/en/americas/20260824-canada-trump-threatens-double-auto-tariffs-after-trade-talks-collapse"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "84ce4047c1c5",
-   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-   "section": "world",
-   "entities": [
-    "kong",
-    "tiananmen",
-    "hong",
-    "kong's",
-    "alibaba",
-    "shein",
-    "fast-fashion"
-   ],
-   "event_ids": [
-    "84ce4047c1c5",
-    "0df2dafecfc9",
-    "2c91a82a84c2",
-    "f33cc723a614"
-   ],
-   "first_seen": "2026-08-21",
-   "last_seen": "2026-08-24",
-   "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "sources": 5,
-     "score": 85,
-     "event_id": "84ce4047c1c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong convicts Tiananmen vigil leaders",
-     "sources": 3,
-     "score": 67,
-     "event_id": "0df2dafecfc9",
-     "links": [
-      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
-      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-     "sources": 2,
-     "score": 40,
-     "event_id": "2c91a82a84c2",
-     "links": [
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
-     "sources": 3,
-     "score": 53,
-     "event_id": "f33cc723a614",
-     "links": [
-      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
-      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
      ]
     }
    ]
@@ -5442,5 +5470,5 @@
    ]
   }
  ],
- "updated": "2026-09-01T01:10:29+00:00"
+ "updated": "2026-09-01T03:32:37+00:00"
 }
