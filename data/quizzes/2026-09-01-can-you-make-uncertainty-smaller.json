@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-make-uncertainty-smaller",
+  "date": "2026-09-01",
+  "category": "resilience",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Can you make uncertainty smaller?",
+      "cs": "Umíte zmenšit nejistotu?"
+    },
+    "dek": {
+      "en": "Eight ordinary situations test whether you can turn a vague unknown into a fact, a boundary, a next step or a useful request.",
+      "cs": "Osm běžných situací ukáže, zda umíte proměnit neurčitou neznámou ve fakt, hranici, další krok nebo užitečnou žádost."
+    },
+    "intro": {
+      "en": "Answer for a demanding but ordinary week. The aim is not to eliminate uncertainty—nobody can—but to notice which small response makes it more workable.",
+      "cs": "Odpovídejte podle náročného, ale běžného týdne. Cílem není nejistotu odstranit—to nikdo neumí—ale všimnout si, která malá reakce ji dělá zvládnutelnější."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check informed by public guidance from WHO, CDC and APA. It does not reproduce a licensed resilience instrument and is not a validated scale, diagnosis, treatment plan or prediction of how you will cope. Safety, health, resources and circumstances can change every answer.",
+      "cs": "Jde o původní vzdělávací sebehodnocení vycházející z veřejných doporučení WHO, CDC a APA. Nepřebírá položky licencovaného nástroje odolnosti a není validovanou škálou, diagnózou, léčebným plánem ani předpovědí zvládání. Každou odpověď mohou změnit bezpečí, zdraví, zdroje a okolnosti."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "notice",
+      "label": {"en": "Notice the uncertainty", "cs": "Všimnout si nejistoty"},
+      "why": {
+        "en": "Naming what is unknown keeps a feeling of alarm from masquerading as a complete set of facts.",
+        "cs": "Pojmenování neznámého brání tomu, aby se pocit poplachu tvářil jako úplný soubor faktů."
+      },
+      "action": {
+        "en": "Write one sentence beginning, ‘What I do not yet know is…’",
+        "cs": "Napište jednu větu začínající slovy: „Zatím nevím…“"
+      }
+    },
+    {
+      "id": "sort",
+      "label": {"en": "Sort control from concern", "cs": "Oddělit vliv od obav"},
+      "why": {
+        "en": "Separating what can be influenced now from what cannot reduces wasted effort without denying the problem.",
+        "cs": "Oddělení toho, co lze nyní ovlivnit, od toho, co nelze, omezuje marné úsilí, aniž by problém popíralo."
+      },
+      "action": {
+        "en": "Make two short columns: ‘mine to act on’ and ‘not mine today.’",
+        "cs": "Udělejte dva krátké sloupce: „mohu ovlivnit“ a „dnes neovlivním“."
+      }
+    },
+    {
+      "id": "step",
+      "label": {"en": "Choose a bounded next step", "cs": "Zvolit ohraničený další krok"},
+      "why": {
+        "en": "A small action with a stopping point produces information and prevents endless preparation.",
+        "cs": "Malý krok s jasným koncem přinese informaci a zabrání nekonečné přípravě."
+      },
+      "action": {
+        "en": "Choose one action that takes under 20 minutes and decide when you will reassess.",
+        "cs": "Zvolte jeden krok do 20 minut a určete, kdy výsledek znovu posoudíte."
+      }
+    },
+    {
+      "id": "connect",
+      "label": {"en": "Ask for the right kind of support", "cs": "Požádat o správný druh podpory"},
+      "why": {
+        "en": "A specific request can add missing information, practical help or perspective without handing away the decision.",
+        "cs": "Konkrétní žádost může přidat chybějící informaci, praktickou pomoc nebo odstup, aniž byste odevzdali rozhodnutí."
+      },
+      "action": {
+        "en": "Ask one suitable person for one named thing: a fact, a listening ear, a task or a check-in.",
+        "cs": "Požádejte vhodného člověka o jednu pojmenovanou věc: fakt, vyslechnutí, úkol nebo pozdější kontakt."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "unclear-message",
+      "dimension": "notice",
+      "text": {
+        "en": "You receive a short message that might mean bad news. What happens before you reply?",
+        "cs": "Dostanete krátkou zprávu, která možná znamená něco špatného. Co se stane před odpovědí?"
+      },
+      "options": [
+        {"label": {"en": "I treat my worst interpretation as the fact", "cs": "Nejhorší výklad považuji za fakt"}, "score": 0},
+        {"label": {"en": "I know several meanings are possible, but react to the frightening one", "cs": "Vím, že významů může být více, ale reaguji na ten děsivý"}, "score": 1},
+        {"label": {"en": "I pause and identify what the message actually says", "cs": "Zastavím se a určím, co zpráva skutečně říká"}, "score": 2},
+        {"label": {"en": "I separate the words, my interpretation and the one clarification I need", "cs": "Oddělím přesná slova, svůj výklad a jedno potřebné upřesnění"}, "score": 3}
+      ]
+    },
+    {
+      "id": "waiting-result",
+      "dimension": "notice",
+      "text": {
+        "en": "An important result will arrive next week. How do you hold the gap?",
+        "cs": "Důležitý výsledek přijde příští týden. Jak zacházíte s čekáním?"
+      },
+      "options": [
+        {"label": {"en": "I repeatedly imagine one outcome as if it has happened", "cs": "Opakovaně si představuji jeden výsledek, jako by už nastal"}, "score": 0},
+        {"label": {"en": "I tell myself not to think about it, but keep checking", "cs": "Říkám si, že na to nebudu myslet, ale stále kontroluji"}, "score": 1},
+        {"label": {"en": "I can say what is known and when more will be known", "cs": "Dokážu říct, co je známo a kdy budu vědět více"}, "score": 2},
+        {"label": {"en": "I name the unknown, set a checking time and return to the present task", "cs": "Pojmenuji neznámé, určím čas kontroly a vrátím se k současnému úkolu"}, "score": 3}
+      ]
+    },
+    {
+      "id": "many-risks",
+      "dimension": "sort",
+      "text": {
+        "en": "A change at work creates several possible risks. How do you organise them?",
+        "cs": "Změna v práci vytváří několik možných rizik. Jak si je uspořádáte?"
+      },
+      "options": [
+        {"label": {"en": "They merge into one large threat", "cs": "Slijí se do jedné velké hrozby"}, "score": 0},
+        {"label": {"en": "I make a long list but give every possibility equal attention", "cs": "Sepíšu dlouhý seznam, ale každé možnosti věnuji stejnou pozornost"}, "score": 1},
+        {"label": {"en": "I separate likely issues from remote possibilities", "cs": "Oddělím pravděpodobné problémy od vzdálených možností"}, "score": 2},
+        {"label": {"en": "I rank likelihood and impact, then mark what I can influence now", "cs": "Seřadím pravděpodobnost a dopad a označím, co mohu ovlivnit nyní"}, "score": 3}
+      ]
+    },
+    {
+      "id": "someone-else-decision",
+      "dimension": "sort",
+      "text": {
+        "en": "Another person controls a decision that affects you. What is closest to your response?",
+        "cs": "Jiný člověk ovládá rozhodnutí, které vás ovlivní. Která reakce je vám nejbližší?"
+      },
+      "options": [
+        {"label": {"en": "I keep trying to control their choice in my head", "cs": "V hlavě se stále snažím řídit jeho rozhodnutí"}, "score": 0},
+        {"label": {"en": "I wait and postpone everything else", "cs": "Čekám a odkládám všechno ostatní"}, "score": 1},
+        {"label": {"en": "I identify what information or preparation remains mine", "cs": "Určím, jaké informace nebo příprava zůstávají v mé moci"}, "score": 2},
+        {"label": {"en": "I make my input clear, prepare for plausible outcomes and set a boundary on rumination", "cs": "Jasně sdělím svůj vstup, připravím se na možné výsledky a omezím přemílání"}, "score": 3}
+      ]
+    },
+    {
+      "id": "too-much-research",
+      "dimension": "step",
+      "text": {
+        "en": "You could research a decision forever. When do you move?",
+        "cs": "Rozhodnutí byste mohli zkoumat donekonečna. Kdy se pohnete?"
+      },
+      "options": [
+        {"label": {"en": "I keep gathering information without a stopping rule", "cs": "Stále sbírám informace bez pravidla, kdy skončit"}, "score": 0},
+        {"label": {"en": "I stop only when time or exhaustion decides for me", "cs": "Skončím, až když za mě rozhodne čas nebo vyčerpání"}, "score": 1},
+        {"label": {"en": "I decide which two or three facts would materially change the choice", "cs": "Určím dva či tři fakty, které by volbu skutečně změnily"}, "score": 2},
+        {"label": {"en": "I set an evidence threshold, deadline and review point before researching", "cs": "Před hledáním stanovím potřebné důkazy, termín a bod kontroly"}, "score": 3}
+      ]
+    },
+    {
+      "id": "plan-b",
+      "dimension": "step",
+      "text": {
+        "en": "A plan may fail, but you do not yet know whether it will. What do you do?",
+        "cs": "Plán může selhat, ale zatím nevíte, zda se to stane. Co uděláte?"
+      },
+      "options": [
+        {"label": {"en": "I abandon it immediately or pretend failure is impossible", "cs": "Okamžitě jej vzdám, nebo předstírám, že selhání není možné"}, "score": 0},
+        {"label": {"en": "I worry about alternatives but do not define one", "cs": "Obávám se alternativ, ale žádnou neurčím"}, "score": 1},
+        {"label": {"en": "I choose one backup and the sign that would activate it", "cs": "Zvolím jednu zálohu a znak, který ji aktivuje"}, "score": 2},
+        {"label": {"en": "I prepare a proportionate backup without starving the main plan of attention", "cs": "Připravím přiměřenou zálohu, aniž bych hlavní plán připravil/a o pozornost"}, "score": 3}
+      ]
+    },
+    {
+      "id": "asking-facts",
+      "dimension": "connect",
+      "text": {
+        "en": "Someone else has information you need. How do you approach them?",
+        "cs": "Někdo jiný má informaci, kterou potřebujete. Jak ho oslovíte?"
+      },
+      "options": [
+        {"label": {"en": "I guess rather than risk asking", "cs": "Raději hádám, než abych riskoval/a otázku"}, "score": 0},
+        {"label": {"en": "I send a broad message that is hard to answer", "cs": "Pošlu obecnou zprávu, na kterou se těžko odpovídá"}, "score": 1},
+        {"label": {"en": "I ask one clear question and explain the decision it supports", "cs": "Položím jednu jasnou otázku a vysvětlím, k jakému rozhodnutí slouží"}, "score": 2},
+        {"label": {"en": "I ask clearly, name the deadline and distinguish fact from advice", "cs": "Zeptám se jasně, uvedu termín a oddělím fakt od rady"}, "score": 3}
+      ]
+    },
+    {
+      "id": "need-support",
+      "dimension": "connect",
+      "text": {
+        "en": "Uncertainty is consuming your attention. What kind of support do you seek?",
+        "cs": "Nejistota spotřebovává vaši pozornost. Jakou podporu vyhledáte?"
+      },
+      "options": [
+        {"label": {"en": "I isolate or ask many people to decide for me", "cs": "Izoluji se, nebo žádám mnoho lidí, aby rozhodli za mě"}, "score": 0},
+        {"label": {"en": "I describe the whole problem but cannot say what would help", "cs": "Popíšu celý problém, ale nedokážu říct, co by pomohlo"}, "score": 1},
+        {"label": {"en": "I ask a trusted person for either listening, information or practical help", "cs": "Požádám důvěryhodného člověka o vyslechnutí, informaci nebo praktickou pomoc"}, "score": 2},
+        {"label": {"en": "I choose an appropriate person, make a specific request and keep ownership of the decision", "cs": "Zvolím vhodného člověka, vyslovím konkrétní žádost a ponechám si odpovědnost za rozhodnutí"}, "score": 3}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {"en": "Give the unknown one edge", "cs": "Dejte neznámému jednu hranici"},
+      "summary": {
+        "en": "Your answers suggest that uncertainty often arrives as one undivided demand. This is a snapshot, not a judgment or prediction. Choose the lowest-scoring dimension and use its action once on a low-stakes unknown. If distress persists or interferes with daily functioning, appropriate professional support may be more useful than another self-check.",
+        "cs": "Odpovědi naznačují, že nejistota často přichází jako jeden nerozdělený požadavek. Jde o momentku, ne soud ani předpověď. Vyberte nejslabší dimenzi a jednou použijte její krok na málo závažnou neznámou. Pokud obtíže trvají nebo narušují běžné fungování, může být vhodná odborná pomoc užitečnější než další sebehodnocení."
+      }
+    },
+    {
+      "min": 8,
+      "max": 15,
+      "title": {"en": "You can reduce some uncertainty—make the method repeatable", "cs": "Část nejistoty umíte zmenšit—udělejte postup opakovatelný"},
+      "summary": {
+        "en": "You already use some helpful responses, but they may depend on the situation or available energy. The score is not a validated measure of resilience. Pick one dimension that varies and attach its action to a clear cue, such as receiving an ambiguous message or beginning research.",
+        "cs": "Některé užitečné reakce už používáte, ale mohou záviset na situaci nebo dostupné energii. Skóre není validovaným měřítkem odolnosti. Vyberte jednu kolísavou dimenzi a spojte její krok s jasným podnětem, například s nejasnou zprávou nebo začátkem hledání informací."
+      }
+    },
+    {
+      "min": 16,
+      "max": 24,
+      "title": {"en": "You can put structure around many unknowns", "cs": "Mnoha neznámým umíte dát strukturu"},
+      "summary": {
+        "en": "Your answers suggest that you can often distinguish facts, control, action and support. A high score does not make anyone invulnerable; major loss, unsafe conditions, illness and lack of resources change what is possible. Keep the skill honest by writing one current uncertainty, its trigger for review and the person or source that could add reliable information.",
+        "cs": "Odpovědi naznačují, že často umíte oddělit fakta, vliv, jednání a podporu. Vysoké skóre neznamená nezranitelnost; velká ztráta, nebezpečné podmínky, nemoc a nedostatek zdrojů mění možnosti. Udržujte dovednost poctivou: napište jednu současnou nejistotu, spouštěč další kontroly a člověka či zdroj, který může dodat spolehlivou informaci."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Health Organization — Doing What Matters in Times of Stress",
+      "url": "https://www.who.int/publications/i/item/9789240003927",
+      "published": "2020-04-29",
+      "type": "evidence-informed public guide; no exercises or questionnaire items reproduced"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention — Managing Stress",
+      "url": "https://www.cdc.gov/mental-health/living-with/index.html",
+      "published": "2026-05-12",
+      "type": "official public-health guidance on coping, routines, information breaks and connection"
+    },
+    {
+      "name": "American Psychological Association — Resilience",
+      "url": "https://www.apa.org/topics/resilience",
+      "published": "",
+      "type": "professional overview defining resilience as adaptation rather than a fixed trait"
+    }
+  ]
+}
