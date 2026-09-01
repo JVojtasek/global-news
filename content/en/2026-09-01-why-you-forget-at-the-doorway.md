@@ -1,45 +1,50 @@
 ---
 slug: why-you-forget-at-the-doorway
-title: "Why You Forget What You Wanted at the Doorway"
-dek: "A doorway can mark a new mental episode, but the famous effect is smaller and less automatic than the internet version suggests."
+title: Why You Forget What You Wanted at the Doorway
+dek: A doorway can mark a new mental episode, but the famous effect is smaller and
+  less automatic than the internet version suggests.
 section: questions
 type: analysis
 depth: open
 lang: en
-date: 2026-09-01
-status: draft
-confidence: 88
+date: '2026-09-01'
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "evergreen-doorway-effect-event-boundaries-memory"
-series: "The Wider Lens"
-image_query: "person pausing in a domestic doorway trying to remember warm natural light"
+format: ''
+event_id: evergreen-doorway-effect-event-boundaries-memory
+series: The Wider Lens
+image_query: person pausing in a domestic doorway trying to remember warm natural
+  light
 sources:
-  - name: "PubMed — Radvansky, Krawietz and Tamplin"
-    url: "https://pubmed.ncbi.nlm.nih.gov/21563019/"
-    published: "2011-08-01"
-  - name: "BMC Psychology — McFadyen and colleagues"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7938580/"
-    published: "2021-03-08"
-  - name: "Memory & Cognition — Crockett and colleagues"
-    url: "https://link.springer.com/article/10.3758/s13421-025-01832-8"
-    published: "2026-01-13"
-  - name: "University of Notre Dame"
-    url: "https://news.nd.edu/news/walking-through-doorways-causes-forgetting-new-research-shows/"
-    published: "2011-11-16"
+- name: PubMed — Radvansky, Krawietz and Tamplin
+  url: https://pubmed.ncbi.nlm.nih.gov/21563019/
+  published: '2011-08-01'
+- name: BMC Psychology — McFadyen and colleagues
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7938580/
+  published: '2021-03-08'
+- name: Memory & Cognition — Crockett and colleagues
+  url: https://link.springer.com/article/10.3758/s13421-025-01832-8
+  published: '2026-01-13'
+- name: University of Notre Dame
+  url: https://news.nd.edu/news/walking-through-doorways-causes-forgetting-new-research-shows/
+  published: '2011-11-16'
 quiz:
-  question: "What is the most defensible explanation for sometimes losing an intention after entering another room?"
+  question: What is the most defensible explanation for sometimes losing an intention
+    after entering another room?
   options:
-    - "The brain may update its current event model, making the earlier intention less accessible"
-    - "Doorframes briefly interrupt blood flow to the memory centres"
-    - "Every doorway reliably erases a fixed amount of working memory"
+  - The brain may update its current event model, making the earlier intention less
+    accessible
+  - Doorframes briefly interrupt blood flow to the memory centres
+  - Every doorway reliably erases a fixed amount of working memory
   answer: 0
-  explanation: "Experiments support event-boundary and context effects under some conditions, but replications show that a doorway does not automatically produce forgetting."
+  explanation: Experiments support event-boundary and context effects under some conditions,
+    but replications show that a doorway does not automatically produce forgetting.
 ---
 
 ## BRIEFLY

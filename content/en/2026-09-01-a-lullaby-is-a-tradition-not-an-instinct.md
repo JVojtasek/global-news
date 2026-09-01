@@ -1,48 +1,54 @@
 ---
 slug: a-lullaby-is-a-tradition-not-an-instinct
-title: "A Lullaby Is a Tradition, Not an Instinct"
-dek: "Babies can respond to unfamiliar soothing songs, yet one well-studied culture reminds us that singing to infants must still be learned and carried forward."
+title: A Lullaby Is a Tradition, Not an Instinct
+dek: Babies can respond to unfamiliar soothing songs, yet one well-studied culture
+  reminds us that singing to infants must still be learned and carried forward.
 section: culture
 type: feature
 depth: open
 lang: en
-date: 2026-09-01
+date: '2026-09-01'
 status: reserve
-confidence: 90
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "evergreen-lullaby-cultural-transmission-infant-response"
-series: "The Wider Lens"
-image_query: "adult singing softly to baby at night culturally neutral intimate documentary illustration"
+format: ''
+event_id: evergreen-lullaby-cultural-transmission-infant-response
+series: The Wider Lens
+image_query: adult singing softly to baby at night culturally neutral intimate documentary
+  illustration
 sources:
-  - name: "Nature Human Behaviour — infants and unfamiliar foreign lullabies"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/"
-    published: "2020-10-19"
-  - name: "Science — Universality and diversity in human song"
-    url: "https://www.science.org/doi/10.1126/science.aax0868"
-    published: "2019-11-22"
-  - name: "Current Biology — Loss of dance and infant-directed song among the Northern Aché"
-    url: "https://www.sciencedirect.com/science/article/pii/S0960982225004476"
-    published: "2025-05-19"
-  - name: "Arizona State University"
-    url: "https://news.asu.edu/20250429-local-national-and-global-affairs-new-asu-research-lullabies-and-dancing-are-not-universal"
-    published: "2025-04-29"
-  - name: "Harvard Gazette"
-    url: "https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/"
-    published: "2020-10-19"
+- name: Nature Human Behaviour — infants and unfamiliar foreign lullabies
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8220405/
+  published: '2020-10-19'
+- name: Science — Universality and diversity in human song
+  url: https://www.science.org/doi/10.1126/science.aax0868
+  published: '2019-11-22'
+- name: Current Biology — Loss of dance and infant-directed song among the Northern
+    Aché
+  url: https://www.sciencedirect.com/science/article/pii/S0960982225004476
+  published: '2025-05-19'
+- name: Arizona State University
+  url: https://news.asu.edu/20250429-local-national-and-global-affairs-new-asu-research-lullabies-and-dancing-are-not-universal
+  published: '2025-04-29'
+- name: Harvard Gazette
+  url: https://news.harvard.edu/gazette/story/2020/10/research-shows-lullabies-in-any-language-relax-babies/
+  published: '2020-10-19'
 quiz:
-  question: "Which conclusion best fits the evidence in the article?"
+  question: Which conclusion best fits the evidence in the article?
   options:
-    - "All societies sing lullabies because the behaviour is automatic at birth"
-    - "Lullabies have no cross-cultural features and work only in a familiar language"
-    - "Infants may respond to shared soothing features, while the practice of singing lullabies still depends on cultural learning"
+  - All societies sing lullabies because the behaviour is automatic at birth
+  - Lullabies have no cross-cultural features and work only in a familiar language
+  - Infants may respond to shared soothing features, while the practice of singing
+    lullabies still depends on cultural learning
   answer: 2
-  explanation: "Cross-cultural experiments found infant responses to unfamiliar lullabies, while Northern Aché observations show that infant-directed song is not maintained automatically in every culture."
+  explanation: Cross-cultural experiments found infant responses to unfamiliar lullabies,
+    while Northern Aché observations show that infant-directed song is not maintained
+    automatically in every culture.
 ---
 
 ## BRIEFLY

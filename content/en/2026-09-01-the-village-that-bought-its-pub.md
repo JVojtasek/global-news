@@ -1,45 +1,50 @@
 ---
 slug: the-village-that-bought-its-pub
-title: "The Village That Bought Its Pub"
-dek: "Gressenhall’s residents did not merely rescue a bar; they built a small democratic business and accepted the work that ownership brings."
+title: The Village That Bought Its Pub
+dek: Gressenhall’s residents did not merely rescue a bar; they built a small democratic
+  business and accepted the work that ownership brings.
 section: business
 type: analysis
 depth: open
 lang: en
-date: 2026-09-01
-status: draft
-confidence: 91
+date: '2026-09-01'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: chatgpt-work
-format: ""
-event_id: "evergreen-gressenhall-community-owned-pub-business-model"
-series: "The Wider Lens"
-image_query: "traditional Norfolk village pub exterior community gathering documentary photography"
+format: ''
+event_id: evergreen-gressenhall-community-owned-pub-business-model
+series: The Wider Lens
+image_query: traditional Norfolk village pub exterior community gathering documentary
+  photography
 sources:
-  - name: "Plunkett UK — The Swan at Gressenhall"
-    url: "https://plunkett.co.uk/the-swan-at-gressenhall-in-norfolk/"
-    published: "2026-08-07"
-  - name: "Plunkett UK — Community pubs: the headline grabbers"
-    url: "https://plunkett.co.uk/community-pubs-headline-grabbers/"
-    published: "2024-04-24"
-  - name: "UK Parliament — written evidence on community business"
-    url: "https://committees.parliament.uk/writtenevidence/124097/html/"
-    published: "2023-09-01"
-  - name: "Financial Conduct Authority — mutual societies registration function"
-    url: "https://www.fca.org.uk/publications/corporate-documents/mutual-societies-registration-function-2023-24"
-    published: "2024-05-22"
+- name: Plunkett UK — The Swan at Gressenhall
+  url: https://plunkett.co.uk/the-swan-at-gressenhall-in-norfolk/
+  published: '2026-08-07'
+- name: 'Plunkett UK — Community pubs: the headline grabbers'
+  url: https://plunkett.co.uk/community-pubs-headline-grabbers/
+  published: '2024-04-24'
+- name: UK Parliament — written evidence on community business
+  url: https://committees.parliament.uk/writtenevidence/124097/html/
+  published: '2023-09-01'
+- name: Financial Conduct Authority — mutual societies registration function
+  url: https://www.fca.org.uk/publications/corporate-documents/mutual-societies-registration-function-2023-24
+  published: '2024-05-22'
 quiz:
-  question: "What most clearly distinguishes the community-share model described in the article from an ordinary investment club?"
+  question: What most clearly distinguishes the community-share model described in
+    the article from an ordinary investment club?
   options:
-    - "The largest investor automatically controls the board"
-    - "Members generally participate on a democratic one-member, one-vote basis"
-    - "Every shareholder is guaranteed a financial return"
+  - The largest investor automatically controls the board
+  - Members generally participate on a democratic one-member, one-vote basis
+  - Every shareholder is guaranteed a financial return
   answer: 1
-  explanation: "Community benefit societies are built around member democracy and community purpose; buying more withdrawable shares does not normally buy more votes or guarantee returns."
+  explanation: Community benefit societies are built around member democracy and community
+    purpose; buying more withdrawable shares does not normally buy more votes or guarantee
+    returns.
 ---
 
 ## BRIEFLY
