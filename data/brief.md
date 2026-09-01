@@ -35,32 +35,7 @@
     <https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html>
     > NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.
 
-### 2. At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
-- id události: `2458fe404ed3`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — At least 37 dead and hundreds evacuated after strike on Kyiv warehouse
-    <https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss>
-    > An investigation has been launched into the storage of weapons in the deopt near a residential area.
-  - **The Guardian World** — Russian strike on warehouse near Kyiv kills at least 37
-    <https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37>
-    > Attack on business apparently storing ‘explosive objects’ sparks huge fire, damaging residential buildings At least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs which appears to have been storing “explosive objects”. The attack d
-  - **DW News** — Russian strike on warehouse near Kyiv kills dozens
-    <https://www.dw.com/en/russian-strike-on-warehouse-near-kyiv-kills-dozens/a-78556008?maca=en-rss-en-all-1573-rdf>
-    > Hundreds were also forced to evacuate after a Russian attack on a warehouse near Ukraine's capital, Kyiv, sparked a huge fire and explosions.
-  - **Al Jazeera** — Russian attack on warehouse near Ukraine’s Kyiv kills at least 27
-    <https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss>
-    > Zelenskyy says a warehouse was struck outside Kyiv, 'followed by a detonation', triggering a major fire and explosions.
-  - **France 24** — Dozens dead after Russian drone strike hits warehouse
-    <https://www.france24.com/en/dozens-dead-after-russian-drone-strike-hits-warehouse>
-    > At least 27 people have died after a Russian drone struck a depot near Kyiv's western suburbs overnight, sparking a huge fire and explosions, authorities said Saturday. FRANCE 24's Emmanuelle Chaze reports.
-  - **France 24** — Russian strikes hit homes, warehouse, shopping mall across Ukraine
-    <https://www.france24.com/en/russian-strikes-hit-homes-warehouse-shopping-mall-across-ukraine>
-    > A Russian drone strike triggered a major fire and explosions at a warehouse on the outskirts of Ukraine's capital Kyiv, forcing hundreds to evacuate the region, authorities said early Saturday.
-  - **Investing.com** — Russian strike kills 27 near Kyiv as Moscow militarizes schools
-    <https://www.investing.com/news/economy-news/russian-strike-kills-27-near-kyiv-as-moscow-militarizes-schools-4881964>
-
-### 3. Iran war: US military strikes Iran's Larak Island
+### 2. Iran war: US military strikes Iran's Larak Island
 - id události: `edf475066b1f`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -81,7 +56,7 @@
   - **Investing.com** — Oil jumps more than 2% after US attack on Iran’s Larak island
     <https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075>
 
-### 4. NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
+### 3. NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
 - id události: `1377348ebb36`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -98,6 +73,25 @@
   - **Hacker News Best** — Nancy Grace Roman Space Telescope
     <https://science.nasa.gov/mission/roman-space-telescope/>
     > https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 218 # Comments: 80
+
+### 4. Barcola joins Liverpool from PSG in £123m move
+- id události: `fdcbb689323c`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Barcola joins Liverpool from PSG in £123m move
+    <https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss>
+    > Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.
+  - **Al Jazeera** — Liverpool sign Bradley Barcola from Paris Saint-Germain
+    <https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss>
+    > Barcola's move comes as Liverpool seek to reinforce their forward line after Mohamed Salah's departure.
+  - **France 24** — 🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer
+    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
+  - **France 24** — Bradley Barcola joins Liverpool from PSG for record fee
+    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
+    > Liverpool ⁠have signed ​France forward Bradley Barcola ​from European champions Paris Saint-Germain on a long-term contract, ​the ‌Premier League ⁠club said on Monday, making ‌him the latest marquee addition ⁠to their frontline. The whopping fee is estimated to be around £120 mil
+  - **Guardian Sport** — Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal
+    <https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg>
+    > France international says title ‘one of my biggest dreams’ He is second winger to join in window, after Victor Muñoz Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m
 
 ---
 
@@ -158,14 +152,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 28  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 30  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 28
-  2026-08-17  (2 zdrojů, síla 42)  Ukraine and Russia intensify attacks, several killed in Belgorod border region
-  2026-08-17  (2 zdrojů, síla 49)  Why Kyiv keeps attacking Russian retail giant Wildberries
+rubrika: world · sledováno od 2026-08-11 · záznamů: 30
   2026-08-18  (2 zdrojů, síla 43)  Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live
   2026-08-18  (2 zdrojů, síla 46)  Ukraine, Russia trade strikes; Wildberries site hit again
   2026-08-18  (3 zdrojů, síla 53)  Ukraine appeals to FIA to overturn Russia inclusion
@@ -184,6 +176,8 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 28
   2026-08-29  (2 zdrojů, síla 42)  Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
   2026-09-01  (2 zdrojů, síla 46)  Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
   2026-09-01  (2 zdrojů, síla 43)  At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
+  2026-09-01  (2 zdrojů, síla 46)  Russian attack hits rail workers in new deadly strikes on Kyiv
+  2026-09-01  (2 zdrojů, síla 43)  Russia kills at least 12 on sixth night of drone attacks on Kyiv
 ```
 
 ---

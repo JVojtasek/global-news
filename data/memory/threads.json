@@ -811,29 +811,29 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "ukraine",
-    "europe",
-    "burnham",
-    "russian",
-    "masha",
-    "several",
-    "wildberries",
+    "zelenskyy",
     "overnight",
+    "masha",
+    "four",
     "kyiv",
     "north",
-    "korean",
-    "bessent",
-    "zelenskyy",
-    "atacms",
-    "back-to-back",
-    "russia",
-    "zelensky",
-    "izmail",
-    "holding",
+    "russian",
     "moscow",
+    "zelensky",
+    "several",
+    "bessent",
+    "ukraine",
+    "back-to-back",
+    "izmail",
+    "burnham",
+    "holding",
+    "europe",
     "bear",
-    "belgorod",
-    "four"
+    "atacms",
+    "wildberries",
+    "russia",
+    "korean",
+    "belgorod"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -863,7 +863,9 @@
     "69ad75470922",
     "30a1b5c27f3a",
     "7af0d74c8105",
-    "4715ccb6c821"
+    "4715ccb6c821",
+    "bebce21e9893",
+    "be676994d02c"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-01",
@@ -1183,6 +1185,360 @@
       "https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates",
       "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+     "sources": 2,
+     "score": 46,
+     "event_id": "bebce21e9893",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260901-massive-russian-missile-drone-attacks-on-kyiv"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Russia kills at least 12 on sixth night of drone attacks on Kyiv",
+     "sources": 2,
+     "score": 43,
+     "event_id": "be676994d02c",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
+      "https://www.france24.com/en/russia-targets-kyiv-and-its-region-for-sixth-consecutive-night-of-attacks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "palestinian",
+    "israeli",
+    "gaza",
+    "multiple",
+    "netanyahu",
+    "us-led",
+    "hamas",
+    "week",
+    "rajab",
+    "burnham",
+    "city",
+    "hind",
+    "parton",
+    "nepal",
+    "christian",
+    "dutch",
+    "dolly",
+    "west",
+    "global",
+    "ben-gvir",
+    "palestinians",
+    "colombia",
+    "germany",
+    "france",
+    "italy",
+    "american",
+    "former",
+    "canada",
+    "israel",
+    "jenin",
+    "bank",
+    "far-right",
+    "labour",
+    "news",
+    "palestine",
+    "israel's"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c",
+    "727b036de961",
+    "d9fabac5169e",
+    "dd3e8e775a11",
+    "a6b6f34c8e21",
+    "bdaf2e87b992",
+    "f0db32b6db43",
+    "50063425df92",
+    "a0e824c0fefc",
+    "e28573af70a1",
+    "be74360785ae",
+    "5e2205225644",
+    "0f7415ce5b12",
+    "5a37c8f3f9af",
+    "f1f5dde9d5e4",
+    "4dbfa63e7365",
+    "ddc89ece41e7",
+    "a7f4b944d680",
+    "80ad369697ca",
+    "5bd816fda1dc",
+    "1452b76e2d1a"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-09-01",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69fbd7c00f3b",
+     "links": [
+      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c56a140b572c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
+     "sources": 2,
+     "score": 50,
+     "event_id": "727b036de961",
+     "links": [
+      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "sources": 2,
+     "score": 49,
+     "event_id": "d9fabac5169e",
+     "links": [
+      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dd3e8e775a11",
+     "links": [
+      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a6b6f34c8e21",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdaf2e87b992",
+     "links": [
+      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+     "sources": 2,
+     "score": 47,
+     "event_id": "f0db32b6db43",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+     "sources": 3,
+     "score": 61,
+     "event_id": "50063425df92",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
+      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a0e824c0fefc",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e28573af70a1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be74360785ae",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
+     "sources": 2,
+     "score": 54,
+     "event_id": "5e2205225644",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
+      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
+      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0f7415ce5b12",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5a37c8f3f9af",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
+      "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f1f5dde9d5e4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+     "sources": 1,
+     "score": 40,
+     "event_id": "4dbfa63e7365",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
+     "sources": 2,
+     "score": 43,
+     "event_id": "ddc89ece41e7",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+     "sources": 3,
+     "score": 57,
+     "event_id": "a7f4b944d680",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+     "sources": 2,
+     "score": 46,
+     "event_id": "80ad369697ca",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
+     "sources": 2,
+     "score": 52,
+     "event_id": "5bd816fda1dc",
+     "links": [
+      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
+      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Israeli fire kills three in Gaza City during reported raid, medics say",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1452b76e2d1a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1423,21 +1779,22 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "trump",
-    "venezuela",
     "press",
-    "karoline",
-    "driscoll",
-    "court",
-    "supreme",
-    "leavitt",
-    "days",
-    "nabep",
-    "crypto",
-    "house",
     "army",
+    "driscoll",
+    "crypto",
+    "nabep",
+    "days",
+    "secretary",
+    "chinese",
+    "trump",
+    "karoline",
     "white",
-    "secretary"
+    "venezuela",
+    "supreme",
+    "house",
+    "leavitt",
+    "court"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1447,7 +1804,8 @@
     "08f45c7b66fd",
     "2de7ae790f6c",
     "1b7fcfb1169d",
-    "1cb3a78483ce"
+    "1cb3a78483ce",
+    "71a58ed61b0e"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-01",
@@ -1539,6 +1897,17 @@
      "links": [
       "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
       "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
      ]
     }
    ]
@@ -2723,325 +3092,6 @@
      "links": [
       "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
       "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "palestinians",
-    "israel",
-    "dutch",
-    "ben-gvir",
-    "france",
-    "multiple",
-    "hamas",
-    "palestinian",
-    "parton",
-    "far-right",
-    "labour",
-    "palestine",
-    "netanyahu",
-    "italy",
-    "colombia",
-    "germany",
-    "global",
-    "israel's",
-    "nepal",
-    "christian",
-    "canada",
-    "us-led",
-    "burnham",
-    "gaza",
-    "israeli",
-    "dolly",
-    "former",
-    "week",
-    "bank",
-    "jenin",
-    "american",
-    "rajab",
-    "hind",
-    "news",
-    "west"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b",
-    "c56a140b572c",
-    "727b036de961",
-    "d9fabac5169e",
-    "dd3e8e775a11",
-    "a6b6f34c8e21",
-    "bdaf2e87b992",
-    "f0db32b6db43",
-    "50063425df92",
-    "a0e824c0fefc",
-    "e28573af70a1",
-    "be74360785ae",
-    "5e2205225644",
-    "0f7415ce5b12",
-    "5a37c8f3f9af",
-    "f1f5dde9d5e4",
-    "4dbfa63e7365",
-    "ddc89ece41e7",
-    "a7f4b944d680",
-    "80ad369697ca",
-    "5bd816fda1dc"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-30",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-     "sources": 3,
-     "score": 59,
-     "event_id": "09443cca3ddd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69fbd7c00f3b",
-     "links": [
-      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
-      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c56a140b572c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "sources": 2,
-     "score": 50,
-     "event_id": "727b036de961",
-     "links": [
-      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9fabac5169e",
-     "links": [
-      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-     "sources": 1,
-     "score": 43,
-     "event_id": "dd3e8e775a11",
-     "links": [
-      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a6b6f34c8e21",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdaf2e87b992",
-     "links": [
-      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-     "sources": 2,
-     "score": 47,
-     "event_id": "f0db32b6db43",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-     "sources": 3,
-     "score": 61,
-     "event_id": "50063425df92",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
-      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a0e824c0fefc",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e28573af70a1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be74360785ae",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-     "sources": 2,
-     "score": 54,
-     "event_id": "5e2205225644",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
-      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0f7415ce5b12",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
-     "sources": 2,
-     "score": 43,
-     "event_id": "5a37c8f3f9af",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
-      "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-     "sources": 2,
-     "score": 44,
-     "event_id": "f1f5dde9d5e4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
-     "sources": 1,
-     "score": 40,
-     "event_id": "4dbfa63e7365",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-     "sources": 2,
-     "score": 43,
-     "event_id": "ddc89ece41e7",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-     "sources": 3,
-     "score": 57,
-     "event_id": "a7f4b944d680",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
-     "sources": 2,
-     "score": 46,
-     "event_id": "80ad369697ca",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
-     "sources": 2,
-     "score": 52,
-     "event_id": "5bd816fda1dc",
-     "links": [
-      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
-      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
      ]
     }
    ]
@@ -5538,5 +5588,5 @@
    ]
   }
  ],
- "updated": "2026-09-01T09:30:16+00:00"
+ "updated": "2026-09-01T12:36:00+00:00"
 }

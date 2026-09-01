@@ -21,10 +21,8 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-09-01** (2 zdrojů) Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 21 dní · 28 záznamů
+- rubrika `world` · sledováno 21 dní · 30 záznamů
 - časová osa:
-  - **2026-08-22** (2 zdrojů) Russian strikes kill 6 people in Ukraine, day after shopping complex attack
-  - **2026-08-23** (2 zdrojů) Holding election in wartime would risk destroying Ukraine, says Zelenskyy
   - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
@@ -33,6 +31,8 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
   - **2026-09-01** (2 zdrojů) Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
   - **2026-09-01** (2 zdrojů) At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
+  - **2026-09-01** (2 zdrojů) Russian attack hits rail workers in new deadly strikes on Kyiv
+  - **2026-09-01** (2 zdrojů) Russia kills at least 12 on sixth night of drone attacks on Kyiv
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 12 dní · 28 záznamů
@@ -49,9 +49,8 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 17 dní · 22 záznamů
+- rubrika `world` · sledováno 19 dní · 23 záznamů
 - časová osa:
-  - **2026-08-21** (2 zdrojů) Israel re-establishes closed West Bank settlement, defying growing international protests
   - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
   - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
@@ -61,6 +60,7 @@ Paměť obsahuje **73 vláken**. Aktivních za posledních 14 dní: **33**.
   - **2026-08-29** (3 zdrojů) BBC tracks one week of Israeli settler violence in occupied West Bank
   - **2026-08-30** (2 zdrojů) Palestinian woman and NBC News team reportedly attacked in West Bank
   - **2026-08-30** (2 zdrojů) Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France
+  - **2026-09-01** (2 zdrojů) Israeli fire kills three in Gaza City during reported raid, medics say
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 7 dní · 15 záznamů
