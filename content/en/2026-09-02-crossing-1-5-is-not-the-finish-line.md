@@ -1,14 +1,15 @@
 ---
 slug: crossing-1-5-is-not-the-finish-line
-title: "Crossing 1.5°C Is Not the Finish Line"
-dek: "A new UNEP report says overshoot is now unavoidable; the useful question is how high warming peaks, how long it stays there and whether temperatures can decline."
+title: Crossing 1.5°C Is Not the Finish Line
+dek: A new UNEP report says overshoot is now unavoidable; the useful question is how
+  high warming peaks, how long it stays there and whether temperatures can decline.
 section: science
 type: analysis
 depth: open
 lang: en
 date: '2026-09-02'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics:
 - climate change
@@ -20,7 +21,7 @@ automation_role: intraday
 generator: chatgpt-work
 format: roundtable
 event_id: unep-limiting-overshoot-2026-09-02
-series: "The Newsroom Table"
+series: The Newsroom Table
 image_query: climate temperature curve overshoot scientific chart neutral editorial
 sources:
 - name: UNEP — Limiting Overshoot report
@@ -43,18 +44,21 @@ impact:
   - climate
   - public policy
   - infrastructure
-  line: "UNEP now treats a sustained exceedance of 1.5°C as unavoidable, shifting attention from whether the line is crossed to the height and duration of overshoot."
-  todo: "Track the projected peak under updated national pledges and whether measured emissions begin a sustained decline."
+  line: UNEP now treats a sustained exceedance of 1.5°C as unavoidable, shifting attention
+    from whether the line is crossed to the height and duration of overshoot.
+  todo: Track the projected peak under updated national pledges and whether measured
+    emissions begin a sustained decline.
 qma_path: ''
 tickers: []
 quiz:
-  question: "According to UNEP, which feature most shapes the harm from overshoot?"
+  question: According to UNEP, which feature most shapes the harm from overshoot?
   options:
-  - "How high warming peaks and how long it remains above 1.5°C"
-  - "The calendar year in which one daily temperature first crosses 1.5°C"
-  - "Whether every country experiences the same temperature increase"
+  - How high warming peaks and how long it remains above 1.5°C
+  - The calendar year in which one daily temperature first crosses 1.5°C
+  - Whether every country experiences the same temperature increase
   answer: 0
-  explanation: "UNEP says both the magnitude and duration of overshoot matter; a daily or single-year crossing is not the Paris Agreement's long-term temperature measure."
+  explanation: UNEP says both the magnitude and duration of overshoot matter; a daily
+    or single-year crossing is not the Paris Agreement's long-term temperature measure.
 ---
 
 ## BRIEFLY
