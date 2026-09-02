@@ -1,20 +1,21 @@
 ---
 slug: how-emergency-numbers-became-a-common-language
 title: How Emergency Numbers Became a Common Language
-dek: The journey from switchboard queues to 999, 911 and 112 shows that a memorable number is only the visible edge of a much larger public system.
+dek: The journey from switchboard queues to 999, 911 and 112 shows that a memorable
+  number is only the visible edge of a much larger public system.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-09-02'
-status: draft
-confidence: 92
+status: review
+confidence: 95
 load: 0
 topics:
-  - emergency communications
-  - telephone history
-  - 112
-  - 911
+- emergency communications
+- telephone history
+- 112
+- 911
 automation_generated: true
 edition_slot: 2
 automation_role: edition
@@ -24,31 +25,33 @@ event_id: ''
 series: ''
 image_query: ''
 sources:
-  - name: Science Museum — Britain introduces 999
-    url: https://www.sciencemuseum.org.uk/objects-and-stories/telephones-save-lives-history-samaritans
-    published: '2018-10-16'
-  - name: 911.gov — history of the US emergency number
-    url: https://www.911.gov/about/the-national-911-program-celebrates-50-years-of-911/
-    published: '2025-08-11'
-  - name: City of Haleyville — the first 911 call
-    url: https://www.cityofhaleyville.com/education-community-development/first-9-1-1-call/
-    published: '2023-01-01'
-  - name: EUR-Lex — Council Decision 91/396/EEC
-    url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991D0396:en:HTML
-    published: '1991-07-29'
-  - name: European Commission — how 112 works
-    url: https://digital-strategy.ec.europa.eu/en/policies/112
-    published: '2026-06-23'
+- name: Science Museum — Britain introduces 999
+  url: https://www.sciencemuseum.org.uk/objects-and-stories/telephones-save-lives-history-samaritans
+  published: '2018-10-16'
+- name: 911.gov — history of the US emergency number
+  url: https://www.911.gov/about/the-national-911-program-celebrates-50-years-of-911/
+  published: '2025-08-11'
+- name: City of Haleyville — the first 911 call
+  url: https://www.cityofhaleyville.com/education-community-development/first-9-1-1-call/
+  published: '2023-01-01'
+- name: EUR-Lex — Council Decision 91/396/EEC
+  url: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991D0396:en:HTML
+  published: '1991-07-29'
+- name: European Commission — how 112 works
+  url: https://digital-strategy.ec.europa.eu/en/policies/112
+  published: '2026-06-23'
 qma_path: ''
 tickers: []
 quiz:
   question: What was the central innovation of a single emergency number?
   options:
-    - It replaced local emergency services with one international agency
-    - It created a memorable, priority route into locally organised services
-    - It guaranteed that every caller's exact location would be known automatically
+  - It replaced local emergency services with one international agency
+  - It created a memorable, priority route into locally organised services
+  - It guaranteed that every caller's exact location would be known automatically
   answer: 1
-  explanation: The number standardised public access and priority routing, while dispatch, location technology and service organisation remained local and continued to evolve.
+  explanation: The number standardised public access and priority routing, while dispatch,
+    location technology and service organisation remained local and continued to evolve.
+review_reason: 'citlivé téma: hoax'
 ---
 
 ## BRIEFLY

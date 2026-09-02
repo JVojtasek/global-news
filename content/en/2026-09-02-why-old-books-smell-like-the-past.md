@@ -1,14 +1,15 @@
 ---
 slug: why-old-books-smell-like-the-past
 title: Why Old Books Smell Like the Past
-dek: The familiar scent is chemistry, memory and storage history arriving in the nose at once—and it is not a reliable birth certificate for a book.
+dek: The familiar scent is chemistry, memory and storage history arriving in the nose
+  at once—and it is not a reliable birth certificate for a book.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-02'
-status: draft
-confidence: 94
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -38,10 +39,13 @@ quiz:
   question: What does the characteristic smell of an old book establish most reliably?
   options:
   - Its exact publication decade
-  - That volatile compounds from its materials, degradation and storage history are reaching the nose
+  - That volatile compounds from its materials, degradation and storage history are
+    reaching the nose
   - That the book contains active mould
   answer: 1
-  explanation: Chemical studies connect book odours with volatile compounds released by paper and other materials, but scent varies with manufacture and storage and cannot by itself date a book or diagnose mould.
+  explanation: Chemical studies connect book odours with volatile compounds released
+    by paper and other materials, but scent varies with manufacture and storage and
+    cannot by itself date a book or diagnose mould.
 ---
 
 ## BRIEFLY

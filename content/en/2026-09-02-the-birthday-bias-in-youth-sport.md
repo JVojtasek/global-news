@@ -7,8 +7,8 @@ section: sport
 type: feature
 depth: open
 lang: en
-date: '2026-08-22'
-status: reserve
+date: '2026-09-02'
+status: published
 confidence: 94
 load: 0
 topics: []

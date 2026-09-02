@@ -1,20 +1,21 @@
 ---
 slug: meaningful-work-does-not-have-to-be-a-calling
 title: Meaningful Work Does Not Have to Be a Calling
-dek: A job can matter without becoming your identity—and the best evidence points to autonomy, visible contribution and honest boundaries rather than destiny.
+dek: A job can matter without becoming your identity—and the best evidence points
+  to autonomy, visible contribution and honest boundaries rather than destiny.
 section: meaning
 type: daily
 depth: open
 lang: en
 date: '2026-09-02'
-status: draft
-confidence: 88
+status: published
+confidence: 94
 load: 0
 topics:
-  - meaningful work
-  - careers
-  - purpose
-  - workplace wellbeing
+- meaningful work
+- careers
+- purpose
+- workplace wellbeing
 automation_generated: true
 edition_slot: 1
 automation_role: edition
@@ -22,30 +23,33 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration meaningful work autonomy contribution boundaries no text
+image_query: conceptual editorial illustration meaningful work autonomy contribution
+  boundaries no text
 sources:
-  - name: Universidad Adolfo Ibáñez — longitudinal study of autonomy and beneficence
-    url: https://pure.uai.cl/en/publications/what-makes-work-meaningful-longitudinal-evidence-for-the-importan/
-    published: '2021-12-01'
-  - name: Journal of Management Studies — outcomes of meaningful work meta-analysis
-    url: https://onlinelibrary.wiley.com/doi/10.1111/joms.12406
-    published: '2018-11-13'
-  - name: WashU Research Profiles — callings and the double-edged sword
-    url: https://profiles.wustl.edu/en/publications/the-call-of-the-wild-zookeepers-callings-and-the-double-edged-swo/
-    published: '2009-03-01'
-  - name: Michael F. Steger — Work and Meaning Inventory
-    url: https://michaelfsteger.com/meaningfulwork
-    published: '2012-08-01'
+- name: Universidad Adolfo Ibáñez — longitudinal study of autonomy and beneficence
+  url: https://pure.uai.cl/en/publications/what-makes-work-meaningful-longitudinal-evidence-for-the-importan/
+  published: '2021-12-01'
+- name: Journal of Management Studies — outcomes of meaningful work meta-analysis
+  url: https://onlinelibrary.wiley.com/doi/10.1111/joms.12406
+  published: '2018-11-13'
+- name: WashU Research Profiles — callings and the double-edged sword
+  url: https://profiles.wustl.edu/en/publications/the-call-of-the-wild-zookeepers-callings-and-the-double-edged-swo/
+  published: '2009-03-01'
+- name: Michael F. Steger — Work and Meaning Inventory
+  url: https://michaelfsteger.com/meaningfulwork
+  published: '2012-08-01'
 qma_path: ''
 tickers: []
 quiz:
   question: Which change is best supported as a route toward more meaningful work?
   options:
-    - Wait until the job feels like a lifelong calling
-    - Increase real choice in how the work is done and make its benefit to others visible
-    - Treat willingness to sacrifice pay and rest as proof that the work matters
+  - Wait until the job feels like a lifelong calling
+  - Increase real choice in how the work is done and make its benefit to others visible
+  - Treat willingness to sacrifice pay and rest as proof that the work matters
   answer: 1
-  explanation: Longitudinal evidence found that autonomy and beneficence predicted later meaningfulness, while calling research warns that sacrifice can become a liability rather than proof of meaning.
+  explanation: Longitudinal evidence found that autonomy and beneficence predicted
+    later meaningfulness, while calling research warns that sacrifice can become a
+    liability rather than proof of meaning.
 ---
 
 ## BRIEFLY

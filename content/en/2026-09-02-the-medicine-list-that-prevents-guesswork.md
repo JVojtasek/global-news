@@ -1,14 +1,15 @@
 ---
 slug: the-medicine-list-that-prevents-guesswork
 title: The Medicine List That Prevents Guesswork
-dek: A useful medication record describes what you actually take, not merely what an old chart says you were once prescribed.
+dek: A useful medication record describes what you actually take, not merely what
+  an old chart says you were once prescribed.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-02'
-status: draft
-confidence: 93
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -38,10 +39,13 @@ quiz:
   question: What makes a personal medicine list most useful at a clinical visit?
   options:
   - Copying only the prescription medicines visible in the clinic's record
-  - Recording every product actually used, with strength, dose, timing and purpose, then checking it against the containers
+  - Recording every product actually used, with strength, dose, timing and purpose,
+    then checking it against the containers
   - Removing medicines that seem unimportant before showing the list
   answer: 1
-  explanation: FDA guidance includes prescription and nonprescription medicines, vitamins and supplements, while AHRQ recommends comparing the account with the actual containers to reveal omissions, duplication and differences in use.
+  explanation: FDA guidance includes prescription and nonprescription medicines, vitamins
+    and supplements, while AHRQ recommends comparing the account with the actual containers
+    to reveal omissions, duplication and differences in use.
 ---
 
 ## BRIEFLY
