@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-02
 
-Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
+Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **35**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-09-02** (2 zdrojů) Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 21 dní · 30 záznamů
+- rubrika `world` · sledováno 22 dní · 31 záznamů
 - časová osa:
-  - **2026-08-23** (2 zdrojů) Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   - **2026-08-24** (2 zdrojů) Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
   - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
@@ -33,6 +32,7 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-09-01** (2 zdrojů) At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
   - **2026-09-01** (2 zdrojů) Russian attack hits rail workers in new deadly strikes on Kyiv
   - **2026-09-01** (2 zdrojů) Russia kills at least 12 on sixth night of drone attacks on Kyiv
+  - **2026-09-02** (2 zdrojů) EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 12 dní · 28 záznamů

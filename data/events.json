@@ -1576,37 +1576,6 @@
   ]
  },
  {
-  "id": "0818c2669ed5",
-  "headline": "Antonio helps young Ghanaians chase Premier League dreams",
-  "section": "sport",
-  "score": 49,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T07:01:58+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Antonio helps young Ghanaians chase Premier League dreams",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
-    "published_at": "2026-08-30T07:01:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
-   },
-   {
-    "title": "Transfer latest as Chelsea sign Martínez, Premier League buildup and more – matchday live",
-    "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-    "source": "Guardian Sport",
-    "summary": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
-    "published_at": "2026-08-30T09:20:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
-   }
-  ]
- },
- {
   "id": "cd10da348035",
   "headline": "Man arrested after Swiss rave shooting that killed woman",
   "section": "world",
@@ -1745,6 +1714,37 @@
     "published_at": "2026-09-01T20:45:49+00:00",
     "source_countries": [],
     "seen_at": "2026-09-01T21:23:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d321a4474075",
+  "headline": "US charges Russian for infecting 80,000 freelancers with malware",
+  "section": "safety",
+  "score": 49,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T09:06:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "US charges Russian for infecting 80,000 freelancers with malware",
+    "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+    "source": "BleepingComputer",
+    "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+    "published_at": "2026-09-02T09:06:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+    "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+    "source": "The Hacker News",
+    "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U.S. Attorney's Office for the Northern District of California",
+    "published_at": "2026-09-02T09:10:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
@@ -2343,6 +2343,37 @@
   ]
  },
  {
+  "id": "e2312c1237f9",
+  "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+  "section": "ai",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T09:26:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+    "url": "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
+    "source": "France 24",
+    "summary": "Prominent Hong Kong pro-democracy activist Joshua Wong pleaded guilty Wednesday to conspiracy to collude with foreign forces to endanger national security under a Beijing-imposed law that has effectively stifled the city's once-thriving pro-democracy movement. France 24’s correspondent Jan Camezind Broomby says the decision will almost certainly mean more time behind bars for Wong, already serving",
+    "published_at": "2026-09-02T09:26:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "JD.com’s US$1.3b expansion could test Hong Kong’s footfall-driven retail property model",
+    "url": "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed",
+    "source": "SCMP Tech (Čína)",
+    "summary": "JD.com’s rapid expansion in Hong Kong could challenge the property model that has long made the city’s busiest streets and shopping centres its most valuable, analysts say. The Chinese e-commerce giant has invested more than HK$10 billion (US$1.3 billion) in Hong Kong property over the past two years, building a network of stores, warehouses and other assets that analysts said could reduce the imp",
+    "published_at": "2026-08-30T02:00:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   }
+  ]
+ },
+ {
   "id": "f414abd2627e",
   "headline": "What are the implications of the US-Venezuela oil deal?",
   "section": "business",
@@ -2503,6 +2534,37 @@
     "published_at": "2026-08-31T17:44:31+00:00",
     "source_countries": [],
     "seen_at": "2026-09-01T12:35:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "90a76b863ea4",
+  "headline": "EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live",
+  "section": "world",
+  "score": 45,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T08:55:02+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
+    "source": "The Guardian World",
+    "summary": "Foreign policy chief says drone attack last month ‘had all the hallmarks of state sponsored terrorism’ as she prepares to lead today’s discussions in Palermo After the EU said it was seriously considering using frozen Russian assets to support Kyiv following the hybrid drone attack in Germany, Italy’s foreign minister, Antonio Tajani, said on Wednesday Rome was not opposed to the idea, joining cou",
+    "published_at": "2026-09-02T08:55:02+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
+    "url": "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack",
+    "source": "NPR News",
+    "summary": "The German government blamed Russia for an attempted attack at Leipzig airport last month using a drone laden with explosives. It announced that it would shut down a Russian consulate among measures.",
+    "published_at": "2026-09-02T08:43:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
@@ -3818,6 +3880,37 @@
   ]
  },
  {
+  "id": "9e94f08b4114",
+  "headline": "Alex Eala cruises into US Open second round, top seed Zverev survives",
+  "section": "sport",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T08:41:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Alex Eala cruises into US Open second round, top seed Zverev survives",
+    "url": "https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Americans Madison Keys, Coco Gauff and Taylor Fritz powered through to the second round alongside birthday boy Monfils.",
+    "published_at": "2026-09-02T08:41:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Top seed Alexander Zverev survives near five-hour marathon at US Open",
+    "url": "https://www.theguardian.com/sport/2026/sep/02/alexander-zverev-survives-near-five-hour-marathon-us-open-tennis",
+    "source": "Guardian Sport",
+    "summary": "German scrapes home 6-4, 3-6, 6-7 (7), 7-5, 6-4 in thriller ‘I think this is the longest first-round match I’ve played’ Alexander Zverev rallied just in time to avoid becoming the first men’s No. 1 seed to lose in the first round of a grand slam tournament since 2003, edging Lorenzo Sonego 6-4, 3-6, 6-7 (7), 7-5, 6-4 in a US Open match that ended in the early hours of Wednesday morning. Zverev cou",
+    "published_at": "2026-09-02T08:34:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   }
+  ]
+ },
+ {
   "id": "e8dc7a0f526a",
   "headline": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
   "section": "business",
@@ -4823,33 +4916,126 @@
   ]
  },
  {
-  "id": "4a5618ffd878",
-  "headline": "Iceland appears to have rejected EU accession talks in referendum, reports say",
+  "id": "5f8e6568fd0c",
+  "headline": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
   "section": "world",
-  "score": 39,
+  "score": 40,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T08:51:05+00:00",
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T08:58:04+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
-    "url": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
+    "title": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
+    "url": "https://www.theguardian.com/business/2026/sep/02/ryanair-warns-air-fares-europe-jump-next-year-oil-price-stays-high",
     "source": "The Guardian World",
-    "summary": "The no camp looks to have prevailed, holding 52.5% of votes with only a few left to be counted, says public broadcaster Iceland appears to have ⁠rejected ⁠the government’s proposal ​to hold ⁠accession talks with ⁠the ​EU, ‌the public ‌broadcaster RUV has ‌reported, with only a small ‌number of votes ​left to count. The no camp had 52.5% of votes and the yes camp 47.5%, with only a few ballots left",
-    "published_at": "2026-08-30T08:51:05+00:00",
+    "summary": "Budget carrier says airlines could go bust as it cuts passenger targets to reduce exposure to ‘unhedged winter oil’ Business live – latest updates Ryanair has warned that air fares in Europe will jump next year if the oil price remains high and that some airlines could go bust. The Irish budget carrier has cut its passenger target for the year to 31 March, down from 216 million customers to 214 mi",
+    "published_at": "2026-09-02T08:58:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
    },
    {
-    "title": "Iceland rejects EU-accession talks plan in referendum",
-    "url": "https://www.aljazeera.com/news/2026/8/30/iceland-rejects-eu-membership-plan-in-referendum?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "The 'No' camp had 52.5 percent and the 'Yes' camp had 47.5 percent with only a few ballots left to count, RUV reports.",
-    "published_at": "2026-08-30T07:57:18+00:00",
+    "title": "Ryanair warns air fares in Europe will jump next year if oil price stays high",
+    "url": "https://www.theguardian.com/business/2026/sep/02/ryanair-warns-air-fares-europe-jump-next-year-oil-price-stays-high",
+    "source": "Guardian Business",
+    "summary": "Budget carrier says airlines could go bust as it cuts passenger targets to reduce exposure to ‘unhedged winter oil’ Business live – latest updates Ryanair has warned that air fares in Europe will jump next year if the oil price remains high and that some airlines could go bust. The Irish budget carrier has cut its passenger target for the year to 31 March, down from 216 million customers to 214 mi",
+    "published_at": "2026-09-02T08:58:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9bad6ae64ea1",
+  "headline": "Sadiq Khan fined by fast-track court over untaxed car City Hall says is not his",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T08:30:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Sadiq Khan fined by fast-track court over untaxed car City Hall says is not his",
+    "url": "https://www.theguardian.com/politics/2026/sep/02/sadiq-khan-fined-fast-track-court-untaxed-car-city-hall-says-he-doesnt-own",
+    "source": "The Guardian World",
+    "summary": "London mayor convicted under controversial system where magistrates can decide outcomes in seconds UK politics live – latest updates The London mayor, Sadiq Khan, has been convicted and fined for not taxing a 24-year-old car, through a controversial fast-track court system. He was found guilty last month under a system critics have described as “conveyor-belt justice”, with magistrates deciding on",
+    "published_at": "2026-09-02T08:30:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Sadiq Khan fined by fast-track court over untaxed car City Hall says is not his",
+    "url": "https://www.theguardian.com/politics/2026/sep/02/sadiq-khan-fined-fast-track-court-untaxed-car-city-hall-says-he-doesnt-own",
+    "source": "Guardian Business",
+    "summary": "London mayor convicted under controversial system where magistrates can decide outcomes in seconds UK politics live – latest updates The London mayor, Sadiq Khan, has been convicted and fined for not taxing a 24-year-old car, through a controversial fast-track court system. He was found guilty last month under a system critics have described as “conveyor-belt justice”, with magistrates deciding on",
+    "published_at": "2026-09-02T08:30:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2ca2b293d3c0",
+  "headline": "Fake 10 Downing Street listing on Booking.com highlights security failures",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T07:45:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Fake 10 Downing Street listing on Booking.com highlights security failures",
+    "url": "https://www.theguardian.com/money/2026/sep/02/fake-10-downing-street-listing-booking-com-highlights-security-failures",
+    "source": "The Guardian World",
+    "summary": "Consumer watchdog Which? set up and accepted payment for fake listing for ‘1 bed apartment in heart of London’ Successive politicians have clawed their way past colleagues over the years to call the residence home. Yet in an offer that probably seemed too good to be true, the property site Booking.com has been accused of “systemic security failures” after it was able to set up and accept payment f",
+    "published_at": "2026-09-02T07:45:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Fake 10 Downing Street listing on Booking.com highlights security failures",
+    "url": "https://www.theguardian.com/money/2026/sep/02/fake-10-downing-street-listing-booking-com-highlights-security-failures",
+    "source": "Guardian Business",
+    "summary": "Consumer watchdog Which? set up and accepted payment for fake listing for ‘1 bed apartment in heart of London’ Successive politicians have clawed their way past colleagues over the years to call the residence home. Yet in an offer that probably seemed too good to be true, the property site Booking.com has been accused of “systemic security failures” after it was able to set up and accept payment f",
+    "published_at": "2026-09-02T07:45:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   }
+  ]
+ },
+ {
+  "id": "60e60bb82d2c",
+  "headline": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+  "section": "culture",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-08-26T23:03:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+    "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+    "published_at": "2026-08-26T23:03:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+    "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+    "published_at": "2026-08-26T23:03:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
@@ -5398,68 +5584,6 @@
     "published_at": "2026-09-02T06:00:25+00:00",
     "source_countries": [],
     "seen_at": "2026-09-02T06:44:32+00:00"
-   }
-  ]
- },
- {
-  "id": "76aedc5eec72",
-  "headline": "Pet owners at risk of being ripped off by private equity firms as vet ownership rules change",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T08:00:50+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Pet owners at risk of being ripped off by private equity firms as vet ownership rules change",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/pet-owners-private-equity-firms-vet-ownership-rules-change",
-    "source": "The Guardian World",
-    "summary": "Critics say changes by CMA will allow multinationals to obscure their ownership of vet practices Pet owners have been warned that they could be unknowingly ripped off by private equity firms who have bought local vet clinics, after the Competition and Markets Authority (CMA) removed requirements for multinational companies to disclose which practices they own. The CMA recently ran an investigation",
-    "published_at": "2026-08-30T08:00:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
-   },
-   {
-    "title": "Pet owners at risk of being ripped off by private equity firms as vet ownership rules change",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/pet-owners-private-equity-firms-vet-ownership-rules-change",
-    "source": "Guardian Business",
-    "summary": "Critics say changes by CMA will allow multinationals to obscure their ownership of vet practices Pet owners have been warned that they could be unknowingly ripped off by private equity firms who have bought local vet clinics, after the Competition and Markets Authority (CMA) removed requirements for multinational companies to disclose which practices they own. The CMA recently ran an investigation",
-    "published_at": "2026-08-30T08:00:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
-   }
-  ]
- },
- {
-  "id": "d7d9b703cd82",
-  "headline": "Vuelta: Pogacar’s terrifying crash, serious injuries and abandonment",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T09:03:10+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Vuelta: Pogacar’s terrifying crash, serious injuries and abandonment",
-    "url": "https://www.france24.com/en/tv-shows/sports/20260830-vuelta-pogacar-s-terrifying-crash-serious-injuries-and-abandonment",
-    "source": "France 24",
-    "summary": "Tadej Pogacar, who was comfortably leading the overall standings at the Vuelta a España, was forced to abandon on Saturday after a heavy crash during Stage 8. The Slovenian suffered multiple fractures and could even see his season come to an early end, with the World Championships looming at the end of September.",
-    "published_at": "2026-08-30T09:03:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
-   },
-   {
-    "title": "Pogacar to have surgery on broken collarbone after horrific Vuelta crash",
-    "url": "https://www.aljazeera.com/sports/2026/8/30/pogacar-to-have-surgery-on-broken-collarbone-after-horrific-vuelta-crash?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Pogacar suffered concussion and broke two bones after losing control of his bike when it hit a stone on the road.",
-    "published_at": "2026-08-30T08:19:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
    }
   ]
  },
@@ -6300,33 +6424,33 @@
   ]
  },
  {
-  "id": "d8ce50c418e4",
-  "headline": "One person killed, five wounded in shooting at rave in Switzerland",
+  "id": "17c55dca4644",
+  "headline": "Range Rover launches its first electric vehicle, with starting price of £154,070",
   "section": "world",
-  "score": 37,
+  "score": 38,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T08:02:35+00:00",
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T09:08:23+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "One person killed, five wounded in shooting at rave in Switzerland",
-    "url": "https://www.aljazeera.com/news/2026/8/30/one-person-killed-five-wounded-in-shooting-at-rave-in-switzerland?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Police said a manhunt is under way following the incident at the annual techno party.",
-    "published_at": "2026-08-30T08:02:35+00:00",
+    "title": "Range Rover launches its first electric vehicle, with starting price of £154,070",
+    "url": "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle",
+    "source": "The Guardian World",
+    "summary": "Fully electric SUV unveiled after year-long delay and will be built at Jaguar Land Rover’s plant in Solihull Range Rover has launched its first electric vehicle – a year later than planned – offering a greener option for fans of gargantuan British-made SUVs who are also conscious about the climate crisis. Due to be built in Solihull, the home of the marque since 1970, the vehicle comes with an eye",
+    "published_at": "2026-09-02T09:08:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
    },
    {
-    "title": "At least one dead, five injured in shooting at rave in Switzerland",
-    "url": "https://www.france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland",
-    "source": "France 24",
-    "summary": "At least one person was killed and five others injured, some seriously, in a shooting at a rave in the northern Swiss city of Aarau, police and local media reported Sunday. A major police operation is underway at the scene, with authorities urging residents to stay away from the area.",
-    "published_at": "2026-08-30T06:52:02+00:00",
+    "title": "Range Rover launches its first electric vehicle, with starting price of £154,070",
+    "url": "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle",
+    "source": "Guardian Business",
+    "summary": "Fully electric SUV unveiled after year-long delay and will be built at Jaguar Land Rover’s plant in Solihull Range Rover has launched its first electric vehicle – a year later than planned – offering a greener option for fans of gargantuan British-made SUVs who are also conscious about the climate crisis. Due to be built in Solihull, the home of the marque since 1970, the vehicle comes with an eye",
+    "published_at": "2026-09-02T09:08:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
@@ -6812,55 +6936,73 @@
   ]
  },
  {
-  "id": "5c3c6d6615f9",
-  "headline": "Women in UK arts feel they do not have equal opportunities for roles, says report",
+  "id": "990bfae3c63a",
+  "headline": "BP appoints new chair after contentious ousting of Albert Manifold in May",
   "section": "world",
-  "score": 36,
+  "score": 37,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T09:00:52+00:00",
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T07:59:04+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Women in UK arts feel they do not have equal opportunities for roles, says report",
-    "url": "https://www.theguardian.com/money/2026/aug/30/women-uk-arts-no-equal-opportunities-roles-report-sexism-discrimination",
+    "title": "BP appoints new chair after contentious ousting of Albert Manifold in May",
+    "url": "https://www.theguardian.com/business/2026/sep/02/bp-appoints-new-chair-after-ousting-of-albert-manifold-in-may",
     "source": "The Guardian World",
-    "summary": "Exclusive: Research says sector is fixated with young talent, with most women experiencing unconscious bias or sexism Women working in the arts believe they do not have equal opportunities for roles, especially as they get older, according to a report saying that the industry is fixated with “young and emerging” talent. Nearly all (95%) women working in the arts thought gender inequality persisted",
-    "published_at": "2026-08-30T09:00:52+00:00",
+    "summary": "Ian Tyler, who was already in role on interim basis, selected and pledges to ‘lead the board’s evolution’ BP has appointed a new chair after a months-long search following the controversial ousting of Albert Manifold , seeking to draw a line under the boardroom turmoil at the oil and gas company. Ian Tyler, who has served as the interim chair and sat on the BP board as a non-executive director sin",
+    "published_at": "2026-09-02T07:59:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
    },
    {
-    "title": "Women in UK arts feel they do not have equal opportunities for roles, says report",
-    "url": "https://www.theguardian.com/money/2026/aug/30/women-uk-arts-no-equal-opportunities-roles-report-sexism-discrimination",
+    "title": "BP appoints new chair after contentious ousting of Albert Manifold in May",
+    "url": "https://www.theguardian.com/business/2026/sep/02/bp-appoints-new-chair-after-ousting-of-albert-manifold-in-may",
     "source": "Guardian Business",
-    "summary": "Exclusive: Research says sector is fixated with young talent, with most women experiencing unconscious bias or sexism Women working in the arts believe they do not have equal opportunities for roles, especially as they get older, according to a report saying that the industry is fixated with “young and emerging” talent. Nearly all (95%) women working in the arts thought gender inequality persisted",
-    "published_at": "2026-08-30T09:00:52+00:00",
+    "summary": "Ian Tyler, who was already in role on interim basis, selected and pledges to ‘lead the board’s evolution’ BP has appointed a new chair after a months-long search following the controversial ousting of Albert Manifold , seeking to draw a line under the boardroom turmoil at the oil and gas company. Ian Tyler, who has served as the interim chair and sat on the BP board as a non-executive director sin",
+    "published_at": "2026-09-02T07:59:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
  {
-  "id": "fb03f91d7cd2",
-  "headline": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
-  "section": "world",
-  "score": 36,
+  "id": "535710b1566e",
+  "headline": "Citizens reiterates Knight Transportation stock rating on freight outlook",
+  "section": "business",
+  "score": 37,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T08:32:13+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T09:10:58+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
-    "source": "NPR News",
-    "summary": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military.",
-    "published_at": "2026-08-30T08:32:13+00:00",
+    "title": "Citizens reiterates Knight Transportation stock rating on freight outlook",
+    "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-knight-transportation-stock-rating-on-freight-outlook-93CH-4885595",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T09:10:58+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Citizens reiterates IREN stock rating on platform scaling to AI",
+    "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-iren-stock-rating-on-platform-scaling-to-ai-93CH-4885562",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T09:04:53+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Citizens reiterates Mid-America Apartment stock rating on stable outlook",
+    "url": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-midamerica-apartment-stock-rating-on-stable-outlook-93CH-4885561",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-02T09:04:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
@@ -7439,24 +7581,86 @@
   ]
  },
  {
-  "id": "1e145e18f9cd",
-  "headline": "Trump’s ‘economic D-day’ against Iran risks driving the stakes even higher | Sina Toossi",
-  "section": "business",
-  "score": 35,
-  "sources_count": 1,
+  "id": "76dcfd05af3a",
+  "headline": "Britain is OK with public ownership, but only by foreign powers. Why?",
+  "section": "world",
+  "score": 36,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T07:00:49+00:00",
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T07:00:26+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Trump’s ‘economic D-day’ against Iran risks driving the stakes even higher | Sina Toossi",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/30/trump-economic-d-day-iran-stakes-higher-war",
-    "source": "Guardian Business",
-    "summary": "As with its approach to Hormuz, the US has mistaken applying pressure for an actual strategy. But Tehran has chips of its own to play Donald Trump has found a new way to promise victory over Iran. After months of war have failed to force Iran’s capitulation or collapse, his administration has unveiled what the US Treasury secretary, Scott Bessent, calls Operation Economic Outcast: an effort to cut",
-    "published_at": "2026-08-30T07:00:49+00:00",
+    "title": "Britain is OK with public ownership, but only by foreign powers. Why?",
+    "url": "https://www.theguardian.com/business/2026/sep/02/britain-public-ownership-energy-transition-foreign-powers-arthur-downing",
+    "source": "The Guardian World",
+    "summary": "Arthur Downing, author of Power and the People: A History of British Energy, says all-encompassing rapid transition will need a mutualised system Have you ever wondered why it is that most houses in the UK are reliant on gas boilers? Not what’s stopping more people from replacing them with heat pumps, but instead why and how the gas boiler became so ubiquitous in the first place? Arthur Downing, t",
+    "published_at": "2026-09-02T07:00:26+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Britain is OK with public ownership, but only by foreign powers. Why?",
+    "url": "https://www.theguardian.com/business/2026/sep/02/britain-public-ownership-energy-transition-foreign-powers-arthur-downing",
+    "source": "Guardian Business",
+    "summary": "Arthur Downing, author of Power and the People: A History of British Energy, says all-encompassing rapid transition will need a mutualised system Have you ever wondered why it is that most houses in the UK are reliant on gas boilers? Not what’s stopping more people from replacing them with heat pumps, but instead why and how the gas boiler became so ubiquitous in the first place? Arthur Downing, t",
+    "published_at": "2026-09-02T07:00:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   }
+  ]
+ },
+ {
+  "id": "650c1ecbb695",
+  "headline": "Iran strikes back against latest US attacks, vowing ‘severe’ consequences",
+  "section": "world",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T09:08:25+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Iran strikes back against latest US attacks, vowing ‘severe’ consequences",
+    "url": "https://www.france24.com/en/video/20260902-iran-strikes-back-against-latest-us-attacks-vowing-severe-consequences",
+    "source": "France 24",
+    "summary": "Iran struck US interests around the Middle East on Wednesday, vowing \"severe\" consequences for renewed American attacks on the Islamic republic, including a US strike it said killed five and wounded dozens of civilians at a wedding.",
+    "published_at": "2026-09-02T09:08:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   },
+   {
+    "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+    "url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.",
+    "published_at": "2026-09-02T08:55:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e1b0fe399ce0",
+  "headline": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+  "section": "safety",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T06:56:30+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+    "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+    "source": "The Hacker News",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
+    "published_at": "2026-09-02T06:56:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
@@ -8642,24 +8846,24 @@
   ]
  },
  {
-  "id": "21ba5aa41df1",
-  "headline": "Death toll rises as 3,000 remain missing in Nepal, China",
-  "section": "world",
-  "score": 34,
+  "id": "123b90c7eeb9",
+  "headline": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+  "section": "safety",
+  "score": 35,
   "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-30T09:24:41+00:00",
-  "event_time": "2026-08-30T08:37:04+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-02T09:29:18+00:00",
+  "event_time": "2026-09-02T07:08:50+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Death toll rises as 3,000 remain missing in Nepal, China",
-    "url": "https://www.france24.com/en/death-toll-rises-as-3-000-remain-missing-in-nepal-china",
-    "source": "France 24",
-    "summary": "Rescue and relief efforts in Nepal and Tibet have been hampered this Sunday by heavy rain and rising river levels. The latest figures following Wednesday’s flash floods put the death toll at 750, while more than 3,000 people remain missing. Nepal’s disaster authorities are urging rescue teams to “exercise caution”, warning that bad weather, swollen rivers and the threat of further flooding could h",
-    "published_at": "2026-08-30T08:37:04+00:00",
+    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+    "source": "The Hacker News",
+    "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
+    "published_at": "2026-09-02T07:08:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-30T09:24:38+00:00"
+    "seen_at": "2026-09-02T09:29:15+00:00"
    }
   ]
  },
@@ -8876,138 +9080,6 @@
     "published_at": "2026-08-31T06:30:24+00:00",
     "source_countries": [],
     "seen_at": "2026-08-31T06:48:58+00:00"
-   }
-  ]
- },
- {
-  "id": "b9d7a2206106",
-  "headline": "Man who murdered Molly Ticehurst unlikely to face life in jail, court hears",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-31T09:33:33+00:00",
-  "event_time": "2026-08-31T07:11:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Man who murdered Molly Ticehurst unlikely to face life in jail, court hears",
-    "url": "https://www.theguardian.com/australia-news/2026/aug/31/molly-ticehurst-domestic-violence-murder-daniel-billings-sentence-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "Justice Natalie Adams says she is troubled by expert evidence about rape allegations in slain woman’s police statement Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Molly Ticehurst’s ex-boyfriend is unlikely to face a life sentence for her domestic violence murder, a crime which galvanised a national movement against gendered ab",
-    "published_at": "2026-08-31T07:11:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T09:33:30+00:00"
-   }
-  ]
- },
- {
-  "id": "4b2b510197ed",
-  "headline": "'Complex' world of Taliban home: Wife embraces Taliban 'brothers', asserts women's right to freedom",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-31T09:33:33+00:00",
-  "event_time": "2026-08-31T07:24:55+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'Complex' world of Taliban home: Wife embraces Taliban 'brothers', asserts women's right to freedom",
-    "url": "https://www.france24.com/en/complex-world-of-taliban-home-wife-embraces-taliban-brothers-asserts-women-s-right-to-freedom",
-    "source": "France 24",
-    "summary": "Eve Irvine is pleased to welcome Elise Blanchard, award-winning photojournalist and author of “Dans la Maison d’un Taliban” (In the House of a Taliban). Blanchard’s work challenges narratives that reduce Afghan women to passive victims. Drawing on rare access to a Taliban household, she describes a social landscape shaped by profound contradictions. In drought-stricken Badghis province, Blanchard ",
-    "published_at": "2026-08-31T07:24:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T09:33:30+00:00"
-   }
-  ]
- },
- {
-  "id": "aef0c35a4771",
-  "headline": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-  "section": "science",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-31T09:33:33+00:00",
-  "event_time": "2026-08-31T04:05:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-    "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
-    "source": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 August 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
-    "published_at": "2026-08-31T04:05:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T09:33:30+00:00"
-   }
-  ]
- },
- {
-  "id": "5b0f332fc66f",
-  "headline": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-  "section": "safety",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-31T09:33:33+00:00",
-  "event_time": "2026-08-31T07:56:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-    "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-    "source": "The Hacker News",
-    "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted. Last week, the DoJ said the National Aeronautics and Space Administration, Federal Reserve, Department of Energy, Department of Justice, Department",
-    "published_at": "2026-08-31T07:56:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T09:33:30+00:00"
-   }
-  ]
- },
- {
-  "id": "608a9487eb92",
-  "headline": "The jury's options in Lindsay Clancy's murder trial",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-31T12:37:14+00:00",
-  "event_time": "2026-08-31T11:53:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The jury's options in Lindsay Clancy's murder trial",
-    "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
-    "published_at": "2026-08-31T11:53:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T12:37:10+00:00"
-   }
-  ]
- },
- {
-  "id": "21873b73cf01",
-  "headline": "Trump’s plan to sell off a part of Yosemite is what oligarchy looks like | Rebecca Solnit",
-  "section": "business",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-31T12:37:14+00:00",
-  "event_time": "2026-08-31T10:00:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump’s plan to sell off a part of Yosemite is what oligarchy looks like | Rebecca Solnit",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/31/trumps-plan-to-sell-off-a-part-of-yosemite-is-what-oligarchy-looks-like",
-    "source": "Guardian Business",
-    "summary": "Public lands belong to all of us. Noone should plunder those lands for profit Do people still say a car was “sold for parts”? Because the US is being sold for parts or just handed over to the oligarchy. It’s a fire sale, a bankruptcy auction, it’s a planned dismantling of everything from its military to its institutions of higher education to its scientific research to its public lands. And while ",
-    "published_at": "2026-08-31T10:00:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T12:37:10+00:00"
    }
   ]
  }

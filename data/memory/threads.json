@@ -809,327 +809,35 @@
    ]
   },
   {
-   "id": "fc871ed3ce64",
-   "title": "Trump signs order to rename Lake Ontario as Lake America",
-   "section": "world",
-   "entities": [
-    "maps",
-    "apple",
-    "politics",
-    "lake",
-    "weekly",
-    "ontario",
-    "mapquest",
-    "canada",
-    "america",
-    "google",
-    "trump"
-   ],
-   "event_ids": [
-    "fc871ed3ce64",
-    "d303cedaf846",
-    "69769cf42fdf",
-    "4dcd5aa8edee",
-    "f1acf504161f",
-    "eded7a46ce69",
-    "513bc8ca4fe5",
-    "2063b9e83ecd",
-    "7ee9d33d0756"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-09-02",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Trump signs order to rename Lake Ontario as Lake America",
-     "sources": 7,
-     "score": 82,
-     "event_id": "fc871ed3ce64",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
-     "sources": 4,
-     "score": 64,
-     "event_id": "d303cedaf846",
-     "links": [
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "How did Trump get so rich? | Politics Weekly America",
-     "sources": 4,
-     "score": 62,
-     "event_id": "69769cf42fdf",
-     "links": [
-      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
-     "sources": 2,
-     "score": 47,
-     "event_id": "4dcd5aa8edee",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-     "sources": 3,
-     "score": 59,
-     "event_id": "f1acf504161f",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
-     "sources": 3,
-     "score": 60,
-     "event_id": "eded7a46ce69",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
-      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
-     "sources": 2,
-     "score": 41,
-     "event_id": "513bc8ca4fe5",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Apple Maps follows Google in renaming Lake Ontario",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2063b9e83ecd",
-     "links": [
-      "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
-      "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-     "sources": 5,
-     "score": 73,
-     "event_id": "7ee9d33d0756",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9ffb6bd91201",
-   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-   "section": "sport",
-   "entities": [
-    "community",
-    "deadlines",
-    "nightmare",
-    "rodri",
-    "enzo",
-    "city",
-    "manchester",
-    "he's",
-    "shield",
-    "maresca",
-    "gvardiol",
-    "rodri's",
-    "arsenal",
-    "bournemouth",
-    "fernandez"
-   ],
-   "event_ids": [
-    "9ffb6bd91201",
-    "2fef58e0d72e",
-    "b5cc84461c06",
-    "cb7f47a5868f",
-    "c6aec83a4cd2",
-    "4a7b92cbd9ac",
-    "81646cf59625",
-    "b0c1fdbb2cf5"
-   ],
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-09-02",
-   "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9ffb6bd91201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2fef58e0d72e",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "'He's the professor' - Rodri's Manchester City journey",
-     "sources": 2,
-     "score": 49,
-     "event_id": "b5cc84461c06",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
-     "sources": 1,
-     "score": 41,
-     "event_id": "cb7f47a5868f",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City will 'try to find the new Rodri' - Maresca",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c6aec83a4cd2",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
-     "sources": 2,
-     "score": 59,
-     "event_id": "4a7b92cbd9ac",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
-      "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City 'completely deserved to win' - Maresca",
-     "sources": 2,
-     "score": 41,
-     "event_id": "81646cf59625",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
-     "sources": 3,
-     "score": 56,
-     "event_id": "b0c1fdbb2cf5",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
-      "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8d4f8a634705",
-   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-   "section": "world",
-   "entities": [
-    "joshua",
-    "wong",
-    "jailed"
-   ],
-   "event_ids": [
-    "8d4f8a634705"
-   ],
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
-   "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-     "sources": 4,
-     "score": 68,
-     "event_id": "8d4f8a634705",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "zelenskyy",
-    "overnight",
-    "masha",
-    "four",
-    "kyiv",
-    "north",
-    "russian",
-    "moscow",
-    "zelensky",
     "several",
     "bessent",
-    "ukraine",
-    "back-to-back",
-    "izmail",
-    "burnham",
-    "holding",
-    "europe",
-    "bear",
-    "atacms",
-    "wildberries",
     "russia",
+    "north",
+    "ukraine",
+    "moscow",
+    "zelenskyy",
+    "holding",
+    "germany",
+    "izmail",
+    "masha",
+    "back-to-back",
+    "atacms",
     "korean",
-    "belgorod"
+    "belgorod",
+    "russian",
+    "wildberries",
+    "burnham",
+    "bear",
+    "zelensky",
+    "overnight",
+    "four",
+    "leipzig",
+    "kyiv",
+    "europe"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -1161,10 +869,11 @@
     "7af0d74c8105",
     "4715ccb6c821",
     "bebce21e9893",
-    "be676994d02c"
+    "be676994d02c",
+    "90a76b863ea4"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-09-01",
+   "last_seen": "2026-09-02",
    "timeline": [
     {
      "date": "2026-08-11",
@@ -1502,6 +1211,325 @@
      "links": [
       "https://www.theguardian.com/world/2026/sep/01/russia-kills-sixth-night-drone-attacks-ukraine-kyiv",
       "https://www.france24.com/en/russia-targets-kyiv-and-its-region-for-sixth-consecutive-night-of-attacks"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live",
+     "sources": 2,
+     "score": 45,
+     "event_id": "90a76b863ea4",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
+      "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fc871ed3ce64",
+   "title": "Trump signs order to rename Lake Ontario as Lake America",
+   "section": "world",
+   "entities": [
+    "maps",
+    "apple",
+    "politics",
+    "lake",
+    "weekly",
+    "ontario",
+    "mapquest",
+    "canada",
+    "america",
+    "google",
+    "trump"
+   ],
+   "event_ids": [
+    "fc871ed3ce64",
+    "d303cedaf846",
+    "69769cf42fdf",
+    "4dcd5aa8edee",
+    "f1acf504161f",
+    "eded7a46ce69",
+    "513bc8ca4fe5",
+    "2063b9e83ecd",
+    "7ee9d33d0756"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-02",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Trump signs order to rename Lake Ontario as Lake America",
+     "sources": 7,
+     "score": 82,
+     "event_id": "fc871ed3ce64",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
+     "sources": 4,
+     "score": 64,
+     "event_id": "d303cedaf846",
+     "links": [
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "How did Trump get so rich? | Politics Weekly America",
+     "sources": 4,
+     "score": 62,
+     "event_id": "69769cf42fdf",
+     "links": [
+      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
+     "sources": 2,
+     "score": 47,
+     "event_id": "4dcd5aa8edee",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+     "sources": 3,
+     "score": 59,
+     "event_id": "f1acf504161f",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+     "sources": 3,
+     "score": 60,
+     "event_id": "eded7a46ce69",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
+     "sources": 2,
+     "score": 41,
+     "event_id": "513bc8ca4fe5",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Apple Maps follows Google in renaming Lake Ontario",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2063b9e83ecd",
+     "links": [
+      "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Apple Maps changes Lake Ontario to Lake America after Trump order",
+     "sources": 5,
+     "score": 73,
+     "event_id": "7ee9d33d0756",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ffb6bd91201",
+   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+   "section": "sport",
+   "entities": [
+    "community",
+    "deadlines",
+    "nightmare",
+    "rodri",
+    "enzo",
+    "city",
+    "manchester",
+    "he's",
+    "shield",
+    "maresca",
+    "gvardiol",
+    "rodri's",
+    "arsenal",
+    "bournemouth",
+    "fernandez"
+   ],
+   "event_ids": [
+    "9ffb6bd91201",
+    "2fef58e0d72e",
+    "b5cc84461c06",
+    "cb7f47a5868f",
+    "c6aec83a4cd2",
+    "4a7b92cbd9ac",
+    "81646cf59625",
+    "b0c1fdbb2cf5"
+   ],
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-09-02",
+   "timeline": [
+    {
+     "date": "2026-08-16",
+     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9ffb6bd91201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2fef58e0d72e",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "'He's the professor' - Rodri's Manchester City journey",
+     "sources": 2,
+     "score": 49,
+     "event_id": "b5cc84461c06",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
+     "sources": 1,
+     "score": 41,
+     "event_id": "cb7f47a5868f",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City will 'try to find the new Rodri' - Maresca",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c6aec83a4cd2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+     "sources": 2,
+     "score": 59,
+     "event_id": "4a7b92cbd9ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City 'completely deserved to win' - Maresca",
+     "sources": 2,
+     "score": 41,
+     "event_id": "81646cf59625",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+     "sources": 3,
+     "score": 56,
+     "event_id": "b0c1fdbb2cf5",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
+      "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8d4f8a634705",
+   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+   "section": "world",
+   "entities": [
+    "wong",
+    "hong",
+    "kong",
+    "joshua",
+    "jailed"
+   ],
+   "event_ids": [
+    "8d4f8a634705",
+    "e2312c1237f9"
+   ],
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-02",
+   "timeline": [
+    {
+     "date": "2026-09-02",
+     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+     "sources": 4,
+     "score": 68,
+     "event_id": "8d4f8a634705",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e2312c1237f9",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
+      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
      ]
     }
    ]
@@ -5748,5 +5776,5 @@
    ]
   }
  ],
- "updated": "2026-09-02T06:44:35+00:00"
+ "updated": "2026-09-02T09:29:18+00:00"
 }
