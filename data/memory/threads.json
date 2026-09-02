@@ -1820,6 +1820,158 @@
    ]
   },
   {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "house",
+    "kalshi's",
+    "press",
+    "days",
+    "court",
+    "nabep",
+    "supreme",
+    "secretary",
+    "army",
+    "chinese",
+    "leavitt",
+    "venezuela",
+    "crypto",
+    "karoline",
+    "driscoll",
+    "trump",
+    "white",
+    "jersey"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e",
+    "958107abfe36"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-02",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+     "sources": 2,
+     "score": 42,
+     "event_id": "958107abfe36",
+     "links": [
+      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9ffb6bd91201",
    "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
    "section": "sport",
@@ -2102,6 +2254,62 @@
       "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
       "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
       "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e138211becc3",
+   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+   "section": "tech",
+   "entities": [
+    "google",
+    "flash",
+    "ai-powered",
+    "transcribe",
+    "gemini"
+   ],
+   "event_ids": [
+    "e138211becc3",
+    "cf3951101d71",
+    "b0c60d5e22ba"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-09-02",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+     "sources": 4,
+     "score": 59,
+     "event_id": "e138211becc3",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cf3951101d71",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+     "sources": 3,
+     "score": 49,
+     "event_id": "b0c60d5e22ba",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
      ]
     }
    ]
@@ -2861,144 +3069,6 @@
      "links": [
       "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
       "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "press",
-    "army",
-    "driscoll",
-    "crypto",
-    "nabep",
-    "days",
-    "secretary",
-    "chinese",
-    "trump",
-    "karoline",
-    "white",
-    "venezuela",
-    "supreme",
-    "house",
-    "leavitt",
-    "court"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
      ]
     }
    ]
@@ -4484,49 +4554,6 @@
    ]
   },
   {
-   "id": "e138211becc3",
-   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-   "section": "tech",
-   "entities": [
-    "google",
-    "ai-powered",
-    "flash",
-    "transcribe",
-    "gemini"
-   ],
-   "event_ids": [
-    "e138211becc3",
-    "cf3951101d71"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-     "sources": 4,
-     "score": 59,
-     "event_id": "e138211becc3",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cf3951101d71",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "7955e8f87e6c",
    "title": "Man City complete £86m Bouaddi signing from Lille",
    "section": "sport",
@@ -5853,5 +5880,5 @@
    ]
   }
  ],
- "updated": "2026-09-02T15:29:41+00:00"
+ "updated": "2026-09-02T18:31:30+00:00"
 }

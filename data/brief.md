@@ -9,33 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
-- id události: `887fb7f3bbc2`  ·  rubrika: `science`  ·  skóre: 81  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **NASA** — Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23
-    <https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/>
-    > Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026. From lef
-  - **NASA** — NASA Deep Space Network’s New Goldstone Antenna Goes Online
-    <https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/>
-    > Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance 
-  - **NASA** — NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches
-    <https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/>
-    > Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kenned
-  - **DW News** — NASA launches first telescope named after female scientist
-    <https://www.dw.com/en/nasa-launches-first-telescope-named-after-female-scientist/a-78565941?maca=en-rss-en-all-1573-rdf>
-    > The Nancy Grace Roman Space Telescope, named after NASA's first Chief of Astronomy, will observe black holes, exoplanets and exploding stars.
-  - **Al Jazeera** — NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets
-    <https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss>
-    > SpaceX Falcon Heavy propels telescope on cosmic quest to investigate dark energy and matter.
-  - **The Verge** — The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy
-    <https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch>
-    > After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will 
-  - **Phys.org** — NASA's newest Roman space telescope launches on a quest to explore the hidden universe
-    <https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html>
-    > NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.
-
-### 2. Iran war: US military strikes Iran's Larak Island
+### 1. Iran war: US military strikes Iran's Larak Island
 - id události: `edf475066b1f`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -56,7 +30,7 @@
   - **Investing.com** — Oil jumps more than 2% after US attack on Iran’s Larak island
     <https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075>
 
-### 3. Germany says Russia behind Leipzig airport drone attack
+### 2. Germany says Russia behind Leipzig airport drone attack
 - id události: `10a1cf734426`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -79,7 +53,7 @@
     <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
     > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
 
-### 4. Apple Maps changes Lake Ontario to Lake America after Trump order
+### 3. Apple Maps changes Lake Ontario to Lake America after Trump order
 - id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -98,6 +72,25 @@
   - **TechCrunch** — Apple follows Google in adopting Trump’s ‘Lake America’ name
     <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
     > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
+
+### 4. Barcola joins Liverpool from PSG in £123m move
+- id události: `fdcbb689323c`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Barcola joins Liverpool from PSG in £123m move
+    <https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss>
+    > Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.
+  - **Al Jazeera** — Liverpool sign Bradley Barcola from Paris Saint-Germain
+    <https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss>
+    > Barcola's move comes as Liverpool seek to reinforce their forward line after Mohamed Salah's departure.
+  - **France 24** — 🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer
+    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
+  - **France 24** — Bradley Barcola joins Liverpool from PSG for record fee
+    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
+    > Liverpool ⁠have signed ​France forward Bradley Barcola ​from European champions Paris Saint-Germain on a long-term contract, ​the ‌Premier League ⁠club said on Monday, making ‌him the latest marquee addition ⁠to their frontline. The whopping fee is estimated to be around £120 mil
+  - **Guardian Sport** — Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal
+    <https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg>
+    > France international says title ‘one of my biggest dreams’ He is second winger to join in window, after Victor Muñoz Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m
 
 ---
 

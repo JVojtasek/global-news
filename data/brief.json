@@ -6,83 +6,6 @@
  "reserve_articles": 8,
  "news_assignments": [
   {
-   "id": "887fb7f3bbc2",
-   "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-   "section": "science",
-   "score": 81,
-   "sources_count": 5,
-   "depth_signal": 0,
-   "created": "2026-08-30T18:26:30+00:00",
-   "event_time": "2026-08-30T14:57:59+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "url": "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-     "source": "NASA",
-     "summary": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026. From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, […]",
-     "published_at": "2026-08-30T14:57:59+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-30T18:26:27+00:00"
-    },
-    {
-     "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
-     "url": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-     "source": "NASA",
-     "summary": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come. NASA leadership and personnel as well […]",
-     "published_at": "2026-08-30T14:53:08+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-30T18:26:27+00:00"
-    },
-    {
-     "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
-     "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
-     "source": "NASA",
-     "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of […]",
-     "published_at": "2026-08-30T13:18:06+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-30T18:26:27+00:00"
-    },
-    {
-     "title": "NASA launches first telescope named after female scientist",
-     "url": "https://www.dw.com/en/nasa-launches-first-telescope-named-after-female-scientist/a-78565941?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "The Nancy Grace Roman Space Telescope, named after NASA's first Chief of Astronomy, will observe black holes, exoplanets and exploding stars.",
-     "published_at": "2026-08-30T16:36:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-30T18:26:27+00:00"
-    },
-    {
-     "title": "NASA launches $4.3bn Roman Telescope to uncover universe’s hidden secrets",
-     "url": "https://www.aljazeera.com/news/2026/8/30/nasa-launches-4-3bn-roman-telescope-to-uncover-universes-hidden-secrets?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "SpaceX Falcon Heavy propels telescope on cosmic quest to investigate dark energy and matter.",
-     "published_at": "2026-08-30T17:44:57+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-30T18:26:27+00:00"
-    },
-    {
-     "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
-     "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
-     "source": "The Verge",
-     "summary": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecedented survey of the universe. Its field of view […]",
-     "published_at": "2026-08-30T16:36:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-30T18:26:27+00:00"
-    },
-    {
-     "title": "NASA's newest Roman space telescope launches on a quest to explore the hidden universe",
-     "url": "https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html",
-     "source": "Phys.org",
-     "summary": "NASA's newest crown jewel blasted off Sunday to hunt for planets around other stars, explore secret dark energy and survey the cosmos like never before.",
-     "published_at": "2026-08-30T15:26:54+00:00",
-     "source_countries": [],
-     "seen_at": "2026-08-30T18:26:27+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "edf475066b1f",
    "headline": "Iran war: US military strikes Iran's Larak Island",
    "section": "world",
@@ -276,6 +199,65 @@
     }
    ],
    "depth": "scripture"
+  },
+  {
+   "id": "fdcbb689323c",
+   "headline": "Barcola joins Liverpool from PSG in £123m move",
+   "section": "world",
+   "score": 69,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-08-31T15:26:04+00:00",
+   "event_time": "2026-08-31T13:01:22+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Barcola joins Liverpool from PSG in £123m move",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
+     "published_at": "2026-08-31T13:01:22+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-31T15:26:00+00:00"
+    },
+    {
+     "title": "Liverpool sign Bradley Barcola from Paris Saint-Germain",
+     "url": "https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Barcola's move comes as Liverpool seek to reinforce their forward line after Mohamed Salah's departure.",
+     "published_at": "2026-08-31T13:40:28+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-31T15:26:00+00:00"
+    },
+    {
+     "title": "🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer",
+     "url": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
+     "source": "France 24",
+     "summary": "",
+     "published_at": "2026-08-31T13:18:35+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-31T15:26:00+00:00"
+    },
+    {
+     "title": "Bradley Barcola joins Liverpool from PSG for record fee",
+     "url": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
+     "source": "France 24",
+     "summary": "Liverpool ⁠have signed ​France forward Bradley Barcola ​from European champions Paris Saint-Germain on a long-term contract, ​the ‌Premier League ⁠club said on Monday, making ‌him the latest marquee addition ⁠to their frontline. The whopping fee is estimated to be around £120 million and makes him the most expensive player to leave the French league.",
+     "published_at": "2026-08-31T13:17:35+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-31T15:26:00+00:00"
+    },
+    {
+     "title": "Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal",
+     "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
+     "source": "Guardian Sport",
+     "summary": "France international says title ‘one of my biggest dreams’ He is second winger to join in window, after Victor Muñoz Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m. The France international has signed a five-year deal. Andoni Iraola has prioritised signing wingers this summer after ",
+     "published_at": "2026-08-31T13:02:48+00:00",
+     "source_countries": [],
+     "seen_at": "2026-08-31T15:26:00+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [
