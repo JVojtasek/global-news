@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "us-south",
-    "taiwan",
-    "jong",
-    "qatar",
-    "chaos",
-    "justified",
-    "iranian",
-    "thursday's",
+    "south",
+    "gulf",
+    "champions",
+    "east",
+    "fenerbahce",
+    "treasury",
+    "start",
     "briton",
-    "lyon",
-    "ukraine",
-    "donald",
-    "indycar",
+    "iran",
+    "times",
+    "thursday's",
+    "taiwan",
+    "korea",
     "middle",
     "centcom",
-    "fenerbahce",
-    "trump",
     "league",
-    "city",
-    "strait",
-    "celtic",
     "american",
-    "groundhog",
-    "start",
-    "treasury",
-    "iran",
-    "hormuz",
-    "east",
-    "gulf",
-    "d-day",
-    "korea",
     "china's",
-    "times",
-    "north",
-    "iran's",
-    "oman",
+    "donald",
+    "jordan",
+    "iranian",
+    "us-south",
+    "groundhog",
+    "celtic",
+    "chaos",
+    "qatar",
+    "hormuz",
     "o'neill",
-    "champions",
-    "south",
-    "jordan"
+    "north",
+    "justified",
+    "iran's",
+    "jong",
+    "lyon",
+    "trump",
+    "indycar",
+    "ukraine",
+    "oman",
+    "city",
+    "d-day",
+    "strait"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -118,23 +118,12 @@
     "20436c3fa08b",
     "4d6c783b648a",
     "91e593197e15",
-    "57a1d77ee48e"
+    "57a1d77ee48e",
+    "526e9a8dd32c"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-02",
    "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
-     "sources": 3,
-     "score": 57,
-     "event_id": "3eaa33015060",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260813-iran-says-trump-lied-about-us-control-over-strait-of-hormuz"
-     ]
-    },
     {
      "date": "2026-08-15",
      "headline": "Donald Trump to declare Hormuz US territory 'soon'",
@@ -804,6 +793,18 @@
      "links": [
       "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
       "https://www.investing.com/news/commodities-news/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes-4885234"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+     "sources": 1,
+     "score": 44,
+     "event_id": "526e9a8dd32c",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss"
      ]
     }
    ]
@@ -1672,19 +1673,19 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
+    "google",
+    "ontario",
+    "maps",
+    "robert",
     "apple",
     "weekly",
-    "america",
-    "lake",
+    "politics",
+    "reich",
     "trump",
-    "maps",
-    "ontario",
     "mapquest",
     "canada",
-    "politics",
-    "google",
-    "robert",
-    "reich"
+    "america",
+    "lake"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -1696,7 +1697,8 @@
     "513bc8ca4fe5",
     "2063b9e83ecd",
     "7ee9d33d0756",
-    "be52307dda99"
+    "be52307dda99",
+    "c280f70cbb01"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-09-02",
@@ -1815,6 +1817,17 @@
      "links": [
       "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring",
       "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c280f70cbb01",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+      "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
      ]
     }
    ]
@@ -2103,24 +2116,30 @@
    "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
    "section": "business",
    "entities": [
-    "space",
+    "south",
+    "nasa's",
+    "find",
+    "roman",
     "launches",
+    "pole",
+    "exoplanets",
     "matter",
     "nancy",
-    "exoplanets",
-    "energy",
-    "roman",
-    "nasa's",
-    "dark",
-    "lift-off",
-    "telescope",
-    "universe",
-    "mysteries",
     "hubble",
-    "nasa",
+    "dark",
+    "telescope",
+    "encircling",
+    "tracks",
+    "grace",
+    "universe",
     "unravel",
-    "find",
-    "grace"
+    "decagon",
+    "space",
+    "saturn",
+    "mysteries",
+    "nasa",
+    "energy",
+    "lift-off"
    ],
    "event_ids": [
     "1377348ebb36",
@@ -2128,7 +2147,8 @@
     "eb2a7b4512f2",
     "df1eb6b51875",
     "403d6e497feb",
-    "baffa046596a"
+    "baffa046596a",
+    "9033f7f20872"
    ],
    "first_seen": "2026-08-30",
    "last_seen": "2026-09-02",
@@ -2197,6 +2217,17 @@
      "event_id": "baffa046596a",
      "links": [
       "https://www.nature.com/articles/d41586-026-02764-2",
+      "https://www.sciencedaily.com/releases/2026/08/260828082333.htm"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
+     "sources": 2,
+     "score": 48,
+     "event_id": "9033f7f20872",
+     "links": [
+      "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
       "https://www.sciencedaily.com/releases/2026/08/260828082333.htm"
      ]
     }
@@ -5880,5 +5911,5 @@
    ]
   }
  ],
- "updated": "2026-09-02T18:31:30+00:00"
+ "updated": "2026-09-02T21:23:08+00:00"
 }
