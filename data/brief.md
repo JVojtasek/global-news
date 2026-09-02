@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-01
+# ZADÁNÍ PRO REDAKCI — 2026-09-02
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -79,34 +79,40 @@
     <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
     > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
 
-### 4. NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
-- id události: `1377348ebb36`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Apple Maps changes Lake Ontario to Lake America after Trump order
+- id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **Smithsonian Mag** — NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and Dark Energy
-    <https://www.smithsonianmag.com/smart-news/nasas-nancy-grace-roman-space-telescope-launches-to-find-exoplanets-and-unravel-mysteries-of-dark-matter-and-dark-energy-180989268/>
-    > The new observatory will complete three surveys of the universe in five years, although it's designed to function at least twice as long. Its data could change scientists' basic understanding of the cosmos
-  - **NPR News** — NASA has successfully launched its newest space telescope
-    <https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa>
-    > The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system.
-  - **Investing.com** — SpaceX launches NASA’s $4.3 billion Roman space telescope
-    <https://www.investing.com/news/economy-news/spacex-set-to-launch-nasas-43-billion-roman-space-telescope-4882035>
-  - **Investing.com** — NASA launches powerful new Roman Space Telescope from Florida
-    <https://www.investing.com/news/stock-market-news/nasa-launches-powerful-new-roman-space-telescope-from-florida-4882040>
-  - **Hacker News Best** — Nancy Grace Roman Space Telescope
-    <https://science.nasa.gov/mission/roman-space-telescope/>
-    > https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 218 # Comments: 80
+  - **BBC Business** — Apple Maps changes Lake Ontario to Lake America after Trump order
+    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
+    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
+  - **BBC Technology** — Apple Maps changes Lake Ontario to Lake America after Trump order
+    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
+    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
+  - **The Guardian World** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
+    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
+    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
+  - **Guardian Business** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
+    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
+    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
+  - **TechCrunch** — Apple follows Google in adopting Trump’s ‘Lake America’ name
+    <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
+    > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
 
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### toddler tantrums
-- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### investing for beginners
+- rubrika: `meaning`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+- otázky, které k tomu lidé píší do vyhledávače:
+  - „how does investing work for beginners“
+  - „how much to start investing for beginners“
+  - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
-  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
-  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
+  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
+  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
+  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
 
 ---
 
