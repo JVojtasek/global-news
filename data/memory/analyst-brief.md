@@ -21,9 +21,8 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-09-02** (2 zdrojů) Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 22 dní · 32 záznamů
+- rubrika `world` · sledováno 22 dní · 33 záznamů
 - časová osa:
-  - **2026-08-24** (2 zdrojů) Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
   - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
   - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
   - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
@@ -33,11 +32,11 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-09-01** (2 zdrojů) Russia kills at least 12 on sixth night of drone attacks on Kyiv
   - **2026-09-02** (2 zdrojů) EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   - **2026-09-02** (2 zdrojů) Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
+  - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 12 dní · 28 záznamů
+- rubrika `sport` · sledováno 15 dní · 29 záznamů
 - časová osa:
-  - **2026-08-28** (3 zdrojů) Haaland and Cherki fire impressive Man City to victory at Palace
   - **2026-08-29** (2 zdrojů) Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
   - **2026-08-29** (3 zdrojů) Iraola urges 'passive' Liverpool to learn quickly after Forest draw
   - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
@@ -47,6 +46,7 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-08-30** (2 zdrojů) Manchester United v Ipswich Town: Premier League – live
   - **2026-08-30** (2 zdrojů) Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
   - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
+  - **2026-09-02** (3 zdrojů) Premier League breaks transfer record for second straight summer
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 19 dní · 23 záznamů

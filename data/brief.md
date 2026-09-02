@@ -111,8 +111,8 @@
   - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
   - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
+  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
 
 ---
 
@@ -162,13 +162,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 32  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 33  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 32
-  2026-08-18  (3 zdrojů, síla 53)  Ukraine appeals to FIA to overturn Russia inclusion
+rubrika: world · sledováno od 2026-08-11 · záznamů: 33
   2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv
   2026-08-20  (4 zdrojů, síla 69)  Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
   2026-08-20  (3 zdrojů, síla 59)  Ukraine: Several killed in 'massive' Russian strikes on Kyiv
@@ -188,6 +187,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 32
   2026-09-01  (2 zdrojů, síla 43)  Russia kills at least 12 on sixth night of drone attacks on Kyiv
   2026-09-02  (2 zdrojů, síla 45)  EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   2026-09-02  (2 zdrojů, síla 42)  Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
+  2026-09-02  (2 zdrojů, síla 46)  EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
 ```
 
 ---
