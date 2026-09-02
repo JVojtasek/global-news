@@ -111,8 +111,8 @@
   - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
   - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
 
 ---
 
