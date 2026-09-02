@@ -813,31 +813,31 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "several",
-    "bessent",
-    "russia",
     "north",
-    "ukraine",
-    "moscow",
     "zelenskyy",
     "holding",
-    "germany",
-    "izmail",
-    "masha",
-    "back-to-back",
-    "atacms",
-    "korean",
-    "belgorod",
-    "russian",
-    "wildberries",
-    "burnham",
-    "bear",
     "zelensky",
+    "wildberries",
     "overnight",
-    "four",
-    "leipzig",
+    "bear",
+    "russia",
+    "bessent",
+    "atacms",
+    "several",
     "kyiv",
-    "europe"
+    "masha",
+    "moscow",
+    "burnham",
+    "leipzig",
+    "four",
+    "germany",
+    "korean",
+    "ukraine",
+    "back-to-back",
+    "europe",
+    "belgorod",
+    "izmail",
+    "russian"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -870,7 +870,8 @@
     "4715ccb6c821",
     "bebce21e9893",
     "be676994d02c",
-    "90a76b863ea4"
+    "90a76b863ea4",
+    "0563db14f264"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-02",
@@ -1223,6 +1224,17 @@
       "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
       "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack"
      ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0563db14f264",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
+      "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html"
+     ]
     }
    ]
   },
@@ -1231,17 +1243,19 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
-    "maps",
     "apple",
-    "politics",
-    "lake",
     "weekly",
+    "america",
+    "lake",
+    "trump",
+    "maps",
     "ontario",
     "mapquest",
     "canada",
-    "america",
+    "politics",
     "google",
-    "trump"
+    "robert",
+    "reich"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -1252,7 +1266,8 @@
     "eded7a46ce69",
     "513bc8ca4fe5",
     "2063b9e83ecd",
-    "7ee9d33d0756"
+    "7ee9d33d0756",
+    "be52307dda99"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-09-02",
@@ -1360,6 +1375,17 @@
       "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Trump’s ridiculous bullying of Canada is backfiring | Robert Reich",
+     "sources": 2,
+     "score": 45,
+     "event_id": "be52307dda99",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring",
+      "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html"
      ]
     }
    ]
@@ -1497,14 +1523,15 @@
    "section": "world",
    "entities": [
     "wong",
-    "hong",
+    "jailed",
     "kong",
     "joshua",
-    "jailed"
+    "hong"
    ],
    "event_ids": [
     "8d4f8a634705",
-    "e2312c1237f9"
+    "e2312c1237f9",
+    "323d97d785b5"
    ],
    "first_seen": "2026-09-02",
    "last_seen": "2026-09-02",
@@ -1530,6 +1557,18 @@
      "links": [
       "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
       "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
+     "sources": 3,
+     "score": 62,
+     "event_id": "323d97d785b5",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
      ]
     }
    ]
@@ -5776,5 +5815,5 @@
    ]
   }
  ],
- "updated": "2026-09-02T09:29:18+00:00"
+ "updated": "2026-09-02T12:37:29+00:00"
 }
