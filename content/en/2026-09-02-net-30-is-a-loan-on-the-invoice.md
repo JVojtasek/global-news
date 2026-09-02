@@ -1,14 +1,15 @@
 ---
 slug: net-30-is-a-loan-on-the-invoice
 title: Net 30 Is a Loan Hiding on the Invoice
-dek: "Payment terms are not decorative small print: they decide who finances the gap between finished work and money in the bank."
+dek: 'Payment terms are not decorative small print: they decide who finances the gap
+  between finished work and money in the bank.'
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-09-02'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -44,7 +45,9 @@ quiz:
   - Thirty days of trade credit before the full invoice is due
   - A guarantee that the customer will pay exactly on day 30
   answer: 1
-  explanation: Net 30 normally gives the buyer 30 days to pay the full amount. It extends trade credit; it does not promise punctual payment or mean a 30 percent reduction.
+  explanation: Net 30 normally gives the buyer 30 days to pay the full amount. It
+    extends trade credit; it does not promise punctual payment or mean a 30 percent
+    reduction.
 ---
 
 ## BRIEFLY
