@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "slug": "what-support-helps-you-first",
+  "date": "2026-09-02",
+  "category": "relationships",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "What kind of support helps you first?", "cs": "Jaký druh podpory vám pomáhá jako první?"},
+    "dek": {"en": "Eight ordinary moments reveal whether you usually need listening, practical help, perspective or breathing room before anything else.", "cs": "Osm běžných situací ukáže, zda nejdřív potřebujete vyslechnout, prakticky pomoci, získat nadhled, nebo dostat prostor."},
+    "intro": {"en": "Choose what would genuinely help in that moment, not what sounds most considerate. Needs change with the situation, so the result is a conversation starter rather than a permanent type.", "cs": "Vyberte to, co by vám v danou chvíli skutečně pomohlo, ne co zní nejohleduplněji. Potřeby se mění podle situace, proto je výsledek podnětem k rozhovoru, nikoli trvalým typem."},
+    "disclaimer": {"en": "This is an original reflective self-check informed by research on emotional, instrumental and informational support and on matching support to need. It does not reproduce a validated or proprietary instrument, diagnose relationship quality or collect your answers. Culture, trust, urgency and the specific relationship can change every response.", "cs": "Jde o původní reflektivní sebehodnocení inspirované výzkumem emoční, praktické a informační podpory a jejího přizpůsobení potřebě. Nekopíruje validovaný ani proprietární nástroj, nediagnostikuje kvalitu vztahů a neukládá odpovědi. Každou reakci může měnit kultura, důvěra, naléhavost i konkrétní vztah."}
+  },
+  "dimensions": [
+    {"id": "listen", "label": {"en": "Listen with me", "cs": "Vyslechnout mě"}, "why": {"en": "You often settle first when someone gives your experience attention without rushing to fix it.", "cs": "Často se nejdřív uklidníte, když někdo věnuje pozornost vašemu prožitku a nespěchá s řešením."}, "action": {"en": "Try saying: “Could you listen for five minutes before we look for an answer?”", "cs": "Zkuste říct: „Mohl bys mě pět minut jen vyslechnout, než začneme hledat řešení?“"}},
+    {"id": "practical", "label": {"en": "Help with the load", "cs": "Pomoci s břemenem"}, "why": {"en": "You often feel supported when care becomes one concrete action that reduces the task in front of you.", "cs": "Podporu často pocítíte tehdy, když se péče promění v jeden konkrétní krok, který zmenší úkol před vámi."}, "action": {"en": "Name one bounded task another person could take, rather than asking them to “help somehow.”", "cs": "Pojmenujte jeden ohraničený úkol, který může druhý převzít, místo obecné prosby, aby „nějak pomohl“."}},
+    {"id": "perspective", "label": {"en": "Help me see the map", "cs": "Pomoci mi uvidět mapu"}, "why": {"en": "You often regain footing through useful information, a second view or help sorting the choices.", "cs": "Pevnou půdu často znovu získáte díky užitečné informaci, druhému pohledu nebo pomoci s utříděním možností."}, "action": {"en": "Ask for one question or one option at a time, and say whether you want advice or only clarification.", "cs": "Požádejte vždy o jednu otázku nebo jednu možnost a řekněte, zda chcete radu, nebo jen vyjasnění."}},
+    {"id": "space", "label": {"en": "Give me room first", "cs": "Nejdřív mi dát prostor"}, "why": {"en": "You often think and regulate better when contact is not immediate, provided the other person makes return predictable.", "cs": "Často přemýšlíte a zklidňujete se lépe bez okamžitého kontaktu, pokud druhý člověk jasně řekne, kdy se vrátí."}, "action": {"en": "Request a time-limited pause and agree on the return: “I need twenty minutes; can we talk at seven?”", "cs": "Požádejte o časově omezenou pauzu a domluvte návrat: „Potřebuji dvacet minut; můžeme si promluvit v sedm?“"}}
+  ],
+  "questions": [
+    {
+      "id": "bad-news",
+      "text": {"en": "You receive disappointing news after a tiring day. What would help first?", "cs": "Po únavném dni dostanete zklamávající zprávu. Co by pomohlo jako první?"},
+      "options": [
+        {"label": {"en": "Someone stays with my story and does not interrupt", "cs": "Někdo zůstane u mého vyprávění a nepřerušuje mě"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "Someone takes one immediate chore off my hands", "cs": "Někdo za mě převezme jeden neodkladný úkol"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "Someone helps me separate facts, options and guesses", "cs": "Někdo mi pomůže oddělit fakta, možnosti a domněnky"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "I get a little quiet time, with a clear promise to reconnect", "cs": "Dostanu chvíli klidu s jasnou domluvou, kdy se znovu spojíme"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    },
+    {
+      "id": "overloaded-evening",
+      "text": {"en": "The evening is overloaded and you are close to snapping. Which response feels most supportive?", "cs": "Večer je přeplněný a vám dochází trpělivost. Která reakce působí nejvíc podpůrně?"},
+      "options": [
+        {"label": {"en": "“Tell me what has piled up.”", "cs": "„Řekni mi, co všechno se nahromadilo.“"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "“I will handle dinner; you finish the essential thing.”", "cs": "„Zařídím večeři; ty dokonči to nejnutnější.“"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "“Which two things actually have to happen tonight?”", "cs": "„Které dvě věci se dnes opravdu musí stát?“"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "“Take half an hour; I will check back then.”", "cs": "„Dej si půl hodiny; potom se ozvu.“"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    },
+    {
+      "id": "work-problem",
+      "text": {"en": "A work problem follows you home. What do you want from someone close to you?", "cs": "Pracovní problém jde s vámi domů. Co chcete od blízkého člověka?"},
+      "options": [
+        {"label": {"en": "Attention to why it bothered me", "cs": "Pozornost k tomu, proč mě to zasáhlo"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "Help clearing another demand so I can deal with it", "cs": "Pomoc s jinou povinností, abych se tomu mohl věnovat"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "Questions that show me what is controllable", "cs": "Otázky, které ukážou, co mohu ovlivnit"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "Time to change gears before discussing it", "cs": "Čas přeladit se, než o tom začnu mluvit"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    },
+    {
+      "id": "small-mistake",
+      "text": {"en": "You make an embarrassing but fixable mistake. What helps you recover?", "cs": "Uděláte trapnou, ale napravitelnou chybu. Co vám pomůže se vzpamatovat?"},
+      "options": [
+        {"label": {"en": "Being able to say the whole thing without minimising it", "cs": "Možnost říct vše bez zlehčování"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "A hand with the first repair step", "cs": "Pomoc s prvním krokem nápravy"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "A calm view of consequences and choices", "cs": "Klidný pohled na následky a možnosti"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "A short pause before anyone asks for an explanation", "cs": "Krátká pauza, než bude někdo chtít vysvětlení"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    },
+    {
+      "id": "family-decision",
+      "text": {"en": "A family decision has too many moving parts. Which support do you reach for?", "cs": "Rodinné rozhodnutí má příliš mnoho proměnných. Po jaké podpoře sáhnete?"},
+      "options": [
+        {"label": {"en": "Someone first understands what matters to me", "cs": "Někdo nejdřív pochopí, na čem mi záleží"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "Someone gathers one missing document or makes one call", "cs": "Někdo získá chybějící dokument nebo vyřídí jeden telefonát"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "Someone lays out the trade-offs without deciding for me", "cs": "Někdo rozloží výhody a nevýhody, aniž rozhodne za mě"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "Time alone to form my own view before comparing notes", "cs": "Čas o samotě na vlastní názor před společným porovnáním"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    },
+    {
+      "id": "feeling-unwell",
+      "text": {"en": "You feel under the weather and ordinary tasks seem heavier. What kind of care lands best?", "cs": "Necítíte se dobře a běžné úkoly jsou těžší. Jaká péče vám sedne nejlépe?"},
+      "options": [
+        {"label": {"en": "A gentle check-in that lets me say how I am", "cs": "Jemné zeptání, při kterém mohu říct, jak mi je"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "Food, transport or another concrete task quietly handled", "cs": "Jídlo, doprava nebo jiný konkrétní úkol tiše zařízený"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "Help organising the questions I may need to ask", "cs": "Pomoc s utříděním otázek, které možná potřebuji položit"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "Rest without repeated messages, plus one agreed check-in", "cs": "Odpočinek bez opakovaných zpráv a jedna domluvená kontrola"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    },
+    {
+      "id": "friend-confides",
+      "text": {"en": "A friend asks what support you would want if you were in their difficult situation. Your answer is closest to…", "cs": "Přítel se ptá, jakou podporu byste chtěli vy v jeho obtížné situaci. Vaše odpověď se nejvíc blíží…"},
+      "options": [
+        {"label": {"en": "“Stay curious and let me finish.”", "cs": "„Zůstaň zvědavý a nech mě domluvit.“"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "“Ask which practical piece you can take.”", "cs": "„Zeptej se, kterou praktickou část můžeš převzít.“"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "“Help me find the next sensible question.”", "cs": "„Pomoz mi najít další rozumnou otázku.“"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "“Do not disappear, but let me come up for air.”", "cs": "„Nezmiz, ale nech mě chvíli vydechnout.“"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    },
+    {
+      "id": "support-missed",
+      "text": {"en": "Someone means well, but their support misses the mark. What would improve it most?", "cs": "Někdo to myslí dobře, ale jeho podpora se míjí účinkem. Co by ji zlepšilo nejvíc?"},
+      "options": [
+        {"label": {"en": "Fewer solutions and one sincere question", "cs": "Méně řešení a jedna upřímná otázka"}, "scores": {"listen": 3, "practical": 0, "perspective": 1, "space": 0}},
+        {"label": {"en": "One specific offer instead of “let me know”", "cs": "Jedna konkrétní nabídka místo „kdybys něco potřeboval“"}, "scores": {"listen": 0, "practical": 3, "perspective": 0, "space": 1}},
+        {"label": {"en": "Advice only after checking what I already know", "cs": "Rada až po ověření, co už vím"}, "scores": {"listen": 1, "practical": 0, "perspective": 3, "space": 0}},
+        {"label": {"en": "Less contact now and a reliable return later", "cs": "Méně kontaktu teď a spolehlivý návrat později"}, "scores": {"listen": 0, "practical": 1, "perspective": 0, "space": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "listen": {
+      "title": {"en": "You often need presence before solutions", "cs": "Často potřebujete přítomnost před řešením"},
+      "summary": {"en": "You tend to feel supported when someone understands the experience before changing the subject to action. This is a current preference, not a fixed identity.", "cs": "Podporu často cítíte tehdy, když někdo nejdřív porozumí prožitku a teprve potom přejde k jednání. Jde o současnou preferenci, nikoli pevnou identitu."},
+      "strength": {"en": "Listening can reduce misunderstanding and reveal what kind of help is actually wanted.", "cs": "Naslouchání může omezit nedorozumění a ukázat, jaká pomoc je skutečně žádoucí."},
+      "watch": {"en": "Listening alone may feel caring but leave an urgent practical problem untouched.", "cs": "Samotné naslouchání může působit pečlivě, ale nechat naléhavý praktický problém bez řešení."},
+      "action": {"en": "Ask for five minutes of listening, then decide together whether any next step is needed.", "cs": "Požádejte o pět minut naslouchání a potom společně rozhodněte, zda je potřeba další krok."}
+    },
+    "practical": {
+      "title": {"en": "You often feel care through concrete help", "cs": "Péči často vnímáte skrze konkrétní pomoc"},
+      "summary": {"en": "You tend to recognise support when it removes one real burden. The preference can change when autonomy or privacy matters more.", "cs": "Podporu často poznáte podle toho, že odstraní jedno skutečné břemeno. Preference se může změnit, když je důležitější samostatnost nebo soukromí."},
+      "strength": {"en": "Specific action turns goodwill into visible relief.", "cs": "Konkrétní krok mění dobrou vůli ve viditelnou úlevu."},
+      "watch": {"en": "Unasked-for help can feel controlling or solve the wrong task.", "cs": "Nevyžádaná pomoc může působit kontrolujícím dojmem nebo řešit nesprávný úkol."},
+      "action": {"en": "Name one bounded task and preserve the other person's choice to accept or decline.", "cs": "Pojmenujte jeden ohraničený úkol a zachovejte druhému možnost pomoc přijmout či odmítnout."}
+    },
+    "perspective": {
+      "title": {"en": "You often need a clearer map", "cs": "Často potřebujete jasnější mapu"},
+      "summary": {"en": "You tend to regain footing through information, questions and a second view. That does not mean you always want someone else to decide.", "cs": "Pevnou půdu často znovu získáte díky informacím, otázkám a druhému pohledu. Neznamená to, že chcete, aby někdo rozhodl za vás."},
+      "strength": {"en": "Good perspective can turn an undivided problem into choices that can be examined.", "cs": "Dobrý nadhled může rozdělit nerozlišitelný problém na možnosti, které lze prozkoumat."},
+      "watch": {"en": "Advice delivered too early can sound like correction when the person first needs recognition.", "cs": "Příliš časná rada může znít jako opravování, když člověk nejdřív potřebuje uznání."},
+      "action": {"en": "Say whether you want facts, questions, options or a recommendation—and request one at a time.", "cs": "Řekněte, zda chcete fakta, otázky, možnosti či doporučení, a žádejte vždy jedno po druhém."}
+    },
+    "space": {
+      "title": {"en": "You often need room before contact", "cs": "Často potřebujete prostor před kontaktem"},
+      "summary": {"en": "You tend to process better with a pause before talking or acting. The helpful version of space includes a reliable return, not abandonment.", "cs": "Často zpracováváte situaci lépe s pauzou před rozhovorem či jednáním. Užitečný prostor zahrnuje spolehlivý návrat, nikoli opuštění."},
+      "strength": {"en": "A bounded pause can lower pressure and protect a more thoughtful response.", "cs": "Ohraničená pauza může snížit tlak a chránit promyšlenější reakci."},
+      "watch": {"en": "Undefined distance can increase uncertainty for both people and postpone necessary decisions.", "cs": "Neurčitý odstup může zvýšit nejistotu obou lidí a odsunout potřebná rozhodnutí."},
+      "action": {"en": "Ask for a specific amount of time and name when or how you will reconnect.", "cs": "Požádejte o konkrétní čas a řekněte, kdy nebo jak se znovu spojíte."}
+    }
+  },
+  "sources": [
+    {"name": "University of Pennsylvania — Key Constructs: Social Support", "url": "https://www.med.upenn.edu/hbhe4/part3-ch9-key-constructs-social-support.shtml", "published": "", "type": "academic overview of emotional, instrumental, informational and appraisal support; no questionnaire items reproduced"},
+    {"name": "Feeney and Collins — A New Look at Social Support", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5480897/", "published": "2015", "type": "peer-reviewed theoretical review of responsive support in close relationships"},
+    {"name": "Merluzzi and colleagues — Matching Received Social Support with Need", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4960824/", "published": "2016", "type": "peer-reviewed research on matching support with recipients' needs; no instrument reproduced"},
+    {"name": "Girme and colleagues — Does Support Need to Be Seen?", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6205907/", "published": "2018", "type": "peer-reviewed daily-diary research on visible and invisible support; no instrument reproduced"}
+  ]
+}
