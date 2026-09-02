@@ -1,14 +1,15 @@
 ---
 slug: the-woman-who-rebuilt-a-language-from-paper
 title: The Woman Who Rebuilt a Language from Paper
-dek: Jessie Little Doe Baird showed that a language without living fluent speakers can still have a future when archives return to the community that made them.
+dek: Jessie Little Doe Baird showed that a language without living fluent speakers
+  can still have a future when archives return to the community that made them.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-09-02'
-status: draft
-confidence: 95
+status: review
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: wopanaak-language-reclamation-jessie-little-doe-baird
 series: The Wider Lens
-image_query: Wampanoag language class archival documents community learning respectful editorial
+image_query: Wampanoag language class archival documents community learning respectful
+  editorial
 sources:
 - name: Wôpanâak Language Reclamation Project — Our story
   url: https://www.wlrp.org/
@@ -41,7 +43,9 @@ quiz:
   - Archival texts combined with comparison to related Algonquian languages
   - A computer translation made without community speakers
   answer: 1
-  explanation: The project worked from an unusually large written archive and used related Algonquian languages to help reconstruct grammar, pronunciation and vocabulary.
+  explanation: The project worked from an unusually large written archive and used
+    related Algonquian languages to help reconstruct grammar, pronunciation and vocabulary.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
