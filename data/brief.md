@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **9**
+- Článků v zásobě: **8**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -139,7 +139,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-25  (2 zdrojů, síla 42)  Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
   2026-08-25  (2 zdrojů, síla 42)  ‘Economic D-day’: How desperate is Trump to end Iran war? - The Latest
   2026-08-25  (2 zdrojů, síla 40)  US launches Economic war on Iran
   2026-08-26  (4 zdrojů, síla 66)  Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
@@ -159,6 +158,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up
   2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
   2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
+  2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
