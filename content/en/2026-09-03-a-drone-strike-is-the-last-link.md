@@ -1,14 +1,15 @@
 ---
 slug: a-drone-strike-is-the-last-link
 title: A Drone Strike Is the Last Link in a Supply Chain
-dek: "A new UN investigation says foreign weapons, technicians and transit routes are extending Sudan's drone war far beyond the front line."
+dek: A new UN investigation says foreign weapons, technicians and transit routes are
+  extending Sudan's drone war far beyond the front line.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-03'
-status: draft
-confidence: 90
+status: review
+confidence: 95
 load: 0
 topics:
 - Sudan
@@ -43,18 +44,24 @@ impact:
   - civilian protection
   - humanitarian access
   - regional security
-  line: "Foreign support is increasing the range and persistence of Sudan's drone war, exposing cities and essential services far from conventional front lines."
-  todo: Track whether the UN Security Council addresses the mission's call for a Sudan-wide arms embargo and whether long-range attacks on civilian infrastructure decline.
+  line: Foreign support is increasing the range and persistence of Sudan's drone war,
+    exposing cities and essential services far from conventional front lines.
+  todo: Track whether the UN Security Council addresses the mission's call for a Sudan-wide
+    arms embargo and whether long-range attacks on civilian infrastructure decline.
 qma_path: ''
 tickers: []
 quiz:
   question: What is the report's most important new analytical point?
   options:
-  - Drone reach depends on a cross-border system of equipment, people, training and logistics
+  - Drone reach depends on a cross-border system of equipment, people, training and
+    logistics
   - Every drone strike can now be attributed to one foreign government
   - Civilian harm occurs only when a drone directly hits a person
   answer: 0
-  explanation: The mission describes an enabling network behind the aircraft; it does not establish one sponsor or one chain of responsibility for every strike, and attacks on utilities can harm civilians indirectly.
+  explanation: The mission describes an enabling network behind the aircraft; it does
+    not establish one sponsor or one chain of responsibility for every strike, and
+    attacks on utilities can harm civilians indirectly.
+review_reason: 'citlivé téma: killed'
 ---
 
 ## BRIEFLY
