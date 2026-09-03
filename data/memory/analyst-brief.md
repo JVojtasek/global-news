@@ -35,9 +35,8 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 15 dní · 29 záznamů
+- rubrika `sport` · sledováno 16 dní · 30 záznamů
 - časová osa:
-  - **2026-08-29** (2 zdrojů) Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live
   - **2026-08-29** (3 zdrojů) Iraola urges 'passive' Liverpool to learn quickly after Forest draw
   - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
   - **2026-08-30** (2 zdrojů) Antonio helps young Ghanaians chase Premier League dreams
@@ -47,6 +46,7 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-30** (2 zdrojů) Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
   - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
   - **2026-09-02** (3 zdrojů) Premier League breaks transfer record for second straight summer
+  - **2026-09-03** (2 zdrojů) Ranking the most game-changing transfers in Premier League history
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 19 dní · 23 záznamů
