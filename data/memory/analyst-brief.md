@@ -21,10 +21,8 @@ Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 22 dní · 33 záznamů
+- rubrika `world` · sledováno 23 dní · 35 záznamů
 - časová osa:
-  - **2026-08-27** (2 zdrojů) Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
-  - **2026-08-28** (2 zdrojů) Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
   - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
   - **2026-09-01** (2 zdrojů) Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
   - **2026-09-01** (2 zdrojů) At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
@@ -33,6 +31,8 @@ Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-09-02** (2 zdrojů) EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   - **2026-09-02** (2 zdrojů) Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
   - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
+  - **2026-09-03** (2 zdrojů) Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
+  - **2026-09-03** (2 zdrojů) Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 16 dní · 31 záznamů
@@ -49,9 +49,8 @@ Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 19 dní · 23 záznamů
+- rubrika `world` · sledováno 21 dní · 24 záznamů
 - časová osa:
-  - **2026-08-21** (2 zdrojů) Why Israeli tenders for illegal E1 West Bank settlement prompted outrage
   - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
   - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
   - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
@@ -61,6 +60,21 @@ Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-08-30** (2 zdrojů) Palestinian woman and NBC News team reportedly attacked in West Bank
   - **2026-08-30** (2 zdrojů) Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France
   - **2026-09-01** (2 zdrojů) Israeli fire kills three in Gaza City during reported raid, medics say
+  - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
+
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 24 dní · 15 záznamů
+- časová osa:
+  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
+  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
+  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
+  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
+  - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
+  - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
+  - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
+  - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC
+  - **2026-09-03** (5 zdrojů) Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 7 dní · 15 záznamů
@@ -75,17 +89,3 @@ Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-08-31** (2 zdrojů) Dolly Parton laid to rest alongside husband in Nashville
   - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
   - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
-
-### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 24 dní · 14 záznamů
-- časová osa:
-  - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
-  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
-  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
-  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
-  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
-  - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
-  - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
-  - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
-  - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC

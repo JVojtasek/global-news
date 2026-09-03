@@ -43,7 +43,26 @@
     <https://www.france24.com/en/culture/20260903-gloria-steinem-feminist-trailblazer-and-award-winning-journalist-dies-at-92>
     > Feminist activist and journalist Gloria Steinem died on Wednesday, at the age 92, her foundation said in an Instagram post on Thursday.
 
-### 2. Germany says Russia behind Leipzig airport drone attack
+### 2. Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
+- id události: `d44ccc0ba93d`  ·  rubrika: `ai`  ·  skóre: 75  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Ars Technica AI** — Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
+    <https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/>
+    > Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.
+  - **Guardian Business** — Nvidia to buy developer platform Hugging Face in $12.9bn deal
+    <https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal>
+    > Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the
+  - **DW News** — Nvidia to buy Hugging Face in $12.93 billion deal
+    <https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf>
+    > The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.
+  - **TechCrunch** — Nvidia confirms it will buy Hugging Face for $12.9 billion
+    <https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/>
+    > Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.
+  - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
+    <https://huggingface.co/blog/pwc-search>
+
+### 3. Germany says Russia behind Leipzig airport drone attack
 - id události: `10a1cf734426`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -66,7 +85,7 @@
     <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
     > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
 
-### 3. Apple Maps changes Lake Ontario to Lake America after Trump order
+### 4. Apple Maps changes Lake Ontario to Lake America after Trump order
 - id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -85,25 +104,6 @@
   - **TechCrunch** — Apple follows Google in adopting Trump’s ‘Lake America’ name
     <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
     > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
-
-### 4. Barcola joins Liverpool from PSG in £123m move
-- id události: `fdcbb689323c`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Barcola joins Liverpool from PSG in £123m move
-    <https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss>
-    > Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.
-  - **Al Jazeera** — Liverpool sign Bradley Barcola from Paris Saint-Germain
-    <https://www.aljazeera.com/sports/2026/8/31/liverpool-sign-bradley-barcola-from-paris-saint-germain?traffic_source=rss>
-    > Barcola's move comes as Liverpool seek to reinforce their forward line after Mohamed Salah's departure.
-  - **France 24** — 🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer
-    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
-  - **France 24** — Bradley Barcola joins Liverpool from PSG for record fee
-    <https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee>
-    > Liverpool ⁠have signed ​France forward Bradley Barcola ​from European champions Paris Saint-Germain on a long-term contract, ​the ‌Premier League ⁠club said on Monday, making ‌him the latest marquee addition ⁠to their frontline. The whopping fee is estimated to be around £120 mil
-  - **Guardian Sport** — Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal
-    <https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg>
-    > France international says title ‘one of my biggest dreams’ He is second winger to join in window, after Victor Muñoz Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m
 
 ---
 
@@ -164,14 +164,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 33  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 35  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 33
-  2026-08-20  (2 zdrojů, síla 44)  Ukraine: Several killed in fresh Russian strikes on Kyiv
-  2026-08-20  (4 zdrojů, síla 69)  Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+rubrika: world · sledováno od 2026-08-11 · záznamů: 35
   2026-08-20  (3 zdrojů, síla 59)  Ukraine: Several killed in 'massive' Russian strikes on Kyiv
   2026-08-21  (2 zdrojů, síla 52)  Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
   2026-08-21  (2 zdrojů, síla 45)  'Masha and the Bear': Ukraine sanctions Russian cartoon
@@ -190,6 +188,8 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 33
   2026-09-02  (2 zdrojů, síla 45)  EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   2026-09-02  (2 zdrojů, síla 42)  Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
   2026-09-02  (2 zdrojů, síla 46)  EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
+  2026-09-03  (2 zdrojů, síla 43)  Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
+  2026-09-03  (2 zdrojů, síla 40)  Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
 ```
 
 ---
