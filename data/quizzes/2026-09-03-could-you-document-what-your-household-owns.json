@@ -1,0 +1,459 @@
+{
+  "schema_version": 1,
+  "slug": "could-you-document-what-your-household-owns",
+  "date": "2026-09-03",
+  "category": "preparedness",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Could you document what your household owns?",
+      "cs": "Dokázali byste doložit, co vaše domácnost vlastní?"
+    },
+    "dek": {
+      "en": "Eight practical situations reveal whether your records could still help after a fire, flood, theft or sudden evacuation.",
+      "cs": "Osm praktických situací ukáže, zda by vaše záznamy pomohly i po požáru, povodni, krádeži nebo náhlé evakuaci."
+    },
+    "intro": {
+      "en": "Answer for what you could find today, not what you intend to organise later. The aim is one useful gap, not a perfect archive.",
+      "cs": "Odpovídejte podle toho, co byste našli dnes, ne podle toho, co chcete uspořádat později. Cílem je najít jednu užitečnou mezeru, ne vytvořit dokonalý archiv."
+    },
+    "disclaimer": {
+      "en": "This is an original educational self-check based on public preparedness guidance. It does not reproduce a licensed instrument and is not a validated readiness score, insurance review, legal opinion or prediction of loss. Required documents, claim rules, privacy needs and safe storage vary by place and household.",
+      "cs": "Jde o původní vzdělávací sebehodnocení založené na veřejných doporučeních k připravenosti. Nepřebírá licencovaný nástroj a není validovaným skóre připravenosti, kontrolou pojištění, právním názorem ani předpovědí škody. Potřebné dokumenty, pravidla nároků, ochrana soukromí i bezpečné uložení se liší podle místa a domácnosti."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "inventory",
+      "label": {
+        "en": "Know what is there",
+        "cs": "Vědět, co doma je"
+      },
+      "why": {
+        "en": "A room-by-room record can restore detail when damaged or missing objects are hard to remember.",
+        "cs": "Záznam po místnostech může obnovit podrobnosti, když se poškozené či chybějící věci těžko vybavují."
+      },
+      "action": {
+        "en": "Photograph or video one room and note models or serial numbers for its most valuable items.",
+        "cs": "Vyfotografujte či natočte jednu místnost a poznamenejte modely nebo sériová čísla nejcennějších věcí."
+      }
+    },
+    {
+      "id": "documents",
+      "label": {
+        "en": "Connect records to evidence",
+        "cs": "Propojit záznamy s důkazy"
+      },
+      "why": {
+        "en": "Receipts, policies, identification and ownership records answer different questions during recovery.",
+        "cs": "Účtenky, smlouvy, doklady totožnosti a záznamy o vlastnictví odpovídají při obnově na různé otázky."
+      },
+      "action": {
+        "en": "Choose one important item and link its photo to a receipt, appraisal or purchase record if available.",
+        "cs": "Vyberte jednu důležitou věc a propojte její fotografii s účtenkou, odhadem či záznamem o nákupu, pokud existuje."
+      }
+    },
+    {
+      "id": "access",
+      "label": {
+        "en": "Keep a usable copy elsewhere",
+        "cs": "Mít použitelnou kopii jinde"
+      },
+      "why": {
+        "en": "A record stored only beside the property can be lost in the same event; a copy also needs secure, practical access.",
+        "cs": "Záznam uložený jen vedle majetku může zmizet při stejné události; kopie musí být také bezpečně a prakticky dostupná."
+      },
+      "action": {
+        "en": "Make one protected off-site or encrypted copy and test that an authorised adult can open it.",
+        "cs": "Vytvořte jednu chráněnou kopii mimo domov nebo šifrovanou kopii a ověřte, že ji oprávněný dospělý otevře."
+      }
+    },
+    {
+      "id": "upkeep",
+      "label": {
+        "en": "Keep the record current",
+        "cs": "Udržovat záznam aktuální"
+      },
+      "why": {
+        "en": "Inventories become misleading after moves, major purchases, sales and changed policies.",
+        "cs": "Po stěhování, větších nákupech, prodejích a změnách smluv se inventář stává zavádějícím."
+      },
+      "action": {
+        "en": "Attach a ten-minute review to one repeatable date, such as a policy renewal or daylight-saving change.",
+        "cs": "Připojte desetiminutovou kontrolu k opakujícímu se datu, například k výročí smlouvy nebo změně času."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "room-record",
+      "dimension": "inventory",
+      "text": {
+        "en": "A fire damages one room. What record of its contents exists?",
+        "cs": "Požár poškodí jednu místnost. Jaký záznam jejího obsahu existuje?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Mostly memory",
+            "cs": "Převážně paměť"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "A few photos of visible items",
+            "cs": "Několik fotografií viditelných věcí"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Recent photos or video covering most areas",
+            "cs": "Aktuální fotografie či video většiny místnosti"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "A room record plus useful model or serial details for major items",
+            "cs": "Záznam místnosti a užitečné modely či sériová čísla hlavních věcí"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "hidden-areas",
+      "dimension": "inventory",
+      "text": {
+        "en": "How well does your record cover cupboards, storage and rarely used valuables?",
+        "cs": "Jak dobře záznam pokrývá skříně, úložné prostory a málo používané cennosti?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "They are not recorded",
+            "cs": "Nejsou zaznamenané"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Only obvious valuable items appear",
+            "cs": "Jsou zachycené jen zjevně cenné věci"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Most storage areas have been photographed",
+            "cs": "Většina úložných prostor je vyfotografovaná"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "They are covered systematically, with special items identified separately",
+            "cs": "Jsou zachycené systematicky a zvláštní věci označené samostatně"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "proof-purchase",
+      "dimension": "documents",
+      "text": {
+        "en": "You need evidence for a major appliance bought two years ago. What can you retrieve?",
+        "cs": "Potřebujete doklad k velkému spotřebiči koupenému před dvěma lety. Co dohledáte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Nothing beyond recognising it",
+            "cs": "Nic kromě toho, že jej poznám"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "A product photo or bank transaction, but not both",
+            "cs": "Fotografii výrobku nebo bankovní transakci, ne obojí"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "A purchase record linked to the item",
+            "cs": "Záznam o nákupu propojený s věcí"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "The purchase record, model details and relevant warranty or policy information",
+            "cs": "Záznam o nákupu, model a příslušnou záruku či smlouvu"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "policy-location",
+      "dimension": "documents",
+      "text": {
+        "en": "Where are current insurance and ownership documents?",
+        "cs": "Kde jsou aktuální pojistné smlouvy a doklady o vlastnictví?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I am not sure which versions are current",
+            "cs": "Nevím, které verze jsou aktuální"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Some are searchable in email or paper files",
+            "cs": "Některé lze najít v e-mailu nebo papírech"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Current versions are gathered in one known place",
+            "cs": "Aktuální verze jsou na jednom známém místě"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "Current versions are gathered, labelled and accompanied by contact details",
+            "cs": "Aktuální verze jsou shromážděné, označené a doplněné kontakty"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "same-event",
+      "dimension": "access",
+      "text": {
+        "en": "If you could not safely enter your home, could you reach the inventory?",
+        "cs": "Kdybyste se nemohli bezpečně vrátit domů, dostali byste se k inventáři?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "No; the only copy is at home",
+            "cs": "Ne; jediná kopie je doma"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Possibly, if one device or account still works",
+            "cs": "Možná, pokud funguje jedno zařízení nebo účet"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Yes, through a protected copy stored elsewhere",
+            "cs": "Ano, přes chráněnou kopii uloženou jinde"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "Yes, through more than one secure route with recovery details tested",
+            "cs": "Ano, více bezpečnými cestami s ověřenou obnovou přístupu"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "trusted-access",
+      "dimension": "access",
+      "text": {
+        "en": "If you were unavailable, could another authorised adult find and open essential records?",
+        "cs": "Kdybyste nebyli dostupní, našel a otevřel by důležité záznamy jiný oprávněný dospělý?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "No one else knows they exist",
+            "cs": "Nikdo jiný neví, že existují"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "Someone knows roughly where they are",
+            "cs": "Někdo přibližně ví, kde jsou"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "A trusted person has clear access instructions",
+            "cs": "Důvěryhodná osoba má jasné pokyny k přístupu"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "Access and account-recovery steps have been tested without sharing more data than necessary",
+            "cs": "Přístup i obnova účtu jsou vyzkoušené bez zbytečného sdílení údajů"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "last-update",
+      "dimension": "upkeep",
+      "text": {
+        "en": "When was the household record last checked against what you actually own?",
+        "cs": "Kdy byl domácí záznam naposledy porovnán s tím, co skutečně vlastníte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "It has never been checked or does not exist",
+            "cs": "Nikdy nebo záznam neexistuje"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "More than two years ago",
+            "cs": "Před více než dvěma lety"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "Within the past year or after a major change",
+            "cs": "Během posledního roku nebo po velké změně"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "On a recurring schedule and after major purchases, sales or moves",
+            "cs": "Pravidelně a po velkých nákupech, prodejích či stěhování"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "small-change",
+      "dimension": "upkeep",
+      "text": {
+        "en": "A phone, bicycle or camera leaves the household. What happens to the record?",
+        "cs": "Telefon, kolo nebo fotoaparát domácnost opustí. Co se stane se záznamem?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Nothing; old entries remain indefinitely",
+            "cs": "Nic; staré položky zůstávají"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I hope to remember at the next big update",
+            "cs": "Doufám, že si vzpomenu při velké aktualizaci"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I remove or mark the item when convenient",
+            "cs": "Položku při příležitosti odstraním nebo označím"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I update the entry and preserve any sale, disposal or replacement record that matters",
+            "cs": "Položku aktualizuji a zachovám důležitý záznam o prodeji, likvidaci či náhradě"
+          },
+          "score": 3
+        }
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {
+        "en": "Start with one recoverable room",
+        "cs": "Začněte jednou dohledatelnou místností"
+      },
+      "summary": {
+        "en": "Your answers suggest that memory or a single location carries much of the burden. This score is a snapshot, not proof that a future claim would fail. Record one room today, then place a protected copy somewhere the same incident is unlikely to reach.",
+        "cs": "Odpovědi naznačují, že velká část zátěže leží na paměti nebo jediném místě. Skóre je momentka, ne důkaz, že budoucí nárok selže. Dnes zaznamenejte jednu místnost a chráněnou kopii uložte tam, kam stejná událost pravděpodobně nedosáhne."
+      }
+    },
+    {
+      "min": 8,
+      "max": 15,
+      "title": {
+        "en": "Useful pieces exist—connect them",
+        "cs": "Užitečné části existují—propojte je"
+      },
+      "summary": {
+        "en": "You have some evidence, but gaps in linkage, access or updating could slow recovery. The result does not assess coverage or legal entitlement. Choose the lowest-scoring dimension and complete its small action before adding more files.",
+        "cs": "Některé důkazy máte, ale mezery v propojení, přístupu či aktualizaci mohou obnovu zpomalit. Výsledek neposuzuje krytí ani právní nárok. Vyberte nejslabší dimenzi a proveďte její malý krok dříve, než přidáte další soubory."
+      }
+    },
+    {
+      "min": 16,
+      "max": 24,
+      "title": {
+        "en": "Your record is usable—test the weak link",
+        "cs": "Váš záznam je použitelný—otestujte slabé místo"
+      },
+      "summary": {
+        "en": "Your answers suggest that much of the household record can be identified and reached. A high score cannot guarantee privacy, safety, insurance coverage or acceptance of evidence. Test one off-site access route and schedule the next review.",
+        "cs": "Odpovědi naznačují, že velkou část domácího záznamu lze určit a dohledat. Vysoké skóre nezaručuje soukromí, bezpečí, pojistné krytí ani přijetí důkazů. Otestujte jednu cestu přístupu mimo domov a naplánujte další kontrolu."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ready.gov — Financial Preparedness",
+      "url": "https://www.ready.gov/financial-preparedness",
+      "published": "2026-03-13",
+      "type": "official public guidance on gathering critical household and financial information"
+    },
+    {
+      "name": "American Red Cross — A Digital Disaster Kit Is Key",
+      "url": "https://www.redcross.org/about-us/news-and-events/news/SanDisk-supports-the-Red-Cross-and-Promotes-Preparedness.html",
+      "published": "2016-03-03",
+      "type": "public preparedness guidance on accessible document copies and household inventories"
+    },
+    {
+      "name": "American Red Cross — Disasters and Financial Planning Guide",
+      "url": "https://www.redcross.org/content/dam/redcross/get-help/pdfs/disasters-and-financial-planning-guide.PDF",
+      "published": "",
+      "type": "public guide recommending inventories, photos, off-site copies and periodic updates; no assessment items reproduced"
+    },
+    {
+      "name": "American Red Cross — Survival Kit Supplies",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+      "published": "",
+      "type": "public checklist including copies of personal and insurance documents"
+    }
+  ]
+}
