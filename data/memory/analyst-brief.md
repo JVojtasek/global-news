@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-03
 
-Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
+Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 25 dní · 60 záznamů
 - časová osa:
-  - **2026-08-28** (2 zdrojů) O'Neill hopeful on transfers despite Champions League play-off exit
   - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
   - **2026-08-31** (2 zdrojů) US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
   - **2026-08-31** (2 zdrojů) Trump threatens further action as US and Iran exchange fire in new flare-up
@@ -19,6 +18,7 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-09-02** (1 zdrojů) Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
   - **2026-09-03** (2 zdrojů) Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
   - **2026-09-03** (2 zdrojů) Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
+  - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 22 dní · 33 záznamů
@@ -35,9 +35,8 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 16 dní · 30 záznamů
+- rubrika `sport` · sledováno 16 dní · 31 záznamů
 - časová osa:
-  - **2026-08-29** (3 zdrojů) Iraola urges 'passive' Liverpool to learn quickly after Forest draw
   - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
   - **2026-08-30** (2 zdrojů) Antonio helps young Ghanaians chase Premier League dreams
   - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
@@ -47,6 +46,7 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
   - **2026-09-02** (3 zdrojů) Premier League breaks transfer record for second straight summer
   - **2026-09-03** (2 zdrojů) Ranking the most game-changing transfers in Premier League history
+  - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 19 dní · 23 záznamů
@@ -77,9 +77,8 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 22 dní · 13 záznamů
+- rubrika `ai` · sledováno 24 dní · 14 záznamů
 - časová osa:
-  - **2026-08-20** (2 zdrojů) Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
   - **2026-08-26** (2 zdrojů) OpenAI subpoenaed by Alabama AG over Hugging Face hack
   - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
   - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
@@ -89,3 +88,4 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
   - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
   - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
+  - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC

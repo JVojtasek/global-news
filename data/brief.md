@@ -9,7 +9,41 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Germany says Russia behind Leipzig airport drone attack
+### 1. Feminist activist and journalist Gloria Steinem dies, aged 92
+- id události: `ca58672fbc86`  ·  rubrika: `world`  ·  skóre: 88  ·  nezávislých zdrojů: 7
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Feminist activist and journalist Gloria Steinem dies, aged 92
+    <https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss>
+    > Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
+  - **BBC World** — How Gloria Steinem changed the lives of generations of women
+    <https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss>
+    > The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.
+  - **NPR News** — Dems demand DHS fund election security. And, journalist Gloria Steinem has died
+    <https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem>
+    > Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died.
+  - **NPR News** — Gloria Steinem, trailblazing journalist and activist, dies at 92
+    <https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies>
+    > At a time when women were largely limited to domestic roles, Steinem challenged gender stereotypes and championed feminist ideals like equality, sisterhood and reproductive freedom.
+  - **DW News** — Gloria Steinem, feminist activist and journalist, dies at 92
+    <https://www.dw.com/en/gloria-steinem-feminist-activist-and-journalist-dies-at-92/a-78855039?maca=en-rss-en-all-1573-rdf>
+    > Steinem became a prominent leader of the second wave of the feminist movement in the US.
+  - **Guardian Culture** — Gloria Steinem, groundbreaking feminist campaigner, dies aged 92
+    <https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92>
+    > Famous for the 1963 exposé in which she worked as a Playboy Bunny, her books and journalism took on many varieties of discrimination Gloria Steinem, the American feminist and journalist whose activism helped push through greater rights for women around the world has died, aged 92
+  - **CNBC Top** — Gloria Steinem, a potent voice of U.S. feminism and co-founder of Ms. Magazine, has died
+    <https://www.cnbc.com/2026/09/03/gloria-steinem-co-founder-of-ms-magazine-dies-at-92.html>
+    > Gloria Steinem, the co-founder of Ms. Magazine and a fierce advocate for feminist causes throughout her life, has died. She was 92.
+  - **Al Jazeera** — Feminist icon Gloria Steinem dies aged 92
+    <https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss>
+    > Cofounder of Ms Magazine was a strong advocate for women's rights throughout her life.
+  - **France 24** — 🔴 Gloria Steinem, feminist trailblazer and award-winning journalist, dies at 92
+    <https://www.france24.com/en/culture/20260903-gloria-steinem-feminist-trailblazer-and-award-winning-journalist-dies-at-92>
+  - **France 24** — Gloria Steinem, feminist trailblazer and award-winning journalist, dies at 92
+    <https://www.france24.com/en/culture/20260903-gloria-steinem-feminist-trailblazer-and-award-winning-journalist-dies-at-92>
+    > Feminist activist and journalist Gloria Steinem died on Wednesday, at the age 92, her foundation said in an Instagram post on Thursday.
+
+### 2. Germany says Russia behind Leipzig airport drone attack
 - id události: `10a1cf734426`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -32,7 +66,7 @@
     <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
     > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
 
-### 2. Apple Maps changes Lake Ontario to Lake America after Trump order
+### 3. Apple Maps changes Lake Ontario to Lake America after Trump order
 - id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -52,7 +86,7 @@
     <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
     > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
 
-### 3. Barcola joins Liverpool from PSG in £123m move
+### 4. Barcola joins Liverpool from PSG in £123m move
 - id události: `fdcbb689323c`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -70,26 +104,6 @@
   - **Guardian Sport** — Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal
     <https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg>
     > France international says title ‘one of my biggest dreams’ He is second winger to join in window, after Victor Muñoz Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m
-
-### 4. Jailed HK activist Joshua Wong pleads guilty to foreign collusion
-- id události: `8d4f8a634705`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Jailed HK activist Joshua Wong pleads guilty to foreign collusion
-    <https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss>
-    > Wong, 29, is already in prison on subversion charges under the controversial National Security Law.
-  - **The Guardian World** — Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case
-    <https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china>
-    > Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong , one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and
-  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty in national security case
-    <https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss>
-    > Pro-democracy activist faces life sentence in second case under Beijing's national security law.
-  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty to foreign collusion
-    <https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss>
-    > High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.
-  - **France 24** — Hong Kong democracy activist Joshua Wong pleads guilty to foreign collusion
-    <https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion>
-    > Hong Kong activist Joshua Wong on Wednesday pleaded guilty to colluding with foreign powers in a trial that could see the 29-year-old spend the rest of his life behind bars. Wong rose to international prominence for his involvement in the 2014 Umbrella Movement and the mass prote
 
 ---
 
@@ -127,7 +141,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-26  (3 zdrojů, síla 60)  Celtic deficiencies laid bare on another night of Champions League pain
   2026-08-26  (2 zdrojů, síla 40)  Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
   2026-08-26  (2 zdrojů, síla 46)  China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
   2026-08-26  (1 zdrojů, síla 53)  How to follow Thursday's Champions League draw - and who is in each pot?
@@ -147,6 +160,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
   2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
   2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
+  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
