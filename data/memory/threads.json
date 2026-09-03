@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "jordan",
-    "american",
-    "donald",
-    "lyon",
-    "iran",
-    "fenerbahce",
-    "chaos",
-    "o'neill",
-    "taiwan",
-    "middle",
-    "oman",
-    "briton",
     "strait",
-    "jong",
-    "treasury",
-    "times",
-    "groundhog",
-    "kuwait",
-    "us-south",
+    "mideast",
     "iranian",
-    "start",
-    "east",
-    "korea",
-    "qatar",
+    "kuwait",
+    "city",
+    "american",
+    "ukraine",
+    "gulf",
+    "d-day",
+    "middle",
     "champions",
+    "us-south",
+    "china's",
+    "qatar",
+    "taiwan",
+    "start",
+    "iran",
+    "lyon",
+    "league",
     "north",
+    "groundhog",
+    "briton",
+    "trump",
+    "o'neill",
+    "fenerbahce",
+    "donald",
+    "jong",
+    "korea",
+    "hormuz",
+    "chaos",
+    "indycar",
     "iran's",
     "thursday's",
-    "china's",
-    "hormuz",
-    "gulf",
-    "city",
-    "south",
-    "indycar",
-    "mideast",
     "centcom",
-    "trump",
-    "d-day",
-    "league",
-    "ukraine"
+    "jordan",
+    "times",
+    "south",
+    "east",
+    "oman",
+    "treasury"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -120,22 +120,12 @@
     "91e593197e15",
     "57a1d77ee48e",
     "526e9a8dd32c",
-    "fb351b7c92cd"
+    "fb351b7c92cd",
+    "3061213d46d8"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-03",
    "timeline": [
-    {
-     "date": "2026-08-15",
-     "headline": "Donald Trump says he faced ‘greater risk’ on swapped plane",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f3c480adacd2",
-     "links": [
-      "https://www.france24.com/en/donald-trump-says-he-faced-greater-risk-on-swapped-plane",
-      "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-15",
      "headline": "Middle East live: Trump threatens US takeover of Hormuz as Iran vows to retain control",
@@ -805,6 +795,17 @@
      "links": [
       "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
       "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3061213d46d8",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260903-has-iran-modified-its-rocket-systems-to-fire-mines-into-the-strait-of-hormuz",
+      "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss"
      ]
     }
    ]
@@ -5925,5 +5926,5 @@
    ]
   }
  ],
- "updated": "2026-09-03T04:43:11+00:00"
+ "updated": "2026-09-03T06:40:57+00:00"
 }

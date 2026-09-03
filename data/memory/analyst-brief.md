@@ -9,7 +9,6 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 25 dní · 60 záznamů
 - časová osa:
-  - **2026-08-28** (2 zdrojů) Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
   - **2026-08-28** (2 zdrojů) O'Neill hopeful on transfers despite Champions League play-off exit
   - **2026-08-28** (2 zdrojů) The economic costs of Donald Trump’s immigration crackdown
   - **2026-08-31** (2 zdrojů) US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
@@ -19,6 +18,7 @@ Paměť obsahuje **75 vláken**. Aktivních za posledních 14 dní: **34**.
   - **2026-09-02** (2 zdrojů) Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
   - **2026-09-02** (1 zdrojů) Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
   - **2026-09-03** (2 zdrojů) Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
+  - **2026-09-03** (2 zdrojů) Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 22 dní · 33 záznamů
