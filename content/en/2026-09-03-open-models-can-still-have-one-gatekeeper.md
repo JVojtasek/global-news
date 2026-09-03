@@ -1,13 +1,14 @@
 ---
 slug: open-models-can-still-have-one-gatekeeper
 title: Open Models Can Still Have One Gatekeeper
-dek: "NVIDIA says Hugging Face will remain open after its $12.93 billion acquisition; the harder question is whether developers will retain practical choices."
+dek: NVIDIA says Hugging Face will remain open after its $12.93 billion acquisition;
+  the harder question is whether developers will retain practical choices.
 section: tech
 type: analysis
 depth: open
 lang: en
 date: '2026-09-03'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics:
@@ -40,18 +41,25 @@ impact:
   - AI development
   - cloud competition
   - open technology
-  line: "Ownership of a central model-distribution platform gives NVIDIA influence over discovery, evaluation and deployment even if every hosted model keeps its existing license."
-  todo: Track whether Hugging Face preserves equal support for rival accelerators and clouds, transparent ranking rules, exportable repositories and independent governance.
+  line: Ownership of a central model-distribution platform gives NVIDIA influence
+    over discovery, evaluation and deployment even if every hosted model keeps its
+    existing license.
+  todo: Track whether Hugging Face preserves equal support for rival accelerators
+    and clouds, transparent ranking rules, exportable repositories and independent
+    governance.
 qma_path: ''
 tickers: []
 quiz:
   question: Which test best shows whether Hugging Face remains open in practice?
   options:
-  - Developers can export models and metadata and use rival clouds and accelerators without disadvantage
+  - Developers can export models and metadata and use rival clouds and accelerators
+    without disadvantage
   - NVIDIA continues to describe the platform as open
   - Every model hosted on the platform uses the same license
   answer: 0
-  explanation: Openness depends on portability, interoperability and neutral access as well as model licenses; a corporate promise or one uniform license would not establish those conditions.
+  explanation: Openness depends on portability, interoperability and neutral access
+    as well as model licenses; a corporate promise or one uniform license would not
+    establish those conditions.
 ---
 
 ## BRIEFLY
