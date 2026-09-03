@@ -1,20 +1,22 @@
 ---
 slug: fasting-blood-test-needs-instructions
 title: A Fasting Blood Test Needs Instructions, Not Guesswork
-dek: “Come fasting” sounds simple. The useful question is what your particular test measures, for how long preparation matters, and what must be reported rather than concealed.
+dek: “Come fasting” sounds simple. The useful question is what your particular test
+  measures, for how long preparation matters, and what must be reported rather than
+  concealed.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-03'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics:
-  - blood tests
-  - fasting
-  - laboratory medicine
-  - patient safety
+- blood tests
+- fasting
+- laboratory medicine
+- patient safety
 automation_generated: true
 edition_slot: 3
 automation_role: edition
@@ -24,28 +26,34 @@ event_id: ''
 series: ''
 image_query: fasting blood test preparation plain water laboratory sample conceptual
 sources:
-  - name: MedlinePlus — Fasting for a Blood Test
-    url: https://medlineplus.gov/lab-tests/fasting-for-a-blood-test/
-    published: '2025-08-28'
-  - name: MedlinePlus — How to Prepare for a Lab Test
-    url: https://medlineplus.gov/lab-tests/how-to-prepare-for-a-lab-test/
-    published: '2024-08-20'
-  - name: U.S. Food and Drug Administration — Biotin Interference with Troponin Lab Tests
-    url: https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference
-    published: '2022-06-21'
-  - name: EAS–EFLM Joint Consensus Statement — Fasting Is Not Routinely Required for a Lipid Profile
-    url: https://pubmed.ncbi.nlm.nih.gov/27235445/
-    published: '2016-05-27'
+- name: MedlinePlus — Fasting for a Blood Test
+  url: https://medlineplus.gov/lab-tests/fasting-for-a-blood-test/
+  published: '2025-08-28'
+- name: MedlinePlus — How to Prepare for a Lab Test
+  url: https://medlineplus.gov/lab-tests/how-to-prepare-for-a-lab-test/
+  published: '2024-08-20'
+- name: U.S. Food and Drug Administration — Biotin Interference with Troponin Lab
+    Tests
+  url: https://www.fda.gov/medical-devices/in-vitro-diagnostics/biotin-interference-troponin-lab-tests-assays-subject-biotin-interference
+  published: '2022-06-21'
+- name: EAS–EFLM Joint Consensus Statement — Fasting Is Not Routinely Required for
+    a Lipid Profile
+  url: https://pubmed.ncbi.nlm.nih.gov/27235445/
+  published: '2016-05-27'
 qma_path: ''
 tickers: []
 quiz:
-  question: What is the safest response when preparation instructions for a blood test are unclear?
+  question: What is the safest response when preparation instructions for a blood
+    test are unclear?
   options:
-    - Fast from the previous evening because more fasting always improves accuracy
-    - Confirm the exact tests and preparation with the ordering clinician or laboratory before changing food, drink, medicine, or supplements
-    - Take all supplements as usual but omit breakfast
+  - Fast from the previous evening because more fasting always improves accuracy
+  - Confirm the exact tests and preparation with the ordering clinician or laboratory
+    before changing food, drink, medicine, or supplements
+  - Take all supplements as usual but omit breakfast
   answer: 1
-  explanation: Preparation depends on the tests ordered. Unrequested fasting can also alter results, and medicines or supplements should not be changed without specific clinical instructions.
+  explanation: Preparation depends on the tests ordered. Unrequested fasting can also
+    alter results, and medicines or supplements should not be changed without specific
+    clinical instructions.
 ---
 
 ## BRIEFLY

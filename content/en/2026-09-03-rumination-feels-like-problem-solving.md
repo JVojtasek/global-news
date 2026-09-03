@@ -1,20 +1,21 @@
 ---
 slug: rumination-feels-like-problem-solving
-title: "Rumination Feels Like Problem-Solving. Often It Isn't"
-dek: "The useful difference is not whether a thought repeats, but whether each return makes the problem more concrete, more testable or more actionable."
+title: Rumination Feels Like Problem-Solving. Often It Isn't
+dek: The useful difference is not whether a thought repeats, but whether each return
+  makes the problem more concrete, more testable or more actionable.
 section: soul
 type: daily
 depth: open
 lang: en
 date: '2026-09-03'
-status: draft
-confidence: high
+status: review
+confidence: 95
 load: 0
 topics:
-  - rumination
-  - reflection
-  - mental health
-  - problem-solving
+- rumination
+- reflection
+- mental health
+- problem-solving
 automation_generated: true
 automation_role: edition
 generator: chatgpt-work
@@ -22,33 +23,39 @@ edition_slot: 1
 format: ''
 event_id: ''
 series: ''
-image_query: "conceptual editorial illustration of looping thoughts becoming a clear path"
+image_query: conceptual editorial illustration of looping thoughts becoming a clear
+  path
 sources:
-  - name: "Constructive and Unconstructive Repetitive Thought"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2672052/"
-    published: '2008-03-01'
-  - name: "Rethinking Rumination"
-    url: "https://pubmed.ncbi.nlm.nih.gov/26158958/"
-    published: '2008-09-01'
-  - name: "Rumination as a Mechanism Linking Stressful Life Events to Symptoms of Depression and Anxiety"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4116082/"
-    published: '2013-05-01'
-  - name: "The Effect of Psychological Treatment on Repetitive Negative Thinking in Youth Depression and Anxiety"
-    url: "https://pubmed.ncbi.nlm.nih.gov/36373473/"
-    published: '2022-11-14'
-  - name: "Tackling Your Worries"
-    url: "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/"
-    published: '2022-09-01'
+- name: Constructive and Unconstructive Repetitive Thought
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2672052/
+  published: '2008-03-01'
+- name: Rethinking Rumination
+  url: https://pubmed.ncbi.nlm.nih.gov/26158958/
+  published: '2008-09-01'
+- name: Rumination as a Mechanism Linking Stressful Life Events to Symptoms of Depression
+    and Anxiety
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4116082/
+  published: '2013-05-01'
+- name: The Effect of Psychological Treatment on Repetitive Negative Thinking in Youth
+    Depression and Anxiety
+  url: https://pubmed.ncbi.nlm.nih.gov/36373473/
+  published: '2022-11-14'
+- name: Tackling Your Worries
+  url: https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/
+  published: '2022-09-01'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which observation is the strongest sign that repeated thinking has become constructive?"
+  question: Which observation is the strongest sign that repeated thinking has become
+    constructive?
   options:
-    - "It feels urgent and emotionally intense"
-    - "It produces a specific next step or a clearer testable question"
-    - "It returns whenever there is a quiet moment"
+  - It feels urgent and emotionally intense
+  - It produces a specific next step or a clearer testable question
+  - It returns whenever there is a quiet moment
   answer: 1
-  explanation: "Constructive reflection tends to increase specificity, perspective or action. Urgency and repetition alone do not show that thinking is solving anything."
+  explanation: Constructive reflection tends to increase specificity, perspective
+    or action. Urgency and repetition alone do not show that thinking is solving anything.
+review_reason: 'citlivé téma: self-harm'
 ---
 
 ## BRIEFLY
@@ -128,4 +135,3 @@ If that sentence remains blank on several attempts, do not treat more intensity 
 - C. It returns whenever there is a quiet moment.
 
 **Answer: B.** Constructive reflection generally increases specificity, perspective or action. Urgency and recurrence show that a concern is salient; they do not show that another mental lap is solving it.
-

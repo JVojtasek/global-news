@@ -1,20 +1,22 @@
 ---
 slug: pluto-did-not-change-the-category-did
 title: Pluto Did Not Change. The Category Did
-dek: The 2006 vote was not a discovery that Pluto had failed. It was an attempt to repair a classification after the Solar System became more crowded—and it exposed two legitimate ideas of what “planet” should mean.
+dek: The 2006 vote was not a discovery that Pluto had failed. It was an attempt to
+  repair a classification after the Solar System became more crowded—and it exposed
+  two legitimate ideas of what “planet” should mean.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-03'
-status: draft
+status: review
 confidence: 94
 load: 0
 topics:
-  - Pluto
-  - planets
-  - astronomy
-  - scientific classification
+- Pluto
+- planets
+- astronomy
+- scientific classification
 automation_generated: true
 edition_slot: 4
 automation_role: edition
@@ -24,28 +26,32 @@ event_id: ''
 series: ''
 image_query: Pluto planetary classification conceptual solar system taxonomy illustration
 sources:
-  - name: International Astronomical Union — Astronomy FAQs
-    url: https://www.iau.org/IAU/IAU/Astronomy-FAQs/FAQs.aspx
-    published: '2006-08-24'
-  - name: International Astronomical Union — Draft Definition of Planet and Plutons
-    url: https://www.iau.org/IAU/Iau/News/PR2006/iau-draft-planet-pluton-definition.aspx
-    published: '2006-08-16'
-  - name: American Astronomical Society Division for Planetary Sciences — What Is a Planet?
-    url: https://dps.aas.org/education/what_is_a_planet/
-    published: '2006-10-11'
-  - name: NASA Science — Pluto Facts
-    url: https://science.nasa.gov/dwarf-planets/pluto/facts/
-    published: '2025-04-22'
+- name: International Astronomical Union — Astronomy FAQs
+  url: https://www.iau.org/IAU/IAU/Astronomy-FAQs/FAQs.aspx
+  published: '2006-08-24'
+- name: International Astronomical Union — Draft Definition of Planet and Plutons
+  url: https://www.iau.org/IAU/Iau/News/PR2006/iau-draft-planet-pluton-definition.aspx
+  published: '2006-08-16'
+- name: American Astronomical Society Division for Planetary Sciences — What Is a
+    Planet?
+  url: https://dps.aas.org/education/what_is_a_planet/
+  published: '2006-10-11'
+- name: NASA Science — Pluto Facts
+  url: https://science.nasa.gov/dwarf-planets/pluto/facts/
+  published: '2025-04-22'
 qma_path: ''
 tickers: []
 quiz:
-  question: Under the International Astronomical Union's 2006 definition, why is Pluto classified as a dwarf planet rather than a planet?
+  question: Under the International Astronomical Union's 2006 definition, why is Pluto
+    classified as a dwarf planet rather than a planet?
   options:
-    - It is too small to be round
-    - It does not orbit the Sun
-    - It has not cleared the neighbourhood around its orbit
+  - It is too small to be round
+  - It does not orbit the Sun
+  - It has not cleared the neighbourhood around its orbit
   answer: 2
-  explanation: Pluto orbits the Sun and is nearly round, but it does not meet the IAU criterion of clearing its orbital neighbourhood.
+  explanation: Pluto orbits the Sun and is nearly round, but it does not meet the
+    IAU criterion of clearing its orbital neighbourhood.
+review_reason: 'citlivé téma: ballot'
 ---
 
 ## BRIEFLY
