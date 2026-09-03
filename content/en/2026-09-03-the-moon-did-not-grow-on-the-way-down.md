@@ -1,14 +1,15 @@
 ---
 slug: the-moon-did-not-grow-on-the-way-down
 title: The Moon Did Not Grow on the Way Down
-dek: 'Near the horizon, the Moon can look enormous even when a fixed-zoom photograph shows almost the same width it had high in the sky.'
+dek: Near the horizon, the Moon can look enormous even when a fixed-zoom photograph
+  shows almost the same width it had high in the sky.
 section: wonder
 type: feature
 depth: open
 lang: en
 date: '2026-09-03'
 status: reserve
-confidence: 93
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: evergreen-moon-illusion-horizon-perceived-size
 series: The Wider Lens
-image_query: large full moon rising behind distant trees human silhouettes realistic scale documentary
+image_query: large full moon rising behind distant trees human silhouettes realistic
+  scale documentary
 sources:
 - name: NASA Science — The Moon Illusion
   url: https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/
@@ -32,13 +34,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which observation most directly tests whether the horizon Moon is physically wider in the sky?
+  question: Which observation most directly tests whether the horizon Moon is physically
+    wider in the sky?
   options:
-  - Compare two fixed-zoom photographs taken near the horizon and later at higher elevation
+  - Compare two fixed-zoom photographs taken near the horizon and later at higher
+    elevation
   - Ask several people which view feels more dramatic
   - Measure how orange the Moon looks through more atmosphere
   answer: 0
-  explanation: With the same camera settings, the Moon's horizontal width is essentially unchanged. Its colour and apparent size can change without a matching increase in angular width.
+  explanation: With the same camera settings, the Moon's horizontal width is essentially
+    unchanged. Its colour and apparent size can change without a matching increase
+    in angular width.
 ---
 
 ## BRIEFLY

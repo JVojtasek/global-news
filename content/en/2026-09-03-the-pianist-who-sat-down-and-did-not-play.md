@@ -1,14 +1,15 @@
 ---
 slug: the-pianist-who-sat-down-and-did-not-play
 title: The Pianist Who Sat Down and Did Not Play
-dek: 'David Tudor premiered John Cage''s 4′33″ by marking three movements without intentional notes, turning a roomful of incidental sound into the event.'
+dek: David Tudor premiered John Cage's 4′33″ by marking three movements without intentional
+  notes, turning a roomful of incidental sound into the event.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-09-03'
-status: draft
-confidence: 94
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: evergreen-david-tudor-john-cage-4-33-premiere
 series: The Wider Lens
-image_query: pianist seated silently at grand piano wooden concert hall rain audience documentary
+image_query: pianist seated silently at grand piano wooden concert hall rain audience
+  documentary
 sources:
 - name: Museum of Modern Art — There Will Never Be Silence
   url: https://www.moma.org/calendar/exhibitions/1386
@@ -38,7 +40,9 @@ quiz:
   - Incidental sounds framed by three timed movements with no intentional notes
   - Four minutes and thirty-three seconds of guaranteed acoustic silence
   answer: 1
-  explanation: Tudor marked the work's three movements while playing no intentional notes. The surrounding sounds remained audible; the piece did not promise a soundless room.
+  explanation: Tudor marked the work's three movements while playing no intentional
+    notes. The surrounding sounds remained audible; the piece did not promise a soundless
+    room.
 ---
 
 ## BRIEFLY

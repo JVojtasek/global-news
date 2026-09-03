@@ -1,14 +1,15 @@
 ---
 slug: a-warranty-is-not-a-return-policy
 title: A Warranty Is Not a Return Policy
-dek: 'A receipt, a seller policy, a manufacturer promise and the law may all offer different routes when a product fails.'
+dek: A receipt, a seller policy, a manufacturer promise and the law may all offer
+  different routes when a product fails.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-09-03'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: ''
 event_id: evergreen-consumer-warranty-return-policy-rights
 series: The Wider Lens
-image_query: broken household appliance receipt warranty papers customer service desk neutral editorial
+image_query: broken household appliance receipt warranty papers customer service desk
+  neutral editorial
 sources:
 - name: Federal Trade Commission — Warranties
   url: https://consumer.ftc.gov/articles/warranties
@@ -38,13 +40,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: A shop's 30-day return window has closed, but a six-month-old appliance has developed a covered defect. What is the best first conclusion?
+  question: A shop's 30-day return window has closed, but a six-month-old appliance
+    has developed a covered defect. What is the best first conclusion?
   options:
   - Every possible remedy ended with the return window
-  - The return policy and defect remedies are separate, so the warranty and applicable legal rights still need checking
+  - The return policy and defect remedies are separate, so the warranty and applicable
+    legal rights still need checking
   - The manufacturer must issue an immediate refund in every country
   answer: 1
-  explanation: A voluntary return policy, a written warranty and statutory consumer rights are different layers. The available remedy depends on the promise, the defect, the seller and the applicable law.
+  explanation: A voluntary return policy, a written warranty and statutory consumer
+    rights are different layers. The available remedy depends on the promise, the
+    defect, the seller and the applicable law.
 ---
 
 ## BRIEFLY
