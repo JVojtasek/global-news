@@ -9,28 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Iran war: US military strikes Iran's Larak Island
-- id události: `edf475066b1f`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **DW News** — Iran war: US military strikes Iran's Larak Island
-    <https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf>
-    > The attack targeting Iranian rocket launchers in the Strait of Hormuz was the first in over a month. Iran's Revolutionary Guards have vowed retaliation. DW has the latest.
-  - **CNBC Top** — Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island
-    <https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html>
-    > Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.
-  - **Al Jazeera** — Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island
-    <https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss>
-    > US Central Command says its forces bombed two rocket launchers of the IRGC on Larak Island.
-  - **France 24** — Middle East Live: US strikes Iran for first time in a month as Tehran retaliates against Jordan base
-    <https://www.france24.com/en/middle-east/20260830-middle-east-live-us-strikes-iran-for-first-time-in-a-month>
-    > US forces struck Iranian rocket launchers on the Strait of Hormuz in their first military action in a month on Sunday, breaking a lull in fighting during an intermittent war that has lasted more than six months. Iran swiftly vowed to retaliate for what it called a deadly attack. 
-  - **Investing.com** — Oil prices climb after U.S. strikes Iranian launchers on Larak Island
-    <https://www.investing.com/news/commodities-news/oil-prices-climb-after-us-strikes-iranian-launchers-on-larak-island-4882083>
-  - **Investing.com** — Oil jumps more than 2% after US attack on Iran’s Larak island
-    <https://www.investing.com/news/commodities-news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island-4882075>
-
-### 2. Germany says Russia behind Leipzig airport drone attack
+### 1. Germany says Russia behind Leipzig airport drone attack
 - id události: `10a1cf734426`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -53,7 +32,7 @@
     <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
     > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
 
-### 3. Apple Maps changes Lake Ontario to Lake America after Trump order
+### 2. Apple Maps changes Lake Ontario to Lake America after Trump order
 - id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -73,7 +52,7 @@
     <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
     > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
 
-### 4. Barcola joins Liverpool from PSG in £123m move
+### 3. Barcola joins Liverpool from PSG in £123m move
 - id události: `fdcbb689323c`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -91,6 +70,26 @@
   - **Guardian Sport** — Bradley Barcola targets Premier League glory after joining Liverpool in £123m deal
     <https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg>
     > France international says title ‘one of my biggest dreams’ He is second winger to join in window, after Victor Muñoz Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint-Germain for an initial £106m, which could rise to £123m
+
+### 4. Jailed HK activist Joshua Wong pleads guilty to foreign collusion
+- id události: `8d4f8a634705`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Jailed HK activist Joshua Wong pleads guilty to foreign collusion
+    <https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss>
+    > Wong, 29, is already in prison on subversion charges under the controversial National Security Law.
+  - **The Guardian World** — Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case
+    <https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china>
+    > Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong , one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and
+  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty in national security case
+    <https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss>
+    > Pro-democracy activist faces life sentence in second case under Beijing's national security law.
+  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty to foreign collusion
+    <https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss>
+    > High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.
+  - **France 24** — Hong Kong democracy activist Joshua Wong pleads guilty to foreign collusion
+    <https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion>
+    > Hong Kong activist Joshua Wong on Wednesday pleaded guilty to colluding with foreign powers in a trial that could see the 29-year-old spend the rest of his life behind bars. Wong rose to international prominence for his involvement in the 2014 Umbrella Movement and the mass prote
 
 ---
 
@@ -128,7 +127,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-25  (2 zdrojů, síla 40)  US launches Economic war on Iran
   2026-08-26  (4 zdrojů, síla 66)  Iran faces strait of Hormuz paradox as strategic value of chokehold erodes
   2026-08-26  (3 zdrojů, síla 60)  Celtic deficiencies laid bare on another night of Champions League pain
   2026-08-26  (2 zdrojů, síla 40)  Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions
@@ -148,6 +146,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
   2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
   2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
+  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
