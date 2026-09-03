@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-03
 
-Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
+Paměť obsahuje **78 vláken**. Aktivních za posledních 14 dní: **36**.
 
 ---
 
@@ -63,9 +63,8 @@ Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 24 dní · 15 záznamů
+- rubrika `ai` · sledováno 24 dní · 16 záznamů
 - časová osa:
-  - **2026-08-26** (6 zdrojů) Unexpected chat between OpenAI agents led to Hugging Face hack
   - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
   - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
   - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
@@ -75,6 +74,7 @@ Paměť obsahuje **77 vláken**. Aktivních za posledních 14 dní: **35**.
   - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
   - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC
   - **2026-09-03** (5 zdrojů) Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
+  - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 7 dní · 15 záznamů

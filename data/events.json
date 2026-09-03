@@ -344,60 +344,109 @@
   ]
  },
  {
-  "id": "b041c95e70b8",
-  "headline": "Lionel Messi says he's retiring from playing internationally for Argentina",
-  "section": "world",
-  "score": 62,
+  "id": "f247281fba63",
+  "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+  "section": "business",
+  "score": 65,
   "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T16:37:05+00:00",
+  "depth_signal": 2,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T16:32:05+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-    "source": "NPR News",
-    "summary": "He said he wrote his retirement letter after the World Cup final in July, but waited to publish it because his father was facing health issues that eventually claimed his life.",
-    "published_at": "2026-08-31T16:37:05+00:00",
+    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+    "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+    "published_at": "2026-09-03T16:32:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    },
    {
-    "title": "Lionel Messi announces retirement from international football",
-    "url": "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
+    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+    "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+    "published_at": "2026-09-03T16:32:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Nvidia to buy Hugging Face in $12.93 billion deal",
+    "url": "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf",
     "source": "DW News",
-    "summary": "The Argentine legend announced that he will not play for the national team again, ending an illustrious international career.",
-    "published_at": "2026-08-31T15:30:00+00:00",
+    "summary": "The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.",
+    "published_at": "2026-09-03T12:47:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    },
    {
-    "title": "Argentina legend Lionel Messi retires from international football",
-    "url": "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Messi led Argentina to World Cup glory in 2022, but his side lost 1-0 to Spain in the 2026 final.",
-    "published_at": "2026-08-31T15:47:38+00:00",
+    "title": "What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues",
+    "url": "https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html",
+    "source": "CNBC Top",
+    "summary": "This is nothing new to the world of Big Tech.",
+    "published_at": "2026-09-03T18:14:30+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "341a230bd977",
+  "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+  "section": "tech",
+  "score": 65,
+  "sources_count": 4,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T18:01:45+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "source": "TechCrunch",
+    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+    "published_at": "2026-09-03T18:01:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    },
    {
-    "title": "🔴 Lionel Messi retires from Argentina national team after 21 years",
-    "url": "https://www.france24.com/en/sport/20260831-lionel-messi-retires-from-argentina-national-team-after-21-years",
-    "source": "France 24",
+    "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+    "source": "CNBC Top",
+    "summary": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
+    "published_at": "2026-09-03T18:00:02+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "source": "The Verge",
+    "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't […]",
+    "published_at": "2026-09-03T18:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "OpenAI launches new Astra model amid growing scrutiny over agents’ safety",
+    "url": "https://www.investing.com/news/economy-news/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-4888385",
+    "source": "Investing.com",
     "summary": "",
-    "published_at": "2026-08-31T15:31:43+00:00",
+    "published_at": "2026-09-03T18:06:28+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    },
    {
-    "title": "Lionel Messi retires from Argentina national team after 21 years",
-    "url": "https://www.france24.com/en/sport/20260831-lionel-messi-retires-from-argentina-national-team-after-21-years",
-    "source": "France 24",
-    "summary": "Lionel Messi said on Monday he is retiring from international football after leading Argentina to a second successive World Cup final in July.",
-    "published_at": "2026-08-31T15:30:55+00:00",
+    "title": "OpenAI launches GPT-6 Astra for enterprise users today",
+    "url": "https://www.investing.com/news/stock-market-news/openai-launches-gpt6-astra-for-enterprise-users-today-93CH-4888380",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-03T18:03:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -1198,46 +1247,6 @@
   ]
  },
  {
-  "id": "3e61bdbe7204",
-  "headline": "Cramer: Why Tim Cook deserves more credit for his accomplishments as Apple CEO",
-  "section": "tech",
-  "score": 50,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:16:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cramer: Why Tim Cook deserves more credit for his accomplishments as Apple CEO",
-    "url": "https://www.cnbc.com/2026/08/31/cramer-why-tim-cook-deserves-more-credit-for-his-accomplishments-as-apple-ceo.html",
-    "source": "CNBC Top",
-    "summary": "Tim Cook's defining achievement at Apple has been building an enduring consumer franchise through 15 years of changing technology and competition.",
-    "published_at": "2026-08-31T17:16:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
-    "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
-    "source": "TechCrunch",
-    "summary": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods and other major hardware lines",
-    "published_at": "2026-08-31T17:02:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "Read Tim Cook’s final message to Apple staff as CEO",
-    "url": "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff",
-    "source": "The Verge",
-    "summary": "Steve Jobs' successor carried the torch of the iPhone and built Apple into a global powerhouse with few rivals. Since becoming CEO in 2011, Tim Cook has led the company to become one of the most dominant forces in the daily lives of billions of people. Today is his last day as CEO. We'll have […]",
-    "published_at": "2026-08-31T16:30:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
   "id": "3a8a40ab3dcd",
   "headline": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
   "section": "tech",
@@ -1784,46 +1793,6 @@
   ]
  },
  {
-  "id": "20436c3fa08b",
-  "headline": "Trump threatens further action as US and Iran exchange fire in new flare-up",
-  "section": "world",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:13:55+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump threatens further action as US and Iran exchange fire in new flare-up",
-    "url": "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
-    "source": "The Guardian World",
-    "summary": "Washington says it acted after observing Iran was planning to deploy fresh mines in strait of Hormuz The US and Iran have exchanged fire for the first time in a month, with missiles and drones fired at Iranian rocket launchers on an island in the strait of Hormuz, and Iran targeting US military bases in Jordan and the United Arab Emirates in response. The US president, Donald Trump, on Monday thre",
-    "published_at": "2026-08-31T17:13:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "Vance says Trump ‘sending a message’ to Iran with AI-generated video",
-    "url": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Video depicting Kharg Island being attacked is later followed by more warnings from President Trump.",
-    "published_at": "2026-08-31T17:11:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes",
-    "url": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "US president promises to hit Iran and calls for the country's leaders to be prosecuted for killing protesters.",
-    "published_at": "2026-08-31T15:11:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
   "id": "4d05f8bb9094",
   "headline": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
   "section": "ai",
@@ -2161,6 +2130,77 @@
   ]
  },
  {
+  "id": "b3ca40609586",
+  "headline": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+  "section": "tech",
+  "score": 48,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:00:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+    "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+    "source": "CNBC Top",
+    "summary": "Xbox Game Pass subscribers will have cloud gaming capped starting in November.",
+    "published_at": "2026-09-03T17:00:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+    "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+    "source": "The Verge",
+    "summary": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 hours on Ultimate, […]",
+    "published_at": "2026-09-03T17:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+    "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+    "source": "The Verge",
+    "summary": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly subscription. \"Players […]",
+    "published_at": "2026-09-03T17:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ea175bcaebd9",
+  "headline": "HPE patches critical ArubaOS-CX remote code execution flaw",
+  "section": "safety",
+  "score": 48,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T18:28:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+    "source": "BleepingComputer",
+    "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+    "published_at": "2026-09-03T18:28:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+    "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+    "source": "The Hacker News",
+    "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version. The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is",
+    "published_at": "2026-09-03T15:52:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
   "id": "4c6288654d5b",
   "headline": "Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?",
   "section": "world",
@@ -2281,37 +2321,6 @@
     "published_at": "2026-09-03T09:07:28+00:00",
     "source_countries": [],
     "seen_at": "2026-09-03T09:28:55+00:00"
-   }
-  ]
- },
- {
-  "id": "f3dd30032a08",
-  "headline": "Pakistan drop seven players and release head coach",
-  "section": "sport",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T16:20:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Pakistan drop seven players and release head coach",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy9qqvwzxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Pakistan respond to their series defeat by England by taking the extraordinary step of dropping seven players, calling up five uncapped players and releasing their head coach.",
-    "published_at": "2026-08-31T16:20:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "Pakistan sack head coach and send seven players home after England Test series defeat",
-    "url": "https://www.theguardian.com/sport/2026/aug/31/pakistan-sack-head-coach-sarfaraz-ahmed-send-seven-players-home-after-england-test-series-defeat-cricket",
-    "source": "Guardian Sport",
-    "summary": "Sarfaraz Ahmed sacked after 194-run loss at Lord’s White-ball coach Mike Hesson steps in Pakistan have decided to rip up their plans during an already chaotic tour of England by announcing that seven players and head coach Sarfaraz Ahmed have been sent home before the third Test at Edgbaston next week. Already confirmed to lose the series after going 2-0 down with a 194-run defeat at Lord’s on Sun",
-    "published_at": "2026-08-31T16:37:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
    }
   ]
  },
@@ -2746,77 +2755,6 @@
   ]
  },
  {
-  "id": "de5690d7d612",
-  "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
-  "section": "tech",
-  "score": 45,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T18:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "source": "MIT TR — AI",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-    "published_at": "2026-08-31T18:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-    "published_at": "2026-08-31T18:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-    "source": "MIT Tech Review",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
-    "published_at": "2026-08-27T12:10:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
-  "id": "403d6e497feb",
-  "headline": "NASA’s Nancy Grace Roman Space Telescope Launches",
-  "section": "science",
-  "score": 45,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T14:10:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "NASA’s Nancy Grace Roman Space Telescope Launches",
-    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
-    "source": "NASA",
-    "summary": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency’s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, […]",
-    "published_at": "2026-08-31T14:10:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "NASA Deep Space Network’s New Goldstone Antenna Goes Online",
-    "url": "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-    "source": "NASA",
-    "summary": "Description Long shadows are cast by the recently completed Deep Space Station 23 at the Deep Space Network’s Goldstone complex near Barstow, California, in August 2026. A 34-meter (114-foot) multifrequency beam-waveguide antenna, DSS-23 will boost the DSN’s capacity and enhance NASA’s deep space communications capabilities for decades to come. NASA leadership and personnel as well […]",
-    "published_at": "2026-08-30T14:53:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
   "id": "71a58ed61b0e",
   "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
   "section": "business",
@@ -2937,6 +2875,37 @@
     "published_at": "2026-09-03T01:45:32+00:00",
     "source_countries": [],
     "seen_at": "2026-09-03T04:43:07+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0d7f2cee7e6c",
+  "headline": "Mas extends lead as Omrzel wins Vuelta stage 12",
+  "section": "sport",
+  "score": 45,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:20:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Mas extends lead as Omrzel wins Vuelta stage 12",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c770n8jez7ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Spain's Enric Mas extends his overall lead in the Vuelta a Espana with a late attack as Slovenia's Jakob Omrzel wins stage 12 to Calar Alto.",
+    "published_at": "2026-09-03T17:20:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Vuelta a España: Jakob Omrzel grabs first Grand Tour stage win as Enric Mas extends lead",
+    "url": "https://www.theguardian.com/sport/2026/sep/03/vuelta-a-espana-omrzel-grabs-first-grand-tour-stage-win-as-mas-extends-lead",
+    "source": "Guardian Sport",
+    "summary": "Slovenian wins stage 12 as Mas strengthens position Tim Merlier claims stage two in Tour of Britain Spain’s Enric Mas extended his overall lead in the Vuelta a España with a late attack on his rivals ⁠as Slovenia’s Jakob Omrzel won stage 12 to Calar Alto on Thursday. Movistar rider Mas burst out of a chasing group including red jersey contenders Primoz ⁠Roglic and Felix Gall ⁠with around ​13km of ",
+    "published_at": "2026-09-03T17:58:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -3451,6 +3420,37 @@
     "published_at": "2026-09-03T15:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-03T15:28:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ef4cc1dced0b",
+  "headline": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+  "section": "sport",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T16:30:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
+    "published_at": "2026-09-03T16:30:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
+    "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
+    "source": "Guardian Sport",
+    "summary": "Forward follows Gabriel Jesus out of champions Richarlison not in Tottenham’s Premier League squad Arsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the deal for Brazil forward includes a sell-on clause. Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad ",
+    "published_at": "2026-09-03T17:26:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -4655,33 +4655,64 @@
   ]
  },
  {
-  "id": "e8c45666a152",
-  "headline": "US singer D4vd's celebrity lawyers withdraw from murder case",
-  "section": "world",
-  "score": 41,
+  "id": "3c4a62dce6a4",
+  "headline": "Canada ready for a trade deal with US that benefits both, Carney says",
+  "section": "business",
+  "score": 42,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:54:23+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:18:39+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-    "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-    "published_at": "2026-08-31T17:54:23+00:00",
+    "title": "Canada ready for a trade deal with US that benefits both, Carney says",
+    "url": "https://www.aljazeera.com/economy/2026/9/3/canada-ready-for-a-trade-deal-with-us-that-benefits-both-carney-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Carney says Canada is ready for a deal that benefits both Canadian and US businesses and workers.",
+    "published_at": "2026-09-03T17:18:39+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    },
    {
-    "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-    "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-    "published_at": "2026-08-31T17:54:23+00:00",
+    "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+    "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+    "source": "CNBC Top",
+    "summary": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week.",
+    "published_at": "2026-09-03T16:06:13+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d568df2ae188",
+  "headline": "Meet the 2026 Ig Nobel Prize winners",
+  "section": "tech",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:00:37+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Meet the 2026 Ig Nobel Prize winners",
+    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+    "source": "Ars Technica",
+    "summary": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
+    "published_at": "2026-09-03T17:00:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Japanese scientist Shirakawa, co-winner of 2000 Nobel Prize in chemistry, dies at 90",
+    "url": "https://phys.org/news/2026-09-japanese-scientist-shirakawa-winner-nobel.html",
+    "source": "Phys.org",
+    "summary": "Japanese scientist Hideki Shirakawa, co-winner of the 2000 Nobel Prize in chemistry for discovering and developing conductive polymers, has died. He was 90.",
+    "published_at": "2026-09-03T16:20:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -5000,86 +5031,24 @@
   ]
  },
  {
-  "id": "a156df430f32",
-  "headline": "John Galliano exhibition at New York Met cancelled after backlash",
+  "id": "4156125c5f39",
+  "headline": "Historic Trove of Monets, Renoirs and Other Impressionist Masterpieces Expected to Fetch Up to $50 Million on Auction Block This Fall",
   "section": "culture",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T15:30:05+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "John Galliano exhibition at New York Met cancelled after backlash",
-    "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-    "published_at": "2026-08-31T15:30:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "John Galliano exhibition at New York Met cancelled after backlash",
-    "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-    "published_at": "2026-08-31T15:30:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
-  "id": "b6772066296d",
-  "headline": "AI could cause global economic downturn, Andrew Bailey warns G20",
-  "section": "business",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T16:49:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-    "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-    "published_at": "2026-08-31T16:49:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-    "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-    "published_at": "2026-08-31T16:49:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
-  "id": "415e9004e66e",
-  "headline": "Would You Eat a Cookie Made From Upcycled Plastic? Scientists Propose a New Way to Deal With Waste and Provide Food in Extreme Environments",
-  "section": "culture",
-  "score": 40,
+  "score": 41,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T15:42:33+00:00",
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:16:15+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Would You Eat a Cookie Made From Upcycled Plastic? Scientists Propose a New Way to Deal With Waste and Provide Food in Extreme Environments",
-    "url": "https://www.smithsonianmag.com/smart-news/would-you-eat-a-cookie-made-from-upcycled-plastics-scientists-propose-a-new-way-to-deal-with-waste-and-provide-food-in-extreme-environments-180989413/",
+    "title": "Historic Trove of Monets, Renoirs and Other Impressionist Masterpieces Expected to Fetch Up to $50 Million on Auction Block This Fall",
+    "url": "https://www.smithsonianmag.com/smart-news/historic-trove-of-monets-renoirs-and-other-impressionist-masterpieces-expected-to-fetch-up-to-50-million-on-auction-block-this-fall-180989448/",
     "source": "Smithsonian Mag",
-    "summary": "A team of researchers programmed yeast to turn broken-down plastic and agricultural waste into sweet treats called µBites. They might come in handy during deep-space missions or in disaster zones, although some critics say the food is impractical",
-    "published_at": "2026-08-31T15:42:33+00:00",
+    "summary": "More than 60 paintings from the private estate of Paul Durand-Ruel, who shepherded Impressionism out from obscurity, will be up for sale",
+    "published_at": "2026-09-03T17:16:15+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -5850,46 +5819,95 @@
   ]
  },
  {
-  "id": "f469fa3de109",
-  "headline": "A New Museum in Norway Is Bringing Visitors Into the World of Whales—From Life-Size Orcas to Immersive Underwater Exhibits",
-  "section": "culture",
-  "score": 39,
-  "sources_count": 1,
+  "id": "f6f8e16c5c1a",
+  "headline": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:57:00+00:00",
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T16:17:29+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "A New Museum in Norway Is Bringing Visitors Into the World of Whales—From Life-Size Orcas to Immersive Underwater Exhibits",
-    "url": "https://www.smithsonianmag.com/smart-news/a-new-museum-in-northern-norway-is-bringing-visitors-into-the-world-of-whales-from-life-size-orcas-to-immersive-underwater-exhibits-180989421/",
-    "source": "Smithsonian Mag",
-    "summary": "Opening in 2027, The Whale will explore the science, behavior, evolution and cultural history of whales through art, storytelling, sound and architecture",
-    "published_at": "2026-08-31T17:57:00+00:00",
+    "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
+    "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
+    "source": "The Guardian World",
+    "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources The Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”. In her first public comments since Trump announced what he called “the biggest oil de",
+    "published_at": "2026-09-03T16:17:29+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
+    "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
+    "source": "Guardian Business",
+    "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources The Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”. In her first public comments since Trump announced what he called “the biggest oil de",
+    "published_at": "2026-09-03T16:17:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
  {
-  "id": "11940a5cb009",
-  "headline": "Thieves Steal 3,000-Year-Old Treasure in a 'Super-Professional' Museum Heist That Took Only Four Minutes",
-  "section": "culture",
-  "score": 39,
-  "sources_count": 1,
+  "id": "43e6eee6779c",
+  "headline": "Fox News star Maria Bartiromo is out at the network",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:11:11+00:00",
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T18:05:57+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Thieves Steal 3,000-Year-Old Treasure in a 'Super-Professional' Museum Heist That Took Only Four Minutes",
-    "url": "https://www.smithsonianmag.com/smart-news/thieves-steal-3000-year-old-treasure-in-a-super-professional-museum-heist-that-took-only-four-minutes-180989418/",
-    "source": "Smithsonian Mag",
-    "summary": "Officials were shaken after dozens of ancient artifacts vanished from the local archaeological museum in Villena, Spain. The thieves left only a few pieces from the Bronze Age treasure behind",
-    "published_at": "2026-08-31T17:11:11+00:00",
+    "title": "Fox News star Maria Bartiromo is out at the network",
+    "url": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
+    "source": "NPR News",
+    "summary": "Fox News suddently announced it had cut ties with anchor Maria Bartiromo after more than a dozen years.",
+    "published_at": "2026-09-03T18:05:57+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Fox News parts ways with longtime host Maria Bartiromo",
+    "url": "https://www.cnbc.com/2026/09/03/fox-news-host-maria-bartiromo-leaves.html",
+    "source": "CNBC Top",
+    "summary": "The company's statement did not specify the reasons for the separation.",
+    "published_at": "2026-09-03T18:28:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a6ba786dfb92",
+  "headline": "Cancer cells release antioxidants to prevent immune cells from destroying them",
+  "section": "science",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T18:00:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Cancer cells release antioxidants to prevent immune cells from destroying them",
+    "url": "https://medicalxpress.com/news/2026-09-cancer-cells-antioxidants-immune-destroying.html",
+    "source": "Medical Xpress",
+    "summary": "Molecules called reactive oxygen species, which include so-called \"free radicals,\" have long been viewed as damaging byproducts of our body's metabolism—a reason antioxidant supplements have been considered a potential way to reduce cancer risk.",
+    "published_at": "2026-09-03T18:00:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Bacterial nanoplatform reprograms spleen immune cells to help prevent cancer recurrence",
+    "url": "https://phys.org/news/2026-09-bacterial-nanoplatform-reprograms-spleen-immune.html",
+    "source": "Phys.org",
+    "summary": "A research team led by Professor Yong Taik Lim at the SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, have developed an engineered nanoplatform named t-SMC (trained immunity-mediated splenic myelopoiesis converter), which precisely targets the spleen to reverse splenic myelopoiesis toward an antitumoral immune phenotype. The research is published in the journal Advanced",
+    "published_at": "2026-09-03T16:00:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -6389,55 +6407,33 @@
   ]
  },
  {
-  "id": "1c9ffcd8b2f4",
-  "headline": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-  "section": "world",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:30:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-    "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
-    "published_at": "2026-08-31T17:30:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   }
-  ]
- },
- {
-  "id": "d96d8ff96cdf",
-  "headline": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
-  "section": "business",
-  "score": 38,
+  "id": "61cc36a53658",
+  "headline": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+  "section": "tech",
+  "score": 39,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:32:02+00:00",
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T16:42:54+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
-    "url": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
-    "source": "CNBC Top",
-    "summary": "\"China could not be happier with this anti Data Center movement,\" Trump said as Republicans express concerns about the backlash to data centers.",
-    "published_at": "2026-08-31T17:32:02+00:00",
+    "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+    "source": "TechCrunch",
+    "summary": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
+    "published_at": "2026-09-03T16:42:54+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    },
    {
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "source": "The Verge AI",
-    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites […]",
-    "published_at": "2026-08-28T16:28:40+00:00",
+    "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
+    "url": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
+    "source": "The Verge",
+    "summary": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited […]",
+    "published_at": "2026-09-03T16:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -7163,24 +7159,33 @@
   ]
  },
  {
-  "id": "988fd9a5a390",
-  "headline": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:06:39+00:00",
+  "id": "8394a8a36d91",
+  "headline": "Google launches AI voice features in Gmail, Docs, and Keep",
+  "section": "tech",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T16:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Paperwork, lines, hours on hold: There's a 'Time Tax' on Americans who need help most",
-    "url": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
-    "source": "NPR News",
-    "summary": "Annie Lowrey explores the administrative burdens people face applying for government benefits. It's not just about wasted time: \"When the government treats us like this, we don't trust it,\" she says.",
-    "published_at": "2026-08-31T17:06:39+00:00",
+    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+    "source": "TechCrunch",
+    "summary": "Users can search for emails or draft documents using the new conversational feature.",
+    "published_at": "2026-09-03T16:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "source": "The Verge AI",
+    "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down […]",
+    "published_at": "2026-09-03T16:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -7887,33 +7892,24 @@
   ]
  },
  {
-  "id": "865d378db744",
-  "headline": "Aston Villa v Arsenal: Premier League – live",
-  "section": "sport",
-  "score": 36,
-  "sources_count": 2,
+  "id": "ca5a29e6bdd6",
+  "headline": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+  "section": "culture",
+  "score": 37,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T18:21:26+00:00",
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:30:44+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Aston Villa v Arsenal: Premier League – live",
-    "url": "https://www.theguardian.com/football/live/2026/aug/31/aston-villa-v-arsenal-premier-league-live",
-    "source": "Guardian Sport",
-    "summary": "⚽️ Premier League updates from the 8pm BST kick-off ⚽️ Email Scott and follow us on TikTok and Bluesky Unai Emery’s turn to talk to Sky. “Good evening … the first match was not as planned but we must keep going forward … today we are playing at home, the first match, the second day of the Premier League … we are looking forward to how we are going to respond … we need to do that as soon as possibl",
-    "published_at": "2026-08-31T18:21:26+00:00",
+    "title": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+    "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
+    "source": "Guardian Culture",
+    "summary": "Venice film festival: Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromanti",
+    "published_at": "2026-09-03T17:30:44+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "LIVE: Aston Villa vs Arsenal – Premier League",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/8/31/live-aston-villa-vs-arsenal-premier-league?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "As Villa host Arsenal, follow updates, including the build-up, analysis and live text commentary, of the game.",
-    "published_at": "2026-08-31T16:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -8580,55 +8576,90 @@
   ]
  },
  {
-  "id": "fa82ca62e01d",
-  "headline": "🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer",
+  "id": "5e6d2ae88266",
+  "headline": "Sabotage, leaks and political ties: the story of the Daphne Caruana Galizia murder trial",
   "section": "world",
-  "score": 35,
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T13:18:35+00:00",
+  "depth_signal": 2,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:13:22+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "🔴 Football: French forward Bradley Barcola joins Liverpool from PSG in record-breaking Ligue 1 transfer",
-    "url": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-    "source": "France 24",
-    "summary": "",
-    "published_at": "2026-08-31T13:18:35+00:00",
+    "title": "Sabotage, leaks and political ties: the story of the Daphne Caruana Galizia murder trial",
+    "url": "https://www.theguardian.com/world/2026/sep/03/sabotage-leaks-and-political-ties-the-story-of-the-daphne-caruana-galizia-trial",
+    "source": "The Guardian World",
+    "summary": "A Maltese businessman has been cleared of involvement in the journalist’s death, but his trial revealed the challenges faced by those leading the search for her killers The conclusion of the longest-running murder trial in Maltese history has left a country in turmoil, and a grieving family still searching for answers. At 7.30pm on Wednesday, gasps and cheers echoed around hall 22 of the courts of",
+    "published_at": "2026-09-03T17:13:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
-   },
-   {
-    "title": "Bradley Barcola joins Liverpool from PSG for record fee",
-    "url": "https://www.france24.com/en/sport/20260831-bradley-barcola-joins-liverpool-from-psg-for-record-fee",
-    "source": "France 24",
-    "summary": "Liverpool ⁠have signed ​France forward Bradley Barcola ​from European champions Paris Saint-Germain on a long-term contract, ​the ‌Premier League ⁠club said on Monday, making ‌him the latest marquee addition ⁠to their frontline. The whopping fee is estimated to be around £120 million and makes him the most expensive player to leave the French league.",
-    "published_at": "2026-08-31T13:17:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
  {
-  "id": "60b9f70c587d",
-  "headline": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
-  "section": "business",
-  "score": 35,
+  "id": "ba7f6688b285",
+  "headline": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
+  "section": "health",
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-08-31T18:30:54+00:00",
-  "event_time": "2026-08-31T17:10:12+00:00",
+  "depth_signal": 2,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-01T08:42:10+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
-    "url": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
-    "source": "CNBC Top",
-    "summary": "These are some of the stocks posting the largest moves midday.",
-    "published_at": "2026-08-31T17:10:12+00:00",
+    "title": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
+    "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
+    "published_at": "2026-09-01T08:42:10+00:00",
     "source_countries": [],
-    "seen_at": "2026-08-31T18:30:51+00:00"
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a8629af1ed23",
+  "headline": "A Signature Hawaiian Textile With a Rich History Is Making a Splash in the Fashion World",
+  "section": "culture",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T15:27:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "A Signature Hawaiian Textile With a Rich History Is Making a Splash in the Fashion World",
+    "url": "https://www.smithsonianmag.com/travel/a-signature-hawaiian-textile-with-a-rich-history-is-making-a-splash-in-the-fashion-world-180989443/",
+    "source": "Smithsonian Mag",
+    "summary": "The blocky, plaid palaka design has evolved beyond its roots as simple workwear, crossing over ethnic and class lines as a symbol of local pride",
+    "published_at": "2026-09-03T15:27:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c3381920332f",
+  "headline": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+  "section": "safety",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-08-31T13:50:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+    "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "source": "The Hacker News",
+    "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept",
+    "published_at": "2026-08-31T13:50:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -8981,6 +9012,81 @@
   ]
  },
  {
+  "id": "62a156b976eb",
+  "headline": "England power to easy victory and claim series win over Ireland",
+  "section": "sport",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-09-03T17:50:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "England power to easy victory and claim series win over Ireland",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/c2l8zjrrz7do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "England seal a series win, thrashing Ireland by six wickets with 27 overs to spare in the second One Day International in Derby.",
+    "published_at": "2026-09-03T17:50:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   },
+   {
+    "title": "Wong stars as England thump Ireland to seal series",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/czxz1v7xyk9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-match series with a game to spare.",
+    "published_at": "2026-09-03T17:26:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d148a685ab93",
+  "headline": "Tribute to Dolly Parton: Country Music Star and Childhood Literacy Champion Giving Free Books to Kids (1946-2026)",
+  "section": "goodnews",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-08-26T13:00:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tribute to Dolly Parton: Country Music Star and Childhood Literacy Champion Giving Free Books to Kids (1946-2026)",
+    "url": "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/",
+    "source": "Good News Network",
+    "summary": "Dolly Parton passed away yesterday at age 80 following a brief battle with cancer. She leaves behind a legacy captured in many GNN stories; one of championing childhood literacy, uplifting Americans of every gender, color, and creed, and of several enduring musical hits in the country genre. Multiple reports from family detail that she passed […] The post Tribute to Dolly Parton: Country Music Sta",
+    "published_at": "2026-08-26T13:00:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "62520fb19d8c",
+  "headline": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-03T18:31:26+00:00",
+  "event_time": "2026-08-31T12:14:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+    "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+    "source": "The Hacker News",
+    "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
+    "published_at": "2026-08-31T12:14:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-03T18:31:23+00:00"
+   }
+  ]
+ },
+ {
   "id": "135ba37aedc8",
   "headline": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
   "section": "world",
@@ -9125,94 +9231,6 @@
     "source": "Guardian Culture",
     "summary": "Amelia Dimoldenberg’s series helped turn YouTube into a world-beating phenomenon. As it bows out, we remember its best bits – from mocking MC Ghetts to that sizzling tension with Billie Eilish and Andrew Garfield When Amelia Dimoldenberg posted a video to social media this week, telling an unknown companion “we need to talk”, it felt like a monumental announcement was on the horizon. And so it cam",
     "published_at": "2026-09-03T12:42:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "c278e02308c3",
-  "headline": "‘My work has always been serious’: Maurizio Cattelan on his $6m banana, his gold toilet – and bringing Hitler to Berlin",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T04:00:42+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘My work has always been serious’: Maurizio Cattelan on his $6m banana, his gold toilet – and bringing Hitler to Berlin",
-    "url": "https://www.theguardian.com/artanddesign/2026/sep/03/maurizio-cattelan-art-world-prankster-religion-bananas-hitler",
-    "source": "Guardian Culture",
-    "summary": "He is famed for creating a golden loo that was stolen and a $6m banana that was eaten. But, says the sculptor ahead of a major new show in Germany, there’s more to his work than pranks and provocation Maurizio Cattelan, the art world’s merriest prankster, pauses when asked which object in his sprawling new Berlin show is most likely to be defaced, stolen or eaten, then emits a foghorn of a laugh. ",
-    "published_at": "2026-09-03T04:00:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "ee56fc0ccef6",
-  "headline": "Chad Powers season two review – Glen Powell’s sweet sports comedy scores a touchdown",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T09:00:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Chad Powers season two review – Glen Powell’s sweet sports comedy scores a touchdown",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/03/chad-powers-season-two-review-disney-plus-glen-powell",
-    "source": "Guardian Culture",
-    "summary": "The Hollywood hottie is back as the quarterback in disguise, in an oddball comedy that is naughty, lovable and disarmingly unique In the first episode of season two of Chad Powers, there is but one concern: the main character’s nose has fallen off. The TV outlet for the wacky side of movie hottie Glen Powell, Chad Powers presents itself to us having willingly taken on the burden of a ludicrous pre",
-    "published_at": "2026-09-03T09:00:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "af8870ed46cc",
-  "headline": "Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-08-27T23:44:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?",
-    "url": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope in a pandemic-riddled world.",
-    "published_at": "2026-08-27T23:44:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "61ec2d5bc042",
-  "headline": "Teenager in Wales given detention sentence for stabbing teacher in head",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T13:01:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Teenager in Wales given detention sentence for stabbing teacher in head",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/03/teenager-wales-sentenced-youth-detention-stabbing-attack-teacher",
-    "source": "The Guardian World",
-    "summary": "Judge voices concern about possible copycat incidents after boy, 16, found guilty over attack at school in Pembrokeshire A judge has expressed concern over possible copycat attacks on school staff as he sentenced a teenager who stabbed a teacher in the head to four and a half years in youth detention. Judge Thomas KC said it was the second such attack in south-west Wales in two years and that the ",
-    "published_at": "2026-09-03T13:01:54+00:00",
     "source_countries": [],
     "seen_at": "2026-09-03T15:28:42+00:00"
    }
