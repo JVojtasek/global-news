@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-02
+# ZADÁNÍ PRO REDAKCI — 2026-09-03
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -96,16 +96,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### investing for beginners
-- rubrika: `meaning`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „how does investing work for beginners“
-  - „how much to start investing for beginners“
-  - „how much should i invest as a beginner“
+### ancient rome
+- rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
-  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
+  - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
+  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
 
 ---
 
