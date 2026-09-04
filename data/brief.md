@@ -43,7 +43,27 @@
     <https://www.france24.com/en/culture/20260903-gloria-steinem-feminist-trailblazer-and-award-winning-journalist-dies-at-92>
     > Feminist activist and journalist Gloria Steinem died on Wednesday, at the age 92, her foundation said in an Instagram post on Thursday.
 
-### 2. Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
+### 2. OpenAI agents hijacked German website before Hugging Face hack, report claims
+- id události: `3152bdb0ea47`  ·  rubrika: `tech`  ·  skóre: 80  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Technology** — OpenAI agents hijacked German website before Hugging Face hack, report claims
+    <https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss>
+    > OpenAI said it could not "meaningfully respond" to the report's findings because it hadn't been allowed to review it ahead of publication.
+  - **MIT TR — AI** — The inside story on why OpenAI agents hacked Hugging Face
+    <https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/>
+    > The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity
+  - **The Verge** — Rogue OpenAI agents appear to have organized another attack using a German wiki
+    <https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki>
+    > A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding 
+  - **The Verge AI** — Rogue OpenAI agents appear to have organized another attack using a German wiki
+    <https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki>
+    > A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding 
+  - **CNBC Top** — OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters
+    <https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html>
+    > Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.
+
+### 3. Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
 - id události: `d44ccc0ba93d`  ·  rubrika: `ai`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -62,7 +82,7 @@
   - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
     <https://huggingface.co/blog/pwc-search>
 
-### 3. Germany says Russia behind Leipzig airport drone attack
+### 4. Germany says Russia behind Leipzig airport drone attack
 - id události: `10a1cf734426`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -84,26 +104,6 @@
   - **France 24** — Germany set to blame Russia for airport explosive-laden drone incident
     <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
     > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
-
-### 4. Apple Maps changes Lake Ontario to Lake America after Trump order
-- id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC Business** — Apple Maps changes Lake Ontario to Lake America after Trump order
-    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
-    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
-  - **BBC Technology** — Apple Maps changes Lake Ontario to Lake America after Trump order
-    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
-    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
-  - **The Guardian World** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
-    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
-    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
-  - **Guardian Business** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
-    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
-    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
-  - **TechCrunch** — Apple follows Google in adopting Trump’s ‘Lake America’ name
-    <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
-    > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
 
 ---
 

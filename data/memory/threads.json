@@ -937,6 +937,828 @@
    ]
   },
   {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "nepal",
+    "canada",
+    "germany",
+    "netanyahu",
+    "parton",
+    "france",
+    "dutch",
+    "ben-gvir",
+    "hind",
+    "american",
+    "many",
+    "dolly",
+    "hamas",
+    "rajab",
+    "news",
+    "labour",
+    "israel",
+    "colombia",
+    "palestine",
+    "palestinian",
+    "italy",
+    "city",
+    "gaza",
+    "burnham",
+    "amos",
+    "multiple",
+    "israel's",
+    "christian",
+    "gitai",
+    "jenin",
+    "global",
+    "far-right",
+    "former",
+    "us-led",
+    "israeli",
+    "palestinians",
+    "week",
+    "west",
+    "bank"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c",
+    "727b036de961",
+    "d9fabac5169e",
+    "dd3e8e775a11",
+    "a6b6f34c8e21",
+    "bdaf2e87b992",
+    "f0db32b6db43",
+    "50063425df92",
+    "a0e824c0fefc",
+    "e28573af70a1",
+    "be74360785ae",
+    "5e2205225644",
+    "0f7415ce5b12",
+    "5a37c8f3f9af",
+    "f1f5dde9d5e4",
+    "4dbfa63e7365",
+    "ddc89ece41e7",
+    "a7f4b944d680",
+    "80ad369697ca",
+    "5bd816fda1dc",
+    "1452b76e2d1a",
+    "4e4cfa70881f",
+    "7e2a725de566"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "sources": 3,
+     "score": 59,
+     "event_id": "09443cca3ddd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
+      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
+     "sources": 2,
+     "score": 48,
+     "event_id": "69fbd7c00f3b",
+     "links": [
+      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
+      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c56a140b572c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
+     "sources": 2,
+     "score": 50,
+     "event_id": "727b036de961",
+     "links": [
+      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
+     "sources": 2,
+     "score": 49,
+     "event_id": "d9fabac5169e",
+     "links": [
+      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
+      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dd3e8e775a11",
+     "links": [
+      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a6b6f34c8e21",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdaf2e87b992",
+     "links": [
+      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+     "sources": 2,
+     "score": 47,
+     "event_id": "f0db32b6db43",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+     "sources": 3,
+     "score": 61,
+     "event_id": "50063425df92",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
+      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a0e824c0fefc",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e28573af70a1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be74360785ae",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
+     "sources": 2,
+     "score": 54,
+     "event_id": "5e2205225644",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
+      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
+      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0f7415ce5b12",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5a37c8f3f9af",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
+      "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f1f5dde9d5e4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+     "sources": 1,
+     "score": 40,
+     "event_id": "4dbfa63e7365",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
+     "sources": 2,
+     "score": 43,
+     "event_id": "ddc89ece41e7",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+     "sources": 3,
+     "score": 57,
+     "event_id": "a7f4b944d680",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+     "sources": 2,
+     "score": 46,
+     "event_id": "80ad369697ca",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
+     "sources": 2,
+     "score": 52,
+     "event_id": "5bd816fda1dc",
+     "links": [
+      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
+      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Israeli fire kills three in Gaza City during reported raid, medics say",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1452b76e2d1a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Palestinian teens killed during settler attack on West Bank village, officials say",
+     "sources": 2,
+     "score": 48,
+     "event_id": "4e4cfa70881f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+     "sources": 2,
+     "score": 47,
+     "event_id": "7e2a725de566",
+     "links": [
+      "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "exploit",
+    "cnbc",
+    "nvidia",
+    "openai",
+    "unexpected",
+    "hacking",
+    "github",
+    "breach",
+    "drove",
+    "face",
+    "huang",
+    "detailed",
+    "nvidia's",
+    "cyberattack",
+    "agents",
+    "nearly",
+    "hugging",
+    "reward",
+    "zero-days",
+    "german",
+    "timeline",
+    "alabama"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6",
+    "3544561ca685",
+    "df3a38888008",
+    "0321378bd042",
+    "69b225fb598b",
+    "de5690d7d612",
+    "e4222c90706c",
+    "a0f5f526129b",
+    "d44ccc0ba93d",
+    "f247281fba63",
+    "3152bdb0ea47"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+     "sources": 3,
+     "score": 57,
+     "event_id": "df3a38888008",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+     "sources": 3,
+     "score": 50,
+     "event_id": "0321378bd042",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+     "sources": 4,
+     "score": 71,
+     "event_id": "69b225fb598b",
+     "links": [
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
+     "sources": 2,
+     "score": 45,
+     "event_id": "de5690d7d612",
+     "links": [
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e4222c90706c",
+     "links": [
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
+     "sources": 3,
+     "score": 50,
+     "event_id": "a0f5f526129b",
+     "links": [
+      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+     "sources": 5,
+     "score": 75,
+     "event_id": "d44ccc0ba93d",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+     "sources": 4,
+     "score": 65,
+     "event_id": "f247281fba63",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+     "sources": 5,
+     "score": 80,
+     "event_id": "3152bdb0ea47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8a4f53de3494",
+   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+   "section": "world",
+   "entities": [
+    "farage",
+    "polls",
+    "binface",
+    "futile",
+    "nigel",
+    "reform",
+    "count",
+    "clacton"
+   ],
+   "event_ids": [
+    "8a4f53de3494",
+    "a7a35c7660a5",
+    "ad706d5a5e94",
+    "5a0bc875861a",
+    "8731e6398ae7"
+   ],
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-08-14",
+     "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+     "sources": 3,
+     "score": 60,
+     "event_id": "8a4f53de3494",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
+      "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a7a35c7660a5",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+      "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Clacton by-election: Farage may win the town, but can he win the country?",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad706d5a5e94",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Futile Clacton byelection has done Farage no favours",
+     "sources": 5,
+     "score": 75,
+     "event_id": "5a0bc875861a",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
+      "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
+      "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
+     "sources": 3,
+     "score": 58,
+     "event_id": "8731e6398ae7",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
+      "https://www.theguardian.com/commentisfree/2026/sep/04/nigel-farage-reform-shadowy-foreign-donor-establishment-stitch-up",
+      "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e138211becc3",
+   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+   "section": "tech",
+   "entities": [
+    "google",
+    "meet",
+    "robotics",
+    "friday",
+    "flash",
+    "gemini",
+    "transcribe",
+    "deepmind",
+    "ai-powered"
+   ],
+   "event_ids": [
+    "e138211becc3",
+    "cf3951101d71",
+    "b0c60d5e22ba",
+    "29ae84aa2a01"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+     "sources": 4,
+     "score": 59,
+     "event_id": "e138211becc3",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cf3951101d71",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+     "sources": 3,
+     "score": 49,
+     "event_id": "b0c60d5e22ba",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29ae84aa2a01",
+     "links": [
+      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ca58672fbc86",
+   "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+   "section": "world",
+   "entities": [
+    "gloria",
+    "feminist",
+    "steinem"
+   ],
+   "event_ids": [
+    "ca58672fbc86",
+    "3fa4ac96d872",
+    "2e86d0b0e1b8"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+     "sources": 7,
+     "score": 88,
+     "event_id": "ca58672fbc86",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
+     "sources": 2,
+     "score": 55,
+     "event_id": "3fa4ac96d872",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
+      "https://www.npr.org/2026/09/03/nx-s1-5955479/gloria-steinem-fresh-air"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Gloria Steinem: A life in pictures",
+     "sources": 2,
+     "score": 51,
+     "event_id": "2e86d0b0e1b8",
+     "links": [
+      "https://www.theguardian.com/books/gallery/2026/sep/03/gloria-steinem-a-life-in-pictures",
+      "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-best-quotes",
+      "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "0aa45abf75b4",
    "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
    "section": "world",
@@ -1795,588 +2617,6 @@
    ]
   },
   {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "colombia",
-    "palestine",
-    "italy",
-    "global",
-    "israel",
-    "hamas",
-    "christian",
-    "burnham",
-    "far-right",
-    "france",
-    "city",
-    "jenin",
-    "former",
-    "bank",
-    "netanyahu",
-    "palestinian",
-    "news",
-    "germany",
-    "west",
-    "hind",
-    "dolly",
-    "us-led",
-    "week",
-    "gaza",
-    "israel's",
-    "palestinians",
-    "rajab",
-    "israeli",
-    "parton",
-    "nepal",
-    "ben-gvir",
-    "american",
-    "canada",
-    "labour",
-    "multiple",
-    "dutch"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b",
-    "c56a140b572c",
-    "727b036de961",
-    "d9fabac5169e",
-    "dd3e8e775a11",
-    "a6b6f34c8e21",
-    "bdaf2e87b992",
-    "f0db32b6db43",
-    "50063425df92",
-    "a0e824c0fefc",
-    "e28573af70a1",
-    "be74360785ae",
-    "5e2205225644",
-    "0f7415ce5b12",
-    "5a37c8f3f9af",
-    "f1f5dde9d5e4",
-    "4dbfa63e7365",
-    "ddc89ece41e7",
-    "a7f4b944d680",
-    "80ad369697ca",
-    "5bd816fda1dc",
-    "1452b76e2d1a",
-    "4e4cfa70881f"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-09-03",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
-     "sources": 3,
-     "score": 59,
-     "event_id": "09443cca3ddd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260813-us-ambassador-to-israel-slams-settler-siege-against-west-bank-palestinians-terror",
-      "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Israeli military moves as settlers besiege 3 West Bank homes",
-     "sources": 2,
-     "score": 48,
-     "event_id": "69fbd7c00f3b",
-     "links": [
-      "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260813-west-bank-in-recent-weeks-we-ve-seen-a-striking-escalation-in-violent-acts",
-      "https://www.france24.com/en/video/20260813-west-bank-what-we-see-is-an-escalation-in-methods"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c56a140b572c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
-      "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "US urges Netanyahu to condemn settlers besieging Palestinians in West Bank",
-     "sources": 2,
-     "score": 50,
-     "event_id": "727b036de961",
-     "links": [
-      "https://www.france24.com/en/us-urges-netanyahu-to-condemn-settlers-besieging-palestinians-in-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9fabac5169e",
-     "links": [
-      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-     "sources": 1,
-     "score": 43,
-     "event_id": "dd3e8e775a11",
-     "links": [
-      "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-      "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a6b6f34c8e21",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdaf2e87b992",
-     "links": [
-      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-     "sources": 2,
-     "score": 47,
-     "event_id": "f0db32b6db43",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-military-to-open-criminal-probes-into-2-gaza-attacks/a-78429726?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-     "sources": 3,
-     "score": 61,
-     "event_id": "50063425df92",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
-      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a0e824c0fefc",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e28573af70a1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be74360785ae",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-     "sources": 2,
-     "score": 54,
-     "event_id": "5e2205225644",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
-      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0f7415ce5b12",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
-     "sources": 2,
-     "score": 43,
-     "event_id": "5a37c8f3f9af",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
-      "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-     "sources": 2,
-     "score": 44,
-     "event_id": "f1f5dde9d5e4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
-     "sources": 1,
-     "score": 40,
-     "event_id": "4dbfa63e7365",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-     "sources": 2,
-     "score": 43,
-     "event_id": "ddc89ece41e7",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-     "sources": 3,
-     "score": 57,
-     "event_id": "a7f4b944d680",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
-     "sources": 2,
-     "score": 46,
-     "event_id": "80ad369697ca",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
-     "sources": 2,
-     "score": 52,
-     "event_id": "5bd816fda1dc",
-     "links": [
-      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
-      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Israeli fire kills three in Gaza City during reported raid, medics say",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1452b76e2d1a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Palestinian teens killed during settler attack on West Bank village, officials say",
-     "sources": 2,
-     "score": 48,
-     "event_id": "4e4cfa70881f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "entities": [
-    "hacking",
-    "detailed",
-    "openai",
-    "nvidia's",
-    "nvidia",
-    "face",
-    "zero-days",
-    "nearly",
-    "timeline",
-    "cyberattack",
-    "unexpected",
-    "agents",
-    "drove",
-    "huang",
-    "alabama",
-    "reward",
-    "exploit",
-    "hugging",
-    "cnbc",
-    "breach",
-    "github"
-   ],
-   "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4",
-    "bd2de1c640b6",
-    "3544561ca685",
-    "df3a38888008",
-    "0321378bd042",
-    "69b225fb598b",
-    "de5690d7d612",
-    "e4222c90706c",
-    "a0f5f526129b",
-    "d44ccc0ba93d",
-    "f247281fba63"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-09-03",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-     "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
-     "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
-     "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
-     "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-     "sources": 3,
-     "score": 57,
-     "event_id": "df3a38888008",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-     "sources": 3,
-     "score": 50,
-     "event_id": "0321378bd042",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-     "sources": 4,
-     "score": 71,
-     "event_id": "69b225fb598b",
-     "links": [
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
-     "sources": 2,
-     "score": 45,
-     "event_id": "de5690d7d612",
-     "links": [
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e4222c90706c",
-     "links": [
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
-     "sources": 3,
-     "score": 50,
-     "event_id": "a0f5f526129b",
-     "links": [
-      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "sources": 5,
-     "score": 75,
-     "event_id": "d44ccc0ba93d",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "sources": 4,
-     "score": 65,
-     "event_id": "f247281fba63",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1377348ebb36",
    "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
    "section": "business",
@@ -2754,48 +2994,6 @@
      "links": [
       "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
       "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ca58672fbc86",
-   "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-   "section": "world",
-   "entities": [
-    "gloria",
-    "steinem",
-    "feminist"
-   ],
-   "event_ids": [
-    "ca58672fbc86",
-    "3fa4ac96d872"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-09-03",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-     "sources": 7,
-     "score": 88,
-     "event_id": "ca58672fbc86",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
-     "sources": 2,
-     "score": 55,
-     "event_id": "3fa4ac96d872",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
-      "https://www.npr.org/2026/09/03/nx-s1-5955479/gloria-steinem-fresh-air"
      ]
     }
    ]
@@ -3295,62 +3493,6 @@
       "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
       "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
       "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e138211becc3",
-   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-   "section": "tech",
-   "entities": [
-    "google",
-    "flash",
-    "ai-powered",
-    "transcribe",
-    "gemini"
-   ],
-   "event_ids": [
-    "e138211becc3",
-    "cf3951101d71",
-    "b0c60d5e22ba"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-09-02",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-     "sources": 4,
-     "score": 59,
-     "event_id": "e138211becc3",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cf3951101d71",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-     "sources": 3,
-     "score": 49,
-     "event_id": "b0c60d5e22ba",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
      ]
     }
    ]
@@ -5863,76 +6005,6 @@
    ]
   },
   {
-   "id": "8a4f53de3494",
-   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
-   "section": "world",
-   "entities": [
-    "nigel",
-    "farage",
-    "futile",
-    "count",
-    "clacton",
-    "polls",
-    "binface"
-   ],
-   "event_ids": [
-    "8a4f53de3494",
-    "a7a35c7660a5",
-    "ad706d5a5e94",
-    "5a0bc875861a"
-   ],
-   "first_seen": "2026-08-14",
-   "last_seen": "2026-08-14",
-   "timeline": [
-    {
-     "date": "2026-08-14",
-     "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
-     "sources": 3,
-     "score": 60,
-     "event_id": "8a4f53de3494",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
-      "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a7a35c7660a5",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-      "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Clacton by-election: Farage may win the town, but can he win the country?",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ad706d5a5e94",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Futile Clacton byelection has done Farage no favours",
-     "sources": 5,
-     "score": 75,
-     "event_id": "5a0bc875861a",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
-      "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-      "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
    "id": "ecebd07d0359",
    "title": "Bezos-backed consortium buys a third of Liverpool",
    "section": "sport",
@@ -6323,5 +6395,5 @@
    ]
   }
  ],
- "updated": "2026-09-04T12:36:15+00:00"
+ "updated": "2026-09-04T15:25:54+00:00"
 }

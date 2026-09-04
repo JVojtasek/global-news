@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-04
 
-Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **38**.
+Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **39**.
 
 ---
 
@@ -49,9 +49,8 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **38**.
   - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 21 dní · 24 záznamů
+- rubrika `world` · sledováno 22 dní · 25 záznamů
 - časová osa:
-  - **2026-08-23** (2 zdrojů) Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide
   - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
   - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
@@ -61,11 +60,11 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **38**.
   - **2026-08-30** (2 zdrojů) Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France
   - **2026-09-01** (2 zdrojů) Israeli fire kills three in Gaza City during reported raid, medics say
   - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
+  - **2026-09-04** (2 zdrojů) ‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 24 dní · 16 záznamů
+- rubrika `ai` · sledováno 25 dní · 17 záznamů
 - časová osa:
-  - **2026-08-27** (3 zdrojů) OpenAI says it detected malign activity months before Hugging Face attack
   - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
   - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
@@ -75,6 +74,7 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **38**.
   - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC
   - **2026-09-03** (5 zdrojů) Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
   - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+  - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
 - rubrika `culture` · sledováno 7 dní · 15 záznamů

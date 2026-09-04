@@ -110,6 +110,65 @@
    "depth": "scripture"
   },
   {
+   "id": "3152bdb0ea47",
+   "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+   "section": "tech",
+   "score": 80,
+   "sources_count": 5,
+   "depth_signal": 2,
+   "created": "2026-09-04T15:25:53+00:00",
+   "event_time": "2026-09-04T14:59:13+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+     "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Technology",
+     "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+     "published_at": "2026-09-04T14:59:13+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-04T15:25:50+00:00"
+    },
+    {
+     "title": "The inside story on why OpenAI agents hacked Hugging Face",
+     "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+     "source": "MIT TR — AI",
+     "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+     "published_at": "2026-08-26T19:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-04T15:25:50+00:00"
+    },
+    {
+     "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+     "source": "The Verge",
+     "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
+     "published_at": "2026-09-04T13:34:12+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-04T15:25:50+00:00"
+    },
+    {
+     "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+     "source": "The Verge AI",
+     "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
+     "published_at": "2026-09-04T13:34:12+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-04T15:25:50+00:00"
+    },
+    {
+     "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters",
+     "url": "https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html",
+     "source": "CNBC Top",
+     "summary": "Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.",
+     "published_at": "2026-09-04T12:47:12+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-04T15:25:50+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
    "id": "d44ccc0ba93d",
    "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
    "section": "ai",
@@ -235,65 +294,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "7ee9d33d0756",
-   "headline": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-   "section": "tech",
-   "score": 73,
-   "sources_count": 5,
-   "depth_signal": 0,
-   "created": "2026-09-02T00:59:52+00:00",
-   "event_time": "2026-09-02T00:36:24+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-     "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "summary": "The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.",
-     "published_at": "2026-09-02T00:36:24+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-02T00:59:49+00:00"
-    },
-    {
-     "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-     "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Technology",
-     "summary": "The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.",
-     "published_at": "2026-09-02T00:36:24+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-02T00:59:49+00:00"
-    },
-    {
-     "title": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
-     "url": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
-     "source": "The Guardian World",
-     "summary": "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was openly dismissive of the president’s 27 August executive order directing federal agencies to refer to the smallest of t",
-     "published_at": "2026-09-01T13:49:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-02T00:59:49+00:00"
-    },
-    {
-     "title": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
-     "url": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
-     "source": "Guardian Business",
-     "summary": "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was openly dismissive of the president’s 27 August executive order directing federal agencies to refer to the smallest of t",
-     "published_at": "2026-09-01T13:49:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-02T00:59:49+00:00"
-    },
-    {
-     "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-     "url": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-     "source": "TechCrunch",
-     "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-     "published_at": "2026-09-01T22:13:34+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-02T00:59:49+00:00"
-    }
-   ],
-   "depth": "scripture"
   }
  ],
  "feature_assignments": [

@@ -103,6 +103,64 @@
   ]
  },
  {
+  "id": "3152bdb0ea47",
+  "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+  "section": "tech",
+  "score": 80,
+  "sources_count": 5,
+  "depth_signal": 2,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T14:59:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+    "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+    "published_at": "2026-09-04T14:59:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT TR — AI",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+    "published_at": "2026-08-26T19:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "source": "The Verge",
+    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
+    "published_at": "2026-09-04T13:34:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "source": "The Verge AI",
+    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
+    "published_at": "2026-09-04T13:34:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters",
+    "url": "https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html",
+    "source": "CNBC Top",
+    "summary": "Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.",
+    "published_at": "2026-09-04T12:47:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
   "id": "d44ccc0ba93d",
   "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
   "section": "ai",
@@ -585,6 +643,46 @@
     "published_at": "2026-09-03T10:32:24+00:00",
     "source_countries": [],
     "seen_at": "2026-09-03T12:37:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8731e6398ae7",
+  "headline": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
+  "section": "world",
+  "score": 58,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T15:12:20+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
+    "url": "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
+    "source": "The Guardian World",
+    "summary": "Senior party figures do not appear united, but Farage may be more concerned about impact on performance in polls UK politics live – latest updates Midway through an event at Reform’s annual conference on Friday there was question for the audience: who was worried about a Channel 4 News exposé of potential wrongdoing by party officials over donations? Almost no hands went up. The faithful might be ",
+    "published_at": "2026-09-04T15:12:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Nigel Farage meeting a 'shadowy foreign donor'? It can only be another establishment stitch-up | Marina Hyde",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/04/nigel-farage-reform-shadowy-foreign-donor-establishment-stitch-up",
+    "source": "Guardian Business",
+    "summary": "The only thing more dodgy than Reform’s financial dealings is the egregious lunchtime combination of oysters, Guinness and champagne How many sarcastic air quotes is too many for quoting Nigel Farage’s suggestion that Reform have been ““““““““hoaxed”””””””” by some undercover investigators into appearing to seek to get round electoral law to bag a £500k donation from a foreigner, as well as commis",
+    "published_at": "2026-09-04T13:50:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
+    "url": "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Undercover footage allegedly shows top Reform officials discussing ways to evade foreign funding laws.",
+    "published_at": "2026-09-04T14:38:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
    }
   ]
  },
@@ -1292,6 +1390,46 @@
     "published_at": "2026-09-04T10:31:21+00:00",
     "source_countries": [],
     "seen_at": "2026-09-04T12:36:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2e86d0b0e1b8",
+  "headline": "Gloria Steinem: A life in pictures",
+  "section": "culture",
+  "score": 51,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-03T13:27:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Gloria Steinem: A life in pictures",
+    "url": "https://www.theguardian.com/books/gallery/2026/sep/03/gloria-steinem-a-life-in-pictures",
+    "source": "Guardian Culture",
+    "summary": "The writer, publisher and activist spent a lifetime advocating for greater rights for women around the world and brought feminist discourse into the mainstream Gloria Steinem, groundbreaking feminist campaigner, dies aged 92 Continue reading...",
+    "published_at": "2026-09-03T13:27:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "‘We badly need to raise our boys more like our girls’: Gloria Steinem – a life in quotes",
+    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-best-quotes",
+    "source": "Guardian Culture",
+    "summary": "The groundbreaking feminist and acclaimed writer has died aged 92 and leaves behind her a wealth of wit and wisdom Gloria Steinem, groundbreaking feminist campaigner, dies aged 92 Hillary Clinton leads tributes to Gloria Steinem: ‘Her activism was rooted in optimism’ Gloria Steinem, the boundary-pushing campaigner and author who spent her life fighting for greater rights for women, has died at the",
+    "published_at": "2026-09-03T13:07:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Gloria Steinem hosted salons in her living room for decades—how to gather for conversation and connection, says expert",
+    "url": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
+    "source": "CNBC Top",
+    "summary": "Steinem's living room \"cracked open opportunities to lend support, let ideas flow, and build trust face-to-face,\" says journalist and author Allison Gilbert, founder of More Connected.",
+    "published_at": "2026-09-04T13:38:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
    }
   ]
  },
@@ -2277,6 +2415,37 @@
     "published_at": "2026-09-03T09:07:28+00:00",
     "source_countries": [],
     "seen_at": "2026-09-03T09:28:55+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7e2a725de566",
+  "headline": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+  "section": "culture",
+  "score": 47,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T11:55:19+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+    "url": "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
+    "source": "Guardian Culture",
+    "summary": "The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West Bank The Palestinian village of Khan al-Ahmar sits off dust-blown Highway-1, between Jerusalem and Jericho in the Israeli-occupied West Bank. At the village centre is the “school of tires”, a fragile construction of rubber",
+    "published_at": "2026-09-04T11:55:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip",
+    "published_at": "2026-09-04T13:08:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
    }
   ]
  },
@@ -3274,6 +3443,37 @@
     "published_at": "2026-09-04T09:36:05+00:00",
     "source_countries": [],
     "seen_at": "2026-09-04T12:36:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "29ae84aa2a01",
+  "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+  "section": "ai",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:54+00:00",
+  "event_time": "2026-07-31T16:00:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+    "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+    "source": "IEEE Spectrum Robotics",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 2026, PITTSBURGH Humanoids Summit Seoul : 22–23 September 2026, SEOUL En",
+    "published_at": "2026-07-31T16:00:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "source": "TechCrunch",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "published_at": "2026-09-04T14:47:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
    }
   ]
  },
@@ -4363,6 +4563,59 @@
   ]
  },
  {
+  "id": "d6ebab2db5d2",
+  "headline": "Philippine vice president is ordered arrested for threats against the president",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T13:42:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Philippine vice president is ordered arrested for threats against the president",
+    "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
+    "source": "NPR News",
+    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
+    "published_at": "2026-09-04T13:42:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
+    "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.",
+    "published_at": "2026-09-04T13:35:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
+  "id": "eb5aac76f994",
+  "headline": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
+  "section": "culture",
+  "score": 42,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-04T15:25:54+00:00",
+  "event_time": "2026-09-04T14:03:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
+    "url": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
+    "source": "Guardian Culture",
+    "summary": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awards Ian Charleson was one of the finest actors of his generation and an important figure in the fight for gay rights. Yet the extraordinary circumstances of his fi",
+    "published_at": "2026-09-04T14:03:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
   "id": "513bc8ca4fe5",
   "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
   "section": "world",
@@ -4872,6 +5125,28 @@
     "published_at": "2026-09-01T07:22:30+00:00",
     "source_countries": [],
     "seen_at": "2026-09-04T12:36:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b32d77b1c9f6",
+  "headline": "Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets",
+  "section": "culture",
+  "score": 41,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:54+00:00",
+  "event_time": "2026-09-04T14:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets",
+    "url": "https://www.smithsonianmag.com/smart-news/why-does-rain-eat-through-protective-coatings-on-metal-structures-researchers-propose-a-new-idea-electrically-charged-droplets-180989434/",
+    "source": "Smithsonian Mag",
+    "summary": "Scientists long attributed rain damage to physical abrasion and chemical degradation from acidic substances. A new study offers a third idea, which could help researchers develop longer-lasting coatings and preserve important objects",
+    "published_at": "2026-09-04T14:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
    }
   ]
  },
@@ -6323,6 +6598,28 @@
   ]
  },
  {
+  "id": "342e01d3bf8c",
+  "headline": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+  "section": "world",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T14:40:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+    "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Two people have been rescued more than a week after more than 1,300 people were killed in flash floods on the Nepal-Tibet border.",
+    "published_at": "2026-09-04T14:40:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
   "id": "23444ab7358d",
   "headline": "Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth",
   "section": "world",
@@ -7026,6 +7323,99 @@
   ]
  },
  {
+  "id": "4dda12232f76",
+  "headline": "Populism poses serious challenge to independent central banks, Bailey says",
+  "section": "business",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T13:44:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Populism poses serious challenge to independent central banks, Bailey says",
+    "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
+    "source": "The Guardian World",
+    "summary": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’ The governor of the Bank of England has said the rise of populist politicians presents a serious challenge to independent central banks. As Nigel Farage’s Reform UK gathered for its annual conference in Birmingham, Andrew Bailey said central bankers must be prepared to explain their ",
+    "published_at": "2026-09-04T13:44:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Populism poses serious challenge to independent central banks, Bailey says",
+    "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
+    "source": "Guardian Business",
+    "summary": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’ The governor of the Bank of England has said the rise of populist politicians presents a serious challenge to independent central banks. As Nigel Farage’s Reform UK gathered for its annual conference in Birmingham, Andrew Bailey said central bankers must be prepared to explain their ",
+    "published_at": "2026-09-04T13:44:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a235b25df709",
+  "headline": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+  "section": "business",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T14:47:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+    "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+    "source": "CNBC Top",
+    "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
+    "published_at": "2026-09-04T14:47:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Trump tells Fed to lower rates or threatens to end trade with surplus countries",
+    "url": "https://www.investing.com/news/economy-news/trump-tells-fed-to-lower-rates-or-threatens-to-end-trade-with-surplus-countries-4889785",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-04T14:50:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a53db4c73e1c",
+  "headline": "These top-selling EVs are on sale for Labor Day",
+  "section": "motoring",
+  "score": 38,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:54+00:00",
+  "event_time": "2026-09-03T19:42:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "These top-selling EVs are on sale for Labor Day",
+    "url": "https://electrek.co/2026/09/03/top-selling-evs-on-sale-labor-day/",
+    "source": "Electrek",
+    "summary": "The Hyundai IONIQ 5 and Toyota bZ are on sale for Labor Day to clear inventory for the incoming 2027 models. more…",
+    "published_at": "2026-09-03T19:42:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Bluetti 1,004Wh Elite 100 Mini power station exclusive launch deals, Anker SOLIX Labor Day Sale, Tenways CGO600 Pro e-bike, more",
+    "url": "https://electrek.co/2026/09/02/bluetti-1004wh-elite-100-mini-power-station-anker-solix-labor-day-sale-tenways-cgo600-pro-e-bike-more/",
+    "source": "Electrek",
+    "summary": "The Labor Day Sale train isn’t slowing down, and we have another jam-packed edition of Green Deals for the season, starting with the exclusive launch savings on Bluetti’s new Elite 100 Mini Portable Power Station starting from $408 . Right behind that, we’ve got Anker’s SOLIX Labor Day Sale lineup with our exclusive bonus savings code, FREE gift promotions, and refurbished deals starting from $231",
+    "published_at": "2026-09-02T18:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
   "id": "2ce978c079eb",
   "headline": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
   "section": "culture",
@@ -7680,6 +8070,68 @@
     "published_at": "2026-09-04T11:45:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-04T12:36:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2ced24161292",
+  "headline": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
+  "section": "business",
+  "score": 37,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T09:43:58+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
+    "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+    "source": "The Guardian World",
+    "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure The car company Volkswagen has approved controversial plans to shed 100,000 jobs in a battle for survival as it faces fierce competition from Chinese rivals. After the latest round of talks this week, the company announced a further 50,000 job cuts and agreed a staggered end to curren",
+    "published_at": "2026-09-04T09:43:58+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
+    "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
+    "source": "Guardian Business",
+    "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure The car company Volkswagen has approved controversial plans to shed 100,000 jobs in a battle for survival as it faces fierce competition from Chinese rivals. After the latest round of talks this week, the company announced a further 50,000 job cuts and agreed a staggered end to curren",
+    "published_at": "2026-09-04T09:43:58+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a87c8a7b1e8c",
+  "headline": "Tesla Cybercab is barely on the road and it’s already under investigation",
+  "section": "motoring",
+  "score": 37,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:54+00:00",
+  "event_time": "2026-09-04T13:33:38+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
+    "url": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
+    "source": "The Verge",
+    "summary": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the Tesla Cybercab \"to examine the process and […]",
+    "published_at": "2026-09-04T13:33:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "Tesla Cybercab is already under NHTSA investigation after launch",
+    "url": "https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/",
+    "source": "Electrek",
+    "summary": "Tesla’s Cybercab is already under federal investigation. NHTSA opened an audit into how Tesla certified the vehicle the same day the company started putting passengers in it in Austin. The probe targets the exact thing that makes the Cybercab unusual: it has no steering wheel, no pedals, and no mirrors, and Tesla certified it as road-legal anyway. more…",
+    "published_at": "2026-09-04T12:46:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
    }
   ]
  },
@@ -8461,6 +8913,59 @@
   ]
  },
  {
+  "id": "bbb5e05dc0ff",
+  "headline": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T12:37:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
+    "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
+    "source": "The Guardian World",
+    "summary": "Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza. At just 17, Muhanna had proudly sprouted cucumbers. “I was very happy because I saw the results,” Muhanna says. “We were farmers at heart.” Continue reading...",
+    "published_at": "2026-09-04T12:37:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e65c0af16fe6",
+  "headline": "Trump raises doubts over support for Britain in Falklands dispute with Argentina",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-04T15:25:53+00:00",
+  "event_time": "2026-09-04T12:46:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump raises doubts over support for Britain in Falklands dispute with Argentina",
+    "url": "https://www.france24.com/en/video/20260904-trump-raises-doubts-over-support-for-britain-in-falklands-dispute-with-argentina",
+    "source": "France 24",
+    "summary": "US President Donald Trump raised doubts about whether the United States would support Britain in another conflict over the Falkland Islands in an interview with a British broadcaster aired Thursday, injecting new tension into the long-standing dispute over the British-controlled archipelago also claimed by Argentina. Trump's comments came as his ideological ally, Argentine President Javier Milei, ",
+    "published_at": "2026-09-04T12:46:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   },
+   {
+    "title": "UK reasserts Falklands sovereignty amid Milei claim and Trump comments",
+    "url": "https://www.france24.com/en/video/20260904-uk-reasserts-falklands-sovereignty-amid-milei-claim-and-trump-comments",
+    "source": "France 24",
+    "summary": "Britain insisted Friday that the Falkland Islands \"are British\" after Argentine President Javier Milei suggested the \"winds of change\" now favoured his country's claim to the archipelago, citing Washington's readiness to reconsider its neutrality in the dispute. The islands' fate returned to the headlines after US President Donald Trump threatened to wade into the dispute, while a British-Israeli ",
+    "published_at": "2026-09-04T12:44:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-04T15:25:50+00:00"
+   }
+  ]
+ },
+ {
   "id": "20dd5bd412e2",
   "headline": "The Guardian view on Kemi Badenoch and the economy: a plan stuck in the Tory comfort zone | Editorial",
   "section": "business",
@@ -8827,412 +9332,6 @@
     "published_at": "2026-09-01T14:07:20+00:00",
     "source_countries": [],
     "seen_at": "2026-09-04T00:57:41+00:00"
-   }
-  ]
- },
- {
-  "id": "21bc0fee6201",
-  "headline": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-04T00:57:45+00:00",
-  "event_time": "2026-08-31T11:31:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-    "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-    "source": "The Hacker News",
-    "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent’s access is legitimate. AI has moved from the browser tab to the",
-    "published_at": "2026-08-31T11:31:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T00:57:41+00:00"
-   }
-  ]
- },
- {
-  "id": "09ec8a25b1bf",
-  "headline": "Clear Secure president Barkin sells $514,980 in YOU shares",
-  "section": "business",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T03:29:29+00:00",
-  "event_time": "2026-09-04T02:50:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Clear Secure president Barkin sells $514,980 in YOU shares",
-    "url": "https://www.investing.com/news/insider-trading-news/clear-secure-president-barkin-sells-514980-in-you-shares-93CH-4888792",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T02:50:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T03:29:26+00:00"
-   },
-   {
-    "title": "Clear Secure EVP Kyle McLaughlin disposes of $200,070 in shares",
-    "url": "https://www.investing.com/news/insider-trading-news/clear-secure-evp-kyle-mclaughlin-disposes-of-200070-in-shares-93CH-4888790",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T02:46:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T03:29:26+00:00"
-   },
-   {
-    "title": "Clear Secure CAO Dennis Liu sells $93,564 of stock",
-    "url": "https://www.investing.com/news/insider-trading-news/clear-secure-cao-dennis-liu-sells-93564-of-stock-93CH-4888787",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T02:46:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T03:29:26+00:00"
-   }
-  ]
- },
- {
-  "id": "90c1ddef63c1",
-  "headline": "Lucas Herrington staying grounded at Hull City despite meteoric rise: ‘It’s pretty crazy’ | Joey Lynch",
-  "section": "sport",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T06:39:27+00:00",
-  "event_time": "2026-09-04T06:00:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Lucas Herrington staying grounded at Hull City despite meteoric rise: ‘It’s pretty crazy’ | Joey Lynch",
-    "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar",
-    "source": "Guardian Sport",
-    "summary": "The 54th Australian to play in the Premier League insists he will continue working hard – and cannot wait to face Erling Haaland On the opening day of the Premier League season, with just over an hour gone in Hull City’s clash with Manchester United, Lucas Herrington got up off the bench. With the Tigers 2-0 up, manager Sergej Jakirović turned to the 18-year-old Australian to replace injured goals",
-    "published_at": "2026-09-04T06:00:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T06:39:24+00:00"
-   }
-  ]
- },
- {
-  "id": "6c81d696dea3",
-  "headline": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-04T09:28:16+00:00",
-  "event_time": "2026-09-04T08:23:05+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-    "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
-    "published_at": "2026-09-04T08:23:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T09:28:13+00:00"
-   }
-  ]
- },
- {
-  "id": "25877206289e",
-  "headline": "Here are Friday's biggest analyst calls: Nvidia, Tesla, Apple, Robinhood, Oracle, PulteGroup & more",
-  "section": "business",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T12:36:15+00:00",
-  "event_time": "2026-09-04T12:03:03+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Here are Friday's biggest analyst calls: Nvidia, Tesla, Apple, Robinhood, Oracle, PulteGroup & more",
-    "url": "https://www.cnbc.com/2026/09/04/friday-biggest-calls-on-wall-street-like-nvidia.html",
-    "source": "CNBC Top",
-    "summary": "Here are Friday's biggest calls on Wall Street.",
-    "published_at": "2026-09-04T12:03:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T12:36:12+00:00"
-   }
-  ]
- },
- {
-  "id": "2586e31470e7",
-  "headline": "Scientists reveal the hidden instructions that build the human brain",
-  "section": "science",
-  "score": 35,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T12:36:15+00:00",
-  "event_time": "2026-09-04T06:04:06+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scientists reveal the hidden instructions that build the human brain",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-    "source": "ScienceDaily",
-    "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer ",
-    "published_at": "2026-09-04T06:04:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T12:36:12+00:00"
-   },
-   {
-    "title": "Scientists reveal the hidden instructions that build the human brain",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-    "source": "ScienceDaily Health",
-    "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer ",
-    "published_at": "2026-09-04T06:04:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T12:36:12+00:00"
-   }
-  ]
- },
- {
-  "id": "f28694a19101",
-  "headline": "Stanford scientists discover a seafood that can reverse signs of aging",
-  "section": "science",
-  "score": 35,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T12:36:15+00:00",
-  "event_time": "2026-09-04T12:29:06+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-    "source": "ScienceDaily",
-    "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
-    "published_at": "2026-09-04T12:29:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T12:36:12+00:00"
-   },
-   {
-    "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm",
-    "source": "ScienceDaily Health",
-    "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
-    "published_at": "2026-09-04T12:29:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T12:36:12+00:00"
-   }
-  ]
- },
- {
-  "id": "22c46d405d5e",
-  "headline": "Oasis fans hope for Celtic Park gigs after cracking clues in chip shop video",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-04T12:36:15+00:00",
-  "event_time": "2026-09-04T12:06:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Oasis fans hope for Celtic Park gigs after cracking clues in chip shop video",
-    "url": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Internet sleuths spotted sets of numbers in posters suggesting the map co-ordinates for Celtic's Parkhead stadium in Glasgow.",
-    "published_at": "2026-09-04T12:06:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T12:36:12+00:00"
-   }
-  ]
- },
- {
-  "id": "135ba37aedc8",
-  "headline": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T13:07:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-    "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
-    "published_at": "2026-09-03T13:07:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "62141e3735d6",
-  "headline": "Rise of far-right leader Roberto Vannacci challenges Meloni as she celebrates Italian milestone",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T14:25:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Rise of far-right leader Roberto Vannacci challenges Meloni as she celebrates Italian milestone",
-    "url": "https://www.theguardian.com/world/2026/sep/03/roberto-vannacci-far-right-party-futuro-nazionale-dilemma-meloni",
-    "source": "The Guardian World",
-    "summary": "Futuro Nazionale party’s speedy poll rise poses questions whether PM will return to her roots before election Europe live – latest updates Giorgia Meloni’s government has become the longest-running in Italy since the second world war – a milestone the prime minister is determined not to let pass unnoticed. In the port area of Bari, the capital of the southern Italian region of Puglia, where Meloni",
-    "published_at": "2026-09-03T14:25:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "3bbe27daf999",
-  "headline": "Households warned gas price spike could pile fresh pressure on energy bills",
-  "section": "business",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T13:26:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-    "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
-    "published_at": "2026-09-03T13:26:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-    "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
-    "published_at": "2026-09-03T13:26:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "29b71c51f8ae",
-  "headline": "One immune switch may help drive aging across the body",
-  "section": "science",
-  "score": 34,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T10:29:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "One immune switch may help drive aging across the body",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
-    "source": "ScienceDaily",
-    "summary": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping their organs, muscles, and memory remain remarkably youthful.",
-    "published_at": "2026-09-03T10:29:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "One immune switch may help drive aging across the body",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping their organs, muscles, and memory remain remarkably youthful.",
-    "published_at": "2026-09-03T10:29:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "85a3105ea031",
-  "headline": "When panic freezes people: Virtual quake tests capture real-time fear and injury risk",
-  "section": "science",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T12:40:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "When panic freezes people: Virtual quake tests capture real-time fear and injury risk",
-    "url": "https://phys.org/news/2026-09-panic-people-virtual-quake-capture.html",
-    "source": "Phys.org",
-    "summary": "Growing up, many of us were taught to drop, cover and hold on during an earthquake. The guidance is straightforward, but how people actually respond when the ground starts shaking can be far more complicated. Now, UC Berkeley researchers are studying what happens in those critical moments and how fear and risk perception influence people's actions.",
-    "published_at": "2026-09-03T12:40:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "8c6136732ca9",
-  "headline": "Fun, flirty and fried to perfection: farewell to Chicken Shop Date, the YouTube show that helped kill off TV",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T12:42:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Fun, flirty and fried to perfection: farewell to Chicken Shop Date, the YouTube show that helped kill off TV",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/03/farewell-chicken-shop-date-youtube-tv-amelia-dimoldenberg",
-    "source": "Guardian Culture",
-    "summary": "Amelia Dimoldenberg’s series helped turn YouTube into a world-beating phenomenon. As it bows out, we remember its best bits – from mocking MC Ghetts to that sizzling tension with Billie Eilish and Andrew Garfield When Amelia Dimoldenberg posted a video to social media this week, telling an unknown companion “we need to talk”, it felt like a monumental announcement was on the horizon. And so it cam",
-    "published_at": "2026-09-03T12:42:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "b4b970873c97",
-  "headline": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T21:25:28+00:00",
-  "event_time": "2026-09-03T20:48:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
-    "source": "NPR News",
-    "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election.",
-    "published_at": "2026-09-03T20:48:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T21:23:28+00:00"
-   }
-  ]
- },
- {
-  "id": "2aceafb83740",
-  "headline": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T03:29:29+00:00",
-  "event_time": "2026-09-04T00:54:46+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-    "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-    "published_at": "2026-09-04T00:54:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T03:29:26+00:00"
    }
   ]
  }
