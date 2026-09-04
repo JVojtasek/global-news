@@ -1,14 +1,16 @@
 ---
 slug: venting-is-not-the-same-as-processing-anger
-title: "Venting Is Not the Same as Processing Anger"
-dek: "Expressing anger can reveal what matters. Rehearsing the offence at full volume can keep the body and the story burning. The evidence supports cooling first, then choosing what the anger is for."
+title: Venting Is Not the Same as Processing Anger
+dek: Expressing anger can reveal what matters. Rehearsing the offence at full volume
+  can keep the body and the story burning. The evidence supports cooling first, then
+  choosing what the anger is for.
 section: soul
 type: analysis
 depth: open
 lang: en
 date: '2026-09-04'
-status: draft
-confidence: 92
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +20,35 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: calm conceptual illustration heat becoming a clear path anger regulation no people no text
+image_query: calm conceptual illustration heat becoming a clear path anger regulation
+  no people no text
 sources:
-  - name: Clinical Psychology Review — Meta-analysis of anger management activities
-    url: https://pubmed.ncbi.nlm.nih.gov/38518585/
-    published: '2024-03-11'
-  - name: Personality and Social Psychology Bulletin — Does Venting Anger Feed or Extinguish the Flame?
-    url: https://journals.sagepub.com/doi/10.1177/0146167202289002
-    published: '2002-06-01'
-  - name: Scientific Reports — Anger and emotion regulation strategies, a meta-analysis
-    url: https://pubmed.ncbi.nlm.nih.gov/40011764/
-    published: '2025-02-26'
-  - name: Ohio State News — Breathe, don't vent
-    url: https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/
-    published: '2024-03-18'
+- name: Clinical Psychology Review — Meta-analysis of anger management activities
+  url: https://pubmed.ncbi.nlm.nih.gov/38518585/
+  published: '2024-03-11'
+- name: Personality and Social Psychology Bulletin — Does Venting Anger Feed or Extinguish
+    the Flame?
+  url: https://journals.sagepub.com/doi/10.1177/0146167202289002
+  published: '2002-06-01'
+- name: Scientific Reports — Anger and emotion regulation strategies, a meta-analysis
+  url: https://pubmed.ncbi.nlm.nih.gov/40011764/
+  published: '2025-02-26'
+- name: Ohio State News — Breathe, don't vent
+  url: https://news.osu.edu/breathe-dont-vent-turning-down-the-heat-is-key-to-managing-anger/
+  published: '2024-03-18'
 qma_path: ''
 tickers: []
 quiz:
   question: Which conclusion best matches the evidence reviewed in the article?
   options:
-    - Any expression of anger is harmful and should be suppressed
-    - High-arousal venting reliably drains anger from the body
-    - Lowering arousal first is generally more effective than rehearsing anger through aggressive venting
+  - Any expression of anger is harmful and should be suppressed
+  - High-arousal venting reliably drains anger from the body
+  - Lowering arousal first is generally more effective than rehearsing anger through
+    aggressive venting
   answer: 2
-  explanation: The evidence distinguishes constructive expression from high-arousal catharsis. Calming strategies generally reduce anger, while aggressive venting does not reliably do so.
+  explanation: The evidence distinguishes constructive expression from high-arousal
+    catharsis. Calming strategies generally reduce anger, while aggressive venting
+    does not reliably do so.
 ---
 
 ## BRIEFLY

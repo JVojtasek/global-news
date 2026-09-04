@@ -1,14 +1,15 @@
 ---
 slug: why-the-black-box-is-orange
-title: "Why Is the Black Box Orange?"
-dek: "The famous name survived, but the recorder evolved from a rejected idea into a bright, crash-protected witness that combines voices, machines and other evidence."
+title: Why Is the Black Box Orange?
+dek: The famous name survived, but the recorder evolved from a rejected idea into
+  a bright, crash-protected witness that combines voices, machines and other evidence.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-04'
-status: draft
-confidence: 95
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,32 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: orange aircraft flight recorder archival technical illustration no crash scene
+image_query: orange aircraft flight recorder archival technical illustration no crash
+  scene
 sources:
-  - name: "National Museum of Australia — Black box flight recorder invented"
-    url: "https://www.nma.gov.au/defining-moments/resources/black-box-invented"
-    published: '2024-09-18'
-  - name: "NTSB — Cockpit Voice Recorders and Flight Data Recorders"
-    url: "https://www.ntsb.gov/news/Pages/cvr_fdr.aspx"
-    published: ''
-  - name: "FAA — InFO 26013: 25-hour Cockpit Voice Recorder Requirement"
-    url: "https://www.faa.gov/other_visit/aviation_industry/airline_operators/airline_safety/info/all_infos/InFO26013.pdf"
-    published: '2026-08-10'
-  - name: "Associated Press — What can the black box tell us about plane crashes?"
-    url: "https://apnews.com/article/plane-crash-black-box-washington-potomac-helicopter-8e8fad6a6bd7781830144d738042eee5"
-    published: '2025-01-31'
+- name: National Museum of Australia — Black box flight recorder invented
+  url: https://www.nma.gov.au/defining-moments/resources/black-box-invented
+  published: '2024-09-18'
+- name: NTSB — Cockpit Voice Recorders and Flight Data Recorders
+  url: https://www.ntsb.gov/news/Pages/cvr_fdr.aspx
+  published: ''
+- name: 'FAA — InFO 26013: 25-hour Cockpit Voice Recorder Requirement'
+  url: https://www.faa.gov/other_visit/aviation_industry/airline_operators/airline_safety/info/all_infos/InFO26013.pdf
+  published: '2026-08-10'
+- name: Associated Press — What can the black box tell us about plane crashes?
+  url: https://apnews.com/article/plane-crash-black-box-washington-potomac-helicopter-8e8fad6a6bd7781830144d738042eee5
+  published: '2025-01-31'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What is the main reason modern flight recorders are bright orange?"
+  question: What is the main reason modern flight recorders are bright orange?
   options:
-    - "Orange protects memory chips from heat"
-    - "Orange makes the recorder easier to locate among wreckage"
-    - "Orange distinguishes cockpit audio from flight data"
+  - Orange protects memory chips from heat
+  - Orange makes the recorder easier to locate among wreckage
+  - Orange distinguishes cockpit audio from flight data
   answer: 1
-  explanation: "The visible housing is coloured for recovery. Survival comes from the protected memory enclosure, not from the paint."
+  explanation: The visible housing is coloured for recovery. Survival comes from the
+    protected memory enclosure, not from the paint.
 ---
 
 ## BRIEFLY

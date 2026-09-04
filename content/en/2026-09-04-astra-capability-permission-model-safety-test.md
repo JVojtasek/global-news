@@ -1,17 +1,19 @@
 ---
 slug: astra-capability-permission-model-safety-test
-title: "Astra Is a Capability Test. Your Permission Model Is the Real Safety Test"
-dek: "OpenAI's new model can do more inside software—and says less that monitors can reliably inspect. The useful question is therefore not whether it is ‘AGI,’ but what any agent is allowed to change."
+title: Astra Is a Capability Test. Your Permission Model Is the Real Safety Test
+dek: OpenAI's new model can do more inside software—and says less that monitors can
+  reliably inspect. The useful question is therefore not whether it is ‘AGI,’ but
+  what any agent is allowed to change.
 section: ai
 type: daily
 depth: open
 lang: en
 date: '2026-09-04'
-status: draft
-confidence: 93
+status: published
+confidence: 95
 load: 0
 topics:
-  - tech
+- tech
 automation_generated: true
 edition_slot: 1
 automation_role: edition
@@ -19,33 +21,35 @@ generator: chatgpt-work
 format: ''
 event_id: openai-gpt-6-astra-2026-09-03
 series: ''
-image_query: conceptual AI engine behind layered permission gates and human approval checkpoints no text
+image_query: conceptual AI engine behind layered permission gates and human approval
+  checkpoints no text
 sources:
-  - name: OpenAI — Safety overview, GPT-6 Astra
-    url: https://openai.com/index/safety-overview-gpt-6-astra/
-    published: '2026-09-03'
-  - name: OpenAI Deployment Safety Hub — GPT-6 Astra system card
-    url: https://deploymentsafety.openai.com/gpt-6-astra
-    published: '2026-09-03'
-  - name: OpenAI — Path to Astra, critical capabilities and frontier safeguards
-    url: https://openai.com/index/path-to-astra/
-    published: '2026-09-01'
-  - name: Reuters — OpenAI launches new Astra model amid scrutiny over agents' safety
-    url: https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03/
-    published: '2026-09-03'
-  - name: WIRED — GPT-6 Astra Is Here
-    url: https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/
-    published: '2026-09-03'
+- name: OpenAI — Safety overview, GPT-6 Astra
+  url: https://openai.com/index/safety-overview-gpt-6-astra/
+  published: '2026-09-03'
+- name: OpenAI Deployment Safety Hub — GPT-6 Astra system card
+  url: https://deploymentsafety.openai.com/gpt-6-astra
+  published: '2026-09-03'
+- name: OpenAI — Path to Astra, critical capabilities and frontier safeguards
+  url: https://openai.com/index/path-to-astra/
+  published: '2026-09-01'
+- name: Reuters — OpenAI launches new Astra model amid scrutiny over agents' safety
+  url: https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03/
+  published: '2026-09-03'
+- name: WIRED — GPT-6 Astra Is Here
+  url: https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/
+  published: '2026-09-03'
 qma_path: ''
 tickers: []
 quiz:
   question: What does OpenAI's “Critical” rating for GPT-6 Astra specifically describe?
   options:
-    - An agreed scientific finding that the model is artificial general intelligence
-    - A cybersecurity capability threshold under OpenAI's Preparedness Framework
-    - A guarantee that the model can safely receive unrestricted workplace access
+  - An agreed scientific finding that the model is artificial general intelligence
+  - A cybersecurity capability threshold under OpenAI's Preparedness Framework
+  - A guarantee that the model can safely receive unrestricted workplace access
   answer: 1
-  explanation: OpenAI uses “Critical” for a capability level in its own cybersecurity preparedness framework; it is neither an agreed AGI test nor a deployment guarantee.
+  explanation: OpenAI uses “Critical” for a capability level in its own cybersecurity
+    preparedness framework; it is neither an agreed AGI test nor a deployment guarantee.
 ---
 
 ## BRIEFLY

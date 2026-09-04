@@ -1,14 +1,15 @@
 ---
 slug: a-decibel-number-needs-a-time-limit
-title: "A Decibel Number Needs a Time Limit"
-dek: "Hearing risk is a dose, not a single volume reading: level, duration, distance and repetition all belong in the same calculation."
+title: A Decibel Number Needs a Time Limit
+dek: 'Hearing risk is a dose, not a single volume reading: level, duration, distance
+  and repetition all belong in the same calculation.'
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-04'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -20,31 +21,34 @@ event_id: ''
 series: ''
 image_query: conceptual hearing protection sound level and time calm no text
 sources:
-  - name: "WHO — Deafness and hearing loss: safe listening"
-    url: "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening"
-    published: '2026-03-06'
-  - name: "WHO and ITU — Global standard for safe listening devices and systems"
-    url: "https://www.who.int/publications/i/item/9789241515276"
-    published: '2019-09-18'
-  - name: "NIOSH — Understanding Noise Exposure Limits"
-    url: "https://www.cdc.gov/niosh/bulletin/2016/noise.html"
-    published: '2016-02-08'
-  - name: "NIDCD — Noise-Induced Hearing Loss"
-    url: "https://www.nidcd.nih.gov/health/noise-induced-hearing-loss"
-    published: '2025-04-16'
-  - name: "NIDCD — How Loud Is Too Loud?"
-    url: "https://www.nidcd.nih.gov/health/how-loud-too-loud"
-    published: '2025-04-28'
+- name: 'WHO — Deafness and hearing loss: safe listening'
+  url: https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening
+  published: '2026-03-06'
+- name: WHO and ITU — Global standard for safe listening devices and systems
+  url: https://www.who.int/publications/i/item/9789241515276
+  published: '2019-09-18'
+- name: NIOSH — Understanding Noise Exposure Limits
+  url: https://www.cdc.gov/niosh/bulletin/2016/noise.html
+  published: '2016-02-08'
+- name: NIDCD — Noise-Induced Hearing Loss
+  url: https://www.nidcd.nih.gov/health/noise-induced-hearing-loss
+  published: '2025-04-16'
+- name: NIDCD — How Loud Is Too Loud?
+  url: https://www.nidcd.nih.gov/health/how-loud-too-loud
+  published: '2025-04-28'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why can two exposures at the same decibel level carry different hearing risks?"
+  question: Why can two exposures at the same decibel level carry different hearing
+    risks?
   options:
-    - "Because decibels describe pitch, not sound level"
-    - "Because duration, repetition and recovery time help determine the total sound dose"
-    - "Because only headphone noise can damage hearing"
+  - Because decibels describe pitch, not sound level
+  - Because duration, repetition and recovery time help determine the total sound
+    dose
+  - Because only headphone noise can damage hearing
   answer: 1
-  explanation: "A level reading is one part of exposure. The time spent at that level, repeated exposures and quieter recovery periods all affect the accumulated dose."
+  explanation: A level reading is one part of exposure. The time spent at that level,
+    repeated exposures and quieter recovery periods all affect the accumulated dose.
 ---
 
 ## BRIEFLY
