@@ -500,46 +500,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "haaland",
-    "pedro's",
-    "wissa",
-    "a-league",
-    "joao",
-    "league",
-    "manchester",
-    "michael",
-    "hull's",
-    "ghanaians",
-    "phil",
-    "transfer",
-    "pedro",
     "cherki",
-    "premier",
-    "life",
-    "united",
-    "liverpool",
-    "sports",
-    "town",
-    "brentford",
-    "iraola",
-    "arsenal",
-    "forest",
-    "brighton",
-    "european",
-    "antonio",
-    "sunderland",
-    "matildas",
-    "leeds",
-    "carrick",
-    "tzolis",
     "crystal",
-    "hull",
+    "manchester",
+    "a-league",
+    "league",
+    "salah",
+    "forest",
+    "scherpen",
+    "isak",
+    "phil",
+    "liverpool",
+    "life",
+    "tzolis",
+    "joao",
+    "arsenal",
+    "sunderland",
+    "leeds",
+    "brighton",
+    "hull's",
+    "brentford",
+    "michael",
     "golden",
     "nottingham",
-    "newcastle",
-    "ipswich",
+    "united",
+    "hull",
+    "transfer",
+    "premier",
+    "carrick",
+    "pedro's",
+    "sports",
+    "ghanaians",
+    "haaland",
+    "antonio",
     "boot",
-    "salah"
+    "town",
+    "iraola",
+    "european",
+    "newcastle",
+    "matildas",
+    "ipswich"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -574,7 +574,8 @@
     "ef63e47ed4c0",
     "02d3ac75a53a",
     "9d185633198c",
-    "b2ce06d6a200"
+    "b2ce06d6a200",
+    "a0428a510351"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-04",
@@ -959,6 +960,18 @@
       "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
       "https://www.aljazeera.com/sports/liveblog/2026/9/4/live-ipswich-town-vs-liverpool-premier-league?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
+     "sources": 3,
+     "score": 60,
+     "event_id": "a0428a510351",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham"
+     ]
     }
    ]
   },
@@ -967,45 +980,45 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "germany",
-    "week",
-    "many",
-    "jenin",
-    "dolly",
-    "multiple",
-    "palestinians",
-    "former",
-    "israel's",
+    "france",
     "parton",
-    "colombia",
-    "labour",
-    "bank",
-    "christian",
-    "italy",
-    "palestine",
-    "israel",
-    "nepal",
-    "us-led",
-    "amos",
-    "rajab",
-    "gitai",
-    "global",
-    "israeli",
-    "canada",
     "far-right",
-    "dutch",
+    "hamas",
+    "canada",
     "city",
     "news",
-    "burnham",
-    "american",
-    "hamas",
-    "hind",
     "west",
+    "israeli",
+    "week",
+    "rajab",
+    "palestinians",
+    "multiple",
+    "germany",
+    "colombia",
+    "former",
+    "dolly",
+    "israel's",
+    "american",
     "netanyahu",
-    "palestinian",
-    "ben-gvir",
+    "labour",
+    "jenin",
+    "hind",
+    "palestine",
+    "nepal",
+    "burnham",
     "gaza",
-    "france"
+    "christian",
+    "gitai",
+    "palestinian",
+    "italy",
+    "dutch",
+    "us-led",
+    "amos",
+    "israel",
+    "many",
+    "global",
+    "bank",
+    "ben-gvir"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -1033,7 +1046,8 @@
     "1452b76e2d1a",
     "4e4cfa70881f",
     "7e2a725de566",
-    "c9484210a14a"
+    "c9484210a14a",
+    "89282106da8b"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-04",
@@ -1330,6 +1344,17 @@
       "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
       "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+     "sources": 2,
+     "score": 46,
+     "event_id": "89282106da8b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1586,6 +1611,422 @@
    ]
   },
   {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "still",
+    "fifty",
+    "television",
+    "chat",
+    "disease",
+    "parton",
+    "history",
+    "remembered",
+    "sullivan",
+    "nashville",
+    "some",
+    "covid",
+    "london",
+    "music",
+    "scientists",
+    "country",
+    "later",
+    "chronic",
+    "kermit",
+    "trying",
+    "dolly",
+    "disabling",
+    "relief",
+    "bring",
+    "americans",
+    "songwriter",
+    "festival",
+    "wanted",
+    "biggest",
+    "margaret",
+    "america",
+    "frog",
+    "working",
+    "years",
+    "briefing",
+    "tirelessly",
+    "remembering",
+    "muppets",
+    "show",
+    "variety"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b",
+    "13c0684b4af3",
+    "92a48ee35a16",
+    "dbe2fb28d382",
+    "200127734810",
+    "d314b5251d2f",
+    "38850f6a5dfa",
+    "f14aa1a495df",
+    "bdbcab469084",
+    "bcab6080a3cb",
+    "cd253afe8e24"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
+     "sources": 6,
+     "score": 86,
+     "event_id": "13c0684b4af3",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02676-1",
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
+     "sources": 2,
+     "score": 54,
+     "event_id": "92a48ee35a16",
+     "links": [
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dbe2fb28d382",
+     "links": [
+      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
+      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
+     "sources": 3,
+     "score": 66,
+     "event_id": "200127734810",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02732-w",
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d314b5251d2f",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+     "sources": 3,
+     "score": 58,
+     "event_id": "38850f6a5dfa",
+     "links": [
+      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f14aa1a495df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdbcab469084",
+     "links": [
+      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Festival honouring Dolly Parton set for Nashville and London",
+     "sources": 3,
+     "score": 55,
+     "event_id": "bcab6080a3cb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
+     "sources": 1,
+     "score": 44,
+     "event_id": "cd253afe8e24",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "leavitt",
+    "house",
+    "court",
+    "press",
+    "karoline",
+    "jersey",
+    "army",
+    "trump",
+    "secretary",
+    "chinese",
+    "white",
+    "driscoll",
+    "kalshi's",
+    "crypto",
+    "nabep",
+    "venezuela",
+    "supreme",
+    "days"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e",
+    "958107abfe36",
+    "eb231f9016df"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+     "sources": 2,
+     "score": 42,
+     "event_id": "958107abfe36",
+     "links": [
+      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump White House just tossed a grenade into international space relations",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb231f9016df",
+     "links": [
+      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
+     ]
+    }
+   ]
+  },
+  {
    "id": "8a4f53de3494",
    "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
    "section": "world",
@@ -1801,17 +2242,19 @@
    "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
    "section": "world",
    "entities": [
-    "falklands",
-    "milei",
     "javier",
-    "islands",
+    "trump",
     "argentina",
+    "falklands",
+    "islands",
     "president",
+    "milei",
     "falkland"
    ],
    "event_ids": [
     "0aa45abf75b4",
-    "8ab3477c95bb"
+    "8ab3477c95bb",
+    "50b8cc60bf30"
    ],
    "first_seen": "2026-09-04",
    "last_seen": "2026-09-04",
@@ -1838,6 +2281,17 @@
       "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
       "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
       "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+     "sources": 2,
+     "score": 44,
+     "event_id": "50b8cc60bf30",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
      ]
     }
    ]
@@ -3242,158 +3696,6 @@
    ]
   },
   {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "house",
-    "kalshi's",
-    "press",
-    "days",
-    "court",
-    "nabep",
-    "supreme",
-    "secretary",
-    "army",
-    "chinese",
-    "leavitt",
-    "venezuela",
-    "crypto",
-    "karoline",
-    "driscoll",
-    "trump",
-    "white",
-    "jersey"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e",
-    "958107abfe36"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-02",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-     "sources": 2,
-     "score": 42,
-     "event_id": "958107abfe36",
-     "links": [
-      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "9ffb6bd91201",
    "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
    "section": "sport",
@@ -3572,238 +3874,6 @@
       "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
       "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
       "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "nashville",
-    "wanted",
-    "margaret",
-    "festival",
-    "covid",
-    "disabling",
-    "parton",
-    "history",
-    "london",
-    "relief",
-    "remembering",
-    "remembered",
-    "chat",
-    "working",
-    "briefing",
-    "chronic",
-    "biggest",
-    "stars",
-    "americans",
-    "bring",
-    "dolly",
-    "still",
-    "tirelessly",
-    "scientists",
-    "many",
-    "sullivan",
-    "america",
-    "music",
-    "disease",
-    "country",
-    "songwriter"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07",
-    "4d5d929d3f9b",
-    "13c0684b4af3",
-    "92a48ee35a16",
-    "dbe2fb28d382",
-    "200127734810",
-    "d314b5251d2f",
-    "38850f6a5dfa",
-    "f14aa1a495df",
-    "bdbcab469084",
-    "bcab6080a3cb"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-     "sources": 6,
-     "score": 83,
-     "event_id": "4d5d929d3f9b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
-      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
-     "sources": 6,
-     "score": 86,
-     "event_id": "13c0684b4af3",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02676-1",
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
-     "sources": 2,
-     "score": 54,
-     "event_id": "92a48ee35a16",
-     "links": [
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dbe2fb28d382",
-     "links": [
-      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
-     "sources": 3,
-     "score": 66,
-     "event_id": "200127734810",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02732-w",
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d314b5251d2f",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-     "sources": 3,
-     "score": 58,
-     "event_id": "38850f6a5dfa",
-     "links": [
-      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f14aa1a495df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdbcab469084",
-     "links": [
-      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Festival honouring Dolly Parton set for Nashville and London",
-     "sources": 3,
-     "score": 55,
-     "event_id": "bcab6080a3cb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -6474,5 +6544,5 @@
    ]
   }
  ],
- "updated": "2026-09-04T18:27:58+00:00"
+ "updated": "2026-09-04T21:22:41+00:00"
 }

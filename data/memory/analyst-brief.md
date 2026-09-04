@@ -35,9 +35,8 @@ Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 17 dní · 33 záznamů
+- rubrika `sport` · sledováno 17 dní · 34 záznamů
 - časová osa:
-  - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
   - **2026-08-30** (2 zdrojů) Joao Pedro a central figure - player ratings for Chelsea v Brighton
   - **2026-08-30** (2 zdrojů) Manchester United v Ipswich Town: Premier League – live
   - **2026-08-30** (2 zdrojů) Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
@@ -47,11 +46,11 @@ Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
   - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
   - **2026-09-04** (2 zdrojů) Ipswich Town v Liverpool: Premier League – live
+  - **2026-09-04** (3 zdrojů) Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 22 dní · 26 záznamů
+- rubrika `world` · sledováno 22 dní · 27 záznamů
 - časová osa:
-  - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
   - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
   - **2026-08-29** (3 zdrojů) BBC tracks one week of Israeli settler violence in occupied West Bank
@@ -61,6 +60,7 @@ Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
   - **2026-09-04** (2 zdrojů) ‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza
   - **2026-09-04** (2 zdrojů) Israel's West Bank camp displacements could be crime against humanity, UN says
+  - **2026-09-04** (2 zdrojů) 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 25 dní · 17 záznamů
@@ -77,9 +77,8 @@ Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims
 
 ### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 7 dní · 15 záznamů
+- rubrika `culture` · sledováno 10 dní · 16 záznamů
 - časová osa:
-  - **2026-08-26** (6 zdrojů) Watch Nashville fans lay flowers in tribute to Dolly Parton
   - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
   - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
   - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
@@ -89,3 +88,4 @@ Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-08-31** (2 zdrojů) Dolly Parton laid to rest alongside husband in Nashville
   - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
   - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
+  - **2026-09-04** (1 zdrojů) Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History

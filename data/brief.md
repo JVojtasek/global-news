@@ -82,28 +82,25 @@
   - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
     <https://huggingface.co/blog/pwc-search>
 
-### 4. Germany says Russia behind Leipzig airport drone attack
-- id události: `10a1cf734426`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Apple Maps changes Lake Ontario to Lake America after Trump order
+- id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC World** — Germany says Russia behind Leipzig airport drone attack
-    <https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss>
-    > A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
-  - **The Guardian World** — Germany blames Russia for drone attack at Leipzig airport
-    <https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport>
-    > Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacks The German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Mosc
-  - **DW News** — Germany says Russia behind attempted drone attack at Leipzig airport
-    <https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf>
-    > Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The German government said on Tuesday that it held Russia "responsible."
-  - **France 24** — Germany blames Russia for Leipzig airport drone attack, orders Russian consulate closed
-    <https://www.france24.com/en/europe/20260901-germany-blames-russia-for-leipzig-airport-drone-attack-orders-russian-consulate-closed>
-    > Germany's government on Tuesday blamed Russia for an attempted attack at Leipzig/Halle Airport on 4 August using an explosive-laden drone, and announced that it would shut down a Russian consulate among other measures against Moscow. NATO Secretary-General Mark Rutte and EU chief
-  - **Al Jazeera** — Germany accuses Russia of drone attack on Leipzig airport
-    <https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss>
-    > Findings announced as European countries report an increase in sabotage attacks and attempts that they blame on Russia.
-  - **France 24** — Germany set to blame Russia for airport explosive-laden drone incident
-    <https://www.france24.com/en/video/20260901-germany-set-to-blame-russia-for-airport-explosive-laden-drone-incident>
-    > Berlin is set to formally blame Russia for an incident involving drones at a strategic airport on the night of August 4-5, including one that was found carrying explosives. Foreign Minister Johann Wadephul and Interior Minister Alexander Dobrindt are expected to accuse a Russian 
+  - **BBC Business** — Apple Maps changes Lake Ontario to Lake America after Trump order
+    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
+    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
+  - **BBC Technology** — Apple Maps changes Lake Ontario to Lake America after Trump order
+    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
+    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
+  - **The Guardian World** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
+    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
+    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
+  - **Guardian Business** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
+    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
+    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
+  - **TechCrunch** — Apple follows Google in adopting Trump’s ‘Lake America’ name
+    <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
+    > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
 
 ---
 
