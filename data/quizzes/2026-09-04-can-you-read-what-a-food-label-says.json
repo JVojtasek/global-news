@@ -1,0 +1,378 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-read-what-a-food-label-says",
+  "date": "2026-09-04",
+  "category": "health-literacy",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Can you read what a food label actually says?",
+      "cs": "Umíte přečíst, co etiketa potraviny skutečně říká?"
+    },
+    "dek": {
+      "en": "Eight everyday label questions test serving maths, fair comparisons, ingredients and nutrition claims.",
+      "cs": "Osm běžných otázek prověří porce, férové porovnávání, složení a výživová tvrzení."
+    },
+    "intro": {
+      "en": "Choose the best answer for the label system named in each question. Rules differ between countries, so the jurisdiction is part of the evidence.",
+      "cs": "Vyberte nejlepší odpověď pro systém označování uvedený v každé otázce. Pravidla se mezi zeměmi liší, proto je země součástí informace."
+    },
+    "disclaimer": {
+      "en": "This is an original educational knowledge quiz based on public food-labelling guidance. It does not reproduce a proprietary instrument and is not medical or nutrition advice, a diagnosis, an allergy-safety guarantee or an assessment of your diet. Labels and legal requirements vary by country and can change; follow local guidance and seek qualified advice for individual medical or allergy needs.",
+      "cs": "Jde o původní vzdělávací znalostní kvíz založený na veřejných pravidlech označování potravin. Nepřebírá proprietární nástroj a není lékařským ani výživovým doporučením, diagnózou, zárukou bezpečnosti při alergii ani hodnocením jídelníčku. Etikety a právní požadavky se liší podle země a mohou se měnit; řiďte se místními pravidly a individuální zdravotní či alergické potřeby řešte s kvalifikovaným odborníkem."
+    }
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "serving-is-not-advice",
+      "text": {
+        "en": "On a U.S. Nutrition Facts label, what does the serving size primarily represent?",
+        "cs": "Co na americké etiketě Nutrition Facts primárně znamená velikost porce?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "The amount people typically eat or drink, used to standardise the label",
+            "cs": "Množství, které lidé obvykle snědí či vypijí, použité ke standardizaci etikety"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "The exact amount every adult should eat",
+            "cs": "Přesné množství, které má sníst každý dospělý"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "The largest amount that is legally safe",
+            "cs": "Nejvyšší množství, které je ze zákona bezpečné"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "The FDA says serving size reflects typical consumption and is not a recommendation. Nutrient values on the label refer to that stated serving.",
+        "cs": "FDA uvádí, že velikost porce odráží obvyklou spotřebu a není doporučením. Výživové hodnoty na etiketě se vztahují k této uvedené porci."
+      }
+    },
+    {
+      "id": "two-servings",
+      "text": {
+        "en": "A U.S. package contains two servings. You eat the entire package. What should you do with the per-serving calories and nutrient amounts?",
+        "cs": "Americké balení obsahuje dvě porce a vy sníte celé. Co uděláte s kaloriemi a živinami uvedenými na jednu porci?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Double them",
+            "cs": "Vynásobím je dvěma"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "Leave them unchanged",
+            "cs": "Nechám je beze změny"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Halve them",
+            "cs": "Vydělím je dvěma"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "The listed amounts apply to one serving. Eating two servings means twice the stated calories and nutrient amounts.",
+        "cs": "Uvedené hodnoty platí pro jednu porci. Dvě porce znamenají dvojnásobek uvedených kalorií a množství živin."
+      }
+    },
+    {
+      "id": "compare-per-100g",
+      "text": {
+        "en": "Two EU cereal packs use different suggested portions. Which column gives the fairest direct nutrition comparison?",
+        "cs": "Dvě cereálie v EU mají odlišné doporučené porce. Který sloupec umožní nejférovější přímé porovnání?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Values per 100 g",
+            "cs": "Hodnoty na 100 g"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "The product name",
+            "cs": "Název výrobku"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "The package weight only",
+            "cs": "Pouze hmotnost balení"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "EU nutrition declarations generally provide energy and nutrients per 100 g or 100 ml. A common base avoids comparing unequal portions.",
+        "cs": "Výživové údaje v EU se běžně uvádějí na 100 g nebo 100 ml. Společný základ brání porovnávání nestejných porcí."
+      }
+    },
+    {
+      "id": "ingredient-order",
+      "text": {
+        "en": "What does it usually mean when an ingredient appears first in an EU or UK ingredients list?",
+        "cs": "Co obvykle znamená, když je složka uvedena jako první v seznamu složek v EU nebo Spojeném království?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "It was present in the greatest weight when the food was made",
+            "cs": "Při výrobě byla zastoupena největší hmotností"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "It is the healthiest ingredient",
+            "cs": "Je to nejzdravější složka"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "It was added last",
+            "cs": "Byla přidána jako poslední"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Ingredients are generally listed in descending order by weight at the time of manufacture. Order does not rank health value.",
+        "cs": "Složky se obvykle uvádějí sestupně podle hmotnosti při výrobě. Pořadí nehodnotí jejich zdravotní přínos."
+      }
+    },
+    {
+      "id": "allergen-emphasis",
+      "text": {
+        "en": "Why are certain ingredient names often bolded or otherwise emphasised on EU and UK food labels?",
+        "cs": "Proč jsou některé názvy složek na etiketách v EU a Spojeném království často tučně nebo jinak zvýrazněné?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "To identify regulated allergens in the ingredients list",
+            "cs": "Aby označily regulované alergeny v seznamu složek"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "To mark the most expensive ingredients",
+            "cs": "Aby označily nejdražší složky"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "To show which ingredients are organic",
+            "cs": "Aby ukázaly, které složky jsou bio"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Specified allergens must be emphasised within the ingredients list. People with allergies still need the full label and relevant precautionary statements, not colour or bold type alone.",
+        "cs": "Stanovené alergeny musí být v seznamu složek zvýrazněny. Lidé s alergiemi však potřebují číst celou etiketu a příslušná varování, ne pouze barvu či tučné písmo."
+      }
+    },
+    {
+      "id": "traffic-light-red",
+      "text": {
+        "en": "On a UK front-of-pack traffic-light label, what does red beside saturated fat mean?",
+        "cs": "Co na britské přední „semaforové“ etiketě znamená červená barva u nasycených tuků?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "The product is high in saturated fat under that labelling scheme",
+            "cs": "Výrobek má podle tohoto systému vysoký obsah nasycených tuků"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "The food is forbidden",
+            "cs": "Potravina je zakázaná"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "The package contains an undeclared allergen",
+            "cs": "Balení obsahuje neuvedený alergen"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Traffic-light colours classify the level of a named nutrient. Red flags a high level; it is not a diagnosis of the whole food or a ban.",
+        "cs": "Barvy semaforu klasifikují množství konkrétní živiny. Červená označuje vysoký obsah; nejde o diagnózu celé potraviny ani zákaz."
+      }
+    },
+    {
+      "id": "total-versus-added-sugars",
+      "text": {
+        "en": "On a U.S. Nutrition Facts label, what is included in Total Sugars?",
+        "cs": "Co na americké etiketě Nutrition Facts zahrnuje položka Total Sugars (celkové cukry)?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Naturally occurring sugars plus any added sugars",
+            "cs": "Přirozeně se vyskytující cukry i případné přidané cukry"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "Only table sugar added by the manufacturer",
+            "cs": "Pouze stolní cukr přidaný výrobcem"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Only sugars from fruit",
+            "cs": "Pouze cukry z ovoce"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "The FDA defines Total Sugars as naturally occurring sugars plus added sugars. Added Sugars is shown separately and is included within, not added on top of, the total.",
+        "cs": "FDA definuje celkové cukry jako součet přirozených a přidaných cukrů. Přidané cukry se uvádějí zvlášť, ale jsou součástí celku, nepřičítají se k němu znovu."
+      }
+    },
+    {
+      "id": "kilojoules-kilocalories",
+      "text": {
+        "en": "An EU label lists energy in both kJ and kcal. What are these?",
+        "cs": "Etiketa v EU uvádí energii v kJ i kcal. Co tyto údaje znamenají?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Two units expressing the same energy content",
+            "cs": "Dvě jednotky vyjadřující stejný obsah energie"
+          },
+          "correct": true
+        },
+        {
+          "label": {
+            "en": "Energy before and after cooking",
+            "cs": "Energii před vařením a po něm"
+          },
+          "correct": false
+        },
+        {
+          "label": {
+            "en": "Sugar energy and fat energy separately",
+            "cs": "Odděleně energii z cukrů a tuků"
+          },
+          "correct": false
+        }
+      ],
+      "explanation": {
+        "en": "Kilojoules and kilocalories are different units for energy. EU nutrition declarations state energy in both; they are not two amounts to add together.",
+        "cs": "Kilojouly a kilokalorie jsou různé jednotky energie. Výživové údaje v EU uvádějí obě; nejde o dvě hodnoty, které se mají sečíst."
+      }
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 2,
+      "title": {
+        "en": "Start with the comparison base",
+        "cs": "Začněte základem pro porovnání"
+      },
+      "summary": {
+        "en": "Several label conventions are still easy to misread. This score does not assess your diet or health. Next time, locate the serving count and the per-100-g or per-100-ml column before reading claims on the front.",
+        "cs": "Několik pravidel etikety lze ještě snadno přehlédnout. Skóre nehodnotí váš jídelníček ani zdraví. Příště nejprve najděte počet porcí a sloupec na 100 g či 100 ml a teprve potom čtěte tvrzení na přední straně."
+      }
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "title": {
+        "en": "You can read the basics—check the jurisdiction",
+        "cs": "Základy čtete—hlídejte zemi"
+      },
+      "summary": {
+        "en": "You recognise some useful label signals, but U.S., EU and UK conventions can blur together. This result cannot tell whether a product suits your needs. Pick two similar products sold under the same rules and compare them on one common basis.",
+        "cs": "Některé užitečné signály etikety poznáte, ale pravidla USA, EU a Spojeného království se mohou míchat. Výsledek neříká, zda je výrobek vhodný právě pro vás. Vyberte dva podobné výrobky podléhající stejným pravidlům a porovnejte je na společném základě."
+      }
+    },
+    {
+      "min": 6,
+      "max": 7,
+      "title": {
+        "en": "Strong label reading with one likely blind spot",
+        "cs": "Dobré čtení etiket s jedním možným slepým místem"
+      },
+      "summary": {
+        "en": "You handle most serving, ingredient and nutrient cues correctly. A high score is not nutrition advice and does not cover individual allergy or medical needs. Review the explanation for the missed item and verify that rule on a real package.",
+        "cs": "Většinu údajů o porcích, složení a živinách čtete správně. Vysoké skóre není výživové doporučení a nepokrývá individuální alergické či zdravotní potřeby. Projděte vysvětlení chybné odpovědi a ověřte pravidlo na skutečném obalu."
+      }
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "title": {
+        "en": "You read the label, not just the marketing",
+        "cs": "Čtete etiketu, ne jen marketing"
+      },
+      "summary": {
+        "en": "You distinguished all eight tested conventions. This score is limited to these questions and cannot judge overall food quality or personal suitability. Keep using the same habit: confirm the serving or 100-g base, then read ingredients and nutrient details before relying on a front claim.",
+        "cs": "Rozlišili jste všech osm testovaných pravidel. Skóre platí jen pro tyto otázky a nehodnotí celkovou kvalitu potraviny ani její vhodnost pro konkrétního člověka. Zachovejte stejný postup: ověřte porci nebo základ 100 g, potom čtěte složení a živiny a teprve pak se opírejte o tvrzení na přední straně."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "U.S. Food and Drug Administration — How to Understand and Use the Nutrition Facts Label",
+      "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+      "published": "2024-03-05",
+      "type": "official guidance on serving size, servings per package, Daily Value and total versus added sugars"
+    },
+    {
+      "name": "European Union — Nutrition declaration",
+      "url": "https://europa.eu/youreurope/business/product-rules-compliance/food/nutrition-declaration/index_en.htm",
+      "published": "",
+      "type": "official EU guidance on mandatory nutrition information, energy units and per-100-g or per-100-ml declarations"
+    },
+    {
+      "name": "NHS — How to read food labels",
+      "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/how-to-read-food-labels/",
+      "published": "",
+      "type": "public health guidance on ingredients, allergens and UK front-of-pack traffic-light labels"
+    },
+    {
+      "name": "Harvard T.H. Chan School of Public Health — Understanding Food Labels",
+      "url": "https://nutritionsource.hsph.harvard.edu/food-label-guide/",
+      "published": "",
+      "type": "independent educational guidance on using serving, ingredient and nutrient information; no quiz items reproduced"
+    }
+  ]
+}
