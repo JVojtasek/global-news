@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-04
 
-Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **37**.
+Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **38**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **37**.
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 23 dní · 35 záznamů
+- rubrika `world` · sledováno 24 dní · 36 záznamů
 - časová osa:
-  - **2026-08-29** (2 zdrojů) Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
   - **2026-09-01** (2 zdrojů) Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
   - **2026-09-01** (2 zdrojů) At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
   - **2026-09-01** (2 zdrojů) Russian attack hits rail workers in new deadly strikes on Kyiv
@@ -33,11 +32,11 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **37**.
   - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
   - **2026-09-03** (2 zdrojů) Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
   - **2026-09-03** (2 zdrojů) Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
+  - **2026-09-04** (2 zdrojů) Europe targeted in summer campaign of sabotage and Russia is the chief suspect
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 16 dní · 31 záznamů
+- rubrika `sport` · sledováno 17 dní · 32 záznamů
 - časová osa:
-  - **2026-08-29** (2 zdrojů) 'Not bad for the worst team in Premier League history' - Hull's perfect start
   - **2026-08-30** (2 zdrojů) Antonio helps young Ghanaians chase Premier League dreams
   - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
   - **2026-08-30** (2 zdrojů) Joao Pedro a central figure - player ratings for Chelsea v Brighton
@@ -47,6 +46,7 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **37**.
   - **2026-09-02** (3 zdrojů) Premier League breaks transfer record for second straight summer
   - **2026-09-03** (2 zdrojů) Ranking the most game-changing transfers in Premier League history
   - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
+  - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 21 dní · 24 záznamů

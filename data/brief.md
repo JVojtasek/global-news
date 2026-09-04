@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **9**
+- Článků v zásobě: **10**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -164,13 +164,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 35  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 36  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 35
-  2026-08-20  (3 zdrojů, síla 59)  Ukraine: Several killed in 'massive' Russian strikes on Kyiv
+rubrika: world · sledováno od 2026-08-11 · záznamů: 36
   2026-08-21  (2 zdrojů, síla 52)  Back-to-back Russian drone strikes kill 14 people in Ukraine shopping centre
   2026-08-21  (2 zdrojů, síla 45)  'Masha and the Bear': Ukraine sanctions Russian cartoon
   2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack
@@ -190,6 +189,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 35
   2026-09-02  (2 zdrojů, síla 46)  EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
   2026-09-03  (2 zdrojů, síla 43)  Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
   2026-09-03  (2 zdrojů, síla 40)  Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
+  2026-09-04  (2 zdrojů, síla 44)  Europe targeted in summer campaign of sabotage and Russia is the chief suspect
 ```
 
 ---
