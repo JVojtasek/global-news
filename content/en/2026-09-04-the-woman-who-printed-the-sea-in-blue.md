@@ -1,23 +1,24 @@
 ---
 slug: the-woman-who-printed-the-sea-in-blue
-title: "The Woman Who Printed the Sea in Blue"
-dek: "Anna Atkins turned algae, sunlight and iron salts into a book that made photography part of scientific publishing."
+title: The Woman Who Printed the Sea in Blue
+dek: Anna Atkins turned algae, sunlight and iron salts into a book that made photography
+  part of scientific publishing.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-09-04'
-status: draft
-confidence: 94
+status: review
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: chatgpt-work
-format: ""
+format: ''
 event_id: anna-atkins-british-algae-cyanotype-1843
-series: ""
+series: ''
 image_query: Anna Atkins cyanotype British algae blue botanical print
 sources:
 - name: Natural History Museum — Anna Atkins' cyanotypes
@@ -37,18 +38,22 @@ impact:
   - scientific communication
   - photography
   - cultural memory
-  line: "Atkins' book shows that a new medium becomes useful when someone designs a repeatable way to connect evidence, description and readers."
-  todo: "When presenting visual evidence, record how the image was made, what the specimen or subject was, and which details the process may hide."
-qma_path: ""
+  line: Atkins' book shows that a new medium becomes useful when someone designs a
+    repeatable way to connect evidence, description and readers.
+  todo: When presenting visual evidence, record how the image was made, what the specimen
+    or subject was, and which details the process may hide.
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why was Anna Atkins' Photographs of British Algae historically important?"
+  question: Why was Anna Atkins' Photographs of British Algae historically important?
   options:
-  - "It used photographic impressions systematically to illustrate a scientific book"
-  - "It was the first book ever printed with movable type"
-  - "It proved that cyanotype records the natural colour of algae"
+  - It used photographic impressions systematically to illustrate a scientific book
+  - It was the first book ever printed with movable type
+  - It proved that cyanotype records the natural colour of algae
   answer: 0
-  explanation: "Atkins used cyanotype photograms as the illustrations themselves. The process produced Prussian-blue images rather than the specimens' natural colours."
+  explanation: Atkins used cyanotype photograms as the illustrations themselves. The
+    process produced Prussian-blue images rather than the specimens' natural colours.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY

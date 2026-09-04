@@ -1,23 +1,24 @@
 ---
 slug: a-50-percent-markup-is-not-a-50-percent-margin
-title: "A 50% Markup Is Not a 50% Margin"
-dek: "The same profit can produce two different percentages because markup starts with cost and margin starts with the selling price."
+title: A 50% Markup Is Not a 50% Margin
+dek: The same profit can produce two different percentages because markup starts with
+  cost and margin starts with the selling price.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-09-04'
-status: draft
-confidence: 96
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: chatgpt-work
-format: ""
+format: ''
 event_id: gross-margin-markup-pricing-guide-2026-09-04
-series: ""
+series: ''
 image_query: small business owner calculating price cost markup and margin on paper
 sources:
 - name: ACCA — Ratio analysis
@@ -37,18 +38,21 @@ impact:
   - small-business pricing
   - budgeting
   - sales reporting
-  line: "Confusing markup with margin can make a price look more profitable than it is and can leave too little revenue to cover overhead."
-  todo: "Put cost, selling price, gross profit, markup and gross margin in separate columns before approving a quote or discount."
-qma_path: ""
+  line: Confusing markup with margin can make a price look more profitable than it
+    is and can leave too little revenue to cover overhead.
+  todo: Put cost, selling price, gross profit, markup and gross margin in separate
+    columns before approving a quote or discount.
+qma_path: ''
 tickers: []
 quiz:
-  question: "A product costs $100 and sells for $150. What is its gross margin?"
+  question: A product costs $100 and sells for $150. What is its gross margin?
   options:
-  - "33.3%, because the $50 gross profit is divided by the $150 selling price"
-  - "50%, because the $50 gross profit is divided by the $100 cost"
-  - "150%, because the selling price is one and a half times the cost"
+  - 33.3%, because the $50 gross profit is divided by the $150 selling price
+  - 50%, because the $50 gross profit is divided by the $100 cost
+  - 150%, because the selling price is one and a half times the cost
   answer: 0
-  explanation: "Gross margin uses revenue as its denominator: ($150 − $100) ÷ $150 = 33.3%. The 50% figure is the markup."
+  explanation: 'Gross margin uses revenue as its denominator: ($150 − $100) ÷ $150
+    = 33.3%. The 50% figure is the markup.'
 ---
 
 ## BRIEFLY

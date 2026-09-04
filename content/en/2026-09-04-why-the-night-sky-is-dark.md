@@ -1,23 +1,24 @@
 ---
 slug: why-the-night-sky-is-dark
-title: "Why the Night Sky Is Dark"
-dek: "The darkness between stars is not empty scenery. It is evidence that light has a history and the universe has not existed unchanged forever."
+title: Why the Night Sky Is Dark
+dek: The darkness between stars is not empty scenery. It is evidence that light has
+  a history and the universe has not existed unchanged forever.
 section: wonder
 type: feature
 depth: open
 lang: en
 date: '2026-09-04'
 status: reserve
-confidence: 95
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
 automation_role: edition
 generator: chatgpt-work
-format: ""
+format: ''
 event_id: olbers-paradox-dark-night-sky-explainer-2026-09-04
-series: ""
+series: ''
 image_query: dark night sky between stars deep field galaxies
 sources:
 - name: NASA Goddard — Olbers' Paradox
@@ -37,18 +38,22 @@ impact:
   - astronomy literacy
   - scientific reasoning
   - night-sky observation
-  line: "Olbers' paradox turns an everyday observation into a test of assumptions about cosmic age, expansion and the travel of light."
-  todo: "The next time you see darkness between stars, use it as a prompt to ask which distant light has had time to arrive and which wavelengths your eyes cannot detect."
-qma_path: ""
+  line: Olbers' paradox turns an everyday observation into a test of assumptions about
+    cosmic age, expansion and the travel of light.
+  todo: The next time you see darkness between stars, use it as a prompt to ask which
+    distant light has had time to arrive and which wavelengths your eyes cannot detect.
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why does cosmic dust fail as a complete solution to Olbers' paradox in an eternal, static universe?"
+  question: Why does cosmic dust fail as a complete solution to Olbers' paradox in
+    an eternal, static universe?
   options:
-  - "Absorbed starlight would heat the dust until it radiated energy"
-  - "Dust exists only inside Earth's atmosphere"
-  - "Dust makes distant stars appear closer rather than fainter"
+  - Absorbed starlight would heat the dust until it radiated energy
+  - Dust exists only inside Earth's atmosphere
+  - Dust makes distant stars appear closer rather than fainter
   answer: 0
-  explanation: "In the imagined eternal, static universe, dust could not hide unlimited starlight forever. It would absorb energy, warm and radiate."
+  explanation: In the imagined eternal, static universe, dust could not hide unlimited
+    starlight forever. It would absorb energy, warm and radiate.
 ---
 
 ## BRIEFLY
