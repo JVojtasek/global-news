@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-04
 
-Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **39**.
+Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **39**.
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 24 dní · 36 záznamů
+- rubrika `world` · sledováno 24 dní · 37 záznamů
 - časová osa:
-  - **2026-09-01** (2 zdrojů) Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
   - **2026-09-01** (2 zdrojů) At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
   - **2026-09-01** (2 zdrojů) Russian attack hits rail workers in new deadly strikes on Kyiv
   - **2026-09-01** (2 zdrojů) Russia kills at least 12 on sixth night of drone attacks on Kyiv
@@ -33,11 +32,11 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **39**.
   - **2026-09-03** (2 zdrojů) Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
   - **2026-09-03** (2 zdrojů) Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
   - **2026-09-04** (2 zdrojů) Europe targeted in summer campaign of sabotage and Russia is the chief suspect
+  - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 17 dní · 32 záznamů
+- rubrika `sport` · sledováno 17 dní · 33 záznamů
 - časová osa:
-  - **2026-08-30** (2 zdrojů) Antonio helps young Ghanaians chase Premier League dreams
   - **2026-08-30** (2 zdrojů) Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live
   - **2026-08-30** (2 zdrojů) Joao Pedro a central figure - player ratings for Chelsea v Brighton
   - **2026-08-30** (2 zdrojů) Manchester United v Ipswich Town: Premier League – live
@@ -47,11 +46,11 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **39**.
   - **2026-09-03** (2 zdrojů) Ranking the most game-changing transfers in Premier League history
   - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
   - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
+  - **2026-09-04** (2 zdrojů) Ipswich Town v Liverpool: Premier League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 22 dní · 25 záznamů
+- rubrika `world` · sledováno 22 dní · 26 záznamů
 - časová osa:
-  - **2026-08-26** (2 zdrojů) US-led Gaza peace board warns Hamas over kites after Israeli threat
   - **2026-08-26** (2 zdrojů) Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
   - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
   - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
@@ -61,6 +60,7 @@ Paměť obsahuje **79 vláken**. Aktivních za posledních 14 dní: **39**.
   - **2026-09-01** (2 zdrojů) Israeli fire kills three in Gaza City during reported raid, medics say
   - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
   - **2026-09-04** (2 zdrojů) ‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza
+  - **2026-09-04** (2 zdrojů) Israel's West Bank camp displacements could be crime against humanity, UN says
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 25 dní · 17 záznamů
