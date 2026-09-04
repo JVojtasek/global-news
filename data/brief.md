@@ -113,8 +113,8 @@
 - rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Sleep — <https://en.wikipedia.org/wiki/Sleep>
-  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
   - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
+  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
 
 ---
 

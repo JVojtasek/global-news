@@ -1,6 +1,38 @@
 {
  "threads": [
   {
+   "id": "0aa45abf75b4",
+   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+   "section": "world",
+   "entities": [
+    "javier",
+    "president",
+    "islands",
+    "falkland",
+    "milei",
+    "argentina"
+   ],
+   "event_ids": [
+    "0aa45abf75b4"
+   ],
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-04",
+   "timeline": [
+    {
+     "date": "2026-09-04",
+     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0aa45abf75b4",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -6253,5 +6285,5 @@
    ]
   }
  ],
- "updated": "2026-09-04T03:29:29+00:00"
+ "updated": "2026-09-04T06:39:27+00:00"
 }
