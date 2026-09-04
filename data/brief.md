@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-03
+# ZADÁNÍ PRO REDAKCI — 2026-09-04
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -109,12 +109,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### ancient rome
-- rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### sleep
+- rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
-  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
-  - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
+  - Sleep — <https://en.wikipedia.org/wiki/Sleep>
+  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
+  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
 
 ---
 
