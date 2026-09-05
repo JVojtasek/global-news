@@ -1339,46 +1339,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "joao",
-    "sunderland",
-    "iraola",
-    "manchester",
-    "crystal",
-    "haaland",
-    "arsenal",
-    "aston",
-    "tzolis",
-    "forest",
-    "ipswich",
-    "isak",
-    "pedro's",
-    "cherki",
-    "newcastle",
     "a-league",
-    "phil",
-    "golden",
-    "gakpo",
-    "liverpool",
-    "villa",
-    "premier",
-    "boot",
-    "salah",
-    "league",
-    "life",
-    "sports",
-    "brighton",
-    "transfer",
-    "ghanaians",
-    "town",
     "city",
+    "matildas",
     "european",
-    "michael",
+    "pedro's",
+    "premier",
+    "phil",
+    "forest",
+    "cherki",
+    "boot",
+    "hull",
+    "iraola",
+    "gakpo",
+    "sunderland",
+    "it's",
     "hull's",
     "carrick",
+    "league",
+    "tzolis",
+    "crystal",
+    "salah",
+    "arsenal",
+    "liverpool",
+    "villa",
+    "haaland",
     "scherpen",
-    "matildas",
-    "hull",
-    "united"
+    "life",
+    "ghanaians",
+    "ipswich",
+    "golden",
+    "sports",
+    "isak",
+    "michael",
+    "aston",
+    "chelsea's",
+    "manchester",
+    "joao",
+    "newcastle",
+    "mccabe",
+    "transfer"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1416,7 +1416,9 @@
     "b2ce06d6a200",
     "a0428a510351",
     "684081a81f31",
-    "7c74ae10e984"
+    "7c74ae10e984",
+    "d4276895c857",
+    "234d20391d20"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-05",
@@ -1836,6 +1838,29 @@
       "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
       "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
       "https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d4276895c857",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Aston Villa still winless after stalemate at Hull",
+     "sources": 2,
+     "score": 41,
+     "event_id": "234d20391d20",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c9w48xp5g14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report"
      ]
     }
    ]
@@ -6694,5 +6719,5 @@
    ]
   }
  ],
- "updated": "2026-09-05T18:25:57+00:00"
+ "updated": "2026-09-05T21:20:37+00:00"
 }

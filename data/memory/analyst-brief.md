@@ -35,10 +35,8 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-05** (5 zdrojů) US envoys arrive in Moscow ahead of Ukraine talks
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 18 dní · 36 záznamů
+- rubrika `sport` · sledováno 18 dní · 38 záznamů
 - časová osa:
-  - **2026-08-30** (2 zdrojů) Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
-  - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
   - **2026-09-02** (3 zdrojů) Premier League breaks transfer record for second straight summer
   - **2026-09-03** (2 zdrojů) Ranking the most game-changing transfers in Premier League history
   - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
@@ -47,6 +45,8 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (3 zdrojů) Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
   - **2026-09-05** (2 zdrojů) Isak finally arrives as Gakpo proves value to Liverpool
   - **2026-09-05** (2 zdrojů) Hull City v Aston Villa: Premier League – live
+  - **2026-09-05** (2 zdrojů) 'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa
+  - **2026-09-05** (2 zdrojů) Aston Villa still winless after stalemate at Hull
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 23 dní · 29 záznamů
