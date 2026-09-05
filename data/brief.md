@@ -82,22 +82,25 @@
   - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
     <https://huggingface.co/blog/pwc-search>
 
-### 4. Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-- id události: `f247281fba63`  ·  rubrika: `business`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+### 4. US envoys arrive in Moscow ahead of Ukraine talks
+- id události: `83f9a270e22c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Business** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
-    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
-  - **BBC Technology** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
-    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
-  - **DW News** — Nvidia to buy Hugging Face in $12.93 billion deal
-    <https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf>
-    > The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.
-  - **CNBC Top** — What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues
-    <https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html>
-    > This is nothing new to the world of Big Tech.
+  - **BBC World** — US envoys arrive in Moscow ahead of Ukraine talks
+    <https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss>
+    > Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.
+  - **NPR News** — U.S. envoys in Moscow in new push for peace between Russia and Ukraine
+    <https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace>
+    > U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.
+  - **DW News** — US envoys fly to Russia, then Ukraine with plan 'to end war'
+    <https://www.dw.com/en/us-envoys-fly-to-russia-then-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-rdf>
+    > Jared Kushner and Steve Witkoff have reportedly arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Donald Trump's reelection.
+  - **CNBC Top** — U.S. envoys Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine
+    <https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html>
+    > Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.
+  - **Al Jazeera** — At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
+    <https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss>
+    > Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
 
 ---
 
@@ -158,13 +161,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 38  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 39  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 38
-  2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack
+rubrika: world · sledováno od 2026-08-11 · záznamů: 39
   2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy
   2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
@@ -184,6 +186,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 38
   2026-09-04  (2 zdrojů, síla 44)  Europe targeted in summer campaign of sabotage and Russia is the chief suspect
   2026-09-04  (3 zdrojů, síla 55)  Russia strikes Ukraine intelligence HQ in ‘major escalation’
   2026-09-05  (2 zdrojů, síla 42)  Trump sends envoys to Russia, Ukraine with new peace plan
+  2026-09-05  (5 zdrojů, síla 74)  US envoys arrive in Moscow ahead of Ukraine talks
 ```
 
 ---

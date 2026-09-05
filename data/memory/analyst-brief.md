@@ -21,9 +21,8 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 25 dní · 38 záznamů
+- rubrika `world` · sledováno 25 dní · 39 záznamů
 - časová osa:
-  - **2026-09-01** (2 zdrojů) Russian attack hits rail workers in new deadly strikes on Kyiv
   - **2026-09-01** (2 zdrojů) Russia kills at least 12 on sixth night of drone attacks on Kyiv
   - **2026-09-02** (2 zdrojů) EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   - **2026-09-02** (2 zdrojů) Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
@@ -33,6 +32,7 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (2 zdrojů) Europe targeted in summer campaign of sabotage and Russia is the chief suspect
   - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
   - **2026-09-05** (2 zdrojů) Trump sends envoys to Russia, Ukraine with new peace plan
+  - **2026-09-05** (5 zdrojů) US envoys arrive in Moscow ahead of Ukraine talks
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 18 dní · 35 záznamů
@@ -49,9 +49,8 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-05** (2 zdrojů) Isak finally arrives as Gakpo proves value to Liverpool
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 22 dní · 27 záznamů
+- rubrika `world` · sledováno 23 dní · 28 záznamů
 - časová osa:
-  - **2026-08-26** (1 zdrojů) Why a Christian group is suing the Dutch government for West Bank trade ban
   - **2026-08-28** (2 zdrojů) Israeli strike kills three Palestinians in West Bank’s Jenin
   - **2026-08-29** (3 zdrojů) BBC tracks one week of Israeli settler violence in occupied West Bank
   - **2026-08-30** (2 zdrojů) Palestinian woman and NBC News team reportedly attacked in West Bank
@@ -61,6 +60,7 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (2 zdrojů) ‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza
   - **2026-09-04** (2 zdrojů) Israel's West Bank camp displacements could be crime against humanity, UN says
   - **2026-09-04** (2 zdrojů) 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC
+  - **2026-09-05** (2 zdrojů) US ambassador to Israel visits Palestinian town hit by West Bank settler violence
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 25 dní · 17 záznamů
