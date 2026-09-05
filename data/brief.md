@@ -82,25 +82,25 @@
   - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
     <https://huggingface.co/blog/pwc-search>
 
-### 4. Apple Maps changes Lake Ontario to Lake America after Trump order
-- id události: `7ee9d33d0756`  ·  rubrika: `tech`  ·  skóre: 73  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. Jailed HK activist Joshua Wong pleads guilty to foreign collusion
+- id události: `8d4f8a634705`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Business** — Apple Maps changes Lake Ontario to Lake America after Trump order
-    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
-    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
-  - **BBC Technology** — Apple Maps changes Lake Ontario to Lake America after Trump order
-    <https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss>
-    > The move follows an order by President Donald Trump as part of Washington's trade spat with Canada.
-  - **The Guardian World** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
-    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
-    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
-  - **Guardian Business** — MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
-    <https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump>
-    > Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US. MapQuest, which was
-  - **TechCrunch** — Apple follows Google in adopting Trump’s ‘Lake America’ name
-    <https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/>
-    > Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
+  - **BBC World** — Jailed HK activist Joshua Wong pleads guilty to foreign collusion
+    <https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss>
+    > Wong, 29, is already in prison on subversion charges under the controversial National Security Law.
+  - **The Guardian World** — Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case
+    <https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china>
+    > Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong , one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and
+  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty in national security case
+    <https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss>
+    > Pro-democracy activist faces life sentence in second case under Beijing's national security law.
+  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty to foreign collusion
+    <https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss>
+    > High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.
+  - **France 24** — Hong Kong democracy activist Joshua Wong pleads guilty to foreign collusion
+    <https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion>
+    > Hong Kong activist Joshua Wong on Wednesday pleaded guilty to colluding with foreign powers in a trial that could see the 29-year-old spend the rest of his life behind bars. Wong rose to international prominence for his involvement in the 2014 Umbrella Movement and the mass prote
 
 ---
 
