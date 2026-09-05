@@ -1,47 +1,55 @@
 ---
 slug: why-songs-get-stuck-in-your-head
-title: "Why Songs Get Stuck in Your Head"
-dek: "An earworm is not a tiny record player in the brain. It is a loop of memory, prediction and silent rehearsal—and the best way out depends on how the loop is being fed."
+title: Why Songs Get Stuck in Your Head
+dek: An earworm is not a tiny record player in the brain. It is a loop of memory,
+  prediction and silent rehearsal—and the best way out depends on how the loop is
+  being fed.
 section: questions
 type: daily
 depth: open
 lang: en
-date: 2026-09-05
-status: draft
-confidence: 88
+date: '2026-09-05'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-05-slot-1-earworms"
-series: ""
-image_query: "conceptual editorial illustration of a looping ribbon of musical notes becoming an open path, no text or brands"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-05-slot-1-earworms
+series: ''
+image_query: conceptual editorial illustration of a looping ribbon of musical notes
+  becoming an open path, no text or brands
 sources:
-  - name: "American Psychological Association"
-    url: "https://www.apa.org/news/press/releases/2016/11/earworms"
-    published: "2016-11-03"
-  - name: "PLOS One via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/24497938/"
-    published: "2014-01-31"
-  - name: "Quarterly Journal of Experimental Psychology via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/25896521/"
-    published: "2015-04-21"
-  - name: "Music & Science"
-    url: "https://journals.sagepub.com/doi/10.1177/20592043231164581"
-    published: "2023-04-19"
-  - name: "Psychological Science via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/34105416/"
-    published: "2021-06-09"
-qma_path: ""
+- name: American Psychological Association
+  url: https://www.apa.org/news/press/releases/2016/11/earworms
+  published: '2016-11-03'
+- name: PLOS One via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/24497938/
+  published: '2014-01-31'
+- name: Quarterly Journal of Experimental Psychology via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/25896521/
+  published: '2015-04-21'
+- name: Music & Science
+  url: https://journals.sagepub.com/doi/10.1177/20592043231164581
+  published: '2023-04-19'
+- name: Psychological Science via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/34105416/
+  published: '2021-06-09'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which statement best matches the evidence about earworms?"
-  options: ["They are usually signs of an auditory hallucination", "They are commonly short musical memories that can be maintained by silent rehearsal", "They occur only when a song ends before its final note"]
+  question: Which statement best matches the evidence about earworms?
+  options:
+  - They are usually signs of an auditory hallucination
+  - They are commonly short musical memories that can be maintained by silent rehearsal
+  - They occur only when a song ends before its final note
   answer: 1
-  explanation: "Studies describe earworms as involuntary musical imagery, and experiments implicate the same articulatory processes used in mentally rehearsing sound; incomplete endings are only one disputed possible trigger."
+  explanation: Studies describe earworms as involuntary musical imagery, and experiments
+    implicate the same articulatory processes used in mentally rehearsing sound; incomplete
+    endings are only one disputed possible trigger.
 ---
 
 ## BRIEFLY
