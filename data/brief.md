@@ -82,25 +82,22 @@
   - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
     <https://huggingface.co/blog/pwc-search>
 
-### 4. Jailed HK activist Joshua Wong pleads guilty to foreign collusion
-- id události: `8d4f8a634705`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+- id události: `f247281fba63`  ·  rubrika: `business`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC World** — Jailed HK activist Joshua Wong pleads guilty to foreign collusion
-    <https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss>
-    > Wong, 29, is already in prison on subversion charges under the controversial National Security Law.
-  - **The Guardian World** — Hong Kong pro-democracy activist Joshua Wong pleads guilty in second national security case
-    <https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china>
-    > Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong , one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and
-  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty in national security case
-    <https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss>
-    > Pro-democracy activist faces life sentence in second case under Beijing's national security law.
-  - **Al Jazeera** — Hong Kong activist Joshua Wong pleads guilty to foreign collusion
-    <https://www.aljazeera.com/video/newsfeed/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-to-foreign-collusion?traffic_source=rss>
-    > High profile Hong Kong democracy activist Joshua Wong has pleaded guilty to collusion with foreign entities.
-  - **France 24** — Hong Kong democracy activist Joshua Wong pleads guilty to foreign collusion
-    <https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion>
-    > Hong Kong activist Joshua Wong on Wednesday pleaded guilty to colluding with foreign powers in a trial that could see the 29-year-old spend the rest of his life behind bars. Wong rose to international prominence for his involvement in the 2014 Umbrella Movement and the mass prote
+  - **BBC Business** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
+    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
+  - **BBC Technology** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
+    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
+  - **DW News** — Nvidia to buy Hugging Face in $12.93 billion deal
+    <https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf>
+    > The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.
+  - **CNBC Top** — What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues
+    <https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html>
+    > This is nothing new to the world of Big Tech.
 
 ---
 
