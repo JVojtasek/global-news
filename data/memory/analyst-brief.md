@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-04
+# ANALYTICKÉ ZADÁNÍ — 2026-09-05
 
-Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
+Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
 
 ---
 
@@ -35,9 +35,8 @@ Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 17 dní · 34 záznamů
+- rubrika `sport` · sledováno 18 dní · 35 záznamů
 - časová osa:
-  - **2026-08-30** (2 zdrojů) Joao Pedro a central figure - player ratings for Chelsea v Brighton
   - **2026-08-30** (2 zdrojů) Manchester United v Ipswich Town: Premier League – live
   - **2026-08-30** (2 zdrojů) Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller
   - **2026-08-30** (1 zdrojů) Michael Carrick hails Manchester United’s grit after rout of Ipswich
@@ -47,6 +46,7 @@ Paměť obsahuje **80 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
   - **2026-09-04** (2 zdrojů) Ipswich Town v Liverpool: Premier League – live
   - **2026-09-04** (3 zdrojů) Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
+  - **2026-09-05** (2 zdrojů) Isak finally arrives as Gakpo proves value to Liverpool
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 22 dní · 27 záznamů
