@@ -1019,45 +1019,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "israel",
-    "canada",
-    "week",
-    "bank",
-    "israel's",
-    "amos",
-    "labour",
-    "burnham",
-    "multiple",
-    "hind",
-    "israeli",
-    "colombia",
-    "us-led",
+    "italy",
     "news",
-    "far-right",
-    "germany",
-    "gaza",
-    "hamas",
-    "many",
-    "palestinian",
-    "global",
-    "american",
-    "france",
-    "dutch",
-    "nepal",
-    "parton",
-    "former",
     "jenin",
+    "france",
+    "inside",
+    "colombia",
+    "bank",
+    "gaza",
     "gitai",
-    "ben-gvir",
-    "west",
-    "dolly",
-    "palestine",
-    "palestinians",
+    "israel",
+    "hind",
+    "netanyahu",
     "rajab",
     "christian",
-    "italy",
+    "labour",
+    "burnham",
     "city",
-    "netanyahu"
+    "week",
+    "american",
+    "nepal",
+    "canada",
+    "parton",
+    "global",
+    "us-led",
+    "israel's",
+    "germany",
+    "palestinian",
+    "west",
+    "multiple",
+    "former",
+    "palestine",
+    "many",
+    "dutch",
+    "palestinians",
+    "dolly",
+    "israeli",
+    "far-right",
+    "ben-gvir",
+    "amos",
+    "hamas"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -1087,7 +1088,8 @@
     "7e2a725de566",
     "c9484210a14a",
     "89282106da8b",
-    "4bf27b721bfa"
+    "4bf27b721bfa",
+    "db9255b11c8f"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-05",
@@ -1407,6 +1409,17 @@
       "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
       "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Inside the places that shaped Dolly Parton",
+     "sources": 2,
+     "score": 46,
+     "event_id": "db9255b11c8f",
+     "links": [
+      "https://www.bbc.com/travel/article/20260902-the-places-that-shaped-dolly-parton?ocid=global_travel_rss",
+      "https://www.cnbc.com/2026/09/05/dolly-parton-gloria-steinem-never-retired.html"
+     ]
     }
    ]
   },
@@ -1573,6 +1586,62 @@
      "links": [
       "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
       "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "572525ad51af",
+   "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
+   "section": "sport",
+   "entities": [
+    "bournemouth",
+    "zerbi",
+    "newcastle",
+    "spurs",
+    "jaissle"
+   ],
+   "event_ids": [
+    "572525ad51af",
+    "85dfe8cdac28",
+    "d288b968cef6"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-09-05",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
+     "sources": 2,
+     "score": 56,
+     "event_id": "572525ad51af",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "Spurs 'didn't deserve' loss to Newcastle - De Zerbi",
+     "sources": 2,
+     "score": 46,
+     "event_id": "85dfe8cdac28",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c0e3wpp1dj7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/29/biggest-problem-for-spurs-is-finding-right-mentality-says-roberto-de-zerbi"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
+     "sources": 2,
+     "score": 53,
+     "event_id": "d288b968cef6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report"
      ]
     }
    ]
@@ -4814,48 +4883,6 @@
    ]
   },
   {
-   "id": "572525ad51af",
-   "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
-   "section": "sport",
-   "entities": [
-    "zerbi",
-    "newcastle",
-    "spurs",
-    "jaissle"
-   ],
-   "event_ids": [
-    "572525ad51af",
-    "85dfe8cdac28"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-08-29",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
-     "sources": 2,
-     "score": 56,
-     "event_id": "572525ad51af",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "Spurs 'didn't deserve' loss to Newcastle - De Zerbi",
-     "sources": 2,
-     "score": 46,
-     "event_id": "85dfe8cdac28",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c0e3wpp1dj7o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/29/biggest-problem-for-spurs-is-finding-right-mentality-says-roberto-de-zerbi"
-     ]
-    }
-   ]
-  },
-  {
    "id": "f92d737c76de",
    "title": "Norway's King Harald dies aged 89",
    "section": "world",
@@ -6653,5 +6680,5 @@
    ]
   }
  ],
- "updated": "2026-09-05T12:31:23+00:00"
+ "updated": "2026-09-05T15:21:50+00:00"
 }
