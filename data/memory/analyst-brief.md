@@ -21,9 +21,8 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 24 dní · 37 záznamů
+- rubrika `world` · sledováno 25 dní · 38 záznamů
 - časová osa:
-  - **2026-09-01** (2 zdrojů) At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
   - **2026-09-01** (2 zdrojů) Russian attack hits rail workers in new deadly strikes on Kyiv
   - **2026-09-01** (2 zdrojů) Russia kills at least 12 on sixth night of drone attacks on Kyiv
   - **2026-09-02** (2 zdrojů) EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
@@ -33,6 +32,7 @@ Paměť obsahuje **81 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-03** (2 zdrojů) Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
   - **2026-09-04** (2 zdrojů) Europe targeted in summer campaign of sabotage and Russia is the chief suspect
   - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
+  - **2026-09-05** (2 zdrojů) Trump sends envoys to Russia, Ukraine with new peace plan
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 18 dní · 35 záznamů

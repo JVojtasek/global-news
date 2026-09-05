@@ -161,13 +161,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 37  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 38  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 37
-  2026-08-21  (2 zdrojů, síla 45)  'Masha and the Bear': Ukraine sanctions Russian cartoon
+rubrika: world · sledováno od 2026-08-11 · záznamů: 38
   2026-08-22  (2 zdrojů, síla 42)  Russian strikes kill 6 people in Ukraine, day after shopping complex attack
   2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy
   2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
@@ -187,6 +186,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 37
   2026-09-03  (2 zdrojů, síla 40)  Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
   2026-09-04  (2 zdrojů, síla 44)  Europe targeted in summer campaign of sabotage and Russia is the chief suspect
   2026-09-04  (3 zdrojů, síla 55)  Russia strikes Ukraine intelligence HQ in ‘major escalation’
+  2026-09-05  (2 zdrojů, síla 42)  Trump sends envoys to Russia, Ukraine with new peace plan
 ```
 
 ---
