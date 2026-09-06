@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-06
 
-Paměť obsahuje **83 vláken**. Aktivních za posledních 14 dní: **40**.
+Paměť obsahuje **83 vláken**. Aktivních za posledních 14 dní: **41**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **83 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-05** (2 zdrojů) US military says it struck three Iranian tankers after American warships came under missile attack
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 25 dní · 39 záznamů
+- rubrika `world` · sledováno 26 dní · 40 záznamů
 - časová osa:
-  - **2026-09-01** (2 zdrojů) Russia kills at least 12 on sixth night of drone attacks on Kyiv
   - **2026-09-02** (2 zdrojů) EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   - **2026-09-02** (2 zdrojů) Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
   - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
@@ -33,6 +32,7 @@ Paměť obsahuje **83 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
   - **2026-09-05** (2 zdrojů) Trump sends envoys to Russia, Ukraine with new peace plan
   - **2026-09-05** (5 zdrojů) US envoys arrive in Moscow ahead of Ukraine talks
+  - **2026-09-06** (2 zdrojů) Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 18 dní · 38 záznamů

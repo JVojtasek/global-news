@@ -9,7 +9,31 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. OpenAI agents hijacked German website before Hugging Face hack, report claims
+### 1. Video shows damaged Amazon cargo plane after crash
+- id události: `ef61e9d52745`  ·  rubrika: `business`  ·  skóre: 81  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Video shows damaged Amazon cargo plane after crash
+    <https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss>
+    > An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.
+  - **Guardian Business** — Amazon cargo plane crashes at Miami airport and hits several vehicles
+    <https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport>
+    > FAA confirms crash and airport operations brought to a halt as videos show heavy plumes of smoke surrounding aircraft An Amazon cargo plane crashed at Miami international airport in Florida on Sunday afternoon after the flight, which was arriving from Puerto Rico, overshot the ru
+  - **NPR News** — 'Multiple patients' after Amazon cargo plane crashes at Miami airport
+    <https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport>
+    > Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.
+  - **CNBC Top** — Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend
+    <https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html>
+    > An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.
+  - **The Verge** — An Amazon cargo plane crashed at Miami International Airport
+    <https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami>
+    > A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the after
+  - **Investing.com** — Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights
+    <https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316>
+  - **Investing.com** — Amazon Prime Air Boeing 767 overruns runway at Miami airport
+    <https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317>
+
+### 2. OpenAI agents hijacked German website before Hugging Face hack, report claims
 - id události: `3152bdb0ea47`  ·  rubrika: `tech`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -29,7 +53,7 @@
     <https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html>
     > Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.
 
-### 2. US envoys arrive in Moscow ahead of Ukraine talks
+### 3. US envoys arrive in Moscow ahead of Ukraine talks
 - id události: `83f9a270e22c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -49,40 +73,19 @@
     <https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss>
     > Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
 
-### 3. Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-- id události: `f247281fba63`  ·  rubrika: `business`  ·  skóre: 65  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC Business** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
-    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
-  - **BBC Technology** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
-    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
-  - **DW News** — Nvidia to buy Hugging Face in $12.93 billion deal
-    <https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf>
-    > The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.
-  - **CNBC Top** — What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues
-    <https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html>
-    > This is nothing new to the world of Big Tech.
-
-### 4. OpenAI launches Astra, its powerful (and controversial) new model
-- id události: `341a230bd977`  ·  rubrika: `tech`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+### 4. Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
+- id události: `a0428a510351`  ·  rubrika: `sport`  ·  skóre: 60  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **TechCrunch** — OpenAI launches Astra, its powerful (and controversial) new model
-    <https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/>
-    > OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety."
-  - **CNBC Top** — OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
-    <https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html>
-    > OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.
-  - **The Verge** — OpenAI’s next big AI model has ‘entered the AGI era’
-    <https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release>
-    > OpenAI's next big model is here: GPT-6 Astra. The company calls it a "generational leap in capability" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as 
-  - **Investing.com** — OpenAI launches new Astra model amid growing scrutiny over agents’ safety
-    <https://www.investing.com/news/economy-news/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-4888385>
-  - **Investing.com** — OpenAI launches GPT-6 Astra for enterprise users today
-    <https://www.investing.com/news/stock-market-news/openai-launches-gpt6-astra-for-enterprise-users-today-93CH-4888380>
+  - **BBC Sport** — Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
+    <https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss>
+    > How Liverpool and Ipswich Town's players rated following their Premier League match.
+  - **Al Jazeera** — Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win
+    <https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss>
+    > Bradley Barcola makes his debut as Alexander Isak scores both Liverpool goals in 2-0 win at Ipswich Town.
+  - **Guardian Sport** — Premier League news: Carrick warns no quick fix, Emery has ‘hard’ Harwood-Bellis chat
+    <https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham>
+    > Maresca hails ‘winner’ Fernández but will not make him captain, and De Zerbi defends Richarlison treatment Continue reading...
 
 ---
 
@@ -150,13 +153,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 39  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 40  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 39
-  2026-08-23  (2 zdrojů, síla 40)  Holding election in wartime would risk destroying Ukraine, says Zelenskyy
+rubrika: world · sledováno od 2026-08-11 · záznamů: 40
   2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
   2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
@@ -176,6 +178,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 39
   2026-09-04  (3 zdrojů, síla 55)  Russia strikes Ukraine intelligence HQ in ‘major escalation’
   2026-09-05  (2 zdrojů, síla 42)  Trump sends envoys to Russia, Ukraine with new peace plan
   2026-09-05  (5 zdrojů, síla 74)  US envoys arrive in Moscow ahead of Ukraine talks
+  2026-09-06  (2 zdrojů, síla 48)  Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
 ```
 
 ---

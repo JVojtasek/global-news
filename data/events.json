@@ -1,5 +1,81 @@
 [
  {
+  "id": "ef61e9d52745",
+  "headline": "Video shows damaged Amazon cargo plane after crash",
+  "section": "business",
+  "score": 81,
+  "sources_count": 6,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T20:41:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Video shows damaged Amazon cargo plane after crash",
+    "url": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
+    "published_at": "2026-09-06T20:41:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Amazon cargo plane crashes at Miami airport and hits several vehicles",
+    "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
+    "source": "Guardian Business",
+    "summary": "FAA confirms crash and airport operations brought to a halt as videos show heavy plumes of smoke surrounding aircraft An Amazon cargo plane crashed at Miami international airport in Florida on Sunday afternoon after the flight, which was arriving from Puerto Rico, overshot the runway, striking several vehicles and erupting in flames as dark smoke billowed into the sky, bringing operations at one o",
+    "published_at": "2026-09-06T20:24:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "'Multiple patients' after Amazon cargo plane crashes at Miami airport",
+    "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+    "source": "NPR News",
+    "summary": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
+    "published_at": "2026-09-06T19:54:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend",
+    "url": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
+    "source": "CNBC Top",
+    "summary": "An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.",
+    "published_at": "2026-09-06T21:09:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "An Amazon cargo plane crashed at Miami International Airport",
+    "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+    "source": "The Verge",
+    "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement […]",
+    "published_at": "2026-09-06T20:56:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights",
+    "url": "https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-06T20:50:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Amazon Prime Air Boeing 767 overruns runway at Miami airport",
+    "url": "https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-06T19:42:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
   "id": "3152bdb0ea47",
   "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
   "section": "tech",
@@ -112,113 +188,6 @@
     "published_at": "2026-09-05T10:27:23+00:00",
     "source_countries": [],
     "seen_at": "2026-09-05T12:31:18+00:00"
-   }
-  ]
- },
- {
-  "id": "f247281fba63",
-  "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-  "section": "business",
-  "score": 65,
-  "sources_count": 4,
-  "depth_signal": 2,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T16:32:05+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-    "published_at": "2026-09-03T16:32:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-    "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-    "published_at": "2026-09-03T16:32:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Nvidia to buy Hugging Face in $12.93 billion deal",
-    "url": "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.",
-    "published_at": "2026-09-03T12:47:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues",
-    "url": "https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html",
-    "source": "CNBC Top",
-    "summary": "This is nothing new to the world of Big Tech.",
-    "published_at": "2026-09-03T18:14:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "341a230bd977",
-  "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
-  "section": "tech",
-  "score": 65,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T18:01:45+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "source": "TechCrunch",
-    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-    "published_at": "2026-09-03T18:01:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-    "source": "CNBC Top",
-    "summary": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
-    "published_at": "2026-09-03T18:00:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-    "source": "The Verge",
-    "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't […]",
-    "published_at": "2026-09-03T18:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "OpenAI launches new Astra model amid growing scrutiny over agents’ safety",
-    "url": "https://www.investing.com/news/economy-news/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-4888385",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-03T18:06:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "OpenAI launches GPT-6 Astra for enterprise users today",
-    "url": "https://www.investing.com/news/stock-market-news/openai-launches-gpt6-astra-for-enterprise-users-today-93CH-4888380",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-03T18:03:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -1237,6 +1206,46 @@
   ]
  },
  {
+  "id": "a91f8b5f6b57",
+  "headline": "Champions Arsenal come from behind to beat Chelsea",
+  "section": "sport",
+  "score": 51,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T18:58:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Champions Arsenal come from behind to beat Chelsea",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Reigning champions Arsenal came from behind to beat big-spending Chelsea in a pulsating London derby at Emirates Stadium.",
+    "published_at": "2026-09-06T18:58:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Chelsea defeat by Arsenal hurts - Alonso",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Chelsea manager Xabi Alonso reacts to their 2-1 defeat by rivals Arsenal in a thrilling London derby at the Emirates Stadium.",
+    "published_at": "2026-09-06T18:35:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay",
+    "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026",
+    "source": "Guardian Sport",
+    "summary": "The home side’s response to Chelsea’s early goal was to play breathless attacking football We’re back, baby. So, so back. Well, OK, not exactly back. But back down the time tunnel, for a while at least, as on a powder blue afternoon at the Emirates Stadium, Arsenal and Chelsea produced an opening half-hour that felt like a throwback to prime Barclays of the early 2000s. In that period this really ",
+    "published_at": "2026-09-06T21:08:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
   "id": "49d295514768",
   "headline": "The unusually muted Tesla Cybercab launch",
   "section": "tech",
@@ -1313,77 +1322,6 @@
     "published_at": "2026-09-06T14:03:17+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "b3ca40609586",
-  "headline": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
-  "section": "tech",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:00:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
-    "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
-    "source": "CNBC Top",
-    "summary": "Xbox Game Pass subscribers will have cloud gaming capped starting in November.",
-    "published_at": "2026-09-03T17:00:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-    "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
-    "source": "The Verge",
-    "summary": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 hours on Ultimate, […]",
-    "published_at": "2026-09-03T17:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
-    "url": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
-    "source": "The Verge",
-    "summary": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly subscription. \"Players […]",
-    "published_at": "2026-09-03T17:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "ea175bcaebd9",
-  "headline": "HPE patches critical ArubaOS-CX remote code execution flaw",
-  "section": "safety",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T18:28:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-    "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-    "source": "BleepingComputer",
-    "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-    "published_at": "2026-09-03T18:28:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-    "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-    "source": "The Hacker News",
-    "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version. The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is",
-    "published_at": "2026-09-03T15:52:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -1544,6 +1482,37 @@
     "published_at": "2026-09-05T23:20:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T01:04:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4b22560d8220",
+  "headline": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+  "section": "world",
+  "score": 48,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T20:52:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+    "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+    "published_at": "2026-09-06T20:52:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+    "published_at": "2026-09-06T18:28:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
@@ -1783,33 +1752,33 @@
   ]
  },
  {
-  "id": "0d7f2cee7e6c",
-  "headline": "Mas extends lead as Omrzel wins Vuelta stage 12",
+  "id": "a18171ebfc3e",
+  "headline": "Shaw double leads Man City to victory over Birmingham",
   "section": "sport",
-  "score": 45,
+  "score": 46,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:20:12+00:00",
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T18:47:15+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Mas extends lead as Omrzel wins Vuelta stage 12",
-    "url": "https://www.bbc.co.uk/sport/cycling/articles/c770n8jez7ko?at_medium=RSS&at_campaign=rss",
+    "title": "Shaw double leads Man City to victory over Birmingham",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e0e1pvro?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "Spain's Enric Mas extends his overall lead in the Vuelta a Espana with a late attack as Slovenia's Jakob Omrzel wins stage 12 to Calar Alto.",
-    "published_at": "2026-09-03T17:20:12+00:00",
+    "summary": "Manchester City's defence of their Women's Super League title gets off to the perfect start with victory over newly promoted Birmingham City.",
+    "published_at": "2026-09-06T18:47:15+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
    },
    {
-    "title": "Vuelta a España: Jakob Omrzel grabs first Grand Tour stage win as Enric Mas extends lead",
-    "url": "https://www.theguardian.com/sport/2026/sep/03/vuelta-a-espana-omrzel-grabs-first-grand-tour-stage-win-as-mas-extends-lead",
+    "title": "Women’s Super League: Shaw doubles up to give Manchester City winning start",
+    "url": "https://www.theguardian.com/football/2026/sep/06/womens-super-league-wsl-roundup-khadija-shaw-manchester-city-birmingham",
     "source": "Guardian Sport",
-    "summary": "Slovenian wins stage 12 as Mas strengthens position Tim Merlier claims stage two in Tour of Britain Spain’s Enric Mas extended his overall lead in the Vuelta a España with a late attack on his rivals ⁠as Slovenia’s Jakob Omrzel won stage 12 to Calar Alto on Thursday. Movistar rider Mas burst out of a chasing group including red jersey contenders Primoz ⁠Roglic and Felix Gall ⁠with around ​13km of ",
-    "published_at": "2026-09-03T17:58:17+00:00",
+    "summary": "Striker scores twice to sink Birmingham Arsenal, Palace, Spurs and Liverpool win Some things just feel inevitable. Some strikers just feel inevitable. Despite a new season, a fresh start and new opponents, it is still the same storyline for Manchester City : Khadija Shaw wins them the game. The Jamaica striker began the campaign exactly how she finished the previous league season, with two goals, ",
+    "published_at": "2026-09-06T18:35:01+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
@@ -1881,37 +1850,6 @@
     "published_at": "2026-09-05T22:11:21+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T01:04:59+00:00"
-   }
-  ]
- },
- {
-  "id": "ef4cc1dced0b",
-  "headline": "Arsenal's Martinelli joins Al-Hilal in £60m move",
-  "section": "sport",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T16:30:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Arsenal winger Gabriel Martinelli has joined Saudi Pro League side Al-Hilal for £60m.",
-    "published_at": "2026-09-03T16:30:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
-    "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
-    "source": "Guardian Sport",
-    "summary": "Forward follows Gabriel Jesus out of champions Richarlison not in Tottenham’s Premier League squad Arsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is understood the deal for Brazil forward includes a sell-on clause. Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad ",
-    "published_at": "2026-09-03T17:26:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -2186,6 +2124,37 @@
   ]
  },
  {
+  "id": "ec4ed5ddef51",
+  "headline": "Far too late for title fight priority - Hamilton",
+  "section": "sport",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T18:22:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Far too late for title fight priority - Hamilton",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/c5y4k1v7gryo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Lewis Hamilton says it is \"far too late\" for Ferrari to give him priority over team-mate Charles Leclerc in the championship fight.",
+    "published_at": "2026-09-06T18:22:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Lewis Hamilton rules out world title challenge after Italian Grand Prix setback",
+    "url": "https://www.theguardian.com/sport/2026/sep/06/lewis-hamilton-ferrari-italian-grand-prix-formula-one",
+    "source": "Guardian Sport",
+    "summary": "Briton finishes sixth after clash with teammate Leclerc Hamilton questions Ferrari chief Fred Vasseur’s strategy Lewis Hamilton has conceded the Formula One world championship this year is all but out of reach after a bruising Italian Grand Prix. Hamilton’s afternoon included a clash with his Ferrari teammate Charles Leclerc, which he thought was the result of the team’s failure to listen to his e",
+    "published_at": "2026-09-06T20:16:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
   "id": "e1a7100c9fae",
   "headline": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
   "section": "business",
@@ -2417,68 +2386,6 @@
     "published_at": "2026-09-06T16:55:37+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T18:26:00+00:00"
-   }
-  ]
- },
- {
-  "id": "3c4a62dce6a4",
-  "headline": "Canada ready for a trade deal with US that benefits both, Carney says",
-  "section": "business",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:18:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Canada ready for a trade deal with US that benefits both, Carney says",
-    "url": "https://www.aljazeera.com/economy/2026/9/3/canada-ready-for-a-trade-deal-with-us-that-benefits-both-carney-says?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Carney says Canada is ready for a deal that benefits both Canadian and US businesses and workers.",
-    "published_at": "2026-09-03T17:18:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
-    "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
-    "source": "CNBC Top",
-    "summary": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week.",
-    "published_at": "2026-09-03T16:06:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "d568df2ae188",
-  "headline": "Meet the 2026 Ig Nobel Prize winners",
-  "section": "tech",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:00:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Meet the 2026 Ig Nobel Prize winners",
-    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-    "source": "Ars Technica",
-    "summary": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
-    "published_at": "2026-09-03T17:00:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Japanese scientist Shirakawa, co-winner of 2000 Nobel Prize in chemistry, dies at 90",
-    "url": "https://phys.org/news/2026-09-japanese-scientist-shirakawa-winner-nobel.html",
-    "source": "Phys.org",
-    "summary": "Japanese scientist Hideki Shirakawa, co-winner of the 2000 Nobel Prize in chemistry for discovering and developing conductive polymers, has died. He was 90.",
-    "published_at": "2026-09-03T16:20:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -3094,24 +3001,33 @@
   ]
  },
  {
-  "id": "4156125c5f39",
-  "headline": "Historic Trove of Monets, Renoirs and Other Impressionist Masterpieces Expected to Fetch Up to $50 Million on Auction Block This Fall",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
+  "id": "d86a7d908263",
+  "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:16:15+00:00",
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-04T23:07:23+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Historic Trove of Monets, Renoirs and Other Impressionist Masterpieces Expected to Fetch Up to $50 Million on Auction Block This Fall",
-    "url": "https://www.smithsonianmag.com/smart-news/historic-trove-of-monets-renoirs-and-other-impressionist-masterpieces-expected-to-fetch-up-to-50-million-on-auction-block-this-fall-180989448/",
-    "source": "Smithsonian Mag",
-    "summary": "More than 60 paintings from the private estate of Paul Durand-Ruel, who shepherded Impressionism out from obscurity, will be up for sale",
-    "published_at": "2026-09-03T17:16:15+00:00",
+    "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+    "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+    "published_at": "2026-09-04T23:07:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Germany's far-right AfD clear frontrunner in eastern state vote",
+    "url": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote-1",
+    "source": "France 24",
+    "summary": "German voters headed to the polls on Sunday for a key regional election in the ex-communist east where the far-right, anti-immigrant, Moscow- and Trump-friendly AfD is expected to secure an easy majority. Our correspondent Nick Holdsworth tells us more.",
+    "published_at": "2026-09-06T11:54:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
@@ -3514,95 +3430,64 @@
   ]
  },
  {
-  "id": "f6f8e16c5c1a",
-  "headline": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
-  "section": "world",
-  "score": 40,
+  "id": "5a82550c746c",
+  "headline": "After transfer worries, Everton have an unlikely new hero",
+  "section": "sport",
+  "score": 41,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T16:17:29+00:00",
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T19:09:59+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
-    "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
-    "source": "The Guardian World",
-    "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources The Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”. In her first public comments since Trump announced what he called “the biggest oil de",
-    "published_at": "2026-09-03T16:17:29+00:00",
+    "title": "After transfer worries, Everton have an unlikely new hero",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cd79g72r7q7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Not even Ainsley Maitland-Niles could have imagined his Premier League return for Everton would have played out like it did.",
+    "published_at": "2026-09-06T19:09:59+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
    },
    {
-    "title": "Nobel laureate Machado: ‘Illegitimate’ Venezuela regime has no right to strike US oil deal",
-    "url": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
-    "source": "Guardian Business",
-    "summary": "Opposition leader says interim government lacking democratic mandate to negotiate on natural resources The Venezuelan opposition leader María Corina Machado has questioned Donald Trump’s oil deal with Venezuela’s interim government, saying the country’s natural resources do not belong to “an illegitimate regime”. In her first public comments since Trump announced what he called “the biggest oil de",
-    "published_at": "2026-09-03T16:17:29+00:00",
+    "title": "‘No excuses’: Moyes says transfer troubles will not hurt Everton after United draw",
+    "url": "https://www.theguardian.com/football/2026/sep/06/david-moyes-ainsley-maitland-niles-everton-manchester-united-premier-league",
+    "source": "Guardian Sport",
+    "summary": "Manager praises team’s resilience after late equaliser ‘Everyone has to find a way of making it work’ David Moyes praised Everton’s resilient response to a troubled week after his side twice came from behind to salvage a point against Manchester United through Ainsley Maitland-Niles’s long-range strike. The deadline-day signing, who was introduced in the 77th minute after James Garner pulled up wi",
+    "published_at": "2026-09-06T18:49:39+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
  {
-  "id": "43e6eee6779c",
-  "headline": "Fox News star Maria Bartiromo is out at the network",
-  "section": "world",
-  "score": 40,
+  "id": "d289ddd8927e",
+  "headline": "Sabalenka overcomes tricky Townsend test at US Open",
+  "section": "sport",
+  "score": 41,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T18:05:57+00:00",
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T19:40:47+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Fox News star Maria Bartiromo is out at the network",
-    "url": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
-    "source": "NPR News",
-    "summary": "Fox News suddently announced it had cut ties with anchor Maria Bartiromo after more than a dozen years.",
-    "published_at": "2026-09-03T18:05:57+00:00",
+    "title": "Sabalenka overcomes tricky Townsend test at US Open",
+    "url": "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Two-time defending champion Aryna Sabalenka emulates Serena Williams by overcoming Taylor Townsend to reach a sixth straight US Open quarter-final.",
+    "published_at": "2026-09-06T19:40:47+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
    },
    {
-    "title": "Fox News parts ways with longtime host Maria Bartiromo",
-    "url": "https://www.cnbc.com/2026/09/03/fox-news-host-maria-bartiromo-leaves.html",
-    "source": "CNBC Top",
-    "summary": "The company's statement did not specify the reasons for the separation.",
-    "published_at": "2026-09-03T18:28:17+00:00",
+    "title": "Sabalenka battles past Townsend to set up Noskova US Open quarter-final",
+    "url": "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis",
+    "source": "Guardian Sport",
+    "summary": "Reigning champion beats Townsend in straight sets Linda Noskova defeats Marta Kostyuk 7-5, 5-7, 6-4 Aryna Sabalenka’s US Open title defence continued to gather steam as she returned to the ­quarter‑finals at Flushing Meadows with a solid ­performance and an assured ­victory, defeating Taylor Townsend 6-4, 6-3. This was a challenging match despite the routine scoreline, with Sabalenka failing initi",
+    "published_at": "2026-09-06T20:16:01+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "a6ba786dfb92",
-  "headline": "Cancer cells release antioxidants to prevent immune cells from destroying them",
-  "section": "science",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T18:00:10+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cancer cells release antioxidants to prevent immune cells from destroying them",
-    "url": "https://medicalxpress.com/news/2026-09-cancer-cells-antioxidants-immune-destroying.html",
-    "source": "Medical Xpress",
-    "summary": "Molecules called reactive oxygen species, which include so-called \"free radicals,\" have long been viewed as damaging byproducts of our body's metabolism—a reason antioxidant supplements have been considered a potential way to reduce cancer risk.",
-    "published_at": "2026-09-03T18:00:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Bacterial nanoplatform reprograms spleen immune cells to help prevent cancer recurrence",
-    "url": "https://phys.org/news/2026-09-bacterial-nanoplatform-reprograms-spleen-immune.html",
-    "source": "Phys.org",
-    "summary": "A research team led by Professor Yong Taik Lim at the SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, have developed an engineered nanoplatform named t-SMC (trained immunity-mediated splenic myelopoiesis converter), which precisely targets the spleen to reverse splenic myelopoiesis toward an antitumoral immune phenotype. The research is published in the journal Advanced",
-    "published_at": "2026-09-03T16:00:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
@@ -3970,37 +3855,6 @@
   ]
  },
  {
-  "id": "61cc36a53658",
-  "headline": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-  "section": "tech",
-  "score": 39,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T16:42:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-    "source": "TechCrunch",
-    "summary": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
-    "published_at": "2026-09-03T16:42:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-    "url": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-    "source": "The Verge",
-    "summary": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited […]",
-    "published_at": "2026-09-03T16:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
   "id": "adee6b108a3c",
   "headline": "'Empty nest' can trigger loneliness and loss in older parents, study finds",
   "section": "science",
@@ -4302,37 +4156,6 @@
     "published_at": "2026-09-06T08:49:41+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T09:24:16+00:00"
-   }
-  ]
- },
- {
-  "id": "8394a8a36d91",
-  "headline": "Google launches AI voice features in Gmail, Docs, and Keep",
-  "section": "tech",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T16:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-    "source": "TechCrunch",
-    "summary": "Users can search for emails or draft documents using the new conversational feature.",
-    "published_at": "2026-09-03T16:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Google now lets you chat with Gmail, Docs, and Keep",
-    "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-    "source": "The Verge AI",
-    "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down […]",
-    "published_at": "2026-09-03T16:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -4890,24 +4713,86 @@
   ]
  },
  {
-  "id": "ca5a29e6bdd6",
-  "headline": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
-  "section": "culture",
-  "score": 37,
-  "sources_count": 1,
+  "id": "f66083e60b1e",
+  "headline": "Woman laid to rest in coffin made from mushrooms in Australian first",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:30:44+00:00",
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T19:00:12+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
-    "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
-    "source": "Guardian Culture",
-    "summary": "Venice film festival: Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromanti",
-    "published_at": "2026-09-03T17:30:44+00:00",
+    "title": "Woman laid to rest in coffin made from mushrooms in Australian first",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
+    "source": "The Guardian World",
+    "summary": "The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the process Get our breaking news email , free app or daily news podcast A woman has been buried in a coffin made from mushrooms in New South Wales in an eco-friendly first for Australia. Carolyn, aged in her 70s, was laid to rest on Friday by friends and family at Springwood Cemetery in the Bl",
+    "published_at": "2026-09-06T19:00:12+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Woman laid to rest in coffin made from mushrooms in Australian first",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
+    "source": "Guardian Business",
+    "summary": "The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the process Get our breaking news email , free app or daily news podcast A woman has been buried in a coffin made from mushrooms in New South Wales in an eco-friendly first for Australia. Carolyn, aged in her 70s, was laid to rest on Friday by friends and family at Springwood Cemetery in the Bl",
+    "published_at": "2026-09-06T19:00:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "625aea0ff2c0",
+  "headline": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+  "section": "world",
+  "score": 38,
+  "sources_count": 1,
+  "depth_signal": 8,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T19:45:36+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+    "url": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Michigan Senate hopeful spoke about his faith and the experiences of Muslim Americans.",
+    "published_at": "2026-09-06T19:45:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fd9c5c457e64",
+  "headline": "Roger Goodell’s NFL reign to reach 24 years after new contract extension",
+  "section": "business",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T18:33:23+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Roger Goodell’s NFL reign to reach 24 years after new contract extension",
+    "url": "https://www.theguardian.com/sport/2026/sep/06/roger-goodells-nfl-reign-to-reach-24-years-after-new-contract-extension",
+    "source": "Guardian Sport",
+    "summary": "NFL owners approve deal for league commissioner Revenues and team values have soared under leadership NFL commissioner Roger Goodell has agreed on a four-year contract extension that runs through the 2030 league season, ending on 31 March 2031. In a memo sent to NFL owners on Sunday, New England Patriots owner Robert Kraft said: “We believe we are very fortunate to have Roger at the helm for the n",
+    "published_at": "2026-09-06T18:33:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "NFL Commissioner Roger Goodell agrees on a 4-year contract extension",
+    "url": "https://www.cnbc.com/2026/09/06/nfl-commissioner-roger-goodell-agrees-on-a-4-year-contract-extension.html",
+    "source": "CNBC Top",
+    "summary": "New England Patriots owner Robert Kraft said in a memo: \"We believe we are very fortunate to have Roger at the helm for the next four years.\"",
+    "published_at": "2026-09-06T18:28:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
@@ -5173,94 +5058,6 @@
     "published_at": "2026-09-06T07:00:01+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T09:24:16+00:00"
-   }
-  ]
- },
- {
-  "id": "5e6d2ae88266",
-  "headline": "Sabotage, leaks and political ties: the story of the Daphne Caruana Galizia murder trial",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:13:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Sabotage, leaks and political ties: the story of the Daphne Caruana Galizia murder trial",
-    "url": "https://www.theguardian.com/world/2026/sep/03/sabotage-leaks-and-political-ties-the-story-of-the-daphne-caruana-galizia-trial",
-    "source": "The Guardian World",
-    "summary": "A Maltese businessman has been cleared of involvement in the journalist’s death, but his trial revealed the challenges faced by those leading the search for her killers The conclusion of the longest-running murder trial in Maltese history has left a country in turmoil, and a grieving family still searching for answers. At 7.30pm on Wednesday, gasps and cheers echoed around hall 22 of the courts of",
-    "published_at": "2026-09-03T17:13:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "ba7f6688b285",
-  "headline": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
-  "section": "health",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-01T08:42:10+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
-    "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
-    "published_at": "2026-09-01T08:42:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "a8629af1ed23",
-  "headline": "A Signature Hawaiian Textile With a Rich History Is Making a Splash in the Fashion World",
-  "section": "culture",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T15:27:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "A Signature Hawaiian Textile With a Rich History Is Making a Splash in the Fashion World",
-    "url": "https://www.smithsonianmag.com/travel/a-signature-hawaiian-textile-with-a-rich-history-is-making-a-splash-in-the-fashion-world-180989443/",
-    "source": "Smithsonian Mag",
-    "summary": "The blocky, plaid palaka design has evolved beyond its roots as simple workwear, crossing over ethnic and class lines as a symbol of local pride",
-    "published_at": "2026-09-03T15:27:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "c3381920332f",
-  "headline": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-  "section": "safety",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-08-31T13:50:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-    "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-    "source": "The Hacker News",
-    "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept",
-    "published_at": "2026-08-31T13:50:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
    }
   ]
  },
@@ -5945,81 +5742,6 @@
   ]
  },
  {
-  "id": "62a156b976eb",
-  "headline": "England power to easy victory and claim series win over Ireland",
-  "section": "sport",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-09-03T17:50:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "England power to easy victory and claim series win over Ireland",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/c2l8zjrrz7do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "England seal a series win, thrashing Ireland by six wickets with 27 overs to spare in the second One Day International in Derby.",
-    "published_at": "2026-09-03T17:50:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   },
-   {
-    "title": "Wong stars as England thump Ireland to seal series",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/czxz1v7xyk9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-match series with a game to spare.",
-    "published_at": "2026-09-03T17:26:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "d148a685ab93",
-  "headline": "Tribute to Dolly Parton: Country Music Star and Childhood Literacy Champion Giving Free Books to Kids (1946-2026)",
-  "section": "goodnews",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-08-26T13:00:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Tribute to Dolly Parton: Country Music Star and Childhood Literacy Champion Giving Free Books to Kids (1946-2026)",
-    "url": "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/",
-    "source": "Good News Network",
-    "summary": "Dolly Parton passed away yesterday at age 80 following a brief battle with cancer. She leaves behind a legacy captured in many GNN stories; one of championing childhood literacy, uplifting Americans of every gender, color, and creed, and of several enduring musical hits in the country genre. Multiple reports from family detail that she passed […] The post Tribute to Dolly Parton: Country Music Sta",
-    "published_at": "2026-08-26T13:00:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
-  "id": "62520fb19d8c",
-  "headline": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T18:31:26+00:00",
-  "event_time": "2026-08-31T12:14:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-    "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-    "source": "The Hacker News",
-    "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
-    "published_at": "2026-08-31T12:14:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T18:31:23+00:00"
-   }
-  ]
- },
- {
   "id": "8144c97eec9f",
   "headline": "Widow whose husband died after falling in slurry pit says farmers facing pressures",
   "section": "science",
@@ -6686,6 +6408,50 @@
     "published_at": "2026-09-06T13:00:07+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T15:21:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6825b4e5fb9c",
+  "headline": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T21:12:29+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
+    "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Follow the day’s news live The independent member for Curtin, Kate Chaney , will put forward a bill to establish Australia’s first legislated mandatory framework for the use of automated decision-making in government this week. The use of the controversial tool within the aged care sector has affected hundreds of applications for out-of-home care. It’s not clear if there’s a human who can actually",
+    "published_at": "2026-09-06T21:12:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "123b90c7eeb9",
+  "headline": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-02T07:08:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+    "source": "The Hacker News",
+    "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
+    "published_at": "2026-09-02T07:08:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
@@ -7426,6 +7192,28 @@
     "published_at": "2026-09-06T14:07:35+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T15:21:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6ff9df25a031",
+  "headline": "'I'm only alive thanks to one man' -  British driver rescued from car fire in China race",
+  "section": "sport",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T20:04:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'I'm only alive thanks to one man' -  British driver rescued from car fire in China race",
+    "url": "https://www.bbc.co.uk/sport/motorsport/articles/cp9305r12lpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "British racing driver Ollie Millroy says he is only alive thanks to a rival who pulled him from the burning wreckage of his car following a crash at the China GT.",
+    "published_at": "2026-09-06T20:04:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
@@ -8262,6 +8050,72 @@
   ]
  },
  {
+  "id": "313e96fead9d",
+  "headline": "Investors in Situational Awareness deserved to lose their shirts",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-08-04T17:11:44+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Investors in Situational Awareness deserved to lose their shirts",
+    "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+    "source": "Economist Finance",
+    "summary": "The plight of the hedge fund says more about them than about its 24-year-old founder",
+    "published_at": "2026-08-04T17:11:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f2ecdc1e8cc5",
+  "headline": "Adéla: Prima review – Slovakian star smashes the fourth wall to bask in pop’s cynicism and seduction",
+  "section": "culture",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-03T14:30:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Adéla: Prima review – Slovakian star smashes the fourth wall to bask in pop’s cynicism and seduction",
+    "url": "https://www.theguardian.com/music/2026/sep/03/adela-prima-review-polydor",
+    "source": "Guardian Culture",
+    "summary": "(Polydor) The 22-year-old is impressively frank about indulging industry sleaze in her pursuit of fame on a debut that puts a distinctive spin on the best of 00s hedonism There’s something very striking about hearing a pop star in 2026, their voice larded with Auto-Tune, opening a song with the line “I can’t really sing”. We live in an era where fans seem more aware than ever of the nefarious musi",
+    "published_at": "2026-09-03T14:30:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "de5690d7d612",
+  "headline": "The Hugging Face hack could indicate cultural issues at OpenAI",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-08-31T18:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "source": "MIT TR — AI",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
+    "published_at": "2026-08-31T18:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
   "id": "7d8bb82203ac",
   "headline": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
   "section": "world",
@@ -8478,6 +8332,125 @@
     "published_at": "2026-09-03T14:21:51+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0a65a9c8a8bb",
+  "headline": "Saxony-Anhalt: Digesting the AfD's landmark election win",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T21:04:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Saxony-Anhalt: Digesting the AfD's landmark election win",
+    "url": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "With well over 40% for the far-right Alternative for Germany (AfD), Saxony-Anhalt has witnessed a landmark election night. DW's reporters were on the ground.",
+    "published_at": "2026-09-06T21:04:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   },
+   {
+    "title": "Saxony-Anhalt election: Why the AfD is so strong",
+    "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The AfD has emerged as the strongest party in Germany's eastern state of Saxony-Anhalt by a wide margin. What is driving support for the far right in this predominantly rural eastern German state?",
+    "published_at": "2026-09-06T18:33:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fd13f59e6ee3",
+  "headline": "Scaring monkeys? Detecting bedbugs? Meet the elite working dogs – in pictures",
+  "section": "culture",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-01T06:00:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Scaring monkeys? Detecting bedbugs? Meet the elite working dogs – in pictures",
+    "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/01/elite-working-dogs-in-pictures-john-fabiano",
+    "source": "Guardian Culture",
+    "summary": "John Fabiano has travelled the globe photographing dogs with jobs – from Italian truffle sniffers and Greenlandic sled dogs to Perla the hotel receptionist in Cologne Continue reading...",
+    "published_at": "2026-09-01T06:00:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "22464904c0ce",
+  "headline": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-09-06T18:58:33+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Last-gasp Maitland-Niles stunner rescues point for Everton",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cq63715m0reo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Ainsley Maitland-Niles marked his return to English football by scoring a stunning stoppage-time equaliser as a resilient Everton came from behind twice to draw with Manchester United in the Premier League.",
+    "published_at": "2026-09-06T18:58:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "15eb5b1c419a",
+  "headline": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+  "section": "ai",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-07-22T13:38:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "source": "Google DeepMind",
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "published_at": "2026-07-22T13:38:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a9723771177e",
+  "headline": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+  "section": "ai",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T21:20:54+00:00",
+  "event_time": "2026-07-07T19:02:42+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+    "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+    "source": "IEEE Spectrum Robotics",
+    "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics , writing more than 2,000 research papers and authoring several books on the field. He’s an influential figure thanks to his pioneering work developing biomedical robotic systems, industrial robots, micro-nano robotics, mechatronics, and AI-driven automation. Fukuda la",
+    "published_at": "2026-07-07T19:02:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T21:20:51+00:00"
    }
   ]
  },
