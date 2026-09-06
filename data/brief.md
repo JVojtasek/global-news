@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-05
+# ZADÁNÍ PRO REDAKCI — 2026-09-06
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -106,12 +106,19 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### why relationships fail
-- rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### inflation
+- rubrika: `business`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+- otázky, které k tomu lidé píší do vyhledávače:
+  - „why does inflation occur“
+  - „why does inflation exist“
+  - „why does inflation keep going up“
+  - „why is inflation so high“
+  - „why is inflation a thing“
+  - „why is inflation good“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Inflation — <https://en.wikipedia.org/wiki/Inflation>
+  - 2021–2023 inflation surge — <https://en.wikipedia.org/wiki/2021–2023_inflation_surge>
+  - Cosmic inflation — <https://en.wikipedia.org/wiki/Cosmic_inflation>
 
 ---
 

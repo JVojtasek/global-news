@@ -1,6 +1,77 @@
 {
  "threads": [
   {
+   "id": "f92d737c76de",
+   "title": "Norway's King Harald dies aged 89",
+   "section": "world",
+   "entities": [
+    "haakon",
+    "king",
+    "norway",
+    "viii",
+    "william",
+    "prince",
+    "harald",
+    "harald's",
+    "norway's"
+   ],
+   "event_ids": [
+    "f92d737c76de",
+    "1dd516218cfb",
+    "0fc61c88acdb",
+    "5ef7d8508952"
+   ],
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-09-06",
+   "timeline": [
+    {
+     "date": "2026-08-28",
+     "headline": "Norway's King Harald dies aged 89",
+     "sources": 6,
+     "score": 88,
+     "event_id": "f92d737c76de",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
+      "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Norway mourns King Harald as Haakon VIII ascends throne",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1dd516218cfb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/norway-mourns-king-harald-as-haakon-prepares-to-take-the-throne"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Norway holds its breath as King Harald's health deteriorates",
+     "sources": 2,
+     "score": 43,
+     "event_id": "0fc61c88acdb",
+     "links": [
+      "https://www.france24.com/en/video/20260827-norway-holds-its-breath-as-king-harald-s-health-deteriorates",
+      "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Prince William to attend King Harald's funeral in Norway",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5ef7d8508952",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -4922,63 +4993,6 @@
    ]
   },
   {
-   "id": "f92d737c76de",
-   "title": "Norway's King Harald dies aged 89",
-   "section": "world",
-   "entities": [
-    "norway's",
-    "norway",
-    "harald",
-    "harald's",
-    "viii",
-    "haakon",
-    "king"
-   ],
-   "event_ids": [
-    "f92d737c76de",
-    "1dd516218cfb",
-    "0fc61c88acdb"
-   ],
-   "first_seen": "2026-08-28",
-   "last_seen": "2026-08-28",
-   "timeline": [
-    {
-     "date": "2026-08-28",
-     "headline": "Norway's King Harald dies aged 89",
-     "sources": 6,
-     "score": 88,
-     "event_id": "f92d737c76de",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
-      "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Norway mourns King Harald as Haakon VIII ascends throne",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1dd516218cfb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/norway-mourns-king-harald-as-haakon-prepares-to-take-the-throne"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Norway holds its breath as King Harald's health deteriorates",
-     "sources": 2,
-     "score": 43,
-     "event_id": "0fc61c88acdb",
-     "links": [
-      "https://www.france24.com/en/video/20260827-norway-holds-its-breath-as-king-harald-s-health-deteriorates",
-      "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "92331c1455c6",
    "title": "Who is in the Europa League draw and who is in each pot?",
    "section": "sport",
@@ -6719,5 +6733,5 @@
    ]
   }
  ],
- "updated": "2026-09-05T21:20:37+00:00"
+ "updated": "2026-09-06T01:05:03+00:00"
 }
