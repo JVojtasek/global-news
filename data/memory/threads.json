@@ -1,6 +1,114 @@
 {
  "threads": [
   {
+   "id": "8a4f53de3494",
+   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+   "section": "world",
+   "entities": [
+    "clacton",
+    "futile",
+    "reform",
+    "binface",
+    "polls",
+    "count",
+    "farage",
+    "nigel"
+   ],
+   "event_ids": [
+    "8a4f53de3494",
+    "a7a35c7660a5",
+    "ad706d5a5e94",
+    "5a0bc875861a",
+    "8731e6398ae7",
+    "27e01e5e1d3c",
+    "a141279522fa"
+   ],
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-09-06",
+   "timeline": [
+    {
+     "date": "2026-08-14",
+     "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+     "sources": 3,
+     "score": 60,
+     "event_id": "8a4f53de3494",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
+      "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a7a35c7660a5",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+      "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Clacton by-election: Farage may win the town, but can he win the country?",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad706d5a5e94",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Futile Clacton byelection has done Farage no favours",
+     "sources": 5,
+     "score": 75,
+     "event_id": "5a0bc875861a",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
+      "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
+      "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
+     "sources": 3,
+     "score": 58,
+     "event_id": "8731e6398ae7",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
+      "https://www.theguardian.com/commentisfree/2026/sep/04/nigel-farage-reform-shadowy-foreign-donor-establishment-stitch-up",
+      "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "The two-year trail of financial controversy dogging Reform and Farage",
+     "sources": 2,
+     "score": 43,
+     "event_id": "27e01e5e1d3c",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
+      "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Farage brushes aside Reform controversies in closing conference speech – UK politics as it happened",
+     "sources": 2,
+     "score": 43,
+     "event_id": "a141279522fa",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+      "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage"
+     ]
+    }
+   ]
+  },
+  {
    "id": "f92d737c76de",
    "title": "Norway's King Harald dies aged 89",
    "section": "world",
@@ -2341,102 +2449,6 @@
      "links": [
       "https://www.bbc.com/travel/article/20260902-the-places-that-shaped-dolly-parton?ocid=global_travel_rss",
       "https://www.cnbc.com/2026/09/05/dolly-parton-gloria-steinem-never-retired.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8a4f53de3494",
-   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
-   "section": "world",
-   "entities": [
-    "nigel",
-    "farage",
-    "futile",
-    "reform",
-    "count",
-    "binface",
-    "clacton",
-    "polls"
-   ],
-   "event_ids": [
-    "8a4f53de3494",
-    "a7a35c7660a5",
-    "ad706d5a5e94",
-    "5a0bc875861a",
-    "8731e6398ae7",
-    "27e01e5e1d3c"
-   ],
-   "first_seen": "2026-08-14",
-   "last_seen": "2026-09-05",
-   "timeline": [
-    {
-     "date": "2026-08-14",
-     "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
-     "sources": 3,
-     "score": 60,
-     "event_id": "8a4f53de3494",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
-      "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a7a35c7660a5",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-      "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Clacton by-election: Farage may win the town, but can he win the country?",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ad706d5a5e94",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Futile Clacton byelection has done Farage no favours",
-     "sources": 5,
-     "score": 75,
-     "event_id": "5a0bc875861a",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
-      "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-      "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
-     "sources": 3,
-     "score": 58,
-     "event_id": "8731e6398ae7",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
-      "https://www.theguardian.com/commentisfree/2026/sep/04/nigel-farage-reform-shadowy-foreign-donor-establishment-stitch-up",
-      "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "The two-year trail of financial controversy dogging Reform and Farage",
-     "sources": 2,
-     "score": 43,
-     "event_id": "27e01e5e1d3c",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
-      "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal"
      ]
     }
    ]
@@ -6733,5 +6745,5 @@
    ]
   }
  ],
- "updated": "2026-09-06T01:05:03+00:00"
+ "updated": "2026-09-06T03:29:21+00:00"
 }
