@@ -109,6 +109,91 @@
    ]
   },
   {
+   "id": "64969c4b1451",
+   "title": "UEFA to bring criminal complaint against Infantino",
+   "section": "world",
+   "entities": [
+    "infantino",
+    "barney",
+    "fifa",
+    "ronay",
+    "uefa",
+    "world",
+    "matt",
+    "embattled",
+    "hughes",
+    "trump"
+   ],
+   "event_ids": [
+    "64969c4b1451",
+    "2d68919227f3",
+    "361927991686",
+    "d9c728231823",
+    "38cabdf07e25"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-06",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "UEFA to bring criminal complaint against Infantino",
+     "sources": 4,
+     "score": 71,
+     "event_id": "64969c4b1451",
+     "links": [
+      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2d68919227f3",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
+      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
+     "sources": 2,
+     "score": 41,
+     "event_id": "361927991686",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+     "sources": 2,
+     "score": 42,
+     "event_id": "d9c728231823",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
+     "sources": 3,
+     "score": 49,
+     "event_id": "38cabdf07e25",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
+      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
+     ]
+    }
+   ]
+  },
+  {
    "id": "f92d737c76de",
    "title": "Norway's King Harald dies aged 89",
    "section": "world",
@@ -2519,77 +2604,6 @@
      "links": [
       "https://www.bbc.com/travel/article/20260902-the-places-that-shaped-dolly-parton?ocid=global_travel_rss",
       "https://www.cnbc.com/2026/09/05/dolly-parton-gloria-steinem-never-retired.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "64969c4b1451",
-   "title": "UEFA to bring criminal complaint against Infantino",
-   "section": "world",
-   "entities": [
-    "fifa",
-    "barney",
-    "ronay",
-    "uefa",
-    "trump",
-    "hughes",
-    "infantino",
-    "matt",
-    "world"
-   ],
-   "event_ids": [
-    "64969c4b1451",
-    "2d68919227f3",
-    "361927991686",
-    "d9c728231823"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-09-05",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "UEFA to bring criminal complaint against Infantino",
-     "sources": 4,
-     "score": 71,
-     "event_id": "64969c4b1451",
-     "links": [
-      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2d68919227f3",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
-      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
-     "sources": 2,
-     "score": 41,
-     "event_id": "361927991686",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
-     "sources": 2,
-     "score": 42,
-     "event_id": "d9c728231823",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
      ]
     }
    ]
@@ -6759,5 +6773,5 @@
    ]
   }
  ],
- "updated": "2026-09-06T12:31:40+00:00"
+ "updated": "2026-09-06T15:22:00+00:00"
 }

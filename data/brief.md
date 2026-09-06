@@ -9,41 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Feminist activist and journalist Gloria Steinem dies, aged 92
-- id události: `ca58672fbc86`  ·  rubrika: `world`  ·  skóre: 88  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Feminist activist and journalist Gloria Steinem dies, aged 92
-    <https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss>
-    > Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
-  - **BBC World** — How Gloria Steinem changed the lives of generations of women
-    <https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss>
-    > The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.
-  - **NPR News** — Dems demand DHS fund election security. And, journalist Gloria Steinem has died
-    <https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem>
-    > Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died.
-  - **NPR News** — Gloria Steinem, trailblazing journalist and activist, dies at 92
-    <https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies>
-    > At a time when women were largely limited to domestic roles, Steinem challenged gender stereotypes and championed feminist ideals like equality, sisterhood and reproductive freedom.
-  - **DW News** — Gloria Steinem, feminist activist and journalist, dies at 92
-    <https://www.dw.com/en/gloria-steinem-feminist-activist-and-journalist-dies-at-92/a-78855039?maca=en-rss-en-all-1573-rdf>
-    > Steinem became a prominent leader of the second wave of the feminist movement in the US.
-  - **Guardian Culture** — Gloria Steinem, groundbreaking feminist campaigner, dies aged 92
-    <https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92>
-    > Famous for the 1963 exposé in which she worked as a Playboy Bunny, her books and journalism took on many varieties of discrimination Gloria Steinem, the American feminist and journalist whose activism helped push through greater rights for women around the world has died, aged 92
-  - **CNBC Top** — Gloria Steinem, a potent voice of U.S. feminism and co-founder of Ms. Magazine, has died
-    <https://www.cnbc.com/2026/09/03/gloria-steinem-co-founder-of-ms-magazine-dies-at-92.html>
-    > Gloria Steinem, the co-founder of Ms. Magazine and a fierce advocate for feminist causes throughout her life, has died. She was 92.
-  - **Al Jazeera** — Feminist icon Gloria Steinem dies aged 92
-    <https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss>
-    > Cofounder of Ms Magazine was a strong advocate for women's rights throughout her life.
-  - **France 24** — 🔴 Gloria Steinem, feminist trailblazer and award-winning journalist, dies at 92
-    <https://www.france24.com/en/culture/20260903-gloria-steinem-feminist-trailblazer-and-award-winning-journalist-dies-at-92>
-  - **France 24** — Gloria Steinem, feminist trailblazer and award-winning journalist, dies at 92
-    <https://www.france24.com/en/culture/20260903-gloria-steinem-feminist-trailblazer-and-award-winning-journalist-dies-at-92>
-    > Feminist activist and journalist Gloria Steinem died on Wednesday, at the age 92, her foundation said in an Instagram post on Thursday.
-
-### 2. OpenAI agents hijacked German website before Hugging Face hack, report claims
+### 1. OpenAI agents hijacked German website before Hugging Face hack, report claims
 - id události: `3152bdb0ea47`  ·  rubrika: `tech`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -63,7 +29,7 @@
     <https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html>
     > Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.
 
-### 3. Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
+### 2. Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
 - id události: `d44ccc0ba93d`  ·  rubrika: `ai`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,7 +48,7 @@
   - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
     <https://huggingface.co/blog/pwc-search>
 
-### 4. US envoys arrive in Moscow ahead of Ukraine talks
+### 3. US envoys arrive in Moscow ahead of Ukraine talks
 - id události: `83f9a270e22c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -101,6 +67,23 @@
   - **Al Jazeera** — At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
     <https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss>
     > Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
+
+### 4. Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+- id události: `f247281fba63`  ·  rubrika: `business`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC Business** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
+    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
+  - **BBC Technology** — Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+    <https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss>
+    > The deal gives Nvidia control of a leading open-source AI platform and developer community.
+  - **DW News** — Nvidia to buy Hugging Face in $12.93 billion deal
+    <https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf>
+    > The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.
+  - **CNBC Top** — What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues
+    <https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html>
+    > This is nothing new to the world of Big Tech.
 
 ---
 
