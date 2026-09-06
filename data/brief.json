@@ -65,65 +65,6 @@
    "depth": "open"
   },
   {
-   "id": "d44ccc0ba93d",
-   "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-   "section": "ai",
-   "score": 75,
-   "sources_count": 5,
-   "depth_signal": 0,
-   "created": "2026-09-03T15:28:46+00:00",
-   "event_time": "2026-09-03T13:34:13+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-     "source": "Ars Technica AI",
-     "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-     "published_at": "2026-09-03T13:34:13+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-03T15:28:42+00:00"
-    },
-    {
-     "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-     "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-     "source": "Guardian Business",
-     "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the semiconductor giant’s chips. Shares ⁠in Nvidia were ⁠slightly lower ​after the $12.93bn (£9.57bn) deal – which ranks am",
-     "published_at": "2026-09-03T13:15:26+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-03T15:28:42+00:00"
-    },
-    {
-     "title": "Nvidia to buy Hugging Face in $12.93 billion deal",
-     "url": "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.",
-     "published_at": "2026-09-03T12:47:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-03T15:28:42+00:00"
-    },
-    {
-     "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-     "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-     "source": "TechCrunch",
-     "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-     "published_at": "2026-09-03T12:42:45+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-03T15:28:42+00:00"
-    },
-    {
-     "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-     "url": "https://huggingface.co/blog/pwc-search",
-     "source": "Hugging Face",
-     "summary": "",
-     "published_at": "2026-08-21T00:00:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-03T15:28:42+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "83f9a270e22c",
    "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
    "section": "world",
@@ -231,6 +172,65 @@
     }
    ],
    "depth": "scripture"
+  },
+  {
+   "id": "341a230bd977",
+   "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "section": "tech",
+   "score": 65,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-09-03T18:31:26+00:00",
+   "event_time": "2026-09-03T18:01:45+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+     "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+     "source": "TechCrunch",
+     "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+     "published_at": "2026-09-03T18:01:45+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-03T18:31:23+00:00"
+    },
+    {
+     "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+     "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+     "source": "CNBC Top",
+     "summary": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.",
+     "published_at": "2026-09-03T18:00:02+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-03T18:31:23+00:00"
+    },
+    {
+     "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+     "source": "The Verge",
+     "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't […]",
+     "published_at": "2026-09-03T18:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-03T18:31:23+00:00"
+    },
+    {
+     "title": "OpenAI launches new Astra model amid growing scrutiny over agents’ safety",
+     "url": "https://www.investing.com/news/economy-news/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-4888385",
+     "source": "Investing.com",
+     "summary": "",
+     "published_at": "2026-09-03T18:06:28+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-03T18:31:23+00:00"
+    },
+    {
+     "title": "OpenAI launches GPT-6 Astra for enterprise users today",
+     "url": "https://www.investing.com/news/stock-market-news/openai-launches-gpt6-astra-for-enterprise-users-today-93CH-4888380",
+     "source": "Investing.com",
+     "summary": "",
+     "published_at": "2026-09-03T18:03:22+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-03T18:31:23+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [

@@ -58,64 +58,6 @@
   ]
  },
  {
-  "id": "d44ccc0ba93d",
-  "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-  "section": "ai",
-  "score": 75,
-  "sources_count": 5,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T13:34:13+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-    "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-    "source": "Ars Technica AI",
-    "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-    "published_at": "2026-09-03T13:34:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
-    "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-    "source": "Guardian Business",
-    "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the semiconductor giant’s chips. Shares ⁠in Nvidia were ⁠slightly lower ​after the $12.93bn (£9.57bn) deal – which ranks am",
-    "published_at": "2026-09-03T13:15:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Nvidia to buy Hugging Face in $12.93 billion deal",
-    "url": "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.",
-    "published_at": "2026-09-03T12:47:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "source": "TechCrunch",
-    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-    "published_at": "2026-09-03T12:42:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "url": "https://huggingface.co/blog/pwc-search",
-    "source": "Hugging Face",
-    "summary": "",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
   "id": "83f9a270e22c",
   "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
   "section": "world",
@@ -708,6 +650,95 @@
   ]
  },
  {
+  "id": "7e11cd37d504",
+  "headline": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+  "section": "world",
+  "score": 55,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T16:02:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+    "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The far-right AfD has taken a massive lead at the Saxony-Anhalt election, although it was not clear if it will be able to form government. The party's state leader said the result sends \"a signal to Berlin.\" Follow DW.",
+    "published_at": "2026-09-06T16:02:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "🔴Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
+    "url": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
+    "source": "France 24",
+    "summary": "",
+    "published_at": "2026-09-06T16:18:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Germany’s far-right AfD landslide winner in key Saxony-Anhalt vote, early results suggest",
+    "url": "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest",
+    "source": "France 24",
+    "summary": "Germany’s far-right Alternative for Germany (AfD) party headed towards a landslide victory in state ​elections in Saxony-Anhalt on Sunday, with 44.5 percent of the vote, early results showed.",
+    "published_at": "2026-09-06T16:15:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+    "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.",
+    "published_at": "2026-09-06T16:07:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f9cc265e8cdb",
+  "headline": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+  "section": "sport",
+  "score": 55,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T17:31:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "How Arsenal and Chelsea's players rated following their Premier League match.",
+    "published_at": "2026-09-06T17:31:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
+    "url": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Gunners pass ⁠stiffest test so far in the defence of their Premier ⁠League title as they hit back after going behind.",
+    "published_at": "2026-09-06T17:56:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Ødegaard fires winner as Arsenal complete comeback win over Chelsea",
+    "url": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "The first heavyweight encounter of the Premier League season was previewed in some quarters as the immovable object versus the irresistible force. Arsenal do not give an inch. Chelsea have been fun and free-scoring under Xabi Alonso. Yet that overlooked something pretty fundamental. The percussive force of Arsenal’s game when they have the ball and want to make something happen. Chelsea landed a s",
+    "published_at": "2026-09-06T17:53:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
   "id": "d288b968cef6",
   "headline": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
   "section": "sport",
@@ -744,6 +775,46 @@
     "published_at": "2026-09-05T13:44:42+00:00",
     "source_countries": [],
     "seen_at": "2026-09-05T15:21:47+00:00"
+   }
+  ]
+ },
+ {
+  "id": "aafc7669e145",
+  "headline": "German far-right set for big win in eastern state - projections",
+  "section": "world",
+  "score": 53,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T18:15:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "German far-right set for big win in eastern state - projections",
+    "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+    "published_at": "2026-09-06T18:15:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Far-right AfD wins key German state election but may fail to secure majority",
+    "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+    "source": "The Guardian World",
+    "summary": "Exit poll shows Alternative für Deutschland on 44.4% of vote in Saxony-Anhalt after huge turnout, with votes still being counted The populist far-right, anti-immigration Alternative für Deutschland has emerged as the winner in a crucial state election in Germany, exit polls have projected, securing a historic result and more than doubling its support, and appearing to be on the brink of becoming t",
+    "published_at": "2026-09-06T18:13:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Far-right AfD posts historic German state election win, exit polls show",
+    "url": "https://www.cnbc.com/2026/09/06/germanys-far-right-afd-seeks-landmark-state-victory.html",
+    "source": "CNBC Top",
+    "summary": "The vote is seen as a barometer for Chancellor Friedrich Merz's government, which has tried to chip away at the AfD's popularity.",
+    "published_at": "2026-09-06T18:22:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
    }
   ]
  },
@@ -1246,37 +1317,6 @@
   ]
  },
  {
-  "id": "4e4cfa70881f",
-  "headline": "Palestinian teens killed during settler attack on West Bank village, officials say",
-  "section": "world",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T15:05:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-    "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-    "published_at": "2026-09-03T15:05:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Israeli attacks in West Bank at 'unprecedented' level, PNI leader Barghouti says",
-    "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says",
-    "source": "France 24",
-    "summary": "In an interview with FRANCE 24, the secretary general of the Palestinian National Initiative (PNI) party Mustafa Barghouti said the level of Israeli attacks on Palestinians in the West Bank had become \"totally unprecedented\". With tensions escalating, activists accuse settlers of operating with total impunity. \"Their goal is clear: it is ethnic cleansing,\" Barghouti stated, calling Israeli Prime M",
-    "published_at": "2026-09-03T13:26:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
   "id": "b3ca40609586",
   "headline": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
   "section": "tech",
@@ -1579,86 +1619,6 @@
   ]
  },
  {
-  "id": "11ae75dd6032",
-  "headline": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-  "section": "world",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T12:52:08+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-    "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-    "source": "The Guardian World",
-    "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its north African territory of Ceuta, the Spanish prime minister, Pedro Sánchez, has told parliament. The address on Thursday followed the emergence of a polic",
-    "published_at": "2026-09-03T12:52:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Spanish PM Sanchez says no evidence Morocco orchestrated Ceuta border surge",
-    "url": "https://www.france24.com/en/video/20260903-spanish-pm-sanchez-says-no-evidence-morocco-orchestrated-ceuta-border-surge",
-    "source": "France 24",
-    "summary": "Spain has found no evidence to conclude that July's deadly border rush from Morocco into its enclave of Ceuta was orchestrated by Moroccan authorities, ​Prime Minister Pedro Sanchez ‌said on Thursday, countering allegations in a Spanish police report. Speaking in parliament, Sanchez responded to claims in ⁠the report that emerged this week suggesting the entry of over 70,000 people into Ceuta was ",
-    "published_at": "2026-09-03T15:10:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Ceuta crisis: ‘No evidence Morocco behind border surge’",
-    "url": "https://www.france24.com/en/video/20260903-ceuta-crisis-no-evidence-morocco-behind-border-surge-1",
-    "source": "France 24",
-    "summary": "There is no evidence Morocco was behind the mass influx of migrants that overwhelmed the Spanish enclave of Ceuta in July, Spanish PM Pedro Sanchez told lawmakers Thursday. Sanchez's comments followed a police report that emerged this week saying that the mass entry into Ceuta was not a spontaneous migration event but a planned and phased operation designed to overwhelm border controls.",
-    "published_at": "2026-09-03T13:05:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "eeebca6b5c07",
-  "headline": "How a new instrument could reveal the secrets of the stars",
-  "section": "science",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T12:38:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "How a new instrument could reveal the secrets of the stars",
-    "url": "https://www.bbc.co.uk/news/videos/cn9w1xpyvz2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile.",
-    "published_at": "2026-09-03T12:38:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "How a new instrument could reveal the secrets of the stars",
-    "url": "https://www.bbc.co.uk/news/videos/cn9w1xpyvz2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile.",
-    "published_at": "2026-09-03T12:38:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm",
-    "source": "ScienceDaily",
-    "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 times faster than Hubble and a torrent of 1.4 terabytes of data per day, Roman could uncover cosmic surprises astronomers have never seen before.",
-    "published_at": "2026-08-31T09:23:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
   "id": "71a58ed61b0e",
   "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
   "section": "business",
@@ -1921,77 +1881,6 @@
     "published_at": "2026-09-05T22:11:21+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T01:04:59+00:00"
-   }
-  ]
- },
- {
-  "id": "b5cb4ea3e195",
-  "headline": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T13:54:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-    "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-    "published_at": "2026-09-03T13:54:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-    "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
-    "published_at": "2026-09-03T13:54:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "0ab3b0e32fad",
-  "headline": "Google says its AI weather model is getting better",
-  "section": "tech",
-  "score": 44,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T15:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Google says its AI weather model is getting better",
-    "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-    "source": "The Verge",
-    "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five […]",
-    "published_at": "2026-09-03T15:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "source": "TechCrunch",
-    "summary": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding […]",
-    "published_at": "2026-09-03T15:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Google says its AI weather model is getting better",
-    "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-    "source": "The Verge AI",
-    "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five […]",
-    "published_at": "2026-09-03T15:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
    }
   ]
  },
@@ -2297,37 +2186,6 @@
   ]
  },
  {
-  "id": "e73679c6fb2f",
-  "headline": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-  "section": "world",
-  "score": 43,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T14:04:46+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy",
-    "url": "https://www.theguardian.com/world/2026/sep/03/zelenskyy-shootout-kyiv-between-ukrainian-spy-services-disgraceful-",
-    "source": "The Guardian World",
-    "summary": "Domestic security service says clash with military intelligence directorate ‘definitely shouldn’t have happened’ Several people have been injured in a shootout in central Kyiv between two branches of Ukraine’s security services, in an incident Volodymyr Zelenskyy described as “disgraceful”. The shootout, which took place on Wednesday morning in a downtown area of the capital, was between officers ",
-    "published_at": "2026-09-03T14:04:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
-    "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Three intelligence officers were wounded in shootout that Zelenskyy has described as 'absolutely disgraceful'.",
-    "published_at": "2026-09-03T13:54:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
   "id": "e1a7100c9fae",
   "headline": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
   "section": "business",
@@ -2497,6 +2355,68 @@
     "published_at": "2026-09-05T06:00:30+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T03:29:18+00:00"
+   }
+  ]
+ },
+ {
+  "id": "abfb2d476e32",
+  "headline": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
+  "section": "sport",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T16:04:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
+    "url": "https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.",
+    "published_at": "2026-09-06T16:04:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Maitland-Niles stunner rescues late point for Everton against Manchester United",
+    "url": "https://www.theguardian.com/football/2026/sep/06/everton-manchester-united-premier-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "Defiance serves David Moyes’s ­Everton well, especially when laced with a sense of indignation. At the end of a troubled week in the ­transfer market, and at the very end of a game when all seemed lost against ­Manchester United, they showed weaker in number need not translate to weaker in spirit. Ainsley Maitland-Niles, 19 ­minutes into his Everton debut, rescued a point for Moyes’s side with a s",
+    "published_at": "2026-09-06T15:22:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "cecbd130aa72",
+  "headline": "Wellens wins Tour of Britain as GB's Askey finishes second",
+  "section": "sport",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T15:22:47+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Wellens wins Tour of Britain as GB's Askey finishes second",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c6248px11n6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Belgium's Tim Wellens wins the 2026 Tour of Britain as Nils Politt claims victory on stage five.",
+    "published_at": "2026-09-06T15:22:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Tim Wellens pulls away on last stage to win Tour of Britain",
+    "url": "https://www.theguardian.com/sport/2026/sep/06/tim-wellens-ben-wiggins-tour-of-britain-final-stage-cycling",
+    "source": "Guardian Sport",
+    "summary": "Belgian beats Briton Lewis Askey into second Bradley Wiggins’ son Ben finishes in 10th Tim Wellens, teammate to Tadej Pogacar at the UAE Emirates XRG team, took overall victory in the men’s Tour of Britain, after the Belgian rider had decisively snatched the overall race lead on the fourth stage on Saturday, through the hills of North Yorkshire. Wellens had started the final stage in Earlston 21 s",
+    "published_at": "2026-09-06T16:55:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
    }
   ]
  },
@@ -3112,24 +3032,64 @@
   ]
  },
  {
-  "id": "8f1df17b4ded",
-  "headline": "Leaf-Peeping Season Is Almost Here. These Interactive Maps Can Help You Figure Out When Fall Foliage Will Peak in Your Area",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T14:00:00+00:00",
+  "id": "7a2141c2148a",
+  "headline": "Energy secretary says US might not reach nuclear agreement with Iran",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T17:39:10+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Leaf-Peeping Season Is Almost Here. These Interactive Maps Can Help You Figure Out When Fall Foliage Will Peak in Your Area",
-    "url": "https://www.smithsonianmag.com/smart-news/leaf-peeping-season-is-almost-here-these-interactive-maps-can-help-you-figure-out-when-fall-foliage-will-peak-in-your-area-180989439/",
-    "source": "Smithsonian Mag",
-    "summary": "From the magnificent mountains of New England to the desert landscape of northern New Mexico, the tools can help you make the most of nature's upcoming wardrobe change",
-    "published_at": "2026-09-03T14:00:00+00:00",
+    "title": "Energy secretary says US might not reach nuclear agreement with Iran",
+    "url": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
+    "source": "The Guardian World",
+    "summary": "Chris Wright tells ABC there ‘may not’ be an agreement that would prevent Iran from having nuclear weapons US energy secretary Chris Wright said on Sunday morning that the US may not be able to reach a nuclear agreement with Iran that would prevent the country from having nuclear weapons. Asked on ABC on Sunday morning about any sign of such a deal, as negotiations appear stalled and the US-Israel",
+    "published_at": "2026-09-06T17:39:10+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+    "url": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "US Energy Secretary Chris Wright's comments could signal that US hopes for a nuclear deal are dimming.",
+    "published_at": "2026-09-06T16:59:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3f8c5e4f7905",
+  "headline": "Vardy joins Burnley on season-long contract",
+  "section": "sport",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T14:01:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Vardy joins Burnley on season-long contract",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+    "published_at": "2026-09-06T14:01:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Jamie Vardy takes party to Burnley after signing deal with Championship strugglers",
+    "url": "https://www.theguardian.com/football/2026/sep/06/jamie-vardy-signs-for-burnley-championship-football",
+    "source": "Guardian Sport",
+    "summary": "Vardy a free agent after departing Cremonese Plans to play on despite burgeoning media career Jamie Vardy has returned to English football after signing for Burnley in the Championship as a free agent. Vardy, who will be 40 in January, has signed a contract until the end of the season, having spent last season at Cremonese in Italy. A return to Leicester, where he spent 13 years and was a Premier ",
+    "published_at": "2026-09-06T15:16:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
    }
   ]
  },
@@ -3457,6 +3417,99 @@
     "published_at": "2026-09-05T18:28:55+00:00",
     "source_countries": [],
     "seen_at": "2026-09-05T21:20:34+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5ff640fa6ded",
+  "headline": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+  "section": "business",
+  "score": 41,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T15:16:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+    "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+    "source": "The Guardian World",
+    "summary": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth. A host of financial institutions said they were due to receive billions of yuan in capital from state institutions including the ministry o",
+    "published_at": "2026-09-06T15:16:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+    "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+    "source": "Guardian Business",
+    "summary": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth. A host of financial institutions said they were due to receive billions of yuan in capital from state institutions including the ministry o",
+    "published_at": "2026-09-06T15:16:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3c34644eab7e",
+  "headline": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+  "section": "world",
+  "score": 41,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T17:00:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+    "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+    "source": "The Guardian World",
+    "summary": "Protest using 10 coffins to symbolise struggling manufacturing industry to take place in Brussels Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned. Eurometal predicts 300,000 job losses in manufacturing in the rest of 2026 because of expanding competition from China",
+    "published_at": "2026-09-06T17:00:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+    "url": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+    "source": "Guardian Business",
+    "summary": "Protest using 10 coffins to symbolise struggling manufacturing industry to take place in Brussels Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned. Eurometal predicts 300,000 job losses in manufacturing in the rest of 2026 because of expanding competition from China",
+    "published_at": "2026-09-06T17:00:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ad8ed0c19d7a",
+  "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+  "section": "business",
+  "score": 41,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T15:55:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+    "url": "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
+    "source": "CNBC Top",
+    "summary": "The filing came after a U.S. District Court judge extended an order against the Postal Service enforcing an executive order for the November elections.",
+    "published_at": "2026-09-06T15:55:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Trump administration asks Supreme Court to allow mail ballot limits",
+    "url": "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-06T16:32:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
    }
   ]
  },
@@ -3913,37 +3966,6 @@
     "published_at": "2026-09-06T13:02:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "30e1271d5bab",
-  "headline": "John Lewis to launch YouTube chatshow to improve AI search results",
-  "section": "world",
-  "score": 39,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T13:08:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "John Lewis to launch YouTube chatshow to improve AI search results",
-    "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon",
-    "source": "The Guardian World",
-    "summary": "Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio to help make itself and its products more visible to chatbots and more prominent in AI search results. The department store chain’s Gift List “vodcast” hosted by the TV presenter Angela Scanlon will air on YouTu",
-    "published_at": "2026-09-03T13:08:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "John Lewis to launch YouTube chatshow to improve AI search results",
-    "url": "https://www.theguardian.com/business/2026/sep/03/john-lewis-youtube-chat-show-angela-scanlon",
-    "source": "Guardian Business",
-    "summary": "Department store chain’s Gift List ‘vodcast’ will be hosted by TV presenter Angela Scanlon Business live – latest updates John Lewis is launching an online chatshow and social media studio to help make itself and its products more visible to chatbots and more prominent in AI search results. The department store chain’s Gift List “vodcast” hosted by the TV presenter Angela Scanlon will air on YouTu",
-    "published_at": "2026-09-03T13:08:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
    }
   ]
  },
@@ -5919,125 +5941,6 @@
     "published_at": "2026-09-06T14:21:52+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "e8828ca392d4",
-  "headline": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T14:16:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’",
-    "url": "https://www.theguardian.com/world/2026/sep/03/iran-targets-us-bases-as-israel-warns-sanctions-could-drive-tehran-to-desperate-steps",
-    "source": "The Guardian World",
-    "summary": "Air bases used by US in the UAE and Kuwait hit as the Israeli defence chief says Iran’s regime fears collapse due to economic pressures Iran has continued to demonstrate an ability to target bases in the Gulf used by the US despite six months of war and a new sanctions regime described by the Trump administration as an “economic D-day”. As Iran’s military targeted US bases in the United Arab Emira",
-    "published_at": "2026-09-03T14:16:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "3f93e9341c24",
-  "headline": "Bats carry dangerous viruses without getting sick. This may be why",
-  "section": "science",
-  "score": 35,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T11:56:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Bats carry dangerous viruses without getting sick. This may be why",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
-    "source": "ScienceDaily",
-    "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate so many viruses without becoming seriously ill.",
-    "published_at": "2026-09-03T11:56:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   },
-   {
-    "title": "Bats carry dangerous viruses without getting sick. This may be why",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate so many viruses without becoming seriously ill.",
-    "published_at": "2026-09-03T11:56:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "4d076b33f277",
-  "headline": "‘I have an obsession with barber shops’: kd lang on her prairies upbringing, Patsy Cline and being shaved by Cindy Crawford",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T14:00:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘I have an obsession with barber shops’: kd lang on her prairies upbringing, Patsy Cline and being shaved by Cindy Crawford",
-    "url": "https://www.theguardian.com/culture/2026/sep/03/reader-interview-kd-lang-vanity-fair-neko-case-laura-veirs",
-    "source": "Guardian Culture",
-    "summary": "The Canadian singer-songwriter answers your questions about her trailblazing career, her spirituality, and collaborations with the likes of Neko Case, Laura Veirs and Pee-wee Herman I left the Canadian prairies many years ago, but they remain my home. How do you feel about that part of western Canada, where the prairies meet the Rocky mountains , which shaped us both ? What does Alberta mean to yo",
-    "published_at": "2026-09-03T14:00:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "5a88874747aa",
-  "headline": "Queens of the Stone Age’s Josh Homme kicked a woman and his ex-wife alleged domestic abuse. Why the cosy makeover?",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-03T09:00:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Queens of the Stone Age’s Josh Homme kicked a woman and his ex-wife alleged domestic abuse. Why the cosy makeover?",
-    "url": "https://www.theguardian.com/music/2026/sep/03/queens-of-the-stone-ages-josh-homme-kicked-a-woman-and-his-ex-wife-alleged-domestic-abuse-why-the-cosy-makeover",
-    "source": "Guardian Culture",
-    "summary": "Like Johnny Depp and Chris Brown before him, Homme has got past his chequered history to retain an adoring fanbase. Almost a decade post-#MeToo, audiences no longer seem to care As part of the promo for Queens of the Stone Age’s new album Perfecth, the band has set up a novelty complaints hotline for fans to call. “No bitching too big, no whiny too tiny,” it promises. I’ll bite: how about the fact",
-    "published_at": "2026-09-03T09:00:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
-   }
-  ]
- },
- {
-  "id": "123b90c7eeb9",
-  "headline": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-03T15:28:46+00:00",
-  "event_time": "2026-09-02T07:08:50+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-    "source": "The Hacker News",
-    "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
-    "published_at": "2026-09-02T07:08:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-03T15:28:42+00:00"
    }
   ]
  },
@@ -8262,6 +8165,103 @@
   ]
  },
  {
+  "id": "b1a1a1c2bf64",
+  "headline": "The Guardian view on Burnham’s devolution plans: power must be accompanied by scrutiny | Editorial",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T16:25:09+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Guardian view on Burnham’s devolution plans: power must be accompanied by scrutiny | Editorial",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/06/the-guardian-view-on-burnhams-devolution-plans-power-must-be-accompanied-by-scrutiny",
+    "source": "Guardian Business",
+    "summary": "Vital accountability mechanisms have withered as English devolution has evolved. The government should take note Andy Burnham has criticised Britain’s “unaccountable state” that is at once too powerful and too distant from everyday life. He has made English devolution the central idea of his premiership, but his plan to give England’s mayors unprecedented power and money will have to confront a nu",
+    "published_at": "2026-09-06T16:25:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "31ad32a0216c",
+  "headline": "Dunkley century helps England seal ODI series sweep over Ireland",
+  "section": "sport",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T17:09:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Dunkley century helps England seal ODI series sweep over Ireland",
+    "url": "https://www.bbc.co.uk/sport/cricket/videos/cvgyp363rp9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Sophia Dunkley's century helped secure England's comprehensive 114-run win in the third and final one-day international against Ireland at Worcester. The victory completes a 3-0 series sweep for the hosts, on a day that also saw Ireland's Arlene Kelly receive a guard of honour as she retired from international cricket.",
+    "published_at": "2026-09-06T17:09:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   },
+   {
+    "title": "Dunkley century helps England sweep Ireland 3-0",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cqxve1xderro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Sophia Dunkley hits 119 as England end their international summer with a 114-run thrashing of Ireland at Worcester.",
+    "published_at": "2026-09-06T16:15:53+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a2aa54b01d02",
+  "headline": "‘What are we doing?’: Brennan’s anger at racing in 44C heat as Van Aert wins shortened stage",
+  "section": "sport",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T17:22:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘What are we doing?’: Brennan’s anger at racing in 44C heat as Van Aert wins shortened stage",
+    "url": "https://www.theguardian.com/sport/2026/sep/06/matthew-brennan-vuelta-a-espana-heat-wout-van-aert-stage-15-cycling",
+    "source": "Guardian Sport",
+    "summary": "‘It wouldn’t surprise me if some got heatstroke’ Spain’s Enric Mas retains leader’s red jersey Britain’s Matthew Brennan expressed his disbelief at the extreme heat riders had to endure on Sunday during stage 15 of the Vuelta a España. His Visma Lease a Bike teammate Wout van Aert took a sprint win in Córdoba after the stage was shortened because of high temperatures. “It’s 41 degrees average,” Br",
+    "published_at": "2026-09-06T17:22:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b0ce4fdc4c7e",
+  "headline": "Building a Foundation Stack for General-Purpose Robots",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-07-13T10:19:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Building a Foundation Stack for General-Purpose Robots",
+    "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+    "source": "IEEE Spectrum Robotics",
+    "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one",
+    "published_at": "2026-07-13T10:19:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
   "id": "7d8bb82203ac",
   "headline": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
   "section": "world",
@@ -8372,6 +8372,116 @@
   ]
  },
  {
+  "id": "44ac47f1f8a4",
+  "headline": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T17:00:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+    "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+    "published_at": "2026-09-06T17:00:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "cf9395216465",
+  "headline": "Israeli strikes on Lebanon kill several despite truce",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T15:31:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Israeli strikes on Lebanon kill several despite truce",
+    "url": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Lebanon's President Joseph Aoun has appealed to the international community to \"take immediate action to stop these violations\" of the ceasefire agreement between Israel and Lebanon.",
+    "published_at": "2026-09-06T15:31:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "326e1ba88576",
+  "headline": "Khalid Abdalla: ‘It’s important for me to be in service of justice’",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-06T15:19:47+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Khalid Abdalla: ‘It’s important for me to be in service of justice’",
+    "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/6/khalid-abdalla-its-important-for-me-to-be-in-service-of-justice?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The actor discusses identity, speaking out against Israel’s genocide in Gaza and the experiences that shaped him.",
+    "published_at": "2026-09-06T15:19:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "af691ebdddf7",
+  "headline": "Jaguar Land Rover confirms planned job cuts",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-05T13:22:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jaguar Land Rover confirms planned job cuts",
+    "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The firm says it needs to save about £1.7bn over the next two years.",
+    "published_at": "2026-09-05T13:22:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f6352dcaaee2",
+  "headline": "Martin McDonagh says CIA has ‘done awful things all around the world’",
+  "section": "culture",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-06T18:26:03+00:00",
+  "event_time": "2026-09-03T14:21:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Martin McDonagh says CIA has ‘done awful things all around the world’",
+    "url": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
+    "source": "Guardian Culture",
+    "summary": "McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions The US’s history of intervening in democratic processes around the world deserves more attention in the light of current political developments, playwright and film-maker Martin McDonagh has said, as his Oscar-tipped film about a rueful CIA agent ",
+    "published_at": "2026-09-03T14:21:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-06T18:26:00+00:00"
+   }
+  ]
+ },
+ {
   "id": "c8ae44913104",
   "headline": "Ebola: Why children are last to be treated in medical crises",
   "section": "world",
@@ -8410,116 +8520,6 @@
     "source": "CNBC Top",
     "summary": "\"These kids become more emotionally intelligent, which helps them weather setbacks, embrace independence and try new things,\" says Juli Fraga.",
     "published_at": "2026-09-06T13:36:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "63b0f69da4f0",
-  "headline": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-  "section": "science",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-06T15:22:00+00:00",
-  "event_time": "2026-09-04T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-    "url": "https://www.nature.com/articles/d41586-026-02650-x",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 04 September 2026; doi:10.1038/d41586-026-02650-x The awards highlight weird, funny and improbable research that also makes you think.",
-    "published_at": "2026-09-04T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "8cf27c4c9751",
-  "headline": "More protein or less? The foods to get you through a heatwave",
-  "section": "health",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-06T15:22:00+00:00",
-  "event_time": "2026-07-08T09:05:56+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "More protein or less? The foods to get you through a heatwave",
-    "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "When turning on the oven is a no-no and you're bored of salads, these foods (and drinks) will help to beat the heat.",
-    "published_at": "2026-07-08T09:05:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "7042dde0952a",
-  "headline": "Six-month community program improves attention and diet scores in older adults",
-  "section": "health",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-06T15:22:00+00:00",
-  "event_time": "2026-09-06T12:40:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Six-month community program improves attention and diet scores in older adults",
-    "url": "https://medicalxpress.com/news/2026-09-month-community-attention-diet-scores.html",
-    "source": "Medical Xpress",
-    "summary": "As aging populations drive rising global health care demands, finding scalable ways to prevent cognitive decline has become a public health priority. While intensive clinical trials have shown that multidomain lifestyle interventions can protect brain health, translating these resource-heavy protocols into everyday municipal practice remains challenging.",
-    "published_at": "2026-09-06T12:40:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "50c5a8a03459",
-  "headline": "John Bishop cancels shows after motorbike accident with Tim Peake",
-  "section": "culture",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-06T15:22:00+00:00",
-  "event_time": "2026-09-04T17:07:29+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "John Bishop cancels shows after motorbike accident with Tim Peake",
-    "url": "https://www.bbc.co.uk/news/articles/czxz42wdqp9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "A live comedy gig is cancelled as well as Bishop taking part in Sir Chris Hoy's charity bike ride.",
-    "published_at": "2026-09-04T17:07:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-06T15:21:57+00:00"
-   }
-  ]
- },
- {
-  "id": "93fbeed0c2f0",
-  "headline": "Girl group Katseye are missing two members, but their tour still dazzles",
-  "section": "culture",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-06T15:22:00+00:00",
-  "event_time": "2026-09-04T00:19:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Girl group Katseye are missing two members, but their tour still dazzles",
-    "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
-    "published_at": "2026-09-04T00:19:53+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T15:21:57+00:00"
    }

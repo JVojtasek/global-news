@@ -29,26 +29,7 @@
     <https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html>
     > Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.
 
-### 2. Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
-- id události: `d44ccc0ba93d`  ·  rubrika: `ai`  ·  skóre: 75  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Ars Technica AI** — Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
-    <https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/>
-    > Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.
-  - **Guardian Business** — Nvidia to buy developer platform Hugging Face in $12.9bn deal
-    <https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal>
-    > Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearly $13bn, betting that support for ⁠open AI models could offset a potential slowdown in demand for the
-  - **DW News** — Nvidia to buy Hugging Face in $12.93 billion deal
-    <https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf>
-    > The AI chip maker said it would keep Hugging Face an open platform that would not require developers to use Nvidia hardware.
-  - **TechCrunch** — Nvidia confirms it will buy Hugging Face for $12.9 billion
-    <https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/>
-    > Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.
-  - **Hugging Face** — How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code
-    <https://huggingface.co/blog/pwc-search>
-
-### 3. US envoys arrive in Moscow ahead of Ukraine talks
+### 2. US envoys arrive in Moscow ahead of Ukraine talks
 - id události: `83f9a270e22c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -68,7 +49,7 @@
     <https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss>
     > Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
 
-### 4. Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+### 3. Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
 - id události: `f247281fba63`  ·  rubrika: `business`  ·  skóre: 65  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -84,6 +65,24 @@
   - **CNBC Top** — What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues
     <https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html>
     > This is nothing new to the world of Big Tech.
+
+### 4. OpenAI launches Astra, its powerful (and controversial) new model
+- id události: `341a230bd977`  ·  rubrika: `tech`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **TechCrunch** — OpenAI launches Astra, its powerful (and controversial) new model
+    <https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/>
+    > OpenAI claims that Astra represents "a new frontier on computer and browser use," and that it handles tasks with unmatched "speed, accuracy, and safety."
+  - **CNBC Top** — OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities
+    <https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html>
+    > OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.
+  - **The Verge** — OpenAI’s next big AI model has ‘entered the AGI era’
+    <https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release>
+    > OpenAI's next big model is here: GPT-6 Astra. The company calls it a "generational leap in capability" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as 
+  - **Investing.com** — OpenAI launches new Astra model amid growing scrutiny over agents’ safety
+    <https://www.investing.com/news/economy-news/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-4888385>
+  - **Investing.com** — OpenAI launches GPT-6 Astra for enterprise users today
+    <https://www.investing.com/news/stock-market-news/openai-launches-gpt6-astra-for-enterprise-users-today-93CH-4888380>
 
 ---
 

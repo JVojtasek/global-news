@@ -1,6 +1,182 @@
 {
  "threads": [
   {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "leavitt",
+    "chinese",
+    "army",
+    "supreme",
+    "days",
+    "press",
+    "white",
+    "jersey",
+    "trump",
+    "nabep",
+    "house",
+    "court",
+    "venezuela",
+    "secretary",
+    "crypto",
+    "kalshi's",
+    "karoline",
+    "driscoll"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e",
+    "958107abfe36",
+    "eb231f9016df",
+    "ad8ed0c19d7a"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-06",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+     "sources": 2,
+     "score": 42,
+     "event_id": "958107abfe36",
+     "links": [
+      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump White House just tossed a grenade into international space relations",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb231f9016df",
+     "links": [
+      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad8ed0c19d7a",
+     "links": [
+      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
+      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
+     ]
+    }
+   ]
+  },
+  {
    "id": "8a4f53de3494",
    "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
    "section": "world",
@@ -330,6 +506,78 @@
      "links": [
       "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
       "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7e11cd37d504",
+   "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+   "section": "world",
+   "entities": [
+    "saxony-anhalt",
+    "german",
+    "far-right"
+   ],
+   "event_ids": [
+    "7e11cd37d504",
+    "a2c3207877cb"
+   ],
+   "first_seen": "2026-09-06",
+   "last_seen": "2026-09-06",
+   "timeline": [
+    {
+     "date": "2026-09-06",
+     "headline": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7e11cd37d504",
+     "links": [
+      "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
+      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+     "sources": 3,
+     "score": 52,
+     "event_id": "a2c3207877cb",
+     "links": [
+      "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
+      "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f9cc265e8cdb",
+   "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+   "section": "sport",
+   "entities": [
+    "chelsea",
+    "odegaard",
+    "arsenal",
+    "saka"
+   ],
+   "event_ids": [
+    "f9cc265e8cdb"
+   ],
+   "first_seen": "2026-09-06",
+   "last_seen": "2026-09-06",
+   "timeline": [
+    {
+     "date": "2026-09-06",
+     "headline": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+     "sources": 3,
+     "score": 55,
+     "event_id": "f9cc265e8cdb",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report"
      ]
     }
    ]
@@ -3194,170 +3442,6 @@
      "event_id": "cd253afe8e24",
      "links": [
       "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "leavitt",
-    "house",
-    "court",
-    "press",
-    "karoline",
-    "jersey",
-    "army",
-    "trump",
-    "secretary",
-    "chinese",
-    "white",
-    "driscoll",
-    "kalshi's",
-    "crypto",
-    "nabep",
-    "venezuela",
-    "supreme",
-    "days"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e",
-    "958107abfe36",
-    "eb231f9016df"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-04",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-     "sources": 2,
-     "score": 42,
-     "event_id": "958107abfe36",
-     "links": [
-      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump White House just tossed a grenade into international space relations",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb231f9016df",
-     "links": [
-      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
      ]
     }
    ]
@@ -6773,5 +6857,5 @@
    ]
   }
  ],
- "updated": "2026-09-06T15:22:00+00:00"
+ "updated": "2026-09-06T18:26:03+00:00"
 }
