@@ -1,6 +1,35 @@
 {
  "threads": [
   {
+   "id": "85e21207cd70",
+   "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+   "section": "world",
+   "entities": [
+    "amazon",
+    "miami",
+    "five"
+   ],
+   "event_ids": [
+    "85e21207cd70"
+   ],
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "timeline": [
+    {
+     "date": "2026-09-07",
+     "headline": "Five dead after Amazon cargo plane crashes at Miami airport",
+     "sources": 5,
+     "score": 74,
+     "event_id": "85e21207cd70",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -6884,5 +6913,5 @@
    ]
   }
  ],
- "updated": "2026-09-06T21:20:54+00:00"
+ "updated": "2026-09-07T01:03:45+00:00"
 }

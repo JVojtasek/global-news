@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-06
+# ZADÁNÍ PRO REDAKCI — 2026-09-07
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -73,37 +73,39 @@
     <https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss>
     > Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
 
-### 4. Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
-- id události: `a0428a510351`  ·  rubrika: `sport`  ·  skóre: 60  ·  nezávislých zdrojů: 3
+### 4. Five dead after Amazon cargo plane crashes at Miami airport
+- id události: `85e21207cd70`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
-    <https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss>
-    > How Liverpool and Ipswich Town's players rated following their Premier League match.
-  - **Al Jazeera** — Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win
-    <https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss>
-    > Bradley Barcola makes his debut as Alexander Isak scores both Liverpool goals in 2-0 win at Ipswich Town.
-  - **Guardian Sport** — Premier League news: Carrick warns no quick fix, Emery has ‘hard’ Harwood-Bellis chat
-    <https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham>
-    > Maresca hails ‘winner’ Fernández but will not make him captain, and De Zerbi defends Richarlison treatment Continue reading...
+  - **BBC World** — Five dead after Amazon cargo plane crashes at Miami airport
+    <https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss>
+    > Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.
+  - **BBC Business** — Five dead after Amazon cargo plane crashes at Miami airport
+    <https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss>
+    > Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.
+  - **DW News** — Several killed in Amazon cargo plane crash in Miami
+    <https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf>
+    > At least five people have died after a cargo plane crashed at Miami International Airport. The aircraft overran a runway, struck several vehicles and caught fire.
+  - **France 24** — Amazon cargo plane crashes at Miami airport, killing at least five
+    <https://www.france24.com/en/americas/20260906-amazon-cargo-plane-crashes-miami-airport-killing-at-least-five>
+    > At least five people were killed and five injured after an Amazon cargo plane overshot the runway at Miami International Airport on Sunday and crashed into several vehicles, officials said. Miami Sheriff Rosie Cordero-Stutz said there was “no apparent threat to public safety” fol
+  - **Al Jazeera** — At least five killed after Amazon cargo plane crash in Miami airport
+    <https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss>
+    > Five people are injured, and the cause of the crash is being investigated, authorities say.
+  - **Al Jazeera** — Amazon Prime plane overruns runway at Miami Airport
+    <https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss>
+    > An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
 
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### inflation
-- rubrika: `business`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „why does inflation occur“
-  - „why does inflation exist“
-  - „why does inflation keep going up“
-  - „why is inflation so high“
-  - „why is inflation a thing“
-  - „why is inflation good“
+### two factor authentication
+- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Inflation — <https://en.wikipedia.org/wiki/Inflation>
-  - 2021–2023 inflation surge — <https://en.wikipedia.org/wiki/2021–2023_inflation_surge>
-  - Cosmic inflation — <https://en.wikipedia.org/wiki/Cosmic_inflation>
+  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
+  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
+  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
 
 ---
 
