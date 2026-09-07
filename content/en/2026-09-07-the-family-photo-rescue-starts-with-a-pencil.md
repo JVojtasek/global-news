@@ -1,44 +1,50 @@
 ---
 slug: the-family-photo-rescue-starts-with-a-pencil
-title: "The Family Photo Rescue Starts With a Pencil"
-dek: "A useful family archive is more than a stack of scans: protect the originals, record what people know, and build copies that can survive the next failed device."
+title: The Family Photo Rescue Starts With a Pencil
+dek: 'A useful family archive is more than a stack of scans: protect the originals,
+  record what people know, and build copies that can survive the next failed device.'
 section: culture
 type: analysis
 depth: open
 lang: en
-date: 2026-09-07
-status: draft
-confidence: 91
+date: '2026-09-07'
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-07-slot-3-family-photo-preservation"
-series: ""
-image_query: "archival family photographs acid-free sleeves pencil labels scanner and storage box conceptual still life"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-07-slot-3-family-photo-preservation
+series: ''
+image_query: archival family photographs acid-free sleeves pencil labels scanner and
+  storage box conceptual still life
 sources:
-  - name: "U.S. National Archives — Digitizing Family Papers and Photographs"
-    url: "https://www.archives.gov/preservation/family-archives/digitizing"
-    published: "2021-05-26"
-  - name: "U.S. National Archives — How to Preserve Family Archives"
-    url: "https://www.archives.gov/preservation/family-archives"
-    published: "2024-08-01"
-  - name: "Smithsonian Institution Archives"
-    url: "https://siarchives.si.edu/blog/six-tips-preserving-family-archives"
-    published: "2020-11-26"
-  - name: "Canadian Conservation Institute"
-    url: "https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/photographic-materials.html"
-    published: "2018-12-14"
-qma_path: ""
+- name: U.S. National Archives — Digitizing Family Papers and Photographs
+  url: https://www.archives.gov/preservation/family-archives/digitizing
+  published: '2021-05-26'
+- name: U.S. National Archives — How to Preserve Family Archives
+  url: https://www.archives.gov/preservation/family-archives
+  published: '2024-08-01'
+- name: Smithsonian Institution Archives
+  url: https://siarchives.si.edu/blog/six-tips-preserving-family-archives
+  published: '2020-11-26'
+- name: Canadian Conservation Institute
+  url: https://www.canada.ca/en/conservation-institute/services/preventive-conservation/guidelines-collections/photographic-materials.html
+  published: '2018-12-14'
+qma_path: ''
 tickers: []
 quiz:
-  question: "After scanning a family photograph, what do preservation authorities recommend?"
-  options: ["Discard the original once the scan opens correctly", "Keep the original and back up the digital file", "Laminate the original to seal it permanently"]
+  question: After scanning a family photograph, what do preservation authorities recommend?
+  options:
+  - Discard the original once the scan opens correctly
+  - Keep the original and back up the digital file
+  - Laminate the original to seal it permanently
   answer: 1
-  explanation: "The U.S. National Archives says digitization reduces handling but does not replace the original, while digital files need their own backup plan."
+  explanation: The U.S. National Archives says digitization reduces handling but does
+    not replace the original, while digital files need their own backup plan.
 ---
 
 ## BRIEFLY

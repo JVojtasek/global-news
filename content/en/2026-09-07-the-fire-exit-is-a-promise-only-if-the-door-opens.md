@@ -1,47 +1,58 @@
 ---
 slug: the-fire-exit-is-a-promise-only-if-the-door-opens
-title: "The Fire Exit Is a Promise Only If the Door Opens"
-dek: "The Triangle fire changed law, inspection and public memory. Its harder lesson is that safety exists only when design, enforcement and workers’ voices meet at the same unlocked door."
+title: The Fire Exit Is a Promise Only If the Door Opens
+dek: The Triangle fire changed law, inspection and public memory. Its harder lesson
+  is that safety exists only when design, enforcement and workers’ voices meet at
+  the same unlocked door.
 section: safety
 type: analysis
 depth: open
 lang: en
-date: 2026-09-07
-status: draft
-confidence: 94
+date: '2026-09-07'
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-07-slot-4-triangle-fire-safety-memory"
-series: ""
-image_query: "conceptual historic factory stairwell open fire exit layered with modern safety inspection clipboard no people no text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-07-slot-4-triangle-fire-safety-memory
+series: ''
+image_query: conceptual historic factory stairwell open fire exit layered with modern
+  safety inspection clipboard no people no text
 sources:
-  - name: "U.S. National Park Service — Triangle Shirtwaist Factory (Brown Building)"
-    url: "https://www.nps.gov/places/triangle-shirtwaist-factory-brown-building.htm"
-    published: "2021-03-30"
-  - name: "New York State Factory Investigating Commission — Fourth Report, via Cornell University"
-    url: "https://trianglefire.ilr.cornell.edu/primary/reports/FourthReportOfFIC.html"
-    published: "1915-01-01"
-  - name: "Electronic Code of Federal Regulations — 29 CFR Part 1910 Subpart E"
-    url: "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-E"
-    published: "2002-11-07"
-  - name: "U.S. National Park Service — Frances Perkins"
-    url: "https://www.nps.gov/people/frances-perkins.htm"
-    published: "2025-02-20"
-  - name: "U.S. National Park Service — Rose Schneiderman"
-    url: "https://www.nps.gov/people/rose-schneiderman.htm"
-    published: "2021-10-13"
-qma_path: ""
+- name: U.S. National Park Service — Triangle Shirtwaist Factory (Brown Building)
+  url: https://www.nps.gov/places/triangle-shirtwaist-factory-brown-building.htm
+  published: '2021-03-30'
+- name: New York State Factory Investigating Commission — Fourth Report, via Cornell
+    University
+  url: https://trianglefire.ilr.cornell.edu/primary/reports/FourthReportOfFIC.html
+  published: '1915-01-01'
+- name: Electronic Code of Federal Regulations — 29 CFR Part 1910 Subpart E
+  url: https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-E
+  published: '2002-11-07'
+- name: U.S. National Park Service — Frances Perkins
+  url: https://www.nps.gov/people/frances-perkins.htm
+  published: '2025-02-20'
+- name: U.S. National Park Service — Rose Schneiderman
+  url: https://www.nps.gov/people/rose-schneiderman.htm
+  published: '2021-10-13'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What followed the Triangle fire in New York, according to the National Park Service?"
-  options: ["Commissions were created and 38 new laws were passed", "Federal OSHA was created immediately in 1911", "All factories above the seventh floor were banned"]
+  question: What followed the Triangle fire in New York, according to the National
+    Park Service?
+  options:
+  - Commissions were created and 38 new laws were passed
+  - Federal OSHA was created immediately in 1911
+  - All factories above the seventh floor were banned
   answer: 0
-  explanation: "New York City and State investigated factory conditions and public safety, then passed 38 laws covering fire safety, working hours and basic workplace facilities."
+  explanation: New York City and State investigated factory conditions and public
+    safety, then passed 38 laws covering fire safety, working hours and basic workplace
+    facilities.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
