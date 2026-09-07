@@ -49,9 +49,8 @@ Paměť obsahuje **84 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-05** (2 zdrojů) Aston Villa still winless after stalemate at Hull
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 25 dní · 30 záznamů
+- rubrika `world` · sledováno 25 dní · 31 záznamů
 - časová osa:
-  - **2026-08-30** (2 zdrojů) Palestinian woman and NBC News team reportedly attacked in West Bank
   - **2026-08-30** (2 zdrojů) Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France
   - **2026-09-01** (2 zdrojů) Israeli fire kills three in Gaza City during reported raid, medics say
   - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
@@ -61,6 +60,7 @@ Paměť obsahuje **84 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-05** (2 zdrojů) US ambassador to Israel visits Palestinian town hit by West Bank settler violence
   - **2026-09-05** (2 zdrojů) Inside the places that shaped Dolly Parton
   - **2026-09-07** (2 zdrojů) Israeli attacks on Gaza kill five Palestinians, including two children
+  - **2026-09-07** (2 zdrojů) Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 25 dní · 17 záznamů

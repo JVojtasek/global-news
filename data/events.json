@@ -76,64 +76,6 @@
   ]
  },
  {
-  "id": "3152bdb0ea47",
-  "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-  "section": "tech",
-  "score": 80,
-  "sources_count": 5,
-  "depth_signal": 2,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T14:59:13+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-    "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-    "published_at": "2026-09-04T14:59:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "source": "MIT TR — AI",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-    "published_at": "2026-08-26T19:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "source": "The Verge",
-    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
-    "published_at": "2026-09-04T13:34:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "source": "The Verge AI",
-    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
-    "published_at": "2026-09-04T13:34:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters",
-    "url": "https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html",
-    "source": "CNBC Top",
-    "summary": "Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.",
-    "published_at": "2026-09-04T12:47:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
   "id": "83f9a270e22c",
   "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
   "section": "world",
@@ -259,6 +201,55 @@
   ]
  },
  {
+  "id": "58e356deedb5",
+  "headline": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+  "section": "world",
+  "score": 62,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T14:50:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+    "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+    "published_at": "2026-09-07T14:50:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   },
+   {
+    "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+    "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.",
+    "published_at": "2026-09-07T15:03:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   },
+   {
+    "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+    "published_at": "2026-09-07T17:52:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   },
+   {
+    "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+    "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.",
+    "published_at": "2026-09-07T15:34:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
   "id": "a0428a510351",
   "headline": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
   "section": "sport",
@@ -295,46 +286,6 @@
     "published_at": "2026-09-04T14:58:41+00:00",
     "source_countries": [],
     "seen_at": "2026-09-04T21:22:38+00:00"
-   }
-  ]
- },
- {
-  "id": "8731e6398ae7",
-  "headline": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
-  "section": "world",
-  "score": 58,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T15:12:20+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
-    "url": "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
-    "source": "The Guardian World",
-    "summary": "Senior party figures do not appear united, but Farage may be more concerned about impact on performance in polls UK politics live – latest updates Midway through an event at Reform’s annual conference on Friday there was question for the audience: who was worried about a Channel 4 News exposé of potential wrongdoing by party officials over donations? Almost no hands went up. The faithful might be ",
-    "published_at": "2026-09-04T15:12:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Nigel Farage meeting a 'shadowy foreign donor'? It can only be another establishment stitch-up | Marina Hyde",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/04/nigel-farage-reform-shadowy-foreign-donor-establishment-stitch-up",
-    "source": "Guardian Business",
-    "summary": "The only thing more dodgy than Reform’s financial dealings is the egregious lunchtime combination of oysters, Guinness and champagne How many sarcastic air quotes is too many for quoting Nigel Farage’s suggestion that Reform have been ““““““““hoaxed”””””””” by some undercover investigators into appearing to seek to get round electoral law to bag a £500k donation from a foreigner, as well as commis",
-    "published_at": "2026-09-04T13:50:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
-    "url": "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Undercover footage allegedly shows top Reform officials discussing ways to evade foreign funding laws.",
-    "published_at": "2026-09-04T14:38:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
    }
   ]
  },
@@ -424,86 +375,6 @@
     "published_at": "2026-09-04T21:07:54+00:00",
     "source_countries": [],
     "seen_at": "2026-09-05T00:56:51+00:00"
-   }
-  ]
- },
- {
-  "id": "3699defcceb3",
-  "headline": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-  "section": "world",
-  "score": 55,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T15:37:52+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-    "url": "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-    "source": "The Guardian World",
-    "summary": "Volodymyr Zelenskyy says he has told SBU to deliver ‘appropriate, tangible response’ to Kyiv strike The head office of Ukraine’s SBU intelligence agency has been hit in a Russian drone attack, sending plumes of black smoke rising into the air in the heart of Kyiv. Ukraine’s president, Volodymyr Zelenskyy, said he had instructed the SBU to deliver an “appropriate, tangible response” to the strike, ",
-    "published_at": "2026-09-04T15:37:52+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
-    "url": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
-    "published_at": "2026-09-04T15:44:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Trump envoys Witkoff, Kushner to visit Russia and Ukraine in coming days",
-    "url": "https://www.france24.com/en/video/20260904-trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-days",
-    "source": "France 24",
-    "summary": "US President Donald Trump's envoys Steve Witkoff and Jared Kushner are expected to arrive in Kyiv for a first-time visit on Sunday, several sources reported. Witkoff and Kushner – Trump's son-in-law – have been involved in shuttle diplomacy between Russia and Ukraine, travelling to Moscow multiple times, and are expected to visit Kyiv this weekend. FRANCE 24's International Affairs Commentator Ket",
-    "published_at": "2026-09-04T15:29:52+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
-  "id": "0cb440044f5c",
-  "headline": "Tesla shares are falling after Cybercab event. What analysts are saying",
-  "section": "business",
-  "score": 55,
-  "sources_count": 3,
-  "depth_signal": 2,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T17:30:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Tesla shares are falling after Cybercab event. What analysts are saying",
-    "url": "https://www.cnbc.com/2026/09/04/tesla-shares-are-falling-after-cybercab-event-what-analysts-are-saying.html",
-    "source": "CNBC Top",
-    "summary": "Tesla shares decline and here's what Wall Street analysts are saying",
-    "published_at": "2026-09-04T17:30:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-    "source": "TechCrunch",
-    "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-    "published_at": "2026-09-04T16:51:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Analysis-Musk pushes regulatory limits with Tesla’s Cybercab robotaxi service",
-    "url": "https://www.investing.com/news/stock-market-news/analysismusk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-4889800",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T18:12:52+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
    }
   ]
  },
@@ -677,46 +548,6 @@
   ]
  },
  {
-  "id": "63db30a768fe",
-  "headline": "Diesel price hits all-time high in US amid Iran war woes",
-  "section": "business",
-  "score": 52,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T15:28:28+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Diesel price hits all-time high in US amid Iran war woes",
-    "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
-    "published_at": "2026-09-04T15:28:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
-    "url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
-    "source": "CNBC Top",
-    "summary": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
-    "published_at": "2026-09-04T15:10:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Bny stock reaches all-time high of 165.69 USD",
-    "url": "https://www.investing.com/news/company-news/bny-stock-reaches-alltime-high-of-16569-usd-93CH-4889921",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T18:21:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
   "id": "d4276895c857",
   "headline": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
   "section": "sport",
@@ -793,95 +624,6 @@
     "published_at": "2026-09-06T04:12:18+00:00",
     "source_countries": [],
     "seen_at": "2026-09-06T06:35:54+00:00"
-   }
-  ]
- },
- {
-  "id": "2e86d0b0e1b8",
-  "headline": "Gloria Steinem: A life in pictures",
-  "section": "culture",
-  "score": 51,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-03T13:27:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Gloria Steinem: A life in pictures",
-    "url": "https://www.theguardian.com/books/gallery/2026/sep/03/gloria-steinem-a-life-in-pictures",
-    "source": "Guardian Culture",
-    "summary": "The writer, publisher and activist spent a lifetime advocating for greater rights for women around the world and brought feminist discourse into the mainstream Gloria Steinem, groundbreaking feminist campaigner, dies aged 92 Continue reading...",
-    "published_at": "2026-09-03T13:27:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "‘We badly need to raise our boys more like our girls’: Gloria Steinem – a life in quotes",
-    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-best-quotes",
-    "source": "Guardian Culture",
-    "summary": "The groundbreaking feminist and acclaimed writer has died aged 92 and leaves behind her a wealth of wit and wisdom Gloria Steinem, groundbreaking feminist campaigner, dies aged 92 Hillary Clinton leads tributes to Gloria Steinem: ‘Her activism was rooted in optimism’ Gloria Steinem, the boundary-pushing campaigner and author who spent her life fighting for greater rights for women, has died at the",
-    "published_at": "2026-09-03T13:07:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Gloria Steinem hosted salons in her living room for decades—how to gather for conversation and connection, says expert",
-    "url": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
-    "source": "CNBC Top",
-    "summary": "Steinem's living room \"cracked open opportunities to lend support, let ideas flow, and build trust face-to-face,\" says journalist and author Allison Gilbert, founder of More Connected.",
-    "published_at": "2026-09-04T13:38:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "b2ce06d6a200",
-  "headline": "Ipswich Town v Liverpool: Premier League – live",
-  "section": "sport",
-  "score": 51,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T18:20:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ipswich Town v Liverpool: Premier League – live",
-    "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-    "source": "Guardian Sport",
-    "summary": "Premier League updates from the 8pm BST kick-off Live scoreboard | Read Football Daily | Email Scott Gary O’Neil’s turn to speak to Sky Sports. “[The first half at Old Trafford] gives us a big belief that we can compete at this level … the home win against Sunderland was huge for us … we don’t really focus on outcome or results, we just try to commit to being the best version of ourselves all the ",
-    "published_at": "2026-09-04T18:20:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Premier League team news: predicted lineups for the weekend action",
-    "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-    "source": "Guardian Sport",
-    "summary": "Coventry face a daunting trip to Manchester City before Chelsea’s title credentials are tested at Arsenal on Sunday Saturday 12.30pm TNT Sports 1 Venue St James’ Park Continue reading...",
-    "published_at": "2026-09-04T17:38:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "LIVE: Ipswich Town vs Liverpool – Premier League",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/9/4/live-ipswich-town-vs-liverpool-premier-league?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "All the build-up alongside our live text commentary stream coverage as Bradley Barcola is set to make his Liverpool bow.",
-    "published_at": "2026-09-04T16:01:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Football Daily | What you won’t see in the Premier League this weekend",
-    "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend",
-    "source": "Guardian Sport",
-    "summary": "Sign up now! Sign up now! Sign up now? Sign up now! That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Despite £3.5bn shelled out in the men’s window, several things will not be happening in the Premier League when they might have been. When Arsenal host Chelsea for a most super of Sundays, Vinícius Júnior will not ",
-    "published_at": "2026-09-04T14:57:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
    }
   ]
  },
@@ -1197,37 +939,6 @@
   ]
  },
  {
-  "id": "7e2a725de566",
-  "headline": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
-  "section": "culture",
-  "score": 47,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T11:55:19+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
-    "url": "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
-    "source": "Guardian Culture",
-    "summary": "The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West Bank The Palestinian village of Khan al-Ahmar sits off dust-blown Highway-1, between Jerusalem and Jericho in the Israeli-occupied West Bank. At the village centre is the “school of tires”, a fragile construction of rubber",
-    "published_at": "2026-09-04T11:55:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Ben-Gvir sets out a plan for the illegal forced expulsion of all Palestinians from the Gaza Strip",
-    "published_at": "2026-09-04T13:08:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
   "id": "b5249b7be6ec",
   "headline": "Masked anti-migrant protesters block UK's Dover terminal",
   "section": "world",
@@ -1264,37 +975,6 @@
     "published_at": "2026-09-05T13:09:24+00:00",
     "source_countries": [],
     "seen_at": "2026-09-05T15:21:47+00:00"
-   }
-  ]
- },
- {
-  "id": "71a58ed61b0e",
-  "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-  "section": "business",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-08-18T15:42:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The White House’s absurd claim of a Chinese transshipment “scam”",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-    "source": "Economist Finance",
-    "summary": "High tariffs on Chinese goods have had predictable effects",
-    "published_at": "2026-08-18T15:42:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Trump White House just tossed a grenade into international space relations",
-    "url": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-    "source": "Ars Technica",
-    "summary": "\"Let me be clear: America is not only welcome—we want you there.\"",
-    "published_at": "2026-09-04T15:46:33+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
    }
   ]
  },
@@ -1463,46 +1143,6 @@
   ]
  },
  {
-  "id": "4df71f683597",
-  "headline": "Cathy Engelbert’s WNBA tenure: the wins and losses that defined her seven years",
-  "section": "sport",
-  "score": 45,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T17:42:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cathy Engelbert’s WNBA tenure: the wins and losses that defined her seven years",
-    "url": "https://www.theguardian.com/sport/2026/sep/04/cathy-engelbert-wnba-commissioner-wins-losses-retirement",
-    "source": "Guardian Sport",
-    "summary": "From record growth and a landmark media deal to expansion, labor battles and a fractured relationship with players, Engelbert’s tenure was rarely quiet WNBA commissioner Cathy Engelbert will retire from the role on 30 December, bringing an end to a tenure that began with her appointment as the league’s first commissioner in 2019. “After more than seven years at the WNBA and more than 40 total year",
-    "published_at": "2026-09-04T17:42:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "WNBA Commissioner Cathy Engelbert to retire at the end of 2026",
-    "url": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
-    "source": "CNBC Top",
-    "summary": "Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over her leadership.",
-    "published_at": "2026-09-04T17:12:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "WNBA commissioner Cathy Engelbert says she will retire at end of year",
-    "url": "https://www.theguardian.com/sport/2026/sep/04/wnba-commissioner-cathy-engelbert-to-retire",
-    "source": "Guardian Sport",
-    "summary": "Seven-year tenure included both growth and tumult Internal and external candidates are on league’s radar WNBA commissioner Cathy Engelbert is retiring at the end of the year, bringing to a close her seven-plus years at the helm of the league and a stewardship that has been transformative and at times tumultuous. Engelbert is the second-longest tenured WNBA president or commissioner, and she helped",
-    "published_at": "2026-09-04T15:45:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
   "id": "5ef7d8508952",
   "headline": "Prince William to attend King Harald's funeral in Norway",
   "section": "world",
@@ -1561,68 +1201,6 @@
     "published_at": "2026-09-07T07:04:20+00:00",
     "source_countries": [],
     "seen_at": "2026-09-07T09:34:41+00:00"
-   }
-  ]
- },
- {
-  "id": "29ae84aa2a01",
-  "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-  "section": "ai",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:54+00:00",
-  "event_time": "2026-07-31T16:00:03+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-    "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 2026, PITTSBURGH Humanoids Summit Seoul : 22–23 September 2026, SEOUL En",
-    "published_at": "2026-07-31T16:00:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Google’s Gemini Spark can now manage your Google Photos library",
-    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "source": "TechCrunch",
-    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-    "published_at": "2026-09-04T14:47:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "c9484210a14a",
-  "headline": "Israel's West Bank camp displacements could be crime against humanity, UN says",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T16:26:55+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Israel's West Bank camp displacements could be crime against humanity, UN says",
-    "url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
-    "source": "France 24",
-    "summary": "The Israeli government's forced displacement of the entire populations of three West Bank refugee camps in January 2025 could amount to crimes against humanity, a UN report warned Friday. More than 33,000 Palestinians forced out of the Jenin, Nur Shams and Tulkarm camps have not been permitted to return home. Israel slammed the report for \"spreading misinformation\".",
-    "published_at": "2026-09-04T16:26:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
-    "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
-    "published_at": "2026-09-04T15:31:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
    }
   ]
  },
@@ -1844,6 +1422,37 @@
   ]
  },
  {
+  "id": "1ed9a755881d",
+  "headline": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+  "section": "world",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T18:08:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+    "url": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+    "source": "France 24",
+    "summary": "Israel on Monday threatened a “full-scale war” against the Palestinian Authority if it believed the West Bank-based body was preparing an attack on Israeli forces or settlements resembling Hamas’s October 7, 2023 assault. The warning was denounced by Palestinian authorities as an attempt to fuel the conflict during the Israeli election season.",
+    "published_at": "2026-09-07T18:08:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   },
+   {
+    "title": "Israel deports British activist who protected Palestinian children",
+    "url": "https://www.aljazeera.com/features/2026/9/7/israel-deports-british-activist-who-protected-palestinian-children?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Pro-Palestinian volunteer Finn Joughin faces 10-year ban after kidnapping by Israeli settlers in West Bank.",
+    "published_at": "2026-09-07T16:11:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
   "id": "27e01e5e1d3c",
   "headline": "The two-year trail of financial controversy dogging Reform and Farage",
   "section": "world",
@@ -2026,152 +1635,6 @@
     "published_at": "2026-09-07T04:00:25+00:00",
     "source_countries": [],
     "seen_at": "2026-09-07T06:49:48+00:00"
-   }
-  ]
- },
- {
-  "id": "d6ebab2db5d2",
-  "headline": "Philippine vice president is ordered arrested for threats against the president",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T13:42:10+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Philippine vice president is ordered arrested for threats against the president",
-    "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-    "source": "NPR News",
-    "summary": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
-    "published_at": "2026-09-04T13:42:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-    "url": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.",
-    "published_at": "2026-09-04T13:35:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "eb5aac76f994",
-  "headline": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
-  "section": "culture",
-  "score": 42,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-04T15:25:54+00:00",
-  "event_time": "2026-09-04T14:03:50+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
-    "url": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
-    "source": "Guardian Culture",
-    "summary": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awards Ian Charleson was one of the finest actors of his generation and an important figure in the fight for gay rights. Yet the extraordinary circumstances of his fi",
-    "published_at": "2026-09-04T14:03:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "5c448f94fc51",
-  "headline": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
-  "section": "tech",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T15:59:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
-    "url": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-    "source": "Ars Technica",
-    "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
-    "published_at": "2026-09-04T15:59:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Musk’s xAI loses court bid to block Minnesota’s AI ‘nudification’ ban",
-    "url": "https://www.investing.com/news/stock-market-news/musks-xailoses-court-bid-to-block-minnesotas-ainudification-ban-4889844",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T18:13:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
-  "id": "980af6a6b7b0",
-  "headline": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-  "section": "ai",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 5,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T16:22:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-    "source": "Ars Technica",
-    "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-    "published_at": "2026-09-04T16:22:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-    "source": "Ars Technica AI",
-    "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-    "published_at": "2026-09-04T16:22:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
-  "id": "1c3588994184",
-  "headline": "Van Aert powers to victory on stage 13 of Vuelta",
-  "section": "sport",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T17:00:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Van Aert powers to victory on stage 13 of Vuelta",
-    "url": "https://www.bbc.co.uk/sport/cycling/articles/c87vpnxq4x7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Belgium's Wout van Aert surges clear of Valentin Paret-Peintre in a sprint to the line to win stage 13 of the Vuelta a Espana.",
-    "published_at": "2026-09-04T17:00:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Vuelta a España: Wout van Aert battles scorching heat to claim stage 13 victory",
-    "url": "https://www.theguardian.com/sport/2026/sep/04/vuelta-a-espana-stage-13-report-wout-van-aert-scorching-heat-victory",
-    "source": "Guardian Sport",
-    "summary": "Mas keeps hold of red jersey with 1min 45sec lead Kooij claims stage win at Tour of Britain Wout van Aert won his fourth career stage at the Vuelta a España amid scorching heat on Friday, while Enric Mas kept the red jersey. On a hot and sunny day in southern Spain, Van Aert beat fellow breakaway rider Valentin Paret-Peintre to claim the hilly 192km jaunt from Almuñécar to Loja. Continue reading..",
-    "published_at": "2026-09-04T16:35:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
    }
   ]
  },
@@ -2783,81 +2246,6 @@
   ]
  },
  {
-  "id": "b32d77b1c9f6",
-  "headline": "Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:54+00:00",
-  "event_time": "2026-09-04T14:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets",
-    "url": "https://www.smithsonianmag.com/smart-news/why-does-rain-eat-through-protective-coatings-on-metal-structures-researchers-propose-a-new-idea-electrically-charged-droplets-180989434/",
-    "source": "Smithsonian Mag",
-    "summary": "Scientists long attributed rain damage to physical abrasion and chemical degradation from acidic substances. A new study offers a third idea, which could help researchers develop longer-lasting coatings and preserve important objects",
-    "published_at": "2026-09-04T14:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "af41c2921060",
-  "headline": "Cambridge University examines conduct of academic suspended by Reform UK",
-  "section": "world",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T17:48:34+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cambridge University examines conduct of academic suspended by Reform UK",
-    "url": "https://www.theguardian.com/politics/2026/sep/04/cambridge-university-probing-conduct-of-academic-suspended-by-reform-uk",
-    "source": "The Guardian World",
-    "summary": "James Orr, an associate professor, was shown in Channel 4 News footage apparently trying to sidestep electoral law Cambridge University has said it is examining the conduct of James Orr, its associate professor and a top Reform UK aide, after he was filmed appearing to try to circumvent electoral laws on foreign political donations. Orr, the suspended head of policy for Reform, is one of two senio",
-    "published_at": "2026-09-04T17:48:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "Cambridge University asks former chief crown prosecutor to open Arday review",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/04/cambridge-university-nazir-afzal-to-lead-first-part-jason-arday-review",
-    "source": "The Guardian World",
-    "summary": "Nazir Afzal to focus in review’s first stage on support given to professor in immediate period before his death The University of Cambridge has asked Nazir Afzal, a former chief crown prosecutor for north-west England, to lead the first part of its review into the death of the scholar Jason Arday. Arday died at his home in south London on 14 August, nine days after his resignation as a Cambridge p",
-    "published_at": "2026-09-04T17:48:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
-  "id": "457972f9ac24",
-  "headline": "GLP-1 Weight-Loss Drugs Can Slow Aging and Extend Life Span, Mouse Study Suggests",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T15:16:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "GLP-1 Weight-Loss Drugs Can Slow Aging and Extend Life Span, Mouse Study Suggests",
-    "url": "https://www.smithsonianmag.com/smart-news/GLP-1-weight-loss-drugs-can-slow-aging-and-extend-lifespan-mouse-study-suggests-180989452/",
-    "source": "Smithsonian Mag",
-    "summary": "Older female mice—equivalent in age to 60-year-old women—given daily injections of the active ingredient in Ozempic lived about 12 percent longer than animals that didn't receive the drug",
-    "published_at": "2026-09-04T15:16:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
   "id": "a70ce6db3324",
   "headline": "After an Eight-Year Journey, Two Spacecraft Have Begun Their Arrival to Mercury, the Inner Solar System's Most Mysterious Planet",
   "section": "culture",
@@ -3155,37 +2543,6 @@
     "published_at": "2026-09-07T15:00:57+00:00",
     "source_countries": [],
     "seen_at": "2026-09-07T15:25:21+00:00"
-   }
-  ]
- },
- {
-  "id": "a39b7624fa6c",
-  "headline": "US added 162,000 jobs in August, with unemployment rate holding steady",
-  "section": "business",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T12:40:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-    "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
-    "source": "Guardian Business",
-    "summary": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August The US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor market. The unemployment rate held steady at 4.1%, still down from its most recent peak of 4.5% last November, according to new data from the Bureau of Labor Statistics (BLS). Despite the relative stabi",
-    "published_at": "2026-09-04T12:40:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
-    "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Unemployment rate steady as public schools and food services lead the surge in US job growth for August.",
-    "published_at": "2026-09-04T16:31:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
    }
   ]
  },
@@ -3624,24 +2981,33 @@
   ]
  },
  {
-  "id": "342e01d3bf8c",
-  "headline": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-  "section": "world",
-  "score": 39,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T14:40:00+00:00",
+  "id": "6144899ac402",
+  "headline": "Ecclestone stopped by police for taking shotgun into Portugal",
+  "section": "sport",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T17:40:04+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-    "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Two people have been rescued more than a week after more than 1,300 people were killed in flash floods on the Nepal-Tibet border.",
-    "published_at": "2026-09-04T14:40:00+00:00",
+    "title": "Ecclestone stopped by police for taking shotgun into Portugal",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
+    "published_at": "2026-09-07T17:40:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   },
+   {
+    "title": "Bernie Ecclestone questioned after shotgun found on his private jet in Portugal",
+    "url": "https://www.theguardian.com/sport/2026/sep/07/bernie-ecclestone-questioned-shotgun-portugal-formula-one",
+    "source": "Guardian Sport",
+    "summary": "Former F1 chief says firearm was for clay-pigeon shooting Police quiz 95-year-old over lack of documents for gun Bernie Ecclestone was detained in Portugal on Monday after customs authorities found him in possession of an undocumented shotgun. The Guardian has independently confirmed the incident with multiple authorities involved in the matter. The detention of the 95-year-old took place at Tires",
+    "published_at": "2026-09-07T17:45:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
@@ -3854,126 +3220,33 @@
   ]
  },
  {
-  "id": "4dda12232f76",
-  "headline": "Populism poses serious challenge to independent central banks, Bailey says",
-  "section": "business",
-  "score": 38,
+  "id": "615743774397",
+  "headline": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+  "section": "tech",
+  "score": 39,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T13:44:00+00:00",
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T15:27:50+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Populism poses serious challenge to independent central banks, Bailey says",
-    "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
-    "source": "The Guardian World",
-    "summary": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’ The governor of the Bank of England has said the rise of populist politicians presents a serious challenge to independent central banks. As Nigel Farage’s Reform UK gathered for its annual conference in Birmingham, Andrew Bailey said central bankers must be prepared to explain their ",
-    "published_at": "2026-09-04T13:44:00+00:00",
+    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+    "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+    "published_at": "2026-09-07T15:27:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    },
    {
-    "title": "Populism poses serious challenge to independent central banks, Bailey says",
-    "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
-    "source": "Guardian Business",
-    "summary": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’ The governor of the Bank of England has said the rise of populist politicians presents a serious challenge to independent central banks. As Nigel Farage’s Reform UK gathered for its annual conference in Birmingham, Andrew Bailey said central bankers must be prepared to explain their ",
-    "published_at": "2026-09-04T13:44:00+00:00",
+    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+    "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+    "published_at": "2026-09-07T15:27:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "a235b25df709",
-  "headline": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
-  "section": "business",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T14:47:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
-    "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-    "source": "CNBC Top",
-    "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
-    "published_at": "2026-09-04T14:47:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Trump tells Fed to lower rates or threatens to end trade with surplus countries",
-    "url": "https://www.investing.com/news/economy-news/trump-tells-fed-to-lower-rates-or-threatens-to-end-trade-with-surplus-countries-4889785",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T14:50:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "a53db4c73e1c",
-  "headline": "These top-selling EVs are on sale for Labor Day",
-  "section": "motoring",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:54+00:00",
-  "event_time": "2026-09-03T19:42:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "These top-selling EVs are on sale for Labor Day",
-    "url": "https://electrek.co/2026/09/03/top-selling-evs-on-sale-labor-day/",
-    "source": "Electrek",
-    "summary": "The Hyundai IONIQ 5 and Toyota bZ are on sale for Labor Day to clear inventory for the incoming 2027 models. more…",
-    "published_at": "2026-09-03T19:42:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Bluetti 1,004Wh Elite 100 Mini power station exclusive launch deals, Anker SOLIX Labor Day Sale, Tenways CGO600 Pro e-bike, more",
-    "url": "https://electrek.co/2026/09/02/bluetti-1004wh-elite-100-mini-power-station-anker-solix-labor-day-sale-tenways-cgo600-pro-e-bike-more/",
-    "source": "Electrek",
-    "summary": "The Labor Day Sale train isn’t slowing down, and we have another jam-packed edition of Green Deals for the season, starting with the exclusive launch savings on Bluetti’s new Elite 100 Mini Portable Power Station starting from $408 . Right behind that, we’ve got Anker’s SOLIX Labor Day Sale lineup with our exclusive bonus savings code, FREE gift promotions, and refurbished deals starting from $231",
-    "published_at": "2026-09-02T18:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "e7e47b969a06",
-  "headline": "Russian drone strikes Ukraine’s security service headquarters",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T16:03:41+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Russian drone strikes Ukraine’s security service headquarters",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A Russian drone has struck Ukraine’s domestic intelligence headquarters in central Kyiv, injuring five people.",
-    "published_at": "2026-09-04T16:03:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "On the ground: Russian drone strikes Ukraine security service headquarters in Kyiv",
-    "url": "https://www.france24.com/en/video/20260904-on-the-ground-russian-drone-strikes-ukraine-security-service-headquarters-in-kyiv",
-    "source": "France 24",
-    "summary": "A Russian drone struck the headquarters of Ukraine's SBU security services on Friday, Ukrainian President Volodymyr Zelensky said, accusing Moscow of aiming directly at the SBU head's personal office. Zelensky said he had instructed the SBU to deliver an \"appropriate, tangible response\" to the strike, while Ukraine's Foreign Minister Andriy Sybiga described it as a \"major escalation\". FRANCE 24's ",
-    "published_at": "2026-09-04T15:24:33+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
@@ -4416,64 +3689,33 @@
   ]
  },
  {
-  "id": "2ced24161292",
-  "headline": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-  "section": "business",
-  "score": 37,
-  "sources_count": 2,
+  "id": "eb645db084d7",
+  "headline": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
+  "section": "sport",
+  "score": 38,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T09:43:58+00:00",
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T18:00:14+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-    "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-    "source": "The Guardian World",
-    "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure The car company Volkswagen has approved controversial plans to shed 100,000 jobs in a battle for survival as it faces fierce competition from Chinese rivals. After the latest round of talks this week, the company announced a further 50,000 job cuts and agreed a staggered end to curren",
-    "published_at": "2026-09-04T09:43:58+00:00",
+    "title": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
+    "url": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
+    "source": "Guardian Sport",
+    "summary": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrests The concourses are silent when, deep in the Emirates Stadium’s bowels, Chief Inspector Pete Dearden’s briefing begins. Arsenal’s 4.30pm kick-off against Chelsea is still hours away but the fixture carries significance as a London derby and because the Premier League champions are hosting a",
+    "published_at": "2026-09-07T18:00:14+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    },
    {
-    "title": "Volkswagen to cut further 50,000 jobs as it ends row with union over revival plan",
-    "url": "https://www.theguardian.com/business/2026/sep/03/volkswagen-confirms-100000-job-cuts-by-2030",
-    "source": "Guardian Business",
-    "summary": "Under-pressure carmaker will shed 15% of workforce and halve its product line in sector’s biggest ever restructure The car company Volkswagen has approved controversial plans to shed 100,000 jobs in a battle for survival as it faces fierce competition from Chinese rivals. After the latest round of talks this week, the company announced a further 50,000 job cuts and agreed a staggered end to curren",
-    "published_at": "2026-09-04T09:43:58+00:00",
+    "title": "Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
+    "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage",
+    "source": "Guardian Sport",
+    "summary": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitors There have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to criticism from Arsenal fans after a stultifying 0-0 draw in April 2015 . On Sunday, though, there was",
+    "published_at": "2026-09-07T15:41:54+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "a87c8a7b1e8c",
-  "headline": "Tesla Cybercab is barely on the road and it’s already under investigation",
-  "section": "motoring",
-  "score": 37,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:54+00:00",
-  "event_time": "2026-09-04T13:33:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
-    "url": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
-    "source": "The Verge",
-    "summary": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the Tesla Cybercab \"to examine the process and […]",
-    "published_at": "2026-09-04T13:33:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "Tesla Cybercab is already under NHTSA investigation after launch",
-    "url": "https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/",
-    "source": "Electrek",
-    "summary": "Tesla’s Cybercab is already under federal investigation. NHTSA opened an audit into how Tesla certified the vehicle the same day the company started putting passengers in it in Austin. The probe targets the exact thing that makes the Cybercab unusual: it has no steering wheel, no pedals, and no mirrors, and Tesla certified it as road-legal anyway. more…",
-    "published_at": "2026-09-04T12:46:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
@@ -4628,108 +3870,68 @@
   ]
  },
  {
-  "id": "bbb5e05dc0ff",
-  "headline": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T12:37:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Seeds of hope: how a local farming project is offering a lifeline to Gaza",
-    "url": "https://www.theguardian.com/environment/2026/sep/04/seed-bank-hope-farming-project-gaza-al-qarara",
-    "source": "The Guardian World",
-    "summary": "Family-run Al-Qarara Seed Bank is striving to help Palestinians gain sovereignty over their food security Salama Ayesh Muhanna still remembers the first seeds he planted on his family’s land in al-Qarara, Gaza. At just 17, Muhanna had proudly sprouted cucumbers. “I was very happy because I saw the results,” Muhanna says. “We were farmers at heart.” Continue reading...",
-    "published_at": "2026-09-04T12:37:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "e65c0af16fe6",
-  "headline": "Trump raises doubts over support for Britain in Falklands dispute with Argentina",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T15:25:53+00:00",
-  "event_time": "2026-09-04T12:46:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump raises doubts over support for Britain in Falklands dispute with Argentina",
-    "url": "https://www.france24.com/en/video/20260904-trump-raises-doubts-over-support-for-britain-in-falklands-dispute-with-argentina",
-    "source": "France 24",
-    "summary": "US President Donald Trump raised doubts about whether the United States would support Britain in another conflict over the Falkland Islands in an interview with a British broadcaster aired Thursday, injecting new tension into the long-standing dispute over the British-controlled archipelago also claimed by Argentina. Trump's comments came as his ideological ally, Argentine President Javier Milei, ",
-    "published_at": "2026-09-04T12:46:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   },
-   {
-    "title": "UK reasserts Falklands sovereignty amid Milei claim and Trump comments",
-    "url": "https://www.france24.com/en/video/20260904-uk-reasserts-falklands-sovereignty-amid-milei-claim-and-trump-comments",
-    "source": "France 24",
-    "summary": "Britain insisted Friday that the Falkland Islands \"are British\" after Argentine President Javier Milei suggested the \"winds of change\" now favoured his country's claim to the archipelago, citing Washington's readiness to reconsider its neutrality in the dispute. The islands' fate returned to the headlines after US President Donald Trump threatened to wade into the dispute, while a British-Israeli ",
-    "published_at": "2026-09-04T12:44:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T15:25:50+00:00"
-   }
-  ]
- },
- {
-  "id": "58720fef8409",
-  "headline": "TradeQuo Launches Weekend Gold Trading, Expanding XAUUSD Market Access Beyond Traditional Hours",
+  "id": "5fe1a564aefd",
+  "headline": "Jonathan Reynolds is right, Jaguar Land Rover doesn’t warrant use of public money | Nils Pratley",
   "section": "business",
-  "score": 36,
+  "score": 37,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T18:01:22+00:00",
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T17:22:51+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "TradeQuo Launches Weekend Gold Trading, Expanding XAUUSD Market Access Beyond Traditional Hours",
-    "url": "https://www.investing.com/news/press-releases/tradequo-launches-weekend-gold-trading-expanding-xauusd-market-access-beyond-traditional-hours-4889914",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-04T18:01:22+00:00",
+    "title": "Jonathan Reynolds is right, Jaguar Land Rover doesn’t warrant use of public money | Nils Pratley",
+    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/07/jaguar-land-rover-job-losses-financial-state-assistance",
+    "source": "Guardian Business",
+    "summary": "The 4,000 job cuts cannot be compared to a VW-like existential crisis and, as JLR presents them, are about staying competitive Jaguar Land Rover confirms plan to cut 4,000 jobs over two years A default reaction to news of job losses in the UK car industry is to ask what the government is going to do about it. So, well done business secretary Jonathan Reynolds for giving the correct response to the",
+    "published_at": "2026-09-07T17:22:51+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
  {
-  "id": "480cff7899eb",
-  "headline": "Roland is getting into generative AI music with Melody Flip",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T17:51:35+00:00",
+  "id": "99a349cd8fce",
+  "headline": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+  "section": "culture",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T15:43:11+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Roland is getting into generative AI music with Melody Flip",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "source": "The Verge",
-    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]",
-    "published_at": "2026-09-04T17:51:35+00:00",
+    "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+    "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
+    "published_at": "2026-09-07T15:43:11+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1cc3e73ad951",
+  "headline": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+  "section": "safety",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-03T05:19:04+00:00",
+  "time_kind": "published",
+  "items": [
    {
-    "title": "Roland is getting into generative AI music with Melody Flip",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "source": "The Verge AI",
-    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]",
-    "published_at": "2026-09-04T17:51:35+00:00",
+    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+    "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
+    "published_at": "2026-09-03T05:19:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
@@ -5259,77 +4461,55 @@
   ]
  },
  {
-  "id": "5663e6b86ddd",
-  "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-  "section": "ai",
-  "score": 35,
+  "id": "d1f74a46c409",
+  "headline": "The complex corporate web behind a $3.2 billion AI data center",
+  "section": "tech",
+  "score": 36,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T16:05:57+00:00",
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T11:00:03+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "source": "The Verge",
-    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot […]",
-    "published_at": "2026-09-04T16:05:57+00:00",
+    "title": "The complex corporate web behind a $3.2 billion AI data center",
+    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "source": "Ars Technica",
+    "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+    "published_at": "2026-09-07T11:00:03+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    },
    {
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "source": "The Verge AI",
-    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot […]",
-    "published_at": "2026-09-04T16:05:57+00:00",
+    "title": "The complex corporate web behind a $3.2 billion AI data center",
+    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "source": "Ars Technica AI",
+    "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+    "published_at": "2026-09-07T11:00:03+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
  {
-  "id": "2546d0986a89",
-  "headline": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-  "section": "safety",
-  "score": 35,
+  "id": "01eda295b2c5",
+  "headline": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
+  "section": "culture",
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T15:57:15+00:00",
+  "depth_signal": 2,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T16:59:24+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-    "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-    "source": "The Hacker News",
-    "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
-    "published_at": "2026-09-04T15:57:15+00:00",
+    "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
+    "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
+    "published_at": "2026-09-07T16:59:24+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
-  "id": "a42c4fcb50a3",
-  "headline": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T15:20:19+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-    "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-    "source": "The Hacker News",
-    "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
-    "published_at": "2026-09-04T15:20:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
@@ -5973,55 +5153,24 @@
   ]
  },
  {
-  "id": "cf9beebba5de",
-  "headline": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
-  "section": "business",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T17:34:08+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
-    "url": "https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html",
-    "source": "CNBC Top",
-    "summary": "President Donald Trump hyped the sanctions plan as \"economic D-Day\" against Iran, but the U.S. has so far taken few steps to implement it.",
-    "published_at": "2026-09-04T17:34:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   }
-  ]
- },
- {
-  "id": "fcf46ce277cb",
-  "headline": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-  "section": "science",
-  "score": 34,
+  "id": "51e0fedb88d7",
+  "headline": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+  "section": "safety",
+  "score": 35,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-04T18:27:58+00:00",
-  "event_time": "2026-09-04T15:44:05+00:00",
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T14:36:07+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-    "url": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
-    "published_at": "2026-09-04T15:44:05+00:00",
+    "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+    "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+    "source": "The Hacker News",
+    "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
+    "published_at": "2026-09-07T14:36:07+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
-   },
-   {
-    "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-    "url": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
-    "published_at": "2026-09-04T15:44:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-04T18:27:55+00:00"
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
@@ -7057,6 +6206,50 @@
     "published_at": "2026-08-02T15:00:26+00:00",
     "source_countries": [],
     "seen_at": "2026-09-07T15:25:21+00:00"
+   }
+  ]
+ },
+ {
+  "id": "32b7d0335594",
+  "headline": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T17:31:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
+    "url": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "President Rodrigo Paz declares national mourning, urges unity after deadly military base explosions near La Paz.",
+    "published_at": "2026-09-07T17:31:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a48cf88b7ef5",
+  "headline": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T15:51:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+    "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+    "source": "The Hacker News",
+    "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
+    "published_at": "2026-09-07T15:51:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  },
@@ -8369,6 +7562,534 @@
     "published_at": "2020-05-04T12:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-07T12:37:08+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f219766d0302",
+  "headline": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T16:13:05+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
+    "url": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
+    "source": "The Guardian World",
+    "summary": "Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas Europe live – latest updates The numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and “passport” Germans, and is too extreme even for France’s far-right leader Marine Le Pen, nearly doubled i",
+    "published_at": "2026-09-07T16:13:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bbcbdf04b25c",
+  "headline": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T15:41:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+    "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+    "published_at": "2026-09-07T15:41:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4938a145e606",
+  "headline": "Painful, unconvincing and boring: welcome to John Healey’s late show | John Crace",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T16:30:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Painful, unconvincing and boring: welcome to John Healey’s late show | John Crace",
+    "url": "https://www.theguardian.com/politics/2026/sep/07/john-healey-sketch-chancellor-john-crace",
+    "source": "Guardian Business",
+    "summary": "Chancellor has the look of a man born to announce the UK is under nuclear attack Meet the new chancellor. Same as the old chancellor. Although, on reflection, that might be a little hard on Rachel Reeves. At least Rachel had given the job some thought before she got it. She had had some experience working at the Bank of England and, whether you liked it or not, she had some kind of plan. John Heal",
+    "published_at": "2026-09-07T16:30:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "242bbba8ec51",
+  "headline": "Daily briefing: GLP-1 obesity drugs slow signs of ageing in mice",
+  "section": "science",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-03T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Daily briefing: GLP-1 obesity drugs slow signs of ageing in mice",
+    "url": "https://www.nature.com/articles/d41586-026-02781-1",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02781-1 Mice on GLP-1s also performed better on cognitive tasks than those on a calorie restricted diet . Plus, satellite images showed early warning signs of glacier collapse near the Nepal–Tibet border and the impact of people saying fewer words aloud.",
+    "published_at": "2026-09-03T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "034d6998817a",
+  "headline": "Galileo, Copernicus, Cleansky, IRIS² must work together to secure Europe's place in the space race",
+  "section": "science",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T16:20:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Galileo, Copernicus, Cleansky, IRIS² must work together to secure Europe's place in the space race",
+    "url": "https://phys.org/news/2026-09-galileo-copernicus-cleansky-iris-europe.html",
+    "source": "Phys.org",
+    "summary": "\"Seeing the Earth from above is a powerful reminder of our interdependence,\" said Thomas Pesquet. The words of France's 10th astronaut to head into space are a reminder of how we are \"in this together,\" something the world's aerospace industry players should take heed of as they gather in Paris for the first International Space Summit from Sept. 9–10.",
+    "published_at": "2026-09-07T16:20:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1f4d1f2ec7ac",
+  "headline": "Firm Buys Texas Coal Plant to Leverage its Grid Connections for New Massive Solar Project",
+  "section": "goodnews",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T15:30:29+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Firm Buys Texas Coal Plant to Leverage its Grid Connections for New Massive Solar Project",
+    "url": "https://www.goodnewsnetwork.org/firm-buys-texas-coal-plant-to-leverage-its-grid-connections-for-new-massive-solar-project/",
+    "source": "Good News Network",
+    "summary": "Coal power has a huge role still to play in the American energy mix—by turning over its substantial grid infrastructure to renewable energy projects. Energy investment firm Panamint is putting up $1.7 billion to build Big Rooter Power, an enormous solar-storage power complex in Robertson, Texas that will add 1.2 gigawatts of solar power to […] The post Firm Buys Texas Coal Plant to Leverage its Gr",
+    "published_at": "2026-09-07T15:30:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "caac094df001",
+  "headline": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T17:29:20+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+    "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+    "source": "The Guardian World",
+    "summary": "Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024 The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on trial in the border resort where the three were murdered. The Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and their 30-year-old American friend Jack Ca",
+    "published_at": "2026-09-07T17:29:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ba44efe37c44",
+  "headline": "Polanski faces Green rival in his pursuit of Keir Starmer’s old seat",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T16:43:09+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Polanski faces Green rival in his pursuit of Keir Starmer’s old seat",
+    "url": "https://www.theguardian.com/politics/2026/sep/07/polanski-faces-green-rival-in-his-pursuit-of-keir-starmers-old-seat",
+    "source": "The Guardian World",
+    "summary": "Hamza Chowdhury says most of his fellow Green Camden councillors back him to contest 8 October byelection UK politics live – latest updates Zack Polanski is facing unexpected opposition from his own party in his attempt to fight the Holborn and St Pancras byelection for the Greens, with a local councillor saying he is also seeking the nomination, and that the seat does not need “a politician you’l",
+    "published_at": "2026-09-07T16:43:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "207dce9c51e3",
+  "headline": "Nicaragua challenges German arms exports to Israel at ICJ",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T16:26:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Nicaragua challenges German arms exports to Israel at ICJ",
+    "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Germany has asked the International Court of Justice to dismiss the case on jurisdiction grounds. It also said its arms exports to Israel were documented, published, and subject to more stringent checks than most.",
+    "published_at": "2026-09-07T16:26:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7c5fd5059c44",
+  "headline": "‘Mistrust’ of Palantir may affect NHS research, says health minister",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T15:33:44+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Mistrust’ of Palantir may affect NHS research, says health minister",
+    "url": "https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research",
+    "source": "Guardian Business",
+    "summary": "James Frith says patients may be less willing to share data as new figures show a rise in opt-outs Concern is being raised about Palantir’s work with the NHS as new figures showed tens of thousands of patients have withdrawn their data from use in research projects. James Frith, the health innovation minister, said he was worried about “mistrust” of the US defence and health tech company and “the ",
+    "published_at": "2026-09-07T15:33:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "48178ca4cf04",
+  "headline": "Exploring Rabat, Morocco – this year’s Unesco World Book Capital",
+  "section": "travel",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-08-01T06:00:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Exploring Rabat, Morocco – this year’s Unesco World Book Capital",
+    "url": "https://www.theguardian.com/travel/2026/aug/01/exploring-rabat-morocco-unesco-world-book-capital",
+    "source": "Guardian Travel",
+    "summary": "Rabat is a gorgeous seaside city with great food and culture, but for book lovers there’s an added incentive to go this year The first book I read willingly was Bridget Jones’s Diary. I was 19. Up to that point, I hadn’t been much of a reader. I’d been more into football, or Baywatch, or Robin Budd in the year above – anything really. Given the choice between reading a book and staring at a wall, ",
+    "published_at": "2026-08-01T06:00:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4b157434ad3a",
+  "headline": "Green Deals Labor Day – EcoFlow power station flash sale from $599, Hiboy EVs 47% off from $300, Autel 80A EV charger low, more",
+  "section": "motoring",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T18:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Green Deals Labor Day – EcoFlow power station flash sale from $599, Hiboy EVs 47% off from $300, Autel 80A EV charger low, more",
+    "url": "https://electrek.co/2026/09/07/labor-day-ecoflow-power-station-flash-sale-hiboy-evs-autel-80a-ev-charger-more/",
+    "source": "Electrek",
+    "summary": "It’s the final day of Amazon’s Labor Day Sale event, as well as Best Buy’s Labor Day Sale , not to mention a bunch of other direct sales we’ve been featuring the last two weeks – with all the deals we’ve spotted rounded up together in our one-stop-shop Labor Day Green Deals hub here . For our Monday edition, we’ve got a fresh EcoFlow Labor Day flash sale with up to 33% savings on four units starti",
+    "published_at": "2026-09-07T18:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5aa1087e3982",
+  "headline": "Pokémon Fans Rally to Help Child After He Was Scammed Out of His Most Valuable Card",
+  "section": "goodnews",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-01T15:30:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Pokémon Fans Rally to Help Child After He Was Scammed Out of His Most Valuable Card",
+    "url": "https://www.goodnewsnetwork.org/pokemon-fans-rally-to-help-child-after-he-was-scammed-out-of-his-most-valuable-card/",
+    "source": "Good News Network",
+    "summary": "A heartwarming story of a community putting values above value comes from the convention floor of Pokémon XP. At the August 29th event in San Francisco, venture capitalist Eric Bahn shared that his son was scammed while trading Pokémon cards with an adult. “Lost his most valuable cards in a fraudulent trade by some guy […] The post Pokémon Fans Rally to Help Child After He Was Scammed Out of His M",
+    "published_at": "2026-09-01T15:30:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "58909c659623",
+  "headline": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-05T22:16:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
+    "url": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
+    "source": "The Guardian World",
+    "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compound An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least three soldiers and wounded four, Colombia’s army said on Saturday. Local authorities blamed the attack – which took place late on Friday – on the rebel",
+    "published_at": "2026-09-05T22:16:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6c9a03216253",
+  "headline": "German chancellor vows to stay in office despite AfD triumph in state election",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T17:48:37+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "German chancellor vows to stay in office despite AfD triumph in state election",
+    "url": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+    "source": "The Guardian World",
+    "summary": "Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt A “shocked” and chastened Friedrich Merz has vowed to stay in office despite the far right’s triumph in a state election that has brought anti-immigrant, pro-Kremlin politicians within striking distance of power. The German chancellor, appearing ashen-faced in front of reporters i",
+    "published_at": "2026-09-07T17:48:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d05bb718dfad",
+  "headline": "Middle East: Israeli strikes kill a dozen in Lebanon",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T09:23:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Middle East: Israeli strikes kill a dozen in Lebanon",
+    "url": "https://www.dw.com/en/middle-east-israeli-strikes-kill-a-dozen-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Lebanon's Health Ministry said at least 12 were killed in overnight Israeli strikes in the south of the country. Meanwhile, traffic in the Strait of Hormuz has sunk to its lowest level since May. DW has more.",
+    "published_at": "2026-09-07T09:23:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "39816803048c",
+  "headline": "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T17:08:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Eiffel Tower workers go on strike after female staff 'sidelined' for Hindu group's visit",
+    "url": "https://www.france24.com/en/france/20260907-strike-closes-eiffel-tower-paris-exclusion-female-staff-hindu-group-visit-baps",
+    "source": "France 24",
+    "summary": "The Eiffel Tower was forced to close on Monday after staff went on strike to protest the “sidelining” and “replacement” of female employees during a recent visit by a Hindu delegation. The Paris landmark's operator said the group had requested that the private visit be organised in such a way as to limit “interactions with women”.",
+    "published_at": "2026-09-07T17:08:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fa32cd87641f",
+  "headline": "Next wins key appeal to overturn £30m equal pay ruling",
+  "section": "business",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T16:25:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Next wins key appeal to overturn £30m equal pay ruling",
+    "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
+    "published_at": "2026-09-07T16:25:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "540584b1c826",
+  "headline": "AI data centres are booming in Australia - but at what cost?",
+  "section": "tech",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-03T18:32:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "AI data centres are booming in Australia - but at what cost?",
+    "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+    "published_at": "2026-09-03T18:32:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7f0b31e70ea6",
+  "headline": "Structure and operating principles of a monkeypox virus replisome",
+  "section": "science",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-02T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Structure and operating principles of a monkeypox virus replisome",
+    "url": "https://www.nature.com/articles/s41586-026-10937-2",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10937-2 During replisome assembly of monkeypox virus, the hexameric helicase–primase E5 undergoes large-scale conformational changes that allow two of its primase domains to interact with the polymerase F8 thumb domain and A22 subunit, activating the helicase–primase.",
+    "published_at": "2026-09-02T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0f7bfb98bb95",
+  "headline": "‘I’m used to doing the impossible’: George Lucas unveils new LA museum – what’s its story?",
+  "section": "culture",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-04T13:00:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘I’m used to doing the impossible’: George Lucas unveils new LA museum – what’s its story?",
+    "url": "https://www.theguardian.com/culture/2026/sep/04/george-lucas-art-museum-los-angeles",
+    "source": "Guardian Culture",
+    "summary": "Spaceship-shaped gallery, featuring works from Banksy, Norman Rockwell and Frida Kahlo, is devoted to ‘visual storytelling’ – and is finally ready to open “I’m used to doing the impossible,” George Lucas said on Wednesday. But “this one almost broke my will”. The film-maker was describing the decades of work that went into his latest project, the Lucas Museum of Narrative Art, as it was unveiled t",
+    "published_at": "2026-09-04T13:00:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b38cf6d784b4",
+  "headline": "The Atlas Obscura Guide to the World's Strangest Christmas Traditions",
+  "section": "travel",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-08-14T17:33:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Atlas Obscura Guide to the World's Strangest Christmas Traditions",
+    "url": "https://www.atlasobscura.com/articles/guide-to-strangest-christmas-traditions",
+    "source": "Atlas Obscura",
+    "summary": "Every European Christmas market sells the same mulled wine out of the same wooden hut. This is not a criticism — it is a very good hut, and the wine is warm. But it is not a reason to choose one country over another, and the \"best Christmas markets\" lists that dominate December travel writing are, functionally, lists of interchangeable huts. The traditions are the opposite. They are wildly, specif",
+    "published_at": "2026-08-14T17:33:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b40c502192fc",
+  "headline": "‘Like an AI agent’: Wolff hails Antonelli’s Italian GP victory in title charge",
+  "section": "sport",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-07T09:48:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Like an AI agent’: Wolff hails Antonelli’s Italian GP victory in title charge",
+    "url": "https://www.theguardian.com/sport/2026/sep/07/toto-wolff-hails-kimi-antonelli-italian-gp-victory-title-charge-formula-one",
+    "source": "Guardian Sport",
+    "summary": "Mercedes principal likens 20-year-old to F1 greats ‘No stopping him when a driver and car are one’ Toto Wolff has compared Kimi Antonelli to the greats of Formula One after the Mercedes driver’s remarkable victory at the Italian Grand Prix where he came back to take the flag from 19th place on the grid. The Mercedes team principal cited the win as similar to some of the best made by Lewis Hamilton",
+    "published_at": "2026-09-07T09:48:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d44ccc0ba93d",
+  "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+  "section": "ai",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-07T18:29:21+00:00",
+  "event_time": "2026-09-03T13:34:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+    "source": "Ars Technica AI",
+    "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+    "published_at": "2026-09-03T13:34:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-07T18:29:16+00:00"
    }
   ]
  }

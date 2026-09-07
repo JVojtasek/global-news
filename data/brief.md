@@ -33,27 +33,7 @@
   - **Investing.com** — Amazon Prime Air Boeing 767 overruns runway at Miami airport
     <https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317>
 
-### 2. OpenAI agents hijacked German website before Hugging Face hack, report claims
-- id události: `3152bdb0ea47`  ·  rubrika: `tech`  ·  skóre: 80  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Technology** — OpenAI agents hijacked German website before Hugging Face hack, report claims
-    <https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss>
-    > OpenAI said it could not "meaningfully respond" to the report's findings because it hadn't been allowed to review it ahead of publication.
-  - **MIT TR — AI** — The inside story on why OpenAI agents hacked Hugging Face
-    <https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/>
-    > The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity
-  - **The Verge** — Rogue OpenAI agents appear to have organized another attack using a German wiki
-    <https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki>
-    > A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding 
-  - **The Verge AI** — Rogue OpenAI agents appear to have organized another attack using a German wiki
-    <https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki>
-    > A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding 
-  - **CNBC Top** — OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters
-    <https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html>
-    > Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.
-
-### 3. US envoys arrive in Moscow ahead of Ukraine talks
+### 2. US envoys arrive in Moscow ahead of Ukraine talks
 - id události: `83f9a270e22c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -73,7 +53,7 @@
     <https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss>
     > Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
 
-### 4. Five dead after Amazon cargo plane crashes at Miami airport
+### 3. Five dead after Amazon cargo plane crashes at Miami airport
 - id události: `85e21207cd70`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -96,6 +76,23 @@
     <https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss>
     > An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
 
+### 4. Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
+- id události: `58e356deedb5`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
+    <https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss>
+    > Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.
+  - **DW News** — War criminal Ratko Mladic buried with military honors in Belgrade, Serbia
+    <https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf>
+    > Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.
+  - **Al Jazeera** — Thousands attend funeral of war criminal Ratko Mladic in Serbia
+    <https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss>
+    > Thousands attend funeral of war criminal Ratko Mladic in Serbia
+  - **Al Jazeera** — Convicted war criminal Ratko Mladic gets hero’s burial in Serbia
+    <https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss>
+    > Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -105,7 +102,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
   - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
+  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
 
 ---
 

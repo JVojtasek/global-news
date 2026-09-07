@@ -552,46 +552,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "west",
-    "hind",
-    "israel's",
-    "week",
-    "global",
-    "many",
-    "colombia",
-    "news",
-    "hamas",
-    "city",
-    "former",
-    "israel",
-    "us-led",
     "labour",
-    "rajab",
-    "palestine",
-    "israeli",
-    "gitai",
+    "germany",
+    "city",
+    "week",
+    "former",
     "bank",
     "jenin",
-    "palestinians",
-    "dutch",
-    "far-right",
-    "palestinian",
-    "inside",
-    "amos",
-    "ben-gvir",
-    "dolly",
-    "netanyahu",
-    "parton",
-    "american",
-    "italy",
-    "gaza",
+    "many",
     "nepal",
-    "canada",
-    "germany",
+    "ben-gvir",
+    "dutch",
+    "israel",
+    "colombia",
+    "italy",
+    "news",
+    "global",
     "burnham",
-    "multiple",
+    "palestinian",
+    "hind",
+    "parton",
+    "inside",
+    "gaza",
+    "netanyahu",
+    "authority",
+    "hamas",
+    "palestinians",
     "christian",
-    "france"
+    "france",
+    "west",
+    "american",
+    "gitai",
+    "israel's",
+    "rajab",
+    "amos",
+    "dolly",
+    "us-led",
+    "far-right",
+    "canada",
+    "multiple",
+    "palestine"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -623,7 +623,8 @@
     "89282106da8b",
     "4bf27b721bfa",
     "db9255b11c8f",
-    "04275de624ee"
+    "04275de624ee",
+    "1ed9a755881d"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-07",
@@ -964,6 +965,17 @@
      "links": [
       "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
       "https://www.france24.com/en/middle-east/20260907-un-rapporteur-says-israeli-rubble-clearing-in-gaza-could-erase-atrocity-crimes-evidence"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1ed9a755881d",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+      "https://www.aljazeera.com/features/2026/9/7/israel-deports-british-activist-who-protected-palestinian-children?traffic_source=rss"
      ]
     }
    ]
@@ -1387,6 +1399,65 @@
       "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
       "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
       "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ed2d132fe5dc",
+   "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+   "section": "world",
+   "entities": [
+    "ratko",
+    "mladic",
+    "serbia",
+    "thousands",
+    "srebrenica",
+    "butcher",
+    "bosnia"
+   ],
+   "event_ids": [
+    "ed2d132fe5dc",
+    "790f7f4c343b",
+    "58e356deedb5"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-07",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+     "sources": 4,
+     "score": 68,
+     "event_id": "ed2d132fe5dc",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
+      "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "The man behind Srebrenica: Ratko Mladic dies at 84",
+     "sources": 2,
+     "score": 52,
+     "event_id": "790f7f4c343b",
+     "links": [
+      "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/27/obituary-ratko-mladic-war-criminal-convicted-of-srebrenica-genocide-dies?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+     "sources": 3,
+     "score": 62,
+     "event_id": "58e356deedb5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss"
      ]
     }
    ]
@@ -5682,50 +5753,6 @@
    ]
   },
   {
-   "id": "ed2d132fe5dc",
-   "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
-   "section": "world",
-   "entities": [
-    "butcher",
-    "mladic",
-    "bosnia",
-    "ratko",
-    "srebrenica"
-   ],
-   "event_ids": [
-    "ed2d132fe5dc",
-    "790f7f4c343b"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-08-27",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
-     "sources": 4,
-     "score": 68,
-     "event_id": "ed2d132fe5dc",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
-      "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "The man behind Srebrenica: Ratko Mladic dies at 84",
-     "sources": 2,
-     "score": 52,
-     "event_id": "790f7f4c343b",
-     "links": [
-      "https://www.dw.com/en/the-man-behind-srebrenica-ratko-mladic-dies-at-84/a-78536491?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/27/obituary-ratko-mladic-war-criminal-convicted-of-srebrenica-genocide-dies?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "f0a2b81c016e",
    "title": "India news: India steps up efforts as hundreds missing in Nepal floods",
    "section": "world",
@@ -7041,5 +7068,5 @@
    ]
   }
  ],
- "updated": "2026-09-07T15:25:26+00:00"
+ "updated": "2026-09-07T18:29:21+00:00"
 }

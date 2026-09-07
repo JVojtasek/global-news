@@ -83,65 +83,6 @@
    "depth": "open"
   },
   {
-   "id": "3152bdb0ea47",
-   "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-   "section": "tech",
-   "score": 80,
-   "sources_count": 5,
-   "depth_signal": 2,
-   "created": "2026-09-04T15:25:53+00:00",
-   "event_time": "2026-09-04T14:59:13+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-     "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Technology",
-     "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-     "published_at": "2026-09-04T14:59:13+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-04T15:25:50+00:00"
-    },
-    {
-     "title": "The inside story on why OpenAI agents hacked Hugging Face",
-     "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-     "source": "MIT TR — AI",
-     "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-     "published_at": "2026-08-26T19:00:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-04T15:25:50+00:00"
-    },
-    {
-     "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-     "source": "The Verge",
-     "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
-     "published_at": "2026-09-04T13:34:12+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-04T15:25:50+00:00"
-    },
-    {
-     "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-     "source": "The Verge AI",
-     "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
-     "published_at": "2026-09-04T13:34:12+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-04T15:25:50+00:00"
-    },
-    {
-     "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters",
-     "url": "https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html",
-     "source": "CNBC Top",
-     "summary": "Rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin ⁠board for other AI agents, Reuters reports.",
-     "published_at": "2026-09-04T12:47:12+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-04T15:25:50+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "83f9a270e22c",
    "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
    "section": "world",
@@ -267,6 +208,56 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "58e356deedb5",
+   "headline": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+   "section": "world",
+   "score": 62,
+   "sources_count": 3,
+   "depth_signal": 0,
+   "created": "2026-09-07T18:29:21+00:00",
+   "event_time": "2026-09-07T14:50:50+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
+     "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
+     "published_at": "2026-09-07T14:50:50+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-07T18:29:16+00:00"
+    },
+    {
+     "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
+     "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.",
+     "published_at": "2026-09-07T15:03:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-07T18:29:16+00:00"
+    },
+    {
+     "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+     "published_at": "2026-09-07T17:52:47+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-07T18:29:16+00:00"
+    },
+    {
+     "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+     "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.",
+     "published_at": "2026-09-07T15:34:12+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-07T18:29:16+00:00"
+    }
+   ],
+   "depth": "scripture"
   }
  ],
  "feature_assignments": [
@@ -333,9 +324,9 @@
     "text": "Authentication (from Greek: αὐθεντικός authentikos, \"real, genuine\", from αὐθέντης authentes, \"author\") is the act of proving an assertion, such as the identity of a computer system user. In contrast with identification, the act of indicating a person or thing's identity, authentication is the process of verifying that identity.\nAuthentication is relevant to multiple fields. In art, antiques, and anthropology, a common problem is verifying that a given artifact was produced by a certain person, or in a certain place (i.e. to assert that it is not counterfeit), or in a given period of history (e.g. by determining the age via carbon dating). In computer science, verifying a user's identity is often required to allow access to confidential data or systems. It might involve validating personal identity documents.\n\nIn art, antiques and anthropology\n\nAuthentication can be considered to be of three types:\nThe first type of authentication is accepting proof of identity given by a credible person who has first-hand evidence that the identity is genuine. When authentication is required for art or physical objects, this proof could be a friend, family member, or colleague attesting to the item's provenance, perhaps by having witnessed the item in its creator's possession. With autographed sports memorabilia, this could involve someone attesting that they witnessed the object being signed. A vendor selling branded items implies authenticity, while they may not have evidence that every step in the supply chain was authenticated. \nThe second type of authentication is comparing the attributes of the object itself to what is known about objects of that origin. For example, an art expert might look for similarities in the style of painting, check the location and form of a signature, or compare the object to an old photograph. An archaeologist, on the other hand, might use carbon dating to verify the age of an artifact, do a chemical and spectroscopic analysis of the materials used, or compare the style of construction or decoration to other artifacts of similar origin. The physics of sound and light, and comparison with a known physical environment, can be used to examine the authenticity of audio recordings, photographs, or videos. Documents can be verified as being created on ink or paper readily available at the time of the item's implied creation.\nAttribute comparison may be vulnerable to forgery. In general, it relies on the facts that creating a forgery indistinguishable from a genuine artifact requires expert knowledge, that mistakes are easily made, and that the amount of effort required to do so is considerably greater than the amount of profit that can be gained from the forgery.\nIn art and antiques, certificates are of great importance for authenticating an object of interest and value. Certificates can, however, also be forged, and the authentication of these poses a problem. For instance, the son of Han van Meegeren, the well-known art-forger, forged the work of his father and provided a certificate for its provenance as well.\nCriminal and civil penalties for fraud, forgery, and counterfeiting can reduce the incentive for falsification, depending on the risk of getting caught.\nCurrency and other financial instruments commonly use this second type of authentication method. Bills, coins, and cheques incorporate hard-to-duplicate physical features, such as fine printing or engraving, distinctive feel, watermarks, and holographic imagery, which are easy for trained receivers to verify.\nThe third type of authentication relies on documentation or other external affirmations. In criminal courts, the rules of evidence often require establishing the chain of custody of evidence presented. This can be accomplished through a written evidence log, or by testimony from the police detectives and forensics staff that handled it. Some antiques are accompanied by certificates attesting to their authenticity. Signed sports memorabilia is usually accompanied by a certificate of authenticity. These external records have their own problems of forgery and perjury and are also vulnerable to being separated from the artifact and lost.\n\nIn commercial products\n Consumer goods such as pharmaceuticals, perfume, and clothing can use all forms of authentication to prevent counterfeit goods from taking advantage of a popular brand's reputation. As mentioned above, having an item for sale in a reputable store implicitly attests to it being genuine, the first type of authentication. The second type of authentication might involve comparing the quality and craftsmanship of an item, such as an expensive handbag, to genuine articles. The third type of authentication could be the presence of a trademark on the item, which is a legally protected marking, or any other identifying feature which aids consumers in the identification of genuine brand-name goods. With software, companies have taken great steps to protect from counterfeiters, including adding holograms, security rings, security threads and color shifting ink.\nCounterfeit products are often offered to consumers as being authentic. Counterfeit consumer goods, such as electronics, music, apparel, and counterfeit medications, have been sold as being legitimate. Efforts to control the supply chain and educate consumers help ensure that authentic products are sold and used. Even security printing on packages, labels, and nameplates, however, is subject to counterfeiting.\nIn their anti-counterfeiting technology guide, the EUIPO Observatory on Infringements of Intellectual Property Rights categorizes the main anti-counterfeiting technologies on the market currently into five main categories: electronic, marking, chemical and physical, mechanical, and technologies for digital media.\nProducts or their packaging can include a variable QR Code. A QR Code alone is easy to verify but offers a weak level of authentication as it offers no protection against counterfeits unless scan data is analyzed at the system level to detect anomalies. To increase the security level, the QR Code can be combined with a digital watermark or copy detection pattern that are robust to copy attempts and can be authenticated with a smartphone.\nA secure key storage device can be used for authentication in consumer electronics, network authentication, license management, supply chain management, etc. Generally, the device to be authenticated needs some sort of wireless or wired digital connection to either a host system or a network. Nonetheless, the component being authenticated need not be electronic in nature as an authentication chip can be mechanically attached and read through a connector to the host e.g. an authenticated ink tank for use with a printer. For products and services that these secure coprocessors can be applied to, they can offer a solution that can be much more difficult to counterfeit than most other options while at the same time being more easily verified.\n\nPackaging\nPackaging and labeling can be engineered to help reduce the risks of counterfeit consumer goods or the theft and resale of products. Some package constructions are more difficult to copy and some have pilfer indicating seals. Counterfeit goods, unauthorized sales (diversion), material substitution and tampering can all be reduced with these anti-counterfeiting technologies. Packages may include authentication seals and use security printing to help indicate that the package and contents are not counterfeit; these too are subject to counterfeiting. Packages also can include anti-theft devices, such as dye-packs, RFID tags, or electronic article surveillance tags that can be activated or detected by devices at exit points and require specialized tools to deactivate. Anti-counterfeiting technologies that can be used with packaging include:\n\nTaggant fingerprinting – uniquely coded microscopic materials that are verified from a database\nEncrypted micro-particles – unpredictably placed markings (numbers, layers and colors) not visible to the human eye\nHolograms – graphics printed on seals, patches, foils or labels and used at the point of sale for visual verification\nMicro-printing – second-line authentication often used on currencies\nSerialized barcodes\nUV printing – marks only visible under UV light\nTrack and trace systems – use codes to link products to the database tracking system\nWater indicators – become visible when contacted with water\nDNA tracking – genes embedded onto labels that can be traced\nColor-shifting ink or film – visible marks that switch colors or texture when tilted\nTamper evident seals and tapes – destructible or graphically verifiable at point of sale\n2d barcodes – data codes that can be tracked\nRFID chips\nNFC chips\n\nIn literature\nIn literacy, authentication is a readers' process of questioning the veracity of an aspect of literature and then verifying those questions via research. The fundamental question for authentication of literature is – "
    },
    {
-    "title": "Comparison of OTP applications",
-    "url": "https://en.wikipedia.org/wiki/Comparison_of_OTP_applications",
-    "text": "The following is a general comparison of OTP applications that are used to generate one-time passwords for two-factor authentication (2FA) systems using the time-based one-time password (TOTP), the HMAC-based one-time password (HOTP) algorithms or Mobile-OTP (mOTP), which is an older, open source, 2FA system for mobile phones that combines a user’s PIN, time and a per-device secret to generate OTPs. It also lists apps that support proprietary authentication methods, like those used by Steam or Yandex.\n\nSummary information\n\nStandalone authenticator applications\nThe following is an overview of authenticator applications that operate independently and are not integrated into password managers.\n\nCombined authenticator and password manager applications\nThe following is an overview of password managers that include an integrated authenticator feature.\n\nAuthenticated implementations\n\nSee also\nPassword manager\nList of password managers\n\nReferences"
+    "title": "Mutual authentication",
+    "url": "https://en.wikipedia.org/wiki/Mutual_authentication",
+    "text": "Mutual authentication or two-way authentication is the simultaneous and reciprocal authentication of two parties. It is part of authentication protocols, default in some protocols (IKE, SSH) and optional in others (TLS).\nMutual authentication is a desired characteristic in verification schemes that transmit sensitive data, in order to ensure data security. Mutual authentication can be accomplished with two types of credentials: usernames and passwords, and public key certificates.\nMutual authentication is often employed in the Internet of Things (IoT). Writing effective security schemes in IoT systems is challenging, especially when schemes are desired to be lightweight and have low computational costs. Mutual authentication is a crucial security step that can defend against many adversarial attacks, which otherwise can have large consequences if IoT systems (such as e-Healthcare servers) are hacked. In scheme analyses done of past works, a lack of mutual authentication had been considered a weakness in data transmission schemes.\n\nProcess steps and verification\nSchemes that have a mutual authentication step may use different methods of encryption, communication, and verification, but they all share one thing in common: each entity involved in the communication is verified. If Alice wants to communicate with Bob, they will both authenticate the other and verify that it is who they are expecting to communicate with before any data or messages are transmitted. A mutual authentication process that exchanges user IDs may be implemented as follows:\n\nAlice sends a message encrypted with Bob's public key to Bob to show that Alice is a valid user.\nBob verifies the message:\nBob checks the format and timestamp. If either is incorrect or invalid, the session is aborted.\nThe message is then decrypted with Bob's secret key, giving Alice's ID.\nBob checks if the message matches a valid user. If not, the session is aborted.\nBob sends Alice a message back, encrypted with Alice's public key, to show that Bob is a valid user.\nAlice verifies the message:\nAlice checks the format and timestamp. If either is incorrect or invalid, the session is aborted.\nThe message is then decrypted with Alice's secret key, giving Bob's ID.\nAlice checks if the message matches a valid user. If not, the session is aborted.\nAt this point, both parties are verified to be who they claim to be and safe for the other to communicate with. Lastly, Alice and Bob will create a shared secret key so that they can continue communicating in a secure manner.\nTo verify that mutual authentication has occurred successfully, Burrows-Abadi-Needham logic (BAN logic) is a well regarded and widely accepted method to use, because it verifies that a message came from a trustworthy entity. BAN logic first assumes an entity is not to be trusted, and then will verify its legality.\n\nDefenses\nMutual authentication supports zero trust networking because it can protect communications against adversarial attacks, notably:\n\nMan-in-the-middle attack\n\nMan-in-the-middle (MITM) attacks are when a third party wishes to eavesdrop or intercept a message, and sometimes alter the intended message for the recipient. The two parties openly receive messages without verifying the sender, so they do not realize an adversary has inserted themselves into the communication line. Mutual authentication can prevent MITM attacks because both the sender and recipient verify each other before sending them their message keys, so if one of the parties is not verified to be who they claim they are, the session will end.\nReplay attack\n\nA replay attack is similar to a MITM attack in which older messages are replayed out of context to fool the server. However, this does not work against schemes using mutual authentication because timestamps are a verification factor that are used in the protocols. If the change in time is greater than the maximum allowed time delay, the session will be aborted. Similarly, messages can include a randomly generated number to keep track of when a message was sent.\nSpoofing attack\n\nSpoofing attacks rely on using false data to pose as another user in order to gain access to a server or be identified as someone else. Mutual authentication can prevent spoofing attacks because the server will authenticate the user as well, and verify that they have the correct session key before allowing any further communication and access.\nImpersonation attacks\n\nImpersonation attacks refer to malicious attacks where a user or individual pretends to be an authorized user to gain unauthorized access to a system while feigning permission. When each party authenticates the other, they send each other a certificate that only the other party knows how to unscramble, verifying themselves as a trusted source. In this way, adversaries cannot use impersonation attacks because they do not have the correct certificate to act as if they are the other party.\nMutual authentication also ensures information integrity because if the parties are verified to be the correct source, then the information received is reliable as well.\n\nmTLS\nBy default the TLS protocol only proves the identity of the server to the client using X.509 certificates, and the authentication of the client to the server is left to the application layer. TLS also offers client-to-server authentication using client-side X.509 authentication. As it requires provisioning of the certificates to the clients and involves a less user-friendly experience, it is rarely used in end-user applications.\nMutual TLS authentication (mTLS) is more often used in business-to-business (B2B) applications, where a limited number of programmatic and homogeneous clients are connecting to specific web services, the operational burden is limited, and security requirements are usually much higher as compared to consumer environments.\nmTLS is also used in microservices-based applications based on runtimes such as Dapr, via systems like SPIFFE.\n\nLightweight schemes vs. secured schemes\nWhile lightweight schemes and secure schemes are not mutually exclusive, adding a mutual authentication step to data transmissions protocols can often increase performance runtime and computational costs. This can become an issue for network systems that cannot handle large amounts of data or those that constantly have to update for new real-time data (e.g. location tracking, real-time health data).\nThus, it becomes a desired characteristic of many mutual authentication schemes to have lightweight properties (e.g. have a low memory footprint) in order to accommodate the system that is storing a lot of data. Many systems implement cloud computing, which allows quick access to large amounts of data, but sometimes large amounts of data can slow down communication. Even with edge-based cloud computing, which is faster than general cloud computing due to a closer proximity between the server and user, lightweight schemes allow for more speed when managing larger amounts of data. One solution to keep schemes lightweight during the mutual authentication process is to limit the number of bits used during communication.\nApplications that solely rely on device-to-device (D2D) communication, where multiple devices can communicate locally in close proximities, removes the third party network. This in turn can speed up communication time. However, the authentication still occurs through insecure channels, so researchers believe it is still important to ensure mutual authentication occurs in order to keep a secure scheme.\nSchemes may sacrifice a better runtime or storage cost when ensuring mutual authentication in order to prioritize protecting the sensitive data.\n\nPassword-based schemes\nIn mutual authentication schemes that require a user's input password as part of the verification process, there is a higher vulnerability to hackers because the password is human-made rather than a computer-generated certificate. While applications could simply require users to use a computer-generated password, it is inconvenient for people to remember. User-made passwords and the ability to change one's password are important for making an application user-friendly, so many schemes work to accommodate the characteristic. Researchers note that a password based protocol with mutual authentication is important because user identities and passwords are still protected, as the messages are only readable to the two parties involved.\nHowever, a negative aspect about password-based authentication is that password tables can take up a lot of memory space. One way around using a lot of memory during a password-based authentication scheme is to implement one-time passwords (OTP), which is a password sent to the user via SMS or email. OTPs are time-sensitive, which means that they will expire after a certain amount of time and that memory does not need to be stored.\n\nMulti-factor authentication\nRecently, more schemes have higher level authentication than pa"
    }
   ],
   "min_words": 1100,
