@@ -6,11 +6,12 @@
    "section": "world",
    "entities": [
     "amazon",
-    "miami",
-    "five"
+    "five",
+    "miami"
    ],
    "event_ids": [
-    "85e21207cd70"
+    "85e21207cd70",
+    "887effa18fe1"
    ],
    "first_seen": "2026-09-07",
    "last_seen": "2026-09-07",
@@ -25,6 +26,17 @@
       "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Amazon cargo plane crash at Miami airport kills at least five – video",
+     "sources": 2,
+     "score": 42,
+     "event_id": "887effa18fe1",
+     "links": [
+      "https://www.theguardian.com/us-news/video/2026/sep/07/amazon-cargo-plane-crash-at-miami-airport-kills-at-least-five-video",
+      "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami"
      ]
     }
    ]
@@ -6913,5 +6925,5 @@
    ]
   }
  ],
- "updated": "2026-09-07T03:31:50+00:00"
+ "updated": "2026-09-07T06:49:51+00:00"
 }
