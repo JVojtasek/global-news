@@ -1,290 +1,42 @@
 {
  "threads": [
   {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "east",
-    "gaza",
-    "israel",
-    "jared",
-    "board",
-    "peace",
-    "middle",
-    "kushner",
-    "jerusalem",
-    "hamas",
-    "trump",
-    "israeli",
-    "trump's",
-    "netanyahu",
-    "lebanon"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93",
-    "a3f7b5bea254",
-    "06df00086e0c",
-    "2ab296b93709",
-    "4038c9b998f5"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-07",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
-     "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "sources": 2,
-     "score": 44,
-     "event_id": "25ce347a430e",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a3f7b5bea254",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "06df00086e0c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2ab296b93709",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Middle East: Israeli strikes kill several in Lebanon",
-     "sources": 3,
-     "score": 51,
-     "event_id": "4038c9b998f5",
-     "links": [
-      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "85e21207cd70",
-   "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-   "section": "world",
-   "entities": [
-    "five",
-    "miami",
-    "amazon"
-   ],
-   "event_ids": [
-    "85e21207cd70",
-    "887effa18fe1",
-    "1fbf3d1950ec"
-   ],
-   "first_seen": "2026-09-07",
-   "last_seen": "2026-09-07",
-   "timeline": [
-    {
-     "date": "2026-09-07",
-     "headline": "Five dead after Amazon cargo plane crashes at Miami airport",
-     "sources": 5,
-     "score": 74,
-     "event_id": "85e21207cd70",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Amazon cargo plane crash at Miami airport kills at least five – video",
-     "sources": 2,
-     "score": 42,
-     "event_id": "887effa18fe1",
-     "links": [
-      "https://www.theguardian.com/us-news/video/2026/sep/07/amazon-cargo-plane-crash-at-miami-airport-kills-at-least-five-video",
-      "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Five killed as Amazon cargo plane crashes at Miami airport",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1fbf3d1950ec",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260907-five-dead-after-amazon-cargo-plane-crashes-in-miami-airport"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7e11cd37d504",
-   "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
-   "section": "world",
-   "entities": [
-    "merz",
-    "german",
-    "saxony-anhalt",
-    "europe",
-    "far-right"
-   ],
-   "event_ids": [
-    "7e11cd37d504",
-    "a2c3207877cb",
-    "d7b9a3ee9aa8"
-   ],
-   "first_seen": "2026-09-06",
-   "last_seen": "2026-09-07",
-   "timeline": [
-    {
-     "date": "2026-09-06",
-     "headline": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7e11cd37d504",
-     "links": [
-      "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
-      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
-     "sources": 3,
-     "score": 52,
-     "event_id": "a2c3207877cb",
-     "links": [
-      "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
-      "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Far-right AfD celebrate ‘dream result’ in key German state as Merz reportedly holds crisis talks – Europe live",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d7b9a3ee9aa8",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
-      "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "bessent",
-    "burnham",
-    "russia",
+    "bear",
+    "russian",
+    "masha",
+    "atacms",
     "germany",
     "europe",
-    "overnight",
-    "russian",
-    "north",
-    "masha",
-    "nato",
-    "kyiv",
-    "zelensky",
-    "peace",
-    "norway",
-    "trump",
-    "several",
-    "ukrainian",
-    "leipzig",
-    "moscow",
-    "shootout",
-    "holding",
     "korean",
-    "ukraine",
-    "bear",
-    "belgorod",
+    "peace",
+    "korea",
+    "ukrainian",
     "wildberries",
-    "back-to-back",
-    "four",
-    "atacms",
     "izmail",
-    "zelenskyy"
+    "nato",
+    "four",
+    "norway",
+    "moscow",
+    "overnight",
+    "bessent",
+    "trump",
+    "north",
+    "zelenskyy",
+    "leipzig",
+    "shootout",
+    "ukraine",
+    "burnham",
+    "holding",
+    "several",
+    "back-to-back",
+    "kyiv",
+    "belgorod",
+    "zelensky",
+    "russia"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -326,10 +78,11 @@
     "3699defcceb3",
     "1dab8205c30b",
     "83f9a270e22c",
-    "4b22560d8220"
+    "4b22560d8220",
+    "6474f93f01b0"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-09-06",
+   "last_seen": "2026-09-07",
    "timeline": [
     {
      "date": "2026-08-11",
@@ -779,6 +532,304 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Russia opens first road bridge with North Korea",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6474f93f01b0",
+     "links": [
+      "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "kushner",
+    "jerusalem",
+    "middle",
+    "israeli",
+    "gaza",
+    "peace",
+    "trump's",
+    "east",
+    "trump",
+    "jared",
+    "lebanon",
+    "board",
+    "netanyahu",
+    "hamas",
+    "israel"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254",
+    "06df00086e0c",
+    "2ab296b93709",
+    "4038c9b998f5",
+    "9824ab06ba40"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-07",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "sources": 7,
+     "score": 83,
+     "event_id": "6e0f12b732f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3677e9c2454f",
+     "links": [
+      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "sources": 3,
+     "score": 56,
+     "event_id": "2d4b21839f92",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "sources": 2,
+     "score": 44,
+     "event_id": "25ce347a430e",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e3d7c0ac2a93",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a3f7b5bea254",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "06df00086e0c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2ab296b93709",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Middle East: Israeli strikes kill several in Lebanon",
+     "sources": 3,
+     "score": 51,
+     "event_id": "4038c9b998f5",
+     "links": [
+      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9824ab06ba40",
+     "links": [
+      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "85e21207cd70",
+   "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+   "section": "world",
+   "entities": [
+    "moment",
+    "five",
+    "miami",
+    "amazon"
+   ],
+   "event_ids": [
+    "85e21207cd70",
+    "887effa18fe1",
+    "1fbf3d1950ec",
+    "1ee8582645b7"
+   ],
+   "first_seen": "2026-09-07",
+   "last_seen": "2026-09-07",
+   "timeline": [
+    {
+     "date": "2026-09-07",
+     "headline": "Five dead after Amazon cargo plane crashes at Miami airport",
+     "sources": 5,
+     "score": 74,
+     "event_id": "85e21207cd70",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Amazon cargo plane crash at Miami airport kills at least five – video",
+     "sources": 2,
+     "score": 42,
+     "event_id": "887effa18fe1",
+     "links": [
+      "https://www.theguardian.com/us-news/video/2026/sep/07/amazon-cargo-plane-crash-at-miami-airport-kills-at-least-five-video",
+      "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Five killed as Amazon cargo plane crashes at Miami airport",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1fbf3d1950ec",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260907-five-dead-after-amazon-cargo-plane-crashes-in-miami-airport"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Moment Amazon plane crash lands in Miami",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1ee8582645b7",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss",
+      "https://www.france24.com/en/video/20260907-five-dead-after-amazon-cargo-plane-overshoots-runway-in-miami"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7e11cd37d504",
+   "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+   "section": "world",
+   "entities": [
+    "german",
+    "merz",
+    "far-right",
+    "saxony-anhalt",
+    "europe"
+   ],
+   "event_ids": [
+    "7e11cd37d504",
+    "a2c3207877cb",
+    "d7b9a3ee9aa8",
+    "67c6b8fed5cc"
+   ],
+   "first_seen": "2026-09-06",
+   "last_seen": "2026-09-07",
+   "timeline": [
+    {
+     "date": "2026-09-06",
+     "headline": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7e11cd37d504",
+     "links": [
+      "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
+      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+     "sources": 3,
+     "score": 52,
+     "event_id": "a2c3207877cb",
+     "links": [
+      "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
+      "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Far-right AfD celebrate ‘dream result’ in key German state as Merz reportedly holds crisis talks – Europe live",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d7b9a3ee9aa8",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
+      "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Far-right AfD landslide in German state piles pressure on federal government",
+     "sources": 2,
+     "score": 44,
+     "event_id": "67c6b8fed5cc",
+     "links": [
+      "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+      "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
+      "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election"
      ]
     }
    ]
@@ -6966,5 +7017,5 @@
    ]
   }
  ],
- "updated": "2026-09-07T09:34:45+00:00"
+ "updated": "2026-09-07T12:37:12+00:00"
 }

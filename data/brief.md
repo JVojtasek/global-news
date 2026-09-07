@@ -155,13 +155,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 40  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 41  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 40
-  2026-08-23  (2 zdrojů, síla 51)  Zelensky rejects wartime elections, saying vote would 'split' Ukraine
+rubrika: world · sledováno od 2026-08-11 · záznamů: 41
   2026-08-24  (2 zdrojů, síla 44)  Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine
   2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
   2026-08-27  (2 zdrojů, síla 44)  Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
@@ -181,6 +180,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 40
   2026-09-05  (2 zdrojů, síla 42)  Trump sends envoys to Russia, Ukraine with new peace plan
   2026-09-05  (5 zdrojů, síla 74)  US envoys arrive in Moscow ahead of Ukraine talks
   2026-09-06  (2 zdrojů, síla 48)  Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
+  2026-09-07  (2 zdrojů, síla 42)  Russia opens first road bridge with North Korea
 ```
 
 ---

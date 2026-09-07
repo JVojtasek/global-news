@@ -21,9 +21,8 @@ Paměť obsahuje **84 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-05** (2 zdrojů) US military says it struck three Iranian tankers after American warships came under missile attack
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 26 dní · 40 záznamů
+- rubrika `world` · sledováno 27 dní · 41 záznamů
 - časová osa:
-  - **2026-09-02** (2 zdrojů) EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   - **2026-09-02** (2 zdrojů) Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
   - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
   - **2026-09-03** (2 zdrojů) Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
@@ -33,6 +32,7 @@ Paměť obsahuje **84 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-05** (2 zdrojů) Trump sends envoys to Russia, Ukraine with new peace plan
   - **2026-09-05** (5 zdrojů) US envoys arrive in Moscow ahead of Ukraine talks
   - **2026-09-06** (2 zdrojů) Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
+  - **2026-09-07** (2 zdrojů) Russia opens first road bridge with North Korea
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 18 dní · 38 záznamů
