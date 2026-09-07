@@ -1,47 +1,58 @@
 ---
-slug: "cecile-ndjebet-put-land-rights-first"
-title: "Cécile Ndjebet Put Land Rights Before Tree Counts"
-dek: "Her work in Cameroon shows why restoration lasts when the people tending the land can influence decisions, keep benefits and plan beyond the planting ceremony."
+slug: cecile-ndjebet-put-land-rights-first
+title: Cécile Ndjebet Put Land Rights Before Tree Counts
+dek: Her work in Cameroon shows why restoration lasts when the people tending the
+  land can influence decisions, keep benefits and plan beyond the planting ceremony.
 section: goodnews
 type: analysis
 depth: open
 lang: en
-date: 2026-09-07
-status: draft
-confidence: 90
+date: '2026-09-07'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-07-slot-6-cecile-ndjebet-women-land-rights-restoration"
-series: ""
-image_query: "Cameroon women community agroforestry nursery fruit trees documentary photography no logos no text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-07-slot-6-cecile-ndjebet-women-land-rights-restoration
+series: ''
+image_query: Cameroon women community agroforestry nursery fruit trees documentary
+  photography no logos no text
 sources:
-  - name: "Reuters — How women-led agroforestry has planted the seeds of climate resilience in Cameroon"
-    url: "https://www.reuters.com/sustainability/land-use-biodiversity/how-women-led-agroforestry-has-planted-seeds-climate-resilience-cameroon-2025-07-24/"
-    published: "2025-07-24"
-  - name: "UN Environment Programme — Laureate pushes for women's rights and a greener future"
-    url: "https://www.unep.org/championsofearth/news-and-stories/laureate-pushes-womens-rights-and-greener-future"
-    published: "2022-11-25"
-  - name: "Food and Agriculture Organization — Cameroonian activist wins Wangari Maathai Forest Champions' Award 2022"
-    url: "https://www.fao.org/newsroom/detail/cameroonian-activist-wins-wangari-maathai-forest-champions-award-2022/en"
-    published: "2022-05-05"
-  - name: "World Resources Institute — Q&A with Cécile Ndjebet"
-    url: "https://www.wri.org/insights/qa-cecile-ndjebet-empowering-women-key-better-forest-management-cameroon"
-    published: "2015-03-11"
-  - name: "Calouste Gulbenkian Foundation — Ecosystem restoration leaders win the Gulbenkian Prize for Humanity"
-    url: "https://gulbenkian.pt/en/news/winners-gulbenkian-prize-for-humanity-4-edition/"
-    published: "2023-07-19"
-qma_path: ""
+- name: Reuters — How women-led agroforestry has planted the seeds of climate resilience
+    in Cameroon
+  url: https://www.reuters.com/sustainability/land-use-biodiversity/how-women-led-agroforestry-has-planted-seeds-climate-resilience-cameroon-2025-07-24/
+  published: '2025-07-24'
+- name: UN Environment Programme — Laureate pushes for women's rights and a greener
+    future
+  url: https://www.unep.org/championsofearth/news-and-stories/laureate-pushes-womens-rights-and-greener-future
+  published: '2022-11-25'
+- name: Food and Agriculture Organization — Cameroonian activist wins Wangari Maathai
+    Forest Champions' Award 2022
+  url: https://www.fao.org/newsroom/detail/cameroonian-activist-wins-wangari-maathai-forest-champions-award-2022/en
+  published: '2022-05-05'
+- name: World Resources Institute — Q&A with Cécile Ndjebet
+  url: https://www.wri.org/insights/qa-cecile-ndjebet-empowering-women-key-better-forest-management-cameroon
+  published: '2015-03-11'
+- name: Calouste Gulbenkian Foundation — Ecosystem restoration leaders win the Gulbenkian
+    Prize for Humanity
+  url: https://gulbenkian.pt/en/news/winners-gulbenkian-prize-for-humanity-4-edition/
+  published: '2023-07-19'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is the central design lesson in Cécile Ndjebet's restoration work?"
-  options: ["Count seedlings first and settle ownership later", "Combine ecological work with secure participation, benefits and land access", "Replace local decision-making with a single national planting target"]
+  question: What is the central design lesson in Cécile Ndjebet's restoration work?
+  options:
+  - Count seedlings first and settle ownership later
+  - Combine ecological work with secure participation, benefits and land access
+  - Replace local decision-making with a single national planting target
   answer: 1
-  explanation: "Her approach treats rights, participation and livelihoods as working parts of restoration, because people need both authority and incentives to maintain land over time."
+  explanation: Her approach treats rights, participation and livelihoods as working
+    parts of restoration, because people need both authority and incentives to maintain
+    land over time.
 ---
 
 ## BRIEFLY
