@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "slug": "what-move-helps-you-decide",
+  "date": "2026-09-07",
+  "category": "personality",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "What move helps you decide?", "cs": "Jaký krok vám pomáhá rozhodnout se?"},
+    "dek": {"en": "Eight uncertain choices show whether you first clarify priorities, gather evidence, seek perspective or run a small test.", "cs": "Osm nejistých voleb ukáže, zda si nejdřív ujasňujete priority, sháníte důkazy, hledáte další pohled, nebo zkoušíte malý test."},
+    "intro": {"en": "Choose what you would really do first, not the answer that sounds most rigorous. Strong decisions often combine all four moves; this quiz notices your current starting point.", "cs": "Vyberte, co byste skutečně udělali jako první, ne odpověď, která zní nejdůkladněji. Dobrá rozhodnutí často spojují všechny čtyři kroky; kvíz si všímá vašeho současného výchozího bodu."},
+    "disclaimer": {"en": "This is an original reflective self-check informed by research and public guidance on values clarification, evidence, alternative perspectives, pilots and if-then planning. It does not reproduce a validated or proprietary instrument, measure decision quality, diagnose a trait or collect your answers. Stakes, time, expertise and available options can change every response.", "cs": "Jde o původní reflektivní sebehodnocení inspirované výzkumem a veřejnými doporučeními k ujasnění hodnot, důkazům, alternativním pohledům, pilotům a plánům typu když–pak. Nekopíruje validovaný ani proprietární nástroj, neměří kvalitu rozhodování, neurčuje osobnostní rys a neukládá odpovědi. Každou reakci mohou změnit důsledky volby, čas, odbornost i dostupné možnosti."}
+  },
+  "dimensions": [
+    {"id": "criteria", "label": {"en": "Clarify what matters", "cs": "Ujasnit si, na čem záleží"}, "why": {"en": "You often find movement by naming the purpose, trade-offs and conditions a good choice must meet.", "cs": "Často se pohnete tím, že pojmenujete účel, kompromisy a podmínky, které musí dobrá volba splnit."}, "action": {"en": "Write the decision in one sentence, then name the two criteria that must not disappear.", "cs": "Napište rozhodnutí jednou větou a určete dvě kritéria, která se nesmějí ztratit."}},
+    {"id": "evidence", "label": {"en": "Reduce one uncertainty", "cs": "Zmenšit jednu nejistotu"}, "why": {"en": "You often regain footing by finding the fact that could most change the comparison.", "cs": "Pevnou půdu často získáte nalezením faktu, který by mohl nejvíc změnit porovnání."}, "action": {"en": "Name one unknown, how you could check it and when further research would stop adding value.", "cs": "Pojmenujte jednu neznámou, způsob jejího ověření a bod, kdy další hledání přestane mít hodnotu."}},
+    {"id": "perspective", "label": {"en": "Invite a second view", "cs": "Přizvat druhý pohled"}, "why": {"en": "You often improve a choice by exposing assumptions to someone with different knowledge or consequences.", "cs": "Volbu často zlepšíte tím, že své předpoklady ukážete někomu s jinými znalostmi či následky."}, "action": {"en": "Ask one person what you may be missing, without asking them to make the decision for you.", "cs": "Zeptejte se jednoho člověka, co možná přehlížíte, aniž ho žádáte, aby rozhodl za vás."}},
+    {"id": "experiment", "label": {"en": "Learn by a small test", "cs": "Učit se malým testem"}, "why": {"en": "You often prefer a reversible step that creates evidence before a larger commitment.", "cs": "Často dáváte přednost vratnému kroku, který vytvoří důkaz před větším závazkem."}, "action": {"en": "Design the smallest safe trial with a time limit and a result you can observe.", "cs": "Navrhněte nejmenší bezpečnou zkoušku s časovým limitem a pozorovatelným výsledkem."}}
+  ],
+  "questions": [
+    {
+      "id": "new-project",
+      "text": {"en": "You are offered an interesting project with an unclear workload. What is your first useful move?", "cs": "Dostanete nabídku na zajímavý projekt s nejasnou pracovní zátěží. Jaký je váš první užitečný krok?"},
+      "options": [
+        {"label": {"en": "Define what the project must add and what it must not displace", "cs": "Určit, co má projekt přinést a co nesmí vytlačit"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Request the missing timeline, tasks and decision rights", "cs": "Vyžádat si chybějící harmonogram, úkoly a rozhodovací pravomoci"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Ask someone who has done similar work what usually stays hidden", "cs": "Zeptat se někoho se zkušeností, co obvykle zůstává skryté"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Propose one small paid phase before the full commitment", "cs": "Navrhnout jednu malou placenou fázi před plným závazkem"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    },
+    {
+      "id": "choose-course",
+      "text": {"en": "Two courses both look useful, but you have time for one. You begin by…", "cs": "Dva kurzy vypadají užitečně, ale máte čas jen na jeden. Začnete tím, že…"},
+      "options": [
+        {"label": {"en": "Rank the skill and experience I actually want at the end", "cs": "Seřadím dovednost a zkušenost, které chci na konci získat"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Compare syllabus, completion demands and independent reviews", "cs": "Porovnám osnovu, nároky na dokončení a nezávislé recenze"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Talk to one former student from each course", "cs": "Promluvím si s jedním bývalým účastníkem každého kurzu"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Try the sample lesson or first refundable session", "cs": "Vyzkouším ukázkovou lekci nebo první vratné setkání"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    },
+    {
+      "id": "household-purchase",
+      "text": {"en": "Your household needs an expensive appliance and the options blur together. What clears the fog first?", "cs": "Domácnost potřebuje drahý spotřebič a možnosti splývají. Co mlhu rozptýlí jako první?"},
+      "options": [
+        {"label": {"en": "Agree on the few features and costs that truly matter", "cs": "Shodnout se na několika funkcích a nákladech, na kterých opravdu záleží"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Check reliability data, total cost and warranty terms", "cs": "Ověřit spolehlivost, celkové náklady a podmínky záruky"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Ask a repairer which differences matter after three years", "cs": "Zeptat se opraváře, které rozdíly záleží po třech letech"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Rent, borrow or inspect one in use before buying", "cs": "Před koupí si jeden pronajmout, půjčit nebo prohlédnout v provozu"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    },
+    {
+      "id": "volunteer-role",
+      "text": {"en": "A local group asks you to take a larger volunteer role. Your instinct is to…", "cs": "Místní skupina vás žádá o větší dobrovolnickou roli. Instinktivně…"},
+      "options": [
+        {"label": {"en": "Decide which contribution fits my values and limits", "cs": "Určím, jaký příspěvek odpovídá mým hodnotám a mezím"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Find out the real hours, responsibilities and duration", "cs": "Zjistím skutečný čas, povinnosti a délku závazku"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Speak with the previous volunteer and someone affected by the role", "cs": "Promluvím si s předchozím dobrovolníkem a někým, koho role ovlivňuje"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Offer a one-month trial with a review date", "cs": "Nabídnu měsíční zkoušku s datem vyhodnocení"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    },
+    {
+      "id": "software-change",
+      "text": {"en": "A team is divided over changing a familiar tool. What would you contribute first?", "cs": "Tým se neshodne na změně známého nástroje. Čím přispějete jako první?"},
+      "options": [
+        {"label": {"en": "State the problem the change must solve and the costs it must not create", "cs": "Pojmenuji problém, který má změna řešit, i náklady, které nesmí vytvořit"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Collect current error, time and support data", "cs": "Shromáždím současná data o chybách, čase a podpoře"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Ask both heavy users and occasional users what each side misses", "cs": "Zeptám se častých i občasných uživatelů, co která strana přehlíží"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Run a limited pilot with a rollback plan", "cs": "Spustím omezený pilot s plánem návratu"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    },
+    {
+      "id": "weekend-plan",
+      "text": {"en": "Friends propose several competing weekend plans. How do you get unstuck?", "cs": "Přátelé navrhnou několik soupeřících plánů na víkend. Jak se odblokujete?"},
+      "options": [
+        {"label": {"en": "Ask what everyone most wants the weekend to provide", "cs": "Zeptám se, co má víkend každému hlavně přinést"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Check weather, travel time, availability and full cost", "cs": "Ověřím počasí, cestu, dostupnost a celkové náklady"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Invite the quietest person to name a concern", "cs": "Vyzvu nejtiššího člověka, aby pojmenoval svou obavu"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Choose a short first activity, then decide whether to continue", "cs": "Vyberu krátkou první aktivitu a potom se rozhodneme, zda pokračovat"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    },
+    {
+      "id": "repair-or-replace",
+      "text": {"en": "Something useful breaks and you cannot tell whether to repair or replace it. First you…", "cs": "Něco užitečného se porouchá a nevíte, zda opravit, nebo nahradit. Nejdřív…"},
+      "options": [
+        {"label": {"en": "Decide which outcome matters most: cost, time, longevity or waste", "cs": "Určím, který výsledek je nejdůležitější: cena, čas, životnost, nebo odpad"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Get a diagnosis, estimate and expected remaining life", "cs": "Získám diagnózu závady, odhad ceny a očekávané zbývající životnosti"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Ask an independent repairer to challenge my assumptions", "cs": "Požádám nezávislého opraváře, aby zpochybnil mé předpoklady"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Try the cheapest safe reversible fix before committing", "cs": "Před závazkem zkusím nejlevnější bezpečnou vratnou opravu"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    },
+    {
+      "id": "too-much-research",
+      "text": {"en": "You have researched a choice for days and still feel no closer. What breaks the loop?", "cs": "Volbu zkoumáte už několik dní a stále nejste blíž. Co přeruší smyčku?"},
+      "options": [
+        {"label": {"en": "Return to the two conditions the answer must satisfy", "cs": "Vrátím se ke dvěma podmínkám, které musí odpověď splnit"}, "scores": {"criteria": 3, "evidence": 1, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Name the one remaining fact that could change the decision", "cs": "Pojmenuji jediný zbývající fakt, který by mohl rozhodnutí změnit"}, "scores": {"criteria": 1, "evidence": 3, "perspective": 0, "experiment": 0}},
+        {"label": {"en": "Explain the choice to someone who will ask basic questions", "cs": "Vysvětlím volbu někomu, kdo položí základní otázky"}, "scores": {"criteria": 0, "evidence": 1, "perspective": 3, "experiment": 0}},
+        {"label": {"en": "Set up a bounded trial instead of predicting everything", "cs": "Místo předvídání všeho připravím ohraničenou zkoušku"}, "scores": {"criteria": 0, "evidence": 0, "perspective": 1, "experiment": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "criteria": {"title": {"en": "You often begin by defining a good decision", "cs": "Často začínáte definicí dobrého rozhodnutí"}, "summary": {"en": "You tend to make progress by clarifying purpose and trade-offs before comparing options. This is a current preference, not a fixed decision style.", "cs": "Často se pohnete vpřed tím, že před porovnáním možností ujasníte účel a kompromisy. Jde o současnou preferenci, nikoli pevný rozhodovací styl."}, "strength": {"en": "Clear criteria can prevent an attractive detail from replacing the real purpose.", "cs": "Jasná kritéria mohou zabránit tomu, aby líbivý detail nahradil skutečný účel."}, "watch": {"en": "Criteria chosen too early can preserve a mistaken frame or exclude new evidence.", "cs": "Příliš brzy zvolená kritéria mohou zachovat chybný rámec nebo vyloučit nové důkazy."}, "action": {"en": "Write two must-haves, then ask what evidence or person could challenge them.", "cs": "Napište dvě nezbytné podmínky a pak se zeptejte, jaký důkaz nebo člověk je může zpochybnit."}},
+    "evidence": {"title": {"en": "You often begin by reducing uncertainty", "cs": "Často začínáte zmenšováním nejistoty"}, "summary": {"en": "You tend to seek the missing fact that could change the choice. The useful version has a stopping rule; more information is not always better.", "cs": "Často hledáte chybějící fakt, který by mohl volbu změnit. Užitečná verze má pravidlo pro zastavení; více informací není vždy lépe."}, "strength": {"en": "You make assumptions visible and testable.", "cs": "Měníte předpoklady na viditelné a ověřitelné."}, "watch": {"en": "Research can postpone a choice when the remaining uncertainty cannot be removed.", "cs": "Hledání může odkládat volbu, když zbývající nejistotu nelze odstranit."}, "action": {"en": "Name one decision-changing unknown and stop when it is answered or shown to be unknowable.", "cs": "Pojmenujte jednu rozhodující neznámou a zastavte, když je zodpovězena nebo se ukáže jako nezjistitelná."}},
+    "perspective": {"title": {"en": "You often begin by widening the view", "cs": "Často začínáte rozšířením pohledu"}, "summary": {"en": "You tend to improve a choice through other people's knowledge and consequences. The aim is perspective, not surrendering responsibility.", "cs": "Volbu často zlepšujete znalostmi a zkušeností druhých. Cílem je další pohled, nikoli předání odpovědnosti."}, "strength": {"en": "A second view can reveal assumptions that feel like facts from inside the problem.", "cs": "Druhý pohled může odhalit předpoklady, které uvnitř problému vypadají jako fakta."}, "watch": {"en": "Advice can multiply noise or reflect the adviser's incentives rather than yours.", "cs": "Rady mohou rozmnožit šum nebo odrážet zájmy rádce místo vašich."}, "action": {"en": "Ask one well-placed person: “What am I missing, and what would change your view?”", "cs": "Zeptejte se jednoho vhodného člověka: „Co přehlížím a co by změnilo váš názor?“"}},
+    "experiment": {"title": {"en": "You often begin by creating a small test", "cs": "Často začínáte vytvořením malého testu"}, "summary": {"en": "You tend to learn through a reversible step rather than predicting the whole future. This works only when the trial is safe and genuinely reversible.", "cs": "Často se učíte vratným krokem místo předvídání celé budoucnosti. Funguje to jen tehdy, když je zkouška bezpečná a skutečně vratná."}, "strength": {"en": "A bounded pilot turns uncertainty into observable experience.", "cs": "Ohraničený pilot mění nejistotu na pozorovatelnou zkušenost."}, "watch": {"en": "Some decisions have legal, medical, financial or human consequences that make casual experiments inappropriate.", "cs": "Některá rozhodnutí mají právní, zdravotní, finanční či lidské následky, kvůli nimž jsou nahodilé pokusy nevhodné."}, "action": {"en": "Define the trial's limit, success sign, review date and exit before starting.", "cs": "Před začátkem určete mez zkoušky, znak úspěchu, datum vyhodnocení a způsob ukončení."}}
+  },
+  "sources": [
+    {"name": "Witteman and colleagues — Clarifying Values: Systematic Review and Meta-Analysis", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482297/", "published": "2021", "type": "peer-reviewed review of values clarification methods; no instrument items reproduced"},
+    {"name": "UK Government — Magenta Book guidance on evaluation", "url": "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-central-government-guidance-on-evaluation-html", "published": "2026-05-15", "type": "public guidance on pilots, evaluation, learning and uncertainty"},
+    {"name": "U.S. National Cancer Institute — Implementation Intentions", "url": "https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions", "published": "", "type": "research overview of if-then planning and goal attainment; no proprietary items reproduced"},
+    {"name": "Association of College and Research Libraries — Keeping Up With Debiasing", "url": "https://www.ala.org/acrl/publications/keeping_up_with/debiasing", "published": "", "type": "professional overview of considering alternatives, pre-commitment and perspective; no instrument reproduced"}
+  ]
+}
