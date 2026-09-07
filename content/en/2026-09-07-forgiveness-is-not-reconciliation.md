@@ -1,47 +1,55 @@
 ---
 slug: forgiveness-is-not-reconciliation
-title: "Forgiveness Is Not Reconciliation"
-dek: "Letting go of a grievance can be private and gradual; trust, contact and reunion are separate decisions that require evidence."
+title: Forgiveness Is Not Reconciliation
+dek: Letting go of a grievance can be private and gradual; trust, contact and reunion
+  are separate decisions that require evidence.
 section: soul
 type: analysis
 depth: open
 lang: en
-date: 2026-09-07
-status: draft
-confidence: 89
+date: '2026-09-07'
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-07-slot-5-forgiveness-reconciliation-distinction"
-series: ""
-image_query: "two chairs separated by an open doorway morning light symbolic forgiveness boundaries no people no text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-07-slot-5-forgiveness-reconciliation-distinction
+series: ''
+image_query: two chairs separated by an open doorway morning light symbolic forgiveness
+  boundaries no people no text
 sources:
-  - name: "American Psychological Association — Forgiveness"
-    url: "https://www.apa.org/topics/forgiveness"
-    published: ""
-  - name: "American Psychological Association — Forgiveness can improve mental and physical health"
-    url: "https://www.apa.org/monitor/2017/01/ce-corner"
-    published: "2017-01-01"
-  - name: "Rapp et al. — Meta-analysis of forgiveness education interventions"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9544775/"
-    published: "2022-09-20"
-  - name: "Long et al. — Forgiveness of others and subsequent health and well-being"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC7528379/"
-    published: "2020-09-01"
-  - name: "Johns Hopkins Medicine — Forgiveness: Your Health Depends on It"
-    url: "https://www.hopkinsmedicine.org/health/expert-qa/forgiveness-your-health-depends-on-it"
-    published: "2026-07-06"
-qma_path: ""
+- name: American Psychological Association — Forgiveness
+  url: https://www.apa.org/topics/forgiveness
+  published: ''
+- name: American Psychological Association — Forgiveness can improve mental and physical
+    health
+  url: https://www.apa.org/monitor/2017/01/ce-corner
+  published: '2017-01-01'
+- name: Rapp et al. — Meta-analysis of forgiveness education interventions
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9544775/
+  published: '2022-09-20'
+- name: Long et al. — Forgiveness of others and subsequent health and well-being
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7528379/
+  published: '2020-09-01'
+- name: 'Johns Hopkins Medicine — Forgiveness: Your Health Depends on It'
+  url: https://www.hopkinsmedicine.org/health/expert-qa/forgiveness-your-health-depends-on-it
+  published: '2026-07-06'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which decision is separate from forgiveness?"
-  options: ["Reducing the grievance's hold on your attention", "Rebuilding trust and resuming contact", "Acknowledging that a real wrong occurred"]
+  question: Which decision is separate from forgiveness?
+  options:
+  - Reducing the grievance's hold on your attention
+  - Rebuilding trust and resuming contact
+  - Acknowledging that a real wrong occurred
   answer: 1
-  explanation: "Forgiveness may be an internal change by one person; reconciliation and restored trust depend on conduct, safety and usually both people."
+  explanation: Forgiveness may be an internal change by one person; reconciliation
+    and restored trust depend on conduct, safety and usually both people.
+review_reason: 'citlivé téma: abuse'
 ---
 
 ## BRIEFLY

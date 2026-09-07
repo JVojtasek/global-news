@@ -1,47 +1,56 @@
 ---
 slug: the-surgeon-who-made-eye-care-travel
-title: "The Surgeon Who Made Eye Care Travel"
-dek: "Sanduk Ruit's achievement was not a miracle operation but a system: affordable lenses, trained teams, measured results and care that could reach remote communities."
+title: The Surgeon Who Made Eye Care Travel
+dek: 'Sanduk Ruit''s achievement was not a miracle operation but a system: affordable
+  lenses, trained teams, measured results and care that could reach remote communities.'
 section: goodnews
 type: analysis
 depth: open
 lang: en
-date: 2026-09-07
-status: draft
-confidence: 91
+date: '2026-09-07'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-07-slot-6-sanduk-ruit-cataract-care-system"
-series: ""
-image_query: "Nepal eye clinic surgical training affordable intraocular lens careful documentary style no patient identification no text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-07-slot-6-sanduk-ruit-cataract-care-system
+series: ''
+image_query: Nepal eye clinic surgical training affordable intraocular lens careful
+  documentary style no patient identification no text
 sources:
-  - name: "Cure Blindness Project — Sanduk Ruit, MD"
-    url: "https://cureblindness.org/who-we-are/dr-sanduk-ruit"
-    published: ""
-  - name: "World Health Organization — Blindness and vision impairment"
-    url: "https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment"
-    published: "2026-02-10"
-  - name: "Ruit et al. — Low-cost high-volume extracapsular cataract extraction in Nepal"
-    url: "https://pubmed.ncbi.nlm.nih.gov/10519581/"
-    published: "1999-11-01"
-  - name: "Ruit et al. — Randomized trial of phacoemulsification and manual small-incision cataract surgery"
-    url: "https://pubmed.ncbi.nlm.nih.gov/17188040/"
-    published: "2007-02-01"
-  - name: "Tilganga Institute of Ophthalmology — Nepal Eye Program"
-    url: "https://www.tilganga.org/"
-    published: ""
-qma_path: ""
+- name: Cure Blindness Project — Sanduk Ruit, MD
+  url: https://cureblindness.org/who-we-are/dr-sanduk-ruit
+  published: ''
+- name: World Health Organization — Blindness and vision impairment
+  url: https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+  published: '2026-02-10'
+- name: Ruit et al. — Low-cost high-volume extracapsular cataract extraction in Nepal
+  url: https://pubmed.ncbi.nlm.nih.gov/10519581/
+  published: '1999-11-01'
+- name: Ruit et al. — Randomized trial of phacoemulsification and manual small-incision
+    cataract surgery
+  url: https://pubmed.ncbi.nlm.nih.gov/17188040/
+  published: '2007-02-01'
+- name: Tilganga Institute of Ophthalmology — Nepal Eye Program
+  url: https://www.tilganga.org/
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "What made Sanduk Ruit's approach scalable beyond his own operations?"
-  options: ["A single proprietary machine available only in Kathmandu", "A system combining affordable lenses, a lower-technology technique, training and outreach", "Replacing surgery with donated spectacles"]
+  question: What made Sanduk Ruit's approach scalable beyond his own operations?
+  options:
+  - A single proprietary machine available only in Kathmandu
+  - A system combining affordable lenses, a lower-technology technique, training and
+    outreach
+  - Replacing surgery with donated spectacles
   answer: 1
-  explanation: "The model paired an affordable surgical method and locally produced lenses with training, institutions and outreach, so capacity did not depend on one surgeon."
+  explanation: The model paired an affordable surgical method and locally produced
+    lenses with training, institutions and outreach, so capacity did not depend on
+    one surgeon.
 ---
 
 ## BRIEFLY

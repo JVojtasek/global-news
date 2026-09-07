@@ -1,47 +1,56 @@
 ---
 slug: the-road-to-kumano-was-part-of-the-prayer
-title: "The Road to Kumano Was Part of the Prayer"
-dek: "Japan's Kumano Kodo is not one trail with a finish line but a living network of sacred routes, mountain communities and choices about how a visitor should move through them."
+title: The Road to Kumano Was Part of the Prayer
+dek: Japan's Kumano Kodo is not one trail with a finish line but a living network
+  of sacred routes, mountain communities and choices about how a visitor should move
+  through them.
 section: travel
 type: feature
 depth: open
 lang: en
-date: 2026-09-07
+date: '2026-09-07'
 status: reserve
-confidence: 92
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 7
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-07-slot-7-kumano-kodo-living-pilgrimage"
-series: ""
-image_query: "mossy cobblestone Kumano Kodo pilgrimage path cedar forest Japan respectful travel no people no text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-07-slot-7-kumano-kodo-living-pilgrimage
+series: ''
+image_query: mossy cobblestone Kumano Kodo pilgrimage path cedar forest Japan respectful
+  travel no people no text
 sources:
-  - name: "UNESCO World Heritage Centre — Sacred Sites and Pilgrimage Routes in the Kii Mountain Range"
-    url: "https://whc.unesco.org/en/list/1142/"
-    published: ""
-  - name: "Tanabe City Kumano Tourism Bureau — Kumano Kodo"
-    url: "https://www.tb-kumano.jp/en/kumano-kodo/"
-    published: ""
-  - name: "Japan National Tourism Organization — Kumano Kodo Pilgrimage Route"
-    url: "https://www.japan.travel/en/spot/979/"
-    published: ""
-  - name: "Wakayama Prefecture — Kumano Kodo Rules and Etiquette"
-    url: "https://visitwakayama.jp/en/stories/detail_435.html"
-    published: "2025-10-08"
-  - name: "National Geographic — Why you should walk Japan's most sacred pilgrimage trail"
-    url: "https://www.nationalgeographic.com/travel/article/how-to-walk-kumano-kodo-japans-most-sacred-pilgrimage-trail"
-    published: "2024-09-08"
-qma_path: ""
+- name: UNESCO World Heritage Centre — Sacred Sites and Pilgrimage Routes in the Kii
+    Mountain Range
+  url: https://whc.unesco.org/en/list/1142/
+  published: ''
+- name: Tanabe City Kumano Tourism Bureau — Kumano Kodo
+  url: https://www.tb-kumano.jp/en/kumano-kodo/
+  published: ''
+- name: Japan National Tourism Organization — Kumano Kodo Pilgrimage Route
+  url: https://www.japan.travel/en/spot/979/
+  published: ''
+- name: Wakayama Prefecture — Kumano Kodo Rules and Etiquette
+  url: https://visitwakayama.jp/en/stories/detail_435.html
+  published: '2025-10-08'
+- name: National Geographic — Why you should walk Japan's most sacred pilgrimage trail
+  url: https://www.nationalgeographic.com/travel/article/how-to-walk-kumano-kodo-japans-most-sacred-pilgrimage-trail
+  published: '2024-09-08'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why is it misleading to treat the Kumano Kodo as a single hiking trail?"
-  options: ["It is a network linking several sacred sites, with routes of very different character and difficulty", "Only ordained monks are permitted to walk it", "The historic paths were replaced entirely by one modern road"]
+  question: Why is it misleading to treat the Kumano Kodo as a single hiking trail?
+  options:
+  - It is a network linking several sacred sites, with routes of very different character
+    and difficulty
+  - Only ordained monks are permitted to walk it
+  - The historic paths were replaced entirely by one modern road
   answer: 0
-  explanation: "Kumano Kodo names a network of pilgrimage routes across the Kii Peninsula; route choice changes the terrain, length, access and experience."
+  explanation: Kumano Kodo names a network of pilgrimage routes across the Kii Peninsula;
+    route choice changes the terrain, length, access and experience.
 ---
 
 ## BRIEFLY
