@@ -1,14 +1,15 @@
 ---
 slug: the-stones-moved-when-nobody-was-looking
-title: "The Stones Moved When Nobody Was Looking"
-dek: "Death Valley's sailing stones left long tracks across a dry lake bed for decades before an experiment caught thin ice and light wind moving them."
+title: The Stones Moved When Nobody Was Looking
+dek: Death Valley's sailing stones left long tracks across a dry lake bed for decades
+  before an experiment caught thin ice and light wind moving them.
 section: mysteries
 type: feature
 depth: open
 lang: en
 date: '2026-09-08'
 status: reserve
-confidence: 96
+confidence: 94
 load: 0
 topics:
 - Death Valley
@@ -21,18 +22,19 @@ generator: chatgpt-work
 format: narrative
 event_id: racetrack-playa-sailing-stones-explanation-2026-09-08
 series: ''
-image_query: "sailing stone trail Racetrack Playa Death Valley dawn wide neutral documentary photography"
+image_query: sailing stone trail Racetrack Playa Death Valley dawn wide neutral documentary
+  photography
 sources:
-- name: "PLOS ONE — Sliding Rocks on Racetrack Playa"
+- name: PLOS ONE — Sliding Rocks on Racetrack Playa
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105948
   published: '2014-08-27'
-- name: "National Park Service — Sailing Stones Seen in Action"
+- name: National Park Service — Sailing Stones Seen in Action
   url: https://www.nps.gov/deva/learn/news/racetrack.htm
   published: '2014-08-27'
-- name: "National Park Foundation — The Sailing Stones of Death Valley"
+- name: National Park Foundation — The Sailing Stones of Death Valley
   url: https://www.nationalparks.org/connect/blog/sailing-stones-death-valley
   published: '2023-10-25'
-- name: "Phys.org — Sailing Stones Seen in Action"
+- name: Phys.org — Sailing Stones Seen in Action
   url: https://phys.org/news/2014-08-mystery-stones-death-valley-action.html
   published: '2014-08-28'
 impact:
@@ -40,18 +42,21 @@ impact:
   - science literacy
   - desert stewardship
   - field observation
-  line: "The solution shows how a rare sequence of ordinary conditions can sustain a mystery when the decisive event is brief and hard to witness."
-  todo: "At Racetrack Playa, follow current park guidance, leave stones in place and avoid walking on the playa when it is wet enough to preserve footprints."
+  line: The solution shows how a rare sequence of ordinary conditions can sustain
+    a mystery when the decisive event is brief and hard to witness.
+  todo: At Racetrack Playa, follow current park guidance, leave stones in place and
+    avoid walking on the playa when it is wet enough to preserve footprints.
 qma_path: ''
 tickers: []
 quiz:
-  question: "What combination directly moved the stones observed in the 2013–14 study?"
+  question: What combination directly moved the stones observed in the 2013–14 study?
   options:
-  - "Thin floating ice panels driven by light wind across shallow water"
-  - "Hurricane-force gusts lifting dry stones through the air"
-  - "Thick ice freezing each stone into a raft that floated it completely off the mud"
+  - Thin floating ice panels driven by light wind across shallow water
+  - Hurricane-force gusts lifting dry stones through the air
+  - Thick ice freezing each stone into a raft that floated it completely off the mud
   answer: 0
-  explanation: "Researchers observed thin melting ice panels pushing rocks slowly across a wet playa under light winds; the stones were not airborne or fully floated."
+  explanation: Researchers observed thin melting ice panels pushing rocks slowly across
+    a wet playa under light winds; the stones were not airborne or fully floated.
 ---
 
 ## BRIEFLY

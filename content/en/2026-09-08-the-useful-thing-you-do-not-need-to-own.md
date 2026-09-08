@@ -1,14 +1,15 @@
 ---
 slug: the-useful-thing-you-do-not-need-to-own
-title: "The Useful Thing You Do Not Need to Own"
-dek: "Libraries of Things turn drills, carpet cleaners and camping gear into shared infrastructure; their promise depends less on generosity than on careful operations."
+title: The Useful Thing You Do Not Need to Own
+dek: Libraries of Things turn drills, carpet cleaners and camping gear into shared
+  infrastructure; their promise depends less on generosity than on careful operations.
 section: goodnews
 type: analysis
 depth: open
 lang: en
 date: '2026-09-08'
-status: draft
-confidence: 91
+status: published
+confidence: 94
 load: 0
 topics:
 - circular economy
@@ -21,18 +22,19 @@ generator: chatgpt-work
 format: explainer
 event_id: library-of-things-access-over-ownership-2026-09-08
 series: ''
-image_query: "community library shelves with tools sewing machine carpet cleaner neutral editorial photography"
+image_query: community library shelves with tools sewing machine carpet cleaner neutral
+  editorial photography
 sources:
-- name: "Shareable — Library of Things Toolkit 2.0"
+- name: Shareable — Library of Things Toolkit 2.0
   url: https://www.shareable.net/toolkit/library-of-things/
   published: '2026-03-01'
-- name: "Library of Things — Our Mission and Impact"
+- name: Library of Things — Our Mission and Impact
   url: https://participate.libraryofthings.co.uk/mission
   published: '2025-09-30'
-- name: "Library of Things — How We Calculate Our Impact"
+- name: Library of Things — How We Calculate Our Impact
   url: https://www.libraryofthings.co.uk/blog/how-we-calculate-our-impact-2024-update
   published: '2024-02-02'
-- name: "ReLondon — Library of Things Case Study"
+- name: ReLondon — Library of Things Case Study
   url: https://relondon.gov.uk/resources/case-study-library-of-things-surviving-covid-19-to-come-back-bigger-and-better
   published: '2022-08-11'
 impact:
@@ -40,18 +42,23 @@ impact:
   - household budgets
   - waste prevention
   - public libraries
-  line: "Shared access can replace some infrequent purchases, but only when the service keeps useful objects safe, available and convenient."
-  todo: "Before buying a rarely used item, compare the purchase price and storage burden with local borrowing fees, collection distance and likely availability."
+  line: Shared access can replace some infrequent purchases, but only when the service
+    keeps useful objects safe, available and convenient.
+  todo: Before buying a rarely used item, compare the purchase price and storage burden
+    with local borrowing fees, collection distance and likely availability.
 qma_path: ''
 tickers: []
 quiz:
-  question: "When is borrowing from a Library of Things most likely to beat buying?"
+  question: When is borrowing from a Library of Things most likely to beat buying?
   options:
-  - "When the item is needed rarely, available nearby and the borrowing terms fit the job"
-  - "Whenever the borrowing fee is lower than the shop price, regardless of travel or availability"
-  - "Whenever an item is electrical rather than manual"
+  - When the item is needed rarely, available nearby and the borrowing terms fit the
+    job
+  - Whenever the borrowing fee is lower than the shop price, regardless of travel
+    or availability
+  - Whenever an item is electrical rather than manual
   answer: 0
-  explanation: "The relevant comparison includes frequency of use, price, storage, access, timing and conditions; one low rental fee or product category is not enough."
+  explanation: The relevant comparison includes frequency of use, price, storage,
+    access, timing and conditions; one low rental fee or product category is not enough.
 ---
 
 ## BRIEFLY

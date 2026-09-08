@@ -1,14 +1,15 @@
 ---
 slug: maayan-ziv-mapped-the-detail-travel-brochures-leave-out
-title: "Maayan Ziv Mapped the Detail Travel Brochures Leave Out"
-dek: "AccessNow treats accessibility as specific, searchable information rather than a single reassuring label—and that changes how a journey can be planned."
+title: Maayan Ziv Mapped the Detail Travel Brochures Leave Out
+dek: AccessNow treats accessibility as specific, searchable information rather than
+  a single reassuring label—and that changes how a journey can be planned.
 section: travel
 type: analysis
 depth: open
 lang: en
 date: '2026-09-08'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics:
 - accessible travel
@@ -21,21 +22,22 @@ generator: chatgpt-work
 format: profile
 event_id: maayan-ziv-accessnow-accessible-travel-information-2026-09-08
 series: ''
-image_query: "wheelchair traveler checking detailed accessibility map at city street neutral editorial photography"
+image_query: wheelchair traveler checking detailed accessibility map at city street
+  neutral editorial photography
 sources:
-- name: "AccessNow — About"
+- name: AccessNow — About
   url: https://accessnow.com/about/
   published: '2026-01-01'
-- name: "University of Toronto Rotman — AccessNow Case Study"
+- name: University of Toronto Rotman — AccessNow Case Study
   url: https://www.rotman.utoronto.ca/faculty-and-research/research-centres/gender-economy/teaching--learning/case-studies/2020/accessnow---accessible-world/
   published: '2020-12-02'
-- name: "Statistics Canada — Accessibility Barriers to Travel"
+- name: Statistics Canada — Accessibility Barriers to Travel
   url: https://www150.statcan.gc.ca/n1/daily-quotidien/250527/dq250527b-eng.htm
   published: '2025-05-27'
-- name: "World Health Organization — Disability Fact Sheet"
+- name: World Health Organization — Disability Fact Sheet
   url: https://www.who.int/news-room/fact-sheets/detail/disability-and-health
   published: '2023-03-07'
-- name: "AFAR — How to Redefine Accessible Travel"
+- name: AFAR — How to Redefine Accessible Travel
   url: https://www.afar.com/magazine/how-to-redefine-accessible-travel
   published: '2024-07-12'
 impact:
@@ -43,18 +45,24 @@ impact:
   - trip planning
   - destination information
   - inclusive design
-  line: "A generic accessible label cannot tell a traveller whether a doorway, washroom, route or service matches their particular requirements."
-  todo: "Ask destinations and venues for measurable details—entrance width, steps, gradients, lift size, washroom layout and current route conditions—and confirm critical information directly."
+  line: A generic accessible label cannot tell a traveller whether a doorway, washroom,
+    route or service matches their particular requirements.
+  todo: Ask destinations and venues for measurable details—entrance width, steps,
+    gradients, lift size, washroom layout and current route conditions—and confirm
+    critical information directly.
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why is a single 'accessible' label often insufficient for travel planning?"
+  question: Why is a single 'accessible' label often insufficient for travel planning?
   options:
-  - "Different travellers need different, measurable details about routes, entrances, facilities and services"
-  - "Accessibility can be judged accurately only after a traveller arrives"
-  - "Every destination uses the word to mean exactly the same technical standard"
+  - Different travellers need different, measurable details about routes, entrances,
+    facilities and services
+  - Accessibility can be judged accurately only after a traveller arrives
+  - Every destination uses the word to mean exactly the same technical standard
   answer: 0
-  explanation: "Useful planning depends on specific features and individual requirements; broad labels can hide crucial differences and are not standardized across every context."
+  explanation: Useful planning depends on specific features and individual requirements;
+    broad labels can hide crucial differences and are not standardized across every
+    context.
 ---
 
 ## BRIEFLY
