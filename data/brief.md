@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-07
+# ZADÁNÍ PRO REDAKCI — 2026-09-08
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -97,12 +97,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### two factor authentication
-- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
-  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
+  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
 
 ---
 
