@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "d-day",
-    "south",
-    "fenerbahce",
-    "american",
-    "iran",
-    "gulf",
-    "lyon",
-    "ukraine",
-    "o'neill",
-    "jordan",
-    "thursday's",
-    "kuwait",
-    "taiwan",
-    "centcom",
-    "start",
-    "north",
-    "league",
     "briton",
-    "toxic",
-    "trump",
     "ballon",
-    "iranian",
-    "donald",
-    "groundhog",
-    "qatar",
     "champions",
-    "times",
-    "indycar",
-    "treasury",
-    "asia",
+    "jordan",
+    "start",
+    "toxic",
+    "d-day",
+    "fenerbahce",
     "city",
-    "kylian",
-    "middle",
-    "china's",
-    "chaos",
-    "jong",
     "hormuz",
-    "korea",
+    "taiwan",
+    "league",
+    "north",
+    "times",
+    "ukraine",
+    "indycar",
+    "jong",
+    "treasury",
+    "iran",
+    "inter",
+    "asia",
+    "o'neill",
+    "iranian",
+    "lyon",
     "iran's",
-    "mideast"
+    "thursday's",
+    "korea",
+    "mourinho",
+    "real",
+    "groundhog",
+    "centcom",
+    "middle",
+    "donald",
+    "qatar",
+    "kylian",
+    "mideast",
+    "south",
+    "kuwait",
+    "china's",
+    "gulf"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -124,22 +124,12 @@
     "3061213d46d8",
     "055e5c2e898a",
     "9aa7c5e50f84",
-    "276c0505d486"
+    "276c0505d486",
+    "816211516f67"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-08",
    "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0e11f2f770e0",
-     "links": [
-      "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-16",
      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
@@ -811,6 +801,18 @@
       "https://www.france24.com/en/tv-shows/sports/20260908-before-champions-league-kylian-mbapp%C3%A9-campaigns-for-ballon-d-or",
       "https://www.aljazeera.com/sports/2026/9/8/real-madrid-vs-inter-champions-league-preview-team-news?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?",
+     "sources": 2,
+     "score": 56,
+     "event_id": "816211516f67",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c4gqd5l72j8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c072j1r4e2do?at_medium=RSS&at_campaign=rss"
+     ]
     }
    ]
   },
@@ -819,37 +821,37 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
+    "back-to-back",
+    "masha",
+    "four",
+    "burnham",
+    "zelensky",
+    "bessent",
+    "overnight",
+    "nato",
+    "north",
+    "ukraine",
+    "zelenskyy",
+    "holding",
+    "russia",
+    "korean",
+    "several",
+    "shootout",
+    "russian",
+    "korea",
     "leipzig",
     "kyiv",
-    "russia",
-    "zelensky",
     "ukrainian",
-    "belgorod",
-    "ukraine",
-    "holding",
-    "moscow",
-    "several",
-    "wildberries",
-    "masha",
     "atacms",
-    "russian",
-    "burnham",
-    "germany",
-    "zelenskyy",
-    "four",
-    "norway",
-    "north",
-    "peace",
-    "nato",
-    "trump",
-    "overnight",
     "europe",
-    "back-to-back",
-    "korean",
-    "bessent",
-    "shootout",
-    "korea",
+    "moscow",
+    "wildberries",
+    "norway",
+    "germany",
     "izmail",
+    "belgorod",
+    "trump",
+    "peace",
     "bear"
    ],
    "event_ids": [
@@ -895,7 +897,8 @@
     "4b22560d8220",
     "6474f93f01b0",
     "a04e18730da0",
-    "01edd8a06657"
+    "01edd8a06657",
+    "00b8e99f2951"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-08",
@@ -1382,6 +1385,17 @@
       "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border"
      ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "00b8e99f2951",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
+      "https://www.dw.com/en/ukraine-updates-two-killed-in-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-rdf"
+     ]
     }
    ]
   },
@@ -1571,6 +1585,50 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "saudi",
+    "houthi",
+    "turkey",
+    "pakistan",
+    "arabia"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-08",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d16d38017cfe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "sources": 3,
+     "score": 54,
+     "event_id": "b203d9b44ace",
+     "links": [
+      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
      ]
     }
    ]
@@ -7088,36 +7146,6 @@
    ]
   },
   {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "section": "world",
-   "entities": [
-    "saudi",
-    "arabia",
-    "pakistan",
-    "turkey"
-   ],
-   "event_ids": [
-    "d16d38017cfe"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-09",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    }
-   ]
-  },
-  {
    "id": "c4cbb7976afe",
    "title": "Canada: British Columbia wildfires burning out of control",
    "section": "world",
@@ -7147,5 +7175,5 @@
    ]
   }
  ],
- "updated": "2026-09-08T06:39:48+00:00"
+ "updated": "2026-09-08T09:28:50+00:00"
 }
