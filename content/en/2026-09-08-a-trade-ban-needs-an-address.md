@@ -1,14 +1,16 @@
 ---
 slug: a-trade-ban-needs-an-address
-title: "A Trade Ban Needs an Address"
-dek: "Britain, France and Canada will ban goods from Israeli settlements, but enforcement begins with a less dramatic question: can customs officers reliably tell where a product was made?"
+title: A Trade Ban Needs an Address
+dek: 'Britain, France and Canada will ban goods from Israeli settlements, but enforcement
+  begins with a less dramatic question: can customs officers reliably tell where a
+  product was made?'
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-08'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -17,25 +19,26 @@ automation_role: intraday
 generator: chatgpt-work
 format: roundtable
 event_id: uk-france-canada-settlement-goods-ban-2026-09-08
-series: "The Newsroom Table"
-image_query: "customs officer inspecting produce labels and shipping documents neutral editorial photography"
+series: The Newsroom Table
+image_query: customs officer inspecting produce labels and shipping documents neutral
+  editorial photography
 sources:
-- name: "UK Foreign, Commonwealth & Development Office — Joint Foreign Ministers' Statement"
+- name: UK Foreign, Commonwealth & Development Office — Joint Foreign Ministers' Statement
   url: https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-the-two-state-solution
   published: '2026-09-08'
-- name: "UK Foreign, Commonwealth & Development Office — Foreign Secretary Oral Statement"
+- name: UK Foreign, Commonwealth & Development Office — Foreign Secretary Oral Statement
   url: https://www.gov.uk/government/speeches/foreign-secretary-oral-statement-on-israel-palestine
   published: '2026-09-08'
-- name: "Reuters — Israel to close British consulate after settlement-goods bans"
+- name: Reuters — Israel to close British consulate after settlement-goods bans
   url: https://www.reuters.com/world/uk/uk-announce-trade-ban-israeli-west-bank-goods-2026-09-08/
   published: '2026-09-08'
-- name: "Associated Press — UK bans goods and services linked to settlements"
+- name: Associated Press — UK bans goods and services linked to settlements
   url: https://apnews.com/article/b4d7354221bfe0c48e4bfce7a3b7624b
   published: '2026-09-08'
-- name: "European Commission — EU-Israel Technical Arrangement"
+- name: European Commission — EU-Israel Technical Arrangement
   url: https://taxation-customs.ec.europa.eu/eu-israel-technical-arrangement_en
   published: '2012-08-03'
-- name: "Court of Justice of the European Union — Psagot origin-labelling judgment"
+- name: Court of Justice of the European Union — Psagot origin-labelling judgment
   url: https://curia.europa.eu/jcms/upload/docs/application/pdf/2019-11/cp190140en.pdf
   published: '2019-11-12'
 impact:
@@ -43,18 +46,25 @@ impact:
   - customs enforcement
   - food and retail supply chains
   - Israeli-Palestinian relations
-  line: "The announced bans will matter only to the extent that governments define settlement origin, trace mixed supply chains and enforce the distinction without treating all Israeli trade as settlement trade."
-  todo: "When judging the policy, look for the legal text, covered product and service codes, origin-document rules, customs guidance, exemptions and published enforcement data."
+  line: The announced bans will matter only to the extent that governments define
+    settlement origin, trace mixed supply chains and enforce the distinction without
+    treating all Israeli trade as settlement trade.
+  todo: When judging the policy, look for the legal text, covered product and service
+    codes, origin-document rules, customs guidance, exemptions and published enforcement
+    data.
 qma_path: ''
 tickers: []
 quiz:
-  question: "What will most directly determine whether a settlement-goods ban changes actual trade?"
+  question: What will most directly determine whether a settlement-goods ban changes
+    actual trade?
   options:
-  - "Clear origin rules, traceable documentation and consistent customs enforcement"
-  - "The strength of the language used when ministers announce it"
-  - "A change in the label applied to all goods exported from Israel"
+  - Clear origin rules, traceable documentation and consistent customs enforcement
+  - The strength of the language used when ministers announce it
+  - A change in the label applied to all goods exported from Israel
   answer: 0
-  explanation: "The policy is territorially targeted, so its practical effect depends on identifying covered origin and enforcing the rule; rhetoric alone does not stop a shipment."
+  explanation: The policy is territorially targeted, so its practical effect depends
+    on identifying covered origin and enforcing the rule; rhetoric alone does not
+    stop a shipment.
 ---
 
 ## BRIEFLY
