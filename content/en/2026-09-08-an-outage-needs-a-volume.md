@@ -1,14 +1,15 @@
 ---
 slug: an-outage-needs-a-volume
-title: "An Outage Needs a Volume"
-dek: "Attacks halted work at several Saudi energy sites, but the missing number is how much oil or fuel stopped moving—and for how long."
+title: An Outage Needs a Volume
+dek: Attacks halted work at several Saudi energy sites, but the missing number is
+  how much oil or fuel stopped moving—and for how long.
 section: world
 type: analysis
 depth: open
 lang: en
-date: "2026-09-08"
-status: draft
-confidence: 91
+date: '2026-09-08'
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -16,42 +17,50 @@ edition_slot: 0
 automation_role: intraday
 generator: chatgpt-work
 format: roundtable
-event_id: "saudi-energy-facilities-houthi-attacks-2026-09-08"
-series: "The Newsroom Table"
-image_query: "Saudi energy facility control room oil pipelines neutral editorial"
+event_id: saudi-energy-facilities-houthi-attacks-2026-09-08
+series: The Newsroom Table
+image_query: Saudi energy facility control room oil pipelines neutral editorial
 sources:
-  - name: "Saudi Press Agency — Operational Activities Halted at Several Energy Facilities"
-    url: "https://spa.gov.sa/en/N2556681"
-    published: "2026-09-08"
-  - name: "Reuters — Houthi attacks disrupt Saudi energy facilities, wound 73"
-    url: "https://www.reuters.com/world/middle-east/saudi-led-coalition-yemen-says-73-injured-houthi-attacks-kingdom-2026-09-08/"
-    published: "2026-09-08"
-  - name: "Associated Press — Houthi attacks ignite fires at oil facilities"
-    url: "https://apnews.com/article/saudi-arabia-yemen-houthis-4ad9446f0bb8c096750c84b6e1ba86b8"
-    published: "2026-09-08"
-  - name: "Financial Times — Saudi Aramco oil facilities hit in new strikes"
-    url: "https://www.ft.com/content/9ffb0fb3-51f6-4aa8-9270-a949196bf441"
-    published: "2026-09-08"
-  - name: "The National — Attacks halt operations at energy sites"
-    url: "https://www.thenationalnews.com/news/2026/09/08/saudi-led-coalition-in-yemen-says-73-people-wounded-in-houthi-attacks-on-saudi-arabia/"
-    published: "2026-09-08"
+- name: Saudi Press Agency — Operational Activities Halted at Several Energy Facilities
+  url: https://spa.gov.sa/en/N2556681
+  published: '2026-09-08'
+- name: Reuters — Houthi attacks disrupt Saudi energy facilities, wound 73
+  url: https://www.reuters.com/world/middle-east/saudi-led-coalition-yemen-says-73-injured-houthi-attacks-kingdom-2026-09-08/
+  published: '2026-09-08'
+- name: Associated Press — Houthi attacks ignite fires at oil facilities
+  url: https://apnews.com/article/saudi-arabia-yemen-houthis-4ad9446f0bb8c096750c84b6e1ba86b8
+  published: '2026-09-08'
+- name: Financial Times — Saudi Aramco oil facilities hit in new strikes
+  url: https://www.ft.com/content/9ffb0fb3-51f6-4aa8-9270-a949196bf441
+  published: '2026-09-08'
+- name: The National — Attacks halt operations at energy sites
+  url: https://www.thenationalnews.com/news/2026/09/08/saudi-led-coalition-in-yemen-says-73-people-wounded-in-houthi-attacks-on-saudi-arabia/
+  published: '2026-09-08'
 impact:
   areas:
-    - "civilian safety"
-    - "energy supply"
-    - "transport and household costs"
-  line: "The attacks are a confirmed security escalation, but their economic reach depends on an undisclosed operational quantity: the volume and duration of lost output, processing or utility service."
-  todo: "Watch for named facilities, verified damage assessments, restart times and measured changes in Saudi production or exports rather than treating a price move as an outage report."
-qma_path: ""
+  - civilian safety
+  - energy supply
+  - transport and household costs
+  line: 'The attacks are a confirmed security escalation, but their economic reach
+    depends on an undisclosed operational quantity: the volume and duration of lost
+    output, processing or utility service.'
+  todo: Watch for named facilities, verified damage assessments, restart times and
+    measured changes in Saudi production or exports rather than treating a price move
+    as an outage report.
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which fact is still needed to judge the attacks' direct effect on global oil supply?"
+  question: Which fact is still needed to judge the attacks' direct effect on global
+    oil supply?
   options:
-    - "The volume of production, processing or exports lost and the duration of the loss"
-    - "Whether oil prices moved immediately after the first report"
-    - "Whether officials described the attacks as a dangerous escalation"
+  - The volume of production, processing or exports lost and the duration of the loss
+  - Whether oil prices moved immediately after the first report
+  - Whether officials described the attacks as a dangerous escalation
   answer: 0
-  explanation: "A price reaction and an official description show concern and security significance; only measured lost volume and duration establish the direct supply effect."
+  explanation: A price reaction and an official description show concern and security
+    significance; only measured lost volume and duration establish the direct supply
+    effect.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
