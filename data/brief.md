@@ -33,27 +33,7 @@
   - **Investing.com** — Amazon Prime Air Boeing 767 overruns runway at Miami airport
     <https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317>
 
-### 2. US envoys arrive in Moscow ahead of Ukraine talks
-- id události: `83f9a270e22c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — US envoys arrive in Moscow ahead of Ukraine talks
-    <https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss>
-    > Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.
-  - **NPR News** — U.S. envoys in Moscow in new push for peace between Russia and Ukraine
-    <https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace>
-    > U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.
-  - **DW News** — US envoys fly to Russia, then Ukraine with plan 'to end war'
-    <https://www.dw.com/en/us-envoys-fly-to-russia-then-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-rdf>
-    > Jared Kushner and Steve Witkoff have reportedly arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Donald Trump's reelection.
-  - **CNBC Top** — U.S. envoys Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine
-    <https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html>
-    > Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.
-  - **Al Jazeera** — At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
-    <https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss>
-    > Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
-
-### 3. Five dead after Amazon cargo plane crashes at Miami airport
+### 2. Five dead after Amazon cargo plane crashes at Miami airport
 - id události: `85e21207cd70`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -76,7 +56,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss>
     > An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
 
-### 4. Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
+### 3. Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
 - id události: `58e356deedb5`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -92,6 +72,23 @@
   - **Al Jazeera** — Convicted war criminal Ratko Mladic gets hero’s burial in Serbia
     <https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss>
     > Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.
+
+### 4. Canada braces for prolonged trade war as counter-tariffs on US take effect
+- id události: `ee0a37d2e333`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Canada braces for prolonged trade war as counter-tariffs on US take effect
+    <https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss>
+    > The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.
+  - **BBC Business** — Canada braces for prolonged trade war as counter-tariffs on US take effect
+    <https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss>
+    > The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.
+  - **France 24** — Canada's counter-tariffs take effect on several US goods as trade war reignites
+    <https://www.france24.com/en/americas/20260908-canada-s-counter-tariffs-take-effect-on-several-us-goods-as-trade-war-reignites>
+    > Canada's counter-tariffs on billions of dollars in US products took effect Tuesday, as a trade war between the two countries heated up. Ottawa's pushback comes weeks after US President Donald Trump imposed 50-percent tariffs on a similar value of Canadian products, over what Wash
+  - **Al Jazeera** — Canada’s retaliatory tariffs on $20bn of US goods take effect
+    <https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss>
+    > Trade tensions soar as Canada matches US tariffs 'dollar-for-dollar', impacting 700 products and multiple industries.
 
 ---
 
@@ -129,7 +126,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-27  (2 zdrojů, síla 44)  Trump says all mines cleared from Strait of Hormuz
   2026-08-27  (2 zdrojů, síla 54)  Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
   2026-08-27  (2 zdrojů, síla 46)  Uefa Champions League 2026-27: league phase draw – live
   2026-08-27  (4 zdrojů, síla 71)  Man City and Aston Villa to face holders PSG in Champions League
@@ -149,6 +145,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack
   2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
   2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
+  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
