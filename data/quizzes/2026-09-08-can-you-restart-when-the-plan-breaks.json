@@ -1,92 +1,459 @@
 {
-  "min": 0,
-  "max": 6,
-  "title": {
-    "en": "Make the restart visible",
-    "cs": "Zviditelněte návrat"
-  },
-  "summary": {
-    "en": "Disruption may currently turn into an all-or-nothing stop. Choose one recurring obstacle and write one specific cue plus a two-minute return action. This score describes responses, not your worth or a fixed trait.",
-    "cs": "Narušení se teď možná mění v zastavení typu všechno, nebo nic. Vyberte jednu opakovanou překážku a napište si konkrétní podnět a dvouminutový návratový krok. Skóre popisuje reakce, ne vaši hodnotu ani pevnou vlastnost."
-  },
-  "sources": [
-    null,
-    null,
-    null,
-    {
-      "name": "Frontiers in Psychology — Individual Differences in Goal Adjustment",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1288667/full",
-      "published": "2024-03-21",
-      "type": "peer-reviewed study and conceptual comparison; no instrument items reproduced"
+  "schema_version": 1,
+  "slug": "can-you-restart-when-the-plan-breaks",
+  "date": "2026-09-08",
+  "category": "resilience",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Can you restart when the plan breaks?",
+      "cs": "Dokážete znovu začít, když se plán rozpadne?"
+    },
+    "dek": {
+      "en": "Eight practical situations explore how you notice disruption, shrink the next step, plan for obstacles and leave a route back.",
+      "cs": "Osm praktických situací zkoumá, jak si všímáte narušení, zmenšujete další krok, plánujete překážky a ponecháváte cestu zpět."
+    },
+    "intro": {
+      "en": "Answer for what you usually do when a real plan is disrupted. Use the result to choose one small capacity to practise.",
+      "cs": "Odpovídejte podle toho, co obvykle děláte při skutečném narušení plánu. Výsledek použijte k výběru jedné malé schopnosti k procvičení."
+    },
+    "disclaimer": {
+      "en": "This original educational self-check is not a validated or proprietary instrument. It does not diagnose, predict harm, measure worth or collect answers. Context and whether a goal remains worthwhile can change every response.",
+      "cs": "Tato původní vzdělávací sebereflexe není validovaný ani proprietární nástroj. Nediagnostikuje, nepředpovídá újmu, neměří hodnotu ani neukládá odpovědi. Každou reakci mohou změnit okolnosti i to, zda cíl stále stojí za to."
     }
-  ]
-}
-{
-  "min": 7,
-  "max": 12,
-  "title": {
-    "en": "Build one reliable bridge",
-    "cs": "Postavte jeden spolehlivý most"
   },
-  "summary": {
-    "en": "You use some restart strategies, but they may remain general or inconsistent. Strengthen the lowest-scoring dimension with one observable practice and test it for a week.",
-    "cs": "Některé návratové strategie používáte, ale mohou zůstávat obecné nebo nepravidelné. Posilte nejslabší dimenzi jedním pozorovatelným postupem a týden ho zkoušejte."
-  },
-  "sources": [
-    null,
-    null,
-    null,
+  "dimensions": [
     {
-      "name": "Frontiers in Psychology — Individual Differences in Goal Adjustment",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1288667/full",
-      "published": "2024-03-21",
-      "type": "peer-reviewed study and conceptual comparison; no instrument items reproduced"
+      "id": "notice",
+      "label": {
+        "en": "Notice the change",
+        "cs": "Všimnout si změny"
+      },
+      "why": {
+        "en": "Naming a changed constraint turns a vague setback into usable information.",
+        "cs": "Pojmenování změněného omezení mění neurčitý nezdar na použitelnou informaci."
+      },
+      "action": {
+        "en": "State what changed and what remains possible in one sentence.",
+        "cs": "Jednou větou řekněte, co se změnilo a co zůstává možné."
+      }
+    },
+    {
+      "id": "shrink",
+      "label": {
+        "en": "Shrink the next step",
+        "cs": "Zmenšit další krok"
+      },
+      "why": {
+        "en": "A smaller viable action preserves purpose when the original session no longer fits.",
+        "cs": "Menší proveditelný krok zachová účel, když se původní okno už nevejde."
+      },
+      "action": {
+        "en": "Define a ten-minute version with a visible next step.",
+        "cs": "Určete desetiminutovou verzi s viditelným dalším krokem."
+      }
+    },
+    {
+      "id": "preplan",
+      "label": {
+        "en": "Plan for obstacles",
+        "cs": "Plánovat překážky"
+      },
+      "why": {
+        "en": "A precise if-then plan links a likely obstacle to a response.",
+        "cs": "Přesný plán když–tak propojuje pravděpodobnou překážku s reakcí."
+      },
+      "action": {
+        "en": "Write one specific if-then response for a recurring obstacle.",
+        "cs": "Napište konkrétní reakci když–tak pro opakovanou překážku."
+      }
+    },
+    {
+      "id": "reenter",
+      "label": {
+        "en": "Leave a route back",
+        "cs": "Ponechat cestu zpět"
+      },
+      "why": {
+        "en": "A restart cue reduces the context reconstructed after interruption.",
+        "cs": "Návratový podnět snižuje množství kontextu obnovovaného po vyrušení."
+      },
+      "action": {
+        "en": "Record the next action, open question and relevant file before stopping.",
+        "cs": "Před přerušením si zapište další krok, otevřenou otázku a příslušný soubor."
+      }
     }
-  ]
-}
-{
-  "min": 13,
-  "max": 18,
-  "title": {
-    "en": "You can repair a plan",
-    "cs": "Umíte plán opravit"
-  },
-  "summary": {
-    "en": "You often notice changed conditions and find a workable route back. The next gain is precision: make obstacle cues and restart actions concrete enough to use under pressure.",
-    "cs": "Často si všimnete změněných podmínek a najdete proveditelnou cestu zpět. Další posun přinese přesnost: formulujte překážky a návratové kroky dost konkrétně pro použití pod tlakem."
-  },
-  "sources": [
-    null,
-    null,
-    null,
+  ],
+  "questions": [
     {
-      "name": "Frontiers in Psychology — Individual Differences in Goal Adjustment",
-      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1288667/full",
-      "published": "2024-03-21",
-      "type": "peer-reviewed study and conceptual comparison; no instrument items reproduced"
+      "id": "late-meeting",
+      "dimension": "notice",
+      "text": {
+        "en": "A meeting removes the hour reserved for a task. What happens next?",
+        "cs": "Schůzka vám vezme hodinu vyhrazenou na úkol. Co následuje?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I act as if the old plan still fits",
+            "cs": "Jednám, jako by starý plán stále platil"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I notice but postpone deciding what changes",
+            "cs": "Všimnu si toho, ale rozhodnutí odložím"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I revise priority but leave time vague",
+            "cs": "Upravím prioritu, ale čas nechám neurčitý"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I name the constraint and choose what still fits",
+            "cs": "Pojmenuji omezení a vyberu, co se ještě vejde"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "twenty-minutes",
+      "dimension": "shrink",
+      "text": {
+        "en": "You have twenty minutes for work that needed two hours. What do you do?",
+        "cs": "Na práci, která potřebovala dvě hodiny, máte dvacet minut. Co uděláte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I abandon it because a full session is impossible",
+            "cs": "Vzdám to, protože celé okno není možné"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I do the easiest part without considering the restart",
+            "cs": "Udělám nejsnazší část bez ohledu na návrat"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I choose a useful piece but leave the next step undefined",
+            "cs": "Vyberu užitečnou část, ale další krok neurčím"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I choose a small step that reduces later restart effort",
+            "cs": "Vyberu malý krok, který později usnadní návrat"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "recurring-interruption",
+      "dimension": "preplan",
+      "text": {
+        "en": "The same interruption often derails a goal. How do you prepare?",
+        "cs": "Stejné vyrušení často vykolejí cíl. Jak se připravíte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I rely on trying harder next time",
+            "cs": "Spolehnu se, že se příště budu více snažit"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I promise generally to return soon",
+            "cs": "Obecně si slíbím, že se brzy vrátím"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I choose a return time but no response to the interruption",
+            "cs": "Vyberu čas návratu, ale ne reakci na vyrušení"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I write a specific if-then response",
+            "cs": "Napíšu si konkrétní reakci když–tak"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "stop-midway",
+      "dimension": "reenter",
+      "text": {
+        "en": "You must stop halfway through a complex task. What do you leave?",
+        "cs": "Musíte přestat uprostřed složitého úkolu. Co zanecháte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Nothing; I will reconstruct context later",
+            "cs": "Nic; kontext později znovu sestavím"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "A broad note saying where I stopped",
+            "cs": "Obecnou poznámku, kde jsem skončil(a)"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "A clear next step without supporting context",
+            "cs": "Jasný další krok bez podpůrného kontextu"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "The next action, open question and relevant file",
+            "cs": "Další krok, otevřenou otázku a příslušný soubor"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "repeated-slip",
+      "dimension": "notice",
+      "text": {
+        "en": "A plan has slipped for several days. What do you seek first?",
+        "cs": "Plán několik dní klouže. Co hledáte nejdříve?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "Proof that I am bad at plans",
+            "cs": "Důkaz, že mi plány nejdou"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "A new motivational phrase",
+            "cs": "Novou motivační větu"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "A list of misses without looking for a pattern",
+            "cs": "Seznam vynechání bez hledání vzorce"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "The repeated cue or constraint before the slip",
+            "cs": "Opakující se podnět či omezení před skluzem"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "lower-energy",
+      "dimension": "shrink",
+      "text": {
+        "en": "Your energy is lower, but the goal still matters. What do you adjust?",
+        "cs": "Máte méně energie, ale cíl je stále důležitý. Co upravíte?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I keep the full target and treat less as failure",
+            "cs": "Ponechám celý cíl a méně beru jako selhání"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I wait for the original energy to return",
+            "cs": "Počkám, až se původní energie vrátí"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I reduce the amount but not the stopping point",
+            "cs": "Snížím objem, ale neurčím bod ukončení"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I define a smaller version that still serves the purpose",
+            "cs": "Určím menší verzi, která stále slouží účelu"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "predictable-obstacle",
+      "dimension": "preplan",
+      "text": {
+        "en": "Which plan is most ready for a predictable obstacle?",
+        "cs": "Který plán je nejlépe připraven na předvídatelnou překážku?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "I will definitely do it tomorrow",
+            "cs": "Zítra to určitě udělám"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I will try to remember after lunch",
+            "cs": "Zkusím si vzpomenout po obědě"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "After lunch I will open it and decide",
+            "cs": "Po obědě to otevřu a rozhodnu"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "If lunch ends late, I will do ten minutes before messages",
+            "cs": "Když oběd skončí pozdě, udělám deset minut před zprávami"
+          },
+          "score": 3
+        }
+      ]
+    },
+    {
+      "id": "missed-session",
+      "dimension": "reenter",
+      "text": {
+        "en": "You miss one planned session. How do you frame the return?",
+        "cs": "Vynecháte jedno plánované okno. Jak uchopíte návrat?"
+      },
+      "options": [
+        {
+          "label": {
+            "en": "The sequence is broken, so returning counts less",
+            "cs": "Řada je přerušená, návrat se počítá méně"
+          },
+          "score": 0
+        },
+        {
+          "label": {
+            "en": "I wait for a clean new week",
+            "cs": "Počkám na čistý nový týden"
+          },
+          "score": 1
+        },
+        {
+          "label": {
+            "en": "I choose a return day but not the first action",
+            "cs": "Vyberu den návratu, ale ne první krok"
+          },
+          "score": 2
+        },
+        {
+          "label": {
+            "en": "I set the next cue and treat return as part of the plan",
+            "cs": "Nastavím další podnět a návrat beru jako součást plánu"
+          },
+          "score": 3
+        }
+      ]
     }
-  ]
-}
-{
-  "min": 19,
-  "max": 24,
-  "title": {
-    "en": "Restart is part of your system",
-    "cs": "Návrat je součástí vašeho systému"
-  },
-  "summary": {
-    "en": "You tend to treat disruption as new information rather than a verdict. Keep the system flexible: not every goal deserves persistence, and revising or releasing a goal can also be deliberate.",
-    "cs": "Narušení obvykle berete jako novou informaci, ne jako rozsudek. Zachovejte pružnost: ne každý cíl si zaslouží vytrvalost a promyšlené může být i jeho přepracování nebo opuštění."
-  },
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {
+        "en": "Make the restart visible",
+        "cs": "Zviditelněte návrat"
+      },
+      "summary": {
+        "en": "Disruption may become an all-or-nothing stop. Choose one recurring obstacle and write one cue plus a two-minute return action. This describes responses, not worth or a fixed trait.",
+        "cs": "Narušení se možná mění v zastavení typu všechno, nebo nic. Vyberte jednu opakovanou překážku a napište podnět a dvouminutový návratový krok. Výsledek popisuje reakce, ne hodnotu ani pevnou vlastnost."
+      }
+    },
+    {
+      "min": 8,
+      "max": 15,
+      "title": {
+        "en": "Build one reliable bridge",
+        "cs": "Postavte jeden spolehlivý most"
+      },
+      "summary": {
+        "en": "You use some restart strategies, but they may remain general or inconsistent. Strengthen the lowest-scoring dimension with one observable practice for a week.",
+        "cs": "Některé návratové strategie používáte, ale mohou zůstávat obecné nebo nepravidelné. Posilte nejslabší dimenzi jedním pozorovatelným postupem po dobu týdne."
+      }
+    },
+    {
+      "min": 16,
+      "max": 24,
+      "title": {
+        "en": "Restart is part of your system",
+        "cs": "Návrat je součástí vašeho systému"
+      },
+      "summary": {
+        "en": "You often treat disruption as information rather than a verdict. Stay flexible: not every goal deserves persistence, and revising or releasing one can also be deliberate.",
+        "cs": "Narušení často berete jako informaci, ne jako rozsudek. Zachovejte pružnost: ne každý cíl si zaslouží vytrvalost a promyšlené může být i jeho přepracování či opuštění."
+      }
+    }
+  ],
   "sources": [
-    null,
-    null,
-    null,
+    {
+      "name": "US National Cancer Institute — Implementation Intentions",
+      "url": "https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions",
+      "published": "",
+      "type": "public research overview; no instrument items reproduced"
+    },
+    {
+      "name": "Frontiers in Psychology — Mental Contrasting with Implementation Intentions Meta-analysis",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full",
+      "published": "2021-05-12",
+      "type": "peer-reviewed meta-analysis; no instrument items reproduced"
+    },
+    {
+      "name": "Frontiers in Human Neuroscience — Translating Intentions into Action",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/",
+      "published": "2015-07-14",
+      "type": "peer-reviewed overview; no instrument items reproduced"
+    },
     {
       "name": "Frontiers in Psychology — Individual Differences in Goal Adjustment",
       "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1288667/full",
-      "published": "2024-03-21",
-      "type": "peer-reviewed study and conceptual comparison; no instrument items reproduced"
+      "published": "2024",
+      "type": "peer-reviewed study; no instrument items reproduced"
     }
   ]
 }
