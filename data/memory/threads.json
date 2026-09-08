@@ -822,38 +822,42 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "back-to-back",
-    "masha",
-    "four",
-    "burnham",
-    "zelensky",
     "bessent",
-    "overnight",
-    "nato",
-    "north",
-    "ukraine",
-    "zelenskyy",
+    "kremlin",
+    "korean",
     "holding",
     "russia",
-    "korean",
-    "several",
-    "shootout",
-    "russian",
-    "korea",
-    "leipzig",
-    "kyiv",
-    "ukrainian",
-    "atacms",
-    "europe",
     "moscow",
+    "ukraine",
     "wildberries",
+    "north",
+    "belgorod",
+    "europe",
+    "kushner",
+    "bear",
+    "shootout",
+    "four",
+    "zelensky",
+    "kyiv",
+    "back-to-back",
+    "atacms",
+    "trump",
+    "masha",
+    "witkoff",
     "norway",
     "germany",
+    "korea",
+    "russian",
+    "leipzig",
+    "ukrainian",
     "izmail",
-    "belgorod",
-    "trump",
+    "burnham",
+    "several",
+    "nato",
     "peace",
-    "bear"
+    "overnight",
+    "putin",
+    "zelenskyy"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -899,7 +903,9 @@
     "6474f93f01b0",
     "a04e18730da0",
     "01edd8a06657",
-    "00b8e99f2951"
+    "00b8e99f2951",
+    "1d20aa1d7fee",
+    "8f2a6544ec60"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-08",
@@ -1396,6 +1402,29 @@
      "links": [
       "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
       "https://www.dw.com/en/ukraine-updates-two-killed-in-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1d20aa1d7fee",
+     "links": [
+      "https://www.france24.com/en/europe/20260908-trump-tells-putin-he-wants-swift-end-to-ukraine-war-kremlin-says",
+      "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+      "https://www.france24.com/en/tv-shows/the-debate/20260908-missiles-or-mediation-trump-envoys-shuttle-between-russia-and-ukraine"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
+     "sources": 2,
+     "score": 40,
+     "event_id": "8f2a6544ec60",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+      "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -2420,22 +2449,24 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
-    "bombardier",
-    "google",
-    "mapquest",
-    "maps",
+    "weekly",
     "canadian",
-    "politics",
+    "mapquest",
     "trump",
-    "reich",
-    "america",
-    "robert",
-    "lake",
-    "canada",
+    "bombardier",
     "apple",
-    "canada's",
+    "canada",
+    "lake",
+    "park",
+    "america",
+    "south",
+    "google",
+    "robert",
+    "politics",
+    "maps",
     "ontario",
-    "weekly"
+    "canada's",
+    "reich"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -2451,7 +2482,9 @@
     "c280f70cbb01",
     "c7578e46c246",
     "a10299274da2",
-    "bf18496d99e4"
+    "bf18496d99e4",
+    "c8549675122c",
+    "ba25d6c2d4c7"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-09-08",
@@ -2614,6 +2647,230 @@
      "links": [
       "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/tv-shows/business/20260908-trump-threatens-ban-on-bombardier-as-canada-s-retaliatory-tariffs-kick-in"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "South Park changes name to South America in response to Trump changes",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c8549675122c",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump",
+      "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "UK to force Apple and Google to block explicit images on children’s smartphones",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ba25d6c2d4c7",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "karoline",
+    "chinese",
+    "trump",
+    "nabep",
+    "company",
+    "supreme",
+    "court",
+    "tetris",
+    "driscoll",
+    "crypto",
+    "kalshi's",
+    "leavitt",
+    "press",
+    "army",
+    "house",
+    "venezuela",
+    "white",
+    "days",
+    "secretary",
+    "jersey"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e",
+    "958107abfe36",
+    "eb231f9016df",
+    "ad8ed0c19d7a",
+    "1c66ae5141c6",
+    "153ab8978645"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-08",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+     "sources": 2,
+     "score": 42,
+     "event_id": "958107abfe36",
+     "links": [
+      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump White House just tossed a grenade into international space relations",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb231f9016df",
+     "links": [
+      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad8ed0c19d7a",
+     "links": [
+      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
+      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1c66ae5141c6",
+     "links": [
+      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+     "sources": 2,
+     "score": 48,
+     "event_id": "153ab8978645",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
      ]
     }
    ]
@@ -2808,196 +3065,6 @@
      "links": [
       "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
       "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "jersey",
-    "secretary",
-    "press",
-    "karoline",
-    "company",
-    "chinese",
-    "crypto",
-    "tetris",
-    "court",
-    "army",
-    "white",
-    "kalshi's",
-    "trump",
-    "venezuela",
-    "days",
-    "driscoll",
-    "house",
-    "leavitt",
-    "supreme",
-    "nabep"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e",
-    "958107abfe36",
-    "eb231f9016df",
-    "ad8ed0c19d7a",
-    "1c66ae5141c6"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-08",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-     "sources": 2,
-     "score": 42,
-     "event_id": "958107abfe36",
-     "links": [
-      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump White House just tossed a grenade into international space relations",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb231f9016df",
-     "links": [
-      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ad8ed0c19d7a",
-     "links": [
-      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
-      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1c66ae5141c6",
-     "links": [
-      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
      ]
     }
    ]
@@ -3423,6 +3490,47 @@
       "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
       "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
       "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c64cc7683a93",
+   "title": "Sabalenka fights back to keep US Open defence alive",
+   "section": "sport",
+   "entities": [
+    "townsend",
+    "open",
+    "sabalenka"
+   ],
+   "event_ids": [
+    "c64cc7683a93",
+    "d289ddd8927e"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-08",
+   "timeline": [
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka fights back to keep US Open defence alive",
+     "sources": 3,
+     "score": 57,
+     "event_id": "c64cc7683a93",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
+      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d289ddd8927e",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
      ]
     }
    ]
@@ -7368,5 +7476,5 @@
    ]
   }
  ],
- "updated": "2026-09-08T18:31:05+00:00"
+ "updated": "2026-09-08T21:21:50+00:00"
 }

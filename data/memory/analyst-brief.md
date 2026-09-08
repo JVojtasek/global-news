@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-08
 
-Paměť obsahuje **86 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **44**.
 
 ---
 
@@ -21,10 +21,8 @@ Paměť obsahuje **86 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-08** (2 zdrojů) France, South Korea pledge 1 billion euros to support cinema amid AI threat
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 28 dní · 44 záznamů
+- rubrika `world` · sledováno 28 dní · 46 záznamů
 - časová osa:
-  - **2026-09-03** (2 zdrojů) Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
-  - **2026-09-04** (2 zdrojů) Europe targeted in summer campaign of sabotage and Russia is the chief suspect
   - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
   - **2026-09-05** (2 zdrojů) Trump sends envoys to Russia, Ukraine with new peace plan
   - **2026-09-05** (5 zdrojů) US envoys arrive in Moscow ahead of Ukraine talks
@@ -33,6 +31,8 @@ Paměť obsahuje **86 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-08** (2 zdrojů) Russia strikes Kyiv as three-day pause during US envoy visits ends
   - **2026-09-08** (2 zdrojů) North Korea and Russia open first road bridge linking both countries
   - **2026-09-08** (2 zdrojů) Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
+  - **2026-09-08** (2 zdrojů) Trump tells Putin he wants swift end to Ukraine war, Kremlin says
+  - **2026-09-08** (2 zdrojů) US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
@@ -78,16 +78,16 @@ Paměť obsahuje **86 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
   - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims
 
-### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 10 dní · 16 záznamů
+### Trump signs order to rename Lake Ontario as Lake America
+- rubrika `world` · sledováno 12 dní · 16 záznamů
 - časová osa:
-  - **2026-08-26** (6 zdrojů) Dolly Parton dies aged 80 – researchers celebrate her contributions to science
-  - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
-  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
-  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
-  - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
-  - **2026-08-29** (3 zdrojů) How America celebrated and mourned Dolly Parton, in Nashville and beyond
-  - **2026-08-31** (2 zdrojů) Dolly Parton laid to rest alongside husband in Nashville
-  - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
-  - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
-  - **2026-09-04** (1 zdrojů) Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History
+  - **2026-09-01** (2 zdrojů) MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
+  - **2026-09-01** (2 zdrojů) Apple Maps follows Google in renaming Lake Ontario
+  - **2026-09-02** (5 zdrojů) Apple Maps changes Lake Ontario to Lake America after Trump order
+  - **2026-09-02** (2 zdrojů) Trump’s ridiculous bullying of Canada is backfiring | Robert Reich
+  - **2026-09-02** (2 zdrojů) Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order
+  - **2026-09-07** (2 zdrojů) Trump threatens to block Canada’s Bombardier sales unless planes made in US
+  - **2026-09-08** (2 zdrojů) Trump threatens to stop sale of Canadian Bombardier jets in US
+  - **2026-09-08** (2 zdrojů) Trump threatens to block Canada's Bombardier planes from US market
+  - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
+  - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones

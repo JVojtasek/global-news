@@ -175,14 +175,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 44  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 46  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 44
-  2026-08-28  (2 zdrojů, síla 48)  Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
-  2026-08-29  (2 zdrojů, síla 42)  Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
+rubrika: world · sledováno od 2026-08-11 · záznamů: 46
   2026-09-01  (2 zdrojů, síla 46)  Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20
   2026-09-01  (2 zdrojů, síla 43)  At least 12 people killed in Russian overnight attacks on Ukraine – Europe live
   2026-09-01  (2 zdrojů, síla 46)  Russian attack hits rail workers in new deadly strikes on Kyiv
@@ -201,6 +199,8 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 44
   2026-09-08  (2 zdrojů, síla 41)  Russia strikes Kyiv as three-day pause during US envoy visits ends
   2026-09-08  (2 zdrojů, síla 45)  North Korea and Russia open first road bridge linking both countries
   2026-09-08  (2 zdrojů, síla 46)  Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
+  2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
+  2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
 ```
 
 ---
