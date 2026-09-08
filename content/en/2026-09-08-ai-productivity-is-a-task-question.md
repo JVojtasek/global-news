@@ -1,47 +1,58 @@
 ---
 slug: ai-productivity-is-a-task-question
-title: "AI Productivity Is a Task Question, Not a Universal Percentage"
-dek: "Studies can find faster customer service, more completed code, or slower expert development without contradicting one another. The result depends on the worker, task, tool and definition of finished."
+title: AI Productivity Is a Task Question, Not a Universal Percentage
+dek: Studies can find faster customer service, more completed code, or slower expert
+  development without contradicting one another. The result depends on the worker,
+  task, tool and definition of finished.
 section: ai
 type: analysis
 depth: open
 lang: en
-date: 2026-09-08
-status: draft
-confidence: 91
+date: '2026-09-08'
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-08-slot-2-ai-productivity-measurement"
-series: ""
-image_query: "conceptual split workflow stopwatch quality check AI productivity editorial illustration no text"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-08-slot-2-ai-productivity-measurement
+series: ''
+image_query: conceptual split workflow stopwatch quality check AI productivity editorial
+  illustration no text
 sources:
-  - name: "The Quarterly Journal of Economics — Generative AI at Work"
-    url: "https://academic.oup.com/qje/article/140/2/889/7990658"
-    published: "2025-02-04"
-  - name: "Organization Science — Navigating the Jagged Technological Frontier"
-    url: "https://pubsonline.informs.org/doi/10.1287/orsc.2025.21838"
-    published: "2026-03-11"
-  - name: "Management Science — The Effects of Generative AI on High-Skilled Work"
-    url: "https://pubsonline.informs.org/doi/10.1287/mnsc.2025.00535"
-    published: "2026-02-27"
-  - name: "METR — Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity"
-    url: "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
-    published: "2025-07-10"
-  - name: "METR — We Are Changing Our Developer Productivity Experiment Design"
-    url: "https://metr.org/blog/2026-02-24-uplift-update/"
-    published: "2026-02-24"
-qma_path: ""
+- name: The Quarterly Journal of Economics — Generative AI at Work
+  url: https://academic.oup.com/qje/article/140/2/889/7990658
+  published: '2025-02-04'
+- name: Organization Science — Navigating the Jagged Technological Frontier
+  url: https://pubsonline.informs.org/doi/10.1287/orsc.2025.21838
+  published: '2026-03-11'
+- name: Management Science — The Effects of Generative AI on High-Skilled Work
+  url: https://pubsonline.informs.org/doi/10.1287/mnsc.2025.00535
+  published: '2026-02-27'
+- name: METR — Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer
+    Productivity
+  url: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+  published: '2025-07-10'
+- name: METR — We Are Changing Our Developer Productivity Experiment Design
+  url: https://metr.org/blog/2026-02-24-uplift-update/
+  published: '2026-02-24'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What did the randomized METR study find for experienced developers working on their own large open-source repositories with early-2025 AI tools?"
-  options: ["They finished tasks 19% faster", "They took 19% longer", "Their completion time did not change"]
+  question: What did the randomized METR study find for experienced developers working
+    on their own large open-source repositories with early-2025 AI tools?
+  options:
+  - They finished tasks 19% faster
+  - They took 19% longer
+  - Their completion time did not change
   answer: 1
-  explanation: "Across 246 real issues completed by 16 experienced developers, allowing AI increased completion time by an estimated 19%; METR warned that this narrow result should not be generalized to all coding."
+  explanation: Across 246 real issues completed by 16 experienced developers, allowing
+    AI increased completion time by an estimated 19%; METR warned that this narrow
+    result should not be generalized to all coding.
+review_reason: 'citlivé téma: referendum'
 ---
 
 ## BRIEFLY

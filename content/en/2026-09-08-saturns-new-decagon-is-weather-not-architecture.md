@@ -1,44 +1,53 @@
 ---
 slug: saturns-new-decagon-is-weather-not-architecture
-title: "Saturn’s New Decagon Is Weather, Not Architecture"
-dek: "Hubble has revealed a ten-sided wave around Saturn’s south pole. Its geometry is striking, but the deeper discovery is that astronomers may be watching a giant atmospheric pattern take shape."
+title: Saturn’s New Decagon Is Weather, Not Architecture
+dek: Hubble has revealed a ten-sided wave around Saturn’s south pole. Its geometry
+  is striking, but the deeper discovery is that astronomers may be watching a giant
+  atmospheric pattern take shape.
 section: wonder
 type: daily
 depth: open
 lang: en
-date: 2026-09-08
-status: draft
-confidence: 92
+date: '2026-09-08'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: "2026-09-08-slot-1-saturn-south-pole-decagon"
-series: ""
-image_query: "conceptual Saturn south pole ten-sided atmospheric wave scientific editorial illustration no labels"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: 2026-09-08-slot-1-saturn-south-pole-decagon
+series: ''
+image_query: conceptual Saturn south pole ten-sided atmospheric wave scientific editorial
+  illustration no labels
 sources:
-  - name: "NASA Science — Hubble Tracks New Decagon Encircling Saturn’s South Pole"
-    url: "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/"
-    published: "2026-09-02"
-  - name: "ESA/Hubble — Hubble tracks new decagon encircling Saturn’s south pole"
-    url: "https://esahubble.org/news/heic2612/"
-    published: "2026-09-02"
-  - name: "UC Berkeley Space Sciences Laboratory"
-    url: "https://www.ssl.berkeley.edu/decagon-wave-emerges-near-saturns-south-pole/"
-    published: "2026-09-02"
-  - name: "Science News"
-    url: "https://www.sciencenews.org/article/hubble-decagon-saturn-south-pole"
-    published: "2026-09-02"
-qma_path: ""
+- name: NASA Science — Hubble Tracks New Decagon Encircling Saturn’s South Pole
+  url: https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/
+  published: '2026-09-02'
+- name: ESA/Hubble — Hubble tracks new decagon encircling Saturn’s south pole
+  url: https://esahubble.org/news/heic2612/
+  published: '2026-09-02'
+- name: UC Berkeley Space Sciences Laboratory
+  url: https://www.ssl.berkeley.edu/decagon-wave-emerges-near-saturns-south-pole/
+  published: '2026-09-02'
+- name: Science News
+  url: https://www.sciencenews.org/article/hubble-decagon-saturn-south-pole
+  published: '2026-09-02'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why can’t astronomers yet say exactly when Saturn’s southern decagon formed?"
-  options: ["The pattern is hidden by Saturn’s rings at all times", "There was no close spacecraft after 2017 and the south pole was poorly visible from Earth until 2023", "Hubble cannot observe Saturn in more than one wavelength"]
+  question: Why can’t astronomers yet say exactly when Saturn’s southern decagon formed?
+  options:
+  - The pattern is hidden by Saturn’s rings at all times
+  - There was no close spacecraft after 2017 and the south pole was poorly visible
+    from Earth until 2023
+  - Hubble cannot observe Saturn in more than one wavelength
   answer: 1
-  explanation: "Cassini’s mission ended in 2017, while Saturn’s seasons kept the south pole turned away from useful Earth-based viewing until it returned to view in 2023."
+  explanation: Cassini’s mission ended in 2017, while Saturn’s seasons kept the south
+    pole turned away from useful Earth-based viewing until it returned to view in
+    2023.
 ---
 
 ## BRIEFLY

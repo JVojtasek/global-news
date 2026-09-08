@@ -1,45 +1,51 @@
 ---
 slug: the-evidence-changed-on-trauma-debriefing
-title: "The Evidence Changed on Trauma Debriefing"
-dek: "A compulsory retelling soon after trauma once looked preventive; reviews and guidelines now favour choice, practical support and targeted care."
+title: The Evidence Changed on Trauma Debriefing
+dek: A compulsory retelling soon after trauma once looked preventive; reviews and
+  guidelines now favour choice, practical support and targeted care.
 section: soul
 type: analysis
 depth: open
 lang: en
-date: 2026-09-08
-status: draft
-confidence: 93
+date: '2026-09-08'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "quiet conceptual illustration of an open door, a listening chair and several paths after a difficult event"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: quiet conceptual illustration of an open door, a listening chair and
+  several paths after a difficult event
 sources:
-  - name: "Cochrane — Psychological debriefing for preventing PTSD"
-    url: "https://www.cochrane.org/evidence/CD000560_psychological-debriefing-preventing-post-traumatic-stress-disorder-ptsd"
-    published: "2002-04-22"
-  - name: "World Health Organization — Psychological debriefing after a recent traumatic event"
-    url: "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/other-significant-emotional-and-medical-unexplained-somatic-complaints/psychological-debriefing-in-people-exposed-to-a-recent-traumatic-event"
-    published: "2012-01-01"
-  - name: "U.S. National Center for PTSD — PTSD History and Overview"
-    url: "https://www.ptsd.va.gov/professional/treat/essentials/history_ptsd.asp"
-    published: "2025-12-09"
-  - name: "U.S. National Center for PTSD — Acute Stress Disorder"
-    url: "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
-    published: "2026-02-27"
+- name: Cochrane — Psychological debriefing for preventing PTSD
+  url: https://www.cochrane.org/evidence/CD000560_psychological-debriefing-preventing-post-traumatic-stress-disorder-ptsd
+  published: '2002-04-22'
+- name: World Health Organization — Psychological debriefing after a recent traumatic
+    event
+  url: https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/other-significant-emotional-and-medical-unexplained-somatic-complaints/psychological-debriefing-in-people-exposed-to-a-recent-traumatic-event
+  published: '2012-01-01'
+- name: U.S. National Center for PTSD — PTSD History and Overview
+  url: https://www.ptsd.va.gov/professional/treat/essentials/history_ptsd.asp
+  published: '2025-12-09'
+- name: U.S. National Center for PTSD — Acute Stress Disorder
+  url: https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp
+  published: '2026-02-27'
 quiz:
-  question: "What did the Cochrane review conclude about routine single-session debriefing for unselected trauma survivors?"
+  question: What did the Cochrane review conclude about routine single-session debriefing
+    for unselected trauma survivors?
   options:
-    - "It reliably prevented PTSD"
-    - "It was unsupported and could sometimes worsen outcomes"
-    - "It worked only when delivered in a group"
+  - It reliably prevented PTSD
+  - It was unsupported and could sometimes worsen outcomes
+  - It worked only when delivered in a group
   answer: 1
-  explanation: "The review found no preventive benefit, with one trial reporting a higher one-year PTSD risk after debriefing."
+  explanation: The review found no preventive benefit, with one trial reporting a
+    higher one-year PTSD risk after debriefing.
+review_reason: 'citlivé téma: self-harm'
 ---
 
 ## BRIEFLY

@@ -1,42 +1,48 @@
 ---
 slug: a-space-heater-needs-empty-space
-title: "A Space Heater Needs Empty Space, Not an Extension Lead"
-dek: "A five-minute check of placement, power and supervision removes the ordinary conditions behind many portable-heater fires."
+title: A Space Heater Needs Empty Space, Not an Extension Lead
+dek: A five-minute check of placement, power and supervision removes the ordinary
+  conditions behind many portable-heater fires.
 section: safety
 type: analysis
 depth: open
 lang: en
-date: 2026-09-08
-status: draft
-confidence: 94
+date: '2026-09-08'
+status: review
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual portable electric heater with clear empty safety zone in a calm home interior"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual portable electric heater with clear empty safety zone in a
+  calm home interior
 sources:
-  - name: "U.S. Fire Administration — Portable Heater Fires in Residential Buildings (2017–2019)"
-    url: "https://www.usfa.fema.gov/statistics/reports/fire-causes/portable-heater-fires-residential-buildings-v21i11.html"
-    published: "2021-12-01"
-  - name: "U.S. Fire Administration — Heating Fire Safety"
-    url: "https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/"
-    published: "2023-05-04"
-  - name: "Health Canada — Electrical Product Safety"
-    url: "https://www.canada.ca/en/health-canada/services/home-safety/electrical-products.html"
-    published: "2026-08-12"
+- name: U.S. Fire Administration — Portable Heater Fires in Residential Buildings
+    (2017–2019)
+  url: https://www.usfa.fema.gov/statistics/reports/fire-causes/portable-heater-fires-residential-buildings-v21i11.html
+  published: '2021-12-01'
+- name: U.S. Fire Administration — Heating Fire Safety
+  url: https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/heating/
+  published: '2023-05-04'
+- name: Health Canada — Electrical Product Safety
+  url: https://www.canada.ca/en/health-canada/services/home-safety/electrical-products.html
+  published: '2026-08-12'
 quiz:
-  question: "What was the leading reported ignition factor in U.S. residential portable-heater fires from 2017 to 2019?"
+  question: What was the leading reported ignition factor in U.S. residential portable-heater
+    fires from 2017 to 2019?
   options:
-    - "A heat source was too close to something combustible"
-    - "The heater was placed in a bathroom"
-    - "The home had no central-heating system"
+  - A heat source was too close to something combustible
+  - The heater was placed in a bathroom
+  - The home had no central-heating system
   answer: 0
-  explanation: "The U.S. Fire Administration attributed 48% of these fires to a heat source being too close to combustible objects."
+  explanation: The U.S. Fire Administration attributed 48% of these fires to a heat
+    source being too close to combustible objects.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
