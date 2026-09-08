@@ -90,22 +90,31 @@
     <https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss>
     > An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
 
-### 4. Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
-- id události: `58e356deedb5`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. UK announces sanctions on West Bank settlements prompting furious Israeli response
+- id události: `832c384b6768`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić
-    <https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss>
-    > Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.
-  - **DW News** — War criminal Ratko Mladic buried with military honors in Belgrade, Serbia
-    <https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf>
-    > Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.
-  - **Al Jazeera** — Thousands attend funeral of war criminal Ratko Mladic in Serbia
-    <https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss>
-    > Thousands attend funeral of war criminal Ratko Mladic in Serbia
-  - **Al Jazeera** — Convicted war criminal Ratko Mladic gets hero’s burial in Serbia
-    <https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss>
-    > Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.
+  - **BBC World** — UK announces sanctions on West Bank settlements prompting furious Israeli response
+    <https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss>
+    > Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
+  - **BBC World** — Where is Israel's proposed West Bank settlement the UK opposes?
+    <https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss>
+    > BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.
+  - **Guardian Business** — Ella Baron on the UK’s ban on trade with illegal Israeli settlements – cartoon
+    <https://www.theguardian.com/commentisfree/picture/2026/sep/08/ella-baron-uk-ban-trade-with-israeli-settlements-cartoon>
+    > Continue reading...
+  - **Al Jazeera** — US won’t join UK ban on trade with illegal Israeli settlements
+    <https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss>
+    > Secretary of State Marco Rubio says the US will ‘obviously not’ follow the UK in sanctioning illegal Israeli settlements
+  - **Al Jazeera** — UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
+    <https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss>
+    > UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
+  - **Al Jazeera** — Jerusalem Daily: UK announces sanctions on Israeli settlement goods
+    <https://www.aljazeera.com/video/newsfeed/2026/9/8/jerusalem-daily-uk-announces-sanctions-on-israeli-settlement-goods?traffic_source=rss>
+    > The UK’s foreign secretary has announced a ban on trade with goods from Israeli settlements in the occupied West Bank.
+  - **Al Jazeera** — UK imposes ban on goods from Israeli settlements in occupied West Bank
+    <https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss>
+    > The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
 
 ---
 

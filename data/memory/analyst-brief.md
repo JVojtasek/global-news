@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-08
 
-Paměť obsahuje **85 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **86 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
@@ -37,9 +37,8 @@ Paměť obsahuje **85 vláken**. Aktivních za posledních 14 dní: **43**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 21 dní · 39 záznamů
+- rubrika `sport` · sledováno 21 dní · 40 záznamů
 - časová osa:
-  - **2026-09-03** (2 zdrojů) Ranking the most game-changing transfers in Premier League history
   - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
   - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
   - **2026-09-04** (2 zdrojů) Ipswich Town v Liverpool: Premier League – live
@@ -49,11 +48,11 @@ Paměť obsahuje **85 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-05** (2 zdrojů) 'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa
   - **2026-09-05** (2 zdrojů) Aston Villa still winless after stalemate at Hull
   - **2026-09-08** (2 zdrojů) Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
+  - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 26 dní · 32 záznamů
+- rubrika `world` · sledováno 26 dní · 33 záznamů
 - časová osa:
-  - **2026-09-01** (2 zdrojů) Israeli fire kills three in Gaza City during reported raid, medics say
   - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
   - **2026-09-04** (2 zdrojů) ‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza
   - **2026-09-04** (2 zdrojů) Israel's West Bank camp displacements could be crime against humanity, UN says
@@ -63,6 +62,7 @@ Paměť obsahuje **85 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-07** (2 zdrojů) Israeli attacks on Gaza kill five Palestinians, including two children
   - **2026-09-07** (2 zdrojů) Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack
   - **2026-09-08** (7 zdrojů) In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
+  - **2026-09-08** (3 zdrojů) UK announces sanctions on West Bank settlements prompting furious Israeli response
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 25 dní · 17 záznamů
