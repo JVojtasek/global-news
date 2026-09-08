@@ -129,7 +129,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-26  (2 zdrojů, síla 46)  China advises its citizens to leave Taiwan ally Eswatini over 'security risks'
   2026-08-26  (1 zdrojů, síla 53)  How to follow Thursday's Champions League draw - and who is in each pot?
   2026-08-27  (2 zdrojů, síla 44)  Trump says all mines cleared from Strait of Hormuz
   2026-08-27  (2 zdrojů, síla 54)  Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
@@ -149,16 +148,16 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
   2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
   2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack
+  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 42  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 43  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 42
-  2026-08-24  (2 zdrojů, síla 47)  Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine
+rubrika: world · sledováno od 2026-08-11 · záznamů: 43
   2026-08-27  (2 zdrojů, síla 44)  Ukraine’s drone attacks have left Russia desperately scrambling for oil imports
   2026-08-28  (2 zdrojů, síla 48)  Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’
   2026-08-29  (2 zdrojů, síla 42)  Russian strike near Kyiv kills 37, in one of the year's deadliest attacks
@@ -178,6 +177,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 42
   2026-09-06  (2 zdrojů, síla 48)  Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
   2026-09-07  (2 zdrojů, síla 42)  Russia opens first road bridge with North Korea
   2026-09-08  (2 zdrojů, síla 41)  Russia strikes Kyiv as three-day pause during US envoy visits ends
+  2026-09-08  (2 zdrojů, síla 45)  North Korea and Russia open first road bridge linking both countries
 ```
 
 ---

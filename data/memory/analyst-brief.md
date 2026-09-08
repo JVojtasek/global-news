@@ -7,9 +7,8 @@ Paměť obsahuje **85 vláken**. Aktivních za posledních 14 dní: **42**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 27 dní · 60 záznamů
+- rubrika `world` · sledováno 30 dní · 60 záznamů
 - časová osa:
-  - **2026-08-31** (2 zdrojů) US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
   - **2026-08-31** (2 zdrojů) Trump threatens further action as US and Iran exchange fire in new flare-up
   - **2026-09-01** (2 zdrojů) Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
   - **2026-09-01** (2 zdrojů) U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
@@ -19,11 +18,11 @@ Paměť obsahuje **85 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-03** (2 zdrojů) Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
   - **2026-09-05** (2 zdrojů) US military says it struck three Iranian tankers after American warships came under missile attack
+  - **2026-09-08** (2 zdrojů) Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 28 dní · 42 záznamů
+- rubrika `world` · sledováno 28 dní · 43 záznamů
 - časová osa:
-  - **2026-09-02** (2 zdrojů) EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
   - **2026-09-03** (2 zdrojů) Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
   - **2026-09-03** (2 zdrojů) Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
   - **2026-09-04** (2 zdrojů) Europe targeted in summer campaign of sabotage and Russia is the chief suspect
@@ -33,6 +32,7 @@ Paměť obsahuje **85 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-06** (2 zdrojů) Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
   - **2026-09-07** (2 zdrojů) Russia opens first road bridge with North Korea
   - **2026-09-08** (2 zdrojů) Russia strikes Kyiv as three-day pause during US envoy visits ends
+  - **2026-09-08** (2 zdrojů) North Korea and Russia open first road bridge linking both countries
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 18 dní · 38 záznamů
