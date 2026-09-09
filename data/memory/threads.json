@@ -5,42 +5,43 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "atacms",
-    "belgorod",
-    "germany",
-    "shootout",
-    "holding",
-    "peace",
-    "four",
     "nato",
-    "ukrainian",
-    "russia",
     "kremlin",
-    "norway",
-    "leipzig",
-    "izmail",
-    "putin",
-    "trump",
-    "wildberries",
-    "masha",
-    "several",
-    "bessent",
-    "kyiv",
-    "russian",
-    "overnight",
-    "burnham",
-    "bear",
-    "north",
-    "moscow",
-    "witkoff",
-    "back-to-back",
-    "korea",
+    "ukrainian",
     "kushner",
-    "korean",
-    "europe",
-    "ukraine",
+    "four",
+    "atacms",
+    "putin",
+    "back-to-back",
+    "belgorod",
     "zelenskyy",
-    "zelensky"
+    "bessent",
+    "shootout",
+    "burnham",
+    "wildberries",
+    "holding",
+    "ukraine",
+    "norway",
+    "germany",
+    "masha",
+    "russian",
+    "bear",
+    "europe",
+    "kyiv",
+    "izmail",
+    "overnight",
+    "witkoff",
+    "zelensky",
+    "moldova",
+    "several",
+    "moscow",
+    "peace",
+    "korea",
+    "russia",
+    "trump",
+    "leipzig",
+    "north",
+    "korean"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -89,7 +90,9 @@
     "00b8e99f2951",
     "1d20aa1d7fee",
     "8f2a6544ec60",
-    "1513a530e5ed"
+    "1513a530e5ed",
+    "54e80567fdca",
+    "425807e9a9d0"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-09",
@@ -620,6 +623,28 @@
      "links": [
       "https://www.dw.com/en/ukraine-russia-trade-drone-strikes-killing-6/a-79196814?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/09/09/trump-putin-us-russia-ukraine-war.html"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+     "sources": 2,
+     "score": 47,
+     "event_id": "54e80567fdca",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260909-france-24-report-reveals-russia-s-war-on-ukraine-s-books-and-cultural-identity"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Ukraine federation calls for Russian sanctions by FIA",
+     "sources": 2,
+     "score": 43,
+     "event_id": "425807e9a9d0",
+     "links": [
+      "https://www.bbc.co.uk/sport/formula1/articles/c5y7k2grx1lo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20260909-russian-drone-strike-near-ukraine-moldova-border-kills-at-least-two-as-ukraine-hits-oil-terminal"
      ]
     }
    ]
@@ -1906,6 +1931,89 @@
    ]
   },
   {
+   "id": "f92d737c76de",
+   "title": "Norway's King Harald dies aged 89",
+   "section": "world",
+   "entities": [
+    "king",
+    "norway",
+    "norway's",
+    "william",
+    "harald's",
+    "prince",
+    "viii",
+    "haakon",
+    "harald"
+   ],
+   "event_ids": [
+    "f92d737c76de",
+    "1dd516218cfb",
+    "0fc61c88acdb",
+    "5ef7d8508952",
+    "d62bb0f78418"
+   ],
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-09-09",
+   "timeline": [
+    {
+     "date": "2026-08-28",
+     "headline": "Norway's King Harald dies aged 89",
+     "sources": 6,
+     "score": 88,
+     "event_id": "f92d737c76de",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
+      "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Norway mourns King Harald as Haakon VIII ascends throne",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1dd516218cfb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/norway-mourns-king-harald-as-haakon-prepares-to-take-the-throne"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Norway holds its breath as King Harald's health deteriorates",
+     "sources": 2,
+     "score": 43,
+     "event_id": "0fc61c88acdb",
+     "links": [
+      "https://www.france24.com/en/video/20260827-norway-holds-its-breath-as-king-harald-s-health-deteriorates",
+      "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Prince William to attend King Harald's funeral in Norway",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5ef7d8508952",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Norway's King Harald V laid to rest in state funeral",
+     "sources": 2,
+     "score": 46,
+     "event_id": "d62bb0f78418",
+     "links": [
+      "https://www.dw.com/en/norway-s-king-harald-v-laid-to-rest-in-state-funeral/a-79199812?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/gallery/2026/9/9/photos-large-oslo-crowd-bids-farewell-to-norways-king-harald-v?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "356188b65378",
    "title": "Favourite Kane makes Ballon d'Or shortlist",
    "section": "sport",
@@ -2006,12 +2114,13 @@
    "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
    "section": "sport",
    "entities": [
-    "alcaraz",
     "shelton",
-    "open"
+    "open",
+    "alcaraz"
    ],
    "event_ids": [
-    "4a6aa833b2e4"
+    "4a6aa833b2e4",
+    "ea9278b907cb"
    ],
    "first_seen": "2026-09-09",
    "last_seen": "2026-09-09",
@@ -2026,6 +2135,17 @@
       "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/sport/2026/sep/09/ben-shelton-dethrones-carlos-alcaraz-five-set-thriller-latest-us-open-tennis-finish",
       "https://www.aljazeera.com/sports/2026/9/9/ben-shelton-shocks-carlos-alcaraz-in-five-sets-to-win-us-open-quarterfinal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Shelton reaches semis after beating Alcaraz in five-set epic",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ea9278b907cb",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/videos/c1mvp82m7dpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/sep/08/ben-shelton-v-carlos-alcaraz-us-open-2026-quarter-final-live-updates"
      ]
     }
    ]
@@ -4033,77 +4153,6 @@
       "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
       "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
       "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f92d737c76de",
-   "title": "Norway's King Harald dies aged 89",
-   "section": "world",
-   "entities": [
-    "haakon",
-    "king",
-    "norway",
-    "viii",
-    "william",
-    "prince",
-    "harald",
-    "harald's",
-    "norway's"
-   ],
-   "event_ids": [
-    "f92d737c76de",
-    "1dd516218cfb",
-    "0fc61c88acdb",
-    "5ef7d8508952"
-   ],
-   "first_seen": "2026-08-28",
-   "last_seen": "2026-09-06",
-   "timeline": [
-    {
-     "date": "2026-08-28",
-     "headline": "Norway's King Harald dies aged 89",
-     "sources": 6,
-     "score": 88,
-     "event_id": "f92d737c76de",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
-      "https://www.dw.com/en/norway-s-king-harald-dies-at-89/a-78524572?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Norway mourns King Harald as Haakon VIII ascends throne",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1dd516218cfb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/norway-mourns-king-harald-as-haakon-prepares-to-take-the-throne"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Norway holds its breath as King Harald's health deteriorates",
-     "sources": 2,
-     "score": 43,
-     "event_id": "0fc61c88acdb",
-     "links": [
-      "https://www.france24.com/en/video/20260827-norway-holds-its-breath-as-king-harald-s-health-deteriorates",
-      "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Prince William to attend King Harald's funeral in Norway",
-     "sources": 2,
-     "score": 45,
-     "event_id": "5ef7d8508952",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v"
      ]
     }
    ]
@@ -7593,5 +7642,5 @@
    ]
   }
  ],
- "updated": "2026-09-09T09:29:07+00:00"
+ "updated": "2026-09-09T12:36:22+00:00"
 }
