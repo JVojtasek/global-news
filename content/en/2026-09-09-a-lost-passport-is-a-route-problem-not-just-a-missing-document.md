@@ -1,47 +1,55 @@
 ---
-title: "A Lost Passport Is a Route Problem, Not Just a Missing Document"
-dek: "Replacing the booklet may be only the first step. The usable journey depends on cancellation, consular access, transit rules, visas and what an airline will accept."
-date: 2026-09-09
+title: A Lost Passport Is a Route Problem, Not Just a Missing Document
+dek: Replacing the booklet may be only the first step. The usable journey depends
+  on cancellation, consular access, transit rules, visas and what an airline will
+  accept.
+date: '2026-09-09'
 section: travel
 type: analysis
-format: ""
-series: ""
-status: draft
-confidence: 94
+format: ''
+series: ''
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: chatgpt-work
-event_id: ""
-image_query: "traveller checking emergency passport documents at an airport"
+event_id: ''
+image_query: traveller checking emergency passport documents at an airport
 sources:
-  - name: "US Department of State"
-    url: "https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html"
-    published: "2025-09-25"
-  - name: "UK Government"
-    url: "https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport"
-    published: ""
-  - name: "Your Europe"
-    url: "https://europa.eu/youreurope/citizens/travel/security-and-emergencies/consular-protection/index_en.htm"
-    published: ""
-  - name: "Government of Canada"
-    url: "https://travel.gc.ca/assistance/emergency-info/stolen-belongings"
-    published: "2025-09-25"
-  - name: "Australian Government Smartraveller"
-    url: "https://www.smartraveller.gov.au/our-role/passport-services"
-    published: "2026-08-18"
-qma_path: ""
+- name: US Department of State
+  url: https://travel.state.gov/en/international-travel/help-abroad/lost-stolen-passport.html
+  published: '2025-09-25'
+- name: UK Government
+  url: https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport
+  published: ''
+- name: Your Europe
+  url: https://europa.eu/youreurope/citizens/travel/security-and-emergencies/consular-protection/index_en.htm
+  published: ''
+- name: Government of Canada
+  url: https://travel.gc.ca/assistance/emergency-info/stolen-belongings
+  published: '2025-09-25'
+- name: Australian Government Smartraveller
+  url: https://www.smartraveller.gov.au/our-role/passport-services
+  published: '2026-08-18'
+qma_path: ''
 tickers: []
 quiz:
-  question: "A consulate issues an emergency document for a traveller's return. What remains to be checked?"
+  question: A consulate issues an emergency document for a traveller's return. What
+    remains to be checked?
   options:
-    - "Nothing; issuance guarantees boarding and transit everywhere."
-    - "Each destination and transit country's rules, the carrier's acceptance and any affected visas."
-    - "Only whether the traveller still has the original hotel booking."
+  - Nothing; issuance guarantees boarding and transit everywhere.
+  - Each destination and transit country's rules, the carrier's acceptance and any
+    affected visas.
+  - Only whether the traveller still has the original hotel booking.
   answer: 1
-  explanation: "Issuance establishes a document, not universal acceptance across the itinerary."
+  explanation: Issuance establishes a document, not universal acceptance across the
+    itinerary.
+lang: en
+depth: open
+slug: a-lost-passport-is-a-route-problem-not-just-a-missing-document
 ---
 
 ## BRIEFLY

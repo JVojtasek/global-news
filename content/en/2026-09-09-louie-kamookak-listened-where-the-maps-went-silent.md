@@ -1,47 +1,53 @@
 ---
-title: "Louie Kamookak Listened Where the Maps Went Silent"
-dek: "The Inuk historian did not solve the Franklin mystery with a single clue. He built a searchable geography from testimony, place names and patient comparison."
-date: 2026-09-09
+title: Louie Kamookak Listened Where the Maps Went Silent
+dek: The Inuk historian did not solve the Franklin mystery with a single clue. He
+  built a searchable geography from testimony, place names and patient comparison.
+date: '2026-09-09'
 section: mysteries
 type: analysis
-format: ""
-series: ""
-status: draft
-confidence: 93
+format: ''
+series: ''
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: chatgpt-work
-event_id: ""
-image_query: "Arctic shoreline map and sonar search for Franklin expedition wreck"
+event_id: ''
+image_query: Arctic shoreline map and sonar search for Franklin expedition wreck
 sources:
-  - name: "Parks Canada — Inuit Qaujimajatuqangit"
-    url: "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/inuit/qaujimajatuqangit"
-    published: "2024-06-27"
-  - name: "Parks Canada — Historic Sites and Monuments Board"
-    url: "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?i=87825&id=334"
-    published: ""
-  - name: "Nunatsiaq News"
-    url: "https://nunatsiaq.com/stories/article/after-165-years-inuit-knowledge-leads-to-franklins-wrecks/"
-    published: "2019-04-03"
-  - name: "Canadian Museum of History"
-    url: "https://www.historymuseum.ca/blog/inuit-knowledge-and-the-franklin-expedition-exhibition"
-    published: "2017-10-11"
-  - name: "Parks Canada — Wrecks of HMS Erebus and HMS Terror"
-    url: "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks"
-    published: "2025-06-10"
-qma_path: ""
+- name: Parks Canada — Inuit Qaujimajatuqangit
+  url: https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/inuit/qaujimajatuqangit
+  published: '2024-06-27'
+- name: Parks Canada — Historic Sites and Monuments Board
+  url: https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?i=87825&id=334
+  published: ''
+- name: Nunatsiaq News
+  url: https://nunatsiaq.com/stories/article/after-165-years-inuit-knowledge-leads-to-franklins-wrecks/
+  published: '2019-04-03'
+- name: Canadian Museum of History
+  url: https://www.historymuseum.ca/blog/inuit-knowledge-and-the-franklin-expedition-exhibition
+  published: '2017-10-11'
+- name: Parks Canada — Wrecks of HMS Erebus and HMS Terror
+  url: https://parks.canada.ca/lhn-nhs/nu/epaveswrecks
+  published: '2025-06-10'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What best describes how Inuit knowledge contributed to finding HMS Erebus?"
+  question: What best describes how Inuit knowledge contributed to finding HMS Erebus?
   options:
-    - "It replaced the need for archaeology and sonar."
-    - "It helped shape and redirect the search, while objects, sonar and fieldwork supplied other forms of verification."
-    - "It mattered only after the wreck had already been identified."
+  - It replaced the need for archaeology and sonar.
+  - It helped shape and redirect the search, while objects, sonar and fieldwork supplied
+    other forms of verification.
+  - It mattered only after the wreck had already been identified.
   answer: 1
-  explanation: "The discovery emerged from convergence between accumulated Inuit knowledge and technical and archaeological investigation."
+  explanation: The discovery emerged from convergence between accumulated Inuit knowledge
+    and technical and archaeological investigation.
+lang: en
+depth: open
+slug: louie-kamookak-listened-where-the-maps-went-silent
 ---
 
 ## BRIEFLY
