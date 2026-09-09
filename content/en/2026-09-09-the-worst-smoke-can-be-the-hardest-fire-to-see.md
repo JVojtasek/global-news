@@ -1,50 +1,56 @@
 ---
 slug: the-worst-smoke-can-be-the-hardest-fire-to-see
-title: "The Worst Smoke Can Be the Hardest Fire to See"
-dek: "Indonesia's fire emissions surged while schools closed across Sumatra and Borneo. The numbers only make sense when hectares, hotspots, smoke and underground peat are kept separate."
+title: The Worst Smoke Can Be the Hardest Fire to See
+dek: Indonesia's fire emissions surged while schools closed across Sumatra and Borneo.
+  The numbers only make sense when hectares, hotspots, smoke and underground peat
+  are kept separate.
 section: science
 type: analysis
 depth: open
 lang: en
-date: 2026-09-09
-status: draft
-confidence: 91
+date: '2026-09-09'
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 automation_role: intraday
 edition_slot: 0
-generator: "chatgpt-work"
+generator: chatgpt-work
 format: roundtable
-series: "The Newsroom Table"
-event_id: "copernicus-gfas-indonesia-fire-emissions-2026-09-01-07"
-image_query: "satellite view of peatland wildfire smoke over Borneo and Sumatra"
+series: The Newsroom Table
+event_id: copernicus-gfas-indonesia-fire-emissions-2026-09-01-07
+image_query: satellite view of peatland wildfire smoke over Borneo and Sumatra
 sources:
-  - name: "Reuters"
-    url: "https://www.reuters.com/business/environment/indonesian-wildfire-emissions-surge-worlds-highest-data-shows-2026-09-09/"
-    published: "2026-09-09"
-  - name: "Associated Press"
-    url: "https://apnews.com/article/indonesia-forest-fires-south-sumatra-haze-16095c9a33ff1653f74a3445645c8b8a"
-    published: "2026-09-09"
-  - name: "Copernicus Atmosphere Monitoring Service"
-    url: "https://atmosphere.copernicus.eu/copernicus-indonesias-seasonal-fires-intensify-boreal-wildfire-smoke-impacts-northern-hemisphere"
-    published: "2026-08-21"
-  - name: "NASA Earth Observatory"
-    url: "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/"
-    published: "2026-09-03"
-  - name: "Al Jazeera"
-    url: "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo"
-    published: "2026-09-01"
-qma_path: ""
+- name: Reuters
+  url: https://www.reuters.com/business/environment/indonesian-wildfire-emissions-surge-worlds-highest-data-shows-2026-09-09/
+  published: '2026-09-09'
+- name: Associated Press
+  url: https://apnews.com/article/indonesia-forest-fires-south-sumatra-haze-16095c9a33ff1653f74a3445645c8b8a
+  published: '2026-09-09'
+- name: Copernicus Atmosphere Monitoring Service
+  url: https://atmosphere.copernicus.eu/copernicus-indonesias-seasonal-fires-intensify-boreal-wildfire-smoke-impacts-northern-hemisphere
+  published: '2026-08-21'
+- name: NASA Earth Observatory
+  url: https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia/
+  published: '2026-09-03'
+- name: Al Jazeera
+  url: https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo
+  published: '2026-09-01'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Why can hotspot counts understate the severity of Indonesia's peat-fire crisis?"
+  question: Why can hotspot counts understate the severity of Indonesia's peat-fire
+    crisis?
   options:
-    - "Satellites count only fires that have already been extinguished."
-    - "Thick smoke, clouds, forest cover and underground low-temperature burning can hide fires from some satellite sensors."
-    - "Hotspot systems measure school attendance rather than heat."
+  - Satellites count only fires that have already been extinguished.
+  - Thick smoke, clouds, forest cover and underground low-temperature burning can
+    hide fires from some satellite sensors.
+  - Hotspot systems measure school attendance rather than heat.
   answer: 1
-  explanation: "NASA and Copernicus describe detection limits created by smoke, clouds, forest cover and peat burning below the surface."
+  explanation: NASA and Copernicus describe detection limits created by smoke, clouds,
+    forest cover and peat burning below the surface.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY
