@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-08
+# ANALYTICKÉ ZADÁNÍ — 2026-09-09
 
-Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **44**.
+Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
@@ -37,9 +37,8 @@ Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **44**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 21 dní · 40 záznamů
+- rubrika `sport` · sledováno 22 dní · 41 záznamů
 - časová osa:
-  - **2026-09-03** (3 zdrojů) The Premier League premium is £20m - and that worries European clubs
   - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
   - **2026-09-04** (2 zdrojů) Ipswich Town v Liverpool: Premier League – live
   - **2026-09-04** (3 zdrojů) Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
@@ -49,11 +48,11 @@ Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-05** (2 zdrojů) Aston Villa still winless after stalemate at Hull
   - **2026-09-08** (2 zdrojů) Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
   - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
+  - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 26 dní · 33 záznamů
+- rubrika `world` · sledováno 27 dní · 34 záznamů
 - časová osa:
-  - **2026-09-03** (2 zdrojů) Palestinian teens killed during settler attack on West Bank village, officials say
   - **2026-09-04** (2 zdrojů) ‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza
   - **2026-09-04** (2 zdrojů) Israel's West Bank camp displacements could be crime against humanity, UN says
   - **2026-09-04** (2 zdrojů) 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC
@@ -63,6 +62,7 @@ Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-07** (2 zdrojů) Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack
   - **2026-09-08** (7 zdrojů) In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
   - **2026-09-08** (3 zdrojů) UK announces sanctions on West Bank settlements prompting furious Israeli response
+  - **2026-09-09** (2 zdrojů) Where is Israel's proposed West Bank settlement the UK opposes?
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 25 dní · 17 záznamů
