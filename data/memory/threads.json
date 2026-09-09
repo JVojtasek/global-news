@@ -654,46 +654,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "it's",
-    "matildas",
-    "isak",
-    "arsenal",
-    "life",
-    "sunderland",
-    "golden",
-    "cherki",
     "pedro's",
-    "mccabe",
-    "brugge",
-    "club",
-    "hull",
-    "manchester",
-    "sports",
-    "joao",
-    "aston",
-    "premier",
-    "salah",
     "boot",
-    "european",
-    "liverpool",
-    "league",
-    "carrick",
-    "rwandan",
-    "a-league",
-    "haaland",
-    "gakpo",
-    "phil",
-    "michael",
-    "champions",
-    "city",
     "scherpen",
-    "villa",
+    "sunderland",
     "iraola",
     "ipswich",
-    "napoli",
+    "club",
+    "european",
+    "isak",
+    "forest",
+    "carrick",
+    "golden",
+    "rwandan",
+    "brugge",
+    "aston",
+    "villa",
+    "arsenal",
+    "a-league",
+    "matildas",
+    "liverpool",
+    "hull",
+    "life",
+    "city",
     "chelsea's",
     "tzolis",
-    "forest"
+    "haaland",
+    "mccabe",
+    "premier",
+    "phil",
+    "napoli",
+    "joao",
+    "gakpo",
+    "manchester",
+    "it's",
+    "salah",
+    "champions",
+    "cherki",
+    "michael",
+    "league",
+    "sports"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -737,7 +737,8 @@
     "7d15ece97d42",
     "088768f3341d",
     "0120f35abded",
-    "33a46b0b933c"
+    "33a46b0b933c",
+    "1be024e4d355"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-09",
@@ -1228,6 +1229,18 @@
       "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford"
      ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Napoli v Arsenal: Champions League – live",
+     "sources": 2,
+     "score": 52,
+     "event_id": "1be024e4d355",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1236,46 +1249,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "west",
-    "us-led",
-    "palestinian",
-    "netanyahu",
-    "ben-gvir",
-    "israeli",
-    "gitai",
     "multiple",
-    "far-right",
-    "authority",
-    "colombia",
-    "italy",
+    "palestinian",
     "israel's",
-    "global",
-    "news",
     "former",
-    "many",
-    "france",
-    "week",
-    "palestinians",
-    "american",
-    "hamas",
-    "burnham",
-    "parton",
-    "germany",
-    "gaza",
     "palestine",
+    "france",
+    "hamas",
     "rajab",
-    "labour",
-    "dolly",
-    "city",
+    "italy",
     "canada",
-    "jenin",
     "bank",
-    "christian",
-    "inside",
-    "hind",
-    "dutch",
+    "far-right",
     "amos",
-    "israel"
+    "labour",
+    "news",
+    "gaza",
+    "wednesday",
+    "dutch",
+    "global",
+    "city",
+    "dolly",
+    "hind",
+    "colombia",
+    "inside",
+    "west",
+    "ben-gvir",
+    "parton",
+    "american",
+    "us-led",
+    "jenin",
+    "israeli",
+    "christian",
+    "palestinians",
+    "burnham",
+    "gitai",
+    "week",
+    "israel",
+    "germany",
+    "many",
+    "authority"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -1311,7 +1324,8 @@
     "1ed9a755881d",
     "af2c3bcc90b1",
     "832c384b6768",
-    "0a098c22936e"
+    "0a098c22936e",
+    "8f711338f49b"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-09",
@@ -1699,6 +1713,17 @@
       "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/tv-shows/a-propos/20260908-uk-france-canada-sanction-israeli-west-bank-goods"
      ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8f711338f49b",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
+      "https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1939,6 +1964,374 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "trump",
+    "houthis",
+    "board",
+    "hamas",
+    "peace",
+    "israeli",
+    "arabia",
+    "jared",
+    "kushner",
+    "middle",
+    "british",
+    "gaza",
+    "arabian",
+    "east",
+    "israel",
+    "trump's",
+    "jerusalem",
+    "saudi",
+    "netanyahu",
+    "lebanon"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254",
+    "06df00086e0c",
+    "2ab296b93709",
+    "4038c9b998f5",
+    "9824ab06ba40",
+    "c2a40c5625c5",
+    "c72143066677",
+    "c1254dd22bde",
+    "c9117ee7b07b"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-09",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "sources": 7,
+     "score": 83,
+     "event_id": "6e0f12b732f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3677e9c2454f",
+     "links": [
+      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "sources": 3,
+     "score": 56,
+     "event_id": "2d4b21839f92",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "sources": 2,
+     "score": 44,
+     "event_id": "25ce347a430e",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e3d7c0ac2a93",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a3f7b5bea254",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "06df00086e0c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2ab296b93709",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Middle East: Israeli strikes kill several in Lebanon",
+     "sources": 3,
+     "score": 51,
+     "event_id": "4038c9b998f5",
+     "links": [
+      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9824ab06ba40",
+     "links": [
+      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c2a40c5625c5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+     "sources": 3,
+     "score": 61,
+     "event_id": "c72143066677",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
+      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c1254dd22bde",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
+      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Oil prices rise as Middle East conflict escalates",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c9117ee7b07b",
+     "links": [
+      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "81515d5a1191",
+   "title": "Robinson and Tongue guide England to strong start against Pakistan",
+   "section": "sport",
+   "entities": [
+    "test",
+    "tongue",
+    "pietersen",
+    "england",
+    "brook",
+    "robinson",
+    "headingley",
+    "root",
+    "fleming",
+    "lord's",
+    "abbas",
+    "lawrence",
+    "pakistan"
+   ],
+   "event_ids": [
+    "81515d5a1191",
+    "c2083dc9b402",
+    "01a37345b72e",
+    "22dc48990b22",
+    "251989e37557",
+    "0d4f9b3b0b25",
+    "1af8b64037cb",
+    "3b069fa24056",
+    "eec496907f97",
+    "a700a323139e",
+    "a2a7723a9b14"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-09-09",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
+     "sources": 2,
+     "score": 55,
+     "event_id": "81515d5a1191",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Tongue & Robinson cut Headingley ball in half",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2083dc9b402",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Brook shines as England take control against Pakistan",
+     "sources": 2,
+     "score": 43,
+     "event_id": "01a37345b72e",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "England v Pakistan: first Test, day three – live",
+     "sources": 2,
+     "score": 49,
+     "event_id": "22dc48990b22",
+     "links": [
+      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
+      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
+     "sources": 2,
+     "score": 43,
+     "event_id": "251989e37557",
+     "links": [
+      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
+      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Abbas gives Pakistan edge with four wickets against England in second Test",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0d4f9b3b0b25",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-first-day-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "England humble poor Pakistan to confirm series win at Lord's",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1af8b64037cb",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/clyqnkxq87po?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/30/joe-root-england-pakistan-lords-test-series"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Lawrence helps England build big lead on rain-affected day at Lord's",
+     "sources": 1,
+     "score": 41,
+     "event_id": "3b069fa24056",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Pakistan investigate 'discipline and conduct' on England tour",
+     "sources": 2,
+     "score": 41,
+     "event_id": "eec496907f97",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/07/pakistan-launch-investigation-player-conduct-england-tour-cricket"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "England different from when Pietersen left - Root",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a700a323139e",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/08/joe-root-backs-kevin-pietersen-england-cricket-players"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "England humble hapless Pakistan on opening day of final Test",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a2a7723a9b14",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/clyer832nx8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/cj06yv2n8mno?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -3178,349 +3571,6 @@
      "links": [
       "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
       "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "israeli",
-    "netanyahu",
-    "board",
-    "peace",
-    "kushner",
-    "saudi",
-    "gaza",
-    "israel",
-    "arabia",
-    "east",
-    "lebanon",
-    "jerusalem",
-    "trump",
-    "arabian",
-    "houthis",
-    "jared",
-    "british",
-    "hamas",
-    "middle",
-    "trump's"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93",
-    "a3f7b5bea254",
-    "06df00086e0c",
-    "2ab296b93709",
-    "4038c9b998f5",
-    "9824ab06ba40",
-    "c2a40c5625c5",
-    "c72143066677",
-    "c1254dd22bde"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-08",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
-     "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "sources": 2,
-     "score": 44,
-     "event_id": "25ce347a430e",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a3f7b5bea254",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "06df00086e0c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2ab296b93709",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Middle East: Israeli strikes kill several in Lebanon",
-     "sources": 3,
-     "score": 51,
-     "event_id": "4038c9b998f5",
-     "links": [
-      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9824ab06ba40",
-     "links": [
-      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c2a40c5625c5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-     "sources": 3,
-     "score": 61,
-     "event_id": "c72143066677",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
-      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
-     "sources": 2,
-     "score": 40,
-     "event_id": "c1254dd22bde",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
-      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "81515d5a1191",
-   "title": "Robinson and Tongue guide England to strong start against Pakistan",
-   "section": "sport",
-   "entities": [
-    "pakistan",
-    "abbas",
-    "lord's",
-    "root",
-    "test",
-    "lawrence",
-    "tongue",
-    "pietersen",
-    "fleming",
-    "brook",
-    "england",
-    "robinson",
-    "headingley"
-   ],
-   "event_ids": [
-    "81515d5a1191",
-    "c2083dc9b402",
-    "01a37345b72e",
-    "22dc48990b22",
-    "251989e37557",
-    "0d4f9b3b0b25",
-    "1af8b64037cb",
-    "3b069fa24056",
-    "eec496907f97",
-    "a700a323139e"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-09-08",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
-     "sources": 2,
-     "score": 55,
-     "event_id": "81515d5a1191",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Tongue & Robinson cut Headingley ball in half",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c2083dc9b402",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Brook shines as England take control against Pakistan",
-     "sources": 2,
-     "score": 43,
-     "event_id": "01a37345b72e",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "England v Pakistan: first Test, day three – live",
-     "sources": 2,
-     "score": 49,
-     "event_id": "22dc48990b22",
-     "links": [
-      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
-      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
-     "sources": 2,
-     "score": 43,
-     "event_id": "251989e37557",
-     "links": [
-      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
-      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Abbas gives Pakistan edge with four wickets against England in second Test",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0d4f9b3b0b25",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-first-day-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "England humble poor Pakistan to confirm series win at Lord's",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1af8b64037cb",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/clyqnkxq87po?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/30/joe-root-england-pakistan-lords-test-series"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Lawrence helps England build big lead on rain-affected day at Lord's",
-     "sources": 1,
-     "score": 41,
-     "event_id": "3b069fa24056",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Pakistan investigate 'discipline and conduct' on England tour",
-     "sources": 2,
-     "score": 41,
-     "event_id": "eec496907f97",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/07/pakistan-launch-investigation-player-conduct-england-tour-cricket"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "England different from when Pietersen left - Root",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a700a323139e",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/08/joe-root-backs-kevin-pietersen-england-cricket-players"
      ]
     }
    ]
@@ -7655,5 +7705,5 @@
    ]
   }
  ],
- "updated": "2026-09-09T15:25:50+00:00"
+ "updated": "2026-09-09T18:30:30+00:00"
 }

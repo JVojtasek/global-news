@@ -37,9 +37,8 @@ Paměť obsahuje **88 vláken**. Aktivních za posledních 14 dní: **47**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 22 dní · 42 záznamů
+- rubrika `sport` · sledováno 22 dní · 43 záznamů
 - časová osa:
-  - **2026-09-04** (2 zdrojů) Ipswich Town v Liverpool: Premier League – live
   - **2026-09-04** (3 zdrojů) Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
   - **2026-09-05** (2 zdrojů) Isak finally arrives as Gakpo proves value to Liverpool
   - **2026-09-05** (2 zdrojů) Hull City v Aston Villa: Premier League – live
@@ -49,11 +48,11 @@ Paměť obsahuje **88 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
   - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
   - **2026-09-09** (3 zdrojů) The Rwandan eyeing Champions League history against Man Utd
+  - **2026-09-09** (2 zdrojů) Napoli v Arsenal: Champions League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 27 dní · 34 záznamů
+- rubrika `world` · sledováno 27 dní · 35 záznamů
 - časová osa:
-  - **2026-09-04** (2 zdrojů) ‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza
   - **2026-09-04** (2 zdrojů) Israel's West Bank camp displacements could be crime against humanity, UN says
   - **2026-09-04** (2 zdrojů) 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC
   - **2026-09-05** (2 zdrojů) US ambassador to Israel visits Palestinian town hit by West Bank settler violence
@@ -63,6 +62,7 @@ Paměť obsahuje **88 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-08** (7 zdrojů) In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
   - **2026-09-08** (3 zdrojů) UK announces sanctions on West Bank settlements prompting furious Israeli response
   - **2026-09-09** (2 zdrojů) Where is Israel's proposed West Bank settlement the UK opposes?
+  - **2026-09-09** (2 zdrojů) Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements
 
 ### Trump signs order to rename Lake Ontario as Lake America
 - rubrika `world` · sledováno 13 dní · 17 záznamů
