@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-09
 
-Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -64,6 +64,20 @@ Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-08** (3 zdrojů) UK announces sanctions on West Bank settlements prompting furious Israeli response
   - **2026-09-09** (2 zdrojů) Where is Israel's proposed West Bank settlement the UK opposes?
 
+### Trump signs order to rename Lake Ontario as Lake America
+- rubrika `world` · sledováno 13 dní · 17 záznamů
+- časová osa:
+  - **2026-09-01** (2 zdrojů) Apple Maps follows Google in renaming Lake Ontario
+  - **2026-09-02** (5 zdrojů) Apple Maps changes Lake Ontario to Lake America after Trump order
+  - **2026-09-02** (2 zdrojů) Trump’s ridiculous bullying of Canada is backfiring | Robert Reich
+  - **2026-09-02** (2 zdrojů) Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order
+  - **2026-09-07** (2 zdrojů) Trump threatens to block Canada’s Bombardier sales unless planes made in US
+  - **2026-09-08** (2 zdrojů) Trump threatens to stop sale of Canadian Bombardier jets in US
+  - **2026-09-08** (2 zdrojů) Trump threatens to block Canada's Bombardier planes from US market
+  - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
+  - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones
+  - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
+
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 25 dní · 17 záznamů
 - časová osa:
@@ -77,17 +91,3 @@ Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-03** (5 zdrojů) Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
   - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
   - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims
-
-### Trump signs order to rename Lake Ontario as Lake America
-- rubrika `world` · sledováno 12 dní · 16 záznamů
-- časová osa:
-  - **2026-09-01** (2 zdrojů) MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order
-  - **2026-09-01** (2 zdrojů) Apple Maps follows Google in renaming Lake Ontario
-  - **2026-09-02** (5 zdrojů) Apple Maps changes Lake Ontario to Lake America after Trump order
-  - **2026-09-02** (2 zdrojů) Trump’s ridiculous bullying of Canada is backfiring | Robert Reich
-  - **2026-09-02** (2 zdrojů) Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order
-  - **2026-09-07** (2 zdrojů) Trump threatens to block Canada’s Bombardier sales unless planes made in US
-  - **2026-09-08** (2 zdrojů) Trump threatens to stop sale of Canadian Bombardier jets in US
-  - **2026-09-08** (2 zdrojů) Trump threatens to block Canada's Bombardier planes from US market
-  - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
-  - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones
