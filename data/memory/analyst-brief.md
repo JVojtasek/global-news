@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-09
 
-Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **88 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-08** (2 zdrojů) France, South Korea pledge 1 billion euros to support cinema amid AI threat
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 28 dní · 46 záznamů
+- rubrika `world` · sledováno 29 dní · 47 záznamů
 - časová osa:
-  - **2026-09-04** (3 zdrojů) Russia strikes Ukraine intelligence HQ in ‘major escalation’
   - **2026-09-05** (2 zdrojů) Trump sends envoys to Russia, Ukraine with new peace plan
   - **2026-09-05** (5 zdrojů) US envoys arrive in Moscow ahead of Ukraine talks
   - **2026-09-06** (2 zdrojů) Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
@@ -33,6 +32,7 @@ Paměť obsahuje **87 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-08** (2 zdrojů) Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
   - **2026-09-08** (2 zdrojů) Trump tells Putin he wants swift end to Ukraine war, Kremlin says
   - **2026-09-08** (2 zdrojů) US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
+  - **2026-09-09** (2 zdrojů) Ukraine, Russia trade drone strikes, killing 6
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
