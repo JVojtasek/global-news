@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "slug": "how-do-you-ask-for-what-you-need",
+  "date": "2026-09-09",
+  "category": "relationships",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "How do you ask for what you need?", "cs": "Jak si říkáte o to, co potřebujete?"},
+    "dek": {"en": "Eight everyday conversations notice whether you first make the request concrete, create mutual understanding, choose the moment or protect a limit.", "cs": "Osm běžných rozhovorů ukáže, zda nejdřív zpřesníte žádost, vytváříte vzájemné porozumění, volíte vhodný okamžik, nebo chráníte hranici."},
+    "intro": {"en": "Choose the move you would genuinely make first. Effective requests often use all four capacities, and context, power and safety can change what is wise.", "cs": "Vyberte krok, který byste skutečně udělali jako první. Účinné žádosti často využívají všechny čtyři schopnosti a vhodný postup může měnit kontext, moc i bezpečí."},
+    "disclaimer": {"en": "This is an original reflective self-check informed by public guidance and research on assertiveness, active listening, responsiveness, timing and boundaries. It does not reproduce a validated or proprietary instrument, diagnose a person or relationship, predict harm or collect your answers. In coercive, threatening or unsafe situations, ordinary communication advice may not fit; use trusted local support or emergency services as appropriate.", "cs": "Jde o původní reflektivní sebehodnocení inspirované veřejnými doporučeními a výzkumem asertivity, aktivního naslouchání, vnímavosti, načasování a hranic. Nekopíruje validovaný ani proprietární nástroj, nediagnostikuje člověka či vztah, nepředpovídá újmu a neukládá odpovědi. V nátlakové, výhrůžné či nebezpečné situaci nemusí běžné komunikační rady platit; podle okolností využijte důvěryhodnou místní pomoc nebo tísňové služby."}
+  },
+  "dimensions": [
+    {"id": "clarify", "label": {"en": "Make it concrete", "cs": "Zpřesnit žádost"}, "why": {"en": "You often help a conversation by naming the observable situation and a specific, doable request.", "cs": "Rozhovoru často pomáháte tím, že pojmenujete pozorovatelnou situaci a konkrétní splnitelnou žádost."}, "action": {"en": "Replace one broad complaint with what happened, what you need and one realistic next step.", "cs": "Nahraďte jednu obecnou výtku tím, co se stalo, co potřebujete a jaký je jeden realistický další krok."}},
+    {"id": "listen", "label": {"en": "Build understanding", "cs": "Vytvořit porozumění"}, "why": {"en": "You often seek a response that leaves room for the other person's meaning, constraints and questions.", "cs": "Často hledáte odpověď, která nechává prostor pro význam, omezení a otázky druhého člověka."}, "action": {"en": "After making the request, ask what the other person heard and what makes it easy or difficult.", "cs": "Po vyslovení žádosti se zeptejte, co druhý člověk slyšel a co mu ji usnadňuje nebo ztěžuje."}},
+    {"id": "timing", "label": {"en": "Choose the moment", "cs": "Zvolit okamžik"}, "why": {"en": "You often protect the conversation by noticing readiness, pressure and whether a pause would improve attention.", "cs": "Rozhovor často chráníte tím, že vnímáte připravenost, tlak a zda by pozornost nezlepšila pauza."}, "action": {"en": "Name a definite time to return to the issue so that a pause does not become avoidance.", "cs": "Určete konkrétní čas návratu k tématu, aby se z pauzy nestalo vyhýbání."}},
+    {"id": "boundary", "label": {"en": "Hold a clear limit", "cs": "Držet jasnou hranici"}, "why": {"en": "You often distinguish a negotiable preference from a limit you must state and follow through on.", "cs": "Často rozlišujete vyjednatelnou preferenci od hranice, kterou musíte vyslovit a dodržet."}, "action": {"en": "State the limit in plain language and name the action you control if it is not respected.", "cs": "Řekněte hranici prostě a pojmenujte krok, který máte pod kontrolou, nebude-li respektována."}}
+  ],
+  "questions": [
+    {
+      "id": "quiet-evening",
+      "text": {"en": "You need more quiet during a shared evening at home. What do you do first?", "cs": "Potřebujete během společného večera doma více klidu. Co uděláte jako první?"},
+      "options": [
+        {"label": {"en": "Ask for headphones after 9 p.m. instead of saying the room is always noisy", "cs": "Požádám o sluchátka po 21. hodině místo tvrzení, že je v místnosti pořád hluk"}, "scores": {"clarify": 3, "listen": 1, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Explain the need, then ask what the other person needs from the evening", "cs": "Vysvětlím svou potřebu a pak se zeptám, co od večera potřebuje druhý"}, "scores": {"clarify": 1, "listen": 3, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Wait until neither of us is tired and agree on a time to talk", "cs": "Počkám, až ani jeden nebudeme unavení, a dohodnu čas rozhovoru"}, "scores": {"clarify": 0, "listen": 1, "timing": 3, "boundary": 0}},
+        {"label": {"en": "Say that I will use another room when the agreed quiet period is not possible", "cs": "Řeknu, že využiji jinou místnost, když dohodnutý klid nebude možný"}, "scores": {"clarify": 1, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    },
+    {
+      "id": "late-messages",
+      "text": {"en": "A friend often sends non-urgent messages late at night and expects quick replies. Your first move is to…", "cs": "Přítel často posílá neurgentní zprávy pozdě v noci a čeká rychlou odpověď. Váš první krok je…"},
+      "options": [
+        {"label": {"en": "Say which hours I usually answer and what counts as urgent", "cs": "Řeknu, v jakých hodinách obvykle odpovídám a co považuji za naléhavé"}, "scores": {"clarify": 3, "listen": 1, "timing": 0, "boundary": 1}},
+        {"label": {"en": "Ask what a delayed reply means to them before proposing a routine", "cs": "Zeptám se, co pro něj znamená pozdní odpověď, než navrhnu režim"}, "scores": {"clarify": 0, "listen": 3, "timing": 1, "boundary": 0}},
+        {"label": {"en": "Raise it during a calm daytime conversation, not in the midnight thread", "cs": "Otevřu téma v klidném rozhovoru přes den, ne v půlnoční konverzaci"}, "scores": {"clarify": 0, "listen": 1, "timing": 3, "boundary": 0}},
+        {"label": {"en": "Turn off notifications and explain that I will reply the next day", "cs": "Vypnu oznámení a vysvětlím, že odpovím další den"}, "scores": {"clarify": 1, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    },
+    {
+      "id": "shared-task",
+      "text": {"en": "A shared household task keeps being missed. How do you begin?", "cs": "Společný domácí úkol se opakovaně neudělá. Jak začnete?"},
+      "options": [
+        {"label": {"en": "Describe the missed task and ask for a named person and day", "cs": "Popíšu nesplněný úkol a požádám o určení člověka a dne"}, "scores": {"clarify": 3, "listen": 1, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Ask how the current arrangement looks from their side", "cs": "Zeptám se, jak současné uspořádání vypadá z jejich strany"}, "scores": {"clarify": 0, "listen": 3, "timing": 1, "boundary": 0}},
+        {"label": {"en": "Choose a short weekly check-in rather than arguing when it goes wrong", "cs": "Zvolím krátkou týdenní domluvu místo hádky ve chvíli, kdy se úkol nesplní"}, "scores": {"clarify": 1, "listen": 0, "timing": 3, "boundary": 0}},
+        {"label": {"en": "State which extra tasks I can no longer absorb if it remains undone", "cs": "Řeknu, které další úkoly už nemohu přebírat, pokud tento zůstane neudělaný"}, "scores": {"clarify": 1, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    },
+    {
+      "id": "changed-plan",
+      "text": {"en": "Someone changes a joint plan without checking with you. What most naturally comes first?", "cs": "Někdo změní společný plán bez domluvy s vámi. Co přirozeně přijde jako první?"},
+      "options": [
+        {"label": {"en": "Name the change and ask that future changes be confirmed first", "cs": "Pojmenuji změnu a požádám, aby se příště nejdřív potvrdila"}, "scores": {"clarify": 3, "listen": 1, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Check what led them to think the change would work", "cs": "Zjistím, proč si mysleli, že změna bude fungovat"}, "scores": {"clarify": 0, "listen": 3, "timing": 1, "boundary": 0}},
+        {"label": {"en": "Finish the urgent logistics, then set a calm time to discuss the pattern", "cs": "Vyřeším naléhavou logistiku a pak určím klidný čas pro rozhovor o opakujícím se vzorci"}, "scores": {"clarify": 0, "listen": 1, "timing": 3, "boundary": 0}},
+        {"label": {"en": "Say I cannot take responsibility for costs created by unagreed changes", "cs": "Řeknu, že nemohu nést náklady vzniklé změnami bez dohody"}, "scores": {"clarify": 1, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    },
+    {
+      "id": "need-support",
+      "text": {"en": "You want emotional support after a difficult day. How do you make the request?", "cs": "Po náročném dni chcete emoční podporu. Jak o ni požádáte?"},
+      "options": [
+        {"label": {"en": "Ask for ten minutes of listening without advice", "cs": "Požádám o deset minut naslouchání bez rad"}, "scores": {"clarify": 3, "listen": 1, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Say what happened and ask whether they have capacity to listen", "cs": "Řeknu, co se stalo, a zeptám se, zda mají prostor naslouchat"}, "scores": {"clarify": 1, "listen": 3, "timing": 1, "boundary": 0}},
+        {"label": {"en": "Ask when they could give the conversation their attention", "cs": "Zeptám se, kdy by rozhovoru mohli věnovat pozornost"}, "scores": {"clarify": 1, "listen": 0, "timing": 3, "boundary": 0}},
+        {"label": {"en": "Say that dismissive jokes will end the conversation for me", "cs": "Řeknu, že shazující vtipy pro mě rozhovor ukončí"}, "scores": {"clarify": 0, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    },
+    {
+      "id": "work-interruption",
+      "text": {"en": "A colleague repeatedly interrupts your focused work for questions. Your first response is to…", "cs": "Kolega opakovaně přerušuje vaši soustředěnou práci kvůli otázkám. Vaše první reakce je…"},
+      "options": [
+        {"label": {"en": "Propose a shared question list and two specific check-in times", "cs": "Navrhnu společný seznam otázek a dva konkrétní časy pro konzultaci"}, "scores": {"clarify": 3, "listen": 0, "timing": 1, "boundary": 1}},
+        {"label": {"en": "Ask which questions cannot wait and what support is missing", "cs": "Zeptám se, které otázky nemohou počkat a jaká podpora chybí"}, "scores": {"clarify": 1, "listen": 3, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Arrange the conversation before the next focus block", "cs": "Domluvím rozhovor před dalším blokem soustředěné práce"}, "scores": {"clarify": 0, "listen": 1, "timing": 3, "boundary": 0}},
+        {"label": {"en": "Block focus time and say I will not respond during that window", "cs": "Zablokuji si čas na soustředění a řeknu, že v tomto okně nebudu odpovídat"}, "scores": {"clarify": 1, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    },
+    {
+      "id": "loan-request",
+      "text": {"en": "A relative asks to borrow something valuable. What helps you answer?", "cs": "Příbuzný si chce půjčit něco cenného. Co vám pomůže odpovědět?"},
+      "options": [
+        {"label": {"en": "Ask what it is for, how long and what care it needs", "cs": "Zeptám se, k čemu to je, na jak dlouho a jakou péči věc potřebuje"}, "scores": {"clarify": 3, "listen": 1, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Hear why it matters to them before offering an alternative", "cs": "Vyslechnu, proč je to pro ně důležité, než nabídnu alternativu"}, "scores": {"clarify": 0, "listen": 3, "timing": 1, "boundary": 0}},
+        {"label": {"en": "Ask for time to check my plans instead of answering under pressure", "cs": "Požádám o čas na kontrolu svých plánů místo odpovědi pod tlakem"}, "scores": {"clarify": 0, "listen": 0, "timing": 3, "boundary": 1}},
+        {"label": {"en": "Say plainly if this is something I do not lend", "cs": "Řeknu jasně, pokud jde o věc, kterou nepůjčuji"}, "scores": {"clarify": 1, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    },
+    {
+      "id": "conversation-heats",
+      "text": {"en": "A request turns into a heated disagreement. What is your most useful next move?", "cs": "Žádost se změní ve vyhrocený spor. Jaký je váš nejužitečnější další krok?"},
+      "options": [
+        {"label": {"en": "Restate the one decision we are actually trying to make", "cs": "Znovu pojmenuji jediné rozhodnutí, které se skutečně snažíme udělat"}, "scores": {"clarify": 3, "listen": 1, "timing": 0, "boundary": 0}},
+        {"label": {"en": "Summarise their concern and ask whether I understood it", "cs": "Shrnu jejich obavu a zeptám se, zda jsem jí porozuměl"}, "scores": {"clarify": 0, "listen": 3, "timing": 1, "boundary": 0}},
+        {"label": {"en": "Call a pause and name exactly when we will return", "cs": "Vyhlásím pauzu a přesně určím, kdy se k tématu vrátíme"}, "scores": {"clarify": 0, "listen": 1, "timing": 3, "boundary": 1}},
+        {"label": {"en": "End the exchange if insults or threats continue", "cs": "Ukončím výměnu, pokud budou pokračovat urážky nebo výhrůžky"}, "scores": {"clarify": 0, "listen": 0, "timing": 0, "boundary": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "clarify": {"title": {"en": "You often begin by making the request concrete", "cs": "Často začínáte zpřesněním žádosti"}, "summary": {"en": "You tend to turn unease into an observable situation and a doable next step. This is a current starting preference, not a fixed communication type.", "cs": "Máte sklon měnit neurčitý pocit v pozorovatelnou situaci a splnitelný další krok. Jde o současnou výchozí preferenci, ne pevný komunikační typ."}, "strength": {"en": "Specific requests are easier to understand, answer and revisit than global complaints.", "cs": "Konkrétním žádostem se snáz rozumí, odpovídá a vrací než obecným výtkám."}, "watch": {"en": "Precision can become one-sided if the other person's constraints and interpretation never enter the conversation.", "cs": "Přesnost může být jednostranná, pokud se do rozhovoru nedostanou omezení a pohled druhého."}, "action": {"en": "Add one question after your next clear request: “How does that land for you?”", "cs": "Po příští jasné žádosti přidejte jednu otázku: „Jak to na tebe působí?“"}},
+    "listen": {"title": {"en": "You often begin by building mutual understanding", "cs": "Často začínáte vytvářením vzájemného porozumění"}, "summary": {"en": "You tend to make space for another person's meaning before pressing for a solution. Listening supports connection, but it need not replace your own request.", "cs": "Máte sklon dát prostor významu druhého člověka dřív, než tlačíte na řešení. Naslouchání podporuje spojení, ale nemusí nahrazovat vaši vlastní žádost."}, "strength": {"en": "Checking what you heard can reveal constraints and reduce avoidable misinterpretation.", "cs": "Ověření toho, co jste slyšeli, může odhalit omezení a snížit zbytečná nedorozumění."}, "watch": {"en": "Understanding everyone else can postpone saying what you actually need.", "cs": "Snaha porozumět všem ostatním může odložit vyslovení toho, co skutečně potřebujete."}, "action": {"en": "After reflecting their view, finish with one sentence that begins: “What I am asking for is…”", "cs": "Po shrnutí jejich pohledu dokončete jednu větu začínající: „To, o co žádám, je…“"}},
+    "timing": {"title": {"en": "You often begin by protecting the moment", "cs": "Často začínáte ochranou vhodného okamžiku"}, "summary": {"en": "You tend to notice when fatigue, urgency or divided attention would weaken a conversation. A deliberate pause can help when it includes a return.", "cs": "Máte sklon všímat si, kdy by rozhovor oslabily únava, naléhavost nebo rozdělená pozornost. Záměrná pauza může pomoci, pokud obsahuje návrat."}, "strength": {"en": "Choosing a workable setting gives both people a better chance to think and respond.", "cs": "Volba vhodných podmínek dává oběma lidem lepší šanci přemýšlet a odpovědět."}, "watch": {"en": "Waiting for a perfect moment can become avoidance, and the other person may experience silence as withdrawal.", "cs": "Čekání na dokonalý okamžik se může změnit ve vyhýbání a druhý člověk může ticho vnímat jako stažení."}, "action": {"en": "When you pause, give a specific return time and keep it.", "cs": "Když rozhovor přerušíte, určete konkrétní čas návratu a dodržte ho."}},
+    "boundary": {"title": {"en": "You often begin by defining a limit", "cs": "Často začínáte vymezením hranice"}, "summary": {"en": "You tend to identify what you can participate in and what action remains under your control. A boundary is clearest when it is not disguised as a threat.", "cs": "Máte sklon určit, čeho se můžete účastnit a jaký krok zůstává pod vaší kontrolou. Hranice je nejjasnější, když není převlečená za výhrůžku."}, "strength": {"en": "A plain limit reduces ambiguity about what you will do and protects needs that are not negotiable.", "cs": "Jednoduše řečená hranice snižuje nejasnost o tom, co uděláte, a chrání potřeby, o nichž nelze vyjednávat."}, "watch": {"en": "Limits stated without context or listening can sound like verdicts and close off solvable differences.", "cs": "Hranice vyslovené bez kontextu či naslouchání mohou znít jako rozsudky a uzavřít řešitelné rozdíly."}, "action": {"en": "Pair the limit with one respectful explanation and, where safe, one workable alternative.", "cs": "Spojte hranici s jedním respektujícím vysvětlením a tam, kde je to bezpečné, s jednou proveditelnou alternativou."}}
+  },
+  "sources": [
+    {"name": "HealthyWA — Assertive communication", "url": "https://www.healthywa.wa.gov.au/Articles/A_E/Assertive-communication", "published": "", "type": "public health guidance defining clear, direct and respectful requests; original quiz items, no instrument reproduced"},
+    {"name": "Weger and colleagues — Active Listening in StatPearls", "url": "https://www.ncbi.nlm.nih.gov/books/NBK442015/", "published": "2023-09-13", "type": "clinical communication overview of acknowledgement, paraphrasing and clarification; no assessment items reproduced"},
+    {"name": "Itzchakov and Reis — Perceived responsiveness and listening", "url": "https://cdn2.psychologytoday.com/assets/2024-05/Itzchakov%20%26%20Reis%202023%20COP.pdf", "published": "2023-07-17", "type": "peer-reviewed review of listening, understanding, validation and care; no instrument items reproduced"},
+    {"name": "Buckinghamshire Council — Reducing parental conflict", "url": "https://familyinfo.buckinghamshire.gov.uk/advice-and-support/parenting/reducing-parental-conflict/", "published": "2026", "type": "public guidance on timing, active listening, I-statements and constructive conversation; no instrument reproduced"}
+  ]
+}
