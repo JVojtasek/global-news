@@ -43,31 +43,7 @@
   - **France 24** — 🔴 France, UK to join 10 other countries in banning goods from Israeli West Bank settlements
     <https://www.france24.com/en/middle-east/20260908-france-and-canada-to-join-uk-in-banning-goods-from-israeli-west-bank-settlements>
 
-### 2. Video shows damaged Amazon cargo plane after crash
-- id události: `ef61e9d52745`  ·  rubrika: `business`  ·  skóre: 81  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Video shows damaged Amazon cargo plane after crash
-    <https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss>
-    > An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.
-  - **Guardian Business** — Amazon cargo plane crashes at Miami airport and hits several vehicles
-    <https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport>
-    > FAA confirms crash and airport operations brought to a halt as videos show heavy plumes of smoke surrounding aircraft An Amazon cargo plane crashed at Miami international airport in Florida on Sunday afternoon after the flight, which was arriving from Puerto Rico, overshot the ru
-  - **NPR News** — 'Multiple patients' after Amazon cargo plane crashes at Miami airport
-    <https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport>
-    > Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.
-  - **CNBC Top** — Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend
-    <https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html>
-    > An Amazon cargo plane overshot a runway at Miami International Airport on Sunday, pausing flights at the busy travel hub.
-  - **The Verge** — An Amazon cargo plane crashed at Miami International Airport
-    <https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami>
-    > A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the after
-  - **Investing.com** — Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights
-    <https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316>
-  - **Investing.com** — Amazon Prime Air Boeing 767 overruns runway at Miami airport
-    <https://www.investing.com/news/stock-market-news/amazon-prime-air-boeing-767-overruns-runway-at-miami-airport-4890317>
-
-### 3. Five dead after Amazon cargo plane crashes at Miami airport
+### 2. Five dead after Amazon cargo plane crashes at Miami airport
 - id události: `85e21207cd70`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -90,7 +66,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss>
     > An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
 
-### 4. UK announces sanctions on West Bank settlements prompting furious Israeli response
+### 3. UK announces sanctions on West Bank settlements prompting furious Israeli response
 - id události: `832c384b6768`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -115,6 +91,29 @@
   - **Al Jazeera** — UK imposes ban on goods from Israeli settlements in occupied West Bank
     <https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss>
     > The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
+
+### 4. Napoli vs Arsenal: Champions League – prediction, teams, lineups
+- id události: `0120f35abded`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **Al Jazeera** — Napoli vs Arsenal: Champions League – prediction, teams, lineups
+    <https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss>
+    > Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form.
+  - **Al Jazeera** — Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction
+    <https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss>
+    > Andoni Iraola looks to build on his first win as Liverpool manager in tough game against Diego Simeone's Atletico.
+  - **Al Jazeera** — Haaland to the double as Manchester City beat Porto in Champions League
+    <https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss>
+    > Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
+  - **France 24** — Mourinho's Real Madrid edge Inter Milan in Champions League opener
+    <https://www.france24.com/en/sport/20260908-mourinho-real-madrid-edge-inter-milan-in-champions-league-opener>
+    > Jose Mourinho's Real Madrid began their Champions League campaign with a 2-1 win over his former side Inter Milan on Tuesday, taking a two-goal lead before Carlos Augusto pulled one back. Thibaut Courtois and Inter goalkeeper Josep Martinez both made crucial saves as Madrid held 
+  - **Guardian Sport** — Real Madrid somehow cling on to beat Inter on José Mourinho’s big night
+    <https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report>
+    > Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions Lea
+  - **Guardian Sport** — Haaland double gives Manchester City ideal Champions League start in Porto
+    <https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report>
+    > Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the com
 
 ---
 
