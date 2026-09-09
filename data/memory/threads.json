@@ -654,46 +654,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "hull",
-    "premier",
-    "sunderland",
-    "liverpool",
-    "forest",
-    "chelsea's",
-    "manchester",
-    "european",
-    "brugge",
-    "aston",
     "it's",
+    "matildas",
+    "isak",
+    "arsenal",
+    "life",
+    "sunderland",
+    "golden",
+    "cherki",
+    "pedro's",
+    "mccabe",
+    "brugge",
+    "club",
+    "hull",
+    "manchester",
+    "sports",
+    "joao",
+    "aston",
+    "premier",
+    "salah",
+    "boot",
+    "european",
+    "liverpool",
+    "league",
+    "carrick",
+    "rwandan",
+    "a-league",
+    "haaland",
+    "gakpo",
+    "phil",
+    "michael",
+    "champions",
+    "city",
+    "scherpen",
+    "villa",
     "iraola",
     "ipswich",
-    "life",
-    "club",
-    "haaland",
-    "joao",
-    "league",
-    "phil",
-    "villa",
-    "newcastle",
-    "salah",
-    "tzolis",
-    "arsenal",
-    "carrick",
-    "matildas",
-    "city",
-    "michael",
-    "mccabe",
-    "cherki",
-    "sports",
     "napoli",
-    "gakpo",
-    "a-league",
-    "golden",
-    "scherpen",
-    "champions",
-    "pedro's",
-    "boot",
-    "isak"
+    "chelsea's",
+    "tzolis",
+    "forest"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -736,7 +736,8 @@
     "234d20391d20",
     "7d15ece97d42",
     "088768f3341d",
-    "0120f35abded"
+    "0120f35abded",
+    "33a46b0b933c"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-09",
@@ -1214,6 +1215,18 @@
       "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
       "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
       "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "The Rwandan eyeing Champions League history against Man Utd",
+     "sources": 3,
+     "score": 62,
+     "event_id": "33a46b0b933c",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c4g7zxezj9lo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford"
      ]
     }
    ]
@@ -7642,5 +7655,5 @@
    ]
   }
  ],
- "updated": "2026-09-09T12:36:22+00:00"
+ "updated": "2026-09-09T15:25:50+00:00"
 }

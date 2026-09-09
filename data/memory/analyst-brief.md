@@ -37,9 +37,8 @@ Paměť obsahuje **88 vláken**. Aktivních za posledních 14 dní: **47**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 22 dní · 41 záznamů
+- rubrika `sport` · sledováno 22 dní · 42 záznamů
 - časová osa:
-  - **2026-09-04** (1 zdrojů) Matildas midfielder breaks A-League transfer record in move to Nottingham Forest
   - **2026-09-04** (2 zdrojů) Ipswich Town v Liverpool: Premier League – live
   - **2026-09-04** (3 zdrojů) Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
   - **2026-09-05** (2 zdrojů) Isak finally arrives as Gakpo proves value to Liverpool
@@ -49,6 +48,7 @@ Paměť obsahuje **88 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-08** (2 zdrojů) Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
   - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
   - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
+  - **2026-09-09** (3 zdrojů) The Rwandan eyeing Champions League history against Man Utd
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 27 dní · 34 záznamů
