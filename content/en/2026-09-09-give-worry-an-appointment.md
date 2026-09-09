@@ -1,42 +1,49 @@
 ---
 slug: give-worry-an-appointment
-title: "Give Worry an Appointment, Not the Whole Day"
-dek: "A short scheduled worry period can create useful distance from repetitive thoughts, provided it becomes a sorting desk rather than another place to spiral."
+title: Give Worry an Appointment, Not the Whole Day
+dek: A short scheduled worry period can create useful distance from repetitive thoughts,
+  provided it becomes a sorting desk rather than another place to spiral.
 section: soul
 type: analysis
 depth: open
 lang: en
-date: 2026-09-09
-status: draft
-confidence: 84
+date: '2026-09-09'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual notebook clock quiet room scheduled worry time"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual notebook clock quiet room scheduled worry time
 sources:
-  - name: "NHS Every Mind Matters"
-    url: "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/"
-    published: ""
-  - name: "Royal National Orthopaedic Hospital NHS Trust"
-    url: "https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/patients-guide-postponing-worries"
-    published: "2026-03-10"
-  - name: "International Journal of Cognitive Therapy"
-    url: "https://www.piekeren.com/wp-content/uploads/2024/03/Dippel.2023_Worry-postponement-meta-analysis.pdf"
-    published: "2023-10-31"
-  - name: "Toronto Metropolitan University Research Repository"
-    url: "https://rshare.library.torontomu.ca/articles/thesis/Short-Term_Efficacy_of_a_Worry_Postponement_Intervention_for_Generalized_Anxiety_Disorder/14653938"
-    published: "2023-06-07"
+- name: NHS Every Mind Matters
+  url: https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/tackling-your-worries/
+  published: ''
+- name: Royal National Orthopaedic Hospital NHS Trust
+  url: https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/patients-guide-postponing-worries
+  published: '2026-03-10'
+- name: International Journal of Cognitive Therapy
+  url: https://www.piekeren.com/wp-content/uploads/2024/03/Dippel.2023_Worry-postponement-meta-analysis.pdf
+  published: '2023-10-31'
+- name: Toronto Metropolitan University Research Repository
+  url: https://rshare.library.torontomu.ca/articles/thesis/Short-Term_Efficacy_of_a_Worry_Postponement_Intervention_for_Generalized_Anxiety_Disorder/14653938
+  published: '2023-06-07'
 quiz:
-  question: "What did the 2023 meta-analysis find when worry postponement was compared with simply recording worries?"
-  options: ["Large reductions in anxiety disorders", "Small reductions in daily worry duration and frequency", "No measurable difference on any worry measure"]
+  question: What did the 2023 meta-analysis find when worry postponement was compared
+    with simply recording worries?
+  options:
+  - Large reductions in anxiety disorders
+  - Small reductions in daily worry duration and frequency
+  - No measurable difference on any worry measure
   answer: 1
-  explanation: "Across seven randomized trials, the pooled effects were small for both worry duration and worry frequency, and long-term follow-up was absent."
+  explanation: Across seven randomized trials, the pooled effects were small for both
+    worry duration and worry frequency, and long-term follow-up was absent.
+review_reason: 'citlivé téma: self-harm'
 ---
 
 ## BRIEFLY

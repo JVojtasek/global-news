@@ -1,44 +1,50 @@
 ---
 slug: the-bald-eagle-returned-because-protection-stayed
-title: "The Bald Eagle Returned Because Protection Stayed"
-dek: "The bird’s recovery was not one ban or one law but a chain of cause-finding, habitat protection, reintroduction and monitoring that continued after delisting."
+title: The Bald Eagle Returned Because Protection Stayed
+dek: The bird’s recovery was not one ban or one law but a chain of cause-finding,
+  habitat protection, reintroduction and monitoring that continued after delisting.
 section: goodnews
 type: analysis
 depth: open
 lang: en
-date: 2026-09-09
-status: draft
-confidence: 91
+date: '2026-09-09'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "bald eagle nest conservation recovery river forest landscape"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: bald eagle nest conservation recovery river forest landscape
 sources:
-  - name: "U.S. Fish and Wildlife Service — Bald Eagle species profile"
-    url: "https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"
-    published: ""
-  - name: "U.S. Environmental Protection Agency — The Case of DDT"
-    url: "https://www.epa.gov/caddis/case-ddt-revisiting-impairment"
-    published: "2026-01-22"
-  - name: "U.S. Fish and Wildlife Service — 2007 final delisting rule"
-    url: "https://www.fws.gov/species-publication-action/endangered-and-threatened-wildlife-and-plants-removing-bald-eagle-lower"
-    published: "2007-07-09"
-  - name: "U.S. Geological Survey — lead poisoning study"
-    url: "https://www.usgs.gov/news/national-news-release/groundbreaking-study-finds-widespread-lead-poisoning-bald-and-golden"
-    published: "2022-02-17"
-qma_path: ""
+- name: U.S. Fish and Wildlife Service — Bald Eagle species profile
+  url: https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus
+  published: ''
+- name: U.S. Environmental Protection Agency — The Case of DDT
+  url: https://www.epa.gov/caddis/case-ddt-revisiting-impairment
+  published: '2026-01-22'
+- name: U.S. Fish and Wildlife Service — 2007 final delisting rule
+  url: https://www.fws.gov/species-publication-action/endangered-and-threatened-wildlife-and-plants-removing-bald-eagle-lower
+  published: '2007-07-09'
+- name: U.S. Geological Survey — lead poisoning study
+  url: https://www.usgs.gov/news/national-news-release/groundbreaking-study-finds-widespread-lead-poisoning-bald-and-golden
+  published: '2022-02-17'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What mechanism helped connect DDT use to the bald eagle’s population decline?"
-  options: ["DDE caused eggshell thinning and reproductive failure", "DDT changed adult eagles’ migration direction", "DDT removed fish from every nesting territory"]
+  question: What mechanism helped connect DDT use to the bald eagle’s population decline?
+  options:
+  - DDE caused eggshell thinning and reproductive failure
+  - DDT changed adult eagles’ migration direction
+  - DDT removed fish from every nesting territory
   answer: 0
-  explanation: "Laboratory and field evidence linked DDE, a DDT metabolite, to thinner eggshells and reduced reproductive success."
+  explanation: Laboratory and field evidence linked DDE, a DDT metabolite, to thinner
+    eggshells and reduced reproductive success.
+review_reason: 'citlivé téma: killed'
 ---
 
 ## BRIEFLY

@@ -7,8 +7,8 @@ section: relationships
 type: feature
 depth: open
 lang: en
-date: '2026-08-24'
-status: reserve
+date: '2026-09-09'
+status: published
 confidence: 95
 load: 0
 topics: []

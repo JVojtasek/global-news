@@ -1,50 +1,58 @@
 ---
 slug: an-ai-proof-is-a-beginning-not-a-verdict
-title: "An AI Proof Is a Beginning, Not a Verdict"
-dek: "OpenAI says an internal system has solved the Navier–Stokes Millennium Problem; the files are public, but mathematics still has to do what mathematics does."
+title: An AI Proof Is a Beginning, Not a Verdict
+dek: OpenAI says an internal system has solved the Navier–Stokes Millennium Problem;
+  the files are public, but mathematics still has to do what mathematics does.
 section: ai
 type: daily
 depth: open
 lang: en
-date: 2026-09-09
-status: draft
-confidence: 86
+date: '2026-09-09'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "conceptual editorial illustration of a turbulent fluid vortex passing through a transparent geometric proof lattice, no text or people"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: conceptual editorial illustration of a turbulent fluid vortex passing
+  through a transparent geometric proof lattice, no text or people
 sources:
-  - name: "OpenAI"
-    url: "https://openai.com/index/navier-stokes-solution/"
-    published: "2026-09-08"
-  - name: "OpenAI — Lean certificates on GitHub"
-    url: "https://github.com/openai/NavierStokesAndEuler"
-    published: "2026-09-08"
-  - name: "Clay Mathematics Institute — official problem description"
-    url: "https://www.claymath.org/wp-content/uploads/2022/06/navierstokes.pdf"
-    published: "2000-05-24"
-  - name: "Clay Mathematics Institute — prize rules"
-    url: "https://www.claymath.org/millennium-problems/rules/"
-    published: "2018-09-26"
-  - name: "Nature"
-    url: "https://www.nature.com/articles/d41586-026-02842-5"
-    published: "2026-09-08"
-  - name: "Tristan Buckmaster"
-    url: "https://cims.nyu.edu/~tristanb/statement.pdf"
-    published: "2026-09-07"
-qma_path: ""
+- name: OpenAI
+  url: https://openai.com/index/navier-stokes-solution/
+  published: '2026-09-08'
+- name: OpenAI — Lean certificates on GitHub
+  url: https://github.com/openai/NavierStokesAndEuler
+  published: '2026-09-08'
+- name: Clay Mathematics Institute — official problem description
+  url: https://www.claymath.org/wp-content/uploads/2022/06/navierstokes.pdf
+  published: '2000-05-24'
+- name: Clay Mathematics Institute — prize rules
+  url: https://www.claymath.org/millennium-problems/rules/
+  published: '2018-09-26'
+- name: Nature
+  url: https://www.nature.com/articles/d41586-026-02842-5
+  published: '2026-09-08'
+- name: Tristan Buckmaster
+  url: https://cims.nyu.edu/~tristanb/statement.pdf
+  published: '2026-09-07'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What would have to happen before the Clay Mathematics Institute considers this proposed solution for its prize?"
-  options: ["OpenAI must rerun the model three times", "It must be published in a qualifying outlet, wait at least two years and gain general acceptance", "The Lean files only need to compile on one computer"]
+  question: What would have to happen before the Clay Mathematics Institute considers
+    this proposed solution for its prize?
+  options:
+  - OpenAI must rerun the model three times
+  - It must be published in a qualifying outlet, wait at least two years and gain
+    general acceptance
+  - The Lean files only need to compile on one computer
   answer: 1
-  explanation: "Clay's rules require qualifying publication, a two-year interval and general acceptance in the global mathematics community."
+  explanation: Clay's rules require qualifying publication, a two-year interval and
+    general acceptance in the global mathematics community.
 ---
 
 ## BRIEFLY

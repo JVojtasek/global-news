@@ -1,47 +1,56 @@
 ---
 slug: your-carbon-monoxide-alarm-does-not-need-a-floor-rule
-title: "Your Carbon Monoxide Alarm Does Not Need a Floor Rule"
-dek: "Carbon monoxide does not settle into a neat low layer; coverage, audibility and the alarm's own instructions matter more than a universal mounting height."
+title: Your Carbon Monoxide Alarm Does Not Need a Floor Rule
+dek: Carbon monoxide does not settle into a neat low layer; coverage, audibility and
+  the alarm's own instructions matter more than a universal mounting height.
 section: safety
 type: analysis
 depth: open
 lang: en
-date: 2026-09-09
-status: draft
-confidence: 94
+date: '2026-09-09'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 2
-automation_role: "edition"
-generator: "chatgpt-work"
-format: ""
-event_id: ""
-series: ""
-image_query: "carbon monoxide alarm on a quiet home hallway wall near bedrooms, neutral unbranded safety illustration"
+automation_role: edition
+generator: chatgpt-work
+format: ''
+event_id: ''
+series: ''
+image_query: carbon monoxide alarm on a quiet home hallway wall near bedrooms, neutral
+  unbranded safety illustration
 sources:
-  - name: "U.S. Consumer Product Safety Commission — Carbon Monoxide Fact Sheet"
-    url: "https://www.cpsc.gov/safety-education/safety-guides/carbon-monoxide/carbon-monoxide-fact-sheet"
-    published: "n.d."
-  - name: "U.S. Centers for Disease Control and Prevention"
-    url: "https://www.cdc.gov/carbon-monoxide/about/index.html"
-    published: "2026-01-12"
-  - name: "Journal of Emergency Medicine via PubMed"
-    url: "https://pubmed.ncbi.nlm.nih.gov/21536403/"
-    published: "2012-04-01"
-  - name: "National Fire Protection Association"
-    url: "https://www.nfpa.org/education-and-research/home-fire-safety/carbon-monoxide"
-    published: "n.d."
-  - name: "U.S. Consumer Product Safety Commission — winter safety guidance"
-    url: "https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires"
-    published: "2025-12-12"
-qma_path: ""
+- name: U.S. Consumer Product Safety Commission — Carbon Monoxide Fact Sheet
+  url: https://www.cpsc.gov/safety-education/safety-guides/carbon-monoxide/carbon-monoxide-fact-sheet
+  published: n.d.
+- name: U.S. Centers for Disease Control and Prevention
+  url: https://www.cdc.gov/carbon-monoxide/about/index.html
+  published: '2026-01-12'
+- name: Journal of Emergency Medicine via PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/21536403/
+  published: '2012-04-01'
+- name: National Fire Protection Association
+  url: https://www.nfpa.org/education-and-research/home-fire-safety/carbon-monoxide
+  published: n.d.
+- name: U.S. Consumer Product Safety Commission — winter safety guidance
+  url: https://www.cpsc.gov/Newsroom/News-Releases/2026/As-Winter-Storms-Threaten-Millions-in-the-US-CPSC-Issues-Safety-Tips-to-Help-Families-Prevent-Carbon-Monoxide-Poisoning-and-Fires
+  published: '2025-12-12'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which rule is the best starting point for placing a household carbon monoxide alarm?"
-  options: ["Always put it on the floor because carbon monoxide sinks", "Follow the alarm's instructions and provide coverage on every level and outside sleeping areas", "Always mount it directly above the fuel-burning appliance"]
+  question: Which rule is the best starting point for placing a household carbon monoxide
+    alarm?
+  options:
+  - Always put it on the floor because carbon monoxide sinks
+  - Follow the alarm's instructions and provide coverage on every level and outside
+    sleeping areas
+  - Always mount it directly above the fuel-burning appliance
   answer: 1
-  explanation: "CPSC recommends following the manufacturer's placement instructions, covering every level and areas outside bedrooms, and avoiding a location directly above a fuel-burning appliance."
+  explanation: CPSC recommends following the manufacturer's placement instructions,
+    covering every level and areas outside bedrooms, and avoiding a location directly
+    above a fuel-burning appliance.
 ---
 
 ## BRIEFLY
