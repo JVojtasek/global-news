@@ -43,30 +43,7 @@
   - **France 24** — 🔴 France, UK to join 10 other countries in banning goods from Israeli West Bank settlements
     <https://www.france24.com/en/middle-east/20260908-france-and-canada-to-join-uk-in-banning-goods-from-israeli-west-bank-settlements>
 
-### 2. Five dead after Amazon cargo plane crashes at Miami airport
-- id události: `85e21207cd70`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Five dead after Amazon cargo plane crashes at Miami airport
-    <https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss>
-    > Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.
-  - **BBC Business** — Five dead after Amazon cargo plane crashes at Miami airport
-    <https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss>
-    > Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.
-  - **DW News** — Several killed in Amazon cargo plane crash in Miami
-    <https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf>
-    > At least five people have died after a cargo plane crashed at Miami International Airport. The aircraft overran a runway, struck several vehicles and caught fire.
-  - **France 24** — Amazon cargo plane crashes at Miami airport, killing at least five
-    <https://www.france24.com/en/americas/20260906-amazon-cargo-plane-crashes-miami-airport-killing-at-least-five>
-    > At least five people were killed and five injured after an Amazon cargo plane overshot the runway at Miami International Airport on Sunday and crashed into several vehicles, officials said. Miami Sheriff Rosie Cordero-Stutz said there was “no apparent threat to public safety” fol
-  - **Al Jazeera** — At least five killed after Amazon cargo plane crash in Miami airport
-    <https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss>
-    > Five people are injured, and the cause of the crash is being investigated, authorities say.
-  - **Al Jazeera** — Amazon Prime plane overruns runway at Miami Airport
-    <https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss>
-    > An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
-
-### 3. UK announces sanctions on West Bank settlements prompting furious Israeli response
+### 2. UK announces sanctions on West Bank settlements prompting furious Israeli response
 - id události: `832c384b6768`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -92,7 +69,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss>
     > The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
 
-### 4. Napoli vs Arsenal: Champions League – prediction, teams, lineups
+### 3. Napoli vs Arsenal: Champions League – prediction, teams, lineups
 - id události: `0120f35abded`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -114,6 +91,29 @@
   - **Guardian Sport** — Haaland double gives Manchester City ideal Champions League start in Porto
     <https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report>
     > Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the com
+
+### 4. Arsenal are passing every test - and Odegaard is in form of his life
+- id události: `849069df442b`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Arsenal are passing every test - and Odegaard is in form of his life
+    <https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss>
+    > Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.
+  - **BBC Sport** — Odegaard strike earns Arsenal narrow victory at Napoli
+    <https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss>
+    > Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.
+  - **France 24** — Champions League: Iraola celebrates Liverpool win against Atletico Madrid
+    <https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid>
+    > Liverpool began their Champions League campaign with a 2-1 comeback win over Atletico Madrid on Wednesday, giving new manager Andoni Iraola a winning start in Europe's top competition. Paris Saint-Germain, Barcelona and Arsenal also opened their campaigns with victories as the to
+  - **Al Jazeera** — Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
+    <https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss>
+    > Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
+  - **Al Jazeera** — Manchester United vs Sabah: UEFA Champions League – preview, team news
+    <https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss>
+    > Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
+  - **Al Jazeera** — Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
+    <https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss>
+    > Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
 
 ---
 

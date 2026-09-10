@@ -58,6 +58,34 @@
    ]
   },
   {
+   "id": "de0860184e5e",
+   "title": "Deadly Philippines ferry fire leaves scores of people missing",
+   "section": "world",
+   "entities": [
+    "deadly",
+    "philippines"
+   ],
+   "event_ids": [
+    "de0860184e5e"
+   ],
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "timeline": [
+    {
+     "date": "2026-09-10",
+     "headline": "Deadly Philippines ferry fire leaves scores of people missing",
+     "sources": 4,
+     "score": 65,
+     "event_id": "de0860184e5e",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
+      "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -7718,5 +7746,5 @@
    ]
   }
  ],
- "updated": "2026-09-10T00:57:43+00:00"
+ "updated": "2026-09-10T03:30:14+00:00"
 }

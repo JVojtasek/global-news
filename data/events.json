@@ -103,73 +103,6 @@
   ]
  },
  {
-  "id": "85e21207cd70",
-  "headline": "Five dead after Amazon cargo plane crashes at Miami airport",
-  "section": "world",
-  "score": 74,
-  "sources_count": 5,
-  "depth_signal": 0,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-07T00:57:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-    "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-    "published_at": "2026-09-07T00:57:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-    "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-    "published_at": "2026-09-07T00:57:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "Several killed in Amazon cargo plane crash in Miami",
-    "url": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "At least five people have died after a cargo plane crashed at Miami International Airport. The aircraft overran a runway, struck several vehicles and caught fire.",
-    "published_at": "2026-09-06T23:19:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "Amazon cargo plane crashes at Miami airport, killing at least five",
-    "url": "https://www.france24.com/en/americas/20260906-amazon-cargo-plane-crashes-miami-airport-killing-at-least-five",
-    "source": "France 24",
-    "summary": "At least five people were killed and five injured after an Amazon cargo plane overshot the runway at Miami International Airport on Sunday and crashed into several vehicles, officials said. Miami Sheriff Rosie Cordero-Stutz said there was “no apparent threat to public safety” following the crash.",
-    "published_at": "2026-09-06T21:59:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "At least five killed after Amazon cargo plane crash in Miami airport",
-    "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Five people are injured, and the cause of the crash is being investigated, authorities say.",
-    "published_at": "2026-09-06T21:11:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "Amazon Prime plane overruns runway at Miami Airport",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.",
-    "published_at": "2026-09-06T21:08:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   }
-  ]
- },
- {
   "id": "832c384b6768",
   "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
   "section": "world",
@@ -376,6 +309,55 @@
     "published_at": "2026-09-09T21:14:20+00:00",
     "source_countries": [],
     "seen_at": "2026-09-10T00:57:40+00:00"
+   }
+  ]
+ },
+ {
+  "id": "de0860184e5e",
+  "headline": "Deadly Philippines ferry fire leaves scores of people missing",
+  "section": "world",
+  "score": 65,
+  "sources_count": 4,
+  "depth_signal": 5,
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-10T02:23:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Deadly Philippines ferry fire leaves scores of people missing",
+    "url": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
+    "source": "The Guardian World",
+    "summary": "Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guard Five people were confirmed dead ⁠in early counting and ​more than 80 were missing after a ferry caught fire ⁠off Palawan island in the western Philippines on Wednesday night, the Philippine coast ⁠guard said. Forty-three people were ​rescued from the MV ‌J",
+    "published_at": "2026-09-10T02:23:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   },
+   {
+    "title": "Philippines: Several killed, dozens missing after fire on ferry",
+    "url": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship's manifest listed 134 passengers and crew.",
+    "published_at": "2026-09-10T01:48:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   },
+   {
+    "title": "Several dead, dozens missing after ferry fire in Philippines tourist spot",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Video from the Philippine Coast Guard shows a ferry engulfed in flames near Palawan.",
+    "published_at": "2026-09-10T02:50:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   },
+   {
+    "title": "At least five killed, 87 missing after ferry fire in Philippines",
+    "url": "https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines",
+    "source": "France 24",
+    "summary": "At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and rescue operations as officials warned the figures could change while they worked to establish what happened.",
+    "published_at": "2026-09-10T01:24:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
    }
   ]
  },
@@ -2667,46 +2649,6 @@
   ]
  },
  {
-  "id": "34dcf9287119",
-  "headline": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-  "section": "science",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-06T23:13:29+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-    "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-    "published_at": "2026-09-06T23:13:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-    "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-    "published_at": "2026-09-06T23:13:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-    "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-    "published_at": "2026-09-06T23:13:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   }
-  ]
- },
- {
   "id": "887effa18fe1",
   "headline": "Amazon cargo plane crash at Miami airport kills at least five – video",
   "section": "business",
@@ -3243,6 +3185,68 @@
     "published_at": "2026-09-09T18:53:48+00:00",
     "source_countries": [],
     "seen_at": "2026-09-09T21:22:08+00:00"
+   }
+  ]
+ },
+ {
+  "id": "70e6e5e8b232",
+  "headline": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-10T01:17:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
+    "url": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
+    "source": "NPR News",
+    "summary": "The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him.",
+    "published_at": "2026-09-10T01:17:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   },
+   {
+    "title": "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
+    "url": "https://www.aljazeera.com/news/2026/9/10/pro-israel-democrat-john-fetterman-makes-video-appearance-at-gop-convention?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Pennsylvania senator who has clashed with party over Israel support says he will reject 'the extremes and socialism'.",
+    "published_at": "2026-09-10T01:54:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   }
+  ]
+ },
+ {
+  "id": "898767aca297",
+  "headline": "Coco Gauff draws on Tiafoe and ‘delusional’ self-belief in US Open escape",
+  "section": "sport",
+  "score": 42,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-10T01:26:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Coco Gauff draws on Tiafoe and ‘delusional’ self-belief in US Open escape",
+    "url": "https://www.theguardian.com/sport/2026/sep/09/coco-gauff-belief-mirra-andreeva-us-open-semi-finals",
+    "source": "Guardian Sport",
+    "summary": "American rallies from brink to defeat Andreeva Gauff survives 12 double faults in three-set escape Coco Gauff has played far cleaner matches than on Wednesday afternoon. But few players today on the women’s tour have become better at finding answers on the fly when almost nothing is working for them. The 22-year-old American’s serene march through the US Open women’s draw hit extreme turbulence ea",
+    "published_at": "2026-09-10T01:26:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   },
+   {
+    "title": "US Open 2026 quarter-finals: Gauff fightback stuns Andreeva, Rybakina ends Zheng run – as it happened",
+    "url": "https://www.theguardian.com/sport/live/2026/sep/09/us-open-tennis-2026-quarter-finals-rybakina-zheng-andreeva-gauff-blockx-khachanov-live",
+    "source": "Guardian Sport",
+    "summary": "Coco Gauff saved two match points to set up a semi-final against Elena Rybakina, who secured the world No 1 ranking with her three-set win over Zheng Qinwen Rybakina has won four of her five meetings with Zheng, including two three-set victories this year . But Zheng was earlier in her comeback from elbow surgery then, the 2024 Olympic champion is a totally different proposition now, carrying the ",
+    "published_at": "2026-09-09T21:19:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
    }
   ]
  },
@@ -4792,6 +4796,37 @@
   ]
  },
  {
+  "id": "fbc33d1ccdc4",
+  "headline": "Apple unveils first-ever foldable iPhone Duo",
+  "section": "business",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-10T02:48:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Apple unveils first-ever foldable iPhone Duo",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/apple-unveils-first-ever-foldable-iphone-duo?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Apple has unveiled the iPhone Duo, its first foldable, passport-shaped smartphone, with a 7.6-inch display.",
+    "published_at": "2026-09-10T02:48:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   },
+   {
+    "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
+    "url": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
+    "source": "CNBC Top",
+    "summary": "Samsung is drawing more iPhone users to its foldables as Apple’s rumored entry threatens to reshape the market.",
+    "published_at": "2026-09-10T02:05:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
+   }
+  ]
+ },
+ {
   "id": "9a6d2fb0cc91",
   "headline": "How quiz-show winnings kick-started coach's career - with Old Trafford next",
   "section": "sport",
@@ -5813,37 +5848,6 @@
   ]
  },
  {
-  "id": "2f083f991a7f",
-  "headline": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-  "section": "tech",
-  "score": 37,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-06T23:36:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "source": "The Verge",
-    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
-    "published_at": "2026-09-06T23:36:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "source": "The Verge AI",
-    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]",
-    "published_at": "2026-09-06T23:36:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   }
-  ]
- },
- {
   "id": "5fe1a564aefd",
   "headline": "Jonathan Reynolds is right, Jaguar Land Rover doesn’t warrant use of public money | Nils Pratley",
   "section": "business",
@@ -6444,24 +6448,24 @@
   ]
  },
  {
-  "id": "12cada320aee",
-  "headline": "Australia keep faith in Marnus Labuschagne as Test squad for South Africa tour named",
-  "section": "sport",
-  "score": 36,
+  "id": "47e39f4b1351",
+  "headline": "Jacqui Lambie says Pauline Hanson a ‘bloody coward’ after One Nation cartoon calling Andrew Hastie a traitor",
+  "section": "world",
+  "score": 37,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-07T00:20:49+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-10T01:57:51+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Australia keep faith in Marnus Labuschagne as Test squad for South Africa tour named",
-    "url": "https://www.theguardian.com/sport/2026/sep/07/marnus-labuschagne-australia-cricket-squad-south-africa-tour",
-    "source": "Guardian Sport",
-    "summary": "Under-pressure batter retains place for three-Test series Squad provides ‘balance and options’, says George Bailey Australian selectors have stuck with struggling batter Marnus Labuschagne for next month’s Test tour of South Africa. Sixteen players were named on Monday, including all those involved in the most recent defeat of Bangladesh in Mackay. Fast bowler Michael Neser, spinner Matthew Kuhnem",
-    "published_at": "2026-09-07T00:20:49+00:00",
+    "title": "Jacqui Lambie says Pauline Hanson a ‘bloody coward’ after One Nation cartoon calling Andrew Hastie a traitor",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/10/jacqui-lambie-says-pauline-hanson-a-bloody-coward-after-one-nation-cartoon-calling-andrew-hastie-a-traitor-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Lambie, a veteran and Tasmanian senator, says One Nation leader is showing her ‘true colours’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Jacqui Lambie has accused Pauline Hanson of being a “coward” for a One Nation cartoon calling the Liberal frontbencher Andrew Hastie a traitor, amid a growing spat between the One Nation lea",
+    "published_at": "2026-09-10T01:57:51+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
+    "seen_at": "2026-09-10T03:30:10+00:00"
    }
   ]
  },
@@ -7275,24 +7279,24 @@
   ]
  },
  {
-  "id": "b7c5bea99a39",
-  "headline": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
-  "section": "science",
-  "score": 35,
+  "id": "56b5632b8593",
+  "headline": "SMH columnist Peter FitzSimons tells Alan Jones trial alleged victim was ‘revolted’ by abuse",
+  "section": "world",
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-02T00:00:00+00:00",
+  "depth_signal": 2,
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-10T02:09:03+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
-    "url": "https://www.nature.com/articles/s41586-026-11104-3",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11104-3 Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
-    "published_at": "2026-09-02T00:00:00+00:00",
+    "title": "SMH columnist Peter FitzSimons tells Alan Jones trial alleged victim was ‘revolted’ by abuse",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/10/smh-columnist-peter-fitzsimons-alan-jones-trial-alleged-victim-revolted-by-abuse-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "FitzSimons tells court that complainant C told him Jones, who has pleaded not guilty, would touch his penis and he ‘kept pushing it away’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Sydney Morning Herald columnist Peter FitzSimons has told the Alan Jones trial an alleged victim he spoke to in 2019 was “tearful” and sounded “em",
+    "published_at": "2026-09-10T02:09:03+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
+    "seen_at": "2026-09-10T03:30:10+00:00"
    }
   ]
  },
@@ -8514,86 +8518,24 @@
   ]
  },
  {
-  "id": "e0641d3a845e",
-  "headline": "India's high-stakes exam system faces a crisis of trust",
-  "section": "world",
-  "score": 34,
+  "id": "3e337eb2e3a7",
+  "headline": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
+  "section": "safety",
+  "score": 35,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-06T23:02:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "India's high-stakes exam system faces a crisis of trust",
-    "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
-    "published_at": "2026-09-06T23:02:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   }
-  ]
- },
- {
-  "id": "0ebbc8b4cd1f",
-  "headline": "Popular brain supplement linked to shorter lifespan in men",
-  "section": "science",
-  "score": 34,
-  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-06T21:21:25+00:00",
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-04T21:01:35+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Popular brain supplement linked to shorter lifespan in men",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-    "source": "ScienceDaily",
-    "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is al",
-    "published_at": "2026-09-06T21:21:25+00:00",
+    "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
+    "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
+    "source": "Schneier on Security",
+    "summary": "Looks tasty . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+    "published_at": "2026-09-04T21:01:35+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "Popular brain supplement linked to shorter lifespan in men",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-    "source": "ScienceDaily Health",
-    "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is al",
-    "published_at": "2026-09-06T21:21:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   }
-  ]
- },
- {
-  "id": "16acc48dd5a4",
-  "headline": "New injectable treatment helps the brain rebuild after stroke",
-  "section": "health",
-  "score": 34,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-07T01:03:45+00:00",
-  "event_time": "2026-09-04T03:59:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "New injectable treatment helps the brain rebuild after stroke",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
-    "source": "ScienceDaily",
-    "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
-    "published_at": "2026-09-04T03:59:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
-   },
-   {
-    "title": "New injectable treatment helps the brain rebuild after stroke",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the body’s own immune cells, including neutrophils that may switch from damaging to helpful under the right conditions.",
-    "published_at": "2026-09-04T03:59:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T01:03:42+00:00"
+    "seen_at": "2026-09-10T03:30:10+00:00"
    }
   ]
  },
@@ -8999,6 +8941,28 @@
     "published_at": "2026-08-31T11:00:04+00:00",
     "source_countries": [],
     "seen_at": "2026-09-08T03:29:23+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f09158223b59",
+  "headline": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-10T03:30:14+00:00",
+  "event_time": "2026-09-09T06:42:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+    "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
+    "published_at": "2026-09-09T06:42:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T03:30:10+00:00"
    }
   ]
  }
