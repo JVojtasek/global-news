@@ -1,55 +1,65 @@
 ---
-slug: "two-languages-do-not-confuse-a-child"
-title: "Two Languages Do Not Confuse a Child"
-dek: "Bilingual children may know fewer words in each language and mix them in one sentence. Neither pattern, by itself, is a delay. The fair test counts the child’s whole language world."
-section: "parenting"
-type: "analysis"
-depth: "open"
-lang: "en"
-date: "2026-09-10"
-status: "draft"
-confidence: 90
+slug: two-languages-do-not-confuse-a-child
+title: Two Languages Do Not Confuse a Child
+dek: Bilingual children may know fewer words in each language and mix them in one
+  sentence. Neither pattern, by itself, is a delay. The fair test counts the child’s
+  whole language world.
+section: parenting
+type: analysis
+depth: open
+lang: en
+date: '2026-09-10'
+status: review
+confidence: 95
 load: 32
 topics:
-  - "bilingual children"
-  - "language development"
-  - "parenting"
-  - "speech delay"
-  - "heritage language"
+- bilingual children
+- language development
+- parenting
+- speech delay
+- heritage language
 automation_generated: true
 edition_slot: 2
-automation_role: "edition"
-generator: "chatgpt-work"
-format: "wider-lens"
-event_id: "bilingual-language-development-evidence"
-series: ""
-image_query: "conceptual illustration child language two flowing color systems family conversation"
+automation_role: edition
+generator: chatgpt-work
+format: wider-lens
+event_id: bilingual-language-development-evidence
+series: ''
+image_query: conceptual illustration child language two flowing color systems family
+  conversation
 sources:
-  - name: "American Academy of Pediatrics and ASHA — Young Children Learning Multiple Languages: Parent FAQs"
-    url: "https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/7-Myths-Facts-Bilingual-Children-Learning-Language.aspx"
-    published: "2025-11-20"
-  - name: "Hoff and Core — Input and Language Development in Bilingually Developing Children"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4457512/"
-    published: "2013-12-02"
-  - name: "Fibla, Kosie, Kircher, Lew-Williams and Byers-Heinlein — Bilingual Language Development in Infancy"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8866745/"
-    published: "2022-03-01"
-  - name: "Byers-Heinlein and Lew-Williams — Bilingualism in the Early Years"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC6168212/"
-    published: "2013-09-01"
-  - name: "ASHA — Late Language Emergence"
-    url: "https://www.asha.org/practice-portal/clinical-topics/late-language-emergence/"
-    published: "2026-09-10"
-qma_path: ""
+- name: 'American Academy of Pediatrics and ASHA — Young Children Learning Multiple
+    Languages: Parent FAQs'
+  url: https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/7-Myths-Facts-Bilingual-Children-Learning-Language.aspx
+  published: '2025-11-20'
+- name: Hoff and Core — Input and Language Development in Bilingually Developing Children
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4457512/
+  published: '2013-12-02'
+- name: Fibla, Kosie, Kircher, Lew-Williams and Byers-Heinlein — Bilingual Language
+    Development in Infancy
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8866745/
+  published: '2022-03-01'
+- name: Byers-Heinlein and Lew-Williams — Bilingualism in the Early Years
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6168212/
+  published: '2013-09-01'
+- name: ASHA — Late Language Emergence
+  url: https://www.asha.org/practice-portal/clinical-topics/late-language-emergence/
+  published: '2026-09-10'
+qma_path: ''
 tickers: []
 quiz:
-  question: "A two-year-old uses 25 words in one language and 25 different words in another. What is the best first interpretation?"
+  question: A two-year-old uses 25 words in one language and 25 different words in
+    another. What is the best first interpretation?
   options:
-    - "The child has only a 25-word vocabulary because only one language should be counted."
-    - "The child is confused and the family should immediately stop one language."
-    - "The child has about 50 words across both languages; development should be judged across the full language profile and other milestones."
+  - The child has only a 25-word vocabulary because only one language should be counted.
+  - The child is confused and the family should immediately stop one language.
+  - The child has about 50 words across both languages; development should be judged
+    across the full language profile and other milestones.
   answer: 2
-  explanation: "AAP and ASHA guidance says to count words across all languages. Bilingualism does not itself cause a disorder, although persistent difficulty across the child’s languages or missed milestones still warrants professional evaluation."
+  explanation: AAP and ASHA guidance says to count words across all languages. Bilingualism
+    does not itself cause a disorder, although persistent difficulty across the child’s
+    languages or missed milestones still warrants professional evaluation.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

@@ -1,55 +1,66 @@
 ---
-slug: "remote-work-can-shrink-the-social-day"
-title: "Remote Work Saves the Commute. It Can Also Shrink the Social Day"
-dek: "A vast U.S. study links the rise of remote work to more time alone and worse mental health, especially for people who live alone. The useful response is not nostalgia for the office, but deliberate design of contact."
-section: "soul"
-type: "daily"
-depth: "open"
-lang: "en"
-date: "2026-09-10"
-status: "draft"
-confidence: 86
+slug: remote-work-can-shrink-the-social-day
+title: Remote Work Saves the Commute. It Can Also Shrink the Social Day
+dek: A vast U.S. study links the rise of remote work to more time alone and worse
+  mental health, especially for people who live alone. The useful response is not
+  nostalgia for the office, but deliberate design of contact.
+section: soul
+type: daily
+depth: open
+lang: en
+date: '2026-09-10'
+status: review
+confidence: 95
 load: 42
 topics:
-  - "remote work"
-  - "loneliness"
-  - "mental health"
-  - "hybrid work"
-  - "social connection"
+- remote work
+- loneliness
+- mental health
+- hybrid work
+- social connection
 automation_generated: true
 edition_slot: 1
-automation_role: "edition"
-generator: "chatgpt-work"
-format: "wider-lens"
-event_id: "science-remote-work-isolation-2026"
-series: ""
-image_query: "conceptual editorial illustration empty home office doorway communal table social connection"
+automation_role: edition
+generator: chatgpt-work
+format: wider-lens
+event_id: science-remote-work-isolation-2026
+series: ''
+image_query: conceptual editorial illustration empty home office doorway communal
+  table social connection
 sources:
-  - name: "Science — Home alone: Remote work, isolation, and mental health"
-    url: "https://www.science.org/doi/10.1126/science.aec7671"
-    published: "2026-06-04"
-  - name: "MIT Blueprint Labs — Home Alone research page"
-    url: "https://blueprintlabs.mit.edu/research/home-alone-remote-work-isolation-and-mental-health/"
-    published: "2026-06-04"
-  - name: "Investopedia — Remote Work Is Popular With Employees. But a New Study Links It to Increased Loneliness"
-    url: "https://www.investopedia.com/remote-work-is-popular-with-employees-but-a-new-study-links-it-to-increased-loneliness-12066356"
-    published: "2026-09-04"
-  - name: "Pew Research Center — Many remote workers say they’d be likely to leave their job if they could no longer work from home"
-    url: "https://www.pewresearch.org/short-reads/2025/01/13/many-remote-workers-say-theyd-be-likely-to-leave-their-job-if-they-could-no-longer-work-from-home/"
-    published: "2025-01-13"
-  - name: "Nature — Hybrid working from home improves retention without damaging performance"
-    url: "https://www.nature.com/articles/s41586-024-07500-2"
-    published: "2024-06-12"
-qma_path: ""
+- name: 'Science — Home alone: Remote work, isolation, and mental health'
+  url: https://www.science.org/doi/10.1126/science.aec7671
+  published: '2026-06-04'
+- name: MIT Blueprint Labs — Home Alone research page
+  url: https://blueprintlabs.mit.edu/research/home-alone-remote-work-isolation-and-mental-health/
+  published: '2026-06-04'
+- name: Investopedia — Remote Work Is Popular With Employees. But a New Study Links
+    It to Increased Loneliness
+  url: https://www.investopedia.com/remote-work-is-popular-with-employees-but-a-new-study-links-it-to-increased-loneliness-12066356
+  published: '2026-09-04'
+- name: Pew Research Center — Many remote workers say they’d be likely to leave their
+    job if they could no longer work from home
+  url: https://www.pewresearch.org/short-reads/2025/01/13/many-remote-workers-say-theyd-be-likely-to-leave-their-job-if-they-could-no-longer-work-from-home/
+  published: '2025-01-13'
+- name: Nature — Hybrid working from home improves retention without damaging performance
+  url: https://www.nature.com/articles/s41586-024-07500-2
+  published: '2024-06-12'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which conclusion is best supported by the evidence discussed here?"
+  question: Which conclusion is best supported by the evidence discussed here?
   options:
-    - "Remote work harms every worker, so five office days are the only safe policy."
-    - "Remote work can increase isolation, especially for people living alone, while well-designed hybrid work can preserve flexibility without reducing measured performance."
-    - "People who prefer remote work cannot experience loneliness from it."
+  - Remote work harms every worker, so five office days are the only safe policy.
+  - Remote work can increase isolation, especially for people living alone, while
+    well-designed hybrid work can preserve flexibility without reducing measured performance.
+  - People who prefer remote work cannot experience loneliness from it.
   answer: 1
-  explanation: "The Science study estimated greater isolation and distress after remote work expanded, with the largest effects among people living alone. A separate randomized hybrid-work trial found lower quitting and no measured performance penalty, so the evidence supports design and targeting rather than a universal ban."
+  explanation: The Science study estimated greater isolation and distress after remote
+    work expanded, with the largest effects among people living alone. A separate
+    randomized hybrid-work trial found lower quitting and no measured performance
+    penalty, so the evidence supports design and targeting rather than a universal
+    ban.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

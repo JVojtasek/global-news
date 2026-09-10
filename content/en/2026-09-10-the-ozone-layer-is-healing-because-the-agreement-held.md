@@ -1,13 +1,14 @@
 ---
 slug: the-ozone-layer-is-healing-because-the-agreement-held
 title: The Ozone Layer Is Healing Because the Agreement Held
-dek: The Montreal Protocol worked through measurement, repeated tightening and decades of patience. Recovery is real, uneven and unfinished.
+dek: The Montreal Protocol worked through measurement, repeated tightening and decades
+  of patience. Recovery is real, uneven and unfinished.
 section: goodnews
 type: analysis
 depth: open
 lang: en
 date: '2026-09-10'
-status: draft
+status: published
 confidence: 95
 load: 0
 topics:
@@ -22,9 +23,11 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual layers of atmosphere recovering above Earth through decades of coordinated action
+image_query: conceptual layers of atmosphere recovering above Earth through decades
+  of coordinated action
 sources:
-- name: NOAA Chemical Sciences Laboratory — Scientific Assessment of Ozone Depletion 2022
+- name: NOAA Chemical Sciences Laboratory — Scientific Assessment of Ozone Depletion
+    2022
   url: https://csl.noaa.gov/assessments/ozone/2022/
   published: '2022-12-31'
 - name: NOAA Chemical Sciences Laboratory — 2022 Assessment Executive Summary
@@ -42,13 +45,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Under current policies, when does the 2022 scientific assessment expect Antarctic total-column ozone to return to its 1980 value?
+  question: Under current policies, when does the 2022 scientific assessment expect
+    Antarctic total-column ozone to return to its 1980 value?
   options:
   - Around 2040
   - Around 2045
   - Around 2066
   answer: 2
-  explanation: The assessment projects about 2040 for the near-global average, 2045 for the Arctic and 2066 for the Antarctic.
+  explanation: The assessment projects about 2040 for the near-global average, 2045
+    for the Arctic and 2066 for the Antarctic.
 ---
 
 ## BRIEFLY
