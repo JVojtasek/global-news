@@ -460,55 +460,6 @@
   ]
  },
  {
-  "id": "58e356deedb5",
-  "headline": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-  "section": "world",
-  "score": 62,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T14:50:50+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-    "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-    "published_at": "2026-09-07T14:50:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   },
-   {
-    "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
-    "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.",
-    "published_at": "2026-09-07T15:03:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   },
-   {
-    "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
-    "published_at": "2026-09-07T17:52:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   },
-   {
-    "title": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
-    "url": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.",
-    "published_at": "2026-09-07T15:34:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   }
-  ]
- },
- {
   "id": "33a46b0b933c",
   "headline": "The Rwandan eyeing Champions League history against Man Utd",
   "section": "sport",
@@ -2437,37 +2388,6 @@
   ]
  },
  {
-  "id": "1ed9a755881d",
-  "headline": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T18:08:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
-    "url": "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
-    "source": "France 24",
-    "summary": "Israel on Monday threatened a “full-scale war” against the Palestinian Authority if it believed the West Bank-based body was preparing an attack on Israeli forces or settlements resembling Hamas’s October 7, 2023 assault. The warning was denounced by Palestinian authorities as an attempt to fuel the conflict during the Israeli election season.",
-    "published_at": "2026-09-07T18:08:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   },
-   {
-    "title": "Israel deports British activist who protected Palestinian children",
-    "url": "https://www.aljazeera.com/features/2026/9/7/israel-deports-british-activist-who-protected-palestinian-children?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Pro-Palestinian volunteer Finn Joughin faces 10-year ban after kidnapping by Israeli settlers in West Bank.",
-    "published_at": "2026-09-07T16:11:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   }
-  ]
- },
- {
   "id": "276c0505d486",
   "headline": "Before Champions League, Kylian Mbappé campaigns for Ballon d'Or",
   "section": "world",
@@ -2827,6 +2747,37 @@
   ]
  },
  {
+  "id": "f5d9b5f669dc",
+  "headline": "Putting sign language AI into users’ hands",
+  "section": "ai",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-08-12T14:01:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Putting sign language AI into users’ hands",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "Google DeepMind",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "published_at": "2026-08-12T14:01:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T21:21:20+00:00"
+   },
+   {
+    "title": "Meta tests out putting fact-checking in users’ hands across Latin America",
+    "url": "https://www.france24.com/en/meta-tests-out-putting-fact-checking-in-users-hands-across-latin-america-1",
+    "source": "France 24",
+    "summary": "Meta is expanding its shift away from professional fact-checking. The tech giant announced it's trialling it's crowdsourced \"Community Notes\" system across 16 countries in Latin America. Meta says the system will only fully roll out once it is confident it works, but critics warn that with misinformation, manipulated images and AI-generated content spreading rapidly, crowdsourced checks may come t",
+    "published_at": "2026-09-10T20:11:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T21:21:20+00:00"
+   }
+  ]
+ },
+ {
   "id": "2c9421d91e25",
   "headline": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
   "section": "world",
@@ -3144,6 +3095,37 @@
     "published_at": "2026-09-10T13:21:09+00:00",
     "source_countries": [],
     "seen_at": "2026-09-10T15:26:05+00:00"
+   }
+  ]
+ },
+ {
+  "id": "dc57fa6c3d03",
+  "headline": "Man United put four past Sabah on Champions League return",
+  "section": "sport",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T21:01:24+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Man United put four past Sabah on Champions League return",
+    "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
+    "published_at": "2026-09-10T21:01:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T21:21:20+00:00"
+   },
+   {
+    "title": "Sesko soars as Manchester United surge past Sabah on Champions League return",
+    "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "It was a night for romance given the astonishing story that Sabah brought with them to Old Trafford for their Champions League debut. This is a club that did not even exist a decade ago and nobody saw their bolt to the title in Azerbaijan coming last season; in 2024-25, they had finished 41 points off the top. The job that their manager, Valdas Dambrauskas, has done since taking over in the summer",
+    "published_at": "2026-09-10T21:05:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },
@@ -4387,37 +4369,6 @@
   ]
  },
  {
-  "id": "6144899ac402",
-  "headline": "Ecclestone stopped by police for taking shotgun into Portugal",
-  "section": "sport",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T17:40:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-    "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
-    "published_at": "2026-09-07T17:40:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   },
-   {
-    "title": "Bernie Ecclestone questioned after shotgun found on his private jet in Portugal",
-    "url": "https://www.theguardian.com/sport/2026/sep/07/bernie-ecclestone-questioned-shotgun-portugal-formula-one",
-    "source": "Guardian Sport",
-    "summary": "Former F1 chief says firearm was for clay-pigeon shooting Police quiz 95-year-old over lack of documents for gun Bernie Ecclestone was detained in Portugal on Monday after customs authorities found him in possession of an undocumented shotgun. The Guardian has independently confirmed the incident with multiple authorities involved in the matter. The detention of the 95-year-old took place at Tires",
-    "published_at": "2026-09-07T17:45:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   }
-  ]
- },
- {
   "id": "6b09060d5066",
   "headline": "US Open tennis 2026: Osaka v Rybakina, Zheng stuns Swiatek, Andreeva wins and more on day nine – live",
   "section": "sport",
@@ -5410,33 +5361,33 @@
   ]
  },
  {
-  "id": "615743774397",
-  "headline": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-  "section": "tech",
-  "score": 39,
+  "id": "cb2740e5a00b",
+  "headline": "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
+  "section": "world",
+  "score": 40,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T15:27:50+00:00",
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T19:02:30+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-    "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-    "published_at": "2026-09-07T15:27:50+00:00",
+    "title": "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
+    "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Report reveals foreign nationals were misled with job offers, then forced into Russia's army upon arrival.",
+    "published_at": "2026-09-10T19:02:30+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
    },
    {
-    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-    "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
-    "published_at": "2026-09-07T15:27:50+00:00",
+    "title": "Electric car sales doubled in Russia after Ukraine blew up oil refineries",
+    "url": "https://electrek.co/2026/09/10/electric-car-sales-doubled-in-russia-after-ukraine-blew-up-oil-refineries/",
+    "source": "Electrek",
+    "summary": "Electric car sales continue to rise around the globe, driven to newer heights by a wholly unnecessary oil conflict . Only a few backwards-thinking countries are resisting the rise… and one of those backwards-thinking countries is now seeing the light, but it’s for a unique reason. more…",
+    "published_at": "2026-09-10T14:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },
@@ -5622,33 +5573,55 @@
   ]
  },
  {
-  "id": "eb645db084d7",
-  "headline": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
-  "section": "sport",
-  "score": 38,
-  "sources_count": 1,
+  "id": "032cea49447e",
+  "headline": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+  "section": "tech",
+  "score": 39,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T18:00:14+00:00",
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T18:14:14+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "‘Safety, security and service’: behind the scenes with police at Arsenal v Chelsea",
-    "url": "https://www.theguardian.com/football/2026/sep/07/safety-security-and-service-behind-the-scenes-with-police-at-arsenal-v-chelsea",
-    "source": "Guardian Sport",
-    "summary": "Facial recognition and spotters part of operation at Emirates that involved a dozen incidents and two arrests The concourses are silent when, deep in the Emirates Stadium’s bowels, Chief Inspector Pete Dearden’s briefing begins. Arsenal’s 4.30pm kick-off against Chelsea is still hours away but the fixture carries significance as a London derby and because the Premier League champions are hosting a",
-    "published_at": "2026-09-07T18:00:14+00:00",
+    "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "source": "Ars Technica",
+    "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+    "published_at": "2026-09-10T18:14:14+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
    },
    {
-    "title": "Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
-    "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage",
-    "source": "Guardian Sport",
-    "summary": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitors There have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to criticism from Arsenal fans after a stultifying 0-0 draw in April 2015 . On Sunday, though, there was",
-    "published_at": "2026-09-07T15:41:54+00:00",
+    "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "source": "Ars Technica AI",
+    "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+    "published_at": "2026-09-10T18:14:14+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
+   }
+  ]
+ },
+ {
+  "id": "63a73db803a3",
+  "headline": "Girl Scouts of America Announces a First for Its Iconic Cookie Lineup—One Created Exclusively for Dogs",
+  "section": "culture",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T19:28:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Girl Scouts of America Announces a First for Its Iconic Cookie Lineup—One Created Exclusively for Dogs",
+    "url": "https://www.smithsonianmag.com/smart-news/girl-scouts-of-america-announces-a-first-for-its-iconic-cookie-lineup-one-created-exclusively-for-dogs-180989479/",
+    "source": "Smithsonian Mag",
+    "summary": "For the first time in its 109-year history of cookie sales, the organization offers a custom-made sweet treat for four-legged friends",
+    "published_at": "2026-09-10T19:28:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },
@@ -6453,68 +6426,55 @@
   ]
  },
  {
-  "id": "5fe1a564aefd",
-  "headline": "Jonathan Reynolds is right, Jaguar Land Rover doesn’t warrant use of public money | Nils Pratley",
-  "section": "business",
-  "score": 37,
-  "sources_count": 1,
+  "id": "22e2620cc8fe",
+  "headline": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T17:22:51+00:00",
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T20:46:16+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Jonathan Reynolds is right, Jaguar Land Rover doesn’t warrant use of public money | Nils Pratley",
-    "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/07/jaguar-land-rover-job-losses-financial-state-assistance",
-    "source": "Guardian Business",
-    "summary": "The 4,000 job cuts cannot be compared to a VW-like existential crisis and, as JLR presents them, are about staying competitive Jaguar Land Rover confirms plan to cut 4,000 jobs over two years A default reaction to news of job losses in the UK car industry is to ask what the government is going to do about it. So, well done business secretary Jonathan Reynolds for giving the correct response to the",
-    "published_at": "2026-09-07T17:22:51+00:00",
+    "title": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
+    "url": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Over 70,000 migrants entered Ceuta, sparking a humanitarian crisis and political tensions between Spain and Morocco.",
+    "published_at": "2026-09-10T20:46:16+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
+   },
+   {
+    "title": "'No facts': Morocco denies involvement in deadly Ceuta migrant rush",
+    "url": "https://www.france24.com/en/europe/20260910-no-facts-morocco-denies-involvement-in-deadly-ceuta-migrant-rush",
+    "source": "France 24",
+    "summary": "Moroccan authorities said on Thursday there were \"no facts\" establishing its involvement in the migrant rush into Spain's North African exclave of Ceuta in July. It was the kingdom's first official response to a Spanish police report accusing its security forces of \"total permissiveness\" when the mass crossing took place.",
+    "published_at": "2026-09-10T19:32:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },
  {
-  "id": "99a349cd8fce",
-  "headline": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-  "section": "culture",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T15:43:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-    "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-    "published_at": "2026-09-07T15:43:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "1cc3e73ad951",
-  "headline": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-  "section": "safety",
-  "score": 37,
+  "id": "d692cc0bd259",
+  "headline": "NASA Answers President’s Call to Establish United States Space Academy",
+  "section": "science",
+  "score": 38,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-03T05:19:04+00:00",
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T20:26:52+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-    "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
-    "published_at": "2026-09-03T05:19:04+00:00",
+    "title": "NASA Answers President’s Call to Establish United States Space Academy",
+    "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+    "source": "NASA",
+    "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy […]",
+    "published_at": "2026-09-10T20:26:52+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },
@@ -7203,55 +7163,46 @@
   ]
  },
  {
-  "id": "d1f74a46c409",
-  "headline": "The complex corporate web behind a $3.2 billion AI data center",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 2,
+  "id": "738befe9ec03",
+  "headline": "Australia news live: Anthony Albanese marks 25 years since September 11; aged care provider pays back thousands to residents",
+  "section": "world",
+  "score": 37,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T11:00:03+00:00",
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T20:41:36+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "The complex corporate web behind a $3.2 billion AI data center",
-    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "source": "Ars Technica",
-    "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-    "published_at": "2026-09-07T11:00:03+00:00",
+    "title": "Australia news live: Anthony Albanese marks 25 years since September 11; aged care provider pays back thousands to residents",
+    "url": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Follow the day’s news live Good morning Welcome to Guardian Australia’s live news coverage for Friday. Continue reading...",
+    "published_at": "2026-09-10T20:41:36+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
-   },
-   {
-    "title": "The complex corporate web behind a $3.2 billion AI data center",
-    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "source": "Ars Technica AI",
-    "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-    "published_at": "2026-09-07T11:00:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },
  {
-  "id": "01eda295b2c5",
-  "headline": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
+  "id": "c4e8bc2334bf",
+  "headline": "A.I. May Have Solved a Longstanding Math Problem With a Million-Dollar Prize. It Ignited a Controversy Over Who Gets Credit",
   "section": "culture",
-  "score": 36,
+  "score": 37,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T16:59:24+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T20:23:25+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
-    "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
-    "published_at": "2026-09-07T16:59:24+00:00",
+    "title": "A.I. May Have Solved a Longstanding Math Problem With a Million-Dollar Prize. It Ignited a Controversy Over Who Gets Credit",
+    "url": "https://www.smithsonianmag.com/smart-news/ai-may-have-solved-a-longstanding-math-problem-with-a-million-dollar-prize-it-ignited-a-controversy-over-who-gets-credit-180989472/",
+    "source": "Smithsonian Mag",
+    "summary": "OpenAI announced a solution to the Navier-Stokes problem. But could its A.I. models have used data from two mathematicians working on a similar breakthrough?",
+    "published_at": "2026-09-10T20:23:25+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },
@@ -8078,24 +8029,46 @@
   ]
  },
  {
-  "id": "51e0fedb88d7",
-  "headline": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-  "section": "safety",
-  "score": 35,
+  "id": "992049287590",
+  "headline": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+  "section": "science",
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-07T18:29:21+00:00",
-  "event_time": "2026-09-07T14:36:07+00:00",
+  "depth_signal": 2,
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T20:12:39+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-    "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-    "source": "The Hacker News",
-    "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
-    "published_at": "2026-09-07T14:36:07+00:00",
+    "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go/",
+    "source": "NASA",
+    "summary": "Search and rescue technology developed in part by NASA saved five lives",
+    "published_at": "2026-09-10T20:12:39+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-07T18:29:16+00:00"
+    "seen_at": "2026-09-10T21:21:20+00:00"
+   }
+  ]
+ },
+ {
+  "id": "96788d5a772f",
+  "headline": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+  "section": "safety",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-10T21:21:23+00:00",
+  "event_time": "2026-09-10T17:47:38+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+    "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+    "source": "The Hacker News",
+    "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
+    "published_at": "2026-09-10T17:47:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-10T21:21:20+00:00"
    }
   ]
  },

@@ -174,13 +174,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 51  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 52  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 51
-  2026-09-02  (2 zdrojů, síla 42)  Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
+rubrika: world · sledováno od 2026-08-11 · záznamů: 52
   2026-09-02  (2 zdrojů, síla 46)  EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
   2026-09-03  (2 zdrojů, síla 43)  Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
   2026-09-03  (2 zdrojů, síla 40)  Norway seizes Russian ship to enforce $4.22 billion Ukrainian compensation claim
@@ -200,6 +199,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 51
   2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
   2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
   2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
+  2026-09-10  (2 zdrojů, síla 40)  Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
 ```
 
 ---

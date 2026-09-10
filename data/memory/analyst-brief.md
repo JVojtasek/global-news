@@ -21,9 +21,8 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-10** (2 zdrojů) South Korea to boost artificial intelligence ties with Africa
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 30 dní · 51 záznamů
+- rubrika `world` · sledováno 30 dní · 52 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) Russia strikes Kyiv as three-day pause during US envoy visits ends
   - **2026-09-08** (2 zdrojů) North Korea and Russia open first road bridge linking both countries
   - **2026-09-08** (2 zdrojů) Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
   - **2026-09-08** (2 zdrojů) Trump tells Putin he wants swift end to Ukraine war, Kremlin says
@@ -33,13 +32,13 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-09** (2 zdrojů) Ukraine federation calls for Russian sanctions by FIA
   - **2026-09-10** (2 zdrojů) Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
   - **2026-09-10** (2 zdrojů) Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
+  - **2026-09-10** (2 zdrojů) Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 23 dní · 46 záznamů
+- rubrika `sport` · sledováno 23 dní · 47 záznamů
 - časová osa:
-  - **2026-09-05** (2 zdrojů) 'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa
   - **2026-09-05** (2 zdrojů) Aston Villa still winless after stalemate at Hull
   - **2026-09-08** (2 zdrojů) Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
   - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
@@ -49,6 +48,7 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-10** (2 zdrojů) ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
   - **2026-09-10** (3 zdrojů) Europe's next great coach? How Fabregas led Como into Champions League
   - **2026-09-10** (2 zdrojů) Manchester United v Sabah: Champions League – live
+  - **2026-09-10** (2 zdrojů) Man United put four past Sabah on Champions League return
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 28 dní · 36 záznamů
