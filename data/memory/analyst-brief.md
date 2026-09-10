@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-10
 
-Paměť obsahuje **89 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
@@ -37,9 +37,8 @@ Paměť obsahuje **89 vláken**. Aktivních za posledních 14 dní: **45**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 22 dní · 43 záznamů
+- rubrika `sport` · sledováno 23 dní · 44 záznamů
 - časová osa:
-  - **2026-09-04** (3 zdrojů) Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings
   - **2026-09-05** (2 zdrojů) Isak finally arrives as Gakpo proves value to Liverpool
   - **2026-09-05** (2 zdrojů) Hull City v Aston Villa: Premier League – live
   - **2026-09-05** (2 zdrojů) 'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa
@@ -49,6 +48,7 @@ Paměť obsahuje **89 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
   - **2026-09-09** (3 zdrojů) The Rwandan eyeing Champions League history against Man Utd
   - **2026-09-09** (2 zdrojů) Napoli v Arsenal: Champions League – live
+  - **2026-09-10** (2 zdrojů) ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 27 dní · 35 záznamů
