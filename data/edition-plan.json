@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "timezone": "Europe/Prague",
   "public_count": 6,
   "slots": [
@@ -9,7 +9,7 @@
       "type": "daily",
       "min_words": 1400,
       "max_words": 2000,
-      "section": "ai",
+      "section": "soul",
       "status": "draft"
     },
     {
@@ -18,7 +18,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "safety",
+      "section": "parenting",
       "status": "draft"
     },
     {
@@ -27,7 +27,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "soul",
+      "section": "safety",
       "status": "draft"
     },
     {

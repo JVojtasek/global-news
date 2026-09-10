@@ -1,6 +1,63 @@
 {
  "threads": [
   {
+   "id": "f9cc265e8cdb",
+   "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+   "section": "sport",
+   "entities": [
+    "odegaard",
+    "arsenal",
+    "saka",
+    "chelsea",
+    "champions"
+   ],
+   "event_ids": [
+    "f9cc265e8cdb",
+    "a91f8b5f6b57",
+    "849069df442b"
+   ],
+   "first_seen": "2026-09-06",
+   "last_seen": "2026-09-10",
+   "timeline": [
+    {
+     "date": "2026-09-06",
+     "headline": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+     "sources": 3,
+     "score": 55,
+     "event_id": "f9cc265e8cdb",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Champions Arsenal come from behind to beat Chelsea",
+     "sources": 2,
+     "score": 51,
+     "event_id": "a91f8b5f6b57",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Arsenal are passing every test - and Odegaard is in form of his life",
+     "sources": 3,
+     "score": 65,
+     "event_id": "849069df442b",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -4291,50 +4348,6 @@
    ]
   },
   {
-   "id": "f9cc265e8cdb",
-   "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-   "section": "sport",
-   "entities": [
-    "champions",
-    "odegaard",
-    "saka",
-    "arsenal",
-    "chelsea"
-   ],
-   "event_ids": [
-    "f9cc265e8cdb",
-    "a91f8b5f6b57"
-   ],
-   "first_seen": "2026-09-06",
-   "last_seen": "2026-09-06",
-   "timeline": [
-    {
-     "date": "2026-09-06",
-     "headline": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-     "sources": 3,
-     "score": 55,
-     "event_id": "f9cc265e8cdb",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Champions Arsenal come from behind to beat Chelsea",
-     "sources": 2,
-     "score": 51,
-     "event_id": "a91f8b5f6b57",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c4gj7y52393o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-2026"
-     ]
-    }
-   ]
-  },
-  {
    "id": "572525ad51af",
    "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
    "section": "sport",
@@ -7705,5 +7718,5 @@
    ]
   }
  ],
- "updated": "2026-09-09T21:22:13+00:00"
+ "updated": "2026-09-10T00:57:43+00:00"
 }
