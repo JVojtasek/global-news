@@ -2594,6 +2594,323 @@
    ]
   },
   {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "middle",
+    "trump",
+    "gaza",
+    "israeli",
+    "israel",
+    "trump's",
+    "peace",
+    "hamas",
+    "houthis",
+    "east",
+    "arabian",
+    "saudi",
+    "arabia",
+    "lebanon",
+    "jared",
+    "jerusalem",
+    "kushner",
+    "netanyahu",
+    "british",
+    "board"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254",
+    "06df00086e0c",
+    "2ab296b93709",
+    "4038c9b998f5",
+    "9824ab06ba40",
+    "c2a40c5625c5",
+    "c72143066677",
+    "c1254dd22bde",
+    "c9117ee7b07b",
+    "c792fb242bf8"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-10",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "sources": 7,
+     "score": 83,
+     "event_id": "6e0f12b732f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3677e9c2454f",
+     "links": [
+      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "sources": 3,
+     "score": 56,
+     "event_id": "2d4b21839f92",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "sources": 2,
+     "score": 44,
+     "event_id": "25ce347a430e",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e3d7c0ac2a93",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a3f7b5bea254",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "06df00086e0c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2ab296b93709",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Middle East: Israeli strikes kill several in Lebanon",
+     "sources": 3,
+     "score": 51,
+     "event_id": "4038c9b998f5",
+     "links": [
+      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9824ab06ba40",
+     "links": [
+      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c2a40c5625c5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+     "sources": 3,
+     "score": 61,
+     "event_id": "c72143066677",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
+      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c1254dd22bde",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
+      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Oil prices rise as Middle East conflict escalates",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c9117ee7b07b",
+     "links": [
+      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c792fb242bf8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "64969c4b1451",
+   "title": "UEFA to bring criminal complaint against Infantino",
+   "section": "world",
+   "entities": [
+    "world",
+    "france",
+    "matt",
+    "ronay",
+    "hughes",
+    "trump",
+    "infantino",
+    "fifa",
+    "barney",
+    "embattled",
+    "uefa"
+   ],
+   "event_ids": [
+    "64969c4b1451",
+    "2d68919227f3",
+    "361927991686",
+    "d9c728231823",
+    "38cabdf07e25",
+    "d2783d28192e"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-10",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "UEFA to bring criminal complaint against Infantino",
+     "sources": 4,
+     "score": 71,
+     "event_id": "64969c4b1451",
+     "links": [
+      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2d68919227f3",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
+      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
+     "sources": 2,
+     "score": 41,
+     "event_id": "361927991686",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+     "sources": 2,
+     "score": 42,
+     "event_id": "d9c728231823",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
+     "sources": 3,
+     "score": 49,
+     "event_id": "38cabdf07e25",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
+      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "France wants to transform Fifa after withdrawing Infantino support",
+     "sources": 3,
+     "score": 58,
+     "event_id": "d2783d28192e",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260910-gianni-infantino-french-football-federation-withdraws-support-for-fifa-chief",
+      "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "c4e9a534ed7d",
    "title": "Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention",
    "section": "world",
@@ -3054,212 +3371,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "trump",
-    "houthis",
-    "board",
-    "hamas",
-    "peace",
-    "israeli",
-    "arabia",
-    "jared",
-    "kushner",
-    "middle",
-    "british",
-    "gaza",
-    "arabian",
-    "east",
-    "israel",
-    "trump's",
-    "jerusalem",
-    "saudi",
-    "netanyahu",
-    "lebanon"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93",
-    "a3f7b5bea254",
-    "06df00086e0c",
-    "2ab296b93709",
-    "4038c9b998f5",
-    "9824ab06ba40",
-    "c2a40c5625c5",
-    "c72143066677",
-    "c1254dd22bde",
-    "c9117ee7b07b"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-09",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
-     "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "sources": 2,
-     "score": 44,
-     "event_id": "25ce347a430e",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a3f7b5bea254",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "06df00086e0c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2ab296b93709",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Middle East: Israeli strikes kill several in Lebanon",
-     "sources": 3,
-     "score": 51,
-     "event_id": "4038c9b998f5",
-     "links": [
-      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9824ab06ba40",
-     "links": [
-      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c2a40c5625c5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-     "sources": 3,
-     "score": 61,
-     "event_id": "c72143066677",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
-      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
-     "sources": 2,
-     "score": 40,
-     "event_id": "c1254dd22bde",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
-      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Oil prices rise as Middle East conflict escalates",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c9117ee7b07b",
-     "links": [
-      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
      ]
     }
    ]
@@ -4404,91 +4515,6 @@
      "links": [
       "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
       "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "64969c4b1451",
-   "title": "UEFA to bring criminal complaint against Infantino",
-   "section": "world",
-   "entities": [
-    "infantino",
-    "barney",
-    "fifa",
-    "ronay",
-    "uefa",
-    "world",
-    "matt",
-    "embattled",
-    "hughes",
-    "trump"
-   ],
-   "event_ids": [
-    "64969c4b1451",
-    "2d68919227f3",
-    "361927991686",
-    "d9c728231823",
-    "38cabdf07e25"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-09-06",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "UEFA to bring criminal complaint against Infantino",
-     "sources": 4,
-     "score": 71,
-     "event_id": "64969c4b1451",
-     "links": [
-      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2d68919227f3",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
-      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
-     "sources": 2,
-     "score": 41,
-     "event_id": "361927991686",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
-     "sources": 2,
-     "score": 42,
-     "event_id": "d9c728231823",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
-     "sources": 3,
-     "score": 49,
-     "event_id": "38cabdf07e25",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
      ]
     }
    ]
@@ -7875,5 +7901,5 @@
    ]
   }
  ],
- "updated": "2026-09-10T12:36:42+00:00"
+ "updated": "2026-09-10T15:26:08+00:00"
 }

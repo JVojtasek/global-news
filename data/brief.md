@@ -123,7 +123,7 @@
 - rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Phishing — <https://en.wikipedia.org/wiki/Phishing>
-  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
   - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
 
 ---
