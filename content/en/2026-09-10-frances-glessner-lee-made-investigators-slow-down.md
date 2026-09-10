@@ -1,13 +1,15 @@
 ---
 title: Frances Glessner Lee Made Investigators Slow Down
-dek: Her miniature death scenes were not parlour puzzles with a clever reveal. They trained observers to resist the first plausible story and record what the room could actually support.
+dek: Her miniature death scenes were not parlour puzzles with a clever reveal. They
+  trained observers to resist the first plausible story and record what the room could
+  actually support.
 date: '2026-09-10'
 section: mysteries
 type: analysis
 format: ''
 series: ''
-status: draft
-confidence: 94
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -34,11 +36,13 @@ tickers: []
 quiz:
   question: What was the central training value of the Nutshell Studies?
   options:
-  - They gave investigators a miniature scene where disciplined observation could be separated from an early theory.
+  - They gave investigators a miniature scene where disciplined observation could
+    be separated from an early theory.
   - They reproduced every case so exactly that no uncertainty remained.
   - They taught investigators to trust the most dramatic clue first.
   answer: 0
-  explanation: The models rewarded systematic observation and competing explanations; they were not designed to make the first story self-proving.
+  explanation: The models rewarded systematic observation and competing explanations;
+    they were not designed to make the first story self-proving.
 lang: en
 depth: open
 slug: frances-glessner-lee-made-investigators-slow-down

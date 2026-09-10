@@ -1,13 +1,15 @@
 ---
 title: A Layover Is Not Always a Connection
-dek: Two flights can appear on one screen and still leave the traveller holding two separate risks. The useful question is not the airport gap alone, but who must repair the journey when the first flight fails.
+dek: Two flights can appear on one screen and still leave the traveller holding two
+  separate risks. The useful question is not the airport gap alone, but who must repair
+  the journey when the first flight fails.
 date: '2026-09-10'
 section: travel
 type: analysis
 format: ''
 series: ''
-status: draft
-confidence: 96
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -35,13 +37,16 @@ quiz:
   question: What most clearly separates a protected connection from a self-transfer?
   options:
   - The two flights use the same airport.
-  - The itinerary is covered by one contract that makes a carrier responsible for the missed onward flight.
+  - The itinerary is covered by one contract that makes a carrier responsible for
+    the missed onward flight.
   - The traveller has more than two hours between departures.
   answer: 1
-  explanation: Time and airport layout matter operationally, but contractual responsibility determines who must repair a disrupted itinerary.
+  explanation: Time and airport layout matter operationally, but contractual responsibility
+    determines who must repair a disrupted itinerary.
 lang: en
 depth: open
 slug: a-layover-is-not-always-a-connection
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

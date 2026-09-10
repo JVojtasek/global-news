@@ -1,13 +1,14 @@
 ---
 title: Vanilla Has One Morning to Become a Bean
-dek: The familiar flavour begins with an orchid that opens briefly, a hand that bridges its floral barrier and months of curing that turn a green fruit into aroma.
+dek: The familiar flavour begins with an orchid that opens briefly, a hand that bridges
+  its floral barrier and months of curing that turn a green fruit into aroma.
 date: '2026-09-10'
 section: food
 type: feature
 format: ''
 series: ''
 status: reserve
-confidence: 94
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -34,11 +35,13 @@ tickers: []
 quiz:
   question: Why is pollination only the beginning of vanilla production?
   options:
-  - Pollination sets the fruit, but the pod must mature and then be cured to develop the familiar aroma.
+  - Pollination sets the fruit, but the pod must mature and then be cured to develop
+    the familiar aroma.
   - A pollinated flower immediately contains ready-to-use vanilla extract.
   - Curing changes only the pod's colour and has no effect on aroma.
   answer: 0
-  explanation: Successful pollination starts fruit formation; maturation and controlled curing transform the harvested green pod into an aromatic ingredient.
+  explanation: Successful pollination starts fruit formation; maturation and controlled
+    curing transform the harvested green pod into an aromatic ingredient.
 lang: en
 depth: open
 slug: vanilla-has-one-morning-to-become-a-bean
