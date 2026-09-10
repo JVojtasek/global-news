@@ -822,43 +822,44 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "moldova",
-    "zelensky",
-    "bear",
-    "europe",
-    "kushner",
-    "wildberries",
-    "trump",
-    "ukrainian",
-    "masha",
-    "putin",
-    "peace",
-    "nato",
-    "several",
-    "izmail",
     "norway",
-    "moscow",
-    "ukraine",
-    "kremlin",
-    "germany",
-    "korea",
-    "shootout",
-    "zelenskyy",
-    "kyiv",
-    "russian",
-    "korean",
-    "overnight",
-    "bessent",
+    "bear",
     "north",
-    "witkoff",
-    "back-to-back",
-    "belgorod",
-    "atacms",
-    "holding",
-    "four",
+    "korean",
+    "peace",
     "leipzig",
+    "kremlin",
+    "orthodox",
+    "shootout",
+    "germany",
+    "belgorod",
+    "ukrainian",
+    "zelenskyy",
+    "witkoff",
+    "bessent",
+    "moscow",
+    "russian",
+    "europe",
+    "holding",
+    "zelensky",
+    "russia",
+    "kyiv",
+    "back-to-back",
+    "wildberries",
+    "izmail",
+    "masha",
+    "trump",
+    "moldova",
+    "overnight",
+    "nato",
+    "kushner",
+    "several",
+    "four",
+    "atacms",
     "burnham",
-    "russia"
+    "putin",
+    "ukraine",
+    "korea"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -910,7 +911,8 @@
     "1513a530e5ed",
     "54e80567fdca",
     "425807e9a9d0",
-    "3b91b16ba28c"
+    "3b91b16ba28c",
+    "743183352673"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-10",
@@ -1475,6 +1477,17 @@
       "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
       "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Orthodox church sends medieval prince’s remains to Russian troops in Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "743183352673",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
+      "https://www.theguardian.com/film/2026/sep/09/dau-director-defends-russian-lead-actor-ukraine-criticism"
+     ]
     }
    ]
   },
@@ -1483,46 +1496,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "mccabe",
-    "city",
-    "golden",
-    "club",
-    "arsenal",
-    "forest",
-    "isak",
-    "sports",
-    "dambrauskas",
+    "life",
+    "phil",
     "como",
-    "haaland",
-    "premier",
-    "manchester",
-    "carrick",
-    "wants",
-    "joao",
-    "liverpool",
-    "millionaire",
-    "tzolis",
-    "league",
-    "pedro's",
+    "isak",
+    "golden",
+    "european",
+    "forest",
+    "fabregas",
+    "it's",
     "brugge",
-    "scherpen",
-    "boot",
+    "arsenal",
     "michael",
+    "premier",
+    "league",
     "a-league",
     "matildas",
+    "haaland",
+    "tzolis",
     "salah",
-    "rwandan",
-    "phil",
-    "napoli",
-    "life",
-    "fabregas",
+    "club",
+    "champions",
     "gakpo",
-    "sunderland",
-    "european",
-    "it's",
+    "rwandan",
+    "city",
+    "joao",
+    "sabah",
+    "mccabe",
+    "liverpool",
+    "napoli",
+    "scherpen",
+    "carrick",
+    "pedro's",
+    "dambrauskas",
+    "manchester",
     "ipswich",
-    "aston",
-    "champions"
+    "wants",
+    "boot",
+    "united",
+    "millionaire",
+    "sports"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1569,7 +1582,8 @@
     "33a46b0b933c",
     "1be024e4d355",
     "5f9b78c423de",
-    "be719f609eab"
+    "be719f609eab",
+    "7f171825c70f"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-10",
@@ -2094,6 +2108,18 @@
       "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/tv-shows/sports/20260910-psg-make-perfect-start-to-champions-league-title-defence",
       "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Manchester United v Sabah: Champions League – live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "7f171825c70f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
      ]
     }
    ]
@@ -2812,6 +2838,180 @@
    ]
   },
   {
+   "id": "81515d5a1191",
+   "title": "Robinson and Tongue guide England to strong start against Pakistan",
+   "section": "sport",
+   "entities": [
+    "abbas",
+    "pakistan",
+    "pietersen",
+    "tongue",
+    "fleming",
+    "root",
+    "robinson",
+    "lawrence",
+    "lord's",
+    "headingley",
+    "brook",
+    "england",
+    "test"
+   ],
+   "event_ids": [
+    "81515d5a1191",
+    "c2083dc9b402",
+    "01a37345b72e",
+    "22dc48990b22",
+    "251989e37557",
+    "0d4f9b3b0b25",
+    "1af8b64037cb",
+    "3b069fa24056",
+    "eec496907f97",
+    "a700a323139e",
+    "a2a7723a9b14",
+    "1d5ba995d4da"
+   ],
+   "first_seen": "2026-08-19",
+   "last_seen": "2026-09-10",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
+     "sources": 2,
+     "score": 55,
+     "event_id": "81515d5a1191",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Tongue & Robinson cut Headingley ball in half",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2083dc9b402",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Brook shines as England take control against Pakistan",
+     "sources": 2,
+     "score": 43,
+     "event_id": "01a37345b72e",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "England v Pakistan: first Test, day three – live",
+     "sources": 2,
+     "score": 49,
+     "event_id": "22dc48990b22",
+     "links": [
+      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
+      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
+     "sources": 2,
+     "score": 43,
+     "event_id": "251989e37557",
+     "links": [
+      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
+      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Abbas gives Pakistan edge with four wickets against England in second Test",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0d4f9b3b0b25",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-first-day-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "England humble poor Pakistan to confirm series win at Lord's",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1af8b64037cb",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/clyqnkxq87po?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/aug/30/joe-root-england-pakistan-lords-test-series"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Lawrence helps England build big lead on rain-affected day at Lord's",
+     "sources": 1,
+     "score": 41,
+     "event_id": "3b069fa24056",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Pakistan investigate 'discipline and conduct' on England tour",
+     "sources": 2,
+     "score": 41,
+     "event_id": "eec496907f97",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/07/pakistan-launch-investigation-player-conduct-england-tour-cricket"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "England different from when Pietersen left - Root",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a700a323139e",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/08/joe-root-backs-kevin-pietersen-england-cricket-players"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "England humble hapless Pakistan on opening day of final Test",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a2a7723a9b14",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/clyer832nx8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/articles/cj06yv2n8mno?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "England march to early win over Pakistan halted by rain",
+     "sources": 2,
+     "score": 45,
+     "event_id": "1d5ba995d4da",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "64969c4b1451",
    "title": "UEFA to bring criminal complaint against Infantino",
    "section": "world",
@@ -3371,168 +3571,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "81515d5a1191",
-   "title": "Robinson and Tongue guide England to strong start against Pakistan",
-   "section": "sport",
-   "entities": [
-    "test",
-    "tongue",
-    "pietersen",
-    "england",
-    "brook",
-    "robinson",
-    "headingley",
-    "root",
-    "fleming",
-    "lord's",
-    "abbas",
-    "lawrence",
-    "pakistan"
-   ],
-   "event_ids": [
-    "81515d5a1191",
-    "c2083dc9b402",
-    "01a37345b72e",
-    "22dc48990b22",
-    "251989e37557",
-    "0d4f9b3b0b25",
-    "1af8b64037cb",
-    "3b069fa24056",
-    "eec496907f97",
-    "a700a323139e",
-    "a2a7723a9b14"
-   ],
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-09-09",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Robinson and Tongue guide England to strong start against Pakistan",
-     "sources": 2,
-     "score": 55,
-     "event_id": "81515d5a1191",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/cqjxk8y5jl0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/ollie-robinson-josh-tongue-england-pakistan-first-test-day-one-headingley-cricket",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Tongue & Robinson cut Headingley ball in half",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c2083dc9b402",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/19/england-pakistan-first-test-day-one-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Brook shines as England take control against Pakistan",
-     "sources": 2,
-     "score": 43,
-     "event_id": "01a37345b72e",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/c62xjkyd7dzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "England v Pakistan: first Test, day three – live",
-     "sources": 2,
-     "score": 49,
-     "event_id": "22dc48990b22",
-     "links": [
-      "https://www.theguardian.com/sport/live/2026/aug/21/england-v-pakistan-first-test-day-three-live",
-      "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Root reveals incoming England coach Fleming was in daily contact during first Test win",
-     "sources": 2,
-     "score": 43,
-     "event_id": "251989e37557",
-     "links": [
-      "https://www.theguardian.com/sport/2026/aug/21/joe-root-stephen-fleming-first-test-win-pakistan-cricket",
-      "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Abbas gives Pakistan edge with four wickets against England in second Test",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0d4f9b3b0b25",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/27/abbas-gives-pakistan-edge-with-four-wickets-against-england-in-second-test?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-first-day-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "England humble poor Pakistan to confirm series win at Lord's",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1af8b64037cb",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/clyqnkxq87po?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/aug/30/joe-root-england-pakistan-lords-test-series"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Lawrence helps England build big lead on rain-affected day at Lord's",
-     "sources": 1,
-     "score": 41,
-     "event_id": "3b069fa24056",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Pakistan investigate 'discipline and conduct' on England tour",
-     "sources": 2,
-     "score": 41,
-     "event_id": "eec496907f97",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cj4je1nl51qo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/07/pakistan-launch-investigation-player-conduct-england-tour-cricket"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "England different from when Pietersen left - Root",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a700a323139e",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/08/joe-root-backs-kevin-pietersen-england-cricket-players"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "England humble hapless Pakistan on opening day of final Test",
-     "sources": 1,
-     "score": 40,
-     "event_id": "a2a7723a9b14",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/videos/clyer832nx8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/cricket/articles/cj06yv2n8mno?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/cricket/videos/c05re8eq183o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -7901,5 +7939,5 @@
    ]
   }
  ],
- "updated": "2026-09-10T15:26:08+00:00"
+ "updated": "2026-09-10T18:28:33+00:00"
 }

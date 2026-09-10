@@ -124,7 +124,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Phishing — <https://en.wikipedia.org/wiki/Phishing>
   - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
-  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
+  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
 
 ---
 
@@ -174,13 +174,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 50  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 51  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 50
-  2026-09-02  (2 zdrojů, síla 45)  EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
+rubrika: world · sledováno od 2026-08-11 · záznamů: 51
   2026-09-02  (2 zdrojů, síla 42)  Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
   2026-09-02  (2 zdrojů, síla 46)  EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
   2026-09-03  (2 zdrojů, síla 43)  Shootout in Kyiv between Ukrainian spy services ‘disgraceful’, says Zelenskyy
@@ -200,6 +199,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 50
   2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
   2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
   2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
+  2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
 ```
 
 ---
