@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **10**
+- Článků v zásobě: **11**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -174,13 +174,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 49  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 50  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 49
-  2026-09-01  (2 zdrojů, síla 43)  Russia kills at least 12 on sixth night of drone attacks on Kyiv
+rubrika: world · sledováno od 2026-08-11 · záznamů: 50
   2026-09-02  (2 zdrojů, síla 45)  EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live
   2026-09-02  (2 zdrojů, síla 42)  Russian airspace becoming unsafe for commercial airlines, Zelenskyy says
   2026-09-02  (2 zdrojů, síla 46)  EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
@@ -200,6 +199,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 49
   2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
   2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
   2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
+  2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
 ```
 
 ---
