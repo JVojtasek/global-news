@@ -7,9 +7,8 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 30 dní · 60 záznamů
+- rubrika `world` · sledováno 32 dní · 60 záznamů
 - časová osa:
-  - **2026-09-01** (2 zdrojů) U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
   - **2026-09-02** (2 zdrojů) Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
   - **2026-09-02** (1 zdrojů) Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
   - **2026-09-03** (2 zdrojů) Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
@@ -19,6 +18,7 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-08** (2 zdrojů) Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
   - **2026-09-08** (2 zdrojů) Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
   - **2026-09-08** (2 zdrojů) France, South Korea pledge 1 billion euros to support cinema amid AI threat
+  - **2026-09-10** (2 zdrojů) South Korea to boost artificial intelligence ties with Africa
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 30 dní · 50 záznamů
@@ -37,9 +37,8 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 23 dní · 44 záznamů
+- rubrika `sport` · sledováno 23 dní · 45 záznamů
 - časová osa:
-  - **2026-09-05** (2 zdrojů) Isak finally arrives as Gakpo proves value to Liverpool
   - **2026-09-05** (2 zdrojů) Hull City v Aston Villa: Premier League – live
   - **2026-09-05** (2 zdrojů) 'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa
   - **2026-09-05** (2 zdrojů) Aston Villa still winless after stalemate at Hull
@@ -49,11 +48,11 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-09** (3 zdrojů) The Rwandan eyeing Champions League history against Man Utd
   - **2026-09-09** (2 zdrojů) Napoli v Arsenal: Champions League – live
   - **2026-09-10** (2 zdrojů) ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
+  - **2026-09-10** (3 zdrojů) Europe's next great coach? How Fabregas led Como into Champions League
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 27 dní · 35 záznamů
+- rubrika `world` · sledováno 28 dní · 36 záznamů
 - časová osa:
-  - **2026-09-04** (2 zdrojů) Israel's West Bank camp displacements could be crime against humanity, UN says
   - **2026-09-04** (2 zdrojů) 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC
   - **2026-09-05** (2 zdrojů) US ambassador to Israel visits Palestinian town hit by West Bank settler violence
   - **2026-09-05** (2 zdrojů) Inside the places that shaped Dolly Parton
@@ -63,6 +62,7 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-08** (3 zdrojů) UK announces sanctions on West Bank settlements prompting furious Israeli response
   - **2026-09-09** (2 zdrojů) Where is Israel's proposed West Bank settlement the UK opposes?
   - **2026-09-09** (2 zdrojů) Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements
+  - **2026-09-10** (2 zdrojů) Muted US response to UK's West Bank sanctions may reflect simmering frustration
 
 ### Trump signs order to rename Lake Ontario as Lake America
 - rubrika `world` · sledováno 13 dní · 17 záznamů

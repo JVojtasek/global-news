@@ -123,7 +123,7 @@
 - rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Phishing — <https://en.wikipedia.org/wiki/Phishing>
-  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
+  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
   - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
 
 ---
@@ -151,7 +151,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-27  (2 zdrojů, síla 54)  Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
   2026-08-27  (2 zdrojů, síla 46)  Uefa Champions League 2026-27: league phase draw – live
   2026-08-27  (4 zdrojů, síla 71)  Man City and Aston Villa to face holders PSG in Champions League
   2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
@@ -171,6 +170,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
   2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
   2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat
+  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
