@@ -9,7 +9,6 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 33 dní · 60 záznamů
 - časová osa:
-  - **2026-09-02** (1 zdrojů) Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
   - **2026-09-03** (2 zdrojů) Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
   - **2026-09-03** (2 zdrojů) Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
@@ -19,6 +18,7 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-08** (2 zdrojů) France, South Korea pledge 1 billion euros to support cinema amid AI threat
   - **2026-09-10** (2 zdrojů) South Korea to boost artificial intelligence ties with Africa
   - **2026-09-11** (2 zdrojů) Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
+  - **2026-09-11** (2 zdrojů) India news: Putin, Modi to hold talks ahead of BRICS Summit
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 30 dní · 52 záznamů

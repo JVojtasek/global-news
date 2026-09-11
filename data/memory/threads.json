@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "gulf",
-    "start",
     "taiwan",
-    "briton",
-    "league",
-    "real",
-    "middle",
-    "ukraine",
-    "qatar",
-    "city",
-    "asia",
-    "times",
-    "korea",
-    "africa",
-    "jong",
-    "fenerbahce",
-    "groundhog",
-    "iranian",
-    "south",
-    "mideast",
-    "lyon",
-    "d-day",
-    "mourinho",
-    "brics",
-    "indycar",
-    "donald",
-    "inter",
-    "india",
-    "hormuz",
-    "iran's",
-    "o'neill",
-    "kuwait",
-    "kylian",
-    "centcom",
-    "toxic",
-    "ballon",
-    "north",
     "putin",
+    "times",
+    "ballon",
+    "kylian",
+    "o'neill",
+    "centcom",
     "iran",
-    "china's"
+    "city",
+    "fenerbahce",
+    "kuwait",
+    "qatar",
+    "summit",
+    "briton",
+    "real",
+    "india",
+    "north",
+    "gulf",
+    "china's",
+    "toxic",
+    "jong",
+    "iran's",
+    "iranian",
+    "asia",
+    "hormuz",
+    "indycar",
+    "inter",
+    "mourinho",
+    "ukraine",
+    "lyon",
+    "middle",
+    "mideast",
+    "modi",
+    "groundhog",
+    "brics",
+    "start",
+    "south",
+    "d-day",
+    "donald",
+    "league"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -128,23 +128,12 @@
     "816211516f67",
     "e3646c354bc1",
     "8fee17a8750f",
-    "869a466455ee"
+    "869a466455ee",
+    "fb1f421ffe26"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-11",
    "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Trump orders Pentagon to scale back joint exercises with South Korea",
-     "sources": 3,
-     "score": 53,
-     "event_id": "4ee875e3fe43",
-     "links": [
-      "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-      "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260817-trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-hours-before-start"
-     ]
-    },
     {
      "date": "2026-08-17",
      "headline": "Trump orders US to scale back South Korea military drills",
@@ -814,6 +803,17 @@
      "links": [
       "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
       "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "India news: Putin, Modi to hold talks ahead of BRICS Summit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "fb1f421ffe26",
+     "links": [
+      "https://www.dw.com/en/india-news-putin-modi-to-hold-talks-ahead-of-brics-summit/live-79224239?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html"
      ]
     }
    ]
@@ -1705,6 +1705,104 @@
       "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
       "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
       "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "84ce4047c1c5",
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "section": "world",
+   "entities": [
+    "fast-fashion",
+    "shein",
+    "alibaba",
+    "kong",
+    "shein's",
+    "tiananmen",
+    "kong's",
+    "hong"
+   ],
+   "event_ids": [
+    "84ce4047c1c5",
+    "0df2dafecfc9",
+    "2c91a82a84c2",
+    "f33cc723a614",
+    "a74878e9b76a",
+    "b43c2e14cf73"
+   ],
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-09-11",
+   "timeline": [
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+     "sources": 5,
+     "score": 85,
+     "event_id": "84ce4047c1c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong convicts Tiananmen vigil leaders",
+     "sources": 3,
+     "score": 67,
+     "event_id": "0df2dafecfc9",
+     "links": [
+      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+     "sources": 2,
+     "score": 40,
+     "event_id": "2c91a82a84c2",
+     "links": [
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+     "sources": 3,
+     "score": 53,
+     "event_id": "f33cc723a614",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
+      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a74878e9b76a",
+     "links": [
+      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+     "sources": 5,
+     "score": 80,
+     "event_id": "b43c2e14cf73",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers"
      ]
     }
    ]
@@ -5779,91 +5877,6 @@
    ]
   },
   {
-   "id": "84ce4047c1c5",
-   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-   "section": "world",
-   "entities": [
-    "fast-fashion",
-    "hong",
-    "shein's",
-    "alibaba",
-    "kong",
-    "kong's",
-    "shein",
-    "tiananmen"
-   ],
-   "event_ids": [
-    "84ce4047c1c5",
-    "0df2dafecfc9",
-    "2c91a82a84c2",
-    "f33cc723a614",
-    "a74878e9b76a"
-   ],
-   "first_seen": "2026-08-21",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "sources": 5,
-     "score": 85,
-     "event_id": "84ce4047c1c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong convicts Tiananmen vigil leaders",
-     "sources": 3,
-     "score": 67,
-     "event_id": "0df2dafecfc9",
-     "links": [
-      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
-      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-     "sources": 2,
-     "score": 40,
-     "event_id": "2c91a82a84c2",
-     "links": [
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
-     "sources": 3,
-     "score": 53,
-     "event_id": "f33cc723a614",
-     "links": [
-      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
-      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
-     "sources": 2,
-     "score": 46,
-     "event_id": "a74878e9b76a",
-     "links": [
-      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
-     ]
-    }
-   ]
-  },
-  {
    "id": "b041c95e70b8",
    "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
    "section": "world",
@@ -8022,5 +8035,5 @@
    ]
   }
  ],
- "updated": "2026-09-11T06:39:16+00:00"
+ "updated": "2026-09-11T09:27:54+00:00"
 }

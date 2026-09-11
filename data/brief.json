@@ -1,7 +1,7 @@
 {
  "date": "2026-09-11",
  "mode": "normal",
- "days_since_human": 0,
+ "days_since_human": 1,
  "confidence_threshold": 82,
  "reserve_articles": 11,
  "news_assignments": [
@@ -108,6 +108,65 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "b43c2e14cf73",
+   "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+   "section": "world",
+   "score": 80,
+   "sources_count": 5,
+   "depth_signal": 2,
+   "created": "2026-09-11T09:27:54+00:00",
+   "event_time": "2026-09-11T05:41:54+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+     "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+     "published_at": "2026-09-11T05:41:54+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-11T09:27:51+00:00"
+    },
+    {
+     "title": "Hong Kong Tiananmen activists sentenced up to 7 years",
+     "url": "https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Three pro-democracy activists who organized annual commemorations of China's deadly 1989 Tiananmen crackdown were charged under Hong Kong's Beijing-backed national security law.",
+     "published_at": "2026-09-11T08:40:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-11T09:27:51+00:00"
+    },
+    {
+     "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
+     "url": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
+     "source": "NPR News",
+     "summary": "The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
+     "published_at": "2026-09-11T06:42:04+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-11T09:27:51+00:00"
+    },
+    {
+     "title": "Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report",
+     "url": "https://www.scmp.com/business/banking-finance/article/3367190/mainland-chinese-investors-drive-hong-kong-wealth-boom-despite-new-tax-rules-report?utm_source=rss_feed",
+     "source": "SCMP Tech (Čína)",
+     "summary": "Hong Kong banks expect the contribution of mainland Chinese investors to the city’s wealth management business to continue to grow through 2030, presenting opportunities despite Beijing’s tightened cross-border tax rules. Mainland China’s share of local assets under management was projected to reach 68 per cent from 59 per cent within five years, according to a report released by the Hong Kong Ass",
+     "published_at": "2026-09-11T09:00:16+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-11T09:27:51+00:00"
+    },
+    {
+     "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
+     "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.",
+     "published_at": "2026-09-11T08:00:28+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-11T09:27:51+00:00"
+    }
+   ],
+   "depth": "scripture"
   },
   {
    "id": "832c384b6768",
@@ -235,74 +294,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "0120f35abded",
-   "headline": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
-   "section": "world",
-   "score": 66,
-   "sources_count": 3,
-   "depth_signal": 2,
-   "created": "2026-09-09T00:59:19+00:00",
-   "event_time": "2026-09-08T22:39:54+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
-     "url": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form.",
-     "published_at": "2026-09-08T22:39:54+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-09T00:59:16+00:00"
-    },
-    {
-     "title": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
-     "url": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Andoni Iraola looks to build on his first win as Liverpool manager in tough game against Diego Simeone's Atletico.",
-     "published_at": "2026-09-08T22:34:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-09T00:59:16+00:00"
-    },
-    {
-     "title": "Haaland to the double as Manchester City beat Porto in Champions League",
-     "url": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
-     "published_at": "2026-09-08T21:46:58+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-09T00:59:16+00:00"
-    },
-    {
-     "title": "Mourinho's Real Madrid edge Inter Milan in Champions League opener",
-     "url": "https://www.france24.com/en/sport/20260908-mourinho-real-madrid-edge-inter-milan-in-champions-league-opener",
-     "source": "France 24",
-     "summary": "Jose Mourinho's Real Madrid began their Champions League campaign with a 2-1 win over his former side Inter Milan on Tuesday, taking a two-goal lead before Carlos Augusto pulled one back. Thibaut Courtois and Inter goalkeeper Josep Martinez both made crucial saves as Madrid held on for victory at the Santiago Bernabeu.",
-     "published_at": "2026-09-08T21:23:46+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-09T00:59:16+00:00"
-    },
-    {
-     "title": "Real Madrid somehow cling on to beat Inter on José Mourinho’s big night",
-     "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report",
-     "source": "Guardian Sport",
-     "summary": "Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions League return to Real Madrid. Just don’t ask exactly how. Except perhaps to cite Thibaut Courtois, whose astonishing 89th-m",
-     "published_at": "2026-09-08T21:18:12+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-09T00:59:16+00:00"
-    },
-    {
-     "title": "Haaland double gives Manchester City ideal Champions League start in Porto",
-     "url": "https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report",
-     "source": "Guardian Sport",
-     "summary": "Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the competition, and been beaten in the 2021 Champions League final at this venue, so to beat Porto and claim three points is a",
-     "published_at": "2026-09-08T21:08:19+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-09T00:59:16+00:00"
-    }
-   ],
-   "depth": "scripture"
   }
  ],
  "feature_assignments": [
@@ -322,7 +313,7 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-08-27  (4 zdrojů, síla 71)  Man City and Aston Villa to face holders PSG in Champions League\n  2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports\n  2026-08-28  (2 zdrojů, síla 49)  Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal\n  2026-08-28  (2 zdrojů, síla 44)  O'Neill hopeful on transfers despite Champions League play-off exit\n  2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown\n  2026-08-31  (2 zdrojů, síla 42)  US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan\n  2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up\n  2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month\n  2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom\n  2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people\n  2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war\n  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'\n  2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?\n  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies\n  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack\n  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or\n  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?\n  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat\n  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa\n  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports\n  2026-08-28  (2 zdrojů, síla 49)  Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal\n  2026-08-28  (2 zdrojů, síla 44)  O'Neill hopeful on transfers despite Champions League play-off exit\n  2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown\n  2026-08-31  (2 zdrojů, síla 42)  US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan\n  2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up\n  2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month\n  2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom\n  2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people\n  2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war\n  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'\n  2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?\n  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies\n  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack\n  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or\n  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?\n  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat\n  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa\n  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars\n  2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit",
    "thread_days": 60
   },
   {
