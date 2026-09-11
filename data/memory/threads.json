@@ -1,6 +1,897 @@
 {
  "threads": [
   {
+   "id": "e8a425cbff50",
+   "title": "Premier League to publish verdicts on referee and VAR decisions",
+   "section": "sport",
+   "entities": [
+    "club",
+    "ipswich",
+    "dambrauskas",
+    "haaland",
+    "gakpo",
+    "scherpen",
+    "salah",
+    "city",
+    "manchester",
+    "european",
+    "carrick",
+    "fabregas",
+    "leipzig",
+    "life",
+    "boot",
+    "isak",
+    "forest",
+    "matildas",
+    "league",
+    "phil",
+    "sabah",
+    "golden",
+    "millionaire",
+    "pedro's",
+    "brugge",
+    "champions",
+    "liverpool",
+    "arsenal",
+    "michael",
+    "it's",
+    "tzolis",
+    "napoli",
+    "mccabe",
+    "sports",
+    "joao",
+    "rwandan",
+    "premier",
+    "united",
+    "wants",
+    "a-league"
+   ],
+   "event_ids": [
+    "e8a425cbff50",
+    "41179a85b0d9",
+    "3ff3a046513a",
+    "e7e4d04839a4",
+    "dfde3543e4ba",
+    "d94ad932442f",
+    "e0b2bb707b45",
+    "ca9b3648741f",
+    "7647b16128ca",
+    "3ed1a03ec11c",
+    "4774e258c054",
+    "3d51e83a35a8",
+    "aa48b1799b4d",
+    "f0a55f3207b0",
+    "6302b95a195e",
+    "fa7dac5445af",
+    "158c46bf8a36",
+    "48e10bd0f355",
+    "95f3edbe9e13",
+    "0eb6f99b53b6",
+    "44a656893df0",
+    "eb6c94972eaf",
+    "0818c2669ed5",
+    "d5134ea0c398",
+    "733eca9e3ba8",
+    "8e3412e5f1ca",
+    "2496eadc17a6",
+    "af484d739144",
+    "90399fab0687",
+    "ef63e47ed4c0",
+    "02d3ac75a53a",
+    "9d185633198c",
+    "b2ce06d6a200",
+    "a0428a510351",
+    "684081a81f31",
+    "7c74ae10e984",
+    "d4276895c857",
+    "234d20391d20",
+    "7d15ece97d42",
+    "088768f3341d",
+    "0120f35abded",
+    "33a46b0b933c",
+    "1be024e4d355",
+    "5f9b78c423de",
+    "be719f609eab",
+    "7f171825c70f",
+    "dc57fa6c3d03",
+    "9dcec27cdc51"
+   ],
+   "first_seen": "2026-08-18",
+   "last_seen": "2026-09-11",
+   "timeline": [
+    {
+     "date": "2026-08-18",
+     "headline": "Premier League to publish verdicts on referee and VAR decisions",
+     "sources": 3,
+     "score": 64,
+     "event_id": "e8a425cbff50",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "Haaland's main rivals for the Premier League Golden Boot",
+     "sources": 2,
+     "score": 49,
+     "event_id": "41179a85b0d9",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3ff3a046513a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+     "sources": 1,
+     "score": 46,
+     "event_id": "e7e4d04839a4",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+      "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
+      "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Premier League 2026-27 preview No 18: Nottingham Forest",
+     "sources": 1,
+     "score": 43,
+     "event_id": "dfde3543e4ba",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
+      "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d94ad932442f",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e0b2bb707b45",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Arsenal v Coventry City: Premier League – live",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ca9b3648741f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
+     "sources": 3,
+     "score": 54,
+     "event_id": "7647b16128ca",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-22",
+     "headline": "Hull City v Manchester United: Premier League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3ed1a03ec11c",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/22/hull-city-v-manchester-united-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Newcastle United v Liverpool: Premier League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4774e258c054",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
+     "sources": 2,
+     "score": 50,
+     "event_id": "3d51e83a35a8",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c9q9q2gnxvjo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
+     "sources": 2,
+     "score": 46,
+     "event_id": "aa48b1799b4d",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+     "sources": 2,
+     "score": 49,
+     "event_id": "f0a55f3207b0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/andoni-iraola-liverpool-alexander-isak-matthias-jaissle-newcastle"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "What does your Premier League club still need in the transfer window?",
+     "sources": 3,
+     "score": 62,
+     "event_id": "6302b95a195e",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cr59zj42plvo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/sports/20260825-premier-league-chelsea-defeat-fulham-in-xabi-alonso-s-first-game-as-manager"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Will a Premier League club break record for transfer sales in one window?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "fa7dac5445af",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss",
+      "https://phys.org/news/2026-08-gambling-branding-dominates-premier-league.html"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Premier League: 10 things to look out for this weekend",
+     "sources": 3,
+     "score": 60,
+     "event_id": "158c46bf8a36",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/28/premier-league-10-things-to-look-out-for-this-weekend",
+      "https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace",
+      "https://www.aljazeera.com/sports/2026/8/27/crystal-palace-vs-man-city-premier-league-prediction-teams-lineups?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "LIVE: Crystal Palace vs Manchester City – Premier League",
+     "sources": 2,
+     "score": 52,
+     "event_id": "48e10bd0f355",
+     "links": [
+      "https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/28/europa-league-draw-bournemouth-sunderland-milan-crystal-palace-lyon",
+      "https://www.theguardian.com/football/2026/aug/28/premier-league-h2h-record-manager-form-data-analysis"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Haaland and Cherki fire impressive Man City to victory at Palace",
+     "sources": 3,
+     "score": 65,
+     "event_id": "95f3edbe9e13",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/aug/28/crystal-palace-v-manchester-city-premier-league-live"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live",
+     "sources": 2,
+     "score": 47,
+     "event_id": "0eb6f99b53b6",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live",
+      "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "Iraola urges 'passive' Liverpool to learn quickly after Forest draw",
+     "sources": 3,
+     "score": 64,
+     "event_id": "44a656893df0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cwyz8dr7jz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb6c94972eaf",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/aug/29/tottenham-hotspur-v-newcastle-premier-league-live"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Antonio helps young Ghanaians chase Premier League dreams",
+     "sources": 2,
+     "score": 49,
+     "event_id": "0818c2669ed5",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d5134ea0c398",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Joao Pedro a central figure - player ratings for Chelsea v Brighton",
+     "sources": 2,
+     "score": 44,
+     "event_id": "733eca9e3ba8",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Manchester United v Ipswich Town: Premier League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "8e3412e5f1ca",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-manchester-united-vs-ipswich-town-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
+     "sources": 2,
+     "score": 52,
+     "event_id": "2496eadc17a6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/30/chelsea-beat-brighton-4-3-to-extend-perfect-start-under-xabi-alonso?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Michael Carrick hails Manchester United’s grit after rout of Ipswich",
+     "sources": 1,
+     "score": 42,
+     "event_id": "af484d739144",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
+      "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Premier League breaks transfer record for second straight summer",
+     "sources": 3,
+     "score": 54,
+     "event_id": "90399fab0687",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Ranking the most game-changing transfers in Premier League history",
+     "sources": 2,
+     "score": 56,
+     "event_id": "ef63e47ed4c0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
+      "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-teenagers"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "The Premier League premium is £20m - and that worries European clubs",
+     "sources": 3,
+     "score": 51,
+     "event_id": "02d3ac75a53a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-league-youngsters-to-watch-in-the-efl",
+      "https://www.france24.com/en/tv-shows/sports/20260903-premier-league-sets-new-transfer-market-record"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Matildas midfielder breaks A-League transfer record in move to Nottingham Forest",
+     "sources": 1,
+     "score": 41,
+     "event_id": "9d185633198c",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/04/melbourne-city-nottingham-forest-leticia-mckenna-a-league-women-transfer-record",
+      "https://www.theguardian.com/football/2026/sep/04/nottingham-forests-liam-delap-i-play-at-my-best-on-the-edge-of-being-horrible"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Ipswich Town v Liverpool: Premier League – live",
+     "sources": 2,
+     "score": 51,
+     "event_id": "b2ce06d6a200",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
+      "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/4/live-ipswich-town-vs-liverpool-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
+     "sources": 3,
+     "score": 60,
+     "event_id": "a0428a510351",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Isak finally arrives as Gakpo proves value to Liverpool",
+     "sources": 2,
+     "score": 56,
+     "event_id": "684081a81f31",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Hull City v Aston Villa: Premier League – live",
+     "sources": 2,
+     "score": 48,
+     "event_id": "7c74ae10e984",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d4276895c857",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Aston Villa still winless after stalemate at Hull",
+     "sources": 2,
+     "score": 41,
+     "event_id": "234d20391d20",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c9w48xp5g14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7d15ece97d42",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
+      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Club Brugge v Aston Villa: Champions League – live",
+     "sources": 2,
+     "score": 54,
+     "event_id": "088768f3341d",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+      "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
+     "sources": 3,
+     "score": 66,
+     "event_id": "0120f35abded",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "The Rwandan eyeing Champions League history against Man Utd",
+     "sources": 3,
+     "score": 62,
+     "event_id": "33a46b0b933c",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c4g7zxezj9lo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Napoli v Arsenal: Champions League – live",
+     "sources": 2,
+     "score": 52,
+     "event_id": "1be024e4d355",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
+     "sources": 2,
+     "score": 41,
+     "event_id": "5f9b78c423de",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
+      "https://www.france24.com/en/sport/20260910-psg-make-perfect-start-to-champions-league-title-defence"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Europe's next great coach? How Fabregas led Como into Champions League",
+     "sources": 3,
+     "score": 58,
+     "event_id": "be719f609eab",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/sports/20260910-psg-make-perfect-start-to-champions-league-title-defence",
+      "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Manchester United v Sabah: Champions League – live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "7f171825c70f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Man United put four past Sabah on Champions League return",
+     "sources": 2,
+     "score": 43,
+     "event_id": "dc57fa6c3d03",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Champions League new boys Como dominate Leipzig",
+     "sources": 4,
+     "score": 68,
+     "event_id": "9dcec27cdc51",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut",
+      "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "peace",
+    "hezbollah",
+    "arabian",
+    "saudi",
+    "board",
+    "british",
+    "houthis",
+    "taher",
+    "middle",
+    "netanyahu",
+    "trump's",
+    "jerusalem",
+    "israeli",
+    "gaza",
+    "east",
+    "kushner",
+    "lebanon",
+    "arabia",
+    "jared",
+    "trump",
+    "hamas",
+    "israel"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254",
+    "06df00086e0c",
+    "2ab296b93709",
+    "4038c9b998f5",
+    "9824ab06ba40",
+    "c2a40c5625c5",
+    "c72143066677",
+    "c1254dd22bde",
+    "c9117ee7b07b",
+    "c792fb242bf8",
+    "eed7ddd3265e"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-11",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "sources": 7,
+     "score": 83,
+     "event_id": "6e0f12b732f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3677e9c2454f",
+     "links": [
+      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "sources": 3,
+     "score": 56,
+     "event_id": "2d4b21839f92",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "sources": 2,
+     "score": 44,
+     "event_id": "25ce347a430e",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e3d7c0ac2a93",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a3f7b5bea254",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "06df00086e0c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2ab296b93709",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Middle East: Israeli strikes kill several in Lebanon",
+     "sources": 3,
+     "score": 51,
+     "event_id": "4038c9b998f5",
+     "links": [
+      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9824ab06ba40",
+     "links": [
+      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c2a40c5625c5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+     "sources": 3,
+     "score": 61,
+     "event_id": "c72143066677",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
+      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c1254dd22bde",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
+      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Oil prices rise as Middle East conflict escalates",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c9117ee7b07b",
+     "links": [
+      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c792fb242bf8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "eed7ddd3265e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -1505,651 +2396,6 @@
    ]
   },
   {
-   "id": "e8a425cbff50",
-   "title": "Premier League to publish verdicts on referee and VAR decisions",
-   "section": "sport",
-   "entities": [
-    "mccabe",
-    "life",
-    "michael",
-    "tzolis",
-    "it's",
-    "premier",
-    "wants",
-    "haaland",
-    "millionaire",
-    "arsenal",
-    "sabah",
-    "napoli",
-    "isak",
-    "golden",
-    "scherpen",
-    "sports",
-    "phil",
-    "dambrauskas",
-    "liverpool",
-    "ipswich",
-    "gakpo",
-    "salah",
-    "fabregas",
-    "a-league",
-    "united",
-    "boot",
-    "como",
-    "city",
-    "forest",
-    "pedro's",
-    "matildas",
-    "carrick",
-    "brugge",
-    "champions",
-    "joao",
-    "manchester",
-    "club",
-    "european",
-    "league",
-    "rwandan"
-   ],
-   "event_ids": [
-    "e8a425cbff50",
-    "41179a85b0d9",
-    "3ff3a046513a",
-    "e7e4d04839a4",
-    "dfde3543e4ba",
-    "d94ad932442f",
-    "e0b2bb707b45",
-    "ca9b3648741f",
-    "7647b16128ca",
-    "3ed1a03ec11c",
-    "4774e258c054",
-    "3d51e83a35a8",
-    "aa48b1799b4d",
-    "f0a55f3207b0",
-    "6302b95a195e",
-    "fa7dac5445af",
-    "158c46bf8a36",
-    "48e10bd0f355",
-    "95f3edbe9e13",
-    "0eb6f99b53b6",
-    "44a656893df0",
-    "eb6c94972eaf",
-    "0818c2669ed5",
-    "d5134ea0c398",
-    "733eca9e3ba8",
-    "8e3412e5f1ca",
-    "2496eadc17a6",
-    "af484d739144",
-    "90399fab0687",
-    "ef63e47ed4c0",
-    "02d3ac75a53a",
-    "9d185633198c",
-    "b2ce06d6a200",
-    "a0428a510351",
-    "684081a81f31",
-    "7c74ae10e984",
-    "d4276895c857",
-    "234d20391d20",
-    "7d15ece97d42",
-    "088768f3341d",
-    "0120f35abded",
-    "33a46b0b933c",
-    "1be024e4d355",
-    "5f9b78c423de",
-    "be719f609eab",
-    "7f171825c70f",
-    "dc57fa6c3d03"
-   ],
-   "first_seen": "2026-08-18",
-   "last_seen": "2026-09-10",
-   "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "Premier League to publish verdicts on referee and VAR decisions",
-     "sources": 3,
-     "score": 64,
-     "event_id": "e8a425cbff50",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Haaland's main rivals for the Premier League Golden Boot",
-     "sources": 2,
-     "score": 49,
-     "event_id": "41179a85b0d9",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3ff3a046513a",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
-     "sources": 1,
-     "score": 46,
-     "event_id": "e7e4d04839a4",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
-      "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
-      "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Premier League 2026-27 preview No 18: Nottingham Forest",
-     "sources": 1,
-     "score": 43,
-     "event_id": "dfde3543e4ba",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
-      "https://www.theguardian.com/football/2026/aug/20/frank-lampard-coventry-play-without-fear-premier-league",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d94ad932442f",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e0b2bb707b45",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Arsenal v Coventry City: Premier League – live",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ca9b3648741f",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
-      "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
-     "sources": 3,
-     "score": 54,
-     "event_id": "7647b16128ca",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-22",
-     "headline": "Hull City v Manchester United: Premier League – live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3ed1a03ec11c",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/22/hull-city-v-manchester-united-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Newcastle United v Liverpool: Premier League – live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4774e258c054",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
-     "sources": 2,
-     "score": 50,
-     "event_id": "3d51e83a35a8",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c9q9q2gnxvjo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
-     "sources": 2,
-     "score": 46,
-     "event_id": "aa48b1799b4d",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
-     "sources": 2,
-     "score": 49,
-     "event_id": "f0a55f3207b0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/andoni-iraola-liverpool-alexander-isak-matthias-jaissle-newcastle"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "What does your Premier League club still need in the transfer window?",
-     "sources": 3,
-     "score": 62,
-     "event_id": "6302b95a195e",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cr59zj42plvo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/sports/20260825-premier-league-chelsea-defeat-fulham-in-xabi-alonso-s-first-game-as-manager"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Will a Premier League club break record for transfer sales in one window?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "fa7dac5445af",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss",
-      "https://phys.org/news/2026-08-gambling-branding-dominates-premier-league.html"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Premier League: 10 things to look out for this weekend",
-     "sources": 3,
-     "score": 60,
-     "event_id": "158c46bf8a36",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/28/premier-league-10-things-to-look-out-for-this-weekend",
-      "https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace",
-      "https://www.aljazeera.com/sports/2026/8/27/crystal-palace-vs-man-city-premier-league-prediction-teams-lineups?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "LIVE: Crystal Palace vs Manchester City – Premier League",
-     "sources": 2,
-     "score": 52,
-     "event_id": "48e10bd0f355",
-     "links": [
-      "https://www.aljazeera.com/sports/liveblog/2026/8/28/live-crystal-palace-vs-man-city-premier-league?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/28/europa-league-draw-bournemouth-sunderland-milan-crystal-palace-lyon",
-      "https://www.theguardian.com/football/2026/aug/28/premier-league-h2h-record-manager-form-data-analysis"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Haaland and Cherki fire impressive Man City to victory at Palace",
-     "sources": 3,
-     "score": 65,
-     "event_id": "95f3edbe9e13",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/aug/28/crystal-palace-v-manchester-city-premier-league-live"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "Transfer news, Liverpool v Nottingham Forest buildup, and more – matchday live",
-     "sources": 2,
-     "score": 47,
-     "event_id": "0eb6f99b53b6",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/29/transfer-news-liverpool-v-nottingham-forest-buildup-and-more-matchday-live",
-      "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
-      "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "Iraola urges 'passive' Liverpool to learn quickly after Forest draw",
-     "sources": 3,
-     "score": 64,
-     "event_id": "44a656893df0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cwyz8dr7jz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb6c94972eaf",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/aug/29/tottenham-hotspur-v-newcastle-premier-league-live"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Antonio helps young Ghanaians chase Premier League dreams",
-     "sources": 2,
-     "score": 49,
-     "event_id": "0818c2669ed5",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Chelsea v Brighton, Leeds v Brentford, Sunderland v Fulham: Premier League – live",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d5134ea0c398",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/30/chelsea-brighton-leeds-brentford-sunderland-fulham-premier-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-chelsea-vs-brighton-premier-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Joao Pedro a central figure - player ratings for Chelsea v Brighton",
-     "sources": 2,
-     "score": 44,
-     "event_id": "733eca9e3ba8",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Manchester United v Ipswich Town: Premier League – live",
-     "sources": 2,
-     "score": 40,
-     "event_id": "8e3412e5f1ca",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/8/30/live-manchester-united-vs-ipswich-town-premier-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Alonso praises Joao Pedro's 'desire' after seven-goal Brighton thriller",
-     "sources": 2,
-     "score": 52,
-     "event_id": "2496eadc17a6",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/30/chelsea-beat-brighton-4-3-to-extend-perfect-start-under-xabi-alonso?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Michael Carrick hails Manchester United’s grit after rout of Ipswich",
-     "sources": 1,
-     "score": 42,
-     "event_id": "af484d739144",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
-      "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Premier League breaks transfer record for second straight summer",
-     "sources": 3,
-     "score": 54,
-     "event_id": "90399fab0687",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Ranking the most game-changing transfers in Premier League history",
-     "sources": 2,
-     "score": 56,
-     "event_id": "ef63e47ed4c0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
-      "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-teenagers"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "The Premier League premium is £20m - and that worries European clubs",
-     "sources": 3,
-     "score": 51,
-     "event_id": "02d3ac75a53a",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/03/loan-stars-premier-league-youngsters-to-watch-in-the-efl",
-      "https://www.france24.com/en/tv-shows/sports/20260903-premier-league-sets-new-transfer-market-record"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Matildas midfielder breaks A-League transfer record in move to Nottingham Forest",
-     "sources": 1,
-     "score": 41,
-     "event_id": "9d185633198c",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/04/melbourne-city-nottingham-forest-leticia-mckenna-a-league-women-transfer-record",
-      "https://www.theguardian.com/football/2026/sep/04/nottingham-forests-liam-delap-i-play-at-my-best-on-the-edge-of-being-horrible"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Ipswich Town v Liverpool: Premier League – live",
-     "sources": 2,
-     "score": 51,
-     "event_id": "b2ce06d6a200",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/4/live-ipswich-town-vs-liverpool-premier-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
-     "sources": 3,
-     "score": 60,
-     "event_id": "a0428a510351",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Isak finally arrives as Gakpo proves value to Liverpool",
-     "sources": 2,
-     "score": 56,
-     "event_id": "684081a81f31",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/cgmr1z492k9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Hull City v Aston Villa: Premier League – live",
-     "sources": 2,
-     "score": 48,
-     "event_id": "7c74ae10e984",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d4276895c857",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c62e99y152go?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/cm2r33yl57xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Aston Villa still winless after stalemate at Hull",
-     "sources": 2,
-     "score": 41,
-     "event_id": "234d20391d20",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c9w48xp5g14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7d15ece97d42",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
-      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Club Brugge v Aston Villa: Champions League – live",
-     "sources": 2,
-     "score": 54,
-     "event_id": "088768f3341d",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
-     "sources": 3,
-     "score": 66,
-     "event_id": "0120f35abded",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "The Rwandan eyeing Champions League history against Man Utd",
-     "sources": 3,
-     "score": 62,
-     "event_id": "33a46b0b933c",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c4g7zxezj9lo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Napoli v Arsenal: Champions League – live",
-     "sources": 2,
-     "score": 52,
-     "event_id": "1be024e4d355",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
-     "sources": 2,
-     "score": 41,
-     "event_id": "5f9b78c423de",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
-      "https://www.france24.com/en/sport/20260910-psg-make-perfect-start-to-champions-league-title-defence"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Europe's next great coach? How Fabregas led Como into Champions League",
-     "sources": 3,
-     "score": 58,
-     "event_id": "be719f609eab",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/sports/20260910-psg-make-perfect-start-to-champions-league-title-defence",
-      "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Manchester United v Sabah: Champions League – live",
-     "sources": 2,
-     "score": 46,
-     "event_id": "7f171825c70f",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Man United put four past Sabah on Champions League return",
-     "sources": 2,
-     "score": 43,
-     "event_id": "dc57fa6c3d03",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report"
-     ]
-    }
-   ]
-  },
-  {
    "id": "09443cca3ddd",
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
@@ -2640,224 +2886,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "middle",
-    "trump",
-    "gaza",
-    "israeli",
-    "israel",
-    "trump's",
-    "peace",
-    "hamas",
-    "houthis",
-    "east",
-    "arabian",
-    "saudi",
-    "arabia",
-    "lebanon",
-    "jared",
-    "jerusalem",
-    "kushner",
-    "netanyahu",
-    "british",
-    "board"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93",
-    "a3f7b5bea254",
-    "06df00086e0c",
-    "2ab296b93709",
-    "4038c9b998f5",
-    "9824ab06ba40",
-    "c2a40c5625c5",
-    "c72143066677",
-    "c1254dd22bde",
-    "c9117ee7b07b",
-    "c792fb242bf8"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-10",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
-     "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "sources": 2,
-     "score": 44,
-     "event_id": "25ce347a430e",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a3f7b5bea254",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "06df00086e0c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2ab296b93709",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Middle East: Israeli strikes kill several in Lebanon",
-     "sources": 3,
-     "score": 51,
-     "event_id": "4038c9b998f5",
-     "links": [
-      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9824ab06ba40",
-     "links": [
-      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c2a40c5625c5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-     "sources": 3,
-     "score": 61,
-     "event_id": "c72143066677",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
-      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
-     "sources": 2,
-     "score": 40,
-     "event_id": "c1254dd22bde",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
-      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Oil prices rise as Middle East conflict escalates",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c9117ee7b07b",
-     "links": [
-      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c792fb242bf8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
      ]
     }
    ]
@@ -7964,5 +7992,5 @@
    ]
   }
  ],
- "updated": "2026-09-10T21:21:23+00:00"
+ "updated": "2026-09-11T00:57:16+00:00"
 }

@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-10
+# ANALYTICKÉ ZADÁNÍ — 2026-09-11
 
-Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
 
 ---
 
@@ -37,9 +37,8 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 23 dní · 47 záznamů
+- rubrika `sport` · sledováno 24 dní · 48 záznamů
 - časová osa:
-  - **2026-09-05** (2 zdrojů) Aston Villa still winless after stalemate at Hull
   - **2026-09-08** (2 zdrojů) Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
   - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
   - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
@@ -49,6 +48,7 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-10** (3 zdrojů) Europe's next great coach? How Fabregas led Como into Champions League
   - **2026-09-10** (2 zdrojů) Manchester United v Sabah: Champions League – live
   - **2026-09-10** (2 zdrojů) Man United put four past Sabah on Champions League return
+  - **2026-09-11** (4 zdrojů) Champions League new boys Como dominate Leipzig
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 28 dní · 36 záznamů

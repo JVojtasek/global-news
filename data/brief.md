@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-10
+# ZADÁNÍ PRO REDAKCI — 2026-09-11
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -69,7 +69,24 @@
     <https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss>
     > The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
 
-### 3. Napoli vs Arsenal: Champions League – prediction, teams, lineups
+### 3. Champions League new boys Como dominate Leipzig
+- id události: `9dcec27cdc51`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Champions League new boys Como dominate Leipzig
+    <https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss>
+    > Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.
+  - **France 24** — Manchester United thrash Sabah in Champions League return as Fabregas's Como shine on European debut
+    <https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut>
+    > Manchester United marked their Champions League return with a 4-0 rout of Sabah on Thursday, with Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez scoring. Bayern Munich thrashed Bodo/Glimt 5-0 as Ballon d'Or nominees Michael Olise struck twice and Harry Kane 
+  - **Guardian Sport** — Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig
+    <https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig>
+    > Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt . The six-times winners were frustrated before half-time by Bodo/Glimt but cruised o
+  - **Al Jazeera** — Manchester United beat Sabah 4-0 on Champions League return
+    <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
+    > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
+
+### 4. Napoli vs Arsenal: Champions League – prediction, teams, lineups
 - id události: `0120f35abded`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -92,39 +109,11 @@
     <https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report>
     > Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the com
 
-### 4. Arsenal are passing every test - and Odegaard is in form of his life
-- id události: `849069df442b`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Arsenal are passing every test - and Odegaard is in form of his life
-    <https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss>
-    > Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.
-  - **BBC Sport** — Odegaard strike earns Arsenal narrow victory at Napoli
-    <https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss>
-    > Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.
-  - **France 24** — Champions League: Iraola celebrates Liverpool win against Atletico Madrid
-    <https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid>
-    > Liverpool began their Champions League campaign with a 2-1 comeback win over Atletico Madrid on Wednesday, giving new manager Andoni Iraola a winning start in Europe's top competition. Paris Saint-Germain, Barcelona and Arsenal also opened their campaigns with victories as the to
-  - **Al Jazeera** — Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
-    <https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss>
-    > Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
-  - **Al Jazeera** — Manchester United vs Sabah: UEFA Champions League – preview, team news
-    <https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss>
-    > Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
-  - **Al Jazeera** — Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
-    <https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss>
-    > Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### phishing scam
-- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
-- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
-  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
-  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
+_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ---
 
