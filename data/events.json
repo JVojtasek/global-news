@@ -954,46 +954,6 @@
   ]
  },
  {
-  "id": "b1ad3a0a8a22",
-  "headline": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-  "section": "world",
-  "score": 55,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-07T23:46:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-    "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
-    "published_at": "2026-09-07T23:46:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   },
-   {
-    "title": "Eiffel Tower employees strike after female staff removed",
-    "url": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The employees protested against the removal of the site's female workers due to a request by a visiting Hindu group. The tower's operating company apologized for the decision.",
-    "published_at": "2026-09-07T22:23:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   },
-   {
-    "title": "Eiffel Tower closed in row over women removed for Hindu group",
-    "url": "https://www.france24.com/en/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group",
-    "source": "France 24",
-    "summary": "The Eiffel Tower was closed on Monday because of a strike by staff over the removal of female colleagues during a visit by a Hindu religious group, workers and management said. FRANCE 24's Monte Francis has more.",
-    "published_at": "2026-09-07T21:38:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   }
-  ]
- },
- {
   "id": "4a6aa833b2e4",
   "headline": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
   "section": "sport",
@@ -1626,46 +1586,6 @@
     "published_at": "2026-09-09T08:48:01+00:00",
     "source_countries": [],
     "seen_at": "2026-09-09T09:29:03+00:00"
-   }
-  ]
- },
- {
-  "id": "5422e75d3f3d",
-  "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-  "section": "tech",
-  "score": 48,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-07T23:05:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-    "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-    "published_at": "2026-09-07T23:05:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   },
-   {
-    "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-    "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-    "published_at": "2026-09-07T23:05:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   },
-   {
-    "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-    "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-    "published_at": "2026-09-07T23:05:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
    }
   ]
  },
@@ -2867,6 +2787,37 @@
   ]
  },
  {
+  "id": "4f8772a1d379",
+  "headline": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
+  "section": "ai",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-11T01:53:08+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
+    "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
+    "source": "CNBC Top",
+    "summary": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
+    "published_at": "2026-09-11T01:53:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   },
+   {
+    "title": "Enflame shares soar 188% on Shanghai debut as Nvidia challenger taps investor fever for AI",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
+    "source": "SCMP Tech (Čína)",
+    "summary": "Enflame Technology, one of the major challengers to Nvidia in China, saw its share price surge 188 per cent in its Shanghai trading debut on Friday, giving the Tencent Holdings-backed artificial intelligence chipmaker a market capitalisation of 176.4 billion yuan (US$26.3 million). The Shanghai-based company opened at 410 yuan, up from its issue price of 142.18 yuan. The performance reflects conti",
+    "published_at": "2026-09-11T01:45:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
   "id": "2c9421d91e25",
   "headline": "Artworks stolen from Renoir Museum on French Riviera in latest heist",
   "section": "world",
@@ -3215,59 +3166,6 @@
     "published_at": "2026-09-10T21:05:24+00:00",
     "source_countries": [],
     "seen_at": "2026-09-10T21:21:20+00:00"
-   }
-  ]
- },
- {
-  "id": "980af6a6b7b0",
-  "headline": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-  "section": "ai",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 5,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-04T16:22:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-    "source": "Ars Technica",
-    "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-    "published_at": "2026-09-04T16:22:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   },
-   {
-    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-    "source": "Ars Technica AI",
-    "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-    "published_at": "2026-09-04T16:22:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   }
-  ]
- },
- {
-  "id": "11dd1f9bea07",
-  "headline": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-  "section": "safety",
-  "score": 42,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-04T10:35:17+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-    "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-    "source": "Schneier on Security",
-    "summary": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a different site, pointed to one or more code packag",
-    "published_at": "2026-09-04T10:35:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
    }
   ]
  },
@@ -3874,55 +3772,33 @@
   ]
  },
  {
-  "id": "b32d77b1c9f6",
-  "headline": "Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-04T14:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Why Does Rain Eat Through Protective Coatings on Metal Structures? Researchers Propose a New Idea: Electrically Charged Droplets",
-    "url": "https://www.smithsonianmag.com/smart-news/why-does-rain-eat-through-protective-coatings-on-metal-structures-researchers-propose-a-new-idea-electrically-charged-droplets-180989434/",
-    "source": "Smithsonian Mag",
-    "summary": "Scientists long attributed rain damage to physical abrasion and chemical degradation from acidic substances. A new study offers a third idea, which could help researchers develop longer-lasting coatings and preserve important objects",
-    "published_at": "2026-09-04T14:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   }
-  ]
- },
- {
-  "id": "a04e18730da0",
-  "headline": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
+  "id": "869a466455ee",
+  "headline": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
   "section": "world",
-  "score": 41,
+  "score": 42,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-08T03:29:26+00:00",
-  "event_time": "2026-09-08T03:08:28+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-11T02:40:19+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
-    "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+    "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+    "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "US envoy says 'encouraged' by talks as White House official told Reuters next steps to be announced in coming weeks.",
-    "published_at": "2026-09-08T03:08:28+00:00",
+    "summary": "Russian, Iranian leaders due to hold talks with India's Modi at summit dominated by wars in Middle East and Ukraine.",
+    "published_at": "2026-09-11T02:40:19+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-08T03:29:23+00:00"
+    "seen_at": "2026-09-11T03:29:38+00:00"
    },
    {
-    "title": "Live: Russia pummels Kyiv after three-day halt",
-    "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
+    "title": "Putin and Xi in India for BRICS summit as Ukraine, Middle East wars loom",
+    "url": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
     "source": "France 24",
-    "summary": "Russia resumed strikes on Kyiv late Monday after a three-day pause ordered by President Vladimir Putin expired, Ukraine’s emergency service said. The halt coincided with visits to Moscow and Kyiv by US President Donald Trump’s envoys Steve Witkoff and Jared Kushner, who were holding talks aimed at ending the war. Follow our liveblog for the latest updates.",
-    "published_at": "2026-09-08T02:00:01+00:00",
+    "summary": "Russian President Vladimir Putin arrived in New Delhi on Friday for a two-day BRICS summit expected to focus on wars in Ukraine and the Middle East and economic challenges. Putin and Iran’s Masoud Pezeshkian are due to meet Prime Minister Narendra Modi, while China’s Xi Jinping is also expected to hold talks.",
+    "published_at": "2026-09-11T02:08:34+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-08T03:29:23+00:00"
+    "seen_at": "2026-09-11T03:29:38+00:00"
    }
   ]
  },
@@ -4454,37 +4330,6 @@
     "published_at": "2026-09-10T22:20:11+00:00",
     "source_countries": [],
     "seen_at": "2026-09-11T00:57:13+00:00"
-   }
-  ]
- },
- {
-  "id": "a10299274da2",
-  "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-08T00:48:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-    "published_at": "2026-09-08T00:48:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   },
-   {
-    "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-    "published_at": "2026-09-08T00:48:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
    }
   ]
  },
@@ -6493,6 +6338,37 @@
   ]
  },
  {
+  "id": "fb949d2cd49d",
+  "headline": "Young republicans break with Trump over Iran war",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-11T02:45:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Young republicans break with Trump over Iran war",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.",
+    "published_at": "2026-09-11T02:45:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   },
+   {
+    "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+    "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+    "source": "CNBC Top",
+    "summary": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
+    "published_at": "2026-09-11T01:43:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
   "id": "bc70b2ca3553",
   "headline": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
   "section": "science",
@@ -8118,81 +7994,6 @@
   ]
  },
  {
-  "id": "3f93e9341c24",
-  "headline": "Bats carry dangerous viruses without getting sick. This may be why",
-  "section": "science",
-  "score": 35,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-03T11:56:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Bats carry dangerous viruses without getting sick. This may be why",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
-    "source": "ScienceDaily",
-    "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate so many viruses without becoming seriously ill.",
-    "published_at": "2026-09-03T11:56:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   },
-   {
-    "title": "Bats carry dangerous viruses without getting sick. This may be why",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate so many viruses without becoming seriously ill.",
-    "published_at": "2026-09-03T11:56:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   }
-  ]
- },
- {
-  "id": "d0d723b53ab3",
-  "headline": "Liam Gallagher's tambourine grin and Charli XCX says bye to Brat - Music Photography Awards 2026 shortlist",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-08T00:59:59+00:00",
-  "event_time": "2026-09-07T23:01:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Liam Gallagher's tambourine grin and Charli XCX says bye to Brat - Music Photography Awards 2026 shortlist",
-    "url": "https://www.bbc.co.uk/news/articles/c3re99gp4pro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Nominees for the Abbey Road awards captured some of the past year's best moments in music.",
-    "published_at": "2026-09-07T23:01:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T00:59:57+00:00"
-   }
-  ]
- },
- {
-  "id": "07db3c5daa45",
-  "headline": "Barnaby Joyce says he’s not ‘Jesus Christ’ and admits One Nation has not modelled super policy in fiery interviews",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-08T03:29:26+00:00",
-  "event_time": "2026-09-08T02:18:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Barnaby Joyce says he’s not ‘Jesus Christ’ and admits One Nation has not modelled super policy in fiery interviews",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/08/barnaby-joyce-not-jesus-christ-one-nation-early-access-super-policy",
-    "source": "The Guardian World",
-    "summary": "Jim Chalmers says One Nation’s superannuation policy is ‘an absolute shambles’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Barnaby Joyce, One Nation’s Treasury spokesperson, says his party has not modelled the potential impact on retirement incomes and inflation from his party’s plan to give millions of households early access",
-    "published_at": "2026-09-08T02:18:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-08T03:29:23+00:00"
-   }
-  ]
- },
- {
   "id": "3dde4a819a56",
   "headline": "Majority of Tory and Reform voters do not back cuts to disability benefits, survey finds",
   "section": "world",
@@ -9190,6 +8991,160 @@
     "published_at": "2026-09-09T22:32:07+00:00",
     "source_countries": [],
     "seen_at": "2026-09-11T00:57:13+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9c025a6d7de4",
+  "headline": "Molly Ticehurst’s killer Daniel Billings sentenced to 28 years in jail for her murder",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-11T02:28:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Molly Ticehurst’s killer Daniel Billings sentenced to 28 years in jail for her murder",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/11/molly-ticehursts-killer-daniel-billings-sentenced-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Ticehurst’s former partner had pleaded guilty to stabbing her 15 times at her Forbes home just before midnight on 21 April 2024 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Molly Ticehurst’s ex-boyfriend has been sentenced to 28 years in jail for her senseless and brutal murder, which was revenge for her reporting allegations o",
+    "published_at": "2026-09-11T02:28:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d068abda97eb",
+  "headline": "Hastie accepts apology from Joyce over ‘traitor’ cartoon as Hanson doubles down and tells critics to ‘chill’",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-11T02:59:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hastie accepts apology from Joyce over ‘traitor’ cartoon as Hanson doubles down and tells critics to ‘chill’",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-accepts-joyce-apology-traitor-cartoon-hanson-tells-critics-chill-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "A split emerges in One Nation over the video, with Barnaby Joyce offering an apology as Pauline Hanson continues to refuse to take down the video Andrew Hastie has accepted an apology from his former colleague Barnaby Joyce over a One Nation cartoon video labelling the former SAS captain a traitor, but reiterated that he believed Pauline Hanson was a “lying coward”. The apology has revealed a spli",
+    "published_at": "2026-09-11T02:59:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a36b837d69b3",
+  "headline": "The Guardian view on Donald Trump’s oil deal: Venezuela pays for his vanity | Editorial",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-09T17:39:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Guardian view on Donald Trump’s oil deal: Venezuela pays for his vanity | Editorial",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/09/the-guardian-view-on-donald-trumps-oil-deal-venezuela-pays-for-his-vanity",
+    "source": "Guardian Business",
+    "summary": "The US president seized a nation’s natural wealth in a modern-day version of gunboat diplomacy to feed his ego – not to lower Americans’ fuel bills Imperialism does not require a flag to be planted or a governor dispatched. It can be a powerful nation deciding who governs a smaller, weaker country, and on what terms and for whose benefit its resources will be developed. Donald Trump’s kidnapping o",
+    "published_at": "2026-09-09T17:39:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4a7dca476c43",
+  "headline": "Trump signs order to remove endangered species protection for grey wolves",
+  "section": "science",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-05T09:12:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump signs order to remove endangered species protection for grey wolves",
+    "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+    "published_at": "2026-09-05T09:12:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c6a6a419158b",
+  "headline": "The Tubs: Hard Life review | Alexis Petridis's album of the week",
+  "section": "culture",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-09-10T11:00:23+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Tubs: Hard Life review | Alexis Petridis's album of the week",
+    "url": "https://www.theguardian.com/music/2026/sep/10/the-tubs-hard-life-review",
+    "source": "Guardian Culture",
+    "summary": "(Merge) Britain’s best indie-rockers hold fast to their defiantly old-school sound, slipping wry sideways looks at despair in among hooky melodies that always sound like a good time On a track called Heaven or London from the Tubs’ third album, the quartet’s frontman, Owen Williams, offers a blunt self-assessment. He is, he suggests, “the singer of a rip-off band”, engaged in “wanking himself into",
+    "published_at": "2026-09-10T11:00:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b0ce4fdc4c7e",
+  "headline": "Building a Foundation Stack for General-Purpose Robots",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2026-07-13T10:19:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Building a Foundation Stack for General-Purpose Robots",
+    "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+    "source": "IEEE Spectrum Robotics",
+    "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one",
+    "published_at": "2026-07-13T10:19:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3504030ec63c",
+  "headline": "Active Cyber Defence (ACD) - The Third Year",
+  "section": "safety",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-11T03:29:41+00:00",
+  "event_time": "2021-02-19T12:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Active Cyber Defence (ACD) - The Third Year",
+    "url": "https://www.ncsc.gov.uk/report/acd-report-year-three",
+    "source": "NCSC UK",
+    "summary": "The year three report covers 2019 and aims to highlight the achievements and efforts made by the Active Cyber Defence programme.",
+    "published_at": "2021-02-19T12:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-11T03:29:38+00:00"
    }
   ]
  }

@@ -140,7 +140,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-27  (2 zdrojů, síla 46)  Uefa Champions League 2026-27: league phase draw – live
   2026-08-27  (4 zdrojů, síla 71)  Man City and Aston Villa to face holders PSG in Champions League
   2026-08-27  (2 zdrojů, síla 43)  Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports
   2026-08-28  (2 zdrojů, síla 49)  Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal
@@ -160,6 +159,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
   2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat
   2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa
+  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
