@@ -29,33 +29,7 @@
     <https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss>
     > Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.
 
-### 2. UK announces sanctions on West Bank settlements prompting furious Israeli response
-- id události: `832c384b6768`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — UK announces sanctions on West Bank settlements prompting furious Israeli response
-    <https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss>
-    > Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
-  - **BBC World** — Where is Israel's proposed West Bank settlement the UK opposes?
-    <https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss>
-    > BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank.
-  - **Guardian Business** — Ella Baron on the UK’s ban on trade with illegal Israeli settlements – cartoon
-    <https://www.theguardian.com/commentisfree/picture/2026/sep/08/ella-baron-uk-ban-trade-with-israeli-settlements-cartoon>
-    > Continue reading...
-  - **Al Jazeera** — US won’t join UK ban on trade with illegal Israeli settlements
-    <https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss>
-    > Secretary of State Marco Rubio says the US will ‘obviously not’ follow the UK in sanctioning illegal Israeli settlements
-  - **Al Jazeera** — UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
-    <https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss>
-    > UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
-  - **Al Jazeera** — Jerusalem Daily: UK announces sanctions on Israeli settlement goods
-    <https://www.aljazeera.com/video/newsfeed/2026/9/8/jerusalem-daily-uk-announces-sanctions-on-israeli-settlement-goods?traffic_source=rss>
-    > The UK’s foreign secretary has announced a ban on trade with goods from Israeli settlements in the occupied West Bank.
-  - **Al Jazeera** — UK imposes ban on goods from Israeli settlements in occupied West Bank
-    <https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss>
-    > The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
-
-### 3. Champions League new boys Como dominate Leipzig
+### 2. Champions League new boys Como dominate Leipzig
 - id události: `9dcec27cdc51`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -72,7 +46,7 @@
     <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
     > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
 
-### 4. Napoli vs Arsenal: Champions League – prediction, teams, lineups
+### 3. Napoli vs Arsenal: Champions League – prediction, teams, lineups
 - id události: `0120f35abded`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -94,6 +68,29 @@
   - **Guardian Sport** — Haaland double gives Manchester City ideal Champions League start in Porto
     <https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report>
     > Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the com
+
+### 4. Arsenal are passing every test - and Odegaard is in form of his life
+- id události: `849069df442b`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Arsenal are passing every test - and Odegaard is in form of his life
+    <https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss>
+    > Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.
+  - **BBC Sport** — Odegaard strike earns Arsenal narrow victory at Napoli
+    <https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss>
+    > Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.
+  - **France 24** — Champions League: Iraola celebrates Liverpool win against Atletico Madrid
+    <https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid>
+    > Liverpool began their Champions League campaign with a 2-1 comeback win over Atletico Madrid on Wednesday, giving new manager Andoni Iraola a winning start in Europe's top competition. Paris Saint-Germain, Barcelona and Arsenal also opened their campaigns with victories as the to
+  - **Al Jazeera** — Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
+    <https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss>
+    > Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
+  - **Al Jazeera** — Manchester United vs Sabah: UEFA Champions League – preview, team news
+    <https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss>
+    > Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
+  - **Al Jazeera** — Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
+    <https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss>
+    > Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
 
 ---
 
