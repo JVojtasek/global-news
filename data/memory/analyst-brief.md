@@ -9,7 +9,6 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 33 dní · 60 záznamů
 - časová osa:
-  - **2026-09-03** (2 zdrojů) Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
   - **2026-09-03** (2 zdrojů) Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
   - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
   - **2026-09-05** (2 zdrojů) US military says it struck three Iranian tankers after American warships came under missile attack
@@ -19,6 +18,7 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-10** (2 zdrojů) South Korea to boost artificial intelligence ties with Africa
   - **2026-09-11** (2 zdrojů) Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
   - **2026-09-11** (2 zdrojů) India news: Putin, Modi to hold talks ahead of BRICS Summit
+  - **2026-09-11** (2 zdrojů) Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 30 dní · 52 záznamů
@@ -64,6 +64,22 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-09** (2 zdrojů) Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements
   - **2026-09-10** (2 zdrojů) Muted US response to UK's West Bank sanctions may reflect simmering frustration
 
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 33 dní · 17 záznamů
+- časová osa:
+  - **2026-08-17** (2 zdrojů) Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza
+  - **2026-09-07** (3 zdrojů) Middle East: Israeli strikes kill several in Lebanon
+  - **2026-09-07** (2 zdrojů) Lebanon president calls for US help after deadly Israeli strikes
+  - **2026-09-08** (2 zdrojů) Houthis strike Saudi Arabian cities in significant expansion of Middle East war
+  - **2026-09-08** (3 zdrojů) Saudi Arabia vows to respond after Houthis attack cities and energy facilities
+  - **2026-09-08** (2 zdrojů) Israel to close British consulate in Jerusalem after sanctions announced
+  - **2026-09-09** (2 zdrojů) Oil prices rise as Middle East conflict escalates
+  - **2026-09-10** (2 zdrojů) Oil, gas and borrowing costs surge as fears over Middle East escalate
+  - **2026-09-11** (2 zdrojů) Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
+  - **2026-09-11** (2 zdrojů) Israel says it has destroyed major underground Hezbollah base
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
+
 ### Trump signs order to rename Lake Ontario as Lake America
 - rubrika `world` · sledováno 13 dní · 17 záznamů
 - časová osa:
@@ -77,17 +93,3 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
   - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones
   - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
-
-### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 25 dní · 17 záznamů
-- časová osa:
-  - **2026-08-27** (7 zdrojů) How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
-  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
-  - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
-  - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
-  - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
-  - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC
-  - **2026-09-03** (5 zdrojů) Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
-  - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-  - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims

@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "taiwan",
-    "putin",
-    "times",
-    "ballon",
-    "kylian",
-    "o'neill",
-    "centcom",
-    "iran",
-    "city",
-    "fenerbahce",
-    "kuwait",
-    "qatar",
-    "summit",
-    "briton",
-    "real",
-    "india",
-    "north",
-    "gulf",
-    "china's",
-    "toxic",
-    "jong",
-    "iran's",
-    "iranian",
-    "asia",
-    "hormuz",
-    "indycar",
-    "inter",
     "mourinho",
-    "ukraine",
-    "lyon",
-    "middle",
     "mideast",
+    "putin",
+    "league",
+    "iran",
+    "gulf",
+    "inter",
+    "centcom",
+    "city",
+    "d-day",
+    "iranian",
     "modi",
-    "groundhog",
-    "brics",
+    "fenerbahce",
+    "real",
+    "middle",
+    "hormuz",
+    "china's",
+    "indycar",
+    "kuwait",
+    "summit",
+    "toxic",
+    "qatar",
+    "jong",
     "start",
     "south",
-    "d-day",
+    "ukraine",
+    "delhi",
+    "brics",
+    "india",
+    "lyon",
+    "kylian",
+    "groundhog",
+    "briton",
     "donald",
-    "league"
+    "taiwan",
+    "iran's",
+    "o'neill",
+    "north",
+    "times",
+    "asia"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -129,23 +129,12 @@
     "e3646c354bc1",
     "8fee17a8750f",
     "869a466455ee",
-    "fb1f421ffe26"
+    "fb1f421ffe26",
+    "0314dd692504"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-11",
    "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Trump orders US to scale back South Korea military drills",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2f607baa744d",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
-      "https://www.france24.com/en/video/20260817-trump-orders-pentagon-to-cut-back-military-drills-with-seoul-hours-before-start",
-      "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back"
-     ]
-    },
     {
      "date": "2026-08-17",
      "headline": "Troops from North Korea to boost Russia's Ukraine forces",
@@ -815,6 +804,17 @@
       "https://www.dw.com/en/india-news-putin-modi-to-hold-talks-ahead-of-brics-summit/live-79224239?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html"
      ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0314dd692504",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/brics-summit-2026-putin-modi-reaffirm-partnership/live-79224239?maca=en-rss-en-all-1573-rdf"
+     ]
     }
    ]
   },
@@ -1481,28 +1481,28 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "peace",
-    "hezbollah",
-    "arabian",
+    "lebanon",
+    "hamas",
+    "east",
     "saudi",
-    "board",
     "british",
-    "houthis",
-    "taher",
-    "middle",
-    "netanyahu",
-    "trump's",
+    "jared",
     "jerusalem",
     "israeli",
+    "israel",
+    "taher",
+    "middle",
     "gaza",
-    "east",
-    "kushner",
-    "lebanon",
+    "netanyahu",
+    "trump's",
+    "peace",
     "arabia",
-    "jared",
+    "arabian",
+    "board",
     "trump",
-    "hamas",
-    "israel"
+    "hezbollah",
+    "kushner",
+    "houthis"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -1520,7 +1520,8 @@
     "c1254dd22bde",
     "c9117ee7b07b",
     "c792fb242bf8",
-    "eed7ddd3265e"
+    "eed7ddd3265e",
+    "b240f0515ee8"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-11",
@@ -1705,6 +1706,17 @@
       "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
       "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
       "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it has destroyed major underground Hezbollah base",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b240f0515ee8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
      ]
     }
    ]
@@ -8035,5 +8047,5 @@
    ]
   }
  ],
- "updated": "2026-09-11T09:27:54+00:00"
+ "updated": "2026-09-11T12:36:06+00:00"
 }
