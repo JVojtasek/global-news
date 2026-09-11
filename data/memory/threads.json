@@ -823,46 +823,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "club",
-    "ipswich",
-    "dambrauskas",
-    "haaland",
-    "gakpo",
-    "scherpen",
-    "salah",
     "city",
-    "manchester",
-    "european",
-    "carrick",
-    "fabregas",
-    "leipzig",
-    "life",
-    "boot",
-    "isak",
-    "forest",
-    "matildas",
-    "league",
-    "phil",
-    "sabah",
-    "golden",
-    "millionaire",
-    "pedro's",
-    "brugge",
-    "champions",
-    "liverpool",
-    "arsenal",
-    "michael",
-    "it's",
-    "tzolis",
-    "napoli",
     "mccabe",
-    "sports",
-    "joao",
     "rwandan",
-    "premier",
+    "life",
+    "isak",
+    "dambrauskas",
+    "league",
+    "european",
+    "champions",
+    "brugge",
+    "phil",
+    "scherpen",
+    "boot",
+    "michael",
+    "club",
+    "a-league",
+    "golden",
     "united",
+    "sabah",
+    "leipzig",
+    "it's",
+    "salah",
+    "fabregas",
+    "forest",
+    "joao",
+    "premier",
+    "ipswich",
     "wants",
-    "a-league"
+    "lens",
+    "pedro's",
+    "arsenal",
+    "liverpool",
+    "matildas",
+    "carrick",
+    "sports",
+    "gakpo",
+    "napoli",
+    "millionaire",
+    "manchester",
+    "tzolis"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -912,7 +912,8 @@
     "be719f609eab",
     "7f171825c70f",
     "dc57fa6c3d03",
-    "9dcec27cdc51"
+    "9dcec27cdc51",
+    "f71dc622bba1"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-11",
@@ -1473,6 +1474,17 @@
       "https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut",
       "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig"
      ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Lens secure an epic comeback win to kick off their Champions League campaign",
+     "sources": 2,
+     "score": 42,
+     "event_id": "f71dc622bba1",
+     "links": [
+      "https://www.france24.com/en/lens-secure-an-epic-comeback-win-to-kick-off-their-champions-league-campaign",
+      "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks"
+     ]
     }
    ]
   },
@@ -1722,6 +1734,269 @@
    ]
   },
   {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "american",
+    "extinct",
+    "trying",
+    "margaret",
+    "remembering",
+    "songwriter",
+    "thought",
+    "america",
+    "tirelessly",
+    "nashville",
+    "disease",
+    "still",
+    "disabling",
+    "once",
+    "sullivan",
+    "wasn't",
+    "years",
+    "some",
+    "chat",
+    "frog",
+    "festival",
+    "decades",
+    "parton",
+    "history",
+    "scientists",
+    "london",
+    "dolly",
+    "country",
+    "relief",
+    "show",
+    "chronic",
+    "bring",
+    "covid",
+    "television",
+    "americans",
+    "remembered",
+    "biggest",
+    "working",
+    "roamed",
+    "turns"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b",
+    "13c0684b4af3",
+    "92a48ee35a16",
+    "dbe2fb28d382",
+    "200127734810",
+    "d314b5251d2f",
+    "38850f6a5dfa",
+    "f14aa1a495df",
+    "bdbcab469084",
+    "bcab6080a3cb",
+    "cd253afe8e24",
+    "79091fcbef11"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-09-11",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
+     "sources": 6,
+     "score": 86,
+     "event_id": "13c0684b4af3",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02676-1",
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
+     "sources": 2,
+     "score": 54,
+     "event_id": "92a48ee35a16",
+     "links": [
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dbe2fb28d382",
+     "links": [
+      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
+      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
+     "sources": 3,
+     "score": 66,
+     "event_id": "200127734810",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02732-w",
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d314b5251d2f",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+     "sources": 3,
+     "score": 58,
+     "event_id": "38850f6a5dfa",
+     "links": [
+      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f14aa1a495df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdbcab469084",
+     "links": [
+      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Festival honouring Dolly Parton set for Nashville and London",
+     "sources": 3,
+     "score": 55,
+     "event_id": "bcab6080a3cb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
+     "sources": 1,
+     "score": 44,
+     "event_id": "cd253afe8e24",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
+     "sources": 1,
+     "score": 41,
+     "event_id": "79091fcbef11",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "84ce4047c1c5",
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
@@ -1900,6 +2175,92 @@
      "links": [
       "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
       "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "president",
+    "network",
+    "event",
+    "adds",
+    "data",
+    "award",
+    "sharing",
+    "station",
+    "dish",
+    "muscle",
+    "nasa",
+    "highest",
+    "artemis",
+    "honors",
+    "next-gen",
+    "crew",
+    "boosts",
+    "space",
+    "ribbon-cutting",
+    "open",
+    "science",
+    "deep",
+    "accords"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-09-11",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
      ]
     }
    ]
@@ -5159,258 +5520,6 @@
    ]
   },
   {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "still",
-    "fifty",
-    "television",
-    "chat",
-    "disease",
-    "parton",
-    "history",
-    "remembered",
-    "sullivan",
-    "nashville",
-    "some",
-    "covid",
-    "london",
-    "music",
-    "scientists",
-    "country",
-    "later",
-    "chronic",
-    "kermit",
-    "trying",
-    "dolly",
-    "disabling",
-    "relief",
-    "bring",
-    "americans",
-    "songwriter",
-    "festival",
-    "wanted",
-    "biggest",
-    "margaret",
-    "america",
-    "frog",
-    "working",
-    "years",
-    "briefing",
-    "tirelessly",
-    "remembering",
-    "muppets",
-    "show",
-    "variety"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07",
-    "4d5d929d3f9b",
-    "13c0684b4af3",
-    "92a48ee35a16",
-    "dbe2fb28d382",
-    "200127734810",
-    "d314b5251d2f",
-    "38850f6a5dfa",
-    "f14aa1a495df",
-    "bdbcab469084",
-    "bcab6080a3cb",
-    "cd253afe8e24"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-09-04",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-     "sources": 6,
-     "score": 83,
-     "event_id": "4d5d929d3f9b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
-      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
-     "sources": 6,
-     "score": 86,
-     "event_id": "13c0684b4af3",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02676-1",
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
-     "sources": 2,
-     "score": 54,
-     "event_id": "92a48ee35a16",
-     "links": [
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dbe2fb28d382",
-     "links": [
-      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
-     "sources": 3,
-     "score": 66,
-     "event_id": "200127734810",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02732-w",
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d314b5251d2f",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-     "sources": 3,
-     "score": 58,
-     "event_id": "38850f6a5dfa",
-     "links": [
-      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f14aa1a495df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdbcab469084",
-     "links": [
-      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Festival honouring Dolly Parton set for Nashville and London",
-     "sources": 3,
-     "score": 55,
-     "event_id": "bcab6080a3cb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
-     "sources": 1,
-     "score": 44,
-     "event_id": "cd253afe8e24",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e138211becc3",
    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
    "section": "tech",
@@ -6269,74 +6378,6 @@
       "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
       "https://www.dw.com/en/eu-puts-chatgpt-reddit-and-roblox-under-stricter-rules/a-78577019?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "artemis",
-    "president",
-    "honors",
-    "dish",
-    "ribbon-cutting",
-    "next-gen",
-    "crew",
-    "network",
-    "event",
-    "deep",
-    "highest",
-    "station",
-    "adds",
-    "space",
-    "award",
-    "nasa",
-    "muscle"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-08-30",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
      ]
     }
    ]
@@ -8047,5 +8088,5 @@
    ]
   }
  ],
- "updated": "2026-09-11T12:36:06+00:00"
+ "updated": "2026-09-11T15:25:33+00:00"
 }

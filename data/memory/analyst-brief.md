@@ -37,9 +37,8 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 24 dní · 48 záznamů
+- rubrika `sport` · sledováno 24 dní · 49 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
   - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
   - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
   - **2026-09-09** (3 zdrojů) The Rwandan eyeing Champions League history against Man Utd
@@ -49,6 +48,7 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-10** (2 zdrojů) Manchester United v Sabah: Champions League – live
   - **2026-09-10** (2 zdrojů) Man United put four past Sabah on Champions League return
   - **2026-09-11** (4 zdrojů) Champions League new boys Como dominate Leipzig
+  - **2026-09-11** (2 zdrojů) Lens secure an epic comeback win to kick off their Champions League campaign
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 28 dní · 36 záznamů
@@ -80,16 +80,16 @@ Paměť obsahuje **90 vláken**. Aktivních za posledních 14 dní: **44**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
-### Trump signs order to rename Lake Ontario as Lake America
-- rubrika `world` · sledováno 13 dní · 17 záznamů
+### Dolly Parton, one of country music's most singular performers, has died at age 80
+- rubrika `culture` · sledováno 17 dní · 17 záznamů
 - časová osa:
-  - **2026-09-01** (2 zdrojů) Apple Maps follows Google in renaming Lake Ontario
-  - **2026-09-02** (5 zdrojů) Apple Maps changes Lake Ontario to Lake America after Trump order
-  - **2026-09-02** (2 zdrojů) Trump’s ridiculous bullying of Canada is backfiring | Robert Reich
-  - **2026-09-02** (2 zdrojů) Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order
-  - **2026-09-07** (2 zdrojů) Trump threatens to block Canada’s Bombardier sales unless planes made in US
-  - **2026-09-08** (2 zdrojů) Trump threatens to stop sale of Canadian Bombardier jets in US
-  - **2026-09-08** (2 zdrojů) Trump threatens to block Canada's Bombardier planes from US market
-  - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
-  - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones
-  - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
+  - **2026-08-27** (2 zdrojů) Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter
+  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
+  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
+  - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
+  - **2026-08-29** (3 zdrojů) How America celebrated and mourned Dolly Parton, in Nashville and beyond
+  - **2026-08-31** (2 zdrojů) Dolly Parton laid to rest alongside husband in Nashville
+  - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
+  - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
+  - **2026-09-04** (1 zdrojů) Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History
+  - **2026-09-11** (1 zdrojů) For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah
