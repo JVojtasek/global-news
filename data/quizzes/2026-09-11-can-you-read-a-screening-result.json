@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-read-a-screening-result",
+  "date": "2026-09-11",
+  "category": "health-literacy",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "Can you read a screening result?", "cs": "Umíte číst výsledek screeningu?"},
+    "dek": {"en": "Eight questions separate screening from diagnosis and clarify false results, follow-up and overdiagnosis.", "cs": "Osm otázek oddělí screening od diagnózy a objasní falešné výsledky, následná vyšetření a naddiagnostiku."},
+    "intro": {"en": "Choose the best general interpretation. A real result must be read using the named test, target population and current clinical guidance.", "cs": "Vyberte nejlepší obecný výklad. Skutečný výsledek je nutné číst podle konkrétního testu, cílové populace a aktuálních klinických doporučení."},
+    "disclaimer": {"en": "This is an original educational knowledge quiz based on public health guidance, not a licensed instrument, diagnosis, personal risk estimate or substitute for medical care. It does not interpret an individual result. Screening recommendations and follow-up depend on the test, person and jurisdiction; discuss personal results or symptoms with a qualified clinician.", "cs": "Jde o původní vzdělávací znalostní kvíz založený na veřejných zdravotnických doporučeních, nikoli o licencovaný nástroj, diagnózu, osobní odhad rizika či náhradu zdravotní péče. Nevykládá individuální výsledek. Doporučení ke screeningu a navazujícím krokům závisejí na testu, člověku a zemi; osobní výsledky či příznaky proberte s kvalifikovaným zdravotníkem."}
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "screening-purpose",
+      "text": {"en": "What is the main purpose of a screening test?", "cs": "Jaký je hlavní účel screeningového testu?"},
+      "options": [
+        {"label": {"en": "To look for possible disease or risk before symptoms are apparent", "cs": "Hledat možné onemocnění či riziko dříve, než jsou patrné příznaky"}, "correct": true},
+        {"label": {"en": "To prove a diagnosis by itself", "cs": "Sám o sobě prokázat diagnózu"}, "correct": false},
+        {"label": {"en": "To guarantee that disease will never develop", "cs": "Zaručit, že se nemoc nikdy nerozvine"}, "correct": false}
+      ],
+      "explanation": {"en": "Screening looks for a signal in people without recognised symptoms. An abnormal signal commonly requires a separate diagnostic pathway.", "cs": "Screening hledá signál u lidí bez rozpoznaných příznaků. Abnormální signál obvykle vyžaduje samostatný diagnostický postup."}
+    },
+    {
+      "id": "positive-screen",
+      "text": {"en": "A screening result is positive. What can be concluded?", "cs": "Výsledek screeningu je pozitivní. Co z něj lze vyvodit?"},
+      "options": [
+        {"label": {"en": "The result crossed the test's threshold and appropriate follow-up may be needed", "cs": "Výsledek překročil práh testu a může být potřeba odpovídající navazující vyšetření"}, "correct": true},
+        {"label": {"en": "The disease is certainly present", "cs": "Nemoc je určitě přítomná"}, "correct": false},
+        {"label": {"en": "Treatment should begin without confirmation", "cs": "Léčba má začít bez potvrzení"}, "correct": false}
+      ],
+      "explanation": {"en": "A positive screen is not automatically a diagnosis. Its meaning depends on test performance, the screened population and confirmatory evaluation.", "cs": "Pozitivní screening není automaticky diagnózou. Jeho význam závisí na vlastnostech testu, vyšetřované populaci a potvrzujícím vyšetření."}
+    },
+    {
+      "id": "negative-screen",
+      "text": {"en": "What does a negative screening result usually mean?", "cs": "Co obvykle znamená negativní výsledek screeningu?"},
+      "options": [
+        {"label": {"en": "The test did not detect its target, but no test excludes every case", "cs": "Test nezachytil svůj cíl, ale žádný test nevyloučí všechny případy"}, "correct": true},
+        {"label": {"en": "Future disease is impossible", "cs": "Budoucí onemocnění je nemožné"}, "correct": false},
+        {"label": {"en": "New symptoms can always be ignored", "cs": "Nové příznaky lze vždy ignorovat"}, "correct": false}
+      ],
+      "explanation": {"en": "False negatives occur. Symptoms or meaningful changes deserve clinical attention even after a previous negative screen.", "cs": "Falešně negativní výsledky existují. Příznaky či významné změny si zaslouží klinické posouzení i po dřívějším negativním screeningu."}
+    },
+    {
+      "id": "sensitivity",
+      "text": {"en": "What does high sensitivity describe?", "cs": "Co popisuje vysoká senzitivita?"},
+      "options": [
+        {"label": {"en": "The test identifies a high share of people who truly have the condition", "cs": "Test zachytí vysoký podíl lidí, kteří dané onemocnění skutečně mají"}, "correct": true},
+        {"label": {"en": "Every positive result is a true positive", "cs": "Každý pozitivní výsledek je skutečně pozitivní"}, "correct": false},
+        {"label": {"en": "The test never causes anxiety", "cs": "Test nikdy nevyvolá úzkost"}, "correct": false}
+      ],
+      "explanation": {"en": "Sensitivity concerns true cases detected. It does not by itself state how many positive results are correct.", "cs": "Senzitivita se týká zachycených skutečných případů. Sama neříká, kolik pozitivních výsledků je správných."}
+    },
+    {
+      "id": "specificity",
+      "text": {"en": "What does high specificity describe?", "cs": "Co popisuje vysoká specificita?"},
+      "options": [
+        {"label": {"en": "The test correctly clears a high share of people without the condition", "cs": "Test správně vyhodnotí vysoký podíl lidí bez daného onemocnění"}, "correct": true},
+        {"label": {"en": "The test finds every true case", "cs": "Test najde každý skutečný případ"}, "correct": false},
+        {"label": {"en": "A negative result remains valid forever", "cs": "Negativní výsledek platí navždy"}, "correct": false}
+      ],
+      "explanation": {"en": "Specificity is the proportion of people without the condition who test negative. It is distinct from sensitivity.", "cs": "Specificita je podíl lidí bez daného onemocnění, kteří mají negativní výsledek. Liší se od senzitivity."}
+    },
+    {
+      "id": "prevalence",
+      "text": {"en": "The same test is used where the condition is much rarer. What may happen to positive results?", "cs": "Stejný test se použije tam, kde je onemocnění mnohem vzácnější. Co se může stát s pozitivními výsledky?"},
+      "options": [
+        {"label": {"en": "A larger share of positive results may be false positives", "cs": "Větší podíl pozitivních výsledků může být falešně pozitivní"}, "correct": true},
+        {"label": {"en": "Every positive becomes more certain", "cs": "Každý pozitivní výsledek bude jistější"}, "correct": false},
+        {"label": {"en": "Sensitivity automatically becomes 100 percent", "cs": "Senzitivita automaticky vzroste na 100 procent"}, "correct": false}
+      ],
+      "explanation": {"en": "Predictive value depends partly on how common the condition is in the tested population, even when sensitivity and specificity are unchanged.", "cs": "Prediktivní hodnota závisí mimo jiné na četnosti onemocnění v testované populaci, i když se senzitivita a specificita nezmění."}
+    },
+    {
+      "id": "overdiagnosis",
+      "text": {"en": "How is overdiagnosis different from a false positive?", "cs": "Jak se naddiagnostika liší od falešně pozitivního výsledku?"},
+      "options": [
+        {"label": {"en": "Overdiagnosis finds a real abnormality that would not have caused harm; a false positive indicates something that is not actually present", "cs": "Naddiagnostika najde skutečnou abnormalitu, která by nezpůsobila újmu; falešně pozitivní výsledek ukazuje něco, co přítomné není"}, "correct": true},
+        {"label": {"en": "They are two names for the same event", "cs": "Jsou to dva názvy stejné události"}, "correct": false},
+        {"label": {"en": "Overdiagnosis means a laboratory typo", "cs": "Naddiagnostika znamená překlep v laboratoři"}, "correct": false}
+      ],
+      "explanation": {"en": "Overdiagnosis concerns a genuinely detected condition that would not become clinically harmful. It can lead to treatment without corresponding benefit.", "cs": "Naddiagnostika se týká skutečně zjištěného stavu, který by se klinicky škodlivým nestal. Může vést k léčbě bez odpovídajícího přínosu."}
+    },
+    {
+      "id": "benefit-harm",
+      "text": {"en": "Why can two reputable organisations recommend screening for different age groups?", "cs": "Proč mohou dvě důvěryhodné organizace doporučovat screening pro odlišné věkové skupiny?"},
+      "options": [
+        {"label": {"en": "They may weigh benefits, false results, overdiagnosis and treatment harms differently for each population", "cs": "Mohou pro každou populaci jinak vážit přínosy, falešné výsledky, naddiagnostiku a újmy léčby"}, "correct": true},
+        {"label": {"en": "One must be ignoring all evidence", "cs": "Jedna z nich musí ignorovat všechny důkazy"}, "correct": false},
+        {"label": {"en": "Screening has no possible harms", "cs": "Screening nemá žádné možné újmy"}, "correct": false}
+      ],
+      "explanation": {"en": "Net benefit changes with baseline risk, test performance, follow-up and preferences. Recommendations should name the population and trade-offs.", "cs": "Čistý přínos se mění se základním rizikem, vlastnostmi testu, navazující péčí a preferencemi. Doporučení má uvést populaci i kompromisy."}
+    }
+  ],
+  "outcomes": [
+    {"min": 0, "max": 2, "title": {"en": "Start with screen versus diagnosis", "cs": "Začněte rozdílem mezi screeningem a diagnózou"}, "summary": {"en": "Several screening terms are still easy to overread. This score says nothing about your health. Revisit the explanations for positive and negative screens, then check the official guidance for one screening programme you encounter.", "cs": "Několik pojmů screeningu lze ještě snadno přecenit. Skóre nic nevypovídá o vašem zdraví. Vraťte se k vysvětlení pozitivního a negativního výsledku a ověřte si oficiální pokyny jednoho screeningového programu."}},
+    {"min": 3, "max": 5, "title": {"en": "The basics are visible—add the trade-offs", "cs": "Základy vidíte—doplňte kompromisy"}, "summary": {"en": "You distinguish some core terms, but predictive value or overdiagnosis may remain unclear. This is not an interpretation of any personal result. Review the missed explanation and identify the programme's stated follow-up step.", "cs": "Některé základní pojmy rozlišujete, ale prediktivní hodnota či naddiagnostika mohou zůstávat nejasné. Nejde o výklad osobního výsledku. Projděte chybné vysvětlení a najděte uvedený navazující krok programu."}},
+    {"min": 6, "max": 7, "title": {"en": "Strong screening literacy with one blind spot", "cs": "Dobrá gramotnost ve screeningu s jedním slepým místem"}, "summary": {"en": "You read most screening claims with appropriate caution. A high score cannot assess personal risk or replace follow-up. Use the missed item to form one question for a clinician or official programme resource.", "cs": "Většinu tvrzení o screeningu čtete s přiměřenou opatrností. Vysoké skóre neposoudí osobní riziko ani nenahradí navazující péči. Z chybné položky vytvořte jednu otázku pro zdravotníka či oficiální zdroj programu."}},
+    {"min": 8, "max": 8, "title": {"en": "You separate a signal from a conclusion", "cs": "Oddělujete signál od závěru"}, "summary": {"en": "You distinguished all eight tested concepts. The result is limited to these questions and does not interpret your health. Keep asking what population, threshold, follow-up and balance of benefits and harms a screening claim refers to.", "cs": "Rozlišili jste všech osm testovaných pojmů. Výsledek platí jen pro tyto otázky a nevykládá váš zdravotní stav. Dál se ptejte, k jaké populaci, prahu, navazujícímu postupu a poměru přínosů a újem se tvrzení vztahuje."}}
+  ],
+  "sources": [
+    {"name": "National Cancer Institute — Cancer Screening", "url": "https://www.cancer.gov/about-cancer/screening", "published": "", "type": "official explanation of screening, false-positive and false-negative results, benefits and harms; no quiz items reproduced"},
+    {"name": "Centers for Disease Control and Prevention — Diagnostic Sensitivity and Specificity", "url": "https://reach.cdc.gov/sites/default/files/job-aids-resources/Sensitivity_and_Specificity.pdf", "published": "", "type": "official educational definitions of sensitivity, specificity and test outcomes; no assessment instrument reproduced"},
+    {"name": "U.S. Preventive Services Task Force — Prostate Cancer Screening", "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening", "published": "2018-05-08", "type": "official example of population-specific benefit-harm assessment, false positives and overdiagnosis"},
+    {"name": "World Journal of Methodology — Screening tests: a review with examples", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4389712/", "published": "2015-03-26", "type": "peer-reviewed review of screening accuracy, predictive values and prevalence; no quiz items reproduced"}
+  ]
+}
