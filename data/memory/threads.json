@@ -1710,6 +1710,146 @@
    ]
   },
   {
+   "id": "8d4f8a634705",
+   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+   "section": "world",
+   "entities": [
+    "moonshot",
+    "kong",
+    "wall",
+    "street",
+    "wong",
+    "kimi",
+    "joshua",
+    "journal",
+    "jailed",
+    "hong"
+   ],
+   "event_ids": [
+    "8d4f8a634705",
+    "e2312c1237f9",
+    "323d97d785b5",
+    "555171a3d51e",
+    "90b187c3a547"
+   ],
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-09-11",
+   "timeline": [
+    {
+     "date": "2026-09-02",
+     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+     "sources": 4,
+     "score": 68,
+     "event_id": "8d4f8a634705",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e2312c1237f9",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
+      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
+     "sources": 3,
+     "score": 62,
+     "event_id": "323d97d785b5",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+     "sources": 2,
+     "score": 46,
+     "event_id": "555171a3d51e",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+     "sources": 2,
+     "score": 48,
+     "event_id": "90b187c3a547",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c64cc7683a93",
+   "title": "Sabalenka fights back to keep US Open defence alive",
+   "section": "sport",
+   "entities": [
+    "open",
+    "sabalenka",
+    "rybakina",
+    "townsend"
+   ],
+   "event_ids": [
+    "c64cc7683a93",
+    "d289ddd8927e",
+    "955bafeb2989"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-11",
+   "timeline": [
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka fights back to keep US Open defence alive",
+     "sources": 3,
+     "score": 57,
+     "event_id": "c64cc7683a93",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
+      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d289ddd8927e",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Rybakina sets up blockbuster Sabalenka final at US Open",
+     "sources": 3,
+     "score": 60,
+     "event_id": "955bafeb2989",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss",
+      "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -4328,47 +4468,6 @@
    ]
   },
   {
-   "id": "c64cc7683a93",
-   "title": "Sabalenka fights back to keep US Open defence alive",
-   "section": "sport",
-   "entities": [
-    "townsend",
-    "open",
-    "sabalenka"
-   ],
-   "event_ids": [
-    "c64cc7683a93",
-    "d289ddd8927e"
-   ],
-   "first_seen": "2026-09-08",
-   "last_seen": "2026-09-08",
-   "timeline": [
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka fights back to keep US Open defence alive",
-     "sources": 3,
-     "score": 57,
-     "event_id": "c64cc7683a93",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
-      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d289ddd8927e",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
-     ]
-    }
-   ]
-  },
-  {
    "id": "85e21207cd70",
    "title": "Five dead after Amazon cargo plane crashes at Miami airport",
    "section": "world",
@@ -4607,76 +4706,6 @@
      "links": [
       "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
       "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8d4f8a634705",
-   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-   "section": "world",
-   "entities": [
-    "wong",
-    "moonshot",
-    "joshua",
-    "kimi",
-    "jailed",
-    "kong",
-    "hong"
-   ],
-   "event_ids": [
-    "8d4f8a634705",
-    "e2312c1237f9",
-    "323d97d785b5",
-    "555171a3d51e"
-   ],
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-06",
-   "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-     "sources": 4,
-     "score": 68,
-     "event_id": "8d4f8a634705",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e2312c1237f9",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
-      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
-     "sources": 3,
-     "score": 62,
-     "event_id": "323d97d785b5",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
-     "sources": 2,
-     "score": 46,
-     "event_id": "555171a3d51e",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
      ]
     }
    ]
@@ -7993,5 +8022,5 @@
    ]
   }
  ],
- "updated": "2026-09-11T03:29:41+00:00"
+ "updated": "2026-09-11T06:39:16+00:00"
 }
