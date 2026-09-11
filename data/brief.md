@@ -9,41 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
-- id události: `af2c3bcc90b1`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 7
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
-    <https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss>
-    > Palestinians strongly back a ban on settlement goods, but Israel's government says it is a "big mistake".
-  - **The Guardian World** — UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing
-    <https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing>
-    > In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists” are conducting ethnic cleansing in the West Bank with the tacit backing of the government, the UK for
-  - **Guardian Business** — UK foreign secretary announces sanctions on trade with Israeli West Bank settlements – video
-    <https://www.theguardian.com/politics/video/2026/sep/08/uk-foreign-secretary-sanctions-trade-israeli-west-bank-settlements-video>
-    > In the strongest condemnation ever issued by a UK government, Ed Miliband said it would take the official position that Israel’s occupation of the West Bank was unlawful in its entirety. The sanctions imposed include bans on goods from illegal settlements and adverts for land on 
-  - **NPR News** — U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods
-    <https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel>
-    > Britain announces a ban on goods from Israeli settlements in the occupied West Bank, prompting warnings of US repercussions and an angry response from Israel.
-  - **DW News** — UK announces trade sanctions on Israeli settlements in occupied West Bank
-    <https://www.dw.com/en/uk-announces-trade-sanctions-on-israeli-settlements-in-occupied-west-bank/a-79155051?maca=en-rss-en-all-1573-rdf>
-    > Foreign Secretary Ed Miliband said the measures were in response to what he called "settler terrorism" in the occupied territories. The measures are part of the UK's efforts to support a two-state solution.
-  - **Al Jazeera** — UK bans goods from Israeli West Bank settlements: What that really means
-    <https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss>
-    > Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of UK's policy on Israel.
-  - **France 24** — France joins ban on products from Israeli settlements in West Bank
-    <https://www.france24.com/en/video/20260908-france-joins-ban-on-products-from-israeli-settlements-in-west-bank>
-    > France will join the UK and other countries in launching a process to ban products from Israeli settlements in the occupied West Bank, Foreign Minister Jean-Noël ​Barrot said on Tuesday, amid rising settler violence that has further undermined prospects for a two-state solution w
-  - **France 24** — UK ban on goods from Israeli settlements 'evidence of Netanyahu's failure'
-    <https://www.france24.com/en/video/20260908-uk-ban-on-goods-from-israeli-settlements-evidence-of-natanyahu-s-failure>
-    > British foreign minister Ed Miliband accused the Israeli government on Tuesday of turning a "blind eye" to what he called "ethnic cleansing" by settlers in the West Bank. Miliband told parliament the UK government would introduce "an import ban on goods from illegal settlements i
-  - **France 24** — UK, France and ten other countries to sanction trade from Israeli settlements
-    <https://www.france24.com/en/video/20260908-uk-france-and-ten-other-countries-to-sanction-trade-from-israeli-settlements>
-    > Twelve countries including Britain, Canada and France Tuesday said they would slap sanctions on trade with Israeli settlements in the West Bank, after increasing attacks by Israeli settlers against Palestinian villages in the occupied territory. British Foreign Minister Ed ​Milib
-  - **France 24** — 🔴 France, UK to join 10 other countries in banning goods from Israeli West Bank settlements
-    <https://www.france24.com/en/middle-east/20260908-france-and-canada-to-join-uk-in-banning-goods-from-israeli-west-bank-settlements>
-
-### 2. Hong Kong's Tiananmen activists sentenced to up to seven years in prison
+### 1. Hong Kong's Tiananmen activists sentenced to up to seven years in prison
 - id události: `b43c2e14cf73`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -63,7 +29,7 @@
     <https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss>
     > Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.
 
-### 3. UK announces sanctions on West Bank settlements prompting furious Israeli response
+### 2. UK announces sanctions on West Bank settlements prompting furious Israeli response
 - id události: `832c384b6768`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -89,7 +55,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss>
     > The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
 
-### 4. Champions League new boys Como dominate Leipzig
+### 3. Champions League new boys Como dominate Leipzig
 - id události: `9dcec27cdc51`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -105,6 +71,29 @@
   - **Al Jazeera** — Manchester United beat Sabah 4-0 on Champions League return
     <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
     > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
+
+### 4. Napoli vs Arsenal: Champions League – prediction, teams, lineups
+- id události: `0120f35abded`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **Al Jazeera** — Napoli vs Arsenal: Champions League – prediction, teams, lineups
+    <https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss>
+    > Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form.
+  - **Al Jazeera** — Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction
+    <https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss>
+    > Andoni Iraola looks to build on his first win as Liverpool manager in tough game against Diego Simeone's Atletico.
+  - **Al Jazeera** — Haaland to the double as Manchester City beat Porto in Champions League
+    <https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss>
+    > Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
+  - **France 24** — Mourinho's Real Madrid edge Inter Milan in Champions League opener
+    <https://www.france24.com/en/sport/20260908-mourinho-real-madrid-edge-inter-milan-in-champions-league-opener>
+    > Jose Mourinho's Real Madrid began their Champions League campaign with a 2-1 win over his former side Inter Milan on Tuesday, taking a two-goal lead before Carlos Augusto pulled one back. Thibaut Courtois and Inter goalkeeper Josep Martinez both made crucial saves as Madrid held 
+  - **Guardian Sport** — Real Madrid somehow cling on to beat Inter on José Mourinho’s big night
+    <https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report>
+    > Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions Lea
+  - **Guardian Sport** — Haaland double gives Manchester City ideal Champions League start in Porto
+    <https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report>
+    > Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the com
 
 ---
 
