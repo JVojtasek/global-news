@@ -2103,6 +2103,35 @@
    ]
   },
   {
+   "id": "4a1f65fbb798",
+   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+   "section": "tech",
+   "entities": [
+    "amodei",
+    "dario",
+    "anthropic"
+   ],
+   "event_ids": [
+    "4a1f65fbb798"
+   ],
+   "first_seen": "2026-09-12",
+   "last_seen": "2026-09-12",
+   "timeline": [
+    {
+     "date": "2026-09-12",
+     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+     "sources": 5,
+     "score": 69,
+     "event_id": "4a1f65fbb798",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1301430cb05f",
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
@@ -8228,5 +8257,5 @@
    ]
   }
  ],
- "updated": "2026-09-12T15:22:13+00:00"
+ "updated": "2026-09-12T18:26:17+00:00"
 }

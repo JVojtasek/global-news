@@ -29,7 +29,27 @@
     <https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss>
     > Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.
 
-### 2. Champions League new boys Como dominate Leipzig
+### 2. Anthropic boss Dario Amodei calls for AI development to slow down
+- id události: `4a1f65fbb798`  ·  rubrika: `tech`  ·  skóre: 69  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Anthropic boss Dario Amodei calls for AI development to slow down
+    <https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss>
+    > The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
+  - **BBC Technology** — Anthropic boss Dario Amodei calls for AI development to slow down
+    <https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss>
+    > The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
+  - **Guardian Business** — ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
+    <https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown>
+    > In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systems The CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that
+  - **TechCrunch** — Anthropic CEO outlines plan to ‘pace the frontier’
+    <https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/>
+    > What would it actually look like to "pace the frontier"?
+  - **Hacker News Best** — We must pace the frontier
+    <https://darioamodei.com/post/we-must-pace-the-frontier>
+    > Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 196 # Comments: 266
+
+### 3. Champions League new boys Como dominate Leipzig
 - id události: `9dcec27cdc51`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -46,7 +66,7 @@
     <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
     > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
 
-### 3. Arsenal are passing every test - and Odegaard is in form of his life
+### 4. Arsenal are passing every test - and Odegaard is in form of his life
 - id události: `849069df442b`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -68,23 +88,6 @@
   - **Al Jazeera** — Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
     <https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss>
     > Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
-
-### 4. Deadly Philippines ferry fire leaves scores of people missing
-- id události: `de0860184e5e`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **The Guardian World** — Deadly Philippines ferry fire leaves scores of people missing
-    <https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing>
-    > Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guard Five people were confirmed dead ⁠in early counting and ​more than 80 were missing after a ferry caught fire ⁠off Palawan island in the w
-  - **DW News** — Philippines: Several killed, dozens missing after fire on ferry
-    <https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf>
-    > Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship's manifest listed 134 passengers and crew.
-  - **Al Jazeera** — Several dead, dozens missing after ferry fire in Philippines tourist spot
-    <https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss>
-    > Video from the Philippine Coast Guard shows a ferry engulfed in flames near Palawan.
-  - **France 24** — At least five killed, 87 missing after ferry fire in Philippines
-    <https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines>
-    > At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and rescue operations as officials warned the figures could change w
 
 ---
 
