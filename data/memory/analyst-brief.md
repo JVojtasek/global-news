@@ -9,7 +9,6 @@ Paměť obsahuje **92 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 34 dní · 60 záznamů
 - časová osa:
-  - **2026-09-03** (2 zdrojů) Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
   - **2026-09-05** (2 zdrojů) US military says it struck three Iranian tankers after American warships came under missile attack
   - **2026-09-08** (2 zdrojů) Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
   - **2026-09-08** (2 zdrojů) Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
@@ -19,6 +18,7 @@ Paměť obsahuje **92 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-11** (2 zdrojů) India news: Putin, Modi to hold talks ahead of BRICS Summit
   - **2026-09-11** (2 zdrojů) Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
   - **2026-09-12** (2 zdrojů) BRICS leaders meet in India as wars and US tensions test the bloc
+  - **2026-09-12** (2 zdrojů) India’s Modi calls for empowerment of Global South at BRICS Summit
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 30 dní · 52 záznamů
@@ -37,9 +37,8 @@ Paměť obsahuje **92 vláken**. Aktivních za posledních 14 dní: **44**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 24 dní · 49 záznamů
+- rubrika `sport` · sledováno 25 dní · 50 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) Club Brugge v Aston Villa: Champions League – live
   - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
   - **2026-09-09** (3 zdrojů) The Rwandan eyeing Champions League history against Man Utd
   - **2026-09-09** (2 zdrojů) Napoli v Arsenal: Champions League – live
@@ -49,6 +48,7 @@ Paměť obsahuje **92 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-10** (2 zdrojů) Man United put four past Sabah on Champions League return
   - **2026-09-11** (4 zdrojů) Champions League new boys Como dominate Leipzig
   - **2026-09-11** (2 zdrojů) Lens secure an epic comeback win to kick off their Champions League campaign
+  - **2026-09-12** (2 zdrojů) Manchester United vs Man City: Premier League – predictions, teams, lineups
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 28 dní · 36 záznamů
