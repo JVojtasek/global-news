@@ -1,20 +1,21 @@
 ---
 slug: a-childs-lie-is-not-a-character-verdict
-title: "A Child’s Lie Is Not a Character Verdict"
-dek: "Children bend the truth for different reasons at different ages. The useful question is not ‘What kind of child does this?’ but ‘What made honesty difficult here?’"
+title: A Child’s Lie Is Not a Character Verdict
+dek: Children bend the truth for different reasons at different ages. The useful question
+  is not ‘What kind of child does this?’ but ‘What made honesty difficult here?’
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-12'
-status: draft
-confidence: high
+status: review
+confidence: 95
 load: 0
 topics:
-  - child development
-  - honesty
-  - discipline
-  - family communication
+- child development
+- honesty
+- discipline
+- family communication
 automation_generated: true
 edition_slot: 1
 automation_role: edition
@@ -22,33 +23,38 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: "conceptual editorial illustration child honesty tangled thread calm parent conversation no text"
+image_query: conceptual editorial illustration child honesty tangled thread calm parent
+  conversation no text
 sources:
-  - name: "American Psychological Association — The truth about why kids lie"
-    url: https://www.apa.org/news/podcasts/speaking-of-psychology/why-kids-lie
-    published: '2022-07-20'
-  - name: "Child Development — Lying and Theory of Mind: A Meta-Analysis"
-    url: https://onlinelibrary.wiley.com/doi/10.1111/cdev.13535
-    published: '2021-01-18'
-  - name: "Child Development — A Punitive Environment Fosters Children’s Dishonesty"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3218233/
-    published: '2011-10-24'
-  - name: "Law and Human Behavior — Children’s conceptual knowledge of lying"
-    url: https://pubmed.ncbi.nlm.nih.gov/12182530/
-    published: '2002-08-01'
-  - name: "American Academy of Pediatrics — When Children Lie: What Parents Can Do"
-    url: https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/When-Children-Lie.aspx
-    published: '2025-03-18'
+- name: American Psychological Association — The truth about why kids lie
+  url: https://www.apa.org/news/podcasts/speaking-of-psychology/why-kids-lie
+  published: '2022-07-20'
+- name: 'Child Development — Lying and Theory of Mind: A Meta-Analysis'
+  url: https://onlinelibrary.wiley.com/doi/10.1111/cdev.13535
+  published: '2021-01-18'
+- name: Child Development — A Punitive Environment Fosters Children’s Dishonesty
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3218233/
+  published: '2011-10-24'
+- name: Law and Human Behavior — Children’s conceptual knowledge of lying
+  url: https://pubmed.ncbi.nlm.nih.gov/12182530/
+  published: '2002-08-01'
+- name: 'American Academy of Pediatrics — When Children Lie: What Parents Can Do'
+  url: https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/When-Children-Lie.aspx
+  published: '2025-03-18'
 qma_path: ''
 tickers: []
 quiz:
-  question: "In a study of 3- and 4-year-olds at two West African schools, what differed most clearly between children who had peeked at a forbidden toy?"
+  question: In a study of 3- and 4-year-olds at two West African schools, what differed
+    most clearly between children who had peeked at a forbidden toy?
   options:
-    - "Children in the punitive school were much more likely to deny peeking"
-    - "Children in the non-punitive school were much more likely to peek"
-    - "Children in both schools always confessed after one follow-up question"
+  - Children in the punitive school were much more likely to deny peeking
+  - Children in the non-punitive school were much more likely to peek
+  - Children in both schools always confessed after one follow-up question
   answer: 0
-  explanation: "Peeking rates were similar, but 94% of peekers in the punitive school denied peeking, compared with 56% in the non-punitive school. The natural experiment cannot prove that discipline alone caused the difference."
+  explanation: Peeking rates were similar, but 94% of peekers in the punitive school
+    denied peeking, compared with 56% in the non-punitive school. The natural experiment
+    cannot prove that discipline alone caused the difference.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY

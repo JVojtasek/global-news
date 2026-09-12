@@ -1,13 +1,14 @@
 ---
 title: Edna Lewis Put the Year Back on the Plate
-dek: Her cooking joined flavour to season, place and memory. In doing so, Edna Lewis preserved a Black Southern food tradition without reducing it to nostalgia.
+dek: Her cooking joined flavour to season, place and memory. In doing so, Edna Lewis
+  preserved a Black Southern food tradition without reducing it to nostalgia.
 date: '2026-09-11'
 section: food
 type: analysis
 format: ''
 series: ''
-status: draft
-confidence: 91
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -34,11 +35,13 @@ tickers: []
 quiz:
   question: What made seasonality central to Edna Lewis's food writing?
   options:
-  - It connected dishes to farming, community practice and the particular moment ingredients were at their best.
+  - It connected dishes to farming, community practice and the particular moment ingredients
+    were at their best.
   - It was mainly a rule that Southern cooks should avoid preserved food.
   - It allowed every recipe to be detached from place and history.
   answer: 0
-  explanation: Lewis organised food as lived seasonal knowledge, linking ingredients and meals to work, celebration, preservation and memory.
+  explanation: Lewis organised food as lived seasonal knowledge, linking ingredients
+    and meals to work, celebration, preservation and memory.
 lang: en
 depth: open
 slug: edna-lewis-put-the-year-back-on-the-plate

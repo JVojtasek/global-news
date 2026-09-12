@@ -1,20 +1,22 @@
 ---
 slug: a-hummingbird-does-not-put-hovering-in-reverse
-title: "A Hummingbird Does Not Put Hovering in Reverse"
-dek: "Backward flight looks like a simple reversal. High-speed video shows a subtler manoeuvre: the bird reorients its body, stroke plane and wing timing while keeping the same flapping system at work."
+title: A Hummingbird Does Not Put Hovering in Reverse
+dek: 'Backward flight looks like a simple reversal. High-speed video shows a subtler
+  manoeuvre: the bird reorients its body, stroke plane and wing timing while keeping
+  the same flapping system at work.'
 section: wonder
 type: analysis
 depth: open
 lang: en
 date: '2026-09-12'
-status: draft
-confidence: high
+status: published
+confidence: 94
 load: 0
 topics:
-  - hummingbirds
-  - animal flight
-  - biomechanics
-  - aerodynamics
+- hummingbirds
+- animal flight
+- biomechanics
+- aerodynamics
 automation_generated: true
 edition_slot: 2
 automation_role: edition
@@ -22,30 +24,38 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: "conceptual editorial illustration hummingbird backward flight wing stroke geometry no text"
+image_query: conceptual editorial illustration hummingbird backward flight wing stroke
+  geometry no text
 sources:
-  - name: "Journal of Experimental Biology — Backward flight in hummingbirds employs unique kinematic adjustments and entails low metabolic cost"
-    url: https://journals.biologists.com/jeb/article/215/20/3603/11039/Backward-flight-in-hummingbirds-employs-unique
-    published: '2012-10-15'
-  - name: "Nature — Aerodynamics of the hovering hummingbird"
-    url: https://pubmed.ncbi.nlm.nih.gov/15973407/
-    published: '2005-06-23'
-  - name: "Journal of Experimental Biology — Three-dimensional kinematics of hummingbird flight"
-    url: https://journals.biologists.com/jeb/article/210/13/2368/16900/Three-dimensional-kinematics-of-hummingbird-flight
-    published: '2007-07-01'
-  - name: "Proceedings of the Royal Society B — Hummingbird flight control is based on a multi-scale architecture of distributed biomechanical modules"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9727662/
-    published: '2022-12-07'
+- name: Journal of Experimental Biology — Backward flight in hummingbirds employs
+    unique kinematic adjustments and entails low metabolic cost
+  url: https://journals.biologists.com/jeb/article/215/20/3603/11039/Backward-flight-in-hummingbirds-employs-unique
+  published: '2012-10-15'
+- name: Nature — Aerodynamics of the hovering hummingbird
+  url: https://pubmed.ncbi.nlm.nih.gov/15973407/
+  published: '2005-06-23'
+- name: Journal of Experimental Biology — Three-dimensional kinematics of hummingbird
+    flight
+  url: https://journals.biologists.com/jeb/article/210/13/2368/16900/Three-dimensional-kinematics-of-hummingbird-flight
+  published: '2007-07-01'
+- name: Proceedings of the Royal Society B — Hummingbird flight control is based on
+    a multi-scale architecture of distributed biomechanical modules
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9727662/
+  published: '2022-12-07'
 qma_path: ''
 tickers: []
 quiz:
-  question: "At 3 metres per second in the 2012 wind-tunnel study, how did the oxygen cost of sustained backward flight compare with the other tested modes?"
+  question: At 3 metres per second in the 2012 wind-tunnel study, how did the oxygen
+    cost of sustained backward flight compare with the other tested modes?
   options:
-    - "It was similar to forward flight at the same speed and about 20% lower than hovering"
-    - "It was about twice the cost of forward flight"
-    - "The birds could not sustain backward flight at that speed"
+  - It was similar to forward flight at the same speed and about 20% lower than hovering
+  - It was about twice the cost of forward flight
+  - The birds could not sustain backward flight at that speed
   answer: 0
-  explanation: "Five male Anna’s hummingbirds showed similar oxygen uptake in backward and forward flight at 3 m/s, while backward flight was about 20% less costly than hovering. The small wind-tunnel study describes those conditions, not every species or natural manoeuvre."
+  explanation: Five male Anna’s hummingbirds showed similar oxygen uptake in backward
+    and forward flight at 3 m/s, while backward flight was about 20% less costly than
+    hovering. The small wind-tunnel study describes those conditions, not every species
+    or natural manoeuvre.
 ---
 
 ## BRIEFLY

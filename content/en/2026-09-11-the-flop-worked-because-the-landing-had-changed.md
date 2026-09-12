@@ -1,13 +1,14 @@
 ---
 title: The Flop Worked Because the Landing Had Changed
-dek: Dick Fosbury's back-first high jump looked like individual rebellion. It became possible because technique, body geometry and safer landing equipment changed together.
+dek: Dick Fosbury's back-first high jump looked like individual rebellion. It became
+  possible because technique, body geometry and safer landing equipment changed together.
 date: '2026-09-11'
 section: sport
 type: feature
 format: ''
 series: ''
 status: reserve
-confidence: 90
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -37,11 +38,14 @@ tickers: []
 quiz:
   question: Why did softer landing pits matter to the Fosbury Flop?
   options:
-  - They made a back-and-shoulder landing practical enough for the technique to develop and spread.
+  - They made a back-and-shoulder landing practical enough for the technique to develop
+    and spread.
   - They pushed jumpers over the bar without requiring takeoff speed.
   - They removed the need to control body position during flight.
   answer: 0
-  explanation: The technique ends with the athlete landing on the back or shoulders. Foam-based pits reduced the danger that earlier sand or sawdust landings would have created.
+  explanation: The technique ends with the athlete landing on the back or shoulders.
+    Foam-based pits reduced the danger that earlier sand or sawdust landings would
+    have created.
 lang: en
 depth: open
 slug: the-flop-worked-because-the-landing-had-changed
