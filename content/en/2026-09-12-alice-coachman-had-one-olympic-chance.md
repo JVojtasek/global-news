@@ -1,13 +1,15 @@
 ---
-title: "Alice Coachman Had One Olympic Chance"
-dek: "Two Games disappeared into war while the high jumper kept winning at home. When the Olympics returned in 1948, she cleared the bar on her first attempt and made history that segregation still tried to contain."
+title: Alice Coachman Had One Olympic Chance
+dek: Two Games disappeared into war while the high jumper kept winning at home. When
+  the Olympics returned in 1948, she cleared the bar on her first attempt and made
+  history that segregation still tried to contain.
 date: '2026-09-12'
 section: sport
 type: feature
 format: ''
 series: ''
 status: reserve
-confidence: 96
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -26,7 +28,8 @@ sources:
 - name: NPR Code Switch — Why an African-American Sports Pioneer Remains Obscure
   url: https://www.npr.org/sections/codeswitch/2014/07/19/332665921/why-an-african-american-sports-pioneer-remains-obscure
   published: '2014-07-19'
-- name: Andscape — The Day Alice Coachman Became the First Black Woman to Win Olympic Gold
+- name: Andscape — The Day Alice Coachman Became the First Black Woman to Win Olympic
+    Gold
   url: https://andscape.com/features/alice-coachman-became-the-first-black-woman-to-win-olympic-gold-1948-games-in-london/
   published: '2018-08-08'
 qma_path: ''
@@ -34,11 +37,14 @@ tickers: []
 quiz:
   question: Why was the 1948 London high jump Coachman's only Olympic opportunity?
   options:
-  - The 1940 and 1944 Games were cancelled during World War II, and she retired after 1948.
+  - The 1940 and 1944 Games were cancelled during World War II, and she retired after
+    1948.
   - Women's high jump was introduced for one Games and then immediately removed.
   - Athletes were permitted to enter the Olympics only once in that era.
   answer: 0
-  explanation: Coachman dominated national competition through the war years, but the two preceding Olympics were cancelled. She competed when the Games returned in 1948 and retired afterward.
+  explanation: Coachman dominated national competition through the war years, but
+    the two preceding Olympics were cancelled. She competed when the Games returned
+    in 1948 and retired afterward.
 lang: en
 depth: open
 slug: alice-coachman-had-one-olympic-chance

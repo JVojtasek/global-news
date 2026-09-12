@@ -1,13 +1,15 @@
 ---
-title: "An Old Book's Smell Is a Chemical Record"
-dek: "That familiar library scent comes from materials slowly changing and releasing volatile compounds. It can reveal clues about paper, binding and storage, but a nose is not a conservation laboratory."
+title: An Old Book's Smell Is a Chemical Record
+dek: That familiar library scent comes from materials slowly changing and releasing
+  volatile compounds. It can reveal clues about paper, binding and storage, but a
+  nose is not a conservation laboratory.
 date: '2026-09-12'
 section: mysteries
 type: analysis
 format: ''
 series: ''
-status: draft
-confidence: 91
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
@@ -35,7 +37,9 @@ quiz:
   - Every pleasantly scented book is chemically stable and needs no inspection.
   - One molecule, always vanillin, determines the condition of every old book.
   answer: 0
-  explanation: A book is a composite object. Its paper, inks, adhesives and binding can release a changing mixture of volatile compounds, so smell offers clues rather than a complete diagnosis.
+  explanation: A book is a composite object. Its paper, inks, adhesives and binding
+    can release a changing mixture of volatile compounds, so smell offers clues rather
+    than a complete diagnosis.
 lang: en
 depth: open
 slug: an-old-books-smell-is-a-chemical-record

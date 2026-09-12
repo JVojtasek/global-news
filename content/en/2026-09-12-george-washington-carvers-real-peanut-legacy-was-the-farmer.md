@@ -1,13 +1,15 @@
 ---
-title: "George Washington Carver's Real Peanut Legacy Was the Farmer"
-dek: "He did not invent peanut butter. His more consequential work connected crop rotation, practical recipes, new markets and mobile teaching so farmers could escape an exhausting dependence on cotton."
+title: George Washington Carver's Real Peanut Legacy Was the Farmer
+dek: He did not invent peanut butter. His more consequential work connected crop rotation,
+  practical recipes, new markets and mobile teaching so farmers could escape an exhausting
+  dependence on cotton.
 date: '2026-09-12'
 section: food
 type: analysis
 format: ''
 series: ''
-status: draft
-confidence: 94
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
@@ -29,13 +31,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why did Carver publish recipes and household uses for crops such as peanuts and sweet potatoes?
+  question: Why did Carver publish recipes and household uses for crops such as peanuts
+    and sweet potatoes?
   options:
-  - To help make diversified crops useful and marketable within a larger programme of soil renewal and farmer education.
+  - To help make diversified crops useful and marketable within a larger programme
+    of soil renewal and farmer education.
   - To claim that he had invented every food made from those crops.
   - To replace agricultural teaching with a collection of novelty products.
   answer: 0
-  explanation: The recipes and uses were part of an applied system. They supported crop diversification, household use and demand while Carver and his colleagues taught soil care and practical farming.
+  explanation: The recipes and uses were part of an applied system. They supported
+    crop diversification, household use and demand while Carver and his colleagues
+    taught soil care and practical farming.
 lang: en
 depth: open
 slug: george-washington-carvers-real-peanut-legacy-was-the-farmer
