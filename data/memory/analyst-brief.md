@@ -65,9 +65,8 @@ Paměť obsahuje **93 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-10** (2 zdrojů) Muted US response to UK's West Bank sanctions may reflect simmering frustration
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 34 dní · 18 záznamů
+- rubrika `world` · sledováno 34 dní · 19 záznamů
 - časová osa:
-  - **2026-09-07** (3 zdrojů) Middle East: Israeli strikes kill several in Lebanon
   - **2026-09-07** (2 zdrojů) Lebanon president calls for US help after deadly Israeli strikes
   - **2026-09-08** (2 zdrojů) Houthis strike Saudi Arabian cities in significant expansion of Middle East war
   - **2026-09-08** (3 zdrojů) Saudi Arabia vows to respond after Houthis attack cities and energy facilities
@@ -77,6 +76,7 @@ Paměť obsahuje **93 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-11** (2 zdrojů) Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
   - **2026-09-11** (2 zdrojů) Israel says it has destroyed major underground Hezbollah base
   - **2026-09-12** (4 zdrojů) Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+  - **2026-09-12** (2 zdrojů) Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

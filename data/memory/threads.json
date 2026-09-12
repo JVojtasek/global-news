@@ -1509,29 +1509,30 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "netanyahu",
-    "arabian",
-    "hamas",
-    "peace",
-    "trump's",
-    "houthis",
-    "arabia",
-    "british",
-    "trump",
-    "jared",
-    "iraq",
-    "jerusalem",
-    "israel",
-    "israeli",
-    "taher",
-    "lebanon",
-    "board",
-    "east",
-    "middle",
     "saudi",
     "kushner",
+    "middle",
+    "east",
+    "british",
+    "taher",
+    "board",
+    "arabia",
     "gaza",
-    "hezbollah"
+    "trump's",
+    "peace",
+    "jared",
+    "trump",
+    "jerusalem",
+    "east-west",
+    "netanyahu",
+    "arabian",
+    "israel",
+    "israeli",
+    "hezbollah",
+    "houthis",
+    "iraq",
+    "lebanon",
+    "hamas"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -1551,7 +1552,8 @@
     "c792fb242bf8",
     "eed7ddd3265e",
     "b240f0515ee8",
-    "dbb34488a1b8"
+    "dbb34488a1b8",
+    "1f7b444d993c"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-12",
@@ -1760,6 +1762,17 @@
       "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
       "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq"
      ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1f7b444d993c",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+      "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1945,6 +1958,120 @@
      "links": [
       "https://www.bbc.co.uk/sport/cricket/videos/cge4qr13r7do?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/9/12/england-pakistan-third-test-edgbaston-joe-root-razaullah-cricket?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "64969c4b1451",
+   "title": "UEFA to bring criminal complaint against Infantino",
+   "section": "world",
+   "entities": [
+    "world",
+    "embattled",
+    "olympic",
+    "spain",
+    "infantino",
+    "barney",
+    "matt",
+    "france",
+    "uefa",
+    "ronay",
+    "fifa",
+    "hughes",
+    "trump",
+    "fiba"
+   ],
+   "event_ids": [
+    "64969c4b1451",
+    "2d68919227f3",
+    "361927991686",
+    "d9c728231823",
+    "38cabdf07e25",
+    "d2783d28192e",
+    "1299730da6fe"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-12",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "UEFA to bring criminal complaint against Infantino",
+     "sources": 4,
+     "score": 71,
+     "event_id": "64969c4b1451",
+     "links": [
+      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2d68919227f3",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
+      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
+     "sources": 2,
+     "score": 41,
+     "event_id": "361927991686",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+     "sources": 2,
+     "score": 42,
+     "event_id": "d9c728231823",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
+     "sources": 3,
+     "score": 49,
+     "event_id": "38cabdf07e25",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
+      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "France wants to transform Fifa after withdrawing Infantino support",
+     "sources": 3,
+     "score": 58,
+     "event_id": "d2783d28192e",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260910-gianni-infantino-french-football-federation-withdraws-support-for-fifa-chief",
+      "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1299730da6fe",
+     "links": [
+      "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final",
+      "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final"
      ]
     }
    ]
@@ -3882,105 +4009,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "64969c4b1451",
-   "title": "UEFA to bring criminal complaint against Infantino",
-   "section": "world",
-   "entities": [
-    "world",
-    "france",
-    "matt",
-    "ronay",
-    "hughes",
-    "trump",
-    "infantino",
-    "fifa",
-    "barney",
-    "embattled",
-    "uefa"
-   ],
-   "event_ids": [
-    "64969c4b1451",
-    "2d68919227f3",
-    "361927991686",
-    "d9c728231823",
-    "38cabdf07e25",
-    "d2783d28192e"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-09-10",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "UEFA to bring criminal complaint against Infantino",
-     "sources": 4,
-     "score": 71,
-     "event_id": "64969c4b1451",
-     "links": [
-      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2d68919227f3",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
-      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
-     "sources": 2,
-     "score": 41,
-     "event_id": "361927991686",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
-     "sources": 2,
-     "score": 42,
-     "event_id": "d9c728231823",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
-     "sources": 3,
-     "score": 49,
-     "event_id": "38cabdf07e25",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "France wants to transform Fifa after withdrawing Infantino support",
-     "sources": 3,
-     "score": 58,
-     "event_id": "d2783d28192e",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260910-gianni-infantino-french-football-federation-withdraws-support-for-fifa-chief",
-      "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
      ]
     }
    ]
@@ -8257,5 +8285,5 @@
    ]
   }
  ],
- "updated": "2026-09-12T18:26:17+00:00"
+ "updated": "2026-09-12T21:23:30+00:00"
 }
