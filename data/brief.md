@@ -46,30 +46,7 @@
     <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
     > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
 
-### 3. Napoli vs Arsenal: Champions League – prediction, teams, lineups
-- id události: `0120f35abded`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 3
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **Al Jazeera** — Napoli vs Arsenal: Champions League – prediction, teams, lineups
-    <https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss>
-    > Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form.
-  - **Al Jazeera** — Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction
-    <https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss>
-    > Andoni Iraola looks to build on his first win as Liverpool manager in tough game against Diego Simeone's Atletico.
-  - **Al Jazeera** — Haaland to the double as Manchester City beat Porto in Champions League
-    <https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss>
-    > Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
-  - **France 24** — Mourinho's Real Madrid edge Inter Milan in Champions League opener
-    <https://www.france24.com/en/sport/20260908-mourinho-real-madrid-edge-inter-milan-in-champions-league-opener>
-    > Jose Mourinho's Real Madrid began their Champions League campaign with a 2-1 win over his former side Inter Milan on Tuesday, taking a two-goal lead before Carlos Augusto pulled one back. Thibaut Courtois and Inter goalkeeper Josep Martinez both made crucial saves as Madrid held 
-  - **Guardian Sport** — Real Madrid somehow cling on to beat Inter on José Mourinho’s big night
-    <https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report>
-    > Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions Lea
-  - **Guardian Sport** — Haaland double gives Manchester City ideal Champions League start in Porto
-    <https://www.theguardian.com/football/2026/sep/08/porto-manchester-city-champions-league-match-report>
-    > Enzo Maresca admitted a liking for the “boom-boom” of house music in the buildup to this match, then enjoyed the sweet notes of victory having overseen a gritty performance from his Manchester City side in incessant rain. City had lost six of their past nine away games in the com
-
-### 4. Arsenal are passing every test - and Odegaard is in form of his life
+### 3. Arsenal are passing every test - and Odegaard is in form of his life
 - id události: `849069df442b`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -91,6 +68,23 @@
   - **Al Jazeera** — Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
     <https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss>
     > Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
+
+### 4. Deadly Philippines ferry fire leaves scores of people missing
+- id události: `de0860184e5e`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **The Guardian World** — Deadly Philippines ferry fire leaves scores of people missing
+    <https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing>
+    > Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guard Five people were confirmed dead ⁠in early counting and ​more than 80 were missing after a ferry caught fire ⁠off Palawan island in the w
+  - **DW News** — Philippines: Several killed, dozens missing after fire on ferry
+    <https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf>
+    > Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship's manifest listed 134 passengers and crew.
+  - **Al Jazeera** — Several dead, dozens missing after ferry fire in Philippines tourist spot
+    <https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss>
+    > Video from the Philippine Coast Guard shows a ferry engulfed in flames near Palawan.
+  - **France 24** — At least five killed, 87 missing after ferry fire in Philippines
+    <https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines>
+    > At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and rescue operations as officials warned the figures could change w
 
 ---
 
