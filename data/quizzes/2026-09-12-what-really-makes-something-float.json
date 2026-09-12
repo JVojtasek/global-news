@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "slug": "what-really-makes-something-float",
+  "date": "2026-09-12",
+  "category": "science",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "What really makes something float?", "cs": "Co doopravdy rozhoduje o plování?"},
+    "dek": {"en": "Eight original questions connect buoyancy, density and displacement without relying on the shortcut that heavy things sink.", "cs": "Osm původních otázek propojí vztlak, hustotu a vytlačenou kapalinu bez zkratky, že těžké věci klesají."},
+    "intro": {"en": "Choose the best explanation for each situation. Think about the whole object-and-air system, the fluid and the forces acting at that moment.", "cs": "U každé situace vyberte nejlepší vysvětlení. Uvažujte celý systém předmětu a vzduchu, kapalinu i síly působící v daném okamžiku."},
+    "disclaimer": {"en": "This is an original educational knowledge quiz based on open science explanations. It is not a licensed instrument, personal assessment or safety certification, and it does not collect personal data. Do not use a quiz result to judge whether a vessel, flotation device or activity is safe.", "cs": "Jde o původní vzdělávací znalostní kvíz založený na otevřených vědeckých vysvětleních. Není to licencovaný nástroj, osobní hodnocení ani bezpečnostní certifikace a neshromažďuje osobní údaje. Výsledek kvízu nepoužívejte k posouzení bezpečnosti plavidla, plovací pomůcky či činnosti."}
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "floating-balance",
+      "text": {"en": "A wooden block rests on the surface without moving up or down. What is true?", "cs": "Dřevěný špalík spočívá na hladině a nepohybuje se nahoru ani dolů. Co platí?"},
+      "options": [
+        {"label": {"en": "The upward buoyant force balances its weight", "cs": "Vztlaková síla směrem vzhůru vyrovnává jeho tíhu"}, "correct": true},
+        {"label": {"en": "Gravity has stopped acting on it", "cs": "Gravitace na něj přestala působit"}, "correct": false},
+        {"label": {"en": "Water exerts no force because part of it is dry", "cs": "Voda nepůsobí silou, protože část špalíku je suchá"}, "correct": false}
+      ],
+      "explanation": {"en": "A floating object at rest is in force balance: its downward weight equals the upward force from the displaced water.", "cs": "Plovoucí předmět v klidu je v rovnováze sil: jeho tíha směrem dolů se rovná vztlakové síle vytlačené vody směrem vzhůru."}
+    },
+    {
+      "id": "archimedes",
+      "text": {"en": "What sets the buoyant force on a fully or partly submerged object?", "cs": "Co určuje vztlakovou sílu na úplně či částečně ponořený předmět?"},
+      "options": [
+        {"label": {"en": "The weight of the fluid it displaces", "cs": "Tíha kapaliny, kterou vytlačí"}, "correct": true},
+        {"label": {"en": "The object's colour", "cs": "Barva předmětu"}, "correct": false},
+        {"label": {"en": "Only the depth of the lake", "cs": "Pouze hloubka jezera"}, "correct": false}
+      ],
+      "explanation": {"en": "Archimedes' principle states that buoyant force equals the weight of displaced fluid.", "cs": "Archimédův zákon říká, že vztlaková síla se rovná tíze vytlačené kapaliny."}
+    },
+    {
+      "id": "steel-ship",
+      "text": {"en": "Why can a steel ship float although a compact steel block sinks?", "cs": "Proč může ocelová loď plovat, i když kompaktní ocelový blok klesne?"},
+      "options": [
+        {"label": {"en": "Its hollow shape gives the ship-and-air system enough volume to displace water equal to its weight", "cs": "Dutý tvar dává systému lodi a vzduchu dostatečný objem, aby vytlačil vodu odpovídající jeho tíze"}, "correct": true},
+        {"label": {"en": "Shaping steel removes gravity from it", "cs": "Vytvarování oceli z ní odstraní gravitaci"}, "correct": false},
+        {"label": {"en": "Paint always makes metal less dense than air", "cs": "Nátěr vždy sníží hustotu kovu pod hustotu vzduchu"}, "correct": false}
+      ],
+      "explanation": {"en": "The relevant system includes the hull and enclosed air. Its large volume lowers average density and allows sufficient displacement.", "cs": "Rozhodující systém zahrnuje trup i uzavřený vzduch. Velký objem snižuje průměrnou hustotu a umožní dostatečné vytlačení vody."}
+    },
+    {
+      "id": "salt-water",
+      "text": {"en": "The same person usually floats slightly higher in saltwater than freshwater. Why?", "cs": "Tentýž člověk obvykle plove ve slané vodě o něco výš než ve sladké. Proč?"},
+      "options": [
+        {"label": {"en": "Saltwater is denser, so a smaller displaced volume can provide the same buoyant force", "cs": "Slaná voda je hustší, takže stejnou vztlakovou sílu poskytne menší vytlačený objem"}, "correct": true},
+        {"label": {"en": "Salt switches gravity off near the surface", "cs": "Sůl u hladiny vypne gravitaci"}, "correct": false},
+        {"label": {"en": "Freshwater has no buoyant force", "cs": "Sladká voda nemá vztlakovou sílu"}, "correct": false}
+      ],
+      "explanation": {"en": "For the same displaced volume, a denser fluid weighs more and produces a larger buoyant force.", "cs": "Při stejném vytlačeném objemu váží hustší kapalina více a vytváří větší vztlakovou sílu."}
+    },
+    {
+      "id": "clay-shape",
+      "text": {"en": "A ball of modelling clay sinks, but the same clay shaped as a broad hollow bowl floats. What changed?", "cs": "Koule z modelovací hmoty klesne, ale tatáž hmota vytvarovaná do široké duté misky plove. Co se změnilo?"},
+      "options": [
+        {"label": {"en": "The shape increased the system's volume and water displacement without adding mass", "cs": "Tvar zvětšil objem systému a množství vytlačené vody, aniž přidal hmotnost"}, "correct": true},
+        {"label": {"en": "The material stopped being clay", "cs": "Materiál přestal být modelovací hmotou"}, "correct": false},
+        {"label": {"en": "The bowl became weightless", "cs": "Miska se stala beztížnou"}, "correct": false}
+      ],
+      "explanation": {"en": "A hollow form includes air and displaces more water before becoming fully submerged, reducing the average density of the whole system.", "cs": "Dutý tvar zahrnuje vzduch a před úplným ponořením vytlačí více vody, čímž snižuje průměrnou hustotu celého systému."}
+    },
+    {
+      "id": "ice-water",
+      "text": {"en": "An ice cube floats with part of it above liquid water. What does that show?", "cs": "Kostka ledu plove s částí nad hladinou kapalné vody. Co to ukazuje?"},
+      "options": [
+        {"label": {"en": "Ice is less dense than liquid water under these conditions", "cs": "Led je za těchto podmínek méně hustý než kapalná voda"}, "correct": true},
+        {"label": {"en": "The cube has no mass", "cs": "Kostka nemá hmotnost"}, "correct": false},
+        {"label": {"en": "Solid objects always float", "cs": "Pevné předměty vždy plovou"}, "correct": false}
+      ],
+      "explanation": {"en": "The cube reaches force balance before all of it is submerged because its average density is lower than that of liquid water.", "cs": "Kostka dosáhne rovnováhy sil dříve, než se ponoří celá, protože její průměrná hustota je nižší než hustota kapalné vody."}
+    },
+    {
+      "id": "neutral-buoyancy",
+      "text": {"en": "A research float stays suspended underwater without rising or sinking. What state is it in?", "cs": "Výzkumný plovák zůstává zavěšený pod vodou, aniž stoupá či klesá. V jakém je stavu?"},
+      "options": [
+        {"label": {"en": "Neutral buoyancy, with buoyant force balancing weight", "cs": "Neutrální vztlak, kdy vztlaková síla vyrovnává tíhu"}, "correct": true},
+        {"label": {"en": "No-gravity mode", "cs": "Režim bez gravitace"}, "correct": false},
+        {"label": {"en": "Guaranteed motion toward the surface", "cs": "Zaručený pohyb k hladině"}, "correct": false}
+      ],
+      "explanation": {"en": "Neutral buoyancy means the upward and downward forces balance while the object is submerged.", "cs": "Neutrální vztlak znamená, že se při ponoření vyrovnávají síly směrem vzhůru a dolů."}
+    },
+    {
+      "id": "adding-load",
+      "text": {"en": "Coins are added one by one to a floating foil boat. Why does it sit lower before it finally sinks?", "cs": "Do plovoucí loďky z fólie přidáváte jednu minci za druhou. Proč sedí stále níž, než nakonec klesne?"},
+      "options": [
+        {"label": {"en": "The extra weight requires the hull to displace more water to restore force balance", "cs": "Dodatečná tíha vyžaduje, aby trup pro obnovení rovnováhy vytlačil více vody"}, "correct": true},
+        {"label": {"en": "Each coin makes water less dense everywhere", "cs": "Každá mince sníží hustotu veškeré vody"}, "correct": false},
+        {"label": {"en": "The boat is gradually losing gravity", "cs": "Loďka postupně ztrácí gravitaci"}, "correct": false}
+      ],
+      "explanation": {"en": "A heavier floating system must displace a greater weight of water. Once the hull cannot do so without flooding, it sinks.", "cs": "Těžší plovoucí systém musí vytlačit větší tíhu vody. Jakmile to trup nedokáže bez zaplavení, klesne."}
+    }
+  ],
+  "outcomes": [
+    {"min": 0, "max": 2, "title": {"en": "Start with forces and displacement", "cs": "Začněte silami a vytlačenou vodou"}, "summary": {"en": "Weight alone is still doing too much explanatory work. This result is limited to eight conceptual questions. Revisit the first two explanations, then try a foil-boat experiment with equal coins and observe how displacement changes.", "cs": "Samotná tíha ve vašem vysvětlení ještě hraje příliš velkou roli. Výsledek se vztahuje jen k osmi pojmovým otázkám. Vraťte se k prvním dvěma vysvětlením a poté zkuste loďku z fólie se stejnými mincemi a sledujte změnu vytlačené vody."}},
+    {"min": 3, "max": 5, "title": {"en": "You see the balance—connect the whole system", "cs": "Rovnováhu vidíte—propojte celý systém"}, "summary": {"en": "You recognise some buoyancy principles, but shape, fluid density or enclosed air may still be easy to separate incorrectly. The score does not certify practical safety. Redraw one missed example and label weight, upthrust and displaced fluid.", "cs": "Některé principy vztlaku znáte, ale tvar, hustotu kapaliny či uzavřený vzduch lze ještě snadno nesprávně oddělit. Skóre nepotvrzuje praktickou bezpečnost. Překreslete jeden chybný příklad a označte tíhu, vztlak a vytlačenou kapalinu."}},
+    {"min": 6, "max": 7, "title": {"en": "Strong model with one loose connection", "cs": "Silný model s jednou volnější vazbou"}, "summary": {"en": "You usually connect force balance, density and displacement correctly. This small quiz cannot test every fluid situation or engineering constraint. Use the missed item to explain why a change in shape or fluid can matter without changing gravity.", "cs": "Rovnováhu sil, hustotu a vytlačený objem obvykle propojujete správně. Krátký kvíz nemůže prověřit každou situaci v kapalinách ani technické omezení. Na chybné položce vysvětlete, proč změna tvaru či kapaliny může působit bez změny gravitace."}},
+    {"min": 8, "max": 8, "title": {"en": "You follow the water, not the slogan", "cs": "Sledujete vodu, ne zkratku"}, "summary": {"en": "You correctly interpreted all eight scenarios. The result shows command of these examples, not engineering competence or water-safety readiness. Keep testing claims by naming the system, its weight, the fluid density and the volume displaced.", "cs": "Správně jste vyložili všech osm situací. Výsledek ukazuje porozumění těmto příkladům, nikoli technickou způsobilost či připravenost pro bezpečnost u vody. Tvrzení dál ověřujte pojmenováním systému, jeho tíhy, hustoty kapaliny a vytlačeného objemu."}}
+  ],
+  "sources": [
+    {"name": "NOAA Ocean Service — Boat Building Challenge", "url": "https://oceanservice.noaa.gov/education/dyw-boat-building.html", "published": "", "type": "official educational explanation of buoyancy and displacement; no quiz items reproduced"},
+    {"name": "SeaPerch — How Things Float", "url": "https://seaperch.org/page-resources/how-things-work-how-things-float/", "published": "", "type": "open STEM explanation of Archimedes' principle, density and buoyancy; no assessment instrument reproduced"},
+    {"name": "Science Learning Hub — Building Science Concepts, Floating and sinking", "url": "https://www.sciencelearn.org.nz/resources/3181-building-science-concepts-floating-and-sinking", "published": "2022-10-11", "type": "open educational resource on forces, density, volume and displacement; no quiz items reproduced"},
+    {"name": "Science Learning Hub — Buoyancy in water", "url": "https://www.sciencelearn.org.nz/resources/695-buoyancy-in-water", "published": "2010-06-18", "type": "open educational activity about controllable buoyancy and Argo floats; no quiz items reproduced"}
+  ]
+}
