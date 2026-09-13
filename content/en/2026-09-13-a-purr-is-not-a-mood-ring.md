@@ -7,8 +7,8 @@ section: science
 type: feature
 depth: open
 lang: en
-date: '2026-08-25'
-status: reserve
+date: '2026-09-13'
+status: published
 confidence: 89
 load: 0
 topics: []
