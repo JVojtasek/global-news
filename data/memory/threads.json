@@ -1,188 +1,50 @@
 {
  "threads": [
   {
-   "id": "c64cc7683a93",
-   "title": "Sabalenka fights back to keep US Open defence alive",
-   "section": "sport",
-   "entities": [
-    "sabalenka",
-    "townsend",
-    "rybakina",
-    "open"
-   ],
-   "event_ids": [
-    "c64cc7683a93",
-    "d289ddd8927e",
-    "955bafeb2989",
-    "321aa38e0ba3"
-   ],
-   "first_seen": "2026-09-08",
-   "last_seen": "2026-09-13",
-   "timeline": [
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka fights back to keep US Open defence alive",
-     "sources": 3,
-     "score": 57,
-     "event_id": "c64cc7683a93",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
-      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d289ddd8927e",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Rybakina sets up blockbuster Sabalenka final at US Open",
-     "sources": 3,
-     "score": 60,
-     "event_id": "955bafeb2989",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss",
-      "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates"
-     ]
-    },
-    {
-     "date": "2026-09-13",
-     "headline": "Rybakina wins US Open to inflict further pain on Sabalenka",
-     "sources": 3,
-     "score": 55,
-     "event_id": "321aa38e0ba3",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4a1f65fbb798",
-   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-   "section": "tech",
-   "entities": [
-    "amodei",
-    "dario",
-    "anthropic"
-   ],
-   "event_ids": [
-    "4a1f65fbb798",
-    "3b78d60b8b58"
-   ],
-   "first_seen": "2026-09-12",
-   "last_seen": "2026-09-13",
-   "timeline": [
-    {
-     "date": "2026-09-12",
-     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
-     "sources": 5,
-     "score": 69,
-     "event_id": "4a1f65fbb798",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
-     ]
-    },
-    {
-     "date": "2026-09-13",
-     "headline": "Anthropic boss Dario Amodei calls for AI slowdown",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3b78d60b8b58",
-     "links": [
-      "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c4c1762a2a31",
-   "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-   "section": "sport",
-   "entities": [
-    "today",
-    "arsenal",
-    "arteta"
-   ],
-   "event_ids": [
-    "c4c1762a2a31"
-   ],
-   "first_seen": "2026-09-13",
-   "last_seen": "2026-09-13",
-   "timeline": [
-    {
-     "date": "2026-09-13",
-     "headline": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
-     "sources": 3,
-     "score": 63,
-     "event_id": "c4c1762a2a31",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "iranian",
-    "inter",
-    "kuwait",
-    "donald",
-    "asia",
-    "toxic",
-    "groundhog",
-    "gulf",
-    "kylian",
-    "mideast",
-    "start",
-    "league",
+    "real",
+    "o'neill",
     "briton",
     "modi",
-    "taiwan",
-    "lyon",
     "jong",
-    "mourinho",
-    "delhi",
-    "d-day",
-    "centcom",
-    "hormuz",
-    "middle",
-    "qatar",
-    "south",
-    "real",
-    "putin",
-    "ukraine",
-    "iran",
-    "times",
+    "lyon",
     "indycar",
-    "iran's",
-    "o'neill",
-    "global",
+    "delhi",
+    "mourinho",
+    "iran",
+    "groundhog",
     "china's",
+    "qatar",
+    "hormuz",
+    "south",
+    "inter",
+    "centcom",
+    "iranian",
+    "east",
     "fenerbahce",
-    "city",
-    "brics",
+    "global",
+    "kuwait",
+    "iran's",
+    "league",
+    "times",
+    "summit",
+    "taiwan",
+    "ukraine",
+    "asia",
     "north",
-    "summit"
+    "kylian",
+    "d-day",
+    "brics",
+    "mideast",
+    "donald",
+    "putin",
+    "middle",
+    "gulf",
+    "city",
+    "toxic"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -270,34 +132,13 @@
     "fb1f421ffe26",
     "0314dd692504",
     "df9f8f527c03",
-    "e1678d43017a"
+    "e1678d43017a",
+    "8b3632d6453d",
+    "2da8da440456"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-09-12",
+   "last_seen": "2026-09-13",
    "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4ca08041bea",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
-      "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "BBC breaks down Trump's latest shift on North and South Korea",
-     "sources": 3,
-     "score": 58,
-     "event_id": "24d62d122ca6",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-18",
      "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
@@ -955,6 +796,179 @@
       "https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss",
       "https://www.france24.com/en/video/20260912-brics-leaders-meet-in-india-as-wars-and-us-tensions-test-the-bloc",
       "https://www.france24.com/en/video/20260912-russia-s-putin-arrives-in-india-as-brics-leaders-begin-talks"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "BRICS summit leaders urge 'maximum restraint' in Middle East",
+     "sources": 3,
+     "score": 54,
+     "event_id": "8b3632d6453d",
+     "links": [
+      "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways?traffic_source=rss",
+      "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Iran war reshapes Brics ties but also exposes divisions",
+     "sources": 2,
+     "score": 43,
+     "event_id": "2da8da440456",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/13/iran-and-uae-back-joint-brics-statement-urging-restraint-in-war.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c64cc7683a93",
+   "title": "Sabalenka fights back to keep US Open defence alive",
+   "section": "sport",
+   "entities": [
+    "rybakina",
+    "townsend",
+    "open",
+    "sabalenka"
+   ],
+   "event_ids": [
+    "c64cc7683a93",
+    "d289ddd8927e",
+    "955bafeb2989",
+    "321aa38e0ba3",
+    "5e8c1e803d75"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-13",
+   "timeline": [
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka fights back to keep US Open defence alive",
+     "sources": 3,
+     "score": 57,
+     "event_id": "c64cc7683a93",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
+      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d289ddd8927e",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Rybakina sets up blockbuster Sabalenka final at US Open",
+     "sources": 3,
+     "score": 60,
+     "event_id": "955bafeb2989",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss",
+      "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Rybakina wins US Open to inflict further pain on Sabalenka",
+     "sources": 3,
+     "score": 55,
+     "event_id": "321aa38e0ba3",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Rybakina beats Sabalenka to win US Open for the first time",
+     "sources": 2,
+     "score": 41,
+     "event_id": "5e8c1e803d75",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/videos/cq63znqlq70o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/sep/12/aryna-sabalenka-v-elena-rybakina-us-open-2026-womens-singles-final-live"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4a1f65fbb798",
+   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+   "section": "tech",
+   "entities": [
+    "amodei",
+    "dario",
+    "anthropic"
+   ],
+   "event_ids": [
+    "4a1f65fbb798",
+    "3b78d60b8b58"
+   ],
+   "first_seen": "2026-09-12",
+   "last_seen": "2026-09-13",
+   "timeline": [
+    {
+     "date": "2026-09-12",
+     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+     "sources": 5,
+     "score": 69,
+     "event_id": "4a1f65fbb798",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Anthropic boss Dario Amodei calls for AI slowdown",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3b78d60b8b58",
+     "links": [
+      "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c4c1762a2a31",
+   "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+   "section": "sport",
+   "entities": [
+    "today",
+    "arsenal",
+    "arteta"
+   ],
+   "event_ids": [
+    "c4c1762a2a31"
+   ],
+   "first_seen": "2026-09-13",
+   "last_seen": "2026-09-13",
+   "timeline": [
+    {
+     "date": "2026-09-13",
+     "headline": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+     "sources": 3,
+     "score": 63,
+     "event_id": "c4c1762a2a31",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss"
      ]
     }
    ]
@@ -8339,5 +8353,5 @@
    ]
   }
  ],
- "updated": "2026-09-13T09:52:33+00:00"
+ "updated": "2026-09-13T12:32:08+00:00"
 }

@@ -117,8 +117,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-28  (2 zdrojů, síla 45)  The economic costs of Donald Trump’s immigration crackdown
-  2026-08-31  (2 zdrojů, síla 42)  US strikes Iranian launchers in strait of Hormuz, sparking reprisal attack on airbases in Jordan
   2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up
   2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
   2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
@@ -137,6 +135,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
   2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc
   2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit
+  2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East
+  2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

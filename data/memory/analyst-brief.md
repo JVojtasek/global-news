@@ -7,10 +7,8 @@ Paměť obsahuje **94 vláken**. Aktivních za posledních 14 dní: **43**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 34 dní · 60 záznamů
+- rubrika `world` · sledováno 35 dní · 60 záznamů
 - časová osa:
-  - **2026-09-05** (2 zdrojů) US military says it struck three Iranian tankers after American warships came under missile attack
-  - **2026-09-08** (2 zdrojů) Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
   - **2026-09-08** (2 zdrojů) Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
   - **2026-09-08** (2 zdrojů) France, South Korea pledge 1 billion euros to support cinema amid AI threat
   - **2026-09-10** (2 zdrojů) South Korea to boost artificial intelligence ties with Africa
@@ -19,6 +17,8 @@ Paměť obsahuje **94 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-11** (2 zdrojů) Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
   - **2026-09-12** (2 zdrojů) BRICS leaders meet in India as wars and US tensions test the bloc
   - **2026-09-12** (2 zdrojů) India’s Modi calls for empowerment of Global South at BRICS Summit
+  - **2026-09-13** (3 zdrojů) BRICS summit leaders urge 'maximum restraint' in Middle East
+  - **2026-09-13** (2 zdrojů) Iran war reshapes Brics ties but also exposes divisions
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 30 dní · 52 záznamů
