@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **13**
+- Článků v zásobě: **12**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -66,22 +66,25 @@
     <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
     > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
 
-### 4. Deadly Philippines ferry fire leaves scores of people missing
-- id události: `de0860184e5e`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
+- id události: `c4c1762a2a31`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — Deadly Philippines ferry fire leaves scores of people missing
-    <https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing>
-    > Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guard Five people were confirmed dead ⁠in early counting and ​more than 80 were missing after a ferry caught fire ⁠off Palawan island in the w
-  - **DW News** — Philippines: Several killed, dozens missing after fire on ferry
-    <https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf>
-    > Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship's manifest listed 134 passengers and crew.
-  - **Al Jazeera** — Several dead, dozens missing after ferry fire in Philippines tourist spot
-    <https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss>
-    > Video from the Philippine Coast Guard shows a ferry engulfed in flames near Palawan.
-  - **France 24** — At least five killed, 87 missing after ferry fire in Philippines
-    <https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines>
-    > At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and rescue operations as officials warned the figures could change w
+  - **BBC Sport** — 'Today the game was unprotected' - Arteta fumes but Arsenal survive
+    <https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss>
+    > Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.
+  - **BBC Sport** — Arsenal hold off energetic Sunderland to continue perfect title defence
+    <https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss>
+    > Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the result beyond doubt.
+  - **Al Jazeera** — Arteta seethes at Sunderland penalty decision despite Arsenal win
+    <https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss>
+    > Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.
+  - **Guardian Sport** — Mikel Arteta says penalty given to Sunderland ‘unacceptable at this level’
+    <https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable>
+    > Arsenal manager angry: ‘This can never be a penalty’ ‘It’s a judo roll from the opponent. Ezri does nothing’ Mikel Arteta’s delight at Arsenal’s latest win was tempered by his fury with the referee John Brooks as the champions triumphed 2-0 at Sunderland on Saturday night. Before
+  - **Guardian Sport** — Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save
+    <https://www.theguardian.com/football/2026/sep/12/sunderland-arsenal-premier-league-match-report>
+    > As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemished. Two minutes after David Raya had rather majestically saved Le Fée’s second-half penalty, Guimarães delighted
 
 ---
 
