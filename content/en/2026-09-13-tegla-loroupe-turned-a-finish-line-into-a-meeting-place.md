@@ -1,13 +1,15 @@
 ---
 title: Tegla Loroupe Turned a Finish Line Into a Meeting Place
-dek: The Kenyan champion carried the authority of record-setting races into peace events and a pathway for refugee athletes. Her legacy is strongest when opportunity is measured alongside athlete voice and control.
+dek: The Kenyan champion carried the authority of record-setting races into peace
+  events and a pathway for refugee athletes. Her legacy is strongest when opportunity
+  is measured alongside athlete voice and control.
 date: '2026-09-13'
 section: sport
 type: analysis
 format: ''
 series: ''
-status: draft
-confidence: 84
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -26,7 +28,8 @@ sources:
 - name: UNHCR Kenya — Refugee Athletes Project
   url: https://www.unhcr.org/ke/refugee-athletes-project
   published: ''
-- name: TIME — The Olympic Refugee Team Was Created to Offer Hope. Some Athletes Are Running Away From It
+- name: TIME — The Olympic Refugee Team Was Created to Offer Hope. Some Athletes Are
+    Running Away From It
   url: https://time.com/6077132/tokyo-olympics-refugee-team/
   published: '2021-07-08'
 - name: Olympics.com — One Last Marathon Run for Tegla Loroupe
@@ -37,11 +40,15 @@ tickers: []
 quiz:
   question: What is the most defensible way to assess Loroupe's refugee-athlete programme?
   options:
-  - Count both the opportunities it created and the athletes' evidence about money, autonomy and life after competition.
-  - Treat Olympic participation alone as proof that every part of the programme worked fairly.
+  - Count both the opportunities it created and the athletes' evidence about money,
+    autonomy and life after competition.
+  - Treat Olympic participation alone as proof that every part of the programme worked
+    fairly.
   - Dismiss the programme entirely because some athletes later left it.
   answer: 0
-  explanation: The programme opened a real route into elite sport, while reporting also documented serious concerns from participants. A complete assessment holds both facts together.
+  explanation: The programme opened a real route into elite sport, while reporting
+    also documented serious concerns from participants. A complete assessment holds
+    both facts together.
 lang: en
 depth: open
 slug: tegla-loroupe-turned-a-finish-line-into-a-meeting-place

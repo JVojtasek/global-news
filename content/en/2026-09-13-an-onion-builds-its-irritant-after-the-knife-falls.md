@@ -1,13 +1,15 @@
 ---
 title: An Onion Builds Its Irritant After the Knife Falls
-dek: The compound that reaches your eyes is not waiting in a hidden reservoir. Cutting breaks cellular compartments, starts an enzyme chain and gives a volatile sulphur molecule a route into the air.
+dek: The compound that reaches your eyes is not waiting in a hidden reservoir. Cutting
+  breaks cellular compartments, starts an enzyme chain and gives a volatile sulphur
+  molecule a route into the air.
 date: '2026-09-13'
 section: food
 type: analysis
 format: ''
 series: ''
-status: draft
-confidence: 90
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -20,10 +22,12 @@ sources:
 - name: Nature — An Onion Enzyme That Makes the Eyes Water
   url: https://doi.org/10.1038/419685a
   published: '2002-10-17'
-- name: ACS Chemical Biology — Enzyme That Makes You Cry, Crystal Structure of Lachrymatory Factor Synthase
+- name: ACS Chemical Biology — Enzyme That Makes You Cry, Crystal Structure of Lachrymatory
+    Factor Synthase
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5693239/
   published: '2017-07-14'
-- name: Plant Physiology — Silencing Onion Lachrymatory Factor Synthase Changes the Sulfur Metabolite Profile
+- name: Plant Physiology — Silencing Onion Lachrymatory Factor Synthase Changes the
+    Sulfur Metabolite Profile
   url: https://pubmed.ncbi.nlm.nih.gov/18583530/
   published: '2008-06-26'
 - name: Library of Congress — Why Does Chopping an Onion Make You Cry?
@@ -34,11 +38,15 @@ tickers: []
 quiz:
   question: What most directly starts an onion's tear-producing chemistry?
   options:
-  - Cutting ruptures cells and brings previously separated enzymes and precursor molecules together.
+  - Cutting ruptures cells and brings previously separated enzymes and precursor molecules
+    together.
   - The knife turns ordinary onion water into sulphuric acid.
-  - The onion releases a store of finished irritant that was already pooled between its layers.
+  - The onion releases a store of finished irritant that was already pooled between
+    its layers.
   answer: 0
-  explanation: Onion cells keep parts of the reaction apart. Tissue damage lets alliinase act on sulphur-containing precursors, after which lachrymatory-factor synthase helps form the volatile irritant.
+  explanation: Onion cells keep parts of the reaction apart. Tissue damage lets alliinase
+    act on sulphur-containing precursors, after which lachrymatory-factor synthase
+    helps form the volatile irritant.
 lang: en
 depth: open
 slug: an-onion-builds-its-irritant-after-the-knife-falls
