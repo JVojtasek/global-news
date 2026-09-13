@@ -21,9 +21,8 @@ Paměť obsahuje **94 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-13** (2 zdrojů) Iran war reshapes Brics ties but also exposes divisions
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 30 dní · 52 záznamů
+- rubrika `world` · sledováno 33 dní · 53 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) North Korea and Russia open first road bridge linking both countries
   - **2026-09-08** (2 zdrojů) Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
   - **2026-09-08** (2 zdrojů) Trump tells Putin he wants swift end to Ukraine war, Kremlin says
   - **2026-09-08** (2 zdrojů) US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
@@ -33,13 +32,13 @@ Paměť obsahuje **94 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-10** (2 zdrojů) Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
   - **2026-09-10** (2 zdrojů) Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
   - **2026-09-10** (2 zdrojů) Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
+  - **2026-09-13** (2 zdrojů) Ukraine, Poland say Russia hit Warsaw-bound passenger train
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 25 dní · 50 záznamů
+- rubrika `sport` · sledováno 26 dní · 51 záznamů
 - časová osa:
-  - **2026-09-09** (3 zdrojů) Napoli vs Arsenal: Champions League – prediction, teams, lineups
   - **2026-09-09** (3 zdrojů) The Rwandan eyeing Champions League history against Man Utd
   - **2026-09-09** (2 zdrojů) Napoli v Arsenal: Champions League – live
   - **2026-09-10** (2 zdrojů) ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
@@ -49,6 +48,7 @@ Paměť obsahuje **94 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-11** (4 zdrojů) Champions League new boys Como dominate Leipzig
   - **2026-09-11** (2 zdrojů) Lens secure an epic comeback win to kick off their Champions League campaign
   - **2026-09-12** (2 zdrojů) Manchester United vs Man City: Premier League – predictions, teams, lineups
+  - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 28 dní · 36 záznamů
