@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-12
+# ZADÁNÍ PRO REDAKCI — 2026-09-13
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -66,28 +66,22 @@
     <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
     > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
 
-### 4. Arsenal are passing every test - and Odegaard is in form of his life
-- id události: `849069df442b`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Deadly Philippines ferry fire leaves scores of people missing
+- id události: `de0860184e5e`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Sport** — Arsenal are passing every test - and Odegaard is in form of his life
-    <https://www.bbc.co.uk/sport/football/articles/ce8737p0977o?at_medium=RSS&at_campaign=rss>
-    > Another Arsenal win, another Martin Odegaard goal - the Gunners captain looks back to his best, writes Phil McNulty.
-  - **BBC Sport** — Odegaard strike earns Arsenal narrow victory at Napoli
-    <https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss>
-    > Martin Odegaard's excellent start to the season continues as the Arsenal captain scores the only goal of the match against Napoli in Naples.
-  - **France 24** — Champions League: Iraola celebrates Liverpool win against Atletico Madrid
-    <https://www.france24.com/en/sport/20260909-champions-league-iraola-celebrates-liverpool-win-against-atletico-madrid>
-    > Liverpool began their Champions League campaign with a 2-1 comeback win over Atletico Madrid on Wednesday, giving new manager Andoni Iraola a winning start in Europe's top competition. Paris Saint-Germain, Barcelona and Arsenal also opened their campaigns with victories as the to
-  - **Al Jazeera** — Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
-    <https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss>
-    > Arsenal dominated play but needed a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
-  - **Al Jazeera** — Manchester United vs Sabah: UEFA Champions League – preview, team news
-    <https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss>
-    > Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
-  - **Al Jazeera** — Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
-    <https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss>
-    > Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
+  - **The Guardian World** — Deadly Philippines ferry fire leaves scores of people missing
+    <https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing>
+    > Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guard Five people were confirmed dead ⁠in early counting and ​more than 80 were missing after a ferry caught fire ⁠off Palawan island in the w
+  - **DW News** — Philippines: Several killed, dozens missing after fire on ferry
+    <https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-rdf>
+    > Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship's manifest listed 134 passengers and crew.
+  - **Al Jazeera** — Several dead, dozens missing after ferry fire in Philippines tourist spot
+    <https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss>
+    > Video from the Philippine Coast Guard shows a ferry engulfed in flames near Palawan.
+  - **France 24** — At least five killed, 87 missing after ferry fire in Philippines
+    <https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines>
+    > At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and rescue operations as officials warned the figures could change w
 
 ---
 

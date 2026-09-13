@@ -1,6 +1,144 @@
 {
  "threads": [
   {
+   "id": "c64cc7683a93",
+   "title": "Sabalenka fights back to keep US Open defence alive",
+   "section": "sport",
+   "entities": [
+    "sabalenka",
+    "townsend",
+    "rybakina",
+    "open"
+   ],
+   "event_ids": [
+    "c64cc7683a93",
+    "d289ddd8927e",
+    "955bafeb2989",
+    "321aa38e0ba3"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-13",
+   "timeline": [
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka fights back to keep US Open defence alive",
+     "sources": 3,
+     "score": 57,
+     "event_id": "c64cc7683a93",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
+      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d289ddd8927e",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Rybakina sets up blockbuster Sabalenka final at US Open",
+     "sources": 3,
+     "score": 60,
+     "event_id": "955bafeb2989",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss",
+      "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Rybakina wins US Open to inflict further pain on Sabalenka",
+     "sources": 3,
+     "score": 55,
+     "event_id": "321aa38e0ba3",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4a1f65fbb798",
+   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+   "section": "tech",
+   "entities": [
+    "amodei",
+    "dario",
+    "anthropic"
+   ],
+   "event_ids": [
+    "4a1f65fbb798",
+    "3b78d60b8b58"
+   ],
+   "first_seen": "2026-09-12",
+   "last_seen": "2026-09-13",
+   "timeline": [
+    {
+     "date": "2026-09-12",
+     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+     "sources": 5,
+     "score": 69,
+     "event_id": "4a1f65fbb798",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Anthropic boss Dario Amodei calls for AI slowdown",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3b78d60b8b58",
+     "links": [
+      "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/technology/20260912-anthropic-boss-calls-for-ai-slowdown-altman-and-musk-agree"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c4c1762a2a31",
+   "title": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+   "section": "sport",
+   "entities": [
+    "today",
+    "arsenal",
+    "arteta"
+   ],
+   "event_ids": [
+    "c4c1762a2a31"
+   ],
+   "first_seen": "2026-09-13",
+   "last_seen": "2026-09-13",
+   "timeline": [
+    {
+     "date": "2026-09-13",
+     "headline": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
+     "sources": 3,
+     "score": 63,
+     "event_id": "c4c1762a2a31",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -2230,35 +2368,6 @@
    ]
   },
   {
-   "id": "4a1f65fbb798",
-   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-   "section": "tech",
-   "entities": [
-    "amodei",
-    "dario",
-    "anthropic"
-   ],
-   "event_ids": [
-    "4a1f65fbb798"
-   ],
-   "first_seen": "2026-09-12",
-   "last_seen": "2026-09-12",
-   "timeline": [
-    {
-     "date": "2026-09-12",
-     "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
-     "sources": 5,
-     "score": 69,
-     "event_id": "4a1f65fbb798",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1301430cb05f",
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
@@ -2701,61 +2810,6 @@
      "links": [
       "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
       "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c64cc7683a93",
-   "title": "Sabalenka fights back to keep US Open defence alive",
-   "section": "sport",
-   "entities": [
-    "open",
-    "sabalenka",
-    "rybakina",
-    "townsend"
-   ],
-   "event_ids": [
-    "c64cc7683a93",
-    "d289ddd8927e",
-    "955bafeb2989"
-   ],
-   "first_seen": "2026-09-08",
-   "last_seen": "2026-09-11",
-   "timeline": [
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka fights back to keep US Open defence alive",
-     "sources": 3,
-     "score": 57,
-     "event_id": "c64cc7683a93",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
-      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d289ddd8927e",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Rybakina sets up blockbuster Sabalenka final at US Open",
-     "sources": 3,
-     "score": 60,
-     "event_id": "955bafeb2989",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss",
-      "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates"
      ]
     }
    ]
@@ -8285,5 +8339,5 @@
    ]
   }
  ],
- "updated": "2026-09-12T21:23:30+00:00"
+ "updated": "2026-09-13T01:04:32+00:00"
 }
