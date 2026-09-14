@@ -1,7 +1,7 @@
 {
  "date": "2026-09-14",
  "mode": "normal",
- "days_since_human": 0,
+ "days_since_human": 1,
  "confidence_threshold": 82,
  "reserve_articles": 12,
  "news_assignments": [
@@ -124,6 +124,56 @@
    "depth": "scripture"
   },
   {
+   "id": "c7dc7c1ccb05",
+   "headline": "Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies",
+   "section": "world",
+   "score": 68,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-09-14T12:37:35+00:00",
+   "event_time": "2026-09-14T12:22:48+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies",
+     "url": "https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline",
+     "source": "The Guardian World",
+     "summary": "Impasse comes amid growing Saudi anger with Tehran over Houthi advances and strikes on airbase and pipeline Oil prices rise after drone attacks shut down Saudi Arabia’s east-west pipeline Gulf states have postponed a critical meeting with Iran on the future of the strait of Hormuz owing to a lack of Arab consensus and growing Saudi Arabian anger with Tehran for helping the Houthis loosen Riyadh’s ",
+     "published_at": "2026-09-14T12:22:48+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T12:37:31+00:00"
+    },
+    {
+     "title": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
+     "url": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+     "source": "CNBC Top",
+     "summary": "Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.",
+     "published_at": "2026-09-14T12:31:32+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T12:37:31+00:00"
+    },
+    {
+     "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
+     "url": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Foreign Ministry spokesperson Esmaeil Baghaei says Iran does not interfere in Yemeni affairs.",
+     "published_at": "2026-09-14T10:58:07+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T12:37:31+00:00"
+    },
+    {
+     "title": "As Yemen conflict intensifies, Iran the winner?",
+     "url": "https://www.france24.com/en/video/20260914-as-yemen-conflict-intensifies-iran-the-winner",
+     "source": "France 24",
+     "summary": "The conflict in Yemen intensified on Sunday, as government forces launched attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fired into neighboring Saudi Arabia, which supports Yemen’s government. It comes after Houthis captured the port city of Mokha and an island on the Bab el-Mandeb Strait, a crucial shipping alternative to the Strait of Hormuz. The adds pressure on global",
+     "published_at": "2026-09-14T09:16:07+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T12:37:31+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
    "id": "c4c1762a2a31",
    "headline": "'Today the game was unprotected' - Arteta fumes but Arsenal survive",
    "section": "sport",
@@ -181,56 +231,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "d85187b311c3",
-   "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-   "section": "business",
-   "score": 62,
-   "sources_count": 3,
-   "depth_signal": 0,
-   "created": "2026-09-14T09:34:28+00:00",
-   "event_time": "2026-09-14T08:03:40+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-     "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-     "source": "The Guardian World",
-     "summary": "Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pipeline. Brent crude, the international benchmark for oil prices, surged to as much as $108.03 a barrel on Monday – a 3.25",
-     "published_at": "2026-09-14T08:03:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T09:34:25+00:00"
-    },
-    {
-     "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-     "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-     "source": "Guardian Business",
-     "summary": "Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pipeline. Brent crude, the international benchmark for oil prices, surged to as much as $108.03 a barrel on Monday – a 3.25",
-     "published_at": "2026-09-14T08:03:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T09:34:25+00:00"
-    },
-    {
-     "title": "Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
-     "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
-     "source": "CNBC Top",
-     "summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days.",
-     "published_at": "2026-09-14T09:23:19+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T09:34:25+00:00"
-    },
-    {
-     "title": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
-     "url": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
-     "source": "CNBC Top",
-     "summary": "Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.",
-     "published_at": "2026-09-14T08:51:57+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T09:34:25+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -250,7 +250,7 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month\n  2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom\n  2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people\n  2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war\n  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'\n  2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?\n  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies\n  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack\n  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or\n  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?\n  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat\n  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa\n  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars\n  2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit\n  2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi\n  2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc\n  2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit\n  2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East\n  2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions\n  2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people\n  2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war\n  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'\n  2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?\n  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies\n  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack\n  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or\n  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?\n  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat\n  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa\n  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars\n  2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit\n  2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi\n  2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc\n  2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit\n  2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East\n  2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions\n  2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?\n  2026-09-14  (4 zdrojů, síla 68)  Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies\n  2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
    "thread_days": 60
   },
   {

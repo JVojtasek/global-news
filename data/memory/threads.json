@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "indycar",
-    "mourinho",
-    "toxic",
-    "brics",
-    "taiwan",
-    "groundhog",
-    "ukraine",
-    "donald",
-    "north",
-    "kuwait",
-    "iran",
-    "gulf",
-    "times",
-    "real",
-    "lyon",
-    "jong",
-    "inter",
-    "middle",
-    "east",
-    "iranian",
-    "league",
-    "modi",
-    "mideast",
-    "china's",
-    "global",
-    "hormuz",
+    "houthi",
     "city",
-    "d-day",
-    "o'neill",
-    "putin",
-    "south",
-    "qatar",
+    "china's",
+    "gulf",
     "fenerbahce",
-    "iran's",
-    "summit",
+    "mourinho",
+    "ukraine",
+    "jong",
+    "league",
+    "mideast",
+    "south",
+    "brics",
+    "yemen",
+    "o'neill",
     "centcom",
-    "kylian",
-    "asia",
+    "putin",
+    "times",
+    "kuwait",
+    "taiwan",
+    "iran's",
+    "modi",
+    "iranian",
     "briton",
-    "strait"
+    "indycar",
+    "east",
+    "strait",
+    "summit",
+    "qatar",
+    "kylian",
+    "groundhog",
+    "inter",
+    "hormuz",
+    "global",
+    "north",
+    "lightning",
+    "donald",
+    "real",
+    "iran",
+    "d-day",
+    "lyon"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -135,33 +135,13 @@
     "e1678d43017a",
     "8b3632d6453d",
     "2da8da440456",
-    "185e764f521e"
+    "185e764f521e",
+    "c7dc7c1ccb05",
+    "5c9d4dd477da"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-14",
    "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "South Korea calls for solid US alliance after Trump says 'good relationship' with Kim Jong Un",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d72eed2c40c7",
-     "links": [
-      "https://www.france24.com/en/south-korea-calls-for-solid-us-alliance-after-trump-says-good-relationship-with-kim-jong-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Why has Trump threatened to bomb Oman – for a second time?",
-     "sources": 2,
-     "score": 40,
-     "event_id": "6cffb2755854",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
-      "https://www.france24.com/en/trump-threatens-to-bomb-oman-as-its-ally-tires-to-mediate-iran-negotiations"
-     ]
-    },
     {
      "date": "2026-08-18",
      "headline": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
@@ -820,6 +800,29 @@
       "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
       "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
       "https://www.investing.com/news/commodities-news/diplomacy-stumbles-with-postponement-of-meeting-on-strait-of-hormuz-proposal-4898762"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies",
+     "sources": 4,
+     "score": 68,
+     "event_id": "c7dc7c1ccb05",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline",
+      "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+      "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5c9d4dd477da",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss"
      ]
     }
    ]
@@ -8499,5 +8502,5 @@
    ]
   }
  ],
- "updated": "2026-09-14T09:34:29+00:00"
+ "updated": "2026-09-14T12:37:35+00:00"
 }

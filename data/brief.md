@@ -49,7 +49,24 @@
     <https://darioamodei.com/post/we-must-pace-the-frontier>
     > Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 196 # Comments: 266
 
-### 3. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
+### 3. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+- id události: `c7dc7c1ccb05`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+    <https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline>
+    > Impasse comes amid growing Saudi anger with Tehran over Houthi advances and strikes on airbase and pipeline Oil prices rise after drone attacks shut down Saudi Arabia’s east-west pipeline Gulf states have postponed a critical meeting with Iran on the future of the strait of Hormu
+  - **CNBC Top** — Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
+    <https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html>
+    > Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.
+  - **Al Jazeera** — Strait of Hormuz talks postponed due to Yemen events, says Iran
+    <https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss>
+    > Foreign Ministry spokesperson Esmaeil Baghaei says Iran does not interfere in Yemeni affairs.
+  - **France 24** — As Yemen conflict intensifies, Iran the winner?
+    <https://www.france24.com/en/video/20260914-as-yemen-conflict-intensifies-iran-the-winner>
+    > The conflict in Yemen intensified on Sunday, as government forces launched attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fired into neighboring Saudi Arabia, which supports Yemen’s government. It comes after Houthis captured the port city of Mokha and an
+
+### 4. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
 - id události: `c4c1762a2a31`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -68,23 +85,6 @@
   - **Guardian Sport** — Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save
     <https://www.theguardian.com/football/2026/sep/12/sunderland-arsenal-premier-league-match-report>
     > As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemished. Two minutes after David Raya had rather majestically saved Le Fée’s second-half penalty, Guimarães delighted
-
-### 4. Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
-- id události: `d85187b311c3`  ·  rubrika: `business`  ·  skóre: 62  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
-    <https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline>
-    > Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pip
-  - **Guardian Business** — Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
-    <https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline>
-    > Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pip
-  - **CNBC Top** — Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
-    <https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html>
-    > Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days.
-  - **CNBC Top** — Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
-    <https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html>
-    > Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.
 
 ---
 
@@ -117,8 +117,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
-  2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
   2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
   2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
   2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
@@ -137,6 +135,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East
   2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions
   2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
+  2026-09-14  (4 zdrojů, síla 68)  Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+  2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
