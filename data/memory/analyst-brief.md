@@ -51,9 +51,8 @@ Paměť obsahuje **95 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 28 dní · 36 záznamů
+- rubrika `world` · sledováno 32 dní · 37 záznamů
 - časová osa:
-  - **2026-09-04** (2 zdrojů) 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC
   - **2026-09-05** (2 zdrojů) US ambassador to Israel visits Palestinian town hit by West Bank settler violence
   - **2026-09-05** (2 zdrojů) Inside the places that shaped Dolly Parton
   - **2026-09-07** (2 zdrojů) Israeli attacks on Gaza kill five Palestinians, including two children
@@ -63,11 +62,11 @@ Paměť obsahuje **95 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-09** (2 zdrojů) Where is Israel's proposed West Bank settlement the UK opposes?
   - **2026-09-09** (2 zdrojů) Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements
   - **2026-09-10** (2 zdrojů) Muted US response to UK's West Bank sanctions may reflect simmering frustration
+  - **2026-09-14** (2 zdrojů) Former West Ham keeper Miklosko dies aged 64
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 34 dní · 19 záznamů
+- rubrika `world` · sledováno 36 dní · 20 záznamů
 - časová osa:
-  - **2026-09-07** (2 zdrojů) Lebanon president calls for US help after deadly Israeli strikes
   - **2026-09-08** (2 zdrojů) Houthis strike Saudi Arabian cities in significant expansion of Middle East war
   - **2026-09-08** (3 zdrojů) Saudi Arabia vows to respond after Houthis attack cities and energy facilities
   - **2026-09-08** (2 zdrojů) Israel to close British consulate in Jerusalem after sanctions announced
@@ -77,6 +76,7 @@ Paměť obsahuje **95 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-11** (2 zdrojů) Israel says it has destroyed major underground Hezbollah base
   - **2026-09-12** (4 zdrojů) Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
   - **2026-09-12** (2 zdrojů) Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea
+  - **2026-09-14** (3 zdrojů) Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

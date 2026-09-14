@@ -1,63 +1,5 @@
 [
  {
-  "id": "b43c2e14cf73",
-  "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-  "section": "world",
-  "score": 80,
-  "sources_count": 5,
-  "depth_signal": 2,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T05:41:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-    "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-    "published_at": "2026-09-11T05:41:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Hong Kong Tiananmen activists sentenced up to 7 years",
-    "url": "https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Three pro-democracy activists who organized annual commemorations of China's deadly 1989 Tiananmen crackdown were charged under Hong Kong's Beijing-backed national security law.",
-    "published_at": "2026-09-11T08:40:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
-    "url": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
-    "source": "NPR News",
-    "summary": "The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.",
-    "published_at": "2026-09-11T06:42:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report",
-    "url": "https://www.scmp.com/business/banking-finance/article/3367190/mainland-chinese-investors-drive-hong-kong-wealth-boom-despite-new-tax-rules-report?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Hong Kong banks expect the contribution of mainland Chinese investors to the city’s wealth management business to continue to grow through 2030, presenting opportunities despite Beijing’s tightened cross-border tax rules. Mainland China’s share of local assets under management was projected to reach 68 per cent from 59 per cent within five years, according to a report released by the Hong Kong Ass",
-    "published_at": "2026-09-11T09:00:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Hong Kong court hands stiff jail sentences to Tiananmen vigil activists",
-    "url": "https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.",
-    "published_at": "2026-09-11T08:00:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   }
-  ]
- },
- {
   "id": "b2f984be07bd",
   "headline": "Zverev caps transformational year with US Open triumph",
   "section": "world",
@@ -228,6 +170,55 @@
     "published_at": "2026-09-12T21:14:24+00:00",
     "source_countries": [],
     "seen_at": "2026-09-13T01:04:29+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d85187b311c3",
+  "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+  "section": "business",
+  "score": 62,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-14T09:34:28+00:00",
+  "event_time": "2026-09-14T08:03:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+    "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+    "source": "The Guardian World",
+    "summary": "Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pipeline. Brent crude, the international benchmark for oil prices, surged to as much as $108.03 a barrel on Monday – a 3.25",
+    "published_at": "2026-09-14T08:03:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
+   {
+    "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+    "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+    "source": "Guardian Business",
+    "summary": "Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pipeline. Brent crude, the international benchmark for oil prices, surged to as much as $108.03 a barrel on Monday – a 3.25",
+    "published_at": "2026-09-14T08:03:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
+   {
+    "title": "Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
+    "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+    "source": "CNBC Top",
+    "summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days.",
+    "published_at": "2026-09-14T09:23:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
+   {
+    "title": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
+    "url": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+    "source": "CNBC Top",
+    "summary": "Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.",
+    "published_at": "2026-09-14T08:51:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
    }
   ]
  },
@@ -766,6 +757,37 @@
   ]
  },
  {
+  "id": "24ae29aed4a0",
+  "headline": "Bali police investigate after Australian man and children found dead in home",
+  "section": "world",
+  "score": 54,
+  "sources_count": 2,
+  "depth_signal": 10,
+  "created": "2026-09-14T09:34:28+00:00",
+  "event_time": "2026-09-14T07:15:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Bali police investigate after Australian man and children found dead in home",
+    "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+    "published_at": "2026-09-14T07:15:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
+   {
+    "title": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
+    "url": "https://www.theguardian.com/world/2026/sep/14/indonesian-police-deaths-of-australian-man-and-two-children-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Police in Bali believe the two young children died as a result of violence, while a 57-year-old man is believed to have taken his own life Indonesian police are investigating the deaths of three Australians who died in Bali over the weekend, with initial reports suggesting a father killed his two young children before taking his own life. The man, 57, and his two children, seven and four, who are ",
+    "published_at": "2026-09-14T08:44:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   }
+  ]
+ },
+ {
   "id": "f156f00d2d86",
   "headline": "Donald Trump says he would ‘love’ to see united Ireland",
   "section": "world",
@@ -1113,46 +1135,6 @@
     "published_at": "2026-09-13T16:52:33+00:00",
     "source_countries": [],
     "seen_at": "2026-09-14T01:04:25+00:00"
-   }
-  ]
- },
- {
-  "id": "68c3fe310973",
-  "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
-  "section": "world",
-  "score": 49,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T08:15:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-    "published_at": "2026-09-11T08:15:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-    "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-    "published_at": "2026-09-11T08:15:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Anthropic warns of bids to use AI to build biological weapons",
-    "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Experts urge stricter access to AI models as Anthropic reports rising misuse cases, including biological research risks.",
-    "published_at": "2026-09-11T08:08:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
    }
   ]
  },
@@ -1760,99 +1742,6 @@
   ]
  },
  {
-  "id": "fb1f421ffe26",
-  "headline": "India news: Putin, Modi to hold talks ahead of BRICS Summit",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T08:17:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "India news: Putin, Modi to hold talks ahead of BRICS Summit",
-    "url": "https://www.dw.com/en/india-news-putin-modi-to-hold-talks-ahead-of-brics-summit/live-79224239?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Modi will also meet Xi Jinping as India seeks to balance ties with China and Russia. The wars in Ukraine and Iran could test the group's unity at the summit. Follow DW for more.",
-    "published_at": "2026-09-11T08:17:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-    "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
-    "source": "CNBC Top",
-    "summary": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
-    "published_at": "2026-09-11T04:29:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   }
-  ]
- },
- {
-  "id": "9bee9907a394",
-  "headline": "Hall signs new contract with Newcastle until 2031",
-  "section": "sport",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T08:00:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hall signs new contract with Newcastle until 2031",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
-    "published_at": "2026-09-11T08:00:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Lewis Hall agrees long-term Newcastle deal, Chelsea buy-out close: football news – live",
-    "url": "https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview",
-    "source": "Guardian Sport",
-    "summary": "⚽️ News and updates before the weekend’s football action ⚽️ Premier League: 10 things to watch out for | Mail Tom The French Football Federation’s president, Philippe Diallo, said Gianni Infantino had “seriously damaged the image and the unity of football” as he announced the end of France’s support for the Fifa president’s re-election. Continue reading...",
-    "published_at": "2026-09-11T09:02:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   }
-  ]
- },
- {
-  "id": "795b9e4a829c",
-  "headline": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-  "section": "safety",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T07:14:09+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-    "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-    "source": "The Hacker News",
-    "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in research published Thursday. The attack started with a crafted link and ended with the attacker able to do anything the logged-in user could do. Tencent, which owns",
-    "published_at": "2026-09-11T07:14:09+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-    "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-    "source": "The Hacker News",
-    "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass",
-    "published_at": "2026-09-11T06:19:59+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   }
-  ]
- },
- {
   "id": "d31226260979",
   "headline": "These 15 Riveting Photos of Firefighters in Action Showcase the Strength and Courage They Need to Risk Their Lives to Save Others",
   "section": "culture",
@@ -2265,37 +2154,6 @@
     "published_at": "2026-09-13T14:52:54+00:00",
     "source_countries": [],
     "seen_at": "2026-09-13T15:22:39+00:00"
-   }
-  ]
- },
- {
-  "id": "519a636cd71e",
-  "headline": "Has Trump won over voters with his midterm convention?",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T06:16:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Has Trump won over voters with his midterm convention?",
-    "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term.",
-    "published_at": "2026-09-11T06:16:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
-    "source": "NPR News",
-    "summary": "The two day Republican convention in Dallas showcased the party's biggest asset in trying to win competitive midterm races and its greatest obstacle: President Trump.",
-    "published_at": "2026-09-11T09:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
    }
   ]
  },
@@ -3035,37 +2893,6 @@
   ]
  },
  {
-  "id": "ef8cacdc8387",
-  "headline": "$10m on line at inaugural Ultimate Championship",
-  "section": "sport",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T06:45:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "$10m on line at inaugural Ultimate Championship",
-    "url": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
-    "published_at": "2026-09-11T06:45:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   },
-   {
-    "title": "World Athletics Ultimate Championship opens with record $10m prize pot",
-    "url": "https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.",
-    "published_at": "2026-09-11T08:50:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   }
-  ]
- },
- {
   "id": "bdeae8e9fa9f",
   "headline": "Why some experts increasingly fear AI will take over",
   "section": "world",
@@ -3500,6 +3327,37 @@
   ]
  },
  {
+  "id": "9326ca279071",
+  "headline": "Former West Ham keeper Miklosko dies aged 64",
+  "section": "sport",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-14T09:34:29+00:00",
+  "event_time": "2026-09-14T08:00:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Former West Ham keeper Miklosko dies aged 64",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c77036d68k8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Ludek Miklosko made almost 400 appearances for West Ham in the 1990s, and fans sang his name long after his exit.",
+    "published_at": "2026-09-14T08:00:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
+   {
+    "title": "Ludek Miklosko, former West Ham and QPR goalkeeper, dies aged 64",
+    "url": "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies",
+    "source": "Guardian Sport",
+    "summary": "Miklosko played 373 times for West Ham from 1990 He won 42 international caps from 1982 The former West Ham and QPR goalkeeper Ludek Miklosko has died at the age of 64. Miklosko, who won caps for Czechoslovakia and the Czech Republic, had been living with cancer. Miklosko joined West Ham from Baník Ostrava in 1990 for £300,000 after a trial and helped the club win promotion to the top division in ",
+    "published_at": "2026-09-14T08:08:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   }
+  ]
+ },
+ {
   "id": "469d1ea9a56c",
   "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
   "section": "business",
@@ -3761,33 +3619,33 @@
   ]
  },
  {
-  "id": "29d53d74bf32",
-  "headline": "Pressure grows on Burnham to commit to increasing statutory paternity leave",
+  "id": "d05be61f00ce",
+  "headline": "'State-led discrimination': Turkey detains dozens after raids targeting LGBTQ groups",
   "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T08:00:05+00:00",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-14T09:34:28+00:00",
+  "event_time": "2026-09-14T08:45:53+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Pressure grows on Burnham to commit to increasing statutory paternity leave",
-    "url": "https://www.theguardian.com/money/2026/sep/11/mps-urge-andy-burnham-increase-statutory-paternity-leave-uk",
-    "source": "The Guardian World",
-    "summary": "Exclusive: Calls from Labour grow as 105 MPs write to PM urging ‘obvious’ step to alleviate cost of living crisis Andy Burnham is coming under increasing pressure from his own MPs to commit to improving paternity leave in the UK in the next budget, with more than a quarter of Labour MPs writing to the prime minister to urge him to take action. Ahead of the chancellor’s first budget next month, 105",
-    "published_at": "2026-09-11T08:00:05+00:00",
+    "title": "'State-led discrimination': Turkey detains dozens after raids targeting LGBTQ groups",
+    "url": "https://www.france24.com/en/video/20260914-state-led-discrimination-turkey-detains-dozens-after-raids-targeting-lgbtq-groups",
+    "source": "France 24",
+    "summary": "Turkish police on Sunday arrested at least 60 people in mass raids on gay bars and the homes of LGBTQ activists, in what authorities said was an operation aimed at boosting traditional family values. The raids sparked condemnation from rights groups and opposition parties, as well as the European Union parliament's rapporteur on Turkey. France 24’s Jasper Mortimer has the latest.",
+    "published_at": "2026-09-14T08:45:53+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
+    "seen_at": "2026-09-14T09:34:25+00:00"
    },
    {
-    "title": "Pressure grows on Burnham to commit to increasing statutory paternity leave",
-    "url": "https://www.theguardian.com/money/2026/sep/11/mps-urge-andy-burnham-increase-statutory-paternity-leave-uk",
-    "source": "Guardian Business",
-    "summary": "Exclusive: Calls from Labour grow as 105 MPs write to PM urging ‘obvious’ step to alleviate cost of living crisis Andy Burnham is coming under increasing pressure from his own MPs to commit to improving paternity leave in the UK in the next budget, with more than a quarter of Labour MPs writing to the prime minister to urge him to take action. Ahead of the chancellor’s first budget next month, 105",
-    "published_at": "2026-09-11T08:00:05+00:00",
+    "title": "Turkey detains dozens in raids of bars, homes in crackdown on LGBTQ community",
+    "url": "https://www.france24.com/en/asia-pacific/20260913-turkey-detains-dozens-in-raids-of-bars-homes-in-crackdown-on-lgbtq-community",
+    "source": "France 24",
+    "summary": "Turkish authorities on Sunday launched raids on gay bars, nightclubs, LGBTQ association offices and activists' homes in a sweeping crackdown in several cities as part of the government's \"My Family is Safe\" operations, Turkey's justice minister said. More than 60 people were arrested, according to the state news agency, in raids condemned by human rights groups.",
+    "published_at": "2026-09-13T19:41:12+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
+    "seen_at": "2026-09-14T09:34:25+00:00"
    }
   ]
  },
@@ -4399,6 +4257,37 @@
     "published_at": "2026-09-14T01:50:08+00:00",
     "source_countries": [],
     "seen_at": "2026-09-14T03:32:51+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5828a1b57a4f",
+  "headline": "Thames Water redraws mega-reservoir plan amid local opposition",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-14T09:34:28+00:00",
+  "event_time": "2026-09-14T08:00:26+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Thames Water redraws mega-reservoir plan amid local opposition",
+    "url": "https://www.theguardian.com/business/2026/sep/14/thames-water-mega-reservoir-abingdon-oxfordshire",
+    "source": "The Guardian World",
+    "summary": "A new public consultation has opened on the 150bn-litre above-ground White Horse project in Abingdon, Oxfordshire Thames Water has amended the blueprint of a planned mega-reservoir in Oxfordshire as the struggling utility tries to convince regulators that construction should go ahead amid warnings of “catastrophic consequences”. The White Horse reservoir near Abingdon is scheduled to hold 150bn li",
+    "published_at": "2026-09-14T08:00:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
+   {
+    "title": "Thames Water redraws mega-reservoir plan amid local opposition",
+    "url": "https://www.theguardian.com/business/2026/sep/14/thames-water-mega-reservoir-abingdon-oxfordshire",
+    "source": "Guardian Business",
+    "summary": "A new public consultation has opened on the 150bn-litre above-ground White Horse project in Abingdon, Oxfordshire Thames Water has amended the blueprint of a planned mega-reservoir in Oxfordshire as the struggling utility tries to convince regulators that construction should go ahead amid warnings of “catastrophic consequences”. The White Horse reservoir near Abingdon is scheduled to hold 150bn li",
+    "published_at": "2026-09-14T08:00:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
    }
   ]
  },
@@ -5295,46 +5184,33 @@
   ]
  },
  {
-  "id": "6130d01bd4b4",
-  "headline": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
-  "section": "world",
-  "score": 35,
+  "id": "546373aa2a60",
+  "headline": "Zverev wins US Open to earn second Grand Slam victory",
+  "section": "sport",
+  "score": 36,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T09:00:00+00:00",
+  "created": "2026-09-14T09:34:29+00:00",
+  "event_time": "2026-09-14T09:23:59+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
-    "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
-    "source": "NPR News",
-    "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
-    "published_at": "2026-09-11T09:00:00+00:00",
+    "title": "Zverev wins US Open to earn second Grand Slam victory",
+    "url": "https://www.bbc.co.uk/sport/tennis/videos/c33km63dx8eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Alexander Zverev wins the second Grand Slam of his career by beating Ben Shelton 6-3, 6-6 (7-6), 5-7, 6-2 in the final of the US Open.",
+    "published_at": "2026-09-14T09:23:59+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
-   }
-  ]
- },
- {
-  "id": "e86c593f85f7",
-  "headline": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T09:27:54+00:00",
-  "event_time": "2026-09-11T07:31:05+00:00",
-  "time_kind": "published",
-  "items": [
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
    {
-    "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-    "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-    "source": "The Hacker News",
-    "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.",
-    "published_at": "2026-09-11T07:31:05+00:00",
+    "title": "'It feels amazing' - Zverev reflects on US Open win",
+    "url": "https://www.bbc.co.uk/sport/tennis/videos/c1l6r842n86o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Alexander Zverev says it was an \"amazing feeling\" to lift the US Open trophy after defeating Ben Shelton in the final.",
+    "published_at": "2026-09-14T09:06:16+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T09:27:51+00:00"
+    "seen_at": "2026-09-14T09:34:25+00:00"
    }
   ]
  },
@@ -6014,6 +5890,28 @@
     "published_at": "2026-09-13T03:30:51+00:00",
     "source_countries": [],
     "seen_at": "2026-09-14T01:04:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b23f3ac0df6d",
+  "headline": "Richard Tice accuses Labour of ‘trying to change rules retrospectively’ after Reform receive £72m in donations – UK politics live",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T09:34:28+00:00",
+  "event_time": "2026-09-14T09:18:25+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Richard Tice accuses Labour of ‘trying to change rules retrospectively’ after Reform receive £72m in donations – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
+    "source": "The Guardian World",
+    "summary": "Labour MPs and unions are pressuring the government to legislate for a stricter cap on political party donations Richard Tice , Reform UK’s deputy leader, has declined to say when two crypto billionaires who gave a combined £72m to the party returned to the UK, Peter Walker reports. Good morning. This afternoon peers will debate the second reading of the representation of the people bill. If you h",
+    "published_at": "2026-09-14T09:18:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
    }
   ]
  },
@@ -7256,6 +7154,103 @@
   ]
  },
  {
+  "id": "25621f610b52",
+  "headline": "ChatGPT has a feature to help those in crisis. But where can you find it?",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-14T09:34:28+00:00",
+  "event_time": "2026-09-14T09:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
+    "source": "NPR News",
+    "summary": "Earlier this year, OpenAI launched a feature on ChatGPT meant to help people at risk of suicide connect with someone they trust for support. But its setup may prove challenging to someone in crisis.",
+    "published_at": "2026-09-14T09:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "da24de63f1ee",
+  "headline": "‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-14T09:34:28+00:00",
+  "event_time": "2026-09-14T08:27:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘We’re not going to back down’: tiny Dorset B&B stands up to Airbnb’s legal bid to ‘monopolise’ letters ‘bnb’",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
+    "source": "Guardian Business",
+    "summary": "Three little letters - bnb-side’s name is a play on the local b-side arts festival, but Silicon Valley colossus sees threat to global brand In one corner is bnb-side, a six-room bed and breakfast on the Isle of Portland – a tiny wedge of limestone tied by a narrow ribbon of shingle to the Dorset coast – that was created to help secure the future of the rock’s much-loved arts festival, b-side. On t",
+    "published_at": "2026-09-14T08:27:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6f3e148e170c",
+  "headline": "How did the first Ultimate Championship go?",
+  "section": "sport",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T09:34:29+00:00",
+  "event_time": "2026-09-14T06:51:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How did the first Ultimate Championship go?",
+    "url": "https://www.bbc.co.uk/sport/athletics/articles/cqjkwl78plro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "As the inaugural Ultimate Championship concludes, athletics has taken its first strides in a new direction.",
+    "published_at": "2026-09-14T06:51:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   },
+   {
+    "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
+    "url": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Josh Kerr ends a sensational season by winning the Ultimate Championship 1500m title as the inaugural edition of athletics' new global event concludes.",
+    "published_at": "2026-09-13T19:45:58+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e8aa65d81a62",
+  "headline": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T09:34:29+00:00",
+  "event_time": "2026-09-14T07:24:39+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+    "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+    "source": "The Hacker News",
+    "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the Google Chrome Web Store and Mozilla Firefox Add-Ons store - Chrome -",
+    "published_at": "2026-09-14T07:24:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T09:34:25+00:00"
+   }
+  ]
+ },
+ {
   "id": "1553502e4a88",
   "headline": "Ireland holds its breath as its leftwing president prepares to meet Trump",
   "section": "world",
@@ -8385,28 +8380,6 @@
     "published_at": "2026-08-26T23:03:46+00:00",
     "source_countries": [],
     "seen_at": "2026-09-14T01:04:25+00:00"
-   }
-  ]
- },
- {
-  "id": "c4f5f74478e0",
-  "headline": "APOD: 2026 September 14 – Where Your Elements Came From",
-  "section": "science",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-14T06:50:44+00:00",
-  "event_time": "2026-09-14T04:05:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-    "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/",
-    "source": "NASA",
-    "summary": "APOD Science APOD APOD: 2026 September 14 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Where Your Elements […]",
-    "published_at": "2026-09-14T04:05:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-14T06:50:41+00:00"
    }
   ]
  }

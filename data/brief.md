@@ -9,27 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Hong Kong's Tiananmen activists sentenced to up to seven years in prison
-- id události: `b43c2e14cf73`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Hong Kong's Tiananmen activists sentenced to up to seven years in prison
-    <https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss>
-    > Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.
-  - **DW News** — Hong Kong Tiananmen activists sentenced up to 7 years
-    <https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf>
-    > Three pro-democracy activists who organized annual commemorations of China's deadly 1989 Tiananmen crackdown were charged under Hong Kong's Beijing-backed national security law.
-  - **NPR News** — Hong Kong court sentences 3 Tiananmen vigil organizers to prison
-    <https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers>
-    > The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.
-  - **SCMP Tech (Čína)** — Mainland Chinese investors to drive Hong Kong wealth boom despite new tax rules: report
-    <https://www.scmp.com/business/banking-finance/article/3367190/mainland-chinese-investors-drive-hong-kong-wealth-boom-despite-new-tax-rules-report?utm_source=rss_feed>
-    > Hong Kong banks expect the contribution of mainland Chinese investors to the city’s wealth management business to continue to grow through 2030, presenting opportunities despite Beijing’s tightened cross-border tax rules. Mainland China’s share of local assets under management wa
-  - **Al Jazeera** — Hong Kong court hands stiff jail sentences to Tiananmen vigil activists
-    <https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss>
-    > Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.
-
-### 2. Zverev caps transformational year with US Open triumph
+### 1. Zverev caps transformational year with US Open triumph
 - id události: `b2f984be07bd`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -49,7 +29,7 @@
     <https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton>
     > No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton. He had been outserved and outplayed for nearly three hours, but at 6-5 in the third set, one game from defeat, the
 
-### 3. Anthropic boss Dario Amodei calls for AI development to slow down
+### 2. Anthropic boss Dario Amodei calls for AI development to slow down
 - id události: `4a1f65fbb798`  ·  rubrika: `tech`  ·  skóre: 69  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -69,7 +49,7 @@
     <https://darioamodei.com/post/we-must-pace-the-frontier>
     > Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 196 # Comments: 266
 
-### 4. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
+### 3. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
 - id události: `c4c1762a2a31`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -88,6 +68,23 @@
   - **Guardian Sport** — Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save
     <https://www.theguardian.com/football/2026/sep/12/sunderland-arsenal-premier-league-match-report>
     > As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemished. Two minutes after David Raya had rather majestically saved Le Fée’s second-half penalty, Guimarães delighted
+
+### 4. Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
+- id události: `d85187b311c3`  ·  rubrika: `business`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
+    <https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline>
+    > Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pip
+  - **Guardian Business** — Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
+    <https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline>
+    > Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab strait Business news – live updates Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pip
+  - **CNBC Top** — Brent crude jumps above $108 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz
+    <https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html>
+    > Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days.
+  - **CNBC Top** — Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
+    <https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html>
+    > Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.
 
 ---
 
