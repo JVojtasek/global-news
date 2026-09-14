@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-13
+# ZADÁNÍ PRO REDAKCI — 2026-09-14
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -29,7 +29,27 @@
     <https://www.aljazeera.com/news/2026/9/11/hong-kong-court-hands-stiff-jail-sentences-to-tiananmen-vigil-activists?traffic_source=rss>
     > Convictions came under draconian national security law imposed on Hong Kong in 2020 following huge protests.
 
-### 2. Anthropic boss Dario Amodei calls for AI development to slow down
+### 2. Zverev caps transformational year with US Open triumph
+- id události: `b2f984be07bd`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC Sport** — Zverev caps transformational year with US Open triumph
+    <https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss>
+    > Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.
+  - **DW News** — Germany's Zverev wins US Open in golden year
+    <https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-rdf>
+    > Alexander Zverev has won the US Open for the first time, defeating Ben Shelton in the final. It is Zverev's second Grand Slam win of 2026 after a long wait for his first title, but controversy still hangs over him.
+  - **France 24** — Zverev beats Shelton to win US Open 2026 and second Grand Slam title
+    <https://www.france24.com/en/sport/20260913-alexander-zverev-ben-shelton-us-open-final-tennis>
+    > Alexander Zverev beat American Ben Shelton 6-3, 7-6 (7/2), 5-7, 6-2 on Sunday to win the US Open and claim his second Grand Slam title. The German, who lost the 2020 final, denied Shelton the chance to become the first American man to win a major since 2003.
+  - **Al Jazeera** — Zverev defeats Shelton in four sets to win his first US Open title
+    <https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss>
+    > Germany's Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men's singles title in New York.
+  - **Guardian Sport** — Alexander Zverev claims first US Open after four-set battle with Ben Shelton
+    <https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton>
+    > No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton. He had been outserved and outplayed for nearly three hours, but at 6-5 in the third set, one game from defeat, the
+
+### 3. Anthropic boss Dario Amodei calls for AI development to slow down
 - id události: `4a1f65fbb798`  ·  rubrika: `tech`  ·  skóre: 69  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -48,23 +68,6 @@
   - **Hacker News Best** — We must pace the frontier
     <https://darioamodei.com/post/we-must-pace-the-frontier>
     > Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 196 # Comments: 266
-
-### 3. Champions League new boys Como dominate Leipzig
-- id události: `9dcec27cdc51`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Champions League new boys Como dominate Leipzig
-    <https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss>
-    > Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.
-  - **France 24** — Manchester United thrash Sabah in Champions League return as Fabregas's Como shine on European debut
-    <https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut>
-    > Manchester United marked their Champions League return with a 4-0 rout of Sabah on Thursday, with Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez scoring. Bayern Munich thrashed Bodo/Glimt 5-0 as Ballon d'Or nominees Michael Olise struck twice and Harry Kane 
-  - **Guardian Sport** — Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig
-    <https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig>
-    > Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt . The six-times winners were frustrated before half-time by Bodo/Glimt but cruised o
-  - **Al Jazeera** — Manchester United beat Sabah 4-0 on Champions League return
-    <https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss>
-    > Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.
 
 ### 4. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
 - id události: `c4c1762a2a31`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
@@ -117,7 +120,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up
   2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month
   2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom
   2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people
@@ -137,6 +139,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit
   2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East
   2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions
+  2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky

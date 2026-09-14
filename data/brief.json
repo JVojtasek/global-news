@@ -1,5 +1,5 @@
 {
- "date": "2026-09-13",
+ "date": "2026-09-14",
  "mode": "normal",
  "days_since_human": 0,
  "confidence_threshold": 82,
@@ -65,6 +65,65 @@
    "depth": "scripture"
   },
   {
+   "id": "b2f984be07bd",
+   "headline": "Zverev caps transformational year with US Open triumph",
+   "section": "world",
+   "score": 78,
+   "sources_count": 5,
+   "depth_signal": 2,
+   "created": "2026-09-14T01:04:28+00:00",
+   "event_time": "2026-09-13T22:55:31+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Zverev caps transformational year with US Open triumph",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
+     "published_at": "2026-09-13T22:55:31+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T01:04:25+00:00"
+    },
+    {
+     "title": "Germany's Zverev wins US Open in golden year",
+     "url": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Alexander Zverev has won the US Open for the first time, defeating Ben Shelton in the final. It is Zverev's second Grand Slam win of 2026 after a long wait for his first title, but controversy still hangs over him.",
+     "published_at": "2026-09-13T22:03:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T01:04:25+00:00"
+    },
+    {
+     "title": "Zverev beats Shelton to win US Open 2026 and second Grand Slam title",
+     "url": "https://www.france24.com/en/sport/20260913-alexander-zverev-ben-shelton-us-open-final-tennis",
+     "source": "France 24",
+     "summary": "Alexander Zverev beat American Ben Shelton 6-3, 7-6 (7/2), 5-7, 6-2 on Sunday to win the US Open and claim his second Grand Slam title. The German, who lost the 2020 final, denied Shelton the chance to become the first American man to win a major since 2003.",
+     "published_at": "2026-09-13T22:39:33+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T01:04:25+00:00"
+    },
+    {
+     "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+     "url": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Germany's Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men's singles title in New York.",
+     "published_at": "2026-09-13T22:33:34+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T01:04:25+00:00"
+    },
+    {
+     "title": "Alexander Zverev claims first US Open after four-set battle with Ben Shelton",
+     "url": "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton",
+     "source": "Guardian Sport",
+     "summary": "No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton. He had been outserved and outplayed for nearly three hours, but at 6-5 in the third set, one game from defeat, the American finally broke through. He burst into the return game finally pounding his forehand freely and he willed himsel",
+     "published_at": "2026-09-13T22:30:45+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T01:04:25+00:00"
+    }
+   ],
+   "depth": "scripture"
+  },
+  {
    "id": "4a1f65fbb798",
    "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
    "section": "tech",
@@ -122,56 +181,6 @@
     }
    ],
    "depth": "scripture"
-  },
-  {
-   "id": "9dcec27cdc51",
-   "headline": "Champions League new boys Como dominate Leipzig",
-   "section": "sport",
-   "score": 68,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-09-11T00:57:16+00:00",
-   "event_time": "2026-09-10T21:45:10+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Champions League new boys Como dominate Leipzig",
-     "url": "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Como made an impressive Champions League debut by defeating visitors RB Leipzig 4-1 in their opening league-phase outing at Stadio Giuseppe Sinigaglia.",
-     "published_at": "2026-09-10T21:45:10+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-11T00:57:13+00:00"
-    },
-    {
-     "title": "Manchester United thrash Sabah in Champions League return as Fabregas's Como shine on European debut",
-     "url": "https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut",
-     "source": "France 24",
-     "summary": "Manchester United marked their Champions League return with a 4-0 rout of Sabah on Thursday, with Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez scoring. Bayern Munich thrashed Bodo/Glimt 5-0 as Ballon d'Or nominees Michael Olise struck twice and Harry Kane scored, while Cesc Fabregas's Como impressed on their competition debut.",
-     "published_at": "2026-09-10T22:25:34+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-11T00:57:13+00:00"
-    },
-    {
-     "title": "Champions League: Bayern break down Bodø/Glimt, Como put four past Leipzig",
-     "url": "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig",
-     "source": "Guardian Sport",
-     "summary": "Bayern Munich 5-0 Bodø/Glimt, Como 4-1 Leipzig Lens win 3-2 at Slavia Prague with last-gasp double Bayern Munich opened their Champions League campaign with a 5-0 thrashing of Norway’s Bodo/Glimt . The six-times winners were frustrated before half-time by Bodo/Glimt but cruised once Jamal Musiala smashed in the opener two minutes into the second period and the floodgates opened. Continue reading..",
-     "published_at": "2026-09-10T21:57:25+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-11T00:57:13+00:00"
-    },
-    {
-     "title": "Manchester United beat Sabah 4-0 on Champions League return",
-     "url": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez seal a winning UCL return for United.",
-     "published_at": "2026-09-10T20:54:47+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-11T00:57:13+00:00"
-    }
-   ],
-   "depth": "open"
   },
   {
    "id": "c4c1762a2a31",
@@ -250,7 +259,7 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-08-31  (2 zdrojů, síla 48)  Trump threatens further action as US and Iran exchange fire in new flare-up\n  2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month\n  2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom\n  2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people\n  2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war\n  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'\n  2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?\n  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies\n  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack\n  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or\n  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?\n  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat\n  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa\n  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars\n  2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit\n  2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi\n  2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc\n  2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit\n  2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East\n  2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions",
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-09-01  (2 zdrojů, síla 40)  Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month\n  2026-09-01  (2 zdrojů, síla 40)  U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom\n  2026-09-02  (2 zdrojů, síla 41)  Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people\n  2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war\n  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'\n  2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?\n  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies\n  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack\n  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or\n  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?\n  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat\n  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa\n  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars\n  2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit\n  2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi\n  2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc\n  2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit\n  2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East\n  2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions\n  2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
    "thread_days": 60
   },
   {
