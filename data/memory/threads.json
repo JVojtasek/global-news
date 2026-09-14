@@ -833,46 +833,46 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "zelenskyy",
-    "peace",
-    "kyiv",
     "four",
+    "warsaw-bound",
     "kremlin",
     "north",
-    "bear",
-    "korea",
-    "norway",
-    "us-mediated",
-    "overnight",
-    "warsaw-bound",
-    "germany",
-    "leipzig",
-    "ukraine",
-    "trump",
-    "back-to-back",
-    "putin",
-    "masha",
-    "moscow",
-    "kushner",
-    "orthodox",
-    "shootout",
-    "several",
-    "korean",
-    "nato",
-    "poland",
-    "atacms",
-    "holding",
-    "amnesty",
     "zelensky",
-    "russia",
-    "belgorod",
-    "izmail",
-    "burnham",
-    "moldova",
-    "wildberries",
-    "witkoff",
+    "poland",
+    "zelenskyy",
     "ukrainian",
-    "bessent"
+    "leipzig",
+    "trump",
+    "masha",
+    "putin",
+    "overnight",
+    "russia",
+    "burnham",
+    "witkoff",
+    "kushner",
+    "ukraine",
+    "wildberries",
+    "back-to-back",
+    "shootout",
+    "atacms",
+    "peace",
+    "holding",
+    "kyiv",
+    "nato",
+    "izmail",
+    "us-mediated",
+    "bessent",
+    "norway",
+    "korea",
+    "bear",
+    "korean",
+    "germany",
+    "several",
+    "amnesty",
+    "moscow",
+    "belgorod",
+    "orthodox",
+    "moldova"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -928,7 +928,8 @@
     "743183352673",
     "cb2740e5a00b",
     "f8f4c0519578",
-    "41ba2789c7b7"
+    "41ba2789c7b7",
+    "e5df37640573"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-14",
@@ -1536,6 +1537,17 @@
      "links": [
       "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e5df37640573",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
+      "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss"
      ]
     }
    ]
@@ -3586,6 +3598,35 @@
       "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
       "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
       "https://www.theverge.com/tech/994267/steam-frame-review"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "musk",
+    "apple",
+    "openai"
+   ],
+   "event_ids": [
+    "95b4d8eb7452"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-09-14",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
      ]
     }
    ]
@@ -8580,5 +8621,5 @@
    ]
   }
  ],
- "updated": "2026-09-14T18:29:50+00:00"
+ "updated": "2026-09-14T21:22:36+00:00"
 }

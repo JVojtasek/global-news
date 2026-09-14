@@ -388,55 +388,6 @@
   ]
  },
  {
-  "id": "1530238efca3",
-  "headline": "Razaullah introduces himself as Pakistan thrive in chaos",
-  "section": "sport",
-  "score": 60,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T19:35:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Razaullah introduces himself as Pakistan thrive in chaos",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c158k8vn7vwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Cancel the tee time at the Belfry, rearrange the trip to Cadbury World and abort the shopping jolly to the Bullring - Pakistan's debutant Razaullah lights up Edgbaston to send third Test into fourth day.",
-    "published_at": "2026-09-11T19:35:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "Razaullah steals the show as Pakistan fight back to frustrate England",
-    "url": "https://www.bbc.co.uk/sport/cricket/videos/c8xkv541lxvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Shan Masood, Babar Azam and debutant Razaullah all reach half-centuries as Pakistan produce a spirited fight back to score 449 in their second innings on day three, setting England 130 to win the third and final Test, and complete a 3-0 series win at Edgbaston.",
-    "published_at": "2026-09-11T19:00:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
-    "url": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.",
-    "published_at": "2026-09-11T20:07:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "‘A perfect storm’: Trescothick refuses to blame England bowlers after Razaullah’s onslaught",
-    "url": "https://www.theguardian.com/sport/2026/sep/11/trescothick-england-bowlers-razaullah-pakistan-third-test",
-    "source": "Guardian Sport",
-    "summary": "Pakistan’s ninth-wicket pair put on 121 in 123 balls ‘You’ve got to give a bit more credit to them’ Marcus Trescothick described Pakistan’s late-innings onslaught as a “perfect storm”, after the 21-year-old debutant Razaullah and the 36-year-old Mohammad Abbas combined to score 121 off 123 balls and force a fraying England to come in on the fourth day to chase a target of 130. The interim coach re",
-    "published_at": "2026-09-11T20:00:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
   "id": "f745919ab159",
   "headline": "Haaland scores controversial winner as Man City win derby despite Foden red",
   "section": "sport",
@@ -571,6 +522,46 @@
     "published_at": "2026-09-12T23:02:12+00:00",
     "source_countries": [],
     "seen_at": "2026-09-13T01:04:29+00:00"
+   }
+  ]
+ },
+ {
+  "id": "95b4d8eb7452",
+  "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+  "section": "tech",
+  "score": 55,
+  "sources_count": 3,
+  "depth_signal": 2,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T19:45:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "source": "Ars Technica",
+    "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+    "published_at": "2026-09-14T19:45:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "source": "Ars Technica AI",
+    "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+    "published_at": "2026-09-14T19:45:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple",
+    "url": "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The companies had accused Apple of favouring OpenAI’s ChatGPT over rival AI chatbots.",
+    "published_at": "2026-09-14T19:59:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -771,6 +762,46 @@
     "published_at": "2026-09-14T08:44:44+00:00",
     "source_countries": [],
     "seen_at": "2026-09-14T09:34:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1ae9b9badf47",
+  "headline": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+  "section": "tech",
+  "score": 54,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T19:28:42+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "source": "Ars Technica",
+    "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+    "published_at": "2026-09-14T19:28:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "source": "Ars Technica AI",
+    "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+    "published_at": "2026-09-14T19:28:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
+    "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+    "source": "CNBC Top",
+    "summary": "Following Apple's iPhone launch event last week, the company is releasing a redesigned Siri AI, though users may have to sign up for a waitlist.",
+    "published_at": "2026-09-14T19:05:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -1166,6 +1197,46 @@
   ]
  },
  {
+  "id": "333dee9030f8",
+  "headline": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+  "section": "culture",
+  "score": 50,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T21:10:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+    "url": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The US rapper was condemned by Jewish groups after making comments criticising Israel.",
+    "published_at": "2026-09-14T21:10:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech",
+    "url": "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
+    "source": "Guardian Culture",
+    "summary": "The American rapper will no longer support Sheeran’s US leg of Loop tour after comments at MetLife Stadium show Macklemore has been dropped from the remainder of the US leg of Ed Sheeran ’s Loop tour, after the American rapper drew headlines for saying “free Palestine” on stage at MetLife Stadium in New Jersey. In a brief speech between songs on 4 September, the Grammy-winning artist told the audi",
+    "published_at": "2026-09-14T15:39:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Macklemore dropped from Ed Sheeran tour following Palestine advocacy",
+    "url": "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Gillette Stadium owner cites concerns over Macklemore's rhetoric as reason for barring him from performances.",
+    "published_at": "2026-09-14T20:40:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
   "id": "5c09d588777e",
   "headline": "EU leaders urge unity after Russian strike on train",
   "section": "world",
@@ -1415,46 +1486,6 @@
     "published_at": "2026-09-12T09:10:52+00:00",
     "source_countries": [],
     "seen_at": "2026-09-12T09:24:36+00:00"
-   }
-  ]
- },
- {
-  "id": "eb3fa8e52380",
-  "headline": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-  "section": "world",
-  "score": 46,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T20:44:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-    "source": "The Verge",
-    "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal […]",
-    "published_at": "2026-09-11T20:44:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-    "source": "The Verge AI",
-    "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal […]",
-    "published_at": "2026-09-11T20:44:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
-    "url": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "State supreme court fined the attorney and held him in contempt for not verifying facts in a court filing.",
-    "published_at": "2026-09-11T20:42:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
    }
   ]
  },
@@ -2137,33 +2168,86 @@
   ]
  },
  {
-  "id": "5c9d4dd477da",
-  "headline": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+  "id": "e5df37640573",
+  "headline": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
   "section": "world",
-  "score": 43,
+  "score": 44,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T19:44:58+00:00",
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T16:55:41+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-    "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
-    "published_at": "2026-09-11T19:44:58+00:00",
+    "title": "Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates",
+    "source": "The Guardian World",
+    "summary": "US president blames conflict, and ‘not Iran’, for spike in US diesel prices Jennifer Rankin in Brussels and Charlotte Higgins and Amy Hawkins in Kyiv Catching up with other news from across Europe, the head of Nato has said a Russian drone attack on a train close to Ukraine’s border with Poland would not deter Kyiv’s western backers. Continue reading...",
+    "published_at": "2026-09-14T16:55:41+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
    },
    {
-    "title": "Houthi advance in Yemen is about more than just the Red Sea",
-    "url": "https://www.aljazeera.com/news/2026/9/11/houthi-advance-in-yemen-is-about-more-than-just-the-red-sea?traffic_source=rss",
+    "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+    "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
-    "published_at": "2026-09-11T19:01:07+00:00",
+    "summary": "NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to 'scare' them off.",
+    "published_at": "2026-09-14T18:40:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e7a9dea91cdc",
+  "headline": "World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size",
+  "section": "culture",
+  "score": 44,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T19:15:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size",
+    "url": "https://www.smithsonianmag.com/smart-news/world-maps-might-soon-get-an-upgrade-the-united-nationas-votes-to-endorse-global-charts-that-better-represent-africas-true-size-180989495/",
+    "source": "Smithsonian Mag",
+    "summary": "The most widely used global map is almost 500 years old and was designed for navigation. But landmasses near the poles look larger than their actual relative sizes, and those near the equator look much smaller",
+    "published_at": "2026-09-14T19:15:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bf8c2b1da340",
+  "headline": "Why this month's Microsoft patch release is a doozy",
+  "section": "ai",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-08T21:11:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "source": "Ars Technica AI",
+    "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+    "published_at": "2026-09-08T21:11:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+    "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+    "source": "The Hacker News",
+    "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reported last month. \"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414,\" Chaotic",
+    "published_at": "2026-09-09T06:47:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -2314,33 +2398,33 @@
   ]
  },
  {
-  "id": "25d026c6a3b5",
-  "headline": "Tesla eyes European freight market with long-delayed Semi truck",
-  "section": "business",
-  "score": 42,
+  "id": "9243594ba0dc",
+  "headline": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
+  "section": "sport",
+  "score": 43,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T19:49:05+00:00",
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T20:54:23+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Tesla eyes European freight market with long-delayed Semi truck",
-    "url": "https://www.cnbc.com/2026/09/11/tesla-eyes-european-freight-market-with-long-delayed-semi-truck.html",
-    "source": "CNBC Top",
-    "summary": "Tesla is set to deploy its Semi truck in Europe, releasing details about truck specifications and launch plans in a post on X, after years of delays.",
-    "published_at": "2026-09-11T19:49:05+00:00",
+    "title": "Calvert-Lewin stars but Botman struggles - player ratings for Leeds v Newcastle",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "How Leeds United and Newcastle United's players rated following their Premier League match.",
+    "published_at": "2026-09-14T20:54:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
    },
    {
-    "title": "Podcast: Tesla Semi, mixed bag of EV sales, Chinese EVs in the US, and more",
-    "url": "https://electrek.co/2026/09/11/podcast-tesla-semi-mixed-bag-of-ev-sales-chinese-evs-in-the-us-and-more/",
-    "source": "Electrek",
-    "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Semi launch in Europe, mixed bag of EV sales, Chinese EVs in the US, and more. more…",
-    "published_at": "2026-09-11T19:40:59+00:00",
+    "title": "Calvert-Lewin shows the way as Leeds thrash limp Newcastle and rise to third",
+    "url": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "Leeds United’s magnificent start to the Premier League season continued with a statement victory over an appalling Newcastle United to move the Whites up to third in the table and offer further evidence a European push may not be beyond them this season. After one of the most eye-­catching performances of the season so far, Leeds humiliated Newcastle on a night where Matthias Jassle was given a st",
+    "published_at": "2026-09-14T21:07:08+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -2917,99 +3001,6 @@
     "published_at": "2026-09-14T15:01:28+00:00",
     "source_countries": [],
     "seen_at": "2026-09-14T15:27:16+00:00"
-   }
-  ]
- },
- {
-  "id": "0a00ea86dc7f",
-  "headline": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-  "section": "tech",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T17:16:59+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
-    "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-    "source": "The Verge",
-    "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. WordPress Executive Director Mary Hubbard confirmed Mullenweg's return to the CEO role in a Friday post on X, which the official WordPress account shared and […]",
-    "published_at": "2026-09-11T17:16:59+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-    "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-    "source": "Hacker News Best",
-    "summary": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49636283 Points: 451 # Comments: 360",
-    "published_at": "2026-09-09T23:49:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "23e53735586b",
-  "headline": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-  "section": "science",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-08T13:54:56+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-    "source": "ScienceDaily",
-    "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
-    "published_at": "2026-09-08T13:54:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
-    "published_at": "2026-09-08T13:54:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "Scientists discover a hidden problem with this popular sugar substitute",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of fructose in the liver, potentially triggering some of the same harmful metabolic effects linked to fructose.",
-    "published_at": "2026-09-06T15:44:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "80597bbda907",
-  "headline": "A Finnish Metal Detectorist Was Shocked to Unearth a Trove of Viking Age Silver in His Hometown. Then His Detector Went Off Again",
-  "section": "culture",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T19:14:36+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "A Finnish Metal Detectorist Was Shocked to Unearth a Trove of Viking Age Silver in His Hometown. Then His Detector Went Off Again",
-    "url": "https://www.smithsonianmag.com/smart-news/a-finnish-metal-detectorist-was-shocked-to-unearth-a-trove-of-viking-age-silver-in-his-hometown-then-his-detector-went-off-again-180989487/",
-    "source": "Smithsonian Mag",
-    "summary": "Weighing a combined ten pounds, the artifacts are estimated to be 1,000 years old and constitute Finland’s largest coin hoard of the era",
-    "published_at": "2026-09-11T19:14:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
    }
   ]
  },
@@ -3687,24 +3678,55 @@
   ]
  },
  {
-  "id": "0d444d4e751e",
-  "headline": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-  "section": "science",
-  "score": 38,
+  "id": "d3dde3fc961a",
+  "headline": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
+  "section": "world",
+  "score": 39,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T19:48:09+00:00",
+  "depth_signal": 8,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T08:44:44+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-    "source": "NASA",
-    "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
-    "published_at": "2026-09-11T19:48:09+00:00",
+    "title": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
+    "url": "https://www.theguardian.com/world/2026/sep/14/indonesian-police-deaths-of-australian-man-and-two-children-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Police in Bali believe the two young children died as a result of violence, while a 57-year-old man is believed to have taken his own life Indonesian police are investigating the deaths of three Australians who died in Bali over the weekend, with initial reports suggesting a father killed his two young children before taking his own life. The man, 57, and his two children, seven and four, who are ",
+    "published_at": "2026-09-14T08:44:44+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9f9bcb95fb90",
+  "headline": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+  "section": "ai",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T19:38:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+    "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+    "source": "Ars Technica",
+    "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+    "published_at": "2026-09-14T19:38:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+    "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+    "source": "Ars Technica AI",
+    "summary": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+    "published_at": "2026-09-14T19:38:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -4298,6 +4320,68 @@
   ]
  },
  {
+  "id": "7a5376041f13",
+  "headline": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+  "section": "business",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T18:41:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+    "source": "The Guardian World",
+    "summary": "Central bank chief says continent’s AI dependency could give trade partners unprecedented leverage in negotiations Europe must develop its own AI technology and build more datacentres in order to nullify the threat of being cut off by the US or China, according to the president of the European Central Bank. Christine Lagarde said the continent needed AI models – the technology that powers AI tools",
+    "published_at": "2026-09-14T18:41:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+    "source": "Guardian Business",
+    "summary": "Central bank chief says continent’s AI dependency could give trade partners unprecedented leverage in negotiations Europe must develop its own AI technology and build more datacentres in order to nullify the threat of being cut off by the US or China, according to the president of the European Central Bank. Christine Lagarde said the continent needed AI models – the technology that powers AI tools",
+    "published_at": "2026-09-14T18:41:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0b4285d3340b",
+  "headline": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+  "section": "ai",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T20:03:37+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "source": "The Verge",
+    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]",
+    "published_at": "2026-09-14T20:03:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "source": "The Verge AI",
+    "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]",
+    "published_at": "2026-09-14T20:03:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
   "id": "b23e1c4255d8",
   "headline": "Extended-interval tarlatamab dosing shows consistent activity and safety in previously treated small cell lung cancer",
   "section": "health",
@@ -4647,33 +4731,68 @@
   ]
  },
  {
-  "id": "bc7fdc500a76",
-  "headline": "Roundtables: Will AI really kill us all?",
-  "section": "ai",
-  "score": 36,
-  "sources_count": 2,
+  "id": "48af3e49db3b",
+  "headline": "Australia politics live: Hastie accuses Hanson of avoiding media; Anthony Albanese and King Charles speak",
+  "section": "world",
+  "score": 37,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T20:05:06+00:00",
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T21:02:39+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Roundtables: Will AI really kill us all?",
-    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "source": "MIT TR — AI",
-    "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
-    "published_at": "2026-09-11T20:05:06+00:00",
+    "title": "Australia politics live: Hastie accuses Hanson of avoiding media; Anthony Albanese and King Charles speak",
+    "url": "https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Good morning, Krishani Dhanji here with you. Thanks to Martin Farrer for getting us started. Migration will dominate parliament again today, after One Nation yesterday announced its policy to cut 750,000 temporary visas over three years – which the major parties said would send the country into a recession. Tha",
+    "published_at": "2026-09-14T21:02:39+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fd5dffa5494e",
+  "headline": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+  "section": "science",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T19:00:00+00:00",
+  "time_kind": "published",
+  "items": [
    {
-    "title": "Roundtables: Will AI really kill us all?",
-    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "source": "MIT Tech Review",
-    "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
-    "published_at": "2026-09-11T20:05:06+00:00",
+    "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+    "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
+    "source": "NASA",
+    "summary": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts. The six food-focused investigations, supported by the agency’s Space […]",
+    "published_at": "2026-09-14T19:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f57d1c84b5d1",
+  "headline": "Unsealed for the First Time in 600 Years, This Tomb in Peru Was Just Declared the 'Discovery of the Decade'",
+  "section": "culture",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T19:05:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Unsealed for the First Time in 600 Years, This Tomb in Peru Was Just Declared the 'Discovery of the Decade'",
+    "url": "https://www.smithsonianmag.com/smart-news/unsealed-for-the-first-time-in-600-years-this-tomb-in-peru-was-just-declared-the-discovery-of-the-decade-180989497/",
+    "source": "Smithsonian Mag",
+    "summary": "Archaeologists excavating Chan Chan, the capital of the pre-Inca Chimú civilization, found an undisturbed mausoleum that held the remains of at least 38 individuals, as well as a trove of rich funerary goods",
+    "published_at": "2026-09-14T19:05:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -5155,24 +5274,33 @@
   ]
  },
  {
-  "id": "9efdb27803ac",
-  "headline": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
+  "id": "0ae42235b746",
+  "headline": "AI leaders want to hit the brakes after years of reckless speed",
+  "section": "tech",
+  "score": 36,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T21:03:27+00:00",
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T19:06:13+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-    "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-    "source": "Schneier on Security",
-    "summary": "Smells awful : But an estimated 30 to 50 tons of dead squid remain inside the boat’s catch tank, where they have been decomposing for days. “That is nasty. I wouldn’t want to do that,” said commercial fisherman Dick Ogg of the Bodega Bay Fishermen’s Marketing Association. Ogg said anyone familiar with the fishing industry understands what happens when a large catch sits for an extended period. “If",
-    "published_at": "2026-09-11T21:03:27+00:00",
+    "title": "AI leaders want to hit the brakes after years of reckless speed",
+    "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "source": "Ars Technica",
+    "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+    "published_at": "2026-09-14T19:06:13+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   },
+   {
+    "title": "AI leaders want to hit the brakes after years of reckless speed",
+    "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "source": "Ars Technica AI",
+    "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+    "published_at": "2026-09-14T19:06:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -5979,121 +6107,24 @@
   ]
  },
  {
-  "id": "ccfd05f69c6f",
-  "headline": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-  "section": "tech",
-  "score": 34,
+  "id": "65cd35287a91",
+  "headline": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+  "section": "safety",
+  "score": 35,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T21:19:05+00:00",
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T17:58:16+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-    "source": "TechCrunch",
-    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-    "published_at": "2026-09-11T21:19:05+00:00",
+    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+    "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+    "source": "The Hacker News",
+    "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
+    "published_at": "2026-09-14T17:58:16+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "c9bc20e4988d",
-  "headline": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-  "section": "tech",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T20:33:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-    "published_at": "2026-09-11T20:33:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   },
-   {
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-    "source": "TechCrunch",
-    "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-    "published_at": "2026-09-11T20:30:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "0088fe2058d5",
-  "headline": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T20:30:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
-    "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy",
-    "source": "Guardian Culture",
-    "summary": "Toronto film festival: Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut drama Erin Doherty and James McAvoy both bring their A-game in this startling, involving movie from British writer-director Paul Andrew Williams, whose productivity and creativity continue to be an industry tonic. It’s an eerie mystery drama that Doherty a",
-    "published_at": "2026-09-11T20:30:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "8084e182f919",
-  "headline": "River review – so-so survival slasher offers more of the same and little else",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T18:08:05+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "River review – so-so survival slasher offers more of the same and little else",
-    "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review",
-    "source": "Guardian Culture",
-    "summary": "Toronto film festival: strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror It would be unwise and unfair to expect that Toronto’s genre-led Midnight Madness strand would open with quite the same jolt as it did last year with the record-breaking horror hit Obsession . That film was an outlier in almost e",
-    "published_at": "2026-09-11T18:08:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "7c26326c8be9",
-  "headline": "100 years after John Coltrane’s birth, secret tapes are emerging. What can they tell us about jazz’s great rulebreaker?",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T07:00:03+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "100 years after John Coltrane’s birth, secret tapes are emerging. What can they tell us about jazz’s great rulebreaker?",
-    "url": "https://www.theguardian.com/music/2026/sep/11/100-years-after-john-coltranes-birth-secret-tapes-are-emerging-what-can-they-tell-us-about-jazzs-great-rulebreaker",
-    "source": "Guardian Culture",
-    "summary": "The sax star turned his back on fame to embrace free jazz. Caught on a tape machine hidden in an overcoat, newly revealed recordings show how he did it In August 1965, at the height of his fame, saxophonist John Coltrane headlined the DownBeat jazz festival in Chicago. Taking to the stage with a new member of his band, young experimentalist Archie Shepp on tenor, Coltrane’s quartet blew through a ",
-    "published_at": "2026-09-11T07:00:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -7380,156 +7411,24 @@
   ]
  },
  {
-  "id": "03dfc591c795",
-  "headline": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-09T18:20:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",
-    "url": "https://www.theguardian.com/world/2026/sep/09/uganda-withdraws-invictus-games-out-of-respect-king-charles",
-    "source": "The Guardian World",
-    "summary": "Gen Muhoozi Kainerugaba announces decision to pull out in post on X, citing tensions over ‘Harry-Meghan nonsense’ Uganda is withdrawing from the Duke of Sussex’s Invictus Games, the country’s military chief has said, out of respect for King Charles amid division over the “Harry-Meghan nonsense”. Gen Muhoozi Kainerugaba, son of the Ugandan president, made the surprise announcement in a post on X on",
-    "published_at": "2026-09-09T18:20:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "e1545db42b16",
-  "headline": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-  "section": "tech",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T18:58:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-    "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-    "source": "TechCrunch",
-    "summary": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
-    "published_at": "2026-09-11T18:58:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "93f355629466",
-  "headline": "NSF moves to overhaul funding approach in line with White House priorities",
-  "section": "science",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "NSF moves to overhaul funding approach in line with White House priorities",
-    "url": "https://www.nature.com/articles/d41586-026-02892-9",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02892-9 The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.",
-    "published_at": "2026-09-11T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "dac77a638b12",
-  "headline": "Assisted dying: How laws differ around the world",
-  "section": "health",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T13:46:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Assisted dying: How laws differ around the world",
-    "url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "About 400 million people have access to some form of assisted dying - what are the policies of other countries?",
-    "published_at": "2026-09-11T13:46:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "ea19546c3174",
-  "headline": "The best Christmas travel gifts: 38 presents for explorers and armchair travellers",
-  "section": "travel",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2024-12-09T07:00:15+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The best Christmas travel gifts: 38 presents for explorers and armchair travellers",
-    "url": "https://www.theguardian.com/lifeandstyle/2024/dec/09/best-travel-gifts-presents-christmas",
-    "source": "Guardian Travel",
-    "summary": "From maps and kit to travel-themed treats and accessories, here are fun present ideas for the wanderlusters in your life Not sure what to get friends and family for Christmas? Fear not, we have plenty of ideas for a last-minute present. Our carefully chosen selection of travel-inspired gifts ranges from the practical to the indulgent, with great books for the armchair traveller and outdoor gear fo",
-    "published_at": "2024-12-09T07:00:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "c1c988556190",
-  "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-  "section": "ai",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-08-13T17:16:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "source": "Hugging Face",
-    "summary": "",
-    "published_at": "2026-08-13T17:16:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
-   }
-  ]
- },
- {
-  "id": "c22ddbfe304e",
-  "headline": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+  "id": "aac51e2de393",
+  "headline": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
   "section": "safety",
-  "score": 33,
+  "score": 34,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-11T21:22:17+00:00",
-  "event_time": "2026-09-11T20:19:09+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T18:01:49+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-    "source": "BleepingComputer",
-    "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-    "published_at": "2026-09-11T20:19:09+00:00",
+    "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+    "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+    "source": "The Hacker News",
+    "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of",
+    "published_at": "2026-09-14T18:01:49+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-11T21:22:14+00:00"
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  },
@@ -8461,6 +8360,116 @@
     "published_at": "2026-09-11T16:15:29+00:00",
     "source_countries": [],
     "seen_at": "2026-09-14T18:29:47+00:00"
+   }
+  ]
+ },
+ {
+  "id": "94b32db9b2dd",
+  "headline": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-10T20:35:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+    "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+    "source": "The Guardian World",
+    "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian community Canada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by Volodymyr Zelenskyy. Mark Carney hosted the president of Ukraine in Calgary in the western province of Alberta, where the C",
+    "published_at": "2026-09-10T20:35:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1e0ebbd813a5",
+  "headline": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T18:45:21+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "10 years after taking a knee, Colin Kaepernick is still waging a 'Perilous Fight'",
+    "url": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+    "source": "NPR News",
+    "summary": "The former 49ers quarterback created an uproar in 2016 when took a knee during the national anthem to protest police brutality. In The Perilous Fight he explains why he still wants to play football.",
+    "published_at": "2026-09-14T18:45:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "60e60bb82d2c",
+  "headline": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-08-26T23:03:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+    "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+    "published_at": "2026-08-26T23:03:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5d5c1f09b66f",
+  "headline": "The Guardian view on Reform UK: crypto billionaires must be stopped from undermining democracy | Editorial",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-09-14T18:13:14+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Guardian view on Reform UK: crypto billionaires must be stopped from undermining democracy | Editorial",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/14/the-guardian-view-on-reform-uk-crypto-billionaires-must-be-stopped-from-undermining-democracy",
+    "source": "Guardian Business",
+    "summary": "The vast sums given to Nigel Farage’s party in recent days must lead to action on political funding The staggering sums gifted to Reform UK over the weekend have transformed the context for the representation of the people bill making its way through parliament. The announcement of two £36m donations from Ben Delo and Christopher Harborne, both crypto billionaires who have lived abroad, makes Andy",
+    "published_at": "2026-09-14T18:13:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
+   }
+  ]
+ },
+ {
+  "id": "32dd0403bc80",
+  "headline": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+  "section": "science",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-14T21:22:36+00:00",
+  "event_time": "2026-04-11T23:17:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+    "url": "https://www.bbc.co.uk/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
+    "published_at": "2026-04-11T23:17:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-14T21:22:33+00:00"
    }
   ]
  }

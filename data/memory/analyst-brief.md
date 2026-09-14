@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-14
 
-Paměť obsahuje **96 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **97 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **96 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 34 dní · 54 záznamů
+- rubrika `world` · sledováno 34 dní · 55 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) Trump tells Putin he wants swift end to Ukraine war, Kremlin says
   - **2026-09-08** (2 zdrojů) US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
   - **2026-09-09** (2 zdrojů) Ukraine, Russia trade drone strikes, killing 6
   - **2026-09-09** (2 zdrojů) Russia and Ukraine exchange strikes as two killed at Moldova border
@@ -33,6 +32,7 @@ Paměť obsahuje **96 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-10** (2 zdrojů) Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
   - **2026-09-13** (2 zdrojů) Ukraine, Poland say Russia hit Warsaw-bound passenger train
   - **2026-09-14** (2 zdrojů) Ukraine, Russia set for new round of US-mediated talks
+  - **2026-09-14** (2 zdrojů) Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
