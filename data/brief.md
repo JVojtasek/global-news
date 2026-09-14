@@ -66,25 +66,28 @@
     <https://www.france24.com/en/video/20260914-as-yemen-conflict-intensifies-iran-the-winner>
     > The conflict in Yemen intensified on Sunday, as government forces launched attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fired into neighboring Saudi Arabia, which supports Yemen’s government. It comes after Houthis captured the port city of Mokha and an
 
-### 4. 'Today the game was unprotected' - Arteta fumes but Arsenal survive
-- id události: `c4c1762a2a31`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
+### 4. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
+- id události: `af58aea1ebf5`  ·  rubrika: `tech`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — 'Today the game was unprotected' - Arteta fumes but Arsenal survive
-    <https://www.bbc.co.uk/sport/football/articles/c5ym4384rezo?at_medium=RSS&at_campaign=rss>
-    > Arsenal produced a gritty 2-0 win against Sunderland, but Mikel Arteta fumed about the penalty that could have cost his side a result.
-  - **BBC Sport** — Arsenal hold off energetic Sunderland to continue perfect title defence
-    <https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&at_campaign=rss>
-    > Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the result beyond doubt.
-  - **Al Jazeera** — Arteta seethes at Sunderland penalty decision despite Arsenal win
-    <https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss>
-    > Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.
-  - **Guardian Sport** — Mikel Arteta says penalty given to Sunderland ‘unacceptable at this level’
-    <https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable>
-    > Arsenal manager angry: ‘This can never be a penalty’ ‘It’s a judo roll from the opponent. Ezri does nothing’ Mikel Arteta’s delight at Arsenal’s latest win was tempered by his fury with the referee John Brooks as the champions triumphed 2-0 at Sunderland on Saturday night. Before
-  - **Guardian Sport** — Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save
-    <https://www.theguardian.com/football/2026/sep/12/sunderland-arsenal-premier-league-match-report>
-    > As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemished. Two minutes after David Raya had rather majestically saved Le Fée’s second-half penalty, Guimarães delighted
+  - **BBC Technology** — Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
+    <https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss>
+    > The BBC's Tom Gerken is hands-on with the latest virtual reality headset.
+  - **Ars Technica** — Steam Frame: The Ars Technica review
+    <https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/>
+    > Valve's new $1,049 VR hardware tries to revive an abandoned VR "revolution."
+  - **The Verge** — The Steam Frame is made for irresponsible hardware nerds like me
+    <https://www.theverge.com/tech/994267/steam-frame-review>
+    > For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as m
+  - **The Verge** — Valve’s Steam Frame costs $1,059
+    <https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date>
+    > Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of 
+  - **The Verge** — Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame
+    <https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port>
+    > Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every Steam Frame comes wi
+  - **The Verge** — I reviewed Valve’s Steam Frame, ask me anything
+    <https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered>
+    > Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4P
 
 ---
 
