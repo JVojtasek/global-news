@@ -1204,6 +1204,97 @@
    ]
   },
   {
+   "id": "9739585c4084",
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "section": "world",
+   "entities": [
+    "supreme",
+    "court",
+    "trump's",
+    "verizon"
+   ],
+   "event_ids": [
+    "9739585c4084",
+    "bead7cd93cfe",
+    "be7b7e3d8994",
+    "246b3636a67b",
+    "ca9a582da53c",
+    "a957e56e03fd"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-09-15",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9739585c4084",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "sources": 3,
+     "score": 56,
+     "event_id": "bead7cd93cfe",
+     "links": [
+      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be7b7e3d8994",
+     "links": [
+      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
+     "sources": 2,
+     "score": 43,
+     "event_id": "246b3636a67b",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
+      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ca9a582da53c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a957e56e03fd",
+     "links": [
+      "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "7da4e07716c7",
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
@@ -1280,85 +1371,6 @@
       "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
       "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
       "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9739585c4084",
-   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-   "section": "world",
-   "entities": [
-    "supreme",
-    "court",
-    "trump's",
-    "verizon"
-   ],
-   "event_ids": [
-    "9739585c4084",
-    "bead7cd93cfe",
-    "be7b7e3d8994",
-    "246b3636a67b",
-    "ca9a582da53c"
-   ],
-   "first_seen": "2026-08-17",
-   "last_seen": "2026-09-15",
-   "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9739585c4084",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "sources": 3,
-     "score": 56,
-     "event_id": "bead7cd93cfe",
-     "links": [
-      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be7b7e3d8994",
-     "links": [
-      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
-     "sources": 2,
-     "score": 43,
-     "event_id": "246b3636a67b",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ca9a582da53c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
      ]
     }
    ]
@@ -8743,5 +8755,5 @@
    ]
   }
  ],
- "updated": "2026-09-15T09:32:30+00:00"
+ "updated": "2026-09-15T12:36:23+00:00"
 }
