@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-14
+# ANALYTICKÉ ZADÁNÍ — 2026-09-15
 
-Paměť obsahuje **97 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **97 vláken**. Aktivních za posledních 14 dní: **39**.
 
 ---
 
@@ -37,9 +37,8 @@ Paměť obsahuje **97 vláken**. Aktivních za posledních 14 dní: **43**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 27 dní · 52 záznamů
+- rubrika `sport` · sledováno 28 dní · 53 záznamů
 - časová osa:
-  - **2026-09-09** (2 zdrojů) Napoli v Arsenal: Champions League – live
   - **2026-09-10** (2 zdrojů) ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
   - **2026-09-10** (3 zdrojů) Europe's next great coach? How Fabregas led Como into Champions League
   - **2026-09-10** (2 zdrojů) Manchester United v Sabah: Champions League – live
@@ -49,6 +48,7 @@ Paměť obsahuje **97 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-12** (2 zdrojů) Manchester United vs Man City: Premier League – predictions, teams, lineups
   - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
   - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
+  - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 32 dní · 38 záznamů
@@ -80,16 +80,16 @@ Paměť obsahuje **97 vláken**. Aktivních za posledních 14 dní: **43**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
-### Dolly Parton, one of country music's most singular performers, has died at age 80
-- rubrika `culture` · sledováno 20 dní · 18 záznamů
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 36 dní · 18 záznamů
 - časová osa:
-  - **2026-08-28** (2 zdrojů) This week's quiz includes two Dolly Parton questions, because she deserves it
-  - **2026-08-28** (3 zdrojů) Briefing Chat: How Dolly Parton left her mark on science
-  - **2026-08-28** (2 zdrojů) Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan
-  - **2026-08-29** (3 zdrojů) How America celebrated and mourned Dolly Parton, in Nashville and beyond
-  - **2026-08-31** (2 zdrojů) Dolly Parton laid to rest alongside husband in Nashville
-  - **2026-08-31** (1 zdrojů) For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief
-  - **2026-09-01** (3 zdrojů) Festival honouring Dolly Parton set for Nashville and London
-  - **2026-09-04** (1 zdrojů) Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History
-  - **2026-09-11** (1 zdrojů) For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah
-  - **2026-09-14** (1 zdrojů) Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives
+  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
+  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
+  - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
+  - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
+  - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
+  - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC
+  - **2026-09-03** (5 zdrojů) Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
+  - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
+  - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims
+  - **2026-09-15** (2 zdrojů) Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’
