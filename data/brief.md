@@ -143,13 +143,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 55  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 56  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 55
-  2026-09-04  (2 zdrojů, síla 44)  Europe targeted in summer campaign of sabotage and Russia is the chief suspect
+rubrika: world · sledováno od 2026-08-11 · záznamů: 56
   2026-09-04  (3 zdrojů, síla 55)  Russia strikes Ukraine intelligence HQ in ‘major escalation’
   2026-09-05  (2 zdrojů, síla 42)  Trump sends envoys to Russia, Ukraine with new peace plan
   2026-09-05  (5 zdrojů, síla 74)  US envoys arrive in Moscow ahead of Ukraine talks
@@ -169,6 +168,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 55
   2026-09-13  (2 zdrojů, síla 43)  Ukraine, Poland say Russia hit Warsaw-bound passenger train
   2026-09-14  (2 zdrojů, síla 42)  Ukraine, Russia set for new round of US-mediated talks
   2026-09-14  (2 zdrojů, síla 44)  Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
+  2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
 ```
 
 ---

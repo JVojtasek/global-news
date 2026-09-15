@@ -21,9 +21,8 @@ Paměť obsahuje **99 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 34 dní · 55 záznamů
+- rubrika `world` · sledováno 35 dní · 56 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
   - **2026-09-09** (2 zdrojů) Ukraine, Russia trade drone strikes, killing 6
   - **2026-09-09** (2 zdrojů) Russia and Ukraine exchange strikes as two killed at Moldova border
   - **2026-09-09** (2 zdrojů) Ukraine federation calls for Russian sanctions by FIA
@@ -33,6 +32,7 @@ Paměť obsahuje **99 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-13** (2 zdrojů) Ukraine, Poland say Russia hit Warsaw-bound passenger train
   - **2026-09-14** (2 zdrojů) Ukraine, Russia set for new round of US-mediated talks
   - **2026-09-14** (2 zdrojů) Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
+  - **2026-09-15** (1 zdrojů) These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
@@ -65,9 +65,8 @@ Paměť obsahuje **99 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 36 dní · 20 záznamů
+- rubrika `world` · sledováno 37 dní · 21 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) Houthis strike Saudi Arabian cities in significant expansion of Middle East war
   - **2026-09-08** (3 zdrojů) Saudi Arabia vows to respond after Houthis attack cities and energy facilities
   - **2026-09-08** (2 zdrojů) Israel to close British consulate in Jerusalem after sanctions announced
   - **2026-09-09** (2 zdrojů) Oil prices rise as Middle East conflict escalates
@@ -77,6 +76,7 @@ Paměť obsahuje **99 vláken**. Aktivních za posledních 14 dní: **40**.
   - **2026-09-12** (4 zdrojů) Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
   - **2026-09-12** (2 zdrojů) Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea
   - **2026-09-14** (3 zdrojů) Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
+  - **2026-09-15** (2 zdrojů) Saudi Arabia faces hard choices as Houthis gain in Yemen
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
