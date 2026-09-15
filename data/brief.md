@@ -29,27 +29,7 @@
     <https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton>
     > No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton. He had been outserved and outplayed for nearly three hours, but at 6-5 in the third set, one game from defeat, the
 
-### 2. Anthropic boss Dario Amodei calls for AI development to slow down
-- id události: `4a1f65fbb798`  ·  rubrika: `tech`  ·  skóre: 69  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Anthropic boss Dario Amodei calls for AI development to slow down
-    <https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss>
-    > The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
-  - **BBC Technology** — Anthropic boss Dario Amodei calls for AI development to slow down
-    <https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss>
-    > The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
-  - **Guardian Business** — ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
-    <https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown>
-    > In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systems The CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that
-  - **TechCrunch** — Anthropic CEO outlines plan to ‘pace the frontier’
-    <https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/>
-    > What would it actually look like to "pace the frontier"?
-  - **Hacker News Best** — We must pace the frontier
-    <https://darioamodei.com/post/we-must-pace-the-frontier>
-    > Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 196 # Comments: 266
-
-### 3. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+### 2. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
 - id události: `c7dc7c1ccb05`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -66,7 +46,7 @@
     <https://www.france24.com/en/video/20260914-as-yemen-conflict-intensifies-iran-the-winner>
     > The conflict in Yemen intensified on Sunday, as government forces launched attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fired into neighboring Saudi Arabia, which supports Yemen’s government. It comes after Houthis captured the port city of Mokha and an
 
-### 4. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
+### 3. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
 - id události: `af58aea1ebf5`  ·  rubrika: `tech`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -88,6 +68,26 @@
   - **The Verge** — I reviewed Valve’s Steam Frame, ask me anything
     <https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered>
     > Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4P
+
+### 4. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
+- id události: `9c657c0b5de7`  ·  rubrika: `culture`  ·  skóre: 66  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
+    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
+    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
+  - **Guardian Culture** — Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments
+    <https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment>
+    > English singer outlined his position after US stadium owners refused to let rapper perform after political speech Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech Singer Ed Sheeran has responded to the backlash over the removal of Macklemore from his Nor
+  - **BBC Entertainment** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
+    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
+    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
+  - **BBC Entertainment** — Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech
+    <https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss>
+    > The US rapper was condemned by Jewish groups after making comments criticising Israel.
+  - **France 24** — Macklemore taken off Ed Sheeran's US tour
+    <http://www.france24.com/en/video/20260915-macklemore-taken-off-ed-sheeran-s-us-tour>
+    > 🎤 American rapper Macklemore has been removed as the opening act for British singer-songwriter Ed Sheeran's US tour after the former made statements supporting his pro-Palestine stance on stage. The Grammy-winning-artist has been vocal about his position over the past few years, 
 
 ---
 
@@ -143,13 +143,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 56  ·  **depth: `open`**
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 57  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 56
-  2026-09-04  (3 zdrojů, síla 55)  Russia strikes Ukraine intelligence HQ in ‘major escalation’
+rubrika: world · sledováno od 2026-08-11 · záznamů: 57
   2026-09-05  (2 zdrojů, síla 42)  Trump sends envoys to Russia, Ukraine with new peace plan
   2026-09-05  (5 zdrojů, síla 74)  US envoys arrive in Moscow ahead of Ukraine talks
   2026-09-06  (2 zdrojů, síla 48)  Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
@@ -169,6 +168,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 56
   2026-09-14  (2 zdrojů, síla 42)  Ukraine, Russia set for new round of US-mediated talks
   2026-09-14  (2 zdrojů, síla 44)  Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
   2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
+  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
 ```
 
 ---

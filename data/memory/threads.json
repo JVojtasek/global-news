@@ -5,46 +5,46 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "zelenskyy",
-    "burnham",
-    "adult",
-    "made",
-    "holding",
-    "belgorod",
-    "ukraine",
-    "discovered",
-    "peace",
-    "four",
-    "trump",
-    "bessent",
-    "germany",
-    "korean",
-    "ever",
-    "witkoff",
     "masha",
-    "bear",
+    "united",
+    "dinosaur",
+    "us-mediated",
+    "germany",
+    "made",
+    "bessent",
     "amnesty",
     "wildberries",
-    "zelensky",
-    "represent",
     "kremlin",
+    "upgrade",
+    "witkoff",
     "moscow",
-    "overnight",
-    "korea",
-    "warsaw-bound",
-    "footprints",
-    "dakota",
-    "moldova",
-    "atacms",
-    "trackway",
-    "north",
-    "dinosaur",
+    "charts",
+    "size",
+    "true",
     "orthodox",
-    "putin",
-    "might",
-    "leipzig",
+    "dakota",
+    "represent",
+    "discovered",
+    "overnight",
+    "peace",
+    "bear",
+    "moldova",
+    "votes",
+    "africa's",
+    "burnham",
+    "global",
+    "zelensky",
+    "trump",
     "giant",
-    "us-mediated"
+    "endorse",
+    "maps",
+    "holding",
+    "better",
+    "soon",
+    "leipzig",
+    "footprints",
+    "ukraine",
+    "belgorod"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -102,7 +102,8 @@
     "f8f4c0519578",
     "41ba2789c7b7",
     "e5df37640573",
-    "8bb5b1b19b13"
+    "8bb5b1b19b13",
+    "e7a9dea91cdc"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-15",
@@ -731,6 +732,16 @@
      "event_id": "8bb5b1b19b13",
      "links": [
       "https://www.smithsonianmag.com/smart-news/these-four-giant-dinosaur-footprints-discovered-in-north-dakota-might-represent-the-first-trackway-made-by-an-adult-t-rex-ever-found-180989481/"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size",
+     "sources": 1,
+     "score": 44,
+     "event_id": "e7a9dea91cdc",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/world-maps-might-soon-get-an-upgrade-the-united-nationas-votes-to-endorse-global-charts-that-better-represent-africas-true-size-180989495/"
      ]
     }
    ]
@@ -1463,30 +1474,30 @@
    "section": "world",
    "entities": [
     "arabian",
-    "gaza",
-    "british",
-    "east",
-    "israel",
-    "netanyahu",
-    "peace",
-    "trump",
-    "taher",
-    "board",
-    "hezbollah",
-    "houthis",
-    "kushner",
-    "saudi",
-    "lebanon",
-    "iraq",
-    "yemen",
-    "jared",
-    "trump's",
-    "middle",
-    "arabia",
-    "east-west",
     "israeli",
+    "lebanon",
+    "trump's",
+    "trump",
+    "hezbollah",
+    "israel",
+    "east",
+    "taher",
+    "houthis",
+    "gaza",
+    "board",
+    "netanyahu",
+    "hamas",
+    "jared",
+    "east-west",
+    "kushner",
+    "peace",
+    "arabia",
+    "middle",
+    "british",
+    "iraq",
     "jerusalem",
-    "hamas"
+    "yemen",
+    "saudi"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -1509,7 +1520,9 @@
     "dbb34488a1b8",
     "1f7b444d993c",
     "d85187b311c3",
-    "c5c795b9e1b1"
+    "c5c795b9e1b1",
+    "84d31eadb0fe",
+    "3ac801265aa0"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-15",
@@ -1752,6 +1765,28 @@
       "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
+     "sources": 2,
+     "score": 42,
+     "event_id": "84d31eadb0fe",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
+      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3ac801265aa0",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
+      "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
      ]
     }
    ]
@@ -2333,19 +2368,20 @@
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
-    "china",
+    "iran",
     "pentagon",
     "hegseth",
+    "trump",
     "november",
-    "iran",
-    "trump"
+    "china"
    ],
    "event_ids": [
     "7da4e07716c7",
     "7d0d4d3f6bdb",
     "9ba97aff3e7d",
     "685eb5ef4b77",
-    "dc98be3509f8"
+    "dc98be3509f8",
+    "83c9ff637cd4"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-09-15",
@@ -2406,6 +2442,117 @@
       "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
       "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
      ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "48a7d81e65e9",
+   "title": "Kennedy Center board approves Trump name on facade, renovation plan",
+   "section": "world",
+   "entities": [
+    "trump's",
+    "trump",
+    "sept",
+    "center",
+    "judge",
+    "kennedy"
+   ],
+   "event_ids": [
+    "48a7d81e65e9",
+    "29028ab379ac",
+    "ee1cf2c81835"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-09-15",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "Kennedy Center board approves Trump name on facade, renovation plan",
+     "sources": 4,
+     "score": 69,
+     "event_id": "48a7d81e65e9",
+     "links": [
+      "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+      "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29028ab379ac",
+     "links": [
+      "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+      "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Judge blocks plan to return Trump's name to the Kennedy Center",
+     "sources": 2,
+     "score": 52,
+     "event_id": "ee1cf2c81835",
+     "links": [
+      "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name",
+      "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+      "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9c657c0b5de7",
+   "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+   "section": "culture",
+   "entities": [
+    "sheeran",
+    "free",
+    "palestine",
+    "macklemore"
+   ],
+   "event_ids": [
+    "9c657c0b5de7",
+    "333dee9030f8"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+     "sources": 4,
+     "score": 66,
+     "event_id": "9c657c0b5de7",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
+      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+     "sources": 3,
+     "score": 50,
+     "event_id": "333dee9030f8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
+      "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -2462,6 +2609,34 @@
       "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
       "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
       "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1581102dd4e0",
+   "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+   "section": "science",
+   "entities": [
+    "earth's",
+    "warning"
+   ],
+   "event_ids": [
+    "1581102dd4e0"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-15",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Warning of space arms race as US confirms weapons in Earth's orbit",
+     "sources": 4,
+     "score": 64,
+     "event_id": "1581102dd4e0",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6z0zp3dvpnjo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -8026,49 +8201,6 @@
    ]
   },
   {
-   "id": "48a7d81e65e9",
-   "title": "Kennedy Center board approves Trump name on facade, renovation plan",
-   "section": "world",
-   "entities": [
-    "sept",
-    "center",
-    "trump",
-    "trump's",
-    "kennedy"
-   ],
-   "event_ids": [
-    "48a7d81e65e9",
-    "29028ab379ac"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-08-19",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "Kennedy Center board approves Trump name on facade, renovation plan",
-     "sources": 4,
-     "score": 69,
-     "event_id": "48a7d81e65e9",
-     "links": [
-      "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-      "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-     "sources": 2,
-     "score": 44,
-     "event_id": "29028ab379ac",
-     "links": [
-      "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-      "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "94761ad38bf7",
    "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
    "section": "tech",
@@ -8780,5 +8912,5 @@
    ]
   }
  ],
- "updated": "2026-09-15T15:25:34+00:00"
+ "updated": "2026-09-15T18:28:35+00:00"
 }
