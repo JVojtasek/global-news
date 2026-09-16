@@ -418,6 +418,104 @@
    ]
   },
   {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "saudi",
+    "pakistan",
+    "turkey",
+    "yemen",
+    "houthis",
+    "mecca",
+    "houthi",
+    "arabia"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace",
+    "86a5852bfef5",
+    "d4796b695f31",
+    "5308710e525c",
+    "180951c60255"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-16",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d16d38017cfe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "sources": 3,
+     "score": 54,
+     "event_id": "b203d9b44ace",
+     "links": [
+      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+     "sources": 3,
+     "score": 62,
+     "event_id": "86a5852bfef5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5308710e525c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+     "sources": 3,
+     "score": 56,
+     "event_id": "180951c60255",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "48a7d81e65e9",
    "title": "Kennedy Center board approves Trump name on facade, renovation plan",
    "section": "world",
@@ -494,90 +592,6 @@
      "links": [
       "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
       "http://www.france24.com/en/americas/20260915-trump-threatens-to-not-reopen-kennedy-center-after-board-blocks-renaming"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "section": "world",
-   "entities": [
-    "mecca",
-    "arabia",
-    "pakistan",
-    "houthi",
-    "saudi",
-    "houthis",
-    "turkey"
-   ],
-   "event_ids": [
-    "d16d38017cfe",
-    "b203d9b44ace",
-    "86a5852bfef5",
-    "d4796b695f31",
-    "5308710e525c"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-     "sources": 3,
-     "score": 54,
-     "event_id": "b203d9b44ace",
-     "links": [
-      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4796b695f31",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5308710e525c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
      ]
     }
    ]
@@ -706,16 +720,73 @@
    ]
   },
   {
+   "id": "9c657c0b5de7",
+   "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+   "section": "culture",
+   "entities": [
+    "palestine",
+    "sheeran",
+    "macklemore",
+    "free"
+   ],
+   "event_ids": [
+    "9c657c0b5de7",
+    "333dee9030f8",
+    "1e8a35761439"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-16",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+     "sources": 4,
+     "score": 66,
+     "event_id": "9c657c0b5de7",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
+      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+     "sources": 3,
+     "score": 50,
+     "event_id": "333dee9030f8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
+      "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Ed Sheeran: All supporting acts quit tour over Macklemore Palestine controversy",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1e8a35761439",
+     "links": [
+      "http://www.france24.com/en/video/20260916-ed-sheeran-all-supporting-acts-quit-tour-over-macklemore-palestine-controversy",
+      "https://www.aljazeera.com/news/2026/9/16/the-artists-who-pulled-out-of-ed-sheerans-tour-over-palestine?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "3bd82fdf31ce",
    "title": "Von der Leyen eyes Canada as EU's first 'associate member'",
    "section": "world",
    "entities": [
+    "eu's",
     "leyen",
-    "canada",
-    "eu's"
+    "eu-us",
+    "canada"
    ],
    "event_ids": [
-    "3bd82fdf31ce"
+    "3bd82fdf31ce",
+    "78feabf11709"
    ],
    "first_seen": "2026-09-16",
    "last_seen": "2026-09-16",
@@ -730,6 +801,17 @@
       "https://www.dw.com/en/von-der-leyen-eyes-canada-as-eu-s-first-associate-member/a-79286148?maca=en-rss-en-all-1573-rdf",
       "https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates",
       "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Von der Leyen pitches 'associate member' status for Canada: What does it mean for EU-US ties?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "78feabf11709",
+     "links": [
+      "http://www.france24.com/en/video/20260916-von-der-leyen-pitches-associate-member-status-for-canada-what-does-it-mean-for-eu-us-ties",
+      "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss"
      ]
     }
    ]
@@ -2965,49 +3047,6 @@
      "links": [
       "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
       "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9c657c0b5de7",
-   "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-   "section": "culture",
-   "entities": [
-    "sheeran",
-    "free",
-    "palestine",
-    "macklemore"
-   ],
-   "event_ids": [
-    "9c657c0b5de7",
-    "333dee9030f8"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-09-15",
-   "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-     "sources": 4,
-     "score": 66,
-     "event_id": "9c657c0b5de7",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
-      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-     "sources": 3,
-     "score": 50,
-     "event_id": "333dee9030f8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
-      "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss"
      ]
     }
    ]
@@ -9115,5 +9154,5 @@
    ]
   }
  ],
- "updated": "2026-09-16T12:37:00+00:00"
+ "updated": "2026-09-16T15:25:21+00:00"
 }
