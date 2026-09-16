@@ -432,17 +432,19 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "pakistan",
-    "houthi",
     "saudi",
-    "mecca",
     "arabia",
+    "houthi",
+    "mecca",
+    "pakistan",
+    "houthis",
     "turkey"
    ],
    "event_ids": [
     "d16d38017cfe",
     "b203d9b44ace",
-    "86a5852bfef5"
+    "86a5852bfef5",
+    "d4796b695f31"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-16",
@@ -481,6 +483,17 @@
       "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
       "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
       "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
      ]
     }
    ]
@@ -9005,5 +9018,5 @@
    ]
   }
  ],
- "updated": "2026-09-16T03:30:34+00:00"
+ "updated": "2026-09-16T06:41:19+00:00"
 }
