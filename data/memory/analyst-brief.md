@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-15
+# ANALYTICKÉ ZADÁNÍ — 2026-09-16
 
 Paměť obsahuje **101 vláken**. Aktivních za posledních 14 dní: **43**.
 
@@ -81,9 +81,8 @@ Paměť obsahuje **101 vláken**. Aktivních za posledních 14 dní: **43**.
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 36 dní · 18 záznamů
+- rubrika `ai` · sledováno 37 dní · 19 záznamů
 - časová osa:
-  - **2026-08-27** (3 zdrojů) Report: Nvidia to acquire AI model repository Hugging Face for $13 billion
   - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
   - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
   - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
@@ -93,3 +92,4 @@ Paměť obsahuje **101 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
   - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims
   - **2026-09-15** (2 zdrojů) Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’
+  - **2026-09-16** (2 zdrojů) We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says
