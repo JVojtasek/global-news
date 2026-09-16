@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "slug": "what-do-you-reach-for-when-a-misunderstanding-needs-repair",
+  "date": "2026-09-16",
+  "category": "relationships",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "What do you reach for when a misunderstanding needs repair?", "cs": "Po čem sáhnete, když je potřeba napravit nedorozumění?"},
+    "dek": {"en": "Eight ordinary ruptures notice whether you first name the impact, own your part, offer a repair or protect the other person's pace.", "cs": "Osm běžných narušení vztahu ukáže, zda nejdřív pojmenujete dopad, převezmete svůj díl, nabídnete nápravu, nebo respektujete tempo druhého člověka."},
+    "intro": {"en": "Choose the move you would genuinely make first. Useful repair often needs all four capacities, and a profile describes a current starting point rather than a fixed type.", "cs": "Vyberte krok, který byste skutečně udělali jako první. Užitečná náprava často potřebuje všechny čtyři schopnosti a profil popisuje současné východisko, ne pevný typ."},
+    "disclaimer": {"en": "This is an original reflective self-check informed by public research on apology, restitution and trust repair. It does not reproduce a validated or proprietary instrument, diagnose a person or relationship, predict reconciliation, collect answers or require forgiveness. Ordinary repair advice does not fit coercive, abusive or unsafe situations; use trusted local support or emergency services where appropriate.", "cs": "Jde o původní reflektivní sebehodnocení inspirované veřejným výzkumem omluvy, náhrady a obnovy důvěry. Nepřebírá validovaný ani proprietární nástroj, nediagnostikuje člověka či vztah, nepředpovídá usmíření, neshromažďuje odpovědi ani nevyžaduje odpuštění. Běžné rady k nápravě neplatí v nátlakové, zneužívající či nebezpečné situaci; podle okolností využijte důvěryhodnou místní pomoc nebo tísňové služby."}
+  },
+  "dimensions": [
+    {
+      "id": "impact",
+      "label": {"en": "Name the impact", "cs": "Pojmenovat dopad"},
+      "why": {"en": "You often begin by showing that you understand what happened for the other person, not only what you intended.", "cs": "Často začínáte tím, že ukážete porozumění tomu, co se stalo druhému člověku, nejen tomu, co jste zamýšleli."},
+      "action": {"en": "Describe one observable effect and ask whether you understood it accurately.", "cs": "Popište jeden pozorovatelný dopad a zeptejte se, zda jste mu porozuměli správně."}
+    },
+    {
+      "id": "responsibility",
+      "label": {"en": "Own your part", "cs": "Převzít svůj díl"},
+      "why": {"en": "You often make repair possible by stating your contribution without hiding it behind intent, explanation or the other person's behaviour.", "cs": "Nápravu často umožňujete tím, že pojmenujete svůj podíl bez skrývání za záměr, vysvětlení či chování druhého."},
+      "action": {"en": "Use one sentence with no “if” or “but”: “I did X, and that was my responsibility.”", "cs": "Použijte jednu větu bez „jestli“ a „ale“: „Udělal/a jsem X a byla to moje odpovědnost.“"}
+    },
+    {
+      "id": "repair",
+      "label": {"en": "Offer a repair", "cs": "Nabídnout nápravu"},
+      "why": {"en": "You often look for an action that addresses the damage and makes a repeated problem less likely.", "cs": "Často hledáte krok, který řeší škodu a snižuje pravděpodobnost opakování problému."},
+      "action": {"en": "Ask what would help, then offer one specific action you can realistically complete.", "cs": "Zeptejte se, co by pomohlo, a nabídněte jeden konkrétní krok, který dokážete skutečně splnit."}
+    },
+    {
+      "id": "pace",
+      "label": {"en": "Respect the pace", "cs": "Respektovat tempo"},
+      "why": {"en": "You often recognise that an apology can be offered now while trust, conversation or forgiveness may need more time.", "cs": "Často rozpoznáte, že omluvu lze nabídnout nyní, zatímco důvěra, rozhovor či odpuštění mohou potřebovat více času."},
+      "action": {"en": "Say when you are available to continue and let the other person choose whether and when to respond.", "cs": "Řekněte, kdy jste připraveni pokračovat, a nechte druhého člověka zvolit, zda a kdy odpoví."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "interrupted-story",
+      "text": {"en": "You repeatedly interrupted a friend's important story. Later you realise they went quiet. What comes first?", "cs": "Opakovaně jste přerušovali důležitý příběh přítele. Později si uvědomíte, že ztichl. Co přijde jako první?"},
+      "options": [
+        {"label": {"en": "Say that the interruptions may have made their story feel unwelcome and check whether that fits", "cs": "Řeknu, že kvůli přerušování mohl jejich příběh působit nevítaně, a ověřím, zda to tak bylo"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "Say plainly that I kept interrupting and that it was my responsibility", "cs": "Jasně řeknu, že jsem stále skákal/a do řeči a byla to moje odpovědnost"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Offer to listen again from the point where I took over", "cs": "Nabídnu, že si příběh znovu vyslechnu od místa, kde jsem převzal/a slovo"}, "scores": {"impact": 1, "responsibility": 0, "repair": 3, "pace": 0}},
+        {"label": {"en": "Apologise and say they can return to it whenever they want", "cs": "Omluvím se a řeknu, že se k tomu mohou vrátit, kdy budou chtít"}, "scores": {"impact": 1, "responsibility": 0, "repair": 0, "pace": 3}}
+      ]
+    },
+    {
+      "id": "forgotten-plan",
+      "text": {"en": "You forgot a shared plan and the other person rearranged their day for nothing. Your first repair move is to…", "cs": "Zapomněli jste na společný plán a druhý člověk si kvůli tomu zbytečně změnil den. Váš první krok k nápravě je…"},
+      "options": [
+        {"label": {"en": "Name the wasted time and disruption before explaining anything", "cs": "Pojmenuji ztracený čas a narušení dne dříve, než začnu cokoli vysvětlovat"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "Say I failed to record the plan and own that mistake", "cs": "Řeknu, že jsem si plán nezapsal/a, a převezmu odpovědnost za chybu"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Offer to handle the next booking and send a confirmed reminder", "cs": "Nabídnu, že příští rezervaci zařídím a pošlu potvrzenou připomínku"}, "scores": {"impact": 0, "responsibility": 1, "repair": 3, "pace": 0}},
+        {"label": {"en": "Apologise without asking them to decide immediately about a new date", "cs": "Omluvím se, aniž bych po nich chtěl/a okamžitě rozhodnout o novém termínu"}, "scores": {"impact": 0, "responsibility": 1, "repair": 0, "pace": 3}}
+      ]
+    },
+    {
+      "id": "blunt-message",
+      "text": {"en": "A rushed text from you sounded dismissive. The recipient tells you it hurt. What do you reach for first?", "cs": "Vaše uspěchaná zpráva vyzněla odmítavě. Příjemce řekne, že ho zranila. Po čem sáhnete nejdřív?"},
+      "options": [
+        {"label": {"en": "Reflect the dismissive effect even though it was not my intention", "cs": "Pojmenuji odmítavý dopad, i když nebyl mým záměrem"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "Own the wording instead of blaming the speed or the medium", "cs": "Převezmu odpovědnost za formulaci místo obviňování spěchu či média"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Offer to restate the message clearly and answer the concern I brushed aside", "cs": "Nabídnu jasné přeformulování a odpověď na obavu, kterou jsem odbyl/a"}, "scores": {"impact": 1, "responsibility": 0, "repair": 3, "pace": 0}},
+        {"label": {"en": "Apologise and ask whether they want to talk now or later", "cs": "Omluvím se a zeptám se, zda chtějí mluvit nyní, nebo později"}, "scores": {"impact": 1, "responsibility": 0, "repair": 0, "pace": 3}}
+      ]
+    },
+    {
+      "id": "shared-secret",
+      "text": {"en": "You mentioned something private that was not yours to share. What begins the repair?", "cs": "Zmínili jste soukromou věc, kterou jste neměli sdílet. Čím začne náprava?"},
+      "options": [
+        {"label": {"en": "Acknowledge that I took away their control over who knew", "cs": "Uznám, že jsem jim vzal/a kontrolu nad tím, kdo to bude vědět"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "State that I disclosed it and should not have done so", "cs": "Řeknu, že jsem informaci prozradil/a a neměl/a jsem to udělat"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Ask what containment is still possible and contact the listener if requested", "cs": "Zeptám se, jak lze šíření ještě omezit, a na požádání kontaktuji posluchače"}, "scores": {"impact": 1, "responsibility": 0, "repair": 3, "pace": 0}},
+        {"label": {"en": "Give the apology without pressing for reassurance or forgiveness", "cs": "Omluvím se bez naléhání na ujištění či odpuštění"}, "scores": {"impact": 0, "responsibility": 1, "repair": 0, "pace": 3}}
+      ]
+    },
+    {
+      "id": "joke-landed-badly",
+      "text": {"en": "A joke you made in a group embarrassed someone. What is your natural first move?", "cs": "Vtip, který jste řekli ve skupině, někoho zahanbil. Jaký je váš přirozený první krok?"},
+      "options": [
+        {"label": {"en": "Name that being made the subject of the joke in public may have felt exposing", "cs": "Pojmenuji, že stát se veřejně terčem vtipu mohlo působit odhalujícím dojmem"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "Say I chose the joke and misjudged it, without defending my intent", "cs": "Řeknu, že jsem vtip zvolil/a a špatně odhadl/a, bez obhajování záměru"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Ask whether a correction to the group would help and then make it", "cs": "Zeptám se, zda by pomohla oprava před skupinou, a pak ji udělám"}, "scores": {"impact": 1, "responsibility": 1, "repair": 3, "pace": 0}},
+        {"label": {"en": "Apologise privately and leave them room not to continue the conversation", "cs": "Omluvím se soukromě a nechám jim prostor v rozhovoru nepokračovat"}, "scores": {"impact": 0, "responsibility": 1, "repair": 0, "pace": 3}}
+      ]
+    },
+    {
+      "id": "work-error",
+      "text": {"en": "Your error created extra work for a colleague. How do you start?", "cs": "Vaše chyba vytvořila kolegovi práci navíc. Jak začnete?"},
+      "options": [
+        {"label": {"en": "Specify the extra checking and delay my error caused", "cs": "Upřesním dodatečnou kontrolu a zpoždění, které moje chyba způsobila"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "State exactly which part was mine before discussing the process", "cs": "Nejdřív přesně řeknu, která část byla moje, a teprve pak řeším proces"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Offer to correct the file and add the check that would catch the error next time", "cs": "Nabídnu opravu souboru a doplnění kontroly, která chybu příště zachytí"}, "scores": {"impact": 1, "responsibility": 1, "repair": 3, "pace": 0}},
+        {"label": {"en": "Apologise and ask when they have capacity to review the fix", "cs": "Omluvím se a zeptám se, kdy mají prostor zkontrolovat opravu"}, "scores": {"impact": 0, "responsibility": 1, "repair": 1, "pace": 3}}
+      ]
+    },
+    {
+      "id": "changed-decision",
+      "text": {"en": "You changed a joint decision without consulting the other person. What do you do first?", "cs": "Změnili jste společné rozhodnutí bez porady s druhým člověkem. Co uděláte nejdřív?"},
+      "options": [
+        {"label": {"en": "Recognise that the unilateral change may have reduced their sense of partnership", "cs": "Uznám, že jednostranná změna mohla oslabit jejich pocit partnerství"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "Own that consultation was my responsibility even if the decision seemed urgent", "cs": "Převezmu odpovědnost za to, že jsem se měl/a poradit, i když rozhodnutí působilo naléhavě"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Offer to reopen the decision and restore any option that is still available", "cs": "Nabídnu znovuotevření rozhodnutí a obnovení možnosti, která je ještě dostupná"}, "scores": {"impact": 1, "responsibility": 1, "repair": 3, "pace": 0}},
+        {"label": {"en": "Apologise now and let them choose when the decision is discussed", "cs": "Omluvím se nyní a nechám je zvolit, kdy se rozhodnutí probere"}, "scores": {"impact": 0, "responsibility": 1, "repair": 0, "pace": 3}}
+      ]
+    },
+    {
+      "id": "old-pattern",
+      "text": {"en": "The other person says this is not a one-off mistake but an old pattern. Your most useful first response is to…", "cs": "Druhý člověk říká, že nejde o jednorázovou chybu, ale starý vzorec. Vaše nejužitečnější první reakce je…"},
+      "options": [
+        {"label": {"en": "Ask for one recent example and listen for the repeated impact", "cs": "Požádám o jeden nedávný příklad a naslouchám opakovanému dopadu"}, "scores": {"impact": 3, "responsibility": 1, "repair": 0, "pace": 0}},
+        {"label": {"en": "Resist debating the word “always” and own the part I recognise", "cs": "Nevstoupím do sporu o slovo „vždycky“ a převezmu díl, který poznávám"}, "scores": {"impact": 1, "responsibility": 3, "repair": 0, "pace": 0}},
+        {"label": {"en": "Propose one visible change and a date to review whether it happened", "cs": "Navrhnu jednu viditelnou změnu a datum kontroly, zda nastala"}, "scores": {"impact": 0, "responsibility": 1, "repair": 3, "pace": 0}},
+        {"label": {"en": "Acknowledge that one conversation may not restore trust and avoid demanding closure", "cs": "Uznám, že jeden rozhovor nemusí obnovit důvěru, a nevyžaduji uzavření"}, "scores": {"impact": 1, "responsibility": 0, "repair": 0, "pace": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "impact": {
+      "title": {"en": "You often begin by naming the impact", "cs": "Často začínáte pojmenováním dopadu"},
+      "summary": {"en": "You tend to look beyond your intention and identify what the event changed for the other person. This is a current repair preference, not a fixed relationship type.", "cs": "Máte sklon dívat se za vlastní záměr a pojmenovat, co událost změnila pro druhého člověka. Jde o současnou preferenci při nápravě, ne pevný vztahový typ."},
+      "strength": {"en": "Accurately recognising impact can reduce the loneliness of having to prove that something mattered.", "cs": "Přesné uznání dopadu může snížit osamělost člověka, který by jinak musel dokazovat, že se něco stalo."},
+      "watch": {"en": "A well-worded reflection can still feel hollow if responsibility and action never follow.", "cs": "Dobře formulované uznání může stále působit prázdně, pokud po něm nepřijde odpovědnost a čin."},
+      "action": {"en": "After naming the impact, add one unqualified sentence about your part.", "cs": "Po pojmenování dopadu přidejte jednu bezvýhradnou větu o svém podílu."}
+    },
+    "responsibility": {
+      "title": {"en": "You often begin by owning your part", "cs": "Často začínáte převzetím svého dílu"},
+      "summary": {"en": "You tend to make your contribution explicit instead of asking intent or circumstances to erase it. Responsibility supports repair, but it is not the whole process.", "cs": "Máte sklon svůj podíl výslovně pojmenovat místo toho, abyste jej nechali vymazat záměrem či okolnostmi. Odpovědnost podporuje nápravu, ale není celým procesem."},
+      "strength": {"en": "Research on apology consistently finds acknowledgement of responsibility especially important to perceived sincerity and effectiveness.", "cs": "Výzkum omluv opakovaně nachází uznání odpovědnosti jako zvlášť důležité pro vnímanou upřímnost a účinnost."},
+      "watch": {"en": "Taking blame quickly can become performative or excessive if you have not understood the actual impact and shared context.", "cs": "Rychlé převzetí viny může být pouze gestem nebo přehnané, pokud jste neporozuměli skutečnému dopadu a společnému kontextu."},
+      "action": {"en": "Pair ownership with one question about what repair would be useful.", "cs": "Spojte převzetí odpovědnosti s jednou otázkou, jaká náprava by byla užitečná."}
+    },
+    "repair": {
+      "title": {"en": "You often begin by offering a repair", "cs": "Často začínáte nabídkou nápravy"},
+      "summary": {"en": "You tend to move from words toward a concrete correction, restitution or changed routine. Action can rebuild credibility when it answers the real damage.", "cs": "Máte sklon přejít od slov ke konkrétní opravě, náhradě či změně postupu. Čin může obnovovat důvěryhodnost, pokud odpovídá skutečné škodě."},
+      "strength": {"en": "An offer of repair makes an apology testable and shows what will be different next time.", "cs": "Nabídka nápravy činí omluvu ověřitelnou a ukazuje, co bude příště jinak."},
+      "watch": {"en": "Fixing too fast can bypass the person's experience or offer the solution you prefer rather than the one they need.", "cs": "Příliš rychlá oprava může obejít prožitek druhého nebo nabídnout řešení, které vyhovuje vám místo jemu."},
+      "action": {"en": "Before acting, ask whether your proposed repair addresses the part that mattered most.", "cs": "Před činem se zeptejte, zda navržená náprava řeší to, na čem záleželo nejvíc."}
+    },
+    "pace": {
+      "title": {"en": "You often begin by respecting the other person's pace", "cs": "Často začínáte respektem k tempu druhého"},
+      "summary": {"en": "You tend to separate offering an apology from demanding a response, forgiveness or immediate return to normal. Space can protect autonomy when it includes dependable follow-through.", "cs": "Máte sklon oddělovat nabídku omluvy od požadavku na odpověď, odpuštění či okamžitý návrat k normálu. Prostor může chránit autonomii, pokud obsahuje spolehlivé pokračování."},
+      "strength": {"en": "A voluntary, unforced process leaves room for trust to be evaluated through later behaviour rather than pressure.", "cs": "Dobrovolný, nevynucený proces nechává prostor posuzovat důvěru podle dalšího chování místo tlaku."},
+      "watch": {"en": "Giving space can become disappearance if you never state your availability or return to the promised action.", "cs": "Poskytnutí prostoru se může změnit v mizení, pokud neřeknete, kdy jste k dispozici, nebo se nevrátíte ke slíbenému kroku."},
+      "action": {"en": "Offer a clear way back: “I am available when you want to continue, and I will complete X by Friday.”", "cs": "Nabídněte jasnou cestu zpět: „Jsem k dispozici, až budeš chtít pokračovat, a krok X dokončím do pátku.“"}
+    }
+  },
+  "sources": [
+    {"name": "Ohio State University — The 6 elements of an effective apology, according to science", "url": "https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/", "published": "2016-04-12", "type": "university summary of experimental apology-component research; original quiz items, no instrument reproduced"},
+    {"name": "Forster and colleagues — Experimental evidence that apologies promote forgiveness", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/", "published": "2021-06-23", "type": "peer-reviewed experimental research on apology, empathic concern and forgiveness; no scale items reproduced"},
+    {"name": "Witvliet and colleagues — Apology and Restitution", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/", "published": "2020-03-13", "type": "peer-reviewed research comparing accountable repair responses; no proprietary instrument reproduced"},
+    {"name": "Langlinais and colleagues — Forced versus Voluntary Apologies", "url": "https://ncmr.lps.library.cmu.edu/article/id/817/", "published": "2025-12-23", "type": "peer-reviewed open-access research on voluntary apology and trust repair; no instrument items reproduced"}
+  ]
+}
