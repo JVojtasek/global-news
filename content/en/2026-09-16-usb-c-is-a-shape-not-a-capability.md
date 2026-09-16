@@ -1,14 +1,15 @@
 ---
 slug: usb-c-is-a-shape-not-a-capability
-title: "USB-C Is a Shape, Not a Capability"
-dek: "The reversible plug tells you what fits. Charging power, data speed, monitor support and dock compatibility depend on the port, cable and device behind it."
+title: USB-C Is a Shape, Not a Capability
+dek: The reversible plug tells you what fits. Charging power, data speed, monitor
+  support and dock compatibility depend on the port, cable and device behind it.
 section: tech
 type: analysis
 depth: open
 lang: en
 date: '2026-09-16'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -38,13 +39,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: "A USB-C dock fits your laptop but its monitor output does not work. What should you verify first?"
+  question: A USB-C dock fits your laptop but its monitor output does not work. What
+    should you verify first?
   options:
-  - "Whether the laptop port, cable and dock all support the required video mode"
-  - "Whether the reversible plug was inserted with its logo facing upward"
-  - "Whether the cable can charge a phone, because charging guarantees video"
+  - Whether the laptop port, cable and dock all support the required video mode
+  - Whether the reversible plug was inserted with its logo facing upward
+  - Whether the cable can charge a phone, because charging guarantees video
   answer: 0
-  explanation: "USB-C describes the connector. Video requires a compatible mode and sufficient capability across the host port, cable and dock."
+  explanation: USB-C describes the connector. Video requires a compatible mode and
+    sufficient capability across the host port, cable and dock.
 ---
 
 ## BRIEFLY
