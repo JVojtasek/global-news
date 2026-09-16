@@ -7,8 +7,8 @@ section: meaning
 type: feature
 depth: open
 lang: en
-date: '2026-08-27'
-status: reserve
+date: '2026-09-16'
+status: published
 confidence: 95
 load: 0
 topics: []
