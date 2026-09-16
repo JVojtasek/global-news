@@ -51,7 +51,27 @@
   - **Investing.com** — EU invites Canada to become bloc’s first ’associate member’
     <https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163>
 
-### 3. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+### 3. EU chief backs plan for Canada to become 'associate member'
+- id události: `418e8514211b`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — EU chief backs plan for Canada to become 'associate member'
+    <https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss>
+    > Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
+  - **NPR News** — EU's Ursula von der Leyen says she wants Canada to become an associate member
+    <https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member>
+    > European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe.
+  - **France 24** — Ursula von der Leyen: EU chief pitches 'associate member' status for Canada
+    <http://www.france24.com/en/video/20260916-ursula-von-der-leyen-eu-chief-pitches-associate-member-status-for-canada>
+    > EU chief Ursula von der Leyen raised the prospect Wednesday of Canada becoming the 27-nation bloc's first 'associate member', as she pitched closer cooperation on tech, defence and energy to Canadian leader Mark Carney.
+  - **France 24** — REPLAY - Ursula von der Leyen: Full State of the Union address
+    <http://www.france24.com/en/video/20260916-replay-ursula-von-der-leyen-full-state-of-the-union-address>
+    > European Commission President Ursula von der Leyen proposed banning children under 13 from accessing social media, online games and chatbots during her annual State of the European Union speech in Strasbourg on Wednesday. She also proposed closer EU-Canada ties, including "associ
+  - **Hacker News Best** — EU chief opens door for Canada to become 'associate member'
+    <https://www.bbc.com/news/articles/cjwyzrr9d3dko>
+    > Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 386 # Comments: 380
+
+### 4. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
 - id události: `c7dc7c1ccb05`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -67,29 +87,6 @@
   - **France 24** — As Yemen conflict intensifies, Iran the winner?
     <https://www.france24.com/en/video/20260914-as-yemen-conflict-intensifies-iran-the-winner>
     > The conflict in Yemen intensified on Sunday, as government forces launched attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fired into neighboring Saudi Arabia, which supports Yemen’s government. It comes after Houthis captured the port city of Mokha and an
-
-### 4. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
-- id události: `af58aea1ebf5`  ·  rubrika: `tech`  ·  skóre: 66  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Technology** — Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
-    <https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss>
-    > The BBC's Tom Gerken is hands-on with the latest virtual reality headset.
-  - **Ars Technica** — Steam Frame: The Ars Technica review
-    <https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/>
-    > Valve's new $1,049 VR hardware tries to revive an abandoned VR "revolution."
-  - **The Verge** — The Steam Frame is made for irresponsible hardware nerds like me
-    <https://www.theverge.com/tech/994267/steam-frame-review>
-    > For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as m
-  - **The Verge** — Valve’s Steam Frame costs $1,059
-    <https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date>
-    > Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of 
-  - **The Verge** — Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame
-    <https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port>
-    > Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every Steam Frame comes wi
-  - **The Verge** — I reviewed Valve’s Steam Frame, ask me anything
-    <https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered>
-    > Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4P
 
 ---
 
