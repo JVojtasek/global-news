@@ -1,14 +1,16 @@
 ---
 slug: the-court-judged-four-men-not-kosovos-war
-title: "The Court Judged Four Men, Not Kosovo's War"
-dek: "Hashim Thaçi's 25-year sentence matters beyond Kosovo because the judgment tries to separate individual crimes from a liberation struggle, a national identity and the crimes of the opposing side."
+title: The Court Judged Four Men, Not Kosovo's War
+dek: Hashim Thaçi's 25-year sentence matters beyond Kosovo because the judgment tries
+  to separate individual crimes from a liberation struggle, a national identity and
+  the crimes of the opposing side.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-16'
-status: draft
-confidence: 96
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -16,11 +18,12 @@ automation_role: intraday
 edition_slot: 0
 generator: chatgpt-work
 format: roundtable
-series: "The Newsroom Table"
+series: The Newsroom Table
 event_id: ksc-bc-2020-06-trial-judgment-2026-09-16
 image_query: Kosovo Specialist Chambers courthouse The Hague neutral exterior
 sources:
-- name: Kosovo Specialist Chambers — Hashim Thaçi and co-defendants found guilty of war crimes
+- name: Kosovo Specialist Chambers — Hashim Thaçi and co-defendants found guilty of
+    war crimes
   url: https://www.scp-ks.org/en/hashim-thaci-and-co-defendants-found-guilty-war-crimes
   published: '2026-09-16'
 - name: Kosovo Specialist Chambers — Summary of Trial Judgment
@@ -40,18 +43,25 @@ impact:
   - international criminal justice
   - Kosovo-Serbia relations
   - witness protection
-  line: "The first-instance judgment may reshape Kosovo's political memory and faith in international justice, but it does not decide the legitimacy of independence or assign collective guilt to the KLA or Kosovo Albanians."
-  todo: "Watch the written public judgment, notices of appeal and the court's handling of witness-protection concerns rather than treating public celebration or rejection as a substitute for the legal findings."
+  line: The first-instance judgment may reshape Kosovo's political memory and faith
+    in international justice, but it does not decide the legitimacy of independence
+    or assign collective guilt to the KLA or Kosovo Albanians.
+  todo: Watch the written public judgment, notices of appeal and the court's handling
+    of witness-protection concerns rather than treating public celebration or rejection
+    as a substitute for the legal findings.
 qma_path: ''
 tickers: []
 quiz:
-  question: "What did the trial panel say this case was designed to decide?"
+  question: What did the trial panel say this case was designed to decide?
   options:
-  - "Whether the Kosovo independence struggle was legitimate"
-  - "Whether the four accused were individually responsible for the charged crimes"
-  - "Which side committed more crimes during the Kosovo war"
+  - Whether the Kosovo independence struggle was legitimate
+  - Whether the four accused were individually responsible for the charged crimes
+  - Which side committed more crimes during the Kosovo war
   answer: 1
-  explanation: "The panel expressly separated the four defendants' personal criminal responsibility from the KLA's political goal and from crimes committed by Serbian forces."
+  explanation: The panel expressly separated the four defendants' personal criminal
+    responsibility from the KLA's political goal and from crimes committed by Serbian
+    forces.
+review_reason: 'citlivé téma: convicted'
 ---
 
 ## BRIEFLY
