@@ -81,7 +81,7 @@ The classification system remains influential because it made relational expecta
 
 ## PERSPECTIVES
 
-One framing presents Ainsworth as the scientist who discovered attachment styles. It recognises the importance of her methods, but it lets the categories overshadow the patient home observation that gave them meaning. Bretherton's historical account notes that the Strange Situation stole the limelight from Ainsworth's naturalistic work—to Ainsworth's own frustration.
+Bretherton's 1992 historical account describes one common framing: Ainsworth as the scientist who discovered attachment styles. That framing recognises the importance of her methods, but it can let the categories overshadow the careful home observation that gave them meaning. Bretherton notes that the Strange Situation stole the limelight from Ainsworth's naturalistic work—to Ainsworth's own frustration.
 
 A second framing treats sensitivity as a simple parental recipe: respond correctly and secure attachment follows. This captures her attention to signals but understates the relationship's complexity. Sensitivity is not instant compliance, uninterrupted availability or perfect intuition. It involves noticing a signal, interpreting it reasonably and responding in a timely, fitting way while still allowing exploration.
 
