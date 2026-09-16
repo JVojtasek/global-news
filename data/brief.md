@@ -29,7 +29,29 @@
     <https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton>
     > No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton. He had been outserved and outplayed for nearly three hours, but at 6-5 in the third set, one game from defeat, the
 
-### 2. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+### 2. Von der Leyen eyes Canada as EU's first 'associate member'
+- id události: `3bd82fdf31ce`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **DW News** — Von der Leyen eyes Canada as EU's first 'associate member'
+    <https://www.dw.com/en/von-der-leyen-eyes-canada-as-eu-s-first-associate-member/a-79286148?maca=en-rss-en-all-1573-rdf>
+    > EU chief Ursula von der Leyen said the EU and Canada saw the world with the same eyes. At her annual State of the Union address, she said the bloc was dealing with an "openly hostile world."
+  - **The Guardian World** — Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live
+    <https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates>
+    > European Commission president says the EU wants to ‘move the partnership with Canada to the highest level possible’ Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market, world class industries and services. She
+  - **The Guardian World** — European Union opens door for Canada to become first associate member
+    <https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member>
+    > Commission president says partnership will create ‘common prosperity’ based on shared democratic values Europe live – latest updates The European Commission president, Ursula von der Leyen, told the Canadian prime minister, Mark Carney, on Wednesday that she wants to open the doo
+  - **Guardian Business** — European Union opens door for Canada to become first associate member
+    <https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member>
+    > Commission president says partnership will create ‘common prosperity’ based on shared democratic values Europe live – latest updates The European Commission president, Ursula von der Leyen, told the Canadian prime minister, Mark Carney, on Wednesday that she wants to open the doo
+  - **CNBC Top** — Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies
+    <https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html>
+    > EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.
+  - **Investing.com** — EU invites Canada to become bloc’s first ’associate member’
+    <https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163>
+
+### 3. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
 - id události: `c7dc7c1ccb05`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -46,7 +68,7 @@
     <https://www.france24.com/en/video/20260914-as-yemen-conflict-intensifies-iran-the-winner>
     > The conflict in Yemen intensified on Sunday, as government forces launched attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fired into neighboring Saudi Arabia, which supports Yemen’s government. It comes after Houthis captured the port city of Mokha and an
 
-### 3. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
+### 4. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
 - id události: `af58aea1ebf5`  ·  rubrika: `tech`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -68,26 +90,6 @@
   - **The Verge** — I reviewed Valve’s Steam Frame, ask me anything
     <https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered>
     > Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4P
-
-### 4. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-- id události: `9c657c0b5de7`  ·  rubrika: `culture`  ·  skóre: 66  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
-    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
-  - **Guardian Culture** — Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments
-    <https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment>
-    > English singer outlined his position after US stadium owners refused to let rapper perform after political speech Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech Singer Ed Sheeran has responded to the backlash over the removal of Macklemore from his Nor
-  - **BBC Entertainment** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
-    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
-  - **BBC Entertainment** — Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech
-    <https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss>
-    > The US rapper was condemned by Jewish groups after making comments criticising Israel.
-  - **France 24** — Macklemore taken off Ed Sheeran's US tour
-    <http://www.france24.com/en/video/20260915-macklemore-taken-off-ed-sheeran-s-us-tour>
-    > 🎤 American rapper Macklemore has been removed as the opening act for British singer-songwriter Ed Sheeran's US tour after the former made statements supporting his pro-Palestine stance on stage. The Grammy-winning-artist has been vocal about his position over the past few years, 
 
 ---
 
