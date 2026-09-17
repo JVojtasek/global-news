@@ -6,65 +6,6 @@
  "reserve_articles": 11,
  "news_assignments": [
   {
-   "id": "b2f984be07bd",
-   "headline": "Zverev caps transformational year with US Open triumph",
-   "section": "world",
-   "score": 78,
-   "sources_count": 5,
-   "depth_signal": 2,
-   "created": "2026-09-14T01:04:28+00:00",
-   "event_time": "2026-09-13T22:55:31+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Zverev caps transformational year with US Open triumph",
-     "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion.",
-     "published_at": "2026-09-13T22:55:31+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T01:04:25+00:00"
-    },
-    {
-     "title": "Germany's Zverev wins US Open in golden year",
-     "url": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Alexander Zverev has won the US Open for the first time, defeating Ben Shelton in the final. It is Zverev's second Grand Slam win of 2026 after a long wait for his first title, but controversy still hangs over him.",
-     "published_at": "2026-09-13T22:03:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T01:04:25+00:00"
-    },
-    {
-     "title": "Zverev beats Shelton to win US Open 2026 and second Grand Slam title",
-     "url": "https://www.france24.com/en/sport/20260913-alexander-zverev-ben-shelton-us-open-final-tennis",
-     "source": "France 24",
-     "summary": "Alexander Zverev beat American Ben Shelton 6-3, 7-6 (7/2), 5-7, 6-2 on Sunday to win the US Open and claim his second Grand Slam title. The German, who lost the 2020 final, denied Shelton the chance to become the first American man to win a major since 2003.",
-     "published_at": "2026-09-13T22:39:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T01:04:25+00:00"
-    },
-    {
-     "title": "Zverev defeats Shelton in four sets to win his first US Open title",
-     "url": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Germany's Alexander Zverev beats American Ben Shelton 6-3, 7-6 (2), 5-7, 6-2 to win the men's singles title in New York.",
-     "published_at": "2026-09-13T22:33:34+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T01:04:25+00:00"
-    },
-    {
-     "title": "Alexander Zverev claims first US Open after four-set battle with Ben Shelton",
-     "url": "https://www.theguardian.com/sport/2026/sep/13/alexander-zverev-wins-us-open-four-sets-ben-shelton",
-     "source": "Guardian Sport",
-     "summary": "No 1 seed wins 6-3, 7-6 (2), 5-7, 6-2 American’s hopes dashed in tense final For a passing moment at the end of a rugged third set, hope sprung anew for Ben Shelton. He had been outserved and outplayed for nearly three hours, but at 6-5 in the third set, one game from defeat, the American finally broke through. He burst into the return game finally pounding his forehand freely and he willed himsel",
-     "published_at": "2026-09-13T22:30:45+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-14T01:04:25+00:00"
-    }
-   ],
-   "depth": "scripture"
-  },
-  {
    "id": "3bd82fdf31ce",
    "headline": "Von der Leyen eyes Canada as EU's first 'associate member'",
    "section": "world",
@@ -237,6 +178,74 @@
      "published_at": "2026-09-14T09:16:07+00:00",
      "source_countries": [],
      "seen_at": "2026-09-14T12:37:31+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "af58aea1ebf5",
+   "headline": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
+   "section": "tech",
+   "score": 66,
+   "sources_count": 3,
+   "depth_signal": 0,
+   "created": "2026-09-14T18:29:50+00:00",
+   "event_time": "2026-09-14T17:05:31+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
+     "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Technology",
+     "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
+     "published_at": "2026-09-14T17:05:31+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T18:29:47+00:00"
+    },
+    {
+     "title": "Steam Frame: The Ars Technica review",
+     "url": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
+     "source": "Ars Technica",
+     "summary": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"",
+     "published_at": "2026-09-14T17:00:07+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T18:29:47+00:00"
+    },
+    {
+     "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+     "url": "https://www.theverge.com/tech/994267/steam-frame-review",
+     "source": "The Verge",
+     "summary": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as […]",
+     "published_at": "2026-09-14T17:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T18:29:47+00:00"
+    },
+    {
+     "title": "Valve’s Steam Frame costs $1,059",
+     "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
+     "source": "The Verge",
+     "summary": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of Half-Life: Alyx, […]",
+     "published_at": "2026-09-14T17:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T18:29:47+00:00"
+    },
+    {
+     "title": "Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame",
+     "url": "https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port",
+     "source": "The Verge",
+     "summary": "Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every Steam Frame comes with a copy of […]",
+     "published_at": "2026-09-14T17:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T18:29:47+00:00"
+    },
+    {
+     "title": "I reviewed Valve’s Steam Frame, ask me anything",
+     "url": "https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered",
+     "source": "The Verge",
+     "summary": "Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4PM ET today (that's 1PM PT for West Coasters […]",
+     "published_at": "2026-09-14T17:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-14T18:29:47+00:00"
     }
    ],
    "depth": "open"
