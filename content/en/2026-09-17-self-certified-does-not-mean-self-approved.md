@@ -1,13 +1,15 @@
 ---
 slug: self-certified-does-not-mean-self-approved
-title: "Self-Certified Does Not Mean Self-Approved"
-dek: "Tesla's Cybercab inquiry exposes the difference between a manufacturer's legal declaration, a regulator's audit and an exemption for a vehicle built without human controls."
+title: Self-Certified Does Not Mean Self-Approved
+dek: Tesla's Cybercab inquiry exposes the difference between a manufacturer's legal
+  declaration, a regulator's audit and an exemption for a vehicle built without human
+  controls.
 section: motoring
 type: daily
 depth: open
 lang: en
-date: 2026-09-17
-status: draft
+date: '2026-09-17'
+status: published
 confidence: 94
 load: 0
 topics: []
@@ -16,29 +18,35 @@ edition_slot: 1
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "conceptual driverless car passing through transparent safety certification gates, editorial illustration, no text or brands"
+event_id: ''
+series: ''
+image_query: conceptual driverless car passing through transparent safety certification
+  gates, editorial illustration, no text or brands
 sources:
-  - name: "National Highway Traffic Safety Administration"
-    url: "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification"
-    published: "2026-09-04"
-  - name: "Reuters"
-    url: "https://www.reuters.com/business/autos-transportation/us-agency-orders-tesla-answer-questions-cybercab-certification-2026-09-15/"
-    published: "2026-09-15"
-  - name: "Federal Register — FMVSS No. 102 proposal"
-    url: "https://www.federalregister.gov/documents/2026/03/16/2026-05024/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-102-to-accommodate-ads-equipped"
-    published: "2026-03-16"
-  - name: "Federal Register — Zoox temporary exemption"
-    url: "https://www.federalregister.gov/documents/2026/07/31/2026-15485/zoox-grant-of-temporary-exemption-from-portions-of-various-requirements-of-the-federal-motor-vehicle"
-    published: "2026-07-31"
-qma_path: ""
+- name: National Highway Traffic Safety Administration
+  url: https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification
+  published: '2026-09-04'
+- name: Reuters
+  url: https://www.reuters.com/business/autos-transportation/us-agency-orders-tesla-answer-questions-cybercab-certification-2026-09-15/
+  published: '2026-09-15'
+- name: Federal Register — FMVSS No. 102 proposal
+  url: https://www.federalregister.gov/documents/2026/03/16/2026-05024/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-102-to-accommodate-ads-equipped
+  published: '2026-03-16'
+- name: Federal Register — Zoox temporary exemption
+  url: https://www.federalregister.gov/documents/2026/07/31/2026-15485/zoox-grant-of-temporary-exemption-from-portions-of-various-requirements-of-the-federal-motor-vehicle
+  published: '2026-07-31'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Who initially certifies that a new vehicle meets applicable U.S. federal motor vehicle safety standards?"
-  options: ["The manufacturer", "NHTSA before every sale", "The city where the vehicle first operates"]
+  question: Who initially certifies that a new vehicle meets applicable U.S. federal
+    motor vehicle safety standards?
+  options:
+  - The manufacturer
+  - NHTSA before every sale
+  - The city where the vehicle first operates
   answer: 0
-  explanation: "Manufacturers make the certification; NHTSA sets the standards and can audit, investigate, order remedies or grant limited exemptions."
+  explanation: Manufacturers make the certification; NHTSA sets the standards and
+    can audit, investigate, order remedies or grant limited exemptions.
 ---
 
 ## BRIEFLY

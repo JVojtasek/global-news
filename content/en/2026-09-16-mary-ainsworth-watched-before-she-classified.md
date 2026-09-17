@@ -1,14 +1,16 @@
 ---
 slug: mary-ainsworth-watched-before-she-classified
-title: "Mary Ainsworth Watched Before She Classified"
-dek: "Long before attachment became a set of online labels, Mary Ainsworth sat in family rooms and studied how security grows through ordinary responses, exploration and return."
+title: Mary Ainsworth Watched Before She Classified
+dek: Long before attachment became a set of online labels, Mary Ainsworth sat in family
+  rooms and studied how security grows through ordinary responses, exploration and
+  return.
 section: relationships
 type: analysis
 depth: open
 lang: en
 date: '2026-09-16'
-status: draft
-confidence: 91
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: ''
 event_id: mary-ainsworth-uganda-baltimore-attachment-observation
 series: ''
-image_query: Mary Ainsworth developmental psychologist observing caregiver and infant archival
+image_query: Mary Ainsworth developmental psychologist observing caregiver and infant
+  archival
 sources:
 - name: Arizona State University Embryo Project Encyclopedia — Mary Ainsworth
   url: https://embryo.asu.edu/pages/mary-ainsworth-1913-1999
@@ -26,25 +29,31 @@ sources:
 - name: Developmental Psychology — The Origins of Attachment Theory
   url: https://psychology.psy.sunysb.edu/attachment/online/inge_origins%20DP1992.pdf
   published: '1992'
-- name: Attachment and Human Development / PubMed — Lessons Learned from the Legacy of Mary Ainsworth
+- name: Attachment and Human Development / PubMed — Lessons Learned from the Legacy
+    of Mary Ainsworth
   url: https://pubmed.ncbi.nlm.nih.gov/24684568/
   published: '2014'
-- name: South African Journal of Psychology / PMC — From Uganda to Baltimore to Alexandra Township
+- name: South African Journal of Psychology / PMC — From Uganda to Baltimore to Alexandra
+    Township
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6138127/
   published: '2018'
-- name: Current Opinion in Psychology / PMC — Contributions of Attachment Theory and Research
+- name: Current Opinion in Psychology / PMC — Contributions of Attachment Theory and
+    Research
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4085672/
   published: '2013'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What did Mary Ainsworth originally design the Strange Situation to examine?"
+  question: What did Mary Ainsworth originally design the Strange Situation to examine?
   options:
-  - "A child's balance between seeking security and exploring under changing stress"
-  - "A permanent personality type that would determine every adult relationship"
-  - "Whether children preferred toys selected by their mothers"
+  - A child's balance between seeking security and exploring under changing stress
+  - A permanent personality type that would determine every adult relationship
+  - Whether children preferred toys selected by their mothers
   answer: 0
-  explanation: "The procedure changed the level of stress through brief separations and reunions to observe attachment and exploration; it was not a permanent identity test."
+  explanation: The procedure changed the level of stress through brief separations
+    and reunions to observe attachment and exploration; it was not a permanent identity
+    test.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

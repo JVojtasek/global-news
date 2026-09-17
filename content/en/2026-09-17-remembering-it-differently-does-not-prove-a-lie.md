@@ -1,14 +1,16 @@
 ---
 slug: remembering-it-differently-does-not-prove-a-lie
-title: "Remembering It Differently Does Not Prove a Lie"
-dek: "Two sincere people can leave the same conversation with different fragments. A better repair starts by separating recollection, impact and the agreement that comes next."
+title: Remembering It Differently Does Not Prove a Lie
+dek: Two sincere people can leave the same conversation with different fragments.
+  A better repair starts by separating recollection, impact and the agreement that
+  comes next.
 section: relationships
 type: analysis
 depth: open
 lang: en
 date: '2026-09-17'
-status: draft
-confidence: 92
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,17 +20,20 @@ generator: chatgpt-work
 format: wider-lens
 event_id: memory-different-recollections-relationship-repair
 series: ''
-image_query: "two overlapping handwritten conversation maps with shared and separate details conceptual relationship memory"
+image_query: two overlapping handwritten conversation maps with shared and separate
+  details conceptual relationship memory
 sources:
-- name: Brown-Schmidt et al. — MEMCONS, How Contemporaneous Note-Taking Shapes Memory for Conversation
+- name: Brown-Schmidt et al. — MEMCONS, How Contemporaneous Note-Taking Shapes Memory
+    for Conversation
   url: https://onlinelibrary.wiley.com/doi/10.1111/cogs.13271
   published: '2023-04-18'
-- name: Halford, Keefer and Osgarby — Relationship Satisfaction and Hindsight Memory Biases
+- name: Halford, Keefer and Osgarby — Relationship Satisfaction and Hindsight Memory
+    Biases
   url: https://link.springer.com/article/10.1023/A:1021289400436
-  published: '2002-12'
+  published: 2002-12
 - name: Karney and Coombs — Memory Bias in Long-Term Close Relationships
   url: https://journals.sagepub.com/doi/10.1177/01461672002610006
-  published: '2000-10'
+  published: 2000-10
 - name: Luchies et al. — Trust and Biased Memory of Transgressions in Romantic Relationships
   url: https://pubmed.ncbi.nlm.nih.gov/23397968/
   published: '2013-02-11'
@@ -38,13 +43,19 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: "Two partners disagree about what they decided last week. What is the most evidence-aligned first move?"
+  question: Two partners disagree about what they decided last week. What is the most
+    evidence-aligned first move?
   options:
-  - "Write down each recollection separately, compare any records, then document the agreement they make now"
-  - "Keep retelling the conversation together until both accounts become identical"
-  - "Treat the more confident account as accurate because confidence signals a stronger memory"
+  - Write down each recollection separately, compare any records, then document the
+    agreement they make now
+  - Keep retelling the conversation together until both accounts become identical
+  - Treat the more confident account as accurate because confidence signals a stronger
+    memory
   answer: 0
-  explanation: "Conversational recall is incomplete and can be shaped by later discussion. Independent accounts and contemporaneous records preserve more diagnostic information, while a new written agreement reduces the next dispute."
+  explanation: Conversational recall is incomplete and can be shaped by later discussion.
+    Independent accounts and contemporaneous records preserve more diagnostic information,
+    while a new written agreement reduces the next dispute.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

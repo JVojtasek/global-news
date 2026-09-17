@@ -1,13 +1,15 @@
 ---
 slug: melatonin-is-not-a-bedtime-vitamin
-title: "Melatonin Is Not a Bedtime Vitamin"
-dek: "For some children it can help with sleep timing, but gummy appeal, uneven labeling and unanswered long-term questions make routine use a medical decision rather than a nightly habit."
+title: Melatonin Is Not a Bedtime Vitamin
+dek: For some children it can help with sleep timing, but gummy appeal, uneven labeling
+  and unanswered long-term questions make routine use a medical decision rather than
+  a nightly habit.
 section: parenting
 type: analysis
 depth: open
 lang: en
-date: 2026-09-17
-status: draft
+date: '2026-09-17'
+status: review
 confidence: 95
 load: 0
 topics: []
@@ -16,32 +18,38 @@ edition_slot: 2
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "child-safe medicine cabinet at bedtime with melatonin bottle stored high, conceptual illustration, no brands"
+event_id: ''
+series: ''
+image_query: child-safe medicine cabinet at bedtime with melatonin bottle stored high,
+  conceptual illustration, no brands
 sources:
-  - name: "CDC Morbidity and Mortality Weekly Report — pediatric ingestions"
-    url: "https://www.cdc.gov/mmwr/volumes/71/wr/mm7122a1.htm"
-    published: "2022-06-03"
-  - name: "CDC Morbidity and Mortality Weekly Report — emergency visits"
-    url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7309a5.htm"
-    published: "2024-03-07"
-  - name: "JAMA"
-    url: "https://jamanetwork.com/journals/jama/fullarticle/2804077"
-    published: "2023-04-25"
-  - name: "American Academy of Pediatrics — HealthyChildren.org"
-    url: "https://www.healthychildren.org/English/healthy-living/sleep/Pages/melatonin-and-childrens-sleep.aspx"
-    published: "2026-01-22"
-  - name: "American Academy of Sleep Medicine"
-    url: "https://aasm.org/advocacy/position-statements/melatonin-use-in-children-and-adolescents-health-advisory/"
-    published: "2022-09-09"
-qma_path: ""
+- name: CDC Morbidity and Mortality Weekly Report — pediatric ingestions
+  url: https://www.cdc.gov/mmwr/volumes/71/wr/mm7122a1.htm
+  published: '2022-06-03'
+- name: CDC Morbidity and Mortality Weekly Report — emergency visits
+  url: https://www.cdc.gov/mmwr/volumes/73/wr/mm7309a5.htm
+  published: '2024-03-07'
+- name: JAMA
+  url: https://jamanetwork.com/journals/jama/fullarticle/2804077
+  published: '2023-04-25'
+- name: American Academy of Pediatrics — HealthyChildren.org
+  url: https://www.healthychildren.org/English/healthy-living/sleep/Pages/melatonin-and-childrens-sleep.aspx
+  published: '2026-01-22'
+- name: American Academy of Sleep Medicine
+  url: https://aasm.org/advocacy/position-statements/melatonin-use-in-children-and-adolescents-health-advisory/
+  published: '2022-09-09'
+qma_path: ''
 tickers: []
 quiz:
-  question: "What is melatonin?"
-  options: ["A hormone involved in sleep timing", "A sedating mineral", "An herbal extract"]
+  question: What is melatonin?
+  options:
+  - A hormone involved in sleep timing
+  - A sedating mineral
+  - An herbal extract
   answer: 0
-  explanation: "The body produces melatonin as a timing signal for the sleep-wake cycle; a supplement adds more of that hormone-like signal."
+  explanation: The body produces melatonin as a timing signal for the sleep-wake cycle;
+    a supplement adds more of that hormone-like signal.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
