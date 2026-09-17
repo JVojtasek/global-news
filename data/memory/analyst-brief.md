@@ -65,9 +65,8 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 39 dní · 24 záznamů
+- rubrika `world` · sledováno 39 dní · 25 záznamů
 - časová osa:
-  - **2026-09-10** (2 zdrojů) Oil, gas and borrowing costs surge as fears over Middle East escalate
   - **2026-09-11** (2 zdrojů) Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
   - **2026-09-11** (2 zdrojů) Israel says it has destroyed major underground Hezbollah base
   - **2026-09-12** (4 zdrojů) Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
@@ -77,14 +76,13 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-15** (2 zdrojů) Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen
   - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
   - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
+  - **2026-09-17** (2 zdrojů) Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Trump signs order to rename Lake Ontario as Lake America
-- rubrika `world` · sledováno 21 dní · 22 záznamů
+- rubrika `world` · sledováno 21 dní · 24 záznamů
 - časová osa:
-  - **2026-09-08** (2 zdrojů) Trump threatens to stop sale of Canadian Bombardier jets in US
-  - **2026-09-08** (2 zdrojů) Trump threatens to block Canada's Bombardier planes from US market
   - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
   - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones
   - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
@@ -93,3 +91,5 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-17** (2 zdrojů) Trump calls EU's offer of associate partnership to Canada 'laughable' – video
   - **2026-09-17** (2 zdrojů) Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’
   - **2026-09-17** (2 zdrojů) Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat
+  - **2026-09-17** (2 zdrojů) Canada is a 'safe harbour' for global finance, Carney says
+  - **2026-09-17** (2 zdrojů) Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech

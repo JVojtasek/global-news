@@ -51,24 +51,7 @@
     <https://www.bbc.com/news/articles/cjwyzrr9d3dko>
     > Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 386 # Comments: 380
 
-### 3. Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
-- id události: `c7dc7c1ccb05`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
-    <https://www.theguardian.com/world/2026/sep/14/gulf-states-postpone-strait-of-hormuz-talks-iran-yemen-houthi-saudi-arabia-airbase-pipeline>
-    > Impasse comes amid growing Saudi anger with Tehran over Houthi advances and strikes on airbase and pipeline Oil prices rise after drone attacks shut down Saudi Arabia’s east-west pipeline Gulf states have postponed a critical meeting with Iran on the future of the strait of Hormu
-  - **CNBC Top** — Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
-    <https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html>
-    > Saudi Arabia temporarily shut the roughly 750-mile pipeline as attacks threaten a key alternative to the Strait of Hormuz.
-  - **Al Jazeera** — Strait of Hormuz talks postponed due to Yemen events, says Iran
-    <https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss>
-    > Foreign Ministry spokesperson Esmaeil Baghaei says Iran does not interfere in Yemeni affairs.
-  - **France 24** — As Yemen conflict intensifies, Iran the winner?
-    <https://www.france24.com/en/video/20260914-as-yemen-conflict-intensifies-iran-the-winner>
-    > The conflict in Yemen intensified on Sunday, as government forces launched attacks against Iran-backed Houthi rebels along the Red Sea and Houthis fired into neighboring Saudi Arabia, which supports Yemen’s government. It comes after Houthis captured the port city of Mokha and an
-
-### 4. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
+### 3. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
 - id události: `af58aea1ebf5`  ·  rubrika: `tech`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -90,6 +73,26 @@
   - **The Verge** — I reviewed Valve’s Steam Frame, ask me anything
     <https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered>
     > Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4P
+
+### 4. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
+- id události: `9c657c0b5de7`  ·  rubrika: `culture`  ·  skóre: 66  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
+    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
+    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
+  - **Guardian Culture** — Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments
+    <https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment>
+    > English singer outlined his position after US stadium owners refused to let rapper perform after political speech Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech Singer Ed Sheeran has responded to the backlash over the removal of Macklemore from his Nor
+  - **BBC Entertainment** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
+    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
+    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
+  - **BBC Entertainment** — Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech
+    <https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss>
+    > The US rapper was condemned by Jewish groups after making comments criticising Israel.
+  - **France 24** — Macklemore taken off Ed Sheeran's US tour
+    <http://www.france24.com/en/video/20260915-macklemore-taken-off-ed-sheeran-s-us-tour>
+    > 🎤 American rapper Macklemore has been removed as the opening act for British singer-songwriter Ed Sheeran's US tour after the former made statements supporting his pro-Palestine stance on stage. The Grammy-winning-artist has been vocal about his position over the past few years, 
 
 ---
 
