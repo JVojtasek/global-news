@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-16
+# ANALYTICKÉ ZADÁNÍ — 2026-09-17
 
-Paměť obsahuje **103 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
@@ -37,9 +37,8 @@ Paměť obsahuje **103 vláken**. Aktivních za posledních 14 dní: **45**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 28 dní · 53 záznamů
+- rubrika `sport` · sledováno 30 dní · 54 záznamů
 - časová osa:
-  - **2026-09-10** (2 zdrojů) ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
   - **2026-09-10** (3 zdrojů) Europe's next great coach? How Fabregas led Como into Champions League
   - **2026-09-10** (2 zdrojů) Manchester United v Sabah: Champions League – live
   - **2026-09-10** (2 zdrojů) Man United put four past Sabah on Champions League return
@@ -49,6 +48,7 @@ Paměť obsahuje **103 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
   - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
   - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
+  - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 32 dní · 38 záznamů

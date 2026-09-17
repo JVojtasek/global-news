@@ -1,11 +1,11 @@
-# MY PAPER EDITION PLAN — 2026-09-16
+# MY PAPER EDITION PLAN — 2026-09-17
 
 Six original public analyses plus one reserve feature.
 
-- Slot 1: `flagship` · `parenting` · `daily` · 1400–2000 words
-- Slot 2: `evidence` · `safety` · `analysis` · 1000–1500 words
-- Slot 3: `practical` · `sport` · `analysis` · 900–1400 words
-- Slot 4: `memory` · `motoring` · `analysis` · 1000–1600 words
-- Slot 5: `evergreen` · `tech` · `analysis` · 1000–1500 words
-- Slot 6: `human` · `relationships` · `analysis` · 900–1400 words
-- Slot 7: `reserve` · `science` · `feature` · 1000–1600 words · reserve
+- Slot 1: `flagship` · `motoring` · `daily` · 1400–2000 words
+- Slot 2: `evidence` · `parenting` · `analysis` · 1000–1500 words
+- Slot 3: `practical` · `tech` · `analysis` · 900–1400 words
+- Slot 4: `memory` · `relationships` · `analysis` · 1000–1600 words
+- Slot 5: `evergreen` · `science` · `analysis` · 1000–1500 words
+- Slot 6: `human` · `meaning` · `analysis` · 900–1400 words
+- Slot 7: `reserve` · `history` · `feature` · 1000–1600 words · reserve

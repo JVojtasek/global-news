@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-16
+# ZADÁNÍ PRO REDAKCI — 2026-09-17
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -92,7 +92,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
+### electric car battery
+- rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
 
