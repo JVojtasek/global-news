@@ -81,11 +81,8 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Trump signs order to rename Lake Ontario as Lake America
-- rubrika `world` · sledováno 21 dní · 19 záznamů
+- rubrika `world` · sledováno 21 dní · 22 záznamů
 - časová osa:
-  - **2026-09-02** (2 zdrojů) Trump’s ridiculous bullying of Canada is backfiring | Robert Reich
-  - **2026-09-02** (2 zdrojů) Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order
-  - **2026-09-07** (2 zdrojů) Trump threatens to block Canada’s Bombardier sales unless planes made in US
   - **2026-09-08** (2 zdrojů) Trump threatens to stop sale of Canadian Bombardier jets in US
   - **2026-09-08** (2 zdrojů) Trump threatens to block Canada's Bombardier planes from US market
   - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
@@ -93,3 +90,6 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
   - **2026-09-17** (2 zdrojů) Trump threatens EU with further sanctions over Canada
   - **2026-09-17** (3 zdrojů) Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live
+  - **2026-09-17** (2 zdrojů) Trump calls EU's offer of associate partnership to Canada 'laughable' – video
+  - **2026-09-17** (2 zdrojů) Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’
+  - **2026-09-17** (2 zdrojů) Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat

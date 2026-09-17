@@ -1081,25 +1081,27 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
-    "canadian",
-    "reich",
     "bombardier",
-    "canada",
     "europe",
-    "park",
-    "canada's",
-    "south",
-    "apple",
-    "lake",
-    "mapquest",
-    "google",
     "trump",
-    "america",
-    "ontario",
-    "robert",
-    "weekly",
     "maps",
-    "politics"
+    "lake",
+    "canada's",
+    "weekly",
+    "google",
+    "mapquest",
+    "carney",
+    "ontario",
+    "park",
+    "apple",
+    "reich",
+    "robert",
+    "south",
+    "eu's",
+    "canada",
+    "politics",
+    "america",
+    "canadian"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -1120,7 +1122,10 @@
     "ba25d6c2d4c7",
     "79ad9912719f",
     "0a4802f0e85a",
-    "869ca936dee5"
+    "869ca936dee5",
+    "9417b69ea434",
+    "5ffc61341047",
+    "16cb99ad25e3"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-09-17",
@@ -1339,6 +1344,39 @@
       "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
       "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-rdf",
       "http://www.france24.com/en/tv-shows/press-review/20260917-the-canaduropean-union-canada-an-associate-member-of-the-eu"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump calls EU's offer of associate partnership to Canada 'laughable' – video",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9417b69ea434",
+     "links": [
+      "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video",
+      "http://www.france24.com/en/video/20260917-laughable-trump-threatens-to-cut-eu-trade-over-canada-ties"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+     "sources": 2,
+     "score": 41,
+     "event_id": "5ffc61341047",
+     "links": [
+      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+      "http://www.france24.com/en/video/20260917-stronger-together-canada-s-carney-welcomes-eu-associate-member-proposal"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+     "sources": 2,
+     "score": 40,
+     "event_id": "16cb99ad25e3",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
      ]
     }
    ]
@@ -9264,5 +9302,5 @@
    ]
   }
  ],
- "updated": "2026-09-17T09:29:24+00:00"
+ "updated": "2026-09-17T12:37:09+00:00"
 }
