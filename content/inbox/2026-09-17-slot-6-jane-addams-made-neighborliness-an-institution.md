@@ -2,7 +2,7 @@
 slug: jane-addams-made-neighborliness-an-institution
 title: Jane Addams Made Neighborliness an Institution
 dek: Hull-House mattered not because one reformer arrived with answers, but because residents tried to turn proximity, inquiry and shared work into public power.
-section: Meaning
+section: meaning
 type: analysis
 depth: open
 lang: en
