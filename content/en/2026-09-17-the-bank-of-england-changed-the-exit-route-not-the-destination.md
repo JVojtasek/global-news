@@ -1,13 +1,15 @@
 ---
 slug: the-bank-of-england-changed-the-exit-route-not-the-destination
 title: The Bank of England Changed the Exit Route, Not the Destination
-dek: Britain’s central bank paused its own bond auctions and redrew the final years of quantitative tightening. That changes who may execute the sales, not the decision to unwind the monetary-policy portfolio.
+dek: Britain’s central bank paused its own bond auctions and redrew the final years
+  of quantitative tightening. That changes who may execute the sales, not the decision
+  to unwind the monetary-policy portfolio.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-09-17'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics:
@@ -29,10 +31,12 @@ sources:
 - name: HM Treasury — Update on the Asset Purchase Facility
   url: https://www.gov.uk/government/publications/update-on-the-asset-purchase-facility-apf
   published: '2026-09-17'
-- name: Reuters — Bank of England halts long-dated gilt sales and rewrites plan to unwind QE
+- name: Reuters — Bank of England halts long-dated gilt sales and rewrites plan to
+    unwind QE
   url: https://www.reuters.com/business/finance/bank-england-halts-long-dated-gilt-sales-rewrites-plan-unwind-qe-2026-09-17/
   published: '2026-09-17'
-- name: The Guardian — Bank of England holds interest rates at 3.75% but warns war could force future rises
+- name: The Guardian — Bank of England holds interest rates at 3.75% but warns war
+    could force future rises
   url: https://www.theguardian.com/business/2026/sep/17/bank-of-england-holds-interest-rates-inflation
   published: '2026-09-17'
 impact:
@@ -40,18 +44,26 @@ impact:
   - UK borrowing costs
   - public debt management
   - pension and bond markets
-  line: The redesign may reduce pressure at the longest end of the gilt market and make the remaining QE unwind more predictable, but it does not lower Bank Rate or cancel quantitative tightening.
-  todo: Separate the unchanged policy rate from the changed bond-sale machinery, and watch the operational decision due by April 2027 rather than treating the auction pause as a new stimulus.
+  line: The redesign may reduce pressure at the longest end of the gilt market and
+    make the remaining QE unwind more predictable, but it does not lower Bank Rate
+    or cancel quantitative tightening.
+  todo: Separate the unchanged policy rate from the changed bond-sale machinery, and
+    watch the operational decision due by April 2027 rather than treating the auction
+    pause as a new stimulus.
 qma_path: ''
 tickers: []
 quiz:
-  question: What did the Bank of England decide about the gilts left from quantitative easing?
+  question: What did the Bank of England decide about the gilts left from quantitative
+    easing?
   options:
   - Keep the entire £488 billion portfolio permanently and end quantitative tightening
-  - Set aside £120 billion to back banknotes and unwind the remaining £368 billion by 2034 through maturities and annual sales
+  - Set aside £120 billion to back banknotes and unwind the remaining £368 billion
+    by 2034 through maturities and annual sales
   - Sell every remaining gilt immediately and raise Bank Rate to 4%
   answer: 1
-  explanation: The MPC kept Bank Rate at 3.75%, retained £120 billion of long-dated gilts for banknote backing and adopted a plan to run down the £368 billion monetary-policy portfolio by September 2034.
+  explanation: The MPC kept Bank Rate at 3.75%, retained £120 billion of long-dated
+    gilts for banknote backing and adopted a plan to run down the £368 billion monetary-policy
+    portfolio by September 2034.
 ---
 
 ## BRIEFLY
