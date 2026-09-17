@@ -2,7 +2,7 @@
 slug: the-hello-girls-connected-the-army-before-it-recognized-them
 title: The Hello Girls Connected the Army Before It Recognized Them
 dek: In France, bilingual operators made military telephones useful. At home, the institution they served spent six decades calling them civilians.
-section: History
+section: history
 type: feature
 depth: open
 lang: en
