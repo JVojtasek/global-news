@@ -1,14 +1,15 @@
 ---
 slug: the-hello-girls-connected-the-army-before-it-recognized-them
 title: The Hello Girls Connected the Army Before It Recognized Them
-dek: In France, bilingual operators made military telephones useful. At home, the institution they served spent six decades calling them civilians.
+dek: In France, bilingual operators made military telephones useful. At home, the
+  institution they served spent six decades calling them civilians.
 section: history
 type: feature
 depth: open
 lang: en
 date: '2026-09-17'
 status: reserve
-confidence: high
+confidence: 95
 load: 0
 topics:
 - World War I
@@ -44,10 +45,13 @@ quiz:
   question: What made the Hello Girls’ postwar status especially contradictory?
   options:
   - They had worked only for private telephone companies and never went overseas.
-  - They served under Army authority in uniform and took an oath, yet were classified as civilian employees when they sought recognition.
+  - They served under Army authority in uniform and took an oath, yet were classified
+    as civilian employees when they sought recognition.
   - They refused military discharge papers because they preferred civilian pensions.
   answer: 1
-  explanation: The women were recruited for Army communications, wore uniforms, followed military discipline and served in France, but the government denied them veteran status until legislation in 1977.
+  explanation: The women were recruited for Army communications, wore uniforms, followed
+    military discipline and served in France, but the government denied them veteran
+    status until legislation in 1977.
 ---
 
 ## BRIEFLY

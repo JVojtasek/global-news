@@ -1,14 +1,15 @@
 ---
 slug: jane-addams-made-neighborliness-an-institution
 title: Jane Addams Made Neighborliness an Institution
-dek: Hull-House mattered not because one reformer arrived with answers, but because residents tried to turn proximity, inquiry and shared work into public power.
+dek: Hull-House mattered not because one reformer arrived with answers, but because
+  residents tried to turn proximity, inquiry and shared work into public power.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-09-17'
-status: draft
-confidence: high
+status: published
+confidence: 95
 load: 0
 topics:
 - Jane Addams
@@ -44,10 +45,13 @@ quiz:
   question: Which description best captures the civic method associated with Hull-House?
   options:
   - Deliver a fixed charity programme designed away from the neighbourhood.
-  - Live near neighbours, investigate conditions with them, and build services and reform through continuing relationships.
+  - Live near neighbours, investigate conditions with them, and build services and
+    reform through continuing relationships.
   - Replace local organisations with a single national institution.
   answer: 1
-  explanation: Hull-House combined residence, practical services, research, culture and political reform. Its strongest lesson is participation and adaptation, not a one-way gift from experts.
+  explanation: Hull-House combined residence, practical services, research, culture
+    and political reform. Its strongest lesson is participation and adaptation, not
+    a one-way gift from experts.
 ---
 
 ## BRIEFLY

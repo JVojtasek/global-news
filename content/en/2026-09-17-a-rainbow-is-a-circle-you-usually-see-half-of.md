@@ -1,14 +1,15 @@
 ---
 slug: a-rainbow-is-a-circle-you-usually-see-half-of
 title: A Rainbow Is a Circle You Usually See Half Of
-dek: The familiar arc is not the object itself. It is the visible edge of a viewing geometry that moves with you.
+dek: The familiar arc is not the object itself. It is the visible edge of a viewing
+  geometry that moves with you.
 section: science
 type: analysis
 depth: open
 lang: en
 date: '2026-09-17'
-status: draft
-confidence: high
+status: published
+confidence: 89
 load: 0
 topics:
 - optics
@@ -38,13 +39,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why can a passenger in an aircraft sometimes see a complete circular rainbow while someone on level ground usually sees an arc?
+  question: Why can a passenger in an aircraft sometimes see a complete circular rainbow
+    while someone on level ground usually sees an arc?
   options:
   - Aircraft windows bend the two ends of the rainbow together.
-  - The rainbow geometry is circular, but the ground usually hides the lower part from a ground-based observer.
+  - The rainbow geometry is circular, but the ground usually hides the lower part
+    from a ground-based observer.
   - Raindrops become spherical only at high altitude.
   answer: 1
-  explanation: A rainbow forms around the point opposite the Sun from the observer. The cone of returning light makes a circular outline, but terrain normally blocks the part below the horizon.
+  explanation: A rainbow forms around the point opposite the Sun from the observer.
+    The cone of returning light makes a circular outline, but terrain normally blocks
+    the part below the horizon.
 ---
 
 ## BRIEFLY
