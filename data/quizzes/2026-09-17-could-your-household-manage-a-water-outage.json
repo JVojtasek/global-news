@@ -50,7 +50,7 @@
       }
     },
     {
-      "id": "safe_use",
+      "id": "safe-use",
       "label": {"en": "Safe use", "cs": "Bezpečné použití"},
       "why": {
         "en": "Drinking is only one exposure route; cooking, ice, brushing teeth and dishwashing can matter too.",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "id": "household_needs",
+      "id": "household-needs",
       "label": {"en": "Household needs", "cs": "Potřeby domácnosti"},
       "why": {
         "en": "Pets, heat, illness, pregnancy, mobility and specialised equipment can change both quantity and access needs.",
@@ -133,7 +133,7 @@
     },
     {
       "id": "q5",
-      "dimension": "safe_use",
+      "dimension": "safe-use",
       "text": {
         "en": "During a drinking-water advisory, which uses would your household review?",
         "cs": "Která použití by vaše domácnost při varování pro pitnou vodu prověřila?"
@@ -147,7 +147,7 @@
     },
     {
       "id": "q6",
-      "dimension": "safe_use",
+      "dimension": "safe-use",
       "text": {
         "en": "How do you decide whether boiling or another treatment is appropriate?",
         "cs": "Jak rozhodujete, zda je vhodné převaření nebo jiná úprava?"
@@ -161,7 +161,7 @@
     },
     {
       "id": "q7",
-      "dimension": "household_needs",
+      "dimension": "household-needs",
       "text": {
         "en": "How well does your plan cover needs that change water quantity or access?",
         "cs": "Jak dobře váš plán pokrývá potřeby, které mění množství vody nebo přístup k ní?"
@@ -175,7 +175,7 @@
     },
     {
       "id": "q8",
-      "dimension": "household_needs",
+      "dimension": "household-needs",
       "text": {
         "en": "If your stored supply ran low, what is your backup?",
         "cs": "Jakou máte zálohu, kdyby uložená zásoba docházela?"
