@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-17
 
-Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -65,9 +65,8 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 37 dní · 23 záznamů
+- rubrika `world` · sledováno 39 dní · 24 záznamů
 - časová osa:
-  - **2026-09-09** (2 zdrojů) Oil prices rise as Middle East conflict escalates
   - **2026-09-10** (2 zdrojů) Oil, gas and borrowing costs surge as fears over Middle East escalate
   - **2026-09-11** (2 zdrojů) Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
   - **2026-09-11** (2 zdrojů) Israel says it has destroyed major underground Hezbollah base
@@ -77,19 +76,20 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-15** (2 zdrojů) Saudi Arabia faces hard choices as Houthis gain in Yemen
   - **2026-09-15** (2 zdrojů) Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen
   - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
+  - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
-### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 37 dní · 19 záznamů
+### Trump signs order to rename Lake Ontario as Lake America
+- rubrika `world` · sledováno 21 dní · 19 záznamů
 - časová osa:
-  - **2026-08-28** (3 zdrojů) Nearly 700 rogue AI agents coordinated in the Hugging Face attack
-  - **2026-08-29** (4 zdrojů) The inside story on why OpenAI agents hacked Hugging Face
-  - **2026-08-31** (2 zdrojů) Hugging Face hack could indicate cultural issues at OpenAI
-  - **2026-09-01** (2 zdrojů) OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face
-  - **2026-09-03** (3 zdrojů) Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC
-  - **2026-09-03** (5 zdrojů) Nvidia buys Hugging Face, the GitHub of AI, for $13 billion
-  - **2026-09-03** (4 zdrojů) Nvidia strikes $12.9bn deal to buy AI platform Hugging Face
-  - **2026-09-04** (5 zdrojů) OpenAI agents hijacked German website before Hugging Face hack, report claims
-  - **2026-09-15** (2 zdrojů) Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’
-  - **2026-09-16** (2 zdrojů) We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says
+  - **2026-09-02** (2 zdrojů) Trump’s ridiculous bullying of Canada is backfiring | Robert Reich
+  - **2026-09-02** (2 zdrojů) Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order
+  - **2026-09-07** (2 zdrojů) Trump threatens to block Canada’s Bombardier sales unless planes made in US
+  - **2026-09-08** (2 zdrojů) Trump threatens to stop sale of Canadian Bombardier jets in US
+  - **2026-09-08** (2 zdrojů) Trump threatens to block Canada's Bombardier planes from US market
+  - **2026-09-08** (2 zdrojů) South Park changes name to South America in response to Trump changes
+  - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones
+  - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
+  - **2026-09-17** (2 zdrojů) Trump threatens EU with further sanctions over Canada
+  - **2026-09-17** (3 zdrojů) Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live
