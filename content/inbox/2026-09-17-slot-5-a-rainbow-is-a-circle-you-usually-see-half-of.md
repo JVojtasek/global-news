@@ -2,7 +2,7 @@
 slug: a-rainbow-is-a-circle-you-usually-see-half-of
 title: A Rainbow Is a Circle You Usually See Half Of
 dek: The familiar arc is not the object itself. It is the visible edge of a viewing geometry that moves with you.
-section: Science
+section: science
 type: analysis
 depth: open
 lang: en
