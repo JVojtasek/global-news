@@ -740,38 +740,39 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
+    "netanyahu",
+    "eurovision",
+    "jared",
+    "joseph",
+    "arabian",
+    "israel",
+    "paris",
+    "hamas",
+    "board",
+    "iraq",
+    "british",
+    "hezbollah",
+    "macron",
+    "arabia",
+    "emmanuel",
+    "trump's",
+    "kushner",
+    "lebanon",
+    "peace",
+    "trump",
+    "saudi",
+    "yemen",
+    "middle",
+    "ireland",
     "israeli",
     "east",
     "east-west",
-    "arabia",
-    "ireland",
-    "yemen",
-    "taher",
-    "peace",
-    "jerusalem",
-    "emmanuel",
-    "joseph",
-    "macron",
-    "board",
-    "paris",
-    "gaza",
-    "lebanon",
-    "netanyahu",
-    "trump's",
-    "eurovision",
-    "arabian",
-    "saudi",
+    "verified",
     "aoun",
-    "jared",
-    "kushner",
+    "jerusalem",
     "houthis",
-    "middle",
-    "hezbollah",
-    "israel",
-    "british",
-    "hamas",
-    "iraq",
-    "trump"
+    "gaza",
+    "taher"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -798,7 +799,8 @@
     "84d31eadb0fe",
     "3ac801265aa0",
     "1db88ae782d0",
-    "6db70951bf71"
+    "6db70951bf71",
+    "72cd7d7d5454"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-17",
@@ -1086,6 +1088,18 @@
      "links": [
       "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
       "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+     "sources": 4,
+     "score": 70,
+     "event_id": "72cd7d7d5454",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
      ]
     }
    ]
@@ -1422,6 +1436,299 @@
    ]
   },
   {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "nearly",
+    "nvidia",
+    "github",
+    "exploit",
+    "hacking",
+    "trump",
+    "labs",
+    "goodfire",
+    "detailed",
+    "huang",
+    "zero-days",
+    "breach",
+    "agents",
+    "jensen",
+    "nvidia's",
+    "cyberattack",
+    "face",
+    "base",
+    "hugging",
+    "cnbc",
+    "drove",
+    "timeline",
+    "openai",
+    "unexpected",
+    "alabama",
+    "reward",
+    "german"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6",
+    "3544561ca685",
+    "df3a38888008",
+    "0321378bd042",
+    "69b225fb598b",
+    "de5690d7d612",
+    "e4222c90706c",
+    "a0f5f526129b",
+    "d44ccc0ba93d",
+    "f247281fba63",
+    "3152bdb0ea47",
+    "2b3aa79e4244",
+    "3808e2aaf93d",
+    "b237fa49f681"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-09-17",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+     "sources": 3,
+     "score": 57,
+     "event_id": "df3a38888008",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+     "sources": 3,
+     "score": 50,
+     "event_id": "0321378bd042",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+     "sources": 4,
+     "score": 71,
+     "event_id": "69b225fb598b",
+     "links": [
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
+     "sources": 2,
+     "score": 45,
+     "event_id": "de5690d7d612",
+     "links": [
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e4222c90706c",
+     "links": [
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
+     "sources": 3,
+     "score": 50,
+     "event_id": "a0f5f526129b",
+     "links": [
+      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+     "sources": 5,
+     "score": 75,
+     "event_id": "d44ccc0ba93d",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+     "sources": 4,
+     "score": 65,
+     "event_id": "f247281fba63",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+     "sources": 5,
+     "score": 80,
+     "event_id": "3152bdb0ea47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2b3aa79e4244",
+     "links": [
+      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3808e2aaf93d",
+     "links": [
+      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+     "sources": 2,
+     "score": 43,
+     "event_id": "b237fa49f681",
+     "links": [
+      "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "https://huggingface.co/blog/baseten"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1301430cb05f",
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
@@ -1707,6 +2014,268 @@
    ]
   },
   {
+   "id": "64969c4b1451",
+   "title": "UEFA to bring criminal complaint against Infantino",
+   "section": "world",
+   "entities": [
+    "fifa",
+    "women",
+    "embattled",
+    "world",
+    "trump",
+    "uefa",
+    "ronay",
+    "hughes",
+    "spain",
+    "fiba",
+    "france",
+    "infantino",
+    "matt",
+    "barney",
+    "english",
+    "olympic"
+   ],
+   "event_ids": [
+    "64969c4b1451",
+    "2d68919227f3",
+    "361927991686",
+    "d9c728231823",
+    "38cabdf07e25",
+    "d2783d28192e",
+    "1299730da6fe",
+    "d9d0817251f8",
+    "c8934b689343"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-17",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "UEFA to bring criminal complaint against Infantino",
+     "sources": 4,
+     "score": 71,
+     "event_id": "64969c4b1451",
+     "links": [
+      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2d68919227f3",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
+      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
+     "sources": 2,
+     "score": 41,
+     "event_id": "361927991686",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+     "sources": 2,
+     "score": 42,
+     "event_id": "d9c728231823",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
+     "sources": 3,
+     "score": 49,
+     "event_id": "38cabdf07e25",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
+      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "France wants to transform Fifa after withdrawing Infantino support",
+     "sources": 3,
+     "score": 58,
+     "event_id": "d2783d28192e",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260910-gianni-infantino-french-football-federation-withdraws-support-for-fifa-chief",
+      "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1299730da6fe",
+     "links": [
+      "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final",
+      "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "USA defend Fiba Women’s World Cup title after early scare against France",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d9d0817251f8",
+     "links": [
+      "https://www.theguardian.com/sport/2026/sep/13/usa-fiba-womens-world-cup-france-breanna-stewart-caitlin-clark",
+      "https://www.france24.com/en/sport/20260913-us-beats-spirited-france-to-win-12th-women-s-basketball-world-cup"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "English FA calls for Infantino to release FIFA World Cup sell-off documents",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c8934b689343",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7da4e07716c7",
+   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+   "section": "world",
+   "entities": [
+    "massie",
+    "china",
+    "iran",
+    "wife",
+    "defense",
+    "secretary",
+    "pentagon",
+    "trump",
+    "hegseth",
+    "november",
+    "republican"
+   ],
+   "event_ids": [
+    "7da4e07716c7",
+    "7d0d4d3f6bdb",
+    "9ba97aff3e7d",
+    "685eb5ef4b77",
+    "dc98be3509f8",
+    "83c9ff637cd4",
+    "1a58c450df85",
+    "0bd2b78f98d3"
+   ],
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-17",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7da4e07716c7",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Iran war won't end until after crucial November elections, says Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7d0d4d3f6bdb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump dismisses report China supplied intel to Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ba97aff3e7d",
+     "links": [
+      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "sources": 2,
+     "score": 40,
+     "event_id": "685eb5ef4b77",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dc98be3509f8",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1a58c450df85",
+     "links": [
+      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+     "sources": 2,
+     "score": 48,
+     "event_id": "0bd2b78f98d3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9c657c0b5de7",
    "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
    "section": "culture",
@@ -1856,284 +2425,6 @@
       "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-rdf",
       "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
       "http://www.france24.com/en/americas/20260916-leon-black-epstein-contempt-congress"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "entities": [
-    "german",
-    "reward",
-    "jensen",
-    "face",
-    "exploit",
-    "unexpected",
-    "timeline",
-    "hugging",
-    "nearly",
-    "drove",
-    "nvidia's",
-    "cnbc",
-    "detailed",
-    "nvidia",
-    "cyberattack",
-    "trump",
-    "alabama",
-    "huang",
-    "zero-days",
-    "github",
-    "hacking",
-    "openai",
-    "agents",
-    "breach"
-   ],
-   "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4",
-    "bd2de1c640b6",
-    "3544561ca685",
-    "df3a38888008",
-    "0321378bd042",
-    "69b225fb598b",
-    "de5690d7d612",
-    "e4222c90706c",
-    "a0f5f526129b",
-    "d44ccc0ba93d",
-    "f247281fba63",
-    "3152bdb0ea47",
-    "2b3aa79e4244",
-    "3808e2aaf93d"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-     "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
-     "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
-     "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
-     "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-     "sources": 3,
-     "score": 57,
-     "event_id": "df3a38888008",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-     "sources": 3,
-     "score": 50,
-     "event_id": "0321378bd042",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-     "sources": 4,
-     "score": 71,
-     "event_id": "69b225fb598b",
-     "links": [
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
-     "sources": 2,
-     "score": 45,
-     "event_id": "de5690d7d612",
-     "links": [
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e4222c90706c",
-     "links": [
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
-     "sources": 3,
-     "score": 50,
-     "event_id": "a0f5f526129b",
-     "links": [
-      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "sources": 5,
-     "score": 75,
-     "event_id": "d44ccc0ba93d",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "sources": 4,
-     "score": 65,
-     "event_id": "f247281fba63",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-     "sources": 5,
-     "score": 80,
-     "event_id": "3152bdb0ea47",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2b3aa79e4244",
-     "links": [
-      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3808e2aaf93d",
-     "links": [
-      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
      ]
     }
    ]
@@ -3607,115 +3898,6 @@
       "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
       "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
       "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7da4e07716c7",
-   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-   "section": "world",
-   "entities": [
-    "november",
-    "republican",
-    "trump",
-    "massie",
-    "pentagon",
-    "defense",
-    "secretary",
-    "iran",
-    "hegseth",
-    "china"
-   ],
-   "event_ids": [
-    "7da4e07716c7",
-    "7d0d4d3f6bdb",
-    "9ba97aff3e7d",
-    "685eb5ef4b77",
-    "dc98be3509f8",
-    "83c9ff637cd4",
-    "1a58c450df85"
-   ],
-   "first_seen": "2026-09-11",
-   "last_seen": "2026-09-15",
-   "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7da4e07716c7",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Iran war won't end until after crucial November elections, says Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7d0d4d3f6bdb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump dismisses report China supplied intel to Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ba97aff3e7d",
-     "links": [
-      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "sources": 2,
-     "score": 40,
-     "event_id": "685eb5ef4b77",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dc98be3509f8",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "83c9ff637cd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1a58c450df85",
-     "links": [
-      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
      ]
     }
    ]
@@ -5478,133 +5660,6 @@
       "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
       "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
       "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "64969c4b1451",
-   "title": "UEFA to bring criminal complaint against Infantino",
-   "section": "world",
-   "entities": [
-    "infantino",
-    "hughes",
-    "uefa",
-    "world",
-    "ronay",
-    "women",
-    "fifa",
-    "fiba",
-    "trump",
-    "france",
-    "barney",
-    "embattled",
-    "matt",
-    "spain",
-    "olympic"
-   ],
-   "event_ids": [
-    "64969c4b1451",
-    "2d68919227f3",
-    "361927991686",
-    "d9c728231823",
-    "38cabdf07e25",
-    "d2783d28192e",
-    "1299730da6fe",
-    "d9d0817251f8"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-09-13",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "UEFA to bring criminal complaint against Infantino",
-     "sources": 4,
-     "score": 71,
-     "event_id": "64969c4b1451",
-     "links": [
-      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2d68919227f3",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
-      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
-     "sources": 2,
-     "score": 41,
-     "event_id": "361927991686",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
-     "sources": 2,
-     "score": 42,
-     "event_id": "d9c728231823",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
-     "sources": 3,
-     "score": 49,
-     "event_id": "38cabdf07e25",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "France wants to transform Fifa after withdrawing Infantino support",
-     "sources": 3,
-     "score": 58,
-     "event_id": "d2783d28192e",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260910-gianni-infantino-french-football-federation-withdraws-support-for-fifa-chief",
-      "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1299730da6fe",
-     "links": [
-      "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final",
-      "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final"
-     ]
-    },
-    {
-     "date": "2026-09-13",
-     "headline": "USA defend Fiba Women’s World Cup title after early scare against France",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d9d0817251f8",
-     "links": [
-      "https://www.theguardian.com/sport/2026/sep/13/usa-fiba-womens-world-cup-france-breanna-stewart-caitlin-clark",
-      "https://www.france24.com/en/sport/20260913-us-beats-spirited-france-to-win-12th-women-s-basketball-world-cup"
      ]
     }
    ]
@@ -9369,5 +9424,5 @@
    ]
   }
  ],
- "updated": "2026-09-17T15:26:17+00:00"
+ "updated": "2026-09-17T18:31:22+00:00"
 }

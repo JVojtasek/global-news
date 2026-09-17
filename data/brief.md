@@ -51,28 +51,22 @@
     <https://www.bbc.com/news/articles/cjwyzrr9d3dko>
     > Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 386 # Comments: 380
 
-### 3. Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
-- id události: `af58aea1ebf5`  ·  rubrika: `tech`  ·  skóre: 66  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 3. Verified video shows wreckage of Saudi fighter jet shot down over Yemen
+- id události: `72cd7d7d5454`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Technology** — Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?
-    <https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss>
-    > The BBC's Tom Gerken is hands-on with the latest virtual reality headset.
-  - **Ars Technica** — Steam Frame: The Ars Technica review
-    <https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/>
-    > Valve's new $1,049 VR hardware tries to revive an abandoned VR "revolution."
-  - **The Verge** — The Steam Frame is made for irresponsible hardware nerds like me
-    <https://www.theverge.com/tech/994267/steam-frame-review>
-    > For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as m
-  - **The Verge** — Valve’s Steam Frame costs $1,059
-    <https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date>
-    > Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of 
-  - **The Verge** — Valve has ported Half-Life: Alyx to ARM, and it’s free with Steam Frame
-    <https://www.theverge.com/games/994454/valve-half-life-alyx-standalone-arm-port>
-    > Today, Valve is launching its first headset since 2019 - the new Steam Frame - while dodging our questions about whether it'll ever make another VR game to go with it. But buyers of the $1,059 gadget will get one flagship VR game anyhow, and it's great. Every Steam Frame comes wi
-  - **The Verge** — I reviewed Valve’s Steam Frame, ask me anything
-    <https://www.theverge.com/games/994535/steam-frame-ama-your-questions-answered>
-    > Hey! I'm Sean Hollister, you might have seen me around this place a few times, and I just spent three weeks beta-testing the Steam Frame, Valve's hotly anticipated new don't-call-it-a-VR-headset that might also be an early glimpse at the future of games that run everywhere. At 4P
+  - **BBC World** — Verified video shows wreckage of Saudi fighter jet shot down over Yemen
+    <https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss>
+    > BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.
+  - **BBC Sport** — Saudi Arabia dropped from World Rally Championship
+    <https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss>
+    > The final round of the 2026 World Rally Championship will be held in Italy instead of Saudi Arabia because of the ongoing unrest in the Middle East.
+  - **Al Jazeera** — Five killed as Saudi Arabia and Yemen’s Houthis trade attacks
+    <https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss>
+    > Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.
+  - **France 24** — Houthis claim Saudi F-15 kill as Yemen fighting escalates
+    <https://www.france24.com/en/houthis-claim-saudi-f-15-kill-as-yemen-fighting-escalates>
+    > Yemen's Houthi rebels have released footage they say shows the wreckage of a Saudi F-15 fighter jet, which, if confirmed, would mark the first fighter jet they have shot down. The claim comes as fighting escalates in Yemen, with the Houthis expanding their control around the stra
 
 ### 4. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
 - id události: `9c657c0b5de7`  ·  rubrika: `culture`  ·  skóre: 66  ·  nezávislých zdrojů: 4

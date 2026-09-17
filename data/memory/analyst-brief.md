@@ -65,9 +65,8 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 39 dní · 25 záznamů
+- rubrika `world` · sledováno 39 dní · 26 záznamů
 - časová osa:
-  - **2026-09-11** (2 zdrojů) Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
   - **2026-09-11** (2 zdrojů) Israel says it has destroyed major underground Hezbollah base
   - **2026-09-12** (4 zdrojů) Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
   - **2026-09-12** (2 zdrojů) Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea
@@ -77,6 +76,7 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
   - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
   - **2026-09-17** (2 zdrojů) Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths
+  - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
