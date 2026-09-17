@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "slug": "could-your-household-manage-a-water-outage",
+  "date": "2026-09-17",
+  "category": "preparedness",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {
+      "en": "Could your household manage a water outage?",
+      "cs": "Zvládla by vaše domácnost výpadek vody?"
+    },
+    "dek": {
+      "en": "A practical self-check for storage, information, safe use and household needs.",
+      "cs": "Praktická sebekontrola zásob, informací, bezpečného použití a potřeb domácnosti."
+    },
+    "intro": {
+      "en": "Choose the answer closest to what is true today, not what you intend to do later. The questions are original and based on public emergency-water guidance.",
+      "cs": "Vyberte odpověď, která nejlépe odpovídá dnešní skutečnosti, ne tomu, co chcete udělat později. Otázky jsou původní a vycházejí z veřejných doporučení pro nouzové zásobování vodou."
+    },
+    "disclaimer": {
+      "en": "This is an educational preparedness check, not a medical, safety or regulatory assessment. During an outage or advisory, follow current instructions from your water utility and local public-health authorities.",
+      "cs": "Jde o vzdělávací kontrolu připravenosti, nikoli o zdravotní, bezpečnostní ani úřední posouzení. Při výpadku nebo varování se řiďte aktuálními pokyny dodavatele vody a místních orgánů ochrany veřejného zdraví."
+    }
+  },
+  "dimensions": [
+    {
+      "id": "supply",
+      "label": {"en": "Stored supply", "cs": "Uložená zásoba"},
+      "why": {
+        "en": "A known, maintained supply buys time when tap water is unavailable or unsafe.",
+        "cs": "Známá a udržovaná zásoba poskytne čas, když voda z kohoutku není dostupná nebo bezpečná."
+      },
+      "action": {
+        "en": "Count people, pets and days, then compare that need with the water you can actually access.",
+        "cs": "Spočítejte osoby, zvířata a dny a porovnejte potřebu s vodou, ke které máte skutečný přístup."
+      }
+    },
+    {
+      "id": "information",
+      "label": {"en": "Trusted information", "cs": "Důvěryhodné informace"},
+      "why": {
+        "en": "Different advisories require different responses; a remembered generic rule may be wrong for the event.",
+        "cs": "Různá varování vyžadují různé reakce; zapamatované obecné pravidlo může být pro danou událost chybné."
+      },
+      "action": {
+        "en": "Save the utility and local public-health alert channels before you need them.",
+        "cs": "Uložte si kanály upozornění dodavatele vody a místní hygieny dříve, než je budete potřebovat."
+      }
+    },
+    {
+      "id": "safe_use",
+      "label": {"en": "Safe use", "cs": "Bezpečné použití"},
+      "why": {
+        "en": "Drinking is only one exposure route; cooking, ice, brushing teeth and dishwashing can matter too.",
+        "cs": "Pití je jen jedna cesta expozice; důležité může být i vaření, led, čištění zubů a mytí nádobí."
+      },
+      "action": {
+        "en": "Write a short checklist of uses that switch to the approved water source during an advisory.",
+        "cs": "Sepište krátký seznam činností, které se při varování přepnou na schválený zdroj vody."
+      }
+    },
+    {
+      "id": "household_needs",
+      "label": {"en": "Household needs", "cs": "Potřeby domácnosti"},
+      "why": {
+        "en": "Pets, heat, illness, pregnancy, mobility and specialised equipment can change both quantity and access needs.",
+        "cs": "Zvířata, horko, nemoc, těhotenství, omezená pohyblivost a specializované pomůcky mohou změnit množství i způsob přístupu."
+      },
+      "action": {
+        "en": "Name one backup person or source for needs your household cannot meet alone.",
+        "cs": "Určete jednu záložní osobu nebo zdroj pro potřeby, které domácnost sama nezvládne."
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "dimension": "supply",
+      "text": {
+        "en": "How clear are you about the amount of emergency water your household has today?",
+        "cs": "Jaký přehled máte dnes o množství nouzové vody ve své domácnosti?"
+      },
+      "options": [
+        {"label": {"en": "I have not checked or stored any", "cs": "Nekontroloval/a jsem to nebo žádnou nemám"}, "score": 0},
+        {"label": {"en": "I know there is some, but not how much", "cs": "Vím, že nějaká je, ale nevím kolik"}, "score": 1},
+        {"label": {"en": "I know the approximate amount and location", "cs": "Znám přibližné množství a umístění"}, "score": 2},
+        {"label": {"en": "I have counted it against people, pets and planned days", "cs": "Porovnal/a jsem ji s počtem osob, zvířat a plánovanými dny"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q2",
+      "dimension": "supply",
+      "text": {
+        "en": "What happens to stored water as time passes?",
+        "cs": "Co se děje s uloženou vodou v průběhu času?"
+      },
+      "options": [
+        {"label": {"en": "I do not track it", "cs": "Nesleduji ji"}, "score": 0},
+        {"label": {"en": "I replace it when I happen to notice", "cs": "Vyměním ji, když si náhodou vzpomenu"}, "score": 1},
+        {"label": {"en": "Containers or dates are marked", "cs": "Nádoby nebo data jsou označené"}, "score": 2},
+        {"label": {"en": "I have a scheduled check for dates, seals and storage conditions", "cs": "Mám naplánovanou kontrolu dat, uzávěrů a podmínek skladování"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q3",
+      "dimension": "information",
+      "text": {
+        "en": "A notice says tap water may be unsafe. What is your information plan?",
+        "cs": "Oznámení říká, že voda z kohoutku nemusí být bezpečná. Jaký máte informační plán?"
+      },
+      "options": [
+        {"label": {"en": "Rely on forwarded messages", "cs": "Spoléhat se na přeposlané zprávy"}, "score": 0},
+        {"label": {"en": "Search online and choose the first result", "cs": "Hledat online a vybrat první výsledek"}, "score": 1},
+        {"label": {"en": "Check the utility or local authority website", "cs": "Zkontrolovat web dodavatele nebo místního úřadu"}, "score": 2},
+        {"label": {"en": "Use saved official alerts and confirm the advisory type and affected area", "cs": "Použít uložená oficiální upozornění a ověřit typ varování i dotčenou oblast"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q4",
+      "dimension": "information",
+      "text": {
+        "en": "How would everyone at home know when restrictions have ended?",
+        "cs": "Jak by se všichni doma dozvěděli, že omezení skončila?"
+      },
+      "options": [
+        {"label": {"en": "We would assume the water is safe when it looks normal", "cs": "Předpokládali bychom bezpečnost, až voda bude vypadat normálně"}, "score": 0},
+        {"label": {"en": "Someone would probably hear from a neighbour", "cs": "Někdo by se to asi dozvěděl od souseda"}, "score": 1},
+        {"label": {"en": "One person would check for an official all-clear", "cs": "Jedna osoba by zkontrolovala oficiální ukončení varování"}, "score": 2},
+        {"label": {"en": "We have a named checker and a way to tell every household member", "cs": "Máme určenou osobu a způsob, jak informovat každého člena domácnosti"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q5",
+      "dimension": "safe_use",
+      "text": {
+        "en": "During a drinking-water advisory, which uses would your household review?",
+        "cs": "Která použití by vaše domácnost při varování pro pitnou vodu prověřila?"
+      },
+      "options": [
+        {"label": {"en": "Only glasses of drinking water", "cs": "Jen vodu ve sklenici k pití"}, "score": 0},
+        {"label": {"en": "Drinking and cooking", "cs": "Pití a vaření"}, "score": 1},
+        {"label": {"en": "Drinking, cooking, ice and brushing teeth", "cs": "Pití, vaření, led a čištění zubů"}, "score": 2},
+        {"label": {"en": "All uses named in the current official notice", "cs": "Všechna použití uvedená v aktuálním oficiálním oznámení"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q6",
+      "dimension": "safe_use",
+      "text": {
+        "en": "How do you decide whether boiling or another treatment is appropriate?",
+        "cs": "Jak rozhodujete, zda je vhodné převaření nebo jiná úprava?"
+      },
+      "options": [
+        {"label": {"en": "Use the same method for every contamination concern", "cs": "Použít stejnou metodu pro každé podezření na kontaminaci"}, "score": 0},
+        {"label": {"en": "Follow a rule remembered from years ago", "cs": "Řídit se pravidlem zapamatovaným před lety"}, "score": 1},
+        {"label": {"en": "Look up general emergency guidance", "cs": "Vyhledat obecná nouzová doporučení"}, "score": 2},
+        {"label": {"en": "Follow current official instructions for the stated hazard", "cs": "Řídit se aktuálními oficiálními pokyny pro uvedené nebezpečí"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q7",
+      "dimension": "household_needs",
+      "text": {
+        "en": "How well does your plan cover needs that change water quantity or access?",
+        "cs": "Jak dobře váš plán pokrývá potřeby, které mění množství vody nebo přístup k ní?"
+      },
+      "options": [
+        {"label": {"en": "We have not discussed them", "cs": "Nemluvili jsme o nich"}, "score": 0},
+        {"label": {"en": "We know some needs but have no specific plan", "cs": "Některé potřeby známe, ale nemáme konkrétní plán"}, "score": 1},
+        {"label": {"en": "People, pets and mobility needs are listed", "cs": "Osoby, zvířata a potřeby mobility jsou sepsané"}, "score": 2},
+        {"label": {"en": "They are listed with quantities, access steps and a backup", "cs": "Jsou sepsané včetně množství, kroků přístupu a zálohy"}, "score": 3}
+      ]
+    },
+    {
+      "id": "q8",
+      "dimension": "household_needs",
+      "text": {
+        "en": "If your stored supply ran low, what is your backup?",
+        "cs": "Jakou máte zálohu, kdyby uložená zásoba docházela?"
+      },
+      "options": [
+        {"label": {"en": "No identified backup", "cs": "Nemáme určenou zálohu"}, "score": 0},
+        {"label": {"en": "We would improvise after the shortage begins", "cs": "Začali bychom improvizovat až po vzniku nedostatku"}, "score": 1},
+        {"label": {"en": "We know one possible official or community source", "cs": "Známe jeden možný oficiální nebo komunitní zdroj"}, "score": 2},
+        {"label": {"en": "We have a verified source plus a transport or delivery plan", "cs": "Máme ověřený zdroj i plán dopravy nebo doručení"}, "score": 3}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": {"en": "Start with the first day", "cs": "Začněte prvním dnem"},
+      "summary": {
+        "en": "Your current plan relies heavily on improvisation. Start by identifying official alert channels and counting the safe water already available. Then choose one realistic storage step.",
+        "cs": "Váš současný plán výrazně spoléhá na improvizaci. Nejprve určete oficiální informační kanály a spočítejte dostupnou bezpečnou vodu. Poté zvolte jeden realistický krok pro vytvoření zásoby."
+      }
+    },
+    {
+      "min": 8,
+      "max": 15,
+      "title": {"en": "Useful pieces, loose connections", "cs": "Užitečné části, volné spoje"},
+      "summary": {
+        "en": "You have parts of a workable plan. The biggest gain will come from linking supply, official information and household-specific needs into one short checklist everyone can follow.",
+        "cs": "Máte části použitelného plánu. Největší přínos bude mít propojení zásob, oficiálních informací a specifických potřeb domácnosti do jednoho krátkého seznamu, kterému všichni rozumějí."
+      }
+    },
+    {
+      "min": 16,
+      "max": 24,
+      "title": {"en": "A plan you can maintain", "cs": "Plán, který lze udržovat"},
+      "summary": {
+        "en": "Your household has a solid base. Keep it credible by checking dates, quantities, alert routes and changing needs on a recurring schedule, and by following event-specific official instructions.",
+        "cs": "Vaše domácnost má solidní základ. Udržujte jeho důvěryhodnost pravidelnou kontrolou dat, množství, informačních cest a měnících se potřeb a vždy se řiďte pokyny pro konkrétní událost."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ready.gov — Water",
+      "url": "https://www.ready.gov/water",
+      "published": "2021-02-22",
+      "type": "official guidance"
+    },
+    {
+      "name": "CDC — How to Create an Emergency Water Supply",
+      "url": "https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html",
+      "published": "2025-06-27",
+      "type": "official guidance"
+    },
+    {
+      "name": "CDC — How to Make Water Safe in an Emergency",
+      "url": "https://www.cdc.gov/water-emergency/about/index.html",
+      "published": "2024-09-19",
+      "type": "official guidance"
+    },
+    {
+      "name": "CDC — Drinking Water Advisories: An Overview",
+      "url": "https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html",
+      "published": "2024-03-04",
+      "type": "official guidance"
+    }
+  ],
+  "method": {
+    "en": "Original educational self-check created for My Paper. It is not adapted from a proprietary or clinical instrument. Scores describe preparedness habits only and are not collected.",
+    "cs": "Původní vzdělávací sebekontrola vytvořená pro My Paper. Není převzata z proprietárního ani klinického nástroje. Skóre popisuje pouze návyky připravenosti a odpovědi se neshromažďují."
+  }
+}
