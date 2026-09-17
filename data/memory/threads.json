@@ -1109,29 +1109,31 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
+    "politics",
+    "canada",
+    "vince",
+    "maps",
+    "beiser",
+    "bombardier",
+    "ontario",
+    "mapquest",
+    "strasbourg",
+    "europe",
+    "lake",
     "eu's",
+    "robert",
+    "canadian",
+    "trump",
+    "south",
+    "reich",
+    "weekly",
+    "mark",
     "canada's",
     "carney",
-    "strasbourg",
-    "robert",
-    "europe",
-    "canadian",
-    "bombardier",
-    "politics",
-    "south",
-    "canada",
-    "google",
-    "lake",
-    "maps",
-    "park",
-    "mark",
-    "mapquest",
     "america",
-    "weekly",
-    "trump",
     "apple",
-    "reich",
-    "ontario"
+    "park",
+    "google"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -1157,7 +1159,8 @@
     "5ffc61341047",
     "16cb99ad25e3",
     "327c785d75e1",
-    "52129b02a43c"
+    "52129b02a43c",
+    "0af672bd9219"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-09-17",
@@ -1431,6 +1434,17 @@
      "links": [
       "https://www.theguardian.com/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
       "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser",
+     "sources": 2,
+     "score": 45,
+     "event_id": "0af672bd9219",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals",
+      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html"
      ]
     }
    ]
@@ -2271,6 +2285,117 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
       "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eca0fc692bc0",
+   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+   "section": "world",
+   "entities": [
+    "tory",
+    "u-turn",
+    "andy",
+    "crace",
+    "guardian",
+    "macron",
+    "starmer",
+    "burnham",
+    "editorial",
+    "john",
+    "hospitality",
+    "pmqs"
+   ],
+   "event_ids": [
+    "eca0fc692bc0",
+    "79767a596611",
+    "ccb2c5bc9e36",
+    "ebc944549304",
+    "02df7fa6f0a5",
+    "972b0fe1af77",
+    "cc774da80403"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-17",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+     "sources": 3,
+     "score": 58,
+     "event_id": "eca0fc692bc0",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
+     "sources": 2,
+     "score": 49,
+     "event_id": "79767a596611",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
+      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ccb2c5bc9e36",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ebc944549304",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
+      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+     "sources": 1,
+     "score": 41,
+     "event_id": "02df7fa6f0a5",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
+     "sources": 2,
+     "score": 46,
+     "event_id": "972b0fe1af77",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Andy Burnham urged to set dementia waiting-time target",
+     "sources": 2,
+     "score": 46,
+     "event_id": "cc774da80403",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
      ]
     }
    ]
@@ -5436,105 +5561,6 @@
      "links": [
       "https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report",
       "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eca0fc692bc0",
-   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-   "section": "world",
-   "entities": [
-    "hospitality",
-    "andy",
-    "pmqs",
-    "guardian",
-    "crace",
-    "macron",
-    "u-turn",
-    "john",
-    "tory",
-    "editorial",
-    "burnham",
-    "starmer"
-   ],
-   "event_ids": [
-    "eca0fc692bc0",
-    "79767a596611",
-    "ccb2c5bc9e36",
-    "ebc944549304",
-    "02df7fa6f0a5",
-    "972b0fe1af77"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-09-14",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-     "sources": 3,
-     "score": 58,
-     "event_id": "eca0fc692bc0",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
-     "sources": 2,
-     "score": 49,
-     "event_id": "79767a596611",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
-      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ccb2c5bc9e36",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ebc944549304",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
-      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
-     "sources": 1,
-     "score": 41,
-     "event_id": "02df7fa6f0a5",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
-      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
-     "sources": 2,
-     "score": 46,
-     "event_id": "972b0fe1af77",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
      ]
     }
    ]
@@ -9424,5 +9450,5 @@
    ]
   }
  ],
- "updated": "2026-09-17T18:31:22+00:00"
+ "updated": "2026-09-17T21:24:08+00:00"
 }
