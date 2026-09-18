@@ -64,6 +64,22 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-14** (2 zdrojů) Former West Ham keeper Miklosko dies aged 64
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 40 dní · 27 záznamů
+- časová osa:
+  - **2026-09-12** (4 zdrojů) Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+  - **2026-09-12** (2 zdrojů) Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea
+  - **2026-09-14** (3 zdrojů) Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
+  - **2026-09-15** (2 zdrojů) Saudi Arabia faces hard choices as Houthis gain in Yemen
+  - **2026-09-15** (2 zdrojů) Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen
+  - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
+  - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
+  - **2026-09-17** (2 zdrojů) Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths
+  - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
+  - **2026-09-18** (2 zdrojů) Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
+
 ### Trump signs order to rename Lake Ontario as Lake America
 - rubrika `world` · sledováno 22 dní · 26 záznamů
 - časová osa:
@@ -77,19 +93,3 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-17** (2 zdrojů) Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech
   - **2026-09-17** (2 zdrojů) Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser
   - **2026-09-18** (2 zdrojů) South Korea will not send military to support US war on Iran, defying Trump pressure
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 39 dní · 26 záznamů
-- časová osa:
-  - **2026-09-11** (2 zdrojů) Israel says it has destroyed major underground Hezbollah base
-  - **2026-09-12** (4 zdrojů) Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
-  - **2026-09-12** (2 zdrojů) Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea
-  - **2026-09-14** (3 zdrojů) Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
-  - **2026-09-15** (2 zdrojů) Saudi Arabia faces hard choices as Houthis gain in Yemen
-  - **2026-09-15** (2 zdrojů) Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen
-  - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
-  - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
-  - **2026-09-17** (2 zdrojů) Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths
-  - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
