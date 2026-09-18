@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-18
 
-Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **44**.
+Paměť obsahuje **105 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 36 dní · 60 záznamů
+- rubrika `world` · sledováno 40 dní · 60 záznamů
 - časová osa:
-  - **2026-09-11** (2 zdrojů) India news: Putin, Modi to hold talks ahead of BRICS Summit
   - **2026-09-11** (2 zdrojů) Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
   - **2026-09-12** (2 zdrojů) BRICS leaders meet in India as wars and US tensions test the bloc
   - **2026-09-12** (2 zdrojů) India’s Modi calls for empowerment of Global South at BRICS Summit
@@ -19,6 +18,7 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-14** (4 zdrojů) Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
   - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
+  - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 35 dní · 57 záznamů

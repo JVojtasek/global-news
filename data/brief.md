@@ -51,7 +51,27 @@
     <https://www.bbc.com/news/articles/cjwyzrr9d3dko>
     > Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 386 # Comments: 380
 
-### 3. Verified video shows wreckage of Saudi fighter jet shot down over Yemen
+### 3. Ronaldo named in first Portugal squad since World Cup - at age of 41
+- id události: `bd5d0f2f7796`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Ronaldo named in first Portugal squad since World Cup - at age of 41
+    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
+    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
+  - **BBC Sport** — Wilson major Wales injury concern for Nations League
+    <https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss>
+    > Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.
+  - **BBC Sport** — Ronaldo named in Jesus' first Portugal squad
+    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
+    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
+  - **France 24** — Watch live: France's new head coach Zidane unveils his first team line-up for Nations League matches
+    <https://www.france24.com/en/sport/20260918-france-new-head-coach-zidane-unveils-his-first-team-line-up-for-nations-league-matches-live>
+    > Newly appointed head coach of France's national football team Zinedine Zidane unveils his first line-up on Friday. Follow our live coverage of the announcement from 6pm Paris time.
+  - **Al Jazeera** — Ronaldo keeps Portugal place for Nations League as Jesus names first squad
+    <https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss>
+    > Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
+
+### 4. Verified video shows wreckage of Saudi fighter jet shot down over Yemen
 - id události: `72cd7d7d5454`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -68,26 +88,6 @@
     <https://www.france24.com/en/houthis-claim-saudi-f-15-kill-as-yemen-fighting-escalates>
     > Yemen's Houthi rebels have released footage they say shows the wreckage of a Saudi F-15 fighter jet, which, if confirmed, would mark the first fighter jet they have shot down. The claim comes as fighting escalates in Yemen, with the Houthis expanding their control around the stra
 
-### 4. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-- id události: `9c657c0b5de7`  ·  rubrika: `culture`  ·  skóre: 66  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
-    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
-  - **Guardian Culture** — Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments
-    <https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment>
-    > English singer outlined his position after US stadium owners refused to let rapper perform after political speech Macklemore dropped from Ed Sheeran’s US tour after ‘free Palestine’ speech Singer Ed Sheeran has responded to the backlash over the removal of Macklemore from his Nor
-  - **BBC Entertainment** — Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-    <https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss>
-    > The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
-  - **BBC Entertainment** — Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech
-    <https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss>
-    > The US rapper was condemned by Jewish groups after making comments criticising Israel.
-  - **France 24** — Macklemore taken off Ed Sheeran's US tour
-    <http://www.france24.com/en/video/20260915-macklemore-taken-off-ed-sheeran-s-us-tour>
-    > 🎤 American rapper Macklemore has been removed as the opening act for British singer-songwriter Ed Sheeran's US tour after the former made statements supporting his pro-Palestine stance on stage. The Grammy-winning-artist has been vocal about his position over the past few years, 
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -96,7 +96,7 @@
 - rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - AI takeover — <https://en.wikipedia.org/wiki/AI_takeover>
   - Existential risk from artificial intelligence — <https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence>
 
 ---
@@ -124,7 +124,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-02  (1 zdrojů, síla 44)  Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war
   2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
   2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
   2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
@@ -144,6 +143,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-14  (4 zdrojů, síla 68)  Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
   2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
+  2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
