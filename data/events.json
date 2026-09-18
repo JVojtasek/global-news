@@ -593,46 +593,6 @@
   ]
  },
  {
-  "id": "87d62c77d066",
-  "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-  "section": "world",
-  "score": 58,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T09:17:09+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-    "source": "The Guardian World",
-    "summary": "Minister says discussions are ongoing on how to strengthen the alliance’s eastern flank after security incidents intensify across Europe, including in Denmark and Poland Separately, Vilnius airport was forced to temporarily suspend its operations this morning after another “unidentified object” was reported in its vicinity. The 30-minutes disruption resulted in delays to flights to/from Copenhagen",
-    "published_at": "2026-09-15T09:17:09+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "NATO jets down drone in Lithuanian airspace",
-    "url": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-    "source": "NPR News",
-    "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv.",
-    "published_at": "2026-09-15T09:06:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "Ukraine war live: NATO downs drone over Lithuania, Russian frigate fires flares at Danish helicopter",
-    "url": "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion",
-    "source": "France 24",
-    "summary": "NATO scrambled fighter jets overnight to ​shoot down a drone over Lithuania after the latest incursion on the alliance's eastern flank. In a separate incident, Denmark said a Russian warship fired two emergency flares at a Danish helicopter in the Baltic Sea, adding that the Russian ambassador had been summoned over the \"reckless action\". Follow our liveblog for the latest developments.",
-    "published_at": "2026-09-15T02:19:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   }
-  ]
- },
- {
   "id": "182e44deb83c",
   "headline": "US Congress passes Russia sanctions bill",
   "section": "world",
@@ -1974,6 +1934,37 @@
   ]
  },
  {
+  "id": "50c802e9ffe4",
+  "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+  "section": "business",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:20:44+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+    "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+    "source": "Guardian Business",
+    "summary": "US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised a number of OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their",
+    "published_at": "2026-09-18T11:20:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+    "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+    "source": "CNBC Top",
+    "summary": "Anthropic and OpenAI have announced a flurry of AI infrastructure deals over the past year as demand booms.",
+    "published_at": "2026-09-18T09:38:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "dc6f2beb70eb",
   "headline": "Szoboszlai scores stunner as Liverpool knock Tottenham out of the Carabao Cup",
   "section": "sport",
@@ -2714,6 +2705,28 @@
   ]
  },
  {
+  "id": "baa979ecc134",
+  "headline": "The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'",
+  "section": "culture",
+  "score": 44,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:45:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'",
+    "url": "https://www.smithsonianmag.com/history/the-founders-of-the-new-york-times-pledged-to-cover-every-subject-of-public-importance-175-years-later-the-paper-continues-to-publish-all-the-news-thats-fit-to-print-180989512/",
+    "source": "Smithsonian Mag",
+    "summary": "Much has changed since the publication debuted on September 18, 1851. What hasn't changed, staff members say, is the paper's mission",
+    "published_at": "2026-09-18T11:45:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "8bb5b1b19b13",
   "headline": "These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found",
   "section": "culture",
@@ -3041,33 +3054,135 @@
   ]
  },
  {
-  "id": "aee33949b0ea",
-  "headline": "Suspected sabotage causes major Netherlands rail disruption",
+  "id": "ead578216ff6",
+  "headline": "Police begin operation to move migrants from Ceuta beaches",
   "section": "world",
-  "score": 42,
+  "score": 43,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-15T09:32:29+00:00",
-  "event_time": "2026-09-15T09:02:47+00:00",
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:59:42+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+    "title": "Police begin operation to move migrants from Ceuta beaches",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC World",
-    "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-    "published_at": "2026-09-15T09:02:47+00:00",
+    "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+    "published_at": "2026-09-18T11:59:42+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
+    "seen_at": "2026-09-18T12:35:12+00:00"
    },
    {
-    "title": "Netherlands: Suspected sabotage disrupts train services",
-    "url": "https://www.dw.com/en/netherlands-suspected-sabotage-disrupts-train-services/a-79269600?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A major outage has hit parts of the Dutch railway system after objects were found placed across lines, authorities say. The company responsible for rail infrastructure says it suspects deliberate wrongdoing.",
-    "published_at": "2026-09-15T08:46:00+00:00",
+    "title": "Police move hundreds of migrants still in Ceuta off beaches in Spanish enclave",
+    "url": "https://www.france24.com/en/europe/20260918-police-move-hundreds-of-migrants-still-in-ceuta-off-beaches-in-spanish-enclave",
+    "source": "France 24",
+    "summary": "Spanish police in Ceuta on Friday morning started moving hundreds of migrants from the beaches of the Spanish enclave to a new tented area. Several thousand migrants remain in Ceuta after tens of thousands of people crossed the border with Morocco in late July.",
+    "published_at": "2026-09-18T09:51:01+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ef57ed7345fa",
+  "headline": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+  "section": "world",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:49:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+    "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+    "published_at": "2026-09-18T11:49:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
+    "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+    "published_at": "2026-09-18T11:49:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c41e4ce51349",
+  "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
+  "section": "world",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T10:58:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+    "source": "NPR News",
+    "summary": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years. His son, Howard, will become Berkshire Hathaway's new chairman",
+    "published_at": "2026-09-18T10:58:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+    "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+    "source": "CNBC Top",
+    "summary": "Buffett's son Howard will replace him as chairman, as dictated by a long-standing succession plan, Berkshire said.",
+    "published_at": "2026-09-18T12:04:02+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b80cdecb455a",
+  "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+  "section": "sport",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T12:12:15+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\".",
+    "published_at": "2026-09-18T12:12:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
+    "published_at": "2026-09-18T11:49:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Palmer and Alexander-Arnold recalled after England World Cup snub",
+    "url": "https://www.aljazeera.com/sports/2026/9/18/palmer-and-alexander-arnold-recalled-after-england-world-cup-snub?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Cole Palmer and Trent Alexander-Arnold back for Thomas Tuchel in Nations League, but still no place for Phil Foden.",
+    "published_at": "2026-09-18T10:49:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
    }
   ]
  },
@@ -3856,6 +3971,108 @@
   ]
  },
  {
+  "id": "4770b5791c06",
+  "headline": "South Africa 'feels like a prison' for women amid spate of femicides",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T10:39:14+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+    "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+    "source": "NPR News",
+    "summary": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
+    "published_at": "2026-09-18T10:39:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
+    "url": "https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women's safety.",
+    "published_at": "2026-09-18T09:43:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7c041e555652",
+  "headline": "United Nations says US may have committed war crimes in Iran: What it means",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T10:43:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "United Nations says US may have committed war crimes in Iran: What it means",
+    "url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.",
+    "published_at": "2026-09-18T10:43:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "UN mission says grounds to believe US committed war crimes in Iran",
+    "url": "https://www.france24.com/en/video/20260918-un-mission-says-grounds-to-believe-us-committed-war-crimes-in-iran",
+    "source": "France 24",
+    "summary": "A UN fact-finding mission on Iran said on Thursday it had reasonable grounds to believe the United States was behind two military strikes on a school and sports facility in Iran in February, and that these constituted war crimes. It also found that Iranian authorities committed crimes against humanity during their deadly crackdown on anti-government protests. France 24’s Kethevane Gorjestani takes",
+    "published_at": "2026-09-18T09:31:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4f89836c1215",
+  "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+  "section": "world",
+  "score": 42,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T12:24:42+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+    "url": "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+    "source": "France 24",
+    "summary": "",
+    "published_at": "2026-09-18T12:24:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Macron orders plan to protect France's critical infrastructure against 'Russian hybrid attacks'",
+    "url": "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+    "source": "France 24",
+    "summary": "French President Emmanuel Macron on Friday said he had ordered measures to protect France's critical infrastructure and defence industry sites from \"Russian hybrid attacks\", adding that the threat from Moscow had intensified in recent weeks.",
+    "published_at": "2026-09-18T12:23:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "France’s Macron summons party leaders for talks on Mideast and Ukraine",
+    "url": "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine",
+    "source": "France 24",
+    "summary": "French President Emmanuel Macron is meeting leaders of France’s political parties at the Elysée on Friday for talks on the wars in the Middle East and Ukraine and the consequences for the country’s security and energy amid soaring fuel prices.",
+    "published_at": "2026-09-18T10:24:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "4c867617c12d",
   "headline": "US announces charges against five alleged agents for Russia over assassination plots",
   "section": "world",
@@ -4060,77 +4277,6 @@
     "published_at": "2026-09-17T17:02:31+00:00",
     "source_countries": [],
     "seen_at": "2026-09-17T18:31:19+00:00"
-   }
-  ]
- },
- {
-  "id": "7913b6b2d8f5",
-  "headline": "US scraps limits on emissions from coal and gas power plants",
-  "section": "science",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:29+00:00",
-  "event_time": "2026-09-14T22:04:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US scraps limits on emissions from coal and gas power plants",
-    "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-    "published_at": "2026-09-14T22:04:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "US scraps limits on emissions from coal and gas power plants",
-    "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-    "published_at": "2026-09-14T22:04:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "US scraps limits on emissions from coal and gas power plants",
-    "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-    "published_at": "2026-09-14T22:04:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   }
-  ]
- },
- {
-  "id": "7d16e9e592c2",
-  "headline": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T07:40:10+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-    "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
-    "source": "The Guardian World",
-    "summary": "Carmaker builds on relationship with British armed forces by seeking to cash in on Europe’s rearmament drive Business live – latest updates Jaguar Land Rover is in talks with Nato countries about selling them the newly revamped Defender military vehicle, as the UK-based carmaker seeks to tap into Europe’s defence spending boom. It is also among carmakers bidding for a UK defence ministry contract ",
-    "published_at": "2026-09-15T07:40:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
-    "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
-    "source": "Guardian Business",
-    "summary": "Carmaker builds on relationship with British armed forces by seeking to cash in on Europe’s rearmament drive Business live – latest updates Jaguar Land Rover is in talks with Nato countries about selling them the newly revamped Defender military vehicle, as the UK-based carmaker seeks to tap into Europe’s defence spending boom. It is also among carmakers bidding for a UK defence ministry contract ",
-    "published_at": "2026-09-15T07:40:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
    }
   ]
  },
@@ -4732,6 +4878,46 @@
   ]
  },
  {
+  "id": "af44b5d89e6d",
+  "headline": "New wild cat species discovered - with only one known living member",
+  "section": "science",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-17T23:15:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New wild cat species discovered - with only one known living member",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+    "published_at": "2026-09-17T23:15:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "New wild cat species discovered - with only one known living member",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+    "published_at": "2026-09-17T23:15:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "New wild cat species discovered - with only one known living member",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+    "published_at": "2026-09-17T23:15:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "92689017c0cf",
   "headline": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
   "section": "culture",
@@ -5179,148 +5365,86 @@
   ]
  },
  {
-  "id": "c580a1f816b3",
-  "headline": "Parents seek out school uniform deals, cutting average spend to £54.53",
+  "id": "e3dbbf94ce82",
+  "headline": "Drivers ignoring roadwork closures to skip queues ‘wilfully putting lives at risk’",
+  "section": "world",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:00:15+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Drivers ignoring roadwork closures to skip queues ‘wilfully putting lives at risk’",
+    "url": "https://www.theguardian.com/world/2026/sep/18/drivers-roadwork-closures-skip-queues-national-highways-england",
+    "source": "The Guardian World",
+    "summary": "Hundreds of cars driven through cones or barriers in England this year, says National Highways Drivers ignoring roadwork closures to skip queues are putting lives at risk, National Highways has warned, after recording hundreds of incidents this year where cars were deliberately driven through cones or barriers. The agency, which manages motorways and major roads, said there was increasing concern ",
+    "published_at": "2026-09-18T11:00:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Drivers ignoring roadwork closures to skip queues ‘wilfully putting lives at risk’",
+    "url": "https://www.theguardian.com/world/2026/sep/18/drivers-roadwork-closures-skip-queues-national-highways-england",
+    "source": "Guardian Business",
+    "summary": "Hundreds of cars driven through cones or barriers in England this year, says National Highways Drivers ignoring roadwork closures to skip queues are putting lives at risk, National Highways has warned, after recording hundreds of incidents this year where cars were deliberately driven through cones or barriers. The agency, which manages motorways and major roads, said there was increasing concern ",
+    "published_at": "2026-09-18T11:00:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "112954b2aaba",
+  "headline": "Aztec manuscript returns to Mexico after two centuries, on loan",
+  "section": "world",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T03:07:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Aztec manuscript returns to Mexico after two centuries, on loan",
+    "url": "https://www.dw.com/en/aztec-manuscript-returns-to-mexico-after-two-centuries-on-loan/a-79316983?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "For years, Mexico has demanded the return of a treasured manuscript. Now the Aztec relic is back home from France — but on loan.",
+    "published_at": "2026-09-18T03:07:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Prized Aztec codex returns to Mexico on loan",
+    "url": "https://www.france24.com/en/video/20260918-prized-aztec-codex-returns-to-mexico-on-loan",
+    "source": "France 24",
+    "summary": "A cherished 16th-century Mexican manuscript that tells the history of the Aztecs in pictograms went on display Thursday in Mexico City, nearly two centuries after it was whisked off to France. France's National Library, which has maintained possession of it for over a century, loaned it to Mexico to commemorate 200 years of relations between the two countries, although Mexico is pushing for its pe",
+    "published_at": "2026-09-18T11:44:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "12a4459188ea",
+  "headline": "Here are Friday's biggest analyst calls: Nvidia, Apple, Netflix, Alphabet, Tyson Foods, Yeti, Meta, Amazon & more",
   "section": "business",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T09:01:35+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Parents seek out school uniform deals, cutting average spend to £54.53",
-    "url": "https://www.theguardian.com/business/2026/sep/15/school-uniform-deals-spend-grocery-inflation",
-    "source": "The Guardian World",
-    "summary": "Overall grocery inflation jumps to 2.3%, as Ocado and Lidl gain market share Business live – latest updates Parents and carers spent 12.5% less on school uniform in the run-up to the start of this academic year, turning to promotions and second-hand items to keep expenses down as families struggled with the cost of living crisis . The average spend on school uniform was £54.53 in the four weeks to",
-    "published_at": "2026-09-15T09:01:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "Parents seek out school uniform deals, cutting average spend to £54.53",
-    "url": "https://www.theguardian.com/business/2026/sep/15/school-uniform-deals-spend-grocery-inflation",
-    "source": "Guardian Business",
-    "summary": "Overall grocery inflation jumps to 2.3%, as Ocado and Lidl gain market share Business live – latest updates Parents and carers spent 12.5% less on school uniform in the run-up to the start of this academic year, turning to promotions and second-hand items to keep expenses down as families struggled with the cost of living crisis . The average spend on school uniform was £54.53 in the four weeks to",
-    "published_at": "2026-09-15T09:01:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   }
-  ]
- },
- {
-  "id": "1db7462391b2",
-  "headline": "Make NHS and military uniforms in UK, fashion firms urge Burnham",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T08:10:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Make NHS and military uniforms in UK, fashion firms urge Burnham",
-    "url": "https://www.theguardian.com/business/2026/sep/15/nhs-mod-uniforms-uk-fashion-firms-andy-burnham",
-    "source": "The Guardian World",
-    "summary": "More than 1,200 people, including Ben Fogle, sign letter saying domestic contracts will help preserve UK manufacturing Business live – latest updates London fashion week is only days away, but one industry organisation has turned its attention to clothing that is a little less catwalk-worthy – the uniforms worn by British defence forces and NHS staff. On Wednesday afternoon, the thinktank Fashion ",
-    "published_at": "2026-09-15T08:10:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "Make NHS and military uniforms in UK, fashion firms urge Burnham",
-    "url": "https://www.theguardian.com/business/2026/sep/15/nhs-mod-uniforms-uk-fashion-firms-andy-burnham",
-    "source": "Guardian Business",
-    "summary": "More than 1,200 people, including Ben Fogle, sign letter saying domestic contracts will help preserve UK manufacturing Business live – latest updates London fashion week is only days away, but one industry organisation has turned its attention to clothing that is a little less catwalk-worthy – the uniforms worn by British defence forces and NHS staff. On Wednesday afternoon, the thinktank Fashion ",
-    "published_at": "2026-09-15T08:10:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   }
-  ]
- },
- {
-  "id": "af3c5a104dad",
-  "headline": "Scrap windfall tax on oil and gas firms early, North Sea industry urges",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T08:00:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scrap windfall tax on oil and gas firms early, North Sea industry urges",
-    "url": "https://www.theguardian.com/business/2026/sep/15/scrap-windfall-tax-oil-gas-firms-north-sea-energy-bills-oeuk",
-    "source": "The Guardian World",
-    "summary": "Labour should replace levy in 2027 rather than 2030 as energy bills are poised to surge over the winter, says lobby group The North Sea oil and gas industry has called on Labour to scrap the windfall tax on fossil fuel firms three years early, as Britain heads into a winter with energy bills expected to reach their highest level since Russia’s invasion of Ukraine. Offshore Energies UK (OEUK), the ",
-    "published_at": "2026-09-15T08:00:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "Scrap windfall tax on oil and gas firms early, North Sea industry urges",
-    "url": "https://www.theguardian.com/business/2026/sep/15/scrap-windfall-tax-oil-gas-firms-north-sea-energy-bills-oeuk",
-    "source": "Guardian Business",
-    "summary": "Labour should replace levy in 2027 rather than 2030 as energy bills are poised to surge over the winter, says lobby group The North Sea oil and gas industry has called on Labour to scrap the windfall tax on fossil fuel firms three years early, as Britain heads into a winter with energy bills expected to reach their highest level since Russia’s invasion of Ukraine. Offshore Energies UK (OEUK), the ",
-    "published_at": "2026-09-15T08:00:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   }
-  ]
- },
- {
-  "id": "1e67ea309e59",
-  "headline": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-  "section": "tech",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T07:00:30+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-    "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-    "source": "Ars Technica",
-    "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-    "published_at": "2026-09-15T07:00:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   },
-   {
-    "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-    "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-    "source": "The Verge",
-    "summary": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker revealed the updated PHEV versions of its popular […]",
-    "published_at": "2026-09-15T07:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   }
-  ]
- },
- {
-  "id": "0d444d4e751e",
-  "headline": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-  "section": "science",
-  "score": 38,
+  "score": 39,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-11T19:48:09+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T12:20:45+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-    "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
-    "source": "NASA",
-    "summary": "How do scientists studying space with data from a telescope hundreds of thousands of miles away know that what they are seeing is real? A new NASA project, Artifact InSPECtor, invites you to find out – and by doing so, to help missions like Euclid and NASA’s new Nancy Grace Roman Space Telescope answer fundamental […]",
-    "published_at": "2026-09-11T19:48:09+00:00",
+    "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, Netflix, Alphabet, Tyson Foods, Yeti, Meta, Amazon & more",
+    "url": "https://www.cnbc.com/2026/09/18/fridays-biggest-analyst-calls-include-nvidia-apple.html",
+    "source": "CNBC Top",
+    "summary": "Here are the biggest calls on Wall Street on Friday.",
+    "published_at": "2026-09-18T12:20:45+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
+    "seen_at": "2026-09-18T12:35:12+00:00"
    }
   ]
  },
@@ -6002,55 +6126,33 @@
   ]
  },
  {
-  "id": "7b6da2b9d559",
-  "headline": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 8,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T09:00:00+00:00",
+  "id": "6c8906ecd888",
+  "headline": "Scientists discover cells that cheat death and rebuild damaged tissue",
+  "section": "science",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T12:30:43+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance",
-    "url": "https://www.npr.org/2026/09/15/nx-s1-5961154/for-thousands-of-haitians-in-the-u-s-end-of-protected-status-brings-fear-grief-and-defiance",
-    "source": "NPR News",
-    "summary": "Haitians in the U.S. lost their Temporary Protected Status under Trump's immigration crackdown. Now facing deportation to a homeland wracked by gang violence, disease and extreme poverty, Haitians in Miami are meeting the moment with grief, anger, and courage.",
-    "published_at": "2026-09-15T09:00:00+00:00",
+    "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+    "source": "ScienceDaily",
+    "summary": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.",
+    "published_at": "2026-09-18T12:30:43+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
-   }
-  ]
- },
- {
-  "id": "f9786e4cba03",
-  "headline": "How Promise David emerged from Maltese shadows into the Premier League",
-  "section": "sport",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T09:00:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "How Promise David emerged from Maltese shadows into the Premier League",
-    "url": "https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup",
-    "source": "Guardian Sport",
-    "summary": "Former teammates and coaches rave about Brighton’s summer signing, who impressed with Canada at the World Cup Promise David had a five-year plan. He would score bags of goals, earn a transfer to a top European league and play for Canada at the 2026 World Cup. There was just one problem: apart from his parents, teammates and coaches, no one in soccer seemed to know his name. It was 2023, and the st",
-    "published_at": "2026-09-15T09:00:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
+    "seen_at": "2026-09-18T12:35:12+00:00"
    },
    {
-    "title": "Are Manchester United as poor as the early Premier League table suggests?",
-    "url": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
-    "source": "Guardian Sport",
-    "summary": "Michael Carrick’s side are 13th in the table after four games but, City mitigation aside, several areas need attention Manchester United are 13th in the Premier League, having taken four points from their first four games: a 2-0 defeat at Hull, 5-2 win against Ipswich, 2-2 draw at Everton and the 1-0 defeat by Manchester City on Sunday. Mitigation regarding the City reverse can be found in the der",
-    "published_at": "2026-09-15T07:00:28+00:00",
+    "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.",
+    "published_at": "2026-09-18T12:30:43+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
+    "seen_at": "2026-09-18T12:35:12+00:00"
    }
   ]
  },
@@ -6572,6 +6674,37 @@
     "published_at": "2026-09-17T23:00:47+00:00",
     "source_countries": [],
     "seen_at": "2026-09-18T00:58:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "269be4cb2b85",
+  "headline": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+  "section": "world",
+  "score": 37,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:00:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+    "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+    "source": "The Guardian World",
+    "summary": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are now Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) Kansas farm. Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will rai",
+    "published_at": "2026-09-18T11:00:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+    "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+    "source": "Guardian Business",
+    "summary": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are now Wheat prices are at their highest level in three years, which means farmer Merrill Nielsen should be getting more for his crops out of his 2,500-acre (1,010-hectare) Kansas farm. Yet even as future prices for bread-type wheat are up 39%, Nielsen is unsure whether increased prices will rai",
+    "published_at": "2026-09-18T11:00:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
    }
   ]
  },
@@ -7539,24 +7672,95 @@
   ]
  },
  {
-  "id": "6fecc4da6b6d",
-  "headline": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
+  "id": "193c8bfab556",
+  "headline": "Could AI really kill us all? Your questions, answered.",
+  "section": "ai",
+  "score": 36,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-15T09:32:30+00:00",
-  "event_time": "2026-09-15T06:52:16+00:00",
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:29:22+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-    "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-    "source": "The Hacker News",
-    "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
-    "published_at": "2026-09-15T06:52:16+00:00",
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "source": "MIT TR — AI",
+    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+    "published_at": "2026-09-18T11:29:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T09:32:26+00:00"
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "source": "MIT Tech Review",
+    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+    "published_at": "2026-09-18T11:29:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6d046d44e31c",
+  "headline": "Scientists restore a brain protein and reverse signs of aging in mice",
+  "section": "science",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T04:25:45+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+    "source": "ScienceDaily",
+    "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improved cognition, hinting at a potentially intriguing new target for healthy aging.",
+    "published_at": "2026-09-18T04:25:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improved cognition, hinting at a potentially intriguing new target for healthy aging.",
+    "published_at": "2026-09-18T04:25:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b563daa68ff9",
+  "headline": "Ozempic can change your body. Can it change your life?",
+  "section": "science",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T03:52:09+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ozempic can change your body. Can it change your life?",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
+    "source": "ScienceDaily",
+    "summary": "Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or overall well-being. The findings suggest the drugs’ broader life effects may be subtler than their dramatic physical health benefits.",
+    "published_at": "2026-09-18T03:52:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Ozempic can change your body. Can it change your life?",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or overall well-being. The findings suggest the drugs’ broader life effects may be subtler than their dramatic physical health benefits.",
+    "published_at": "2026-09-18T03:52:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
    }
   ]
  },
@@ -8592,6 +8796,112 @@
   ]
  },
  {
+  "id": "82da9e642a08",
+  "headline": "Flash floods can strike without warning — this new technology could change that",
+  "section": "tech",
+  "score": 35,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T11:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Flash floods can strike without warning — this new technology could change that",
+    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "source": "The Verge",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
+    "published_at": "2026-09-18T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Flash floods can strike without warning — this new technology could change that",
+    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "source": "The Verge AI",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
+    "published_at": "2026-09-18T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "570f5bef44c0",
+  "headline": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+  "section": "science",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T12:01:08+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+    "url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
+    "published_at": "2026-09-18T12:01:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   },
+   {
+    "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+    "url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
+    "published_at": "2026-09-18T12:01:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "64e0b03db241",
+  "headline": "Canada captain loses sleep 'four to five nights a week' over England's World Cup win",
+  "section": "sport",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T10:45:25+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Canada captain loses sleep 'four to five nights a week' over England's World Cup win",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv70dngn8pl3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Canada captain Sophie de Goede says she still loses sleep over their World Cup final loss to England last year.",
+    "published_at": "2026-09-18T10:45:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a4aa43a6286b",
+  "headline": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-18T12:35:15+00:00",
+  "event_time": "2026-09-18T10:40:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+    "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and",
+    "published_at": "2026-09-18T10:40:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T12:35:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "b5991f2e9d60",
   "headline": "Greens urge Zack Polanski to take stance on proposed policy declaring ‘Zionism is racism’",
   "section": "world",
@@ -8698,226 +9008,6 @@
     "published_at": "2026-09-18T02:00:05+00:00",
     "source_countries": [],
     "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "0737368d5bc8",
-  "headline": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-  "section": "business",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-09-18T01:35:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-    "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-    "source": "CNBC Top",
-    "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
-    "published_at": "2026-09-18T01:35:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "a56a1c9da58e",
-  "headline": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-  "section": "safety",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-09-15T11:26:36+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-    "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-    "source": "The Hacker News",
-    "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as a one-off exercise. But no matter how much you validate against these",
-    "published_at": "2026-09-15T11:26:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "a8afc0d40c3f",
-  "headline": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T04:04:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
-    "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
-    "source": "The Guardian World",
-    "summary": "The gift from Italy has sparked fierce debate among defence analysts and opposition politicians who question its true cost and purpose Indonesia has received its first aircraft carrier, a former Italian warship that the government says will strengthen the archipelagic nation’s maritime security and disaster response capabilities. The 41-year-old former ITS Giuseppe Garibaldi, with capacity for sho",
-    "published_at": "2026-09-18T04:04:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   }
-  ]
- },
- {
-  "id": "4f8b6333a714",
-  "headline": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-18T09:28:16+00:00",
-  "event_time": "2026-09-18T09:05:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Andrew Hastie says AI advised him to reply ‘congratulations!’ to man who planned to end life with assisted dying",
-    "url": "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying",
-    "source": "The Guardian World",
-    "summary": "Liberal MP speaks of AI’s shortcomings as cyber chief tells inquiry the tech is needed to fend off ‘highly capable malicious cyber actors’ Get our new political email , free app or daily news podcast When a man with a terminal illness wrote to his local MP Andrew Hastie, telling him he planned on ending his own life with voluntary assisted dying, Microsoft Copilot suggested Hastie reply with “cong",
-    "published_at": "2026-09-18T09:05:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T09:28:14+00:00"
-   }
-  ]
- },
- {
-  "id": "0792e25b29fa",
-  "headline": "Thames Water rescue deal should be rejected - MPs",
-  "section": "business",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-18T09:28:16+00:00",
-  "event_time": "2026-09-18T05:16:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Thames Water rescue deal should be rejected - MPs",
-    "url": "https://www.bbc.co.uk/news/articles/c6qjk9q1wpqeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "A report on the future of Thames Water, urging the government to take action, has been published.",
-    "published_at": "2026-09-18T05:16:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T09:28:14+00:00"
-   }
-  ]
- },
- {
-  "id": "1c97643e1470",
-  "headline": "From the Gobi to Ghana: 10 of the best community tourism trips around the world",
-  "section": "travel",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-09-18T09:28:16+00:00",
-  "event_time": "2025-09-21T06:00:35+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "From the Gobi to Ghana: 10 of the best community tourism trips around the world",
-    "url": "https://www.theguardian.com/travel/2025/sep/21/community-tourism-trips-holiday-traditional-customs",
-    "source": "Guardian Travel",
-    "summary": "Make your next holiday more meaningful with an itinerary that supports local welfare projects, empowers women and showcases traditional customs Eternal Landscapes offers individual and small-group trips to Mongolia, with a focus on supporting local communities. On the five-day Erdenedalai Explorer trip, guests stay with a herding family in the vast steppes of the “Middle Gobi”, an area often bypas",
-    "published_at": "2025-09-21T06:00:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T09:28:14+00:00"
-   }
-  ]
- },
- {
-  "id": "a4808d070ecf",
-  "headline": "People protecting nature and land set up self-defence units amid threat of murder",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-18T09:28:16+00:00",
-  "event_time": "2026-09-16T05:00:10+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "People protecting nature and land set up self-defence units amid threat of murder",
-    "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
-    "source": "The Guardian World",
-    "summary": "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set up self-defence units, according to the latest annual death toll by the independent watchdog Global Witness. Organised crime groups or professional killers were im",
-    "published_at": "2026-09-16T05:00:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T09:28:14+00:00"
-   }
-  ]
- },
- {
-  "id": "5c25c383e498",
-  "headline": "Labor visa overstayer detention centre plan branded a ‘Donald Trump twist’ on immigration",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T09:28:16+00:00",
-  "event_time": "2026-09-18T08:30:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Labor visa overstayer detention centre plan branded a ‘Donald Trump twist’ on immigration",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/18/labors-plans-for-visa-overstayer-detention-centres-a-donald-trump-twist-on-australian-immigration-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "Australian Greens senator compares government’s policy to ICE as Tony Burke calls it a ‘ridiculous claim’ Get our new political email , free app or daily news podcast The federal government’s move to reopen detention centres for visa overstayers, overseen by compliance officers, has drawn comparison from the Greens and advocates to Donald Trump’s sweeping immigration crackdown in the United States",
-    "published_at": "2026-09-18T08:30:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T09:28:14+00:00"
-   }
-  ]
- },
- {
-  "id": "26c7611d8e41",
-  "headline": "Burnham to meet Irish PM as UK bids to get exemptions from EU’s ‘Made in Europe’ plan – UK politics live",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T09:28:16+00:00",
-  "event_time": "2026-09-18T08:48:26+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Burnham to meet Irish PM as UK bids to get exemptions from EU’s ‘Made in Europe’ plan – UK politics live",
-    "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
-    "source": "The Guardian World",
-    "summary": "It will be the first time the PM uses No 10 North to host an overseas visit while the chancellor will be in Dublin meeting with EU finance ministers Here is the statement Tom Watson issued about his decision to take a job with Palantir. I’m terrifically excited to be joining the young Palantir team who make the tools that public service workers need to transform how they serve the British people. ",
-    "published_at": "2026-09-18T08:48:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T09:28:14+00:00"
-   }
-  ]
- },
- {
-  "id": "05c45e06b228",
-  "headline": "Retail sales bounce back in Great Britain amid brighter signs for economy",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T09:28:16+00:00",
-  "event_time": "2026-09-18T08:24:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
-    "url": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
-    "source": "The Guardian World",
-    "summary": "Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwaves Business live – latest updates Retail sales across Great Britain unexpectedly rose last month, the latest economic indicator to defy gloomy forecasts as the chancellor, John Healey, prepares to present next month’s budget. The Office for National Statistics (ONS) said the",
-    "published_at": "2026-09-18T08:24:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T09:28:14+00:00"
    }
   ]
  }
