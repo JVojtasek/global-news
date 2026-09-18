@@ -1,6 +1,365 @@
 {
  "threads": [
   {
+   "id": "fc871ed3ce64",
+   "title": "Trump signs order to rename Lake Ontario as Lake America",
+   "section": "world",
+   "entities": [
+    "politics",
+    "eu's",
+    "vince",
+    "iran",
+    "south",
+    "apple",
+    "america",
+    "strasbourg",
+    "weekly",
+    "google",
+    "maps",
+    "europe",
+    "carney",
+    "lake",
+    "robert",
+    "mapquest",
+    "canada's",
+    "trump",
+    "ontario",
+    "reich",
+    "canadian",
+    "bombardier",
+    "beiser",
+    "park",
+    "korea",
+    "canada",
+    "mark"
+   ],
+   "event_ids": [
+    "fc871ed3ce64",
+    "d303cedaf846",
+    "69769cf42fdf",
+    "4dcd5aa8edee",
+    "f1acf504161f",
+    "eded7a46ce69",
+    "513bc8ca4fe5",
+    "2063b9e83ecd",
+    "7ee9d33d0756",
+    "be52307dda99",
+    "c280f70cbb01",
+    "c7578e46c246",
+    "a10299274da2",
+    "bf18496d99e4",
+    "c8549675122c",
+    "ba25d6c2d4c7",
+    "79ad9912719f",
+    "0a4802f0e85a",
+    "869ca936dee5",
+    "9417b69ea434",
+    "5ffc61341047",
+    "16cb99ad25e3",
+    "327c785d75e1",
+    "52129b02a43c",
+    "0af672bd9219",
+    "02a24cacedb1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-18",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Trump signs order to rename Lake Ontario as Lake America",
+     "sources": 7,
+     "score": 82,
+     "event_id": "fc871ed3ce64",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
+     "sources": 4,
+     "score": 64,
+     "event_id": "d303cedaf846",
+     "links": [
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "How did Trump get so rich? | Politics Weekly America",
+     "sources": 4,
+     "score": 62,
+     "event_id": "69769cf42fdf",
+     "links": [
+      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
+     "sources": 2,
+     "score": 47,
+     "event_id": "4dcd5aa8edee",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+     "sources": 3,
+     "score": 59,
+     "event_id": "f1acf504161f",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+     "sources": 3,
+     "score": 60,
+     "event_id": "eded7a46ce69",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
+     "sources": 2,
+     "score": 41,
+     "event_id": "513bc8ca4fe5",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Apple Maps follows Google in renaming Lake Ontario",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2063b9e83ecd",
+     "links": [
+      "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Apple Maps changes Lake Ontario to Lake America after Trump order",
+     "sources": 5,
+     "score": 73,
+     "event_id": "7ee9d33d0756",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Trump’s ridiculous bullying of Canada is backfiring | Robert Reich",
+     "sources": 2,
+     "score": 45,
+     "event_id": "be52307dda99",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring",
+      "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c280f70cbb01",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+      "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c7578e46c246",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
+      "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+     "sources": 2,
+     "score": 40,
+     "event_id": "a10299274da2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Trump threatens to block Canada's Bombardier planes from US market",
+     "sources": 2,
+     "score": 40,
+     "event_id": "bf18496d99e4",
+     "links": [
+      "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/business/20260908-trump-threatens-ban-on-bombardier-as-canada-s-retaliatory-tariffs-kick-in"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "South Park changes name to South America in response to Trump changes",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c8549675122c",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump",
+      "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "UK to force Apple and Google to block explicit images on children’s smartphones",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ba25d6c2d4c7",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "South Park creators rename show 'South America' in apparent dig at Trump",
+     "sources": 2,
+     "score": 42,
+     "event_id": "79ad9912719f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump threatens EU with further sanctions over Canada",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0a4802f0e85a",
+     "links": [
+      "https://www.dw.com/en/trump-threatens-eu-with-further-sanctions-over-canada/a-79299548?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live",
+     "sources": 3,
+     "score": 63,
+     "event_id": "869ca936dee5",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
+      "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-rdf",
+      "http://www.france24.com/en/tv-shows/press-review/20260917-the-canaduropean-union-canada-an-associate-member-of-the-eu"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump calls EU's offer of associate partnership to Canada 'laughable' – video",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9417b69ea434",
+     "links": [
+      "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video",
+      "http://www.france24.com/en/video/20260917-laughable-trump-threatens-to-cut-eu-trade-over-canada-ties"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+     "sources": 2,
+     "score": 41,
+     "event_id": "5ffc61341047",
+     "links": [
+      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+      "http://www.france24.com/en/video/20260917-stronger-together-canada-s-carney-welcomes-eu-associate-member-proposal"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+     "sources": 2,
+     "score": 40,
+     "event_id": "16cb99ad25e3",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Canada is a 'safe harbour' for global finance, Carney says",
+     "sources": 2,
+     "score": 44,
+     "event_id": "327c785d75e1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech",
+     "sources": 2,
+     "score": 43,
+     "event_id": "52129b02a43c",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
+      "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser",
+     "sources": 2,
+     "score": 45,
+     "event_id": "0af672bd9219",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals",
+      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+     "sources": 2,
+     "score": 46,
+     "event_id": "02a24cacedb1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+      "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "48a7d81e65e9",
    "title": "Kennedy Center board approves Trump name on facade, renovation plan",
    "section": "world",
@@ -1194,351 +1553,6 @@
       "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fc871ed3ce64",
-   "title": "Trump signs order to rename Lake Ontario as Lake America",
-   "section": "world",
-   "entities": [
-    "politics",
-    "canada",
-    "vince",
-    "maps",
-    "beiser",
-    "bombardier",
-    "ontario",
-    "mapquest",
-    "strasbourg",
-    "europe",
-    "lake",
-    "eu's",
-    "robert",
-    "canadian",
-    "trump",
-    "south",
-    "reich",
-    "weekly",
-    "mark",
-    "canada's",
-    "carney",
-    "america",
-    "apple",
-    "park",
-    "google"
-   ],
-   "event_ids": [
-    "fc871ed3ce64",
-    "d303cedaf846",
-    "69769cf42fdf",
-    "4dcd5aa8edee",
-    "f1acf504161f",
-    "eded7a46ce69",
-    "513bc8ca4fe5",
-    "2063b9e83ecd",
-    "7ee9d33d0756",
-    "be52307dda99",
-    "c280f70cbb01",
-    "c7578e46c246",
-    "a10299274da2",
-    "bf18496d99e4",
-    "c8549675122c",
-    "ba25d6c2d4c7",
-    "79ad9912719f",
-    "0a4802f0e85a",
-    "869ca936dee5",
-    "9417b69ea434",
-    "5ffc61341047",
-    "16cb99ad25e3",
-    "327c785d75e1",
-    "52129b02a43c",
-    "0af672bd9219"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-09-17",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Trump signs order to rename Lake Ontario as Lake America",
-     "sources": 7,
-     "score": 82,
-     "event_id": "fc871ed3ce64",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
-     "sources": 4,
-     "score": 64,
-     "event_id": "d303cedaf846",
-     "links": [
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "How did Trump get so rich? | Politics Weekly America",
-     "sources": 4,
-     "score": 62,
-     "event_id": "69769cf42fdf",
-     "links": [
-      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
-     "sources": 2,
-     "score": 47,
-     "event_id": "4dcd5aa8edee",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-     "sources": 3,
-     "score": 59,
-     "event_id": "f1acf504161f",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
-     "sources": 3,
-     "score": 60,
-     "event_id": "eded7a46ce69",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
-      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
-     "sources": 2,
-     "score": 41,
-     "event_id": "513bc8ca4fe5",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Apple Maps follows Google in renaming Lake Ontario",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2063b9e83ecd",
-     "links": [
-      "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
-      "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-     "sources": 5,
-     "score": 73,
-     "event_id": "7ee9d33d0756",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Trump’s ridiculous bullying of Canada is backfiring | Robert Reich",
-     "sources": 2,
-     "score": 45,
-     "event_id": "be52307dda99",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring",
-      "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c280f70cbb01",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c7578e46c246",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
-      "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-     "sources": 2,
-     "score": 40,
-     "event_id": "a10299274da2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Trump threatens to block Canada's Bombardier planes from US market",
-     "sources": 2,
-     "score": 40,
-     "event_id": "bf18496d99e4",
-     "links": [
-      "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/business/20260908-trump-threatens-ban-on-bombardier-as-canada-s-retaliatory-tariffs-kick-in"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "South Park changes name to South America in response to Trump changes",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c8549675122c",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump",
-      "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "UK to force Apple and Google to block explicit images on children’s smartphones",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ba25d6c2d4c7",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
-      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "South Park creators rename show 'South America' in apparent dig at Trump",
-     "sources": 2,
-     "score": 42,
-     "event_id": "79ad9912719f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump threatens EU with further sanctions over Canada",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0a4802f0e85a",
-     "links": [
-      "https://www.dw.com/en/trump-threatens-eu-with-further-sanctions-over-canada/a-79299548?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live",
-     "sources": 3,
-     "score": 63,
-     "event_id": "869ca936dee5",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
-      "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-rdf",
-      "http://www.france24.com/en/tv-shows/press-review/20260917-the-canaduropean-union-canada-an-associate-member-of-the-eu"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump calls EU's offer of associate partnership to Canada 'laughable' – video",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9417b69ea434",
-     "links": [
-      "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video",
-      "http://www.france24.com/en/video/20260917-laughable-trump-threatens-to-cut-eu-trade-over-canada-ties"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
-     "sources": 2,
-     "score": 41,
-     "event_id": "5ffc61341047",
-     "links": [
-      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
-      "http://www.france24.com/en/video/20260917-stronger-together-canada-s-carney-welcomes-eu-associate-member-proposal"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-     "sources": 2,
-     "score": 40,
-     "event_id": "16cb99ad25e3",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Canada is a 'safe harbour' for global finance, Carney says",
-     "sources": 2,
-     "score": 44,
-     "event_id": "327c785d75e1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech",
-     "sources": 2,
-     "score": 43,
-     "event_id": "52129b02a43c",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
-      "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser",
-     "sources": 2,
-     "score": 45,
-     "event_id": "0af672bd9219",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals",
-      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html"
      ]
     }
    ]
@@ -9463,5 +9477,5 @@
    ]
   }
  ],
- "updated": "2026-09-18T03:29:32+00:00"
+ "updated": "2026-09-18T06:40:07+00:00"
 }

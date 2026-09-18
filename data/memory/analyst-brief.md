@@ -64,6 +64,20 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-14** (2 zdrojů) Former West Ham keeper Miklosko dies aged 64
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
+### Trump signs order to rename Lake Ontario as Lake America
+- rubrika `world` · sledováno 22 dní · 26 záznamů
+- časová osa:
+  - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
+  - **2026-09-17** (2 zdrojů) Trump threatens EU with further sanctions over Canada
+  - **2026-09-17** (3 zdrojů) Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live
+  - **2026-09-17** (2 zdrojů) Trump calls EU's offer of associate partnership to Canada 'laughable' – video
+  - **2026-09-17** (2 zdrojů) Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’
+  - **2026-09-17** (2 zdrojů) Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat
+  - **2026-09-17** (2 zdrojů) Canada is a 'safe harbour' for global finance, Carney says
+  - **2026-09-17** (2 zdrojů) Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech
+  - **2026-09-17** (2 zdrojů) Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser
+  - **2026-09-18** (2 zdrojů) South Korea will not send military to support US war on Iran, defying Trump pressure
+
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 39 dní · 26 záznamů
 - časová osa:
@@ -79,17 +93,3 @@ Paměť obsahuje **104 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
-
-### Trump signs order to rename Lake Ontario as Lake America
-- rubrika `world` · sledováno 21 dní · 25 záznamů
-- časová osa:
-  - **2026-09-08** (2 zdrojů) UK to force Apple and Google to block explicit images on children’s smartphones
-  - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
-  - **2026-09-17** (2 zdrojů) Trump threatens EU with further sanctions over Canada
-  - **2026-09-17** (3 zdrojů) Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live
-  - **2026-09-17** (2 zdrojů) Trump calls EU's offer of associate partnership to Canada 'laughable' – video
-  - **2026-09-17** (2 zdrojů) Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’
-  - **2026-09-17** (2 zdrojů) Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat
-  - **2026-09-17** (2 zdrojů) Canada is a 'safe harbour' for global finance, Carney says
-  - **2026-09-17** (2 zdrojů) Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech
-  - **2026-09-17** (2 zdrojů) Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser

@@ -1970,33 +1970,104 @@
   ]
  },
  {
-  "id": "29d9f1db42e0",
-  "headline": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-  "section": "culture",
-  "score": 45,
+  "id": "02a24cacedb1",
+  "headline": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+  "section": "world",
+  "score": 46,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-15T03:30:43+00:00",
-  "event_time": "2026-09-15T03:16:08+00:00",
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T05:54:29+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-    "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-    "published_at": "2026-09-15T03:16:08+00:00",
+    "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+    "url": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+    "source": "The Guardian World",
+    "summary": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’ South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the military to the ⁠Middle East in a way ​that could draw the country into conflict, resisting calls from Donald Trump to support his war in Iran. “There won’t be deployment that would i",
+    "published_at": "2026-09-18T05:54:29+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T03:30:38+00:00"
+    "seen_at": "2026-09-18T06:40:04+00:00"
    },
    {
-    "title": "’The Pitt’ and ’Widow’s Bay’ claim top honors at TV’s Emmy Awards",
-    "url": "https://www.investing.com/news/stock-market-news/jean-smart-makes-emmy-history-with-fifth-win-for-hacks-4900688",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-15T03:18:32+00:00",
+    "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+    "url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
+    "published_at": "2026-09-18T05:23:10+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-15T03:30:38+00:00"
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   }
+  ]
+ },
+ {
+  "id": "353cbcea301e",
+  "headline": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
+  "section": "business",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T06:20:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
+    "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
+    "source": "Guardian Business",
+    "summary": "Rolling coverage of the latest economic and financial news Despite the inflationary squeeze on households, retail sales across Great Britain have risen over the summer. The heatwave, a pick-up in web shopping, and the joys (and pain and disappointment !) of the men’s football World Cup, helped to lift spending over the three months to August, new data shows. “Retail sales increased in the latest t",
+    "published_at": "2026-09-18T06:20:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
+    "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
+    "published_at": "2026-09-18T03:20:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1e55db8feb2f",
+  "headline": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+  "section": "safety",
+  "score": 46,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-17T18:08:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+    "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw",
+    "published_at": "2026-09-17T18:08:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+    "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+    "source": "The Hacker News",
+    "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15. The escape runs with the rights of the host account that runs the virtual machine. The flaw, CVE-2026-77179, is rated Critical, affects versions",
+    "published_at": "2026-09-17T15:37:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+    "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+    "source": "The Hacker News",
+    "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
+    "published_at": "2026-09-14T17:58:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
    }
   ]
  },
@@ -2706,6 +2777,37 @@
     "published_at": "2026-09-17T05:20:23+00:00",
     "source_countries": [],
     "seen_at": "2026-09-17T06:41:34+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e8b1865124a1",
+  "headline": "Allen stars as Bills open new stadium in style",
+  "section": "sport",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T06:14:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Allen stars as Bills open new stadium in style",
+    "url": "https://www.bbc.co.uk/sport/american-football/articles/cjx2zlv5xz39o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "The Buffalo Bills open their new stadium in style with a 41-31 win over the Detroit Lions, as Josh Allen again impresses.",
+    "published_at": "2026-09-18T06:14:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions",
+    "url": "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football",
+    "source": "Guardian Sport",
+    "summary": "Detroit Lions 31-41 Buffalo Bills Bills QB throws three TDs and rushes for two Jared Goff excellent in defeat for Lions Josh Allen quickly put his stamp on the Buffalo Bills’ new stadium, which has been dubbed “The House that Allen built.” Allen threw three touchdown passes and ran for two scores, and the Bills beat the Detroit Lions 41-31 on Thursday night in the first regular-season game at High",
+    "published_at": "2026-09-18T03:55:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
    }
   ]
  },
@@ -4060,37 +4162,6 @@
   ]
  },
  {
-  "id": "f29930d866fb",
-  "headline": "Plague was killing entire families thousands of years before the Black Death",
-  "section": "science",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-15T03:30:43+00:00",
-  "event_time": "2026-09-15T02:54:45+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Plague was killing entire families thousands of years before the Black Death",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
-    "source": "ScienceDaily",
-    "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
-    "published_at": "2026-09-15T02:54:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T03:30:38+00:00"
-   },
-   {
-    "title": "Plague was killing entire families thousands of years before the Black Death",
-    "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm",
-    "source": "ScienceDaily Health",
-    "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carried a genetic factor capable of provoking severe immune reactions.",
-    "published_at": "2026-09-15T02:54:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T03:30:38+00:00"
-   }
-  ]
- },
- {
   "id": "7913b6b2d8f5",
   "headline": "US scraps limits on emissions from coal and gas power plants",
   "section": "science",
@@ -5206,6 +5277,37 @@
   ]
  },
  {
+  "id": "91e2b69b32d0",
+  "headline": "Former Labour deputy leader Tom Watson joins Palantir",
+  "section": "world",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T06:00:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Former Labour deputy leader Tom Watson joins Palantir",
+    "url": "https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir",
+    "source": "The Guardian World",
+    "summary": "Peer takes full-time position at the controversial company as it fends off pressure from both Andy Burnham’s government and Sadiq Khan Another former government minister has been hired by a controversial US AI company, this time Palantir, which has appointed Andy Burnham’s former ministerial colleague Tom Watson. The Labour peer and former deputy leader will operate alongside Palantir’s UK and Eur",
+    "published_at": "2026-09-18T06:00:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "Former Labour deputy leader Tom Watson joins Palantir",
+    "url": "https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir",
+    "source": "Guardian Business",
+    "summary": "Peer takes full-time position at the controversial company as it fends off pressure from both Andy Burnham’s government and Sadiq Khan Another former government minister has been hired by a controversial US AI company, this time Palantir, which has appointed Andy Burnham’s former ministerial colleague Tom Watson. The Labour peer and former deputy leader will operate alongside Palantir’s UK and Eur",
+    "published_at": "2026-09-18T06:00:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   }
+  ]
+ },
+ {
   "id": "ad1254307ad5",
   "headline": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
   "section": "world",
@@ -6060,6 +6162,37 @@
   ]
  },
  {
+  "id": "ee4b50622398",
+  "headline": "MPs urge ministers to break off Thames Water talks with US hedge funds",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T05:00:09+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "MPs urge ministers to break off Thames Water talks with US hedge funds",
+    "url": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
+    "source": "The Guardian World",
+    "summary": "Efra committee calls for emergency legislation enabling government to take public control of the company Andy Burnham is under further pressure to take control of ailing Thames Water from a cross-party group of MPs who are calling for ministers to break off talks with the US hedge funds who are effectively running the company. Adding their voices to demands that the prime minister takes public con",
+    "published_at": "2026-09-18T05:00:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "MPs urge ministers to break off Thames Water talks with US hedge funds",
+    "url": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
+    "source": "Guardian Business",
+    "summary": "Efra committee calls for emergency legislation enabling government to take public control of the company Andy Burnham is under further pressure to take control of ailing Thames Water from a cross-party group of MPs who are calling for ministers to break off talks with the US hedge funds who are effectively running the company. Adding their voices to demands that the prime minister takes public con",
+    "published_at": "2026-09-18T05:00:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   }
+  ]
+ },
+ {
   "id": "4a859598d5aa",
   "headline": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
   "section": "safety",
@@ -6652,28 +6785,6 @@
     "published_at": "2026-09-17T23:00:47+00:00",
     "source_countries": [],
     "seen_at": "2026-09-18T00:58:59+00:00"
-   }
-  ]
- },
- {
-  "id": "13c920234c66",
-  "headline": "Daily briefing: Text-message tutoring keeps kids learning when schools close",
-  "section": "science",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-15T03:30:43+00:00",
-  "event_time": "2026-09-10T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Daily briefing: Text-message tutoring keeps kids learning when schools close",
-    "url": "https://www.nature.com/articles/d41586-026-02888-5",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02888-5 Twenty-minute phone calls from tutors improved children’s maths learning during emergency school closures. Plus, Denisovans made excellent deer hunters and Beatles puns are here, there and everywhere in scientific literature.",
-    "published_at": "2026-09-10T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-15T03:30:38+00:00"
    }
   ]
  },
@@ -7575,6 +7686,68 @@
     "published_at": "2026-09-17T19:12:24+00:00",
     "source_countries": [],
     "seen_at": "2026-09-17T21:24:05+00:00"
+   }
+  ]
+ },
+ {
+  "id": "664c0aa8f161",
+  "headline": "Russia votes in parliamentary election as war in Ukraine drags on",
+  "section": "world",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T05:38:20+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Russia votes in parliamentary election as war in Ukraine drags on",
+    "url": "https://www.france24.com/en/europe/20260918-russia-votes-in-wartime-parliamentary-election-set-to-secure-the-kremlin-power",
+    "source": "France 24",
+    "summary": "Polls opened in Russia's Far East on Friday as the country began three days of voting for its parliamentary election, the first since Moscow launched its full-scale invasion of Ukraine. The Kremlin's main party, United Russia, is poised to keep its grip on power alongside other parties aligned with President Vladimir Putin, as the only party that criticised the war was removed from the ballot.",
+    "published_at": "2026-09-18T05:38:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
+    "url": "https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "United Russia won more than two-thirds of the Duma's seats in the 2021 election and is poised to dominate the body again",
+    "published_at": "2026-09-18T05:37:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b66b94b0adb5",
+  "headline": "China to see major shift to Huawei for AI model training in 2027: rotating chair",
+  "section": "ai",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T04:59:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "China to see major shift to Huawei for AI model training in 2027: rotating chair",
+    "url": "https://www.scmp.com/tech/big-tech/article/3367955/china-see-major-shift-huawei-ai-model-training-2027-rotating-chair?utm_source=rss_feed",
+    "source": "SCMP Tech (Čína)",
+    "summary": "Huawei Technologies expects a major domestic shift towards its artificial intelligence computing infrastructure for model training next year, as its Ascend processors gain ground on Nvidia in China despite supply constraints, according to rotating chairman Eric Xu Zhijun. “I believe that starting from next year, a lot of the AI model training will be based on the SuperPoD or SuperCluster based on ",
+    "published_at": "2026-09-18T04:59:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
+   },
+   {
+    "title": "Huawei unveils latest tech to boost AI power in push to break China’s Nvidia reliance",
+    "url": "https://www.scmp.com/tech/big-tech/article/3367796/huawei-unveils-latest-tech-boost-ai-power-push-break-chinas-nvidia-reliance?utm_source=rss_feed",
+    "source": "SCMP Tech (Čína)",
+    "summary": "Huawei Technologies on Thursday unveiled its latest Atlas 960 SuperPoD computing cluster and an upgraded version of its UnifiedBus interconnect technology, key components of the Chinese tech giant’s strategy to build advanced artificial intelligence systems despite US semiconductor-related restrictions. At the Huawei Connect 2026 conference in Shanghai, the Shenzhen-based firm introduced near-pack",
+    "published_at": "2026-09-17T02:26:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-18T06:40:04+00:00"
    }
   ]
  },
@@ -8799,134 +8972,24 @@
   ]
  },
  {
-  "id": "35bb4e8da06e",
-  "headline": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
+  "id": "a8afc0d40c3f",
+  "headline": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
   "section": "world",
-  "score": 33,
+  "score": 34,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-09-16T23:01:32+00:00",
+  "depth_signal": 2,
+  "created": "2026-09-18T06:40:07+00:00",
+  "event_time": "2026-09-18T04:04:57+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
-    "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+    "title": "Indonesia gets its first aircraft carrier amid debate over cost and military ambitions",
+    "url": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
     "source": "The Guardian World",
-    "summary": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing over a thousand people in Nepal and Tibet last month, the first scientific study of the disaster has found. Researchers identified unusually warm conditions before the glacier’s collapse , w",
-    "published_at": "2026-09-16T23:01:32+00:00",
+    "summary": "The gift from Italy has sparked fierce debate among defence analysts and opposition politicians who question its true cost and purpose Indonesia has received its first aircraft carrier, a former Italian warship that the government says will strengthen the archipelagic nation’s maritime security and disaster response capabilities. The 41-year-old former ITS Giuseppe Garibaldi, with capacity for sho",
+    "published_at": "2026-09-18T04:04:57+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "5b3f71a4730a",
-  "headline": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-08-30T23:22:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-    "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
-    "published_at": "2026-08-30T23:22:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "e5e6087e01b8",
-  "headline": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-09-17T09:00:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-    "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-    "source": "CNBC Top",
-    "summary": "Rhodium Group's latest analysis of Chinese and U.S. AI companies also found that low revenue did not necessarily correspond with lower valuation.",
-    "published_at": "2026-09-17T09:00:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "99a7270c61c7",
-  "headline": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
-  "section": "health",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-09-16T00:25:34+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
-    "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
-    "published_at": "2026-09-16T00:25:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "c993406fa2aa",
-  "headline": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-  "section": "safety",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-09-14T16:00:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-    "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-    "source": "The Hacker News",
-    "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates ship continuously after that,\" David Perez, WordPress Official Plugin",
-    "published_at": "2026-09-14T16:00:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "2943f70f671b",
-  "headline": "Photos show widespread damage at US sites from Iranian attacks",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T03:29:32+00:00",
-  "event_time": "2026-09-16T18:36:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Photos show widespread damage at US sites from Iranian attacks",
-    "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-    "published_at": "2026-09-16T18:36:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T03:29:28+00:00"
+    "seen_at": "2026-09-18T06:40:04+00:00"
    }
   ]
  }
