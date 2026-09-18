@@ -9,7 +9,35 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Von der Leyen eyes Canada as EU's first 'associate member'
+### 1. Trump says he is banning CNN and Politico from White House
+- id události: `d966c1faf1fe`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 7
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Trump says he is banning CNN and Politico from White House
+    <https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss>
+    > The US president has had a tense and fiery relationship with the US media throughout his political career.
+  - **DW News** — Trump bars CNN, MS NOW and Politico from White House
+    <https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf>
+    > US President Donald Trump has accused CNN, MS NOW and Politico of spreading fake news.
+  - **NPR News** — Trump says he is banning CNN, MS NOW and Politico from the White House
+    <https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media>
+    > The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.
+  - **BBC Entertainment** — Zara Larsson criticises White House for using her song in deportation video
+    <https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss>
+    > The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip "dehumanising".
+  - **CNBC Top** — Trump says he's banning MS NOW, CNN and Politico from White House
+    <https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html>
+    > Trump, who often accuses mainstream media outlets of writing "fake news," said on Truth Social that those outlets shouldn't be allowed to "FICTION and LIES."
+  - **Al Jazeera** — Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’
+    <https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss>
+    > The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access.
+  - **France 24** — Trump bans media outlets CNN, MSNOW, Politico from White House
+    <https://www.france24.com/en/live-news/20260918-trump-bans-media-outlets-cnn-msnow-politico-from-white-house>
+  - **France 24** — Trump bans media outlets CNN, MSNOW and Politico from the White House
+    <https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house>
+    > US President Donald Trump on Friday said he would ban media outlets CNN, MSNOW and Politico from the White House over what he described as unfavourable coverage in his latest test of the US Constitution's First Amendment protection of press freedom.
+
+### 2. Von der Leyen eyes Canada as EU's first 'associate member'
 - id události: `3bd82fdf31ce`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -31,7 +59,7 @@
   - **Investing.com** — EU invites Canada to become bloc’s first ’associate member’
     <https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163>
 
-### 2. EU chief backs plan for Canada to become 'associate member'
+### 3. EU chief backs plan for Canada to become 'associate member'
 - id události: `418e8514211b`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -51,7 +79,7 @@
     <https://www.bbc.com/news/articles/cjwyzrr9d3dko>
     > Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 386 # Comments: 380
 
-### 3. Ronaldo named in first Portugal squad since World Cup - at age of 41
+### 4. Ronaldo named in first Portugal squad since World Cup - at age of 41
 - id události: `bd5d0f2f7796`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -70,23 +98,6 @@
   - **Al Jazeera** — Ronaldo keeps Portugal place for Nations League as Jesus names first squad
     <https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss>
     > Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
-
-### 4. Verified video shows wreckage of Saudi fighter jet shot down over Yemen
-- id události: `72cd7d7d5454`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Verified video shows wreckage of Saudi fighter jet shot down over Yemen
-    <https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss>
-    > BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.
-  - **BBC Sport** — Saudi Arabia dropped from World Rally Championship
-    <https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss>
-    > The final round of the 2026 World Rally Championship will be held in Italy instead of Saudi Arabia because of the ongoing unrest in the Middle East.
-  - **Al Jazeera** — Five killed as Saudi Arabia and Yemen’s Houthis trade attacks
-    <https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss>
-    > Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.
-  - **France 24** — Houthis claim Saudi F-15 kill as Yemen fighting escalates
-    <https://www.france24.com/en/houthis-claim-saudi-f-15-kill-as-yemen-fighting-escalates>
-    > Yemen's Houthi rebels have released footage they say shows the wreckage of a Saudi F-15 fighter jet, which, if confirmed, would mark the first fighter jet they have shot down. The claim comes as fighting escalates in Yemen, with the Houthis expanding their control around the stra
 
 ---
 
