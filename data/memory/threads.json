@@ -1,6 +1,100 @@
 {
  "threads": [
   {
+   "id": "48a7d81e65e9",
+   "title": "Kennedy Center board approves Trump name on facade, renovation plan",
+   "section": "world",
+   "entities": [
+    "sept",
+    "trump",
+    "trump's",
+    "judge",
+    "center",
+    "kennedy"
+   ],
+   "event_ids": [
+    "48a7d81e65e9",
+    "29028ab379ac",
+    "ee1cf2c81835",
+    "bb9155604d0e",
+    "33e8fe56d5fd",
+    "662c0d16c558"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-09-18",
+   "timeline": [
+    {
+     "date": "2026-08-13",
+     "headline": "Kennedy Center board approves Trump name on facade, renovation plan",
+     "sources": 4,
+     "score": 69,
+     "event_id": "48a7d81e65e9",
+     "links": [
+      "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+      "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29028ab379ac",
+     "links": [
+      "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+      "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Judge blocks plan to return Trump's name to the Kennedy Center",
+     "sources": 2,
+     "score": 52,
+     "event_id": "ee1cf2c81835",
+     "links": [
+      "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name",
+      "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
+      "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Trump says Kennedy Center will shutter 'immediately', as judge rules his name must stay off building",
+     "sources": 2,
+     "score": 44,
+     "event_id": "bb9155604d0e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
+     "sources": 2,
+     "score": 44,
+     "event_id": "33e8fe56d5fd",
+     "links": [
+      "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
+      "http://www.france24.com/en/americas/20260915-trump-threatens-to-not-reopen-kennedy-center-after-board-blocks-renaming"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+     "sources": 3,
+     "score": 54,
+     "event_id": "662c0d16c558",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
+      "https://www.france24.com/en/afp-photo-shows-trump-examining-image-of-apparent-kennedy-center-razing",
+      "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -2787,87 +2881,6 @@
       "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
       "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
       "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "48a7d81e65e9",
-   "title": "Kennedy Center board approves Trump name on facade, renovation plan",
-   "section": "world",
-   "entities": [
-    "center",
-    "sept",
-    "trump",
-    "trump's",
-    "kennedy",
-    "judge"
-   ],
-   "event_ids": [
-    "48a7d81e65e9",
-    "29028ab379ac",
-    "ee1cf2c81835",
-    "bb9155604d0e",
-    "33e8fe56d5fd"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-08-13",
-     "headline": "Kennedy Center board approves Trump name on facade, renovation plan",
-     "sources": 4,
-     "score": 69,
-     "event_id": "48a7d81e65e9",
-     "links": [
-      "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-      "https://www.cnbc.com/2026/08/13/kennedy-center-trump-name-beatty.html"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
-     "sources": 2,
-     "score": 44,
-     "event_id": "29028ab379ac",
-     "links": [
-      "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-      "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Judge blocks plan to return Trump's name to the Kennedy Center",
-     "sources": 2,
-     "score": 52,
-     "event_id": "ee1cf2c81835",
-     "links": [
-      "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name",
-      "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
-      "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Trump says Kennedy Center will shutter 'immediately', as judge rules his name must stay off building",
-     "sources": 2,
-     "score": 44,
-     "event_id": "bb9155604d0e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6y8zp3kv0x3o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
-     "sources": 2,
-     "score": 44,
-     "event_id": "33e8fe56d5fd",
-     "links": [
-      "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
-      "http://www.france24.com/en/americas/20260915-trump-threatens-to-not-reopen-kennedy-center-after-board-blocks-renaming"
      ]
     }
    ]
@@ -9450,5 +9463,5 @@
    ]
   }
  ],
- "updated": "2026-09-17T21:24:08+00:00"
+ "updated": "2026-09-18T00:59:06+00:00"
 }
