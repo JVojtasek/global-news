@@ -460,55 +460,6 @@
   ]
  },
  {
-  "id": "9996b3753211",
-  "headline": "News helicopter crashes in LA, killing 3",
-  "section": "world",
-  "score": 61,
-  "sources_count": 4,
-  "depth_signal": 2,
-  "created": "2026-09-16T06:41:18+00:00",
-  "event_time": "2026-09-16T05:55:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "News helicopter crashes in LA, killing 3",
-    "url": "https://www.dw.com/en/news-helicopter-crashes-in-la-killing-3/a-79285216?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A helicopter belonging to an NBC news affiliate was covering a large traffic accident in the southern California city when it crashed. The cause is currently unclear.",
-    "published_at": "2026-09-16T05:55:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "NBC news helicopter crashes and kills at least 3 in LA neighborhood",
-    "url": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
-    "source": "NPR News",
-    "summary": "A local NBC news helicopter crashed in a Los Angeles neighborhood on Tuesday, killing at least three people while reporters were covering the nearby crash of an SUV and a city bus, officials said.",
-    "published_at": "2026-09-16T04:06:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "News helicopter crash in Los Angeles kills three, injures one",
-    "url": "https://www.aljazeera.com/news/2026/9/16/news-helicopter-crash-in-los-angeles-kills-three-injures-one?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "NBC Los Angeles helicopter crashes while covering deadly metro bus collision from the air.",
-    "published_at": "2026-09-16T05:07:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "NBC news helicopter crashes in LA while covering bus collision, killing three",
-    "url": "http://www.france24.com/en/americas/20260916-media-helicopter-crashes-in-la-while-covering-bus-collision-killing-three",
-    "source": "France 24",
-    "summary": "A news helicopter covering a deadly bus crash in the Los Angeles neighbourhood of Chatsworth came down on Tuesday, killing three people, including a pedestrian.",
-    "published_at": "2026-09-16T04:47:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   }
-  ]
- },
- {
   "id": "d38002f0afc8",
   "headline": "Japan raises interest rate to new 31-year high to curb rising prices",
   "section": "business",
@@ -1345,6 +1296,37 @@
     "published_at": "2026-09-18T21:43:05+00:00",
     "source_countries": [],
     "seen_at": "2026-09-19T00:57:22+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b27fb7cf6534",
+  "headline": "Google says its Gemini AI model hacked three other companies",
+  "section": "tech",
+  "score": 51,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T00:53:20+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Google says its Gemini AI model hacked three other companies",
+    "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+    "source": "Guardian Business",
+    "summary": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of advance",
+    "published_at": "2026-09-19T00:53:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   },
+   {
+    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+    "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+    "source": "The Hacker News",
+    "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular. The evaluation partner was also involved in similar hacks disclosed",
+    "published_at": "2026-09-19T07:51:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
    }
   ]
  },
@@ -2418,37 +2400,6 @@
   ]
  },
  {
-  "id": "d4796b695f31",
-  "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-16T06:41:18+00:00",
-  "event_time": "2026-09-16T05:20:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-    "url": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The Saudi-led coalition said its air defenses had destroyed a Houthi-deployed drone just outside the holy city of Mecca — a claim Houthis were quick to deny.",
-    "published_at": "2026-09-16T05:20:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-    "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-    "source": "CNBC Top",
-    "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
-    "published_at": "2026-09-16T06:38:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   }
-  ]
- },
- {
   "id": "f4cb0e4968f8",
   "headline": "A brief history of Viagra",
   "section": "tech",
@@ -2804,6 +2755,37 @@
     "published_at": "2026-09-18T17:33:40+00:00",
     "source_countries": [],
     "seen_at": "2026-09-18T21:23:08+00:00"
+   }
+  ]
+ },
+ {
+  "id": "704fc83468a3",
+  "headline": "US and Denmark reach deal on Greenland, Trump claims 'permanent control' over island",
+  "section": "world",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T08:48:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "US and Denmark reach deal on Greenland, Trump claims 'permanent control' over island",
+    "url": "https://www.france24.com/en/us-and-denmark-reach-deal-on-greenland-trump-claims-permanent-control-over-island",
+    "source": "France 24",
+    "summary": "Not so long ago, inhabitants of Greenland feared that the US was preparing to invade, after US President Donald Trump repeatedly claimed the US wanted to control the Arctic territory. But Trump now says he has struck a deal with Denmark to give Washington \"permanent control\" over Greenland's security, while ensuring the territory remains firmly in the hands of Denmark. Denmark and Greenland have b",
+    "published_at": "2026-09-19T08:48:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   },
+   {
+    "title": "Trump ‘settled for less’ with new US-Denmark Greenland security deal",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The US-Denmark Greenland security deal gives Trump an agreement without delivering his ambition to annex the territory.",
+    "published_at": "2026-09-19T07:35:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
    }
   ]
  },
@@ -3902,6 +3884,68 @@
   ]
  },
  {
+  "id": "eb0e7de10f2c",
+  "headline": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T08:53:42+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
+    "url": "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
+    "source": "France 24",
+    "summary": "Donald Trump announced Friday he is banning CNN, MS NOW and Politico from the White House, accusing all three outlets of spreading 'fake news'. The move is almost certain to face legal challenges, and has been denounced by press freedom advocates. The US president's relationship with media outlets has long been fraught, as Charlotte Hughes explains.",
+    "published_at": "2026-09-19T08:53:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   },
+   {
+    "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
+    "url": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.",
+    "published_at": "2026-09-19T08:47:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d36262dc6684",
+  "headline": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+  "section": "safety",
+  "score": 42,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T08:18:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+    "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution. \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote",
+    "published_at": "2026-09-19T08:18:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   },
+   {
+    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+    "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulnerability in the TLS receive path",
+    "published_at": "2026-09-19T06:24:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   }
+  ]
+ },
+ {
   "id": "4c867617c12d",
   "headline": "US announces charges against five alleged agents for Russia over assassination plots",
   "section": "world",
@@ -4756,6 +4800,37 @@
   ]
  },
  {
+  "id": "5c08287c9fd3",
+  "headline": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
+  "section": "sport",
+  "score": 40,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T09:06:02+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
+    "url": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
+    "source": "Guardian Sport",
+    "summary": "News, discussion and updates before Saturday’s games This weekend’s fixtures | Tables | Mail us your thoughts Regarding Trent Alexander-Arnold’s England recall , here’s what Tuchel had to say … … and here is Sid Lowe’s analysis , the view from Spain: Thomas Tuchel said Trent Alexander Arnold had enjoyed a good start to the season, which came as news to those in England who have not been watching h",
+    "published_at": "2026-09-19T09:06:02+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   },
+   {
+    "title": "Premier League today: How to watch Spurs v Aston Villa, TV channels & live stream",
+    "url": "https://www.theguardian.com/football/2026/sep/19/how-to-watch-spurs-aston-villa-premier-league",
+    "source": "Guardian Sport",
+    "summary": "How will Tottenham Hotspur and Aston Villa fare today? Here is what to know, including kick-off time, TV channels and live stream options Tottenham Hotspur and Aston Villa are still searching for traction in the Premier League this season with both teams without a win in their opening four matches. It’s against the angsty background that Saturday’s fixture will be played. Spurs are also yet to sco",
+    "published_at": "2026-09-19T06:30:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   }
+  ]
+ },
+ {
   "id": "1853f9beed04",
   "headline": "Battle of Chile director Patricio Guzmán dies aged 85",
   "section": "culture",
@@ -5367,68 +5442,6 @@
     "published_at": "2026-09-19T00:46:04+00:00",
     "source_countries": [],
     "seen_at": "2026-09-19T03:28:54+00:00"
-   }
-  ]
- },
- {
-  "id": "bce52a349197",
-  "headline": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-  "section": "business",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-16T06:41:18+00:00",
-  "event_time": "2026-09-16T05:00:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-    "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
-    "source": "The Guardian World",
-    "summary": "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans The Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic trafficking of millions of African people, according to new research on Britain’s slavery history. Research by historians compiling the Register of British Slave Traders",
-    "published_at": "2026-09-16T05:00:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-    "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
-    "source": "Guardian Business",
-    "summary": "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans The Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic trafficking of millions of African people, according to new research on Britain’s slavery history. Research by historians compiling the Register of British Slave Traders",
-    "published_at": "2026-09-16T05:00:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   }
-  ]
- },
- {
-  "id": "6fb433cb70f4",
-  "headline": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-16T06:41:18+00:00",
-  "event_time": "2026-09-16T04:00:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
-    "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
-    "source": "The Guardian World",
-    "summary": "Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for the removal of carbon dioxide from the atmosphere, the government’s climate advisers have said. Building a third runway and new terminals , as some in government want to do , would breach the UK’s carbon b",
-    "published_at": "2026-09-16T04:00:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
-    "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
-    "source": "Guardian Business",
-    "summary": "Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for the removal of carbon dioxide from the atmosphere, the government’s climate advisers have said. Building a third runway and new terminals , as some in government want to do , would breach the UK’s carbon b",
-    "published_at": "2026-09-16T04:00:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
    }
   ]
  },
@@ -6074,37 +6087,6 @@
   ]
  },
  {
-  "id": "7fe54c72003b",
-  "headline": "Expect even more potholes on UK roads after summer heatwaves, says RAC",
-  "section": "world",
-  "score": 37,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-16T06:41:18+00:00",
-  "event_time": "2026-09-16T04:00:10+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Expect even more potholes on UK roads after summer heatwaves, says RAC",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/16/expect-more-potholes-uk-roads-summer-heatwaves-rac",
-    "source": "The Guardian World",
-    "summary": "Extreme weather has made brittle road surfaces more likely to crack, increasing strain on infrastructure The UK’s dilapidated roads are expected to get even worse, with motorists warned to expect a jump in the number of potholes as result of the country’s hottest summer on record . Potholes are commonly assumed to be caused by cold or wet weather, but long periods of heat can also create long-last",
-    "published_at": "2026-09-16T04:00:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "Expect even more potholes on UK roads after summer heatwaves, says RAC",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/16/expect-more-potholes-uk-roads-summer-heatwaves-rac",
-    "source": "Guardian Business",
-    "summary": "Extreme weather has made brittle road surfaces more likely to crack, increasing strain on infrastructure The UK’s dilapidated roads are expected to get even worse, with motorists warned to expect a jump in the number of potholes as result of the country’s hottest summer on record . Potholes are commonly assumed to be caused by cold or wet weather, but long periods of heat can also create long-last",
-    "published_at": "2026-09-16T04:00:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   }
-  ]
- },
- {
   "id": "0873124a7539",
   "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Tesla, Apple, Chevron, Cava, Micron & more",
   "section": "business",
@@ -6661,37 +6643,6 @@
     "published_at": "2026-09-18T18:02:53+00:00",
     "source_countries": [],
     "seen_at": "2026-09-19T06:36:39+00:00"
-   }
-  ]
- },
- {
-  "id": "937110fe244e",
-  "headline": "Revealed: the UK towns with the fewest jobs for young people",
-  "section": "business",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-16T06:41:18+00:00",
-  "event_time": "2026-09-16T05:00:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Revealed: the UK towns with the fewest jobs for young people",
-    "url": "https://www.theguardian.com/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people",
-    "source": "The Guardian World",
-    "summary": "Rotherham has 46 online vacancies for every 1,000 young people but there are 288 in Cotswold district council area Young people in Rotherham face a local jobs market with the fewest suitable opportunities in Britain, according to a report that warns stark regional divisions are fuelling a crisis in youth work. As ministers push to combat rising youth unemployment, the analysis from the Institute f",
-    "published_at": "2026-09-16T05:00:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
-   },
-   {
-    "title": "Revealed: the UK towns with the fewest jobs for young people",
-    "url": "https://www.theguardian.com/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people",
-    "source": "Guardian Business",
-    "summary": "Rotherham has 46 online vacancies for every 1,000 young people but there are 288 in Cotswold district council area Young people in Rotherham face a local jobs market with the fewest suitable opportunities in Britain, according to a report that warns stark regional divisions are fuelling a crisis in youth work. As ministers push to combat rising youth unemployment, the analysis from the Institute f",
-    "published_at": "2026-09-16T05:00:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
    }
   ]
  },
@@ -7681,33 +7632,86 @@
   ]
  },
  {
-  "id": "2a76975562d7",
-  "headline": "At least 10 dead, dozens missing in Gaza building collapse",
+  "id": "4abc5514cc37",
+  "headline": "India news: British Sikh activist Jagtar Singh Johal granted bail after 9 years in detention",
   "section": "world",
-  "score": 35,
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-16T06:41:18+00:00",
-  "event_time": "2026-09-16T05:06:52+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T08:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "At least 10 dead, dozens missing in Gaza building collapse",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.",
-    "published_at": "2026-09-16T05:06:52+00:00",
+    "title": "India news: British Sikh activist Jagtar Singh Johal granted bail after 9 years in detention",
+    "url": "https://www.dw.com/en/india-news-british-sikh-activist-jagtar-singh-johal-granted-bail-after-9-years-in-detention/live-79335891?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Sikh activist Jagtar Singh Johal has been granted bail after more than eight years without conviction. Meanwhile, India swapped its male flagbearer for the Asian Games opening ceremony over a missing kit. DW has more.",
+    "published_at": "2026-09-19T08:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ff92362e0286",
+  "headline": "Scientists discover first new wild cat in more than 100 years",
+  "section": "world",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T08:44:23+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Scientists discover first new wild cat in more than 100 years",
+    "url": "https://www.france24.com/en/americas/20260919-scientists-discover-first-new-wild-cat-in-more-than-100-years",
+    "source": "France 24",
+    "summary": "Scientists have identified a previously unknown species of wild cat living at a wildlife sanctuary in Bolivia. The tiny, spotted feline had lived at the sanctuary for years before genetic analysis revealed it as the first new living wild cat species identified in more than a century.",
+    "published_at": "2026-09-19T08:44:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
    },
    {
-    "title": "11 dead in Gaza after building collapses, many people remain trapped",
-    "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
-    "published_at": "2026-09-16T04:30:52+00:00",
+    "title": "The first new cat species discovered in 100 years",
+    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "source": "Hacker News Best",
+    "summary": "https://archive.ph/cgMTM Comments URL: https://news.ycombinator.com/item?id=49744704 Points: 267 # Comments: 103",
+    "published_at": "2026-09-17T18:31:56+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-16T06:41:16+00:00"
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bfd9d501d143",
+  "headline": "Roundtables: Could AI really kill us all?",
+  "section": "ai",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-15T17:47:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source": "MIT TR — AI",
+    "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
+    "published_at": "2026-09-15T17:47:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   },
+   {
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source": "MIT Tech Review",
+    "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
+    "published_at": "2026-09-15T17:47:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
    }
   ]
  },
@@ -8809,6 +8813,50 @@
   ]
  },
  {
+  "id": "1782f051a5ac",
+  "headline": "Lib Dems have ‘moral responsibility’ to block Reform, says Ed Davey as party gears up for snap election",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-19T07:00:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Lib Dems have ‘moral responsibility’ to block Reform, says Ed Davey as party gears up for snap election",
+    "url": "https://www.theguardian.com/politics/2026/sep/19/lib-dems-have-moral-responsibility-to-block-reform-says-ed-davey-as-party-gears-up-for-snap-election",
+    "source": "The Guardian World",
+    "summary": "Exclusive: Lib Dem leader bullish ahead of party conference despite static poll ratings and MPs’ frustrations The Liberal Democrats have begun work on a new manifesto in case of a possible snap election, as Ed Davey said he understood the frustrations of some of his MPs who fear that the party’s message is currently at risk of being lost. But Davey also urged his party not to panic at static polli",
+    "published_at": "2026-09-19T07:00:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6791db00c1aa",
+  "headline": "Hampshire relegated as Leicestershire keep survival hopes alive",
+  "section": "sport",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-19T09:25:12+00:00",
+  "event_time": "2026-09-18T13:28:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hampshire relegated as Leicestershire keep survival hopes alive",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cmgl75335dlgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Hampshire are relegated from Division One as Leicestershire chase a target of 334 to keep their own survival hopes alive.",
+    "published_at": "2026-09-18T13:28:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T09:25:09+00:00"
+   }
+  ]
+ },
+ {
   "id": "0c5fee4bc7df",
   "headline": "Stephanie Cole, Coronation Street and Open All Hours actor, dies aged 84",
   "section": "world",
@@ -8933,72 +8981,6 @@
     "published_at": "2026-09-18T15:24:16+00:00",
     "source_countries": [],
     "seen_at": "2026-09-18T18:29:28+00:00"
-   }
-  ]
- },
- {
-  "id": "1538fe685b37",
-  "headline": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
-  "section": "business",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-18T21:23:12+00:00",
-  "event_time": "2026-09-18T13:15:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
-    "url": "https://www.cnbc.com/2026/09/18/social-security-senate-races-battleground-voters-survey.html",
-    "source": "CNBC Top",
-    "summary": "Senators elected this November will be in office when Social Security's retirement trust fund is projected to run dry.",
-    "published_at": "2026-09-18T13:15:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T21:23:08+00:00"
-   }
-  ]
- },
- {
-  "id": "7b0c92dfeeed",
-  "headline": "David J. Taylor from Ohio’s 2nd district buys stocks in Installed Building Products and Procter & Gamble Company",
-  "section": "business",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T21:23:12+00:00",
-  "event_time": "2026-09-18T21:07:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "David J. Taylor from Ohio’s 2nd district buys stocks in Installed Building Products and Procter & Gamble Company",
-    "url": "https://www.investing.com/news/company-news/david-j-taylor-from-ohios-2nd-district-buys-stocks-in-installed-building-products-and-procter--gamble-company-93CH-4907904",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-18T21:07:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T21:23:08+00:00"
-   }
-  ]
- },
- {
-  "id": "c1bf37d1be80",
-  "headline": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-  "section": "health",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-18T21:23:12+00:00",
-  "event_time": "2026-09-17T13:32:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-    "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
-    "published_at": "2026-09-17T13:32:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T21:23:08+00:00"
    }
   ]
  }
