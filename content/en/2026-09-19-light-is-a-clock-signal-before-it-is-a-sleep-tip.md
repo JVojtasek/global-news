@@ -1,14 +1,15 @@
 ---
 slug: light-is-a-clock-signal-before-it-is-a-sleep-tip
 title: Light Is a Clock Signal Before It Is a Sleep Tip
-dek: The same light can shift a body clock differently depending on when it arrives. That is why “get more light” is incomplete advice.
+dek: The same light can shift a body clock differently depending on when it arrives.
+  That is why “get more light” is incomplete advice.
 section: health
 type: feature
 depth: open
 lang: en
 date: '2026-09-19'
 status: reserve
-confidence: 91
+confidence: 95
 load: 0
 topics:
 - circadian rhythms
@@ -29,7 +30,8 @@ sources:
 - name: Duffy and Czeisler — Effect of Light on Human Circadian Physiology
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2717723/
   published: '2009-06-01'
-- name: Blume, Garbazza and Spitschan — Effects of light on human circadian rhythms, sleep and mood
+- name: Blume, Garbazza and Spitschan — Effects of light on human circadian rhythms,
+    sleep and mood
   url: https://link.springer.com/article/10.1007/s11818-019-00215-x
   published: '2019-08-20'
 - name: Cleveland Clinic — Circadian Rhythm
@@ -41,13 +43,18 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why can the timing of light matter as much as its brightness for the circadian system?
+  question: Why can the timing of light matter as much as its brightness for the circadian
+    system?
   options:
   - The body clock responds identically to light at every hour.
-  - Light at different biological times can shift the clock in different directions or have different strength.
+  - Light at different biological times can shift the clock in different directions
+    or have different strength.
   - Only sunlight contains wavelengths the eye can detect.
   answer: 1
-  explanation: Human studies show that timing, intensity, duration and spectrum all shape the circadian response. Light late in the biological day commonly delays timing, while light later in the biological night or early day commonly advances it.
+  explanation: Human studies show that timing, intensity, duration and spectrum all
+    shape the circadian response. Light late in the biological day commonly delays
+    timing, while light later in the biological night or early day commonly advances
+    it.
 ---
 
 ## BRIEFLY

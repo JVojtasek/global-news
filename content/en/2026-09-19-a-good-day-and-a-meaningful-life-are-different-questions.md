@@ -1,14 +1,15 @@
 ---
 slug: a-good-day-and-a-meaningful-life-are-different-questions
 title: A Good Day and a Meaningful Life Are Different Questions
-dek: Pleasure, purpose and a life that makes sense can overlap. Treating them as one score hides what each is telling you.
+dek: Pleasure, purpose and a life that makes sense can overlap. Treating them as one
+  score hides what each is telling you.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-09-19'
-status: draft
-confidence: 90
+status: published
+confidence: 94
 load: 0
 topics:
 - meaning in life
@@ -26,7 +27,8 @@ sources:
 - name: Martela and Steger — The three meanings of meaning in life
   url: https://www.tandfonline.com/doi/full/10.1080/17439760.2015.1137623
   published: '2016-01-27'
-- name: Baumeister et al. — Some key differences between a happy life and a meaningful life
+- name: Baumeister et al. — Some key differences between a happy life and a meaningful
+    life
   url: https://www.tandfonline.com/doi/abs/10.1080/17439760.2013.830764
   published: '2013-08-20'
 - name: Pew Research Center — What Makes Life Meaningful? Views From 17 Advanced Economies
@@ -38,13 +40,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which observation best distinguishes a pleasant moment from a meaningful life?
+  question: Which observation best distinguishes a pleasant moment from a meaningful
+    life?
   options:
   - A meaningful life must feel pleasant at every moment.
-  - Pleasure concerns how experience feels now, while meaning can also involve coherence, purpose and mattering across time.
+  - Pleasure concerns how experience feels now, while meaning can also involve coherence,
+    purpose and mattering across time.
   - Meaning is simply the total number of pleasant moments a person remembers.
   answer: 1
-  explanation: Research finds overlap between happiness and meaning, not identity. Meaning may connect experience into a comprehensible story, direct action toward valued aims and support a sense that one’s life matters.
+  explanation: Research finds overlap between happiness and meaning, not identity.
+    Meaning may connect experience into a comprehensible story, direct action toward
+    valued aims and support a sense that one’s life matters.
 ---
 
 ## BRIEFLY

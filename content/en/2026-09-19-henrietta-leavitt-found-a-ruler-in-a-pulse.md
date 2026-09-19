@@ -1,13 +1,14 @@
 ---
 slug: henrietta-leavitt-found-a-ruler-in-a-pulse
 title: Henrietta Leavitt Found a Ruler in a Pulse
-dek: By comparing small changes on glass plates, she uncovered a relationship that let astronomers turn a star’s rhythm into a measure of distance.
+dek: By comparing small changes on glass plates, she uncovered a relationship that
+  let astronomers turn a star’s rhythm into a measure of distance.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-09-19'
-status: draft
+status: published
 confidence: 95
 load: 0
 topics:
@@ -29,7 +30,8 @@ sources:
 - name: Harvard Plate Stacks — Variable Stars
   url: https://platestacks.cfa.harvard.edu/henrietta-swan-leavitt/variable-stars
   published: '2018-01-01'
-- name: Smithsonian National Air and Space Museum — Remembering Astronomer Henrietta Swan Leavitt
+- name: Smithsonian National Air and Space Museum — Remembering Astronomer Henrietta
+    Swan Leavitt
   url: https://airandspace.si.edu/stories/editorial/remembering-astronomer-henrietta-swan-leavitt
   published: '2021-12-12'
 - name: Smithsonian Learning Lab — The Science of Henrietta Swan Leavitt
@@ -41,13 +43,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why was the Small Magellanic Cloud useful for Henrietta Leavitt’s comparison of Cepheid variables?
+  question: Why was the Small Magellanic Cloud useful for Henrietta Leavitt’s comparison
+    of Cepheid variables?
   options:
   - Its stars could all be assumed to have identical temperatures.
-  - Its variable stars were approximately at the same distance, so differences in apparent brightness could reveal differences in intrinsic luminosity.
+  - Its variable stars were approximately at the same distance, so differences in
+    apparent brightness could reveal differences in intrinsic luminosity.
   - It was the only part of the sky that could be photographed in 1912.
   answer: 1
-  explanation: Treating the variables in the Small Magellanic Cloud as roughly equally distant removed a major confounding factor. Leavitt could connect longer pulsation periods with greater intrinsic brightness.
+  explanation: Treating the variables in the Small Magellanic Cloud as roughly equally
+    distant removed a major confounding factor. Leavitt could connect longer pulsation
+    periods with greater intrinsic brightness.
 ---
 
 ## BRIEFLY
