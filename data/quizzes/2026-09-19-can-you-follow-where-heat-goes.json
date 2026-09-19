@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-follow-where-heat-goes",
+  "date": "2026-09-19",
+  "category": "science",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "Can you follow where heat goes?", "cs": "Dokážete sledovat, kudy proudí teplo?"},
+    "dek": {"en": "Eight original questions separate temperature from heat transfer and connect conduction, convection and radiation.", "cs": "Osm původních otázek odliší teplotu od přenosu tepla a propojí vedení, proudění a záření."},
+    "intro": {"en": "Choose the best explanation for each situation. Track the temperature difference, the material and whether matter must move.", "cs": "U každé situace vyberte nejlepší vysvětlení. Sledujte rozdíl teplot, materiál a to, zda se musí pohybovat hmota."},
+    "disclaimer": {"en": "This is an original educational knowledge quiz based on open science explanations. It is not a licensed instrument, personal assessment, engineering calculation or burn-safety test, and it does not collect personal data. Never use touch to test whether an unknown object is safe.", "cs": "Jde o původní vzdělávací znalostní kvíz založený na otevřených vědeckých vysvětleních. Není to licencovaný nástroj, osobní hodnocení, technický výpočet ani test bezpečnosti před popálením a neshromažďuje osobní údaje. Bezpečnost neznámého předmětu nikdy neověřujte dotykem."}
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "metal-and-wood",
+      "text": {"en": "A metal rail and a wooden rail have been in the same room all night. Why can the metal feel colder?", "cs": "Kovové a dřevěné zábradlí byly celou noc ve stejné místnosti. Proč může kov působit chladněji?"},
+      "options": [
+        {"label": {"en": "Metal draws heat from the hand faster because it has higher thermal conductivity", "cs": "Kov odvádí teplo z ruky rychleji, protože má vyšší tepelnou vodivost"}, "correct": true},
+        {"label": {"en": "The metal must be at a lower temperature", "cs": "Kov musí mít nižší teplotu"}, "correct": false},
+        {"label": {"en": "Wood creates heat when touched", "cs": "Dřevo při dotyku vytváří teplo"}, "correct": false}
+      ],
+      "explanation": {"en": "Objects in the same room can be at thermal equilibrium yet feel different because the skin senses the rate of energy transfer as well as temperature.", "cs": "Předměty ve stejné místnosti mohou být v tepelné rovnováze, a přesto působit odlišně, protože pokožka vnímá nejen teplotu, ale i rychlost přenosu energie."}
+    },
+    {
+      "id": "direction",
+      "text": {"en": "When a warm mug touches a cooler table, what is the net direction of heat transfer?", "cs": "Když se teplý hrnek dotkne chladnějšího stolu, jakým směrem probíhá výsledný přenos tepla?"},
+      "options": [
+        {"label": {"en": "From the mug to the table until they approach thermal equilibrium", "cs": "Z hrnku do stolu, dokud se nepřiblíží tepelné rovnováze"}, "correct": true},
+        {"label": {"en": "From the table to the mug because cold flows upward", "cs": "Ze stolu do hrnku, protože chlad proudí vzhůru"}, "correct": false},
+        {"label": {"en": "There is no transfer whenever two solids touch", "cs": "Při dotyku dvou pevných látek k přenosu nedochází"}, "correct": false}
+      ],
+      "explanation": {"en": "Net thermal energy moves from the higher-temperature region to the lower-temperature region. At equal temperature, net transfer falls to zero.", "cs": "Výsledná tepelná energie se přesouvá z oblasti s vyšší teplotou do oblasti s nižší teplotou. Při stejné teplotě klesne výsledný přenos na nulu."}
+    },
+    {
+      "id": "convection-pot",
+      "text": {"en": "Water heated from below circulates in a pot. Which heat-transfer mode describes the large-scale movement of the water?", "cs": "Voda ohřívaná zespodu v hrnci cirkuluje. Který způsob přenosu tepla popisuje rozsáhlý pohyb vody?"},
+      "options": [
+        {"label": {"en": "Convection", "cs": "Proudění"}, "correct": true},
+        {"label": {"en": "Conduction only", "cs": "Pouze vedení"}, "correct": false},
+        {"label": {"en": "Nuclear decay", "cs": "Jaderný rozpad"}, "correct": false}
+      ],
+      "explanation": {"en": "Convection transfers energy through bulk movement of a fluid. Conduction still matters at the pot surface, so real systems can use more than one mode.", "cs": "Proudění přenáší energii pohybem kapaliny či plynu jako celku. Na povrchu hrnce zároveň probíhá vedení, takže skutečné systémy mohou využívat více způsobů."}
+    },
+    {
+      "id": "sun-vacuum",
+      "text": {"en": "How does thermal energy from the Sun cross the near-vacuum of space?", "cs": "Jak tepelná energie ze Slunce překonává téměř vakuový prostor?"},
+      "options": [
+        {"label": {"en": "By electromagnetic radiation, which needs no material medium", "cs": "Elektromagnetickým zářením, které nepotřebuje látkové prostředí"}, "correct": true},
+        {"label": {"en": "By convection currents of air between the Sun and Earth", "cs": "Prouděním vzduchu mezi Sluncem a Zemí"}, "correct": false},
+        {"label": {"en": "By direct solid-to-solid conduction", "cs": "Přímým vedením mezi pevnými tělesy"}, "correct": false}
+      ],
+      "explanation": {"en": "Radiation travels as electromagnetic waves and does not require matter. Conduction and convection require material.", "cs": "Záření se šíří jako elektromagnetické vlny a nepotřebuje hmotu. Vedení a proudění látkové prostředí vyžadují."}
+    },
+    {
+      "id": "insulation-air",
+      "text": {"en": "Why do many insulating materials contain small pockets of trapped air?", "cs": "Proč mnoho izolačních materiálů obsahuje malé kapsy zachyceného vzduchu?"},
+      "options": [
+        {"label": {"en": "Still air conducts heat poorly, and small pockets also limit bulk circulation", "cs": "Nehybný vzduch špatně vede teplo a malé kapsy zároveň omezují rozsáhlé proudění"}, "correct": true},
+        {"label": {"en": "Air has no molecules and therefore no temperature", "cs": "Vzduch nemá molekuly, a proto nemá teplotu"}, "correct": false},
+        {"label": {"en": "The pockets increase the material's electrical voltage", "cs": "Kapsy zvyšují elektrické napětí materiálu"}, "correct": false}
+      ],
+      "explanation": {"en": "Air has low thermal conductivity. Dividing it into small pockets also suppresses the large-scale flow that would carry energy by convection.", "cs": "Vzduch má nízkou tepelnou vodivost. Rozdělení do malých kapes zároveň potlačuje rozsáhlý pohyb, který by přenášel energii prouděním."}
+    },
+    {
+      "id": "thickness",
+      "text": {"en": "For the same material, area and temperature difference, what usually happens when an insulating layer is made thicker?", "cs": "Co se obvykle stane, když při stejném materiálu, ploše a rozdílu teplot zvětšíte tloušťku izolační vrstvy?"},
+      "options": [
+        {"label": {"en": "The rate of conductive heat transfer decreases", "cs": "Rychlost přenosu tepla vedením se sníží"}, "correct": true},
+        {"label": {"en": "The rate must double", "cs": "Rychlost se musí zdvojnásobit"}, "correct": false},
+        {"label": {"en": "Thermal conductivity of the material becomes infinite", "cs": "Tepelná vodivost materiálu se stane nekonečnou"}, "correct": false}
+      ],
+      "explanation": {"en": "In the simple conduction model, transfer rate is inversely proportional to thickness. Real assemblies may add joints, moisture and air leakage.", "cs": "V jednoduchém modelu vedení je rychlost přenosu nepřímo úměrná tloušťce. Ve skutečných konstrukcích mohou působit spáry, vlhkost a netěsnosti."}
+    },
+    {
+      "id": "fan-cooling",
+      "text": {"en": "A fan cools a warm object faster even though the air temperature is unchanged. What is the best explanation?", "cs": "Ventilátor ochladí teplý předmět rychleji, i když se teplota vzduchu nezměnila. Jaké je nejlepší vysvětlení?"},
+      "options": [
+        {"label": {"en": "Moving air replaces warmed air near the surface and increases convective transfer", "cs": "Pohybující se vzduch nahrazuje ohřátý vzduch u povrchu a zvyšuje přenos prouděním"}, "correct": true},
+        {"label": {"en": "The fan destroys thermal energy", "cs": "Ventilátor ničí tepelnou energii"}, "correct": false},
+        {"label": {"en": "Motion makes the object's mass disappear", "cs": "Pohyb způsobí zmizení hmotnosti předmětu"}, "correct": false}
+      ],
+      "explanation": {"en": "Forced convection removes the warmer boundary layer next to the surface. For people, evaporation can add another cooling pathway.", "cs": "Nucené proudění odstraňuje teplejší mezní vrstvu u povrchu. U lidí se může přidat další cesta ochlazení odpařováním."}
+    },
+    {
+      "id": "same-temperature",
+      "text": {"en": "Two objects at the same temperature touch each other. What happens after initial microscopic exchanges?", "cs": "Dva předměty se stejnou teplotou se dotknou. Co nastane po počátečních mikroskopických výměnách?"},
+      "options": [
+        {"label": {"en": "There is no net heat transfer between them", "cs": "Nedochází mezi nimi k výslednému přenosu tepla"}, "correct": true},
+        {"label": {"en": "Both temperatures rise without an energy source", "cs": "Teplota obou bez zdroje energie roste"}, "correct": false},
+        {"label": {"en": "Heat flows permanently in both directions at different net rates", "cs": "Teplo trvale proudí oběma směry různou výslednou rychlostí"}, "correct": false}
+      ],
+      "explanation": {"en": "At thermal equilibrium, microscopic energy exchange continues, but the opposing transfers balance and the net transfer is zero.", "cs": "V tepelné rovnováze mikroskopická výměna energie pokračuje, ale opačné přenosy se vyrovnávají a výsledný přenos je nulový."}
+    }
+  ],
+  "outcomes": [
+    {"min": 0, "max": 2, "title": {"en": "Start with direction and mechanism", "cs": "Začněte směrem a mechanismem"}, "summary": {"en": "Temperature and heat transfer are still blending together. This result is limited to eight conceptual questions. Revisit the first four explanations, then classify one safe everyday example as conduction, convection or radiation without touching anything unknown.", "cs": "Teplota a přenos tepla se vám ještě prolínají. Výsledek se vztahuje jen k osmi pojmovým otázkám. Vraťte se k prvním čtyřem vysvětlením a poté zařaďte jeden bezpečný každodenní příklad jako vedení, proudění či záření, aniž byste sahali na cokoli neznámého."}},
+    {"min": 3, "max": 5, "title": {"en": "You see the paths—check the conditions", "cs": "Cesty vidíte—ověřte podmínky"}, "summary": {"en": "You recognise several transfer mechanisms, but material, motion or temperature difference may still be easy to overlook. The score is not a safety assessment. Redraw one missed example and label the warmer region, cooler region and transfer pathway.", "cs": "Několik mechanismů přenosu poznáte, ale materiál, pohyb či rozdíl teplot lze ještě snadno přehlédnout. Skóre není hodnocením bezpečnosti. Překreslete jeden chybný příklad a označte teplejší oblast, chladnější oblast a cestu přenosu."}},
+    {"min": 6, "max": 7, "title": {"en": "Strong model with one loose connection", "cs": "Silný model s jednou volnější vazbou"}, "summary": {"en": "You usually distinguish temperature from the rate and mode of energy transfer. Eight questions cannot cover real building, cooking or burn hazards. Use the missed item to explain which mechanism dominates and which secondary mechanism may still operate.", "cs": "Teplotu obvykle odlišujete od rychlosti a způsobu přenosu energie. Osm otázek nemůže pokrýt skutečná rizika ve stavbách, vaření ani popálení. U chybné položky vysvětlete, který mechanismus převládá a který vedlejší může stále působit."}},
+    {"min": 8, "max": 8, "title": {"en": "You follow energy, not just temperature", "cs": "Sledujete energii, ne jen teplotu"}, "summary": {"en": "You correctly interpreted all eight situations. The result demonstrates command of these examples, not engineering competence or burn-safety readiness. Keep testing claims by naming the temperature difference, material, moving fluid and radiation path.", "cs": "Správně jste vyložili všech osm situací. Výsledek ukazuje porozumění těmto příkladům, nikoli technickou způsobilost či připravenost posoudit riziko popálení. Tvrzení dál ověřujte pojmenováním rozdílu teplot, materiálu, pohybující se tekutiny a cesty záření."}}
+  ],
+  "sources": [
+    {"name": "OpenStax College Physics 2e — Conduction", "url": "https://openstax.org/books/college-physics-2e/pages/14-5-conduction", "published": "2022-07-13", "type": "CC BY-NC-SA educational explanation of conduction and thermal conductivity; no assessment items reproduced"},
+    {"name": "OpenStax College Physics 2e — Convection", "url": "https://openstax.org/books/college-physics-2e/pages/14-6-convection", "published": "2022-07-13", "type": "CC BY-NC-SA educational explanation of natural and forced convection; no assessment items reproduced"},
+    {"name": "OpenStax College Physics 2e — Radiation", "url": "https://openstax.org/books/college-physics-2e/pages/14-7-radiation", "published": "2022-07-13", "type": "CC BY-NC-SA educational explanation of electromagnetic thermal radiation; no assessment items reproduced"},
+    {"name": "NASA Science — HEAT", "url": "https://science.nasa.gov/learn/heat/", "published": "", "type": "official public science learning resource on heat and energy transfer; no assessment instrument reproduced"}
+  ]
+}
