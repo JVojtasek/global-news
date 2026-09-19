@@ -460,55 +460,6 @@
   ]
  },
  {
-  "id": "86a5852bfef5",
-  "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-  "section": "world",
-  "score": 62,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-16T03:30:34+00:00",
-  "event_time": "2026-09-16T02:56:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-    "url": "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-    "source": "The Guardian World",
-    "summary": "The Iran-aligned militant group rejected the suggestion it had targeted Mecca, while the Organisation of Islamic Cooperation condemned the attack Saudi Arabia’s air defences intercepted and destroyed a ⁠Houthi drone south of Mecca on Tuesday before it entered prohibited airspace over the holy city, according to a ⁠spokesperson for the ⁠Saudi-led ​military coalition which is fighting the Iran-align",
-    "published_at": "2026-09-16T02:56:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T03:30:29+00:00"
-   },
-   {
-    "title": "Middle East live: Saudi Arabia accuses Houthi rebels of launching a drone strike on Mecca",
-    "url": "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-    "source": "France 24",
-    "summary": "Saudi Arabia's air defences claim to have intercepted and destroyed a Houthi drone south of Mecca on Tuesday, which the Iran-aligned rebels denied. Meanwhile, several explosions were heard on the island of Qeshm, near the Strait of Hormuz. Follow our liveblog for the latest updates.",
-    "published_at": "2026-09-16T02:14:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T03:30:29+00:00"
-   },
-   {
-    "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
-    "published_at": "2026-09-16T01:53:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T03:30:29+00:00"
-   },
-   {
-    "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
-    "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'",
-    "published_at": "2026-09-16T01:09:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-16T03:30:29+00:00"
-   }
-  ]
- },
- {
   "id": "9996b3753211",
   "headline": "News helicopter crashes in LA, killing 3",
   "section": "world",
@@ -1527,6 +1478,77 @@
     "published_at": "2026-09-17T13:12:45+00:00",
     "source_countries": [],
     "seen_at": "2026-09-17T15:26:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9eee1724b36d",
+  "headline": "Google's Gemini AI hacked three companies in security test",
+  "section": "world",
+  "score": 49,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-09-19T06:36:43+00:00",
+  "event_time": "2026-09-19T04:27:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "published_at": "2026-09-19T04:27:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   },
+   {
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "published_at": "2026-09-19T04:27:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   },
+   {
+    "title": "Google's Gemini AI hacked 3 companies during testing",
+    "url": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "During a test of its cybersecurity capabilities, Google's Gemini AI model accessed the internet and hacked other companies. This is the first known instance of Google's AI systems engaging in such behavior autonomously.",
+    "published_at": "2026-09-19T03:36:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9da759940a18",
+  "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+  "section": "world",
+  "score": 49,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-19T06:36:43+00:00",
+  "event_time": "2026-09-19T04:20:47+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+    "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Residents later received the all-clear after explosions were reported in the capital.",
+    "published_at": "2026-09-19T04:20:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   },
+   {
+    "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+    "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+    "source": "Ars Technica",
+    "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+    "published_at": "2026-09-18T17:57:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
    }
   ]
  },
@@ -6030,6 +6052,28 @@
   ]
  },
  {
+  "id": "d357eaa9586f",
+  "headline": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
+  "section": "world",
+  "score": 38,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-19T06:36:43+00:00",
+  "event_time": "2026-09-19T04:00:36+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘My fear was too great’: the Pussy Riot member recruited by Russian spies to inform on fellow activists",
+    "url": "https://www.theguardian.com/world/2026/sep/19/pussy-riot-russian-spies-fsb-activists-rita-flores",
+    "source": "The Guardian World",
+    "summary": "Exclusive: In her first media interview since fleeing Russia, Rita Flores describes her three years of being run by the FSB First came the blackmail and death threats to secure cooperation, then came a series of tasks, each more sinister than the last: to inform on fellow activists, to elicit personal information from protest-minded artists and – eventually – to help with a plot to kidnap and murd",
+    "published_at": "2026-09-19T04:00:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   }
+  ]
+ },
+ {
   "id": "7fe54c72003b",
   "headline": "Expect even more potholes on UK roads after summer heatwaves, says RAC",
   "section": "world",
@@ -6573,6 +6617,50 @@
     "published_at": "2026-09-15T03:57:43+00:00",
     "source_countries": [],
     "seen_at": "2026-09-19T03:28:54+00:00"
+   }
+  ]
+ },
+ {
+  "id": "eca7580e2127",
+  "headline": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
+  "section": "science",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-19T06:36:43+00:00",
+  "event_time": "2026-09-18T19:56:08+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
+    "source": "NASA",
+    "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt Anderson will host Albania’s Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the […]",
+    "published_at": "2026-09-18T19:56:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   }
+  ]
+ },
+ {
+  "id": "77d93693bdac",
+  "headline": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+  "section": "science",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-19T06:36:43+00:00",
+  "event_time": "2026-09-18T18:02:53+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+    "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
+    "source": "NASA",
+    "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the […]",
+    "published_at": "2026-09-18T18:02:53+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
    }
   ]
  },
@@ -8677,6 +8765,50 @@
   ]
  },
  {
+  "id": "9c916f683961",
+  "headline": "Pakistan: Suicide bombing death toll rises to at least 31",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-19T06:36:43+00:00",
+  "event_time": "2026-09-19T06:31:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Pakistan: Suicide bombing death toll rises to at least 31",
+    "url": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "More than 100 others have been injured in the militant attack on a police headquarters near the border with Afghanistan. Several militants were still clashing with Pakistan's security forces on Saturday.",
+    "published_at": "2026-09-19T06:31:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6fecc4da6b6d",
+  "headline": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-19T06:36:43+00:00",
+  "event_time": "2026-09-15T06:52:16+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+    "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
+    "published_at": "2026-09-15T06:52:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-19T06:36:39+00:00"
+   }
+  ]
+ },
+ {
   "id": "0c5fee4bc7df",
   "headline": "Stephanie Cole, Coronation Street and Open All Hours actor, dies aged 84",
   "section": "world",
@@ -8867,138 +8999,6 @@
     "published_at": "2026-09-17T13:32:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-18T21:23:08+00:00"
-   }
-  ]
- },
- {
-  "id": "110a86be6895",
-  "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
-  "section": "ai",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T21:23:12+00:00",
-  "event_time": "2026-09-10T07:50:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi K3 model, may explore options for dual listings in Hong Kong and Shanghai in pursuit of greater capital and exposure, according to two people familiar with the matter. Since a meeting with its financial backers in July, when the Beijing-based company negotiated detailed arrangements for an initial public offering i",
-    "published_at": "2026-09-10T07:50:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T21:23:08+00:00"
-   }
-  ]
- },
- {
-  "id": "b706d719764c",
-  "headline": "Massive Footprints Reveal First Ever Adult T Rex Trackway, a 66-Million-Year-old Walk Through North Dakota",
-  "section": "goodnews",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-19T03:28:57+00:00",
-  "event_time": "2026-09-12T19:15:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Massive Footprints Reveal First Ever Adult T Rex Trackway, a 66-Million-Year-old Walk Through North Dakota",
-    "url": "https://www.goodnewsnetwork.org/massive-footprints-reveal-first-ever-adult-t-rex-trackway/",
-    "source": "Good News Network",
-    "summary": "Scientists have confirmed the discovery of the first adult T. rex trackway, providing new insights into how this emblematic predator moved. While a myriad of isolated footprints made by adults in the T. rex species have been found, this is the first time scientists can report a sequence of tracks, or a trackway, left by […] The post Massive Footprints Reveal First Ever Adult T Rex Trackway, a 66-M",
-    "published_at": "2026-09-12T19:15:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T03:28:54+00:00"
-   }
-  ]
- },
- {
-  "id": "18a2053b5dd6",
-  "headline": "Robert Kraft’s attempts to silence Macklemore have backfired spectacularly | Arwa Mahdawi",
-  "section": "culture",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-19T03:28:57+00:00",
-  "event_time": "2026-09-18T10:00:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Robert Kraft’s attempts to silence Macklemore have backfired spectacularly | Arwa Mahdawi",
-    "url": "https://www.theguardian.com/commentisfree/2026/sep/18/robert-kraft-macklemore-ed-sheeran-tour",
-    "source": "Guardian Culture",
-    "summary": "The billionaire’s attempted crackdown on Ed Sheeran’s tour only amplified pro-Palestinian statements. It’s been a joy to watch A few weeks ago, the worst thing you could say about Ed Sheeran was that his music was a bit bland. A Guardian music writer once compared it to “aural wallpaper”. Which was a little bit rude to wallpaper: there are some very interesting designs out there! I don’t need to t",
-    "published_at": "2026-09-18T10:00:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T03:28:54+00:00"
-   }
-  ]
- },
- {
-  "id": "eb00032d8c06",
-  "headline": "Technical report: Responsible use of the Border Gateway Protocol (BGP) for ISP interworking",
-  "section": "safety",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-19T03:28:57+00:00",
-  "event_time": "2021-01-20T12:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Technical report: Responsible use of the Border Gateway Protocol (BGP) for ISP interworking",
-    "url": "https://www.ncsc.gov.uk/report/responsible-use-of-bgp-for-isp-interworking",
-    "source": "NCSC UK",
-    "summary": "Technical report on best practice use of this fundamental data routing protocol.",
-    "published_at": "2021-01-20T12:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T03:28:54+00:00"
-   }
-  ]
- },
- {
-  "id": "53e2ccd2d1db",
-  "headline": "Rapid patient-specific neural networks for X-ray to volume registration",
-  "section": "science",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-19T03:28:57+00:00",
-  "event_time": "2026-09-16T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Rapid patient-specific neural networks for X-ray to volume registration",
-    "url": "https://www.nature.com/articles/s41586-026-11045-x",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 16 September 2026; doi:10.1038/s41586-026-11045-x xvr makes pan-anatomical 2D/3D rigid registration accessible to broad clinical and research communities.",
-    "published_at": "2026-09-16T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T03:28:54+00:00"
-   }
-  ]
- },
- {
-  "id": "15eb5b1c419a",
-  "headline": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-  "section": "ai",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-19T03:28:57+00:00",
-  "event_time": "2026-07-22T13:38:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "source": "Google DeepMind",
-    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
-    "published_at": "2026-07-22T13:38:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T03:28:54+00:00"
    }
   ]
  }
