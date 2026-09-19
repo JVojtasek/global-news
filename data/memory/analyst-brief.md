@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-19
 
-Paměť obsahuje **107 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -65,9 +65,8 @@ Paměť obsahuje **107 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 41 dní · 28 záznamů
+- rubrika `world` · sledováno 41 dní · 29 záznamů
 - časová osa:
-  - **2026-09-12** (2 zdrojů) Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea
   - **2026-09-14** (3 zdrojů) Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
   - **2026-09-15** (2 zdrojů) Saudi Arabia faces hard choices as Houthis gain in Yemen
   - **2026-09-15** (2 zdrojů) Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen
@@ -77,6 +76,7 @@ Paměť obsahuje **107 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
   - **2026-09-18** (2 zdrojů) Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
   - **2026-09-19** (2 zdrojů) Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
+  - **2026-09-19** (3 zdrojů) Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

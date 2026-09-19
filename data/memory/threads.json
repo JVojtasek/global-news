@@ -778,40 +778,41 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "joseph",
-    "houthis",
-    "yemen",
-    "israel",
-    "gaza",
-    "british",
-    "netanyahu",
-    "trump",
-    "israeli",
-    "peace",
-    "arabian",
-    "arabia",
-    "middle",
-    "saudi",
-    "hezbollah",
-    "jerusalem",
-    "east-west",
-    "aoun",
-    "verified",
-    "lebanon",
     "riyadh",
-    "hamas",
-    "jared",
-    "paris",
-    "kushner",
-    "macron",
-    "iraq",
-    "taher",
+    "hezbollah",
+    "yemen",
+    "joseph",
     "board",
+    "macron",
+    "lebanon",
+    "gaza",
+    "houthis",
+    "thick",
+    "aoun",
+    "israel",
+    "jerusalem",
+    "verified",
+    "saudi",
+    "netanyahu",
+    "eurovision",
+    "east-west",
+    "arabia",
+    "peace",
     "trump's",
     "emmanuel",
     "ireland",
-    "eurovision",
-    "east"
+    "arabian",
+    "middle",
+    "paris",
+    "kushner",
+    "taher",
+    "israeli",
+    "iraq",
+    "trump",
+    "hamas",
+    "jared",
+    "east",
+    "british"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -841,7 +842,8 @@
     "6db70951bf71",
     "72cd7d7d5454",
     "63827be44619",
-    "9da759940a18"
+    "9da759940a18",
+    "d0c9dac4e7a1"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-19",
@@ -1163,6 +1165,18 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
       "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d0c9dac4e7a1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
+      "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
      ]
     }
    ]
@@ -1637,6 +1651,50 @@
      "links": [
       "https://www.france24.com/en/us-and-denmark-reach-deal-on-greenland-trump-claims-permanent-control-over-island",
       "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbeb4b624f53",
+   "title": "Manzambi catches eye as Villa beat Spurs - player ratings",
+   "section": "sport",
+   "entities": [
+    "manzambi",
+    "spurs",
+    "police",
+    "millwall",
+    "villa",
+    "west"
+   ],
+   "event_ids": [
+    "cbeb4b624f53",
+    "5c08287c9fd3"
+   ],
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "timeline": [
+    {
+     "date": "2026-09-19",
+     "headline": "Manzambi catches eye as Villa beat Spurs - player ratings",
+     "sources": 3,
+     "score": 58,
+     "event_id": "cbeb4b624f53",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
+     "sources": 1,
+     "score": 40,
+     "event_id": "5c08287c9fd3",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
+      "https://www.theguardian.com/football/2026/sep/19/how-to-watch-spurs-aston-villa-premier-league"
      ]
     }
    ]
@@ -9850,5 +9908,5 @@
    ]
   }
  ],
- "updated": "2026-09-19T12:32:30+00:00"
+ "updated": "2026-09-19T15:22:51+00:00"
 }
