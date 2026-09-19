@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "carrick",
-    "napoli",
+    "isak",
+    "liverpool",
+    "tzolis",
     "life",
-    "lens",
-    "phil",
+    "salah",
+    "matildas",
+    "sports",
+    "leipzig",
     "city",
-    "brighton",
+    "boot",
+    "troy's",
+    "rwandan",
+    "napoli",
+    "forest",
+    "kang",
+    "stay",
+    "michael",
+    "lens",
     "millionaire",
     "arsenal",
-    "club",
-    "european",
-    "tzolis",
-    "city's",
-    "aston",
-    "rwandan",
-    "troy's",
-    "matildas",
-    "michael",
-    "ipswich",
-    "league",
-    "salah",
-    "mccabe",
-    "sports",
-    "forest",
-    "leipzig",
-    "tottenham",
-    "isak",
     "wants",
-    "manchester",
-    "gakpo",
-    "kang",
+    "league",
     "scherpen",
-    "brugge",
+    "phil",
     "golden",
-    "london",
+    "ipswich",
+    "mccabe",
+    "hurzeler's",
+    "gakpo",
+    "brighton",
+    "city's",
+    "carrick",
     "it's",
+    "club",
     "villa",
+    "tottenham",
+    "london",
     "fabregas",
-    "liverpool",
-    "boot"
+    "arteta",
+    "aston"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -103,7 +103,9 @@
     "4c6ccd194e47",
     "d0dea84a661a",
     "279242dc331f",
-    "90ef59a92533"
+    "90ef59a92533",
+    "ba630c69b7ba",
+    "cdb8565456a3"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-19",
@@ -770,6 +772,29 @@
       "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss",
       "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us"
      ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
+     "sources": 3,
+     "score": 66,
+     "event_id": "ba630c69b7ba",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cdb8565456a3",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/19/mikel-arteta-arsenal-humbled-brighton-defeat"
+     ]
     }
    ]
   },
@@ -778,41 +803,41 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "riyadh",
-    "hezbollah",
-    "yemen",
-    "joseph",
-    "board",
-    "macron",
-    "lebanon",
-    "gaza",
-    "houthis",
-    "thick",
     "aoun",
-    "israel",
-    "jerusalem",
+    "british",
     "verified",
-    "saudi",
-    "netanyahu",
-    "eurovision",
-    "east-west",
-    "arabia",
     "peace",
-    "trump's",
     "emmanuel",
-    "ireland",
-    "arabian",
-    "middle",
-    "paris",
-    "kushner",
-    "taher",
-    "israeli",
-    "iraq",
-    "trump",
-    "hamas",
     "jared",
+    "east-west",
+    "thick",
+    "saudi",
+    "paris",
+    "israel",
+    "netanyahu",
+    "trump's",
+    "hezbollah",
+    "jerusalem",
+    "kushner",
+    "macron",
+    "ireland",
+    "gaza",
+    "lebanon",
+    "eurovision",
+    "middle",
+    "yemen",
     "east",
-    "british"
+    "joseph",
+    "trump",
+    "houthis",
+    "hamas",
+    "iraq",
+    "arabia",
+    "board",
+    "arabian",
+    "riyadh",
+    "israeli",
+    "taher"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -843,7 +868,8 @@
     "72cd7d7d5454",
     "63827be44619",
     "9da759940a18",
-    "d0c9dac4e7a1"
+    "d0c9dac4e7a1",
+    "dbf103d247c1"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-19",
@@ -1178,6 +1204,17 @@
       "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
      ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+     "sources": 2,
+     "score": 48,
+     "event_id": "dbf103d247c1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
+     ]
     }
    ]
   },
@@ -1186,28 +1223,29 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "tetris",
-    "press",
-    "venezuela",
-    "supreme",
-    "army",
-    "white",
-    "chinese",
+    "journalists",
     "court",
-    "kalshi's",
-    "leavitt",
-    "trump",
-    "donald",
-    "politico",
+    "chinese",
     "company",
-    "secretary",
-    "jersey",
+    "days",
     "driscoll",
+    "trump",
+    "tetris",
+    "jersey",
+    "white",
+    "army",
+    "kalshi's",
+    "crypto",
+    "leavitt",
+    "nabep",
+    "secretary",
+    "venezuela",
+    "politico",
+    "press",
+    "donald",
     "house",
     "karoline",
-    "crypto",
-    "nabep",
-    "days"
+    "supreme"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1226,7 +1264,8 @@
     "153ab8978645",
     "a49a69926475",
     "d966c1faf1fe",
-    "eb0e7de10f2c"
+    "eb0e7de10f2c",
+    "d6f846915316"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-19",
@@ -1420,6 +1459,18 @@
       "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
       "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Journalists denied White House access after Trump banned some media outlets",
+     "sources": 5,
+     "score": 73,
+     "event_id": "d6f846915316",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
+     ]
     }
    ]
   },
@@ -1535,22 +1586,23 @@
    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
    "section": "tech",
    "entities": [
-    "transcribe",
-    "google",
-    "gemini",
-    "ai-powered",
-    "friday",
     "deepmind",
+    "ai-powered",
+    "gemini",
     "robotics",
+    "google",
+    "friday",
+    "flash",
     "meet",
-    "flash"
+    "transcribe"
    ],
    "event_ids": [
     "e138211becc3",
     "cf3951101d71",
     "b0c60d5e22ba",
     "29ae84aa2a01",
-    "b27fb7cf6534"
+    "b27fb7cf6534",
+    "b6a7c3b080e8"
    ],
    "first_seen": "2026-08-26",
    "last_seen": "2026-09-19",
@@ -1611,6 +1663,74 @@
       "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
       "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
      ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google’s Gemini is the latest AI model to hack other companies",
+     "sources": 3,
+     "score": 46,
+     "event_id": "b6a7c3b080e8",
+     "links": [
+      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbeb4b624f53",
+   "title": "Manzambi catches eye as Villa beat Spurs - player ratings",
+   "section": "sport",
+   "entities": [
+    "spurs",
+    "police",
+    "west",
+    "villa",
+    "millwall",
+    "manzambi"
+   ],
+   "event_ids": [
+    "cbeb4b624f53",
+    "5c08287c9fd3",
+    "db36295da8b2"
+   ],
+   "first_seen": "2026-09-19",
+   "last_seen": "2026-09-19",
+   "timeline": [
+    {
+     "date": "2026-09-19",
+     "headline": "Manzambi catches eye as Villa beat Spurs - player ratings",
+     "sources": 3,
+     "score": 58,
+     "event_id": "cbeb4b624f53",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
+     "sources": 1,
+     "score": 40,
+     "event_id": "5c08287c9fd3",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
+      "https://www.theguardian.com/football/2026/sep/19/how-to-watch-spurs-aston-villa-premier-league"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "No revival in sight for 'fragile' Spurs after Villa defeat",
+     "sources": 2,
+     "score": 42,
+     "event_id": "db36295da8b2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated"
+     ]
     }
    ]
   },
@@ -1651,50 +1771,6 @@
      "links": [
       "https://www.france24.com/en/us-and-denmark-reach-deal-on-greenland-trump-claims-permanent-control-over-island",
       "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-settled-for-less-with-new-us-denmark-greenland-security-deal?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cbeb4b624f53",
-   "title": "Manzambi catches eye as Villa beat Spurs - player ratings",
-   "section": "sport",
-   "entities": [
-    "manzambi",
-    "spurs",
-    "police",
-    "millwall",
-    "villa",
-    "west"
-   ],
-   "event_ids": [
-    "cbeb4b624f53",
-    "5c08287c9fd3"
-   ],
-   "first_seen": "2026-09-19",
-   "last_seen": "2026-09-19",
-   "timeline": [
-    {
-     "date": "2026-09-19",
-     "headline": "Manzambi catches eye as Villa beat Spurs - player ratings",
-     "sources": 3,
-     "score": 58,
-     "event_id": "cbeb4b624f53",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/19/aston-villa-compound-tottenhams-misery-despite-spurs-ending-goal-drought?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
-     "sources": 1,
-     "score": 40,
-     "event_id": "5c08287c9fd3",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "https://www.theguardian.com/football/2026/sep/19/how-to-watch-spurs-aston-villa-premier-league"
      ]
     }
    ]
@@ -9908,5 +9984,5 @@
    ]
   }
  ],
- "updated": "2026-09-19T15:22:51+00:00"
+ "updated": "2026-09-19T18:26:53+00:00"
 }

@@ -21,10 +21,8 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 32 dní · 57 záznamů
+- rubrika `sport` · sledováno 32 dní · 59 záznamů
 - časová osa:
-  - **2026-09-11** (4 zdrojů) Champions League new boys Como dominate Leipzig
-  - **2026-09-11** (2 zdrojů) Lens secure an epic comeback win to kick off their Champions League campaign
   - **2026-09-12** (2 zdrojů) Manchester United vs Man City: Premier League – predictions, teams, lineups
   - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
   - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
@@ -33,6 +31,8 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
   - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
   - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
+  - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+  - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 35 dní · 57 záznamů
@@ -65,9 +65,8 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 41 dní · 29 záznamů
+- rubrika `world` · sledováno 41 dní · 30 záznamů
 - časová osa:
-  - **2026-09-14** (3 zdrojů) Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline
   - **2026-09-15** (2 zdrojů) Saudi Arabia faces hard choices as Houthis gain in Yemen
   - **2026-09-15** (2 zdrojů) Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen
   - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
@@ -77,6 +76,7 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-18** (2 zdrojů) Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
   - **2026-09-19** (2 zdrojů) Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
   - **2026-09-19** (3 zdrojů) Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital
+  - **2026-09-19** (2 zdrojů) Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

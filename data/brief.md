@@ -65,7 +65,27 @@
     <https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house>
     > US President Donald Trump on Friday said he would ban media outlets CNN, MSNOW and Politico from the White House over what he described as unfavourable coverage in his latest test of the US Constitution's First Amendment protection of press freedom.
 
-### 3. Ronaldo named in first Portugal squad since World Cup - at age of 41
+### 3. Journalists denied White House access after Trump banned some media outlets
+- id události: `d6f846915316`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Journalists denied White House access after Trump banned some media outlets
+    <https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss>
+    > CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
+  - **DW News** — CNN, MS NOW and Politico denied access to White House
+    <https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf>
+    > Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.
+  - **NPR News** — CNN, MS NOW, Politico reporters denied access to White House following Trump ban
+    <https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban>
+    > Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting "FICTION and LIES."
+  - **Al Jazeera** — A ‘ban on the free press’: White House bars journalists from three outlets
+    <https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss>
+    > Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.
+  - **France 24** — CNN, MS NOW, Politico reporters blocked from White House after Trump ban
+    <https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban>
+    > White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was banning the three media outlets for what he called "fake news" coverage. News organisations a
+
+### 4. Ronaldo named in first Portugal squad since World Cup - at age of 41
 - id události: `bd5d0f2f7796`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -84,23 +104,6 @@
   - **Al Jazeera** — Ronaldo keeps Portugal place for Nations League as Jesus names first squad
     <https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss>
     > Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
-
-### 4. Verified video shows wreckage of Saudi fighter jet shot down over Yemen
-- id události: `72cd7d7d5454`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Verified video shows wreckage of Saudi fighter jet shot down over Yemen
-    <https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss>
-    > BBC Verify tracks down the location of a Houthi video showing the wreckage of an F-15 they claim to have shot down.
-  - **BBC Sport** — Saudi Arabia dropped from World Rally Championship
-    <https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss>
-    > The final round of the 2026 World Rally Championship will be held in Italy instead of Saudi Arabia because of the ongoing unrest in the Middle East.
-  - **Al Jazeera** — Five killed as Saudi Arabia and Yemen’s Houthis trade attacks
-    <https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss>
-    > Houthi leader Abdel-Malik al-Houthi says Saudi claims that the group targeted Mecca are a 'heinous lie'.
-  - **France 24** — Houthis claim Saudi F-15 kill as Yemen fighting escalates
-    <https://www.france24.com/en/houthis-claim-saudi-f-15-kill-as-yemen-fighting-escalates>
-    > Yemen's Houthi rebels have released footage they say shows the wreckage of a Saudi F-15 fighter jet, which, if confirmed, would mark the first fighter jet they have shot down. The claim comes as fighting escalates in Yemen, with the Houthis expanding their control around the stra
 
 ---
 
@@ -161,14 +164,12 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 57  ·  **depth: `open`**
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 59  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 57
-  2026-09-05  (2 zdrojů, síla 41)  Aston Villa still winless after stalemate at Hull
-  2026-09-08  (2 zdrojů, síla 40)  Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 59
   2026-09-08  (2 zdrojů, síla 54)  Club Brugge v Aston Villa: Champions League – live
   2026-09-09  (3 zdrojů, síla 66)  Napoli vs Arsenal: Champions League – prediction, teams, lineups
   2026-09-09  (3 zdrojů, síla 62)  The Rwandan eyeing Champions League history against Man Utd
@@ -187,6 +188,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 57
   2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang
   2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups
   2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live
+  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
 ```
 
 ---
