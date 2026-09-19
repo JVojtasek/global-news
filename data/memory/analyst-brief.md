@@ -20,6 +20,20 @@ Paměť obsahuje **107 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 32 dní · 57 záznamů
+- časová osa:
+  - **2026-09-11** (4 zdrojů) Champions League new boys Como dominate Leipzig
+  - **2026-09-11** (2 zdrojů) Lens secure an epic comeback win to kick off their Champions League campaign
+  - **2026-09-12** (2 zdrojů) Manchester United vs Man City: Premier League – predictions, teams, lineups
+  - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
+  - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
+  - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
+  - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
+  - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
+  - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
+  - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
+
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 35 dní · 57 záznamů
 - časová osa:
@@ -35,20 +49,6 @@ Paměť obsahuje **107 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-15** (1 zdrojů) World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 32 dní · 56 záznamů
-- časová osa:
-  - **2026-09-10** (2 zdrojů) Man United put four past Sabah on Champions League return
-  - **2026-09-11** (4 zdrojů) Champions League new boys Como dominate Leipzig
-  - **2026-09-11** (2 zdrojů) Lens secure an epic comeback win to kick off their Champions League campaign
-  - **2026-09-12** (2 zdrojů) Manchester United vs Man City: Premier League – predictions, teams, lineups
-  - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
-  - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
-  - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
-  - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
-  - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
-  - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 32 dní · 38 záznamů

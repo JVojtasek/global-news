@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **12**
+- Článků v zásobě: **13**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -65,29 +65,7 @@
     <https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house>
     > US President Donald Trump on Friday said he would ban media outlets CNN, MSNOW and Politico from the White House over what he described as unfavourable coverage in his latest test of the US Constitution's First Amendment protection of press freedom.
 
-### 3. Von der Leyen eyes Canada as EU's first 'associate member'
-- id události: `3bd82fdf31ce`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **DW News** — Von der Leyen eyes Canada as EU's first 'associate member'
-    <https://www.dw.com/en/von-der-leyen-eyes-canada-as-eu-s-first-associate-member/a-79286148?maca=en-rss-en-all-1573-rdf>
-    > EU chief Ursula von der Leyen said the EU and Canada saw the world with the same eyes. At her annual State of the Union address, she said the bloc was dealing with an "openly hostile world."
-  - **The Guardian World** — Canada could become first ‘associate member’ of the EU, von der Leyen suggests – Europe live
-    <https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates>
-    > European Commission president says the EU wants to ‘move the partnership with Canada to the highest level possible’ Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market, world class industries and services. She
-  - **The Guardian World** — European Union opens door for Canada to become first associate member
-    <https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member>
-    > Commission president says partnership will create ‘common prosperity’ based on shared democratic values Europe live – latest updates The European Commission president, Ursula von der Leyen, told the Canadian prime minister, Mark Carney, on Wednesday that she wants to open the doo
-  - **Guardian Business** — European Union opens door for Canada to become first associate member
-    <https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member>
-    > Commission president says partnership will create ‘common prosperity’ based on shared democratic values Europe live – latest updates The European Commission president, Ursula von der Leyen, told the Canadian prime minister, Mark Carney, on Wednesday that she wants to open the doo
-  - **CNBC Top** — Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies
-    <https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html>
-    > EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.
-  - **Investing.com** — EU invites Canada to become bloc’s first ’associate member’
-    <https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163>
-
-### 4. EU chief backs plan for Canada to become 'associate member'
+### 3. EU chief backs plan for Canada to become 'associate member'
 - id události: `418e8514211b`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -106,6 +84,26 @@
   - **Hacker News Best** — EU chief opens door for Canada to become 'associate member'
     <https://www.bbc.com/news/articles/cjwyzrr9d3dko>
     > Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 386 # Comments: 380
+
+### 4. Ronaldo named in first Portugal squad since World Cup - at age of 41
+- id události: `bd5d0f2f7796`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Ronaldo named in first Portugal squad since World Cup - at age of 41
+    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
+    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
+  - **BBC Sport** — Wilson major Wales injury concern for Nations League
+    <https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss>
+    > Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.
+  - **BBC Sport** — Ronaldo named in Jesus' first Portugal squad
+    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
+    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
+  - **France 24** — Watch live: France's new head coach Zidane unveils his first team line-up for Nations League matches
+    <https://www.france24.com/en/sport/20260918-france-new-head-coach-zidane-unveils-his-first-team-line-up-for-nations-league-matches-live>
+    > Newly appointed head coach of France's national football team Zinedine Zidane unveils his first line-up on Friday. Follow our live coverage of the announcement from 6pm Paris time.
+  - **Al Jazeera** — Ronaldo keeps Portugal place for Nations League as Jesus names first squad
+    <https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss>
+    > Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
 
 ---
 
@@ -165,33 +163,33 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 ```
 
-### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 57  ·  **depth: `open`**
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 57  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 57
-  2026-09-05  (2 zdrojů, síla 42)  Trump sends envoys to Russia, Ukraine with new peace plan
-  2026-09-05  (5 zdrojů, síla 74)  US envoys arrive in Moscow ahead of Ukraine talks
-  2026-09-06  (2 zdrojů, síla 48)  Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
-  2026-09-07  (2 zdrojů, síla 42)  Russia opens first road bridge with North Korea
-  2026-09-08  (2 zdrojů, síla 41)  Russia strikes Kyiv as three-day pause during US envoy visits ends
-  2026-09-08  (2 zdrojů, síla 45)  North Korea and Russia open first road bridge linking both countries
-  2026-09-08  (2 zdrojů, síla 46)  Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
-  2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
-  2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
-  2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
-  2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
-  2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
-  2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
-  2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
-  2026-09-10  (2 zdrojů, síla 40)  Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
-  2026-09-13  (2 zdrojů, síla 43)  Ukraine, Poland say Russia hit Warsaw-bound passenger train
-  2026-09-14  (2 zdrojů, síla 42)  Ukraine, Russia set for new round of US-mediated talks
-  2026-09-14  (2 zdrojů, síla 44)  Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
-  2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
-  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 57
+  2026-09-05  (2 zdrojů, síla 41)  Aston Villa still winless after stalemate at Hull
+  2026-09-08  (2 zdrojů, síla 40)  Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned
+  2026-09-08  (2 zdrojů, síla 54)  Club Brugge v Aston Villa: Champions League – live
+  2026-09-09  (3 zdrojů, síla 66)  Napoli vs Arsenal: Champions League – prediction, teams, lineups
+  2026-09-09  (3 zdrojů, síla 62)  The Rwandan eyeing Champions League history against Man Utd
+  2026-09-09  (2 zdrojů, síla 52)  Napoli v Arsenal: Champions League – live
+  2026-09-10  (2 zdrojů, síla 41)  ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
+  2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League
+  2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live
+  2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return
+  2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig
+  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign
+  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups
+  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live
+  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?
+  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?
+  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
+  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang
+  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups
+  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live
 ```
 
 ---
