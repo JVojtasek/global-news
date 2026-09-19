@@ -1,14 +1,17 @@
 ---
 slug: a-press-pass-is-a-procedure-not-a-favor
-title: "A Press Pass Is a Procedure, Not a Favor"
-dek: "The White House did more than threaten three newsrooms: it deactivated and confiscated their credentials. The decisive question is whether a general pass was revoked for coverage the president disliked, not whether every reporter is entitled to every room."
+title: A Press Pass Is a Procedure, Not a Favor
+dek: 'The White House did more than threaten three newsrooms: it deactivated and confiscated
+  their credentials. The decisive question is whether a general pass was revoked for
+  coverage the president disliked, not whether every reporter is entitled to every
+  room.'
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-19'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -43,18 +46,28 @@ impact:
   - public access to government information
   - White House press credentialing
   - First Amendment litigation
-  line: Revoking general White House credentials can narrow who directly observes briefings and challenges official accounts, even though the affected organisations can continue reporting from outside the complex.
-  todo: Watch for a written notice with reasons, restored credentials or a court filing that identifies whether the revocation covered general press facilities, restricted presidential spaces or both.
+  line: Revoking general White House credentials can narrow who directly observes
+    briefings and challenges official accounts, even though the affected organisations
+    can continue reporting from outside the complex.
+  todo: Watch for a written notice with reasons, restored credentials or a court filing
+    that identifies whether the revocation covered general press facilities, restricted
+    presidential spaces or both.
 qma_path: ''
 tickers: []
 quiz:
-  question: Why does the distinction between a hard pass and a press-pool invitation matter?
+  question: Why does the distinction between a hard pass and a press-pool invitation
+    matter?
   options:
   - A hard pass guarantees a reporter a private interview with the president
-  - Courts have treated access to general press facilities differently from invitations into small restricted presidential spaces
-  - A press-pool invitation is issued only by the Secret Service after a criminal-background check
+  - Courts have treated access to general press facilities differently from invitations
+    into small restricted presidential spaces
+  - A press-pool invitation is issued only by the Secret Service after a criminal-background
+    check
   answer: 1
-  explanation: Existing decisions protect general credentialing from arbitrary or content-based denial while recognising wider presidential discretion over interviews and some restricted spaces.
+  explanation: Existing decisions protect general credentialing from arbitrary or
+    content-based denial while recognising wider presidential discretion over interviews
+    and some restricted spaces.
+review_reason: 'citlivé téma: lawsuit'
 ---
 
 ## BRIEFLY
