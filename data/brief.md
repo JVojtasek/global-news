@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-18
+# ZADÁNÍ PRO REDAKCI — 2026-09-19
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,7 +9,35 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Trump says he is banning CNN and Politico from White House
+### 1. US and Denmark reach deal over Greenland after Trump annexation threats
+- id události: `7ffe8b5c7454`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — US and Denmark reach deal over Greenland after Trump annexation threats
+    <https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss>
+    > Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
+  - **The Guardian World** — US and Denmark reach security deal after Trump’s threats to take over Greenland
+    <https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security>
+    > The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determination Donald Trump announced on Friday that the US had struck an Arctic security pact with the leaders of Denmark and Greenla
+  - **DW News** — Deal with Denmark gives US 'permanent control' over Greenland security, Trump says
+    <https://www.dw.com/en/deal-with-denmark-gives-us-permanent-control-over-greenland-security-trump-says/a-79334915?maca=en-rss-en-all-1573-rdf>
+    > The deal with Denmark, according to President Donald Trump, would give the US "permanent control" over Greenland's security. Denmark said the deal is "great for NATO and Europe."
+  - **Al Jazeera** — Trump says Denmark deal gives US security ‘control’ over Greenland
+    <https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss>
+    > Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.
+  - **CNBC Top** — Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark
+    <https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html>
+    > Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.
+  - **France 24** — Trump says US, Denmark reach deal to expand military presence in Greenland
+    <https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly>
+    > US President Donald Trump said on Friday he had reached a deal with Denmark to expand the US military presence in Greenland, while respecting Danish and Greenlandic sovereignty. Denmark said the agreement would be signed next week during the UN General Assembly but still requires
+  - **Al Jazeera** — Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
+    <https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss>
+    > Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.
+  - **France 24** — 🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly
+    <https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly>
+
+### 2. Trump says he is banning CNN and Politico from White House
 - id události: `d966c1faf1fe`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 7
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -37,7 +65,7 @@
     <https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house>
     > US President Donald Trump on Friday said he would ban media outlets CNN, MSNOW and Politico from the White House over what he described as unfavourable coverage in his latest test of the US Constitution's First Amendment protection of press freedom.
 
-### 2. Von der Leyen eyes Canada as EU's first 'associate member'
+### 3. Von der Leyen eyes Canada as EU's first 'associate member'
 - id události: `3bd82fdf31ce`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -59,7 +87,7 @@
   - **Investing.com** — EU invites Canada to become bloc’s first ’associate member’
     <https://www.investing.com/news/economy-news/eu-invites-canada-to-become-blocs-first-associate-member-4903163>
 
-### 3. EU chief backs plan for Canada to become 'associate member'
+### 4. EU chief backs plan for Canada to become 'associate member'
 - id události: `418e8514211b`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -79,36 +107,16 @@
     <https://www.bbc.com/news/articles/cjwyzrr9d3dko>
     > Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko Comments URL: https://news.ycombinator.com/item?id=49724141 Points: 386 # Comments: 380
 
-### 4. Ronaldo named in first Portugal squad since World Cup - at age of 41
-- id události: `bd5d0f2f7796`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Ronaldo named in first Portugal squad since World Cup - at age of 41
-    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
-    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
-  - **BBC Sport** — Wilson major Wales injury concern for Nations League
-    <https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss>
-    > Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.
-  - **BBC Sport** — Ronaldo named in Jesus' first Portugal squad
-    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
-    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
-  - **France 24** — Watch live: France's new head coach Zidane unveils his first team line-up for Nations League matches
-    <https://www.france24.com/en/sport/20260918-france-new-head-coach-zidane-unveils-his-first-team-line-up-for-nations-league-matches-live>
-    > Newly appointed head coach of France's national football team Zinedine Zidane unveils his first line-up on Friday. Follow our live coverage of the announcement from 6pm Paris time.
-  - **Al Jazeera** — Ronaldo keeps Portugal place for Nations League as Jesus names first squad
-    <https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss>
-    > Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### why relationships fail
+- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Existential risk from artificial intelligence — <https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
