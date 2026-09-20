@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-20
 
-Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **109 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -51,9 +51,8 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 38 dní · 39 záznamů
+- rubrika `world` · sledováno 38 dní · 40 záznamů
 - časová osa:
-  - **2026-09-07** (2 zdrojů) Israeli attacks on Gaza kill five Palestinians, including two children
   - **2026-09-07** (2 zdrojů) Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack
   - **2026-09-08** (7 zdrojů) In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
   - **2026-09-08** (3 zdrojů) UK announces sanctions on West Bank settlements prompting furious Israeli response
@@ -63,6 +62,7 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-14** (2 zdrojů) Former West Ham keeper Miklosko dies aged 64
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
   - **2026-09-20** (2 zdrojů) An Israeli settler and a Palestinian driver killed in West Bank shootings
+  - **2026-09-20** (2 zdrojů) Israeli president pardons combat medic who shot dead wounded Palestinian attacker
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 42 dní · 32 záznamů

@@ -788,46 +788,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "bank",
-    "rajab",
-    "hamas",
-    "gitai",
-    "canada",
-    "many",
-    "dutch",
-    "city",
-    "news",
-    "uk's",
-    "burnham",
-    "germany",
-    "us-led",
-    "ben-gvir",
-    "far-right",
-    "muted",
-    "american",
     "wednesday",
-    "labour",
-    "gaza",
-    "multiple",
-    "israel's",
-    "hind",
-    "inside",
-    "israeli",
-    "france",
-    "week",
-    "miklosko",
-    "israel",
-    "authority",
-    "dolly",
-    "amos",
-    "italy",
-    "palestinian",
-    "global",
+    "muted",
+    "canada",
     "west",
-    "former",
+    "hamas",
+    "global",
+    "gitai",
+    "labour",
+    "news",
+    "amos",
+    "israel's",
+    "inside",
+    "jenin",
+    "bank",
     "christian",
+    "dolly",
+    "israel",
+    "american",
+    "gaza",
+    "burnham",
+    "city",
+    "week",
+    "many",
+    "miklosko",
+    "hind",
+    "far-right",
+    "italy",
+    "germany",
+    "ben-gvir",
+    "france",
+    "palestinian",
+    "dutch",
+    "multiple",
+    "former",
+    "uk's",
     "palestinians",
-    "jenin"
+    "israeli",
+    "us-led",
+    "authority",
+    "rajab"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -868,7 +868,8 @@
     "1214412330e2",
     "9326ca279071",
     "437c2493078e",
-    "38cd7f7bd76a"
+    "38cd7f7bd76a",
+    "add4eeadf14c"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-20",
@@ -1310,6 +1311,17 @@
      "links": [
       "https://www.france24.com/en/an-israeli-settler-and-a-palestinian-driver-killed-in-west-bank-shootings",
       "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Israeli president pardons combat medic who shot dead wounded Palestinian attacker",
+     "sources": 2,
+     "score": 42,
+     "event_id": "add4eeadf14c",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
+      "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
      ]
     }
    ]
@@ -2029,6 +2041,158 @@
    ]
   },
   {
+   "id": "9ffb6bd91201",
+   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+   "section": "sport",
+   "entities": [
+    "arsenal",
+    "bournemouth",
+    "community",
+    "rodri",
+    "deadlines",
+    "perfect",
+    "nightmare",
+    "enzo",
+    "fernandez",
+    "rodri's",
+    "he's",
+    "shield",
+    "manchester",
+    "city",
+    "maresca",
+    "gvardiol"
+   ],
+   "event_ids": [
+    "9ffb6bd91201",
+    "2fef58e0d72e",
+    "b5cc84461c06",
+    "cb7f47a5868f",
+    "c6aec83a4cd2",
+    "4a7b92cbd9ac",
+    "81646cf59625",
+    "b0c1fdbb2cf5",
+    "38c0310528f5",
+    "83839e21d41a"
+   ],
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-09-20",
+   "timeline": [
+    {
+     "date": "2026-08-16",
+     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9ffb6bd91201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2fef58e0d72e",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "'He's the professor' - Rodri's Manchester City journey",
+     "sources": 2,
+     "score": 49,
+     "event_id": "b5cc84461c06",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
+     "sources": 1,
+     "score": 41,
+     "event_id": "cb7f47a5868f",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City will 'try to find the new Rodri' - Maresca",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c6aec83a4cd2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+     "sources": 2,
+     "score": 59,
+     "event_id": "4a7b92cbd9ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City 'completely deserved to win' - Maresca",
+     "sources": 2,
+     "score": 41,
+     "event_id": "81646cf59625",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+     "sources": 3,
+     "score": 56,
+     "event_id": "b0c1fdbb2cf5",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
+      "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Maresca criticises focus on controversial Manchester derby winner",
+     "sources": 2,
+     "score": 42,
+     "event_id": "38c0310528f5",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
+     "sources": 2,
+     "score": 43,
+     "event_id": "83839e21d41a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/20/enzo-maresca-manchester-city-sunderland-premier-league"
+     ]
+    }
+   ]
+  },
+  {
    "id": "d16d38017cfe",
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
@@ -2317,6 +2481,94 @@
    ]
   },
   {
+   "id": "46d1d18cff81",
+   "title": "Parrott fires Real Betis to win over Real Madrid",
+   "section": "sport",
+   "entities": [
+    "barcelona",
+    "carlos",
+    "betis",
+    "president",
+    "parrott",
+    "real",
+    "lowe",
+    "gabriel",
+    "atletico",
+    "ceuta",
+    "liga",
+    "madrid"
+   ],
+   "event_ids": [
+    "46d1d18cff81",
+    "b0d6ea2d2c32",
+    "9a83e218a9f2",
+    "358259af4a1b",
+    "fb2e05aca5b1"
+   ],
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-09-20",
+   "timeline": [
+    {
+     "date": "2026-09-05",
+     "headline": "Parrott fires Real Betis to win over Real Madrid",
+     "sources": 3,
+     "score": 58,
+     "event_id": "46d1d18cff81",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/04/jose-mourinho-sick-as-a-parrott-as-real-madrid-sunk-by-real-betis-and-irish-supersub",
+      "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Real Madrid keen on Man Utd forward Gabriel, 15",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b0d6ea2d2c32",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/video/20260917-mbapp%C3%A9-and-real-madrid-teammates-face-backlash-over-ceuta-message"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
+     "sources": 2,
+     "score": 50,
+     "event_id": "9a83e218a9f2",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
+      "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+     "sources": 2,
+     "score": 51,
+     "event_id": "358259af4a1b",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
+      "https://www.france24.com/en/sport/20260918-mbapp%C3%A9-quits-nike-after-career-long-partnership-swiss-sports-brand-on"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Atletico win feisty Madrid derby against 10-man Real",
+     "sources": 3,
+     "score": 54,
+     "event_id": "fb2e05aca5b1",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cqkgxp97nxzno?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
+      "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "7f5ee9f48579",
    "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
    "section": "world",
@@ -2355,6 +2607,34 @@
      "links": [
       "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
       "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e15c2775fec6",
+   "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+   "section": "world",
+   "entities": [
+    "germany's",
+    "merz"
+   ],
+   "event_ids": [
+    "e15c2775fec6"
+   ],
+   "first_seen": "2026-09-20",
+   "last_seen": "2026-09-20",
+   "timeline": [
+    {
+     "date": "2026-09-20",
+     "headline": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+     "sources": 3,
+     "score": 55,
+     "event_id": "e15c2775fec6",
+     "links": [
+      "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "https://www.dw.com/en/germany-s-merz-under-pressure-as-afd-eyes-second-state-win/live-79322092?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections"
      ]
     }
    ]
@@ -4934,80 +5214,6 @@
    ]
   },
   {
-   "id": "46d1d18cff81",
-   "title": "Parrott fires Real Betis to win over Real Madrid",
-   "section": "sport",
-   "entities": [
-    "madrid",
-    "ceuta",
-    "real",
-    "betis",
-    "parrott",
-    "gabriel",
-    "president",
-    "barcelona",
-    "liga",
-    "lowe",
-    "carlos"
-   ],
-   "event_ids": [
-    "46d1d18cff81",
-    "b0d6ea2d2c32",
-    "9a83e218a9f2",
-    "358259af4a1b"
-   ],
-   "first_seen": "2026-09-05",
-   "last_seen": "2026-09-18",
-   "timeline": [
-    {
-     "date": "2026-09-05",
-     "headline": "Parrott fires Real Betis to win over Real Madrid",
-     "sources": 3,
-     "score": 58,
-     "event_id": "46d1d18cff81",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/04/jose-mourinho-sick-as-a-parrott-as-real-madrid-sunk-by-real-betis-and-irish-supersub",
-      "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Real Madrid keen on Man Utd forward Gabriel, 15",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b0d6ea2d2c32",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/video/20260917-mbapp%C3%A9-and-real-madrid-teammates-face-backlash-over-ceuta-message"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
-     "sources": 2,
-     "score": 50,
-     "event_id": "9a83e218a9f2",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
-      "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-     "sources": 2,
-     "score": 51,
-     "event_id": "358259af4a1b",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
-      "https://www.france24.com/en/sport/20260918-mbapp%C3%A9-quits-nike-after-career-long-partnership-swiss-sports-brand-on"
-     ]
-    }
-   ]
-  },
-  {
    "id": "87d62c77d066",
    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
    "section": "world",
@@ -6067,145 +6273,6 @@
       "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-rdf",
       "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
       "http://www.france24.com/en/americas/20260916-leon-black-epstein-contempt-congress"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9ffb6bd91201",
-   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-   "section": "sport",
-   "entities": [
-    "community",
-    "bournemouth",
-    "maresca",
-    "manchester",
-    "rodri",
-    "gvardiol",
-    "rodri's",
-    "fernandez",
-    "nightmare",
-    "shield",
-    "he's",
-    "arsenal",
-    "enzo",
-    "city",
-    "deadlines"
-   ],
-   "event_ids": [
-    "9ffb6bd91201",
-    "2fef58e0d72e",
-    "b5cc84461c06",
-    "cb7f47a5868f",
-    "c6aec83a4cd2",
-    "4a7b92cbd9ac",
-    "81646cf59625",
-    "b0c1fdbb2cf5",
-    "38c0310528f5"
-   ],
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9ffb6bd91201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2fef58e0d72e",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "'He's the professor' - Rodri's Manchester City journey",
-     "sources": 2,
-     "score": 49,
-     "event_id": "b5cc84461c06",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
-     "sources": 1,
-     "score": 41,
-     "event_id": "cb7f47a5868f",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City will 'try to find the new Rodri' - Maresca",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c6aec83a4cd2",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
-     "sources": 2,
-     "score": 59,
-     "event_id": "4a7b92cbd9ac",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
-      "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City 'completely deserved to win' - Maresca",
-     "sources": 2,
-     "score": 41,
-     "event_id": "81646cf59625",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
-     "sources": 3,
-     "score": 56,
-     "event_id": "b0c1fdbb2cf5",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
-      "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Maresca criticises focus on controversial Manchester derby winner",
-     "sources": 2,
-     "score": 42,
-     "event_id": "38c0310528f5",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal"
      ]
     }
    ]
@@ -10139,5 +10206,5 @@
    ]
   }
  ],
- "updated": "2026-09-20T15:23:07+00:00"
+ "updated": "2026-09-20T18:27:59+00:00"
 }
