@@ -1,14 +1,15 @@
 ---
 slug: the-empty-space-around-a-swing-is-safety-equipment
 title: The Empty Space Around a Swing Is Safety Equipment
-dek: A playground can have a soft surface and still be badly arranged. The unseen safety system is the clear landing and circulation space around every moving child.
+dek: A playground can have a soft surface and still be badly arranged. The unseen
+  safety system is the clear landing and circulation space around every moving child.
 section: safety
 type: analysis
 depth: open
 lang: en
 date: '2026-09-20'
-status: draft
-confidence: 95
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual playground swing surrounded by a luminous clear safety zone, editorial illustration, no children, no text
+image_query: conceptual playground swing surrounded by a luminous clear safety zone,
+  editorial illustration, no children, no text
 sources:
 - name: U.S. Consumer Product Safety Commission — Public Playground Safety Handbook
   url: https://www.cpsc.gov/s3fs-public/325.pdf
@@ -26,10 +28,12 @@ sources:
 - name: PLOS Medicine — School Playground Surfacing and Arm Fractures in Children
   url: https://journals.plos.org/plosmedicine/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1000195
   published: '2009-12-15'
-- name: Paediatrics & Child Health — The effect of surface and season on playground injury rates
+- name: Paediatrics & Child Health — The effect of surface and season on playground
+    injury rates
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3496349/
   published: '2012-11-01'
-- name: Canadian Journal of Public Health — Systematic review of playground injury prevention
+- name: Canadian Journal of Public Health — Systematic review of playground injury
+    prevention
   url: https://pubmed.ncbi.nlm.nih.gov/29981068/
   published: '2018-03-09'
 qma_path: ''
@@ -41,7 +45,10 @@ quiz:
   - A waiting area reserved for supervising adults
   - A painted label showing the recommended age group
   answer: 0
-  explanation: The CPSC defines a use zone as the surface under and around equipment where a child falling or exiting is expected to land and where circulation should remain unrestricted.
+  explanation: The CPSC defines a use zone as the surface under and around equipment
+    where a child falling or exiting is expected to land and where circulation should
+    remain unrestricted.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

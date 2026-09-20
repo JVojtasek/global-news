@@ -1,14 +1,15 @@
 ---
 slug: a-childs-photo-is-not-only-the-parents-story
 title: A Child's Photo Is Not Only the Parent's Story
-dek: Sharing a family moment can connect people who live far apart. It can also reveal a child's location, routine and identity before that child can choose an audience.
+dek: Sharing a family moment can connect people who live far apart. It can also reveal
+  a child's location, routine and identity before that child can choose an audience.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-20'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual family photograph moving from a private album into widening public circles, abstract figures, no faces, no text, no interface, editorial illustration
+image_query: conceptual family photograph moving from a private album into widening
+  public circles, abstract figures, no faces, no text, no interface, editorial illustration
 sources:
 - name: Australian eSafety Commissioner — Privacy and your child
   url: https://www.esafety.gov.au/parents/issues-and-advice/privacy-child
@@ -44,7 +46,9 @@ quiz:
   - The camera's colour temperature
   - Whether the photo is landscape or portrait
   answer: 0
-  explanation: A school logo, location marker or routine can connect an image to a place and time; regulators therefore advise removing those clues before sharing.
+  explanation: A school logo, location marker or routine can connect an image to a
+    place and time; regulators therefore advise removing those clues before sharing.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

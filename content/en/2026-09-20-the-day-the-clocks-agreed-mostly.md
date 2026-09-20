@@ -7,8 +7,8 @@ section: history
 type: feature
 depth: open
 lang: en
-date: '2026-08-28'
-status: reserve
+date: '2026-09-20'
+status: published
 confidence: 95
 load: 0
 topics: []
