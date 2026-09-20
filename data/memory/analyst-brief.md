@@ -1,10 +1,26 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-20
 
-Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 40 dní · 60 záznamů
+- časová osa:
+  - **2026-09-10** (2 zdrojů) Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
+  - **2026-09-10** (2 zdrojů) Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
+  - **2026-09-13** (2 zdrojů) Ukraine, Poland say Russia hit Warsaw-bound passenger train
+  - **2026-09-14** (2 zdrojů) Ukraine, Russia set for new round of US-mediated talks
+  - **2026-09-14** (2 zdrojů) Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
+  - **2026-09-15** (1 zdrojů) These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
+  - **2026-09-15** (1 zdrojů) World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
+  - **2026-09-20** (4 zdrojů) Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
+  - **2026-09-20** (2 zdrojů) Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
+  - **2026-09-20** (2 zdrojů) Ukraine launches heavy Moscow drone attack as Russia votes
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 40 dní · 60 záznamů
@@ -19,22 +35,6 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 40 dní · 59 záznamů
-- časová osa:
-  - **2026-09-10** (2 zdrojů) Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
-  - **2026-09-10** (2 zdrojů) Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
-  - **2026-09-10** (2 zdrojů) Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
-  - **2026-09-13** (2 zdrojů) Ukraine, Poland say Russia hit Warsaw-bound passenger train
-  - **2026-09-14** (2 zdrojů) Ukraine, Russia set for new round of US-mediated talks
-  - **2026-09-14** (2 zdrojů) Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
-  - **2026-09-15** (1 zdrojů) These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
-  - **2026-09-15** (1 zdrojů) World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
-  - **2026-09-20** (4 zdrojů) Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
-  - **2026-09-20** (2 zdrojů) Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 32 dní · 59 záznamů

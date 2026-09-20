@@ -134,7 +134,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+rubrika: world · sledováno od 2026-08-11 · záznamů: 60
+  2026-09-07  (2 zdrojů, síla 42)  Russia opens first road bridge with North Korea
+  2026-09-08  (2 zdrojů, síla 41)  Russia strikes Kyiv as three-day pause during US envoy visits ends
+  2026-09-08  (2 zdrojů, síla 45)  North Korea and Russia open first road bridge linking both countries
+  2026-09-08  (2 zdrojů, síla 46)  Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
+  2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
+  2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
+  2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
+  2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
+  2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
+  2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
+  2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
+  2026-09-10  (2 zdrojů, síla 40)  Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
+  2026-09-13  (2 zdrojů, síla 43)  Ukraine, Poland say Russia hit Warsaw-bound passenger train
+  2026-09-14  (2 zdrojů, síla 42)  Ukraine, Russia set for new round of US-mediated talks
+  2026-09-14  (2 zdrojů, síla 44)  Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
+  2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
+  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
+  2026-09-20  (4 zdrojů, síla 63)  Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
+  2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
+  2026-09-20  (2 zdrojů, síla 40)  Ukraine launches heavy Moscow drone attack as Russia votes
+```
+
+### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -161,35 +190,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
   2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
-```
-
-### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 59  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 59
-  2026-09-06  (2 zdrojů, síla 48)  Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
-  2026-09-07  (2 zdrojů, síla 42)  Russia opens first road bridge with North Korea
-  2026-09-08  (2 zdrojů, síla 41)  Russia strikes Kyiv as three-day pause during US envoy visits ends
-  2026-09-08  (2 zdrojů, síla 45)  North Korea and Russia open first road bridge linking both countries
-  2026-09-08  (2 zdrojů, síla 46)  Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
-  2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
-  2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
-  2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
-  2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
-  2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
-  2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
-  2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
-  2026-09-10  (2 zdrojů, síla 40)  Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
-  2026-09-13  (2 zdrojů, síla 43)  Ukraine, Poland say Russia hit Warsaw-bound passenger train
-  2026-09-14  (2 zdrojů, síla 42)  Ukraine, Russia set for new round of US-mediated talks
-  2026-09-14  (2 zdrojů, síla 44)  Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
-  2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
-  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
-  2026-09-20  (4 zdrojů, síla 63)  Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
-  2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
 ```
 
 ---

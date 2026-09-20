@@ -5,46 +5,46 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "size",
-    "wildberries",
-    "bessent",
-    "kremlin",
-    "better",
-    "russia",
-    "holding",
-    "peace",
     "moldova",
-    "zelensky",
-    "soon",
-    "endorse",
-    "votes",
-    "true",
-    "burnham",
-    "amnesty",
-    "footprints",
-    "bear",
-    "moscow",
-    "germany",
-    "upgrade",
-    "us-mediated",
-    "ukrainian",
-    "dakota",
     "orthodox",
-    "masha",
-    "overnight",
     "witkoff",
     "discovered",
-    "dinosaur",
-    "trump",
-    "africa's",
-    "represent",
-    "maps",
-    "made",
-    "global",
-    "ukraine",
-    "charts",
+    "united",
     "belgorod",
-    "united"
+    "russia",
+    "dakota",
+    "amnesty",
+    "bessent",
+    "bear",
+    "true",
+    "endorse",
+    "represent",
+    "kremlin",
+    "germany",
+    "made",
+    "trump",
+    "maps",
+    "burnham",
+    "better",
+    "charts",
+    "moscow",
+    "ukraine",
+    "dinosaur",
+    "holding",
+    "size",
+    "global",
+    "upgrade",
+    "masha",
+    "us-mediated",
+    "zelensky",
+    "ukrainian",
+    "soon",
+    "africa's",
+    "wildberries",
+    "footprints",
+    "votes",
+    "overnight",
+    "peace"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -105,7 +105,8 @@
     "8bb5b1b19b13",
     "e7a9dea91cdc",
     "944a6e50de86",
-    "69290ccbb191"
+    "69290ccbb191",
+    "bc1580e2ca46"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-20",
@@ -768,6 +769,17 @@
       "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
      ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Ukraine launches heavy Moscow drone attack as Russia votes",
+     "sources": 2,
+     "score": 40,
+     "event_id": "bc1580e2ca46",
+     "links": [
+      "https://www.cnbc.com/2026/09/20/ukraine-launches-heavy-moscow-drone-attack-as-russia-votes.html",
+      "https://www.france24.com/en/ukraine-hits-russia-with-major-drone-attack-targetting-refinery"
+     ]
     }
    ]
   },
@@ -1218,6 +1230,386 @@
    ]
   },
   {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "venezuela",
+    "house",
+    "tetris",
+    "secretary",
+    "karoline",
+    "jersey",
+    "politico",
+    "court",
+    "donald",
+    "press",
+    "driscoll",
+    "army",
+    "kalshi's",
+    "journalists",
+    "days",
+    "crypto",
+    "company",
+    "nabep",
+    "chinese",
+    "leavitt",
+    "trump",
+    "white",
+    "supreme"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e",
+    "958107abfe36",
+    "eb231f9016df",
+    "ad8ed0c19d7a",
+    "1c66ae5141c6",
+    "153ab8978645",
+    "a49a69926475",
+    "d966c1faf1fe",
+    "eb0e7de10f2c",
+    "d6f846915316",
+    "fbea76a25d72"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-20",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+     "sources": 2,
+     "score": 42,
+     "event_id": "958107abfe36",
+     "links": [
+      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump White House just tossed a grenade into international space relations",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb231f9016df",
+     "links": [
+      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad8ed0c19d7a",
+     "links": [
+      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
+      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1c66ae5141c6",
+     "links": [
+      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+     "sources": 2,
+     "score": 48,
+     "event_id": "153ab8978645",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "US Supreme Court denies Trump bid to restrict mail-in ballots",
+     "sources": 3,
+     "score": 59,
+     "event_id": "a49a69926475",
+     "links": [
+      "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+      "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Trump says he is banning CNN and Politico from White House",
+     "sources": 7,
+     "score": 80,
+     "event_id": "d966c1faf1fe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb0e7de10f2c",
+     "links": [
+      "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
+      "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Journalists denied White House access after Trump banned some media outlets",
+     "sources": 5,
+     "score": 73,
+     "event_id": "d6f846915316",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
+     "sources": 2,
+     "score": 49,
+     "event_id": "fbea76a25d72",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
+      "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "saudi",
+    "western",
+    "arabia's",
+    "houthis",
+    "arabia",
+    "mecca",
+    "houthi",
+    "pakistan",
+    "turkey",
+    "yemen"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace",
+    "86a5852bfef5",
+    "d4796b695f31",
+    "5308710e525c",
+    "180951c60255",
+    "9e9d8d1bd79d"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-20",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d16d38017cfe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "sources": 3,
+     "score": 54,
+     "event_id": "b203d9b44ace",
+     "links": [
+      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+     "sources": 3,
+     "score": 62,
+     "event_id": "86a5852bfef5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5308710e525c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+     "sources": 3,
+     "score": 56,
+     "event_id": "180951c60255",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e9d8d1bd79d",
+     "links": [
+      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9c657c0b5de7",
    "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
    "section": "culture",
@@ -1389,6 +1781,49 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/europe/20260920-germans-vote-in-elections-threatening-fresh-blow-to-merz"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7f5ee9f48579",
+   "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+   "section": "world",
+   "entities": [
+    "anthems",
+    "asian",
+    "tall",
+    "games",
+    "japan"
+   ],
+   "event_ids": [
+    "7f5ee9f48579",
+    "a3ef07e8ee3b"
+   ],
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-20",
+   "timeline": [
+    {
+     "date": "2026-09-16",
+     "headline": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+     "sources": 2,
+     "score": 56,
+     "event_id": "7f5ee9f48579",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/16/sri-lankan-star-rumesh-pathirages-javelin-broken-ahead-of-asian-games?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a3ef07e8ee3b",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss"
      ]
     }
    ]
@@ -2187,262 +2622,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/sep/19/mikel-arteta-arsenal-humbled-brighton-defeat"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "journalists",
-    "court",
-    "chinese",
-    "company",
-    "days",
-    "driscoll",
-    "trump",
-    "tetris",
-    "jersey",
-    "white",
-    "army",
-    "kalshi's",
-    "crypto",
-    "leavitt",
-    "nabep",
-    "secretary",
-    "venezuela",
-    "politico",
-    "press",
-    "donald",
-    "house",
-    "karoline",
-    "supreme"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e",
-    "958107abfe36",
-    "eb231f9016df",
-    "ad8ed0c19d7a",
-    "1c66ae5141c6",
-    "153ab8978645",
-    "a49a69926475",
-    "d966c1faf1fe",
-    "eb0e7de10f2c",
-    "d6f846915316"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-19",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-     "sources": 2,
-     "score": 42,
-     "event_id": "958107abfe36",
-     "links": [
-      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump White House just tossed a grenade into international space relations",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb231f9016df",
-     "links": [
-      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ad8ed0c19d7a",
-     "links": [
-      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
-      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1c66ae5141c6",
-     "links": [
-      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-     "sources": 2,
-     "score": 48,
-     "event_id": "153ab8978645",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-      "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "US Supreme Court denies Trump bid to restrict mail-in ballots",
-     "sources": 3,
-     "score": 59,
-     "event_id": "a49a69926475",
-     "links": [
-      "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-      "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Trump says he is banning CNN and Politico from White House",
-     "sources": 7,
-     "score": 80,
-     "event_id": "d966c1faf1fe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb0e7de10f2c",
-     "links": [
-      "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
-      "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Journalists denied White House access after Trump banned some media outlets",
-     "sources": 5,
-     "score": 73,
-     "event_id": "d6f846915316",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
      ]
     }
    ]
@@ -5501,104 +5680,6 @@
    ]
   },
   {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "section": "world",
-   "entities": [
-    "saudi",
-    "pakistan",
-    "turkey",
-    "yemen",
-    "houthis",
-    "mecca",
-    "houthi",
-    "arabia"
-   ],
-   "event_ids": [
-    "d16d38017cfe",
-    "b203d9b44ace",
-    "86a5852bfef5",
-    "d4796b695f31",
-    "5308710e525c",
-    "180951c60255"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-     "sources": 3,
-     "score": 54,
-     "event_id": "b203d9b44ace",
-     "links": [
-      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4796b695f31",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5308710e525c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
-     "sources": 3,
-     "score": 56,
-     "event_id": "180951c60255",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
-      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "b041c95e70b8",
    "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
    "section": "world",
@@ -5759,35 +5840,6 @@
      "links": [
       "http://www.france24.com/en/video/20260916-von-der-leyen-pitches-associate-member-status-for-canada-what-does-it-mean-for-eu-us-ties",
       "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7f5ee9f48579",
-   "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
-   "section": "world",
-   "entities": [
-    "games",
-    "tall",
-    "asian"
-   ],
-   "event_ids": [
-    "7f5ee9f48579"
-   ],
-   "first_seen": "2026-09-16",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-09-16",
-     "headline": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
-     "sources": 2,
-     "score": 56,
-     "event_id": "7f5ee9f48579",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/16/sri-lankan-star-rumesh-pathirages-javelin-broken-ahead-of-asian-games?traffic_source=rss"
      ]
     }
    ]
@@ -10075,5 +10127,5 @@
    ]
   }
  ],
- "updated": "2026-09-20T09:25:21+00:00"
+ "updated": "2026-09-20T12:32:56+00:00"
 }
