@@ -788,46 +788,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "wednesday",
-    "muted",
-    "canada",
-    "west",
-    "hamas",
-    "global",
-    "gitai",
-    "labour",
-    "news",
-    "amos",
-    "israel's",
-    "inside",
-    "jenin",
-    "bank",
-    "christian",
-    "dolly",
-    "israel",
-    "american",
     "gaza",
-    "burnham",
-    "city",
-    "week",
-    "many",
+    "us-led",
     "miklosko",
-    "hind",
+    "canada",
     "far-right",
+    "jenin",
+    "hamas",
+    "week",
+    "american",
     "italy",
-    "germany",
-    "ben-gvir",
+    "wednesday",
+    "uk's",
+    "news",
+    "west",
     "france",
+    "israel",
+    "ben-gvir",
+    "rajab",
+    "bank",
+    "germany",
+    "former",
+    "macron",
+    "global",
+    "hind",
+    "israeli",
+    "palestinians",
+    "labour",
+    "gitai",
+    "city",
     "palestinian",
     "dutch",
+    "amos",
     "multiple",
-    "former",
-    "uk's",
-    "palestinians",
-    "israeli",
-    "us-led",
     "authority",
-    "rajab"
+    "dolly",
+    "carney",
+    "many",
+    "christian",
+    "inside",
+    "burnham"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -869,7 +869,8 @@
     "9326ca279071",
     "437c2493078e",
     "38cd7f7bd76a",
-    "add4eeadf14c"
+    "add4eeadf14c",
+    "00ad11519a0d"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-20",
@@ -1322,6 +1323,18 @@
      "links": [
       "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
       "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+     "sources": 2,
+     "score": 49,
+     "event_id": "00ad11519a0d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+      "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
+      "https://www.france24.com/en/replay-macron-carney-hail-new-chapter-on-france-canada-ties-at-st-pierre-and-miquelon-meeting"
      ]
     }
    ]
@@ -2635,6 +2648,34 @@
       "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
       "https://www.dw.com/en/germany-s-merz-under-pressure-as-afd-eyes-second-state-win/live-79322092?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "192c35311870",
+   "title": "Carrick impressed Man Utd 'kept belief' to earn draw at Fulham",
+   "section": "sport",
+   "entities": [
+    "fulham",
+    "carrick"
+   ],
+   "event_ids": [
+    "192c35311870"
+   ],
+   "first_seen": "2026-09-20",
+   "last_seen": "2026-09-20",
+   "timeline": [
+    {
+     "date": "2026-09-20",
+     "headline": "Carrick impressed Man Utd 'kept belief' to earn draw at Fulham",
+     "sources": 3,
+     "score": 57,
+     "event_id": "192c35311870",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cwr7d3y11r34o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/20/michael-carrick-matheus-cunha-fulham-manchester-united-premier-league",
+      "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss"
      ]
     }
    ]
@@ -10206,5 +10247,5 @@
    ]
   }
  ],
- "updated": "2026-09-20T18:27:59+00:00"
+ "updated": "2026-09-20T21:23:02+00:00"
 }
