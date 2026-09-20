@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-19
+# ANALYTICKÉ ZADÁNÍ — 2026-09-20
 
-Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
@@ -65,9 +65,8 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 41 dní · 30 záznamů
+- rubrika `world` · sledováno 42 dní · 31 záznamů
 - časová osa:
-  - **2026-09-15** (2 zdrojů) Saudi Arabia faces hard choices as Houthis gain in Yemen
   - **2026-09-15** (2 zdrojů) Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen
   - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
   - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
@@ -77,6 +76,7 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-19** (2 zdrojů) Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
   - **2026-09-19** (3 zdrojů) Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital
   - **2026-09-19** (2 zdrojů) Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
+  - **2026-09-20** (2 zdrojů) Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

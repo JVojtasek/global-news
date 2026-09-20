@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-19
+# ZADÁNÍ PRO REDAKCI — 2026-09-20
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -109,12 +109,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### why relationships fail
-- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
