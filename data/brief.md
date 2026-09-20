@@ -163,33 +163,33 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 ```
 
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 59  ·  **depth: `open`**
+### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 59  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 59
-  2026-09-08  (2 zdrojů, síla 54)  Club Brugge v Aston Villa: Champions League – live
-  2026-09-09  (3 zdrojů, síla 66)  Napoli vs Arsenal: Champions League – prediction, teams, lineups
-  2026-09-09  (3 zdrojů, síla 62)  The Rwandan eyeing Champions League history against Man Utd
-  2026-09-09  (2 zdrojů, síla 52)  Napoli v Arsenal: Champions League – live
-  2026-09-10  (2 zdrojů, síla 41)  ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
-  2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League
-  2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live
-  2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return
-  2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig
-  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign
-  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups
-  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live
-  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?
-  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?
-  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
-  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang
-  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups
-  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live
-  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
-  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
+VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+rubrika: world · sledováno od 2026-08-11 · záznamů: 59
+  2026-09-06  (2 zdrojů, síla 48)  Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain
+  2026-09-07  (2 zdrojů, síla 42)  Russia opens first road bridge with North Korea
+  2026-09-08  (2 zdrojů, síla 41)  Russia strikes Kyiv as three-day pause during US envoy visits ends
+  2026-09-08  (2 zdrojů, síla 45)  North Korea and Russia open first road bridge linking both countries
+  2026-09-08  (2 zdrojů, síla 46)  Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
+  2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
+  2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
+  2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
+  2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
+  2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
+  2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
+  2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
+  2026-09-10  (2 zdrojů, síla 40)  Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
+  2026-09-13  (2 zdrojů, síla 43)  Ukraine, Poland say Russia hit Warsaw-bound passenger train
+  2026-09-14  (2 zdrojů, síla 42)  Ukraine, Russia set for new round of US-mediated talks
+  2026-09-14  (2 zdrojů, síla 44)  Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
+  2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
+  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
+  2026-09-20  (4 zdrojů, síla 63)  Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
+  2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
 ```
 
 ---
