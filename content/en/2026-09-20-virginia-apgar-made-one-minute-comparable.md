@@ -1,14 +1,15 @@
 ---
 slug: virginia-apgar-made-one-minute-comparable
 title: Virginia Apgar Made One Minute Comparable
-dek: Her five-part newborn score gave clinicians a shared observation at a critical moment—and later guidance explains why that snapshot should not become a prophecy.
+dek: Her five-part newborn score gave clinicians a shared observation at a critical
+  moment—and later guidance explains why that snapshot should not become a prophecy.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-20'
-status: draft
-confidence: 96
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -26,7 +27,8 @@ sources:
 - name: PubMed — A proposal for a new method of evaluation of the newborn infant
   url: https://pubmed.ncbi.nlm.nih.gov/13083014/
   published: '1953-07-01'
-- name: American College of Obstetricians and Gynecologists and American Academy of Pediatrics — The Apgar Score
+- name: American College of Obstetricians and Gynecologists and American Academy of
+    Pediatrics — The Apgar Score
   url: https://pubmed.ncbi.nlm.nih.gov/26416932/
   published: '2015-10-01'
 - name: MedlinePlus — Apgar score
@@ -44,7 +46,9 @@ quiz:
   - A stand-alone diagnosis of why a newborn had difficulty.
   - A reliable prediction of one child's long-term neurological outcome.
   answer: 0
-  explanation: Professional guidance describes the score as a convenient report of immediate status and response. It should not be used alone to diagnose asphyxia or predict an individual's long-term outcome.
+  explanation: Professional guidance describes the score as a convenient report of
+    immediate status and response. It should not be used alone to diagnose asphyxia
+    or predict an individual's long-term outcome.
 ---
 
 ## BRIEFLY

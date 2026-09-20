@@ -1,13 +1,14 @@
 ---
 slug: a-chained-book-was-not-a-closed-book
 title: A Chained Book Was Not a Closed Book
-dek: The ironwork in an early library restricted removal, but it also made valuable books available at a desk instead of hiding them in a chest.
+dek: The ironwork in an early library restricted removal, but it also made valuable
+  books available at a desk instead of hiding them in a chest.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-09-20'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics: []
@@ -41,7 +42,9 @@ quiz:
   - Removing the book from its bookcase or library.
   - Consulting books that disagreed with one another.
   answer: 1
-  explanation: The chain was long enough for a book to reach a reading desk, but not to leave the case. It protected a scarce physical object while preserving on-site use.
+  explanation: The chain was long enough for a book to reach a reading desk, but not
+    to leave the case. It protected a scarce physical object while preserving on-site
+    use.
 ---
 
 ## BRIEFLY
