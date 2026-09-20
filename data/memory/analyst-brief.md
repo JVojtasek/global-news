@@ -51,9 +51,8 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 32 dní · 38 záznamů
+- rubrika `world` · sledováno 38 dní · 39 záznamů
 - časová osa:
-  - **2026-09-05** (2 zdrojů) Inside the places that shaped Dolly Parton
   - **2026-09-07** (2 zdrojů) Israeli attacks on Gaza kill five Palestinians, including two children
   - **2026-09-07** (2 zdrojů) Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack
   - **2026-09-08** (7 zdrojů) In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
@@ -63,6 +62,7 @@ Paměť obsahuje **108 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-10** (2 zdrojů) Muted US response to UK's West Bank sanctions may reflect simmering frustration
   - **2026-09-14** (2 zdrojů) Former West Ham keeper Miklosko dies aged 64
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
+  - **2026-09-20** (2 zdrojů) An Israeli settler and a Palestinian driver killed in West Bank shootings
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 42 dní · 32 záznamů
