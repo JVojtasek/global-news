@@ -5,43 +5,43 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "east-west",
-    "paris",
-    "israel",
-    "iran",
-    "jerusalem",
-    "gaza",
-    "hamas",
-    "iraq",
-    "east",
-    "arabian",
-    "british",
-    "lebanon",
-    "houthis",
-    "hezbollah",
-    "trump",
-    "joseph",
-    "trump's",
-    "board",
-    "jared",
-    "yemen",
-    "taher",
-    "macron",
-    "israeli",
-    "eurovision",
     "thick",
+    "jared",
+    "east",
+    "eurovision",
     "middle",
-    "aoun",
+    "houthis",
+    "hamas",
     "ireland",
-    "kushner",
-    "tehran",
-    "riyadh",
-    "verified",
-    "peace",
-    "saudi",
+    "israeli",
+    "aoun",
     "netanyahu",
+    "kushner",
+    "jerusalem",
+    "riyadh",
+    "joseph",
+    "emmanuel",
+    "british",
+    "saudi",
+    "arabian",
+    "peace",
+    "trump",
+    "tehran",
+    "israel",
+    "east-west",
+    "gaza",
+    "verified",
+    "taher",
+    "trump's",
+    "paris",
+    "iran",
+    "lebanon",
+    "yemen",
     "arabia",
-    "emmanuel"
+    "macron",
+    "board",
+    "iraq",
+    "hezbollah"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -74,7 +74,8 @@
     "9da759940a18",
     "d0c9dac4e7a1",
     "dbf103d247c1",
-    "97e39aa3ab00"
+    "97e39aa3ab00",
+    "02e522c8aff5"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-20",
@@ -430,6 +431,17 @@
      "links": [
       "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
       "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Saudi Arabia says Houthis tried to attack its capital",
+     "sources": 2,
+     "score": 42,
+     "event_id": "02e522c8aff5",
+     "links": [
+      "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144"
      ]
     }
    ]
@@ -9998,5 +10010,5 @@
    ]
   }
  ],
- "updated": "2026-09-20T03:30:23+00:00"
+ "updated": "2026-09-20T06:37:02+00:00"
 }
