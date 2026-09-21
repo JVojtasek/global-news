@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "slug": "what-do-you-reach-for-when-the-problem-is-fuzzy",
+  "date": "2026-09-21",
+  "category": "personality",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "What do you reach for when the problem is fuzzy?", "cs": "Po čem sáhnete, když je problém nejasný?"},
+    "dek": {"en": "Eight ordinary situations notice whether your first move is to clarify the question, map the system, listen to people or run a small test.", "cs": "Osm běžných situací ukáže, zda jako první vyjasňujete otázku, mapujete systém, nasloucháte lidem, nebo zkoušíte malý test."},
+    "intro": {"en": "Choose what you would genuinely do first, not the move that sounds most professional. Useful problem-solving usually needs all four approaches; this profile describes a current starting preference, not a fixed type.", "cs": "Vyberte, co byste skutečně udělali jako první, ne krok, který zní nejprofesionálněji. Užitečné řešení problémů obvykle potřebuje všechny čtyři přístupy; profil popisuje současnou výchozí preferenci, ne pevný typ."},
+    "disclaimer": {"en": "This is an original educational self-check informed by public problem-solving and service-design guidance. It does not reproduce a validated or proprietary instrument, diagnose personality or ability, predict performance, collect answers, or determine access to any opportunity. Context, stakes and team roles can change a person's best first move.", "cs": "Jde o původní vzdělávací sebehodnocení inspirované veřejnými doporučeními pro řešení problémů a návrh služeb. Nepřebírá validovaný ani proprietární nástroj, nediagnostikuje osobnost či schopnosti, nepředpovídá výkon, neshromažďuje odpovědi ani nerozhoduje o přístupu k žádné příležitosti. Kontext, sázky a role v týmu mohou změnit nejlepší první krok člověka."}
+  },
+  "dimensions": [
+    {
+      "id": "clarify",
+      "label": {"en": "Clarify the question", "cs": "Vyjasnit otázku"},
+      "why": {"en": "You often reduce fog by defining the outcome, boundary or decision before proposing an answer.", "cs": "Nejasnost často zmenšujete tím, že před návrhem odpovědi určíte výsledek, hranici nebo rozhodnutí."},
+      "action": {"en": "Write one sentence naming the decision, who makes it and what would count as better.", "cs": "Napište jednu větu, která pojmenuje rozhodnutí, kdo je činí a co by znamenalo zlepšení."}
+    },
+    {
+      "id": "map",
+      "label": {"en": "Map the system", "cs": "Zmapovat systém"},
+      "why": {"en": "You often look for dependencies, flows and constraints that make a local symptom recur.", "cs": "Často hledáte závislosti, toky a omezení, kvůli nimž se místní příznak opakuje."},
+      "action": {"en": "Draw the smallest useful map: five nodes, the links between them and one uncertain dependency.", "cs": "Nakreslete nejmenší užitečnou mapu: pět bodů, vazby mezi nimi a jednu nejistou závislost."}
+    },
+    {
+      "id": "listen",
+      "label": {"en": "Listen to experience", "cs": "Naslouchat zkušenosti"},
+      "why": {"en": "You often test assumptions by asking the people who encounter the problem in real conditions.", "cs": "Často ověřujete předpoklady dotazováním lidí, kteří se s problémem setkávají v reálných podmínkách."},
+      "action": {"en": "Ask two affected people for a recent example, then note where their experiences diverge.", "cs": "Požádejte dva dotčené lidi o nedávný příklad a poznamenejte si, kde se jejich zkušenosti rozcházejí."}
+    },
+    {
+      "id": "test",
+      "label": {"en": "Run a small test", "cs": "Provést malý test"},
+      "why": {"en": "You often prefer a reversible trial that produces evidence faster than another round of opinion.", "cs": "Často dáváte přednost vratnému pokusu, který vytvoří důkazy rychleji než další kolo názorů."},
+      "action": {"en": "Define one low-risk trial, one observable result and a stop condition before you begin.", "cs": "Před začátkem určete jeden nízkorizikový pokus, jeden pozorovatelný výsledek a podmínku ukončení."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "project-stalled",
+      "text": {"en": "A project has stalled and everyone says the goal is obvious. What do you do first?", "cs": "Projekt se zastavil a všichni tvrdí, že cíl je jasný. Co uděláte nejdřív?"},
+      "options": [
+        {"label": {"en": "Ask each person to state the decision and success condition in one sentence", "cs": "Požádám každého, aby jednou větou uvedl rozhodnutí a podmínku úspěchu"}, "scores": {"clarify": 3, "map": 1, "listen": 0, "test": 0}},
+        {"label": {"en": "Sketch the handoffs, dependencies and blocked inputs", "cs": "Načrtnu předávky, závislosti a zablokované vstupy"}, "scores": {"clarify": 1, "map": 3, "listen": 0, "test": 0}},
+        {"label": {"en": "Ask the people doing the work where progress last became difficult", "cs": "Zeptám se lidí, kteří práci dělají, kde se postup naposledy zkomplikoval"}, "scores": {"clarify": 0, "map": 1, "listen": 3, "test": 0}},
+        {"label": {"en": "Choose one blocked step and try a reversible workaround for a day", "cs": "Vyberu jeden zablokovaný krok a na den zkusím vratné náhradní řešení"}, "scores": {"clarify": 0, "map": 1, "listen": 0, "test": 3}}
+      ]
+    },
+    {
+      "id": "conflicting-complaints",
+      "text": {"en": "Customers describe the same service as both too slow and too rushed. Your first move is to…", "cs": "Zákazníci popisují tutéž službu jako příliš pomalou i příliš uspěchanou. Váš první krok je…"},
+      "options": [
+        {"label": {"en": "Separate waiting time from time spent in the interaction", "cs": "Oddělím dobu čekání od času stráveného samotnou interakcí"}, "scores": {"clarify": 3, "map": 1, "listen": 0, "test": 0}},
+        {"label": {"en": "Map the journey and mark where queues and handoffs occur", "cs": "Zmapuji cestu a vyznačím, kde vznikají fronty a předávky"}, "scores": {"clarify": 1, "map": 3, "listen": 0, "test": 0}},
+        {"label": {"en": "Ask people for one recent example of each feeling", "cs": "Požádám lidi o jeden nedávný příklad každého z těchto pocitů"}, "scores": {"clarify": 0, "map": 1, "listen": 3, "test": 0}},
+        {"label": {"en": "Pilot one appointment slot with a different pacing rule", "cs": "Vyzkouším jeden termín s jiným pravidlem tempa"}, "scores": {"clarify": 0, "map": 0, "listen": 1, "test": 3}}
+      ]
+    },
+    {
+      "id": "new-tool",
+      "text": {"en": "A team wants a new tool because the current process feels chaotic. What comes first?", "cs": "Tým chce nový nástroj, protože současný proces působí chaoticky. Co přijde jako první?"},
+      "options": [
+        {"label": {"en": "Define which problem the tool must solve and what it must not add", "cs": "Určím, který problém má nástroj řešit a co nesmí přidat"}, "scores": {"clarify": 3, "map": 1, "listen": 0, "test": 0}},
+        {"label": {"en": "Trace information from its source to every place it is copied", "cs": "Vysleduji informaci od zdroje ke každému místu, kam se kopíruje"}, "scores": {"clarify": 0, "map": 3, "listen": 1, "test": 0}},
+        {"label": {"en": "Observe two people complete the current process", "cs": "Pozoruji dva lidi při dokončení současného procesu"}, "scores": {"clarify": 0, "map": 1, "listen": 3, "test": 0}},
+        {"label": {"en": "Use a sandbox to try the smallest representative task", "cs": "V testovacím prostředí zkusím nejmenší reprezentativní úkol"}, "scores": {"clarify": 1, "map": 0, "listen": 0, "test": 3}}
+      ]
+    },
+    {
+      "id": "repeated-error",
+      "text": {"en": "The same error has appeared three times in different files. Your instinct is to…", "cs": "Stejná chyba se objevila třikrát v různých souborech. Vaším prvním instinktem je…"},
+      "options": [
+        {"label": {"en": "Define exactly what counts as the error and its consequence", "cs": "Přesně určím, co se počítá jako chyba a jaký má důsledek"}, "scores": {"clarify": 3, "map": 1, "listen": 0, "test": 0}},
+        {"label": {"en": "Find the common source, transformation and review path", "cs": "Najdu společný zdroj, transformaci a cestu kontroly"}, "scores": {"clarify": 0, "map": 3, "listen": 0, "test": 1}},
+        {"label": {"en": "Ask the editors what they saw and what cues were missing", "cs": "Zeptám se editorů, co viděli a jaké vodítko jim chybělo"}, "scores": {"clarify": 0, "map": 1, "listen": 3, "test": 0}},
+        {"label": {"en": "Add one temporary check and see which cases it catches", "cs": "Přidám jednu dočasnou kontrolu a sleduji, které případy zachytí"}, "scores": {"clarify": 0, "map": 1, "listen": 0, "test": 3}}
+      ]
+    },
+    {
+      "id": "meeting-disagreement",
+      "text": {"en": "A meeting is stuck between two confident explanations. What do you reach for?", "cs": "Porada uvízla mezi dvěma sebejistými vysvětleními. Po čem sáhnete?"},
+      "options": [
+        {"label": {"en": "Write the precise claim on which the explanations differ", "cs": "Zapíšu přesné tvrzení, ve kterém se vysvětlení liší"}, "scores": {"clarify": 3, "map": 0, "listen": 1, "test": 0}},
+        {"label": {"en": "Draw the causal chain assumed by each explanation", "cs": "Nakreslím řetězec příčin, který každé vysvětlení předpokládá"}, "scores": {"clarify": 1, "map": 3, "listen": 0, "test": 0}},
+        {"label": {"en": "Ask each person what observation would change their mind", "cs": "Zeptám se každého, jaké pozorování by změnilo jeho názor"}, "scores": {"clarify": 1, "map": 0, "listen": 3, "test": 0}},
+        {"label": {"en": "Find a safe case where the explanations predict different outcomes", "cs": "Najdu bezpečný případ, v němž vysvětlení předpovídají odlišné výsledky"}, "scores": {"clarify": 1, "map": 0, "listen": 0, "test": 3}}
+      ]
+    },
+    {
+      "id": "slow-process",
+      "text": {"en": "A process takes twice as long as expected, but nobody agrees why. You first…", "cs": "Proces trvá dvakrát déle, než se čekalo, ale nikdo se neshodne proč. Nejprve…"},
+      "options": [
+        {"label": {"en": "Agree on the start, finish and which kind of time is being measured", "cs": "Shodnu začátek, konec a druh měřeného času"}, "scores": {"clarify": 3, "map": 1, "listen": 0, "test": 0}},
+        {"label": {"en": "Map active work, waiting, rework and approvals", "cs": "Zmapuji aktivní práci, čekání, přepracování a schválení"}, "scores": {"clarify": 0, "map": 3, "listen": 0, "test": 1}},
+        {"label": {"en": "Shadow a person through one complete case", "cs": "Doprovodím člověka jedním úplným případem"}, "scores": {"clarify": 0, "map": 1, "listen": 3, "test": 0}},
+        {"label": {"en": "Remove one low-risk approval for a small batch and measure the result", "cs": "U malé dávky odstraním jedno nízkorizikové schválení a změřím výsledek"}, "scores": {"clarify": 0, "map": 1, "listen": 0, "test": 3}}
+      ]
+    },
+    {
+      "id": "choose-measure",
+      "text": {"en": "A change sounds promising, but the team cannot agree how to judge it. What is your first move?", "cs": "Změna zní slibně, ale tým se neshodne, jak ji posoudit. Jaký je váš první krok?"},
+      "options": [
+        {"label": {"en": "Ask what decision the measure must support", "cs": "Zeptám se, jaké rozhodnutí má měřítko podpořit"}, "scores": {"clarify": 3, "map": 1, "listen": 0, "test": 0}},
+        {"label": {"en": "Map intended benefits, side effects and delayed consequences", "cs": "Zmapuji zamýšlené přínosy, vedlejší účinky a opožděné důsledky"}, "scores": {"clarify": 0, "map": 3, "listen": 1, "test": 0}},
+        {"label": {"en": "Ask affected people what improvement would be observable to them", "cs": "Zeptám se dotčených lidí, jaké zlepšení by pro ně bylo pozorovatelné"}, "scores": {"clarify": 1, "map": 0, "listen": 3, "test": 0}},
+        {"label": {"en": "Run a short baseline and see which proposed measure is stable enough to use", "cs": "Provedu krátké výchozí měření a zjistím, které navržené měřítko je dost stabilní"}, "scores": {"clarify": 0, "map": 0, "listen": 1, "test": 3}}
+      ]
+    },
+    {
+      "id": "failed-attempt",
+      "text": {"en": "A sensible first attempt failed. Before proposing the next one, you are most likely to…", "cs": "Rozumný první pokus selhal. Než navrhnete další, nejspíš…"},
+      "options": [
+        {"label": {"en": "Restate the original assumption and what the result ruled out", "cs": "Znovu pojmenuji původní předpoklad a co výsledek vyloučil"}, "scores": {"clarify": 3, "map": 0, "listen": 0, "test": 1}},
+        {"label": {"en": "Locate where the attempt interacted with the wider system", "cs": "Najdu místo, kde pokus vstoupil do interakce s širším systémem"}, "scores": {"clarify": 0, "map": 3, "listen": 1, "test": 0}},
+        {"label": {"en": "Ask participants what differed from the plan in practice", "cs": "Zeptám se účastníků, co se v praxi lišilo od plánu"}, "scores": {"clarify": 0, "map": 1, "listen": 3, "test": 0}},
+        {"label": {"en": "Change one variable and run a smaller follow-up", "cs": "Změním jednu proměnnou a provedu menší navazující pokus"}, "scores": {"clarify": 1, "map": 0, "listen": 0, "test": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "clarify": {
+      "title": {"en": "You often begin by clarifying the question", "cs": "Často začínáte vyjasněním otázky"},
+      "summary": {"en": "You tend to make an ambiguous problem answerable by naming the decision, boundary and desired change. This is a current preference, not a fixed personality type.", "cs": "Máte sklon dělat nejasný problém zodpověditelným tím, že pojmenujete rozhodnutí, hranici a požadovanou změnu. Jde o současnou preferenci, ne pevný typ osobnosti."},
+      "strength": {"en": "A clear question prevents a team from solving different problems under one label.", "cs": "Jasná otázka brání týmu řešit pod jedním názvem různé problémy."},
+      "watch": {"en": "Definition can become delay if you demand perfect wording before looking at the system, people or evidence.", "cs": "Vymezování se může stát odkladem, pokud požadujete dokonalou formulaci dříve, než se podíváte na systém, lidi či důkazy."},
+      "action": {"en": "After writing the question, ask one affected person whether it describes their problem too.", "cs": "Po zapsání otázky se jednoho dotčeného člověka zeptejte, zda popisuje i jeho problém."}
+    },
+    "map": {
+      "title": {"en": "You often begin by mapping the system", "cs": "Často začínáte mapováním systému"},
+      "summary": {"en": "You tend to look beyond a local symptom toward flows, dependencies and constraints. This is a current preference, not a fixed personality type.", "cs": "Máte sklon dívat se za místní příznak na toky, závislosti a omezení. Jde o současnou preferenci, ne pevný typ osobnosti."},
+      "strength": {"en": "Mapping can reveal why an apparently simple fix moves the problem somewhere else.", "cs": "Mapování může odhalit, proč zdánlivě jednoduchá oprava přesune problém jinam."},
+      "watch": {"en": "A beautiful map can preserve untested assumptions and grow faster than its usefulness.", "cs": "Krásná mapa může uchovat neověřené předpoklady a růst rychleji než její užitečnost."},
+      "action": {"en": "Mark one uncertain link on the map and choose how you will observe or test it.", "cs": "Označte na mapě jednu nejistou vazbu a zvolte, jak ji budete pozorovat či testovat."}
+    },
+    "listen": {
+      "title": {"en": "You often begin by listening to experience", "cs": "Často začínáte nasloucháním zkušenosti"},
+      "summary": {"en": "You tend to examine a problem through recent examples from people who encounter it. This is a current preference, not a fixed personality type.", "cs": "Máte sklon zkoumat problém prostřednictvím nedávných příkladů lidí, kteří se s ním setkávají. Jde o současnou preferenci, ne pevný typ osobnosti."},
+      "strength": {"en": "Direct accounts expose constraints and workarounds that a process diagram can miss.", "cs": "Přímé výpovědi odhalují omezení a obcházení, která může procesní diagram přehlédnout."},
+      "watch": {"en": "The most available or confident voice may not represent quieter, excluded or infrequent users.", "cs": "Nejdostupnější či nejsebevědomější hlas nemusí představovat tišší, vyloučené nebo méně časté uživatele."},
+      "action": {"en": "Seek a contrasting case and separate what people observed from what they inferred.", "cs": "Vyhledejte protikladný případ a oddělte, co lidé pozorovali, od toho, co z toho vyvodili."}
+    },
+    "test": {
+      "title": {"en": "You often begin with a small test", "cs": "Často začínáte malým testem"},
+      "summary": {"en": "You tend to prefer a reversible trial that creates observable evidence. This is a current preference, not a fixed personality type.", "cs": "Máte sklon upřednostnit vratný pokus, který vytváří pozorovatelné důkazy. Jde o současnou preferenci, ne pevný typ osobnosti."},
+      "strength": {"en": "A bounded experiment can turn disagreement into learning before a large commitment is made.", "cs": "Ohraničený experiment může proměnit neshodu v učení před velkým závazkem."},
+      "watch": {"en": "Testing too soon can optimise the wrong outcome or expose people to risks that were never defined.", "cs": "Příliš časné testování může optimalizovat nesprávný výsledek nebo vystavit lidi rizikům, která nebyla určena."},
+      "action": {"en": "Before the next trial, state the user need, success signal and stop condition aloud.", "cs": "Před dalším pokusem nahlas uveďte potřebu uživatele, signál úspěchu a podmínku ukončení."}
+    }
+  },
+  "sources": [
+    {"name": "Stanford d.school — Get Started With Design", "url": "https://dschool.stanford.edu/innovate/tools/get-started-with-design", "published": "", "type": "public design-practice guidance; dimensions adapted into an original self-check, no instrument items reproduced"},
+    {"name": "GOV.UK Service Manual — Learning about users and their needs", "url": "https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs", "published": "2017-03-23", "type": "open government guidance on user research and evidence; original scenarios, no instrument reproduced"},
+    {"name": "NASA — Systems Engineering Handbook", "url": "https://www.nasa.gov/reference/systems-engineering-handbook/", "published": "2017-02-17", "type": "public systems-engineering reference on requirements, interfaces and verification; no assessment items reproduced"},
+    {"name": "OECD — PISA 2012 Assessment and Analytical Framework: Problem Solving", "url": "https://www.oecd.org/en/publications/pisa-2012-assessment-and-analytical-framework_9789264190511-en.html", "published": "2013-02-21", "type": "public conceptual framework consulted for problem-solving stages; no proprietary questions or scoring reproduced"}
+  ]
+}
