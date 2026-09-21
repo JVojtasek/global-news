@@ -1,6 +1,101 @@
 {
  "threads": [
   {
+   "id": "7e11cd37d504",
+   "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+   "section": "world",
+   "entities": [
+    "chancellor",
+    "friedrich",
+    "merz",
+    "europe",
+    "far-right",
+    "german",
+    "saxony-anhalt"
+   ],
+   "event_ids": [
+    "7e11cd37d504",
+    "a2c3207877cb",
+    "d7b9a3ee9aa8",
+    "67c6b8fed5cc",
+    "07d55433e254",
+    "8d740bd47cf6"
+   ],
+   "first_seen": "2026-09-06",
+   "last_seen": "2026-09-21",
+   "timeline": [
+    {
+     "date": "2026-09-06",
+     "headline": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7e11cd37d504",
+     "links": [
+      "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
+      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+     "sources": 3,
+     "score": 52,
+     "event_id": "a2c3207877cb",
+     "links": [
+      "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
+      "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Far-right AfD celebrate ‘dream result’ in key German state as Merz reportedly holds crisis talks – Europe live",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d7b9a3ee9aa8",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
+      "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Far-right AfD landslide in German state piles pressure on federal government",
+     "sources": 2,
+     "score": 44,
+     "event_id": "67c6b8fed5cc",
+     "links": [
+      "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+      "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
+      "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "German elections under way which could decide fate of Chancellor Merz",
+     "sources": 2,
+     "score": 43,
+     "event_id": "07d55433e254",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20260920-germans-vote-in-elections-threatening-fresh-blow-to-merz"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "German state elections deal a blow to Chancellor Friedrich Merz",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8d740bd47cf6",
+     "links": [
+      "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/afd-threatens-fresh-blow-to-merz-two-german-states-hold-key-vote"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -2407,88 +2502,6 @@
       "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
       "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7e11cd37d504",
-   "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
-   "section": "world",
-   "entities": [
-    "merz",
-    "europe",
-    "german",
-    "saxony-anhalt",
-    "chancellor",
-    "far-right"
-   ],
-   "event_ids": [
-    "7e11cd37d504",
-    "a2c3207877cb",
-    "d7b9a3ee9aa8",
-    "67c6b8fed5cc",
-    "07d55433e254"
-   ],
-   "first_seen": "2026-09-06",
-   "last_seen": "2026-09-20",
-   "timeline": [
-    {
-     "date": "2026-09-06",
-     "headline": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7e11cd37d504",
-     "links": [
-      "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
-      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-takes-huge-lead-in-key-vote-early-results-suggest"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
-     "sources": 3,
-     "score": 52,
-     "event_id": "a2c3207877cb",
-     "links": [
-      "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/europe/20260906-germany-s-far-right-afd-eyes-historic-state-victory-in-saxony-anhalt-election",
-      "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Far-right AfD celebrate ‘dream result’ in key German state as Merz reportedly holds crisis talks – Europe live",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d7b9a3ee9aa8",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
-      "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Far-right AfD landslide in German state piles pressure on federal government",
-     "sources": 2,
-     "score": 44,
-     "event_id": "67c6b8fed5cc",
-     "links": [
-      "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-      "https://www.france24.com/en/tv-shows/press-review/20260907-jubilation-and-pain-german-far-right-marches-to-victory-in-key-state-election",
-      "https://www.france24.com/en/video/20260907-far-right-afd-wins-crushing-victory-in-german-state-election"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "German elections under way which could decide fate of Chancellor Merz",
-     "sources": 2,
-     "score": 43,
-     "event_id": "07d55433e254",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/europe/20260920-germans-vote-in-elections-threatening-fresh-blow-to-merz"
      ]
     }
    ]
@@ -10247,5 +10260,5 @@
    ]
   }
  ],
- "updated": "2026-09-20T21:23:02+00:00"
+ "updated": "2026-09-21T01:03:52+00:00"
 }

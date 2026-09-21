@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-20
+# ZADÁNÍ PRO REDAKCI — 2026-09-21
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -109,12 +109,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### space telescope
-- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### toddler tantrums
+- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
+  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
+  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
 
 ---
 
