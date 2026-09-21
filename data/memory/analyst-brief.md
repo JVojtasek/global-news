@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-21
 
-Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -65,9 +65,8 @@ Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 42 dní · 32 záznamů
+- rubrika `world` · sledováno 43 dní · 33 záznamů
 - časová osa:
-  - **2026-09-15** (2 zdrojů) Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline
   - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
   - **2026-09-17** (2 zdrojů) Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths
   - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
@@ -77,6 +76,7 @@ Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-19** (2 zdrojů) Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
   - **2026-09-20** (2 zdrojů) Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
   - **2026-09-20** (2 zdrojů) Saudi Arabia says Houthis tried to attack its capital
+  - **2026-09-21** (3 zdrojů) Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
