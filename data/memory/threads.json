@@ -5,46 +5,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "labour",
-    "israeli",
-    "canada",
-    "wednesday",
-    "france",
-    "dolly",
-    "trump",
-    "york",
-    "american",
-    "bank",
-    "gitai",
-    "uk's",
-    "many",
-    "ben-gvir",
-    "germany",
-    "week",
-    "france-canada",
-    "burnham",
-    "authority",
-    "multiple",
-    "former",
-    "us-led",
-    "palestinian",
-    "italy",
-    "city",
-    "inside",
-    "hind",
-    "news",
-    "miklosko",
-    "hamas",
-    "rajab",
-    "west",
     "palestinians",
-    "gaza",
-    "christian",
-    "dutch",
+    "founders",
+    "gitai",
+    "times",
+    "every",
+    "uk's",
+    "macron",
+    "many",
+    "public",
+    "news",
+    "us-led",
+    "american",
+    "years",
+    "city",
+    "former",
+    "bank",
+    "rajab",
+    "dolly",
+    "greenland",
+    "pledged",
+    "authority",
+    "cover",
+    "france",
+    "continues",
+    "york",
+    "israeli",
+    "inside",
+    "germany",
+    "miklosko",
     "israel",
+    "dutch",
+    "west",
+    "hamas",
     "amos",
-    "jenin",
-    "macron"
+    "italy",
+    "hind",
+    "multiple",
+    "importance",
+    "burnham",
+    "jenin"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -89,7 +89,9 @@
     "add4eeadf14c",
     "00ad11519a0d",
     "d662c152c195",
-    "094f1c8c1554"
+    "094f1c8c1554",
+    "3844ef176c21",
+    "baa979ecc134"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-21",
@@ -577,6 +579,27 @@
       "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly",
       "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
      ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+     "sources": 2,
+     "score": 46,
+     "event_id": "3844ef176c21",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'",
+     "sources": 1,
+     "score": 44,
+     "event_id": "baa979ecc134",
+     "links": [
+      "https://www.smithsonianmag.com/history/the-founders-of-the-new-york-times-pledged-to-cover-every-subject-of-public-importance-175-years-later-the-paper-continues-to-publish-all-the-news-thats-fit-to-print-180989512/"
+     ]
     }
    ]
   },
@@ -586,12 +609,12 @@
    "section": "world",
    "entities": [
     "chancellor",
-    "friedrich",
-    "merz",
-    "europe",
     "far-right",
+    "saxony-anhalt",
+    "merz",
     "german",
-    "saxony-anhalt"
+    "friedrich",
+    "europe"
    ],
    "event_ids": [
     "7e11cd37d504",
@@ -599,7 +622,8 @@
     "d7b9a3ee9aa8",
     "67c6b8fed5cc",
     "07d55433e254",
-    "8d740bd47cf6"
+    "8d740bd47cf6",
+    "ab93d16ddbaa"
    ],
    "first_seen": "2026-09-06",
    "last_seen": "2026-09-21",
@@ -671,6 +695,17 @@
      "links": [
       "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/afd-threatens-fresh-blow-to-merz-two-german-states-hold-key-vote"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Merz insists he will stay as German chancellor despite heavy losses in state elections – Europe live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ab93d16ddbaa",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
+      "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz"
      ]
     }
    ]
@@ -10284,5 +10319,5 @@
    ]
   }
  ],
- "updated": "2026-09-21T06:51:38+00:00"
+ "updated": "2026-09-21T09:34:30+00:00"
 }

@@ -51,10 +51,8 @@ Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 39 dní · 43 záznamů
+- rubrika `world` · sledováno 39 dní · 45 záznamů
 - časová osa:
-  - **2026-09-09** (2 zdrojů) Where is Israel's proposed West Bank settlement the UK opposes?
-  - **2026-09-09** (2 zdrojů) Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements
   - **2026-09-10** (2 zdrojů) Muted US response to UK's West Bank sanctions may reflect simmering frustration
   - **2026-09-14** (2 zdrojů) Former West Ham keeper Miklosko dies aged 64
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
@@ -63,6 +61,8 @@ Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-20** (2 zdrojů) France’s Macron and Canada’s Carney announce plans to build stronger ties
   - **2026-09-21** (2 zdrojů) Macron and Carney announce closer France-Canada ties amid Trump tensions
   - **2026-09-21** (2 zdrojů) Trump to meet Macron in New York before UN General Assembly
+  - **2026-09-21** (2 zdrojů) Burnham hails Greenland deal ahead of expected first Trump meeting
+  - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 42 dní · 32 záznamů
