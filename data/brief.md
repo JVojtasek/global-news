@@ -65,7 +65,32 @@
     <https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house>
     > US President Donald Trump on Friday said he would ban media outlets CNN, MSNOW and Politico from the White House over what he described as unfavourable coverage in his latest test of the US Constitution's First Amendment protection of press freedom.
 
-### 3. Journalists denied White House access after Trump banned some media outlets
+### 3. Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
+- id události: `5c613a75961a`  ·  rubrika: `business`  ·  skóre: 80  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Business** — Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
+    <https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss>
+    > Paramount has reached a settlement with the US states in a lawsuit challenging its $110bn merger with Warner Bros
+  - **Guardian Business** — Paramount settles lawsuits with 12 US states, clearing way for Warner merger
+    <https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger>
+    > States including California and New York sued over concerns of ‘extinguishing competition’ with $81bn merger Paramount has reached a settlement with California and several other states that sued over a proposed $81bn merger with Warner Bros Discovery ( WBD ), the California attor
+  - **NPR News** — Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal
+    <https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit>
+    > Paramount's owners have made concessions to 12 Democratic state attorneys general to settle a lawsuit that endangered the media company's bid for its larger Hollywood rival, Warner Bros. Discovery.
+  - **Ars Technica** — California settles lawsuit against Paramount/Warner merger, angering advocates
+    <https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/>
+    > State AGs had "very strong" case that merger is illegal, Lina Khan says.
+  - **Al Jazeera** — Paramount settles with US states in step towards merger with Warner Bros
+    <https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss>
+    > Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30.
+  - **The Verge** — Paramount settles lawsuit blocking $110 billion Warner Bros. merger
+    <https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement>
+    > Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consen
+  - **Investing.com** — Paramount settles with states over Warner Bros Discovery deal
+    <https://www.investing.com/news/stock-market-news/paramount-settles-with-states-over-warner-bros-discovery-deal-4909498>
+
+### 4. Journalists denied White House access after Trump banned some media outlets
 - id události: `d6f846915316`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -84,26 +109,6 @@
   - **France 24** — CNN, MS NOW, Politico reporters blocked from White House after Trump ban
     <https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban>
     > White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was banning the three media outlets for what he called "fake news" coverage. News organisations a
-
-### 4. Ronaldo named in first Portugal squad since World Cup - at age of 41
-- id události: `bd5d0f2f7796`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Ronaldo named in first Portugal squad since World Cup - at age of 41
-    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
-    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
-  - **BBC Sport** — Wilson major Wales injury concern for Nations League
-    <https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss>
-    > Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations League campaign because of a leg muscle injury.
-  - **BBC Sport** — Ronaldo named in Jesus' first Portugal squad
-    <https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss>
-    > Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.
-  - **France 24** — Watch live: France's new head coach Zidane unveils his first team line-up for Nations League matches
-    <https://www.france24.com/en/sport/20260918-france-new-head-coach-zidane-unveils-his-first-team-line-up-for-nations-league-matches-live>
-    > Newly appointed head coach of France's national football team Zinedine Zidane unveils his first line-up on Friday. Follow our live coverage of the announcement from 6pm Paris time.
-  - **Al Jazeera** — Ronaldo keeps Portugal place for Nations League as Jesus names first squad
-    <https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss>
-    > Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
 
 ---
 

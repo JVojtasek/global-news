@@ -1617,6 +1617,47 @@
    ]
   },
   {
+   "id": "5c613a75961a",
+   "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+   "section": "business",
+   "entities": [
+    "paramount",
+    "bros",
+    "warner"
+   ],
+   "event_ids": [
+    "5c613a75961a",
+    "cbc0576d2a34"
+   ],
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-21",
+   "timeline": [
+    {
+     "date": "2026-09-21",
+     "headline": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+     "sources": 7,
+     "score": 80,
+     "event_id": "5c613a75961a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
+      "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "cbc0576d2a34",
+     "links": [
+      "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+      "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -10386,5 +10427,5 @@
    ]
   }
  ],
- "updated": "2026-09-21T15:25:08+00:00"
+ "updated": "2026-09-21T18:31:12+00:00"
 }
