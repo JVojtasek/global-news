@@ -37,35 +37,7 @@
   - **France 24** — 🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly
     <https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly>
 
-### 2. Trump says he is banning CNN and Politico from White House
-- id události: `d966c1faf1fe`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Trump says he is banning CNN and Politico from White House
-    <https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss>
-    > The US president has had a tense and fiery relationship with the US media throughout his political career.
-  - **DW News** — Trump bars CNN, MS NOW and Politico from White House
-    <https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf>
-    > US President Donald Trump has accused CNN, MS NOW and Politico of spreading fake news.
-  - **NPR News** — Trump says he is banning CNN, MS NOW and Politico from the White House
-    <https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media>
-    > The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.
-  - **BBC Entertainment** — Zara Larsson criticises White House for using her song in deportation video
-    <https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss>
-    > The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip "dehumanising".
-  - **CNBC Top** — Trump says he's banning MS NOW, CNN and Politico from White House
-    <https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html>
-    > Trump, who often accuses mainstream media outlets of writing "fake news," said on Truth Social that those outlets shouldn't be allowed to "FICTION and LIES."
-  - **Al Jazeera** — Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’
-    <https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss>
-    > The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access.
-  - **France 24** — Trump bans media outlets CNN, MSNOW, Politico from White House
-    <https://www.france24.com/en/live-news/20260918-trump-bans-media-outlets-cnn-msnow-politico-from-white-house>
-  - **France 24** — Trump bans media outlets CNN, MSNOW and Politico from the White House
-    <https://www.france24.com/en/americas/20260918-trump-bans-media-outlets-cnn-msnow-and-politico-from-white-house>
-    > US President Donald Trump on Friday said he would ban media outlets CNN, MSNOW and Politico from the White House over what he described as unfavourable coverage in his latest test of the US Constitution's First Amendment protection of press freedom.
-
-### 3. Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
+### 2. Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
 - id události: `5c613a75961a`  ·  rubrika: `business`  ·  skóre: 80  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -90,7 +62,7 @@
   - **Investing.com** — Paramount settles with states over Warner Bros Discovery deal
     <https://www.investing.com/news/stock-market-news/paramount-settles-with-states-over-warner-bros-discovery-deal-4909498>
 
-### 4. Journalists denied White House access after Trump banned some media outlets
+### 3. Journalists denied White House access after Trump banned some media outlets
 - id události: `d6f846915316`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -109,6 +81,26 @@
   - **France 24** — CNN, MS NOW, Politico reporters blocked from White House after Trump ban
     <https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban>
     > White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was banning the three media outlets for what he called "fake news" coverage. News organisations a
+
+### 4. 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+- id události: `ba630c69b7ba`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+    <https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss>
+    > Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.
+  - **Guardian Sport** — Arsenal v Manchester United: Women’s Super League – live
+    <https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live>
+    > ⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball 
+  - **Al Jazeera** — Brighton beat Arsenal 3-0 as Man City top Premier League without playing
+    <https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss>
+    > Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.
+  - **Guardian Sport** — Brighton demolish champions Arsenal 3-0 to mark anniversary in style
+    <https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report>
+    > So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion w
+  - **Guardian Sport** — Tottenham 2-3 Aston Villa: Premier League – as it happened
+    <https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live>
+    > Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...
 
 ---
 
