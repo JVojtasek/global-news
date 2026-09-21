@@ -1,14 +1,16 @@
 ---
 slug: oconnors-99-0-confirmation-was-a-threshold
 title: Sandra Day O’Connor’s 99–0 Confirmation Was a Threshold, Not an Ending
-dek: Forty-five years ago, the Senate unanimously confirmed the first woman to the US Supreme Court. The clean vote conceals the barriers before it—and the long work after it.
+dek: Forty-five years ago, the Senate unanimously confirmed the first woman to the
+  US Supreme Court. The clean vote conceals the barriers before it—and the long work
+  after it.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-09-21'
-status: draft
-confidence: 96
+status: review
+confidence: 95
 load: 0
 topics:
 - Sandra Day O’Connor
@@ -21,12 +23,15 @@ generator: chatgpt-work
 format: wider-lens
 event_id: 1981-09-21-oconnor-senate-confirmation
 series: ''
-image_query: empty Supreme Court chair crossing a threshold into balanced scales, archival 1981 mood, conceptual illustration, no text
+image_query: empty Supreme Court chair crossing a threshold into balanced scales,
+  archival 1981 mood, conceptual illustration, no text
 sources:
-- name: Ronald Reagan Presidential Library — Remarks announcing the intended nomination of Sandra Day O’Connor
+- name: Ronald Reagan Presidential Library — Remarks announcing the intended nomination
+    of Sandra Day O’Connor
   url: https://www.reaganlibrary.gov/archives/speech/remarks-announcing-intention-nominate-sandra-day-oconnor-be-associate-justice
   published: '1981-07-07'
-- name: GovInfo — Nomination of Judge Sandra Day O’Connor, Senate Judiciary Committee hearing record
+- name: GovInfo — Nomination of Judge Sandra Day O’Connor, Senate Judiciary Committee
+    hearing record
   url: https://www.govinfo.gov/app/details/GPO-CHRG-OCONNOR
   published: '1981-09-01'
 - name: Federal Judicial Center — Sandra Day O’Connor
@@ -50,7 +55,9 @@ quiz:
   - The Senate confirmed her by a vote of 99–0
   - She took the Supreme Court oath and began service
   answer: 1
-  explanation: Reagan announced his choice on July 7, the Senate confirmed O’Connor 99–0 on September 21, and she took the Supreme Court oath on September 25, 1981.
+  explanation: Reagan announced his choice on July 7, the Senate confirmed O’Connor
+    99–0 on September 21, and she took the Supreme Court oath on September 25, 1981.
+review_reason: 'citlivé téma: election'
 ---
 
 ## BRIEFLY

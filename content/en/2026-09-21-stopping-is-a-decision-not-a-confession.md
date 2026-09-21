@@ -1,14 +1,16 @@
 ---
 slug: stopping-is-a-decision-not-a-confession
 title: Stopping Is a Decision, Not a Confession
-dek: Past effort can explain why a choice matters without deciding what deserves the next hour, euro or year. A forward-looking review makes stopping less like a verdict on the person who began.
+dek: Past effort can explain why a choice matters without deciding what deserves the
+  next hour, euro or year. A forward-looking review makes stopping less like a verdict
+  on the person who began.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-09-21'
-status: draft
-confidence: 92
+status: review
+confidence: 83
 load: 0
 topics:
 - sunk cost
@@ -21,27 +23,34 @@ generator: chatgpt-work
 format: wider-lens
 event_id: evergreen-sunk-cost-goal-adjustment
 series: ''
-image_query: unfinished bridge becoming a new path, abandoned materials reused, conceptual decision point, no text
+image_query: unfinished bridge becoming a new path, abandoned materials reused, conceptual
+  decision point, no text
 sources:
 - name: Arkes and Blumer — The Psychology of Sunk Cost
   url: https://www.sciencedirect.com/science/article/pii/0749597885900494
   published: '1985-01-01'
-- name: Personality and Social Psychology Bulletin — Adaptive Self-Regulation of Unattainable Goals
+- name: Personality and Social Psychology Bulletin — Adaptive Self-Regulation of Unattainable
+    Goals
   url: https://journals.sagepub.com/doi/10.1177/0146167203256921
   published: '2003-12-01'
-- name: Personality and Social Psychology Bulletin — Giving Up on Unattainable Goals, Benefits for Health?
+- name: Personality and Social Psychology Bulletin — Giving Up on Unattainable Goals,
+    Benefits for Health?
   url: https://journals.sagepub.com/doi/10.1177/0146167206294905
   published: '2007-02-01'
 qma_path: ''
 tickers: []
 quiz:
-  question: When deciding whether to continue a project, which fact should usually carry the least weight by itself?
+  question: When deciding whether to continue a project, which fact should usually
+    carry the least weight by itself?
   options:
   - The time and money already spent that cannot be recovered
   - New evidence that the project can reach its purpose
   - The likely costs and benefits of the next stage
   answer: 0
-  explanation: Irrecoverable past investment is a sunk cost. It may explain the project's history, but the forward decision should turn on present alternatives, new evidence and future consequences.
+  explanation: Irrecoverable past investment is a sunk cost. It may explain the project's
+    history, but the forward decision should turn on present alternatives, new evidence
+    and future consequences.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

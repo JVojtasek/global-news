@@ -1,14 +1,16 @@
 ---
 slug: cleaner-air-is-a-parenting-issue-larger-than-the-home
 title: Cleaner Air Is a Parenting Issue Larger Than the Home
-dek: A New York study links falling prenatal pollution exposure with improving toddler cognitive scores. The useful lesson is neither panic nor parental blame, but action at two scales.
+dek: A New York study links falling prenatal pollution exposure with improving toddler
+  cognitive scores. The useful lesson is neither panic nor parental blame, but action
+  at two scales.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-21'
-status: draft
-confidence: 93
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,12 +20,16 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual city-to-home air system, invisible particles moving past roads, trees and windows, clean air replacing pollution, no people, no text, editorial illustration
+image_query: conceptual city-to-home air system, invisible particles moving past roads,
+  trees and windows, clean air replacing pollution, no people, no text, editorial
+  illustration
 sources:
-- name: Environmental Health — Less air pollution linked to improved cognitive scores in NYC children
+- name: Environmental Health — Less air pollution linked to improved cognitive scores
+    in NYC children
   url: https://link.springer.com/article/10.1186/s12940-026-01328-1
   published: '2026-08-15'
-- name: The Guardian — Improved air quality linked to better mental development in toddlers
+- name: The Guardian — Improved air quality linked to better mental development in
+    toddlers
   url: https://www.theguardian.com/environment/2026/sep/18/improved-air-quality-pollution-mental-development-toddlers-new-york-study
   published: '2026-09-18'
 - name: AirNow — Air Quality Index basics
@@ -32,7 +38,8 @@ sources:
 - name: AirNow — Air quality and outdoor activity guidance for schools
   url: https://www.airnow.gov/publications/air-quality-flag-program-getting-started/air-quality-and-outdoor-activity-guidance-for-schools-flag-program/
   published: ''
-- name: US Environmental Protection Agency — Protect children from wildfires, smoke and volcanic ash
+- name: US Environmental Protection Agency — Protect children from wildfires, smoke
+    and volcanic ash
   url: https://www.epa.gov/children/protect-children-wildfires-smoke-and-volcanic-ash
   published: ''
 qma_path: ''
@@ -40,11 +47,14 @@ tickers: []
 quiz:
   question: What can the New York cohort study establish most securely?
   options:
-  - Lower prenatal pollution exposure and higher toddler cognitive scores occurred together across successive cohorts
+  - Lower prenatal pollution exposure and higher toddler cognitive scores occurred
+    together across successive cohorts
   - One named city policy caused a precise increase in every child's intelligence
   - Present-day air pollution levels are proven safe for children's development
   answer: 0
-  explanation: The observational study found declining exposures and improving scores, with inverse exposure-score associations after adjustment. It could not isolate one policy, eliminate every confounder or prove current levels safe.
+  explanation: The observational study found declining exposures and improving scores,
+    with inverse exposure-score associations after adjustment. It could not isolate
+    one policy, eliminate every confounder or prove current levels safe.
 review_reason: 'citlivé téma: children and prenatal health'
 ---
 
