@@ -1,13 +1,14 @@
 ---
 slug: a-bruise-is-a-cleanup-process-you-can-see
 title: A Bruise Is a Cleanup Process You Can See
-dek: The colours under the skin are not a perfect clock. They are traces of blood leaving damaged vessels and tissue gradually clearing the spill.
+dek: The colours under the skin are not a perfect clock. They are traces of blood
+  leaving damaged vessels and tissue gradually clearing the spill.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-21'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics:
@@ -44,7 +45,9 @@ quiz:
   - Blood outside small vessels being altered and cleared as tissue heals.
   - The skin creating new pigment to seal the injured area.
   answer: 1
-  explanation: A blow can break small vessels without opening the skin. Blood and its pigments then change as cells and enzymes process the spill, but depth, location, light and individual biology make colour an imprecise clock.
+  explanation: A blow can break small vessels without opening the skin. Blood and
+    its pigments then change as cells and enzymes process the spill, but depth, location,
+    light and individual biology make colour an imprecise clock.
 ---
 
 ## BRIEFLY

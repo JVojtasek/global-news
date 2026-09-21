@@ -1,14 +1,15 @@
 ---
 slug: studs-terkel-made-listening-a-public-record
 title: Studs Terkel Made Listening a Public Record
-dek: His questions mattered, but the archive exists because he let a reply wander past the expected answer and treated an ordinary voice as evidence.
+dek: His questions mattered, but the archive exists because he let a reply wander
+  past the expected answer and treated an ordinary voice as evidence.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-21'
-status: draft
-confidence: 95
+status: published
+confidence: 89
 load: 0
 topics:
 - Studs Terkel
@@ -44,7 +45,9 @@ quiz:
   - Asking questions, listening for the unexpected and preserving contrasting voices.
   - Treating every remembered detail as verified fact because it was recorded.
   answer: 1
-  explanation: Terkel's craft gave people room to speak in their own cadence. Oral testimony preserves experience and perspective, but it still requires context, editing transparency and corroboration for factual claims.
+  explanation: Terkel's craft gave people room to speak in their own cadence. Oral
+    testimony preserves experience and perspective, but it still requires context,
+    editing transparency and corroboration for factual claims.
 ---
 
 ## BRIEFLY

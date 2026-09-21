@@ -1,14 +1,15 @@
 ---
 slug: the-barcode-made-a-product-legible-to-a-system
 title: The Barcode Made a Product Legible to a System
-dek: The stripes did not merely speed up a till. They gave retailers and manufacturers a shared way to identify an item across companies.
+dek: The stripes did not merely speed up a till. They gave retailers and manufacturers
+  a shared way to identify an item across companies.
 section: business
 type: feature
 depth: open
 lang: en
 date: '2026-09-21'
 status: reserve
-confidence: 95
+confidence: 89
 load: 0
 topics:
 - barcodes
@@ -41,10 +42,13 @@ quiz:
   question: What made the UPC barcode economically powerful beyond faster scanning?
   options:
   - Each package carried its current price permanently inside the bars.
-  - A shared identifier let different firms connect the same item to their own data systems.
+  - A shared identifier let different firms connect the same item to their own data
+    systems.
   - The symbol eliminated the need for databases and standards organisations.
   answer: 1
-  explanation: A UPC primarily identifies a product. A retailer's system uses that identifier to retrieve price and other records. Its value depends on shared standards, accurate assignment and connected databases.
+  explanation: A UPC primarily identifies a product. A retailer's system uses that
+    identifier to retrieve price and other records. Its value depends on shared standards,
+    accurate assignment and connected databases.
 ---
 
 ## BRIEFLY
