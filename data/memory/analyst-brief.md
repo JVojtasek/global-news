@@ -51,9 +51,8 @@ Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 38 dní · 41 záznamů
+- rubrika `world` · sledováno 39 dní · 42 záznamů
 - časová osa:
-  - **2026-09-08** (7 zdrojů) In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers
   - **2026-09-08** (3 zdrojů) UK announces sanctions on West Bank settlements prompting furious Israeli response
   - **2026-09-09** (2 zdrojů) Where is Israel's proposed West Bank settlement the UK opposes?
   - **2026-09-09** (2 zdrojů) Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements
@@ -63,6 +62,7 @@ Paměť obsahuje **110 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-20** (2 zdrojů) An Israeli settler and a Palestinian driver killed in West Bank shootings
   - **2026-09-20** (2 zdrojů) Israeli president pardons combat medic who shot dead wounded Palestinian attacker
   - **2026-09-20** (2 zdrojů) France’s Macron and Canada’s Carney announce plans to build stronger ties
+  - **2026-09-21** (2 zdrojů) Macron and Carney announce closer France-Canada ties amid Trump tensions
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 42 dní · 32 záznamů
