@@ -5,46 +5,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "wednesday",
-    "authority",
     "labour",
-    "far-right",
-    "palestinian",
-    "burnham",
-    "canada",
-    "hind",
-    "city",
-    "former",
     "israeli",
-    "bank",
-    "gaza",
-    "trump",
-    "christian",
-    "hamas",
-    "many",
-    "american",
-    "gitai",
-    "dolly",
-    "jenin",
-    "us-led",
-    "italy",
-    "news",
+    "canada",
+    "wednesday",
     "france",
-    "dutch",
-    "rajab",
-    "germany",
-    "israel",
-    "ben-gvir",
-    "amos",
-    "week",
-    "west",
-    "france-canada",
+    "dolly",
+    "trump",
+    "york",
+    "american",
+    "bank",
+    "gitai",
     "uk's",
+    "many",
+    "ben-gvir",
+    "germany",
+    "week",
+    "france-canada",
+    "burnham",
+    "authority",
     "multiple",
-    "macron",
-    "palestinians",
+    "former",
+    "us-led",
+    "palestinian",
+    "italy",
+    "city",
+    "inside",
+    "hind",
+    "news",
     "miklosko",
-    "inside"
+    "hamas",
+    "rajab",
+    "west",
+    "palestinians",
+    "gaza",
+    "christian",
+    "dutch",
+    "israel",
+    "amos",
+    "jenin",
+    "macron"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -88,7 +88,8 @@
     "38cd7f7bd76a",
     "add4eeadf14c",
     "00ad11519a0d",
-    "d662c152c195"
+    "d662c152c195",
+    "094f1c8c1554"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-09-21",
@@ -564,6 +565,17 @@
      "links": [
       "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
       "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Trump to meet Macron in New York before UN General Assembly",
+     "sources": 2,
+     "score": 43,
+     "event_id": "094f1c8c1554",
+     "links": [
+      "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly",
+      "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
      ]
     }
    ]
@@ -10272,5 +10284,5 @@
    ]
   }
  ],
- "updated": "2026-09-21T03:33:07+00:00"
+ "updated": "2026-09-21T06:51:38+00:00"
 }

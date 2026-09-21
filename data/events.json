@@ -1379,108 +1379,6 @@
   ]
  },
  {
-  "id": "02a24cacedb1",
-  "headline": "South Korea will not send military to support US war on Iran, defying Trump pressure",
-  "section": "world",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T05:54:29+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
-    "url": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
-    "source": "The Guardian World",
-    "summary": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’ South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the military to the ⁠Middle East in a way ​that could draw the country into conflict, resisting calls from Donald Trump to support his war in Iran. “There won’t be deployment that would i",
-    "published_at": "2026-09-18T05:54:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
-    "url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
-    "published_at": "2026-09-18T05:23:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   }
-  ]
- },
- {
-  "id": "353cbcea301e",
-  "headline": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
-  "section": "business",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T06:20:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
-    "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
-    "source": "Guardian Business",
-    "summary": "Rolling coverage of the latest economic and financial news Despite the inflationary squeeze on households, retail sales across Great Britain have risen over the summer. The heatwave, a pick-up in web shopping, and the joys (and pain and disappointment !) of the men’s football World Cup, helped to lift spending over the three months to August, new data shows. “Retail sales increased in the latest t",
-    "published_at": "2026-09-18T06:20:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
-    "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
-    "published_at": "2026-09-18T03:20:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   }
-  ]
- },
- {
-  "id": "1e55db8feb2f",
-  "headline": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-  "section": "safety",
-  "score": 46,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-17T18:08:28+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-    "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-    "source": "The Hacker News",
-    "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw",
-    "published_at": "2026-09-17T18:08:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-    "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-    "source": "The Hacker News",
-    "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15. The escape runs with the rights of the host account that runs the virtual machine. The flaw, CVE-2026-77179, is rated Critical, affects versions",
-    "published_at": "2026-09-17T15:37:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-    "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-    "source": "The Hacker News",
-    "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
-    "published_at": "2026-09-14T17:58:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   }
-  ]
- },
- {
   "id": "63827be44619",
   "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
   "section": "world",
@@ -1956,37 +1854,6 @@
     "published_at": "2026-09-18T21:12:38+00:00",
     "source_countries": [],
     "seen_at": "2026-09-18T21:23:08+00:00"
-   }
-  ]
- },
- {
-  "id": "e8b1865124a1",
-  "headline": "Allen stars as Bills open new stadium in style",
-  "section": "sport",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T06:14:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Allen stars as Bills open new stadium in style",
-    "url": "https://www.bbc.co.uk/sport/american-football/articles/cjx2zlv5xz39o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "The Buffalo Bills open their new stadium in style with a 41-31 win over the Detroit Lions, as Josh Allen again impresses.",
-    "published_at": "2026-09-18T06:14:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions",
-    "url": "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football",
-    "source": "Guardian Sport",
-    "summary": "Detroit Lions 31-41 Buffalo Bills Bills QB throws three TDs and rushes for two Jared Goff excellent in defeat for Lions Josh Allen quickly put his stamp on the Buffalo Bills’ new stadium, which has been dubbed “The House that Allen built.” Allen threw three touchdown passes and ran for two scores, and the Bills beat the Detroit Lions 41-31 on Thursday night in the first regular-season game at High",
-    "published_at": "2026-09-18T03:55:51+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
    }
   ]
  },
@@ -2492,6 +2359,37 @@
     "published_at": "2026-09-20T14:56:15+00:00",
     "source_countries": [],
     "seen_at": "2026-09-21T01:03:49+00:00"
+   }
+  ]
+ },
+ {
+  "id": "094f1c8c1554",
+  "headline": "Trump to meet Macron in New York before UN General Assembly",
+  "section": "world",
+  "score": 43,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T06:36:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump to meet Macron in New York before UN General Assembly",
+    "url": "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly",
+    "source": "France 24",
+    "summary": "US President Donald Trump will meet with French President Emmanuel Macron on Monday in New York, where both leaders will be attending the United Nations General Assembly this week, the White House said.",
+    "published_at": "2026-09-21T06:36:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   },
+   {
+    "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+    "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+    "source": "CNBC Top",
+    "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+    "published_at": "2026-09-21T04:04:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
    }
   ]
  },
@@ -3603,37 +3501,6 @@
   ]
  },
  {
-  "id": "91e2b69b32d0",
-  "headline": "Former Labour deputy leader Tom Watson joins Palantir",
-  "section": "world",
-  "score": 39,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T06:00:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Former Labour deputy leader Tom Watson joins Palantir",
-    "url": "https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir",
-    "source": "The Guardian World",
-    "summary": "Peer takes full-time position at the controversial company as it fends off pressure from both Andy Burnham’s government and Sadiq Khan Another former government minister has been hired by a controversial US AI company, this time Palantir, which has appointed Andy Burnham’s former ministerial colleague Tom Watson. The Labour peer and former deputy leader will operate alongside Palantir’s UK and Eur",
-    "published_at": "2026-09-18T06:00:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "Former Labour deputy leader Tom Watson joins Palantir",
-    "url": "https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir",
-    "source": "Guardian Business",
-    "summary": "Peer takes full-time position at the controversial company as it fends off pressure from both Andy Burnham’s government and Sadiq Khan Another former government minister has been hired by a controversial US AI company, this time Palantir, which has appointed Andy Burnham’s former ministerial colleague Tom Watson. The Labour peer and former deputy leader will operate alongside Palantir’s UK and Eur",
-    "published_at": "2026-09-18T06:00:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   }
-  ]
- },
- {
   "id": "a635db626aaa",
   "headline": "Todd Boehly exits Chelsea diminished after having his fingers burned",
   "section": "business",
@@ -4081,37 +3948,6 @@
     "published_at": "2026-09-21T02:01:01+00:00",
     "source_countries": [],
     "seen_at": "2026-09-21T03:33:04+00:00"
-   }
-  ]
- },
- {
-  "id": "ee4b50622398",
-  "headline": "MPs urge ministers to break off Thames Water talks with US hedge funds",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T05:00:09+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "MPs urge ministers to break off Thames Water talks with US hedge funds",
-    "url": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
-    "source": "The Guardian World",
-    "summary": "Efra committee calls for emergency legislation enabling government to take public control of the company Andy Burnham is under further pressure to take control of ailing Thames Water from a cross-party group of MPs who are calling for ministers to break off talks with the US hedge funds who are effectively running the company. Adding their voices to demands that the prime minister takes public con",
-    "published_at": "2026-09-18T05:00:09+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "MPs urge ministers to break off Thames Water talks with US hedge funds",
-    "url": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
-    "source": "Guardian Business",
-    "summary": "Efra committee calls for emergency legislation enabling government to take public control of the company Andy Burnham is under further pressure to take control of ailing Thames Water from a cross-party group of MPs who are calling for ministers to break off talks with the US hedge funds who are effectively running the company. Adding their voices to demands that the prime minister takes public con",
-    "published_at": "2026-09-18T05:00:09+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
    }
   ]
  },
@@ -4651,6 +4487,68 @@
   ]
  },
  {
+  "id": "84eb801b1697",
+  "headline": "Only 160 apprenticeship starts in eight months on Labour’s flagship scheme",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:00:36+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Only 160 apprenticeship starts in eight months on Labour’s flagship scheme",
+    "url": "https://www.theguardian.com/education/2026/sep/21/apprenticeship-starts-labour-scheme-skills-revolution",
+    "source": "The Guardian World",
+    "summary": "Exclusive: Government warned ‘skills revolution’ at risk amid slow start to project with target of 30,000 starts by end of parliament Labour has been warned its “skills revolution” to tackle youth unemployment risks failure, after its flagship apprenticeship scheme enrolled only 160 young people in its first eight months. The shortfall, highlighted in a report by the Fabian Society, leaves the gov",
+    "published_at": "2026-09-21T04:00:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   },
+   {
+    "title": "Only 160 apprenticeship starts in eight months on Labour’s flagship scheme",
+    "url": "https://www.theguardian.com/education/2026/sep/21/apprenticeship-starts-labour-scheme-skills-revolution",
+    "source": "Guardian Business",
+    "summary": "Exclusive: Government warned ‘skills revolution’ at risk amid slow start to project with target of 30,000 starts by end of parliament Labour has been warned its “skills revolution” to tackle youth unemployment risks failure, after its flagship apprenticeship scheme enrolled only 160 young people in its first eight months. The shortfall, highlighted in a report by the Fabian Society, leaves the gov",
+    "published_at": "2026-09-21T04:00:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8819f84e0535",
+  "headline": "Which emergency foods should you stock up on?",
+  "section": "science",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T05:22:09+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Which emergency foods should you stock up on?",
+    "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Science",
+    "summary": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+    "published_at": "2026-09-21T05:22:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   },
+   {
+    "title": "Which emergency foods should you stock up on?",
+    "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+    "published_at": "2026-09-21T05:22:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
   "id": "269be4cb2b85",
   "headline": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
   "section": "world",
@@ -5057,64 +4955,33 @@
   ]
  },
  {
-  "id": "664c0aa8f161",
-  "headline": "Russia votes in parliamentary election as war in Ukraine drags on",
+  "id": "73a23ad699d1",
+  "headline": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
   "section": "world",
-  "score": 36,
+  "score": 37,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T05:38:20+00:00",
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:00:35+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Russia votes in parliamentary election as war in Ukraine drags on",
-    "url": "https://www.france24.com/en/europe/20260918-russia-votes-in-wartime-parliamentary-election-set-to-secure-the-kremlin-power",
-    "source": "France 24",
-    "summary": "Polls opened in Russia's Far East on Friday as the country began three days of voting for its parliamentary election, the first since Moscow launched its full-scale invasion of Ukraine. The Kremlin's main party, United Russia, is poised to keep its grip on power alongside other parties aligned with President Vladimir Putin, as the only party that criticised the war was removed from the ballot.",
-    "published_at": "2026-09-18T05:38:20+00:00",
+    "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+    "url": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+    "source": "The Guardian World",
+    "summary": "Unions, thinktanks and others say overhaul could provide investment Britain needs Unions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financial firepower of the national wealth fund to empower it to invest more in Britain and rebalance the country’s economy. Lower energy bills, the revitalisation of the UK’s industrial heartlands and the prov",
+    "published_at": "2026-09-21T04:00:35+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
+    "seen_at": "2026-09-21T06:51:35+00:00"
    },
    {
-    "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
-    "url": "https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "United Russia won more than two-thirds of the Duma's seats in the 2021 election and is poised to dominate the body again",
-    "published_at": "2026-09-18T05:37:46+00:00",
+    "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+    "url": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+    "source": "Guardian Business",
+    "summary": "Unions, thinktanks and others say overhaul could provide investment Britain needs Unions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financial firepower of the national wealth fund to empower it to invest more in Britain and rebalance the country’s economy. Lower energy bills, the revitalisation of the UK’s industrial heartlands and the prov",
+    "published_at": "2026-09-21T04:00:35+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   }
-  ]
- },
- {
-  "id": "b66b94b0adb5",
-  "headline": "China to see major shift to Huawei for AI model training in 2027: rotating chair",
-  "section": "ai",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-18T06:40:07+00:00",
-  "event_time": "2026-09-18T04:59:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "China to see major shift to Huawei for AI model training in 2027: rotating chair",
-    "url": "https://www.scmp.com/tech/big-tech/article/3367955/china-see-major-shift-huawei-ai-model-training-2027-rotating-chair?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Huawei Technologies expects a major domestic shift towards its artificial intelligence computing infrastructure for model training next year, as its Ascend processors gain ground on Nvidia in China despite supply constraints, according to rotating chairman Eric Xu Zhijun. “I believe that starting from next year, a lot of the AI model training will be based on the SuperPoD or SuperCluster based on ",
-    "published_at": "2026-09-18T04:59:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
-   },
-   {
-    "title": "Huawei unveils latest tech to boost AI power in push to break China’s Nvidia reliance",
-    "url": "https://www.scmp.com/tech/big-tech/article/3367796/huawei-unveils-latest-tech-boost-ai-power-push-break-chinas-nvidia-reliance?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Huawei Technologies on Thursday unveiled its latest Atlas 960 SuperPoD computing cluster and an upgraded version of its UnifiedBus interconnect technology, key components of the Chinese tech giant’s strategy to build advanced artificial intelligence systems despite US semiconductor-related restrictions. At the Huawei Connect 2026 conference in Shanghai, the Shenzhen-based firm introduced near-pack",
-    "published_at": "2026-09-17T02:26:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-18T06:40:04+00:00"
+    "seen_at": "2026-09-21T06:51:35+00:00"
    }
   ]
  },
@@ -5800,6 +5667,103 @@
     "published_at": "2026-09-20T22:06:22+00:00",
     "source_countries": [],
     "seen_at": "2026-09-21T01:03:49+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0a135642f506",
+  "headline": "NSW cop Beau Lamarre-Condon disguised himself as Uber Eats rider before alleged murders, court hears",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:19:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NSW cop Beau Lamarre-Condon disguised himself as Uber Eats rider before alleged murders, court hears",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/21/beau-lamarre-condon-double-murder-trial-obsessed-with-jesse-baird-before-shooting-court-hears-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Former police officer, 31, pleads not guilty to two counts of murder as his trial begins in Sydney’s supreme court Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A former policeman allegedly murdered a man with an “execution-style shot” after developing an “infatuation” that led him to stalk his victim, fake a cancer diagnosis an",
+    "published_at": "2026-09-21T04:19:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6b7c864acd16",
+  "headline": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
+  "section": "business",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:00:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/21/its-unrecognisable-how-being-a-tax-haven-has-changed-jersey",
+    "source": "The Guardian World",
+    "summary": "While global billionaires and multinational companies have been lured to its shores, many islanders feel left behind and priced out, with food bank use increasing On a late Friday afternoon on the Channel Island of Jersey, tourists and locals are flocking to St Helier’s waterfront where the town’s sprawling beach has emerged at low tide. In one direction, they face the calm waters of St Aubin’s Ba",
+    "published_at": "2026-09-21T04:00:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   },
+   {
+    "title": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/21/its-unrecognisable-how-being-a-tax-haven-has-changed-jersey",
+    "source": "Guardian Business",
+    "summary": "While global billionaires and multinational companies have been lured to its shores, many islanders feel left behind and priced out, with food bank use increasing On a late Friday afternoon on the Channel Island of Jersey, tourists and locals are flocking to St Helier’s waterfront where the town’s sprawling beach has emerged at low tide. In one direction, they face the calm waters of St Aubin’s Ba",
+    "published_at": "2026-09-21T04:00:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "435dbdabc957",
+  "headline": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+  "section": "culture",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T05:33:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
+    "published_at": "2026-09-21T05:33:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e75dff8e28cd",
+  "headline": "Before State Lines: Here Are Five Ways Montana Has Been Keeping Time for Ages",
+  "section": "culture",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Before State Lines: Here Are Five Ways Montana Has Been Keeping Time for Ages",
+    "url": "https://www.smithsonianmag.com/sponsored/before-state-lines-here-are-five-ways-montana-has-been-keeping-time-for-ages-180989433/",
+    "source": "Smithsonian Mag",
+    "summary": "Travel across Montana and uncover the fossils, geology, and cultural traditions that shaped it",
+    "published_at": "2026-09-21T04:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
    }
   ]
  },
@@ -7316,6 +7280,103 @@
   ]
  },
  {
+  "id": "149f3efaa6c2",
+  "headline": "ICE, Trump and Africa: Secret deals, broken lives",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T05:00:38+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "ICE, Trump and Africa: Secret deals, broken lives",
+    "url": "https://www.france24.com/en/tv-shows/reporters/20260921-ice-trump-and-africa-secret-deals-broken-lives",
+    "source": "France 24",
+    "summary": "For this edition of Reporters+, Karina Chabour has investigated a dark side of Donald Trump’s immigration policy. How ICE deports immigrants to so-called ‘third countries’ in Africa, far from the United States and often far from their countries of origin.",
+    "published_at": "2026-09-21T05:00:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   },
+   {
+    "title": "Deported to Africa: An international investigation into Trump’s migrant policy",
+    "url": "https://www.france24.com/en/africa/20260921-deported-to-africa-an-international-investigation-into-trump-s-migrant-policy",
+    "source": "France 24",
+    "summary": "As part of a consortium of 26 media outlets coordinated by Forbidden Stories, FRANCE 24 and RFI spent seven months investigating the secret deals struck between the administration of US President Donald Trump and several African countries. These so-called “third countries” have agreed to host undocumented migrants detained by ICE and deported from the US.",
+    "published_at": "2026-09-21T05:00:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "907d728ac596",
+  "headline": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+  "section": "science",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:05:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+    "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
+    "source": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 September 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Cocoon Nebula Wide […]",
+    "published_at": "2026-09-21T04:05:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7bdadb5f6508",
+  "headline": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+  "section": "sport",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T05:32:44+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'I've asked for forgiveness' - Eckert and Southampton braced for Spygate verdict",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parsons on what happens next.",
+    "published_at": "2026-09-21T05:32:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d657c58df2d2",
+  "headline": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T06:06:44+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "source": "The Hacker News",
+    "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
+    "published_at": "2026-09-21T06:06:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
   "id": "f617879881f0",
   "headline": "Deep cuts: how one Londoner’s fake vinyl empire sheds light on ‘industrial scale’ fraud",
   "section": "business",
@@ -8364,6 +8425,138 @@
   ]
  },
  {
+  "id": "defa32a9653b",
+  "headline": "Teen complainant withdrawn from Alan Jones trial bringing number of alleged victims to five",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T06:30:08+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Teen complainant withdrawn from Alan Jones trial bringing number of alleged victims to five",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/21/one-complainant-withdrawn-from-alan-jones-trial-bringing-number-of-alleged-victims-to-five-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Court also hears from four people who say they didn’t witness alleged offence against another complainant Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast One of Alan Jones’s accusers has had his allegation withdrawn by prosecutors, with one charge of indecent assault against a 17-year-old boy dramatically dropped from the former b",
+    "published_at": "2026-09-21T06:30:08+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3230b3878446",
+  "headline": "‘Oh shit’: Labor councillor who attended 2021 Liberal fundraiser was worried about potential Icac inquiry, Icac hears",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T06:08:24+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Oh shit’: Labor councillor who attended 2021 Liberal fundraiser was worried about potential Icac inquiry, Icac hears",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/21/icac-sharangan-maheswaran-texts-2021-liberal-fundraiser-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Texts reveal Sharangan Maheswaran had ‘an explanation ready’ but was worried about picture taken with premier prompted by ‘dumb’ Christian Ellis Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast A Labor councillor feared his presence at a Liberal fundraiser attended by Dominic Perrottet would result in him being forced to give evide",
+    "published_at": "2026-09-21T06:08:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "dcadafec03ae",
+  "headline": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:00:38+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+    "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+    "published_at": "2026-09-21T04:00:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "40bbd56ebed8",
+  "headline": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+  "section": "health",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T04:00:05+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+    "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "Speaking exclusively to the BBC, Prof Fonagy says being young is much harder now than it was.",
+    "published_at": "2026-09-21T04:00:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d7045f32998d",
+  "headline": "Tattie scones and scrambled eggs, toasted bannocks with honey butter and roast plums – Anna Higham’s big breakfast recipes",
+  "section": "food",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-21T05:00:38+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tattie scones and scrambled eggs, toasted bannocks with honey butter and roast plums – Anna Higham’s big breakfast recipes",
+    "url": "https://www.theguardian.com/food/2026/sep/21/scottish-breakfast-recipes-tattie-scones-scrambled-egg-toasted-bannocks-honey-butter-roast-plums-anna-higham",
+    "source": "Guardian Food",
+    "summary": "Scottish breakfasts are worth getting up for: think eggs and potato cakes in a freshly baked roll, or toasted barley bread laced with sticky plums and honey butter I’ve long wanted a space to cook the food that really excites me, and Clementine , which opens its doors in north London next month, is exactly that. These two recipes capture what the cafe is all about. This is food that feels both con",
+    "published_at": "2026-09-21T05:00:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f174898f8d3b",
+  "headline": "China’s GoPro rival Insta360 opens first US flagship store in New York’s Times Square",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-21T06:51:38+00:00",
+  "event_time": "2026-09-19T12:00:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "China’s GoPro rival Insta360 opens first US flagship store in New York’s Times Square",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3368101/chinas-gopro-rival-insta360-opens-first-us-flagship-store-new-yorks-times-square?utm_source=rss_feed",
+    "source": "SCMP Tech (Čína)",
+    "summary": "Chinese action camera maker Insta360 is deepening its US footprint with a flagship store opening in New York as it navigates escalating price competition with DJI and industry-wide memory cost pressures. The Chinese GoPro rival was slated to plant its flag in the heart of Times Square with its first flagship retail store in the US on Saturday, a marquee launch as the firm looked to “leap to the ne",
+    "published_at": "2026-09-19T12:00:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-21T06:51:35+00:00"
+   }
+  ]
+ },
+ {
   "id": "cf783ff15d6a",
   "headline": "Photos: Nepal flood survivors find little trace of former lives",
   "section": "world",
@@ -8382,235 +8575,6 @@
     "published_at": "2026-09-20T16:36:03+00:00",
     "source_countries": [],
     "seen_at": "2026-09-20T18:27:45+00:00"
-   }
-  ]
- },
- {
-  "id": "f86dfc61e9ba",
-  "headline": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-20T21:23:02+00:00",
-  "event_time": "2026-09-20T18:33:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
-    "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
-    "source": "The Guardian World",
-    "summary": "Far-right AfD wins in Mecklenburg-Western Pomerania and leftwing Die Linke on course for victory in Berlin Germany’s embattled chancellor, Friedrich Merz, has vowed to stay in office and fight for future-proofing economic changes despite heavy losses for his conservatives in two state elections, one to the far right and the other to a leftwing party. Preliminary results indicated Merz’s Christian ",
-    "published_at": "2026-09-20T18:33:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-20T21:22:59+00:00"
-   }
-  ]
- },
- {
-  "id": "51deb005e82c",
-  "headline": "Deaths of three women in sea at Brighton had no criminal involvement, police say",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-20T21:23:02+00:00",
-  "event_time": "2026-09-20T19:03:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Deaths of three women in sea at Brighton had no criminal involvement, police say",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/20/deaths-three-women-sea-brighton-no-criminal-involvement-police-say",
-    "source": "The Guardian World",
-    "summary": "Jane Adetoro, Christina Walters and Rebecca Walters from Uxbridge were found on 13 May The deaths of three sisters found in the sea off Brighton beach did not involve any criminality or third-party involvement, police have concluded. The bodies of Jane Adetoro, 36, Christina Walters, 32, and Rebecca Walters, 31, from Uxbridge, west London, were found on 13 May. A postmortem conducted that month co",
-    "published_at": "2026-09-20T19:03:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-20T21:22:59+00:00"
-   }
-  ]
- },
- {
-  "id": "bdeae8e9fa9f",
-  "headline": "Why some experts increasingly fear AI will take over",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-20T21:23:02+00:00",
-  "event_time": "2026-09-09T23:17:33+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Why some experts increasingly fear AI will take over",
-    "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-    "published_at": "2026-09-09T23:17:33+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-20T21:22:59+00:00"
-   }
-  ]
- },
- {
-  "id": "2ab57549ff35",
-  "headline": "Trump says his planned arch would become a 'military complex' able to host drones and snipers",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-20T21:23:02+00:00",
-  "event_time": "2026-09-20T21:08:52+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump says his planned arch would become a 'military complex' able to host drones and snipers",
-    "url": "https://www.cnbc.com/2026/09/20/trump-says-his-planned-arch-would-become-a-military-complex.html",
-    "source": "CNBC Top",
-    "summary": "It is another example of how Trump is insisting that his initiatives to beautify the White House and the city also serve a defensive purpose.",
-    "published_at": "2026-09-20T21:08:52+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-20T21:22:59+00:00"
-   }
-  ]
- },
- {
-  "id": "597bdcd09365",
-  "headline": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-20T21:39:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
-    "url": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
-    "source": "NPR News",
-    "summary": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa.",
-    "published_at": "2026-09-20T21:39:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   }
-  ]
- },
- {
-  "id": "4251b5b7aa80",
-  "headline": "Will you get £13,000 a year when you stop working? Here's how to check",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-20T23:02:45+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-    "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-    "published_at": "2026-09-20T23:02:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   },
-   {
-    "title": "Will you get £13,000 a year when you stop working? Here's how to check",
-    "url": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
-    "published_at": "2026-09-20T23:02:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   }
-  ]
- },
- {
-  "id": "d3dfcf2b6cb0",
-  "headline": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-21T03:33:07+00:00",
-  "event_time": "2026-09-21T02:31:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.",
-    "published_at": "2026-09-21T02:31:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T03:33:04+00:00"
-   }
-  ]
- },
- {
-  "id": "bf12497ba3a0",
-  "headline": "The 40 minutes when the Artemis crew loses contact with the Earth",
-  "section": "science",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-21T03:33:07+00:00",
-  "event_time": "2026-04-05T23:02:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
-    "url": "https://www.bbc.co.uk/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
-    "published_at": "2026-04-05T23:02:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T03:33:04+00:00"
-   }
-  ]
- },
- {
-  "id": "485e0252acca",
-  "headline": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-18T23:08:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
-    "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
-    "source": "The Guardian World",
-    "summary": "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a flight of stairs, all in plain view of other US deportees, according to witnesses and human rights lawyers. The men – one from Egypt and one from Eritre",
-    "published_at": "2026-09-18T23:08:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   }
-  ]
- },
- {
-  "id": "e09ded492010",
-  "headline": "More than 800,000 bees stolen across far north Queensland in ‘sophisticated’ operation",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-21T00:00:29+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "More than 800,000 bees stolen across far north Queensland in ‘sophisticated’ operation",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation",
-    "source": "The Guardian World",
-    "summary": "Apiarists will lose not just the insects but the value of pollination contracts, which can be worth thousands of dollars Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An estimated 800,000 bees, worth tens of thousands of dollars, have been stolen from properties in far north Queensland. The industry is already reeling from the t",
-    "published_at": "2026-09-21T00:00:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
    }
   ]
  }
