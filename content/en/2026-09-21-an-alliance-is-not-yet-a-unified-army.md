@@ -1,14 +1,16 @@
 ---
 slug: an-alliance-is-not-yet-a-unified-army
-title: "An Alliance Is Not Yet a Unified Army"
-dek: "Seven Ethiopian armed groups have promised to remove the government together. The announcement changes the political map, but it does not yet prove that old enemies can share command, territory or an end state."
+title: An Alliance Is Not Yet a Unified Army
+dek: Seven Ethiopian armed groups have promised to remove the government together.
+  The announcement changes the political map, but it does not yet prove that old enemies
+  can share command, territory or an end state.
 section: world
 type: analysis
 depth: open
 lang: en
-date: 2026-09-21
-status: draft
-confidence: 91
+date: '2026-09-21'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -16,42 +18,49 @@ automation_role: intraday
 edition_slot: 0
 generator: chatgpt-work
 format: roundtable
-series: "The Newsroom Table"
-event_id: "ethiopian-peoples-forces-alliance-formed-2026-09-20"
-image_query: "Ethiopia political map Tigray Amhara Oromia neutral editorial illustration"
+series: The Newsroom Table
+event_id: ethiopian-peoples-forces-alliance-formed-2026-09-20
+image_query: Ethiopia political map Tigray Amhara Oromia neutral editorial illustration
 sources:
-  - name: "Ethiopian Peoples' Forces Alliance for Survival — founding statement"
-    url: "https://qbo-abo-wbo.org/2026/09/20/statement-issued-by-the-ethiopian-peoples-forces-alliance-for-survival-alliance-for-survival/"
-    published: "2026-09-20"
-  - name: "Reuters — Seven Ethiopian armed groups announce anti-government alliance"
-    url: "https://www.reuters.com/world/africa/seven-ethiopian-armed-groups-announce-anti-government-alliance-2026-09-21/"
-    published: "2026-09-21"
-  - name: "Associated Press — Ethiopian opposition groups unite to challenge Abiy"
-    url: "https://apnews.com/article/ethiopia-politics-government-opposition-alliance-d348643aa604ebc074d8aade25c97efe"
-    published: "2026-09-21"
-  - name: "Al Jazeera — Ethiopian armed groups forge alliance against government"
-    url: "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government"
-    published: "2026-09-21"
-  - name: "IGAD — signed Pretoria cessation-of-hostilities agreement"
-    url: "https://igad.int/wp-content/uploads/2022/11/Download-the-signed-agreement-here.pdf"
-    published: "2022-11-03"
+- name: Ethiopian Peoples' Forces Alliance for Survival — founding statement
+  url: https://qbo-abo-wbo.org/2026/09/20/statement-issued-by-the-ethiopian-peoples-forces-alliance-for-survival-alliance-for-survival/
+  published: '2026-09-20'
+- name: Reuters — Seven Ethiopian armed groups announce anti-government alliance
+  url: https://www.reuters.com/world/africa/seven-ethiopian-armed-groups-announce-anti-government-alliance-2026-09-21/
+  published: '2026-09-21'
+- name: Associated Press — Ethiopian opposition groups unite to challenge Abiy
+  url: https://apnews.com/article/ethiopia-politics-government-opposition-alliance-d348643aa604ebc074d8aade25c97efe
+  published: '2026-09-21'
+- name: Al Jazeera — Ethiopian armed groups forge alliance against government
+  url: https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government
+  published: '2026-09-21'
+- name: IGAD — signed Pretoria cessation-of-hostilities agreement
+  url: https://igad.int/wp-content/uploads/2022/11/Download-the-signed-agreement-here.pdf
+  published: '2022-11-03'
 impact:
   areas:
-    - Ethiopian civilian safety
-    - Horn of Africa stability
-    - Pretoria peace agreement
-  line: "A coalition joining armed movements across several regions raises the risk that separate conflicts become politically connected, even before there is evidence of coordinated military operations."
-  todo: "Watch for a named joint command, verified operations involving more than one member, and a formal African Union response to the TPLF's rejection of the Pretoria agreement."
-qma_path: ""
+  - Ethiopian civilian safety
+  - Horn of Africa stability
+  - Pretoria peace agreement
+  line: A coalition joining armed movements across several regions raises the risk
+    that separate conflicts become politically connected, even before there is evidence
+    of coordinated military operations.
+  todo: Watch for a named joint command, verified operations involving more than one
+    member, and a formal African Union response to the TPLF's rejection of the Pretoria
+    agreement.
+qma_path: ''
 tickers: []
 quiz:
-  question: "What would most clearly show that the new Ethiopian alliance has moved beyond a political declaration?"
+  question: What would most clearly show that the new Ethiopian alliance has moved
+    beyond a political declaration?
   options:
-    - "More groups reposting the founding statement"
-    - "A named joint command and independently verified operations involving multiple members"
-    - "A new name and logo for the alliance"
+  - More groups reposting the founding statement
+  - A named joint command and independently verified operations involving multiple
+    members
+  - A new name and logo for the alliance
   answer: 1
-  explanation: "The statement proves shared political intent; common command and verified joint operations would demonstrate operational coordination."
+  explanation: The statement proves shared political intent; common command and verified
+    joint operations would demonstrate operational coordination.
 ---
 
 ## BRIEFLY
