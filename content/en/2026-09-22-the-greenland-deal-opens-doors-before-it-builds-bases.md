@@ -1,14 +1,16 @@
 ---
 slug: the-greenland-deal-opens-doors-before-it-builds-bases
 title: The Greenland Deal Opens Doors Before It Builds Bases
-dek: The signed pact grants broad U.S. military access and names two new defense areas, but it is not yet in force and leaves the bases' size, missions and safeguards to later agreements.
+dek: The signed pact grants broad U.S. military access and names two new defense areas,
+  but it is not yet in force and leaves the bases' size, missions and safeguards to
+  later agreements.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-22'
-status: draft
-confidence: 98
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -37,18 +39,26 @@ impact:
   - Greenlandic self-government and local communities
   - Arctic and North Atlantic security
   - foreign investment screening
-  line: The pact creates a durable route for a larger U.S. military footprint and tighter screening of some foreign investment while leaving construction, operating details and parliamentary approval unfinished.
-  todo: Watch the Danish and Greenlandic parliamentary procedures, then the site-specific agreements that disclose each base's scope, mission, environmental safeguards and local contracting.
+  line: The pact creates a durable route for a larger U.S. military footprint and
+    tighter screening of some foreign investment while leaving construction, operating
+    details and parliamentary approval unfinished.
+  todo: Watch the Danish and Greenlandic parliamentary procedures, then the site-specific
+    agreements that disclose each base's scope, mission, environmental safeguards
+    and local contracting.
 qma_path: ''
 tickers: []
 quiz:
-  question: What must happen before the signed Greenland defense agreement enters into force?
+  question: What must happen before the signed Greenland defense agreement enters
+    into force?
   options:
   - Construction must finish at both named defense areas
-  - Denmark and Greenland must complete the necessary parliamentary procedures and notify the United States
+  - Denmark and Greenland must complete the necessary parliamentary procedures and
+    notify the United States
   - Every NATO member must ratify it separately
   answer: 1
-  explanation: Article XII says entry into force follows a diplomatic note confirming completion of the necessary parliamentary procedures by Denmark together with Greenland.
+  explanation: Article XII says entry into force follows a diplomatic note confirming
+    completion of the necessary parliamentary procedures by Denmark together with
+    Greenland.
 ---
 
 ## BRIEFLY
