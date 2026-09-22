@@ -74,22 +74,25 @@
     <https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live>
     > Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...
 
-### 4. Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
-- id události: `b7b3b3dcaafb`  ·  rubrika: `world`  ·  skóre: 64  ·  nezávislých zdrojů: 3
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
+- id události: `147ec0dad904`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
-    <https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs>
-    > Lawyer tells review hearing that families wish to know whether weaponry involved in the deaths was made in UK Israeli and UK military commanders could be requested to give evidence to an inquest concerning three British workers killed in Gaza when aid vehicles they were travellin
-  - **France 24** — West Bank: Israeli settler, Palestinian killed in latest violence
-    <https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence>
-    > Violence flared in the Israeli-occupied West Bank on Sunday, as Israeli forces arrested a suspected Palestinian gunman accused of killing an Israeli man. In a separate incident, Israeli soldiers killed a Palestinian driver who the military said had attempted to run them over. Nic
-  - **Al Jazeera** — Child among four Palestinians killed in Israeli attacks on Gaza
-    <https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss>
-    > Israeli attacks on Palestinians continue in Gaza despite a 'ceasefire' signed in October.
-  - **Al Jazeera** — Israeli forces arrest dozens of Palestinians in occupied West Bank raid
-    <https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss>
-    > At least 53 young men are being held in Biddu after raids left the town in lockdown, with schools and businesses shut.
+  - **BBC World** — Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
+    <https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss>
+    > The G7 also condemns "in the strongest terms" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.
+  - **BBC World** — Watch: What to expect from the UN General Assembly
+    <https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss>
+    > The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.
+  - **Al Jazeera** — UN General Assembly 2026: When is it, who is speaking and when?
+    <https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss>
+    > September 22 marks the start of the general debate, where all 193 UN member states are invited to address the UNGA.
+  - **Al Jazeera** — Houthis battle for strategic heights in Yemen as thousands more flee homes
+    <https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss>
+    > Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.
+  - **CNBC Top** — Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch
+    <https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html>
+    > Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.
 
 ---
 

@@ -65,10 +65,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 43 dní · 33 záznamů
+- rubrika `world` · sledováno 44 dní · 35 záznamů
 - časová osa:
-  - **2026-09-17** (1 zdrojů) Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks
-  - **2026-09-17** (2 zdrojů) Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths
   - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
   - **2026-09-18** (2 zdrojů) Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
   - **2026-09-19** (2 zdrojů) Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
@@ -77,13 +75,14 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-20** (2 zdrojů) Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
   - **2026-09-20** (2 zdrojů) Saudi Arabia says Houthis tried to attack its capital
   - **2026-09-21** (3 zdrojů) Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
+  - **2026-09-22** (3 zdrojů) Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
+  - **2026-09-22** (2 zdrojů) UK to refuel Saudi jets amid conflict with Yemen's Houthis
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Trump signs order to rename Lake Ontario as Lake America
-- rubrika `world` · sledováno 22 dní · 26 záznamů
+- rubrika `world` · sledováno 26 dní · 27 záznamů
 - časová osa:
-  - **2026-09-09** (2 zdrojů) South Park creators rename show 'South America' in apparent dig at Trump
   - **2026-09-17** (2 zdrojů) Trump threatens EU with further sanctions over Canada
   - **2026-09-17** (3 zdrojů) Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live
   - **2026-09-17** (2 zdrojů) Trump calls EU's offer of associate partnership to Canada 'laughable' – video
@@ -93,3 +92,4 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-17** (2 zdrojů) Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech
   - **2026-09-17** (2 zdrojů) Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser
   - **2026-09-18** (2 zdrojů) South Korea will not send military to support US war on Iran, defying Trump pressure
+  - **2026-09-22** (2 zdrojů) Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war
