@@ -1,14 +1,16 @@
 ---
 slug: reading-aloud-does-not-expire-when-a-child-can-read
 title: Reading Aloud Does Not Expire When a Child Can Read
-dek: Learning to decode words changes shared reading; it does not make a parent's voice redundant. The strongest evidence is early, while the durable value is choice, conversation and a story held in common.
+dek: Learning to decode words changes shared reading; it does not make a parent's
+  voice redundant. The strongest evidence is early, while the durable value is choice,
+  conversation and a story held in common.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-22'
-status: draft
-confidence: 93
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,18 +20,22 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual shared reading across childhood, an open book becoming a bridge between a small and larger chair, warm lamplight, no people, no text, editorial illustration
+image_query: conceptual shared reading across childhood, an open book becoming a bridge
+  between a small and larger chair, warm lamplight, no people, no text, editorial
+  illustration
 sources:
 - name: National Literacy Trust — Children and young people's reading in 2026
   url: https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2026/
   published: '2026-06-09'
-- name: National Literacy Trust — Understanding children and young people's perspectives on reading in their own words
+- name: National Literacy Trust — Understanding children and young people's perspectives
+    on reading in their own words
   url: https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-perspectives-on-reading/
   published: '2026-03-10'
 - name: American Academy of Pediatrics — Literacy Promotion, policy statement
   url: https://publications.aap.org/pediatrics/article/154/6/e2024069090/199467/Literacy-Promotion-An-Essential-Component-of
   published: '2024-12-01'
-- name: Pediatrics — Reading Aloud and Child Development, cluster-randomized trial in Brazil
+- name: Pediatrics — Reading Aloud and Child Development, cluster-randomized trial
+    in Brazil
   url: https://publications.aap.org/pediatrics/article/141/1/e20170723/37734/Reading-Aloud-and-Child-Development-A-Cluster
   published: '2018-01-01'
 - name: National Center for Education Statistics — 2024 NAEP Reading results
@@ -40,11 +46,18 @@ tickers: []
 quiz:
   question: What does the evidence support most securely about reading aloud?
   options:
-  - A structured shared-reading programme improved several outcomes for preschool children, while direct causal evidence for continuing the practice with older readers is thinner
-  - Reading aloud for a fixed number of minutes guarantees higher national reading scores at every age
+  - A structured shared-reading programme improved several outcomes for preschool
+    children, while direct causal evidence for continuing the practice with older
+    readers is thinner
+  - Reading aloud for a fixed number of minutes guarantees higher national reading
+    scores at every age
   - Children should stop hearing books once they can decode the words independently
   answer: 0
-  explanation: The Brazilian cluster-randomized trial provides causal evidence for children aged two to four. The article distinguishes that result from observational surveys and from the plausible but less directly tested benefits of shared reading with older children.
+  explanation: The Brazilian cluster-randomized trial provides causal evidence for
+    children aged two to four. The article distinguishes that result from observational
+    surveys and from the plausible but less directly tested benefits of shared reading
+    with older children.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

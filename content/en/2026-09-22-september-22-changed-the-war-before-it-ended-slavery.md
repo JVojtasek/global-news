@@ -1,14 +1,16 @@
 ---
 slug: september-22-changed-the-war-before-it-ended-slavery
 title: September 22 Changed the War Before It Ended Slavery
-dek: Lincoln’s preliminary proclamation set a deadline, changed the Union’s declared purpose and opened a legal path toward freedom. It did not free every enslaved person—or finish the struggle.
+dek: Lincoln’s preliminary proclamation set a deadline, changed the Union’s declared
+  purpose and opened a legal path toward freedom. It did not free every enslaved person—or
+  finish the struggle.
 section: history
 type: analysis
 depth: open
 lang: en
 date: '2026-09-22'
-status: draft
-confidence: 96
+status: published
+confidence: 95
 load: 0
 topics:
 - Emancipation Proclamation
@@ -21,7 +23,8 @@ generator: chatgpt-work
 format: wider-lens
 event_id: 1862-09-22-preliminary-emancipation-proclamation
 series: ''
-image_query: parchment deadline becoming an open road through a divided landscape, 1860s archival palette, conceptual editorial illustration, no text
+image_query: parchment deadline becoming an open road through a divided landscape,
+  1860s archival palette, conceptual editorial illustration, no text
 sources:
 - name: National Archives — Emancipation Proclamation
   url: https://www.archives.gov/milestone-documents/emancipation-proclamation
@@ -41,13 +44,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which measure abolished slavery throughout the United States, rather than only in designated areas in rebellion?
+  question: Which measure abolished slavery throughout the United States, rather than
+    only in designated areas in rebellion?
   options:
   - The preliminary Emancipation Proclamation of September 22, 1862
   - The final Emancipation Proclamation of January 1, 1863
   - The 13th Amendment, ratified on December 6, 1865
   answer: 2
-  explanation: Both proclamations were wartime measures aimed at areas in rebellion and left slavery untouched in loyal border states. The 13th Amendment abolished slavery throughout the United States, subject to its punishment-for-crime exception.
+  explanation: Both proclamations were wartime measures aimed at areas in rebellion
+    and left slavery untouched in loyal border states. The 13th Amendment abolished
+    slavery throughout the United States, subject to its punishment-for-crime exception.
 ---
 
 ## BRIEFLY

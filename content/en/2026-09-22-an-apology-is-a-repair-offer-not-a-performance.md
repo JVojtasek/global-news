@@ -1,14 +1,15 @@
 ---
 slug: an-apology-is-a-repair-offer-not-a-performance
 title: An Apology Is a Repair Offer, Not a Performance
-dek: The useful question is not whether an apology sounded moving. It is whether it named the harm, accepted responsibility and made the next step safer.
+dek: The useful question is not whether an apology sounded moving. It is whether it
+  named the harm, accepted responsibility and made the next step safer.
 section: meaning
 type: analysis
 depth: open
 lang: en
 date: '2026-09-22'
-status: draft
-confidence: 92
+status: review
+confidence: 89
 load: 0
 topics:
 - apology
@@ -21,9 +22,11 @@ generator: chatgpt-work
 format: wider-lens
 event_id: evergreen-apology-repair-offer
 series: ''
-image_query: broken ceramic repaired with visible join, open hands and tools, conceptual editorial still life, no text
+image_query: broken ceramic repaired with visible join, open hands and tools, conceptual
+  editorial still life, no text
 sources:
-- name: Negotiation and Conflict Management Research — An Exploration of the Structure of Effective Apologies
+- name: Negotiation and Conflict Management Research — An Exploration of the Structure
+    of Effective Apologies
   url: https://ncmr.lps.library.cmu.edu/article/id/264/
   published: '2016-04-06'
 - name: Scottish Public Services Ombudsman — Meaningful apologies
@@ -38,13 +41,18 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: In the 2016 two-study paper on apology structure, which element received the weakest ratings when tested on its own in both studies?
+  question: In the 2016 two-study paper on apology structure, which element received
+    the weakest ratings when tested on its own in both studies?
   options:
   - Acknowledging responsibility
   - Offering repair
   - Requesting forgiveness
   answer: 2
-  explanation: A request for forgiveness was the lowest-rated single component in both experiments. The result does not make forgiveness unimportant; it shows that asking the harmed person to grant it is not a substitute for responsibility and repair.
+  explanation: A request for forgiveness was the lowest-rated single component in
+    both experiments. The result does not make forgiveness unimportant; it shows that
+    asking the harmed person to grant it is not a substitute for responsibility and
+    repair.
+review_reason: 'citlivé téma: abuse'
 ---
 
 ## BRIEFLY

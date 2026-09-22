@@ -1,14 +1,16 @@
 ---
 slug: a-closed-bedroom-door-is-a-fire-barrier-not-an-escape-plan
 title: A Closed Bedroom Door Is a Fire Barrier, Not an Escape Plan
-dek: A simple interior door can slow heat and smoke during a home fire. That margin matters, but only when it sits inside a practiced plan built around working alarms, two ways out and staying out.
+dek: A simple interior door can slow heat and smoke during a home fire. That margin
+  matters, but only when it sits inside a practiced plan built around working alarms,
+  two ways out and staying out.
 section: safety
 type: analysis
 depth: open
 lang: en
 date: '2026-09-22'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual closed bedroom door holding back abstract heat and smoke, safe home at night, no people, no text, editorial illustration
+image_query: conceptual closed bedroom door holding back abstract heat and smoke,
+  safe home at night, no people, no text, editorial illustration
 sources:
 - name: Fire Safety Research Institute — Close Before You Doze
   url: https://fsri.org/programs/close-before-you-doze
@@ -38,13 +41,20 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What is the most accurate lesson from full-scale fire experiments with open and closed bedroom doors?
+  question: What is the most accurate lesson from full-scale fire experiments with
+    open and closed bedroom doors?
   options:
-  - A closed door can substantially reduce heat and smoke exposure, but occupants still need working alarms and a practiced escape plan
-  - A closed door makes it safe to remain inside until firefighters arrive, whatever the conditions
+  - A closed door can substantially reduce heat and smoke exposure, but occupants
+    still need working alarms and a practiced escape plan
+  - A closed door makes it safe to remain inside until firefighters arrive, whatever
+    the conditions
   - Opening every interior door helps smoke escape and makes bedrooms safer
   answer: 0
-  explanation: Fire Safety Research Institute experiments found markedly lower heat and carbon-monoxide conditions behind closed doors. US Fire Administration guidance still tells households to maintain alarms, plan two ways out, leave promptly and never re-enter.
+  explanation: Fire Safety Research Institute experiments found markedly lower heat
+    and carbon-monoxide conditions behind closed doors. US Fire Administration guidance
+    still tells households to maintain alarms, plan two ways out, leave promptly and
+    never re-enter.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY
