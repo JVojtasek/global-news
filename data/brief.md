@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-21
+# ZADÁNÍ PRO REDAKCI — 2026-09-22
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,35 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. US and Denmark reach deal over Greenland after Trump annexation threats
-- id události: `7ffe8b5c7454`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — US and Denmark reach deal over Greenland after Trump annexation threats
-    <https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss>
-    > Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
-  - **The Guardian World** — US and Denmark reach security deal after Trump’s threats to take over Greenland
-    <https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security>
-    > The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determination Donald Trump announced on Friday that the US had struck an Arctic security pact with the leaders of Denmark and Greenla
-  - **DW News** — Deal with Denmark gives US 'permanent control' over Greenland security, Trump says
-    <https://www.dw.com/en/deal-with-denmark-gives-us-permanent-control-over-greenland-security-trump-says/a-79334915?maca=en-rss-en-all-1573-rdf>
-    > The deal with Denmark, according to President Donald Trump, would give the US "permanent control" over Greenland's security. Denmark said the deal is "great for NATO and Europe."
-  - **Al Jazeera** — Trump says Denmark deal gives US security ‘control’ over Greenland
-    <https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss>
-    > Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.
-  - **CNBC Top** — Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark
-    <https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html>
-    > Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.
-  - **France 24** — Trump says US, Denmark reach deal to expand military presence in Greenland
-    <https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly>
-    > US President Donald Trump said on Friday he had reached a deal with Denmark to expand the US military presence in Greenland, while respecting Danish and Greenlandic sovereignty. Denmark said the agreement would be signed next week during the UN General Assembly but still requires
-  - **Al Jazeera** — Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
-    <https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss>
-    > Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.
-  - **France 24** — 🔴 Greenland, Denmark say they expect to sign deal with the US on the sidelines of UN General Assembly
-    <https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly>
-
-### 2. Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
+### 1. Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
 - id události: `5c613a75961a`  ·  rubrika: `business`  ·  skóre: 80  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -62,7 +34,7 @@
   - **Investing.com** — Paramount settles with states over Warner Bros Discovery deal
     <https://www.investing.com/news/stock-market-news/paramount-settles-with-states-over-warner-bros-discovery-deal-4909498>
 
-### 3. Journalists denied White House access after Trump banned some media outlets
+### 2. Journalists denied White House access after Trump banned some media outlets
 - id události: `d6f846915316`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,7 +54,7 @@
     <https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban>
     > White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was banning the three media outlets for what he called "fake news" coverage. News organisations a
 
-### 4. 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+### 3. 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
 - id události: `ba630c69b7ba`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -102,16 +74,37 @@
     <https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live>
     > Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...
 
+### 4. Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
+- id události: `b7b3b3dcaafb`  ·  rubrika: `world`  ·  skóre: 64  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **The Guardian World** — Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
+    <https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs>
+    > Lawyer tells review hearing that families wish to know whether weaponry involved in the deaths was made in UK Israeli and UK military commanders could be requested to give evidence to an inquest concerning three British workers killed in Gaza when aid vehicles they were travellin
+  - **France 24** — West Bank: Israeli settler, Palestinian killed in latest violence
+    <https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence>
+    > Violence flared in the Israeli-occupied West Bank on Sunday, as Israeli forces arrested a suspected Palestinian gunman accused of killing an Israeli man. In a separate incident, Israeli soldiers killed a Palestinian driver who the military said had attempted to run them over. Nic
+  - **Al Jazeera** — Child among four Palestinians killed in Israeli attacks on Gaza
+    <https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss>
+    > Israeli attacks on Palestinians continue in Gaza despite a 'ceasefire' signed in October.
+  - **Al Jazeera** — Israeli forces arrest dozens of Palestinians in occupied West Bank raid
+    <https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss>
+    > At least 53 young men are being held in Biddu after raids left the town in lockdown, with schools and businesses shut.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### toddler tantrums
-- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### investing for beginners
+- rubrika: `meaning`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+- otázky, které k tomu lidé píší do vyhledávače:
+  - „how does investing work for beginners“
+  - „how much to start investing for beginners“
+  - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
-  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
-  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
+  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
+  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
 
 ---
 

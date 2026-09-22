@@ -1,4 +1,4 @@
-# MY PAPER EDITION PLAN — 2026-09-21
+# MY PAPER EDITION PLAN — 2026-09-22
 
 Six original public analyses plus one reserve feature.
 
