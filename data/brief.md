@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **13**
+- Článků v zásobě: **14**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -105,8 +105,8 @@
   - „how much to start investing for beginners“
   - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
   - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
+  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
   - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
 
 ---
@@ -156,33 +156,33 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-22  (2 zdrojů, síla 46)  EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
 ```
 
-### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-03  (2 zdrojů, síla 45)  Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'
-  2026-09-03  (2 zdrojů, síla 42)  Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?
-  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
-  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack
-  2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
-  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
-  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat
-  2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa
-  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
-  2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit
-  2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
-  2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc
-  2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit
-  2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East
-  2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions
-  2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
-  2026-09-14  (4 zdrojů, síla 68)  Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
-  2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
-  2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
-  2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-09-09  (3 zdrojů, síla 66)  Napoli vs Arsenal: Champions League – prediction, teams, lineups
+  2026-09-09  (3 zdrojů, síla 62)  The Rwandan eyeing Champions League history against Man Utd
+  2026-09-09  (2 zdrojů, síla 52)  Napoli v Arsenal: Champions League – live
+  2026-09-10  (2 zdrojů, síla 41)  ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
+  2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League
+  2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live
+  2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return
+  2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig
+  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign
+  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups
+  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live
+  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?
+  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?
+  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
+  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang
+  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups
+  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live
+  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
+  2026-09-22  (2 zdrojů, síla 41)  Arteta agrees new deal with Premier League champions Arsenal
 ```
 
 ---

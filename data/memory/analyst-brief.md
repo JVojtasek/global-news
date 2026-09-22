@@ -22,6 +22,20 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 35 dní · 60 záznamů
+- časová osa:
+  - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
+  - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
+  - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
+  - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
+  - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
+  - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
+  - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
+  - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+  - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
+  - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
+
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 40 dní · 60 záznamů
 - časová osa:
@@ -35,20 +49,6 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 32 dní · 59 záznamů
-- časová osa:
-  - **2026-09-12** (2 zdrojů) Manchester United vs Man City: Premier League – predictions, teams, lineups
-  - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
-  - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
-  - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
-  - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
-  - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
-  - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
-  - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
-  - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
-  - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 39 dní · 45 záznamů
@@ -65,9 +65,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 44 dní · 35 záznamů
+- rubrika `world` · sledováno 44 dní · 36 záznamů
 - časová osa:
-  - **2026-09-17** (4 zdrojů) Verified video shows wreckage of Saudi fighter jet shot down over Yemen
   - **2026-09-18** (2 zdrojů) Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
   - **2026-09-19** (2 zdrojů) Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
   - **2026-09-19** (3 zdrojů) Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital
@@ -77,6 +76,7 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-21** (3 zdrojů) Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
   - **2026-09-22** (3 zdrojů) Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
   - **2026-09-22** (2 zdrojů) UK to refuel Saudi jets amid conflict with Yemen's Houthis
+  - **2026-09-22** (3 zdrojů) Iran war spreads through region as Trump seeks way out
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
