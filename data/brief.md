@@ -111,8 +111,8 @@
   - „how much to start investing for beginners“
   - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
   - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
   - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
 
 ---
@@ -140,8 +140,6 @@
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-08  (2 zdrojů, síla 41)  Russia strikes Kyiv as three-day pause during US envoy visits ends
-  2026-09-08  (2 zdrojů, síla 45)  North Korea and Russia open first road bridge linking both countries
   2026-09-08  (2 zdrojů, síla 46)  Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
   2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
   2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
@@ -160,6 +158,8 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
   2026-09-20  (2 zdrojů, síla 40)  Ukraine launches heavy Moscow drone attack as Russia votes
   2026-09-22  (2 zdrojů, síla 46)  EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
+  2026-09-22  (2 zdrojů, síla 44)  Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
+  2026-09-22  (2 zdrojů, síla 42)  Trump praises relations with Burnham despite tensions over AI and Iran
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

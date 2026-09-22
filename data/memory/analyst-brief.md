@@ -9,8 +9,6 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 42 dní · 60 záznamů
 - časová osa:
-  - **2026-09-10** (2 zdrojů) Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
-  - **2026-09-13** (2 zdrojů) Ukraine, Poland say Russia hit Warsaw-bound passenger train
   - **2026-09-14** (2 zdrojů) Ukraine, Russia set for new round of US-mediated talks
   - **2026-09-14** (2 zdrojů) Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
   - **2026-09-15** (1 zdrojů) These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
@@ -19,6 +17,8 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-20** (2 zdrojů) Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
   - **2026-09-20** (2 zdrojů) Ukraine launches heavy Moscow drone attack as Russia votes
   - **2026-09-22** (2 zdrojů) EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
+  - **2026-09-22** (2 zdrojů) Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
+  - **2026-09-22** (2 zdrojů) Trump praises relations with Burnham despite tensions over AI and Iran
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
@@ -65,9 +65,8 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 44 dní · 40 záznamů
+- rubrika `world` · sledováno 44 dní · 41 záznamů
 - časová osa:
-  - **2026-09-20** (2 zdrojů) Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
   - **2026-09-20** (2 zdrojů) Saudi Arabia says Houthis tried to attack its capital
   - **2026-09-21** (3 zdrojů) Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
   - **2026-09-22** (3 zdrojů) Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
@@ -77,6 +76,7 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-22** (2 zdrojů) Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights
   - **2026-09-22** (4 zdrojů) Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
   - **2026-09-22** (2 zdrojů) Republic of Ireland braced for testing Nations League
+  - **2026-09-22** (2 zdrojů) UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
