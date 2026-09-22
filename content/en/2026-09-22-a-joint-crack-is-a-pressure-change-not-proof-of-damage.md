@@ -1,20 +1,21 @@
 ---
 slug: a-joint-crack-is-a-pressure-change-not-proof-of-damage
 title: A Joint Crack Is a Pressure Change, Not Proof of Damage
-dek: The sound can be startling, but a painless crack and a painful joint are different signals—and the evidence is more useful when it keeps them separate.
+dek: The sound can be startling, but a painless crack and a painful joint are different
+  signals—and the evidence is more useful when it keeps them separate.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-22'
-status: draft
-confidence: 91
+status: published
+confidence: 89
 load: 0
 topics:
-  - joints
-  - knuckle cracking
-  - osteoarthritis
-  - health literacy
+- joints
+- knuckle cracking
+- osteoarthritis
+- health literacy
 automation_generated: true
 edition_slot: 5
 automation_role: edition
@@ -24,28 +25,33 @@ event_id: evergreen-joint-cracking-cavitation-evidence-2026
 series: ''
 image_query: hand knuckle joint anatomical illustration pressure change
 sources:
-  - name: PLOS ONE — Real-Time Visualization of Joint Cavitation
-    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470
-    published: '2015-04-15'
-  - name: Annals of the Rheumatic Diseases — Effect of habitual knuckle cracking on hand function
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1004074/
-    published: '1990-05-01'
-  - name: Journal of the American Board of Family Medicine — Knuckle Cracking and Hand Osteoarthritis
-    url: https://www.jabfm.org/content/24/2/169
-    published: '2011-03-01'
-  - name: NHS — Joint pain
-    url: https://www.nhs.uk/symptoms/joint-pain/
-    published: '2026-02-26'
+- name: PLOS ONE — Real-Time Visualization of Joint Cavitation
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119470
+  published: '2015-04-15'
+- name: Annals of the Rheumatic Diseases — Effect of habitual knuckle cracking on
+    hand function
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1004074/
+  published: '1990-05-01'
+- name: Journal of the American Board of Family Medicine — Knuckle Cracking and Hand
+    Osteoarthritis
+  url: https://www.jabfm.org/content/24/2/169
+  published: '2011-03-01'
+- name: NHS — Joint pain
+  url: https://www.nhs.uk/symptoms/joint-pain/
+  published: '2026-02-26'
 qma_path: ''
 tickers: []
 quiz:
-  question: Which observation would make a joint noise more important to assess than a painless voluntary knuckle crack?
+  question: Which observation would make a joint noise more important to assess than
+    a painless voluntary knuckle crack?
   options:
-    - The sound is loud but the joint moves normally
-    - The noise comes with persistent pain, swelling or loss of movement
-    - The person can produce the sound only occasionally
+  - The sound is loud but the joint moves normally
+  - The noise comes with persistent pain, swelling or loss of movement
+  - The person can produce the sound only occasionally
   answer: 1
-  explanation: Sound alone does not identify injury. Persistent pain, swelling, heat or impaired movement adds clinically relevant information and warrants appropriate assessment.
+  explanation: Sound alone does not identify injury. Persistent pain, swelling, heat
+    or impaired movement adds clinically relevant information and warrants appropriate
+    assessment.
 ---
 
 ## BRIEFLY
@@ -115,4 +121,3 @@ Do not test a painful joint by repeatedly forcing it to crack. If the habit itse
 ## REFLECT
 
 A body sound attracts attention because it is concrete. The better question is less theatrical: what changed in comfort, appearance or function? Keeping those signals separate prevents two opposite mistakes—treating every crack as damage, and dismissing a painful joint because ordinary knuckles can crack harmlessly.
-

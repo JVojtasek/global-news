@@ -1,20 +1,21 @@
 ---
 slug: john-snow-compared-water-before-he-mapped-death
 title: John Snow Compared Water Before He Mapped Death
-dek: The famous cholera map mattered, but the stronger lesson was Snow’s habit of asking which observations could distinguish one explanation from another.
+dek: The famous cholera map mattered, but the stronger lesson was Snow’s habit of
+  asking which observations could distinguish one explanation from another.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-22'
-status: draft
-confidence: 92
+status: review
+confidence: 89
 load: 0
 topics:
-  - John Snow
-  - cholera
-  - evidence
-  - public health history
+- John Snow
+- cholera
+- evidence
+- public health history
 automation_generated: true
 edition_slot: 6
 automation_role: edition
@@ -24,28 +25,30 @@ event_id: history-john-snow-cholera-comparative-evidence-1854
 series: ''
 image_query: John Snow cholera map Broad Street pump historical London
 sources:
-  - name: John Snow — On the Mode of Communication of Cholera, second edition
-    url: https://archive.org/details/b28985266
-    published: '1855-07-01'
-  - name: Wellcome Collection — Map showing the deaths from cholera around Broad Street
-    url: https://wellcomecollection.org/works/uxgfjt62
-    published: '1855-07-01'
-  - name: Science Museum — Cholera in Victorian London
-    url: https://www.sciencemuseum.org.uk/objects-and-stories/medicine/cholera-victorian-london
-    published: ''
-  - name: Royal College of Surgeons of England — Mapping disease, John Snow and cholera
-    url: https://www.rcseng.ac.uk/library-and-publications/library/blog/mapping-disease-john-snow-and-cholera/
-    published: '2016-12-09'
+- name: John Snow — On the Mode of Communication of Cholera, second edition
+  url: https://archive.org/details/b28985266
+  published: '1855-07-01'
+- name: Wellcome Collection — Map showing the deaths from cholera around Broad Street
+  url: https://wellcomecollection.org/works/uxgfjt62
+  published: '1855-07-01'
+- name: Science Museum — Cholera in Victorian London
+  url: https://www.sciencemuseum.org.uk/objects-and-stories/medicine/cholera-victorian-london
+  published: ''
+- name: Royal College of Surgeons of England — Mapping disease, John Snow and cholera
+  url: https://www.rcseng.ac.uk/library-and-publications/library/blog/mapping-disease-john-snow-and-cholera/
+  published: '2016-12-09'
 qma_path: ''
 tickers: []
 quiz:
   question: What made John Snow’s cholera inquiry stronger than plotting deaths alone?
   options:
-    - He used the map as proof and ignored exceptions
-    - He compared exposures and investigated cases that did not fit the pattern
-    - He waited until germ theory was universally accepted
+  - He used the map as proof and ignored exceptions
+  - He compared exposures and investigated cases that did not fit the pattern
+  - He waited until germ theory was universally accepted
   answer: 1
-  explanation: Snow combined geography with interviews, exceptional cases and comparisons between households receiving water from different suppliers.
+  explanation: Snow combined geography with interviews, exceptional cases and comparisons
+    between households receiving water from different suppliers.
+review_reason: 'citlivé téma: killed'
 ---
 
 ## BRIEFLY
@@ -115,4 +118,3 @@ This is not a recipe that turns observation into certainty. Confounding, measure
 ## REFLECT
 
 Snow’s most transferable habit was not cartography. It was refusing to stop at a pattern when a comparison was possible. The useful question is rarely “Does this picture support my story?” It is “What else should I observe if my story—and not its rival—is true?”
-

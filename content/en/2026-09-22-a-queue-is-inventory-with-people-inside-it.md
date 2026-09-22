@@ -1,20 +1,21 @@
 ---
 slug: a-queue-is-inventory-with-people-inside-it
 title: A Queue Is Inventory with People Inside It
-dek: Little’s Law connects arrivals, waiting time and work in progress with one compact equation—but averages cannot tell you whether the wait feels fair.
+dek: Little’s Law connects arrivals, waiting time and work in progress with one compact
+  equation—but averages cannot tell you whether the wait feels fair.
 section: business
 type: feature
 depth: open
 lang: en
 date: '2026-09-22'
 status: reserve
-confidence: 90
+confidence: 89
 load: 0
 topics:
-  - queues
-  - operations
-  - Little's Law
-  - customer experience
+- queues
+- operations
+- Little's Law
+- customer experience
 automation_generated: true
 edition_slot: 7
 automation_role: edition
@@ -24,28 +25,31 @@ event_id: evergreen-littles-law-queue-operations-1961
 series: ''
 image_query: people waiting in orderly service queue operations illustration
 sources:
-  - name: John D. C. Little — A Proof for the Queuing Formula L = λW
-    url: https://www.jstor.org/stable/167570
-    published: '1961-06-01'
-  - name: John D. C. Little — Little's Law as Viewed on Its 50th Anniversary
-    url: https://projectproduction.org/journal/reprint-littles-law-as-viewed-on-its-50th-anniversary/
-    published: '2011-05-01'
-  - name: Richard C. Larson — Perspectives on Queues, Social Justice, and the Psychology of Queueing
-    url: https://www.jstor.org/stable/171439
-    published: '1987-11-01'
-  - name: Don Norman — The Psychology of Waiting Lines
-    url: https://www.researchgate.net/publication/200085847_The_Psychology_of_waiting_lines
-    published: '2008-08-21'
+- name: John D. C. Little — A Proof for the Queuing Formula L = λW
+  url: https://www.jstor.org/stable/167570
+  published: '1961-06-01'
+- name: John D. C. Little — Little's Law as Viewed on Its 50th Anniversary
+  url: https://projectproduction.org/journal/reprint-littles-law-as-viewed-on-its-50th-anniversary/
+  published: '2011-05-01'
+- name: Richard C. Larson — Perspectives on Queues, Social Justice, and the Psychology
+    of Queueing
+  url: https://www.jstor.org/stable/171439
+  published: '1987-11-01'
+- name: Don Norman — The Psychology of Waiting Lines
+  url: https://www.researchgate.net/publication/200085847_The_Psychology_of_waiting_lines
+  published: '2008-08-21'
 qma_path: ''
 tickers: []
 quiz:
-  question: A stable service completes 12 cases an hour, and a case spends 30 minutes in the system on average. What does Little’s Law imply?
+  question: A stable service completes 12 cases an hour, and a case spends 30 minutes
+    in the system on average. What does Little’s Law imply?
   options:
-    - An average of 3 cases are in the system
-    - An average of 6 cases are in the system
-    - Exactly 24 cases must arrive every hour
+  - An average of 3 cases are in the system
+  - An average of 6 cases are in the system
+  - Exactly 24 cases must arrive every hour
   answer: 1
-  explanation: Little’s Law gives L = λW. Twelve cases per hour multiplied by 0.5 hour equals an average of six cases in the system.
+  explanation: Little’s Law gives L = λW. Twelve cases per hour multiplied by 0.5
+    hour equals an average of six cases in the system.
 ---
 
 ## BRIEFLY
@@ -117,4 +121,3 @@ Measure again over a comparable period. If a faster average comes with more aban
 ## REFLECT
 
 Little’s Law turns a queue into a relationship that can be checked. Its best use is modest: make delay and inventory discussable, catch inconsistent claims and point toward better questions. The equation counts people correctly only when the organization remembers that people are more than the count.
-
