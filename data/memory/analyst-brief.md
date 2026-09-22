@@ -7,9 +7,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 40 dní · 60 záznamů
+- rubrika `world` · sledováno 42 dní · 60 záznamů
 - časová osa:
-  - **2026-09-10** (2 zdrojů) Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
   - **2026-09-10** (2 zdrojů) Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
   - **2026-09-13** (2 zdrojů) Ukraine, Poland say Russia hit Warsaw-bound passenger train
   - **2026-09-14** (2 zdrojů) Ukraine, Russia set for new round of US-mediated talks
@@ -19,6 +18,7 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-20** (4 zdrojů) Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
   - **2026-09-20** (2 zdrojů) Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
   - **2026-09-20** (2 zdrojů) Ukraine launches heavy Moscow drone attack as Russia votes
+  - **2026-09-22** (2 zdrojů) EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
