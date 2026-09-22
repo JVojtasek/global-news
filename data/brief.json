@@ -83,122 +83,140 @@
    "depth": "open"
   },
   {
-   "id": "d6f846915316",
-   "headline": "Journalists denied White House access after Trump banned some media outlets",
-   "section": "world",
-   "score": 73,
+   "id": "8fee313a6a87",
+   "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+   "section": "tech",
+   "score": 75,
    "sources_count": 5,
    "depth_signal": 0,
-   "created": "2026-09-19T18:26:52+00:00",
-   "event_time": "2026-09-19T15:19:39+00:00",
+   "created": "2026-09-22T18:32:01+00:00",
+   "event_time": "2026-09-22T16:30:07+00:00",
    "time_kind": "published",
    "items": [
     {
-     "title": "Journalists denied White House access after Trump banned some media outlets",
-     "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-     "published_at": "2026-09-19T15:19:39+00:00",
+     "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+     "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+     "source": "TechCrunch",
+     "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+     "published_at": "2026-09-22T16:30:07+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     },
     {
-     "title": "CNN, MS NOW and Politico denied access to White House",
-     "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.",
-     "published_at": "2026-09-19T15:33:00+00:00",
+     "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+     "source": "The Verge",
+     "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario […]",
+     "published_at": "2026-09-22T16:30:00+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     },
     {
-     "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-     "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-     "source": "NPR News",
-     "summary": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
-     "published_at": "2026-09-19T15:26:31+00:00",
+     "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+     "source": "The Verge AI",
+     "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario […]",
+     "published_at": "2026-09-22T16:30:00+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     },
     {
-     "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
-     "url": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.",
-     "published_at": "2026-09-19T17:48:18+00:00",
+     "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+     "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+     "source": "The Hacker News",
+     "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
+     "published_at": "2026-09-19T18:36:53+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     },
     {
-     "title": "CNN, MS NOW, Politico reporters blocked from White House after Trump ban",
-     "url": "https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban",
-     "source": "France 24",
-     "summary": "White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was banning the three media outlets for what he called \"fake news\" coverage. News organisations and press freedom groups have slammed the move as unconstitutional.",
-     "published_at": "2026-09-19T17:02:47+00:00",
+     "title": "Claude Opus 5.5",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Hacker News Best",
+     "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 316 # Comments: 381",
+     "published_at": "2026-09-22T16:29:05+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
+    },
+    {
+     "title": "Claude Opus 5.5",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Hacker News Best",
+     "summary": "https://github.com/anthropics/ClaudeForFoundationModels/comm... Comments URL: https://news.ycombinator.com/item?id=49803863 Points: 272 # Comments: 2",
+     "published_at": "2026-09-22T16:27:30+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-22T18:31:58+00:00"
     }
    ],
    "depth": "open"
   },
   {
-   "id": "ba630c69b7ba",
-   "headline": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
-   "section": "sport",
-   "score": 66,
-   "sources_count": 3,
-   "depth_signal": 2,
-   "created": "2026-09-19T18:26:52+00:00",
-   "event_time": "2026-09-19T16:43:38+00:00",
+   "id": "c1ce1679f0dd",
+   "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+   "section": "world",
+   "score": 71,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-09-22T18:32:01+00:00",
+   "event_time": "2026-09-22T18:23:08+00:00",
    "time_kind": "published",
    "items": [
     {
-     "title": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.",
-     "published_at": "2026-09-19T16:43:38+00:00",
+     "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+     "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+     "source": "The Guardian World",
+     "summary": "US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upstaged the ghost of former Soviet leader Nikita Khrushchev by openly contemplating the annihilation of a fellow UN member state. Eleven minutes into a 40-minute addre",
+     "published_at": "2026-09-22T18:23:08+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     },
     {
-     "title": "Arsenal v Manchester United: Women’s Super League – live",
-     "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-     "source": "Guardian Sport",
-     "summary": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball forward, but their attack fizzles out. With North London Forever still reverberating around the stands, United get thing",
-     "published_at": "2026-09-19T18:19:45+00:00",
+     "title": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
+     "url": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+     "source": "France 24",
+     "summary": "US President Donald Trump launched a full-throated defence of the deeply unpopular US-Israeli war against Iran before the UN General Assembly on Tuesday, claiming that Washington would reach a deal with Tehran after the upcoming US midterm elections. Trump also rejected the idea of global regulation of artificial intelligence, said the government of Cuba would soon \"fall\", and urged member countri",
+     "published_at": "2026-09-22T17:09:26+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     },
     {
-     "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
-     "url": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
+     "title": "Iran: Trump believes in an agreement after US midterms",
+     "url": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms",
+     "source": "France 24",
+     "summary": "US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East. He added that he believed an agreement was possible after the US midterm elections in November.",
+     "published_at": "2026-09-22T16:17:06+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-22T18:31:58+00:00"
+    },
+    {
+     "title": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
+     "url": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
+     "source": "France 24",
+     "summary": "US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it \"out of control.\" He also used the speech to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and warn that he could \"annihilate the Islamic Republic\" if no deal is reached to end the conflict. Watch his speech in full above.",
+     "published_at": "2026-09-22T16:13:28+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-22T18:31:58+00:00"
+    },
+    {
+     "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss",
      "source": "Al Jazeera",
-     "summary": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.",
-     "published_at": "2026-09-19T16:42:26+00:00",
+     "summary": "US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.",
+     "published_at": "2026-09-22T15:19:19+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     },
     {
-     "title": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
-     "url": "https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report",
-     "source": "Guardian Sport",
-     "summary": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion will end up being collector’s items after the Premier League champions were ripped apart. Arsenal were attempting to reco",
-     "published_at": "2026-09-19T16:06:47+00:00",
+     "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+     "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+     "source": "CNBC Top",
+     "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+     "published_at": "2026-09-21T22:25:33+00:00",
      "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
-    },
-    {
-     "title": "Tottenham 2-3 Aston Villa: Premier League – as it happened",
-     "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-     "source": "Guardian Sport",
-     "summary": "Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...",
-     "published_at": "2026-09-19T14:05:27+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-19T18:26:49+00:00"
+     "seen_at": "2026-09-22T18:31:58+00:00"
     }
    ],
-   "depth": "open"
+   "depth": "scripture"
   },
   {
    "id": "147ec0dad904",

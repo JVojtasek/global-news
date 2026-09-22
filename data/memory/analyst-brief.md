@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-22
 
-Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **47**.
+Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **47**.
 
 ---
 
@@ -51,9 +51,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 39 dní · 45 záznamů
+- rubrika `world` · sledováno 40 dní · 46 záznamů
 - časová osa:
-  - **2026-09-10** (2 zdrojů) Muted US response to UK's West Bank sanctions may reflect simmering frustration
   - **2026-09-14** (2 zdrojů) Former West Ham keeper Miklosko dies aged 64
   - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
   - **2026-09-20** (2 zdrojů) An Israeli settler and a Palestinian driver killed in West Bank shootings
@@ -63,12 +62,11 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-21** (2 zdrojů) Trump to meet Macron in New York before UN General Assembly
   - **2026-09-21** (2 zdrojů) Burnham hails Greenland deal ahead of expected first Trump meeting
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
+  - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 44 dní · 38 záznamů
+- rubrika `world` · sledováno 44 dní · 40 záznamů
 - časová osa:
-  - **2026-09-19** (3 zdrojů) Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital
-  - **2026-09-19** (2 zdrojů) Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
   - **2026-09-20** (2 zdrojů) Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
   - **2026-09-20** (2 zdrojů) Saudi Arabia says Houthis tried to attack its capital
   - **2026-09-21** (3 zdrojů) Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs
@@ -77,6 +75,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-22** (3 zdrojů) Iran war spreads through region as Trump seeks way out
   - **2026-09-22** (2 zdrojů) Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
   - **2026-09-22** (2 zdrojů) Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights
+  - **2026-09-22** (4 zdrojů) Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
+  - **2026-09-22** (2 zdrojů) Republic of Ireland braced for testing Nations League
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

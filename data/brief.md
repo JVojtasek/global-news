@@ -34,45 +34,51 @@
   - **Investing.com** — Paramount settles with states over Warner Bros Discovery deal
     <https://www.investing.com/news/stock-market-news/paramount-settles-with-states-over-warner-bros-discovery-deal-4909498>
 
-### 2. Journalists denied White House access after Trump banned some media outlets
-- id události: `d6f846915316`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
+### 2. Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+- id události: `8fee313a6a87`  ·  rubrika: `tech`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Journalists denied White House access after Trump banned some media outlets
-    <https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss>
-    > CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
-  - **DW News** — CNN, MS NOW and Politico denied access to White House
-    <https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf>
-    > Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.
-  - **NPR News** — CNN, MS NOW, Politico reporters denied access to White House following Trump ban
-    <https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban>
-    > Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting "FICTION and LIES."
-  - **Al Jazeera** — A ‘ban on the free press’: White House bars journalists from three outlets
-    <https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss>
-    > Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.
-  - **France 24** — CNN, MS NOW, Politico reporters blocked from White House after Trump ban
-    <https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban>
-    > White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was banning the three media outlets for what he called "fake news" coverage. News organisations a
+  - **TechCrunch** — Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+    <https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/>
+    > Anthropic called it "the strongest-performing model we've tested to date."
+  - **The Verge** — Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
+    <https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity>
+    > Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's test
+  - **The Verge AI** — Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
+    <https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity>
+    > Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's test
+  - **The Hacker News** — Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
+    <https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html>
+    > Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's
+  - **Hacker News Best** — Claude Opus 5.5
+    <https://www.anthropic.com/claude-opus-5-5>
+    > Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 316 # Comments: 381
+  - **Hacker News Best** — Claude Opus 5.5
+    <https://www.anthropic.com/claude-opus-5-5>
+    > https://github.com/anthropics/ClaudeForFoundationModels/comm... Comments URL: https://news.ycombinator.com/item?id=49803863 Points: 272 # Comments: 2
 
-### 3. 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
-- id události: `ba630c69b7ba`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 3. Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
+- id události: `c1ce1679f0dd`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Sport** — 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
-    <https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss>
-    > Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.
-  - **Guardian Sport** — Arsenal v Manchester United: Women’s Super League – live
-    <https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live>
-    > ⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball 
-  - **Al Jazeera** — Brighton beat Arsenal 3-0 as Man City top Premier League without playing
-    <https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss>
-    > Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.
-  - **Guardian Sport** — Brighton demolish champions Arsenal 3-0 to mark anniversary in style
-    <https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report>
-    > So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion w
-  - **Guardian Sport** — Tottenham 2-3 Aston Villa: Premier League – as it happened
-    <https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live>
-    > Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...
+  - **The Guardian World** — Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
+    <https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech>
+    > US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upstaged the ghost of former Soviet leader Nikit
+  - **France 24** — Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly
+    <https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly>
+    > US President Donald Trump launched a full-throated defence of the deeply unpopular US-Israeli war against Iran before the UN General Assembly on Tuesday, claiming that Washington would reach a deal with Tehran after the upcoming US midterm elections. Trump also rejected the idea 
+  - **France 24** — Iran: Trump believes in an agreement after US midterms
+    <https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms>
+    > US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East. He added that he believed an agreement was possible after the US midterm elec
+  - **France 24** — REPLAY: Trump defends Iran war, attacks ICC in UN speech
+    <https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech>
+    > US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it "out of control." He also used the speech to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and warn that he coul
+  - **Al Jazeera** — Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’
+    <https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss>
+    > US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.
+  - **CNBC Top** — Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch
+    <https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html>
+    > Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.
 
 ### 4. Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
 - id události: `147ec0dad904`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3

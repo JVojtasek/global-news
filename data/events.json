@@ -76,118 +76,136 @@
   ]
  },
  {
-  "id": "d6f846915316",
-  "headline": "Journalists denied White House access after Trump banned some media outlets",
-  "section": "world",
-  "score": 73,
+  "id": "8fee313a6a87",
+  "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+  "section": "tech",
+  "score": 75,
   "sources_count": 5,
   "depth_signal": 0,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T15:19:39+00:00",
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T16:30:07+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Journalists denied White House access after Trump banned some media outlets",
-    "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-    "published_at": "2026-09-19T15:19:39+00:00",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "source": "TechCrunch",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "published_at": "2026-09-22T16:30:07+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "CNN, MS NOW and Politico denied access to White House",
-    "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.",
-    "published_at": "2026-09-19T15:33:00+00:00",
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "source": "The Verge",
+    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario […]",
+    "published_at": "2026-09-22T16:30:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-    "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-    "source": "NPR News",
-    "summary": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\"",
-    "published_at": "2026-09-19T15:26:31+00:00",
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "source": "The Verge AI",
+    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario […]",
+    "published_at": "2026-09-22T16:30:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
-    "url": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.",
-    "published_at": "2026-09-19T17:48:18+00:00",
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+    "source": "The Hacker News",
+    "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
+    "published_at": "2026-09-19T18:36:53+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "CNN, MS NOW, Politico reporters blocked from White House after Trump ban",
-    "url": "https://www.france24.com/en/americas/20260919-cnn-ms-now-politico-reporters-blocked-from-white-house-after-trump-ban",
-    "source": "France 24",
-    "summary": "White House correspondents for CNN, MS NOW and Politico on Saturday were blocked from entering the US president's office and residence a day after President Donald Trump announced he was banning the three media outlets for what he called \"fake news\" coverage. News organisations and press freedom groups have slammed the move as unconstitutional.",
-    "published_at": "2026-09-19T17:02:47+00:00",
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "source": "Hacker News Best",
+    "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 316 # Comments: 381",
+    "published_at": "2026-09-22T16:29:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "Claude Opus 5.5",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "source": "Hacker News Best",
+    "summary": "https://github.com/anthropics/ClaudeForFoundationModels/comm... Comments URL: https://news.ycombinator.com/item?id=49803863 Points: 272 # Comments: 2",
+    "published_at": "2026-09-22T16:27:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
  {
-  "id": "ba630c69b7ba",
-  "headline": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
-  "section": "sport",
-  "score": 66,
-  "sources_count": 3,
-  "depth_signal": 2,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T16:43:38+00:00",
+  "id": "c1ce1679f0dd",
+  "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+  "section": "world",
+  "score": 71,
+  "sources_count": 4,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T18:23:08+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Brighton manager Fabian Hurzeler highlights his team's intensity, togetherness and squad depth following their resounding 3-0 win against Arsenal in the Premier League.",
-    "published_at": "2026-09-19T16:43:38+00:00",
+    "title": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+    "url": "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+    "source": "The Guardian World",
+    "summary": "US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upstaged the ghost of former Soviet leader Nikita Khrushchev by openly contemplating the annihilation of a fellow UN member state. Eleven minutes into a 40-minute addre",
+    "published_at": "2026-09-22T18:23:08+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "Arsenal v Manchester United: Women’s Super League – live",
-    "url": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-    "source": "Guardian Sport",
-    "summary": "⚽️ WSL updates from the 5.30pm (BST) kick-off ⚽️ Man City scramble to WSL win over Liverpool | Mail Will 2 min Dominique Janssen, the former Arsenal defender, slides in on Olivia Smith and catches her on the ankle with a follow-through. Arsenal use the free-kick to work the ball forward, but their attack fizzles out. With North London Forever still reverberating around the stands, United get thing",
-    "published_at": "2026-09-19T18:19:45+00:00",
+    "title": "Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly",
+    "url": "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+    "source": "France 24",
+    "summary": "US President Donald Trump launched a full-throated defence of the deeply unpopular US-Israeli war against Iran before the UN General Assembly on Tuesday, claiming that Washington would reach a deal with Tehran after the upcoming US midterm elections. Trump also rejected the idea of global regulation of artificial intelligence, said the government of Cuba would soon \"fall\", and urged member countri",
+    "published_at": "2026-09-22T17:09:26+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
-    "url": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
+    "title": "Iran: Trump believes in an agreement after US midterms",
+    "url": "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms",
+    "source": "France 24",
+    "summary": "US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East. He added that he believed an agreement was possible after the US midterm elections in November.",
+    "published_at": "2026-09-22T16:17:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "REPLAY: Trump defends Iran war, attacks ICC in UN speech",
+    "url": "https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech",
+    "source": "France 24",
+    "summary": "US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it \"out of control.\" He also used the speech to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and warn that he could \"annihilate the Islamic Republic\" if no deal is reached to end the conflict. Watch his speech in full above.",
+    "published_at": "2026-09-22T16:13:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.",
-    "published_at": "2026-09-19T16:42:26+00:00",
+    "summary": "US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.",
+    "published_at": "2026-09-22T15:19:19+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "Brighton demolish champions Arsenal 3-0 to mark anniversary in style",
-    "url": "https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report",
-    "source": "Guardian Sport",
-    "summary": "So much for the new Invincibles. Arsenal were brought back down to earth with a shuddering bump by a scintillating display from Brighton as Fabian Hürzeler’s vibrant side celebrated the club’s 125th anniversary in style. The special edition shirts they wore to mark the occasion will end up being collector’s items after the Premier League champions were ripped apart. Arsenal were attempting to reco",
-    "published_at": "2026-09-19T16:06:47+00:00",
+    "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+    "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+    "source": "CNBC Top",
+    "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+    "published_at": "2026-09-21T22:25:33+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
-   },
-   {
-    "title": "Tottenham 2-3 Aston Villa: Premier League – as it happened",
-    "url": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-    "source": "Guardian Sport",
-    "summary": "Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi Buendía earned the win for Villa This is the 176th meeting between the sides. Spurs have the historical edge having won 79 to Villa’s 62. There have been 32 draws. Continue reading...",
-    "published_at": "2026-09-19T14:05:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
@@ -1335,33 +1353,33 @@
   ]
  },
  {
-  "id": "dbf103d247c1",
-  "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-  "section": "world",
-  "score": 48,
+  "id": "4bf76d623443",
+  "headline": "Check Point warns of Management Server zero-day exploited in attacks",
+  "section": "safety",
+  "score": 49,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T17:50:14+00:00",
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T16:32:47+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-    "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-    "published_at": "2026-09-19T17:50:14+00:00",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+    "source": "BleepingComputer",
+    "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+    "published_at": "2026-09-22T16:32:47+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia",
-    "url": "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia",
-    "source": "France 24",
-    "summary": "⁠Flames and plumes of smoke ‌were ⁠seen ‌rising near ⁠Riyadh airport this afternoon with flights cancelled and delayed. This as fighting between Saudi-backed government forces and Iran-backed Houthi rebels has killed 48 people in recent hours. The rebels staged a lightning offensive this month, seizing swathes of territory in Yemen and launching a barrage of missiles and drones toward Saudi Arabia",
-    "published_at": "2026-09-19T15:16:03+00:00",
+    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+    "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+    "source": "The Hacker News",
+    "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw",
+    "published_at": "2026-09-17T18:08:28+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
@@ -1624,46 +1642,6 @@
     "published_at": "2026-09-22T12:37:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-22T15:25:55+00:00"
-   }
-  ]
- },
- {
-  "id": "b6a7c3b080e8",
-  "headline": "Google’s Gemini is the latest AI model to hack other companies",
-  "section": "tech",
-  "score": 46,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T17:30:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "source": "TechCrunch",
-    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-    "published_at": "2026-09-19T17:30:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
-   },
-   {
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "source": "The Verge",
-    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
-    "published_at": "2026-09-19T15:25:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
-   },
-   {
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "source": "The Verge AI",
-    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
-    "published_at": "2026-09-19T15:25:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
    }
   ]
  },
@@ -2009,6 +1987,28 @@
   ]
  },
  {
+  "id": "c9a5131a0cf2",
+  "headline": "For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience",
+  "section": "culture",
+  "score": 46,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:55:30+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/for-years-the-smithsonian-strove-to-bring-the-african-american-history-and-culture-museum-to-the-national-mall-now-it-celebrates-a-decade-as-a-beacon-of-understanding-community-and-resilience-180989535/",
+    "source": "Smithsonian Mag",
+    "summary": "The museum lovingly called the \"Blacksonian\" chronicles the past and present and envisions the future to tell the stories of Black life in America",
+    "published_at": "2026-09-22T17:55:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "2a4b43d9f74a",
   "headline": "Republic of Ireland braced for testing Nations League",
   "section": "sport",
@@ -2350,6 +2350,37 @@
   ]
  },
  {
+  "id": "b574e5989eec",
+  "headline": "Stocks making the biggest moves midday: Lennar, Capri, Vicor, Amgen & more",
+  "section": "business",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:45:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Stocks making the biggest moves midday: Lennar, Capri, Vicor, Amgen & more",
+    "url": "https://www.cnbc.com/2026/09/22/stocks-making-the-biggest-moves-midday-len-cpri-vicr-amg.html",
+    "source": "CNBC Top",
+    "summary": "These are the stocks posting the largest moves midday.",
+    "published_at": "2026-09-22T17:45:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "Amgen, Vicor among market cap stock movers on Tuesday",
+    "url": "https://www.investing.com/news/stock-market-news/amgen-vicor-among-market-cap-stock-movers-on-tuesday-93CH-4911439",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-22T18:07:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "07d55433e254",
   "headline": "German elections under way which could decide fate of Chancellor Merz",
   "section": "world",
@@ -2616,68 +2647,6 @@
     "published_at": "2026-09-22T14:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-22T15:25:55+00:00"
-   }
-  ]
- },
- {
-  "id": "db36295da8b2",
-  "headline": "No revival in sight for 'fragile' Spurs after Villa defeat",
-  "section": "sport",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T15:33:20+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "No revival in sight for 'fragile' Spurs after Villa defeat",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Tottenham look no closer to solving their problems as they slip to a home defeat by Aston Villa to add to their Premier League misery.",
-    "published_at": "2026-09-19T15:33:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
-   },
-   {
-    "title": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
-    "url": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
-    "source": "Guardian Sport",
-    "summary": "Tottenham lose 3-2 at home with two late consolations ‘We can’t lose the game in this way,’ says furious manager Roberto De Zerbi tore into his failing Tottenham team after their 3-2 defeat by Aston Villa, saying “we can’t lose the game in this way”. The Italian headed straight down the tunnel at full time, but was once again forced to endure boos as Tottenham went into the three-week internationa",
-    "published_at": "2026-09-19T17:01:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
-   }
-  ]
- },
- {
-  "id": "cdb8565456a3",
-  "headline": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
-  "section": "sport",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T16:50:50+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete after the Gunners lost 3-0 to Brighton - their first defeat in the Premier League this season.",
-    "published_at": "2026-09-19T16:50:50+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
-   },
-   {
-    "title": "‘They deserved to win’: Mikel Arteta left humbled by Brighton defeat",
-    "url": "https://www.theguardian.com/football/2026/sep/19/mikel-arteta-arsenal-humbled-brighton-defeat",
-    "source": "Guardian Sport",
-    "summary": "Arsenal’s 100% start to season comes to an end Manager says team put themselves in trouble from start Mikel Arteta admitted Arsenal were taught a lesson by free-scoring Brighton as their 100% start to the season was abruptly ended on Saturday. Not since 10 May 2023 – 1,224 days ago – when the same opponents won 3-0 at the Emirates Stadium had the Premier League champions lost by three goals. But t",
-    "published_at": "2026-09-19T17:34:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
    }
   ]
  },
@@ -3178,33 +3147,33 @@
   ]
  },
  {
-  "id": "c4185ae08f6b",
-  "headline": "George Osborne ‘thought Peter Thiel’s Bayeux tapestry visit would be secret’",
+  "id": "954841d14c5d",
+  "headline": "Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’",
   "section": "world",
-  "score": 41,
+  "score": 42,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T15:41:39+00:00",
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T15:49:49+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "George Osborne ‘thought Peter Thiel’s Bayeux tapestry visit would be secret’",
-    "url": "https://www.theguardian.com/politics/2026/sep/19/george-osborne-peter-thiel-bayeux-tapestry-visit",
-    "source": "The Guardian World",
-    "summary": "British Museum chair tells Big Brue festival he thought no one would find out about the private viewing George Osborne has said he thought no one would find out about a private viewing of the Bayeux tapestry he organised for the tech billionaire Peter Thiel at the British Museum. The former chancellor, who is chair of the museum, told the Big Brue festival in Somerset that he had been on holiday w",
-    "published_at": "2026-09-19T15:41:39+00:00",
+    "title": "Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’",
+    "url": "https://www.theguardian.com/culture/2026/sep/22/jon-stewart-trump-white-house-media-ban",
+    "source": "Guardian Culture",
+    "summary": "Late-night hosts respond to Trump’s removal of outlets such as CNN and Politico from the White House press pool over ‘negative stories’ Late-night hosts reacted to Donald Trump ’s dramatic White House media ban and casual disregard of the first amendment. Continue reading...",
+    "published_at": "2026-09-22T15:49:49+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "George Osborne ‘thought Peter Thiel’s Bayeux tapestry visit would be secret’",
-    "url": "https://www.theguardian.com/politics/2026/sep/19/george-osborne-peter-thiel-bayeux-tapestry-visit",
-    "source": "Guardian Business",
-    "summary": "British Museum chair tells Big Brue festival he thought no one would find out about the private viewing George Osborne has said he thought no one would find out about a private viewing of the Bayeux tapestry he organised for the tech billionaire Peter Thiel at the British Museum. The former chancellor, who is chair of the museum, told the Big Brue festival in Somerset that he had been on holiday w",
-    "published_at": "2026-09-19T15:41:39+00:00",
+    "title": "Rubio defends Trump’s White House ban on CNN, MS NOW and Politico",
+    "url": "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The White House launched 'Trump TV' as major networks suspended the television pool covering the US president.",
+    "published_at": "2026-09-22T15:27:49+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
@@ -3939,6 +3908,90 @@
   ]
  },
  {
+  "id": "17815563709b",
+  "headline": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T16:57:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+    "published_at": "2026-09-22T16:57:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
+    "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+    "published_at": "2026-09-22T16:57:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "99e5e1387852",
+  "headline": "US fighter jet crashes at air base in western Germany",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T16:49:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "US fighter jet crashes at air base in western Germany",
+    "url": "https://www.theguardian.com/us-news/2026/sep/22/fighter-jet-crashes-germany",
+    "source": "The Guardian World",
+    "summary": "Officials say one pilot safely ejected as F-16 believed to have crashed on approach to Spangdahlem after training drill ⁠An F-16 fighter jet assigned to the US air ⁠base Spangdahlem ⁠in ​western Germany crashed on Tuesday, the US military said, ⁠adding that one pilot had ejected safely and was receiving ⁠medical treatment. The cause of the incident ​is under ‌investigation, the military ‌said in a",
+    "published_at": "2026-09-22T16:49:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
+    "url": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The F-16 pilot was able to safely eject from the plane and was taken to receive medical care. The incident occurred near Spangdahlem Air Base in the German state of Rhineland-Palatinate.",
+    "published_at": "2026-09-22T14:12:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "dffea7e9e9fd",
+  "headline": "More Than 800,000 Bees, Worth Tens of Thousands of Dollars, Have Been Stolen in ‘Sophisticated’ Heists Across Northern Australia",
+  "section": "culture",
+  "score": 40,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:38:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "More Than 800,000 Bees, Worth Tens of Thousands of Dollars, Have Been Stolen in ‘Sophisticated’ Heists Across Northern Australia",
+    "url": "https://www.smithsonianmag.com/smart-news/more-than-800000-bees-worth-tens-of-thousands-of-dollars-have-been-stolen-in-sophisticated-heists-across-northern-australia-180989545/",
+    "source": "Smithsonian Mag",
+    "summary": "The recent spread of a bee-killing parasite has contributed to an uptick in brazen thefts, experts theorize",
+    "published_at": "2026-09-22T17:38:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "14711a951750",
   "headline": "Chiltern Railways enters public ownership in Labour nationalisation push",
   "section": "world",
@@ -4368,33 +4421,33 @@
   ]
  },
  {
-  "id": "21218962d3f3",
-  "headline": "Frenetic draw with Canada ends England's 39-game winning run",
-  "section": "sport",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-19T17:32:21+00:00",
+  "id": "97f4d9447dab",
+  "headline": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+  "section": "tech",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T16:34:08+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Frenetic draw with Canada ends England's 39-game winning run",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6eq8v70lpn9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "England's remarkable winning run comes to an end as they are held to a nail-biting 26-26 draw by Canada at Sandy Park.",
-    "published_at": "2026-09-19T17:32:21+00:00",
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "source": "The Verge",
+    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. […]",
+    "published_at": "2026-09-22T16:34:08+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    },
    {
-    "title": "England's 39-match winning streak halted by thrilling draw with Canada",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/videos/ckj06v16j972o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "England's winning record - stretching back to a loss in the 2022 World Cup final to New Zealand - was halted by Canada, who held the hosts to a thrilling 26-26 draw in the WXV Global Series.",
-    "published_at": "2026-09-19T17:14:35+00:00",
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "source": "The Verge AI",
+    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. […]",
+    "published_at": "2026-09-22T16:34:08+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
@@ -4996,6 +5049,68 @@
   ]
  },
  {
+  "id": "a441f2aea722",
+  "headline": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+  "section": "ai",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:06:16+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+    "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+    "source": "Ars Technica",
+    "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+    "published_at": "2026-09-22T17:06:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+    "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+    "source": "Ars Technica AI",
+    "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+    "published_at": "2026-09-22T17:06:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "39c738b7947a",
+  "headline": "Allen County Historical Society and Museum in Lima, Ohio",
+  "section": "travel",
+  "score": 38,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:30:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Allen County Historical Society and Museum in Lima, Ohio",
+    "url": "https://www.atlasobscura.com/places/allen-county-historical-society-and-museum",
+    "source": "Atlas Obscura",
+    "summary": "If the entirety of this museum wasn’t so peculiar already, the James E. Grosjean Room at the Allen County Historical Museum would be a place of magic surrealism; a tactile portal to the past in the midst of the proverbial Rust Belt town built quickly on oil. Lima once had a bustling trolley system, the prominent Faurot Opera House, industry, culture and promise. But now it’s easy to see the declin",
+    "published_at": "2026-09-22T17:30:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   },
+   {
+    "title": "Ohio's Small Town Museum in Ashville, Ohio",
+    "url": "https://www.atlasobscura.com/places/ohio-small-town-museum",
+    "source": "Atlas Obscura",
+    "summary": "With travel nonexistent, the summer of 2020 was devastating for tiny institutions which usually operate on an ever-shrinking budget, rely on donations or grants to stay afloat, and run with a skeleton crew of volunteers. Some literally have trouble leaving the lights on. But each of these museums, no matter how spartan, tells the story of that particular community. They're vital to the survival of",
+    "published_at": "2026-09-22T17:22:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
   "id": "f78722905e9e",
   "headline": "Brighton humbling 'a big lesson' for Arsenal - Arteta",
   "section": "sport",
@@ -5429,6 +5544,28 @@
     "published_at": "2026-09-21T23:38:57+00:00",
     "source_countries": [],
     "seen_at": "2026-09-22T00:58:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "777be909ff64",
+  "headline": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+  "section": "science",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:33:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+    "url": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat/",
+    "source": "NASA",
+    "summary": "NASA-supported scientists have discovered an organism that lives at extreme temperatures previously thought impossible for complex life. High temperatures can cause the destruction of necessary cell components, which is a big problem for cells with complex parts like a nucleus encasing delicate genetic information. In the heated waters of California’s Lassen Volcanic National Park, a […]",
+    "published_at": "2026-09-22T17:33:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
@@ -6423,24 +6560,24 @@
   ]
  },
  {
-  "id": "a0aed382f458",
-  "headline": "FBI Probes Service Selling 153M+ Drivers Licenses",
-  "section": "safety",
-  "score": 35,
+  "id": "8e37b4557ce6",
+  "headline": "Scientists Say the Human Brain Might Be Made of Two Distinct Nervous Systems That Got Squished Together",
+  "section": "culture",
+  "score": 36,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-19T18:26:52+00:00",
-  "event_time": "2026-09-01T22:40:28+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T15:54:17+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-    "source": "Krebs on Security",
-    "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity a",
-    "published_at": "2026-09-01T22:40:28+00:00",
+    "title": "Scientists Say the Human Brain Might Be Made of Two Distinct Nervous Systems That Got Squished Together",
+    "url": "https://www.smithsonianmag.com/smart-news/scientists-say-the-human-brain-might-be-made-of-two-distinct-nervous-systems-that-got-squished-together-180989539/",
+    "source": "Smithsonian Mag",
+    "summary": "Two separate types of progenitor cells give rise to the front and back of the organ, according to a new study. The findings can help researchers study human diseases that affect the hindbrain, since its nerve cells have previously been difficult—if not impossible—to make in the lab",
+    "published_at": "2026-09-22T15:54:17+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-19T18:26:49+00:00"
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
@@ -7256,6 +7393,116 @@
     "published_at": "2026-09-17T18:08:28+00:00",
     "source_countries": [],
     "seen_at": "2026-09-22T15:25:55+00:00"
+   }
+  ]
+ },
+ {
+  "id": "144f9a7372c2",
+  "headline": "The Guardian view on Keynes in the West End: James Graham’s latest play captures the zeitgeist | Editorial",
+  "section": "business",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:50:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Guardian view on Keynes in the West End: James Graham’s latest play captures the zeitgeist | Editorial",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/22/the-guardian-view-on-keynes-in-the-west-end-james-grahams-latest-play-captures-the-zeitgeist",
+    "source": "Guardian Business",
+    "summary": "As the chancellor, John Healey, ponders options ahead of his first budget, the playwright’s new work offers lessons from the past Still only 44, James Graham has become a formidable chronicler of our national story. On themes such as the rise of Rupert Murdoch , social upheaval in post-industrial Britain and the neuroses of the England men’s football team, the playwright and screenwriter has made ",
+    "published_at": "2026-09-22T17:50:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c4b4bc30a5aa",
+  "headline": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+  "section": "science",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T15:40:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
+    "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+    "source": "NASA",
+    "summary": "Using NASA’s Chandra X-ray Observatory, researchers found mysterious objects that give off unusually low-energy X-rays but intense levels of ultraviolet radiation. One of the galaxies they studied, M101, is pictured here in this image released on Sept. 9, 2026. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two […]",
+    "published_at": "2026-09-22T15:40:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "b2d7467d7731",
+  "headline": "Christian Bale Opens Long-Dreamed of Foster Care Village Aimed at Keeping Siblings Together",
+  "section": "parenting",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-15T18:30:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Christian Bale Opens Long-Dreamed of Foster Care Village Aimed at Keeping Siblings Together",
+    "url": "https://www.goodnewsnetwork.org/christian-bale-opens-long-dreamed-of-foster-care-village-aimed-at-keeping-siblings-together/",
+    "source": "Good News Network",
+    "summary": "The personal passion project of Hollywood A-lister Christian Bale has finally come to fruition, as the Welsh actor cut the ribbon on a children’s foster care village in Palmdale, California. Called Together California, the facility and the organization which will run it are focused on one key mission Mr. Bale says the state foster system […] The post Christian Bale Opens Long-Dreamed of Foster Car",
+    "published_at": "2026-09-15T18:30:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f069687e4a1d",
+  "headline": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-22T17:03:31+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+    "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+    "source": "The Hacker News",
+    "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver",
+    "published_at": "2026-09-22T17:03:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f7a8a3c8b9b3",
+  "headline": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-22T18:32:01+00:00",
+  "event_time": "2026-09-18T16:56:19+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+    "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+    "source": "The Hacker News",
+    "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
+    "published_at": "2026-09-18T16:56:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-22T18:31:58+00:00"
    }
   ]
  },
@@ -8450,226 +8697,6 @@
     "published_at": "2026-09-22T03:37:05+00:00",
     "source_countries": [],
     "seen_at": "2026-09-22T06:40:52+00:00"
-   }
-  ]
- },
- {
-  "id": "4bd6e2c10092",
-  "headline": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T09:27:19+00:00",
-  "event_time": "2026-09-22T08:10:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
-    "url": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019.",
-    "published_at": "2026-09-22T08:10:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T09:27:15+00:00"
-   }
-  ]
- },
- {
-  "id": "c0413bd39f7a",
-  "headline": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-22T09:27:19+00:00",
-  "event_time": "2026-09-22T05:57:46+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-    "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
-    "published_at": "2026-09-22T05:57:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T09:27:15+00:00"
-   }
-  ]
- },
- {
-  "id": "613e4922b89c",
-  "headline": "The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T09:27:19+00:00",
-  "event_time": "2026-09-22T09:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The House Freedom Caucus has to transform — it could preview the GOP's post-Trump era",
-    "url": "https://www.npr.org/2026/09/22/g-s1-144369/freedom-caucus-trump-republicans",
-    "source": "NPR News",
-    "summary": "The conservative House Freedom caucus grew in prominence along side President Trump, now they are considering what the future of their movement looks like.",
-    "published_at": "2026-09-22T09:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T09:27:15+00:00"
-   }
-  ]
- },
- {
-  "id": "c76b5fe69543",
-  "headline": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T09:27:19+00:00",
-  "event_time": "2026-09-22T08:31:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
-    "url": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
-    "source": "NPR News",
-    "summary": "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends to celebrate Independence Day.",
-    "published_at": "2026-09-22T08:31:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T09:27:15+00:00"
-   }
-  ]
- },
- {
-  "id": "52caf48de77c",
-  "headline": "‘Hardships never last’: Jenn Lichter’s path from Colombian orphanage to ultrarunning records",
-  "section": "sport",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T09:27:19+00:00",
-  "event_time": "2026-09-22T09:00:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘Hardships never last’: Jenn Lichter’s path from Colombian orphanage to ultrarunning records",
-    "url": "https://www.theguardian.com/sport/2026/sep/22/jenn-lichter-ultrarunning",
-    "source": "Guardian Sport",
-    "summary": "Jenn Lichter’s childhood followed a difficult path. The resilience she gained helped her achieve an unbreakable ultrarunning feat this summer On 27 June, Jenn Lichter lined up for her first 100-mile race, the Western States 100. The oldest and most prestigious 100-miler in the world, Western States attracts a highly competitive field from around the globe – the athletes run across the Sierra Nevad",
-    "published_at": "2026-09-22T09:00:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T09:27:15+00:00"
-   }
-  ]
- },
- {
-  "id": "ce83d76865f0",
-  "headline": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T10:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
-    "url": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian",
-    "source": "NPR News",
-    "summary": "A lock of hair, 15 years of sleuthing and a 200-year-old question. In History by a Hair , Smithsonian Institution scholar Richard Kurin follows the DNA trail back to Thomas Jefferson.",
-    "published_at": "2026-09-22T10:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   }
-  ]
- },
- {
-  "id": "08987b3cba06",
-  "headline": "Swan Song by Charles Spencer review – a furious exercise in score-settling by Diana’s brother",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:09:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Swan Song by Charles Spencer review – a furious exercise in score-settling by Diana’s brother",
-    "url": "https://www.theguardian.com/books/2026/sep/22/swan-song-charles-spencer-review-diana-princess-of-wales-brother-earl",
-    "source": "Guardian Culture",
-    "summary": "Amid genuinely touching passages about his sister, the earl can’t help but put himself and his grievances centre stage Charles Spencer’s Swan Song, a memoir of his relationship with his sister, the late Diana, Princess of Wales, is a fascinating document that tells us a little about Diana and a great deal about Charles Spencer – perhaps more than we needed to know. If that sounds snarky, after 400",
-    "published_at": "2026-09-22T11:09:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   }
-  ]
- },
- {
-  "id": "d613564662b6",
-  "headline": "Prisoners Prove Unlikely Heroes to Monarch Butterflies Thanks to Wisconsin Correctional Program",
-  "section": "goodnews",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:00:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Prisoners Prove Unlikely Heroes to Monarch Butterflies Thanks to Wisconsin Correctional Program",
-    "url": "https://www.goodnewsnetwork.org/prisoners-prove-unlikely-heroes-to-monarch-butterflies-thanks-to-wisconsin-correctional-program/",
-    "source": "Good News Network",
-    "summary": "Wisconsin prison inmates have been offered a unique way to give back to their community by raising monarch butterflies from the inside. Set up at Redgranite Correctional Institute (RGCI), the idea first came to the program organizer while looking for something that inmates who were physically unable to participate in sports could do. Now in […] The post Prisoners Prove Unlikely Heroes to Monarch B",
-    "published_at": "2026-09-22T11:00:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   }
-  ]
- },
- {
-  "id": "abcb75e4a621",
-  "headline": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-  "section": "safety",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:38:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-    "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-    "source": "The Hacker News",
-    "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.",
-    "published_at": "2026-09-22T11:38:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   }
-  ]
- },
- {
-  "id": "0e615139535d",
-  "headline": "Father admits causing death of his son in Cyprus hotel fall",
-  "section": "world",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T15:26:01+00:00",
-  "event_time": "2026-09-22T14:31:34+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Father admits causing death of his son in Cyprus hotel fall",
-    "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-    "published_at": "2026-09-22T14:31:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T15:25:55+00:00"
    }
   ]
  }
