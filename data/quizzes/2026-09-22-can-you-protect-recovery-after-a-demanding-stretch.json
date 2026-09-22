@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-protect-recovery-after-a-demanding-stretch",
+  "date": "2026-09-22",
+  "category": "resilience",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "Can you protect recovery after a demanding stretch?", "cs": "Dokážete po náročném období chránit zotavení?"},
+    "dek": {"en": "Eight everyday situations look at how you notice strain, create boundaries, restore capacity and reconnect with support.", "cs": "Osm běžných situací ukáže, jak si všímáte zátěže, vytváříte hranice, obnovujete kapacitu a znovu se opíráte o podporu."},
+    "intro": {"en": "Choose what you would most likely do now, not the response you think a perfectly resilient person should give. Recovery depends on circumstances, health, resources and other people; the aim is to find one capacity you can strengthen without judging your worth. The quiz does not collect your answers.", "cs": "Vyberte, co byste nyní nejspíš udělali, ne odpověď, kterou by podle vás měl zvolit dokonale odolný člověk. Zotavení závisí na okolnostech, zdraví, zdrojích i dalších lidech; cílem je najít jednu schopnost, kterou můžete posílit, aniž byste posuzovali vlastní hodnotu. Kvíz vaše odpovědi neshromažďuje."},
+    "disclaimer": {"en": "This is an original educational self-check informed by public stress-management guidance and research on recovery experiences. It does not reproduce a validated or proprietary instrument, diagnose a mental or physical condition, measure personal worth, predict harm or performance, replace professional care, gate any service, or store answers. If distress feels overwhelming, persistent or unsafe, seek appropriate local professional or emergency support.", "cs": "Jde o původní vzdělávací sebehodnocení inspirované veřejnými doporučeními ke zvládání stresu a výzkumem prožitků zotavení. Nepřebírá validovaný ani proprietární nástroj, nediagnostikuje duševní či tělesný stav, neměří osobní hodnotu, nepředpovídá újmu ani výkon, nenahrazuje odbornou péči, nerozhoduje o přístupu ke službě ani neukládá odpovědi. Pokud je tíseň silná, trvalá nebo máte obavu o bezpečí, vyhledejte odpovídající místní odbornou či krizovou pomoc."}
+  },
+  "dimensions": [
+    {
+      "id": "notice",
+      "label": {"en": "Notice the load", "cs": "Všimnout si zátěže"},
+      "why": {"en": "Recovery is easier to protect when you notice changes in attention, mood, body and behaviour before they become the only way you can function.", "cs": "Zotavení se chrání snáze, když si změn pozornosti, nálady, těla a chování všimnete dřív, než se stanou jediným způsobem fungování."},
+      "action": {"en": "Once a day for a week, name one demand, one signal of strain and one thing that helped—even slightly.", "cs": "Jednou denně po dobu týdne pojmenujte jeden nárok, jeden signál zátěže a jednu věc, která alespoň trochu pomohla."}
+    },
+    {
+      "id": "detach",
+      "label": {"en": "Create a boundary", "cs": "Vytvořit hranici"},
+      "why": {"en": "A short psychological and practical separation from demands can give attention a chance to shift, even when the situation is not fully resolved.", "cs": "Krátké psychické i praktické oddělení od nároků může dát pozornosti šanci přesunout se jinam, i když situace ještě není vyřešená."},
+      "action": {"en": "Choose one repeatable closing cue: write tomorrow's first step, silence one channel and leave the work area.", "cs": "Zvolte jeden opakovatelný závěrečný rituál: zapište první zítřejší krok, ztište jeden kanál a opusťte pracovní místo."}
+    },
+    {
+      "id": "restore",
+      "label": {"en": "Restore capacity", "cs": "Obnovit kapacitu"},
+      "why": {"en": "Sleep opportunity, food, movement, quiet and enjoyable activity are not rewards for finishing everything; they are inputs to continued functioning.", "cs": "Možnost spánku, jídlo, pohyb, klid a příjemná činnost nejsou odměnou za dokončení všeho; jsou vstupy pro další fungování."},
+      "action": {"en": "Protect one modest recovery block this week and decide in advance what it will replace, not merely where it might fit.", "cs": "Chraňte si tento týden jeden skromný blok zotavení a předem určete, co nahradí, ne jen kam by se mohl vejít."}
+    },
+    {
+      "id": "reconnect",
+      "label": {"en": "Reconnect with support", "cs": "Znovu se opřít o podporu"},
+      "why": {"en": "Resilience is not solitary endurance. Naming a need, accepting practical help and returning in manageable steps can widen the resources available.", "cs": "Odolnost není osamělé vydržení. Pojmenování potřeby, přijetí praktické pomoci a návrat po zvládnutelných krocích mohou rozšířit dostupné zdroje."},
+      "action": {"en": "Tell one trusted person what kind of support would help: listening, practical help, company or a check-in at a specific time.", "cs": "Řekněte jednomu důvěryhodnému člověku, jaký druh podpory by pomohl: vyslechnutí, praktická pomoc, společnost nebo ozvání v konkrétní čas."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "another-request",
+      "dimension": "notice",
+      "text": {"en": "After several demanding days, someone asks you to take on one more non-urgent task. What do you do first?", "cs": "Po několika náročných dnech vás někdo požádá o další neurgentní úkol. Co uděláte nejdřív?"},
+      "options": [
+        {"label": {"en": "Agree immediately and assume you will find the energy later", "cs": "Hned souhlasím a předpokládám, že energii najdu později"}, "score": 0},
+        {"label": {"en": "Check the deadline but not your current capacity", "cs": "Ověřím termín, ale ne svou současnou kapacitu"}, "score": 1},
+        {"label": {"en": "Pause, notice your current load and negotiate timing or scope", "cs": "Zastavím se, všimnu si současné zátěže a vyjednám termín nebo rozsah"}, "score": 3}
+      ]
+    },
+    {
+      "id": "weekly-signals",
+      "dimension": "notice",
+      "text": {"en": "At the end of a pressured week, how do you make sense of how you are doing?", "cs": "Jak si na konci náročného týdne ujasníte, jak na tom jste?"},
+      "options": [
+        {"label": {"en": "I use one bad moment as proof that the whole week failed", "cs": "Jeden špatný okamžik beru jako důkaz, že selhal celý týden"}, "score": 0},
+        {"label": {"en": "I wait until someone else says I look exhausted", "cs": "Čekám, až mi někdo jiný řekne, že vypadám vyčerpaně"}, "score": 1},
+        {"label": {"en": "I review demands, signals of strain and what helped without turning them into a verdict on me", "cs": "Projdu nároky, signály zátěže a to, co pomohlo, aniž z toho dělám soud o sobě"}, "score": 3}
+      ]
+    },
+    {
+      "id": "evening-message",
+      "dimension": "detach",
+      "text": {"en": "A routine work message arrives during time you meant to keep free. What is your usual response?", "cs": "Během času, který jste chtěli mít volný, přijde běžná pracovní zpráva. Jak obvykle reagujete?"},
+      "options": [
+        {"label": {"en": "Open it and continue working without checking whether it can wait", "cs": "Otevřu ji a pokračuji v práci, aniž ověřím, zda může počkat"}, "score": 0},
+        {"label": {"en": "Read it repeatedly but postpone the reply", "cs": "Opakovaně ji čtu, ale odpověď odkládám"}, "score": 1},
+        {"label": {"en": "Use the agreed urgency rule and leave routine messages for the next work period", "cs": "Použiji domluvené pravidlo naléhavosti a běžné zprávy nechám na další pracovní dobu"}, "score": 3}
+      ]
+    },
+    {
+      "id": "replaying-task",
+      "dimension": "detach",
+      "text": {"en": "Your mind keeps replaying an unfinished task after you stop. What is the most useful move available to you?", "cs": "Po skončení se vám v hlavě stále vrací nedokončený úkol. Jaký nejužitečnější krok máte k dispozici?"},
+      "options": [
+        {"label": {"en": "Keep mentally rehearsing until I feel certain", "cs": "V duchu jej dál probírám, dokud nezískám jistotu"}, "score": 0},
+        {"label": {"en": "Distract myself while keeping every alert active", "cs": "Rozptyluji se, ale nechám aktivní všechna upozornění"}, "score": 1},
+        {"label": {"en": "Write the next concrete step, choose when to return and shift to a different activity", "cs": "Zapíšu další konkrétní krok, určím čas návratu a přejdu k jiné činnosti"}, "score": 3}
+      ]
+    },
+    {
+      "id": "unexpected-hour",
+      "dimension": "restore",
+      "text": {"en": "An unexpected hour opens after an intense stretch. What are you most likely to do?", "cs": "Po intenzivním období se vám nečekaně uvolní hodina. Co nejspíš uděláte?"},
+      "options": [
+        {"label": {"en": "Fill it with another obligation before anyone can ask", "cs": "Vyplním ji dalším závazkem dřív, než o ni někdo požádá"}, "score": 0},
+        {"label": {"en": "Scroll or multitask without choosing what would actually restore me", "cs": "Procházím obsah nebo dělám více věcí, aniž zvolím, co by mě skutečně obnovilo"}, "score": 1},
+        {"label": {"en": "Choose one feasible need—food, movement, quiet, sleep opportunity or something enjoyable", "cs": "Zvolím jednu proveditelnou potřebu—jídlo, pohyb, klid, možnost spánku nebo něco příjemného"}, "score": 3}
+      ]
+    },
+    {
+      "id": "recovery-plan",
+      "dimension": "restore",
+      "text": {"en": "A demanding period is visible on next week's calendar. How do you plan for recovery?", "cs": "V kalendáři příštího týdne je vidět náročné období. Jak plánujete zotavení?"},
+      "options": [
+        {"label": {"en": "I plan only the demands and hope recovery appears afterward", "cs": "Plánuji jen nároky a doufám, že se zotavení objeví potom"}, "score": 0},
+        {"label": {"en": "I leave a vague free block that can be taken by anything", "cs": "Nechám neurčitý volný blok, který může zabrat cokoli"}, "score": 1},
+        {"label": {"en": "I protect a realistic recovery block and reduce one competing commitment", "cs": "Chráním realistický blok zotavení a omezím jeden konkurenční závazek"}, "score": 3}
+      ]
+    },
+    {
+      "id": "support-needed",
+      "dimension": "reconnect",
+      "text": {"en": "You notice that carrying everything alone is no longer working. What comes next?", "cs": "Všimnete si, že nést všechno sami už nefunguje. Co následuje?"},
+      "options": [
+        {"label": {"en": "Hide it so nobody changes their view of me", "cs": "Skryji to, aby na mě nikdo nezměnil názor"}, "score": 0},
+        {"label": {"en": "Hint that things are hard and hope someone guesses what I need", "cs": "Naznačím, že je to těžké, a doufám, že někdo odhadne, co potřebuji"}, "score": 1},
+        {"label": {"en": "Ask a suitable person for one specific kind of help or check-in", "cs": "Požádám vhodného člověka o jeden konkrétní druh pomoci nebo ozvání"}, "score": 3}
+      ]
+    },
+    {
+      "id": "returning-after-setback",
+      "dimension": "reconnect",
+      "text": {"en": "After a setback, you are ready to re-enter a routine. How do you approach it?", "cs": "Po nezdaru jste připraveni vrátit se k běžnému rytmu. Jak k tomu přistoupíte?"},
+      "options": [
+        {"label": {"en": "Try to prove I am fine by resuming everything at once", "cs": "Snažím se dokázat, že jsem v pořádku, a obnovím všechno najednou"}, "score": 0},
+        {"label": {"en": "Wait for complete confidence before taking any step", "cs": "Než udělám cokoli, čekám na úplnou jistotu"}, "score": 1},
+        {"label": {"en": "Choose a manageable first step and tell someone what support or limit would help", "cs": "Zvolím zvládnutelný první krok a někomu řeknu, jaká podpora nebo hranice by pomohla"}, "score": 3}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 6,
+      "title": {"en": "Recovery has little protected space", "cs": "Zotavení má málo chráněného prostoru"},
+      "summary": {"en": "These choices suggest that demands often continue until exhaustion or circumstance creates a stop. This is not a diagnosis or a judgement of resilience; constraints may leave few options. Pick the easiest dimension to influence and make one small arrangement this week—for example, a clear closing time or one specific request for help.", "cs": "Tyto volby naznačují, že nároky často pokračují, dokud je nezastaví vyčerpání nebo okolnosti. Není to diagnóza ani soud o odolnosti; omezení mohou ponechávat málo možností. Vyberte nejsnáze ovlivnitelnou dimenzi a tento týden udělejte jednu malou úpravu, například jasný čas konce nebo jednu konkrétní žádost o pomoc."}
+    },
+    {
+      "min": 7,
+      "max": 12,
+      "title": {"en": "Recovery is mostly improvised", "cs": "Zotavení většinou improvizujete"},
+      "summary": {"en": "You sometimes notice or respond to strain, but recovery may depend on spare time appearing by accident. Eight scenarios cannot capture health, care duties, income or workplace control. Choose your lowest-scoring dimension and schedule one repeatable support before the next demanding period begins.", "cs": "Zátěže si někdy všimnete a reagujete na ni, zotavení však může záviset na náhodně vzniklém volnu. Osm situací nemůže zachytit zdraví, péči o druhé, příjem ani míru kontroly v práci. Zvolte nejslabší dimenzi a naplánujte jednu opakovatelnou oporu ještě před dalším náročným obdobím."}
+    },
+    {
+      "min": 13,
+      "max": 18,
+      "title": {"en": "You have several recovery supports", "cs": "Máte několik opor pro zotavení"},
+      "summary": {"en": "Your answers show useful routines across some parts of recovery, though they may weaken when pressure rises or support is scarce. The score reflects these hypothetical situations, not your worth or future health. Strengthen the lowest dimension with one visible cue, boundary, protected block or specific conversation.", "cs": "Vaše odpovědi ukazují užitečné postupy v některých částech zotavení, pod tlakem nebo při nedostatku podpory však mohou zeslábnout. Skóre odráží tyto hypotetické situace, ne vaši hodnotu či budoucí zdraví. Posilte nejslabší dimenzi jedním viditelným signálem, hranicí, chráněným blokem nebo konkrétním rozhovorem."}
+    },
+    {
+      "min": 19,
+      "max": 24,
+      "title": {"en": "Recovery is well protected—for now", "cs": "Zotavení je nyní dobře chráněné"},
+      "summary": {"en": "Across these situations, you usually notice load, create separation, restore capacity and involve support. This is a current pattern, not immunity to stress or a clinical result. Identify which practice depends most on favourable circumstances and make a backup plan for the next week when those circumstances disappear.", "cs": "V těchto situacích si obvykle všímáte zátěže, vytváříte odstup, obnovujete kapacitu a zapojujete podporu. Je to současný vzorec, ne imunita vůči stresu ani klinický výsledek. Určete, který postup nejvíc závisí na příznivých okolnostech, a připravte záložní plán pro týden, kdy tyto okolnosti zmizí."}
+    }
+  ],
+  "sources": [
+    {"name": "World Health Organization — Doing What Matters in Times of Stress", "url": "https://www.who.int/publications/i/item/9789240003927", "published": "2020-04-29", "type": "open stress-management guide consulted for accessible coping principles; no exercises or assessment items reproduced"},
+    {"name": "NHS — Get help with stress", "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/", "published": "2026-03-06", "type": "public health guidance on recognising stress and seeking support; no instrument items reproduced"},
+    {"name": "American Psychological Association — Building your resilience", "url": "https://www.apa.org/topics/resilience/building-your-resilience", "published": "2020-02-01", "type": "professional public guidance on connection, wellness and manageable goals; no proprietary assessment reproduced"},
+    {"name": "Sonnentag and Fritz — The Recovery Experience Questionnaire", "url": "https://doi.org/10.1037/1076-8998.12.3.204", "published": "2007-07-01", "type": "peer-reviewed conceptual source on recovery experiences; proprietary wording and scoring were not reproduced"}
+  ]
+}
