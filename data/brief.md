@@ -163,8 +163,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-09  (3 zdrojů, síla 66)  Napoli vs Arsenal: Champions League – prediction, teams, lineups
-  2026-09-09  (3 zdrojů, síla 62)  The Rwandan eyeing Champions League history against Man Utd
   2026-09-09  (2 zdrojů, síla 52)  Napoli v Arsenal: Champions League – live
   2026-09-10  (2 zdrojů, síla 41)  ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
   2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League
@@ -183,6 +181,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
   2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
   2026-09-22  (2 zdrojů, síla 41)  Arteta agrees new deal with Premier League champions Arsenal
+  2026-09-22  (3 zdrojů, síla 52)  'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
+  2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups
 ```
 
 ---

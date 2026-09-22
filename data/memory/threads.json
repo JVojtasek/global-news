@@ -788,46 +788,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "matildas",
     "sports",
-    "napoli",
-    "city",
-    "brighton",
-    "salah",
-    "fabregas",
-    "tzolis",
-    "london",
-    "kang",
-    "leipzig",
-    "club",
-    "premier",
-    "forest",
-    "wants",
-    "phil",
-    "boot",
-    "stay",
-    "scherpen",
-    "golden",
     "liverpool",
-    "lens",
-    "life",
-    "gakpo",
-    "ipswich",
-    "michael",
-    "mccabe",
     "troy's",
-    "hurzeler's",
+    "mccabe",
+    "london",
     "it's",
-    "city's",
-    "arsenal",
-    "rwandan",
-    "villa",
+    "boot",
+    "golden",
+    "matildas",
+    "tzolis",
+    "gakpo",
+    "club",
+    "ipswich",
     "aston",
-    "arteta",
-    "tottenham",
     "millionaire",
+    "united",
+    "premier",
+    "city's",
+    "brighton",
+    "arsenal",
+    "life",
+    "scherpen",
+    "villa",
+    "salah",
+    "phil",
+    "kang",
+    "tottenham",
+    "fabregas",
+    "napoli",
+    "forest",
+    "league",
+    "lens",
+    "rwandan",
     "carrick",
-    "league"
+    "wants",
+    "manchester",
+    "city",
+    "michael",
+    "leipzig",
+    "arteta"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -889,34 +889,13 @@
     "90ef59a92533",
     "ba630c69b7ba",
     "cdb8565456a3",
-    "2d8d15ed5868"
+    "2d8d15ed5868",
+    "c4b3d527d3fd",
+    "33be681c2dab"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-22",
    "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "Premier League to publish verdicts on referee and VAR decisions",
-     "sources": 3,
-     "score": 64,
-     "event_id": "e8a425cbff50",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c98v0mrerz2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "Haaland's main rivals for the Premier League Golden Boot",
-     "sources": 2,
-     "score": 49,
-     "event_id": "41179a85b0d9",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html"
-     ]
-    },
     {
      "date": "2026-08-20",
      "headline": "How will your club fare? Phil McNulty's Premier League predictions",
@@ -1590,6 +1569,29 @@
       "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss"
      ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
+     "sources": 3,
+     "score": 52,
+     "event_id": "c4b3d527d3fd",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+     "sources": 2,
+     "score": 46,
+     "event_id": "33be681c2dab",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report"
+     ]
     }
    ]
   },
@@ -1598,46 +1600,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "hezbollah",
-    "iraq",
-    "peace",
-    "lebanon",
-    "iran",
-    "ireland",
-    "general",
-    "gaza",
-    "tehran",
-    "jerusalem",
-    "jared",
-    "paris",
-    "eurovision",
-    "joseph",
-    "houthis",
-    "saudi",
-    "aoun",
-    "east-west",
-    "board",
-    "trump",
-    "british",
-    "inquest",
-    "netanyahu",
-    "israeli",
     "assembly",
-    "israel",
-    "arabian",
-    "verified",
-    "riyadh",
-    "macron",
-    "thick",
-    "kushner",
-    "yemen",
-    "arabia",
-    "yemen's",
-    "emmanuel",
+    "jerusalem",
     "trump's",
+    "yemen",
+    "netanyahu",
+    "israel",
+    "eurovision",
+    "saudi",
+    "board",
+    "joseph",
+    "aoun",
+    "middle",
+    "iraq",
+    "paris",
+    "peace",
+    "east-west",
     "taher",
+    "verified",
+    "republic",
+    "inquest",
+    "israeli",
+    "kushner",
+    "neutral",
+    "thick",
+    "british",
+    "emmanuel",
+    "yemen's",
+    "tehran",
+    "macron",
+    "gaza",
+    "houthis",
+    "trump",
+    "jared",
     "east",
-    "middle"
+    "general",
+    "riyadh",
+    "arabia",
+    "arabian",
+    "iran",
+    "ireland"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -1675,7 +1677,9 @@
     "b7b3b3dcaafb",
     "147ec0dad904",
     "22a80d898a41",
-    "f49530af69f4"
+    "f49530af69f4",
+    "5351140b97ac",
+    "3a47e8b82a1b"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-22",
@@ -2089,6 +2093,28 @@
       "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
       "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5351140b97ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+     "sources": 2,
+     "score": 40,
+     "event_id": "3a47e8b82a1b",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+      "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss"
      ]
     }
    ]
@@ -2585,6 +2611,89 @@
      "links": [
       "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
       "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "72d2d7721049",
+   "title": "Hayden Panettiere: A life of struggles alongside screen success",
+   "section": "world",
+   "entities": [
+    "nashville",
+    "heroes",
+    "hayden",
+    "hassenger",
+    "hollywood",
+    "autopsy",
+    "jesse",
+    "panettiere"
+   ],
+   "event_ids": [
+    "72d2d7721049",
+    "9f3eca5c4f2d",
+    "f083deebbe24",
+    "0bc188fe0bfa",
+    "73d369c43acc"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-09-22",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Hayden Panettiere: A life of struggles alongside screen success",
+     "sources": 3,
+     "score": 55,
+     "event_id": "72d2d7721049",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+      "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Heroes actress Hayden Panettiere dies aged 36",
+     "sources": 3,
+     "score": 51,
+     "event_id": "9f3eca5c4f2d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260817-american-actress-hayden-panettiere-dies-at-36"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hayden Panettiere, actor in Heroes and Nashville, dies aged 36",
+     "sources": 2,
+     "score": 42,
+     "event_id": "f083deebbe24",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
+      "https://www.cnbc.com/2026/08/17/hayden-panettiere-who-starred-in-heroes-and-nashville-dies-at-36.html"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hollywood continues to fail child stars and Hayden Panettiere is the latest casualty | Jesse Hassenger",
+     "sources": 1,
+     "score": 40,
+     "event_id": "0bc188fe0bfa",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-hollywood-child-stars",
+      "https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-panettiere-death-star-tv-movies-nashville-heroes-scream"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Autopsy shows Hayden Panettiere died from a drug overdose",
+     "sources": 2,
+     "score": 43,
+     "event_id": "73d369c43acc",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -9958,76 +10067,6 @@
    ]
   },
   {
-   "id": "72d2d7721049",
-   "title": "Hayden Panettiere: A life of struggles alongside screen success",
-   "section": "world",
-   "entities": [
-    "nashville",
-    "hayden",
-    "hassenger",
-    "hollywood",
-    "panettiere",
-    "jesse",
-    "heroes"
-   ],
-   "event_ids": [
-    "72d2d7721049",
-    "9f3eca5c4f2d",
-    "f083deebbe24",
-    "0bc188fe0bfa"
-   ],
-   "first_seen": "2026-08-17",
-   "last_seen": "2026-08-17",
-   "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Hayden Panettiere: A life of struggles alongside screen success",
-     "sources": 3,
-     "score": 55,
-     "event_id": "72d2d7721049",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
-      "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Heroes actress Hayden Panettiere dies aged 36",
-     "sources": 3,
-     "score": 51,
-     "event_id": "9f3eca5c4f2d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260817-american-actress-hayden-panettiere-dies-at-36"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hayden Panettiere, actor in Heroes and Nashville, dies aged 36",
-     "sources": 2,
-     "score": 42,
-     "event_id": "f083deebbe24",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-death-heroes-nashville-scream-star-dies-at-36",
-      "https://www.cnbc.com/2026/08/17/hayden-panettiere-who-starred-in-heroes-and-nashville-dies-at-36.html"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hollywood continues to fail child stars and Hayden Panettiere is the latest casualty | Jesse Hassenger",
-     "sources": 1,
-     "score": 40,
-     "event_id": "0bc188fe0bfa",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/aug/17/hayden-panettiere-hollywood-child-stars",
-      "https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-panettiere-death-star-tv-movies-nashville-heroes-scream"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e183c545cb4c",
    "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
    "section": "world",
@@ -10570,5 +10609,5 @@
    ]
   }
  ],
- "updated": "2026-09-22T12:36:24+00:00"
+ "updated": "2026-09-22T15:26:01+00:00"
 }

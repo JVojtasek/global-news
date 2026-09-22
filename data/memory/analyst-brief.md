@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-22
 
-Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **47**.
 
 ---
 
@@ -25,8 +25,6 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 35 dní · 60 záznamů
 - časová osa:
-  - **2026-09-13** (2 zdrojů) Manchester United v Manchester City: Premier League – live
-  - **2026-09-14** (2 zdrojů) Is the Premier League already a two-team title race?
   - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
   - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
   - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
@@ -35,6 +33,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
   - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
+  - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
+  - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 40 dní · 60 záznamů
@@ -65,10 +65,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 44 dní · 36 záznamů
+- rubrika `world` · sledováno 44 dní · 38 záznamů
 - časová osa:
-  - **2026-09-18** (2 zdrojů) Why US plan to sell F-35 warplanes to Saudi Arabia is controversial
-  - **2026-09-19** (2 zdrojů) Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
   - **2026-09-19** (3 zdrojů) Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital
   - **2026-09-19** (2 zdrojů) Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
   - **2026-09-20** (2 zdrojů) Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
@@ -77,6 +75,8 @@ Paměť obsahuje **111 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-22** (3 zdrojů) Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
   - **2026-09-22** (2 zdrojů) UK to refuel Saudi jets amid conflict with Yemen's Houthis
   - **2026-09-22** (3 zdrojů) Iran war spreads through region as Trump seeks way out
+  - **2026-09-22** (2 zdrojů) Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
+  - **2026-09-22** (2 zdrojů) Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
