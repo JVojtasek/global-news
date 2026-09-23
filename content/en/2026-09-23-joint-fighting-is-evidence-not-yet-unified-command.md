@@ -9,8 +9,8 @@ type: analysis
 depth: open
 lang: en
 date: '2026-09-23'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -31,7 +31,8 @@ sources:
 - name: Al Jazeera and AFP — Tigray forces launch offensive against Ethiopian government
   url: https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports
   published: '2026-09-23'
-- name: ABC News and Associated Press — Ethiopian Airlines cancels Tigray flights amid renewed fighting
+- name: ABC News and Associated Press — Ethiopian Airlines cancels Tigray flights
+    amid renewed fighting
   url: https://abcnews.com/International/wireStory/ethiopian-airlines-cancels-flights-tigray-amid-concerns-renewed-136676469
   published: '2026-09-23'
 - name: Ethiopian Peoples' Forces Alliance for Survival — founding statement
@@ -57,7 +58,8 @@ quiz:
   question: What does the reported TDF-Fano fighting establish most clearly?
   options:
   - All seven alliance members now answer to one national commander
-  - At least two alliance members coordinated in one theatre, without proof of unified command
+  - At least two alliance members coordinated in one theatre, without proof of unified
+    command
   - The Pretoria agreement has automatically ceased to exist
   answer: 1
   explanation: ACLED reports joint TDF-Fano forces at Kobo-Tumuga, which is evidence
