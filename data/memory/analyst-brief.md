@@ -23,9 +23,8 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **45**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 35 dní · 60 záznamů
+- rubrika `sport` · sledováno 36 dní · 60 záznamů
 - časová osa:
-  - **2026-09-15** (3 zdrojů) Who has made Troy's Premier League team of the week?
   - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
   - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
   - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
@@ -35,6 +34,7 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
   - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
   - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
+  - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 40 dní · 60 záznamů

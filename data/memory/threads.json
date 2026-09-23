@@ -792,803 +792,50 @@
    ]
   },
   {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "lula",
-    "israeli",
-    "thick",
-    "arabian",
-    "verified",
-    "iraq",
-    "gaza",
-    "yemen",
-    "league",
-    "british",
-    "erdogan",
-    "emmanuel",
-    "israel",
-    "iran",
-    "trump's",
-    "houthis",
-    "paris",
-    "eurovision",
-    "nations",
-    "east-west",
-    "jerusalem",
-    "riyadh",
-    "republic",
-    "general",
-    "aoun",
-    "yemen's",
-    "netanyahu",
-    "trump",
-    "saudi",
-    "taher",
-    "arabia",
-    "inquest",
-    "east",
-    "macron",
-    "ireland",
-    "kushner",
-    "peace",
-    "neutral",
-    "jared",
-    "board"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93",
-    "a3f7b5bea254",
-    "06df00086e0c",
-    "2ab296b93709",
-    "4038c9b998f5",
-    "9824ab06ba40",
-    "c2a40c5625c5",
-    "c72143066677",
-    "c1254dd22bde",
-    "c9117ee7b07b",
-    "c792fb242bf8",
-    "eed7ddd3265e",
-    "b240f0515ee8",
-    "dbb34488a1b8",
-    "1f7b444d993c",
-    "d85187b311c3",
-    "c5c795b9e1b1",
-    "84d31eadb0fe",
-    "3ac801265aa0",
-    "1db88ae782d0",
-    "6db70951bf71",
-    "72cd7d7d5454",
-    "63827be44619",
-    "9da759940a18",
-    "d0c9dac4e7a1",
-    "dbf103d247c1",
-    "97e39aa3ab00",
-    "02e522c8aff5",
-    "b7b3b3dcaafb",
-    "147ec0dad904",
-    "22a80d898a41",
-    "f49530af69f4",
-    "5351140b97ac",
-    "3a47e8b82a1b",
-    "c1ce1679f0dd",
-    "2a4b43d9f74a",
-    "9146f0df0ac0",
-    "4ea1d5b81c19"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-23",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
-     "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "sources": 2,
-     "score": 44,
-     "event_id": "25ce347a430e",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a3f7b5bea254",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "06df00086e0c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2ab296b93709",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Middle East: Israeli strikes kill several in Lebanon",
-     "sources": 3,
-     "score": 51,
-     "event_id": "4038c9b998f5",
-     "links": [
-      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9824ab06ba40",
-     "links": [
-      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c2a40c5625c5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-     "sources": 3,
-     "score": 61,
-     "event_id": "c72143066677",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
-      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
-     "sources": 2,
-     "score": 40,
-     "event_id": "c1254dd22bde",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
-      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Oil prices rise as Middle East conflict escalates",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c9117ee7b07b",
-     "links": [
-      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c792fb242bf8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-     "sources": 2,
-     "score": 44,
-     "event_id": "eed7ddd3265e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it has destroyed major underground Hezbollah base",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b240f0515ee8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-     "sources": 4,
-     "score": 61,
-     "event_id": "dbb34488a1b8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-      "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1f7b444d993c",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
-      "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d85187b311c3",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5c795b9e1b1",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
-     "sources": 2,
-     "score": 42,
-     "event_id": "84d31eadb0fe",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
-      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3ac801265aa0",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
-      "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks",
-     "sources": 1,
-     "score": 46,
-     "event_id": "1db88ae782d0",
-     "links": [
-      "http://www.france24.com/en/lebanon-emmanuel-macron-welcomes-joseph-aoun-to-paris-for-middle-east-talks",
-      "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
-      "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
-     "sources": 2,
-     "score": 45,
-     "event_id": "6db70951bf71",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
-      "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-     "sources": 4,
-     "score": 70,
-     "event_id": "72cd7d7d5454",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-     "sources": 2,
-     "score": 46,
-     "event_id": "63827be44619",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-     "sources": 2,
-     "score": 49,
-     "event_id": "9da759940a18",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d0c9dac4e7a1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
-      "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-     "sources": 2,
-     "score": 48,
-     "event_id": "dbf103d247c1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-     "sources": 2,
-     "score": 46,
-     "event_id": "97e39aa3ab00",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-      "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Saudi Arabia says Houthis tried to attack its capital",
-     "sources": 2,
-     "score": 42,
-     "event_id": "02e522c8aff5",
-     "links": [
-      "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
-      "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
-     "sources": 3,
-     "score": 64,
-     "event_id": "b7b3b3dcaafb",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
-      "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
-      "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-     "sources": 3,
-     "score": 65,
-     "event_id": "147ec0dad904",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
-     "sources": 2,
-     "score": 43,
-     "event_id": "22a80d898a41",
-     "links": [
-      "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Iran war spreads through region as Trump seeks way out",
-     "sources": 3,
-     "score": 61,
-     "event_id": "f49530af69f4",
-     "links": [
-      "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-      "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5351140b97ac",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-     "sources": 2,
-     "score": 40,
-     "event_id": "3a47e8b82a1b",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
-      "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
-     "sources": 4,
-     "score": 71,
-     "event_id": "c1ce1679f0dd",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
-      "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
-      "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Republic of Ireland braced for testing Nations League",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2a4b43d9f74a",
-     "links": [
-      "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
-     "sources": 2,
-     "score": 46,
-     "event_id": "9146f0df0ac0",
-     "links": [
-      "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
-     "sources": 2,
-     "score": 45,
-     "event_id": "4ea1d5b81c19",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "341a230bd977",
-   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-   "section": "tech",
-   "entities": [
-    "researchers",
-    "claude",
-    "openai",
-    "astra",
-    "anthropic"
-   ],
-   "event_ids": [
-    "341a230bd977",
-    "1db8587bd622",
-    "a8365cfa26c0",
-    "50c802e9ffe4",
-    "5618ffbe19d5",
-    "23b05835e46b"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-09-23",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
-     "sources": 4,
-     "score": 65,
-     "event_id": "341a230bd977",
-     "links": [
-      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1db8587bd622",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Researchers used Claude to hack OpenAI",
-     "sources": 3,
-     "score": 46,
-     "event_id": "a8365cfa26c0",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
-     "sources": 2,
-     "score": 46,
-     "event_id": "50c802e9ffe4",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
-      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-     "sources": 3,
-     "score": 55,
-     "event_id": "5618ffbe19d5",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-     "sources": 2,
-     "score": 52,
-     "event_id": "23b05835e46b",
-     "links": [
-      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7f5ee9f48579",
-   "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
-   "section": "world",
-   "entities": [
-    "asian",
-    "swimming",
-    "qatar",
-    "tall",
-    "games",
-    "dakar",
-    "anthems",
-    "al-attiyah",
-    "nasser",
-    "japan",
-    "rally"
-   ],
-   "event_ids": [
-    "7f5ee9f48579",
-    "a3ef07e8ee3b",
-    "65b1df2ad2e2",
-    "8f579d3fca4c",
-    "c50373e26e19"
-   ],
-   "first_seen": "2026-09-16",
-   "last_seen": "2026-09-23",
-   "timeline": [
-    {
-     "date": "2026-09-16",
-     "headline": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
-     "sources": 2,
-     "score": 56,
-     "event_id": "7f5ee9f48579",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/16/sri-lankan-star-rumesh-pathirages-javelin-broken-ahead-of-asian-games?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
-     "sources": 1,
-     "score": 40,
-     "event_id": "a3ef07e8ee3b",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Swimming sensation Yu, 13, wins second Asian Games gold",
-     "sources": 2,
-     "score": 52,
-     "event_id": "65b1df2ad2e2",
-     "links": [
-      "https://www.bbc.co.uk/sport/swimming/articles/c6dj4pn1rrppo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/22/afghan-cyclist-who-escaped-taliban-wins-asian-games-silver-medal?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
-     "sources": 1,
-     "score": 41,
-     "event_id": "8f579d3fca4c",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Yu, 13, completes hat-trick of golds at Asian Games",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c50373e26e19",
-     "links": [
-      "https://www.bbc.co.uk/sport/swimming/articles/cq0lry2yjg2go?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "sports",
-    "liverpool",
-    "troy's",
-    "mccabe",
-    "london",
-    "it's",
-    "boot",
     "golden",
-    "matildas",
-    "tzolis",
-    "gakpo",
-    "club",
+    "liverpool",
+    "life",
+    "kang",
+    "rwandan",
+    "london",
+    "napoli",
+    "wants",
+    "forest",
+    "salah",
     "ipswich",
-    "aston",
-    "millionaire",
+    "brighton",
+    "leipzig",
+    "michael",
+    "boot",
+    "carrick",
+    "arsenal",
+    "scherpen",
+    "it's",
+    "city's",
     "united",
     "premier",
-    "city's",
-    "brighton",
-    "arsenal",
-    "life",
-    "scherpen",
-    "villa",
-    "salah",
-    "phil",
-    "kang",
-    "tottenham",
-    "fabregas",
-    "napoli",
-    "forest",
+    "millionaire",
     "league",
     "lens",
-    "rwandan",
-    "carrick",
-    "wants",
-    "manchester",
+    "arteta",
+    "villa",
+    "mccabe",
     "city",
-    "michael",
-    "leipzig",
-    "arteta"
+    "gakpo",
+    "manchester",
+    "club",
+    "phil",
+    "tottenham",
+    "fabregas",
+    "tzolis",
+    "sports",
+    "aston",
+    "troy's",
+    "matildas"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1652,22 +899,12 @@
     "cdb8565456a3",
     "2d8d15ed5868",
     "c4b3d527d3fd",
-    "33be681c2dab"
+    "33be681c2dab",
+    "5d0511adfb2d"
    ],
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-22",
+   "last_seen": "2026-09-23",
    "timeline": [
-    {
-     "date": "2026-08-20",
-     "headline": "How will your club fare? Phil McNulty's Premier League predictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3ff3a046513a",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5ye50qz7yqo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle"
-     ]
-    },
     {
      "date": "2026-08-20",
      "headline": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
@@ -2352,6 +1589,1078 @@
      "links": [
       "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
       "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Manchester United report seventh straight annual loss despite record revenue",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5d0511adfb2d",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results",
+      "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "lula",
+    "israeli",
+    "thick",
+    "arabian",
+    "verified",
+    "iraq",
+    "gaza",
+    "yemen",
+    "league",
+    "british",
+    "erdogan",
+    "emmanuel",
+    "israel",
+    "iran",
+    "trump's",
+    "houthis",
+    "paris",
+    "eurovision",
+    "nations",
+    "east-west",
+    "jerusalem",
+    "riyadh",
+    "republic",
+    "general",
+    "aoun",
+    "yemen's",
+    "netanyahu",
+    "trump",
+    "saudi",
+    "taher",
+    "arabia",
+    "inquest",
+    "east",
+    "macron",
+    "ireland",
+    "kushner",
+    "peace",
+    "neutral",
+    "jared",
+    "board"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254",
+    "06df00086e0c",
+    "2ab296b93709",
+    "4038c9b998f5",
+    "9824ab06ba40",
+    "c2a40c5625c5",
+    "c72143066677",
+    "c1254dd22bde",
+    "c9117ee7b07b",
+    "c792fb242bf8",
+    "eed7ddd3265e",
+    "b240f0515ee8",
+    "dbb34488a1b8",
+    "1f7b444d993c",
+    "d85187b311c3",
+    "c5c795b9e1b1",
+    "84d31eadb0fe",
+    "3ac801265aa0",
+    "1db88ae782d0",
+    "6db70951bf71",
+    "72cd7d7d5454",
+    "63827be44619",
+    "9da759940a18",
+    "d0c9dac4e7a1",
+    "dbf103d247c1",
+    "97e39aa3ab00",
+    "02e522c8aff5",
+    "b7b3b3dcaafb",
+    "147ec0dad904",
+    "22a80d898a41",
+    "f49530af69f4",
+    "5351140b97ac",
+    "3a47e8b82a1b",
+    "c1ce1679f0dd",
+    "2a4b43d9f74a",
+    "9146f0df0ac0",
+    "4ea1d5b81c19"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-23",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "sources": 7,
+     "score": 83,
+     "event_id": "6e0f12b732f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3677e9c2454f",
+     "links": [
+      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "sources": 3,
+     "score": 56,
+     "event_id": "2d4b21839f92",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "sources": 2,
+     "score": 44,
+     "event_id": "25ce347a430e",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e3d7c0ac2a93",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a3f7b5bea254",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "06df00086e0c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2ab296b93709",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Middle East: Israeli strikes kill several in Lebanon",
+     "sources": 3,
+     "score": 51,
+     "event_id": "4038c9b998f5",
+     "links": [
+      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9824ab06ba40",
+     "links": [
+      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c2a40c5625c5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+     "sources": 3,
+     "score": 61,
+     "event_id": "c72143066677",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
+      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c1254dd22bde",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
+      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Oil prices rise as Middle East conflict escalates",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c9117ee7b07b",
+     "links": [
+      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c792fb242bf8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "eed7ddd3265e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it has destroyed major underground Hezbollah base",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b240f0515ee8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+     "sources": 4,
+     "score": 61,
+     "event_id": "dbb34488a1b8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+      "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1f7b444d993c",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+      "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d85187b311c3",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5c795b9e1b1",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
+     "sources": 2,
+     "score": 42,
+     "event_id": "84d31eadb0fe",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
+      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3ac801265aa0",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
+      "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks",
+     "sources": 1,
+     "score": 46,
+     "event_id": "1db88ae782d0",
+     "links": [
+      "http://www.france24.com/en/lebanon-emmanuel-macron-welcomes-joseph-aoun-to-paris-for-middle-east-talks",
+      "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
+      "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
+     "sources": 2,
+     "score": 45,
+     "event_id": "6db70951bf71",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
+      "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+     "sources": 4,
+     "score": 70,
+     "event_id": "72cd7d7d5454",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+     "sources": 2,
+     "score": 46,
+     "event_id": "63827be44619",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+     "sources": 2,
+     "score": 49,
+     "event_id": "9da759940a18",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d0c9dac4e7a1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
+      "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+     "sources": 2,
+     "score": 48,
+     "event_id": "dbf103d247c1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+     "sources": 2,
+     "score": 46,
+     "event_id": "97e39aa3ab00",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Saudi Arabia says Houthis tried to attack its capital",
+     "sources": 2,
+     "score": 42,
+     "event_id": "02e522c8aff5",
+     "links": [
+      "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
+     "sources": 3,
+     "score": 64,
+     "event_id": "b7b3b3dcaafb",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
+      "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
+      "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+     "sources": 3,
+     "score": 65,
+     "event_id": "147ec0dad904",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
+     "sources": 2,
+     "score": 43,
+     "event_id": "22a80d898a41",
+     "links": [
+      "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Iran war spreads through region as Trump seeks way out",
+     "sources": 3,
+     "score": 61,
+     "event_id": "f49530af69f4",
+     "links": [
+      "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
+      "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5351140b97ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+     "sources": 2,
+     "score": 40,
+     "event_id": "3a47e8b82a1b",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+      "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+     "sources": 4,
+     "score": 71,
+     "event_id": "c1ce1679f0dd",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+      "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+      "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Republic of Ireland braced for testing Nations League",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2a4b43d9f74a",
+     "links": [
+      "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9146f0df0ac0",
+     "links": [
+      "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
+     "sources": 2,
+     "score": 45,
+     "event_id": "4ea1d5b81c19",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "tools",
+    "time",
+    "london",
+    "tenochtitlan",
+    "denisovan",
+    "once",
+    "fall",
+    "relief",
+    "chronic",
+    "female",
+    "mexico",
+    "english",
+    "sculpture",
+    "professional",
+    "lives",
+    "aztec",
+    "centuries",
+    "sculptor",
+    "scientists",
+    "television",
+    "china",
+    "codex",
+    "unprecedented",
+    "biggest",
+    "americans",
+    "find",
+    "bring",
+    "still",
+    "parton",
+    "margaret",
+    "fossils",
+    "decades",
+    "dolly",
+    "wasn't",
+    "tirelessly",
+    "marble",
+    "roamed",
+    "some",
+    "cousins",
+    "festival"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b",
+    "13c0684b4af3",
+    "92a48ee35a16",
+    "dbe2fb28d382",
+    "200127734810",
+    "d314b5251d2f",
+    "38850f6a5dfa",
+    "f14aa1a495df",
+    "bdbcab469084",
+    "bcab6080a3cb",
+    "cd253afe8e24",
+    "79091fcbef11",
+    "a7bc879393f4",
+    "4d7f8e0023db",
+    "2b08b8fb7a6d",
+    "18524fe8a6bd"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-09-23",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
+     "sources": 6,
+     "score": 86,
+     "event_id": "13c0684b4af3",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02676-1",
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
+     "sources": 2,
+     "score": 54,
+     "event_id": "92a48ee35a16",
+     "links": [
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dbe2fb28d382",
+     "links": [
+      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
+      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
+     "sources": 3,
+     "score": 66,
+     "event_id": "200127734810",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02732-w",
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d314b5251d2f",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+     "sources": 3,
+     "score": 58,
+     "event_id": "38850f6a5dfa",
+     "links": [
+      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f14aa1a495df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdbcab469084",
+     "links": [
+      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Festival honouring Dolly Parton set for Nashville and London",
+     "sources": 3,
+     "score": 55,
+     "event_id": "bcab6080a3cb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
+     "sources": 1,
+     "score": 44,
+     "event_id": "cd253afe8e24",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
+     "sources": 1,
+     "score": 41,
+     "event_id": "79091fcbef11",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
+     "sources": 1,
+     "score": 45,
+     "event_id": "a7bc879393f4",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
+     "sources": 1,
+     "score": 43,
+     "event_id": "4d7f8e0023db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
+     "sources": 1,
+     "score": 41,
+     "event_id": "2b08b8fb7a6d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+     "sources": 2,
+     "score": 47,
+     "event_id": "18524fe8a6bd",
+     "links": [
+      "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
+      "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "341a230bd977",
+   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "section": "tech",
+   "entities": [
+    "researchers",
+    "claude",
+    "openai",
+    "astra",
+    "anthropic"
+   ],
+   "event_ids": [
+    "341a230bd977",
+    "1db8587bd622",
+    "a8365cfa26c0",
+    "50c802e9ffe4",
+    "5618ffbe19d5",
+    "23b05835e46b"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-23",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+     "sources": 4,
+     "score": 65,
+     "event_id": "341a230bd977",
+     "links": [
+      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1db8587bd622",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Researchers used Claude to hack OpenAI",
+     "sources": 3,
+     "score": 46,
+     "event_id": "a8365cfa26c0",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+     "sources": 2,
+     "score": 46,
+     "event_id": "50c802e9ffe4",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+     "sources": 3,
+     "score": 55,
+     "event_id": "5618ffbe19d5",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+     "sources": 2,
+     "score": 52,
+     "event_id": "23b05835e46b",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7f5ee9f48579",
+   "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+   "section": "world",
+   "entities": [
+    "asian",
+    "swimming",
+    "qatar",
+    "tall",
+    "games",
+    "dakar",
+    "anthems",
+    "al-attiyah",
+    "nasser",
+    "japan",
+    "rally"
+   ],
+   "event_ids": [
+    "7f5ee9f48579",
+    "a3ef07e8ee3b",
+    "65b1df2ad2e2",
+    "8f579d3fca4c",
+    "c50373e26e19"
+   ],
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-23",
+   "timeline": [
+    {
+     "date": "2026-09-16",
+     "headline": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+     "sources": 2,
+     "score": 56,
+     "event_id": "7f5ee9f48579",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/16/sri-lankan-star-rumesh-pathirages-javelin-broken-ahead-of-asian-games?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a3ef07e8ee3b",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Swimming sensation Yu, 13, wins second Asian Games gold",
+     "sources": 2,
+     "score": 52,
+     "event_id": "65b1df2ad2e2",
+     "links": [
+      "https://www.bbc.co.uk/sport/swimming/articles/c6dj4pn1rrppo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/22/afghan-cyclist-who-escaped-taliban-wins-asian-games-silver-medal?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
+     "sources": 1,
+     "score": 41,
+     "event_id": "8f579d3fca4c",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/23/mirabai-chanu-wins-asian-games-silver-as-ri-breaks-weightlifting-record?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Yu, 13, completes hat-trick of golds at Asian Games",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c50373e26e19",
+     "links": [
+      "https://www.bbc.co.uk/sport/swimming/articles/cq0lry2yjg2go?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss"
      ]
     }
    ]
@@ -3950,302 +4259,6 @@
       "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
       "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "chronic",
-    "codex",
-    "china",
-    "london",
-    "sculpture",
-    "some",
-    "cousins",
-    "still",
-    "decades",
-    "dolly",
-    "mexico",
-    "americans",
-    "time",
-    "wasn't",
-    "roamed",
-    "english",
-    "female",
-    "margaret",
-    "parton",
-    "unprecedented",
-    "tenochtitlan",
-    "festival",
-    "aztec",
-    "centuries",
-    "find",
-    "professional",
-    "biggest",
-    "denisovan",
-    "once",
-    "television",
-    "sculptor",
-    "scientists",
-    "marble",
-    "tools",
-    "fall",
-    "lives",
-    "bring",
-    "relief",
-    "fossils",
-    "tirelessly"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07",
-    "4d5d929d3f9b",
-    "13c0684b4af3",
-    "92a48ee35a16",
-    "dbe2fb28d382",
-    "200127734810",
-    "d314b5251d2f",
-    "38850f6a5dfa",
-    "f14aa1a495df",
-    "bdbcab469084",
-    "bcab6080a3cb",
-    "cd253afe8e24",
-    "79091fcbef11",
-    "a7bc879393f4",
-    "4d7f8e0023db",
-    "2b08b8fb7a6d"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-09-21",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-     "sources": 6,
-     "score": 83,
-     "event_id": "4d5d929d3f9b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
-      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
-     "sources": 6,
-     "score": 86,
-     "event_id": "13c0684b4af3",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02676-1",
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
-     "sources": 2,
-     "score": 54,
-     "event_id": "92a48ee35a16",
-     "links": [
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dbe2fb28d382",
-     "links": [
-      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
-     "sources": 3,
-     "score": 66,
-     "event_id": "200127734810",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02732-w",
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d314b5251d2f",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-     "sources": 3,
-     "score": 58,
-     "event_id": "38850f6a5dfa",
-     "links": [
-      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f14aa1a495df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdbcab469084",
-     "links": [
-      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Festival honouring Dolly Parton set for Nashville and London",
-     "sources": 3,
-     "score": 55,
-     "event_id": "bcab6080a3cb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
-     "sources": 1,
-     "score": 44,
-     "event_id": "cd253afe8e24",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
-     "sources": 1,
-     "score": 41,
-     "event_id": "79091fcbef11",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
-     "sources": 1,
-     "score": 45,
-     "event_id": "a7bc879393f4",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
-     "sources": 1,
-     "score": 43,
-     "event_id": "4d7f8e0023db",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
-     "sources": 1,
-     "score": 41,
-     "event_id": "2b08b8fb7a6d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
      ]
     }
    ]
@@ -10801,5 +10814,5 @@
    ]
   }
  ],
- "updated": "2026-09-23T12:37:00+00:00"
+ "updated": "2026-09-23T15:27:13+00:00"
 }
