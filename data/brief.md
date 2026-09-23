@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-22
+# ZADÁNÍ PRO REDAKCI — 2026-09-23
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,7 +9,32 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
+### 1. Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+- id události: `67154007daef`  ·  rubrika: `world`  ·  skóre: 84  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+    <https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss>
+    > In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.
+  - **The Guardian World** — Iran and US have held talks on sidelines of UN summit, says Donald Trump
+    <https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us>
+    > Senior Iranian official indicates willingness to reopen strait of Hormuz if US takes steps to ease pressure on Tehran Iranian officials held three hours of talks with US special envoy Steve Witkoff on the sidelines of the UN general assembly, Donald Trump disclosed on Tuesday. He
+  - **Al Jazeera** — Iran war live: Trump confirms ‘very good’ meeting with Iran at UN
+    <https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss>
+    > President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN.
+  - **Al Jazeera** — UNGA Day 1: US and Iran hold talks despite Trump’s threat
+    <https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss>
+    > The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.
+  - **Al Jazeera** — US Republican calls for probe into Donald Trump Jr’s business dealings
+    <https://www.aljazeera.com/news/2026/9/22/us-republican-calls-for-probe-into-donald-trump-jrs-business-dealings?traffic_source=rss>
+    > US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable.
+  - **France 24** — Iran: Trump believes in an agreement after US midterms
+    <https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms>
+    > US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East. He added that he believed an agreement was possible after the US midterm elec
+  - **Investing.com** — Oil extends losses as Trump signals progress in U.S.-Iran talks
+    <https://www.investing.com/news/commodities-news/oil-extends-losses-as-trump-signals-progress-in-usiran-talks-4911933>
+
+### 2. Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros
 - id události: `5c613a75961a`  ·  rubrika: `business`  ·  skóre: 80  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -34,7 +59,7 @@
   - **Investing.com** — Paramount settles with states over Warner Bros Discovery deal
     <https://www.investing.com/news/stock-market-news/paramount-settles-with-states-over-warner-bros-discovery-deal-4909498>
 
-### 2. Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+### 3. Anthropic releases Opus 5.5 with lower prices and Fable-level performance
 - id události: `8fee313a6a87`  ·  rubrika: `tech`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -57,7 +82,7 @@
     <https://www.anthropic.com/claude-opus-5-5>
     > https://github.com/anthropics/ClaudeForFoundationModels/comm... Comments URL: https://news.ycombinator.com/item?id=49803863 Points: 272 # Comments: 2
 
-### 3. Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
+### 4. Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
 - id události: `c1ce1679f0dd`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -80,40 +105,16 @@
     <https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html>
     > Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.
 
-### 4. Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
-- id události: `147ec0dad904`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
-    <https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss>
-    > The G7 also condemns "in the strongest terms" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.
-  - **BBC World** — Watch: What to expect from the UN General Assembly
-    <https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss>
-    > The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.
-  - **Al Jazeera** — UN General Assembly 2026: When is it, who is speaking and when?
-    <https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss>
-    > September 22 marks the start of the general debate, where all 193 UN member states are invited to address the UNGA.
-  - **Al Jazeera** — Houthis battle for strategic heights in Yemen as thousands more flee homes
-    <https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss>
-    > Fighting intensifies as US media say Trump called off strikes against Houthis at the last minute on Sunday.
-  - **CNBC Top** — Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch
-    <https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html>
-    > Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### investing for beginners
-- rubrika: `meaning`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „how does investing work for beginners“
-  - „how much to start investing for beginners“
-  - „how much should i invest as a beginner“
+### ancient rome
+- rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
-  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
+  - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
+  - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
+  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
 
 ---
 
@@ -140,7 +141,6 @@
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-08  (2 zdrojů, síla 46)  Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strikes on Kyiv – Europe live
   2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
   2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
   2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
@@ -160,6 +160,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-22  (2 zdrojů, síla 46)  EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
   2026-09-22  (2 zdrojů, síla 44)  Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
   2026-09-22  (2 zdrojů, síla 42)  Trump praises relations with Burnham despite tensions over AI and Iran
+  2026-09-23  (5 zdrojů, síla 84)  Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

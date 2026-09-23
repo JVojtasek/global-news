@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-22
+# ANALYTICKÉ ZADÁNÍ — 2026-09-23
 
-Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **47**.
+Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 42 dní · 60 záznamů
+- rubrika `world` · sledováno 43 dní · 60 záznamů
 - časová osa:
-  - **2026-09-14** (2 zdrojů) Ukraine, Russia set for new round of US-mediated talks
   - **2026-09-14** (2 zdrojů) Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
   - **2026-09-15** (1 zdrojů) These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
   - **2026-09-15** (1 zdrojů) World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
@@ -19,6 +18,7 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-22** (2 zdrojů) EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
   - **2026-09-22** (2 zdrojů) Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
   - **2026-09-22** (2 zdrojů) Trump praises relations with Burnham despite tensions over AI and Iran
+  - **2026-09-23** (5 zdrojů) Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
