@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "slug": "what-keeps-a-friendship-alive-across-distance",
+  "date": "2026-09-23",
+  "category": "relationships",
+  "mode": "profile",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "What keeps a friendship alive across distance?", "cs": "Co udržuje přátelství živé na dálku?"},
+    "dek": {"en": "Eight ordinary moments notice whether you first protect a rhythm, make room for depth, create shared time or turn care into follow-through.", "cs": "Osm běžných situací ukáže, zda nejdřív chráníte rytmus, dáváte prostor hloubce, vytváříte společný čas, nebo převádíte péči do konkrétního činu."},
+    "intro": {"en": "Choose the move you would genuinely make first. Strong long-distance friendships can use all four capacities; this profile describes a current tendency, not a fixed relationship type or a score of how much you care.", "cs": "Vyberte krok, který byste skutečně udělali jako první. Silná přátelství na dálku mohou využívat všechny čtyři schopnosti; profil popisuje současnou tendenci, ne pevný vztahový typ ani míru vaší péče."},
+    "disclaimer": {"en": "This is an original educational self-check informed by public research on friendship time, contact, media choice and relationship maintenance. It does not reproduce a validated or proprietary instrument, diagnose a person or relationship, predict whether a friendship will last, collect answers or determine access to any service. Distance, disability, safety, culture, work and caregiving can change what contact is realistic.", "cs": "Jde o původní vzdělávací sebehodnocení inspirované veřejným výzkumem času v přátelství, kontaktu, volby média a udržování vztahů. Nepřebírá validovaný ani proprietární nástroj, nediagnostikuje člověka či vztah, nepředpovídá trvání přátelství, neshromažďuje odpovědi ani nerozhoduje o přístupu k žádné službě. Vzdálenost, zdravotní omezení, bezpečí, kultura, práce a péče o druhé mohou měnit, jaký kontakt je realistický."}
+  },
+  "dimensions": [
+    {
+      "id": "rhythm",
+      "label": {"en": "Protect the rhythm", "cs": "Chránit rytmus"},
+      "why": {"en": "You often keep the relationship present through small, repeatable contact instead of waiting for a perfect long conversation.", "cs": "Přátelství často udržujete přítomné malým opakovatelným kontaktem místo čekání na dokonalý dlouhý rozhovor."},
+      "action": {"en": "Choose one light contact you can sustain and agree that delayed replies are allowed.", "cs": "Zvolte jeden lehký kontakt, který dokážete udržet, a domluvte se, že opožděné odpovědi jsou v pořádku."}
+    },
+    {
+      "id": "depth",
+      "label": {"en": "Make room for depth", "cs": "Dát prostor hloubce"},
+      "why": {"en": "You often move an important subject into a channel and moment that can carry tone, attention and honest detail.", "cs": "Důležité téma často přesunete do kanálu a chvíle, které unesou tón, pozornost a upřímný detail."},
+      "action": {"en": "For one important subject, ask for a focused call or voice exchange rather than stretching it across fragments.", "cs": "U jednoho důležitého tématu požádejte o soustředěný hovor či hlasovou výměnu místo jeho natahování přes útržky."}
+    },
+    {
+      "id": "shared_time",
+      "label": {"en": "Create shared time", "cs": "Vytvářet společný čas"},
+      "why": {"en": "You often protect closeness by doing something together, not only reporting separate lives to each other.", "cs": "Blízkost často chráníte tím, že něco děláte společně, nejen vzájemným hlášením oddělených životů."},
+      "action": {"en": "Put one small shared activity or future visit on the calendar with an easy fallback.", "cs": "Zapište do kalendáře jednu malou společnou aktivitu či budoucí návštěvu s jednoduchou náhradní variantou."}
+    },
+    {
+      "id": "follow_through",
+      "label": {"en": "Turn care into follow-through", "cs": "Převést péči do činu"},
+      "why": {"en": "You often show continuity by remembering what mattered and returning with a specific question, resource or practical act.", "cs": "Návaznost často ukazujete tím, že si zapamatujete, na čem záleželo, a vrátíte se s konkrétní otázkou, zdrojem nebo praktickým činem."},
+      "action": {"en": "Note one detail to revisit, then follow up at the time it will matter rather than only when it is convenient.", "cs": "Poznamenejte si jeden detail, ke kterému se vrátíte, a ozvěte se ve chvíli, kdy na tom bude záležet, ne jen když je to pohodlné."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "busy-month",
+      "text": {"en": "A close friend enters a very busy month and long calls are unlikely. What do you do first?", "cs": "Blízkému příteli začíná velmi rušný měsíc a dlouhé hovory jsou nepravděpodobné. Co uděláte nejdřív?"},
+      "options": [
+        {"label": {"en": "Suggest a brief weekly check-in with no pressure for an immediate reply", "cs": "Navrhnu krátké týdenní ozvání bez tlaku na okamžitou odpověď"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 0, "follow_through": 1}},
+        {"label": {"en": "Ask which one issue deserves protected time for a real conversation", "cs": "Zeptám se, které jedno téma si zaslouží chráněný čas na skutečný rozhovor"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
+        {"label": {"en": "Book one low-effort shared evening for after the deadline", "cs": "Naplánuji jeden nenáročný společný večer po termínu"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
+        {"label": {"en": "Write down the key date and check in specifically when it arrives", "cs": "Poznamenám si klíčové datum a konkrétně se ozvu, až nastane"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+      ]
+    },
+    {
+      "id": "important-news",
+      "text": {"en": "A friend sends a short message that hints at important news. Your natural first move is to…", "cs": "Přítel pošle krátkou zprávu naznačující důležitou novinu. Vaším přirozeným prvním krokem je…"},
+      "options": [
+        {"label": {"en": "Reply now so they know the line is open, even if a fuller answer comes later", "cs": "Odpovím hned, aby věděli, že je spojení otevřené, i když podrobnější odpověď přijde později"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
+        {"label": {"en": "Offer a call where tone and pauses will not be flattened into text", "cs": "Nabídnu hovor, v němž se tón a pauzy neztratí v textu"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
+        {"label": {"en": "Suggest talking while you both take a walk or share another simple activity", "cs": "Navrhnu rozhovor při společné procházce na dálku nebo jiné jednoduché aktivitě"}, "scores": {"rhythm": 0, "depth": 1, "shared_time": 3, "follow_through": 0}},
+        {"label": {"en": "Ask one concrete question now and return to the answer at the promised time", "cs": "Položím jednu konkrétní otázku hned a k odpovědi se vrátím ve slíbenou dobu"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+      ]
+    },
+    {
+      "id": "messages-thinning",
+      "text": {"en": "Messages have gradually become less frequent, but there has been no conflict. What comes first?", "cs": "Zprávy postupně řídnou, ale nedošlo ke konfliktu. Co přijde jako první?"},
+      "options": [
+        {"label": {"en": "Restart with a small recurring exchange that is easy to keep", "cs": "Začnu znovu malou opakovanou výměnou, kterou lze snadno udržet"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 1, "follow_through": 0}},
+        {"label": {"en": "Ask directly how the friendship feels to them now", "cs": "Přímo se zeptám, jak nyní přátelství vnímají"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
+        {"label": {"en": "Invite them to a specific game, film or planned visit", "cs": "Pozvu je ke konkrétní hře, filmu nebo plánované návštěvě"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
+        {"label": {"en": "Return to something they mentioned before and ask what happened next", "cs": "Vrátím se k něčemu, co dříve zmínili, a zeptám se, jak to pokračovalo"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+      ]
+    },
+    {
+      "id": "time-zones",
+      "text": {"en": "Time zones make live conversation difficult. Which adjustment would you try first?", "cs": "Časová pásma ztěžují živý rozhovor. Kterou úpravu zkusíte nejdřív?"},
+      "options": [
+        {"label": {"en": "Use short asynchronous updates at a predictable pace", "cs": "Použiji krátké asynchronní zprávy v předvídatelném rytmu"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
+        {"label": {"en": "Exchange longer voice notes when an issue needs nuance", "cs": "Vyměníme si delší hlasové zprávy, když téma potřebuje nuance"}, "scores": {"rhythm": 1, "depth": 3, "shared_time": 0, "follow_through": 0}},
+        {"label": {"en": "Choose one occasional overlap for a shared meal, walk or watch-along", "cs": "Zvolím občasný společný čas na jídlo, procházku či sledování něčeho"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
+        {"label": {"en": "Keep a note of what they are awaiting and follow up across the gap", "cs": "Poznamenám si, na co čekají, a přes časový rozdíl se k tomu vrátím"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+      ]
+    },
+    {
+      "id": "visit-cancelled",
+      "text": {"en": "A long-planned visit must be cancelled for practical reasons. Your first repair to the connection is to…", "cs": "Dlouho plánovaná návštěva musí být z praktických důvodů zrušena. Jak nejdřív opravíte spojení?"},
+      "options": [
+        {"label": {"en": "Keep the date with a short check-in so it does not disappear entirely", "cs": "Zachovám datum alespoň krátkým ozváním, aby úplně nezmizelo"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 1, "follow_through": 0}},
+        {"label": {"en": "Talk about the disappointment rather than jumping straight to logistics", "cs": "Promluvím o zklamání místo okamžitého skoku k logistice"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
+        {"label": {"en": "Replace part of the visit with an activity you can still do together", "cs": "Nahradím část návštěvy aktivitou, kterou lze stále udělat společně"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
+        {"label": {"en": "Take responsibility for finding two realistic new dates and send them", "cs": "Převezmu odpovědnost za nalezení dvou realistických nových termínů a pošlu je"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 1, "follow_through": 3}}
+      ]
+    },
+    {
+      "id": "ordinary-week",
+      "text": {"en": "Nothing dramatic has happened in either life this week. What most naturally keeps the friendship warm?", "cs": "Tento týden se v žádném životě nestalo nic dramatického. Co nejpřirozeněji udrží přátelství v teple?"},
+      "options": [
+        {"label": {"en": "Send a small sign of life instead of waiting for news", "cs": "Pošlu malý signál života místo čekání na novinky"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 0, "follow_through": 1}},
+        {"label": {"en": "Ask one question that invites more than a status report", "cs": "Položím jednu otázku, která zve k něčemu hlubšímu než hlášení stavu"}, "scores": {"rhythm": 1, "depth": 3, "shared_time": 0, "follow_through": 0}},
+        {"label": {"en": "Share a small experience at the same time, such as a recipe, match or episode", "cs": "Sdílím ve stejný čas malý zážitek, například recept, zápas či epizodu"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 3, "follow_through": 0}},
+        {"label": {"en": "Send the link or answer you promised in an earlier conversation", "cs": "Pošlu odkaz nebo odpověď slíbenou v dřívějším rozhovoru"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 0, "follow_through": 3}}
+      ]
+    },
+    {
+      "id": "hard-decision",
+      "text": {"en": "A distant friend is facing a hard decision. What is your most likely first contribution?", "cs": "Vzdálený přítel stojí před těžkým rozhodnutím. Jaký bude nejspíš váš první příspěvek?"},
+      "options": [
+        {"label": {"en": "Check in briefly at several stages so they are not left alone between conversations", "cs": "Krátce se ozvu v několika fázích, aby mezi rozhovory nezůstali sami"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
+        {"label": {"en": "Make space for a focused conversation without rushing to advice", "cs": "Vytvořím prostor pro soustředěný rozhovor bez spěchu k radě"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
+        {"label": {"en": "Offer to stay connected while they complete one difficult step", "cs": "Nabídnu spojení během jednoho obtížného kroku"}, "scores": {"rhythm": 0, "depth": 1, "shared_time": 3, "follow_through": 0}},
+        {"label": {"en": "Ask what concrete help would matter and complete the part you accept", "cs": "Zeptám se, jaká konkrétní pomoc by měla význam, a splním část, kterou přijmu"}, "scores": {"rhythm": 0, "depth": 1, "shared_time": 0, "follow_through": 3}}
+      ]
+    },
+    {
+      "id": "different-habits",
+      "text": {"en": "You like frequent messages; your friend prefers rare, long conversations. How do you adapt first?", "cs": "Vy máte rádi časté zprávy; přítel dává přednost vzácným dlouhým rozhovorům. Jak se nejdřív přizpůsobíte?"},
+      "options": [
+        {"label": {"en": "Agree on a light minimum rhythm that neither person has to guess", "cs": "Domluvím lehký minimální rytmus, který nikdo nemusí hádat"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
+        {"label": {"en": "Protect fewer conversations from multitasking so they can go deeper", "cs": "Ochraním méně rozhovorů před multitaskingem, aby mohly jít do hloubky"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 1, "follow_through": 0}},
+        {"label": {"en": "Build contact around a shared ritual rather than message frequency alone", "cs": "Postavím kontakt kolem společného rituálu, ne jen četnosti zpráv"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 3, "follow_through": 0}},
+        {"label": {"en": "Clarify what each person promises to remember and return to", "cs": "Vyjasním, co si každý slibuje zapamatovat a k čemu se vrátit"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+      ]
+    }
+  ],
+  "outcomes": {
+    "rhythm": {
+      "title": {"en": "You often protect the rhythm", "cs": "Často chráníte rytmus"},
+      "summary": {"en": "You tend to keep a friendship present through small, sustainable contact. This is a current maintenance preference, not a measure of affection or a fixed type.", "cs": "Máte sklon udržovat přátelství přítomné malým udržitelným kontaktem. Jde o současnou preferenci udržování vztahu, ne míru náklonnosti ani pevný typ."},
+      "strength": {"en": "Regular low-cost contact can prevent every conversation from having to restart the relationship.", "cs": "Pravidelný nenáročný kontakt může zabránit tomu, aby každý rozhovor musel vztah znovu rozjíždět."},
+      "watch": {"en": "Frequency can become a stream of signals without enough attention for what is actually changing.", "cs": "Četnost se může změnit v proud signálů bez dostatečné pozornosti tomu, co se skutečně mění."},
+      "action": {"en": "Keep the rhythm, then convert one check-in this month into protected depth or shared time.", "cs": "Zachovejte rytmus a jedno ozvání tento měsíc proměňte v chráněnou hloubku či společný čas."}
+    },
+    "depth": {
+      "title": {"en": "You often make room for depth", "cs": "Často dáváte prostor hloubce"},
+      "summary": {"en": "You tend to protect tone, attention and honest detail when something matters. This is a current maintenance preference, not a measure of affection or a fixed type.", "cs": "Když na něčem záleží, máte sklon chránit tón, pozornost a upřímný detail. Jde o současnou preferenci udržování vztahu, ne míru náklonnosti ani pevný typ."},
+      "strength": {"en": "A richer channel and focused attention can carry complexity that fragmented text loses.", "cs": "Bohatší kanál a soustředěná pozornost mohou nést složitost, kterou útržkovitý text ztrácí."},
+      "watch": {"en": "Waiting for a deep conversation can create long silence when schedules never become ideal.", "cs": "Čekání na hluboký rozhovor může vytvořit dlouhé ticho, pokud se rozvrhy nikdy nestanou ideálními."},
+      "action": {"en": "Add one small asynchronous signal between the conversations you protect for depth.", "cs": "Přidejte jeden malý asynchronní signál mezi rozhovory, které chráníte pro hloubku."}
+    },
+    "shared_time": {
+      "title": {"en": "You often create shared time", "cs": "Často vytváříte společný čas"},
+      "summary": {"en": "You tend to keep the friendship active by doing something together rather than only exchanging updates. This is a current maintenance preference, not a measure of affection or a fixed type.", "cs": "Máte sklon udržovat přátelství aktivní společnou činností místo pouhé výměny novinek. Jde o současnou preferenci udržování vztahu, ne míru náklonnosti ani pevný typ."},
+      "strength": {"en": "Shared activity creates new material for a relationship instead of asking memory to carry it alone.", "cs": "Společná aktivita vytváří nový materiál pro vztah místo toho, aby jej nesla jen paměť."},
+      "watch": {"en": "Plans can become elaborate enough that cancellation feels like evidence the friendship is failing.", "cs": "Plány mohou být natolik složité, že zrušení začne působit jako důkaz selhávání přátelství."},
+      "action": {"en": "Give the next plan a ten-minute fallback so contact survives a disrupted schedule.", "cs": "Dejte příštímu plánu desetiminutovou náhradní variantu, aby kontakt přežil narušený rozvrh."}
+    },
+    "follow_through": {
+      "title": {"en": "You often turn care into follow-through", "cs": "Často převádíte péči do činu"},
+      "summary": {"en": "You tend to remember details and return when a question, promise or practical act will matter. This is a current maintenance preference, not a measure of affection or a fixed type.", "cs": "Máte sklon pamatovat si detaily a vracet se ve chvíli, kdy bude záležet na otázce, slibu či praktickém činu. Jde o současnou preferenci udržování vztahu, ne míru náklonnosti ani pevný typ."},
+      "strength": {"en": "Specific follow-through makes continuity visible across time and distance.", "cs": "Konkrétní navázání činí kontinuitu viditelnou napříč časem a vzdáleností."},
+      "watch": {"en": "Practical reliability can crowd out play, mutual disclosure or contact that has no task attached.", "cs": "Praktická spolehlivost může vytlačit hravost, vzájemné sdílení či kontakt bez připojeného úkolu."},
+      "action": {"en": "After the next useful follow-up, invite one interaction whose only purpose is enjoying each other's company.", "cs": "Po příštím užitečném navázání pozvěte k jedné interakci, jejímž jediným účelem je užít si společnost druhého."}
+    }
+  },
+  "sources": [
+    {"name": "Roberts & Dunbar — Managing Relationship Decay", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4626528/", "published": "2015-10-29", "type": "open-access longitudinal research (CC BY 4.0) on contact, shared activity and friendship maintenance; no study items reproduced"},
+    {"name": "Utz — Media use in long-distance friendships", "url": "https://research.vu.nl/en/publications/media-use-in-long-distance-friendships/", "published": "2007-01-01", "type": "peer-reviewed research abstract on asynchronous contact and richer channels; no scale or instrument items reproduced"},
+    {"name": "Hall — How many hours does it take to make a friend?", "url": "https://journals.sagepub.com/doi/10.1177/0265407518761225", "published": "2018-03-15", "type": "free-access peer-reviewed research on time, shared leisure and everyday talk; all quiz scenarios and scoring are original"},
+    {"name": "Finchum — Keeping the ball in the air", "url": "https://pubmed.ncbi.nlm.nih.gov/16186097/", "published": "2005-10-01", "type": "peer-reviewed qualitative research abstract on contact and support in long-distance friendships; no interview prompts or instrument items reproduced"}
+  ]
+}
