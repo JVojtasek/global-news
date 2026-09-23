@@ -792,8 +792,8 @@
    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
    "section": "tech",
    "entities": [
-    "claude",
     "researchers",
+    "claude",
     "openai",
     "astra",
     "anthropic"
@@ -803,7 +803,8 @@
     "1db8587bd622",
     "a8365cfa26c0",
     "50c802e9ffe4",
-    "5618ffbe19d5"
+    "5618ffbe19d5",
+    "23b05835e46b"
    ],
    "first_seen": "2026-09-03",
    "last_seen": "2026-09-23",
@@ -863,6 +864,18 @@
      "links": [
       "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
       "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+     "sources": 2,
+     "score": 52,
+     "event_id": "23b05835e46b",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
       "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
      ]
     }
@@ -10743,5 +10756,5 @@
    ]
   }
  ],
- "updated": "2026-09-23T00:57:38+00:00"
+ "updated": "2026-09-23T03:31:24+00:00"
 }
