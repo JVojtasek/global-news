@@ -1610,46 +1610,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "trump's",
-    "taher",
     "general",
-    "houthis",
-    "riyadh",
-    "thick",
-    "verified",
-    "macron",
-    "iran",
-    "lula",
-    "neutral",
-    "british",
-    "jerusalem",
-    "saudi",
-    "jared",
-    "ireland",
     "kushner",
-    "netanyahu",
-    "inquest",
-    "gaza",
-    "arabia",
-    "iraq",
-    "east",
-    "peace",
-    "erdogan",
-    "paris",
-    "league",
-    "trump",
-    "emmanuel",
-    "east-west",
-    "israeli",
+    "macron",
     "yemen's",
     "aoun",
-    "yemen",
-    "israel",
-    "board",
     "arabian",
+    "trump",
+    "gaza's",
     "republic",
+    "saudi",
+    "jared",
+    "riyadh",
+    "iraq",
+    "jerusalem",
+    "league",
+    "board",
+    "british",
+    "houthis",
     "nations",
-    "eurovision"
+    "eurovision",
+    "emmanuel",
+    "inquest",
+    "gaza",
+    "peace",
+    "ireland",
+    "iran",
+    "lula",
+    "verified",
+    "paris",
+    "netanyahu",
+    "israel",
+    "erdogan",
+    "thick",
+    "taher",
+    "yemen",
+    "neutral",
+    "trump's",
+    "israeli",
+    "arabia",
+    "east-west"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -1694,7 +1694,8 @@
     "2a4b43d9f74a",
     "9146f0df0ac0",
     "4ea1d5b81c19",
-    "c4c26ff56cab"
+    "c4c26ff56cab",
+    "1c5e2ce6d622"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-23",
@@ -2186,6 +2187,339 @@
      "links": [
       "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1c5e2ce6d622",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "chinese",
+    "karoline",
+    "press",
+    "journalists",
+    "crypto",
+    "trump",
+    "leavitt",
+    "jersey",
+    "court",
+    "army",
+    "white",
+    "days",
+    "secretary",
+    "donald",
+    "politico",
+    "stewart",
+    "tetris",
+    "company",
+    "house",
+    "judge",
+    "kalshi's",
+    "nabep",
+    "venezuela",
+    "trump's",
+    "supreme",
+    "driscoll"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e",
+    "958107abfe36",
+    "eb231f9016df",
+    "ad8ed0c19d7a",
+    "1c66ae5141c6",
+    "153ab8978645",
+    "a49a69926475",
+    "d966c1faf1fe",
+    "eb0e7de10f2c",
+    "d6f846915316",
+    "fbea76a25d72",
+    "ea16baaac907",
+    "99aa363f1f60",
+    "954841d14c5d",
+    "691ba0b74f56"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-09-23",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+     "sources": 2,
+     "score": 42,
+     "event_id": "958107abfe36",
+     "links": [
+      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump White House just tossed a grenade into international space relations",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb231f9016df",
+     "links": [
+      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad8ed0c19d7a",
+     "links": [
+      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
+      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1c66ae5141c6",
+     "links": [
+      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+     "sources": 2,
+     "score": 48,
+     "event_id": "153ab8978645",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "US Supreme Court denies Trump bid to restrict mail-in ballots",
+     "sources": 3,
+     "score": 59,
+     "event_id": "a49a69926475",
+     "links": [
+      "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+      "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Trump says he is banning CNN and Politico from White House",
+     "sources": 7,
+     "score": 80,
+     "event_id": "d966c1faf1fe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb0e7de10f2c",
+     "links": [
+      "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
+      "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Journalists denied White House access after Trump banned some media outlets",
+     "sources": 5,
+     "score": 73,
+     "event_id": "d6f846915316",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
+     "sources": 2,
+     "score": 49,
+     "event_id": "fbea76a25d72",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
+      "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+     "sources": 4,
+     "score": 61,
+     "event_id": "ea16baaac907",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
+      "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "What is the White House press pool and why does it matter?",
+     "sources": 3,
+     "score": 51,
+     "event_id": "99aa363f1f60",
+     "links": [
+      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
+      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+      "https://www.france24.com/en/americas/20260921-cnn-ms-now-politico-sue-trump-administration-after-white-house-ban"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’",
+     "sources": 2,
+     "score": 42,
+     "event_id": "954841d14c5d",
+     "links": [
+      "https://www.theguardian.com/culture/2026/sep/22/jon-stewart-trump-white-house-media-ban",
+      "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+     "sources": 2,
+     "score": 51,
+     "event_id": "691ba0b74f56",
+     "links": [
+      "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+      "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
+      "https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss"
      ]
     }
    ]
@@ -2679,6 +3013,90 @@
    ]
   },
   {
+   "id": "0aa45abf75b4",
+   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+   "section": "world",
+   "entities": [
+    "javier",
+    "argentina",
+    "trump",
+    "islands",
+    "president",
+    "milei",
+    "falklands",
+    "iceland",
+    "falkland"
+   ],
+   "event_ids": [
+    "0aa45abf75b4",
+    "8ab3477c95bb",
+    "50b8cc60bf30",
+    "7a595c75a0e5",
+    "b4adb9b4bb87"
+   ],
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-23",
+   "timeline": [
+    {
+     "date": "2026-09-04",
+     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0aa45abf75b4",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+     "sources": 3,
+     "score": 52,
+     "event_id": "8ab3477c95bb",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
+      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+     "sources": 2,
+     "score": 44,
+     "event_id": "50b8cc60bf30",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7a595c75a0e5",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b4adb9b4bb87",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+      "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "bd5d0f2f7796",
    "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
    "section": "world",
@@ -2744,6 +3162,37 @@
       "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/harvey-weinstein-resentenced-to-15-years-for-sexual-assault/a-79403381?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2b347563e49",
+   "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+   "section": "world",
+   "entities": [
+    "australia",
+    "openai",
+    "medicare",
+    "albanese",
+    "anthony"
+   ],
+   "event_ids": [
+    "a2b347563e49"
+   ],
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "timeline": [
+    {
+     "date": "2026-09-23",
+     "headline": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+     "sources": 3,
+     "score": 63,
+     "event_id": "a2b347563e49",
+     "links": [
+      "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+      "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting",
+      "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
      ]
     }
    ]
@@ -3730,314 +4179,6 @@
      "links": [
       "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
       "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "crypto",
-    "trump",
-    "politico",
-    "secretary",
-    "jersey",
-    "karoline",
-    "trump's",
-    "army",
-    "house",
-    "chinese",
-    "stewart",
-    "kalshi's",
-    "press",
-    "company",
-    "court",
-    "nabep",
-    "supreme",
-    "journalists",
-    "white",
-    "venezuela",
-    "leavitt",
-    "tetris",
-    "days",
-    "driscoll",
-    "donald"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e",
-    "958107abfe36",
-    "eb231f9016df",
-    "ad8ed0c19d7a",
-    "1c66ae5141c6",
-    "153ab8978645",
-    "a49a69926475",
-    "d966c1faf1fe",
-    "eb0e7de10f2c",
-    "d6f846915316",
-    "fbea76a25d72",
-    "ea16baaac907",
-    "99aa363f1f60",
-    "954841d14c5d"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-22",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-     "sources": 2,
-     "score": 42,
-     "event_id": "958107abfe36",
-     "links": [
-      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump White House just tossed a grenade into international space relations",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb231f9016df",
-     "links": [
-      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ad8ed0c19d7a",
-     "links": [
-      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
-      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1c66ae5141c6",
-     "links": [
-      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-     "sources": 2,
-     "score": 48,
-     "event_id": "153ab8978645",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-      "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "US Supreme Court denies Trump bid to restrict mail-in ballots",
-     "sources": 3,
-     "score": 59,
-     "event_id": "a49a69926475",
-     "links": [
-      "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-      "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Trump says he is banning CNN and Politico from White House",
-     "sources": 7,
-     "score": 80,
-     "event_id": "d966c1faf1fe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb0e7de10f2c",
-     "links": [
-      "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
-      "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Journalists denied White House access after Trump banned some media outlets",
-     "sources": 5,
-     "score": 73,
-     "event_id": "d6f846915316",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
-     "sources": 2,
-     "score": 49,
-     "event_id": "fbea76a25d72",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
-      "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-     "sources": 4,
-     "score": 61,
-     "event_id": "ea16baaac907",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
-      "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "What is the White House press pool and why does it matter?",
-     "sources": 3,
-     "score": 51,
-     "event_id": "99aa363f1f60",
-     "links": [
-      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
-      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-      "https://www.france24.com/en/americas/20260921-cnn-ms-now-politico-sue-trump-administration-after-white-house-ban"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’",
-     "sources": 2,
-     "score": 42,
-     "event_id": "954841d14c5d",
-     "links": [
-      "https://www.theguardian.com/culture/2026/sep/22/jon-stewart-trump-white-house-media-ban",
-      "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
      ]
     }
    ]
@@ -8187,78 +8328,6 @@
    ]
   },
   {
-   "id": "0aa45abf75b4",
-   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-   "section": "world",
-   "entities": [
-    "islands",
-    "falkland",
-    "falklands",
-    "argentina",
-    "president",
-    "trump",
-    "iceland",
-    "javier",
-    "milei"
-   ],
-   "event_ids": [
-    "0aa45abf75b4",
-    "8ab3477c95bb",
-    "50b8cc60bf30",
-    "7a595c75a0e5"
-   ],
-   "first_seen": "2026-09-04",
-   "last_seen": "2026-09-10",
-   "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0aa45abf75b4",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
-     "sources": 3,
-     "score": 52,
-     "event_id": "8ab3477c95bb",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
-      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-     "sources": 2,
-     "score": 44,
-     "event_id": "50b8cc60bf30",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7a595c75a0e5",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
-     ]
-    }
-   ]
-  },
-  {
    "id": "f9cc265e8cdb",
    "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
    "section": "sport",
@@ -10868,5 +10937,5 @@
    ]
   }
  ],
- "updated": "2026-09-23T18:31:34+00:00"
+ "updated": "2026-09-23T21:24:53+00:00"
 }

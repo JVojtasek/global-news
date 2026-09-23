@@ -114,7 +114,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
   - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
-  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
+  - Religion in ancient Rome — <https://en.wikipedia.org/wiki/Religion_in_ancient_Rome>
 
 ---
 

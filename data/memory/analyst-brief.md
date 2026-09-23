@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-23
 
-Paměť obsahuje **113 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **114 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -65,9 +65,8 @@ Paměť obsahuje **113 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 45 dní · 43 záznamů
+- rubrika `world` · sledováno 45 dní · 44 záznamů
 - časová osa:
-  - **2026-09-22** (3 zdrojů) Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
   - **2026-09-22** (2 zdrojů) UK to refuel Saudi jets amid conflict with Yemen's Houthis
   - **2026-09-22** (3 zdrojů) Iran war spreads through region as Trump seeks way out
   - **2026-09-22** (2 zdrojů) Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
@@ -77,6 +76,7 @@ Paměť obsahuje **113 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-22** (2 zdrojů) UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC
   - **2026-09-23** (2 zdrojů) 'It can't be brushed over' - Republic of Ireland squad to discuss Israel games
   - **2026-09-23** (2 zdrojů) Trump's Board of Peace proposes $2.45B for reconstruction in Gaza
+  - **2026-09-23** (2 zdrojů) Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
