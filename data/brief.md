@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **14**
+- Článků v zásobě: **13**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -114,7 +114,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
   - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
-  - Religion in ancient Rome — <https://en.wikipedia.org/wiki/Religion_in_ancient_Rome>
+  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
 
 ---
 
@@ -141,8 +141,6 @@
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-08  (2 zdrojů, síla 49)  Trump tells Putin he wants swift end to Ukraine war, Kremlin says
-  2026-09-08  (2 zdrojů, síla 40)  US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin
   2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
   2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
   2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
@@ -161,6 +159,8 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-22  (2 zdrojů, síla 44)  Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
   2026-09-22  (2 zdrojů, síla 42)  Trump praises relations with Burnham despite tensions over AI and Iran
   2026-09-23  (5 zdrojů, síla 84)  Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+  2026-09-23  (2 zdrojů, síla 46)  Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
+  2026-09-23  (2 zdrojů, síla 45)  Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

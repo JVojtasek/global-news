@@ -9,8 +9,6 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **45**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 43 dní · 60 záznamů
 - časová osa:
-  - **2026-09-14** (2 zdrojů) Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
-  - **2026-09-15** (1 zdrojů) These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
   - **2026-09-15** (1 zdrojů) World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
   - **2026-09-20** (4 zdrojů) Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
   - **2026-09-20** (2 zdrojů) Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
@@ -19,6 +17,8 @@ Paměť obsahuje **112 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-22** (2 zdrojů) Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
   - **2026-09-22** (2 zdrojů) Trump praises relations with Burnham despite tensions over AI and Iran
   - **2026-09-23** (5 zdrojů) Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+  - **2026-09-23** (2 zdrojů) Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
+  - **2026-09-23** (2 zdrojů) Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 

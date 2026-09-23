@@ -5,46 +5,46 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "masha",
-    "bear",
-    "us-mediated",
-    "peace",
-    "maps",
-    "footprints",
-    "trump",
-    "ukrainian",
-    "size",
-    "witkoff",
-    "united",
-    "europe",
-    "belgorod",
-    "germany",
-    "dakota",
-    "burnham",
-    "moldova",
-    "zelenskyy",
-    "better",
-    "charts",
-    "represent",
-    "zelensky",
-    "greenland",
-    "moscow",
-    "holding",
-    "overnight",
-    "soon",
-    "africa's",
-    "made",
     "amnesty",
     "discovered",
-    "votes",
-    "unga",
+    "charts",
+    "maps",
+    "represent",
+    "made",
+    "trump",
+    "europe",
+    "united",
+    "masha",
     "iran",
-    "global",
-    "kremlin",
-    "dinosaur",
-    "upgrade",
+    "hormuz",
     "wildberries",
-    "russia"
+    "better",
+    "zelensky",
+    "kremlin",
+    "global",
+    "ukrainian",
+    "size",
+    "footprints",
+    "bear",
+    "moscow",
+    "burnham",
+    "unga",
+    "peace",
+    "moldova",
+    "zelenskyy",
+    "witkoff",
+    "russia",
+    "dinosaur",
+    "africa's",
+    "greenland",
+    "belgorod",
+    "wednesday",
+    "soon",
+    "votes",
+    "upgrade",
+    "dakota",
+    "holding",
+    "overnight"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -110,34 +110,13 @@
     "f7e833720f91",
     "caa2024cb8c4",
     "f7fd47dfaa23",
-    "67154007daef"
+    "67154007daef",
+    "7abe20d00064",
+    "6b98ebf62ad7"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-09-23",
    "timeline": [
-    {
-     "date": "2026-08-11",
-     "headline": "Ukraine says Russia fired North Korean missiles",
-     "sources": 2,
-     "score": 46,
-     "event_id": "b984d1ff1c1f",
-     "links": [
-      "https://www.france24.com/en/ukraine-says-russia-fired-north-korean-missiles",
-      "https://www.france24.com/en/video/20260811-civilian-casualties-climb-as-russia-and-ukraine-exchange-fresh-strikes",
-      "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "Four killed in overnight attacks in southern Russia, Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "84e20c91b19d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
-     ]
-    },
     {
      "date": "2026-08-13",
      "headline": "Live: Russian attack sets ablaze Ukraine’s Izmail port infrastructure",
@@ -783,6 +762,28 @@
       "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us",
       "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
+     "sources": 2,
+     "score": 46,
+     "event_id": "7abe20d00064",
+     "links": [
+      "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+      "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?",
+     "sources": 2,
+     "score": 45,
+     "event_id": "6b98ebf62ad7",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/23/wednesday-briefing-can-burnham-seek-a-different-path-to-trumps-world-order",
+      "https://www.theguardian.com/politics/2026/sep/23/andy-burnham-first-donald-trump-meeting-united-nations-un-general-assembly"
      ]
     }
    ]
@@ -10756,5 +10757,5 @@
    ]
   }
  ],
- "updated": "2026-09-23T03:31:24+00:00"
+ "updated": "2026-09-23T06:41:32+00:00"
 }
