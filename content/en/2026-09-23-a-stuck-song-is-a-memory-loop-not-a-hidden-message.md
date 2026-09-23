@@ -1,14 +1,15 @@
 ---
 slug: a-stuck-song-is-a-memory-loop-not-a-hidden-message
 title: A Stuck Song Is a Memory Loop, Not a Hidden Message
-dek: Earworms feel oddly intentional, but research points to recent exposure, associations, attention and musical shape—not a secret instruction from the mind.
+dek: Earworms feel oddly intentional, but research points to recent exposure, associations,
+  attention and musical shape—not a secret instruction from the mind.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-23'
-status: draft
-confidence: 90
+status: published
+confidence: 89
 load: 0
 topics:
 - earworms
@@ -33,7 +34,8 @@ sources:
 - name: PLOS ONE — Sticky Tunes
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086170
   published: '2014-01-31'
-- name: Quarterly Journal of Experimental Psychology — A novel indirect method for capturing involuntary musical imagery
+- name: Quarterly Journal of Experimental Psychology — A novel indirect method for
+    capturing involuntary musical imagery
   url: https://eprints.whiterose.ac.uk/id/eprint/102999/1/MS%20QJEP_final_26062016.pdf
   published: '2017-01-01'
 qma_path: ''
@@ -42,11 +44,14 @@ quiz:
   question: Which explanation best fits the evidence about an ordinary earworm?
   options:
   - It reliably reveals a hidden emotional message that should be decoded.
-  - It is involuntary retrieval shaped by exposure, associations, attention and features of the music.
+  - It is involuntary retrieval shaped by exposure, associations, attention and features
+    of the music.
   - It means the person is hearing an external sound that others cannot hear.
   answer: 1
-  explanation: >-
-    Researchers describe earworms as involuntary musical imagery: internally experienced fragments that recur without deliberate recall. Triggers and musical features affect likelihood, but no single cause or secret meaning explains every episode.
+  explanation: 'Researchers describe earworms as involuntary musical imagery: internally
+    experienced fragments that recur without deliberate recall. Triggers and musical
+    features affect likelihood, but no single cause or secret meaning explains every
+    episode.'
 ---
 
 ## BRIEFLY
