@@ -111,7 +111,10 @@
 
 ### ancient rome
 - rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- PODKLADY (0 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
+  - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
+  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
 
 ---
 
@@ -138,7 +141,6 @@
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
   2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
   2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
   2026-09-10  (2 zdrojů, síla 40)  Amnesty accuses Russia of trafficking foreigners to fight in Ukraine
@@ -158,6 +160,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-23  (2 zdrojů, síla 45)  Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
   2026-09-23  (2 zdrojů, síla 47)  UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
   2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
+  2026-09-23  (2 zdrojů, síla 40)  US envoy walks out on Pezeshkian UN speech slamming war on Iran
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
