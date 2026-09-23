@@ -1,14 +1,15 @@
 ---
 slug: maggie-walker-built-a-bank-from-a-mutual-aid-network
 title: Maggie Walker Built a Bank from a Mutual-Aid Network
-dek: Her breakthrough was not a solitary first. She connected membership, information, saving and credit so that a community could keep more of its own capital in motion.
+dek: Her breakthrough was not a solitary first. She connected membership, information,
+  saving and credit so that a community could keep more of its own capital in motion.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-09-23'
-status: draft
-confidence: 92
+status: review
+confidence: 94
 load: 0
 topics:
 - Maggie Lena Walker
@@ -33,19 +34,26 @@ sources:
 - name: National Women's History Museum — Maggie Lena Walker
   url: https://www.womenshistory.org/education-resources/biographies/maggie-lena-walker
   published: '2017-01-01'
-- name: Virginia Department of Historic Resources — Maggie L. Walker National Historic Site
+- name: Virginia Department of Historic Resources — Maggie L. Walker National Historic
+    Site
   url: https://www.dhr.virginia.gov/historic-registers/127-0275/
   published: '2024-02-02'
 qma_path: ''
 tickers: []
 quiz:
-  question: What made Maggie Walker's business strategy more than the opening of one bank?
+  question: What made Maggie Walker's business strategy more than the opening of one
+    bank?
   options:
-  - She connected an existing mutual-aid network with communication, saving, credit and other enterprises.
+  - She connected an existing mutual-aid network with communication, saving, credit
+    and other enterprises.
   - She avoided community organisations so the bank could serve only wealthy depositors.
   - She treated the bank as a symbolic project and did not pursue practical services.
   answer: 0
-  explanation: Walker used the Independent Order of Saint Luke's relationships and institutions to mobilise deposits, circulate information and widen access to saving and credit. Not every venture succeeded, but the system was designed to reinforce community capacity.
+  explanation: Walker used the Independent Order of Saint Luke's relationships and
+    institutions to mobilise deposits, circulate information and widen access to saving
+    and credit. Not every venture succeeded, but the system was designed to reinforce
+    community capacity.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
