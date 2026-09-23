@@ -141,8 +141,6 @@
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-09  (2 zdrojů, síla 44)  Ukraine, Russia trade drone strikes, killing 6
-  2026-09-09  (2 zdrojů, síla 47)  Russia and Ukraine exchange strikes as two killed at Moldova border
   2026-09-09  (2 zdrojů, síla 43)  Ukraine federation calls for Russian sanctions by FIA
   2026-09-10  (2 zdrojů, síla 46)  Russian drones kill at least nine in strikes targeting warehouses and ports in Ukraine – Europe live
   2026-09-10  (2 zdrojů, síla 44)  Orthodox church sends medieval prince’s remains to Russian troops in Ukraine
@@ -161,6 +159,8 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-23  (5 zdrojů, síla 84)  Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
   2026-09-23  (2 zdrojů, síla 46)  Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
   2026-09-23  (2 zdrojů, síla 45)  Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
+  2026-09-23  (2 zdrojů, síla 47)  UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+  2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
