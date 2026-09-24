@@ -1,14 +1,16 @@
 ---
 slug: a-failed-vote-is-not-a-war-authorization
 title: A Failed Vote Is Not a War Authorization
-dek: "The U.S. Senate rejected an Iran war-powers resolution by one vote. That leaves the House measure without Senate approval, but it does not turn congressional inaction into a new authorization for war."
+dek: The U.S. Senate rejected an Iran war-powers resolution by one vote. That leaves
+  the House measure without Senate approval, but it does not turn congressional inaction
+  into a new authorization for war.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-24'
-status: draft
-confidence: 96
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: roundtable
 series: The Newsroom Table
 event_id: us-senate-hconres89-iran-war-powers-vote-2026-09-24
-image_query: United States Senate chamber empty desks vote board neutral documentary photograph
+image_query: United States Senate chamber empty desks vote board neutral documentary
+  photograph
 sources:
 - name: U.S. Senate — Roll Call Vote 244 on H.Con.Res. 89
   url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00244.htm
@@ -40,8 +43,11 @@ impact:
   - congressional war powers
   - United States policy toward Iran
   - democratic accountability
-  line: "The vote creates no new military authority and no withdrawal order; its practical effect is to leave the executive's present course without the congressional constraint sought by the House resolution."
-  todo: "Watch for a revised war-powers measure, a specific authorization for use of military force, appropriations limits, or a material change in Republican support."
+  line: The vote creates no new military authority and no withdrawal order; its practical
+    effect is to leave the executive's present course without the congressional constraint
+    sought by the House resolution.
+  todo: Watch for a revised war-powers measure, a specific authorization for use of
+    military force, appropriations limits, or a material change in Republican support.
 qma_path: ''
 tickers: []
 quiz:
@@ -51,7 +57,8 @@ quiz:
   - It supplied a new congressional authorization for those hostilities
   - It left the House-passed concurrent resolution without Senate approval
   answer: 2
-  explanation: "The 49-50 vote rejected the concurrent resolution. It neither ordered withdrawal nor enacted a new authorization for the existing hostilities."
+  explanation: The 49-50 vote rejected the concurrent resolution. It neither ordered
+    withdrawal nor enacted a new authorization for the existing hostilities.
 ---
 
 ## BRIEFLY
