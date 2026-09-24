@@ -1,13 +1,14 @@
 ---
 slug: a-pulse-oximeter-is-a-clue-not-a-verdict
 title: A Pulse Oximeter Is a Clue, Not a Verdict
-dek: A fingertip device can reveal a useful trend, but its neat percentage is still an estimate shaped by circulation, temperature, fit, movement and skin pigmentation.
+dek: A fingertip device can reveal a useful trend, but its neat percentage is still
+  an estimate shaped by circulation, temperature, fit, movement and skin pigmentation.
 section: health
 type: analysis
 depth: open
 lang: en
 date: '2026-09-24'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics: []
@@ -18,7 +19,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual fingertip pulse oximeter beside a handwritten symptom and trend log, calm clinical editorial illustration, no readable display, no person, no logo
+image_query: conceptual fingertip pulse oximeter beside a handwritten symptom and
+  trend log, calm clinical editorial illustration, no readable display, no person,
+  no logo
 sources:
 - name: U.S. Food and Drug Administration — Pulse Oximeters
   url: https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters
@@ -29,7 +32,8 @@ sources:
 - name: New England Journal of Medicine — Racial Bias in Pulse Oximetry Measurement
   url: https://pubmed.ncbi.nlm.nih.gov/33326721/
   published: '2020-12-17'
-- name: Therapeutic Goods Administration — Limitations of Pulse Oximeters and the Effect of Skin Pigmentation
+- name: Therapeutic Goods Administration — Limitations of Pulse Oximeters and the
+    Effect of Skin Pigmentation
   url: https://www.tga.gov.au/news/safety-updates/limitations-pulse-oximeters-and-effect-skin-pigmentation
   published: '2022-01-07'
 qma_path: ''
@@ -38,10 +42,13 @@ quiz:
   question: What is the safest way to interpret a home pulse-oximeter reading?
   options:
   - As a precise measurement that should overrule how the person feels
-  - As one estimate interpreted with symptoms, trends, technique, device limits and a clinician's plan
+  - As one estimate interpreted with symptoms, trends, technique, device limits and
+    a clinician's plan
   - As useful only when two different consumer devices show the same number
   answer: 1
-  explanation: Regulators advise against relying on a pulse oximeter alone. The reading is an estimate affected by the device, the user and measurement conditions, so symptoms and trends remain essential.
+  explanation: Regulators advise against relying on a pulse oximeter alone. The reading
+    is an estimate affected by the device, the user and measurement conditions, so
+    symptoms and trends remain essential.
 review_reason: 'citlivé téma: Health'
 ---
 

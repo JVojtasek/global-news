@@ -1,13 +1,14 @@
 ---
 slug: a-school-phone-ban-is-not-a-family-media-plan
 title: A School Phone Ban Is Not a Family Media Plan
-dek: Removing phones from lessons can protect attention and conversation during the school day. It cannot, by itself, reshape a child's whole relationship with a device.
+dek: Removing phones from lessons can protect attention and conversation during the
+  school day. It cannot, by itself, reshape a child's whole relationship with a device.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-24'
-status: draft
+status: review
 confidence: 94
 load: 0
 topics: []
@@ -18,7 +19,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration of a silent smartphone resting at a school threshold while a continuous thread leads toward a family table and evening clock, no people, no text, no logo, no readable interface
+image_query: conceptual editorial illustration of a silent smartphone resting at a
+  school threshold while a continuous thread leads toward a family table and evening
+  clock, no people, no text, no logo, no readable interface
 sources:
 - name: The Lancet Regional Health Europe — SMART Schools study
   url: https://research.birmingham.ac.uk/en/publications/school-phone-policies-and-their-association-with-mental-wellbeing/
@@ -37,11 +40,15 @@ tickers: []
 quiz:
   question: What did the SMART Schools study find about restrictive school phone policies?
   options:
-  - They reduced phone and social-media time during school, but were not associated with lower overall use or better mental wellbeing
+  - They reduced phone and social-media time during school, but were not associated
+    with lower overall use or better mental wellbeing
   - They eliminated weekday phone use and produced a large improvement in mental wellbeing
   - They had no measurable effect on phone use during the school day
   answer: 0
-  explanation: Students in restrictive schools reported less phone and social-media use during school, but the study found no evidence of lower overall use or better mental wellbeing.
+  explanation: Students in restrictive schools reported less phone and social-media
+    use during school, but the study found no evidence of lower overall use or better
+    mental wellbeing.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

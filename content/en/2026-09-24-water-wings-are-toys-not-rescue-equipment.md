@@ -9,8 +9,8 @@ type: analysis
 depth: open
 lang: en
 date: '2026-09-24'
-status: draft
-confidence: 96
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -38,8 +38,8 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which feature best distinguishes safety equipment from an inflatable
-    pool toy for a child?
+  question: Which feature best distinguishes safety equipment from an inflatable pool
+    toy for a child?
   options:
   - Bright color, familiar shape and a promise that it helps a child float
   - A U.S. Coast Guard approval label, correct size and intended use, sound condition

@@ -1,14 +1,15 @@
 ---
 slug: sos-was-chosen-for-its-pattern-not-its-meaning
 title: SOS Was Chosen for Its Pattern, Not Its Meaning
-dek: “Save Our Ship” is a memorable explanation added to an older signal. The international rule chose a continuous rhythm built to cut through radio traffic.
+dek: “Save Our Ship” is a memorable explanation added to an older signal. The international
+  rule chose a continuous rhythm built to cut through radio traffic.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-24'
-status: draft
-confidence: 95
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,12 +19,16 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual early wireless telegraph key sending three short three long three short pulses across a dark sea, historical editorial illustration, no text, no shipwreck, no people
+image_query: conceptual early wireless telegraph key sending three short three long
+  three short pulses across a dark sea, historical editorial illustration, no text,
+  no shipwreck, no people
 sources:
-- name: International Telecommunication Union — Berlin International Radiotelegraph Conference, 1906
+- name: International Telecommunication Union — Berlin International Radiotelegraph
+    Conference, 1906
   url: https://handle.itu.int/11.1004/020.1000/4.36
   published: '1906-11-03'
-- name: International Telecommunication Union — London International Radiotelegraph Conference, 1912
+- name: International Telecommunication Union — London International Radiotelegraph
+    Conference, 1912
   url: https://handle.itu.int/11.1004/020.1000/4.37
   published: '1912-07-05'
 - name: PBS American Experience — Wireless Signals
@@ -38,10 +43,13 @@ quiz:
   question: Why was SOS adopted as an international maritime distress signal?
   options:
   - It abbreviated “Save Our Ship” in the language used by most radio operators
-  - Its continuous three-short, three-long, three-short pattern was distinctive and easy to recognize
+  - Its continuous three-short, three-long, three-short pattern was distinctive and
+    easy to recognize
   - It was the call sign assigned to Titanic before the ship sailed
   answer: 1
-  explanation: The 1906 international decision identified the signal as ...---.... The letter grouping produced a memorable name, but phrases such as “Save Our Ship” were later mnemonics, not its origin.
+  explanation: The 1906 international decision identified the signal as ...---....
+    The letter grouping produced a memorable name, but phrases such as “Save Our Ship”
+    were later mnemonics, not its origin.
 ---
 
 ## BRIEFLY
