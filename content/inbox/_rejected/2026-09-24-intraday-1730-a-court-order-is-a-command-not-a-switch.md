@@ -142,4 +142,4 @@ The useful signal is not rhetoric from either side. It is the docket and the gat
 
 ## REFLECT
 
-When a court speaks, which matters more for public trust: the words of the order, or how quickly an institution makes those words real?
+When a court speaks, which matters more for public trust: the words of the order, or how quickly an institution makes those words real? The answer may depend on whether delay is visible and explained. A temporary failure can be corrected; an unexplained one can make a binding command look negotiable before the merits are ever decided.
