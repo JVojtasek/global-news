@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-24
 
-Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
+Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **48**.
 
 ---
 
@@ -51,9 +51,8 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 46 dní · 47 záznamů
+- rubrika `world` · sledováno 46 dní · 48 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights
   - **2026-09-22** (4 zdrojů) Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
   - **2026-09-22** (2 zdrojů) Republic of Ireland braced for testing Nations League
   - **2026-09-22** (2 zdrojů) UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC
@@ -63,6 +62,7 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-09-24** (2 zdrojů) Israel facing water shortages caused by destruction of Gaza’s treatment plants
   - **2026-09-24** (2 zdrojů) Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
   - **2026-09-24** (2 zdrojů) Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
+  - **2026-09-24** (2 zdrojů) Felix gives Portugal win over Wales in Nations League opener
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

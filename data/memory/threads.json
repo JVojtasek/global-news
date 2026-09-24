@@ -798,46 +798,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "neutral",
-    "netherlands",
-    "republic",
     "iraq",
-    "jerusalem",
-    "wales",
-    "macron",
-    "erdogan",
-    "kushner",
-    "uefa",
-    "arabian",
-    "nations",
-    "league",
     "iran",
-    "trump",
+    "emmanuel",
+    "netanyahu",
+    "yemen",
+    "jared",
+    "league",
+    "macron",
+    "aoun",
+    "riyadh",
+    "netherlands",
+    "neutral",
+    "gaza's",
+    "republic",
+    "peace",
+    "ireland",
+    "saudi",
+    "jerusalem",
+    "uefa",
+    "general",
+    "trump's",
+    "houthis",
+    "arabian",
+    "yemen's",
+    "felix",
+    "portugal",
+    "taher",
+    "germany",
+    "board",
+    "east-west",
+    "arabia",
+    "kushner",
+    "wales",
     "gaza",
     "taiwan",
-    "arabia",
-    "thick",
-    "yemen's",
-    "aoun",
-    "jared",
-    "board",
-    "yemen",
-    "portugal",
-    "general",
-    "peace",
-    "east-west",
-    "netanyahu",
-    "trump's",
-    "ireland",
-    "germany",
-    "riyadh",
-    "saudi",
-    "taher",
-    "emmanuel",
-    "gaza's",
-    "houthis",
     "israel",
-    "british"
+    "thick",
+    "trump",
+    "nations",
+    "erdogan"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -886,7 +886,8 @@
     "1c5e2ce6d622",
     "9bac96c38c2d",
     "89b9289758e8",
-    "8d24e87fed3d"
+    "8d24e87fed3d",
+    "f19892690f93"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-24",
@@ -1422,6 +1423,17 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
       "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Felix gives Portugal win over Wales in Nations League opener",
+     "sources": 2,
+     "score": 48,
+     "event_id": "f19892690f93",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cq770gkr1zy2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report"
      ]
     }
    ]
@@ -2002,17 +2014,18 @@
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
-    "secretary",
-    "wife",
-    "pentagon",
-    "china",
-    "massie",
-    "trump",
     "hegseth",
     "defense",
     "iran",
+    "senate",
+    "pentagon",
+    "republican",
+    "massie",
+    "secretary",
+    "trump",
+    "china",
     "november",
-    "republican"
+    "wife"
    ],
    "event_ids": [
     "7da4e07716c7",
@@ -2023,7 +2036,8 @@
     "83c9ff637cd4",
     "1a58c450df85",
     "0bd2b78f98d3",
-    "5b2e57f10a93"
+    "5b2e57f10a93",
+    "6bdae1bbcb1a"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-09-24",
@@ -2127,6 +2141,142 @@
      "links": [
       "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
       "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6bdae1bbcb1a",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e138211becc3",
+   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+   "section": "tech",
+   "entities": [
+    "deepmind",
+    "flash",
+    "google",
+    "gemini",
+    "robotics",
+    "friday",
+    "transcribe",
+    "meet",
+    "ai-powered",
+    "avatar",
+    "googlebook"
+   ],
+   "event_ids": [
+    "e138211becc3",
+    "cf3951101d71",
+    "b0c60d5e22ba",
+    "29ae84aa2a01",
+    "b27fb7cf6534",
+    "b6a7c3b080e8",
+    "26792917d6d7",
+    "ee9698a7fdb9"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-09-24",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+     "sources": 4,
+     "score": 59,
+     "event_id": "e138211becc3",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cf3951101d71",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+     "sources": 3,
+     "score": 49,
+     "event_id": "b0c60d5e22ba",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29ae84aa2a01",
+     "links": [
+      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google says its Gemini AI model hacked three other companies",
+     "sources": 2,
+     "score": 51,
+     "event_id": "b27fb7cf6534",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google’s Gemini is the latest AI model to hack other companies",
+     "sources": 3,
+     "score": 46,
+     "event_id": "b6a7c3b080e8",
+     "links": [
+      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+     "sources": 3,
+     "score": 54,
+     "event_id": "26792917d6d7",
+     "links": [
+      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+     "sources": 3,
+     "score": 46,
+     "event_id": "ee9698a7fdb9",
+     "links": [
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
      ]
     }
    ]
@@ -2524,6 +2674,36 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "99e5b53ebc29",
+   "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+   "section": "world",
+   "entities": [
+    "middle",
+    "netanyahu",
+    "east",
+    "israeli"
+   ],
+   "event_ids": [
+    "99e5b53ebc29"
+   ],
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-24",
+   "timeline": [
+    {
+     "date": "2026-09-24",
+     "headline": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+     "sources": 3,
+     "score": 68,
+     "event_id": "99e5b53ebc29",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260924-israel-must-win-because-we-ve-got-no-other-choice-pm-netanyahu-tells-un"
      ]
     }
    ]
@@ -5461,117 +5641,6 @@
      "links": [
       "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
       "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e138211becc3",
-   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-   "section": "tech",
-   "entities": [
-    "gemini",
-    "robotics",
-    "flash",
-    "google",
-    "transcribe",
-    "meet",
-    "ai-powered",
-    "friday",
-    "googlebook",
-    "deepmind"
-   ],
-   "event_ids": [
-    "e138211becc3",
-    "cf3951101d71",
-    "b0c60d5e22ba",
-    "29ae84aa2a01",
-    "b27fb7cf6534",
-    "b6a7c3b080e8",
-    "26792917d6d7"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-09-21",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-     "sources": 4,
-     "score": 59,
-     "event_id": "e138211becc3",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cf3951101d71",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-     "sources": 3,
-     "score": 49,
-     "event_id": "b0c60d5e22ba",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-     "sources": 2,
-     "score": 44,
-     "event_id": "29ae84aa2a01",
-     "links": [
-      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google says its Gemini AI model hacked three other companies",
-     "sources": 2,
-     "score": 51,
-     "event_id": "b27fb7cf6534",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google’s Gemini is the latest AI model to hack other companies",
-     "sources": 3,
-     "score": 46,
-     "event_id": "b6a7c3b080e8",
-     "links": [
-      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-     "sources": 3,
-     "score": 54,
-     "event_id": "26792917d6d7",
-     "links": [
-      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
      ]
     }
    ]
@@ -11253,5 +11322,5 @@
    ]
   }
  ],
- "updated": "2026-09-24T18:31:38+00:00"
+ "updated": "2026-09-24T21:24:34+00:00"
 }

@@ -124,7 +124,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Sleep — <https://en.wikipedia.org/wiki/Sleep>
   - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
-  - Sleep (disambiguation) — <https://en.wikipedia.org/wiki/Sleep_(disambiguation)>
+  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
 
 ---
 
