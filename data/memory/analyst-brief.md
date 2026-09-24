@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-23
+# ANALYTICKÉ ZADÁNÍ — 2026-09-24
 
-Paměť obsahuje **114 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 43 dní · 60 záznamů
+- rubrika `world` · sledováno 44 dní · 60 záznamů
 - časová osa:
-  - **2026-09-20** (2 zdrojů) Ukraine launches heavy Moscow drone attack as Russia votes
   - **2026-09-22** (2 zdrojů) EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
   - **2026-09-22** (2 zdrojů) Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
   - **2026-09-22** (2 zdrojů) Trump praises relations with Burnham despite tensions over AI and Iran
@@ -19,6 +18,7 @@ Paměť obsahuje **114 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-23** (2 zdrojů) UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
   - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
   - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
