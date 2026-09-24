@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-24
 
-Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **47**.
+Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
 
 ---
 
@@ -50,6 +50,22 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 46 dní · 46 záznamů
+- časová osa:
+  - **2026-09-22** (2 zdrojů) Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
+  - **2026-09-22** (2 zdrojů) Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights
+  - **2026-09-22** (4 zdrojů) Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
+  - **2026-09-22** (2 zdrojů) Republic of Ireland braced for testing Nations League
+  - **2026-09-22** (2 zdrojů) UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC
+  - **2026-09-23** (2 zdrojů) 'It can't be brushed over' - Republic of Ireland squad to discuss Israel games
+  - **2026-09-23** (2 zdrojů) Trump's Board of Peace proposes $2.45B for reconstruction in Gaza
+  - **2026-09-23** (2 zdrojů) Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
+  - **2026-09-24** (2 zdrojů) Israel facing water shortages caused by destruction of Gaza’s treatment plants
+  - **2026-09-24** (2 zdrojů) Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 40 dní · 46 záznamů
 - časová osa:
@@ -63,22 +79,6 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-09-21** (2 zdrojů) Burnham hails Greenland deal ahead of expected first Trump meeting
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 46 dní · 45 záznamů
-- časová osa:
-  - **2026-09-22** (3 zdrojů) Iran war spreads through region as Trump seeks way out
-  - **2026-09-22** (2 zdrojů) Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
-  - **2026-09-22** (2 zdrojů) Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights
-  - **2026-09-22** (4 zdrojů) Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
-  - **2026-09-22** (2 zdrojů) Republic of Ireland braced for testing Nations League
-  - **2026-09-22** (2 zdrojů) UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC
-  - **2026-09-23** (2 zdrojů) 'It can't be brushed over' - Republic of Ireland squad to discuss Israel games
-  - **2026-09-23** (2 zdrojů) Trump's Board of Peace proposes $2.45B for reconstruction in Gaza
-  - **2026-09-23** (2 zdrojů) Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
-  - **2026-09-24** (2 zdrojů) Israel facing water shortages caused by destruction of Gaza’s treatment plants
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Trump signs order to rename Lake Ontario as Lake America
 - rubrika `world` · sledováno 26 dní · 27 záznamů

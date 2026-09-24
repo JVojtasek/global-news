@@ -505,6 +505,64 @@
   ]
  },
  {
+  "id": "94821214578f",
+  "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
+  "section": "tech",
+  "score": 68,
+  "sources_count": 5,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T09:38:53+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+    "source": "BleepingComputer",
+    "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+    "published_at": "2026-09-24T09:38:53+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+    "source": "The Verge",
+    "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the […]",
+    "published_at": "2026-09-24T11:52:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+    "source": "The Verge AI",
+    "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the […]",
+    "published_at": "2026-09-24T11:52:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "OpenAI agents hack Australian government health data",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-agents-hack-australian-government-health-data?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Rogue OpenAI agents accessed an Australian government health data website, obtaining non-public information.",
+    "published_at": "2026-09-24T11:01:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "How did an OpenAI agent hack into Australian government website?",
+    "url": "https://www.france24.com/en/video/20260924-how-did-an-openai-agent-hack-into-australian-government-website",
+    "source": "France 24",
+    "summary": "Australia said on Wednesday an OpenAI agent breached a government health data portal in June, gaining unauthorised access to files, in what could be the first known instance of an AI agent hacking ​a government website. France 24's correspondent in Sydney, Irris Makler, has the details.",
+    "published_at": "2026-09-24T09:33:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
   "id": "147ec0dad904",
   "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
   "section": "world",
@@ -835,55 +893,6 @@
   ]
  },
  {
-  "id": "ea16baaac907",
-  "headline": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-  "section": "world",
-  "score": 61,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T12:21:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-    "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
-    "published_at": "2026-09-21T12:21:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "CNN, MS NOW and Politico will sue Trump after being barred from White House",
-    "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
-    "source": "NPR News",
-    "summary": "Reporters from CNN, MS NOW and Politico say they were prevented from entering the White House grounds after President Trump announced plans to ban all three outlets.",
-    "published_at": "2026-09-21T08:39:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-    "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-    "source": "CNBC Top",
-    "summary": "President Trump cited what he called \"cumulative stories\" by the three media outlets for his ban of them, saying, \"You get sick of it.\"",
-    "published_at": "2026-09-21T12:02:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "CNN, MS NOW and Politico to sue over White House ban",
-    "url": "https://www.investing.com/news/stock-market-news/cnn-ms-now-and-politico-file-lawsuit-against-trump-administration-over-white-house-access-4908656",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-21T12:06:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   }
-  ]
- },
- {
   "id": "35f5b380d0f5",
   "headline": "Infantino says Fifa can change as he proposes external review",
   "section": "sport",
@@ -1151,46 +1160,6 @@
   ]
  },
  {
-  "id": "3fdba4708708",
-  "headline": "Russia: Putin party retains majority in controlled parliamentary vote",
-  "section": "world",
-  "score": 54,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T10:48:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Russia: Putin party retains majority in controlled parliamentary vote",
-    "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Vladimir Putin's United Russia won just under 58% of the vote, the electoral commission said. Meanwhile, Putin ally Ramzan Kadyrov won nearly 100% of the vote in elections in the Russian republic of Chechnya.",
-    "published_at": "2026-09-21T10:48:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Putin party retains majority in first vote since 2022 invasion of Ukraine",
-    "url": "https://www.france24.com/en/putin-party-retains-majority-in-first-vote-since-2022-invasion-of-ukraine",
-    "source": "France 24",
-    "summary": "Russian President Vladimir Putin’s United Russia party won a large majority in parliamentary elections, according to preliminary results published by state media Monday, in a vote held amid Ukrainian drone strikes, cyberattacks and a crackdown on anti-war opposition. The election was the first since Russia’s full-scale invasion of Ukraine in 2022. France 24 International affairs editor, Oliver Far",
-    "published_at": "2026-09-21T09:38:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Russia’s pro-Putin party set to win election as Ukraine exposes war’s growing reach into Moscow",
-    "url": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html",
-    "source": "CNBC Top",
-    "summary": "Ukraine launched more than 1,000 drones at Russia on the State Duma election’s final day, including hundreds targeting Moscow.",
-    "published_at": "2026-09-21T09:36:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   }
-  ]
- },
- {
   "id": "26792917d6d7",
   "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
   "section": "tech",
@@ -1245,6 +1214,63 @@
     "published_at": "2026-09-21T14:59:38+00:00",
     "source_countries": [],
     "seen_at": "2026-09-21T15:25:04+00:00"
+   }
+  ]
+ },
+ {
+  "id": "004a481a42b3",
+  "headline": "Prime Minister Babiš held talks in Bulgaria on the development of trade and investment, the energy sector and strengthening European competitiveness",
+  "section": "world",
+  "score": 54,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T09:00:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Prime Minister Babiš held talks in Bulgaria on the development of trade and investment, the energy sector and strengthening European competitiveness",
+    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-held-talks-in-bulgaria-on-the-development-of-trade-and-investment--the-energy-sector-and-strengthening-european-competitiveness-228993/",
+    "source": "Czech Government",
+    "summary": "Prime Minister Andrej Babiš and the Minister for Industry and Trade, Karel Havlíček, visited Bulgaria on Wednesday 16 September 2026. They were accompanied on their trip by a business delegation of fifty representatives of Czech companies in the defence and aerospace industries, the energy sector, transport infrastructure, engineering, healthcare and other sectors. In Sofia, the Prime Minister hel",
+    "published_at": "2026-09-24T09:00:28+00:00",
+    "source_countries": [
+     "cz"
+    ],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "Prime Minister Babiš following the V4 meeting: The next European budget must be fair and balanced",
+    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-following-the-v4-meeting-the-next-european-budget-must-be-fair-and-balanced-228991/",
+    "source": "Czech Government",
+    "summary": "On Thursday 10 September 2026, Prime Minister Andrej Babiš attended a meeting in Bratislava of the prime ministers of the Visegrád Four countries and Ireland. The Prime Ministers of the Czech Republic, Slovakia, Poland and Hungary met at Bratislava Castle with their Irish counterpart, Micheál Martin – whose country currently holds the EU Presidency – to discuss, in particular, the EU’s next multia",
+    "published_at": "2026-09-24T08:55:42+00:00",
+    "source_countries": [
+     "cz"
+    ],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "Prime Minister Babiš at the Bled Strategic Forum: Central Europe, and the V4 in particular, will be key to Europe’s future",
+    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-at-the-bled-strategic-forum-central-europe--and-the-v4-in-particular--will-be-key-to-europe_s-future-228988/",
+    "source": "Czech Government",
+    "summary": "On Monday 31 August 2026, Prime Minister Andrej Babiš attended the Bled Strategic Forum in Slovenia, where he held discussions with the prime ministers of Slovenia, Croatia and Hungary. In his speech, he rejected, amongst other things, a proposal under which Member States would manage a smaller proportion of European funds in the EU’s next long-term budget. He also endorsed the role of the Visegrá",
+    "published_at": "2026-09-24T08:47:56+00:00",
+    "source_countries": [
+     "cz"
+    ],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "Prime Minister Andrej Babiš held talks with the President of the European Council, António Costa, on the next EU budget",
+    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-andrej-babis-held-talks-with-the-president-of-the-european-council--antonio-costa--on-the-next-eu-budget-228986/",
+    "source": "Czech Government",
+    "summary": "On Thursday 27 August 2026, Prime Minister Andrej Babiš received the President of the European Council, António Costa, at Kramář Villa. They discussed, in particular, the shape of the European Union’s new multiannual financial framework and the priorities the Czech Republic is advocating in the negotiations on the new EU budget, as well as the EU’s further enlargement to include the countries of t",
+    "published_at": "2026-09-24T08:42:02+00:00",
+    "source_countries": [
+     "cz"
+    ],
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -1325,46 +1351,6 @@
     "published_at": "2026-09-23T19:33:17+00:00",
     "source_countries": [],
     "seen_at": "2026-09-23T21:24:50+00:00"
-   }
-  ]
- },
- {
-  "id": "c4b3d527d3fd",
-  "headline": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
-  "section": "sport",
-  "score": 52,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T06:51:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
-    "published_at": "2026-09-21T06:51:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
-    "published_at": "2026-09-21T06:51:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "Premier League: 10 talking points from the weekend’s action",
-    "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
-    "source": "Guardian Sport",
-    "summary": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds Premier League table | Top scorers In the week that 16-year-old Max Dowman has been thrust into the spotlight , it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his h",
-    "published_at": "2026-09-21T07:00:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
    }
   ]
  },
@@ -1556,46 +1542,6 @@
     "published_at": "2026-09-23T07:31:58+00:00",
     "source_countries": [],
     "seen_at": "2026-09-23T09:28:57+00:00"
-   }
-  ]
- },
- {
-  "id": "481f8c9a593e",
-  "headline": "US proposes AI safety mechanism in talks with China",
-  "section": "world",
-  "score": 51,
-  "sources_count": 3,
-  "depth_signal": 2,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T08:06:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US proposes AI safety mechanism in talks with China",
-    "url": "https://www.dw.com/en/us-proposes-ai-safety-mechanism-in-talks-with-china/a-79350248?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "US Treasury chief Scott Bessent said there had been \"successful\" talks with China on trade and AI. The talks come amid growing fears that AI could pose an existential threat to humanity.",
-    "published_at": "2026-09-21T08:06:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "US, China agree AI dialogue ahead of Trump-Xi summit",
-    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368245/us-china-agree-ai-dialogue-ahead-trump-xi-summit?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Chinese and US negotiators made progress on artificial intelligence (AI) and trade ahead of President Xi Jinping’s visit to the White House later this week. “We had a very successful engagement with the Chinese on trade and AI,” US Treasury Secretary Scott Bessent told reporters following Sunday’s eight-hour-long negotiations at JPMorgan Chase’s head office in New York. The talks had a “good atmos",
-    "published_at": "2026-09-21T09:01:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "US, China discuss AI dialogue mechanism and trade ahead of Trump-XI summit",
-    "url": "https://www.france24.com/en/tv-shows/business/20260921-us-china-discuss-ai-dialogue-mechanism-and-trade-ahead-of-trump-xi-summit",
-    "source": "France 24",
-    "summary": "US and Chinese delegations held \"succesful\" and \"constructive\" talks in New York on Sunday on Artificial Intelligence and trade, ahead of Chinese President Xi Jinping's visit to Washington later this week. The two countries discussed setting up a dialogue mechanism as fears over AI security keep rising, and prepared to ease trade tensions as a truce deal is set to expire in November. Also in this ",
-    "published_at": "2026-09-21T08:30:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
    }
   ]
  },
@@ -1960,55 +1906,6 @@
   ]
  },
  {
-  "id": "f8c4e8d06db8",
-  "headline": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-  "section": "ai",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T12:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "source": "MIT TR — AI",
-    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
-    "published_at": "2026-09-21T12:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "source": "MIT TR — AI",
-    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-    "published_at": "2026-09-21T12:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "source": "MIT Tech Review",
-    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
-    "published_at": "2026-09-21T12:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "source": "MIT Tech Review",
-    "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-    "published_at": "2026-09-21T12:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   }
-  ]
- },
- {
   "id": "6d519ef3c396",
   "headline": "This Social Worker Was Supposed to Help Orphans Find Homes. Instead, She Abducted Children Who Already Had Families and Sold Them for Profit",
   "section": "culture",
@@ -2031,33 +1928,33 @@
   ]
  },
  {
-  "id": "1ad9667dbf58",
-  "headline": "Babies ‘will face almost twice as much’ extreme fire weather in Europe than great-grandparents",
-  "section": "science",
-  "score": 47,
+  "id": "ed03354ef007",
+  "headline": "Judge temporarily overturns Trump's White House media ban",
+  "section": "world",
+  "score": 48,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T09:00:19+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T10:29:35+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Babies ‘will face almost twice as much’ extreme fire weather in Europe than great-grandparents",
-    "url": "https://www.theguardian.com/world/2026/sep/21/babies-extreme-fire-weather-europe-great-grandparents",
-    "source": "The Guardian World",
-    "summary": "Children born after 2025 will experience three more years of brutally fire-conducive weather as global heating intensifies European babies will face almost twice as much extreme fire weather as their great-grandparents if climate action does not ramp up quickly, a study has found. Global heating under current policies will expose a child born in Europe in 2025 to three more years of brutally fire-",
-    "published_at": "2026-09-21T09:00:19+00:00",
+    "title": "Judge temporarily overturns Trump's White House media ban",
+    "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.",
+    "published_at": "2026-09-24T10:29:35+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    },
    {
-    "title": "Children born today in Europe will live through almost twice as much extreme fire weather as their grandparents",
-    "url": "https://phys.org/news/2026-09-children-born-today-europe-extreme.html",
-    "source": "Phys.org",
-    "summary": "A child born in Europe in 2025 will live through more than three additional years of extreme fire weather compared with someone born in 1950 if we continue with current climate policies, according to new research published in the journal Environmental Research Letters. That's an 84% increase for today's babies compared with their grandparents. The vast majority (86%) of this increase is due to cli",
-    "published_at": "2026-09-21T09:00:03+00:00",
+    "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+    "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+    "source": "NPR News",
+    "summary": "A judge has ordered that the Trump administration restore journalists' access to White House. And, Tucker Carlson sits down with Morning Edition 's Steve Inskeep for a Newsmakers interview.",
+    "published_at": "2026-09-24T11:10:14+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -2231,99 +2128,6 @@
     "published_at": "2026-09-23T21:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-09-23T21:24:50+00:00"
-   }
-  ]
- },
- {
-  "id": "ac34d8c547a2",
-  "headline": "Three arrested in South Africa over one of nine women's bodies found",
-  "section": "world",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T09:18:19+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Three arrested in South Africa over one of nine women's bodies found",
-    "url": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-    "published_at": "2026-09-21T09:18:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "Three South Korean military officers wounded in explosion near border",
-    "url": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "South Korean officers injured in DMZ explosion, possibly caused by a landmine, according to local media reports.",
-    "published_at": "2026-09-21T07:45:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   }
-  ]
- },
- {
-  "id": "3844ef176c21",
-  "headline": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-  "section": "world",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-20T17:25:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-    "url": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump.",
-    "published_at": "2026-09-20T17:25:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-    "url": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-    "source": "CNBC Top",
-    "summary": "The rally followed a U.S.-Denmark-Greenland security pact aimed at expanding the military presence on the Arctic territory.",
-    "published_at": "2026-09-21T09:23:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   }
-  ]
- },
- {
-  "id": "ab93d16ddbaa",
-  "headline": "Merz insists he will stay as German chancellor despite heavy losses in state elections – Europe live",
-  "section": "world",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T09:17:42+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Merz insists he will stay as German chancellor despite heavy losses in state elections – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
-    "source": "The Guardian World",
-    "summary": "CDU suffered heavy losses in two regional elections, including in home state of former leader Angela Merkel, where it polled just 4.9% Also rolling in this morning are the numbers from Russia’s orchestrated lower-house election, where Vladimir Putin’s party has retained a huge majority against token opposition. Electoral officers say the ruling United Russia party is on track to gain 355 of the 45",
-    "published_at": "2026-09-21T09:17:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "German chancellor stands his ground after his party loses in state elections",
-    "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
-    "source": "NPR News",
-    "summary": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he'd push ahead with his federal agenda of tax and welfare reforms.",
-    "published_at": "2026-09-21T09:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
    }
   ]
  },
@@ -2674,37 +2478,6 @@
     "published_at": "2026-09-23T20:54:26+00:00",
     "source_countries": [],
     "seen_at": "2026-09-24T00:58:58+00:00"
-   }
-  ]
- },
- {
-  "id": "2a4b43d9f74a",
-  "headline": "Republic of Ireland braced for testing Nations League",
-  "section": "sport",
-  "score": 45,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T06:36:17+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Republic of Ireland braced for testing Nations League",
-    "url": "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "BBC Sport NI looks at how Republic of Ireland and their opponents - Kosovo, Israel and Austria are shaping up for the Nations League.",
-    "published_at": "2026-09-21T06:36:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Cole Palmer injury likely to scupper his England return in Nations League",
-    "url": "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel",
-    "source": "Guardian Sport",
-    "summary": "Rashford and Mainoo doubts for Spain opener Livramento also expected to withdraw from squad Cole Palmer will withdraw from the England squad with a minor muscle injury while there is a doubt over whether Marcus Rashford will be able to be involved. The Manchester United winger held the area by the front of his hip and groin as he walked off slowly after his substitution at Fulham on Sunday. Palmer",
-    "published_at": "2026-09-21T11:16:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
    }
   ]
  },
@@ -3400,33 +3173,33 @@
   ]
  },
  {
-  "id": "16c20dc5e60b",
-  "headline": "UK airports hit by air traffic control problems, with flights cancelled",
+  "id": "225c216237ca",
+  "headline": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
   "section": "world",
-  "score": 43,
+  "score": 44,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T09:23:48+00:00",
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:59:23+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "UK airports hit by air traffic control problems, with flights cancelled",
-    "url": "https://www.theguardian.com/world/2026/sep/21/uk-airports-air-traffic-control-flights-cancelled-delays-nats-prestwick",
-    "source": "The Guardian World",
-    "summary": "Services in Scotland, Northern Ireland and the north of England face delays after fault at Prestwick, says Nats Business live – latest updates Flights are being disrupted in parts of the UK after National Air Traffic Services was hit by its second technical issue in a fortnight. A number of departing and arriving flights at Scottish airports have been severely delayed, with disruption affecting Sc",
-    "published_at": "2026-09-21T09:23:48+00:00",
+    "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+    "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+    "published_at": "2026-09-24T11:59:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    },
    {
-    "title": "Air traffic control failure disrupts flights in Scotland, Northern Ireland and northern England – business live",
-    "url": "https://www.theguardian.com/business/live/2026/sep/21/asian-shares-rise-optimism-us-chinese-talks-trade-ai-oil-falls-live-updates",
-    "source": "Guardian Business",
-    "summary": "National Air Traffic Services says it is investigating a ‘technical issue’ at its Prestwick centre in Scotland An air traffic control failure has caused delays to flights at Manchester Airport, about two weeks after a software glitch caused widespread flight chaos in the UK . The issue at National Air Traffic Services (NATS) is affecting airspace in northern and central England, as well as in Scot",
-    "published_at": "2026-09-21T09:08:53+00:00",
+    "title": "Poland says Starlink station fire 'act of sabotage'",
+    "url": "https://www.dw.com/en/poland-says-starlink-station-fire-act-of-sabotage/a-79410745?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Polish Deputy Prime Minister Krzysztof Gawkowski said Warsaw believed the attack aimed to disrupt internet access for the Ukrainian military, calling it \"an element of the next phase of hybrid warfare.\"",
+    "published_at": "2026-09-24T10:21:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -3675,68 +3448,6 @@
     "published_at": "2026-09-24T05:00:09+00:00",
     "source_countries": [],
     "seen_at": "2026-09-24T09:29:20+00:00"
-   }
-  ]
- },
- {
-  "id": "711f29a4dc59",
-  "headline": "Taliban says three killed in new Pakistan airstrikes on Afghanistan",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T08:44:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Taliban says three killed in new Pakistan airstrikes on Afghanistan",
-    "url": "https://www.dw.com/en/taliban-says-three-killed-in-new-pakistan-airstrikes-on-afghanistan/a-79350604?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The Afghan border provinces of Kunar and Paktika were reportedly struck. Pakistan last carried out deadly strikes on Afghanistan in June.",
-    "published_at": "2026-09-21T08:44:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "Afghanistan says three killed in Pakistani air attacks",
-    "url": "https://www.aljazeera.com/news/2026/9/21/afghanistan-says-three-killed-in-pakistani-air-attacks?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Three members of one family killed in air raid on house in Kunar province, Afghan Taliban deputy spokesperson says.",
-    "published_at": "2026-09-21T07:30:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   }
-  ]
- },
- {
-  "id": "43efeee9ec63",
-  "headline": "Edwards signs short-term deal with Red Roses",
-  "section": "sport",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T10:00:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Edwards signs short-term deal with Red Roses",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv36l2zkl8xno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Shaun Edwards has started a short-term coaching consultancy role with England women.",
-    "published_at": "2026-09-21T10:00:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Shaun Edwards finally lands England coaching role after joining Red Roses",
-    "url": "https://www.theguardian.com/sport/2026/sep/21/shaun-edwards-england-coaching-role-red-roses-rugby-union",
-    "source": "Guardian Sport",
-    "summary": "Defence guru left French men’s team in June Edwards will work as a consultant for duration of WXV Defence guru Shaun Edwards has joined the Red Roses coaching set-up in a consultancy role until the end of the WXV Global Series. The former Wales and France men’s coach has not had a role in women’s rugby before but has been brought on board with the Red Roses head coach, John Mitchell, describing hi",
-    "published_at": "2026-09-21T10:32:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
    }
   ]
  },
@@ -4352,64 +4063,33 @@
   ]
  },
  {
-  "id": "72278dc2f104",
-  "headline": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
-  "section": "business",
-  "score": 41,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T12:00:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
-    "url": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
-    "source": "The Guardian World",
-    "summary": "Blow to John Healey before budget as UK households face ‘notable strain’ on their finances Business live – latest updates Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey. In a blow to John Healey before next month’s budget, the S&P Global consumer sentiment index dropped to 42.7 i",
-    "published_at": "2026-09-21T12:00:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
-    "url": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
-    "source": "Guardian Business",
-    "summary": "Blow to John Healey before budget as UK households face ‘notable strain’ on their finances Business live – latest updates Fears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence tumbling to a three-month low, according to a leading survey. In a blow to John Healey before next month’s budget, the S&P Global consumer sentiment index dropped to 42.7 i",
-    "published_at": "2026-09-21T12:00:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   }
-  ]
- },
- {
-  "id": "6ced8f992f65",
-  "headline": "Xhaka under investigation over Covid-19 certificate",
-  "section": "sport",
-  "score": 41,
+  "id": "3263aff4ed39",
+  "headline": "'Pope fever' takes hold as Pope Leo visits France",
+  "section": "world",
+  "score": 42,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T12:21:52+00:00",
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:03:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Xhaka under investigation over Covid-19 certificate",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
-    "published_at": "2026-09-21T12:21:52+00:00",
+    "title": "'Pope fever' takes hold as Pope Leo visits France",
+    "url": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Pope Leo XIV is expected to draw large crowds during his visit to France. As part of his trip to Europe, he's also set to address the continent's future and some of the challenges ahead.",
+    "published_at": "2026-09-24T12:03:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    },
    {
-    "title": "Granit Xhaka admits to receiving fake Covid vaccination certificate in 2022",
-    "url": "https://www.theguardian.com/football/2026/sep/21/granit-xhaka-admits-receiving-fake-covid-vaccination-certificate",
-    "source": "Guardian Sport",
-    "summary": "Sunderland captain withdrawn from Switzerland squad He will be questioned by prosecutor’s office in Lucerne Granit Xhaka has been withdrawn from Switzerland’s squad after he admitted receiving a fake Covid vaccination certificate in 2022. The Sunderland and Switzerland captain – who was an Arsenal player at the time – has apologised for this “mistake” and will sit out his country’s forthcoming fou",
-    "published_at": "2026-09-21T11:46:02+00:00",
+    "title": "Pope Leo in France: 'Huge amount of excitement building in Paris'",
+    "url": "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris",
+    "source": "France 24",
+    "summary": "France 24's Antonia Kerrigan reports from Paris as the French capital prepares for the arrival of Pope Leo XIV, where he is set to hold a huge open-air Mass.",
+    "published_at": "2026-09-24T11:54:52+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -4657,33 +4337,33 @@
   ]
  },
  {
-  "id": "cd25620efbb8",
-  "headline": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-  "section": "ai",
-  "score": 40,
+  "id": "89b9289758e8",
+  "headline": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+  "section": "world",
+  "score": 41,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T12:00:00+00:00",
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:10:07+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "source": "MIT TR — AI",
-    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
-    "published_at": "2026-09-21T12:00:00+00:00",
+    "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+    "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+    "source": "CNBC Top",
+    "summary": "Trump greeted China's Xi at Joint Base Andrews, his first time traveling to the facility to welcome a foreign leader.",
+    "published_at": "2026-09-24T12:10:07+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    },
    {
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "source": "MIT Tech Review",
-    "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
-    "published_at": "2026-09-21T12:00:00+00:00",
+    "title": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Xi’s first White House visit in more than a decade comes amid ongoing disputes over trade, AI, Taiwan and war in Iran.",
+    "published_at": "2026-09-24T12:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -5467,64 +5147,64 @@
   ]
  },
  {
-  "id": "8b92e8f35945",
-  "headline": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
+  "id": "ac4be085bffb",
+  "headline": "Australia’s Albanese rebukes OpenAI after government website hacked",
   "section": "world",
-  "score": 39,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T10:00:31+00:00",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:02:13+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-    "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
-    "published_at": "2026-09-21T10:00:31+00:00",
+    "title": "Australia’s Albanese rebukes OpenAI after government website hacked",
+    "url": "https://www.france24.com/en/video/20260924-australia-s-albanese-rebukes-openai-after-government-website-hacked",
+    "source": "France 24",
+    "summary": "Prime Minister Anthony Albanese said Thursday he was extremely concerned about OpenAI 's breach of an Australian health department website and that the artificial intelligence company took too long to reveal the incident. An OpenAI agent infiltrated the public-facing Medicare Statistics Reporting Service portal on June 18, he said.",
+    "published_at": "2026-09-24T12:02:13+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    },
    {
-    "title": "Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen",
-    "url": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
-    "published_at": "2026-09-21T10:00:31+00:00",
+    "title": "How an OpenAI ‘agent’ hacked Australia’s Medicare and what that means",
+    "url": "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Incident highlights growing concerns about AI's impact on cybersecurity and AI disclosure procedures, say experts.",
+    "published_at": "2026-09-24T10:30:02+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
  {
-  "id": "cddec4e64586",
-  "headline": "She died at the San Diego border. A surveillance camera was in plain sight",
-  "section": "ai",
-  "score": 39,
+  "id": "5b2e57f10a93",
+  "headline": "US says China trade truce extended as Trump welcomes Xi",
+  "section": "world",
+  "score": 40,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T12:00:00+00:00",
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:56:39+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "source": "MIT TR — AI",
-    "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying…",
-    "published_at": "2026-09-21T12:00:00+00:00",
+    "title": "US says China trade truce extended as Trump welcomes Xi",
+    "url": "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
+    "source": "France 24",
+    "summary": "US President Donald Trump welcomed Chinese President Xi ​Jinping to Washington on Wednesday for a three-day visit that will test relations between the superpowers as tensions simmer over trade, technology, Taiwan and Tehran. Xi’s first trip to the US in nearly three years was not expected to deliver major breakthroughs, but Washington and Beijing could extend their 11-month trade truce.",
+    "published_at": "2026-09-24T11:56:39+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    },
    {
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "source": "MIT Tech Review",
-    "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying…",
-    "published_at": "2026-09-21T12:00:00+00:00",
+    "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+    "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+    "source": "CNBC Top",
+    "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
+    "published_at": "2026-09-24T10:18:19+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -6086,64 +5766,24 @@
   ]
  },
  {
-  "id": "fbef9683fbad",
-  "headline": "Amazon doesn’t trust Meta’s Muse AI agent",
-  "section": "tech",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T09:21:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-    "source": "The Verge",
-    "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that […]",
-    "published_at": "2026-09-21T09:21:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
-    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-    "source": "The Verge AI",
-    "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that […]",
-    "published_at": "2026-09-21T09:21:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   }
-  ]
- },
- {
-  "id": "79829a118189",
-  "headline": "Google fined more than €400m by Irish regulator over its use of location data",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
+  "id": "6e419eeeb57e",
+  "headline": "During the American Revolution, the City of Lancaster, Pennsylvania, Served as the United States' Capital for Just One Day",
+  "section": "culture",
+  "score": 39,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-21T10:57:26+00:00",
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:45:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Google fined more than €400m by Irish regulator over its use of location data",
-    "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
-    "source": "The Guardian World",
-    "summary": "Watchdog says users may have been unaware their information was used to target adverts or infer their interests Google has been fined more than €400m (£345m) over the way it processed users’ location data, following claims that the tech giant had manipulated users into agreeing to be constantly tracked on their mobile phones. The fine, imposed by Ireland’s Data Protection Commission (DPC), comes a",
-    "published_at": "2026-09-21T10:57:26+00:00",
+    "title": "During the American Revolution, the City of Lancaster, Pennsylvania, Served as the United States' Capital for Just One Day",
+    "url": "https://www.smithsonianmag.com/history/during-the-american-revolution-the-city-lancaster-pennsylvania-served-as-the-united-states-capital-for-just-one-day-180989544/",
+    "source": "Smithsonian Mag",
+    "summary": "The nascent nation's leaders fled to the inland city as the British advanced on Philadelphia in September 1777. They held one meeting at the local courthouse before moving on to York",
+    "published_at": "2026-09-24T11:45:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Google fined more than €400m by Irish regulator over its use of location data",
-    "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
-    "source": "Guardian Business",
-    "summary": "Watchdog says users may have been unaware their information was used to target adverts or infer their interests Google has been fined more than €400m (£345m) over the way it processed users’ location data, following claims that the tech giant had manipulated users into agreeing to be constantly tracked on their mobile phones. The fine, imposed by Ireland’s Data Protection Commission (DPC), comes a",
-    "published_at": "2026-09-21T10:57:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -6949,37 +6589,6 @@
   ]
  },
  {
-  "id": "b76c4f8a89dd",
-  "headline": "Daily briefing: How to turn a paper into an AI agent",
-  "section": "science",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-18T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Daily briefing: How to turn a paper into an AI agent",
-    "url": "https://www.nature.com/articles/d41586-026-02994-4",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02994-4 A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.",
-    "published_at": "2026-09-18T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   },
-   {
-    "title": "Daily briefing: Fresh evidence for hidden chambers at Tutankhamun’s tomb",
-    "url": "https://www.nature.com/articles/d41586-026-02955-x",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02955-x Scans support the idea that as-yet-unexplored chambers might hold the remains of the Egyptian queen Nefertiti. Plus, mathematical controversy and beautiful ctenophores.",
-    "published_at": "2026-09-17T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
-   }
-  ]
- },
- {
   "id": "79ca4269b0cf",
   "headline": "Silent Hill: Townfall review – shame and suffering on the Scottish coast",
   "section": "culture",
@@ -7501,81 +7110,6 @@
     "published_at": "2026-09-23T13:11:59+00:00",
     "source_countries": [],
     "seen_at": "2026-09-24T09:29:20+00:00"
-   }
-  ]
- },
- {
-  "id": "defdef3f94d9",
-  "headline": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T07:20:27+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-    "url": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
-    "published_at": "2026-09-21T07:20:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   }
-  ]
- },
- {
-  "id": "d41f22ca3bad",
-  "headline": "Universal early childhood education better than baby bonus to increase Australia’s birthrate, Labor says",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T08:23:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Universal early childhood education better than baby bonus to increase Australia’s birthrate, Labor says",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/21/universal-early-childhood-education-better-than-baby-bonus-to-increase-australias-birthrate-labor-says",
-    "source": "The Guardian World",
-    "summary": "Intergenerational report predicts that in four decades’ time, more Australians will be dying than being born each year Get our breaking news email , free app or daily news podcast Labor says better investment in early childhood education and care, such as a possible move to universal access for families, is a better way to address Australia’s declining birthrate, rejecting the need for a new “baby",
-    "published_at": "2026-09-21T08:23:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   }
-  ]
- },
- {
-  "id": "570fe5cd268e",
-  "headline": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
-  "section": "world",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-21T09:34:30+00:00",
-  "event_time": "2026-09-21T08:27:17+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
-    "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-    "source": "The Guardian World",
-    "summary": "Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’ Business live – latest updates The boss of the chipmaker Nvidia has said AI will not develop to a point that will lead to the extinction of the human race within a few years, rejecting such assertions as overblown “doomsday narratives”. Jensen Huang, the co-founder and chief executive of the $5tn A",
-    "published_at": "2026-09-21T08:27:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
-   },
-   {
-    "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
-    "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-    "source": "Guardian Business",
-    "summary": "Jensen Huang dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’ Business live – latest updates The boss of the chipmaker Nvidia has said AI will not develop to a point that will lead to the extinction of the human race within a few years, rejecting such assertions as overblown “doomsday narratives”. Jensen Huang, the co-founder and chief executive of the $5tn A",
-    "published_at": "2026-09-21T08:27:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T09:34:27+00:00"
    }
   ]
  },
@@ -8680,33 +8214,64 @@
   ]
  },
  {
-  "id": "a35916e8f8c5",
-  "headline": "Video Friday: Humanoid Robot Takes On Monkey Bars",
-  "section": "ai",
-  "score": 35,
+  "id": "d2a13ec9193b",
+  "headline": "India’s surfers look to make waves at the 2026 Asian Games",
+  "section": "world",
+  "score": 36,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-21T12:35:23+00:00",
-  "event_time": "2026-09-11T15:30:04+00:00",
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:34:06+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
-    "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoRL 2026 : 9–12 November 2026, AUSTIN Enjoy today",
-    "published_at": "2026-09-11T15:30:04+00:00",
+    "title": "India’s surfers look to make waves at the 2026 Asian Games",
+    "url": "https://www.aljazeera.com/sports/2026/9/24/indias-surfers-look-to-make-waves-at-the-2026-asian-games?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Indian surfers overcame huge challenges to reach the Asian Games and now dream of competing at the 2028 Olympics.",
+    "published_at": "2026-09-24T11:34:06+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
    },
    {
-    "title": "Video Friday: Your Robot Surgeon Will See You Now",
-    "url": "https://spectrum.ieee.org/video-friday-robotic-surgery",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO IROS 2026 : 27 September–1 October 202",
-    "published_at": "2026-07-17T16:00:01+00:00",
+    "title": "Japan’s Ohashi breaks 200m breaststroke world record at Asian Games",
+    "url": "https://www.aljazeera.com/sports/2026/9/24/japans-ohashi-breaks-200m-breaststroke-world-record-at-asian-games?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Shin Ohashi, 17, claims his second Asian Games gold with his record-breaking effort in front of a thrilled home crowd.",
+    "published_at": "2026-09-24T10:57:07+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T12:35:20+00:00"
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "920114ee361b",
+  "headline": "Huge security operation underway for Pope's visit to France",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:09:20+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Huge security operation underway for Pope's visit to France",
+    "url": "https://www.france24.com/en/video/20260924-huge-security-operation-underway-for-pope-s-visit-to-france",
+    "source": "France 24",
+    "summary": "Hundreds of thousands of the faithful and visitors are expected in Paris this weekend as Pope Leo XIV visits the French capital, marking the first papal visit to the country since 2008. France has pulled out all the stops to welcome the pontiff over the two-day visit in the capital and security forces are ensuring maximum protection with some 14,000 police officers, gendarmes, and soldiers mobiliz",
+    "published_at": "2026-09-24T12:09:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "Pope's visit to France 'an important moment for the Vatican'",
+    "url": "https://www.france24.com/en/video/20260924-pope-s-visit-to-france-an-important-moment-for-the-vatican",
+    "source": "France 24",
+    "summary": "France is gearing up for the arrival of Pope Leo XIV in what will be the first state visit to the country by a pontiff since 2008. Seema Gupta, France 24's correspondent in Rome takes a look at the visit from the Vatican's point of view.",
+    "published_at": "2026-09-24T09:58:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  },
@@ -9341,6 +8906,332 @@
     "published_at": "2026-09-18T16:56:19+00:00",
     "source_countries": [],
     "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "42834e42e8ea",
+  "headline": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:11:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+    "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The US and NATO want Czechia to spend more on defense. Czech Prime Minister Andrej Babis says Prague cannot afford faster increases, despite growing warnings about the threat from Russia.",
+    "published_at": "2026-09-24T12:11:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "04a4040607a9",
+  "headline": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:37:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+    "url": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
+    "published_at": "2026-09-24T11:37:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "aed53e624c6f",
+  "headline": "India news: Cockroach party demands Election Commissioner Gyanesh Kumar's resignation",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:28:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "India news: Cockroach party demands Election Commissioner Gyanesh Kumar's resignation",
+    "url": "https://www.dw.com/en/india-news-cockroach-party-demands-election-commissioner-gyanesh-kumar-s-resignation/live-79405879?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "CJP's Abhijeet Dipke has alleged that the removal of more than 130 million names from draft electoral rolls is designed to benefit the BJP and weaken opposition parties. DW has more.",
+    "published_at": "2026-09-24T11:28:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4518039e3142",
+  "headline": "Here are Thursday's biggest analyst calls of the day: Nvidia, SpaceX, Imax, Meta, CoreWeave, Tesla & more",
+  "section": "business",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:22:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Here are Thursday's biggest analyst calls of the day: Nvidia, SpaceX, Imax, Meta, CoreWeave, Tesla & more",
+    "url": "https://www.cnbc.com/2026/09/24/biggest-wall-street-analyst-calls-thursday.html",
+    "source": "CNBC Top",
+    "summary": "Here are Thursday's biggest calls on Wall Street.",
+    "published_at": "2026-09-24T12:22:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fb9ba04a456e",
+  "headline": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+    "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+    "source": "The Hacker News",
+    "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI",
+    "published_at": "2026-09-24T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1af8eb0d6b91",
+  "headline": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T09:14:21+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+    "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+    "source": "The Hacker News",
+    "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense. Read",
+    "published_at": "2026-09-24T09:14:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "427ba863a73e",
+  "headline": "Second child dies after alleged Blue Mountain stabbing as mother faces additional murder charge",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T10:11:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Second child dies after alleged Blue Mountain stabbing as mother faces additional murder charge",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/24/second-child-dies-after-alleged-blue-mountain-stabbing-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "One-year-old dies after alleged attack on Sunday, while three-year-old sibling remains in critical condition Get our breaking news email , free app or daily news podcast A baby has died in a Sydney hospital five days after a mother allegedly stabbed them and two other children in the Blue Mountains, police say. Bystanders were first on the scene after finding the three children and the 42-year-old",
+    "published_at": "2026-09-24T10:11:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "14a331af8500",
+  "headline": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-23T13:28:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
+    "url": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
+    "published_at": "2026-09-23T13:28:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9490fae3f2e0",
+  "headline": "Flash sale: AO snaps up camera seller Jessops from Dragons’ Den star Peter Jones",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T10:40:05+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Flash sale: AO snaps up camera seller Jessops from Dragons’ Den star Peter Jones",
+    "url": "https://www.theguardian.com/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones",
+    "source": "Guardian Business",
+    "summary": "Online electricals retailer says latest purchase continues to broaden its appeal beyond white goods, phones and TV Business live – latest updates The troubled camera retailer Jessops has changed hands after AO World acquired the business from the Dragons’ Den star Peter Jones. The online electrical retailer said on Thursday it had completed the acquisition of Jessops. Continue reading...",
+    "published_at": "2026-09-24T10:40:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5145b1451dde",
+  "headline": "Tom Watson’s move to Palantir is the latest sign of how far the rot has spread in UK politics | Clive Lewis",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T11:00:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tom Watson’s move to Palantir is the latest sign of how far the rot has spread in UK politics | Clive Lewis",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/24/tom-watson-palantir-uk-politics",
+    "source": "Guardian Business",
+    "summary": "When a former Labour deputy leader joins a firm built on surveillance and military targeting, it deepens public cynicism – and democracy depends on trust Whatever is said about Tom Watson, the former deputy leader of the Labour party has a knack for landing headlines. In the past he did it at the expense of the rich and powerful – from News International, over phone hacking , to the Home Office, o",
+    "published_at": "2026-09-24T11:00:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6c593700a3c1",
+  "headline": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+  "section": "tech",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:10:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+    "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "source": "MIT Tech Review",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…",
+    "published_at": "2026-09-24T12:10:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "AI is dominating the conversation at Climate Week",
+    "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+    "source": "MIT Tech Review",
+    "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
+    "published_at": "2026-09-24T10:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6e7567af99ab",
+  "headline": "Trump administration faces fresh scrutiny after DoJ drops bribery case against Indian billionaire",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T10:00:14+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump administration faces fresh scrutiny after DoJ drops bribery case against Indian billionaire",
+    "url": "https://www.theguardian.com/us-news/2026/sep/24/democrats-doj-gautam-adani",
+    "source": "Guardian Business",
+    "summary": "Warren and Blumenthal raise concerns about case against Gautam Adani, who promised to invest $10bn in US The Trump administration is facing growing questions over its decision to abandon a fraud and bribery case against the Indian billionaire Gautam Adani after he promised to invest $10bn in the US. For the second time this year, two Democratic senators have demanded attorney general Todd Blanche ",
+    "published_at": "2026-09-24T10:00:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4ae6606c2393",
+  "headline": "Stifel cuts Vail Resorts stock price target on Australia challenges",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-24T12:26:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Stifel cuts Vail Resorts stock price target on Australia challenges",
+    "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-vail-resorts-stock-price-target-on-australia-challenges-93CH-4915299",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-24T12:26:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   },
+   {
+    "title": "Stifel cuts Paychex stock price target to $112 on growth concerns",
+    "url": "https://www.investing.com/news/analyst-ratings/stifel-cuts-paychex-stock-price-target-to-112-on-growth-concerns-93CH-4915293",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-24T12:20:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
+   }
+  ]
+ },
+ {
+  "id": "95dcd9fadf79",
+  "headline": "Lack of female researchers and participants in regenerative-medicine research holds everyone back",
+  "section": "science",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T12:38:04+00:00",
+  "event_time": "2026-09-23T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Lack of female researchers and participants in regenerative-medicine research holds everyone back",
+    "url": "https://www.nature.com/articles/d41586-026-02857-y",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 23 September 2026; doi:10.1038/d41586-026-02857-y The field will not reach its potential using data sets in which women and non-binary people are not fully represented.",
+    "published_at": "2026-09-23T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T12:37:59+00:00"
    }
   ]
  }

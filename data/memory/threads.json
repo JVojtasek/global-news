@@ -798,46 +798,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "emmanuel",
-    "ireland",
     "eurovision",
+    "macron",
+    "kushner",
+    "jerusalem",
+    "trump",
+    "israel",
+    "nations",
     "east-west",
-    "yemen",
-    "british",
-    "erdogan",
+    "peace",
+    "houthis",
+    "lula",
+    "thick",
+    "verified",
     "jared",
+    "yemen",
     "inquest",
+    "yemen's",
+    "ireland",
+    "emmanuel",
+    "board",
+    "republic",
+    "riyadh",
+    "gaza's",
+    "erdogan",
     "neutral",
     "aoun",
-    "taher",
-    "republic",
-    "board",
-    "jerusalem",
-    "kushner",
-    "houthis",
-    "verified",
-    "trump's",
-    "iraq",
-    "general",
-    "thick",
     "league",
     "gaza",
-    "gaza's",
-    "riyadh",
-    "iran",
-    "israel",
     "paris",
-    "netanyahu",
-    "nations",
-    "arabia",
+    "british",
     "arabian",
-    "trump",
-    "peace",
-    "lula",
-    "yemen's",
-    "israeli",
     "saudi",
-    "macron"
+    "arabia",
+    "netanyahu",
+    "taher",
+    "taiwan",
+    "iraq",
+    "general",
+    "trump's",
+    "iran"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -884,7 +884,8 @@
     "4ea1d5b81c19",
     "c4c26ff56cab",
     "1c5e2ce6d622",
-    "9bac96c38c2d"
+    "9bac96c38c2d",
+    "89b9289758e8"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-24",
@@ -1399,6 +1400,17 @@
       "https://www.theguardian.com/world/2026/sep/24/israel-water-shortages-destruction-gaza-treatment-plants-pollution-sanitation-crisis",
       "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+     "sources": 2,
+     "score": 41,
+     "event_id": "89b9289758e8",
+     "links": [
+      "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1407,33 +1419,33 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "days",
-    "leavitt",
-    "venezuela",
-    "trump's",
-    "driscoll",
-    "kalshi's",
-    "politico",
-    "company",
-    "journalists",
-    "jinping",
-    "judge",
-    "karoline",
-    "donald",
-    "white",
-    "court",
-    "chinese",
-    "secretary",
-    "press",
     "stewart",
-    "supreme",
-    "tetris",
-    "trump",
-    "army",
-    "jersey",
-    "house",
     "nabep",
-    "crypto"
+    "journalists",
+    "jersey",
+    "press",
+    "tetris",
+    "leavitt",
+    "court",
+    "trump",
+    "white",
+    "politico",
+    "house",
+    "crypto",
+    "jinping",
+    "venezuela",
+    "secretary",
+    "days",
+    "kalshi's",
+    "army",
+    "company",
+    "karoline",
+    "driscoll",
+    "supreme",
+    "trump's",
+    "judge",
+    "chinese",
+    "donald"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1460,7 +1472,8 @@
     "954841d14c5d",
     "691ba0b74f56",
     "8ff1f96c6d43",
-    "11cf993dce96"
+    "11cf993dce96",
+    "ed03354ef007"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-24",
@@ -1748,6 +1761,17 @@
       "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Judge temporarily overturns Trump's White House media ban",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ed03354ef007",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump"
+     ]
     }
    ]
   },
@@ -1924,6 +1948,140 @@
    ]
   },
   {
+   "id": "7da4e07716c7",
+   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+   "section": "world",
+   "entities": [
+    "secretary",
+    "wife",
+    "pentagon",
+    "china",
+    "massie",
+    "trump",
+    "hegseth",
+    "defense",
+    "iran",
+    "november",
+    "republican"
+   ],
+   "event_ids": [
+    "7da4e07716c7",
+    "7d0d4d3f6bdb",
+    "9ba97aff3e7d",
+    "685eb5ef4b77",
+    "dc98be3509f8",
+    "83c9ff637cd4",
+    "1a58c450df85",
+    "0bd2b78f98d3",
+    "5b2e57f10a93"
+   ],
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-24",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7da4e07716c7",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Iran war won't end until after crucial November elections, says Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7d0d4d3f6bdb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump dismisses report China supplied intel to Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ba97aff3e7d",
+     "links": [
+      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "sources": 2,
+     "score": 40,
+     "event_id": "685eb5ef4b77",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dc98be3509f8",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1a58c450df85",
+     "links": [
+      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+     "sources": 2,
+     "score": 48,
+     "event_id": "0bd2b78f98d3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "US says China trade truce extended as Trump welcomes Xi",
+     "sources": 2,
+     "score": 40,
+     "event_id": "5b2e57f10a93",
+     "links": [
+      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
+      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "341a230bd977",
    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
    "section": "tech",
@@ -2095,11 +2253,13 @@
    "section": "world",
    "entities": [
     "openai",
-    "australian"
+    "australian",
+    "medicare"
    ],
    "event_ids": [
     "a23f76d1ffbb",
-    "90eb340ee81f"
+    "90eb340ee81f",
+    "94821214578f"
    ],
    "first_seen": "2026-09-24",
    "last_seen": "2026-09-24",
@@ -2126,6 +2286,61 @@
       "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
       "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
+     "sources": 5,
+     "score": 68,
+     "event_id": "94821214578f",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2b347563e49",
+   "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+   "section": "world",
+   "entities": [
+    "openai",
+    "albanese",
+    "australia",
+    "anthony",
+    "medicare"
+   ],
+   "event_ids": [
+    "a2b347563e49",
+    "ac4be085bffb"
+   ],
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-24",
+   "timeline": [
+    {
+     "date": "2026-09-23",
+     "headline": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+     "sources": 3,
+     "score": 63,
+     "event_id": "a2b347563e49",
+     "links": [
+      "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+      "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting",
+      "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Australia’s Albanese rebukes OpenAI after government website hacked",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ac4be085bffb",
+     "links": [
+      "https://www.france24.com/en/video/20260924-australia-s-albanese-rebukes-openai-after-government-website-hacked",
+      "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means?traffic_source=rss"
      ]
     }
    ]
@@ -3487,37 +3702,6 @@
       "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/harvey-weinstein-resentenced-to-15-years-for-sexual-assault/a-79403381?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a2b347563e49",
-   "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
-   "section": "world",
-   "entities": [
-    "australia",
-    "openai",
-    "medicare",
-    "albanese",
-    "anthony"
-   ],
-   "event_ids": [
-    "a2b347563e49"
-   ],
-   "first_seen": "2026-09-23",
-   "last_seen": "2026-09-23",
-   "timeline": [
-    {
-     "date": "2026-09-23",
-     "headline": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
-     "sources": 3,
-     "score": 63,
-     "event_id": "a2b347563e49",
-     "links": [
-      "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-      "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting",
-      "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
      ]
     }
    ]
@@ -7298,128 +7482,6 @@
    ]
   },
   {
-   "id": "7da4e07716c7",
-   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-   "section": "world",
-   "entities": [
-    "massie",
-    "china",
-    "iran",
-    "wife",
-    "defense",
-    "secretary",
-    "pentagon",
-    "trump",
-    "hegseth",
-    "november",
-    "republican"
-   ],
-   "event_ids": [
-    "7da4e07716c7",
-    "7d0d4d3f6bdb",
-    "9ba97aff3e7d",
-    "685eb5ef4b77",
-    "dc98be3509f8",
-    "83c9ff637cd4",
-    "1a58c450df85",
-    "0bd2b78f98d3"
-   ],
-   "first_seen": "2026-09-11",
-   "last_seen": "2026-09-17",
-   "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7da4e07716c7",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Iran war won't end until after crucial November elections, says Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7d0d4d3f6bdb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump dismisses report China supplied intel to Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ba97aff3e7d",
-     "links": [
-      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "sources": 2,
-     "score": 40,
-     "event_id": "685eb5ef4b77",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dc98be3509f8",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "83c9ff637cd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1a58c450df85",
-     "links": [
-      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-     "sources": 2,
-     "score": 48,
-     "event_id": "0bd2b78f98d3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "eca0fc692bc0",
    "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
    "section": "world",
@@ -11102,5 +11164,5 @@
    ]
   }
  ],
- "updated": "2026-09-24T09:29:23+00:00"
+ "updated": "2026-09-24T12:38:04+00:00"
 }
