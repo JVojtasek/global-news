@@ -1413,16 +1413,18 @@
    "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
    "section": "tech",
    "entities": [
-    "meta",
     "muse",
-    "zuckerberg",
     "mark",
-    "charm",
-    "glasses"
+    "zuckerberg",
+    "glasses",
+    "everything",
+    "meta",
+    "charm"
    ],
    "event_ids": [
     "3e261aa2591b",
-    "c134bbfcc899"
+    "c134bbfcc899",
+    "5f9b2dff770e"
    ],
    "first_seen": "2026-09-24",
    "last_seen": "2026-09-24",
@@ -1449,6 +1451,18 @@
       "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
       "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
       "https://mouse.dev/blog/muse-runtime-export/"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Everything new coming to Meta’s AI agent Muse",
+     "sources": 3,
+     "score": 44,
+     "event_id": "5f9b2dff770e",
+     "links": [
+      "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
      ]
     }
    ]
@@ -11050,5 +11064,5 @@
    ]
   }
  ],
- "updated": "2026-09-24T00:59:00+00:00"
+ "updated": "2026-09-24T03:30:43+00:00"
 }

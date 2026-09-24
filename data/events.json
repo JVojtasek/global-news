@@ -1844,46 +1844,6 @@
   ]
  },
  {
-  "id": "787cb549afaa",
-  "headline": "Federal immigration agent shoots and injures man in Austin, Texas",
-  "section": "world",
-  "score": 48,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-20T21:53:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Federal immigration agent shoots and injures man in Austin, Texas",
-    "url": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
-    "source": "NPR News",
-    "summary": "The person shot is in serious but stable condition, Austin Mayor Kirk Watson said in a press conference.",
-    "published_at": "2026-09-20T21:53:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   },
-   {
-    "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
-    "url": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "The unnamed man is in serious but stable condition at a hospital after being shot once in the torso, police say.",
-    "published_at": "2026-09-20T23:59:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   },
-   {
-    "title": "ICE agent shoots and wounds man in Austin, Texas, officials say",
-    "url": "https://www.cnbc.com/2026/09/20/ice-agent-shoots-and-wounds-man-in-austin-texas-officials-say.html",
-    "source": "CNBC Top",
-    "summary": "The man was in serious but stable condition at a hospital after being shot once in the torso on the city's north side, Austin Police Chief Lisa Davis said.",
-    "published_at": "2026-09-20T23:07:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   }
-  ]
- },
- {
   "id": "f8c4e8d06db8",
   "headline": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
   "section": "ai",
@@ -3253,33 +3213,42 @@
   ]
  },
  {
-  "id": "8d740bd47cf6",
-  "headline": "German state elections deal a blow to Chancellor Friedrich Merz",
-  "section": "world",
-  "score": 43,
-  "sources_count": 2,
+  "id": "5f9b2dff770e",
+  "headline": "Everything new coming to Meta’s AI agent Muse",
+  "section": "tech",
+  "score": 44,
+  "sources_count": 3,
   "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-20T21:20:00+00:00",
+  "created": "2026-09-24T03:30:43+00:00",
+  "event_time": "2026-09-24T01:13:32+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "German state elections deal a blow to Chancellor Friedrich Merz",
-    "url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's unpopular chancellor is mounting.",
-    "published_at": "2026-09-20T21:20:00+00:00",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "source": "TechCrunch",
+    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+    "published_at": "2026-09-24T01:13:32+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
+    "seen_at": "2026-09-24T03:30:39+00:00"
    },
    {
-    "title": "AfD threatens fresh blow to Merz: Two German states hold key vote",
-    "url": "https://www.france24.com/en/afd-threatens-fresh-blow-to-merz-two-german-states-hold-key-vote",
-    "source": "France 24",
-    "summary": "Two German states are heading to the polls today – in Berlin and the state of Mecklenburg-Western Pomerania. The far-right AfD party is expected to make further gains after securing a historic win in Saxony-Anhalt two weeks ago, though it has no realistic path to power in Berlin. Sunday's vote is a key test for Chancellor Friedrich Merz, one that could determine whether he can hold on to power. De",
-    "published_at": "2026-09-20T14:56:15+00:00",
+    "title": "Muse is coming to Meta smart glasses",
+    "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "source": "The Verge",
+    "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging […]",
+    "published_at": "2026-09-23T23:40:56+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
+    "seen_at": "2026-09-24T03:30:39+00:00"
+   },
+   {
+    "title": "Muse is coming to Meta smart glasses",
+    "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "source": "The Verge AI",
+    "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging […]",
+    "published_at": "2026-09-23T23:40:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T03:30:39+00:00"
    }
   ]
  },
@@ -5218,37 +5187,6 @@
   ]
  },
  {
-  "id": "02de51be982e",
-  "headline": "What food items should you stock up on in case of an emergency?",
-  "section": "science",
-  "score": 39,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-20T23:02:27+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "What food items should you stock up on in case of an emergency?",
-    "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
-    "published_at": "2026-09-20T23:02:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   },
-   {
-    "title": "What food items should you stock up on in case of an emergency?",
-    "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
-    "published_at": "2026-09-20T23:02:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   }
-  ]
- },
- {
   "id": "d3c9f7d6cba8",
   "headline": "John Farnham tribute: Céline Dion, Chris Martin and Hugh Jackman honour ‘living legend’ at livestreamed concert",
   "section": "world",
@@ -5864,37 +5802,6 @@
     "published_at": "2026-09-24T00:50:24+00:00",
     "source_countries": [],
     "seen_at": "2026-09-24T00:58:58+00:00"
-   }
-  ]
- },
- {
-  "id": "87c0779c44d5",
-  "headline": "Scott Bessent should stop blaming the bond market",
-  "section": "business",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-15T19:43:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scott Bessent should stop blaming the bond market",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
-    "source": "Economist Finance",
-    "summary": "It is working just fine; his interventions, less so",
-    "published_at": "2026-09-15T19:43:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   },
-   {
-    "title": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
-    "url": "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
-    "source": "Economist Finance",
-    "summary": "Perhaps. But his effort to talk bond yields lower is likely to fail",
-    "published_at": "2026-08-23T13:38:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
    }
   ]
  },
@@ -6762,6 +6669,37 @@
   ]
  },
  {
+  "id": "cb0c28937af7",
+  "headline": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+  "section": "tech",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-24T03:30:43+00:00",
+  "event_time": "2026-09-23T22:30:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+    "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+    "source": "The Verge",
+    "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]",
+    "published_at": "2026-09-23T22:30:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T03:30:39+00:00"
+   },
+   {
+    "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+    "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+    "source": "The Verge AI",
+    "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]",
+    "published_at": "2026-09-23T22:30:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T03:30:39+00:00"
+   }
+  ]
+ },
+ {
   "id": "73a23ad699d1",
   "headline": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
   "section": "world",
@@ -7314,59 +7252,6 @@
     "published_at": "2026-09-23T18:39:01+00:00",
     "source_countries": [],
     "seen_at": "2026-09-23T21:24:50+00:00"
-   }
-  ]
- },
- {
-  "id": "f6c3c78f7aec",
-  "headline": "Police allege mother behind Blue Mountains stabbing attack on three children that left one dead",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-20T23:43:41+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Police allege mother behind Blue Mountains stabbing attack on three children that left one dead",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "Bystanders found all four on the side of the road at Valley Heights on Sunday with stabbing injuries Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Police have alleged that a mother was behind a stabbing attack on three young children that left one dead and two others fighting for their lives in hospital. The woman, aged in her 4",
-    "published_at": "2026-09-20T23:43:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   }
-  ]
- },
- {
-  "id": "b07bbe72a9ac",
-  "headline": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-21T01:03:52+00:00",
-  "event_time": "2026-09-21T00:00:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation 'without limitations'.",
-    "published_at": "2026-09-21T00:00:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
-   },
-   {
-    "title": "France to summon Iran envoy after language centre closure in Tehran",
-    "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Iran accuses the French language centre of conducting 'illegal acts that violated diplomatic conventions'.",
-    "published_at": "2026-09-20T22:06:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-21T01:03:49+00:00"
    }
   ]
  },
@@ -8568,6 +8453,50 @@
   ]
  },
  {
+  "id": "daef7b14c5bf",
+  "headline": "Beau Lamarre-Condon sized up surfboard bag against friend before allegedly murdering Sydney couple, court told",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-24T03:30:43+00:00",
+  "event_time": "2026-09-24T01:33:45+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Beau Lamarre-Condon sized up surfboard bag against friend before allegedly murdering Sydney couple, court told",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/24/beau-lamarre-condon-trial-surfboard-bag-double-murder-jesse-baird-luke-davies-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Former NSW police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies before concealing bodies in bags purchased from sports store Beau Lamarre-Condon was seen sizing up a surfboard bag used to dispose of a victim days before the police officer murdered two men, prosectors have alleged in a Sydney court, with chilling CCTV footage shown to the jury. Lamarre-Condon has been accu",
+    "published_at": "2026-09-24T01:33:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T03:30:39+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ab00d0261c56",
+  "headline": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-24T03:30:43+00:00",
+  "event_time": "2026-09-24T03:19:45+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
+    "source": "NPR News",
+    "summary": "Southwestern Mexico braced for heavy rain and mudslides after Polo became a major hurricane. Forecasters warned another system headed for Hawaii could cause catastrophic flooding later in the week.",
+    "published_at": "2026-09-24T03:19:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T03:30:39+00:00"
+   }
+  ]
+ },
+ {
   "id": "d60223fe1dd1",
   "headline": "More Australians will be dying than being born in 40 years as major report predicts future of lower growth",
   "section": "world",
@@ -9251,6 +9180,50 @@
     "published_at": "2026-09-18T16:56:19+00:00",
     "source_countries": [],
     "seen_at": "2026-09-22T18:31:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "23e684d3f686",
+  "headline": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+  "section": "business",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-24T03:30:43+00:00",
+  "event_time": "2026-09-22T23:11:33+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+    "published_at": "2026-09-22T23:11:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T03:30:39+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a2c456a0085b",
+  "headline": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
+  "section": "science",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-24T03:30:43+00:00",
+  "event_time": "2026-09-23T19:03:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
+    "url": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/",
+    "source": "NASA",
+    "summary": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms and the interaction with the Earth’s atmosphere. The mission is jointly led by NASA’s Goddard Space Flight Center ",
+    "published_at": "2026-09-23T19:03:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-24T03:30:39+00:00"
    }
   ]
  }
