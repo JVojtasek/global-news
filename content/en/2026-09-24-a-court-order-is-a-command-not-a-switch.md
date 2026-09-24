@@ -1,57 +1,67 @@
 ---
-slug: "a-court-order-is-a-command-not-a-switch"
-title: "A Court Order Is a Command, Not a Switch"
-dek: "A judge ordered three newsrooms' White House hard passes restored, but reporters were still stopped hours later. The legal change is real; the reason for the delay and the remedy are not yet settled."
+slug: a-court-order-is-a-command-not-a-switch
+title: A Court Order Is a Command, Not a Switch
+dek: A judge ordered three newsrooms' White House hard passes restored, but reporters
+  were still stopped hours later. The legal change is real; the reason for the delay
+  and the remedy are not yet settled.
 section: world
 type: analysis
 depth: open
 lang: en
-date: "2026-09-24"
-status: draft
-confidence: 94
+date: '2026-09-24'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 automation_role: intraday
 edition_slot: 0
-generator: "chatgpt-work"
+generator: chatgpt-work
 format: roundtable
-series: "The Newsroom Table"
-event_id: "cnn-v-trump-tro-hard-passes-2026-09-24"
-image_query: "White House press entrance checkpoint empty credential holder neutral documentary photograph"
+series: The Newsroom Table
+event_id: cnn-v-trump-tro-hard-passes-2026-09-24
+image_query: White House press entrance checkpoint empty credential holder neutral
+  documentary photograph
 sources:
-  - name: "U.S. District Court for the District of Columbia — Temporary Restraining Order"
-    url: "https://www.washingtonpost.com/documents/2954a874-69ae-401e-83eb-9624e895bdaf.pdf"
-    published: "2026-09-24"
-  - name: "Cable News Network, Inc. v. Trump — Complaint"
-    url: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.1.0_1.pdf"
-    published: "2026-09-21"
-  - name: "Reuters — Outlets seek emergency hearing after access remains blocked"
-    url: "https://www.reuters.com/world/cnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24/"
-    published: "2026-09-24"
-  - name: "Associated Press — Judge orders White House access restored"
-    url: "https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d"
-    published: "2026-09-24"
-  - name: "U.S. Press Freedom Tracker — White House press credential incident"
-    url: "https://pressfreedomtracker.us/all-incidents/trump-bans-three-outlets-from-white-house-access-citing-fake-news/"
-    published: "2026-09-24"
+- name: U.S. District Court for the District of Columbia — Temporary Restraining Order
+  url: https://www.washingtonpost.com/documents/2954a874-69ae-401e-83eb-9624e895bdaf.pdf
+  published: '2026-09-24'
+- name: Cable News Network, Inc. v. Trump — Complaint
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.1.0_1.pdf
+  published: '2026-09-21'
+- name: Reuters — Outlets seek emergency hearing after access remains blocked
+  url: https://www.reuters.com/world/cnn-politico-ms-now-seek-court-hearing-after-being-barred-white-house-court-2026-09-24/
+  published: '2026-09-24'
+- name: Associated Press — Judge orders White House access restored
+  url: https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d
+  published: '2026-09-24'
+- name: U.S. Press Freedom Tracker — White House press credential incident
+  url: https://pressfreedomtracker.us/all-incidents/trump-bans-three-outlets-from-white-house-access-citing-fake-news/
+  published: '2026-09-24'
 impact:
   areas:
-    - "public access to presidential reporting"
-    - "judicial enforcement"
-    - "government credentialing"
-  line: "The ruling temporarily protects routine White House access for three newsrooms, but the public consequence depends on whether officials actually restore the credentials and on what the court does next."
-  todo: "Watch the emergency hearing, proof that the hard passes work at the gate, and any appeal or preliminary-injunction schedule during the order's 14-day life."
-qma_path: ""
+  - public access to presidential reporting
+  - judicial enforcement
+  - government credentialing
+  line: The ruling temporarily protects routine White House access for three newsrooms,
+    but the public consequence depends on whether officials actually restore the credentials
+    and on what the court does next.
+  todo: Watch the emergency hearing, proof that the hard passes work at the gate,
+    and any appeal or preliminary-injunction schedule during the order's 14-day life.
+qma_path: ''
 tickers: []
 quiz:
-  question: "What did Judge Timothy Kelly's September 24 order establish?"
+  question: What did Judge Timothy Kelly's September 24 order establish?
   options:
-    - "It finally decided every First Amendment claim in the case"
-    - "It temporarily ordered the hard passes restored after finding likely success on the due-process claim"
-    - "It guaranteed the three outlets places in every restricted presidential press pool"
+  - It finally decided every First Amendment claim in the case
+  - It temporarily ordered the hard passes restored after finding likely success on
+    the due-process claim
+  - It guaranteed the three outlets places in every restricted presidential press
+    pool
   answer: 1
-  explanation: "The temporary restraining order lasts 14 days, rests at least on likely success under procedural due process, and concerns hard-pass credentials rather than guaranteed admission to every restricted event."
+  explanation: The temporary restraining order lasts 14 days, rests at least on likely
+    success under procedural due process, and concerns hard-pass credentials rather
+    than guaranteed admission to every restricted event.
 ---
 
 ## BRIEFLY
