@@ -80,16 +80,16 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
-### Trump signs order to rename Lake Ontario as Lake America
-- rubrika `world` · sledováno 26 dní · 27 záznamů
+### Trump says White House press secretary Karoline Leavitt to leave post
+- rubrika `world` · sledováno 43 dní · 27 záznamů
 - časová osa:
-  - **2026-09-17** (2 zdrojů) Trump threatens EU with further sanctions over Canada
-  - **2026-09-17** (3 zdrojů) Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live
-  - **2026-09-17** (2 zdrojů) Trump calls EU's offer of associate partnership to Canada 'laughable' – video
-  - **2026-09-17** (2 zdrojů) Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’
-  - **2026-09-17** (2 zdrojů) Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat
-  - **2026-09-17** (2 zdrojů) Canada is a 'safe harbour' for global finance, Carney says
-  - **2026-09-17** (2 zdrojů) Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech
-  - **2026-09-17** (2 zdrojů) Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser
-  - **2026-09-18** (2 zdrojů) South Korea will not send military to support US war on Iran, defying Trump pressure
-  - **2026-09-22** (2 zdrojů) Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war
+  - **2026-09-19** (5 zdrojů) Journalists denied White House access after Trump banned some media outlets
+  - **2026-09-20** (2 zdrojů) As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails
+  - **2026-09-21** (4 zdrojů) CNN, MS NOW and Politico to file lawsuit against Trump's White House ban
+  - **2026-09-21** (3 zdrojů) What is the White House press pool and why does it matter?
+  - **2026-09-22** (2 zdrojů) Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’
+  - **2026-09-23** (2 zdrojů) Judge hears arguments on Trump White House media ban, hopes to rule 'soon'
+  - **2026-09-24** (2 zdrojů) Trump greets Xi Jinping at plane as Chinese leader arrives for state visit
+  - **2026-09-24** (5 zdrojů) Judge orders Trump administration to restore journalists' access to White House
+  - **2026-09-24** (2 zdrojů) Judge temporarily overturns Trump's White House media ban
+  - **2026-09-24** (3 zdrojů) White House 'repeatedly violated' court order to restore press access, say media outlets

@@ -1419,33 +1419,33 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "stewart",
-    "nabep",
-    "journalists",
-    "jersey",
-    "press",
-    "tetris",
     "leavitt",
     "court",
-    "trump",
+    "press",
     "white",
-    "politico",
-    "house",
-    "crypto",
-    "jinping",
-    "venezuela",
-    "secretary",
-    "days",
-    "kalshi's",
-    "army",
-    "company",
-    "karoline",
-    "driscoll",
+    "donald",
     "supreme",
     "trump's",
-    "judge",
+    "journalists",
+    "nabep",
+    "company",
+    "venezuela",
+    "karoline",
+    "stewart",
+    "house",
+    "tetris",
+    "jersey",
+    "crypto",
     "chinese",
-    "donald"
+    "days",
+    "judge",
+    "army",
+    "kalshi's",
+    "jinping",
+    "trump",
+    "politico",
+    "secretary",
+    "driscoll"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1473,7 +1473,8 @@
     "691ba0b74f56",
     "8ff1f96c6d43",
     "11cf993dce96",
-    "ed03354ef007"
+    "ed03354ef007",
+    "3f96308a9884"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-24",
@@ -1771,6 +1772,18 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+     "sources": 3,
+     "score": 59,
+     "event_id": "3f96308a9884",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+      "https://www.france24.com/en/video/20260924-judge-orders-white-house-to-restore-access-to-barred-media-companies"
      ]
     }
    ]
@@ -11164,5 +11177,5 @@
    ]
   }
  ],
- "updated": "2026-09-24T12:38:04+00:00"
+ "updated": "2026-09-24T15:27:21+00:00"
 }
