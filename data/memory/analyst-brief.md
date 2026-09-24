@@ -51,9 +51,8 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 46 dní · 46 záznamů
+- rubrika `world` · sledováno 46 dní · 47 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
   - **2026-09-22** (2 zdrojů) Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights
   - **2026-09-22** (4 zdrojů) Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
   - **2026-09-22** (2 zdrojů) Republic of Ireland braced for testing Nations League
@@ -63,6 +62,7 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-09-23** (2 zdrojů) Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
   - **2026-09-24** (2 zdrojů) Israel facing water shortages caused by destruction of Gaza’s treatment plants
   - **2026-09-24** (2 zdrojů) Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
+  - **2026-09-24** (2 zdrojů) Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
@@ -81,9 +81,8 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 43 dní · 27 záznamů
+- rubrika `world` · sledováno 43 dní · 28 záznamů
 - časová osa:
-  - **2026-09-19** (5 zdrojů) Journalists denied White House access after Trump banned some media outlets
   - **2026-09-20** (2 zdrojů) As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails
   - **2026-09-21** (4 zdrojů) CNN, MS NOW and Politico to file lawsuit against Trump's White House ban
   - **2026-09-21** (3 zdrojů) What is the White House press pool and why does it matter?
@@ -93,3 +92,4 @@ Paměť obsahuje **116 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-09-24** (5 zdrojů) Judge orders Trump administration to restore journalists' access to White House
   - **2026-09-24** (2 zdrojů) Judge temporarily overturns Trump's White House media ban
   - **2026-09-24** (3 zdrojů) White House 'repeatedly violated' court order to restore press access, say media outlets
+  - **2026-09-24** (3 zdrojů) CNN, MS NOW, Politico regain access to White House

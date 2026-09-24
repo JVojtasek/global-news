@@ -798,46 +798,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "eurovision",
-    "macron",
-    "kushner",
-    "jerusalem",
-    "trump",
-    "israel",
-    "nations",
-    "east-west",
-    "peace",
-    "houthis",
-    "lula",
-    "thick",
-    "verified",
-    "jared",
-    "yemen",
-    "inquest",
-    "yemen's",
-    "ireland",
-    "emmanuel",
-    "board",
-    "republic",
-    "riyadh",
-    "gaza's",
-    "erdogan",
     "neutral",
-    "aoun",
-    "league",
-    "gaza",
-    "paris",
-    "british",
-    "arabian",
-    "saudi",
-    "arabia",
-    "netanyahu",
-    "taher",
-    "taiwan",
+    "netherlands",
+    "republic",
     "iraq",
+    "jerusalem",
+    "wales",
+    "macron",
+    "erdogan",
+    "kushner",
+    "uefa",
+    "arabian",
+    "nations",
+    "league",
+    "iran",
+    "trump",
+    "gaza",
+    "taiwan",
+    "arabia",
+    "thick",
+    "yemen's",
+    "aoun",
+    "jared",
+    "board",
+    "yemen",
+    "portugal",
     "general",
+    "peace",
+    "east-west",
+    "netanyahu",
     "trump's",
-    "iran"
+    "ireland",
+    "germany",
+    "riyadh",
+    "saudi",
+    "taher",
+    "emmanuel",
+    "gaza's",
+    "houthis",
+    "israel",
+    "british"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -885,7 +885,8 @@
     "c4c26ff56cab",
     "1c5e2ce6d622",
     "9bac96c38c2d",
-    "89b9289758e8"
+    "89b9289758e8",
+    "8d24e87fed3d"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-24",
@@ -1411,6 +1412,17 @@
       "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
       "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "8d24e87fed3d",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1419,33 +1431,33 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "leavitt",
-    "court",
-    "press",
-    "white",
     "donald",
-    "supreme",
-    "trump's",
-    "journalists",
     "nabep",
-    "company",
-    "venezuela",
-    "karoline",
-    "stewart",
-    "house",
-    "tetris",
-    "jersey",
-    "crypto",
-    "chinese",
-    "days",
-    "judge",
+    "journalists",
+    "driscoll",
     "army",
-    "kalshi's",
+    "court",
+    "trump's",
+    "crypto",
+    "white",
     "jinping",
-    "trump",
+    "karoline",
+    "tetris",
+    "supreme",
+    "leavitt",
     "politico",
+    "trump",
+    "judge",
+    "house",
+    "jersey",
     "secretary",
-    "driscoll"
+    "chinese",
+    "venezuela",
+    "stewart",
+    "kalshi's",
+    "days",
+    "company",
+    "press"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1474,7 +1486,8 @@
     "8ff1f96c6d43",
     "11cf993dce96",
     "ed03354ef007",
-    "3f96308a9884"
+    "3f96308a9884",
+    "4bb851cb2ea9"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-24",
@@ -1785,6 +1798,18 @@
       "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
       "https://www.france24.com/en/video/20260924-judge-orders-white-house-to-restore-access-to-barred-media-companies"
      ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "CNN, MS NOW, Politico regain access to White House",
+     "sources": 3,
+     "score": 56,
+     "event_id": "4bb851cb2ea9",
+     "links": [
+      "https://www.dw.com/en/cnn-ms-now-politico-regain-access-to-white-house/a-79405693?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1793,46 +1818,46 @@
    "title": "NASA's Nancy Grace Roman Space Telescope Launches to Find Exoplanets and Unravel Mysteries of Dark Matter and ",
    "section": "business",
    "entities": [
-    "hubble",
-    "class",
-    "mysteries",
-    "invisible",
-    "mission",
-    "unravel",
-    "hint",
-    "stuff",
-    "universe",
-    "south",
-    "exoplanets",
     "roman",
+    "hint",
+    "food",
+    "energy",
+    "invisible",
+    "designs",
+    "stuff",
+    "unveils",
+    "systems",
+    "detected",
+    "atmosphere",
+    "launches",
+    "universe",
+    "hubble",
+    "mysteries",
+    "space",
+    "appeared",
+    "holds",
+    "matter",
+    "tracks",
+    "lift-off",
+    "exoplanets",
+    "saturn",
     "seems",
     "grace",
-    "tracks",
-    "energy",
-    "saturn",
-    "nasa's",
-    "decagon",
-    "lift-off",
-    "pole",
-    "launches",
-    "wave",
-    "saturn's",
-    "space",
-    "finally",
-    "appeared",
-    "first",
-    "mysterious",
-    "nancy",
-    "find",
-    "dark",
-    "detected",
-    "matter",
-    "nasa",
-    "atmosphere",
-    "shape",
     "far-infrared",
+    "nancy",
+    "finally",
     "scientists",
-    "holds"
+    "saturn's",
+    "mysterious",
+    "dark",
+    "nasa",
+    "wave",
+    "shape",
+    "pole",
+    "find",
+    "mission",
+    "class",
+    "decagon"
    ],
    "event_ids": [
     "1377348ebb36",
@@ -1844,7 +1869,8 @@
     "9033f7f20872",
     "ba89125e8d4d",
     "189e9efb9b47",
-    "1c8029d0a94e"
+    "1c8029d0a94e",
+    "5743bf15222a"
    ],
    "first_seen": "2026-08-30",
    "last_seen": "2026-09-24",
@@ -1956,6 +1982,17 @@
      "links": [
       "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
       "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+     "sources": 1,
+     "score": 48,
+     "event_id": "5743bf15222a",
+     "links": [
+      "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
+      "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/"
      ]
     }
    ]
@@ -2202,22 +2239,131 @@
    ]
   },
   {
+   "id": "9c657c0b5de7",
+   "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+   "section": "culture",
+   "entities": [
+    "palestine",
+    "macklemore",
+    "rapper",
+    "gaza",
+    "sheeran",
+    "free"
+   ],
+   "event_ids": [
+    "9c657c0b5de7",
+    "333dee9030f8",
+    "1e8a35761439",
+    "76974af7a3de",
+    "5cce97ccaae1",
+    "7705fbfc6a7c",
+    "488b8024a1db"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-24",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+     "sources": 4,
+     "score": 66,
+     "event_id": "9c657c0b5de7",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
+      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+     "sources": 3,
+     "score": 50,
+     "event_id": "333dee9030f8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
+      "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Ed Sheeran: All supporting acts quit tour over Macklemore Palestine controversy",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1e8a35761439",
+     "links": [
+      "http://www.france24.com/en/video/20260916-ed-sheeran-all-supporting-acts-quit-tour-over-macklemore-palestine-controversy",
+      "https://www.aljazeera.com/news/2026/9/16/the-artists-who-pulled-out-of-ed-sheerans-tour-over-palestine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Macklemore pledges his $1m Ed Sheeran tour salary to Palestine",
+     "sources": 2,
+     "score": 40,
+     "event_id": "76974af7a3de",
+     "links": [
+      "https://www.theguardian.com/music/2026/sep/16/macklemore-ed-sheeran-tour-salary-palestine",
+      "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
+     "sources": 3,
+     "score": 53,
+     "event_id": "5cce97ccaae1",
+     "links": [
+      "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/20/ed-sheeran-calls-israels-treatment-of-gazans-unjustifiable.html"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7705fbfc6a7c",
+     "links": [
+      "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+     "sources": 2,
+     "score": 46,
+     "event_id": "488b8024a1db",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/sep/24/macklemore-free-palestine-tour-ed-sheeran"
+     ]
+    }
+   ]
+  },
+  {
    "id": "3e261aa2591b",
    "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
    "section": "tech",
    "entities": [
-    "muse",
-    "mark",
     "zuckerberg",
     "glasses",
+    "muse",
+    "mark",
+    "tamagotchi",
     "everything",
-    "meta",
-    "charm"
+    "charm",
+    "meta"
    ],
    "event_ids": [
     "3e261aa2591b",
     "c134bbfcc899",
-    "5f9b2dff770e"
+    "5f9b2dff770e",
+    "6374a69076e5"
    ],
    "first_seen": "2026-09-24",
    "last_seen": "2026-09-24",
@@ -2256,6 +2402,18 @@
       "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
       "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
       "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+     "sources": 4,
+     "score": 69,
+     "event_id": "6374a69076e5",
+     "links": [
+      "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
      ]
     }
    ]
@@ -2320,15 +2478,16 @@
    "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
    "section": "world",
    "entities": [
+    "anthony",
     "openai",
     "albanese",
     "australia",
-    "anthony",
     "medicare"
    ],
    "event_ids": [
     "a2b347563e49",
-    "ac4be085bffb"
+    "ac4be085bffb",
+    "9f9515000c2c"
    ],
    "first_seen": "2026-09-23",
    "last_seen": "2026-09-24",
@@ -2354,6 +2513,17 @@
      "links": [
       "https://www.france24.com/en/video/20260924-australia-s-albanese-rebukes-openai-after-government-website-hacked",
       "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+     "sources": 2,
+     "score": 41,
+     "event_id": "9f9515000c2c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -5746,100 +5916,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/sep/20/enzo-maresca-manchester-city-sunderland-premier-league"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9c657c0b5de7",
-   "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-   "section": "culture",
-   "entities": [
-    "free",
-    "gaza",
-    "macklemore",
-    "sheeran",
-    "palestine"
-   ],
-   "event_ids": [
-    "9c657c0b5de7",
-    "333dee9030f8",
-    "1e8a35761439",
-    "76974af7a3de",
-    "5cce97ccaae1",
-    "7705fbfc6a7c"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-09-20",
-   "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-     "sources": 4,
-     "score": 66,
-     "event_id": "9c657c0b5de7",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
-      "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-     "sources": 3,
-     "score": 50,
-     "event_id": "333dee9030f8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
-      "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Ed Sheeran: All supporting acts quit tour over Macklemore Palestine controversy",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1e8a35761439",
-     "links": [
-      "http://www.france24.com/en/video/20260916-ed-sheeran-all-supporting-acts-quit-tour-over-macklemore-palestine-controversy",
-      "https://www.aljazeera.com/news/2026/9/16/the-artists-who-pulled-out-of-ed-sheerans-tour-over-palestine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Macklemore pledges his $1m Ed Sheeran tour salary to Palestine",
-     "sources": 2,
-     "score": 40,
-     "event_id": "76974af7a3de",
-     "links": [
-      "https://www.theguardian.com/music/2026/sep/16/macklemore-ed-sheeran-tour-salary-palestine",
-      "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
-     "sources": 3,
-     "score": 53,
-     "event_id": "5cce97ccaae1",
-     "links": [
-      "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/c64gvqg0k27po?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/20/ed-sheeran-calls-israels-treatment-of-gazans-unjustifiable.html"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7705fbfc6a7c",
-     "links": [
-      "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/9/20/ed-sheeran-calls-gaza-situation-unjustifiable-after-palestine-controversy?traffic_source=rss"
      ]
     }
    ]
@@ -11177,5 +11253,5 @@
    ]
   }
  ],
- "updated": "2026-09-24T15:27:21+00:00"
+ "updated": "2026-09-24T18:31:38+00:00"
 }
