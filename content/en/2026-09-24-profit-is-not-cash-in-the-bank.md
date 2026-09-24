@@ -1,14 +1,16 @@
 ---
 slug: profit-is-not-cash-in-the-bank
 title: Profit Is Not Cash in the Bank
-dek: A sale can improve the income statement before the customer pays. The gap between earning, billing and collecting is where healthy-looking businesses can run out of room.
+dek: A sale can improve the income statement before the customer pays. The gap between
+  earning, billing and collecting is where healthy-looking businesses can run out
+  of room.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-09-24'
-status: draft
-confidence: 94
+status: published
+confidence: 83
 load: 0
 topics:
 - cash flow
@@ -30,19 +32,24 @@ sources:
 - name: U.S. Small Business Administration — Manage Your Finances
   url: https://www.sba.gov/business-guide/manage-your-business/manage-your-finances
   published: ''
-- name: U.S. Department of Agriculture Economic Research Service — Farm Sector Income and Finances
+- name: U.S. Department of Agriculture Economic Research Service — Farm Sector Income
+    and Finances
   url: https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/highlights-from-the-farm-income-forecast
   published: '2026-09-03'
 qma_path: ''
 tickers: []
 quiz:
-  question: A business records a profitable sale today but lets the customer pay in 60 days. What changes immediately?
+  question: A business records a profitable sale today but lets the customer pay in
+    60 days. What changes immediately?
   options:
   - Profit and cash both rise by the full sale amount.
-  - Profit may rise while cash does not, because the amount is first recorded as a receivable.
+  - Profit may rise while cash does not, because the amount is first recorded as a
+    receivable.
   - Cash rises, but revenue cannot be recorded until the invoice is paid.
   answer: 1
-  explanation: Under accrual accounting, revenue can be recognised when earned even when payment is still due. The receivable supports reported profit, but the bank balance changes only when cash arrives.
+  explanation: Under accrual accounting, revenue can be recognised when earned even
+    when payment is still due. The receivable supports reported profit, but the bank
+    balance changes only when cash arrives.
 ---
 
 ## BRIEFLY

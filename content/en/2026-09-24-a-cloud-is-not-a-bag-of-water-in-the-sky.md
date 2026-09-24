@@ -1,14 +1,15 @@
 ---
 slug: a-cloud-is-not-a-bag-of-water-in-the-sky
 title: A Cloud Is Not a Bag of Water in the Sky
-dek: Its droplets do fall, but they are tiny, continually formed and erased inside moving air. The shape you see is a process, not a floating container.
+dek: Its droplets do fall, but they are tiny, continually formed and erased inside
+  moving air. The shape you see is a process, not a floating container.
 section: wonder
 type: feature
 depth: open
 lang: en
 date: '2026-09-24'
 status: reserve
-confidence: 93
+confidence: 89
 load: 0
 topics:
 - clouds
@@ -39,13 +40,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why can a cloud remain visible even though its liquid droplets are denser than air?
+  question: Why can a cloud remain visible even though its liquid droplets are denser
+    than air?
   options:
   - Each cloud is a sealed balloon whose skin holds the water up.
   - Cloud water has no weight until it becomes rain.
-  - Tiny droplets fall slowly while moving air, turbulence, condensation and evaporation continually reshape the cloud.
+  - Tiny droplets fall slowly while moving air, turbulence, condensation and evaporation
+    continually reshape the cloud.
   answer: 2
-  explanation: Cloud droplets do respond to gravity, but their small size gives them low settling speeds. A cloud persists as droplets form and disappear within moving air; sufficiently grown drops can fall as precipitation.
+  explanation: Cloud droplets do respond to gravity, but their small size gives them
+    low settling speeds. A cloud persists as droplets form and disappear within moving
+    air; sufficiently grown drops can fall as precipitation.
 ---
 
 ## BRIEFLY

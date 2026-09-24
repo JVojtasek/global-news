@@ -1,14 +1,15 @@
 ---
 slug: alma-thomas-made-late-blooming-look-like-a-system
 title: Alma Thomas Made Late Blooming Look Like a System
-dek: Her celebrated abstractions arrived after retirement, but the breakthrough rested on decades of teaching, study, community institutions and sustained looking.
+dek: Her celebrated abstractions arrived after retirement, but the breakthrough rested
+  on decades of teaching, study, community institutions and sustained looking.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-09-24'
-status: draft
-confidence: 96
+status: published
+confidence: 89
 load: 0
 topics:
 - Alma Thomas
@@ -39,13 +40,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why is it misleading to describe Alma Thomas as someone who simply discovered art after retirement?
+  question: Why is it misleading to describe Alma Thomas as someone who simply discovered
+    art after retirement?
   options:
-  - She had already spent decades teaching, studying, painting and building cultural networks before developing her signature abstraction.
+  - She had already spent decades teaching, studying, painting and building cultural
+    networks before developing her signature abstraction.
   - She produced no art before 1960 and avoided museums until her first exhibition.
   - Her late paintings were direct copies of works made by her students.
   answer: 0
-  explanation: Retirement gave Thomas more time, but her later work grew from sustained education, teaching, community activity and artistic practice rather than appearing from nowhere.
+  explanation: Retirement gave Thomas more time, but her later work grew from sustained
+    education, teaching, community activity and artistic practice rather than appearing
+    from nowhere.
 ---
 
 ## BRIEFLY
