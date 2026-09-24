@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "slug": "could-your-household-reconnect-after-an-emergency",
+  "date": "2026-09-24",
+  "category": "preparedness",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "Could your household reconnect after an emergency?", "cs": "Dokázala by se vaše domácnost po mimořádné události znovu spojit?"},
+    "dek": {"en": "Eight situations test whether contacts, meeting places, access needs and practice form a plan that still works when people are apart.", "cs": "Osm situací prověří, zda kontakty, místa setkání, specifické potřeby a nácvik tvoří plán použitelný i tehdy, když jsou lidé od sebe."},
+    "intro": {"en": "Choose what your household could actually do today, not the answer a perfectly prepared family would give. Households differ, emergencies differ and official instructions for a real event always take priority. The quiz does not collect your answers.", "cs": "Vyberte, co by vaše domácnost skutečně dokázala udělat dnes, ne odpověď dokonale připravené rodiny. Domácnosti i mimořádné události se liší a pokyny úřadů pro konkrétní situaci mají vždy přednost. Kvíz vaše odpovědi neshromažďuje."},
+    "disclaimer": {"en": "This is an original educational self-check based on public preparedness guidance. It does not reproduce a licensed instrument, certify safety, predict harm, replace official emergency instructions or professional advice, gate any service, or store answers. Adapt any plan to local hazards, laws, accessibility needs and guidance from competent authorities.", "cs": "Jde o původní vzdělávací sebehodnocení založené na veřejných doporučeních k připravenosti. Nepřebírá licencovaný nástroj, nepotvrzuje bezpečnost, nepředpovídá újmu, nenahrazuje pokyny úřadů ani odbornou radu, nerozhoduje o přístupu ke službě a neukládá odpovědi. Plán přizpůsobte místním rizikům, právním podmínkám, potřebám přístupnosti a pokynům příslušných orgánů."}
+  },
+  "dimensions": [
+    {
+      "id": "contacts",
+      "label": {"en": "Reach the right people", "cs": "Dostat se ke správným lidem"},
+      "why": {"en": "A plan needs current contacts and an agreed route for sharing status when ordinary local communication is congested or unavailable.", "cs": "Plán potřebuje aktuální kontakty a domluvenou cestu pro sdílení stavu, když je běžná místní komunikace přetížená nebo nedostupná."},
+      "action": {"en": "Verify one out-of-area contact and give every household member the details in a form they can use.", "cs": "Ověřte jeden kontakt mimo oblast a dejte údaje každému členu domácnosti ve formě, kterou dokáže použít."}
+    },
+    {
+      "id": "places",
+      "label": {"en": "Know where to meet", "cs": "Vědět, kde se sejít"},
+      "why": {"en": "One nearby place and one place outside the neighbourhood reduce guesswork when home is inaccessible or people start from different locations.", "cs": "Jedno blízké místo a jedno místo mimo okolí snižují nejistotu, když domov není dostupný nebo lidé vyrážejí z různých míst."},
+      "action": {"en": "Choose two specific, permitted meeting places and record their names and addresses rather than relying on a vague landmark.", "cs": "Zvolte dvě konkrétní a povolená místa setkání a zapište jejich názvy a adresy místo spoléhání na neurčitý orientační bod."}
+    },
+    {
+      "id": "access",
+      "label": {"en": "Make the plan usable", "cs": "Udělat plán použitelný"},
+      "why": {"en": "A plan can fail if it assumes a charged phone, memorised number, accessible route or communication method that a household member cannot use.", "cs": "Plán může selhat, pokud předpokládá nabitý telefon, zapamatované číslo, přístupnou trasu nebo způsob komunikace, který některý člen domácnosti nemůže použít."},
+      "action": {"en": "Create one offline copy and check the plan against children's, older adults', disability, language, medication and pet needs that apply.", "cs": "Vytvořte jednu offline kopii a ověřte plán vůči potřebám dětí, starších lidí, osob se zdravotním omezením, jazykovým či lékovým potřebám a péči o zvířata, pokud se vás týkají."}
+    },
+    {
+      "id": "practice",
+      "label": {"en": "Practise and update", "cs": "Procvičit a aktualizovat"},
+      "why": {"en": "A short rehearsal reveals missing numbers, unclear decisions and routes that look simple on paper but do not work in practice.", "cs": "Krátký nácvik odhalí chybějící čísla, nejasná rozhodnutí a trasy, které vypadají jednoduše na papíře, ale v praxi nefungují."},
+      "action": {"en": "Run one low-stress check-in drill and schedule a review after moves, school or job changes, new care needs or changed contact details.", "cs": "Proveďte jeden nenáročný nácvik spojení a naplánujte kontrolu po stěhování, změně školy či práce, nových potřebách péče nebo změně kontaktů."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "separated-contact",
+      "dimension": "contacts",
+      "text": {"en": "Household members are in different places and local calls are unreliable. What shared contact route exists?", "cs": "Členové domácnosti jsou na různých místech a místní hovory jsou nespolehlivé. Jakou společnou kontaktní cestu máte?"},
+      "options": [
+        {"label": {"en": "None; everyone would keep trying each other", "cs": "Žádnou; všichni by se dál zkoušeli spojit navzájem"}, "score": 0},
+        {"label": {"en": "One person has suggested a contact, but details are not shared", "cs": "Někdo navrhl kontakt, ale údaje nejsou sdílené"}, "score": 1},
+        {"label": {"en": "Everyone knows or carries the same verified out-of-area contact and check-in method", "cs": "Všichni znají nebo mají u sebe stejný ověřený kontakt mimo oblast a způsob ohlášení"}, "score": 3}
+      ]
+    },
+    {
+      "id": "changed-number",
+      "dimension": "contacts",
+      "text": {"en": "A key person's phone number changes. What happens to the household plan?", "cs": "Klíčová osoba změní telefonní číslo. Co se stane s plánem domácnosti?"},
+      "options": [
+        {"label": {"en": "The old number remains because nobody owns updates", "cs": "Staré číslo zůstane, protože aktualizace nemá nikdo na starosti"}, "score": 0},
+        {"label": {"en": "One phone is updated, but shared or paper copies are not", "cs": "Aktualizuje se jeden telefon, ale společné ani papírové kopie ne"}, "score": 1},
+        {"label": {"en": "A named person updates every shared and offline copy and confirms the change", "cs": "Určená osoba aktualizuje všechny sdílené i offline kopie a změnu potvrdí"}, "score": 3}
+      ]
+    },
+    {
+      "id": "home-unavailable",
+      "dimension": "places",
+      "text": {"en": "Your home and immediate street cannot be reached. Where would household members meet?", "cs": "K vašemu domu ani do bezprostředního okolí se nelze dostat. Kde by se členové domácnosti sešli?"},
+      "options": [
+        {"label": {"en": "We would each choose somewhere and hope to find one another", "cs": "Každý by si vybral nějaké místo a doufal, že se najdeme"}, "score": 0},
+        {"label": {"en": "We have discussed a general area but not one exact location", "cs": "Mluvili jsme o obecné oblasti, ale ne o jednom přesném místě"}, "score": 1},
+        {"label": {"en": "We have an agreed location outside the neighbourhood with a recorded address", "cs": "Máme domluvené místo mimo okolí se zapsanou adresou"}, "score": 3}
+      ]
+    },
+    {
+      "id": "sudden-exit",
+      "dimension": "places",
+      "text": {"en": "People must leave the building quickly and may exit by different doors. What nearby meeting point is understood?", "cs": "Lidé musí rychle opustit budovu a mohou vyjít různými východy. Jaké blízké místo setkání je domluvené?"},
+      "options": [
+        {"label": {"en": "No point; we would return toward the entrance", "cs": "Žádné; vrátili bychom se směrem ke vchodu"}, "score": 0},
+        {"label": {"en": "A landmark is mentioned, but not everyone knows which side or entrance", "cs": "Je zmíněn orientační bod, ale ne všichni vědí, kterou stranu či vstup"}, "score": 1},
+        {"label": {"en": "A safe, specific nearby point is known to everyone and does not require re-entering", "cs": "Všichni znají bezpečné konkrétní místo poblíž, které nevyžaduje návrat dovnitř"}, "score": 3}
+      ]
+    },
+    {
+      "id": "phone-unavailable",
+      "dimension": "access",
+      "text": {"en": "A household member has no working phone. Can they use the plan?", "cs": "Jeden člen domácnosti nemá funkční telefon. Dokáže plán použít?"},
+      "options": [
+        {"label": {"en": "No; all details exist only in one app", "cs": "Ne; všechny údaje jsou pouze v jedné aplikaci"}, "score": 0},
+        {"label": {"en": "They might remember some details, but no copy is available", "cs": "Možná si některé údaje pamatuje, ale nemá žádnou kopii"}, "score": 1},
+        {"label": {"en": "Yes; key contacts and places are also available offline in a usable format", "cs": "Ano; klíčové kontakty a místa jsou dostupné i offline v použitelné podobě"}, "score": 3}
+      ]
+    },
+    {
+      "id": "different-needs",
+      "dimension": "access",
+      "text": {"en": "Someone needs assistance with mobility, communication, medication, care or a pet. How is that reflected?", "cs": "Někdo potřebuje pomoc s pohybem, komunikací, léky, péčí nebo zvířetem. Jak to plán zohledňuje?"},
+      "options": [
+        {"label": {"en": "It is not included; we would improvise", "cs": "Není to zahrnuté; improvizovali bychom"}, "score": 0},
+        {"label": {"en": "The need is known, but responsibility and backup are unclear", "cs": "Potřeba je známá, ale odpovědnost a záloha nejsou jasné"}, "score": 1},
+        {"label": {"en": "A feasible responsibility, method and backup are agreed with the person concerned", "cs": "S dotčenou osobou je domluvena proveditelná odpovědnost, způsob i záloha"}, "score": 3}
+      ]
+    },
+    {
+      "id": "first-rehearsal",
+      "dimension": "practice",
+      "text": {"en": "When did your household last test a check-in or meeting step?", "cs": "Kdy vaše domácnost naposledy vyzkoušela ohlášení nebo krok k setkání?"},
+      "options": [
+        {"label": {"en": "Never; the plan has not been tried", "cs": "Nikdy; plán jsme nezkoušeli"}, "score": 0},
+        {"label": {"en": "We talked through it, but nobody used the actual contacts or route", "cs": "Probrali jsme jej, ale nikdo nepoužil skutečné kontakty ani trasu"}, "score": 1},
+        {"label": {"en": "We completed a calm, practical test and corrected what did not work", "cs": "Provedli jsme klidný praktický test a opravili to, co nefungovalo"}, "score": 3}
+      ]
+    },
+    {
+      "id": "routine-change",
+      "dimension": "practice",
+      "text": {"en": "School, work, care arrangements or addresses change. How does the plan respond?", "cs": "Změní se škola, práce, péče nebo adresa. Jak plán reaguje?"},
+      "options": [
+        {"label": {"en": "It does not; the plan is a one-time document", "cs": "Nereaguje; plán je jednorázový dokument"}, "score": 0},
+        {"label": {"en": "We update it only when someone notices a problem", "cs": "Aktualizujeme jej, jen když si někdo všimne problému"}, "score": 1},
+        {"label": {"en": "A named person reviews affected contacts, places and responsibilities after the change", "cs": "Určená osoba po změně zkontroluje dotčené kontakty, místa a odpovědnosti"}, "score": 3}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 6,
+      "title": {"en": "Reconnection is mostly improvised", "cs": "Opětovné spojení je převážně improvizované"},
+      "summary": {"en": "Your current answers leave several decisions for a stressful moment. This score does not predict safety and may reflect real constraints. Start with one verified contact and one exact nearby meeting place, then put both on an offline card.", "cs": "Vaše současné odpovědi nechávají několik rozhodnutí až na stresující chvíli. Skóre nepředpovídá bezpečnost a může odrážet skutečná omezení. Začněte jedním ověřeným kontaktem a jedním přesným místem setkání poblíž a oba údaje dejte na offline kartičku."}
+    },
+    {
+      "min": 7,
+      "max": 12,
+      "title": {"en": "Useful pieces, weak handoffs", "cs": "Užitečné části, slabá návaznost"},
+      "summary": {"en": "You have parts of a plan, but they may depend on one person, one phone or an untested assumption. Eight scenarios cannot capture every hazard or access need. Strengthen the lowest-scoring dimension and share the update with everyone concerned.", "cs": "Máte části plánu, ale mohou záviset na jedné osobě, jednom telefonu nebo neověřeném předpokladu. Osm situací nemůže zachytit každé riziko ani potřebu přístupnosti. Posilte nejslabší dimenzi a změnu sdílejte se všemi, kterých se týká."}
+    },
+    {
+      "min": 13,
+      "max": 18,
+      "title": {"en": "A workable plan with gaps", "cs": "Použitelný plán s mezerami"},
+      "summary": {"en": "Your household could probably reconnect in several common scenarios, though a device failure, changed routine or different access need may expose a gap. This is a planning snapshot, not a guarantee. Run one small test and repair the first point of confusion.", "cs": "Vaše domácnost by se pravděpodobně dokázala znovu spojit v několika běžných situacích, selhání zařízení, změna režimu nebo jiná potřeba přístupnosti však mohou odhalit mezeru. Jde o snímek plánování, ne záruku. Proveďte jeden malý test a opravte první nejasnost."}
+    },
+    {
+      "min": 19,
+      "max": 24,
+      "title": {"en": "Shared, usable and practised", "cs": "Sdílený, použitelný a procvičený plán"},
+      "summary": {"en": "Across these situations, contacts, places, access and practice reinforce one another. No score can certify readiness for a real event. Keep the plan credible by testing one backup, following local official guidance and reviewing it whenever people or routines change.", "cs": "V těchto situacích se kontakty, místa, přístupnost a nácvik vzájemně podporují. Žádné skóre nemůže potvrdit připravenost na skutečnou událost. Udržujte plán důvěryhodný otestováním jedné zálohy, sledováním místních úředních pokynů a kontrolou při každé změně osob či režimu."}
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ready.gov — Make a Plan",
+      "url": "https://www.ready.gov/plan",
+      "published": "2023-02-22",
+      "type": "official preparedness guidance on household communication, meeting places and planning; no assessment items reproduced"
+    },
+    {
+      "name": "American Red Cross — Make a Plan",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/make-a-plan.html",
+      "published": "",
+      "type": "public preparedness guidance on responsibilities, meeting places, out-of-area contacts, accessibility and practice; no assessment items reproduced"
+    }
+  ],
+  "method": {
+    "en": "Original educational self-check created for My Paper from public preparedness principles. It is not adapted from a validated, proprietary or licensed instrument. Scores describe planning habits in eight hypothetical situations only and are not collected.",
+    "cs": "Původní vzdělávací sebekontrola vytvořená pro My Paper z veřejných zásad připravenosti. Není převzata z validovaného, proprietárního ani licencovaného nástroje. Skóre popisuje pouze plánovací návyky v osmi hypotetických situacích a odpovědi se neshromažďují."
+  }
+}
