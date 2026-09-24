@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **13**
+- Článků v zásobě: **14**
 - Jazyk, ve kterém se píše: **en**
 
 ---

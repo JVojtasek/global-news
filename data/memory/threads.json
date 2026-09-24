@@ -794,37 +794,646 @@
    ]
   },
   {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "emmanuel",
+    "ireland",
+    "eurovision",
+    "east-west",
+    "yemen",
+    "british",
+    "erdogan",
+    "jared",
+    "inquest",
+    "neutral",
+    "aoun",
+    "taher",
+    "republic",
+    "board",
+    "jerusalem",
+    "kushner",
+    "houthis",
+    "verified",
+    "trump's",
+    "iraq",
+    "general",
+    "thick",
+    "league",
+    "gaza",
+    "gaza's",
+    "riyadh",
+    "iran",
+    "israel",
+    "paris",
+    "netanyahu",
+    "nations",
+    "arabia",
+    "arabian",
+    "trump",
+    "peace",
+    "lula",
+    "yemen's",
+    "israeli",
+    "saudi",
+    "macron"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254",
+    "06df00086e0c",
+    "2ab296b93709",
+    "4038c9b998f5",
+    "9824ab06ba40",
+    "c2a40c5625c5",
+    "c72143066677",
+    "c1254dd22bde",
+    "c9117ee7b07b",
+    "c792fb242bf8",
+    "eed7ddd3265e",
+    "b240f0515ee8",
+    "dbb34488a1b8",
+    "1f7b444d993c",
+    "d85187b311c3",
+    "c5c795b9e1b1",
+    "84d31eadb0fe",
+    "3ac801265aa0",
+    "1db88ae782d0",
+    "6db70951bf71",
+    "72cd7d7d5454",
+    "63827be44619",
+    "9da759940a18",
+    "d0c9dac4e7a1",
+    "dbf103d247c1",
+    "97e39aa3ab00",
+    "02e522c8aff5",
+    "b7b3b3dcaafb",
+    "147ec0dad904",
+    "22a80d898a41",
+    "f49530af69f4",
+    "5351140b97ac",
+    "3a47e8b82a1b",
+    "c1ce1679f0dd",
+    "2a4b43d9f74a",
+    "9146f0df0ac0",
+    "4ea1d5b81c19",
+    "c4c26ff56cab",
+    "1c5e2ce6d622",
+    "9bac96c38c2d"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-09-24",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+     "sources": 7,
+     "score": 83,
+     "event_id": "6e0f12b732f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3677e9c2454f",
+     "links": [
+      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+     "sources": 3,
+     "score": 56,
+     "event_id": "2d4b21839f92",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+     "sources": 2,
+     "score": 44,
+     "event_id": "25ce347a430e",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e3d7c0ac2a93",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
+      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
+      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a3f7b5bea254",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "06df00086e0c",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2ab296b93709",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Middle East: Israeli strikes kill several in Lebanon",
+     "sources": 3,
+     "score": 51,
+     "event_id": "4038c9b998f5",
+     "links": [
+      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9824ab06ba40",
+     "links": [
+      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c2a40c5625c5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+     "sources": 3,
+     "score": 61,
+     "event_id": "c72143066677",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
+      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c1254dd22bde",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
+      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Oil prices rise as Middle East conflict escalates",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c9117ee7b07b",
+     "links": [
+      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c792fb242bf8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "eed7ddd3265e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it has destroyed major underground Hezbollah base",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b240f0515ee8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+     "sources": 4,
+     "score": 61,
+     "event_id": "dbb34488a1b8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+      "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1f7b444d993c",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+      "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d85187b311c3",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5c795b9e1b1",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
+     "sources": 2,
+     "score": 42,
+     "event_id": "84d31eadb0fe",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
+      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3ac801265aa0",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
+      "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks",
+     "sources": 1,
+     "score": 46,
+     "event_id": "1db88ae782d0",
+     "links": [
+      "http://www.france24.com/en/lebanon-emmanuel-macron-welcomes-joseph-aoun-to-paris-for-middle-east-talks",
+      "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
+      "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
+     "sources": 2,
+     "score": 45,
+     "event_id": "6db70951bf71",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
+      "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+     "sources": 4,
+     "score": 70,
+     "event_id": "72cd7d7d5454",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+     "sources": 2,
+     "score": 46,
+     "event_id": "63827be44619",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+     "sources": 2,
+     "score": 49,
+     "event_id": "9da759940a18",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d0c9dac4e7a1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
+      "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+     "sources": 2,
+     "score": 48,
+     "event_id": "dbf103d247c1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+     "sources": 2,
+     "score": 46,
+     "event_id": "97e39aa3ab00",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Saudi Arabia says Houthis tried to attack its capital",
+     "sources": 2,
+     "score": 42,
+     "event_id": "02e522c8aff5",
+     "links": [
+      "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
+     "sources": 3,
+     "score": 64,
+     "event_id": "b7b3b3dcaafb",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
+      "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
+      "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+     "sources": 3,
+     "score": 65,
+     "event_id": "147ec0dad904",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
+     "sources": 2,
+     "score": 43,
+     "event_id": "22a80d898a41",
+     "links": [
+      "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Iran war spreads through region as Trump seeks way out",
+     "sources": 3,
+     "score": 61,
+     "event_id": "f49530af69f4",
+     "links": [
+      "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
+      "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5351140b97ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+     "sources": 2,
+     "score": 40,
+     "event_id": "3a47e8b82a1b",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+      "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+     "sources": 4,
+     "score": 71,
+     "event_id": "c1ce1679f0dd",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+      "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+      "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Republic of Ireland braced for testing Nations League",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2a4b43d9f74a",
+     "links": [
+      "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9146f0df0ac0",
+     "links": [
+      "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
+     "sources": 2,
+     "score": 45,
+     "event_id": "4ea1d5b81c19",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c4c26ff56cab",
+     "links": [
+      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1c5e2ce6d622",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Israel facing water shortages caused by destruction of Gaza’s treatment plants",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9bac96c38c2d",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/24/israel-water-shortages-destruction-gaza-treatment-plants-pollution-sanitation-crisis",
+      "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "d4578d08ad87",
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "jersey",
-    "army",
-    "company",
-    "press",
-    "crypto",
-    "donald",
-    "nabep",
-    "karoline",
-    "driscoll",
-    "judge",
-    "leavitt",
-    "secretary",
-    "jinping",
-    "politico",
-    "house",
     "days",
-    "stewart",
-    "tetris",
-    "kalshi's",
-    "white",
-    "court",
-    "journalists",
+    "leavitt",
     "venezuela",
     "trump's",
+    "driscoll",
+    "kalshi's",
+    "politico",
+    "company",
+    "journalists",
+    "jinping",
+    "judge",
+    "karoline",
+    "donald",
+    "white",
+    "court",
+    "chinese",
+    "secretary",
+    "press",
+    "stewart",
     "supreme",
+    "tetris",
     "trump",
-    "chinese"
+    "army",
+    "jersey",
+    "house",
+    "nabep",
+    "crypto"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -850,7 +1459,8 @@
     "99aa363f1f60",
     "954841d14c5d",
     "691ba0b74f56",
-    "8ff1f96c6d43"
+    "8ff1f96c6d43",
+    "11cf993dce96"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-24",
@@ -1125,6 +1735,18 @@
       "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
       "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Judge orders Trump administration to restore journalists' access to White House",
+     "sources": 5,
+     "score": 70,
+     "event_id": "11cf993dce96",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+      "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
      ]
     }
    ]
@@ -1472,11 +2094,12 @@
    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
    "section": "world",
    "entities": [
-    "australian",
-    "openai"
+    "openai",
+    "australian"
    ],
    "event_ids": [
-    "a23f76d1ffbb"
+    "a23f76d1ffbb",
+    "90eb340ee81f"
    ],
    "first_seen": "2026-09-24",
    "last_seen": "2026-09-24",
@@ -1491,6 +2114,18 @@
       "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "What you need to know about the OpenAI Australian government hack",
+     "sources": 4,
+     "score": 70,
+     "event_id": "90eb340ee81f",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
+      "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
      ]
     }
    ]
@@ -2304,603 +2939,6 @@
      "links": [
       "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results",
       "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "general",
-    "kushner",
-    "macron",
-    "yemen's",
-    "aoun",
-    "arabian",
-    "trump",
-    "gaza's",
-    "republic",
-    "saudi",
-    "jared",
-    "riyadh",
-    "iraq",
-    "jerusalem",
-    "league",
-    "board",
-    "british",
-    "houthis",
-    "nations",
-    "eurovision",
-    "emmanuel",
-    "inquest",
-    "gaza",
-    "peace",
-    "ireland",
-    "iran",
-    "lula",
-    "verified",
-    "paris",
-    "netanyahu",
-    "israel",
-    "erdogan",
-    "thick",
-    "taher",
-    "yemen",
-    "neutral",
-    "trump's",
-    "israeli",
-    "arabia",
-    "east-west"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93",
-    "a3f7b5bea254",
-    "06df00086e0c",
-    "2ab296b93709",
-    "4038c9b998f5",
-    "9824ab06ba40",
-    "c2a40c5625c5",
-    "c72143066677",
-    "c1254dd22bde",
-    "c9117ee7b07b",
-    "c792fb242bf8",
-    "eed7ddd3265e",
-    "b240f0515ee8",
-    "dbb34488a1b8",
-    "1f7b444d993c",
-    "d85187b311c3",
-    "c5c795b9e1b1",
-    "84d31eadb0fe",
-    "3ac801265aa0",
-    "1db88ae782d0",
-    "6db70951bf71",
-    "72cd7d7d5454",
-    "63827be44619",
-    "9da759940a18",
-    "d0c9dac4e7a1",
-    "dbf103d247c1",
-    "97e39aa3ab00",
-    "02e522c8aff5",
-    "b7b3b3dcaafb",
-    "147ec0dad904",
-    "22a80d898a41",
-    "f49530af69f4",
-    "5351140b97ac",
-    "3a47e8b82a1b",
-    "c1ce1679f0dd",
-    "2a4b43d9f74a",
-    "9146f0df0ac0",
-    "4ea1d5b81c19",
-    "c4c26ff56cab",
-    "1c5e2ce6d622"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-23",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
-     "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "sources": 2,
-     "score": 44,
-     "event_id": "25ce347a430e",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a3f7b5bea254",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "06df00086e0c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2ab296b93709",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Middle East: Israeli strikes kill several in Lebanon",
-     "sources": 3,
-     "score": 51,
-     "event_id": "4038c9b998f5",
-     "links": [
-      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Lebanon president calls for US help after deadly Israeli strikes",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9824ab06ba40",
-     "links": [
-      "https://www.france24.com/en/video/20260907-lebanon-president-calls-for-us-help-after-deadly-israeli-strikes",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c2a40c5625c5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-     "sources": 3,
-     "score": 61,
-     "event_id": "c72143066677",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
-      "https://www.france24.com/en/video/20260908-as-houthis-attack-saudi-arabia-is-iran-war-escalating-into-regional-conflict"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Israel to close British consulate in Jerusalem after sanctions announced",
-     "sources": 2,
-     "score": 40,
-     "event_id": "c1254dd22bde",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/israel-close-british-consulate-jerusalem-sanctions",
-      "https://www.aljazeera.com/opinions/2026/9/8/the-shift-in-british-policy-on-israel-is-palpable?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Oil prices rise as Middle East conflict escalates",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c9117ee7b07b",
-     "links": [
-      "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/commodities-news/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates-4892829"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c792fb242bf8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-     "sources": 2,
-     "score": 44,
-     "event_id": "eed7ddd3265e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it has destroyed major underground Hezbollah base",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b240f0515ee8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-     "sources": 4,
-     "score": 61,
-     "event_id": "dbb34488a1b8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-      "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1f7b444d993c",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
-      "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d85187b311c3",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5c795b9e1b1",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
-     "sources": 2,
-     "score": 42,
-     "event_id": "84d31eadb0fe",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
-      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3ac801265aa0",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
-      "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks",
-     "sources": 1,
-     "score": 46,
-     "event_id": "1db88ae782d0",
-     "links": [
-      "http://www.france24.com/en/lebanon-emmanuel-macron-welcomes-joseph-aoun-to-paris-for-middle-east-talks",
-      "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
-      "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
-     "sources": 2,
-     "score": 45,
-     "event_id": "6db70951bf71",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
-      "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-     "sources": 4,
-     "score": 70,
-     "event_id": "72cd7d7d5454",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-     "sources": 2,
-     "score": 46,
-     "event_id": "63827be44619",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-     "sources": 2,
-     "score": 49,
-     "event_id": "9da759940a18",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d0c9dac4e7a1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
-      "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-     "sources": 2,
-     "score": 48,
-     "event_id": "dbf103d247c1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-     "sources": 2,
-     "score": 46,
-     "event_id": "97e39aa3ab00",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-      "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Saudi Arabia says Houthis tried to attack its capital",
-     "sources": 2,
-     "score": 42,
-     "event_id": "02e522c8aff5",
-     "links": [
-      "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
-      "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
-     "sources": 3,
-     "score": 64,
-     "event_id": "b7b3b3dcaafb",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
-      "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
-      "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-     "sources": 3,
-     "score": 65,
-     "event_id": "147ec0dad904",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
-     "sources": 2,
-     "score": 43,
-     "event_id": "22a80d898a41",
-     "links": [
-      "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Iran war spreads through region as Trump seeks way out",
-     "sources": 3,
-     "score": 61,
-     "event_id": "f49530af69f4",
-     "links": [
-      "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-      "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5351140b97ac",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-     "sources": 2,
-     "score": 40,
-     "event_id": "3a47e8b82a1b",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
-      "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
-     "sources": 4,
-     "score": 71,
-     "event_id": "c1ce1679f0dd",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
-      "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
-      "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Republic of Ireland braced for testing Nations League",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2a4b43d9f74a",
-     "links": [
-      "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
-     "sources": 2,
-     "score": 46,
-     "event_id": "9146f0df0ac0",
-     "links": [
-      "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
-     "sources": 2,
-     "score": 45,
-     "event_id": "4ea1d5b81c19",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c4c26ff56cab",
-     "links": [
-      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1c5e2ce6d622",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -11064,5 +11102,5 @@
    ]
   }
  ],
- "updated": "2026-09-24T03:30:43+00:00"
+ "updated": "2026-09-24T09:29:23+00:00"
 }
