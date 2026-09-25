@@ -51,9 +51,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 47 dní · 52 záznamů
+- rubrika `world` · sledováno 47 dní · 53 záznamů
 - časová osa:
-  - **2026-09-23** (2 zdrojů) Trump's Board of Peace proposes $2.45B for reconstruction in Gaza
   - **2026-09-23** (2 zdrojů) Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
   - **2026-09-24** (2 zdrojů) Israel facing water shortages caused by destruction of Gaza’s treatment plants
   - **2026-09-24** (2 zdrojů) Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
@@ -63,6 +62,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-25** (2 zdrojů) Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
   - **2026-09-25** (2 zdrojů) UN General Assembly: Leaders discuss AI, global conflicts
   - **2026-09-25** (2 zdrojů) Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
+  - **2026-09-25** (2 zdrojů) Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
@@ -81,9 +81,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 44 dní · 31 záznamů
+- rubrika `world` · sledováno 44 dní · 32 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’
   - **2026-09-23** (2 zdrojů) Judge hears arguments on Trump White House media ban, hopes to rule 'soon'
   - **2026-09-24** (2 zdrojů) Trump greets Xi Jinping at plane as Chinese leader arrives for state visit
   - **2026-09-24** (5 zdrojů) Judge orders Trump administration to restore journalists' access to White House
@@ -93,6 +92,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-25** (2 zdrojů) At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict
   - **2026-09-25** (2 zdrojů) US-China talks on trade, AI between Trump, Xi beckon
   - **2026-09-25** (2 zdrojů) US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?
+  - **2026-09-25** (5 zdrojů) Supreme Court allows Trump to use controversial database to check voter citizenship
 
 ---
 

@@ -92,28 +92,34 @@
     <https://www.anthropic.com/claude-opus-5-5>
     > https://github.com/anthropics/ClaudeForFoundationModels/comm... Comments URL: https://news.ycombinator.com/item?id=49803863 Points: 272 # Comments: 2
 
-### 4. Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
-- id události: `c1ce1679f0dd`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. Man City and the 115 charges - key questions answered
+- id události: `77194b534d5f`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him
-    <https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech>
-    > US president may have upstaged the ghost of Soviet leader Khrushchev by musing destruction of fellow member state Donald Trump has a habit of discomfiting delegates to the United Nations general assembly. But this year, he may have upstaged the ghost of former Soviet leader Nikit
-  - **France 24** — Iran, AI and the ICC: Trump makes threats, touts policies at UN General Assembly
-    <https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly>
-    > US President Donald Trump launched a full-throated defence of the deeply unpopular US-Israeli war against Iran before the UN General Assembly on Tuesday, claiming that Washington would reach a deal with Tehran after the upcoming US midterm elections. Trump also rejected the idea 
-  - **France 24** — Iran: Trump believes in an agreement after US midterms
-    <https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms>
-    > US President Donald Trump told the United Nations General Assembly on Tuesday that he would have to decide whether to “annihilate” Iran if Tehran fails to reach a deal to end the war in the Middle East. He added that he believed an agreement was possible after the US midterm elec
-  - **France 24** — REPLAY: Trump defends Iran war, attacks ICC in UN speech
-    <https://www.france24.com/en/video/20260922-replay-trump-defends-iran-war-attacks-icc-in-un-speech>
-    > US President Donald Trump called Tuesday for all nations that are part of the International Criminal Court to quit the body, calling it "out of control." He also used the speech to argue that the war with Iran prevented Tehran from obtaining a nuclear weapon and warn that he coul
-  - **Al Jazeera** — Trump to UN: do I ‘annihilate’ Iran or ‘make a deal?’
-    <https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss>
-    > US President Donald Trump told the UN General Assembly that he has a ‘big decision to make’ on Iran.
-  - **CNBC Top** — Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch
-    <https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html>
-    > Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.
+  - **BBC Sport** — Man City and the 115 charges - key questions answered
+    <https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss>
+    > It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.
+  - **BBC Sport** — Who is hacker whose revelations led to Man City charges?
+    <https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss>
+    > Rui Pinto is the convicted computer hacker whose revelations led to Manchester City facing Premier League charges of alleged financial rule breaches. But who is he?
+  - **BBC Sport** — Who is hacker whose revelations led to Man City charges?
+    <https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss>
+    > Rui Pinto is the convicted computer hacker whose revelations led to Manchester City facing Premier League charges of alleged financial rule breaches. But who is he?
+  - **Guardian Sport** — We Manchester City fans fear relegation and losing trophies … but club are bang to rights
+    <https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies>
+    > Despite attempts to legally filibuster the charges out of existence for the past three years, we’ve rightfully failed It couldn’t have been more prophetic. In 2008, 15 years before Manchester City were charged with financial fraud, fans started singing “City’s going down with a b
+  - **Al Jazeera** — Timeline: Man City’s Premier League financial charges to reported verdict
+    <https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss>
+    > City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.
+  - **Guardian Sport** — Liverpool’s Cody Gakpo reflects on ‘tough summer’ after collapse of Manchester City move
+    <https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city>
+    > Dutchman’s second son died during pregnancy in June ‘If I have no control over the situation, I will not worry’ Cody Gakpo has reflected on a “very tough” summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting h
+  - **Guardian Sport** — Manchester City v Premier League: how the legal teams lined up
+    <https://www.theguardian.com/football/2026/sep/25/manchester-city-v-premier-league-how-the-legal-teams-lined-up>
+    > David Pannick may not earn as much as Erling Haaland but the club spared no expense to defend themselves against more than 100 charges The result is finally in from a highly anticipated Premier League match-up: the legal battle which pitted the league against Manchester City, the
+  - **Guardian Sport** — Manchester City found guilty of breaking Premier League’s financial fair play rules
+    <https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules>
+    > City face sanctions after more than 100 rule breaches Club insists it is innocent and is expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English foo
 
 ---
 
@@ -122,8 +128,8 @@
 ### why relationships fail
 - rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---

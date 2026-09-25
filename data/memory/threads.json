@@ -818,46 +818,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "nations",
-    "trump's",
-    "saudi",
-    "taiwan",
-    "kushner",
-    "gaza's",
-    "netherlands",
-    "arabian",
-    "general",
-    "iraq",
-    "germany",
-    "jerusalem",
-    "east-west",
     "republic",
-    "mamdani",
-    "bellamy",
-    "neutral",
-    "uefa",
-    "felix",
-    "yemen's",
-    "iran",
-    "netanyahu",
-    "leaders",
-    "wales",
-    "unga",
-    "trump",
-    "assembly",
-    "erdogan",
-    "ireland",
-    "riyadh",
+    "italy",
     "portugal",
-    "macron",
-    "taher",
-    "league",
-    "emmanuel",
-    "jared",
     "houthis",
+    "nations",
+    "general",
+    "jerusalem",
+    "uefa",
+    "taher",
+    "leaders",
+    "mamdani",
+    "belgium",
+    "northern",
+    "georgia",
+    "erdogan",
+    "taiwan",
+    "riyadh",
+    "jared",
+    "ireland",
+    "felix",
+    "netherlands",
+    "thick",
+    "east-west",
+    "emmanuel",
+    "arabian",
+    "macron",
+    "league",
+    "france",
+    "iraq",
+    "turkey",
+    "kushner",
+    "trump's",
+    "bellamy",
+    "wales",
+    "gaza's",
     "yemen",
+    "yemen's",
+    "assembly",
     "board",
-    "thick"
+    "germany"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -911,7 +911,8 @@
     "a3ff8fb0c0bf",
     "7dafbb394886",
     "14c89b8f46eb",
-    "a9ce1756d96e"
+    "a9ce1756d96e",
+    "7acf0398195c"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-25",
@@ -1505,6 +1506,17 @@
       "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
       "https://www.dw.com/en/unga-day-4-lebanese-on-deck-after-defiant-netanyahu-speech/live-79366211?maca=en-rss-en-all-1573-rdf"
      ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7acf0398195c",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1513,35 +1525,35 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "trump",
-    "us-china",
-    "supreme",
-    "chinese",
-    "journalists",
-    "secretary",
-    "driscoll",
-    "donald",
-    "days",
-    "army",
-    "karoline",
-    "tetris",
-    "judge",
-    "leavitt",
-    "trump's",
-    "house",
-    "does",
-    "press",
-    "jinping",
-    "court",
     "company",
-    "kalshi's",
+    "jersey",
+    "journalists",
+    "politico",
+    "white",
     "venezuela",
     "nabep",
+    "leavitt",
+    "chinese",
+    "days",
+    "judge",
+    "tetris",
+    "does",
+    "jinping",
+    "stewart",
+    "trump's",
+    "army",
+    "driscoll",
+    "donald",
+    "kalshi's",
+    "secretary",
     "crypto",
-    "jersey",
-    "white",
-    "politico",
-    "stewart"
+    "court",
+    "house",
+    "press",
+    "karoline",
+    "supreme",
+    "us-china",
+    "trump"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1574,7 +1586,8 @@
     "4bb851cb2ea9",
     "1846d1bb8cbc",
     "ee634ff53aaa",
-    "53ba398d416e"
+    "53ba398d416e",
+    "2acf05538835"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-25",
@@ -1929,6 +1942,18 @@
      "links": [
       "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-rdf",
       "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+     "sources": 5,
+     "score": 72,
+     "event_id": "2acf05538835",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+      "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss"
      ]
     }
    ]
@@ -2290,14 +2315,14 @@
    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
    "section": "world",
    "entities": [
-    "nato",
     "russian",
-    "france",
+    "danish",
+    "lithuania",
+    "nato",
+    "europe",
     "pope",
     "macron",
-    "europe",
-    "lithuania",
-    "danish"
+    "france"
    ],
    "event_ids": [
     "87d62c77d066",
@@ -2307,7 +2332,8 @@
     "5650625ff0c7",
     "3263aff4ed39",
     "bfa030f1f411",
-    "cf6d90b7d356"
+    "cf6d90b7d356",
+    "0d0ab2de5779"
    ],
    "first_seen": "2026-09-15",
    "last_seen": "2026-09-25",
@@ -2405,6 +2431,103 @@
       "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
       "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0d0ab2de5779",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3e261aa2591b",
+   "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+   "section": "tech",
+   "entities": [
+    "mark",
+    "muse",
+    "glasses",
+    "charm",
+    "meta",
+    "everything",
+    "tamagotchi",
+    "zuckerberg"
+   ],
+   "event_ids": [
+    "3e261aa2591b",
+    "c134bbfcc899",
+    "5f9b2dff770e",
+    "6374a69076e5",
+    "e84d98e81ae7"
+   ],
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-25",
+   "timeline": [
+    {
+     "date": "2026-09-24",
+     "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+     "sources": 6,
+     "score": 79,
+     "event_id": "3e261aa2591b",
+     "links": [
+      "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+      "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
+     "sources": 3,
+     "score": 51,
+     "event_id": "c134bbfcc899",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
+      "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "https://mouse.dev/blog/muse-runtime-export/"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Everything new coming to Meta’s AI agent Muse",
+     "sources": 3,
+     "score": 44,
+     "event_id": "5f9b2dff770e",
+     "links": [
+      "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+     "sources": 4,
+     "score": 69,
+     "event_id": "6374a69076e5",
+     "links": [
+      "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Meta makes the Muse filesystem even more accessible",
+     "sources": 3,
+     "score": 46,
+     "event_id": "e84d98e81ae7",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
      ]
     }
    ]
@@ -3788,79 +3911,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/music/2026/sep/24/macklemore-free-palestine-tour-ed-sheeran"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3e261aa2591b",
-   "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
-   "section": "tech",
-   "entities": [
-    "zuckerberg",
-    "glasses",
-    "muse",
-    "mark",
-    "tamagotchi",
-    "everything",
-    "charm",
-    "meta"
-   ],
-   "event_ids": [
-    "3e261aa2591b",
-    "c134bbfcc899",
-    "5f9b2dff770e",
-    "6374a69076e5"
-   ],
-   "first_seen": "2026-09-24",
-   "last_seen": "2026-09-24",
-   "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
-     "sources": 6,
-     "score": 79,
-     "event_id": "3e261aa2591b",
-     "links": [
-      "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
-     "sources": 3,
-     "score": 51,
-     "event_id": "c134bbfcc899",
-     "links": [
-      "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
-      "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "https://mouse.dev/blog/muse-runtime-export/"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Everything new coming to Meta’s AI agent Muse",
-     "sources": 3,
-     "score": 44,
-     "event_id": "5f9b2dff770e",
-     "links": [
-      "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-     "sources": 4,
-     "score": 69,
-     "event_id": "6374a69076e5",
-     "links": [
-      "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
      ]
     }
    ]
@@ -11500,5 +11550,5 @@
    ]
   }
  ],
- "updated": "2026-09-25T15:27:49+00:00"
+ "updated": "2026-09-25T18:30:09+00:00"
 }
