@@ -1,14 +1,15 @@
 ---
 slug: raw-chicken-needs-heat-not-a-rinse
-title: "Raw Chicken Needs Heat, Not a Rinse"
-dek: "Water cannot make raw poultry safe. It can move contamination around the kitchen before the one effective control—thorough cooking—has begun."
+title: Raw Chicken Needs Heat, Not a Rinse
+dek: Water cannot make raw poultry safe. It can move contamination around the kitchen
+  before the one effective control—thorough cooking—has begun.
 section: safety
 type: analysis
 depth: open
 lang: en
-date: 2026-09-25
-status: draft
-confidence: 96
+date: '2026-09-25'
+status: review
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -16,29 +17,34 @@ edition_slot: 2
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "conceptual editorial illustration of a kitchen sink splash path stopping at a boundary while a food thermometer points to safely cooked chicken, no people, no text, no logo, no brand"
+event_id: ''
+series: ''
+image_query: conceptual editorial illustration of a kitchen sink splash path stopping
+  at a boundary while a food thermometer points to safely cooked chicken, no people,
+  no text, no logo, no brand
 sources:
-  - name: "CDC — Chicken and Food Poisoning"
-    url: "https://www.cdc.gov/food-safety/foods/chicken.html"
-    published: "2024-04-29"
-  - name: "USDA Agricultural Research Service — Chickensplash!"
-    url: "https://www.ars.usda.gov/research/publications/publication/?seqNo115=390746"
-    published: "2022-03-24"
-  - name: "UK Food Standards Agency — Campylobacter guidance"
-    url: "https://www.gov.uk/government/publications/campylobacter/campylobacter"
-    published: "2018-01-09"
-qma_path: ""
+- name: CDC — Chicken and Food Poisoning
+  url: https://www.cdc.gov/food-safety/foods/chicken.html
+  published: '2024-04-29'
+- name: USDA Agricultural Research Service — Chickensplash!
+  url: https://www.ars.usda.gov/research/publications/publication/?seqNo115=390746
+  published: '2022-03-24'
+- name: UK Food Standards Agency — Campylobacter guidance
+  url: https://www.gov.uk/government/publications/campylobacter/campylobacter
+  published: '2018-01-09'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which step actually controls germs that may be present inside or on raw chicken?"
+  question: Which step actually controls germs that may be present inside or on raw
+    chicken?
   options:
-    - "Rinsing it until the water looks clear"
-    - "Cooking it to 165°F (74°C) and checking with a food thermometer"
-    - "Drying the surface with a reusable kitchen towel"
+  - Rinsing it until the water looks clear
+  - Cooking it to 165°F (74°C) and checking with a food thermometer
+  - Drying the surface with a reusable kitchen towel
   answer: 1
-  explanation: "CDC says raw chicken does not need washing and recommends a food thermometer to confirm a safe internal temperature of 165°F."
+  explanation: CDC says raw chicken does not need washing and recommends a food thermometer
+    to confirm a safe internal temperature of 165°F.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

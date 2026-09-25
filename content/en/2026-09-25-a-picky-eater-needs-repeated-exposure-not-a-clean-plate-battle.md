@@ -1,13 +1,14 @@
 ---
 slug: a-picky-eater-needs-repeated-exposure-not-a-clean-plate-battle
-title: "A Picky Eater Needs Repeated Exposure, Not a Clean-Plate Battle"
-dek: "Food fussiness is often a real child trait, not proof of bad parenting. Calm repetition can widen the menu without making dinner a test of obedience."
+title: A Picky Eater Needs Repeated Exposure, Not a Clean-Plate Battle
+dek: Food fussiness is often a real child trait, not proof of bad parenting. Calm
+  repetition can widen the menu without making dinner a test of obedience.
 section: parenting
 type: daily
 depth: open
 lang: en
-date: 2026-09-25
-status: draft
+date: '2026-09-25'
+status: review
 confidence: 94
 load: 0
 topics: []
@@ -16,32 +17,38 @@ edition_slot: 1
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "conceptual editorial illustration of a tiny tasting plate beginning a gentle spiral of repeated food exposures toward a colorful shared family meal, empty child and adult chairs, no people, no text, no logo, no brand"
+event_id: ''
+series: ''
+image_query: conceptual editorial illustration of a tiny tasting plate beginning a
+  gentle spiral of repeated food exposures toward a colorful shared family meal, empty
+  child and adult chairs, no people, no text, no logo, no brand
 sources:
-  - name: "CDC — Picky Eaters and What to Do"
-    url: "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/picky-eaters.html"
-    published: "2026-04-14"
-  - name: "American Academy of Pediatrics — 10 Tips for Parents of Picky Eaters"
-    url: "https://www.healthychildren.org/English/ages-stages/toddler/nutrition/Pages/Picky-Eaters.aspx"
-    published: "2018-04-26"
-  - name: "Journal of Child Psychology and Psychiatry — Nature and nurture in fussy eating"
-    url: "https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14053"
-    published: "2024-09-19"
-  - name: "Proceedings of the Nutrition Society — Picky eating in children: causes and consequences"
-    url: "https://pubmed.ncbi.nlm.nih.gov/30392488/"
-    published: "2018-11-05"
-qma_path: ""
+- name: CDC — Picky Eaters and What to Do
+  url: https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/picky-eaters.html
+  published: '2026-04-14'
+- name: American Academy of Pediatrics — 10 Tips for Parents of Picky Eaters
+  url: https://www.healthychildren.org/English/ages-stages/toddler/nutrition/Pages/Picky-Eaters.aspx
+  published: '2018-04-26'
+- name: Journal of Child Psychology and Psychiatry — Nature and nurture in fussy eating
+  url: https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.14053
+  published: '2024-09-19'
+- name: 'Proceedings of the Nutrition Society — Picky eating in children: causes and
+    consequences'
+  url: https://pubmed.ncbi.nlm.nih.gov/30392488/
+  published: '2018-11-05'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which response is best supported when a young child rejects an unfamiliar food once?"
+  question: Which response is best supported when a young child rejects an unfamiliar
+    food once?
   options:
-    - "Offer a tiny amount again on later occasions without pressure"
-    - "Require a clean plate so the child learns not to refuse"
-    - "Remove the food permanently because the refusal proves a stable dislike"
+  - Offer a tiny amount again on later occasions without pressure
+  - Require a clean plate so the child learns not to refuse
+  - Remove the food permanently because the refusal proves a stable dislike
   answer: 0
-  explanation: "CDC, AAP and the research review all support repeated, low-pressure exposure; one refusal does not establish a permanent preference."
+  explanation: CDC, AAP and the research review all support repeated, low-pressure
+    exposure; one refusal does not establish a permanent preference.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY

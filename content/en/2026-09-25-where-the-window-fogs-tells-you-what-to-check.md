@@ -1,14 +1,14 @@
 ---
 slug: where-the-window-fogs-tells-you-what-to-check
 title: Where the Window Fogs Tells You What to Check
-dek: Condensation is not one fault with one cure. Its position—room side, outdoors or
-  between panes—separates a moisture problem from normal weather and a failed seal.
+dek: Condensation is not one fault with one cure. Its position—room side, outdoors
+  or between panes—separates a moisture problem from normal weather and a failed seal.
 section: questions
 type: analysis
 depth: open
 lang: en
 date: '2026-09-25'
-status: draft
+status: published
 confidence: 95
 load: 0
 topics: []
@@ -38,13 +38,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What does persistent fog trapped between the panes of a sealed double-glazed window most strongly suggest?
+  question: What does persistent fog trapped between the panes of a sealed double-glazed
+    window most strongly suggest?
   options:
   - The room needs a higher thermostat setting
   - Outdoor dew is proving that the window insulates well
-  - Moisture has entered the glazing cavity and the sealed unit needs professional assessment
+  - Moisture has entered the glazing cavity and the sealed unit needs professional
+    assessment
   answer: 2
-  explanation: Ventilation can change moisture on an accessible room-side surface, but it cannot dry a properly sealed cavity. Persistent fog between panes points to the glazing unit or its seals rather than ordinary indoor humidity alone.
+  explanation: Ventilation can change moisture on an accessible room-side surface,
+    but it cannot dry a properly sealed cavity. Persistent fog between panes points
+    to the glazing unit or its seals rather than ordinary indoor humidity alone.
 review_reason: ''
 ---
 

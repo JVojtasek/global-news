@@ -8,8 +8,8 @@ type: analysis
 depth: open
 lang: en
 date: '2026-09-25'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -44,7 +44,9 @@ quiz:
   - Verifying each causal link and testing the proposed countermeasure
   - Choosing the explanation offered by the most senior participant
   answer: 1
-  explanation: Five is a prompt, not a proof threshold. A credible causal chain needs observations or data behind its links, and a countermeasure should be tested to see whether it changes the result.
+  explanation: Five is a prompt, not a proof threshold. A credible causal chain needs
+    observations or data behind its links, and a countermeasure should be tested to
+    see whether it changes the result.
 review_reason: ''
 ---
 
