@@ -1,14 +1,15 @@
 ---
 slug: an-ai-benchmark-is-a-ruler-with-a-job-description
 title: An AI Benchmark Is a Ruler with a Job Description
-dek: A leaderboard score can compare systems on a defined test. It cannot, by itself, tell you whether the system will work safely in your setting.
+dek: A leaderboard score can compare systems on a defined test. It cannot, by itself,
+  tell you whether the system will work safely in your setting.
 section: ai
 type: feature
 depth: open
 lang: en
 date: '2026-09-25'
 status: reserve
-confidence: 88
+confidence: 89
 load: 0
 topics:
 - artificial intelligence
@@ -45,7 +46,9 @@ quiz:
   - It is the safest and most useful model for every real-world use.
   - It possesses general intelligence in a settled scientific sense.
   answer: 0
-  explanation: A benchmark supports comparison inside a defined evaluation design. Transfer to a real use requires evidence about the actual task, users, risks and operating conditions.
+  explanation: A benchmark supports comparison inside a defined evaluation design.
+    Transfer to a real use requires evidence about the actual task, users, risks and
+    operating conditions.
 ---
 
 ## BRIEFLY

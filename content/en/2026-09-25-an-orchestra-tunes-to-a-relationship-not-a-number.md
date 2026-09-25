@@ -1,14 +1,15 @@
 ---
 slug: an-orchestra-tunes-to-a-relationship-not-a-number
 title: An Orchestra Tunes to a Relationship, Not a Number
-dek: The oboe's A is only a common starting point. The music becomes coherent through continuous listening, adjustment and shared reference.
+dek: The oboe's A is only a common starting point. The music becomes coherent through
+  continuous listening, adjustment and shared reference.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-09-25'
-status: draft
-confidence: 84
+status: published
+confidence: 94
 load: 0
 topics:
 - orchestras
@@ -45,7 +46,9 @@ quiz:
   - It gives the players a shared reference from which they begin listening and adjusting.
   - It proves that every orchestra uses exactly 440 Hz.
   answer: 1
-  explanation: The reference A aligns the ensemble's starting pitch. Intonation remains an active, relational task, and some ensembles choose a reference above or below 440 Hz.
+  explanation: The reference A aligns the ensemble's starting pitch. Intonation remains
+    an active, relational task, and some ensembles choose a reference above or below
+    440 Hz.
 ---
 
 ## BRIEFLY

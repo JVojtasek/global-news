@@ -1,14 +1,15 @@
 ---
 slug: ernst-chladni-made-stillness-visible
 title: Ernst Chladni Made Stillness Visible
-dek: Sand jumping on a metal plate gathers where the surface barely moves, turning an invisible vibration into a map of its quiet lines.
+dek: Sand jumping on a metal plate gathers where the surface barely moves, turning
+  an invisible vibration into a map of its quiet lines.
 section: wonder
 type: analysis
 depth: open
 lang: en
 date: '2026-09-25'
-status: draft
-confidence: 86
+status: published
+confidence: 89
 load: 0
 topics:
 - Ernst Chladni
@@ -45,7 +46,8 @@ quiz:
   - Those lines are nodes where the resonating plate moves very little.
   - The sand is magnetic and follows the plate's field.
   answer: 1
-  explanation: Vibration throws grains away from strongly moving regions. They accumulate along nodal lines, where the plate's motion is minimal.
+  explanation: Vibration throws grains away from strongly moving regions. They accumulate
+    along nodal lines, where the plate's motion is minimal.
 ---
 
 ## BRIEFLY
