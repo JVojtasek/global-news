@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-translate-a-risk-headline",
+  "date": "2026-09-25",
+  "category": "health-literacy",
+  "mode": "knowledge",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "Can you translate a risk headline?", "cs": "Umíte přeložit titulek o riziku?"},
+    "dek": {"en": "Eight questions turn relative changes into absolute numbers and expose what a percentage can hide.", "cs": "Osm otázek převádí relativní změny na absolutní čísla a ukáže, co může procento skrývat."},
+    "intro": {"en": "Choose the best general interpretation. Keep the population, outcome and time period fixed when comparing risks.", "cs": "Vyberte nejlepší obecný výklad. Při porovnávání rizik držte stejnou populaci, výsledek a časové období."},
+    "disclaimer": {"en": "This is an original educational knowledge quiz based on public definitions, not a licensed instrument, diagnosis, treatment recommendation or personal risk estimate. The examples are invented for arithmetic practice. Real benefits and harms depend on the study, population, time frame and individual context; discuss personal decisions with a qualified clinician.", "cs": "Jde o původní vzdělávací znalostní kvíz založený na veřejných definicích, nikoli o licencovaný nástroj, diagnózu, doporučení léčby či osobní odhad rizika. Příklady jsou smyšlené a slouží k procvičení výpočtů. Skutečné přínosy a újmy závisí na studii, populaci, období a individuálním kontextu; osobní rozhodnutí proberte s kvalifikovaným zdravotníkem."}
+  },
+  "dimensions": [],
+  "questions": [
+    {
+      "id": "half-from-two",
+      "text": {"en": "An event falls from 2 in 100 people to 1 in 100. Which description is complete?", "cs": "Událost klesne ze 2 lidí ze 100 na 1 ze 100. Který popis je úplný?"},
+      "options": [
+        {"label": {"en": "A 50% relative reduction and a 1 percentage-point absolute reduction", "cs": "Relativní snížení o 50 % a absolutní snížení o 1 procentní bod"}, "correct": true},
+        {"label": {"en": "A 1% relative reduction only", "cs": "Pouze relativní snížení o 1 %"}, "correct": false},
+        {"label": {"en": "Risk has been eliminated", "cs": "Riziko bylo odstraněno"}, "correct": false}
+      ],
+      "explanation": {"en": "The risk is halved relative to its starting value, while the absolute difference is 1 out of 100, or 1 percentage point.", "cs": "Riziko se oproti výchozí hodnotě snížilo na polovinu, zatímco absolutní rozdíl je 1 ze 100 neboli 1 procentní bod."}
+    },
+    {
+      "id": "double-small",
+      "text": {"en": "A risk rises from 1 in 1,000 to 2 in 1,000. What does “risk doubled” leave out?", "cs": "Riziko vzroste z 1 případu z 1 000 na 2 z 1 000. Co tvrzení „riziko se zdvojnásobilo“ vynechává?"},
+      "options": [
+        {"label": {"en": "The absolute increase is 1 additional case per 1,000", "cs": "Absolutní nárůst je 1 další případ na 1 000"}, "correct": true},
+        {"label": {"en": "The event now affects everyone", "cs": "Událost nyní postihuje každého"}, "correct": false},
+        {"label": {"en": "The original risk was 50%", "cs": "Původní riziko bylo 50 %"}, "correct": false}
+      ],
+      "explanation": {"en": "A 100% relative increase can accompany a small absolute change. Both frames are mathematically valid and answer different questions.", "cs": "Relativní nárůst o 100 % může doprovázet malou absolutní změnu. Oba popisy jsou matematicky správné a odpovídají na jiné otázky."}
+    },
+    {
+      "id": "needed-context",
+      "text": {"en": "A headline says an exposure “raises risk by 30%.” Which missing number is most necessary for judging scale?", "cs": "Titulek tvrdí, že určitý vliv „zvyšuje riziko o 30 %“. Které chybějící číslo je pro posouzení rozsahu nejdůležitější?"},
+      "options": [
+        {"label": {"en": "The baseline absolute risk in a defined population and time period", "cs": "Výchozí absolutní riziko v určené populaci a období"}, "correct": true},
+        {"label": {"en": "The number of words in the headline", "cs": "Počet slov v titulku"}, "correct": false},
+        {"label": {"en": "Whether 30 is an even number", "cs": "Zda je 30 sudé číslo"}, "correct": false}
+      ],
+      "explanation": {"en": "A relative change needs a starting risk. The outcome, population and time period must also match for a meaningful comparison.", "cs": "Relativní změna potřebuje výchozí riziko. Pro smysluplné srovnání musí sedět také výsledek, populace a období."}
+    },
+    {
+      "id": "risk-ratio-one",
+      "text": {"en": "What does a relative risk of 1 mean in the groups being compared?", "cs": "Co znamená relativní riziko 1 v porovnávaných skupinách?"},
+      "options": [
+        {"label": {"en": "The measured event risk is the same in both groups", "cs": "Naměřené riziko události je v obou skupinách stejné"}, "correct": true},
+        {"label": {"en": "Every person has a 100% risk", "cs": "Každý člověk má riziko 100 %"}, "correct": false},
+        {"label": {"en": "Exactly one event occurred", "cs": "Nastala přesně jedna událost"}, "correct": false}
+      ],
+      "explanation": {"en": "Relative risk compares one group's risk with another's. A ratio of 1 indicates no difference in the measured risks.", "cs": "Relativní riziko porovnává riziko jedné skupiny s druhou. Poměr 1 znamená, že se naměřená rizika neliší."}
+    },
+    {
+      "id": "same-relative-different-absolute",
+      "text": {"en": "Two populations both see a 50% relative reduction. Must the absolute reductions be equal?", "cs": "U dvou populací dojde k relativnímu snížení o 50 %. Musí být absolutní snížení stejné?"},
+      "options": [
+        {"label": {"en": "No; different baseline risks can produce different absolute reductions", "cs": "Ne; různá výchozí rizika mohou vést k různému absolutnímu snížení"}, "correct": true},
+        {"label": {"en": "Yes; 50% always means 50 fewer people", "cs": "Ano; 50 % vždy znamená o 50 lidí méně"}, "correct": false},
+        {"label": {"en": "Yes; baseline risk never matters", "cs": "Ano; na výchozím riziku nikdy nezáleží"}, "correct": false}
+      ],
+      "explanation": {"en": "Halving 20% gives a 10-point reduction; halving 2% gives a 1-point reduction. The relative change matches, the absolute change does not.", "cs": "Snížení 20 % na polovinu znamená pokles o 10 bodů; snížení 2 % na polovinu o 1 bod. Relativní změna je stejná, absolutní nikoli."}
+    },
+    {
+      "id": "percentage-points",
+      "text": {"en": "Risk changes from 10% to 15%. Which statement is correct?", "cs": "Riziko se změní z 10 % na 15 %. Které tvrzení je správné?"},
+      "options": [
+        {"label": {"en": "It rose by 5 percentage points, which is a 50% relative increase", "cs": "Vzrostlo o 5 procentních bodů, což je relativní nárůst o 50 %"}, "correct": true},
+        {"label": {"en": "It rose by 5% relative and absolute", "cs": "Relativně i absolutně vzrostlo o 5 %"}, "correct": false},
+        {"label": {"en": "It rose by 150 percentage points", "cs": "Vzrostlo o 150 procentních bodů"}, "correct": false}
+      ],
+      "explanation": {"en": "Percentage points subtract the percentages: 15 minus 10 equals 5. Relative increase divides that difference by the starting 10%, giving 50%.", "cs": "Procentní body získáme odečtením: 15 minus 10 je 5. Relativní nárůst dělí tento rozdíl výchozími 10 %, tedy činí 50 %."}
+    },
+    {
+      "id": "natural-frequency",
+      "text": {"en": "Which format usually makes two groups easiest to compare without hiding the denominator?", "cs": "Který formát obvykle nejsnáze porovná dvě skupiny, aniž by skryl jmenovatel?"},
+      "options": [
+        {"label": {"en": "For example, 3 in 1,000 versus 4 in 1,000 over the same period", "cs": "Například 3 z 1 000 oproti 4 z 1 000 za stejné období"}, "correct": true},
+        {"label": {"en": "“Dramatically higher” without numbers", "cs": "„Dramaticky vyšší“ bez čísel"}, "correct": false},
+        {"label": {"en": "One relative percentage with no comparison group", "cs": "Jedno relativní procento bez srovnávací skupiny"}, "correct": false}
+      ],
+      "explanation": {"en": "Using the same denominator and time period displays the absolute scale directly. It does not settle study quality, but it clarifies the arithmetic.", "cs": "Stejný jmenovatel a období ukazují absolutní rozsah přímo. Neřeší to kvalitu studie, ale zpřehlední výpočet."}
+    },
+    {
+      "id": "arithmetic-not-causation",
+      "text": {"en": "You correctly calculate a relative and absolute difference from an observational study. What remains unresolved?", "cs": "Správně vypočtete relativní a absolutní rozdíl z observační studie. Co zůstává nevyřešeno?"},
+      "options": [
+        {"label": {"en": "Whether the exposure caused the difference rather than merely being associated with it", "cs": "Zda daný vliv rozdíl způsobil, nebo s ním byl pouze spojen"}, "correct": true},
+        {"label": {"en": "Whether subtraction exists", "cs": "Zda existuje odčítání"}, "correct": false},
+        {"label": {"en": "Whether percentages can be printed", "cs": "Zda lze procenta vytisknout"}, "correct": false}
+      ],
+      "explanation": {"en": "Clear risk arithmetic improves communication, but it does not remove confounding, bias or uncertainty about causation.", "cs": "Jasný výpočet rizika zlepšuje komunikaci, ale neodstraňuje zkreslení, matoucí faktory ani nejistotu ohledně příčiny."}
+    }
+  ],
+  "outcomes": [
+    {"min": 0, "max": 2, "title": {"en": "Start with the baseline", "cs": "Začněte výchozím rizikem"}, "summary": {"en": "Relative and absolute changes are still easy to mix up. This score says nothing about your health. Rework the first two examples using counts out of 100 or 1,000.", "cs": "Relativní a absolutní změny se ještě snadno pletou. Skóre nic nevypovídá o vašem zdraví. Přepočítejte první dva příklady na počty ze 100 či 1 000."}},
+    {"min": 3, "max": 5, "title": {"en": "You see the scale, with a few gaps", "cs": "Rozsah vidíte, ale zbývají mezery"}, "summary": {"en": "You recognise some risk frames but may still confuse percentages with percentage points or arithmetic with causation. Review the missed explanations before reading the next health headline.", "cs": "Některé způsoby vyjádření rizika rozlišujete, ale možná stále zaměňujete procenta s procentními body či výpočet s příčinou. Před dalším zdravotním titulkem projděte chybná vysvětlení."}},
+    {"min": 6, "max": 7, "title": {"en": "Strong translation with one blind spot", "cs": "Dobrá orientace s jedním slepým místem"}, "summary": {"en": "You can usually restore the baseline and absolute scale. The result applies only to these questions. Use the missed item as a prompt for what to request from a source.", "cs": "Obvykle umíte doplnit výchozí hodnotu a absolutní rozsah. Výsledek platí jen pro tyto otázky. Z chybné položky udělejte otázku, kterou položíte zdroji."}},
+    {"min": 8, "max": 8, "title": {"en": "You can make the denominator visible", "cs": "Umíte zviditelnit jmenovatel"}, "summary": {"en": "You distinguished all eight tested concepts. Keep asking for starting risk, ending risk, population, outcome and time period—and remember that clear arithmetic does not prove causation.", "cs": "Rozlišili jste všech osm testovaných pojmů. Dál se ptejte na výchozí a konečné riziko, populaci, výsledek a období—jasný výpočet však sám neprokazuje příčinu."}}
+  ],
+  "sources": [
+    {"name": "National Cancer Institute — Definition of absolute risk", "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/absolute-risk", "published": "", "type": "official public definition and natural-frequency example; no assessment items reproduced"},
+    {"name": "National Cancer Institute — Definition of relative risk", "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/relative-risk", "published": "", "type": "official public definition of relative risk and risk ratio; no assessment items reproduced"},
+    {"name": "TheNNT — The NNT, explained", "url": "https://thennt.com/thennt-explained/", "published": "", "type": "educational explanation of absolute risk reduction and number needed to treat; no assessment items reproduced"}
+  ]
+}
+
