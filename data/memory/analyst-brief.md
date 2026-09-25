@@ -9,7 +9,6 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 38 dní · 60 záznamů
 - časová osa:
-  - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
   - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
   - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
   - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
@@ -19,6 +18,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
   - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
   - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
+  - **2026-09-25** (2 zdrojů) Manchester City reportedly found guilty of almost 115 financial charges
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů

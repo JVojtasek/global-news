@@ -187,74 +187,6 @@
    "depth": "scripture"
   },
   {
-   "id": "8fee313a6a87",
-   "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-   "section": "tech",
-   "score": 75,
-   "sources_count": 5,
-   "depth_signal": 0,
-   "created": "2026-09-22T18:32:01+00:00",
-   "event_time": "2026-09-22T16:30:07+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-     "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-     "source": "TechCrunch",
-     "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-     "published_at": "2026-09-22T16:30:07+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-22T18:31:58+00:00"
-    },
-    {
-     "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-     "source": "The Verge",
-     "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario […]",
-     "published_at": "2026-09-22T16:30:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-22T18:31:58+00:00"
-    },
-    {
-     "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-     "source": "The Verge AI",
-     "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario […]",
-     "published_at": "2026-09-22T16:30:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-22T18:31:58+00:00"
-    },
-    {
-     "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-     "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-     "source": "The Hacker News",
-     "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
-     "published_at": "2026-09-19T18:36:53+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-22T18:31:58+00:00"
-    },
-    {
-     "title": "Claude Opus 5.5",
-     "url": "https://www.anthropic.com/claude-opus-5-5",
-     "source": "Hacker News Best",
-     "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 316 # Comments: 381",
-     "published_at": "2026-09-22T16:29:05+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-22T18:31:58+00:00"
-    },
-    {
-     "title": "Claude Opus 5.5",
-     "url": "https://www.anthropic.com/claude-opus-5-5",
-     "source": "Hacker News Best",
-     "summary": "https://github.com/anthropics/ClaudeForFoundationModels/comm... Comments URL: https://news.ycombinator.com/item?id=49803863 Points: 272 # Comments: 2",
-     "published_at": "2026-09-22T16:27:30+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-22T18:31:58+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "77194b534d5f",
    "headline": "Man City and the 115 charges - key questions answered",
    "section": "sport",
@@ -339,6 +271,65 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "2acf05538835",
+   "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+   "section": "world",
+   "score": 72,
+   "sources_count": 5,
+   "depth_signal": 0,
+   "created": "2026-09-25T18:30:09+00:00",
+   "event_time": "2026-09-25T18:29:28+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+     "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+     "published_at": "2026-09-25T18:29:28+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-25T18:29:59+00:00"
+    },
+    {
+     "title": "The Supreme Court revives a controversial data system for citizenship checks",
+     "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+     "source": "NPR News",
+     "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
+     "published_at": "2026-09-25T15:40:57+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-25T18:29:59+00:00"
+    },
+    {
+     "title": "US top court allows Trump to use controversial voter verification system",
+     "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
+     "published_at": "2026-09-25T17:45:24+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-25T18:29:59+00:00"
+    },
+    {
+     "title": "Supreme Court restores Trump's mass voter verification system",
+     "url": "https://www.cnbc.com/2026/09/25/supreme-court-restores-trumps-mass-voter-verification-system.html",
+     "source": "CNBC Top",
+     "summary": "The Supreme Court revived an expanded immigration database the Trump admin said targets voting by noncitizens but critics say could disenfranchise voters.",
+     "published_at": "2026-09-25T17:33:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-25T18:29:59+00:00"
+    },
+    {
+     "title": "US Supreme Court allows Trump to use controversial voter 'verification' system",
+     "url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+     "source": "France 24",
+     "summary": "The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity in US elections – to implement policies that would disenfranchise likely Democratic voters.",
+     "published_at": "2026-09-25T16:52:32+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-25T18:29:59+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -358,7 +349,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League\n  2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live\n  2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return\n  2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig\n  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign\n  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups\n  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live\n  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?\n  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?\n  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse\n  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang\n  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups\n  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live\n  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win\n  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat\n  2026-09-22  (2 zdrojů, síla 41)  Arteta agrees new deal with Premier League champions Arsenal\n  2026-09-22  (3 zdrojů, síla 52)  'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season\n  2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups\n  2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue\n  2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live\n  2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return\n  2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig\n  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign\n  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups\n  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live\n  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?\n  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?\n  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse\n  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang\n  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups\n  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live\n  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win\n  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat\n  2026-09-22  (2 zdrojů, síla 41)  Arteta agrees new deal with Premier League champions Arsenal\n  2026-09-22  (3 zdrojů, síla 52)  'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season\n  2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups\n  2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue\n  2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms\n  2026-09-25  (2 zdrojů, síla 56)  Manchester City reportedly found guilty of almost 115 financial charges",
    "thread_days": 60
   },
   {

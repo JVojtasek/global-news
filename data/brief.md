@@ -69,30 +69,7 @@
     <https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026>
     > Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where "pervert glasses" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catch
 
-### 3. Anthropic releases Opus 5.5 with lower prices and Fable-level performance
-- id události: `8fee313a6a87`  ·  rubrika: `tech`  ·  skóre: 75  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **TechCrunch** — Anthropic releases Opus 5.5 with lower prices and Fable-level performance
-    <https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/>
-    > Anthropic called it "the strongest-performing model we've tested to date."
-  - **The Verge** — Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
-    <https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity>
-    > Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's test
-  - **The Verge AI** — Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
-    <https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity>
-    > Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's test
-  - **The Hacker News** — Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws
-    <https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html>
-    > Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's
-  - **Hacker News Best** — Claude Opus 5.5
-    <https://www.anthropic.com/claude-opus-5-5>
-    > Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 316 # Comments: 381
-  - **Hacker News Best** — Claude Opus 5.5
-    <https://www.anthropic.com/claude-opus-5-5>
-    > https://github.com/anthropics/ClaudeForFoundationModels/comm... Comments URL: https://news.ycombinator.com/item?id=49803863 Points: 272 # Comments: 2
-
-### 4. Man City and the 115 charges - key questions answered
+### 3. Man City and the 115 charges - key questions answered
 - id události: `77194b534d5f`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -120,6 +97,26 @@
   - **Guardian Sport** — Manchester City found guilty of breaking Premier League’s financial fair play rules
     <https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules>
     > City face sanctions after more than 100 rule breaches Club insists it is innocent and is expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English foo
+
+### 4. Supreme Court allows Trump to use controversial database to check voter citizenship
+- id události: `2acf05538835`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Supreme Court allows Trump to use controversial database to check voter citizenship
+    <https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss>
+    > Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.
+  - **NPR News** — The Supreme Court revives a controversial data system for citizenship checks
+    <https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting>
+    > The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.
+  - **Al Jazeera** — US top court allows Trump to use controversial voter verification system
+    <https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss>
+    > Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
+  - **CNBC Top** — Supreme Court restores Trump's mass voter verification system
+    <https://www.cnbc.com/2026/09/25/supreme-court-restores-trumps-mass-voter-verification-system.html>
+    > The Supreme Court revived an expanded immigration database the Trump admin said targets voting by noncitizens but critics say could disenfranchise voters.
+  - **France 24** — US Supreme Court allows Trump to use controversial voter 'verification' system
+    <https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry>
+    > The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity
 
 ---
 
@@ -157,7 +154,6 @@
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League
   2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live
   2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return
   2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig
@@ -177,6 +173,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups
   2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue
   2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms
+  2026-09-25  (2 zdrojů, síla 56)  Manchester City reportedly found guilty of almost 115 financial charges
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
