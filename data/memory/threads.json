@@ -2290,14 +2290,14 @@
    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
    "section": "world",
    "entities": [
-    "lithuania",
-    "pope",
-    "russian",
     "nato",
-    "macron",
+    "russian",
     "france",
-    "danish",
-    "europe"
+    "pope",
+    "macron",
+    "europe",
+    "lithuania",
+    "danish"
    ],
    "event_ids": [
     "87d62c77d066",
@@ -2306,7 +2306,8 @@
     "4f89836c1215",
     "5650625ff0c7",
     "3263aff4ed39",
-    "bfa030f1f411"
+    "bfa030f1f411",
+    "cf6d90b7d356"
    ],
    "first_seen": "2026-09-15",
    "last_seen": "2026-09-25",
@@ -2392,6 +2393,85 @@
       "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
       "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "cf6d90b7d356",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a23f76d1ffbb",
+   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+   "section": "world",
+   "entities": [
+    "openai",
+    "australian",
+    "medicare"
+   ],
+   "event_ids": [
+    "a23f76d1ffbb",
+    "90eb340ee81f",
+    "94821214578f",
+    "46e474f4f822"
+   ],
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-25",
+   "timeline": [
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
+     "sources": 5,
+     "score": 65,
+     "event_id": "a23f76d1ffbb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "What you need to know about the OpenAI Australian government hack",
+     "sources": 4,
+     "score": 70,
+     "event_id": "90eb340ee81f",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
+      "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
+     "sources": 5,
+     "score": 68,
+     "event_id": "94821214578f",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+     "sources": 2,
+     "score": 48,
+     "event_id": "46e474f4f822",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
      ]
     }
    ]
@@ -3781,61 +3861,6 @@
       "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
       "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
       "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a23f76d1ffbb",
-   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "section": "world",
-   "entities": [
-    "openai",
-    "australian",
-    "medicare"
-   ],
-   "event_ids": [
-    "a23f76d1ffbb",
-    "90eb340ee81f",
-    "94821214578f"
-   ],
-   "first_seen": "2026-09-24",
-   "last_seen": "2026-09-24",
-   "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
-     "sources": 5,
-     "score": 65,
-     "event_id": "a23f76d1ffbb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "What you need to know about the OpenAI Australian government hack",
-     "sources": 4,
-     "score": 70,
-     "event_id": "90eb340ee81f",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
-      "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
-     "sources": 5,
-     "score": 68,
-     "event_id": "94821214578f",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
      ]
     }
    ]
@@ -11475,5 +11500,5 @@
    ]
   }
  ],
- "updated": "2026-09-25T12:37:58+00:00"
+ "updated": "2026-09-25T15:27:49+00:00"
 }
