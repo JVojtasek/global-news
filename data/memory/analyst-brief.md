@@ -6,6 +6,20 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 38 dní · 60 záznamů
+- časová osa:
+  - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
+  - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
+  - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
+  - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+  - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
+  - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
+  - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
+  - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
+  - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
+  - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
+
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů
 - časová osa:
@@ -22,20 +36,6 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 36 dní · 60 záznamů
-- časová osa:
-  - **2026-09-17** (2 zdrojů) ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
-  - **2026-09-18** (2 zdrojů) London City's new training centre 'better than most Premier League clubs' - Kang
-  - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
-  - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
-  - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
-  - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
-  - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
-  - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
-  - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
-  - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
-
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 40 dní · 60 záznamů
 - časová osa:
@@ -51,11 +51,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 47 dní · 49 záznamů
+- rubrika `world` · sledováno 47 dní · 52 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) Republic of Ireland braced for testing Nations League
-  - **2026-09-22** (2 zdrojů) UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC
-  - **2026-09-23** (2 zdrojů) 'It can't be brushed over' - Republic of Ireland squad to discuss Israel games
   - **2026-09-23** (2 zdrojů) Trump's Board of Peace proposes $2.45B for reconstruction in Gaza
   - **2026-09-23** (2 zdrojů) Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
   - **2026-09-24** (2 zdrojů) Israel facing water shortages caused by destruction of Gaza’s treatment plants
@@ -63,6 +60,9 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-24** (2 zdrojů) Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
   - **2026-09-24** (2 zdrojů) Felix gives Portugal win over Wales in Nations League opener
   - **2026-09-25** (2 zdrojů) Bellamy wants more from Wales after loss to Portugal
+  - **2026-09-25** (2 zdrojů) Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
+  - **2026-09-25** (2 zdrojů) UN General Assembly: Leaders discuss AI, global conflicts
+  - **2026-09-25** (2 zdrojů) Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 

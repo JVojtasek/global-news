@@ -893,55 +893,6 @@
   ]
  },
  {
-  "id": "f49530af69f4",
-  "headline": "Iran war spreads through region as Trump seeks way out",
-  "section": "world",
-  "score": 61,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:29:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Iran war spreads through region as Trump seeks way out",
-    "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Washington, Tehran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
-    "published_at": "2026-09-22T11:29:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "First day of high-level meeting to kick off with speeches from world leaders, including from Brazil, US, Turkiye, Qatar.",
-    "published_at": "2026-09-22T12:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Macron, Trump hold 'constructive' talks ahead of UN General Assembly",
-    "url": "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly",
-    "source": "France 24",
-    "summary": "French President Emmanuel Macron said on Monday he had \"very constructive\" talks with his US counterpart Donald Trump on the conflicts in the Middle East and Ukraine as they met in New York ahead of the annual gathering of world leaders at the United Nations General Assembly. France 24’s Philip Turle takes a closer look at what came out of Macron and Trump’s bilateral meeting and what to look out ",
-    "published_at": "2026-09-22T10:23:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Live: Guterres to open UN General Assembly for the last time as secretary-general",
-    "url": "https://www.france24.com/en/americas/20260922-live-guterres-to-open-un-general-assembly-in-final-speech-of-his-mandate",
-    "source": "France 24",
-    "summary": "UN Secretary-General Antonio Guterres will open the General Assembly in New York on Tuesday for the last time before his term ends on December 31. Guterres will be followed at the podium by Brazilian President Luiz Inacio Lula da Silva, US President Donald Trump and French President Emmanuel Macron. Follow our live blog for the latest developments.",
-    "published_at": "2026-09-22T10:09:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   }
-  ]
- },
- {
   "id": "43e6847f2fa0",
   "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
   "section": "sport",
@@ -1076,6 +1027,55 @@
     "published_at": "2026-09-24T13:08:10+00:00",
     "source_countries": [],
     "seen_at": "2026-09-24T15:27:17+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bfa030f1f411",
+  "headline": "Pope Leo XIV begins four-day pilgrimage to France",
+  "section": "world",
+  "score": 58,
+  "sources_count": 2,
+  "depth_signal": 5,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T10:48:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Pope Leo XIV begins four-day pilgrimage to France",
+    "url": "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The pope has landed in Paris, where he and President Macron will navigate the rules of religious state visits in secular France. Leo's trip will mix pilgrimage and politics on questions of morality and human existence.",
+    "published_at": "2026-09-25T10:48:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "France: Pope Leo XIV begins Paris diplomacy at the Élysée",
+    "url": "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
+    "source": "France 24",
+    "summary": "Pope Leo XIV has arrived in Paris, and was welcomed at the Élysée Palace by French president Emmanuel Macron. They are having closed-door talks on international geopolitics, artificial intelligence and peace. The pontiff is then set to deliver a speech at the Élysée Palace. FRANCE 24's Luke Shrago has more.",
+    "published_at": "2026-09-25T11:10:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Pope Leo visits France: Pontiff wants to focus world's attention on peace, human dignity, technology",
+    "url": "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology",
+    "source": "France 24",
+    "summary": "Alison Sargent is pleased to welcome Andrea Antonio Verardi, Professor of Church History and Cultural Heritage at the Pontifical Gregorian University. According to Verardi, Pope Leo’s visit to France is much more than a diplomatic visit. The focus of the visit combines three key issues: the search for peace amid geopolitical instability, the challenge that artificial intelligence and technological",
+    "published_at": "2026-09-25T09:50:58+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "France: Pope Leo XIV welcomed by Macron at the Élysée",
+    "url": "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-welcomed-by-macron-at-the-%C3%A9lys%C3%A9e",
+    "source": "France 24",
+    "summary": "President Emmanuel Macron welcomed Pope Leo XIV to the Élysée Palace on Friday, 25 September, at the start of the pontiff's four-day visit to France. The Pope entered the courtyard to a ceremonial welcome, walked the red carpet, shook hands with President Macron and First Lady Brigitte Macron, before climbing the palace steps for a brief meeting at the Élysée.",
+    "published_at": "2026-09-25T09:48:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
@@ -1297,46 +1297,6 @@
   ]
  },
  {
-  "id": "d646f767c66c",
-  "headline": "What does hot weather do to the body?",
-  "section": "world",
-  "score": 53,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-06-22T13:48:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "What does hot weather do to the body?",
-    "url": "https://www.bbc.co.uk/news/articles/cy7n6m7y6yvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.",
-    "published_at": "2026-06-22T13:48:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "What does it mean to have relationship ambivalence?",
-    "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
-    "source": "Psyche",
-    "summary": "When a relationship provokes both strong positive and negative feelings in you, it can take a toll – here’s what’s going on - by Francesca Righetti Read on Psyche",
-    "published_at": "2026-09-22T10:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Trump-GCC Summit in New York: What does each side want?",
-    "url": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Trump will meet with leaders from Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait and Oman on the sidelines of UNGA.",
-    "published_at": "2026-09-22T11:33:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   }
-  ]
- },
- {
   "id": "4db723c70608",
   "headline": "Bentley unveils its first fully electric car",
   "section": "motoring",
@@ -1373,46 +1333,6 @@
     "published_at": "2026-09-23T19:33:17+00:00",
     "source_countries": [],
     "seen_at": "2026-09-23T21:24:50+00:00"
-   }
-  ]
- },
- {
-  "id": "65b1df2ad2e2",
-  "headline": "Swimming sensation Yu, 13, wins second Asian Games gold",
-  "section": "world",
-  "score": 52,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-21T12:14:36+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Swimming sensation Yu, 13, wins second Asian Games gold",
-    "url": "https://www.bbc.co.uk/sport/swimming/articles/c6dj4pn1rrppo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Thirteen-year-old swimmer Yu Zidi continues her record-breaking exploits at the Asian Games by winning gold in the 200m individual medley.",
-    "published_at": "2026-09-21T12:14:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Afghan cyclist who escaped Taliban wins Asian Games silver medal",
-    "url": "https://www.aljazeera.com/sports/2026/9/22/afghan-cyclist-who-escaped-taliban-wins-asian-games-silver-medal?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Fariba Hashimi, who used to disguise herself as a man to train in Afghanistan, finishes second in women's road race.",
-    "published_at": "2026-09-22T11:48:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final",
-    "url": "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Sri Lanka were bowled out for 69 runs, 10 less than Mandhana's belligerent match-winning innings as India retained gold.",
-    "published_at": "2026-09-22T09:12:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
    }
   ]
  },
@@ -2362,6 +2282,68 @@
   ]
  },
  {
+  "id": "7dafbb394886",
+  "headline": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+  "section": "world",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T10:25:03+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+    "url": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+    "source": "NPR News",
+    "summary": "Middle East crises in focus as U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
+    "published_at": "2026-09-25T10:25:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The US-Israel war on Iran will continue to be a focus as the UNGA enters its fourth day.",
+    "published_at": "2026-09-25T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8b1ba443ae92",
+  "headline": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+  "section": "business",
+  "score": 46,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T10:35:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+    "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+    "source": "The Hacker News",
+    "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
+    "published_at": "2026-09-25T10:35:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+    "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+    "source": "CNBC Top",
+    "summary": "",
+    "published_at": "2026-09-25T06:13:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
   "id": "6b98ebf62ad7",
   "headline": "Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?",
   "section": "world",
@@ -2628,33 +2610,33 @@
   ]
  },
  {
-  "id": "8db67a4124fb",
-  "headline": "'Swan Song': New book by Princess Diana's brother drops",
+  "id": "161825ca64ca",
+  "headline": "Daniel Thomas pleads not guilty after alleged dinghy slashing in Channel",
   "section": "world",
-  "score": 44,
+  "score": 45,
   "sources_count": 2,
   "depth_signal": 2,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T08:36:00+00:00",
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T11:50:06+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "'Swan Song': New book by Princess Diana's brother drops",
-    "url": "https://www.dw.com/en/swan-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A memoir penned by Charles Spencer on his older sister's life has been released, opening old royal wounds nearly three decades after Princess Diana's death.",
-    "published_at": "2026-09-22T08:36:00+00:00",
+    "title": "Daniel Thomas pleads not guilty after alleged dinghy slashing in Channel",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/25/daniel-thomas-court-charged-criminal-damage-dinghy-channel",
+    "source": "The Guardian World",
+    "summary": "Far-right activist who was filmed appearing to slash boat with blade is refused bail as he denies charges The far-right agitator Daniel Thomas has denied causing criminal damage after he was filmed appearing to slash a boat in the Channel with a blade, while an emergency responder was onboard. Thomas, 37, appeared at Basingstoke magistrates court on Friday morning. He also pleaded not guilty to no",
+    "published_at": "2026-09-25T11:50:06+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
    },
    {
-    "title": "New book by Princess Diana's brother sparks royal ruckus",
-    "url": "https://www.france24.com/en/video/20260922-new-book-by-princess-diana-s-brother-sparks-royal-ruckus",
-    "source": "France 24",
-    "summary": "A new book published Tuesday by the brother of the late Princess Diana has made headlines around the world with its damning allegations about Diana's ex-husband, now King Charles III, and reopened decades-old wounds within Britain's royal family. France 24's correspondent in London Benedicte Paviot has the details.",
-    "published_at": "2026-09-22T12:09:57+00:00",
+    "title": "Protests in UK after arrest of far-right activist Daniel Thomas",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/protests-in-uk-after-arrest-of-far-right-activist-daniel-thomas?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Protesters gathered outside a police station in southern England after far-right activist Daniel Thomas.",
+    "published_at": "2026-09-25T11:49:24+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
@@ -3541,37 +3523,6 @@
   ]
  },
  {
-  "id": "44a648a1bb6f",
-  "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T10:44:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-    "url": "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
-    "source": "France 24",
-    "summary": "A British tanker plane will provide \"defensive\" air-to-air refuelling for Saudi warplanes to help the country defend against Houthi strikes, the UK government confirmed late Monday. The show of solidarity follows a Saudi request for military support after the Houthis increased drone and missile attacks on it in recent weeks alongside a lightning offensive to capture Yemen's Red Sea coast.",
-    "published_at": "2026-09-22T10:44:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Swvl launches 24/7 shuttle service in Madinah, Saudi Arabia",
-    "url": "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-09-22T12:04:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   }
-  ]
- },
- {
   "id": "5351140b97ac",
   "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
   "section": "sport",
@@ -4298,33 +4249,126 @@
   ]
  },
  {
-  "id": "2d8d15ed5868",
-  "headline": "Arteta agrees new deal with Premier League champions Arsenal",
-  "section": "sport",
-  "score": 41,
+  "id": "a9ce1756d96e",
+  "headline": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+  "section": "world",
+  "score": 42,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:48:23+00:00",
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T11:18:52+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Arteta agrees new deal with Premier League champions Arsenal",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-    "published_at": "2026-09-22T11:48:23+00:00",
+    "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+    "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+    "source": "NPR News",
+    "summary": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+    "published_at": "2026-09-25T11:18:52+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
    },
    {
-    "title": "Arteta agrees new deal with champions Arsenal",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
-    "published_at": "2026-09-22T11:48:23+00:00",
+    "title": "UNGA Day 4: Lebanese on deck after defiant Netanyahu speech",
+    "url": "https://www.dw.com/en/unga-day-4-lebanese-on-deck-after-defiant-netanyahu-speech/live-79366211?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "A day after a divisive speech by Israeli Prime Minister Netanyahu, the prime minister of Lebanon will address the UN General Assembly. Leaders from Pakistan and Iraq are also set to speak on the meeting's 4th day.",
+    "published_at": "2026-09-24T19:11:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "df28328dc599",
+  "headline": "Premier League joins call for Fifa reforms",
+  "section": "sport",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T11:53:25+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Premier League joins call for Fifa reforms",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "The Premier League joins three of its top European counterparts in calling for \"fundamental\" reform of the way that world football's governing body Fifa is run.",
+    "published_at": "2026-09-25T11:53:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan",
+    "url": "https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Europe's top leagues, from England, Spain, Italy and Germany, add pressure on Gianni Infantino after World Cup plan.",
+    "published_at": "2026-09-25T10:00:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e676fab717ff",
+  "headline": "Top European leagues demand FIFA reforms, piling pressure on Infantino",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T10:12:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Top European leagues demand FIFA reforms, piling pressure on Infantino",
+    "url": "https://www.france24.com/en/sport/20260925-english-spanish-italian-german-football-leagues-call-for-fifa-reform",
+    "source": "France 24",
+    "summary": "FIFA president Gianni Infantino came under increased pressure Friday as Europe's four main football leagues called for sweeping reforms of the world football governing body. The English Premier League, Spain's La Liga, Italy's Serie A and Germany's Bundesliga demanded that measures are adopted to ensure \"disciplinary matters remain demonstrably insulated from political interference\".",
+    "published_at": "2026-09-25T10:12:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Top European leagues heighten pressure on Infantino with call for major changes at Fifa",
+    "url": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a",
+    "source": "Guardian Sport",
+    "summary": "Four leagues says Fifa governance ‘not fit for purpose’ They criticise ‘expansionism’ and want more input The Premier League has joined forces with La Liga, Serie A and the Bundesliga to call for urgent governance reform at Fifa after the World Cup sell-off debacle (FFE) as Gianni Infantino prepares to seek a fourth term as president. Their strongly worded statement is the latest indication that I",
+    "published_at": "2026-09-25T09:28:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7ebd7eb2a09f",
+  "headline": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+  "section": "business",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T09:48:33+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+    "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+    "published_at": "2026-09-25T09:48:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+    "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+    "published_at": "2026-09-25T09:48:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
@@ -4648,37 +4692,6 @@
     "published_at": "2026-09-24T19:01:33+00:00",
     "source_countries": [],
     "seen_at": "2026-09-24T21:24:30+00:00"
-   }
-  ]
- },
- {
-  "id": "7631f04a7d9f",
-  "headline": "Can you take the 'London' out of London Fashion Week?",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T09:27:28+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Can you take the 'London' out of London Fashion Week?",
-    "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-    "published_at": "2026-09-22T09:27:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Can you take the 'London' out of London Fashion Week?",
-    "url": "https://www.bbc.co.uk/news/articles/cklyjz20pd22o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "An initiative to show that LFW is \"bigger than London\" launched this year - but will it make a difference?",
-    "published_at": "2026-09-22T09:27:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
    }
   ]
  },
@@ -5590,24 +5603,33 @@
   ]
  },
  {
-  "id": "b3cca63e7960",
-  "headline": "Workers Extracting Gravel From the Danube River Dredged Up a 2,200-Year-Old ‘Rusty Treasure’ That Could Have Equipped an Army",
-  "section": "culture",
-  "score": 39,
-  "sources_count": 1,
+  "id": "378cc2da2a38",
+  "headline": "David Beckham takes £39m dividend as World Cup deals drive record profits",
+  "section": "business",
+  "score": 40,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T12:00:00+00:00",
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T10:27:15+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Workers Extracting Gravel From the Danube River Dredged Up a 2,200-Year-Old ‘Rusty Treasure’ That Could Have Equipped an Army",
-    "url": "https://www.smithsonianmag.com/smart-news/workers-excavating-gravel-from-the-danube-river-dredged-up-a-2200-year-old-rusty-treasure-that-could-have-equipped-an-army-180989542/",
-    "source": "Smithsonian Mag",
-    "summary": "The cache comprises the remains of at least 500 iron bars, which were likely headed downstream to be forged into finished products",
-    "published_at": "2026-09-22T12:00:00+00:00",
+    "title": "David Beckham takes £39m dividend as World Cup deals drive record profits",
+    "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits",
+    "source": "Guardian Business",
+    "summary": "Former footballer appeared in about 12 ad campaigns this summer, pushing holding company’s revenue to $110.5m Business live – latest updates David Beckham has taken a $51m (£39m) dividend from his business empire after a series of deals with brands for the Fifa World Cup. Beckham appeared in about a dozen ad campaigns across this summer’s tournament in the US, working with brands including Lenovo,",
+    "published_at": "2026-09-25T10:27:15+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "David Beckham takes £39m dividend as World Cup deals drive record profits",
+    "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits",
+    "source": "Guardian Sport",
+    "summary": "Former footballer appeared in about 12 ad campaigns this summer, pushing holding company’s revenue to $110.5m Business live – latest updates David Beckham has taken a $51m (£39m) dividend from his business empire after a series of deals with brands for the Fifa World Cup. Beckham appeared in about a dozen ad campaigns across this summer’s tournament in the US, working with brands including Lenovo,",
+    "published_at": "2026-09-25T10:27:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
@@ -6107,33 +6129,42 @@
   ]
  },
  {
-  "id": "6a277a6df458",
-  "headline": "EU spends three times more on imports from China than bloc exports there",
+  "id": "0ab732df9ed8",
+  "headline": "Ethiopia: what's driving the renewed violence in Tigray?",
   "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:54:08+00:00",
+  "score": 39,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T11:15:52+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "EU spends three times more on imports from China than bloc exports there",
-    "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-    "source": "The Guardian World",
-    "summary": "Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald Trump Business live – latest updates Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown. Customs data showed the gap between the EU’s imports from China and exports to China, the trad",
-    "published_at": "2026-09-22T11:54:08+00:00",
+    "title": "Ethiopia: what's driving the renewed violence in Tigray?",
+    "url": "https://www.france24.com/en/ethiopia-what-s-driving-the-renewed-violence-in-tigray",
+    "source": "France 24",
+    "summary": "Tigray's rebel authorities say they are now in a \"full-blown war\" with the Ethiopian government, as fighting spreads into the neighbouring Amhara and Afar regions. Ethiopia's federal army says 272 rebels were killed and 260 wounded in the north, while FRANCE 24 spoke to Jervin Naidoo, Political Analyst at Oxford Economics Africa, to assess the seriousness of the escalation and explain what is driv",
+    "published_at": "2026-09-25T11:15:52+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
    },
    {
-    "title": "EU spends three times more on imports from China than bloc exports there",
-    "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-    "source": "Guardian Business",
-    "summary": "Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald Trump Business live – latest updates Consumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has shown. Customs data showed the gap between the EU’s imports from China and exports to China, the trad",
-    "published_at": "2026-09-22T11:54:08+00:00",
+    "title": "Ethiopia: Tigray rebels claim \"full-blown war\"",
+    "url": "https://www.france24.com/en/ethiopia-tigray-rebels-claim-full-blown-war",
+    "source": "France 24",
+    "summary": "The Tigray People's Liberation Front says it is in a \"full-blown war\" with Ethiopia's federal government after seizing key airports and launching attacks into the neighbouring Amhara and Afar regions. The escalation comes days after the TPLF joined six other armed groups in a new alliance against the government, raising fears of a return to the devastating 2020-2022 conflict that killed at least 6",
+    "published_at": "2026-09-25T11:13:48+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Ethiopia: renewed Tigray fighting raises fears of return to civil war",
+    "url": "https://www.france24.com/en/ethiopia-renewed-tigray-fighting-raises-fears-of-return-to-civil-war",
+    "source": "France 24",
+    "summary": "Fears are mounting that Ethiopia could be sliding back towards civil war as fighting intensifies in the north, with the army saying it killed 272 TPLF fighters in Amhara while the rebels describe the conflict as a \"full-blown war.\" The escalation comes after the TPLF joined a new alliance with six other armed groups. FRANCE 24's Tom Canetti has the latest from the ground.",
+    "published_at": "2026-09-25T11:12:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
@@ -7024,6 +7055,68 @@
   ]
  },
  {
+  "id": "769f7e721066",
+  "headline": "Jay-Z rape accuser says her allegation was false",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T10:51:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jay-Z rape accuser says her allegation was false",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
+    "published_at": "2026-09-25T10:51:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Jay-Z rape accuser says her allegation was false",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
+    "published_at": "2026-09-25T10:51:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d81ce5088d72",
+  "headline": "Britain’s low-paid urged to sign up to savings scheme offering cash bonus",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T11:00:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Britain’s low-paid urged to sign up to savings scheme offering cash bonus",
+    "url": "https://www.theguardian.com/money/2026/sep/25/britain-low-paid-help-to-save-savings-scheme-cash-bonus",
+    "source": "The Guardian World",
+    "summary": "Government-backed help to save is aimed at working people on universal credit and pays 50p for every £1 saved over four years Amid claims that millions are missing out, the UK government is encouraging low earners to sign up to a savings scheme that offers free cash. Help to save is a government-backed savings account that lets people earn a bonus of 50p for every £1 they save over four years. Con",
+    "published_at": "2026-09-25T11:00:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Britain’s low-paid urged to sign up to savings scheme offering cash bonus",
+    "url": "https://www.theguardian.com/money/2026/sep/25/britain-low-paid-help-to-save-savings-scheme-cash-bonus",
+    "source": "Guardian Business",
+    "summary": "Government-backed help to save is aimed at working people on universal credit and pays 50p for every £1 saved over four years Amid claims that millions are missing out, the UK government is encouraging low earners to sign up to a savings scheme that offers free cash. Help to save is a government-backed savings account that lets people earn a bonus of 50p for every £1 they save over four years. Con",
+    "published_at": "2026-09-25T11:00:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
   "id": "777be909ff64",
   "headline": "NASA-Funded Research Finds Complex Life Defying Record Heat",
   "section": "science",
@@ -7492,64 +7585,46 @@
   ]
  },
  {
-  "id": "51d4ae7b470f",
-  "headline": "Don’t be fooled by this summer of AI hype",
-  "section": "ai",
-  "score": 36,
-  "sources_count": 2,
+  "id": "1b4eb990808f",
+  "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Apple, Tesla, Meta, AMD, BP, Costco, Nike & more",
+  "section": "business",
+  "score": 37,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:04:51+00:00",
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T12:33:05+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Don’t be fooled by this summer of AI hype",
-    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "source": "MIT TR — AI",
-    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
-    "published_at": "2026-09-22T11:04:51+00:00",
+    "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Apple, Tesla, Meta, AMD, BP, Costco, Nike & more",
+    "url": "https://www.cnbc.com/2026/09/25/biggest-wall-street-analyst-calls-friday.html",
+    "source": "CNBC Top",
+    "summary": "Here are Friday's biggest calls on Wall Street.",
+    "published_at": "2026-09-25T12:33:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Don’t be fooled by this summer of AI hype",
-    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "source": "MIT Tech Review",
-    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
-    "published_at": "2026-09-22T11:04:51+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
  {
-  "id": "6ab491a44d13",
-  "headline": "Meta patches Muse exploit that let attackers control the AI agent",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 2,
+  "id": "cd9e288e9f33",
+  "headline": "See a Stunning Collection of Stolen Greek Artifacts, Spanning 5,000 Years, That Were Just Returned to Greece",
+  "section": "culture",
+  "score": 37,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:53:58+00:00",
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T12:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Meta patches Muse exploit that let attackers control the AI agent",
-    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "source": "The Verge",
-    "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers […]",
-    "published_at": "2026-09-22T11:53:58+00:00",
+    "title": "See a Stunning Collection of Stolen Greek Artifacts, Spanning 5,000 Years, That Were Just Returned to Greece",
+    "url": "https://www.smithsonianmag.com/smart-news/see-a-stunning-collection-of-stolen-greek-artifacts-spanning-5000-years-that-were-just-returned-to-greece-180989566/",
+    "source": "Smithsonian Mag",
+    "summary": "The antiquities were seized at the Metropolitan Museum of Art by investigators from the office of Manhattan District Attorney Alvin L. Bragg Jr.",
+    "published_at": "2026-09-25T12:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
-   },
-   {
-    "title": "Meta patches Muse exploit that let attackers control the AI agent",
-    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "source": "The Verge AI",
-    "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers […]",
-    "published_at": "2026-09-22T11:53:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
@@ -8477,46 +8552,86 @@
   ]
  },
  {
-  "id": "c1d745ce8e15",
-  "headline": "British man missing after diving into Lake Como to rescue teenager",
-  "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T11:44:34+00:00",
+  "id": "c9b6dd7b22a4",
+  "headline": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+  "section": "tech",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T12:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "British man missing after diving into Lake Como to rescue teenager",
-    "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The man had jumped in to save a father and son in difficulty in the water, local officials say.",
-    "published_at": "2026-09-22T11:44:34+00:00",
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "source": "The Verge",
+    "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]",
+    "published_at": "2026-09-25T12:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "source": "The Verge AI",
+    "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]",
+    "published_at": "2026-09-25T12:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
  {
-  "id": "2d7670d74529",
-  "headline": "Here are Tuesday's biggest analyst calls: Nvidia, Netflix, Broadcom, SanDisk, Meta, CoreWeave & more",
-  "section": "business",
-  "score": 35,
-  "sources_count": 1,
+  "id": "fe645890e241",
+  "headline": "Stem cells reverse stroke damage and restore movement in mice",
+  "section": "health",
+  "score": 36,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-22T12:36:24+00:00",
-  "event_time": "2026-09-22T12:34:09+00:00",
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-22T01:49:32+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Here are Tuesday's biggest analyst calls: Nvidia, Netflix, Broadcom, SanDisk, Meta, CoreWeave & more",
-    "url": "https://www.cnbc.com/2026/09/22/big-wall-street-analyst-calls-tuesday.html",
-    "source": "CNBC Top",
-    "summary": "Here are Tuesday's biggest calls on Wall Street.",
-    "published_at": "2026-09-22T12:34:09+00:00",
+    "title": "Stem cells reverse stroke damage and restore movement in mice",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+    "source": "ScienceDaily",
+    "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
+    "published_at": "2026-09-22T01:49:32+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-22T12:36:21+00:00"
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   },
+   {
+    "title": "Stem cells reverse stroke damage and restore movement in mice",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.",
+    "published_at": "2026-09-22T01:49:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "183c698c5788",
+  "headline": "NASA’s Machines for Mars Make Beer Bubbly",
+  "section": "science",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-24T16:41:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NASA’s Machines for Mars Make Beer Bubbly",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+    "source": "NASA",
+    "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+    "published_at": "2026-09-24T16:41:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
    }
   ]
  },
@@ -9032,6 +9147,94 @@
   ]
  },
  {
+  "id": "4a643854a480",
+  "headline": "Polanski heckled at Jewish community hustings after saying that Zionism is a form of racism – UK politics live",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T12:21:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Polanski heckled at Jewish community hustings after saying that Zionism is a form of racism – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
+    "source": "The Guardian World",
+    "summary": "The Green leader, who is Jewish, made the remarks as part of his campaign in the Holborn and St Pancras byelection The communications and governance director of Glasgow city council has said it was in a “hellish situation” as he blamed Unison for a decision to force workers onto new contracts, which involves the fire and rehire 23,000 workers across the city and about 11% of staff seeing their wag",
+    "published_at": "2026-09-25T12:21:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1d2ded91ecc5",
+  "headline": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T11:37:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
+    "url": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
+    "published_at": "2026-09-25T11:37:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "71ac5d0cd287",
+  "headline": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+  "section": "science",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-23T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "url": "https://www.nature.com/articles/s41586-026-11189-w",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11189-w Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+    "published_at": "2026-09-23T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6ff6436b2ead",
+  "headline": "These 15 Wonderful Photographs of Kenya’s World-Class Wildlife Will Have You Booking a Flight to the Savanna",
+  "section": "culture",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-25T12:37:58+00:00",
+  "event_time": "2026-09-25T11:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "These 15 Wonderful Photographs of Kenya’s World-Class Wildlife Will Have You Booking a Flight to the Savanna",
+    "url": "https://www.smithsonianmag.com/travel/these-15-wonderful-photographs-of-kenyas-world-class-wildlife-will-have-you-booking-a-flight-to-the-savanna-180989558/",
+    "source": "Smithsonian Mag",
+    "summary": "The East African nation is home to a number of conservation parks where its impressive animals roam free",
+    "published_at": "2026-09-25T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-25T12:37:42+00:00"
+   }
+  ]
+ },
+ {
   "id": "27aa0ba1a2a5",
   "headline": "Pakistan jails sisters of Imran Khan before protest seeking his release",
   "section": "world",
@@ -9182,182 +9385,6 @@
     "published_at": "2026-09-25T05:00:41+00:00",
     "source_countries": [],
     "seen_at": "2026-09-25T06:42:16+00:00"
-   }
-  ]
- },
- {
-  "id": "3ef2cfc8707f",
-  "headline": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
-  "section": "science",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-25T06:42:31+00:00",
-  "event_time": "2026-09-24T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers",
-    "url": "https://www.nature.com/articles/d41586-026-03020-3",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03020-3 Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens.",
-    "published_at": "2026-09-24T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T06:42:16+00:00"
-   }
-  ]
- },
- {
-  "id": "3e0176d9283d",
-  "headline": "British rapper Yung Filly to face rape retrial in Australia next June",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-25T06:42:31+00:00",
-  "event_time": "2026-09-25T04:02:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "British rapper Yung Filly to face rape retrial in Australia next June",
-    "url": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
-    "published_at": "2026-09-25T04:02:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T06:42:16+00:00"
-   }
-  ]
- },
- {
-  "id": "66ffa3884e02",
-  "headline": "Kindness of strangers: When we were lost in the Thai rainforest, a fellow backpacker picked me up and carried me home",
-  "section": "travel",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-25T06:42:31+00:00",
-  "event_time": "2026-08-02T15:00:26+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Kindness of strangers: When we were lost in the Thai rainforest, a fellow backpacker picked me up and carried me home",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/03/kindness-of-strangers-lost-in-the-thai-rainforest-a-fellow-backpacker-picked-me-up-and-carried-me-home",
-    "source": "Guardian Travel",
-    "summary": "For hours we hobbled back, until we were close enough for him to place me down and run for help Read more in the kindness of strangers series We had heard there was an incredible waterfall somewhere deep in the Thai rainforest. Seeking it out almost killed me. In 2003 I was travelling solo through south-east Asia when I met Paul, an American with an easy-going, natural warmth. We were the only two",
-    "published_at": "2026-08-02T15:00:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T06:42:16+00:00"
-   }
-  ]
- },
- {
-  "id": "fedcce19e7d4",
-  "headline": "Chess: Uzbekistan and Germany share Samarkand lead; 11-year-old Sivanandan shines",
-  "section": "sport",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-25T09:30:04+00:00",
-  "event_time": "2026-09-25T07:00:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Chess: Uzbekistan and Germany share Samarkand lead; 11-year-old Sivanandan shines",
-    "url": "https://www.theguardian.com/sport/2026/sep/25/chess-uzbekistan-and-germany-share-samarkand-lead-11-year-old-sivanandan-shines",
-    "source": "Guardian Sport",
-    "summary": "The Uzbeks, including world championship challenger Javokhir Sindarov, won their first seven matches before a surprise loss to Germany After eight of the 11 rounds in the 400-team Olympiad in Samarkand, the host team Uzbekistan share the lead in the race for the gold medals, despite a round eight loss to co-leaders Germany and scope for more upsets in the remaining three rounds. England have lost ",
-    "published_at": "2026-09-25T07:00:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T09:29:48+00:00"
-   }
-  ]
- },
- {
-  "id": "e89c46c50c00",
-  "headline": "India news: Elections 'rigged,' allege Rahul Gandhi and Cockroach party",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-25T09:30:04+00:00",
-  "event_time": "2026-09-25T08:53:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "India news: Elections 'rigged,' allege Rahul Gandhi and Cockroach party",
-    "url": "https://www.dw.com/en/india-news-elections-rigged-allege-rahul-gandhi-and-cockroach-party/live-79422469?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The Cockroach party has urged India's opposition parties to stop contesting what it calls \"rigged\" elections and threatened nationwide protests over the Election Commission's voter-list revision. DW has more.",
-    "published_at": "2026-09-25T08:53:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T09:29:48+00:00"
-   }
-  ]
- },
- {
-  "id": "aff7678dbcd2",
-  "headline": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-25T09:30:04+00:00",
-  "event_time": "2026-09-25T07:09:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
-    "url": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html",
-    "source": "CNBC Top",
-    "summary": "Months after its Gen Z protest rattled the Modi government, India's viral youth movement, the Cockroach Party, is demanding the top election official steps down.",
-    "published_at": "2026-09-25T07:09:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T09:29:48+00:00"
-   }
-  ]
- },
- {
-  "id": "75e24c0ec1af",
-  "headline": "Havertz injury latest; Haaland fires Norway to victory; England v Spain buildup: football news – live",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-25T09:30:04+00:00",
-  "event_time": "2026-09-25T09:15:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Havertz injury latest; Haaland fires Norway to victory; England v Spain buildup: football news – live",
-    "url": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-    "source": "Guardian Sport",
-    "summary": "⚽ All the latest heading in to the weekend’s action ⚽ De la Fuente wants more from Spain | Mail Sarah One of the best players in the world right now is Raphinha and Sid Lowe sat down with him about life at Barca, read here: The Premier League may be on an international break but there are some English domestic games happening this weekend in the Women’s Super League. There are some big matches too",
-    "published_at": "2026-09-25T09:15:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T09:29:48+00:00"
-   }
-  ]
- },
- {
-  "id": "f174898f8d3b",
-  "headline": "China’s GoPro rival Insta360 opens first US flagship store in New York’s Times Square",
-  "section": "ai",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-25T09:30:04+00:00",
-  "event_time": "2026-09-19T12:00:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "China’s GoPro rival Insta360 opens first US flagship store in New York’s Times Square",
-    "url": "https://www.scmp.com/tech/tech-trends/article/3368101/chinas-gopro-rival-insta360-opens-first-us-flagship-store-new-yorks-times-square?utm_source=rss_feed",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Chinese action camera maker Insta360 is deepening its US footprint with a flagship store opening in New York as it navigates escalating price competition with DJI and industry-wide memory cost pressures. The Chinese GoPro rival was slated to plant its flag in the heart of Times Square with its first flagship retail store in the US on Saturday, a marquee launch as the firm looked to “leap to the ne",
-    "published_at": "2026-09-19T12:00:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-25T09:29:48+00:00"
    }
   ]
  }

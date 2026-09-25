@@ -122,9 +122,9 @@
 ### why relationships fail
 - rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
@@ -144,7 +144,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League
+  2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live
+  2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return
+  2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig
+  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign
+  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups
+  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live
+  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?
+  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?
+  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
+  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang
+  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups
+  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live
+  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
+  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
+  2026-09-22  (2 zdrojů, síla 41)  Arteta agrees new deal with Premier League champions Arsenal
+  2026-09-22  (3 zdrojů, síla 52)  'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
+  2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups
+  2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue
+  2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms
+```
+
+### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
 - id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -171,35 +200,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
   2026-09-23  (2 zdrojů, síla 40)  US envoy walks out on Pezeshkian UN speech slamming war on Iran
   2026-09-24  (2 zdrojů, síla 46)  Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
-```
-
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-10  (2 zdrojů, síla 41)  ‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League
-  2026-09-10  (3 zdrojů, síla 58)  Europe's next great coach? How Fabregas led Como into Champions League
-  2026-09-10  (2 zdrojů, síla 46)  Manchester United v Sabah: Champions League – live
-  2026-09-10  (2 zdrojů, síla 43)  Man United put four past Sabah on Champions League return
-  2026-09-11  (4 zdrojů, síla 68)  Champions League new boys Como dominate Leipzig
-  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign
-  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups
-  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live
-  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?
-  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?
-  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
-  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang
-  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups
-  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live
-  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
-  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
-  2026-09-22  (2 zdrojů, síla 41)  Arteta agrees new deal with Premier League champions Arsenal
-  2026-09-22  (3 zdrojů, síla 52)  'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
-  2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups
-  2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue
 ```
 
 ---
