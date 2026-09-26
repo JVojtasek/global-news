@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-26",
+  "slug": "can-you-keep-mass-and-weight-apart",
+  "category": "science",
+  "mode": "knowledge",
+  "diagnostic": false,
+  "title": {
+    "en": "Can you keep mass and weight apart?",
+    "cs": "Dokážete rozlišit hmotnost a tíhu?"
+  },
+  "description": {
+    "en": "Eight original questions about mass, gravitational force, units and free fall.",
+    "cs": "Osm původních otázek o hmotnosti, gravitační síle, jednotkách a volném pádu."
+  },
+  "instructions": {
+    "en": "Choose the best answer. Each explanation separates an object's mass from the gravitational force acting on it.",
+    "cs": "Vyberte nejlepší odpověď. Každé vysvětlení odlišuje hmotnost tělesa od gravitační síly, která na něj působí."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": {"en": "An astronaut has a mass of 75 kg on Earth. Ignoring carried equipment, what is the astronaut's mass on the Moon?", "cs": "Astronaut má na Zemi hmotnost 75 kg. Pomineme-li nesené vybavení, jakou hmotnost má na Měsíci?"},
+      "options": [
+        {"text": {"en": "About 12.5 kg", "cs": "Asi 12,5 kg"}, "correct": false},
+        {"text": {"en": "75 kg", "cs": "75 kg"}, "correct": true},
+        {"text": {"en": "About 450 kg", "cs": "Asi 450 kg"}, "correct": false}
+      ],
+      "explanation": {"en": "Mass is an intrinsic property and remains 75 kg. The astronaut's weight is smaller because lunar gravity is weaker.", "cs": "Hmotnost je vlastní vlastnost tělesa a zůstává 75 kg. Astronautova tíha je menší, protože měsíční gravitace je slabší."}
+    },
+    {
+      "id": "q2",
+      "prompt": {"en": "Which equation expresses weight near the surface of a world?", "cs": "Která rovnice vyjadřuje tíhu poblíž povrchu kosmického tělesa?"},
+      "options": [
+        {"text": {"en": "W = m × g", "cs": "W = m × g"}, "correct": true},
+        {"text": {"en": "W = m ÷ time", "cs": "W = m ÷ čas"}, "correct": false},
+        {"text": {"en": "W = volume × temperature", "cs": "W = objem × teplota"}, "correct": false}
+      ],
+      "explanation": {"en": "Weight W is a force equal to mass m multiplied by local gravitational acceleration g.", "cs": "Tíha W je síla rovná součinu hmotnosti m a místního gravitačního zrychlení g."}
+    },
+    {
+      "id": "q3",
+      "prompt": {"en": "Which pairing uses SI units correctly?", "cs": "Která dvojice správně používá jednotky SI?"},
+      "options": [
+        {"text": {"en": "Mass in newtons; weight in kilograms", "cs": "Hmotnost v newtonech; tíha v kilogramech"}, "correct": false},
+        {"text": {"en": "Both mass and weight in kilograms", "cs": "Hmotnost i tíha v kilogramech"}, "correct": false},
+        {"text": {"en": "Mass in kilograms; weight in newtons", "cs": "Hmotnost v kilogramech; tíha v newtonech"}, "correct": true}
+      ],
+      "explanation": {"en": "The kilogram is the SI unit of mass. Weight is a force, so its SI unit is the newton.", "cs": "Kilogram je jednotka SI pro hmotnost. Tíha je síla, proto je její jednotkou SI newton."}
+    },
+    {
+      "id": "q4",
+      "prompt": {"en": "Why do astronauts in an orbiting spacecraft appear weightless?", "cs": "Proč astronauti na oběžné dráze vypadají beztížně?"},
+      "options": [
+        {"text": {"en": "Their mass temporarily becomes zero", "cs": "Jejich hmotnost se dočasně stane nulovou"}, "correct": false},
+        {"text": {"en": "The spacecraft and astronauts are continuously falling together", "cs": "Kosmická loď i astronauti společně nepřetržitě padají"}, "correct": true},
+        {"text": {"en": "Earth's gravity ends at the atmosphere", "cs": "Zemská gravitace končí na hranici atmosféry"}, "correct": false}
+      ],
+      "explanation": {"en": "Gravity still acts in orbit. The crew and spacecraft share continuous free fall, so there is little support force between them.", "cs": "Gravitace působí i na oběžné dráze. Posádka a loď společně volně padají, takže mezi nimi téměř nepůsobí podpůrná síla."}
+    },
+    {
+      "id": "q5",
+      "prompt": {"en": "A person stands on a scale in a lift that starts accelerating upward. What changes at that moment?", "cs": "Člověk stojí na váze ve výtahu, který začne zrychlovat vzhůru. Co se v tom okamžiku změní?"},
+      "options": [
+        {"text": {"en": "The person's mass increases", "cs": "Hmotnost člověka se zvětší"}, "correct": false},
+        {"text": {"en": "The scale's support force increases while mass stays the same", "cs": "Podpůrná síla váhy se zvětší, ale hmotnost zůstane stejná"}, "correct": true},
+        {"text": {"en": "Gravity switches off", "cs": "Gravitace se vypne"}, "correct": false}
+      ],
+      "explanation": {"en": "The scale reads support force, sometimes called apparent weight. Upward acceleration raises that force without changing mass.", "cs": "Váha měří podpůrnou sílu, někdy označovanou jako zdánlivá tíha. Zrychlení vzhůru tuto sílu zvětší, aniž změní hmotnost."}
+    },
+    {
+      "id": "q6",
+      "prompt": {"en": "The same suitcase hangs from an ideal spring scale on Earth and then on the Moon. What should the scale show on the Moon?", "cs": "Stejný kufr visí na ideálním pružinovém siloměru na Zemi a potom na Měsíci. Co ukáže na Měsíci?"},
+      "options": [
+        {"text": {"en": "A smaller force", "cs": "Menší sílu"}, "correct": true},
+        {"text": {"en": "The same force because the mass is unchanged", "cs": "Stejnou sílu, protože hmotnost se nezměnila"}, "correct": false},
+        {"text": {"en": "A larger force", "cs": "Větší sílu"}, "correct": false}
+      ],
+      "explanation": {"en": "A spring scale responds to force. Lunar gravitational acceleration is about one-sixth of Earth's, so the suitcase weighs less there.", "cs": "Pružinový siloměr reaguje na sílu. Měsíční gravitační zrychlení je asi šestinové oproti Zemi, takže kufr tam má menší tíhu."}
+    },
+    {
+      "id": "q7",
+      "prompt": {"en": "Which property best describes an object's resistance to acceleration?", "cs": "Která vlastnost nejlépe popisuje odpor tělesa vůči zrychlení?"},
+      "options": [
+        {"text": {"en": "Mass", "cs": "Hmotnost"}, "correct": true},
+        {"text": {"en": "Weight alone", "cs": "Pouze tíha"}, "correct": false},
+        {"text": {"en": "Altitude", "cs": "Nadmořská výška"}, "correct": false}
+      ],
+      "explanation": {"en": "Inertial mass measures resistance to acceleration. Moving the object to a place with weaker gravity changes its weight, not that inertia.", "cs": "Setrvačná hmotnost vyjadřuje odpor vůči zrychlení. Přesun do místa se slabší gravitací změní tíhu, nikoli tuto setrvačnost."}
+    },
+    {
+      "id": "q8",
+      "prompt": {"en": "A headline says an object would 'weigh one-sixth as much' on the Moon. What is the careful interpretation?", "cs": "Titulek říká, že těleso by na Měsíci „vážilo šestkrát méně“. Jaký je přesný výklad?"},
+      "options": [
+        {"text": {"en": "Its amount of matter disappears by five-sixths", "cs": "Pět šestin jeho látky zmizí"}, "correct": false},
+        {"text": {"en": "Its mass and gravitational force both fall by five-sixths", "cs": "Hmotnost i gravitační síla klesnou o pět šestin"}, "correct": false},
+        {"text": {"en": "Its gravitational force is about one-sixth, while its mass is unchanged", "cs": "Gravitační síla je asi šestinová, zatímco hmotnost se nemění"}, "correct": true}
+      ],
+      "explanation": {"en": "Everyday 'weigh' can blur mass and force. Physically, the Moon changes the gravitational force on the object, not its mass.", "cs": "Běžné slovo „vážit“ může směšovat hmotnost a sílu. Z fyzikálního hlediska Měsíc mění gravitační sílu působící na těleso, nikoli jeho hmotnost."}
+    }
+  ],
+  "scoring": {
+    "method": "sum_correct",
+    "min": 0,
+    "max": 8
+  },
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 2,
+      "title": {"en": "Rebuild the distinction", "cs": "Obnovte základní rozlišení"},
+      "summary": {"en": "The answers suggest that everyday language is still blending mass with gravitational force. Review kilograms versus newtons, then retry the Earth–Moon examples; this is a learning snapshot, not a measure of scientific ability.", "cs": "Odpovědi naznačují, že běžný jazyk zatím směšuje hmotnost s gravitační silou. Zopakujte si kilogramy a newtony a pak zkuste znovu příklady Země–Měsíc; jde o okamžitý obraz učení, ne měřítko vědeckých schopností."}
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "title": {"en": "The core idea is forming", "cs": "Základní myšlenka se skládá"},
+      "summary": {"en": "You separate mass and weight in familiar cases but may lose the thread in lifts or orbit. Practice naming the measured quantity and its unit before calculating; the score reflects only these eight questions.", "cs": "V běžných případech hmotnost a tíhu rozlišujete, ale ve výtahu či na oběžné dráze se souvislost může ztratit. Před výpočtem si zkuste pojmenovat měřenou veličinu a její jednotku; skóre se týká jen těchto osmi otázek."}
+    },
+    {
+      "min": 6,
+      "max": 7,
+      "title": {"en": "Strong working model", "cs": "Silný pracovní model"},
+      "summary": {"en": "You can usually track mass, gravity and support force separately. Revisit the one missed scenario and explain it with W = m × g; a quiz cannot test every real measurement condition.", "cs": "Obvykle dokážete odděleně sledovat hmotnost, gravitaci a podpůrnou sílu. Vraťte se k vynechanému scénáři a vysvětlete jej pomocí W = m × g; kvíz nemůže otestovat všechny reálné podmínky měření."}
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "title": {"en": "Clear distinction", "cs": "Jasné rozlišení"},
+      "summary": {"en": "You consistently kept intrinsic mass apart from gravitational and support forces. Extend the model by comparing other worlds or accelerations, while remembering that idealized quiz problems omit instrument and environmental details.", "cs": "Důsledně jste oddělili vlastní hmotnost od gravitačních a podpůrných sil. Rozšiřte model porovnáním dalších těles či zrychlení; mějte přitom na paměti, že idealizované úlohy vynechávají podrobnosti přístrojů a prostředí."}
+    }
+  ],
+  "sources": [
+    {"name": "NIST – SI Units: Mass", "url": "https://www.nist.gov/pml/owm/si-units-mass", "published": ""},
+    {"name": "NASA Glenn – Weight Equation", "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/weight-equation-2/", "published": ""},
+    {"name": "NASA Science – Moon Facts", "url": "https://science.nasa.gov/moon/facts/", "published": ""}
+  ],
+  "disclaimers": {
+    "en": "This original educational quiz is not a licensed instrument, diagnosis or personal assessment. It does not collect or store answers. The examples use idealized physics and do not replace laboratory or engineering guidance.",
+    "cs": "Tento původní vzdělávací kvíz není licencovaný nástroj, diagnóza ani osobní hodnocení. Odpovědi neshromažďuje ani neukládá. Příklady používají idealizovanou fyziku a nenahrazují laboratorní ani technické pokyny."
+  }
+}
