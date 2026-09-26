@@ -9,7 +9,6 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 39 dní · 60 záznamů
 - časová osa:
-  - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
   - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
   - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
@@ -19,6 +18,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
   - **2026-09-25** (2 zdrojů) Manchester City reportedly found guilty of almost 115 financial charges
   - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
+  - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 48 dní · 60 záznamů
@@ -81,9 +81,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 45 dní · 34 záznamů
+- rubrika `world` · sledováno 45 dní · 35 záznamů
 - časová osa:
-  - **2026-09-24** (5 zdrojů) Judge orders Trump administration to restore journalists' access to White House
   - **2026-09-24** (2 zdrojů) Judge temporarily overturns Trump's White House media ban
   - **2026-09-24** (3 zdrojů) White House 'repeatedly violated' court order to restore press access, say media outlets
   - **2026-09-24** (3 zdrojů) CNN, MS NOW, Politico regain access to White House
@@ -93,6 +92,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-25** (5 zdrojů) Supreme Court allows Trump to use controversial database to check voter citizenship
   - **2026-09-26** (2 zdrojů) White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’
   - **2026-09-26** (5 zdrojů) White House bars CNN from travelling with Trump on Air Force One
+  - **2026-09-26** (2 zdrojů) China, US to open AI ‘communication channel’ after summit, White House says
 
 ---
 

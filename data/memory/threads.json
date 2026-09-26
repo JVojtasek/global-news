@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "league",
-    "club",
-    "fabregas",
-    "ipswich",
-    "forest",
-    "city's",
-    "carrick",
     "troy's",
-    "michael",
-    "scherpen",
     "tottenham",
-    "london",
-    "mccabe",
-    "liverpool",
-    "leipzig",
-    "city",
-    "aston",
-    "arsenal",
-    "boot",
-    "rwandan",
-    "kang",
-    "sports",
-    "united",
-    "lens",
-    "salah",
-    "phil",
+    "forest",
     "tzolis",
-    "millionaire",
-    "premier",
-    "life",
     "fifa",
-    "gakpo",
-    "golden",
-    "matildas",
-    "napoli",
-    "it's",
-    "manchester",
-    "villa",
     "wants",
-    "brighton"
+    "life",
+    "it's",
+    "lens",
+    "fabregas",
+    "premier",
+    "manchester",
+    "golden",
+    "phil",
+    "millionaire",
+    "michael",
+    "city",
+    "mccabe",
+    "leipzig",
+    "matildas",
+    "villa",
+    "liverpool",
+    "salah",
+    "boot",
+    "league",
+    "gakpo",
+    "london",
+    "club",
+    "scherpen",
+    "sports",
+    "rwandan",
+    "united",
+    "kang",
+    "arsenal",
+    "carrick",
+    "aston",
+    "brighton",
+    "ipswich",
+    "napoli",
+    "city's"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -112,22 +112,12 @@
     "5d0511adfb2d",
     "df28328dc599",
     "67e288b5b99c",
-    "9825e4caaa27"
+    "9825e4caaa27",
+    "a46264ed02f0"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-26",
    "timeline": [
-    {
-     "date": "2026-08-20",
-     "headline": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e0b2bb707b45",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
-     ]
-    },
     {
      "date": "2026-08-21",
      "headline": "Arsenal v Coventry City: Premier League – live",
@@ -812,6 +802,18 @@
       "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies",
       "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
       "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Manchester City verdict: what happens next, will club appeal and could they be relegated?",
+     "sources": 3,
+     "score": 65,
+     "event_id": "a46264ed02f0",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/manchester-city-verdict-what-happens-next-appeal-relegated",
+      "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
+      "https://www.aljazeera.com/sports/2026/9/26/manchester-city-found-guilty-what-we-know-what-could-the-punishment-be?traffic_source=rss"
      ]
     }
    ]
@@ -1652,36 +1654,37 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "leavitt",
-    "venezuela",
-    "us-china",
-    "company",
-    "days",
-    "chinese",
-    "stewart",
+    "china",
     "force",
     "jersey",
-    "tetris",
-    "driscoll",
-    "karoline",
-    "jinping",
-    "journalists",
-    "kalshi's",
-    "trump",
-    "secretary",
-    "judge",
-    "supreme",
-    "house",
-    "does",
-    "press",
-    "politico",
-    "white",
-    "donald",
-    "trump's",
+    "days",
     "crypto",
-    "court",
+    "chinese",
+    "house",
+    "nabep",
+    "judge",
+    "donald",
     "army",
-    "nabep"
+    "secretary",
+    "trump's",
+    "us-china",
+    "company",
+    "karoline",
+    "white",
+    "venezuela",
+    "supreme",
+    "press",
+    "tetris",
+    "does",
+    "trump",
+    "leavitt",
+    "stewart",
+    "politico",
+    "jinping",
+    "kalshi's",
+    "court",
+    "journalists",
+    "driscoll"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1717,7 +1720,8 @@
     "53ba398d416e",
     "2acf05538835",
     "763674099d5c",
-    "87ad03b9a8d5"
+    "87ad03b9a8d5",
+    "8884cb4fe214"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-26",
@@ -2108,6 +2112,17 @@
       "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
       "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf"
      ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "China, US to open AI ‘communication channel’ after summit, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "8884cb4fe214",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss",
+      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
+     ]
     }
    ]
   },
@@ -2289,19 +2304,19 @@
    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
    "section": "world",
    "entities": [
-    "young",
-    "france",
-    "leo's",
-    "nato",
     "pope",
-    "lithuania",
+    "russian",
+    "young",
     "catholics",
-    "paris",
     "macron",
     "europe",
+    "lithuania",
+    "danish",
     "thousands",
-    "russian",
-    "danish"
+    "nato",
+    "leo's",
+    "france",
+    "paris"
    ],
    "event_ids": [
     "87d62c77d066",
@@ -2314,7 +2329,8 @@
     "cf6d90b7d356",
     "0d0ab2de5779",
     "acfbda7677cf",
-    "a1317b4ff430"
+    "a1317b4ff430",
+    "cd28012b247a"
    ],
    "first_seen": "2026-09-15",
    "last_seen": "2026-09-26",
@@ -2446,6 +2462,17 @@
       "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
       "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cd28012b247a",
+     "links": [
+      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
      ]
     }
    ]
@@ -11634,5 +11661,5 @@
    ]
   }
  ],
- "updated": "2026-09-26T06:38:30+00:00"
+ "updated": "2026-09-26T09:26:07+00:00"
 }
