@@ -1654,46 +1654,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "arabian",
-    "jerusalem",
-    "jared",
-    "republic",
-    "yemen's",
-    "riyadh",
-    "turkey",
-    "wales",
-    "kushner",
-    "georgia",
-    "taher",
-    "belgium",
     "leaders",
+    "jerusalem",
+    "felix",
+    "yemen's",
+    "kushner",
+    "trump's",
+    "houthis",
+    "portugal",
+    "yemen",
+    "riyadh",
+    "macron",
+    "netherlands",
+    "taher",
+    "emmanuel",
     "league",
+    "israel-ireland",
+    "bellamy",
+    "arabian",
+    "uefa",
+    "gaza's",
+    "germany",
+    "belgium",
+    "board",
+    "republic",
+    "mamdani",
+    "iraq",
     "nations",
     "general",
-    "uefa",
-    "northern",
-    "iraq",
-    "emmanuel",
-    "mamdani",
-    "thick",
-    "macron",
-    "houthis",
-    "gaza's",
-    "taiwan",
-    "netherlands",
-    "bellamy",
-    "trump's",
-    "germany",
-    "portugal",
-    "erdogan",
-    "board",
-    "east-west",
-    "israel",
-    "felix",
     "assembly",
-    "yemen",
+    "ireland",
+    "israel",
+    "northern",
+    "turkey",
+    "thick",
     "italy",
-    "ireland"
+    "east-west",
+    "jared",
+    "taiwan",
+    "erdogan",
+    "georgia"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -1749,7 +1749,9 @@
     "14c89b8f46eb",
     "a9ce1756d96e",
     "7acf0398195c",
-    "894d7f8dfe90"
+    "894d7f8dfe90",
+    "c91cab7f8cf6",
+    "18134e6e91e2"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-26",
@@ -2366,6 +2368,28 @@
       "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Republic of Ireland to wear black armbands for Israel game",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c91cab7f8cf6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Israel-Ireland match to go ahead in Nations League after player vote",
+     "sources": 2,
+     "score": 42,
+     "event_id": "18134e6e91e2",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/26/how-to-watch-uefa-nations-league-england-spain"
+     ]
     }
    ]
   },
@@ -2865,19 +2889,20 @@
    "section": "world",
    "entities": [
     "russian",
-    "mass",
-    "macron",
-    "catholics",
-    "thousands",
-    "nato",
-    "leo's",
     "lithuania",
     "danish",
     "france",
-    "europe",
+    "huge",
+    "thousands",
+    "leo's",
     "paris",
+    "europe",
+    "catholics",
+    "macron",
     "pope",
-    "young"
+    "young",
+    "nato",
+    "mass"
    ],
    "event_ids": [
     "87d62c77d066",
@@ -2892,7 +2917,8 @@
     "acfbda7677cf",
     "a1317b4ff430",
     "cd28012b247a",
-    "b814a960e804"
+    "b814a960e804",
+    "9e39130e88dd"
    ],
    "first_seen": "2026-09-15",
    "last_seen": "2026-09-26",
@@ -3047,6 +3073,18 @@
       "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
       "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+     "sources": 3,
+     "score": 67,
+     "event_id": "9e39130e88dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
      ]
     }
    ]
@@ -11701,5 +11739,5 @@
    ]
   }
  ],
- "updated": "2026-09-26T12:33:34+00:00"
+ "updated": "2026-09-26T15:25:14+00:00"
 }
