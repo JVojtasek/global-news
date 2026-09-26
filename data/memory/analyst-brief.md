@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-25
+# ANALYTICKÉ ZADÁNÍ — 2026-09-26
 
-Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 38 dní · 60 záznamů
+- rubrika `sport` · sledováno 39 dní · 60 záznamů
 - časová osa:
-  - **2026-09-19** (2 zdrojů) Brighton vs Arsenal: Premier League – predictions, teams, lineups
   - **2026-09-19** (2 zdrojů) Tottenham v Aston Villa: Premier League – live
   - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
@@ -19,6 +18,21 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
   - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
   - **2026-09-25** (2 zdrojů) Manchester City reportedly found guilty of almost 115 financial charges
+  - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 48 dní · 60 záznamů
+- časová osa:
+  - **2026-09-12** (2 zdrojů) BRICS leaders meet in India as wars and US tensions test the bloc
+  - **2026-09-12** (2 zdrojů) India’s Modi calls for empowerment of Global South at BRICS Summit
+  - **2026-09-13** (3 zdrojů) BRICS summit leaders urge 'maximum restraint' in Middle East
+  - **2026-09-13** (2 zdrojů) Iran war reshapes Brics ties but also exposes divisions
+  - **2026-09-14** (3 zdrojů) Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
+  - **2026-09-14** (4 zdrojů) Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+  - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
+  - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
+  - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
+  - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů
@@ -35,20 +49,6 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 40 dní · 60 záznamů
-- časová osa:
-  - **2026-09-11** (2 zdrojů) Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
-  - **2026-09-12** (2 zdrojů) BRICS leaders meet in India as wars and US tensions test the bloc
-  - **2026-09-12** (2 zdrojů) India’s Modi calls for empowerment of Global South at BRICS Summit
-  - **2026-09-13** (3 zdrojů) BRICS summit leaders urge 'maximum restraint' in Middle East
-  - **2026-09-13** (2 zdrojů) Iran war reshapes Brics ties but also exposes divisions
-  - **2026-09-14** (3 zdrojů) Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
-  - **2026-09-14** (4 zdrojů) Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
-  - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
-  - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
-  - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 47 dní · 53 záznamů
@@ -81,9 +81,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 44 dní · 32 záznamů
+- rubrika `world` · sledováno 45 dní · 33 záznamů
 - časová osa:
-  - **2026-09-23** (2 zdrojů) Judge hears arguments on Trump White House media ban, hopes to rule 'soon'
   - **2026-09-24** (2 zdrojů) Trump greets Xi Jinping at plane as Chinese leader arrives for state visit
   - **2026-09-24** (5 zdrojů) Judge orders Trump administration to restore journalists' access to White House
   - **2026-09-24** (2 zdrojů) Judge temporarily overturns Trump's White House media ban
@@ -93,6 +92,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-09-25** (2 zdrojů) US-China talks on trade, AI between Trump, Xi beckon
   - **2026-09-25** (2 zdrojů) US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?
   - **2026-09-25** (5 zdrojů) Supreme Court allows Trump to use controversial database to check voter citizenship
+  - **2026-09-26** (2 zdrojů) White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’
 
 ---
 
@@ -100,4 +100,5 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **46**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů
 - **Typhoon Dolphin batters Japan's Okinawa before bearing down on China** — naposledy 2026-08-10, celkem 4 záznamů
