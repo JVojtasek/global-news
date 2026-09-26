@@ -51,9 +51,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 47 dní · 53 záznamů
+- rubrika `world` · sledováno 48 dní · 54 záznamů
 - časová osa:
-  - **2026-09-23** (2 zdrojů) Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
   - **2026-09-24** (2 zdrojů) Israel facing water shortages caused by destruction of Gaza’s treatment plants
   - **2026-09-24** (2 zdrojů) Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
   - **2026-09-24** (2 zdrojů) Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
@@ -63,6 +62,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-25** (2 zdrojů) UN General Assembly: Leaders discuss AI, global conflicts
   - **2026-09-25** (2 zdrojů) Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
   - **2026-09-25** (2 zdrojů) Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
+  - **2026-09-26** (3 zdrojů) Republic of Ireland news conference delayed before controversial Israel game
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
@@ -81,9 +81,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 45 dní · 35 záznamů
+- rubrika `world` · sledováno 45 dní · 36 záznamů
 - časová osa:
-  - **2026-09-24** (2 zdrojů) Judge temporarily overturns Trump's White House media ban
   - **2026-09-24** (3 zdrojů) White House 'repeatedly violated' court order to restore press access, say media outlets
   - **2026-09-24** (3 zdrojů) CNN, MS NOW, Politico regain access to White House
   - **2026-09-25** (2 zdrojů) At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict
@@ -93,6 +92,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-26** (2 zdrojů) White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’
   - **2026-09-26** (5 zdrojů) White House bars CNN from travelling with Trump on Air Force One
   - **2026-09-26** (2 zdrojů) China, US to open AI ‘communication channel’ after summit, White House says
+  - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
 
 ---
 
