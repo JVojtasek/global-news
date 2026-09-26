@@ -185,8 +185,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-03  (2 zdrojů, síla 49)  Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies
-  2026-09-05  (2 zdrojů, síla 40)  US military says it struck three Iranian tankers after American warships came under missile attack
   2026-09-08  (2 zdrojů, síla 44)  Before Champions League, Kylian Mbappé campaigns for Ballon d'Or
   2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
   2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat
@@ -205,6 +203,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
   2026-09-26  (2 zdrojů, síla 47)  Iran offers US deal to reopen Strait of Hormuz in seven days
   2026-09-26  (2 zdrojů, síla 41)  Trump rejects Iran proposal to reopen Strait of Hormuz
+  2026-09-26  (2 zdrojů, síla 44)  ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
+  2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
 ```
 
 ---

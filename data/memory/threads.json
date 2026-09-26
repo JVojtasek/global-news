@@ -823,46 +823,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "jong",
-    "donald",
-    "macron",
-    "o'neill",
-    "times",
-    "putin",
-    "gulf",
-    "trump",
     "brics",
-    "lyon",
-    "real",
-    "kuwait",
-    "north",
-    "indycar",
-    "iranian",
-    "league",
-    "d-day",
     "kylian",
-    "south",
-    "summit",
-    "ukraine",
-    "lightning",
-    "iran's",
-    "inter",
-    "modi",
-    "strait",
-    "city",
-    "mideast",
-    "china's",
-    "iran",
-    "taiz",
-    "centcom",
-    "french",
-    "briton",
-    "east",
-    "houthi",
     "yemen",
+    "briton",
+    "trump",
+    "marib",
+    "league",
+    "strait",
+    "donald",
+    "south",
+    "indycar",
+    "inter",
+    "iran's",
+    "centcom",
+    "jong",
+    "macron",
     "groundhog",
+    "summit",
+    "lightning",
+    "iran",
+    "french",
+    "east",
+    "kuwait",
+    "mideast",
+    "putin",
+    "modi",
+    "city",
+    "iranian",
+    "lyon",
     "hormuz",
-    "marib"
+    "o'neill",
+    "real",
+    "north",
+    "d-day",
+    "china's",
+    "times",
+    "gulf",
+    "ukraine",
+    "houthi",
+    "taiz"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -959,35 +959,13 @@
     "2a0ed08c3929",
     "baf701a61c0f",
     "3808196cf27c",
-    "bd57bcc41444"
+    "bd57bcc41444",
+    "3375f8a1fdbb",
+    "52cbce21fef4"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-26",
    "timeline": [
-    {
-     "date": "2026-08-20",
-     "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-     "sources": 3,
-     "score": 56,
-     "event_id": "e68fe4f445db",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-      "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-      "https://www.france24.com/en/middle-east/20260819-middle-east-live-trump-threatens-economic-punishment-on-any-country-helping-iran"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-     "sources": 4,
-     "score": 67,
-     "event_id": "61c52ea5c150",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-20",
      "headline": "Middle East updates: Trump warns 'economic consequences' for nations helping Iran",
@@ -1646,6 +1624,28 @@
       "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3375f8a1fdbb",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/23/trump-putin-g20-summit-miami",
+      "https://www.aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Trump offers warm welcome as China's Xi arrives for US visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "52cbce21fef4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html"
+     ]
     }
    ]
   },
@@ -1654,46 +1654,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "leaders",
-    "jerusalem",
-    "felix",
-    "yemen's",
-    "kushner",
-    "trump's",
-    "houthis",
-    "portugal",
-    "yemen",
-    "riyadh",
-    "macron",
-    "netherlands",
-    "taher",
-    "emmanuel",
-    "league",
     "israel-ireland",
-    "bellamy",
-    "arabian",
-    "uefa",
-    "gaza's",
-    "germany",
-    "belgium",
-    "board",
-    "republic",
-    "mamdani",
-    "iraq",
-    "nations",
-    "general",
-    "assembly",
-    "ireland",
-    "israel",
-    "northern",
     "turkey",
-    "thick",
-    "italy",
     "east-west",
-    "jared",
-    "taiwan",
+    "kushner",
     "erdogan",
-    "georgia"
+    "board",
+    "yemen",
+    "gaza's",
+    "oyarzabal",
+    "mamdani",
+    "riyadh",
+    "league",
+    "republic",
+    "jerusalem",
+    "taiwan",
+    "england",
+    "belgium",
+    "nations",
+    "macron",
+    "germany",
+    "spain",
+    "netherlands",
+    "jared",
+    "georgia",
+    "northern",
+    "emmanuel",
+    "italy",
+    "leaders",
+    "uefa",
+    "portugal",
+    "israel",
+    "kane",
+    "general",
+    "houthis",
+    "iraq",
+    "ireland",
+    "bellamy",
+    "assembly",
+    "felix",
+    "trump's"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -1751,7 +1751,9 @@
     "7acf0398195c",
     "894d7f8dfe90",
     "c91cab7f8cf6",
-    "18134e6e91e2"
+    "18134e6e91e2",
+    "270036fdbe37",
+    "c563a2313cfc"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-26",
@@ -2389,6 +2391,28 @@
      "links": [
       "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
       "https://www.theguardian.com/football/2026/sep/26/how-to-watch-uefa-nations-league-england-spain"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
+     "sources": 2,
+     "score": 45,
+     "event_id": "270036fdbe37",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "England should stop trying to replicate Spain - Gordon",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c563a2313cfc",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league"
      ]
     }
    ]
@@ -11752,5 +11776,5 @@
    ]
   }
  ],
- "updated": "2026-09-26T18:30:27+00:00"
+ "updated": "2026-09-26T21:24:13+00:00"
 }
