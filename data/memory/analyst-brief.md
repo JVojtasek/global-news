@@ -9,7 +9,6 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 39 dní · 60 záznamů
 - časová osa:
-  - **2026-09-19** (3 zdrojů) 'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
   - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
   - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
   - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
@@ -19,11 +18,11 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-25** (2 zdrojů) Manchester City reportedly found guilty of almost 115 financial charges
   - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
   - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
+  - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 48 dní · 60 záznamů
 - časová osa:
-  - **2026-09-12** (2 zdrojů) BRICS leaders meet in India as wars and US tensions test the bloc
   - **2026-09-12** (2 zdrojů) India’s Modi calls for empowerment of Global South at BRICS Summit
   - **2026-09-13** (3 zdrojů) BRICS summit leaders urge 'maximum restraint' in Middle East
   - **2026-09-13** (2 zdrojů) Iran war reshapes Brics ties but also exposes divisions
@@ -33,6 +32,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
   - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
+  - **2026-09-26** (2 zdrojů) Trump rejects Iran proposal to reopen Strait of Hormuz
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů

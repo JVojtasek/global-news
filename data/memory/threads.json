@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "troy's",
-    "tottenham",
-    "forest",
-    "tzolis",
-    "fifa",
-    "wants",
-    "life",
-    "it's",
-    "lens",
-    "fabregas",
-    "premier",
-    "manchester",
-    "golden",
-    "phil",
-    "millionaire",
-    "michael",
-    "city",
-    "mccabe",
-    "leipzig",
-    "matildas",
-    "villa",
-    "liverpool",
     "salah",
-    "boot",
-    "league",
-    "gakpo",
-    "london",
-    "club",
-    "scherpen",
-    "sports",
-    "rwandan",
-    "united",
-    "kang",
+    "lens",
     "arsenal",
+    "forest",
+    "golden",
     "carrick",
-    "aston",
-    "brighton",
-    "ipswich",
+    "kang",
+    "it's",
+    "leipzig",
+    "united",
+    "greenwood",
+    "millionaire",
+    "league",
+    "rwandan",
     "napoli",
-    "city's"
+    "matildas",
+    "liverpool",
+    "troy's",
+    "london",
+    "premier",
+    "phil",
+    "city",
+    "club",
+    "tottenham",
+    "michael",
+    "aston",
+    "fifa",
+    "manchester",
+    "wants",
+    "ipswich",
+    "tzolis",
+    "fabregas",
+    "scherpen",
+    "mccabe",
+    "boot",
+    "gakpo",
+    "sports",
+    "brighton",
+    "city's",
+    "villa"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -113,23 +113,12 @@
     "df28328dc599",
     "67e288b5b99c",
     "9825e4caaa27",
-    "a46264ed02f0"
+    "a46264ed02f0",
+    "ff0270be93d1"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-26",
    "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Arsenal v Coventry City: Premier League – live",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ca9b3648741f",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
-      "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-21",
      "headline": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
@@ -815,6 +804,17 @@
       "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
       "https://www.aljazeera.com/sports/2026/9/26/manchester-city-found-guilty-what-we-know-what-could-the-punishment-be?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "WSL roundup: Greenwood maintains Manchester City’s 100% record",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ff0270be93d1",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
+      "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -823,46 +823,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "league",
-    "modi",
     "jong",
-    "briton",
-    "kylian",
-    "brics",
-    "qatar",
-    "east",
-    "french",
-    "macron",
-    "kuwait",
-    "strait",
-    "north",
-    "city",
-    "iranian",
-    "yemen",
-    "iran",
-    "china's",
-    "iran's",
-    "lightning",
-    "o'neill",
-    "centcom",
-    "summit",
-    "hormuz",
-    "houthi",
-    "indycar",
-    "lyon",
-    "south",
-    "real",
-    "groundhog",
-    "inter",
-    "marib",
     "donald",
-    "gulf",
-    "mideast",
-    "taiz",
-    "d-day",
+    "macron",
+    "o'neill",
     "times",
+    "putin",
+    "gulf",
+    "trump",
+    "brics",
+    "lyon",
+    "real",
+    "kuwait",
+    "north",
+    "indycar",
+    "iranian",
+    "league",
+    "d-day",
+    "kylian",
+    "south",
+    "summit",
     "ukraine",
-    "putin"
+    "lightning",
+    "iran's",
+    "inter",
+    "modi",
+    "strait",
+    "city",
+    "mideast",
+    "china's",
+    "iran",
+    "taiz",
+    "centcom",
+    "french",
+    "briton",
+    "east",
+    "houthi",
+    "yemen",
+    "groundhog",
+    "hormuz",
+    "marib"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -958,23 +958,12 @@
     "5c9d4dd477da",
     "2a0ed08c3929",
     "baf701a61c0f",
-    "3808196cf27c"
+    "3808196cf27c",
+    "bd57bcc41444"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-26",
    "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "South Korea shortens war games with US, citing Washington request",
-     "sources": 5,
-     "score": 80,
-     "event_id": "fe307da7bf3f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
-      "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-08-20",
      "headline": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
@@ -1645,6 +1634,17 @@
       "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
       "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Trump rejects Iran proposal to reopen Strait of Hormuz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "bd57bcc41444",
+     "links": [
+      "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss"
      ]
     }
    ]
@@ -2888,21 +2888,21 @@
    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
    "section": "world",
    "entities": [
-    "russian",
-    "lithuania",
-    "danish",
-    "france",
-    "huge",
-    "thousands",
-    "leo's",
     "paris",
-    "europe",
-    "catholics",
+    "france",
     "macron",
+    "lithuania",
+    "huge",
     "pope",
-    "young",
+    "russian",
+    "danish",
+    "catholics",
     "nato",
-    "mass"
+    "mass",
+    "europe",
+    "leo's",
+    "thousands",
+    "young"
    ],
    "event_ids": [
     "87d62c77d066",
@@ -2918,7 +2918,8 @@
     "a1317b4ff430",
     "cd28012b247a",
     "b814a960e804",
-    "9e39130e88dd"
+    "9e39130e88dd",
+    "72b1b0ac47d8"
    ],
    "first_seen": "2026-09-15",
    "last_seen": "2026-09-26",
@@ -3085,6 +3086,18 @@
       "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+     "sources": 3,
+     "score": 61,
+     "event_id": "72b1b0ac47d8",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
      ]
     }
    ]
@@ -11739,5 +11752,5 @@
    ]
   }
  ],
- "updated": "2026-09-26T15:25:14+00:00"
+ "updated": "2026-09-26T18:30:27+00:00"
 }
