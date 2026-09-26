@@ -1,14 +1,15 @@
 ---
 slug: the-smell-of-metal-begins-on-your-skin
 title: The Smell of Metal Begins on Your Skin
-dek: Iron and copper release almost no scent of their own at room temperature; the familiar metallic note is made when the surface meets skin chemistry.
+dek: Iron and copper release almost no scent of their own at room temperature; the
+  familiar metallic note is made when the surface meets skin chemistry.
 section: wonder
 type: analysis
 depth: open
 lang: en
 date: '2026-09-26'
-status: draft
-confidence: 92
+status: published
+confidence: 83
 load: 0
 topics: []
 automation_generated: true
@@ -18,27 +19,30 @@ generator: chatgpt-work
 format: wider-lens
 event_id: evergreen-metallic-odor-skin-lipid-oxidation
 series: ''
-image_query: close-up hand holding an old iron key and copper coin scientific still life
+image_query: close-up hand holding an old iron key and copper coin scientific still
+  life
 sources:
-  - name: Angewandte Chemie International Edition
-    url: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200602100
-    published: '2006-10-23'
-  - name: Nature
-    url: https://www.nature.com/articles/news061023-7
-    published: '2006-10-25'
-  - name: Chemical & Engineering News
-    url: https://cen.acs.org/articles/84/web/2006/10/Mystery-Behind-Irons-Smells-Revealed.html
-    published: '2006-10-25'
+- name: Angewandte Chemie International Edition
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200602100
+  published: '2006-10-23'
+- name: Nature
+  url: https://www.nature.com/articles/news061023-7
+  published: '2006-10-25'
+- name: Chemical & Engineering News
+  url: https://cen.acs.org/articles/84/web/2006/10/Mystery-Behind-Irons-Smells-Revealed.html
+  published: '2006-10-25'
 qma_path: ''
 tickers: []
 quiz:
-  question: Where does the familiar metallic smell on a handled iron object mainly come from?
+  question: Where does the familiar metallic smell on a handled iron object mainly
+    come from?
   options:
-    - Iron atoms evaporating into the nose
-    - Volatile compounds formed when the surface reacts with skin chemistry
-    - Rust acting as a stored perfume
+  - Iron atoms evaporating into the nose
+  - Volatile compounds formed when the surface reacts with skin chemistry
+  - Rust acting as a stored perfume
   answer: 1
-  explanation: Iron and copper surfaces can drive reactions involving skin lipids and peroxides, producing volatile carbonyl compounds that reach the nose.
+  explanation: Iron and copper surfaces can drive reactions involving skin lipids
+    and peroxides, producing volatile carbonyl compounds that reach the nose.
 ---
 
 ## BRIEFLY

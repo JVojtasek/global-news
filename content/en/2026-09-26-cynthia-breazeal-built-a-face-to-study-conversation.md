@@ -1,14 +1,15 @@
 ---
 slug: cynthia-breazeal-built-a-face-to-study-conversation
 title: Cynthia Breazeal Built a Face to Study Conversation
-dek: Kismet was not designed to pass as human. Its exaggerated eyes, brows and ears made the hidden mechanics of turn-taking easier to see.
+dek: Kismet was not designed to pass as human. Its exaggerated eyes, brows and ears
+  made the hidden mechanics of turn-taking easier to see.
 section: ai
 type: analysis
 depth: open
 lang: en
 date: '2026-09-26'
-status: draft
-confidence: 92
+status: published
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -20,28 +21,29 @@ event_id: cynthia-breazeal-kismet-social-robot-1998-2001
 series: ''
 image_query: Cynthia Breazeal with Kismet expressive robot head MIT laboratory
 sources:
-  - name: MIT News
-    url: https://news.mit.edu/2001/kismet
-    published: '2001-02-14'
-  - name: MIT Media Lab
-    url: https://www.media.mit.edu/publications/proto-conversations-with-an-anthropomorphic-robot-2/
-    published: '2000-09-29'
-  - name: The MIT Press
-    url: https://mitpress.mit.edu/9780262025102/designing-sociable-robots/
-    published: '2002-05-03'
-  - name: IEEE Robots Guide
-    url: https://robotsguide.com/robots/kismet
-    published: ''
+- name: MIT News
+  url: https://news.mit.edu/2001/kismet
+  published: '2001-02-14'
+- name: MIT Media Lab
+  url: https://www.media.mit.edu/publications/proto-conversations-with-an-anthropomorphic-robot-2/
+  published: '2000-09-29'
+- name: The MIT Press
+  url: https://mitpress.mit.edu/9780262025102/designing-sociable-robots/
+  published: '2002-05-03'
+- name: IEEE Robots Guide
+  url: https://robotsguide.com/robots/kismet
+  published: ''
 qma_path: ''
 tickers: []
 quiz:
   question: What was Kismet mainly built to investigate?
   options:
-    - Whether a robot face could support the cues and timing of social exchange
-    - Whether a robot could hide that it was a machine
-    - Whether facial expression alone proves consciousness
+  - Whether a robot face could support the cues and timing of social exchange
+  - Whether a robot could hide that it was a machine
+  - Whether facial expression alone proves consciousness
   answer: 0
-  explanation: Breazeal used an obviously mechanical but expressive head to study how gaze, timing, vocal tone and facial cues help people regulate interaction.
+  explanation: Breazeal used an obviously mechanical but expressive head to study
+    how gaze, timing, vocal tone and facial cues help people regulate interaction.
 ---
 
 ## BRIEFLY

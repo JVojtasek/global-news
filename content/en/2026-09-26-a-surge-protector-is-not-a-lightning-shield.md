@@ -1,14 +1,15 @@
 ---
 slug: a-surge-protector-is-not-a-lightning-shield
 title: A Surge Protector Is Not a Lightning Shield
-dek: A plug-in device can limit some brief voltage spikes. It cannot make a building immune to a direct strike, bad wiring or sustained overvoltage.
+dek: A plug-in device can limit some brief voltage spikes. It cannot make a building
+  immune to a direct strike, bad wiring or sustained overvoltage.
 section: safety
 type: feature
 depth: open
 lang: en
 date: '2026-09-26'
 status: reserve
-confidence: 91
+confidence: 89
 load: 0
 topics: []
 automation_generated: true
@@ -18,30 +19,32 @@ generator: chatgpt-work
 format: wider-lens
 event_id: evergreen-layered-home-surge-protection
 series: ''
-image_query: certified surge protector power strip beside home electrical panel during distant storm
+image_query: certified surge protector power strip beside home electrical panel during
+  distant storm
 sources:
-  - name: National Institute of Standards and Technology
-    url: https://www.nist.gov/publications/surges-happen-how-protect-appliances-your-home
-    published: '2001-05-01'
-  - name: UL Solutions
-    url: https://www.ul.com/insights/guide-power-strips-and-surge-protectors
-    published: ''
-  - name: Electrical Safety Foundation International
-    url: https://www.esfi.org/lightning-electrical-safety/
-    published: ''
-  - name: Electrical Safety Foundation International
-    url: https://www.esfi.org/surge-protective-devices-survey-benefits-misconceptions/
-    published: ''
+- name: National Institute of Standards and Technology
+  url: https://www.nist.gov/publications/surges-happen-how-protect-appliances-your-home
+  published: '2001-05-01'
+- name: UL Solutions
+  url: https://www.ul.com/insights/guide-power-strips-and-surge-protectors
+  published: ''
+- name: Electrical Safety Foundation International
+  url: https://www.esfi.org/lightning-electrical-safety/
+  published: ''
+- name: Electrical Safety Foundation International
+  url: https://www.esfi.org/surge-protective-devices-survey-benefits-misconceptions/
+  published: ''
 qma_path: ''
 tickers: []
 quiz:
   question: What distinguishes a surge protector from an ordinary power strip?
   options:
-    - It can limit specified transient voltage spikes rather than merely add outlets
-    - It guarantees protection from a direct lightning strike
-    - It replaces correct grounding and a circuit breaker
+  - It can limit specified transient voltage spikes rather than merely add outlets
+  - It guarantees protection from a direct lightning strike
+  - It replaces correct grounding and a circuit breaker
   answer: 0
-  explanation: A listed surge protective device is designed to clamp or divert some short transients, but it is one layer and does not replace other electrical protections.
+  explanation: A listed surge protective device is designed to clamp or divert some
+    short transients, but it is one layer and does not replace other electrical protections.
 ---
 
 ## BRIEFLY
