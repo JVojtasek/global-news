@@ -1652,35 +1652,36 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "house",
-    "jersey",
     "leavitt",
-    "jinping",
-    "nabep",
-    "army",
-    "press",
+    "venezuela",
+    "us-china",
+    "company",
+    "days",
+    "chinese",
+    "stewart",
+    "force",
+    "jersey",
     "tetris",
-    "politico",
-    "does",
-    "secretary",
-    "kalshi's",
     "driscoll",
+    "karoline",
+    "jinping",
     "journalists",
+    "kalshi's",
+    "trump",
+    "secretary",
+    "judge",
+    "supreme",
+    "house",
+    "does",
+    "press",
+    "politico",
     "white",
     "donald",
-    "chinese",
-    "venezuela",
-    "trump",
-    "days",
-    "us-china",
-    "judge",
-    "court",
-    "stewart",
-    "karoline",
-    "crypto",
-    "company",
     "trump's",
-    "supreme"
+    "crypto",
+    "court",
+    "army",
+    "nabep"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1715,7 +1716,8 @@
     "ee634ff53aaa",
     "53ba398d416e",
     "2acf05538835",
-    "763674099d5c"
+    "763674099d5c",
+    "87ad03b9a8d5"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-26",
@@ -2093,6 +2095,191 @@
      "links": [
       "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox",
       "https://www.investing.com/news/stock-market-news/tv-networks-to-resume-coverage-of-trump-events-cnn-says-4917665"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "White House bars CNN from travelling with Trump on Air Force One",
+     "sources": 5,
+     "score": 76,
+     "event_id": "87ad03b9a8d5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
+      "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7da4e07716c7",
+   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+   "section": "world",
+   "entities": [
+    "massie",
+    "senate",
+    "trump",
+    "pentagon",
+    "china",
+    "republican",
+    "defense",
+    "secretary",
+    "iran",
+    "hegseth",
+    "november",
+    "wife"
+   ],
+   "event_ids": [
+    "7da4e07716c7",
+    "7d0d4d3f6bdb",
+    "9ba97aff3e7d",
+    "685eb5ef4b77",
+    "dc98be3509f8",
+    "83c9ff637cd4",
+    "1a58c450df85",
+    "0bd2b78f98d3",
+    "5b2e57f10a93",
+    "6bdae1bbcb1a",
+    "262b590f746f",
+    "282dcc034a3b"
+   ],
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-09-26",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7da4e07716c7",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Iran war won't end until after crucial November elections, says Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7d0d4d3f6bdb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump dismisses report China supplied intel to Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ba97aff3e7d",
+     "links": [
+      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "sources": 2,
+     "score": 40,
+     "event_id": "685eb5ef4b77",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dc98be3509f8",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1a58c450df85",
+     "links": [
+      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+     "sources": 2,
+     "score": 48,
+     "event_id": "0bd2b78f98d3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "US says China trade truce extended as Trump welcomes Xi",
+     "sources": 2,
+     "score": 40,
+     "event_id": "5b2e57f10a93",
+     "links": [
+      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
+      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6bdae1bbcb1a",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+     "sources": 2,
+     "score": 45,
+     "event_id": "262b590f746f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "US official claims Trump holds all the cards in Iran talks",
+     "sources": 3,
+     "score": 52,
+     "event_id": "282dcc034a3b",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
      ]
     }
    ]
@@ -3353,166 +3540,6 @@
      "event_id": "325f871fde9d",
      "links": [
       "https://www.smithsonianmag.com/smart-news/mysterious-anomalies-have-been-detected-beyond-king-tuts-tomb-could-they-be-secret-passageways-leading-to-the-long-lost-remains-of-queen-nefertiti-180989576/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7da4e07716c7",
-   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-   "section": "world",
-   "entities": [
-    "senate",
-    "trump",
-    "massie",
-    "pentagon",
-    "iran",
-    "hegseth",
-    "secretary",
-    "china",
-    "wife",
-    "november",
-    "defense",
-    "republican"
-   ],
-   "event_ids": [
-    "7da4e07716c7",
-    "7d0d4d3f6bdb",
-    "9ba97aff3e7d",
-    "685eb5ef4b77",
-    "dc98be3509f8",
-    "83c9ff637cd4",
-    "1a58c450df85",
-    "0bd2b78f98d3",
-    "5b2e57f10a93",
-    "6bdae1bbcb1a",
-    "262b590f746f"
-   ],
-   "first_seen": "2026-09-11",
-   "last_seen": "2026-09-25",
-   "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7da4e07716c7",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Iran war won't end until after crucial November elections, says Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7d0d4d3f6bdb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump dismisses report China supplied intel to Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ba97aff3e7d",
-     "links": [
-      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "sources": 2,
-     "score": 40,
-     "event_id": "685eb5ef4b77",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dc98be3509f8",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "83c9ff637cd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1a58c450df85",
-     "links": [
-      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-     "sources": 2,
-     "score": 48,
-     "event_id": "0bd2b78f98d3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "US says China trade truce extended as Trump welcomes Xi",
-     "sources": 2,
-     "score": 40,
-     "event_id": "5b2e57f10a93",
-     "links": [
-      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
-      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6bdae1bbcb1a",
-     "links": [
-      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
-      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-     "sources": 2,
-     "score": 45,
-     "event_id": "262b590f746f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -11607,5 +11634,5 @@
    ]
   }
  ],
- "updated": "2026-09-26T03:29:57+00:00"
+ "updated": "2026-09-26T06:38:30+00:00"
 }

@@ -81,9 +81,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 45 dní · 33 záznamů
+- rubrika `world` · sledováno 45 dní · 34 záznamů
 - časová osa:
-  - **2026-09-24** (2 zdrojů) Trump greets Xi Jinping at plane as Chinese leader arrives for state visit
   - **2026-09-24** (5 zdrojů) Judge orders Trump administration to restore journalists' access to White House
   - **2026-09-24** (2 zdrojů) Judge temporarily overturns Trump's White House media ban
   - **2026-09-24** (3 zdrojů) White House 'repeatedly violated' court order to restore press access, say media outlets
@@ -93,6 +92,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-25** (2 zdrojů) US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?
   - **2026-09-25** (5 zdrojů) Supreme Court allows Trump to use controversial database to check voter citizenship
   - **2026-09-26** (2 zdrojů) White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’
+  - **2026-09-26** (5 zdrojů) White House bars CNN from travelling with Trump on Air Force One
 
 ---
 

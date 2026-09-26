@@ -64,7 +64,27 @@
     <https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads>
     > It’s been a week of walkouts, power plays and diplomatic theatre — from a battle over press freedom in Washington, to a United Nations General Assembly marked by protests and departures, as leaders clashed over Iran, Cuba and Venezuela. There was also a rare red-carpet meeting be
 
-### 3. Man City and the 115 charges - key questions answered
+### 3. White House bars CNN from travelling with Trump on Air Force One
+- id události: `87ad03b9a8d5`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — White House bars CNN from travelling with Trump on Air Force One
+    <https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss>
+    > CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.
+  - **NPR News** — CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction
+    <https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one>
+    > The White House has signaled that CNN will be left off Air Force One for President Donald Trump's Saturday trip in the latest media restriction in an ongoing dispute with First Amendment implications.
+  - **DW News** — White House bars CNN from covering upcoming Trump trip, broadcaster says
+    <https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf>
+    > CNN said its journalists have been barred from accompanying President Donald Trump on his upcoming trip to Tennessee. The episode marks the Trump administration's latest salvo against the major cable news network.
+  - **France 24** — CNN removed from Trump press pool, despite judge order to reinstate White House access
+    <https://www.france24.com/en/americas/20260926-cnn-removed-from-trump-press-pool-despite-judge-order-to-reinstate-white-house-access>
+    > US news outlet CNN has been removed from a press pool that is accompanying President Donald Trump on a trip to Tennessee on Saturday. Last week, CNN, along with MS NOW and Politico, was barred from White House access by the Trump administration, but a judge ordered it temporarily
+  - **Al Jazeera** — White House bars CNN from Air Force One for Trump’s upcoming trip
+    <https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss>
+    > Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.
+
+### 4. Man City and the 115 charges - key questions answered
 - id události: `77194b534d5f`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -92,26 +112,6 @@
   - **Guardian Sport** — Manchester City found guilty of breaking Premier League’s financial fair play rules
     <https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules>
     > City face sanctions after more than 100 rule breaches Club insists it is innocent and is expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English foo
-
-### 4. Supreme Court allows Trump to use controversial database to check voter citizenship
-- id události: `2acf05538835`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Supreme Court allows Trump to use controversial database to check voter citizenship
-    <https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss>
-    > Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.
-  - **NPR News** — The Supreme Court revives a controversial data system for citizenship checks
-    <https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting>
-    > The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.
-  - **Al Jazeera** — US top court allows Trump to use controversial voter verification system
-    <https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss>
-    > Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
-  - **CNBC Top** — Supreme Court restores Trump's mass voter verification system
-    <https://www.cnbc.com/2026/09/25/supreme-court-restores-trumps-mass-voter-verification-system.html>
-    > The Supreme Court revived an expanded immigration database the Trump admin said targets voting by noncitizens but critics say could disenfranchise voters.
-  - **France 24** — US Supreme Court allows Trump to use controversial voter 'verification' system
-    <https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry>
-    > The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity
 
 ---
 
