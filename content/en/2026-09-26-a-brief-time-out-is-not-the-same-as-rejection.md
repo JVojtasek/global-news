@@ -1,14 +1,16 @@
 ---
 slug: a-brief-time-out-is-not-the-same-as-rejection
 title: A Brief Time-Out Is Not the Same as Rejection
-dek: "Research does not support the claim that every time-out damages attachment. The important distinction is between a brief, calm consequence inside a warm relationship and harsh or prolonged isolation."
+dek: Research does not support the claim that every time-out damages attachment. The
+  important distinction is between a brief, calm consequence inside a warm relationship
+  and harsh or prolonged isolation.
 section: parenting
 type: analysis
 depth: open
 lang: en
 date: '2026-09-26'
-status: draft
-confidence: 93
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,9 +20,12 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration of a small chair beside an hourglass within a warm connected family space, calm colors, no people, no text, no logo, no brand
+image_query: conceptual editorial illustration of a small chair beside an hourglass
+  within a warm connected family space, calm colors, no people, no text, no logo,
+  no brand
 sources:
-- name: Journal of Developmental and Behavioral Pediatrics — Longitudinal relationship between time-out and child functioning
+- name: Journal of Developmental and Behavioral Pediatrics — Longitudinal relationship
+    between time-out and child functioning
   url: https://pubmed.ncbi.nlm.nih.gov/31513092/
   published: '2020-01-01'
 - name: British Journal of Psychiatry — Time-out under scrutiny
@@ -38,13 +43,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which description best matches an evidence-based time-out for a young child?
+  question: Which description best matches an evidence-based time-out for a young
+    child?
   options:
-  - A brief, calm and predictable consequence paired with plenty of positive attention outside it
+  - A brief, calm and predictable consequence paired with plenty of positive attention
+    outside it
   - An open-ended period alone until the child apologises convincingly
   - Immediate isolation for every expression of anger, anxiety or sadness
   answer: 0
-  explanation: Guidance and research describe time-out as brief, calm, predictable and selective, embedded in a wider pattern of warm attention and teaching—not as prolonged rejection or a response to every difficult emotion.
+  explanation: Guidance and research describe time-out as brief, calm, predictable
+    and selective, embedded in a wider pattern of warm attention and teaching—not
+    as prolonged rejection or a response to every difficult emotion.
 review_reason: 'citlivé téma: children'
 ---
 

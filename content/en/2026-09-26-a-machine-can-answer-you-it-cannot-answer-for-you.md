@@ -1,14 +1,15 @@
 ---
 slug: a-machine-can-answer-you-it-cannot-answer-for-you
 title: A Machine Can Answer You. It Cannot Answer for You
-dek: "Pope Leo XIV's UNESCO warning draws a useful boundary around artificial intelligence: an answer can be generated, but responsibility and meaning cannot be delegated."
+dek: 'Pope Leo XIV''s UNESCO warning draws a useful boundary around artificial intelligence:
+  an answer can be generated, but responsibility and meaning cannot be delegated.'
 section: soul
 type: daily
 depth: open
 lang: en
 date: '2026-09-26'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration of a cool luminous network of branching answers stopping at a warm amber threshold with an empty chair and a simple compass, textured paper, no people, no text, no logo, no interface, no brand
+image_query: conceptual editorial illustration of a cool luminous network of branching
+  answers stopping at a warm amber threshold with an empty chair and a simple compass,
+  textured paper, no people, no text, no logo, no interface, no brand
 sources:
 - name: UNESCO — Speech by Pope Leo XIV during his official visit
   url: https://www.unesco.org/en/articles/speech-pope-leon-xiv-occasion-his-official-visit-unesco
@@ -38,13 +41,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Under UNESCO's Recommendation on the Ethics of Artificial Intelligence, where must ultimate responsibility for an AI system remain?
+  question: Under UNESCO's Recommendation on the Ethics of Artificial Intelligence,
+    where must ultimate responsibility for an AI system remain?
   options:
   - With the system whenever it provides an explanation
   - With natural or legal persons
   - With whichever model has the highest measured accuracy
   answer: 1
-  explanation: UNESCO says ultimate responsibility and accountability must remain with natural or legal persons and cannot be replaced by an AI system.
+  explanation: UNESCO says ultimate responsibility and accountability must remain
+    with natural or legal persons and cannot be replaced by an AI system.
 review_reason: ''
 ---
 
