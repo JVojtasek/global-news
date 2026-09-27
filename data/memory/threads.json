@@ -839,46 +839,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "kane",
-    "portugal",
-    "england",
-    "germany",
-    "netherlands",
-    "israel-ireland",
-    "assembly",
-    "uefa",
+    "drumcree",
     "irish",
-    "board",
-    "spain",
+    "turkey",
+    "trump's",
+    "yemen",
+    "bellamy",
+    "england",
+    "league",
     "emmanuel",
+    "east-west",
+    "germany",
+    "felix",
+    "netherlands",
+    "houthis",
+    "northern",
     "catholic",
     "republic",
-    "gaza's",
-    "felix",
-    "leaders",
-    "east-west",
-    "norway",
-    "israel",
-    "macron",
-    "georgia",
-    "trump's",
-    "oyarzabal",
-    "nations",
     "italy",
-    "iraq",
-    "houthis",
-    "ngumoha",
-    "jerusalem",
-    "kushner",
-    "erdogan",
-    "bellamy",
-    "mamdani",
-    "turkey",
-    "pro-uk",
-    "drumcree",
     "greece",
-    "yemen",
-    "northern"
+    "norway",
+    "portugal",
+    "iraq",
+    "ngumoha",
+    "nations",
+    "erdogan",
+    "mamdani",
+    "macron",
+    "israel-ireland",
+    "oyarzabal",
+    "board",
+    "kushner",
+    "israel",
+    "spain",
+    "jerusalem",
+    "kane",
+    "denmark",
+    "assembly",
+    "gaza's",
+    "uefa",
+    "wales"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -943,34 +943,13 @@
     "907c2a6f3e91",
     "a26a58a3c7ed",
     "ef2ebc4da5e1",
-    "9f913076d91c"
+    "9f913076d91c",
+    "610f4670ea21",
+    "fbfc5a15a361"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-27",
    "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
-     "sources": 2,
-     "score": 44,
-     "event_id": "25ce347a430e",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
-      "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Hamas calls for Trump’s Board of Peace to ‘compel’ Israel over Gaza peace plan – Middle East crisis live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "e3d7c0ac2a93",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-      "https://www.france24.com/en/middle-east-kushner-to-meet-netanyahu-after-talks-with-hamas-on-gaza-plan",
-      "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-17",
      "headline": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
@@ -1625,6 +1604,29 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
       "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "No handshakes between Republic of Ireland and Israel",
+     "sources": 3,
+     "score": 56,
+     "event_id": "610f4670ea21",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
+      "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "fbfc5a15a361",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/27/denmark-wales-nations-league-group-a4-match-report",
+      "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss"
      ]
     }
    ]
@@ -2965,6 +2967,104 @@
      "links": [
       "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
       "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0aa45abf75b4",
+   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+   "section": "world",
+   "entities": [
+    "islands",
+    "president",
+    "milei",
+    "falklands",
+    "iceland",
+    "falkland",
+    "argentina",
+    "anthropic",
+    "trump",
+    "javier"
+   ],
+   "event_ids": [
+    "0aa45abf75b4",
+    "8ab3477c95bb",
+    "50b8cc60bf30",
+    "7a595c75a0e5",
+    "b4adb9b4bb87",
+    "79b213b7598a"
+   ],
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-09-27",
+   "timeline": [
+    {
+     "date": "2026-09-04",
+     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0aa45abf75b4",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+     "sources": 3,
+     "score": 52,
+     "event_id": "8ab3477c95bb",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
+      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+     "sources": 2,
+     "score": 44,
+     "event_id": "50b8cc60bf30",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7a595c75a0e5",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b4adb9b4bb87",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+      "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Anthropic’s CEO is about to have dinner with President Trump",
+     "sources": 3,
+     "score": 48,
+     "event_id": "79b213b7598a",
+     "links": [
+      "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089"
      ]
     }
    ]
@@ -5765,90 +5865,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/swimming/articles/cq0lry2yjg2go?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "0aa45abf75b4",
-   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-   "section": "world",
-   "entities": [
-    "javier",
-    "argentina",
-    "trump",
-    "islands",
-    "president",
-    "milei",
-    "falklands",
-    "iceland",
-    "falkland"
-   ],
-   "event_ids": [
-    "0aa45abf75b4",
-    "8ab3477c95bb",
-    "50b8cc60bf30",
-    "7a595c75a0e5",
-    "b4adb9b4bb87"
-   ],
-   "first_seen": "2026-09-04",
-   "last_seen": "2026-09-23",
-   "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0aa45abf75b4",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
-     "sources": 3,
-     "score": 52,
-     "event_id": "8ab3477c95bb",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
-      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-     "sources": 2,
-     "score": 44,
-     "event_id": "50b8cc60bf30",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7a595c75a0e5",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b4adb9b4bb87",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-      "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
      ]
     }
    ]
@@ -11984,5 +12000,5 @@
    ]
   }
  ],
- "updated": "2026-09-27T18:30:06+00:00"
+ "updated": "2026-09-27T21:23:48+00:00"
 }

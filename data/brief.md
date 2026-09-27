@@ -107,7 +107,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
   - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
+  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
 
 ---
 
@@ -163,8 +163,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-23  (2 zdrojů, síla 44)  Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
-  2026-09-24  (2 zdrojů, síla 44)  Israel facing water shortages caused by destruction of Gaza’s treatment plants
   2026-09-24  (2 zdrojů, síla 41)  Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
   2026-09-24  (2 zdrojů, síla 40)  Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
   2026-09-24  (2 zdrojů, síla 48)  Felix gives Portugal win over Wales in Nations League opener
@@ -183,6 +181,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
   2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
   2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
+  2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
+  2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
 ```
 
 ---

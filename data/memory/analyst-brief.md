@@ -23,8 +23,6 @@ Paměť obsahuje **119 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 49 dní · 60 záznamů
 - časová osa:
-  - **2026-09-26** (3 zdrojů) Republic of Ireland news conference delayed before controversial Israel game
-  - **2026-09-26** (2 zdrojů) Republic of Ireland to wear black armbands for Israel game
   - **2026-09-26** (2 zdrojů) Israel-Ireland match to go ahead in Nations League after player vote
   - **2026-09-26** (2 zdrojů) Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
   - **2026-09-26** (2 zdrojů) England should stop trying to replicate Spain - Gordon
@@ -33,6 +31,8 @@ Paměť obsahuje **119 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-27** (2 zdrojů) Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
   - **2026-09-27** (2 zdrojů) Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
   - **2026-09-27** (2 zdrojů) Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
+  - **2026-09-27** (3 zdrojů) No handshakes between Republic of Ireland and Israel
+  - **2026-09-27** (2 zdrojů) Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 40 dní · 60 záznamů
