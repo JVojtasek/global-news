@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-27
 
-Paměť obsahuje **118 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **118 vláken**. Aktivních za posledních 14 dní: **44**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **118 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 49 dní · 60 záznamů
 - časová osa:
-  - **2026-09-14** (3 zdrojů) Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
   - **2026-09-14** (4 zdrojů) Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
   - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
@@ -19,11 +18,27 @@ Paměť obsahuje **118 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
   - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
   - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
+  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 49 dní · 60 záznamů
+- časová osa:
+  - **2026-09-25** (2 zdrojů) Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
+  - **2026-09-25** (2 zdrojů) Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
+  - **2026-09-26** (3 zdrojů) Republic of Ireland news conference delayed before controversial Israel game
+  - **2026-09-26** (2 zdrojů) Republic of Ireland to wear black armbands for Israel game
+  - **2026-09-26** (2 zdrojů) Israel-Ireland match to go ahead in Nations League after player vote
+  - **2026-09-26** (2 zdrojů) Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
+  - **2026-09-26** (2 zdrojů) England should stop trying to replicate Spain - Gordon
+  - **2026-09-27** (3 zdrojů) Ngumoha not in England squad to face Spain
+  - **2026-09-27** (3 zdrojů) Northern Ireland: Pro-UK march to go through Catholic area
+  - **2026-09-27** (2 zdrojů) Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 39 dní · 60 záznamů
+- rubrika `sport` · sledováno 40 dní · 60 záznamů
 - časová osa:
-  - **2026-09-19** (2 zdrojů) 'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
   - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
   - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
   - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
@@ -33,6 +48,7 @@ Paměť obsahuje **118 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
   - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
   - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
+  - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů
@@ -49,22 +65,6 @@ Paměť obsahuje **118 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 49 dní · 59 záznamů
-- časová osa:
-  - **2026-09-25** (2 zdrojů) Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
-  - **2026-09-25** (2 zdrojů) UN General Assembly: Leaders discuss AI, global conflicts
-  - **2026-09-25** (2 zdrojů) Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
-  - **2026-09-25** (2 zdrojů) Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
-  - **2026-09-26** (3 zdrojů) Republic of Ireland news conference delayed before controversial Israel game
-  - **2026-09-26** (2 zdrojů) Republic of Ireland to wear black armbands for Israel game
-  - **2026-09-26** (2 zdrojů) Israel-Ireland match to go ahead in Nations League after player vote
-  - **2026-09-26** (2 zdrojů) Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
-  - **2026-09-26** (2 zdrojů) England should stop trying to replicate Spain - Gordon
-  - **2026-09-27** (3 zdrojů) Ngumoha not in England squad to face Spain
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 40 dní · 46 záznamů

@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "centcom",
-    "jong",
-    "macron",
-    "gulf",
-    "french",
-    "summit",
-    "china's",
-    "lightning",
-    "marib",
-    "kuwait",
-    "mideast",
-    "groundhog",
-    "lyon",
-    "iranian",
-    "brics",
-    "kylian",
     "inter",
-    "league",
-    "iran",
-    "ukraine",
-    "hormuz",
-    "d-day",
-    "trump",
-    "east",
-    "o'neill",
-    "yemen",
-    "strait",
-    "south",
-    "modi",
-    "north",
-    "taiz",
-    "indycar",
-    "city",
     "putin",
+    "china's",
+    "araghchi",
+    "gulf",
+    "league",
+    "yemen",
+    "macron",
+    "south",
+    "d-day",
+    "kuwait",
+    "north",
+    "strait",
+    "lyon",
+    "kylian",
+    "jong",
+    "summit",
+    "iranian",
     "houthi",
     "briton",
+    "marib",
+    "modi",
+    "o'neill",
+    "lightning",
+    "groundhog",
+    "iran's",
     "donald",
     "times",
-    "araghchi",
-    "iran's"
+    "trump",
+    "iran",
+    "city",
+    "brics",
+    "centcom",
+    "east",
+    "taiz",
+    "indycar",
+    "ukraine",
+    "french",
+    "hormuz",
+    "mideast"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -144,22 +144,12 @@
     "bd57bcc41444",
     "3375f8a1fdbb",
     "52cbce21fef4",
-    "bd6438757477"
+    "bd6438757477",
+    "aab26a16aaf2"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-27",
    "timeline": [
-    {
-     "date": "2026-08-20",
-     "headline": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ac6b33f602a5",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-      "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile"
-     ]
-    },
     {
      "date": "2026-08-20",
      "headline": "How China and Russia could hobble Trump’s plans to isolate Iran",
@@ -829,6 +819,18 @@
       "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
       "https://www.investing.com/news/economy-news/iran-insists-on-diplomacy-after-trump-rejects-hormuz-peace-plan-4918668"
      ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Iran sticks to Hormuz plan after Trump rejects it",
+     "sources": 3,
+     "score": 53,
+     "event_id": "aab26a16aaf2",
+     "links": [
+      "https://www.dw.com/en/iran-sticks-to-hormuz-plan-after-trump-rejects-it/a-79447432?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-says-it-wont-soften-hormuz-demands-after-trump-rejects-proposal-4918887"
+     ]
     }
    ]
   },
@@ -837,46 +839,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "georgia",
-    "italy",
-    "emmanuel",
-    "ngumoha",
-    "germany",
-    "gaza's",
-    "spain",
-    "macron",
-    "taiwan",
-    "israel",
-    "uefa",
-    "board",
-    "republic",
-    "ireland",
-    "kushner",
-    "netherlands",
-    "league",
-    "portugal",
-    "leaders",
-    "iraq",
-    "england",
-    "riyadh",
-    "nations",
-    "turkey",
-    "yemen",
-    "jerusalem",
-    "houthis",
-    "bellamy",
-    "mamdani",
     "assembly",
-    "northern",
-    "oyarzabal",
-    "trump's",
-    "jared",
-    "felix",
-    "israel-ireland",
-    "east-west",
+    "riyadh",
+    "pro-uk",
     "erdogan",
     "kane",
-    "general"
+    "league",
+    "jerusalem",
+    "trump's",
+    "yemen",
+    "uefa",
+    "england",
+    "northern",
+    "germany",
+    "macron",
+    "ireland",
+    "nations",
+    "spain",
+    "mamdani",
+    "georgia",
+    "netherlands",
+    "bellamy",
+    "felix",
+    "board",
+    "portugal",
+    "israel-ireland",
+    "kushner",
+    "houthis",
+    "catholic",
+    "turkey",
+    "emmanuel",
+    "italy",
+    "gaza's",
+    "republic",
+    "israel",
+    "irish",
+    "ngumoha",
+    "leaders",
+    "iraq",
+    "oyarzabal",
+    "east-west"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -937,23 +939,13 @@
     "18134e6e91e2",
     "270036fdbe37",
     "c563a2313cfc",
-    "4cd689b48f1d"
+    "4cd689b48f1d",
+    "907c2a6f3e91",
+    "a26a58a3c7ed"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-27",
    "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-     "sources": 7,
-     "score": 83,
-     "event_id": "6e0f12b732f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-      "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates"
-     ]
-    },
     {
      "date": "2026-08-10",
      "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
@@ -1610,401 +1602,28 @@
       "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
       "https://www.aljazeera.com/sports/2026/9/26/england-vs-spain-uefa-nations-league-prediction-team-news-head-to-head?traffic_source=rss"
      ]
-    }
-   ]
-  },
-  {
-   "id": "87d62c77d066",
-   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-   "section": "world",
-   "entities": [
-    "europe",
-    "russian",
-    "leo's",
-    "paris",
-    "france",
-    "catholics",
-    "macron",
-    "nato",
-    "thousands",
-    "lithuania",
-    "danish",
-    "mass",
-    "huge",
-    "pope",
-    "young"
-   ],
-   "event_ids": [
-    "87d62c77d066",
-    "16c614175ff1",
-    "5847bd600354",
-    "4f89836c1215",
-    "5650625ff0c7",
-    "3263aff4ed39",
-    "bfa030f1f411",
-    "cf6d90b7d356",
-    "0d0ab2de5779",
-    "acfbda7677cf",
-    "a1317b4ff430",
-    "cd28012b247a",
-    "b814a960e804",
-    "9e39130e88dd",
-    "72b1b0ac47d8",
-    "f74700a0c5c1"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-09-27",
-   "timeline": [
+    },
     {
-     "date": "2026-09-15",
-     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+     "date": "2026-09-27",
+     "headline": "Northern Ireland: Pro-UK march to go through Catholic area",
      "sources": 3,
      "score": 58,
-     "event_id": "87d62c77d066",
+     "event_id": "907c2a6f3e91",
      "links": [
-      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-     "sources": 3,
-     "score": 66,
-     "event_id": "16c614175ff1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
-      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "sources": 3,
-     "score": 54,
-     "event_id": "5847bd600354",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
-     "sources": 1,
-     "score": 42,
-     "event_id": "4f89836c1215",
-     "links": [
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5650625ff0c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
-      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "'Pope fever' takes hold as Pope Leo visits France",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3263aff4ed39",
-     "links": [
-      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
-     "sources": 2,
-     "score": 58,
-     "event_id": "bfa030f1f411",
-     "links": [
-      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
-      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "cf6d90b7d356",
-     "links": [
-      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0d0ab2de5779",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-     "sources": 1,
-     "score": 41,
-     "event_id": "acfbda7677cf",
-     "links": [
-      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
-      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Thousands turn out to greet Pope in France",
-     "sources": 4,
-     "score": 76,
-     "event_id": "a1317b4ff430",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cd28012b247a",
-     "links": [
-      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
-      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
-     "sources": 2,
-     "score": 64,
-     "event_id": "b814a960e804",
-     "links": [
-      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
-      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
-     "sources": 3,
-     "score": 67,
-     "event_id": "9e39130e88dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-     "sources": 3,
-     "score": 61,
-     "event_id": "72b1b0ac47d8",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
-      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
+      "https://www.dw.com/en/northern-ireland-pro-uk-march-to-go-through-catholic-area/a-79447441?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/northern-ireland-court-allows-orange-order-march-through-catholic-area",
+      "https://www.france24.com/en/northern-ireland-disputed-parade-set-for-flashpoint-after-nearly-30-years"
      ]
     },
     {
      "date": "2026-09-27",
-     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f74700a0c5c1",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e138211becc3",
-   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-   "section": "tech",
-   "entities": [
-    "gemini",
-    "googlebook",
-    "transcribe",
-    "meet",
-    "ai-powered",
-    "google",
-    "robotics",
-    "deepmind",
-    "avatar",
-    "friday",
-    "flash"
-   ],
-   "event_ids": [
-    "e138211becc3",
-    "cf3951101d71",
-    "b0c60d5e22ba",
-    "29ae84aa2a01",
-    "b27fb7cf6534",
-    "b6a7c3b080e8",
-    "26792917d6d7",
-    "ee9698a7fdb9",
-    "f79a067193d7"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-09-27",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-     "sources": 4,
-     "score": 59,
-     "event_id": "e138211becc3",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
      "sources": 2,
      "score": 42,
-     "event_id": "cf3951101d71",
+     "event_id": "a26a58a3c7ed",
      "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-     "sources": 3,
-     "score": 49,
-     "event_id": "b0c60d5e22ba",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-     "sources": 2,
-     "score": 44,
-     "event_id": "29ae84aa2a01",
-     "links": [
-      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google says its Gemini AI model hacked three other companies",
-     "sources": 2,
-     "score": 51,
-     "event_id": "b27fb7cf6534",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google’s Gemini is the latest AI model to hack other companies",
-     "sources": 3,
-     "score": 46,
-     "event_id": "b6a7c3b080e8",
-     "links": [
-      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-     "sources": 3,
-     "score": 54,
-     "event_id": "26792917d6d7",
-     "links": [
-      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-     "sources": 3,
-     "score": 46,
-     "event_id": "ee9698a7fdb9",
-     "links": [
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Google confirms Gemini models hacked three companies in May 2026",
-     "sources": 2,
-     "score": 45,
-     "event_id": "f79a067193d7",
-     "links": [
-      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cc5e6502b0d5",
-   "title": "Are claims of a white genocide in South Africa real?",
-   "section": "world",
-   "entities": [
-    "africa",
-    "south"
-   ],
-   "event_ids": [
-    "cc5e6502b0d5"
-   ],
-   "first_seen": "2026-09-27",
-   "last_seen": "2026-09-27",
-   "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Are claims of a white genocide in South Africa real?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "cc5e6502b0d5",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+      "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+      "https://www.france24.com/en/irish-players-to-wear-black-armbands-to-boycott-israel"
      ]
     }
    ]
@@ -2014,46 +1633,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "salah",
-    "lens",
-    "arsenal",
-    "forest",
-    "golden",
-    "carrick",
-    "kang",
-    "it's",
-    "leipzig",
-    "united",
-    "greenwood",
-    "millionaire",
-    "league",
-    "rwandan",
-    "napoli",
-    "matildas",
-    "liverpool",
-    "troy's",
-    "london",
-    "premier",
-    "phil",
-    "city",
-    "club",
-    "tottenham",
-    "michael",
-    "aston",
-    "fifa",
-    "manchester",
-    "wants",
-    "ipswich",
-    "tzolis",
-    "fabregas",
     "scherpen",
     "mccabe",
-    "boot",
+    "premier",
+    "league",
+    "liverpool",
+    "millionaire",
+    "manchester",
+    "aston",
     "gakpo",
+    "villa",
+    "golden",
+    "forest",
+    "fifa",
+    "fabregas",
+    "ever",
+    "rwandan",
+    "carrick",
+    "arsenal",
+    "greenwood",
+    "troy's",
+    "lens",
     "sports",
-    "brighton",
+    "salah",
+    "it's",
+    "phil",
+    "wants",
+    "boot",
+    "napoli",
+    "tottenham",
+    "kang",
     "city's",
-    "villa"
+    "london",
+    "wilson",
+    "city",
+    "ipswich",
+    "michael",
+    "club",
+    "united",
+    "matildas",
+    "consequences"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -2123,23 +1742,12 @@
     "67e288b5b99c",
     "9825e4caaa27",
     "a46264ed02f0",
-    "ff0270be93d1"
+    "ff0270be93d1",
+    "03c4565d185b"
    ],
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-26",
+   "last_seen": "2026-09-27",
    "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Tzolis shines on Premier League debut - Arsenal v Coventry player ratings",
-     "sources": 3,
-     "score": 54,
-     "event_id": "7647b16128ca",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
-     ]
-    },
     {
      "date": "2026-08-22",
      "headline": "Hull City v Manchester United: Premier League – live",
@@ -2823,6 +2431,521 @@
      "links": [
       "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
       "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
+     "sources": 3,
+     "score": 63,
+     "event_id": "03c4565d185b",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
+      "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "87d62c77d066",
+   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+   "section": "world",
+   "entities": [
+    "mass",
+    "huge",
+    "young",
+    "paris",
+    "europe",
+    "nato",
+    "danish",
+    "russian",
+    "lithuania",
+    "thousands",
+    "france",
+    "macron",
+    "photos",
+    "leo's",
+    "catholics",
+    "pope"
+   ],
+   "event_ids": [
+    "87d62c77d066",
+    "16c614175ff1",
+    "5847bd600354",
+    "4f89836c1215",
+    "5650625ff0c7",
+    "3263aff4ed39",
+    "bfa030f1f411",
+    "cf6d90b7d356",
+    "0d0ab2de5779",
+    "acfbda7677cf",
+    "a1317b4ff430",
+    "cd28012b247a",
+    "b814a960e804",
+    "9e39130e88dd",
+    "72b1b0ac47d8",
+    "f74700a0c5c1",
+    "0ff76c15106b"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-27",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "87d62c77d066",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+     "sources": 3,
+     "score": 66,
+     "event_id": "16c614175ff1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+     "sources": 3,
+     "score": 54,
+     "event_id": "5847bd600354",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+     "sources": 1,
+     "score": 42,
+     "event_id": "4f89836c1215",
+     "links": [
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5650625ff0c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "'Pope fever' takes hold as Pope Leo visits France",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3263aff4ed39",
+     "links": [
+      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
+     "sources": 2,
+     "score": 58,
+     "event_id": "bfa030f1f411",
+     "links": [
+      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
+      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "cf6d90b7d356",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0d0ab2de5779",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+     "sources": 1,
+     "score": 41,
+     "event_id": "acfbda7677cf",
+     "links": [
+      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Thousands turn out to greet Pope in France",
+     "sources": 4,
+     "score": 76,
+     "event_id": "a1317b4ff430",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cd28012b247a",
+     "links": [
+      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
+     "sources": 2,
+     "score": 64,
+     "event_id": "b814a960e804",
+     "links": [
+      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
+      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+     "sources": 3,
+     "score": 67,
+     "event_id": "9e39130e88dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+     "sources": 3,
+     "score": 61,
+     "event_id": "72b1b0ac47d8",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f74700a0c5c1",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+     "sources": 2,
+     "score": 41,
+     "event_id": "0ff76c15106b",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e138211becc3",
+   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+   "section": "tech",
+   "entities": [
+    "gemini",
+    "googlebook",
+    "transcribe",
+    "meet",
+    "ai-powered",
+    "google",
+    "robotics",
+    "deepmind",
+    "avatar",
+    "friday",
+    "flash"
+   ],
+   "event_ids": [
+    "e138211becc3",
+    "cf3951101d71",
+    "b0c60d5e22ba",
+    "29ae84aa2a01",
+    "b27fb7cf6534",
+    "b6a7c3b080e8",
+    "26792917d6d7",
+    "ee9698a7fdb9",
+    "f79a067193d7"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-09-27",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+     "sources": 4,
+     "score": 59,
+     "event_id": "e138211becc3",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cf3951101d71",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+     "sources": 3,
+     "score": 49,
+     "event_id": "b0c60d5e22ba",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29ae84aa2a01",
+     "links": [
+      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google says its Gemini AI model hacked three other companies",
+     "sources": 2,
+     "score": 51,
+     "event_id": "b27fb7cf6534",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google’s Gemini is the latest AI model to hack other companies",
+     "sources": 3,
+     "score": 46,
+     "event_id": "b6a7c3b080e8",
+     "links": [
+      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+     "sources": 3,
+     "score": 54,
+     "event_id": "26792917d6d7",
+     "links": [
+      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+     "sources": 3,
+     "score": 46,
+     "event_id": "ee9698a7fdb9",
+     "links": [
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Google confirms Gemini models hacked three companies in May 2026",
+     "sources": 2,
+     "score": 45,
+     "event_id": "f79a067193d7",
+     "links": [
+      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a23f76d1ffbb",
+   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+   "section": "world",
+   "entities": [
+    "medicare",
+    "openai",
+    "ceos",
+    "anthropic",
+    "australian"
+   ],
+   "event_ids": [
+    "a23f76d1ffbb",
+    "90eb340ee81f",
+    "94821214578f",
+    "46e474f4f822",
+    "f734bb2140c4"
+   ],
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-09-27",
+   "timeline": [
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
+     "sources": 5,
+     "score": 65,
+     "event_id": "a23f76d1ffbb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "What you need to know about the OpenAI Australian government hack",
+     "sources": 4,
+     "score": 70,
+     "event_id": "90eb340ee81f",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
+      "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
+     "sources": 5,
+     "score": 68,
+     "event_id": "94821214578f",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+     "sources": 2,
+     "score": 48,
+     "event_id": "46e474f4f822",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+     "sources": 2,
+     "score": 40,
+     "event_id": "f734bb2140c4",
+     "links": [
+      "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
+      "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cc5e6502b0d5",
+   "title": "Are claims of a white genocide in South Africa real?",
+   "section": "world",
+   "entities": [
+    "africa",
+    "south"
+   ],
+   "event_ids": [
+    "cc5e6502b0d5",
+    "fa9c2e8e5738"
+   ],
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-09-27",
+   "timeline": [
+    {
+     "date": "2026-09-27",
+     "headline": "Are claims of a white genocide in South Africa real?",
+     "sources": 3,
+     "score": 56,
+     "event_id": "cc5e6502b0d5",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Two mass shootings in South Africa leave 27 dead",
+     "sources": 4,
+     "score": 67,
+     "event_id": "fa9c2e8e5738",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -3959,73 +4082,6 @@
       "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
       "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
       "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a23f76d1ffbb",
-   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "section": "world",
-   "entities": [
-    "openai",
-    "australian",
-    "medicare"
-   ],
-   "event_ids": [
-    "a23f76d1ffbb",
-    "90eb340ee81f",
-    "94821214578f",
-    "46e474f4f822"
-   ],
-   "first_seen": "2026-09-24",
-   "last_seen": "2026-09-25",
-   "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
-     "sources": 5,
-     "score": 65,
-     "event_id": "a23f76d1ffbb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "What you need to know about the OpenAI Australian government hack",
-     "sources": 4,
-     "score": 70,
-     "event_id": "90eb340ee81f",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
-      "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
-     "sources": 5,
-     "score": 68,
-     "event_id": "94821214578f",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-     "sources": 2,
-     "score": 48,
-     "event_id": "46e474f4f822",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
-      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
      ]
     }
    ]
@@ -11842,5 +11898,5 @@
    ]
   }
  ],
- "updated": "2026-09-27T06:39:59+00:00"
+ "updated": "2026-09-27T09:27:28+00:00"
 }

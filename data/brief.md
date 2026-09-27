@@ -134,7 +134,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-08  (2 zdrojů, síla 56)  Mourinho, Inter and Champions League: Can he deliver again at Real Madrid?
   2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat
   2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa
   2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
@@ -154,35 +153,36 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-26  (2 zdrojů, síla 44)  ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
   2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
   2026-09-27  (2 zdrojů, síla 49)  Araghchi ignores Trump, waits for mediators’ response on Hormuz
+  2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
 ```
 
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-11  (2 zdrojů, síla 42)  Lens secure an epic comeback win to kick off their Champions League campaign
-  2026-09-12  (2 zdrojů, síla 55)  Manchester United vs Man City: Premier League – predictions, teams, lineups
-  2026-09-13  (2 zdrojů, síla 45)  Manchester United v Manchester City: Premier League – live
-  2026-09-14  (2 zdrojů, síla 48)  Is the Premier League already a two-team title race?
-  2026-09-15  (3 zdrojů, síla 56)  Who has made Troy's Premier League team of the week?
-  2026-09-17  (2 zdrojů, síla 46)  ‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse
-  2026-09-18  (2 zdrojů, síla 51)  London City's new training centre 'better than most Premier League clubs' - Kang
-  2026-09-19  (2 zdrojů, síla 46)  Brighton vs Arsenal: Premier League – predictions, teams, lineups
-  2026-09-19  (2 zdrojů, síla 46)  Tottenham v Aston Villa: Premier League – live
-  2026-09-19  (3 zdrojů, síla 66)  'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win
-  2026-09-19  (2 zdrojů, síla 42)  'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat
-  2026-09-22  (2 zdrojů, síla 41)  Arteta agrees new deal with Premier League champions Arsenal
-  2026-09-22  (3 zdrojů, síla 52)  'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
-  2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups
-  2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue
-  2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms
-  2026-09-25  (2 zdrojů, síla 56)  Manchester City reportedly found guilty of almost 115 financial charges
-  2026-09-26  (2 zdrojů, síla 54)  We Manchester City fans fear relegation and losing trophies … but club are bang to rights
-  2026-09-26  (3 zdrojů, síla 65)  Manchester City verdict: what happens next, will club appeal and could they be relegated?
-  2026-09-26  (2 zdrojů, síla 40)  WSL roundup: Greenwood maintains Manchester City’s 100% record
+VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-09-23  (2 zdrojů, síla 45)  'It can't be brushed over' - Republic of Ireland squad to discuss Israel games
+  2026-09-23  (2 zdrojů, síla 42)  Trump's Board of Peace proposes $2.45B for reconstruction in Gaza
+  2026-09-23  (2 zdrojů, síla 44)  Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
+  2026-09-24  (2 zdrojů, síla 44)  Israel facing water shortages caused by destruction of Gaza’s treatment plants
+  2026-09-24  (2 zdrojů, síla 41)  Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
+  2026-09-24  (2 zdrojů, síla 40)  Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
+  2026-09-24  (2 zdrojů, síla 48)  Felix gives Portugal win over Wales in Nations League opener
+  2026-09-25  (2 zdrojů, síla 60)  Bellamy wants more from Wales after loss to Portugal
+  2026-09-25  (2 zdrojů, síla 46)  Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
+  2026-09-25  (2 zdrojů, síla 43)  UN General Assembly: Leaders discuss AI, global conflicts
+  2026-09-25  (2 zdrojů, síla 42)  Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
+  2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
+  2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game
+  2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game
+  2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote
+  2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
+  2026-09-26  (2 zdrojů, síla 43)  England should stop trying to replicate Spain - Gordon
+  2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain
+  2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area
+  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
 ```
 
 ---
