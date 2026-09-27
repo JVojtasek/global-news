@@ -1,14 +1,16 @@
 ---
 slug: a-hurricane-category-is-not-the-whole-forecast
 title: A Hurricane Category Is Not the Whole Forecast
-dek: Hurricane Polo is weakening as it approaches Baja California Sur, but the number beside its name measures wind—not the rain, surge, waves and terrain that turn a forecast into local danger.
+dek: Hurricane Polo is weakening as it approaches Baja California Sur, but the number
+  beside its name measures wind—not the rain, surge, waves and terrain that turn a
+  forecast into local danger.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-09-27'
-status: draft
-confidence: 96
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -40,8 +42,11 @@ impact:
   - Baja California Sur communities and transport
   - coastal flooding and destructive surf
   - power, schools and public services
-  line: Hurricane warnings now cover both coasts of central Baja California Sur, while forecast rain, surge and waves can remain dangerous even as Polo's wind category falls.
-  todo: Follow the National Hurricane Center and Mexican civil-protection bulletins through Tuesday for the landfall point, rainfall totals and any expansion of warnings.
+  line: Hurricane warnings now cover both coasts of central Baja California Sur, while
+    forecast rain, surge and waves can remain dangerous even as Polo's wind category
+    falls.
+  todo: Follow the National Hurricane Center and Mexican civil-protection bulletins
+    through Tuesday for the landfall point, rainfall totals and any expansion of warnings.
 qma_path: ''
 tickers: []
 quiz:
@@ -51,7 +56,8 @@ quiz:
   - The combined severity of wind, rain, surge and landslides
   - The exact place where its centre will cross the coast
   answer: 0
-  explanation: The category is based on maximum sustained wind. Rainfall, surge, surf, storm size, track and terrain must be assessed separately.
+  explanation: The category is based on maximum sustained wind. Rainfall, surge, surf,
+    storm size, track and terrain must be assessed separately.
 ---
 
 ## BRIEFLY
