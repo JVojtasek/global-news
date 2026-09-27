@@ -1,14 +1,16 @@
 ---
 slug: a-data-centre-is-a-node-not-the-network
 title: A Data Centre Is a Node, Not the Network
-dek: Russia's latest strikes reached Ukraine's largest mobile provider and another data centre, testing a communications system whose real defence is not one hardened building but many routes around damage.
+dek: Russia's latest strikes reached Ukraine's largest mobile provider and another
+  data centre, testing a communications system whose real defence is not one hardened
+  building but many routes around damage.
 section: tech
 type: analysis
 depth: open
 lang: en
 date: '2026-09-27'
-status: draft
-confidence: 90
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -43,18 +45,24 @@ impact:
   - internet and mobile-service continuity
   - emergency information
   - television and online media
-  line: Repeated physical damage can produce local outages even when a distributed national network remains online, affecting households, broadcasters and access to timely warnings.
-  todo: Watch independently measured connectivity, restoration times and evidence that traffic is being rerouted after each strike during the next several days.
+  line: Repeated physical damage can produce local outages even when a distributed
+    national network remains online, affecting households, broadcasters and access
+    to timely warnings.
+  todo: Watch independently measured connectivity, restoration times and evidence
+    that traffic is being rerouted after each strike during the next several days.
 qma_path: ''
 tickers: []
 quiz:
-  question: Why can repeated data-centre strikes matter even if Ukraine does not suffer a nationwide internet blackout?
+  question: Why can repeated data-centre strikes matter even if Ukraine does not suffer
+    a nationwide internet blackout?
   options:
   - Every data centre contains a complete copy of the national internet
   - Local services can fail while repeated damage consumes backup routes and equipment
   - Mobile networks operate independently of physical equipment
   answer: 1
-  explanation: A distributed network can route around individual failures, but local outages still occur and repeated strikes can exhaust costly redundancy.
+  explanation: A distributed network can route around individual failures, but local
+    outages still occur and repeated strikes can exhaust costly redundancy.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY
