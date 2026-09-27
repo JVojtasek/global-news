@@ -839,46 +839,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "assembly",
-    "riyadh",
-    "pro-uk",
-    "erdogan",
     "kane",
-    "league",
-    "jerusalem",
-    "trump's",
-    "yemen",
-    "uefa",
-    "england",
-    "northern",
-    "germany",
-    "macron",
-    "ireland",
-    "nations",
-    "spain",
-    "mamdani",
-    "georgia",
-    "netherlands",
-    "bellamy",
-    "felix",
-    "board",
     "portugal",
+    "england",
+    "germany",
+    "netherlands",
     "israel-ireland",
-    "kushner",
-    "houthis",
-    "catholic",
-    "turkey",
-    "emmanuel",
-    "italy",
-    "gaza's",
-    "republic",
-    "israel",
+    "assembly",
+    "uefa",
     "irish",
-    "ngumoha",
+    "board",
+    "spain",
+    "emmanuel",
+    "catholic",
+    "republic",
+    "gaza's",
+    "felix",
     "leaders",
-    "iraq",
+    "east-west",
+    "norway",
+    "israel",
+    "macron",
+    "georgia",
+    "trump's",
     "oyarzabal",
-    "east-west"
+    "nations",
+    "italy",
+    "iraq",
+    "houthis",
+    "ngumoha",
+    "jerusalem",
+    "kushner",
+    "erdogan",
+    "bellamy",
+    "mamdani",
+    "turkey",
+    "pro-uk",
+    "drumcree",
+    "greece",
+    "yemen",
+    "northern"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -941,34 +941,13 @@
     "c563a2313cfc",
     "4cd689b48f1d",
     "907c2a6f3e91",
-    "a26a58a3c7ed"
+    "a26a58a3c7ed",
+    "ef2ebc4da5e1",
+    "9f913076d91c"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-27",
    "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3677e9c2454f",
-     "links": [
-      "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260810-netanyahu-eyes-election-base-as-friction-with-trump-grows-over-gaza-deal"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-     "sources": 3,
-     "score": 56,
-     "event_id": "2d4b21839f92",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-      "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-17",
      "headline": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
@@ -1624,6 +1603,28 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
       "https://www.france24.com/en/irish-players-to-wear-black-armbands-to-boycott-israel"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace",
+     "sources": 2,
+     "score": 47,
+     "event_id": "ef2ebc4da5e1",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_northern-ireland-protesters-block-orange-order-270926?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9f913076d91c",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss"
      ]
     }
    ]
@@ -2834,19 +2835,21 @@
    "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
    "section": "world",
    "entities": [
-    "heathrow",
+    "andy",
+    "water",
     "tory",
     "hospitality",
-    "pmqs",
-    "macron",
-    "burnham",
-    "guardian",
-    "editorial",
-    "andy",
-    "starmer",
     "john",
+    "heathrow",
+    "burnham",
+    "starmer",
     "crace",
-    "u-turn"
+    "u-turn",
+    "thames",
+    "editorial",
+    "pmqs",
+    "guardian",
+    "macron"
    ],
    "event_ids": [
     "eca0fc692bc0",
@@ -2856,7 +2859,8 @@
     "02df7fa6f0a5",
     "972b0fe1af77",
     "cc774da80403",
-    "a6788519913e"
+    "a6788519913e",
+    "55177db2a4ed"
    ],
    "first_seen": "2026-09-03",
    "last_seen": "2026-09-27",
@@ -2951,6 +2955,17 @@
       "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
      ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
+     "sources": 1,
+     "score": 47,
+     "event_id": "55177db2a4ed",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+     ]
     }
    ]
   },
@@ -3041,12 +3056,15 @@
    "section": "world",
    "entities": [
     "africa",
+    "australia",
+    "superb",
     "south"
    ],
    "event_ids": [
     "cc5e6502b0d5",
     "fa9c2e8e5738",
-    "549b64aa5243"
+    "549b64aa5243",
+    "7b455e92537b"
    ],
    "first_seen": "2026-09-27",
    "last_seen": "2026-09-27",
@@ -3085,6 +3103,17 @@
       "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
       "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
       "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Superb South Africa seal series win over Australia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7b455e92537b",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
      ]
     }
    ]
@@ -11955,5 +11984,5 @@
    ]
   }
  ],
- "updated": "2026-09-27T15:24:33+00:00"
+ "updated": "2026-09-27T18:30:06+00:00"
 }

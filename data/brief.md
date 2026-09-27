@@ -163,8 +163,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-23  (2 zdrojů, síla 45)  'It can't be brushed over' - Republic of Ireland squad to discuss Israel games
-  2026-09-23  (2 zdrojů, síla 42)  Trump's Board of Peace proposes $2.45B for reconstruction in Gaza
   2026-09-23  (2 zdrojů, síla 44)  Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction
   2026-09-24  (2 zdrojů, síla 44)  Israel facing water shortages caused by destruction of Gaza’s treatment plants
   2026-09-24  (2 zdrojů, síla 41)  Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
@@ -183,6 +181,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain
   2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area
   2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
+  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
+  2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
 ```
 
 ---
