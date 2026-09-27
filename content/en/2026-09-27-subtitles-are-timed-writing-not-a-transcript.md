@@ -1,14 +1,15 @@
 ---
 slug: subtitles-are-timed-writing-not-a-transcript
 title: Subtitles Are Timed Writing, Not a Transcript
-dek: Every subtitle track makes choices about timing, reading speed and relevance, so the words on screen should not be treated as a verbatim quotation.
+dek: Every subtitle track makes choices about timing, reading speed and relevance,
+  so the words on screen should not be treated as a verbatim quotation.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-09-27'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual film frames passing through an hourglass and emerging as two short lines, editorial collage, no readable text, no logo, no people
+image_query: conceptual film frames passing through an hourglass and emerging as two
+  short lines, editorial collage, no readable text, no logo, no people
 sources:
 - name: Netflix — English (UK) Timed Text Style Guide
   url: https://partnerhelp.netflixstudios.com/hc/en-us/articles/30806198616339-English-UK-Timed-Text-Style-Guide
@@ -32,19 +34,23 @@ sources:
 - name: Ofcom — Guidelines on Providing TV and On-Demand Access Services
   url: https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/other-codes/ofcoms-guidelines-on-providing-tv-and-on-demand-access-services.pdf?v=357053
   published: '2024-04-15'
-- name: Journal of Audiovisual Translation — The Impact of Subtitle Speed on Cognitive Load
+- name: Journal of Audiovisual Translation — The Impact of Subtitle Speed on Cognitive
+    Load
   url: https://jatjournal.org/index.php/jat/article/view/283
   published: '2024-07-05'
 qma_path: ''
 tickers: []
 quiz:
-  question: Which track is normally designed to include relevant sound effects and speaker identification as well as dialogue?
+  question: Which track is normally designed to include relevant sound effects and
+    speaker identification as well as dialogue?
   options:
   - A translation-subtitle track for hearing viewers
   - An SDH or caption track intended for d/Deaf and hard-of-hearing viewers
   - Any subtitle track marked as English
   answer: 1
-  explanation: Ofcom and DCMP describe captions or subtitles for d/Deaf and hard-of-hearing audiences as carrying relevant non-speech information and identifying speakers; an ordinary translation track may not.
+  explanation: Ofcom and DCMP describe captions or subtitles for d/Deaf and hard-of-hearing
+    audiences as carrying relevant non-speech information and identifying speakers;
+    an ordinary translation track may not.
 review_reason: ''
 ---
 

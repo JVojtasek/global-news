@@ -1,14 +1,16 @@
 ---
 slug: recess-is-personal-time-not-a-reward
 title: Recess Is Personal Time, Not a Reward
-dek: 'A new American Academy of Pediatrics policy makes a sharper case for daily recess: children need a protected break, while the evidence does not justify turning every playground into the same adult-designed programme.'
+dek: 'A new American Academy of Pediatrics policy makes a sharper case for daily recess:
+  children need a protected break, while the evidence does not justify turning every
+  playground into the same adult-designed programme.'
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-27'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: recess-protected-personal-time-2026
 series: ''
-image_query: conceptual editorial illustration of a classroom grid opening into a free playground with chalk arcs and loose play objects, no people, no text, no logo, no brand
+image_query: conceptual editorial illustration of a classroom grid opening into a
+  free playground with chalk arcs and loose play objects, no people, no text, no logo,
+  no brand
 sources:
 - name: American Academy of Pediatrics — The Crucial Role of Recess in School
   url: https://publications.aap.org/pediatrics/article/157/6/e2026077025/207527/The-Crucial-Role-of-Recess-in-School-Policy
@@ -38,13 +42,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What does the 2026 American Academy of Pediatrics policy say about recess and physical education?
+  question: What does the 2026 American Academy of Pediatrics policy say about recess
+    and physical education?
   options:
   - Recess can replace physical education when children run vigorously
   - Physical education can replace recess when the lesson includes games
   - Recess and physical education make distinct, complementary contributions
   answer: 2
-  explanation: The policy says physical education is an academic discipline, while recess provides personal time for autonomous play; neither is interchangeable with the other.
+  explanation: The policy says physical education is an academic discipline, while
+    recess provides personal time for autonomous play; neither is interchangeable
+    with the other.
 review_reason: ''
 ---
 

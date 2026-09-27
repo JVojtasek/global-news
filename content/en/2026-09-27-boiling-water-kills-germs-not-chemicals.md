@@ -1,14 +1,16 @@
 ---
 slug: boiling-water-kills-germs-not-chemicals
 title: Boiling Water Kills Germs. It Does Not Remove Chemicals
-dek: 'The safe response to a water warning depends on the hazard: boiling can inactivate pathogens, but fuel, metals, salts and many other contaminants require a different water source.'
+dek: 'The safe response to a water warning depends on the hazard: boiling can inactivate
+  pathogens, but fuel, metals, salts and many other contaminants require a different
+  water source.'
 section: safety
 type: analysis
 depth: open
 lang: en
 date: '2026-09-27'
-status: draft
-confidence: 97
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration of a steaming pot beside three distinct water advisory symbols, no text, no people, no brand
+image_query: conceptual editorial illustration of a steaming pot beside three distinct
+  water advisory symbols, no text, no people, no brand
 sources:
 - name: CDC — Drinking Water Advisories, An Overview
   url: https://www.cdc.gov/water-emergency/about/drinking-water-advisories-an-overview.html
@@ -38,13 +41,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which official notice means boiling the tap water is not the prescribed fix because chemicals or toxins may be present?
+  question: Which official notice means boiling the tap water is not the prescribed
+    fix because chemicals or toxins may be present?
   options:
   - A boil water advisory
   - A do not drink advisory
   - A routine conservation request
   answer: 1
-  explanation: CDC says a do not drink advisory calls for commercially bottled water for drinking and cooking because chemicals or toxins may make tap water unsafe; boiling is for microbial hazards.
+  explanation: CDC says a do not drink advisory calls for commercially bottled water
+    for drinking and cooking because chemicals or toxins may make tap water unsafe;
+    boiling is for microbial hazards.
 review_reason: ''
 ---
 

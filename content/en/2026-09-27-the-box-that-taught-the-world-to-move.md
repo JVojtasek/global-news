@@ -7,8 +7,8 @@ section: business
 type: feature
 depth: open
 lang: en
-date: '2026-08-31'
-status: reserve
+date: '2026-09-27'
+status: published
 confidence: 95
 load: 0
 topics:

@@ -1,13 +1,15 @@
 ---
 slug: mars-did-not-lose-its-canals-better-evidence-replaced-them
 title: Mars Did Not Lose Its Canals. Better Evidence Replaced Them
-dek: The straight lines once mapped across Mars grew from difficult observations, persuasive interpretation and cultural hope; spacecraft replaced that picture without making the planet less interesting.
+dek: The straight lines once mapped across Mars grew from difficult observations,
+  persuasive interpretation and cultural hope; spacecraft replaced that picture without
+  making the planet less interesting.
 section: wonder
 type: analysis
 depth: open
 lang: en
 date: '2026-09-27'
-status: draft
+status: review
 confidence: 95
 load: 0
 topics: []
@@ -18,7 +20,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual antique map of Mars with ruler-straight lines dissolving into a detailed branching river valley seen from orbit, historical science editorial illustration, no text, no logo, no people
+image_query: conceptual antique map of Mars with ruler-straight lines dissolving into
+  a detailed branching river valley seen from orbit, historical science editorial
+  illustration, no text, no logo, no people
 sources:
 - name: NASA — 55 Years Ago, Mariner 4 First to Explore Mars
   url: https://www.nasa.gov/history/55-years-ago-mariner-4-first-to-explore-mars/
@@ -44,7 +48,9 @@ quiz:
   - Channels or gullies, without a claim that they were artificial
   - River valleys already photographed by a spacecraft
   answer: 1
-  explanation: NASA's historical account says Schiaparelli used the Italian word for channels or gullies and made no inference about their origin. The artificial irrigation system was a later interpretation promoted most famously by Percival Lowell.
+  explanation: NASA's historical account says Schiaparelli used the Italian word for
+    channels or gullies and made no inference about their origin. The artificial irrigation
+    system was a later interpretation promoted most famously by Percival Lowell.
 review_reason: ''
 ---
 
