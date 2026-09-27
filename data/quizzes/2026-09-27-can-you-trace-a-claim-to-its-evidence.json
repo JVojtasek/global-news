@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "slug": "can-you-trace-a-claim-to-its-evidence",
+  "date": "2026-09-27",
+  "category": "media-literacy",
+  "mode": "assessment",
+  "estimated_minutes": 5,
+  "diagnostic": false,
+  "copy": {
+    "title": {"en": "Can you trace a claim to its evidence?", "cs": "Dokážete dohledat tvrzení až k důkazu?"},
+    "dek": {"en": "Eight situations test whether you can move from a persuasive post or headline to the original record, its context and independent checks.", "cs": "Osm situací prověří, zda se od přesvědčivého příspěvku či titulku dokážete dostat k původnímu záznamu, jeho kontextu a nezávislému ověření."},
+    "intro": {"en": "Choose what you would most likely do today, not the ideal answer. The scenarios reward a visible evidence trail, not agreement with any viewpoint. The quiz does not collect your answers.", "cs": "Vyberte, co byste dnes nejspíše skutečně udělali, ne ideální odpověď. Situace oceňují dohledatelnou cestu k důkazům, nikoli souhlas s určitým názorem. Kvíz vaše odpovědi neshromažďuje."},
+    "disclaimer": {"en": "This is an original educational self-check based on public media-literacy and verification guidance. It does not reproduce a licensed instrument, diagnose ability, certify that a claim is true, predict harm, gate any service or store answers. Verification methods must be adapted to the claim, source and stakes.", "cs": "Jde o původní vzdělávací sebehodnocení založené na veřejných doporučeních k mediální gramotnosti a ověřování. Nepřebírá licencovaný nástroj, nediagnostikuje schopnosti, nepotvrzuje pravdivost tvrzení, nepředpovídá újmu, nerozhoduje o přístupu ke službě ani neukládá odpovědi. Metodu ověřování je nutné přizpůsobit tvrzení, zdroji a závažnosti situace."}
+  },
+  "dimensions": [
+    {
+      "id": "pause",
+      "label": {"en": "Name the claim", "cs": "Pojmenovat tvrzení"},
+      "why": {"en": "A precise claim is easier to check than a general feeling created by a headline, image or confident tone.", "cs": "Přesné tvrzení se ověřuje lépe než obecný dojem vyvolaný titulkem, obrázkem nebo sebejistým tónem."},
+      "action": {"en": "Write the smallest factual statement that would need evidence before searching for confirmation.", "cs": "Než začnete hledat potvrzení, zapište nejmenší faktické tvrzení, které potřebuje důkaz."}
+    },
+    {
+      "id": "origin",
+      "label": {"en": "Follow the source chain", "cs": "Sledovat řetězec zdrojů"},
+      "why": {"en": "A screenshot or news summary may omit qualifications that are visible in the original statement, dataset, ruling or study.", "cs": "Snímek obrazovky nebo mediální shrnutí může vynechat omezení, která jsou viditelná v původním prohlášení, datové sadě, rozsudku či studii."},
+      "action": {"en": "Open links upstream until you reach the record that actually contains the evidence or decision.", "cs": "Otevírejte odkazy směrem k původu, dokud nedojdete k záznamu, který skutečně obsahuje důkaz nebo rozhodnutí."}
+    },
+    {
+      "id": "crosscheck",
+      "label": {"en": "Read laterally", "cs": "Číst laterálně"},
+      "why": {"en": "Leaving a page to see what independent sources say can reveal reputation, shared sourcing and genuine disagreement.", "cs": "Opuštění stránky a kontrola nezávislých zdrojů může odhalit pověst, společný původ informací i skutečný nesouhlas."},
+      "action": {"en": "Search the organisation, author and key claim in separate tabs, then identify whether reports are truly independent.", "cs": "Vyhledejte organizaci, autora a klíčové tvrzení v samostatných kartách a zjistěte, zda jsou zprávy skutečně nezávislé."}
+    },
+    {
+      "id": "context",
+      "label": {"en": "Restore context", "cs": "Obnovit kontext"},
+      "why": {"en": "Dates, definitions, denominators, geography and uncertainty can change what a technically accurate fragment means.", "cs": "Datum, definice, jmenovatel, zeměpisný rozsah a nejistota mohou změnit význam technicky přesného úryvku."},
+      "action": {"en": "Check when, where and how the evidence was produced and what limitation the source states.", "cs": "Ověřte, kdy, kde a jak důkaz vznikl a jaké omezení uvádí samotný zdroj."}
+    }
+  ],
+  "questions": [
+    {
+      "id": "new-study-post",
+      "dimension": "pause",
+      "text": {"en": "A viral post says a ‘new study’ proves a familiar food prevents a serious disease, but gives no link. What do you do first?", "cs": "Virální příspěvek tvrdí, že ‚nová studie‘ dokazuje, že běžná potravina brání vážné nemoci, ale neuvádí odkaz. Co uděláte nejdříve?"},
+      "options": [
+        {"label": {"en": "Share it because the claim sounds easy to test", "cs": "Sdílím jej, protože tvrzení zní snadno ověřitelně"}, "score": 0},
+        {"label": {"en": "Read the comments to see whether most people agree", "cs": "Přečtu komentáře a zjistím, zda většina lidí souhlasí"}, "score": 1},
+        {"label": {"en": "Restate the exact claim, then search for the named study, authors or journal", "cs": "Přesně přeformuluji tvrzení a vyhledám uvedenou studii, autory nebo časopis"}, "score": 3}
+      ]
+    },
+    {
+      "id": "loaded-headline",
+      "dimension": "pause",
+      "text": {"en": "A headline says an agency ‘admits failure,’ while the article describes a missed target. What is the strongest next step?", "cs": "Titulek tvrdí, že úřad ‚přiznává selhání‘, zatímco článek popisuje nesplněný cíl. Jaký je nejlepší další krok?"},
+      "options": [
+        {"label": {"en": "Treat the headline's interpretation as the fact to be checked", "cs": "Považuji interpretaci titulku za fakt, který se má ověřit"}, "score": 0},
+        {"label": {"en": "Compare only other headlines about the same event", "cs": "Porovnám pouze jiné titulky o téže události"}, "score": 1},
+        {"label": {"en": "Separate the measurable claim from the word ‘failure’ and check each", "cs": "Oddělím měřitelné tvrzení od slova ‚selhání‘ a ověřím obojí"}, "score": 3}
+      ]
+    },
+    {
+      "id": "agency-screenshot",
+      "dimension": "origin",
+      "text": {"en": "A screenshot appears to quote a public agency announcing a new rule. How do you verify it?", "cs": "Snímek obrazovky údajně cituje veřejný úřad, který oznamuje nové pravidlo. Jak jej ověříte?"},
+      "options": [
+        {"label": {"en": "Trust the screenshot if the logo and colours look right", "cs": "Důvěřuji snímku, pokud logo a barvy vypadají správně"}, "score": 0},
+        {"label": {"en": "Look for another account that reposted the same image", "cs": "Hledám jiný účet, který zveřejnil stejný obrázek"}, "score": 1},
+        {"label": {"en": "Find the statement or rule on the agency's official site and read the full text", "cs": "Najdu prohlášení nebo pravidlo na oficiálním webu úřadu a přečtu celý text"}, "score": 3}
+      ]
+    },
+    {
+      "id": "article-link-chain",
+      "dimension": "origin",
+      "text": {"en": "An article links to another article, which cites a company press release about a performance record. Where should the evidence trail end?", "cs": "Článek odkazuje na jiný článek, který cituje firemní tiskovou zprávu o výkonnostním rekordu. Kde má cesta k důkazům skončit?"},
+      "options": [
+        {"label": {"en": "At the first article because it summarises the claim clearly", "cs": "U prvního článku, protože tvrzení jasně shrnuje"}, "score": 0},
+        {"label": {"en": "At the press release because it is the oldest link", "cs": "U tiskové zprávy, protože je nejstarším odkazem"}, "score": 1},
+        {"label": {"en": "At the underlying measurement or filing, while keeping the press release's framing visible", "cs": "U podkladového měření nebo podání, přičemž zachovám viditelné rámování tiskové zprávy"}, "score": 3}
+      ]
+    },
+    {
+      "id": "many-similar-reports",
+      "dimension": "crosscheck",
+      "text": {"en": "Five sites repeat the same striking statistic in nearly identical language. What matters most?", "cs": "Pět webů opakuje stejnou nápadnou statistiku téměř totožnými slovy. Na čem záleží nejvíce?"},
+      "options": [
+        {"label": {"en": "The number of pages proves broad confirmation", "cs": "Počet stránek dokazuje široké potvrzení"}, "score": 0},
+        {"label": {"en": "The most professional-looking site is probably independent", "cs": "Nejprofesionálněji vypadající web je pravděpodobně nezávislý"}, "score": 1},
+        {"label": {"en": "Trace whether they rely on one wire story, release or dataset, then seek an independent check", "cs": "Zjistím, zda vycházejí z jedné agenturní zprávy, tiskové zprávy či datové sady, a hledám nezávislé ověření"}, "score": 3}
+      ]
+    },
+    {
+      "id": "unfamiliar-expert-site",
+      "dimension": "crosscheck",
+      "text": {"en": "An unfamiliar website presents an author as a leading expert. What is the most useful check?", "cs": "Neznámý web představuje autora jako předního odborníka. Co je nejužitečnější ověřit?"},
+      "options": [
+        {"label": {"en": "Read the site's own ‘About’ page and stop there", "cs": "Přečtu stránku ‚O nás‘ daného webu a tím skončím"}, "score": 0},
+        {"label": {"en": "Count how many followers the author has", "cs": "Spočítám, kolik má autor sledujících"}, "score": 1},
+        {"label": {"en": "Open new tabs to check relevant expertise, affiliations and how independent sources describe both", "cs": "V nových kartách ověřím relevantní odbornost, vazby a jak autora i web popisují nezávislé zdroje"}, "score": 3}
+      ]
+    },
+    {
+      "id": "chart-without-baseline",
+      "dimension": "context",
+      "text": {"en": "A chart shows a dramatic rise but omits the date range, baseline and source. What do you need before interpreting it?", "cs": "Graf ukazuje dramatický růst, ale chybí období, výchozí hodnota a zdroj. Co potřebujete před jeho interpretací?"},
+      "options": [
+        {"label": {"en": "Only the final value, because the direction is obvious", "cs": "Pouze konečnou hodnotu, protože směr je zřejmý"}, "score": 0},
+        {"label": {"en": "A clearer image of the same cropped chart", "cs": "Ostřejší obrázek stejného oříznutého grafu"}, "score": 1},
+        {"label": {"en": "The original dataset or report, definitions, full axes, period and denominator", "cs": "Původní datovou sadu či zprávu, definice, celé osy, období a jmenovatel"}, "score": 3}
+      ]
+    },
+    {
+      "id": "old-video-new-caption",
+      "dimension": "context",
+      "text": {"en": "A dramatic video is shared as evidence of an event happening today. What best restores context?", "cs": "Dramatické video je sdíleno jako důkaz události, která se údajně děje dnes. Co nejlépe obnoví kontext?"},
+      "options": [
+        {"label": {"en": "The caption and upload time on the newest post", "cs": "Popisek a čas nahrání u nejnovějšího příspěvku"}, "score": 0},
+        {"label": {"en": "A comment identifying a possible city", "cs": "Komentář, který uvádí možné město"}, "score": 1},
+        {"label": {"en": "The earliest findable upload, visual location clues and current independent reporting", "cs": "Nejstarší dohledatelné nahrání, vizuální stopy k místu a současné nezávislé zpravodajství"}, "score": 3}
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 8,
+      "title": {"en": "The claim often arrives before the trail", "cs": "Tvrzení často přichází dříve než cesta k důkazům"},
+      "summary": {"en": "Your answers suggest that presentation, repetition or a familiar logo may sometimes stand in for evidence. This score measures eight hypothetical choices, not your overall judgment. Start with one habit: before sharing, open a new tab and find the original record behind the key claim.", "cs": "Vaše odpovědi naznačují, že prezentace, opakování nebo známé logo někdy zastoupí důkaz. Skóre měří osm hypotetických voleb, ne váš celkový úsudek. Začněte jedním návykem: před sdílením otevřete novou kartu a najděte původní záznam za klíčovým tvrzením."}
+    },
+    {
+      "min": 9,
+      "max": 16,
+      "title": {"en": "Useful checks, uneven source chains", "cs": "Užitečné kontroly, nerovnoměrné řetězce zdrojů"},
+      "summary": {"en": "You use some strong verification moves, but a screenshot, repeated report or missing context can still shorten the trail. The scenarios cannot capture every source or time constraint. Strengthen your lowest-scoring dimension on the next claim that matters to you.", "cs": "Používáte některé silné ověřovací postupy, ale snímek, opakovaná zpráva nebo chybějící kontext mohou cestu stále zkrátit. Situace nemohou zachytit každý zdroj ani časové omezení. U příštího důležitého tvrzení posilte svou nejslabší dimenzi."}
+    },
+    {
+      "min": 17,
+      "max": 24,
+      "title": {"en": "A deliberate evidence trail", "cs": "Promyšlená cesta k důkazům"},
+      "summary": {"en": "Across these scenarios, you tend to define the claim, trace it upstream, check laterally and restore context. No score certifies that every conclusion will be correct. Keep the habit honest by recording uncertainty and revisiting a conclusion when the original evidence changes.", "cs": "V těchto situacích máte sklon přesně vymezit tvrzení, dojít k jeho původu, ověřovat laterálně a obnovit kontext. Žádné skóre nezaručuje správnost každého závěru. Udržujte návyk poctivý tím, že zaznamenáte nejistotu a závěr přehodnotíte, když se původní důkazy změní."}
+    }
+  ],
+  "sources": [
+    {
+      "name": "Digital Inquiry Group — Teaching Lateral Reading",
+      "url": "https://cor.inquirygroup.org/curriculum/collections/teaching-lateral-reading/",
+      "published": "",
+      "type": "public media-literacy guidance on leaving a site to investigate it through other sources; no assessment items reproduced"
+    },
+    {
+      "name": "Stanford Graduate School of Education — Lateral reading study",
+      "url": "https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds",
+      "published": "2022-04-19",
+      "type": "research summary on teaching lateral reading; no assessment items reproduced"
+    },
+    {
+      "name": "Reuters Fact Check — About our fact-checking work",
+      "url": "https://www.reuters.com/fact-check/about/",
+      "published": "",
+      "type": "editorial methodology for identifying a key claim, tracing origin and examining evidence; no assessment items reproduced"
+    },
+    {
+      "name": "UNESCO — Practical Guide to Identifying Fake News",
+      "url": "https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf",
+      "published": "2025-04-10",
+      "type": "public media-literacy guidance on source, date, author, data and cross-checking; no assessment items reproduced"
+    }
+  ],
+  "method": {
+    "en": "Original educational self-check created for My Paper from public lateral-reading and verification principles. It is not adapted from a validated, proprietary or licensed instrument. Scores describe choices in eight hypothetical situations only and are not collected.",
+    "cs": "Původní vzdělávací sebehodnocení vytvořené pro My Paper z veřejných zásad laterálního čtení a ověřování. Není převzato z validovaného, proprietárního ani licencovaného nástroje. Skóre popisuje pouze volby v osmi hypotetických situacích a odpovědi se neshromažďují."
+  }
+}
