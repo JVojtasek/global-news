@@ -2829,6 +2829,131 @@
    ]
   },
   {
+   "id": "eca0fc692bc0",
+   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+   "section": "world",
+   "entities": [
+    "heathrow",
+    "tory",
+    "hospitality",
+    "pmqs",
+    "macron",
+    "burnham",
+    "guardian",
+    "editorial",
+    "andy",
+    "starmer",
+    "john",
+    "crace",
+    "u-turn"
+   ],
+   "event_ids": [
+    "eca0fc692bc0",
+    "79767a596611",
+    "ccb2c5bc9e36",
+    "ebc944549304",
+    "02df7fa6f0a5",
+    "972b0fe1af77",
+    "cc774da80403",
+    "a6788519913e"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-09-27",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+     "sources": 3,
+     "score": 58,
+     "event_id": "eca0fc692bc0",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
+     "sources": 2,
+     "score": 49,
+     "event_id": "79767a596611",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
+      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ccb2c5bc9e36",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ebc944549304",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
+      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+     "sources": 1,
+     "score": 41,
+     "event_id": "02df7fa6f0a5",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
+     "sources": 2,
+     "score": 46,
+     "event_id": "972b0fe1af77",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Andy Burnham urged to set dementia waiting-time target",
+     "sources": 2,
+     "score": 46,
+     "event_id": "cc774da80403",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Andy Burnham refuses to back third runway at Heathrow",
+     "sources": 4,
+     "score": 70,
+     "event_id": "a6788519913e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
+     ]
+    }
+   ]
+  },
+  {
    "id": "a23f76d1ffbb",
    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
    "section": "world",
@@ -2946,6 +3071,35 @@
       "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "007fe3baf6f8",
+   "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+   "section": "world",
+   "entities": [
+    "scourge",
+    "lourdes",
+    "pope"
+   ],
+   "event_ids": [
+    "007fe3baf6f8"
+   ],
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-09-27",
+   "timeline": [
+    {
+     "date": "2026-09-27",
+     "headline": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+     "sources": 3,
+     "score": 55,
+     "event_id": "007fe3baf6f8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/pope-decries-scourge-of-sexual-abuse-during-france-visit/a-79449335?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260927-pope-leo-continues-his-visit-to-france-in-lourdes"
      ]
     }
    ]
@@ -8216,117 +8370,6 @@
    ]
   },
   {
-   "id": "eca0fc692bc0",
-   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-   "section": "world",
-   "entities": [
-    "tory",
-    "u-turn",
-    "andy",
-    "crace",
-    "guardian",
-    "macron",
-    "starmer",
-    "burnham",
-    "editorial",
-    "john",
-    "hospitality",
-    "pmqs"
-   ],
-   "event_ids": [
-    "eca0fc692bc0",
-    "79767a596611",
-    "ccb2c5bc9e36",
-    "ebc944549304",
-    "02df7fa6f0a5",
-    "972b0fe1af77",
-    "cc774da80403"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-09-17",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-     "sources": 3,
-     "score": 58,
-     "event_id": "eca0fc692bc0",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
-     "sources": 2,
-     "score": 49,
-     "event_id": "79767a596611",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
-      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ccb2c5bc9e36",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ebc944549304",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
-      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
-     "sources": 1,
-     "score": 41,
-     "event_id": "02df7fa6f0a5",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
-      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
-     "sources": 2,
-     "score": 46,
-     "event_id": "972b0fe1af77",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Andy Burnham urged to set dementia waiting-time target",
-     "sources": 2,
-     "score": 46,
-     "event_id": "cc774da80403",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
-     ]
-    }
-   ]
-  },
-  {
    "id": "182e44deb83c",
    "title": "US Congress passes Russia sanctions bill",
    "section": "world",
@@ -11898,5 +11941,5 @@
    ]
   }
  ],
- "updated": "2026-09-27T09:27:28+00:00"
+ "updated": "2026-09-27T12:35:13+00:00"
 }
