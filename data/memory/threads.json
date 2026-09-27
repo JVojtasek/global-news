@@ -1633,46 +1633,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "scherpen",
-    "mccabe",
-    "premier",
-    "league",
-    "liverpool",
-    "millionaire",
-    "manchester",
-    "aston",
-    "gakpo",
-    "villa",
-    "golden",
-    "forest",
-    "fifa",
+    "united",
+    "kang",
     "fabregas",
     "ever",
-    "rwandan",
-    "carrick",
-    "arsenal",
     "greenwood",
-    "troy's",
-    "lens",
-    "sports",
-    "salah",
-    "it's",
-    "phil",
-    "wants",
-    "boot",
-    "napoli",
-    "tottenham",
-    "kang",
-    "city's",
-    "london",
-    "wilson",
-    "city",
-    "ipswich",
     "michael",
+    "fifa",
+    "rwandan",
+    "phil",
+    "arsenal",
+    "wilson",
+    "villa",
+    "salah",
+    "ipswich",
+    "london",
+    "troy's",
+    "napoli",
+    "consequences",
+    "city's",
+    "boot",
+    "gakpo",
+    "scherpen",
+    "liverpool",
+    "forest",
+    "league",
+    "mccabe",
+    "carrick",
+    "golden",
+    "city",
+    "tottenham",
+    "sports",
+    "premier",
+    "millionaire",
+    "lens",
     "club",
-    "united",
+    "manchester",
     "matildas",
-    "consequences"
+    "aston",
+    "it's",
+    "wants"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1743,22 +1743,12 @@
     "9825e4caaa27",
     "a46264ed02f0",
     "ff0270be93d1",
-    "03c4565d185b"
+    "03c4565d185b",
+    "76f2aa1f6b70"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-27",
    "timeline": [
-    {
-     "date": "2026-08-22",
-     "headline": "Hull City v Manchester United: Premier League – live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3ed1a03ec11c",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/aug/22/hull-city-v-manchester-united-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-23",
      "headline": "Newcastle United v Liverpool: Premier League – live",
@@ -2444,6 +2434,17 @@
       "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone"
      ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "How drawn-out saga of Manchester City’s alleged cheating came to this",
+     "sources": 2,
+     "score": 44,
+     "event_id": "76f2aa1f6b70",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi",
+      "https://www.theguardian.com/football/2026/sep/27/tony-pulis-says-he-and-stoke-were-cheated-in-2011-fa-cup-final-after-manchester-city-verdict"
+     ]
     }
    ]
   },
@@ -3044,7 +3045,8 @@
    ],
    "event_ids": [
     "cc5e6502b0d5",
-    "fa9c2e8e5738"
+    "fa9c2e8e5738",
+    "549b64aa5243"
    ],
    "first_seen": "2026-09-27",
    "last_seen": "2026-09-27",
@@ -3071,6 +3073,18 @@
       "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+     "sources": 2,
+     "score": 49,
+     "event_id": "549b64aa5243",
+     "links": [
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
      ]
     }
    ]
@@ -11941,5 +11955,5 @@
    ]
   }
  ],
- "updated": "2026-09-27T12:35:13+00:00"
+ "updated": "2026-09-27T15:24:33+00:00"
 }

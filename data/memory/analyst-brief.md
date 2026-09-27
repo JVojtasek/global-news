@@ -39,7 +39,6 @@ Paměť obsahuje **119 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 40 dní · 60 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) Arteta agrees new deal with Premier League champions Arsenal
   - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
   - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
   - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
@@ -49,6 +48,7 @@ Paměť obsahuje **119 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
   - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
   - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
+  - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů
