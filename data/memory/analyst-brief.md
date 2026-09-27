@@ -1,10 +1,24 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-26
+# ANALYTICKÉ ZADÁNÍ — 2026-09-27
 
-Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 49 dní · 60 záznamů
+- časová osa:
+  - **2026-09-14** (3 zdrojů) Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
+  - **2026-09-14** (4 zdrojů) Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+  - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
+  - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
+  - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
+  - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
+  - **2026-09-26** (2 zdrojů) Trump rejects Iran proposal to reopen Strait of Hormuz
+  - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
+  - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
+  - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 39 dní · 60 záznamů
@@ -19,20 +33,6 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
   - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
   - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 48 dní · 60 záznamů
-- časová osa:
-  - **2026-09-13** (2 zdrojů) Iran war reshapes Brics ties but also exposes divisions
-  - **2026-09-14** (3 zdrojů) Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
-  - **2026-09-14** (4 zdrojů) Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
-  - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
-  - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
-  - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
-  - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
-  - **2026-09-26** (2 zdrojů) Trump rejects Iran proposal to reopen Strait of Hormuz
-  - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
-  - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů
@@ -51,9 +51,8 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 48 dní · 58 záznamů
+- rubrika `world` · sledováno 49 dní · 59 záznamů
 - časová osa:
-  - **2026-09-25** (2 zdrojů) Bellamy wants more from Wales after loss to Portugal
   - **2026-09-25** (2 zdrojů) Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
   - **2026-09-25** (2 zdrojů) UN General Assembly: Leaders discuss AI, global conflicts
   - **2026-09-25** (2 zdrojů) Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
@@ -63,6 +62,7 @@ Paměť obsahuje **117 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-09-26** (2 zdrojů) Israel-Ireland match to go ahead in Nations League after player vote
   - **2026-09-26** (2 zdrojů) Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
   - **2026-09-26** (2 zdrojů) England should stop trying to replicate Spain - Gordon
+  - **2026-09-27** (3 zdrojů) Ngumoha not in England squad to face Spain
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-10 → 2026-08-17: „Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws fr“
 
