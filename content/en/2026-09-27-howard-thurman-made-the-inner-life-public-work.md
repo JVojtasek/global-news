@@ -1,14 +1,15 @@
 ---
-title: "Howard Thurman Made the Inner Life Public Work"
+title: Howard Thurman Made the Inner Life Public Work
 slug: howard-thurman-made-the-inner-life-public-work
-dek: "The theologian's counsel to Martin Luther King Jr. reveals a larger claim: public courage needs an inner discipline, but reflection must return to action."
-date: 2026-09-27
+dek: 'The theologian''s counsel to Martin Luther King Jr. reveals a larger claim:
+  public courage needs an inner discipline, but reflection must return to action.'
+date: '2026-09-27'
 section: soul
 type: analysis
 depth: open
 lang: en
-status: draft
-confidence: 89
+status: published
+confidence: 94
 load: 0
 topics: []
 edition_slot: 6
@@ -16,31 +17,34 @@ automation_generated: true
 automation_role: edition
 generator: chatgpt-work
 event_id: person-howard-thurman-inner-life-public-courage
-image_query: "Howard Thurman portrait Boston University public domain"
-image_alt: "Portrait of theologian and educator Howard Thurman"
-qma_path: ""
+image_query: Howard Thurman portrait Boston University public domain
+image_alt: Portrait of theologian and educator Howard Thurman
+qma_path: ''
 tickers: []
 sources:
-  - name: "The Martin Luther King, Jr. Research and Education Institute — Howard Thurman"
-    url: "https://kinginstitute.stanford.edu/thurman-howard"
-    published: ""
-  - name: "Boston University Howard Thurman Papers Project — About Howard Thurman"
-    url: "https://www.bu.edu/htpp/thurman/"
-    published: ""
-  - name: "BU Today — Who Was Howard Thurman?"
-    url: "https://www.bu.edu/articles/2020/who-was-howard-thurman/"
-    published: "2020-01-15"
-  - name: "Boston University Howard Thurman Center — Who is Howard Thurman?"
-    url: "https://www.bu.edu/thurman/about-us/who-is-howard-thurman/"
-    published: ""
+- name: The Martin Luther King, Jr. Research and Education Institute — Howard Thurman
+  url: https://kinginstitute.stanford.edu/thurman-howard
+  published: ''
+- name: Boston University Howard Thurman Papers Project — About Howard Thurman
+  url: https://www.bu.edu/htpp/thurman/
+  published: ''
+- name: BU Today — Who Was Howard Thurman?
+  url: https://www.bu.edu/articles/2020/who-was-howard-thurman/
+  published: '2020-01-15'
+- name: Boston University Howard Thurman Center — Who is Howard Thurman?
+  url: https://www.bu.edu/thurman/about-us/who-is-howard-thurman/
+  published: ''
 quiz:
-  question: "What role did Howard Thurman's emphasis on the inner life play in public action?"
+  question: What role did Howard Thurman's emphasis on the inner life play in public
+    action?
   options:
-    - "It offered a discipline for sustaining action without letting fear or hatred set its terms"
-    - "It required people to withdraw permanently from institutions and movements"
-    - "It replaced the need for collective organising and legal change"
+  - It offered a discipline for sustaining action without letting fear or hatred set
+    its terms
+  - It required people to withdraw permanently from institutions and movements
+  - It replaced the need for collective organising and legal change
   answer: 0
-  explanation: "Thurman treated spiritual discipline as support for ethical public action, not as a substitute for organising, institutions or material change."
+  explanation: Thurman treated spiritual discipline as support for ethical public
+    action, not as a substitute for organising, institutions or material change.
 ---
 
 ## BRIEFLY

@@ -1,14 +1,15 @@
 ---
-title: "An AI Answer Is a Sample, Not a Stored Page"
+title: An AI Answer Is a Sample, Not a Stored Page
 slug: an-ai-answer-is-a-sample-not-a-stored-page
-dek: "The same prompt can lead down different token paths, which is useful for invention but never a substitute for checking evidence."
-date: 2026-09-27
+dek: The same prompt can lead down different token paths, which is useful for invention
+  but never a substitute for checking evidence.
+date: '2026-09-27'
 section: ai
 type: analysis
 depth: open
 lang: en
-status: draft
-confidence: 90
+status: published
+confidence: 88
 load: 0
 topics: []
 edition_slot: 5
@@ -16,28 +17,31 @@ automation_generated: true
 automation_role: edition
 generator: chatgpt-work
 event_id: evergreen-ai-answer-sampling-repeatability
-image_query: "abstract probability distribution tokens generative AI"
-image_alt: "A field of possible word tokens branching into several paths"
-qma_path: ""
+image_query: abstract probability distribution tokens generative AI
+image_alt: A field of possible word tokens branching into several paths
+qma_path: ''
 tickers: []
 sources:
-  - name: "Hugging Face Transformers — Generation strategies"
-    url: "https://huggingface.co/docs/transformers/generation_strategies"
-    published: ""
-  - name: "Google Research — Attention Is All You Need"
-    url: "https://research.google/pubs/attention-is-all-you-need/"
-    published: "2017-06-12"
-  - name: "NIST — Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile"
-    url: "https://doi.org/10.6028/NIST.AI.600-1"
-    published: "2024-07-26"
+- name: Hugging Face Transformers — Generation strategies
+  url: https://huggingface.co/docs/transformers/generation_strategies
+  published: ''
+- name: Google Research — Attention Is All You Need
+  url: https://research.google/pubs/attention-is-all-you-need/
+  published: '2017-06-12'
+- name: 'NIST — Artificial Intelligence Risk Management Framework: Generative Artificial
+    Intelligence Profile'
+  url: https://doi.org/10.6028/NIST.AI.600-1
+  published: '2024-07-26'
 quiz:
-  question: "What does a different answer to the same prompt prove by itself?"
+  question: What does a different answer to the same prompt prove by itself?
   options:
-    - "That the second answer is more accurate"
-    - "That generation can follow more than one plausible path"
-    - "That the model has learned new facts between the two requests"
+  - That the second answer is more accurate
+  - That generation can follow more than one plausible path
+  - That the model has learned new facts between the two requests
   answer: 1
-  explanation: "Sampling and other changes in the generation pipeline can produce different wording or conclusions. Accuracy still requires evidence; variation alone does not rank the answers."
+  explanation: Sampling and other changes in the generation pipeline can produce different
+    wording or conclusions. Accuracy still requires evidence; variation alone does
+    not rank the answers.
 ---
 
 ## BRIEFLY
