@@ -1,14 +1,15 @@
 ---
 slug: the-safest-ladder-decision-happens-before-the-first-step
 title: The Safest Ladder Decision Happens Before the First Step
-dek: Most ladder safety is decided on the ground—by choosing the right equipment, checking it, setting it correctly and admitting when the task needs another tool.
+dek: Most ladder safety is decided on the ground—by choosing the right equipment,
+  checking it, setting it correctly and admitting when the task needs another tool.
 section: safety
 type: analysis
 depth: open
 lang: en
 date: '2026-09-28'
-status: draft
-confidence: 96
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,8 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration of an unoccupied ladder standing correctly on a firm level floor beside a safer work platform, no people, no text, no logo
+image_query: conceptual editorial illustration of an unoccupied ladder standing correctly
+  on a firm level floor beside a safer work platform, no people, no text, no logo
 sources:
 - name: CDC/NIOSH — Ladder Safety App
   url: https://www.cdc.gov/niosh/falls/ladder/ladder-safety-app.html
@@ -41,13 +43,15 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: How should a leaning ladder normally be positioned against a vertical surface?
+  question: How should a leaning ladder normally be positioned against a vertical
+    surface?
   options:
   - With the base about one unit out for every four units of working height
   - With the base one unit out for every two units of working height
   - As upright as possible so the base sits almost directly below the top
   answer: 0
-  explanation: OSHA and HSE guidance use the 1-in-4 rule, approximately a 75-degree angle, for an ordinary leaning ladder.
+  explanation: OSHA and HSE guidance use the 1-in-4 rule, approximately a 75-degree
+    angle, for an ordinary leaning ladder.
 review_reason: ''
 ---
 

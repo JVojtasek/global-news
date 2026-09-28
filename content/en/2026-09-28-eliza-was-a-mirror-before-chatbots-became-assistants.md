@@ -9,7 +9,7 @@ type: analysis
 depth: open
 lang: en
 date: '2026-09-28'
-status: draft
+status: published
 confidence: 95
 load: 0
 topics: []

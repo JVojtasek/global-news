@@ -1,14 +1,15 @@
 ---
 slug: a-school-backpack-is-a-fit-problem-not-just-a-weight-percentage
 title: A School Backpack Is a Fit Problem, Not Just a Weight Percentage
-dek: The familiar 10-to-15-percent rule can start a useful check. It cannot replace watching how a particular child carries a particular load through a real day.
+dek: The familiar 10-to-15-percent rule can start a useful check. It cannot replace
+  watching how a particular child carries a particular load through a real day.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-09-28'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual editorial illustration of a child-size school backpack fitted close and balanced on a simple bench, with a small orderly set of school items beside it, no people, no text, no logo, no readable interface
+image_query: conceptual editorial illustration of a child-size school backpack fitted
+  close and balanced on a simple bench, with a small orderly set of school items beside
+  it, no people, no text, no logo, no readable interface
 sources:
 - name: Associated Press — School backpack overload
   url: https://apnews.com/article/b4b0e22c66fa84e57e0252bc8446e51b
@@ -26,7 +29,8 @@ sources:
 - name: American Academy of Pediatrics — School Backpack Safety
   url: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Backpack-Safety.aspx
   published: '2026-08-27'
-- name: British Journal of Sports Medicine — Do schoolbags cause back pain in children and adolescents?
+- name: British Journal of Sports Medicine — Do schoolbags cause back pain in children
+    and adolescents?
   url: https://doi.org/10.1136/bjsports-2017-098927
   published: '2018-05-02'
 - name: European Journal of Pain — Schoolbag weight and low back pain meta-analysis
@@ -38,13 +42,18 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What is the strongest evidence-based way to use the 10-to-15-percent backpack guideline?
+  question: What is the strongest evidence-based way to use the 10-to-15-percent backpack
+    guideline?
   options:
-  - Treat it as a screening prompt, then check fit, carried items, journey and the child's actual response
+  - Treat it as a screening prompt, then check fit, carried items, journey and the
+    child's actual response
   - Treat 10 percent as a proven boundary below which back pain cannot occur
-  - Ignore weight entirely because schoolbags can never contribute to discomfort or injury
+  - Ignore weight entirely because schoolbags can never contribute to discomfort or
+    injury
   answer: 0
-  explanation: Reviews have not established a universal causal threshold, but load still matters mechanically. A percentage is most useful when combined with fit, packing, exposure and observation of the individual child.
+  explanation: Reviews have not established a universal causal threshold, but load
+    still matters mechanically. A percentage is most useful when combined with fit,
+    packing, exposure and observation of the individual child.
 review_reason: 'citlivé téma: children'
 ---
 

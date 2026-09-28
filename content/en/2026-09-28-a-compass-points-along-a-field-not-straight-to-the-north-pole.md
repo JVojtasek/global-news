@@ -1,14 +1,15 @@
 ---
 slug: a-compass-points-along-a-field-not-straight-to-the-north-pole
 title: A Compass Points Along a Field, Not Straight to the North Pole
-dek: The red needle follows the local magnetic field. Safe map navigation begins by deciding which north your bearing uses and correcting for place and date.
+dek: The red needle follows the local magnetic field. Safe map navigation begins by
+  deciding which north your bearing uses and correcting for place and date.
 section: wonder
 type: analysis
 depth: open
 lang: en
 date: '2026-09-28'
-status: draft
-confidence: 96
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -18,12 +19,14 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: conceptual compass needle over three diverging north lines on a topographic map, precise editorial illustration, no text, no person, no logo
+image_query: conceptual compass needle over three diverging north lines on a topographic
+  map, precise editorial illustration, no text, no person, no logo
 sources:
 - name: U.S. Geological Survey — What Is Declination?
   url: https://www.usgs.gov/faqs/what-declination
   published: '2017-07-31'
-- name: NOAA National Centers for Environmental Information — World Magnetic Model 2025 Released
+- name: NOAA National Centers for Environmental Information — World Magnetic Model
+    2025 Released
   url: https://www.ncei.noaa.gov/news/world-magnetic-model-2025-released
   published: '2024-12-17'
 - name: National Park Service — Get the Right Angle
@@ -35,13 +38,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Before following a bearing from a paper map with a magnetic compass, what should you establish first?
+  question: Before following a bearing from a paper map with a magnetic compass, what
+    should you establish first?
   options:
-  - Whether the map bearing uses true or grid north, and the current local correction to magnetic north
+  - Whether the map bearing uses true or grid north, and the current local correction
+    to magnetic north
   - Whether the red end of the needle points toward the geographic North Pole
   - Whether the compass and phone show the same number while held together
   answer: 0
-  explanation: Maps, compasses and navigation apps can use different north references. The safe conversion depends on the map reference and a current local declination or grid-magnetic angle; nearby electronics can also disturb a compass.
+  explanation: Maps, compasses and navigation apps can use different north references.
+    The safe conversion depends on the map reference and a current local declination
+    or grid-magnetic angle; nearby electronics can also disturb a compass.
 review_reason: ''
 ---
 
