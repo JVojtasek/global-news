@@ -163,7 +163,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-24  (2 zdrojů, síla 40)  Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
   2026-09-24  (2 zdrojů, síla 48)  Felix gives Portugal win over Wales in Nations League opener
   2026-09-25  (2 zdrojů, síla 60)  Bellamy wants more from Wales after loss to Portugal
   2026-09-25  (2 zdrojů, síla 46)  Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
@@ -183,6 +182,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
   2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
   2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
+  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
 ```
 
 ---

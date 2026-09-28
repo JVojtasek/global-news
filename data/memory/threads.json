@@ -840,45 +840,45 @@
    "section": "world",
    "entities": [
     "catholic",
-    "norway",
-    "assembly",
-    "israel-ireland",
-    "northern",
-    "turkey",
-    "spain",
-    "italy",
-    "kane",
+    "serbia",
     "gaza's",
-    "houthis",
-    "wales",
-    "nations",
-    "uefa",
-    "oyarzabal",
-    "gakpo",
-    "trump's",
-    "jerusalem",
-    "yemen",
-    "greece",
-    "ngumoha",
-    "republic",
-    "irish",
-    "germany",
-    "portugal",
     "east-west",
-    "iraq",
-    "mamdani",
-    "denmark",
-    "israel",
-    "bellamy",
+    "portugal",
+    "oyarzabal",
+    "macron",
+    "norway",
+    "germany",
+    "emmanuel",
     "board",
     "league",
+    "israel-ireland",
+    "spain",
+    "bellamy",
+    "israel",
     "england",
-    "emmanuel",
+    "houthis",
+    "nations",
+    "jerusalem",
+    "northern",
+    "assembly",
     "kushner",
     "klopp",
-    "serbia",
-    "macron",
-    "drumcree"
+    "ngumoha",
+    "denmark",
+    "drumcree",
+    "uefa",
+    "italy",
+    "republic",
+    "yemen",
+    "wales",
+    "greece",
+    "irish",
+    "trump's",
+    "gakpo",
+    "iraq",
+    "ireland",
+    "mamdani",
+    "turkey"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -946,22 +946,12 @@
     "9f913076d91c",
     "610f4670ea21",
     "fbfc5a15a361",
-    "140690335b8d"
+    "140690335b8d",
+    "7f56be2ede9d"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-28",
    "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "06df00086e0c",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-17",
      "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
@@ -1629,6 +1619,18 @@
       "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal",
       "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
+     "sources": 3,
+     "score": 60,
+     "event_id": "7f56be2ede9d",
+     "links": [
+      "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/sports/20260928-nations-league-with-mbapp%C3%A9-away-demb%C3%A9l%C3%A9-steps-into-new-role",
+      "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -2254,6 +2256,267 @@
      "links": [
       "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "87d62c77d066",
+   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+   "section": "world",
+   "entities": [
+    "young",
+    "catholics",
+    "huge",
+    "mass",
+    "russian",
+    "macron",
+    "leo's",
+    "follow",
+    "france",
+    "danish",
+    "europe",
+    "france's",
+    "european",
+    "lithuania",
+    "thousands",
+    "paris",
+    "photos",
+    "pope",
+    "metz",
+    "nato"
+   ],
+   "event_ids": [
+    "87d62c77d066",
+    "16c614175ff1",
+    "5847bd600354",
+    "4f89836c1215",
+    "5650625ff0c7",
+    "3263aff4ed39",
+    "bfa030f1f411",
+    "cf6d90b7d356",
+    "0d0ab2de5779",
+    "acfbda7677cf",
+    "a1317b4ff430",
+    "cd28012b247a",
+    "b814a960e804",
+    "9e39130e88dd",
+    "72b1b0ac47d8",
+    "f74700a0c5c1",
+    "0ff76c15106b",
+    "ced850850efe"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-09-28",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "87d62c77d066",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+     "sources": 3,
+     "score": 66,
+     "event_id": "16c614175ff1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+     "sources": 3,
+     "score": 54,
+     "event_id": "5847bd600354",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+     "sources": 1,
+     "score": 42,
+     "event_id": "4f89836c1215",
+     "links": [
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5650625ff0c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "'Pope fever' takes hold as Pope Leo visits France",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3263aff4ed39",
+     "links": [
+      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
+     "sources": 2,
+     "score": 58,
+     "event_id": "bfa030f1f411",
+     "links": [
+      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
+      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "cf6d90b7d356",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0d0ab2de5779",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+     "sources": 1,
+     "score": 41,
+     "event_id": "acfbda7677cf",
+     "links": [
+      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Thousands turn out to greet Pope in France",
+     "sources": 4,
+     "score": 76,
+     "event_id": "a1317b4ff430",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cd28012b247a",
+     "links": [
+      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
+     "sources": 2,
+     "score": 64,
+     "event_id": "b814a960e804",
+     "links": [
+      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
+      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+     "sources": 3,
+     "score": 67,
+     "event_id": "9e39130e88dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+     "sources": 3,
+     "score": 61,
+     "event_id": "72b1b0ac47d8",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f74700a0c5c1",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+     "sources": 2,
+     "score": 41,
+     "event_id": "0ff76c15106b",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
+     "sources": 1,
+     "score": 40,
+     "event_id": "ced850850efe",
+     "links": [
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
      ]
     }
    ]
@@ -3074,250 +3337,6 @@
      "links": [
       "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi",
       "https://www.theguardian.com/football/2026/sep/27/tony-pulis-says-he-and-stoke-were-cheated-in-2011-fa-cup-final-after-manchester-city-verdict"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "87d62c77d066",
-   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-   "section": "world",
-   "entities": [
-    "mass",
-    "huge",
-    "young",
-    "paris",
-    "europe",
-    "nato",
-    "danish",
-    "russian",
-    "lithuania",
-    "thousands",
-    "france",
-    "macron",
-    "photos",
-    "leo's",
-    "catholics",
-    "pope"
-   ],
-   "event_ids": [
-    "87d62c77d066",
-    "16c614175ff1",
-    "5847bd600354",
-    "4f89836c1215",
-    "5650625ff0c7",
-    "3263aff4ed39",
-    "bfa030f1f411",
-    "cf6d90b7d356",
-    "0d0ab2de5779",
-    "acfbda7677cf",
-    "a1317b4ff430",
-    "cd28012b247a",
-    "b814a960e804",
-    "9e39130e88dd",
-    "72b1b0ac47d8",
-    "f74700a0c5c1",
-    "0ff76c15106b"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-09-27",
-   "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "87d62c77d066",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-     "sources": 3,
-     "score": 66,
-     "event_id": "16c614175ff1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
-      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "sources": 3,
-     "score": 54,
-     "event_id": "5847bd600354",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
-     "sources": 1,
-     "score": 42,
-     "event_id": "4f89836c1215",
-     "links": [
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5650625ff0c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
-      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "'Pope fever' takes hold as Pope Leo visits France",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3263aff4ed39",
-     "links": [
-      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
-     "sources": 2,
-     "score": 58,
-     "event_id": "bfa030f1f411",
-     "links": [
-      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
-      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "cf6d90b7d356",
-     "links": [
-      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0d0ab2de5779",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-     "sources": 1,
-     "score": 41,
-     "event_id": "acfbda7677cf",
-     "links": [
-      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
-      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Thousands turn out to greet Pope in France",
-     "sources": 4,
-     "score": 76,
-     "event_id": "a1317b4ff430",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cd28012b247a",
-     "links": [
-      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
-      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
-     "sources": 2,
-     "score": 64,
-     "event_id": "b814a960e804",
-     "links": [
-      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
-      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
-     "sources": 3,
-     "score": 67,
-     "event_id": "9e39130e88dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-     "sources": 3,
-     "score": 61,
-     "event_id": "72b1b0ac47d8",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
-      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f74700a0c5c1",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-     "sources": 2,
-     "score": 41,
-     "event_id": "0ff76c15106b",
-     "links": [
-      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
      ]
     }
    ]
@@ -12013,5 +12032,5 @@
    ]
   }
  ],
- "updated": "2026-09-28T06:55:57+00:00"
+ "updated": "2026-09-28T09:40:18+00:00"
 }
