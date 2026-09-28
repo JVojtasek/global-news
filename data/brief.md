@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-27
+# ZADÁNÍ PRO REDAKCI — 2026-09-28
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -102,12 +102,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### two factor authentication
-- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
-  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -134,7 +134,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-08  (2 zdrojů, síla 42)  France, South Korea pledge 1 billion euros to support cinema amid AI threat
   2026-09-10  (2 zdrojů, síla 43)  South Korea to boost artificial intelligence ties with Africa
   2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
   2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit
@@ -154,6 +153,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
   2026-09-27  (2 zdrojů, síla 49)  Araghchi ignores Trump, waits for mediators’ response on Hormuz
   2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
+  2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
@@ -163,7 +163,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-24  (2 zdrojů, síla 41)  Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off
   2026-09-24  (2 zdrojů, síla 40)  Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live
   2026-09-24  (2 zdrojů, síla 48)  Felix gives Portugal win over Wales in Nations League opener
   2026-09-25  (2 zdrojů, síla 60)  Bellamy wants more from Wales after loss to Portugal
@@ -183,6 +182,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
   2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
   2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
+  2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
 ```
 
 ---
