@@ -2265,26 +2265,27 @@
    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
    "section": "world",
    "entities": [
-    "young",
-    "catholics",
-    "huge",
-    "mass",
-    "russian",
-    "macron",
-    "leo's",
-    "follow",
-    "france",
-    "danish",
-    "europe",
-    "france's",
-    "european",
-    "lithuania",
     "thousands",
+    "danish",
+    "catholics",
     "paris",
-    "photos",
+    "europe",
+    "russian",
+    "france",
     "pope",
+    "young",
+    "huge",
+    "european",
+    "nato",
+    "lithuania",
     "metz",
-    "nato"
+    "photos",
+    "macron",
+    "follow",
+    "french",
+    "leo's",
+    "france's",
+    "mass"
    ],
    "event_ids": [
     "87d62c77d066",
@@ -2304,7 +2305,9 @@
     "72b1b0ac47d8",
     "f74700a0c5c1",
     "0ff76c15106b",
-    "ced850850efe"
+    "ced850850efe",
+    "d09e5296340e",
+    "f24475a74667"
    ],
    "first_seen": "2026-09-15",
    "last_seen": "2026-09-28",
@@ -2517,6 +2520,29 @@
       "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
       "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
       "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
+     "sources": 1,
+     "score": 47,
+     "event_id": "d09e5296340e",
+     "links": [
+      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
+      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
+      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f24475a74667",
+     "links": [
+      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
+      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
      ]
     }
    ]
@@ -12032,5 +12058,5 @@
    ]
   }
  ],
- "updated": "2026-09-28T09:40:18+00:00"
+ "updated": "2026-09-28T12:42:31+00:00"
 }
