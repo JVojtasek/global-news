@@ -1,14 +1,16 @@
 ---
 slug: a-buyback-authorization-is-not-a-purchase
 title: A Buyback Authorization Is Not a Purchase
-dek: "Nvidia has enlarged its share-repurchase authority by $150 billion. The record number is real, but it is permission to buy over time—not evidence that $235 billion has already left the company."
+dek: Nvidia has enlarged its share-repurchase authority by $150 billion. The record
+  number is real, but it is permission to buy over time—not evidence that $235 billion
+  has already left the company.
 section: business
 type: analysis
 depth: open
 lang: en
 date: '2026-09-28'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +20,8 @@ generator: chatgpt-work
 format: roundtable
 series: The Newsroom Table
 event_id: nvidia-share-repurchase-authorization-2026-09-28
-image_query: Nvidia headquarters sign and semiconductor wafer neutral documentary photograph
+image_query: Nvidia headquarters sign and semiconductor wafer neutral documentary
+  photograph
 sources:
 - name: NVIDIA Newsroom — $150 billion share repurchase authorization increase
   url: https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase
@@ -40,8 +43,12 @@ impact:
   - Nvidia shareholders
   - AI capital allocation
   - corporate buyback interpretation
-  line: "The authorization gives Nvidia unusually large flexibility to return capital, but its effect on cash and share count will depend on purchases that have not yet occurred."
-  todo: "Track quarterly cash spent, shares retired, average purchase price and changes in shares outstanding rather than treating the authorization ceiling as a completed transaction."
+  line: The authorization gives Nvidia unusually large flexibility to return capital,
+    but its effect on cash and share count will depend on purchases that have not
+    yet occurred.
+  todo: Track quarterly cash spent, shares retired, average purchase price and changes
+    in shares outstanding rather than treating the authorization ceiling as a completed
+    transaction.
 qma_path: ''
 tickers:
 - NVDA
@@ -49,10 +56,13 @@ quiz:
   question: What did Nvidia's board action immediately establish?
   options:
   - The company spent $235 billion buying shares on September 28
-  - The company gained authority to repurchase up to a larger remaining amount over time
+  - The company gained authority to repurchase up to a larger remaining amount over
+    time
   - Every Nvidia shareholder received a cash payment
   answer: 1
-  explanation: "The board increased the remaining authorization to $235 billion. Actual purchases may occur over time and can depend on market conditions, operating needs and other opportunities."
+  explanation: The board increased the remaining authorization to $235 billion. Actual
+    purchases may occur over time and can depend on market conditions, operating needs
+    and other opportunities.
 ---
 
 ## BRIEFLY
