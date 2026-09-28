@@ -839,46 +839,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "catholic",
-    "serbia",
-    "gaza's",
-    "east-west",
-    "portugal",
-    "oyarzabal",
+    "italy",
     "macron",
     "norway",
-    "germany",
-    "emmanuel",
-    "board",
-    "league",
-    "israel-ireland",
-    "spain",
-    "bellamy",
-    "israel",
-    "england",
-    "houthis",
-    "nations",
-    "jerusalem",
-    "northern",
-    "assembly",
-    "kushner",
-    "klopp",
-    "ngumoha",
-    "denmark",
-    "drumcree",
-    "uefa",
-    "italy",
-    "republic",
+    "portugal",
     "yemen",
-    "wales",
-    "greece",
-    "irish",
-    "trump's",
-    "gakpo",
-    "iraq",
     "ireland",
+    "gaza's",
+    "nations",
+    "belgium",
+    "ngumoha",
+    "kushner",
+    "hungary",
+    "assembly",
+    "northern",
+    "oyarzabal",
+    "klopp",
+    "wales",
+    "houthis",
+    "denmark",
+    "republic",
+    "trump's",
+    "serbia",
+    "jerusalem",
+    "gakpo",
+    "israel",
+    "iraq",
+    "israel-ireland",
+    "france",
+    "england",
+    "catholic",
+    "drumcree",
+    "greece",
+    "bellamy",
+    "east-west",
+    "league",
+    "germany",
     "mamdani",
-    "turkey"
+    "irish",
+    "board",
+    "uefa"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -947,22 +947,12 @@
     "610f4670ea21",
     "fbfc5a15a361",
     "140690335b8d",
-    "7f56be2ede9d"
+    "7f56be2ede9d",
+    "3f684c04ad36"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-28",
    "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2ab296b93709",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-07",
      "headline": "Middle East: Israeli strikes kill several in Lebanon",
@@ -1630,6 +1620,17 @@
       "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/tv-shows/sports/20260928-nations-league-with-mbapp%C3%A9-away-demb%C3%A9l%C3%A9-steps-into-new-role",
       "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "3f684c04ad36",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
      ]
     }
    ]
@@ -2571,6 +2572,35 @@
       "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "19c83ca53546",
+   "title": "People escape historic Kyiv building hit by Russian drone",
+   "section": "world",
+   "entities": [
+    "kyiv",
+    "people",
+    "russian"
+   ],
+   "event_ids": [
+    "19c83ca53546"
+   ],
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
+   "timeline": [
+    {
+     "date": "2026-09-28",
+     "headline": "People escape historic Kyiv building hit by Russian drone",
+     "sources": 3,
+     "score": 58,
+     "event_id": "19c83ca53546",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
+      "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss"
      ]
     }
    ]
@@ -12086,5 +12116,5 @@
    ]
   }
  ],
- "updated": "2026-09-28T15:29:11+00:00"
+ "updated": "2026-09-28T18:34:01+00:00"
 }

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-28
 
-Paměť obsahuje **120 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **120 vláken**. Aktivních za posledních 14 dní: **42**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 50 dní · 60 záznamů
 - časová osa:
-  - **2026-09-26** (2 zdrojů) England should stop trying to replicate Spain - Gordon
   - **2026-09-27** (3 zdrojů) Ngumoha not in England squad to face Spain
   - **2026-09-27** (3 zdrojů) Northern Ireland: Pro-UK march to go through Catholic area
   - **2026-09-27** (2 zdrojů) Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
@@ -33,6 +32,7 @@ Paměť obsahuje **120 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-27** (2 zdrojů) Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
   - **2026-09-28** (2 zdrojů) Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
   - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
+  - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 40 dní · 60 záznamů

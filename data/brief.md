@@ -49,54 +49,45 @@
     <https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss>
     > Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.
 
-### 3. Man City and the 115 charges - key questions answered
-- id události: `77194b534d5f`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 3. The truth behind Donald Trump’s ‘biggest oil deal in world history’
+- id události: `6b42ee2bd0f4`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Sport** — Man City and the 115 charges - key questions answered
-    <https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss>
-    > It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.
-  - **BBC Sport** — Who is hacker whose revelations led to Man City charges?
-    <https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss>
-    > Rui Pinto is the convicted computer hacker whose revelations led to Manchester City facing Premier League charges of alleged financial rule breaches. But who is he?
-  - **BBC Sport** — Who is hacker whose revelations led to Man City charges?
-    <https://www.bbc.co.uk/sport/football/videos/cmj644284k18o?at_medium=RSS&at_campaign=rss>
-    > Rui Pinto is the convicted computer hacker whose revelations led to Manchester City facing Premier League charges of alleged financial rule breaches. But who is he?
-  - **Guardian Sport** — We Manchester City fans fear relegation and losing trophies … but club are bang to rights
-    <https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies>
-    > Despite attempts to legally filibuster the charges out of existence for the past three years, we’ve rightfully failed It couldn’t have been more prophetic. In 2008, 15 years before Manchester City were charged with financial fraud, fans started singing “City’s going down with a b
-  - **Al Jazeera** — Timeline: Man City’s Premier League financial charges to reported verdict
-    <https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss>
-    > City reportedly found guilty of all but one of the 115 charges that were first brought in February 2023.
-  - **Guardian Sport** — Liverpool’s Cody Gakpo reflects on ‘tough summer’ after collapse of Manchester City move
-    <https://www.theguardian.com/football/2026/sep/25/liverpool-cody-gakpo-tough-summer-manchester-city>
-    > Dutchman’s second son died during pregnancy in June ‘If I have no control over the situation, I will not worry’ Cody Gakpo has reflected on a “very tough” summer that ended with the collapse of a transfer to Manchester City, revealing Liverpool changed their minds about letting h
-  - **Guardian Sport** — Manchester City v Premier League: how the legal teams lined up
-    <https://www.theguardian.com/football/2026/sep/25/manchester-city-v-premier-league-how-the-legal-teams-lined-up>
-    > David Pannick may not earn as much as Erling Haaland but the club spared no expense to defend themselves against more than 100 charges The result is finally in from a highly anticipated Premier League match-up: the legal battle which pitted the league against Manchester City, the
-  - **Guardian Sport** — Manchester City found guilty of breaking Premier League’s financial fair play rules
-    <https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules>
-    > City face sanctions after more than 100 rule breaches Club insists it is innocent and is expected to appeal Manchester City have been found guilty of the vast majority of more than a hundred charges related to breaches of the Premier League’s financial rules, throwing English foo
+  - **Guardian Business** — The truth behind Donald Trump’s ‘biggest oil deal in world history’
+    <https://www.theguardian.com/us-news/2026/sep/26/donald-trump-oil-deal-with-venezuela>
+    > The US’s oil deal with Venezuela faces multiple legal and logistical problems, including questions about whether it can be implemented Donald Trump has long coveted the oilfields of other nations and declared an agreement with Venezuela to be “the biggest oil deal in world histor
+  - **The Guardian World** — Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz
+    <https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz>
+    > Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blo
+  - **Guardian Business** — Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz
+    <https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz>
+    > Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blo
+  - **France 24** — Middle-East: Iran proposes Hormuz plan, Donald Trump reportedly refuses
+    <https://www.france24.com/en/middle-east-iran-proposes-hormuz-plan-donald-trump-reportedly-refuses>
+    > The United States had yet to publicly respond on Saturday after Iran offered a plan to reopen the strategic Strait of Hormuz, though reports indicated that President Donald Trump had rejected the proposal. The waterway key to the world's oil supply is central to the conflict betw
+  - **Al Jazeera** — Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?
+    <https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss>
+    > Analysts say Trump may opt to resume attacks on Iran after November midterm elections.
+  - **France 24** — Trump reportedly rejects Iran’s seven-day plan to reopen Strait of Hormuz
+    <https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz>
+    > US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz on Saturday. Iran's Foreign Minister Abbas Araghchi presented the proposal to Trump’s envoy Steve Witkoff a day earlier on the sidelines of a UN gathering in New York. The plan stipul
 
-### 4. Supreme Court allows Trump to use controversial database to check voter citizenship
-- id události: `2acf05538835`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 5
+### 4. Andy Burnham refuses to back third runway at Heathrow
+- id události: `a6788519913e`  ·  rubrika: `business`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Supreme Court allows Trump to use controversial database to check voter citizenship
-    <https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss>
-    > Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.
-  - **NPR News** — The Supreme Court revives a controversial data system for citizenship checks
-    <https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting>
-    > The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.
-  - **Al Jazeera** — US top court allows Trump to use controversial voter verification system
-    <https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss>
-    > Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
-  - **CNBC Top** — Supreme Court restores Trump's mass voter verification system
-    <https://www.cnbc.com/2026/09/25/supreme-court-restores-trumps-mass-voter-verification-system.html>
-    > The Supreme Court revived an expanded immigration database the Trump admin said targets voting by noncitizens but critics say could disenfranchise voters.
-  - **France 24** — US Supreme Court allows Trump to use controversial voter 'verification' system
-    <https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry>
-    > The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity
+  - **BBC Business** — Andy Burnham refuses to back third runway at Heathrow
+    <https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss>
+    > Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn
+  - **BBC Health** — 'Broken social care will in the end break the NHS,' says Burnham
+    <https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss>
+    > Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
+  - **Guardian Business** — Tony Blair would like Andy Burnham to take his advice on rejoining the EU. Should he? | Tom Baldwin
+    <https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour>
+    > The former PM has been consulted by many who came after him – but Burnham might want to shake his New Labour past once and for all Tony Blair can, apparently, sound slightly wistful when he describes how he once had a cloak-and-dagger meeting with Andy Burnham, who wanted to talk
+  - **The Guardian World** — ‘Rip the plaster off’: Andy Burnham sets out vision for universal free social care
+    <https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care>
+    > PM says he will put proposals for NHS-style service funded by everybody into Labour’s next general election manifesto UK politics live – latest updates Andy Burnham has said that he is going to “rip the plaster off” to fix the broken social care system, as he set out a vision for
 
 ---
 
@@ -107,7 +98,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
   - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
-  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -163,7 +154,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-24  (2 zdrojů, síla 48)  Felix gives Portugal win over Wales in Nations League opener
   2026-09-25  (2 zdrojů, síla 60)  Bellamy wants more from Wales after loss to Portugal
   2026-09-25  (2 zdrojů, síla 46)  Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
   2026-09-25  (2 zdrojů, síla 43)  UN General Assembly: Leaders discuss AI, global conflicts
@@ -183,6 +173,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
   2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
   2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
+  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
 ```
 
 ---
