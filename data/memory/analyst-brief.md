@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-28
 
-Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 50 dní · 60 záznamů
 - časová osa:
-  - **2026-09-14** (2 zdrojů) Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
   - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
@@ -19,6 +18,7 @@ Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
   - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
   - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
+  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 50 dní · 60 záznamů
@@ -35,9 +35,8 @@ Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 40 dní · 60 záznamů
+- rubrika `sport` · sledováno 41 dní · 60 záznamů
 - časová osa:
-  - **2026-09-22** (3 zdrojů) 'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season
   - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
   - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
   - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
@@ -47,6 +46,7 @@ Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
   - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
   - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
+  - **2026-09-28** (2 zdrojů) Man City CEO defiant over Premier League charges
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů
@@ -65,9 +65,8 @@ Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 46 dní · 47 záznamů
+- rubrika `world` · sledováno 46 dní · 48 záznamů
 - časová osa:
-  - **2026-09-14** (2 zdrojů) Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank
   - **2026-09-20** (2 zdrojů) An Israeli settler and a Palestinian driver killed in West Bank shootings
   - **2026-09-20** (2 zdrojů) Israeli president pardons combat medic who shot dead wounded Palestinian attacker
   - **2026-09-20** (2 zdrojů) France’s Macron and Canada’s Carney announce plans to build stronger ties
@@ -77,6 +76,7 @@ Paměť obsahuje **121 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
   - **2026-09-28** (2 zdrojů) Israel strips Dutch diplomats of status in West Bank
+  - **2026-09-28** (1 zdrojů) NASA Armstrong Celebrates 80 Years of Flight Innovation
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 45 dní · 36 záznamů
