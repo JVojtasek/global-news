@@ -1,13 +1,14 @@
 ---
 slug: solitude-and-loneliness-are-not-the-same-silence
 title: Solitude and Loneliness Are Not the Same Silence
-dek: Being alone describes a setting. Loneliness describes a painful gap between the connection you have and the connection you want.
+dek: Being alone describes a setting. Loneliness describes a painful gap between the
+  connection you have and the connection you want.
 section: soul
 type: analysis
 depth: open
 lang: en
 date: '2026-09-28'
-status: draft
+status: published
 confidence: 89
 load: 0
 topics:
@@ -45,7 +46,9 @@ quiz:
   - Solitude is time physically alone; loneliness is distress about insufficient connection.
   - Solitude and loneliness are two names for the same measurable condition.
   answer: 1
-  explanation: Being alone is an observable circumstance. Loneliness is a subjective, often painful mismatch between desired and experienced connection; either can occur without the other.
+  explanation: Being alone is an observable circumstance. Loneliness is a subjective,
+    often painful mismatch between desired and experienced connection; either can
+    occur without the other.
 ---
 
 ## BRIEFLY

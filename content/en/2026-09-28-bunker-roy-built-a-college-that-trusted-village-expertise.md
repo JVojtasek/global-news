@@ -1,14 +1,15 @@
 ---
 slug: bunker-roy-built-a-college-that-trusted-village-expertise
 title: Bunker Roy Built a College That Trusted Village Expertise
-dek: Barefoot College did not begin by asking how to export experts. It asked how rural communities could train and retain their own.
+dek: Barefoot College did not begin by asking how to export experts. It asked how
+  rural communities could train and retain their own.
 section: goodnews
 type: analysis
 depth: open
 lang: en
 date: '2026-09-28'
-status: draft
-confidence: 87
+status: published
+confidence: 95
 load: 0
 topics:
 - Bunker Roy
@@ -45,10 +46,13 @@ quiz:
   question: What is the central design choice in the Barefoot College solar model?
   options:
   - Visiting engineers install equipment and leave maintenance to a distant contractor.
-  - Rural women learn practical installation and maintenance skills, then serve their own communities.
+  - Rural women learn practical installation and maintenance skills, then serve their
+    own communities.
   - Participants earn conventional engineering degrees before any equipment is installed.
   answer: 1
-  explanation: The model concentrates practical training and continuing capability in the community, using visual and hands-on instruction rather than making formal schooling the entry gate.
+  explanation: The model concentrates practical training and continuing capability
+    in the community, using visual and hands-on instruction rather than making formal
+    schooling the entry gate.
 ---
 
 ## BRIEFLY

@@ -1,14 +1,15 @@
 ---
 slug: the-bumps-under-your-feet-are-a-travel-language
 title: The Bumps Under Your Feet Are a Travel Language
-dek: Tactile paving works when shape, direction and placement form a consistent message. A bright strip alone is not accessibility.
+dek: Tactile paving works when shape, direction and placement form a consistent message.
+  A bright strip alone is not accessibility.
 section: travel
 type: feature
 depth: open
 lang: en
 date: '2026-09-28'
 status: reserve
-confidence: 91
+confidence: 89
 load: 0
 topics:
 - tactile paving
@@ -39,13 +40,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Why must tactile paving be treated as a system rather than a decorative surface?
+  question: Why must tactile paving be treated as a system rather than a decorative
+    surface?
   options:
   - Its colour must match the architectural palette of every street.
-  - Different profiles and layouts carry different warnings or guidance, so inconsistency can confuse the message.
+  - Different profiles and layouts carry different warnings or guidance, so inconsistency
+    can confuse the message.
   - Every country uses one identical pattern for every transport situation.
   answer: 1
-  explanation: The information lies in detectable shape, orientation, location and contrast. Patterns that warn of a crossing or platform edge are not interchangeable with directional guidance.
+  explanation: The information lies in detectable shape, orientation, location and
+    contrast. Patterns that warn of a crossing or platform edge are not interchangeable
+    with directional guidance.
 ---
 
 ## BRIEFLY
