@@ -23,7 +23,6 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 51 dní · 60 záznamů
 - časová osa:
-  - **2026-09-27** (2 zdrojů) Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
   - **2026-09-27** (2 zdrojů) Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
   - **2026-09-27** (2 zdrojů) Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
   - **2026-09-27** (3 zdrojů) No handshakes between Republic of Ireland and Israel
@@ -33,11 +32,11 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
   - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
   - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
+  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 42 dní · 60 záznamů
 - časová osa:
-  - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
   - **2026-09-25** (2 zdrojů) Manchester City reportedly found guilty of almost 115 financial charges
   - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
   - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
@@ -47,6 +46,7 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-28** (2 zdrojů) Man City CEO defiant over Premier League charges
   - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
   - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
+  - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 49 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 48 dní · 37 záznamů
+- rubrika `world` · sledováno 48 dní · 38 záznamů
 - časová osa:
-  - **2026-09-24** (3 zdrojů) CNN, MS NOW, Politico regain access to White House
   - **2026-09-25** (2 zdrojů) At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict
   - **2026-09-25** (2 zdrojů) US-China talks on trade, AI between Trump, Xi beckon
   - **2026-09-25** (2 zdrojů) US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?
@@ -91,6 +90,7 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-26** (2 zdrojů) China, US to open AI ‘communication channel’ after summit, White House says
   - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
   - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
+  - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
 
 ---
 

@@ -844,44 +844,44 @@
    "section": "world",
    "entities": [
     "board",
-    "hungary",
-    "east-west",
-    "serbia",
-    "czechia",
-    "drumcree",
-    "macron",
-    "gaza's",
-    "germany",
-    "gakpo",
-    "ngumoha",
-    "oyarzabal",
-    "catholic",
-    "klopp",
-    "jerusalem",
-    "portugal",
-    "yemen",
-    "greece",
-    "turkey",
-    "denmark",
-    "kushner",
-    "ireland",
-    "israel",
-    "england",
-    "france",
-    "wales",
     "assembly",
-    "republic",
-    "trump's",
-    "nations",
+    "czechia",
+    "east-west",
+    "england",
+    "denmark",
+    "germany",
+    "olise",
+    "greece",
+    "israel-ireland",
+    "gaza's",
+    "yemen",
+    "macron",
+    "portugal",
     "irish",
+    "uefa",
+    "jerusalem",
+    "trump's",
     "league",
+    "ngumoha",
+    "klopp",
+    "kane",
+    "oyarzabal",
+    "republic",
+    "france",
+    "gordon",
+    "drumcree",
+    "houthis",
+    "kushner",
     "mamdani",
     "norway",
-    "olise",
+    "israel",
+    "catholic",
+    "hungary",
+    "nations",
+    "wales",
+    "gakpo",
+    "serbia",
     "belgium",
-    "houthis",
-    "israel-ireland",
-    "uefa",
     "iraq"
    ],
    "event_ids": [
@@ -954,22 +954,12 @@
     "7f56be2ede9d",
     "3f684c04ad36",
     "a1712ca6131f",
-    "f801a598f3da"
+    "f801a598f3da",
+    "8357a50cd73d"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-29",
    "timeline": [
-    {
-     "date": "2026-09-08",
-     "headline": "Houthis strike Saudi Arabian cities in significant expansion of Middle East war",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c2a40c5625c5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-08",
      "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
@@ -1639,6 +1629,17 @@
       "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
       "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Gordon and Kane fire England to Nations League victory against 10-man Czechia",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8357a50cd73d",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/29/czechia-england-nations-league-match-report",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1648,45 +1649,45 @@
    "section": "sport",
    "entities": [
     "golden",
-    "it's",
-    "gakpo",
-    "city",
-    "sports",
-    "boot",
-    "wilson",
-    "phil",
-    "salisbury",
-    "consequences",
-    "tottenham",
-    "greenwood",
-    "league",
-    "manchester",
-    "club",
-    "villa",
-    "matildas",
-    "city's",
-    "carrick",
-    "ipswich",
-    "wants",
     "millionaire",
-    "scherpen",
-    "london",
-    "aston",
-    "napoli",
     "mccabe",
-    "arsenal",
+    "fabregas",
+    "sports",
     "troy's",
-    "fifa",
-    "michael",
-    "liverpool",
     "ever",
+    "club",
+    "phil",
+    "napoli",
     "arroyo",
-    "salah",
-    "forest",
-    "kuwait",
-    "rwandan",
+    "london",
+    "matildas",
+    "wilson",
     "lens",
-    "fabregas"
+    "liverpool",
+    "consequences",
+    "manchester",
+    "city",
+    "league",
+    "michael",
+    "aston",
+    "scherpen",
+    "carrick",
+    "it's",
+    "premier",
+    "salisbury",
+    "arsenal",
+    "kuwait",
+    "ipswich",
+    "greenwood",
+    "forest",
+    "rwandan",
+    "fifa",
+    "villa",
+    "wants",
+    "salah",
+    "tottenham",
+    "gakpo",
+    "city's"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1761,23 +1762,12 @@
     "76f2aa1f6b70",
     "4deb38f1b39b",
     "0e93ac64726c",
-    "4ba4b8b75708"
+    "4ba4b8b75708",
+    "1e3d18fc81aa"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-29",
    "timeline": [
-    {
-     "date": "2026-08-23",
-     "headline": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
-     "sources": 2,
-     "score": 49,
-     "event_id": "f0a55f3207b0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/andoni-iraola-liverpool-alexander-isak-matthias-jaissle-newcastle"
-     ]
-    },
     {
      "date": "2026-08-25",
      "headline": "What does your Premier League club still need in the transfer window?",
@@ -2461,6 +2451,18 @@
       "https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
       "https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "The intricate web Man City spun to con the Premier League",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1e3d18fc81aa",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sounds/play/p0pd2w9y?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/29/manchester-city-ceo-soriano-says-guilty-verdicts-are-a-premier-league-conspiracy-theory"
      ]
     }
    ]
@@ -3929,38 +3931,38 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "kalshi's",
-    "stewart",
-    "press",
-    "crypto",
-    "force",
-    "court",
     "supreme",
+    "karoline",
+    "army",
+    "days",
+    "us-china",
     "does",
     "white",
-    "tech",
-    "jersey",
-    "tetris",
-    "politico",
-    "secretary",
-    "jinping",
-    "nabep",
-    "chinese",
-    "days",
-    "trump's",
-    "trump",
+    "kalshi's",
     "house",
-    "us-china",
+    "chinese",
+    "secretary",
+    "tech",
+    "donald",
+    "trump's",
+    "nabep",
+    "china",
+    "politico",
+    "force",
+    "trump",
+    "jinping",
+    "court",
     "judge",
     "driscoll",
-    "karoline",
-    "journalists",
-    "venezuela",
-    "army",
-    "donald",
     "leavitt",
     "company",
-    "china"
+    "crypto",
+    "jersey",
+    "stewart",
+    "venezuela",
+    "tetris",
+    "press",
+    "journalists"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -3999,7 +4001,8 @@
     "87ad03b9a8d5",
     "8884cb4fe214",
     "6b42ee2bd0f4",
-    "0bbffa145260"
+    "0bbffa145260",
+    "73aadc58464b"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-29",
@@ -4424,6 +4427,17 @@
       "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
       "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
       "https://www.investing.com/news/commodities-news/white-house-urges-eu-to-draw-down-diesel-inventories-sources-say-4923232"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+     "sources": 2,
+     "score": 40,
+     "event_id": "73aadc58464b",
+     "links": [
+      "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
+      "https://www.cnbc.com/2026/09/29/supreme-court-lets-trump-resume-third-country-deportations.html"
      ]
     }
    ]
@@ -5083,15 +5097,15 @@
    "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
    "section": "tech",
    "entities": [
+    "glasses",
+    "mark",
+    "everything",
     "meta",
     "muse",
-    "charm",
-    "everything",
-    "mark",
-    "youtuber",
-    "tamagotchi",
     "zuckerberg",
-    "glasses"
+    "tamagotchi",
+    "charm",
+    "youtuber"
    ],
    "event_ids": [
     "3e261aa2591b",
@@ -5099,7 +5113,8 @@
     "5f9b2dff770e",
     "6374a69076e5",
     "e84d98e81ae7",
-    "7cd7dfe3ad5e"
+    "7cd7dfe3ad5e",
+    "16c4b876e19d"
    ],
    "first_seen": "2026-09-24",
    "last_seen": "2026-09-29",
@@ -5174,6 +5189,153 @@
       "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
       "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
       "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Meta is expanding its AI agent Muse to small businesses",
+     "sources": 2,
+     "score": 40,
+     "event_id": "16c4b876e19d",
+     "links": [
+      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "https://huggingface.co/blog/muse-glimmer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "ribbon-cutting",
+    "dish",
+    "artemis",
+    "muscle",
+    "flights",
+    "spacex",
+    "gamma-ray",
+    "station",
+    "event",
+    "awards",
+    "glenn",
+    "crew",
+    "contract",
+    "president",
+    "sharing",
+    "space",
+    "honors",
+    "nasa",
+    "blue",
+    "services",
+    "next-gen",
+    "boosts",
+    "highest",
+    "three",
+    "award",
+    "deep",
+    "network",
+    "science",
+    "adds",
+    "launch",
+    "accords",
+    "origin",
+    "open",
+    "data",
+    "starburst",
+    "detector"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-09-29",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
      ]
     }
    ]
@@ -8629,126 +8791,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "awards",
-    "boosts",
-    "gamma-ray",
-    "adds",
-    "crew",
-    "space",
-    "sharing",
-    "next-gen",
-    "flights",
-    "president",
-    "three",
-    "honors",
-    "event",
-    "artemis",
-    "deep",
-    "accords",
-    "network",
-    "award",
-    "highest",
-    "ribbon-cutting",
-    "open",
-    "services",
-    "dish",
-    "starburst",
-    "data",
-    "muscle",
-    "nasa",
-    "detector",
-    "launch",
-    "science",
-    "station",
-    "spacex"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-09-18",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
      ]
     }
    ]
@@ -12341,5 +12383,5 @@
    ]
   }
  ],
- "updated": "2026-09-29T18:33:55+00:00"
+ "updated": "2026-09-29T21:26:53+00:00"
 }

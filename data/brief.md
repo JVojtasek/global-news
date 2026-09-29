@@ -151,7 +151,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-25  (2 zdrojů, síla 43)  UN General Assembly: Leaders discuss AI, global conflicts
   2026-09-25  (2 zdrojů, síla 42)  Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
   2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
   2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game
@@ -171,6 +170,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
   2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
   2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
+  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
 ```
 
 ---
