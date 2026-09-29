@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "timezone": "Europe/Prague",
   "public_count": 6,
   "slots": [
@@ -18,7 +18,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "safety",
+      "section": "sport",
       "status": "draft"
     },
     {
@@ -27,7 +27,7 @@
       "type": "analysis",
       "min_words": 900,
       "max_words": 1400,
-      "section": "wonder",
+      "section": "ai",
       "status": "draft"
     },
     {
@@ -36,7 +36,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1600,
-      "section": "ai",
+      "section": "safety",
       "status": "draft"
     },
     {

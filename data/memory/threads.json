@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "brics",
-    "lightning",
     "inter",
-    "ukraine",
-    "city",
-    "macron",
-    "araghchi",
+    "luckin",
     "d-day",
-    "kuwait",
-    "trump",
-    "gulf",
-    "houthi",
     "lyon",
-    "donald",
-    "indycar",
-    "iran",
-    "taiz",
-    "groundhog",
-    "marib",
-    "jong",
-    "mideast",
-    "kylian",
-    "china's",
-    "strait",
-    "hormuz",
-    "o'neill",
-    "briton",
-    "north",
-    "times",
-    "putin",
-    "league",
     "french",
+    "marib",
     "iran's",
+    "groundhog",
+    "indycar",
+    "taiz",
+    "lightning",
+    "middle",
+    "hormuz",
+    "macron",
+    "briton",
+    "times",
     "iranian",
-    "east",
-    "saudis",
+    "araghchi",
+    "north",
+    "strait",
+    "persian",
     "yemen",
-    "modi",
+    "south",
     "centcom",
-    "south"
+    "donald",
+    "kuwait",
+    "ukraine",
+    "houthi",
+    "gulf",
+    "coffee",
+    "iran",
+    "mideast",
+    "saudis",
+    "brics",
+    "modi",
+    "putin",
+    "jong",
+    "east",
+    "city",
+    "trump"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -147,22 +147,12 @@
     "bd6438757477",
     "aab26a16aaf2",
     "ff3383054c54",
-    "e2d5740f3cee"
+    "e2d5740f3cee",
+    "1bef1a0a3ff1"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "timeline": [
-    {
-     "date": "2026-08-22",
-     "headline": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7b6cc89252d4",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions-4872246"
-     ]
-    },
     {
      "date": "2026-08-23",
      "headline": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
@@ -832,6 +822,17 @@
       "https://www.france24.com/en/tv-shows/spotlight/20260928-saudis-furious-trump-flips-flops-between-deal-with-iran-and-attacks-in-devastating-fashion",
       "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1bef1a0a3ff1",
+     "links": [
+      "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+      "https://www.investing.com/news/commodities-news/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern-4921465"
+     ]
     }
    ]
   },
@@ -840,46 +841,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "italy",
-    "macron",
+    "east-west",
+    "france",
+    "hungary",
+    "israel",
     "norway",
     "portugal",
-    "yemen",
     "ireland",
     "gaza's",
-    "nations",
-    "belgium",
-    "ngumoha",
-    "kushner",
-    "hungary",
-    "assembly",
-    "northern",
-    "oyarzabal",
-    "klopp",
-    "wales",
-    "houthis",
-    "denmark",
-    "republic",
     "trump's",
+    "macron",
+    "ngumoha",
+    "germany",
+    "gakpo",
+    "england",
+    "klopp",
+    "yemen",
+    "assembly",
+    "houthis",
+    "nations",
+    "republic",
+    "greece",
+    "turkey",
+    "board",
     "serbia",
     "jerusalem",
-    "gakpo",
-    "israel",
-    "iraq",
     "israel-ireland",
-    "france",
-    "england",
-    "catholic",
-    "drumcree",
-    "greece",
     "bellamy",
-    "east-west",
-    "league",
-    "germany",
-    "mamdani",
+    "uefa",
+    "wales",
+    "catholic",
+    "italy",
+    "belgium",
     "irish",
-    "board",
-    "uefa"
+    "kushner",
+    "denmark",
+    "iraq",
+    "drumcree",
+    "oyarzabal",
+    "olise",
+    "mamdani"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -949,23 +950,12 @@
     "fbfc5a15a361",
     "140690335b8d",
     "7f56be2ede9d",
-    "3f684c04ad36"
+    "3f684c04ad36",
+    "a1712ca6131f"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "timeline": [
-    {
-     "date": "2026-09-07",
-     "headline": "Middle East: Israeli strikes kill several in Lebanon",
-     "sources": 3,
-     "score": 51,
-     "event_id": "4038c9b998f5",
-     "links": [
-      "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
-     ]
-    },
     {
      "date": "2026-09-07",
      "headline": "Lebanon president calls for US help after deadly Israeli strikes",
@@ -1632,6 +1622,337 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
       "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a1712ca6131f",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
+      "https://www.france24.com/en/sport/20260928-italy-rebound-in-turkey-as-france-win-late-in-belgium",
+      "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "huang",
+    "exploit",
+    "unexpected",
+    "face",
+    "nvidia's",
+    "experts",
+    "openai",
+    "labs",
+    "base",
+    "detailed",
+    "agents",
+    "nearly",
+    "nvidia",
+    "drove",
+    "cnbc",
+    "cyberattack",
+    "hugging",
+    "china",
+    "hacking",
+    "alabama",
+    "timeline",
+    "german",
+    "breach",
+    "jensen",
+    "trump",
+    "goodfire",
+    "zero-days",
+    "github",
+    "reward"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6",
+    "3544561ca685",
+    "df3a38888008",
+    "0321378bd042",
+    "69b225fb598b",
+    "de5690d7d612",
+    "e4222c90706c",
+    "a0f5f526129b",
+    "d44ccc0ba93d",
+    "f247281fba63",
+    "3152bdb0ea47",
+    "2b3aa79e4244",
+    "3808e2aaf93d",
+    "b237fa49f681",
+    "e609d968c3dc",
+    "ce7b13e0f7aa"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-09-29",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+     "sources": 3,
+     "score": 57,
+     "event_id": "df3a38888008",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+     "sources": 3,
+     "score": 50,
+     "event_id": "0321378bd042",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+     "sources": 4,
+     "score": 71,
+     "event_id": "69b225fb598b",
+     "links": [
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
+     "sources": 2,
+     "score": 45,
+     "event_id": "de5690d7d612",
+     "links": [
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e4222c90706c",
+     "links": [
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
+     "sources": 3,
+     "score": 50,
+     "event_id": "a0f5f526129b",
+     "links": [
+      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+     "sources": 5,
+     "score": 75,
+     "event_id": "d44ccc0ba93d",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+     "sources": 4,
+     "score": 65,
+     "event_id": "f247281fba63",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+     "sources": 5,
+     "score": 80,
+     "event_id": "3152bdb0ea47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2b3aa79e4244",
+     "links": [
+      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3808e2aaf93d",
+     "links": [
+      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+     "sources": 2,
+     "score": 43,
+     "event_id": "b237fa49f681",
+     "links": [
+      "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "https://huggingface.co/blog/baseten"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+     "sources": 2,
+     "score": 50,
+     "event_id": "e609d968c3dc",
+     "links": [
+      "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+      "https://huggingface.co/blog/pwc-search"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ce7b13e0f7aa",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
      ]
     }
    ]
@@ -3092,311 +3413,6 @@
       "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
       "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
       "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "entities": [
-    "reward",
-    "drove",
-    "goodfire",
-    "labs",
-    "hugging",
-    "breach",
-    "german",
-    "nvidia's",
-    "huang",
-    "nearly",
-    "trump",
-    "alabama",
-    "unexpected",
-    "detailed",
-    "zero-days",
-    "jensen",
-    "base",
-    "cyberattack",
-    "openai",
-    "timeline",
-    "cnbc",
-    "agents",
-    "github",
-    "exploit",
-    "nvidia",
-    "face",
-    "hacking"
-   ],
-   "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4",
-    "bd2de1c640b6",
-    "3544561ca685",
-    "df3a38888008",
-    "0321378bd042",
-    "69b225fb598b",
-    "de5690d7d612",
-    "e4222c90706c",
-    "a0f5f526129b",
-    "d44ccc0ba93d",
-    "f247281fba63",
-    "3152bdb0ea47",
-    "2b3aa79e4244",
-    "3808e2aaf93d",
-    "b237fa49f681",
-    "e609d968c3dc"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-09-28",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-     "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
-     "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
-     "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
-     "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-     "sources": 3,
-     "score": 57,
-     "event_id": "df3a38888008",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-     "sources": 3,
-     "score": 50,
-     "event_id": "0321378bd042",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-     "sources": 4,
-     "score": 71,
-     "event_id": "69b225fb598b",
-     "links": [
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
-     "sources": 2,
-     "score": 45,
-     "event_id": "de5690d7d612",
-     "links": [
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e4222c90706c",
-     "links": [
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
-     "sources": 3,
-     "score": 50,
-     "event_id": "a0f5f526129b",
-     "links": [
-      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "sources": 5,
-     "score": 75,
-     "event_id": "d44ccc0ba93d",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "sources": 4,
-     "score": 65,
-     "event_id": "f247281fba63",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-     "sources": 5,
-     "score": 80,
-     "event_id": "3152bdb0ea47",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2b3aa79e4244",
-     "links": [
-      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3808e2aaf93d",
-     "links": [
-      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-     "sources": 2,
-     "score": 43,
-     "event_id": "b237fa49f681",
-     "links": [
-      "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "https://huggingface.co/blog/baseten"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-     "sources": 2,
-     "score": 50,
-     "event_id": "e609d968c3dc",
-     "links": [
-      "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-      "https://huggingface.co/blog/pwc-search"
      ]
     }
    ]
@@ -12176,5 +12192,5 @@
    ]
   }
  ],
- "updated": "2026-09-28T21:25:17+00:00"
+ "updated": "2026-09-29T01:05:05+00:00"
 }

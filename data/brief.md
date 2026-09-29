@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-28
+# ZADÁNÍ PRO REDAKCI — 2026-09-29
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,27 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Thousands turn out to greet Pope in France
-- id události: `a1317b4ff430`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Thousands turn out to greet Pope in France
-    <https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss>
-    > The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.
-  - **Guardian Business** — Pope Leo warns AI could lead to losing 'humanity amid a paradise of machines' in Paris – video
-    <https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris>
-    > Pontiff continues to decry the rise of AI on his visit to France, stressing the importance of retaining 'ethical discernment' in an age when rapidly advancing technology threatens to undermine humanity Europe live Pope Leo warns of AI threat to humanity at start of three-day Fran
-  - **Al Jazeera** — Pope Leo XIV warns AI could undermine humanity during France visit
-    <https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss>
-    > Thousands gather in Paris as the pope warns against a 'paradise of machines' at the Elysee Palace.
-  - **France 24** — Pope Leo XIV welcomed like a rock star at Stade de France near Paris
-    <https://www.france24.com/en/video/20260925-pope-leo-xiv-welcomed-like-a-rock-star-at-stade-de-france-near-paris>
-    > "For the pope, for God, make some noise!": Blending gospel and contemporary Christian music, 80,000 young Catholics filled the Stade de France on Friday evening to proclaim their faith. They gave Pope Leo XIV a rock-star welcome as he arrived at the stadium in his 'popemobile'.
-  - **France 24** — Pope in Paris, Xi in DC, AI at a Crossroads
-    <https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads>
-    > It’s been a week of walkouts, power plays and diplomatic theatre — from a battle over press freedom in Washington, to a United Nations General Assembly marked by protests and departures, as leaders clashed over Iran, Cuba and Venezuela. There was also a rare red-carpet meeting be
-
-### 2. White House bars CNN from travelling with Trump on Air Force One
+### 1. White House bars CNN from travelling with Trump on Air Force One
 - id události: `87ad03b9a8d5`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -49,7 +29,7 @@
     <https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss>
     > Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.
 
-### 3. The truth behind Donald Trump’s ‘biggest oil deal in world history’
+### 2. The truth behind Donald Trump’s ‘biggest oil deal in world history’
 - id události: `6b42ee2bd0f4`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -72,7 +52,7 @@
     <https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz>
     > US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz on Saturday. Iran's Foreign Minister Abbas Araghchi presented the proposal to Trump’s envoy Steve Witkoff a day earlier on the sidelines of a UN gathering in New York. The plan stipul
 
-### 4. Andy Burnham refuses to back third runway at Heathrow
+### 3. Andy Burnham refuses to back third runway at Heathrow
 - id události: `a6788519913e`  ·  rubrika: `business`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -89,16 +69,39 @@
     <https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care>
     > PM says he will put proposals for NHS-style service funded by everybody into Labour’s next general election manifesto UK politics live – latest updates Andy Burnham has said that he is going to “rip the plaster off” to fix the broken social care system, as he set out a vision for
 
+### 4. Huge crowds greet Pope in Paris for open-air Mass
+- id události: `9e39130e88dd`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Huge crowds greet Pope in Paris for open-air Mass
+    <https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss>
+    > More than half a million people are expected to attend the event in the heart of the French capital.
+  - **DW News** — Paris: Pope Leo XIV celebrates Mass before huge crowd
+    <https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf>
+    > The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France.
+  - **France 24** — Leo XIV in France: 700,000 crowd attend Pope mass in central Paris
+    <https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris>
+    > Luke Shrago talks to Father Grégoire Catta.
+  - **France 24** — Leo XIV fills central Paris with around 600,000 people at giant outdoor Mass
+    <https://www.france24.com/en/leo-xiv-fills-central-paris-with-around-600-000-people-at-giant-outdoor-mass>
+    > Hundreds of thousands of people packed Paris’ iconic Champs-Élysées avenue for Pope Leo XIV’s big outdoor Mass on Saturday, a sign of the Catholic Church’s enduring appeal in the once staunchly Catholic but officially secular country.
+  - **France 24** — Leo XIV visits France: Pope blesses babies on way to giant Paris Mass
+    <https://www.france24.com/en/leo-xiv-visits-france-pope-blesses-babies-on-way-to-giant-paris-mass>
+    > 🇫🇷 🇻🇦 While #PopeLeo XIV rode down #Paris's iconic Champs-Élysées avenue to hold Mass, he took the opportunity to bless babies from the "popemobile
+  - **France 24** — Huge crowds cheer Pope Leo along Champs-Elysees ahead of Paris mass
+    <https://www.france24.com/en/huge-crowds-cheer-pope-leo-along-champs-elysees-ahead-of-paris-mass>
+    > Luke Shrago is live from Paris.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### space telescope
-- rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### artificial intelligence jobs
+- rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - Nancy Grace Roman Space Telescope — <https://en.wikipedia.org/wiki/Nancy_Grace_Roman_Space_Telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
 
 ---
 
@@ -125,7 +128,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-11  (2 zdrojů, síla 42)  Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars
   2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit
   2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
   2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc
@@ -145,6 +147,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
   2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
   2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
+  2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
@@ -154,7 +157,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-25  (2 zdrojů, síla 60)  Bellamy wants more from Wales after loss to Portugal
   2026-09-25  (2 zdrojů, síla 46)  Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
   2026-09-25  (2 zdrojů, síla 43)  UN General Assembly: Leaders discuss AI, global conflicts
   2026-09-25  (2 zdrojů, síla 42)  Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
@@ -174,6 +176,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
   2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
   2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
+  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
 ```
 
 ---

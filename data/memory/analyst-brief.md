@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-28
+# ANALYTICKÉ ZADÁNÍ — 2026-09-29
 
-Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 50 dní · 60 záznamů
+- rubrika `world` · sledováno 51 dní · 60 záznamů
 - časová osa:
-  - **2026-09-14** (2 zdrojů) Why the Houthi advance towards Yemen’s Marib, Taiz matters
   - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
   - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
   - **2026-09-26** (2 zdrojů) Trump rejects Iran proposal to reopen Strait of Hormuz
@@ -19,11 +18,11 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
   - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
   - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
+  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 50 dní · 60 záznamů
+- rubrika `world` · sledováno 51 dní · 60 záznamů
 - časová osa:
-  - **2026-09-27** (3 zdrojů) Ngumoha not in England squad to face Spain
   - **2026-09-27** (3 zdrojů) Northern Ireland: Pro-UK march to go through Catholic area
   - **2026-09-27** (2 zdrojů) Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
   - **2026-09-27** (2 zdrojů) Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
@@ -33,6 +32,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-28** (2 zdrojů) Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
   - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
   - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
+  - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 41 dní · 60 záznamů
