@@ -540,6 +540,64 @@
   ]
  },
  {
+  "id": "fb9c5ac6a0fc",
+  "headline": "OpenAI scraps rollout of new model over safety concerns",
+  "section": "world",
+  "score": 63,
+  "sources_count": 5,
+  "depth_signal": 0,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-29T02:29:25+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+    "published_at": "2026-09-29T02:29:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+    "published_at": "2026-09-29T02:29:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+    "published_at": "2026-09-29T02:29:25+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "OpenAI cancels release of new AI model over safety concerns",
+    "url": "https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns",
+    "source": "France 24",
+    "summary": "OpenAI will not release its latest artificial intelligence model, Astra 6.1, after internal tests found it fell short of safety standards, the ChatGPT maker confirmed on Monday. The decision comes ahead of its annual DevDay conference in San Francisco on Tuesday, where the company is expected to announce new products.",
+    "published_at": "2026-09-29T02:54:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "OpenAI cancels release of latest AI model over safety concerns",
+    "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.",
+    "published_at": "2026-09-29T00:38:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "87c1ee754633",
   "headline": "Bangkok roads submerged as flood disaster declared",
   "section": "world",
@@ -1842,6 +1900,37 @@
   ]
  },
  {
+  "id": "42d7d50a9109",
+  "headline": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+  "section": "safety",
+  "score": 47,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-25T21:44:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+    "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+    "source": "Krebs on Security",
+    "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+    "published_at": "2026-09-25T21:44:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+    "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+    "source": "BleepingComputer",
+    "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+    "published_at": "2026-09-28T07:30:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "3a223e99d7a4",
   "headline": "Three people dead, including a child, in attempt to cross Channel to UK",
   "section": "world",
@@ -2663,37 +2752,6 @@
     "published_at": "2026-09-25T21:08:36+00:00",
     "source_countries": [],
     "seen_at": "2026-09-28T21:25:14+00:00"
-   }
-  ]
- },
- {
-  "id": "cffad1c3f211",
-  "headline": "TikTok agrees to settle with Alabama state over teen safety",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-26T03:29:57+00:00",
-  "event_time": "2026-09-26T03:09:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "TikTok agrees to settle with Alabama state over teen safety",
-    "url": "https://www.dw.com/en/tiktok-agrees-to-settle-with-alabama-state-over-teen-safety/a-79440240?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The settlement involves TikTok adding several child safety measures to its platform including time limits and increased parental control. It is similar to a recent settlement competitor Meta had reached.",
-    "published_at": "2026-09-26T03:09:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-26T03:29:41+00:00"
-   },
-   {
-    "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "TikTok has settled and agreed to pay the US state of Alabama at least $100 million dollars days before trial.",
-    "published_at": "2026-09-26T02:09:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-26T03:29:41+00:00"
    }
   ]
  },
@@ -4512,6 +4570,50 @@
   ]
  },
  {
+  "id": "2564cf036abf",
+  "headline": "‘Looked like dried blood’: worker tells Beau Lamarre-Condon trial about finding suspicious belongings in skip",
+  "section": "world",
+  "score": 40,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-29T01:28:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Looked like dried blood’: worker tells Beau Lamarre-Condon trial about finding suspicious belongings in skip",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/29/beau-lamarre-condon-murder-trial-greenkeeper-evidence-luke-davies-jesse-baird-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Former Sydney police officer, 31, has pleaded not guilty to murdering AFL umpire Jesse Baird and flight attendant Luke Davies Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Brand new AFL shorts, a Qantas card and other bloodied belongings were found in a dumpster two days after football umpire Jesse Baird and flight attendant Luk",
+    "published_at": "2026-09-29T01:28:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3d6dd9aa91dc",
+  "headline": "Hitler Had an Intense, Mysterious Relationship With His Half-Niece. New Research Suggests His Alibi for Her Murder Might Not Hold Up",
+  "section": "culture",
+  "score": 40,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-25T19:07:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hitler Had an Intense, Mysterious Relationship With His Half-Niece. New Research Suggests His Alibi for Her Murder Might Not Hold Up",
+    "url": "https://www.smithsonianmag.com/smart-news/hitler-had-an-intense-mysterious-relationship-with-his-half-niece-new-research-suggests-his-alibi-for-her-murder-might-not-hold-up-180989572/",
+    "source": "Smithsonian Mag",
+    "summary": "Recently uncovered documents about the timing of Geli Raubal’s death cast new doubt on the Nazi leader’s alibi, which had been considered reasonably sound for nearly a century",
+    "published_at": "2026-09-25T19:07:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "bbac3d16d783",
   "headline": "Schoolchildren without smartphones penalised with higher bus fares",
   "section": "world",
@@ -5561,6 +5663,37 @@
   ]
  },
  {
+  "id": "1bd5c0abf6ad",
+  "headline": "Fighter jets escort Pope Leo on final day of his France tour",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-29T03:00:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Fighter jets escort Pope Leo on final day of his France tour",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
+    "published_at": "2026-09-29T03:00:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "Leo the moderate? Pope in France defends EU values",
+    "url": "https://www.france24.com/en/tv-shows/the-debate/20260928-leo-the-moderate-pope-in-france-defends-eu-values",
+    "source": "France 24",
+    "summary": "There's a new Pope in town and he's got very different ideas on what France's far-right calls the defense of Christian civilization. Leo the 14th concluding his trip to France in the eastern city of Metz, hometown of a founding father of present-day European federalism Maurice Schumann. There, the head of the world's largest organized religion proudly stated fact, that Europe’s roots are Christian",
+    "published_at": "2026-09-28T18:49:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "06ab9a4d91a4",
   "headline": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
   "section": "safety",
@@ -6577,28 +6710,6 @@
   ]
  },
  {
-  "id": "a1033c6f71ec",
-  "headline": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-  "section": "business",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-26T03:29:57+00:00",
-  "event_time": "2026-09-08T09:00:28+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-    "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The Balkan nation is aiming to become a new centre for medical tourism.",
-    "published_at": "2026-09-08T09:00:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-26T03:29:41+00:00"
-   }
-  ]
- },
- {
   "id": "71ac5d0cd287",
   "headline": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
   "section": "science",
@@ -7485,6 +7596,59 @@
     "published_at": "2026-09-24T18:00:04+00:00",
     "source_countries": [],
     "seen_at": "2026-09-29T01:05:01+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2926cd2e046b",
+  "headline": "Anthropic leaders to control AI lab to promote public good over market forces: Reuters",
+  "section": "business",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-29T01:47:09+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Anthropic leaders to control AI lab to promote public good over market forces: Reuters",
+    "url": "https://www.cnbc.com/2026/09/29/anthropic-leaders-to-control-ai-lab-to-promote-public-good-over-market-forces-reuters.html",
+    "source": "CNBC Top",
+    "summary": "Anthropic's IPO filing shows how it is creating a new \"Founder LLC\" vehicle aimed at serving the common good, while insulating its leaders from market forces.",
+    "published_at": "2026-09-29T01:47:09+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing: Reuters",
+    "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+    "source": "CNBC Top",
+    "summary": "Anthropic plans to warn IPO investors that advanced AI could pose “catastrophic or existential risks to humanity.”",
+    "published_at": "2026-09-29T01:23:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a80caea957f6",
+  "headline": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-25T04:49:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+    "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+    "source": "The Hacker News",
+    "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare. The company",
+    "published_at": "2026-09-25T04:49:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
    }
   ]
  },
@@ -8604,6 +8768,37 @@
   ]
  },
  {
+  "id": "be91f6cf681a",
+  "headline": "OpenAI apologies for Australian government website hack, pledges to rebuild trust",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-09-29T03:33:23+00:00",
+  "event_time": "2026-09-29T03:12:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI apologies for Australian government website hack, pledges to rebuild trust",
+    "url": "https://www.investing.com/news/stock-market-news/openai-says-ai-models-accessed-australian-government-systems-without-authorisation-4921486",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-29T03:12:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   },
+   {
+    "title": "OpenAI to create Australian taskforce after government website incidents",
+    "url": "https://www.investing.com/news/stock-market-news/openai-to-create-australian-taskforce-after-government-website-incidents-4921515",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-09-29T03:01:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-09-29T03:33:12+00:00"
+   }
+  ]
+ },
+ {
   "id": "6256c38ba6f8",
   "headline": "We followed five people in Gaza from dawn to dusk – this is what the headlines don’t tell us",
   "section": "world",
@@ -8763,138 +8958,6 @@
     "published_at": "2026-09-26T18:18:36+00:00",
     "source_countries": [],
     "seen_at": "2026-09-26T21:24:08+00:00"
-   }
-  ]
- },
- {
-  "id": "e552da27f744",
-  "headline": "Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-27T12:35:13+00:00",
-  "event_time": "2026-09-27T12:20:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France",
-    "url": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
-    "source": "The Guardian World",
-    "summary": "Catholic church must reckon with its ‘painful errors’, pontiff tells crowd in Lourdes during four-day tour The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before a meeting with survivors of child sexual abuse as he continues his four-day visit to France. Addressing a crowd in a large field near the Catholic shrine of Lourdes on Sunday, Pope Leo XIV called on ",
-    "published_at": "2026-09-27T12:20:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-27T12:35:10+00:00"
-   }
-  ]
- },
- {
-  "id": "39a25a6a4d88",
-  "headline": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-27T12:35:13+00:00",
-  "event_time": "2026-09-27T09:00:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
-    "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-    "source": "Guardian Business",
-    "summary": "Microsoft co-founder and philanthropist speaks with NBC’s Kristen Welker in interview airing on Sunday Bill Gates has called on the US’s federal legislators and law enforcers to regulate the development of artificial intelligence (AI), saying in an interview airing on Sunday that the technology left unchecked could cause “a billion deaths” and “no one thinks self-regulation is enough”. “You need l",
-    "published_at": "2026-09-27T09:00:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-27T12:35:10+00:00"
-   }
-  ]
- },
- {
-  "id": "65883cd32379",
-  "headline": "Play-off exit 'hurts' but Peet proud of Wigan side",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-27T12:35:13+00:00",
-  "event_time": "2026-09-27T11:20:09+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Play-off exit 'hurts' but Peet proud of Wigan side",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cwq63n49jvmgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Matt Peet says Wakefield were \"far too good\" for his Wigan side in Saturday's Super League play-off semi-final, with defeat ending their treble hopes.",
-    "published_at": "2026-09-27T11:20:09+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-27T12:35:10+00:00"
-   }
-  ]
- },
- {
-  "id": "7b432b0a7496",
-  "headline": "New York City Collects $131 Million From DoorDash for Delivery Workers Unfairly Paid After $13 Billion Profit",
-  "section": "goodnews",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-27T12:35:13+00:00",
-  "event_time": "2026-09-27T11:00:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "New York City Collects $131 Million From DoorDash for Delivery Workers Unfairly Paid After $13 Billion Profit",
-    "url": "https://www.goodnewsnetwork.org/nyc-collects-131-million-from-doordash-for-delivery-workers-unfairly-paid/",
-    "source": "Good News Network",
-    "summary": "The New York City Department of Consumer and Worker Protection (DCWP) announced a historic $131.5 million enforcement action against DoorDash for systematic violations of the local Delivery Worker Laws. The settlement will place more than $115 million directly into the pockets of delivery workers and pay for $16 million in civil penalties and costs. More […] The post New York City Collects $131 Mi",
-    "published_at": "2026-09-27T11:00:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-27T12:35:10+00:00"
-   }
-  ]
- },
- {
-  "id": "325adde017a5",
-  "headline": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-27T15:24:33+00:00",
-  "event_time": "2026-09-27T08:51:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
-    "url": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
-    "published_at": "2026-09-27T08:51:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-27T15:24:29+00:00"
-   }
-  ]
- },
- {
-  "id": "5c7c30026dd7",
-  "headline": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-09-27T15:24:33+00:00",
-  "event_time": "2026-09-27T12:06:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-    "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-    "source": "NPR News",
-    "summary": "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
-    "published_at": "2026-09-27T12:06:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-27T15:24:29+00:00"
    }
   ]
  }

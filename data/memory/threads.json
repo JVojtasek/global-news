@@ -1643,35 +1643,38 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "huang",
-    "exploit",
-    "unexpected",
-    "face",
-    "nvidia's",
-    "experts",
-    "openai",
-    "labs",
-    "base",
-    "detailed",
-    "agents",
-    "nearly",
+    "reward",
     "nvidia",
-    "drove",
-    "cnbc",
-    "cyberattack",
-    "hugging",
-    "china",
     "hacking",
-    "alabama",
-    "timeline",
     "german",
+    "goodfire",
+    "labs",
+    "cyberattack",
+    "alabama",
+    "github",
+    "timeline",
+    "nvidia's",
+    "bytedance",
+    "information",
+    "huang",
+    "zero-days",
+    "openai",
+    "detailed",
+    "exploit",
+    "hugging",
     "breach",
+    "unexpected",
+    "drove",
+    "base",
+    "cnbc",
+    "face",
+    "china",
+    "experts",
     "jensen",
     "trump",
-    "goodfire",
-    "zero-days",
-    "github",
-    "reward"
+    "agents",
+    "nearly",
+    "alibaba"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1695,7 +1698,8 @@
     "3808e2aaf93d",
     "b237fa49f681",
     "e609d968c3dc",
-    "ce7b13e0f7aa"
+    "ce7b13e0f7aa",
+    "ffd060dcfeb0"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-09-29",
@@ -1953,6 +1957,18 @@
      "links": [
       "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
       "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ffd060dcfeb0",
+     "links": [
+      "https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html",
+      "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
+      "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061"
      ]
     }
    ]
@@ -12192,5 +12208,5 @@
    ]
   }
  ],
- "updated": "2026-09-29T01:05:05+00:00"
+ "updated": "2026-09-29T03:33:23+00:00"
 }
