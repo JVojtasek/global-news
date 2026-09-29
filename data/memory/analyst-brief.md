@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-29
 
-Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
+Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 51 dní · 60 záznamů
 - časová osa:
-  - **2026-09-27** (3 zdrojů) Northern Ireland: Pro-UK march to go through Catholic area
   - **2026-09-27** (2 zdrojů) Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
   - **2026-09-27** (2 zdrojů) Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
   - **2026-09-27** (2 zdrojů) Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
@@ -33,6 +32,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
   - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
   - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
+  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 42 dní · 60 záznamů
@@ -51,7 +51,6 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 49 dní · 60 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
   - **2026-09-22** (2 zdrojů) Trump praises relations with Burnham despite tensions over AI and Iran
   - **2026-09-23** (5 zdrojů) Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
   - **2026-09-23** (2 zdrojů) Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
@@ -61,6 +60,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
   - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
   - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
+  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
@@ -79,9 +79,8 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 45 dní · 36 záznamů
+- rubrika `world` · sledováno 48 dní · 37 záznamů
 - časová osa:
-  - **2026-09-24** (3 zdrojů) White House 'repeatedly violated' court order to restore press access, say media outlets
   - **2026-09-24** (3 zdrojů) CNN, MS NOW, Politico regain access to White House
   - **2026-09-25** (2 zdrojů) At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict
   - **2026-09-25** (2 zdrojů) US-China talks on trade, AI between Trump, Xi beckon
@@ -91,6 +90,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-26** (5 zdrojů) White House bars CNN from travelling with Trump on Air Force One
   - **2026-09-26** (2 zdrojů) China, US to open AI ‘communication channel’ after summit, White House says
   - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
+  - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
 
 ---
 

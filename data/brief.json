@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
  "mode": "normal",
- "days_since_human": 0,
+ "days_since_human": 1,
  "confidence_threshold": 82,
  "reserve_articles": 16,
  "news_assignments": [
@@ -51,6 +51,65 @@
      "published_at": "2026-09-27T10:00:45+00:00",
      "source_countries": [],
      "seen_at": "2026-09-27T12:35:10+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "eb89ead0586a",
+   "headline": "Man City guilty of 'sham' contracts and misleading accounts",
+   "section": "sport",
+   "score": 69,
+   "sources_count": 4,
+   "depth_signal": 2,
+   "created": "2026-09-29T18:33:55+00:00",
+   "event_time": "2026-09-29T18:12:33+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Man City guilty of 'sham' contracts and misleading accounts",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+     "published_at": "2026-09-29T18:12:33+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-29T18:33:52+00:00"
+    },
+    {
+     "title": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts",
+     "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+     "source": "Guardian Business",
+     "summary": "Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline Manchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an independent commission found. The league announced on Tuesday that City had been found guilty on all charges related t",
+     "published_at": "2026-09-29T16:05:21+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-29T18:33:52+00:00"
+    },
+    {
+     "title": "Man City guilty of all serious financial breach charges: Premier League",
+     "url": "https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Manchester City say they are 'disappointed and surprised' by the verdict and will appeal.",
+     "published_at": "2026-09-29T16:30:50+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-29T18:33:52+00:00"
+    },
+    {
+     "title": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts",
+     "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+     "source": "Guardian Sport",
+     "summary": "Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline Manchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an independent commission found. The league announced on Tuesday that City had been found guilty on all charges related t",
+     "published_at": "2026-09-29T16:05:21+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-29T18:33:52+00:00"
+    },
+    {
+     "title": "Wayne Rooney says Manchester City should not be stripped of titles for rules breach",
+     "url": "https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules",
+     "source": "Guardian Sport",
+     "summary": "‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him another Premier League winner’s medal, as that would be unfair of the City players and staff whose endeavours secured suc",
+     "published_at": "2026-09-29T16:04:34+00:00",
+     "source_countries": [],
+     "seen_at": "2026-09-29T18:33:52+00:00"
     }
    ],
    "depth": "open"
@@ -172,56 +231,6 @@
     }
    ],
    "depth": "scripture"
-  },
-  {
-   "id": "03c4565d185b",
-   "headline": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
-   "section": "sport",
-   "score": 63,
-   "sources_count": 3,
-   "depth_signal": 2,
-   "created": "2026-09-27T09:27:28+00:00",
-   "event_time": "2026-09-27T07:00:57+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
-     "url": "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
-     "source": "Guardian Business",
-     "summary": "Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester City actually happened. City beating Manchester United 6-1 at Old Trafford? Fake. Sergio Agüero’s 94th-minute winner to cli",
-     "published_at": "2026-09-27T07:00:57+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-27T09:27:22+00:00"
-    },
-    {
-     "title": "Man City? I feel cheated - when do Stoke City get our FA Cup?",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.",
-     "published_at": "2026-09-27T06:50:09+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-27T09:27:22+00:00"
-    },
-    {
-     "title": "Gateshead’s fruitless trip south offers hint of Manchester City’s doomsday future",
-     "url": "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone",
-     "source": "Guardian Sport",
-     "summary": "His team bottom of the National League, Lee Cattermole’s ‘bomb squad’ approach could well end with him departing Among many doomsday scenarios facing Manchester City is plunging down the football pyramid. Would that be so bad? Instead of yawning at the prospect of yet another meeting with Real Madrid or repeated Aviva train-hampered journeys to Wembley, how about the exoticism of away travel to We",
-     "published_at": "2026-09-27T07:00:59+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-27T09:27:22+00:00"
-    },
-    {
-     "title": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
-     "url": "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
-     "source": "Guardian Sport",
-     "summary": "Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester City actually happened. City beating Manchester United 6-1 at Old Trafford? Fake. Sergio Agüero’s 94th-minute winner to cli",
-     "published_at": "2026-09-27T07:00:57+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-27T09:27:22+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -249,7 +258,7 @@
    "title_hint": "What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "depth": "scripture",
-   "timeline": "VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-09-25  (2 zdrojů, síla 46)  Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly\n  2026-09-25  (2 zdrojů, síla 43)  UN General Assembly: Leaders discuss AI, global conflicts\n  2026-09-25  (2 zdrojů, síla 42)  Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech\n  2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live\n  2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game\n  2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game\n  2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote\n  2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss\n  2026-09-26  (2 zdrojů, síla 43)  England should stop trying to replicate Spain - Gordon\n  2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain\n  2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area\n  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live\n  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace\n  2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live\n  2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel\n  2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’\n  2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt\n  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy\n  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live\n  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+   "timeline": "VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-09-25  (2 zdrojů, síla 43)  UN General Assembly: Leaders discuss AI, global conflicts\n  2026-09-25  (2 zdrojů, síla 42)  Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech\n  2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live\n  2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game\n  2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game\n  2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote\n  2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss\n  2026-09-26  (2 zdrojů, síla 43)  England should stop trying to replicate Spain - Gordon\n  2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain\n  2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area\n  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live\n  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace\n  2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live\n  2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel\n  2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’\n  2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt\n  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy\n  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live\n  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey\n  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live",
    "thread_days": 60
   }
  ],

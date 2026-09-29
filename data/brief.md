@@ -26,7 +26,27 @@
     <https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care>
     > PM says he will put proposals for NHS-style service funded by everybody into Labour’s next general election manifesto UK politics live – latest updates Andy Burnham has said that he is going to “rip the plaster off” to fix the broken social care system, as he set out a vision for
 
-### 2. Two mass shootings in South Africa leave 27 dead
+### 2. Man City guilty of 'sham' contracts and misleading accounts
+- id události: `eb89ead0586a`  ·  rubrika: `sport`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Man City guilty of 'sham' contracts and misleading accounts
+    <https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss>
+    > The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.
+  - **Guardian Business** — Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts
+    <https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches>
+    > Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline Manchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, a
+  - **Al Jazeera** — Man City guilty of all serious financial breach charges: Premier League
+    <https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss>
+    > Manchester City say they are 'disappointed and surprised' by the verdict and will appeal.
+  - **Guardian Sport** — Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts
+    <https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches>
+    > Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline Manchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, a
+  - **Guardian Sport** — Wayne Rooney says Manchester City should not be stripped of titles for rules breach
+    <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
+    > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
+
+### 3. Two mass shootings in South Africa leave 27 dead
 - id události: `fa9c2e8e5738`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -46,7 +66,7 @@
     <https://www.theguardian.com/sport/live/2026/sep/27/south-africa-v-australia-second-mens-one-day-international-live>
     > Updates from the match at the Wanderers Stadium Any thoughts? Get in touch with an email “The ball is going to ping through nicely,” says Shaun Pollock at the pitch inspection. He says bowling first was the right call. Continue reading...
 
-### 3. Watch: SpaceX launches Starship rocket into orbit for first time
+### 4. Watch: SpaceX launches Starship rocket into orbit for first time
 - id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -65,23 +85,6 @@
   - **Hacker News Best** — SpaceX's Starship launching to orbit for first time ever today
     <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
     > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
-
-### 4. Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
-- id události: `03c4565d185b`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Guardian Business** — Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
-    <https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict>
-    > Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester Cit
-  - **BBC Sport** — Man City? I feel cheated - when do Stoke City get our FA Cup?
-    <https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss>
-    > BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.
-  - **Guardian Sport** — Gateshead’s fruitless trip south offers hint of Manchester City’s doomsday future
-    <https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone>
-    > His team bottom of the National League, Lee Cattermole’s ‘bomb squad’ approach could well end with him departing Among many doomsday scenarios facing Manchester City is plunging down the football pyramid. Would that be so bad? Instead of yawning at the prospect of yet another mee
-  - **Guardian Sport** — Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
-    <https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict>
-    > Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester Cit
 
 ---
 
@@ -148,7 +151,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-25  (2 zdrojů, síla 46)  Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
   2026-09-25  (2 zdrojů, síla 43)  UN General Assembly: Leaders discuss AI, global conflicts
   2026-09-25  (2 zdrojů, síla 42)  Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
   2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
@@ -168,6 +170,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
   2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
   2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
+  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
 ```
 
 ---
