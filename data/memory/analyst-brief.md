@@ -9,7 +9,6 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
 - časová osa:
-  - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
   - **2026-09-26** (2 zdrojů) Trump rejects Iran proposal to reopen Strait of Hormuz
   - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
   - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
@@ -19,6 +18,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
+  - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -35,9 +35,8 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 41 dní · 60 záznamů
+- rubrika `sport` · sledováno 42 dní · 60 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) Fulham vs Manchester United: Premier League – prediction, teams, lineups
   - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
   - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
   - **2026-09-25** (2 zdrojů) Manchester City reportedly found guilty of almost 115 financial charges
@@ -47,6 +46,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
   - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
   - **2026-09-28** (2 zdrojů) Man City CEO defiant over Premier League charges
+  - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 44 dní · 60 záznamů
@@ -65,9 +65,8 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 46 dní · 48 záznamů
+- rubrika `world` · sledováno 47 dní · 49 záznamů
 - časová osa:
-  - **2026-09-20** (2 zdrojů) An Israeli settler and a Palestinian driver killed in West Bank shootings
   - **2026-09-20** (2 zdrojů) Israeli president pardons combat medic who shot dead wounded Palestinian attacker
   - **2026-09-20** (2 zdrojů) France’s Macron and Canada’s Carney announce plans to build stronger ties
   - **2026-09-21** (2 zdrojů) Macron and Carney announce closer France-Canada ties amid Trump tensions
@@ -77,6 +76,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
   - **2026-09-28** (2 zdrojů) Israel strips Dutch diplomats of status in West Bank
   - **2026-09-28** (1 zdrojů) NASA Armstrong Celebrates 80 Years of Flight Innovation
+  - **2026-09-29** (1 zdrojů) Israeli settlers attack Jalud village in occupied West Bank, torch homes
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 45 dní · 36 záznamů

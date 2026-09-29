@@ -101,7 +101,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Hallucination (artificial intelligence) — <https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
 
 ---
 
@@ -128,7 +128,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
   2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc
   2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit
   2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East
@@ -148,6 +147,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
+  2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
