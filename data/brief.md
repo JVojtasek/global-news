@@ -26,30 +26,7 @@
     <https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care>
     > PM says he will put proposals for NHS-style service funded by everybody into Labour’s next general election manifesto UK politics live – latest updates Andy Burnham has said that he is going to “rip the plaster off” to fix the broken social care system, as he set out a vision for
 
-### 2. Huge crowds greet Pope in Paris for open-air Mass
-- id události: `9e39130e88dd`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Huge crowds greet Pope in Paris for open-air Mass
-    <https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss>
-    > More than half a million people are expected to attend the event in the heart of the French capital.
-  - **DW News** — Paris: Pope Leo XIV celebrates Mass before huge crowd
-    <https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf>
-    > The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France.
-  - **France 24** — Leo XIV in France: 700,000 crowd attend Pope mass in central Paris
-    <https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris>
-    > Luke Shrago talks to Father Grégoire Catta.
-  - **France 24** — Leo XIV fills central Paris with around 600,000 people at giant outdoor Mass
-    <https://www.france24.com/en/leo-xiv-fills-central-paris-with-around-600-000-people-at-giant-outdoor-mass>
-    > Hundreds of thousands of people packed Paris’ iconic Champs-Élysées avenue for Pope Leo XIV’s big outdoor Mass on Saturday, a sign of the Catholic Church’s enduring appeal in the once staunchly Catholic but officially secular country.
-  - **France 24** — Leo XIV visits France: Pope blesses babies on way to giant Paris Mass
-    <https://www.france24.com/en/leo-xiv-visits-france-pope-blesses-babies-on-way-to-giant-paris-mass>
-    > 🇫🇷 🇻🇦 While #PopeLeo XIV rode down #Paris's iconic Champs-Élysées avenue to hold Mass, he took the opportunity to bless babies from the "popemobile
-  - **France 24** — Huge crowds cheer Pope Leo along Champs-Elysees ahead of Paris mass
-    <https://www.france24.com/en/huge-crowds-cheer-pope-leo-along-champs-elysees-ahead-of-paris-mass>
-    > Luke Shrago is live from Paris.
-
-### 3. Two mass shootings in South Africa leave 27 dead
+### 2. Two mass shootings in South Africa leave 27 dead
 - id události: `fa9c2e8e5738`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -69,7 +46,7 @@
     <https://www.theguardian.com/sport/live/2026/sep/27/south-africa-v-australia-second-mens-one-day-international-live>
     > Updates from the match at the Wanderers Stadium Any thoughts? Get in touch with an email “The ball is going to ping through nicely,” says Shaun Pollock at the pitch inspection. He says bowling first was the right call. Continue reading...
 
-### 4. Watch: SpaceX launches Starship rocket into orbit for first time
+### 3. Watch: SpaceX launches Starship rocket into orbit for first time
 - id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -88,6 +65,23 @@
   - **Hacker News Best** — SpaceX's Starship launching to orbit for first time ever today
     <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
     > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
+
+### 4. Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
+- id události: `03c4565d185b`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Guardian Business** — Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
+    <https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict>
+    > Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester Cit
+  - **BBC Sport** — Man City? I feel cheated - when do Stoke City get our FA Cup?
+    <https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss>
+    > BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after Manchester City are found guilty of the majority of the 115 charges they faced.
+  - **Guardian Sport** — Gateshead’s fruitless trip south offers hint of Manchester City’s doomsday future
+    <https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone>
+    > His team bottom of the National League, Lee Cattermole’s ‘bomb squad’ approach could well end with him departing Among many doomsday scenarios facing Manchester City is plunging down the football pyramid. Would that be so bad? Instead of yawning at the prospect of yet another mee
+  - **Guardian Sport** — Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
+    <https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict>
+    > Premier League could be hit hard by aftermath, while Manchester City fans may know they took 30 years to recover from a guilty verdict in 1906 So it turns out none of that was real. Nothing that happened in English football between 2009-10 and 2017-18 that involved Manchester Cit
 
 ---
 

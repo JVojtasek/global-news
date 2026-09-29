@@ -37,7 +37,6 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 42 dní · 60 záznamů
 - časová osa:
-  - **2026-09-23** (2 zdrojů) Manchester United report seventh straight annual loss despite record revenue
   - **2026-09-25** (2 zdrojů) Premier League joins call for Fifa reforms
   - **2026-09-25** (2 zdrojů) Manchester City reportedly found guilty of almost 115 financial charges
   - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
@@ -47,11 +46,11 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
   - **2026-09-28** (2 zdrojů) Man City CEO defiant over Premier League charges
   - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
+  - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 44 dní · 60 záznamů
+- rubrika `world` · sledováno 49 dní · 60 záznamů
 - časová osa:
-  - **2026-09-22** (2 zdrojů) EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
   - **2026-09-22** (2 zdrojů) Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
   - **2026-09-22** (2 zdrojů) Trump praises relations with Burnham despite tensions over AI and Iran
   - **2026-09-23** (5 zdrojů) Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
@@ -61,13 +60,13 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
   - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
   - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 47 dní · 49 záznamů
+- rubrika `world` · sledováno 47 dní · 50 záznamů
 - časová osa:
-  - **2026-09-20** (2 zdrojů) Israeli president pardons combat medic who shot dead wounded Palestinian attacker
   - **2026-09-20** (2 zdrojů) France’s Macron and Canada’s Carney announce plans to build stronger ties
   - **2026-09-21** (2 zdrojů) Macron and Carney announce closer France-Canada ties amid Trump tensions
   - **2026-09-21** (2 zdrojů) Trump to meet Macron in New York before UN General Assembly
@@ -77,6 +76,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-28** (2 zdrojů) Israel strips Dutch diplomats of status in West Bank
   - **2026-09-28** (1 zdrojů) NASA Armstrong Celebrates 80 Years of Flight Innovation
   - **2026-09-29** (1 zdrojů) Israeli settlers attack Jalud village in occupied West Bank, torch homes
+  - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 45 dní · 36 záznamů
