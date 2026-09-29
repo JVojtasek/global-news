@@ -9,30 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. The truth behind Donald Trump’s ‘biggest oil deal in world history’
-- id události: `6b42ee2bd0f4`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **Guardian Business** — The truth behind Donald Trump’s ‘biggest oil deal in world history’
-    <https://www.theguardian.com/us-news/2026/sep/26/donald-trump-oil-deal-with-venezuela>
-    > The US’s oil deal with Venezuela faces multiple legal and logistical problems, including questions about whether it can be implemented Donald Trump has long coveted the oilfields of other nations and declared an agreement with Venezuela to be “the biggest oil deal in world histor
-  - **The Guardian World** — Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz
-    <https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz>
-    > Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blo
-  - **Guardian Business** — Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz
-    <https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz>
-    > Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blo
-  - **France 24** — Middle-East: Iran proposes Hormuz plan, Donald Trump reportedly refuses
-    <https://www.france24.com/en/middle-east-iran-proposes-hormuz-plan-donald-trump-reportedly-refuses>
-    > The United States had yet to publicly respond on Saturday after Iran offered a plan to reopen the strategic Strait of Hormuz, though reports indicated that President Donald Trump had rejected the proposal. The waterway key to the world's oil supply is central to the conflict betw
-  - **Al Jazeera** — Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?
-    <https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss>
-    > Analysts say Trump may opt to resume attacks on Iran after November midterm elections.
-  - **France 24** — Trump reportedly rejects Iran’s seven-day plan to reopen Strait of Hormuz
-    <https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz>
-    > US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz on Saturday. Iran's Foreign Minister Abbas Araghchi presented the proposal to Trump’s envoy Steve Witkoff a day earlier on the sidelines of a UN gathering in New York. The plan stipul
-
-### 2. Andy Burnham refuses to back third runway at Heathrow
+### 1. Andy Burnham refuses to back third runway at Heathrow
 - id události: `a6788519913e`  ·  rubrika: `business`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -49,7 +26,7 @@
     <https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care>
     > PM says he will put proposals for NHS-style service funded by everybody into Labour’s next general election manifesto UK politics live – latest updates Andy Burnham has said that he is going to “rip the plaster off” to fix the broken social care system, as he set out a vision for
 
-### 3. Huge crowds greet Pope in Paris for open-air Mass
+### 2. Huge crowds greet Pope in Paris for open-air Mass
 - id události: `9e39130e88dd`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -72,7 +49,7 @@
     <https://www.france24.com/en/huge-crowds-cheer-pope-leo-along-champs-elysees-ahead-of-paris-mass>
     > Luke Shrago is live from Paris.
 
-### 4. Two mass shootings in South Africa leave 27 dead
+### 3. Two mass shootings in South Africa leave 27 dead
 - id události: `fa9c2e8e5738`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -91,6 +68,26 @@
   - **Guardian Sport** — South Africa v Australia: second men’s one-day cricket international – live
     <https://www.theguardian.com/sport/live/2026/sep/27/south-africa-v-australia-second-mens-one-day-international-live>
     > Updates from the match at the Wanderers Stadium Any thoughts? Get in touch with an email “The ball is going to ping through nicely,” says Shaun Pollock at the pitch inspection. He says bowling first was the right call. Continue reading...
+
+### 4. Watch: SpaceX launches Starship rocket into orbit for first time
+- id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC Science** — Watch: SpaceX launches Starship rocket into orbit for first time
+    <https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss>
+    > Until now, all Starship flights have been suborbital, meaning the capsules did not complete a loop around the Earth.
+  - **BBC Science** — Watch: SpaceX launches Starship rocket into orbit for first time
+    <https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss>
+    > Until now, all Starship flights have been suborbital, meaning the capsules did not complete a loop around the Earth.
+  - **NPR News** — SpaceX's Starship launches on first orbital mission from Texas
+    <https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa>
+    > Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it reached orbit.
+  - **Phys.org** — SpaceX's supersized Starship launches toward orbit for the first time
+    <https://phys.org/news/2026-09-spacex-supersized-starship-orbit.html>
+    > SpaceX launched its enormous Starship toward orbit for the first time Monday, aiming for six full laps around Earth to prove its readiness for NASA's Artemis moon program.
+  - **Hacker News Best** — SpaceX's Starship launching to orbit for first time ever today
+    <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
+    > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
 
 ---
 
