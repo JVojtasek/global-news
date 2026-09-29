@@ -9,7 +9,6 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
 - časová osa:
-  - **2026-09-18** (2 zdrojů) Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
   - **2026-09-26** (2 zdrojů) Iran offers US deal to reopen Strait of Hormuz in seven days
   - **2026-09-26** (2 zdrojů) Trump rejects Iran proposal to reopen Strait of Hormuz
   - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
@@ -19,6 +18,7 @@ Paměť obsahuje **122 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
   - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
+  - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 51 dní · 60 záznamů

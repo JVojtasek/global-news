@@ -9,27 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. White House bars CNN from travelling with Trump on Air Force One
-- id události: `87ad03b9a8d5`  ·  rubrika: `world`  ·  skóre: 76  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — White House bars CNN from travelling with Trump on Air Force One
-    <https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss>
-    > CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.
-  - **NPR News** — CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction
-    <https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one>
-    > The White House has signaled that CNN will be left off Air Force One for President Donald Trump's Saturday trip in the latest media restriction in an ongoing dispute with First Amendment implications.
-  - **DW News** — White House bars CNN from covering upcoming Trump trip, broadcaster says
-    <https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf>
-    > CNN said its journalists have been barred from accompanying President Donald Trump on his upcoming trip to Tennessee. The episode marks the Trump administration's latest salvo against the major cable news network.
-  - **France 24** — CNN removed from Trump press pool, despite judge order to reinstate White House access
-    <https://www.france24.com/en/americas/20260926-cnn-removed-from-trump-press-pool-despite-judge-order-to-reinstate-white-house-access>
-    > US news outlet CNN has been removed from a press pool that is accompanying President Donald Trump on a trip to Tennessee on Saturday. Last week, CNN, along with MS NOW and Politico, was barred from White House access by the Trump administration, but a judge ordered it temporarily
-  - **Al Jazeera** — White House bars CNN from Air Force One for Trump’s upcoming trip
-    <https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss>
-    > Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.
-
-### 2. The truth behind Donald Trump’s ‘biggest oil deal in world history’
+### 1. The truth behind Donald Trump’s ‘biggest oil deal in world history’
 - id události: `6b42ee2bd0f4`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -52,7 +32,7 @@
     <https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz>
     > US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz on Saturday. Iran's Foreign Minister Abbas Araghchi presented the proposal to Trump’s envoy Steve Witkoff a day earlier on the sidelines of a UN gathering in New York. The plan stipul
 
-### 3. Andy Burnham refuses to back third runway at Heathrow
+### 2. Andy Burnham refuses to back third runway at Heathrow
 - id události: `a6788519913e`  ·  rubrika: `business`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -69,7 +49,7 @@
     <https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care>
     > PM says he will put proposals for NHS-style service funded by everybody into Labour’s next general election manifesto UK politics live – latest updates Andy Burnham has said that he is going to “rip the plaster off” to fix the broken social care system, as he set out a vision for
 
-### 4. Huge crowds greet Pope in Paris for open-air Mass
+### 3. Huge crowds greet Pope in Paris for open-air Mass
 - id události: `9e39130e88dd`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 3
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -92,6 +72,26 @@
     <https://www.france24.com/en/huge-crowds-cheer-pope-leo-along-champs-elysees-ahead-of-paris-mass>
     > Luke Shrago is live from Paris.
 
+### 4. Two mass shootings in South Africa leave 27 dead
+- id události: `fa9c2e8e5738`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Two mass shootings in South Africa leave 27 dead
+    <https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss>
+    > The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
+  - **The Guardian World** — At least 27 dead after two mass shootings in South Africa, police say
+    <https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town>
+    > Seventeen people killed at bar near Johannesburg and 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, police have said. The South African police service said on Sunday tha
+  - **DW News** — Gunmen kill 27 people in two mass shootings in South Africa
+    <https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf>
+    > South African police have launched a search for suspects after 17 people were found dead at a tavern southwest of Johannesburg. A separate tavern shooting near Cape Town left 10 dead.
+  - **Guardian Sport** — Australia v South Africa: international men’s rugby union Test – live
+    <https://www.theguardian.com/sport/live/2026/sep/27/aus-vs-sa-australia-wallabies-v-south-africa-springboks-rugby-union-test-live-updates>
+    > Updates from the Wallabies v Springboks match in Perth Kick-off at Optus Stadium is 5.45pm local/7.45pm AEST Any thoughts? Get in touch with an email The Wallabies are enjoying their first five-match unbeaten streak since 2021, a run that includes a morale boosting series victory
+  - **Guardian Sport** — South Africa v Australia: second men’s one-day cricket international – live
+    <https://www.theguardian.com/sport/live/2026/sep/27/south-africa-v-australia-second-mens-one-day-international-live>
+    > Updates from the match at the Wanderers Stadium Any thoughts? Get in touch with an email “The ball is going to ping through nicely,” says Shaun Pollock at the pitch inspection. He says bowling first was the right call. Continue reading...
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -101,7 +101,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Hallucination (artificial intelligence) — <https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)>
 
 ---
 
@@ -128,7 +128,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-11  (2 zdrojů, síla 44)  India news: Putin, Modi to hold talks ahead of BRICS Summit
   2026-09-11  (2 zdrojů, síla 46)  Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
   2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc
   2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit
@@ -148,6 +147,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
   2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
+  2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says

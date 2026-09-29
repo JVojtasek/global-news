@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "inter",
-    "luckin",
-    "d-day",
-    "lyon",
-    "french",
-    "marib",
-    "iran's",
-    "groundhog",
-    "indycar",
-    "taiz",
-    "lightning",
-    "middle",
-    "hormuz",
-    "macron",
-    "briton",
-    "times",
-    "iranian",
-    "araghchi",
-    "north",
-    "strait",
-    "persian",
     "yemen",
-    "south",
-    "centcom",
-    "donald",
-    "kuwait",
-    "ukraine",
     "houthi",
-    "gulf",
-    "coffee",
-    "iran",
-    "mideast",
-    "saudis",
-    "brics",
-    "modi",
-    "putin",
-    "jong",
-    "east",
+    "groundhog",
     "city",
-    "trump"
+    "east",
+    "donald",
+    "saudis",
+    "iran's",
+    "modi",
+    "briton",
+    "persian",
+    "kuwait",
+    "iran",
+    "strait",
+    "d-day",
+    "mideast",
+    "hormuz",
+    "trump",
+    "putin",
+    "indycar",
+    "south",
+    "gulf",
+    "brics",
+    "luckin",
+    "tuesday",
+    "ukraine",
+    "lightning",
+    "north",
+    "middle",
+    "french",
+    "centcom",
+    "taiz",
+    "iranian",
+    "macron",
+    "araghchi",
+    "lyon",
+    "jong",
+    "marib",
+    "times",
+    "coffee"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -148,22 +148,12 @@
     "aab26a16aaf2",
     "ff3383054c54",
     "e2d5740f3cee",
-    "1bef1a0a3ff1"
+    "1bef1a0a3ff1",
+    "b66853ff84fa"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-09-29",
    "timeline": [
-    {
-     "date": "2026-08-23",
-     "headline": "Middle East live: Iran's president says country facing 'many problems' as US sanctions loom",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0d5f455ce96f",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260823-middle-east-live-iran-s-president-says-country-facing-many-problems-as-us-sanctions-loom",
-      "https://www.investing.com/news/earnings/sinopec-reports-19-profit-jump-in-h1-2026-despite-middle-east-crisis-4872438"
-     ]
-    },
     {
      "date": "2026-08-24",
      "headline": "Start your engines! Trump completes fast and furious takeover of Washington with IndyCar race",
@@ -832,6 +822,17 @@
      "links": [
       "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
       "https://www.investing.com/news/commodities-news/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern-4921465"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz",
+     "sources": 2,
+     "score": 46,
+     "event_id": "b66853ff84fa",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260929-iran-says-expects-us-response-tuesday-plan-reopen-strait-of-hormuz",
+      "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss"
      ]
     }
    ]
@@ -12208,5 +12209,5 @@
    ]
   }
  ],
- "updated": "2026-09-29T03:33:23+00:00"
+ "updated": "2026-09-29T06:44:09+00:00"
 }
