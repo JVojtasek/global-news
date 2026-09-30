@@ -39,7 +39,6 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 43 dní · 60 záznamů
 - časová osa:
-  - **2026-09-26** (2 zdrojů) We Manchester City fans fear relegation and losing trophies … but club are bang to rights
   - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
   - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
   - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
@@ -49,6 +48,7 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
   - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
   - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
+  - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 49 dní · 39 záznamů
+- rubrika `world` · sledováno 49 dní · 40 záznamů
 - časová osa:
-  - **2026-09-25** (2 zdrojů) US-China talks on trade, AI between Trump, Xi beckon
   - **2026-09-25** (2 zdrojů) US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?
   - **2026-09-25** (5 zdrojů) Supreme Court allows Trump to use controversial database to check voter citizenship
   - **2026-09-26** (2 zdrojů) White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’
@@ -91,6 +90,7 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
   - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
   - **2026-09-30** (2 zdrojů) Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’
+  - **2026-09-30** (2 zdrojů) Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea
 
 ---
 

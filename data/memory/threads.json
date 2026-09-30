@@ -1608,46 +1608,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "salah",
-    "carrick",
-    "millionaire",
-    "scherpen",
-    "fifa",
-    "ever",
-    "wants",
-    "arsenal",
-    "matildas",
-    "tottenham",
+    "greenwood",
+    "michael",
     "kuwait",
-    "it's",
-    "arroyo",
+    "league",
+    "scherpen",
+    "salah",
+    "city",
     "consequences",
-    "gakpo",
-    "aston",
     "salisbury",
-    "mccabe",
+    "manchester",
+    "millionaire",
+    "arroyo",
+    "tottenham",
+    "club",
+    "liverpool",
     "city's",
     "napoli",
-    "villa",
-    "london",
-    "manchester",
-    "forest",
-    "lens",
-    "liverpool",
-    "golden",
-    "club",
-    "rwandan",
-    "michael",
-    "sports",
-    "wilson",
     "phil",
-    "city",
-    "fabregas",
-    "premier",
-    "league",
     "ipswich",
+    "london",
+    "sports",
+    "ever",
+    "it's",
+    "mccabe",
+    "fabregas",
+    "villa",
+    "forest",
+    "wants",
     "troy's",
-    "greenwood"
+    "carrick",
+    "aston",
+    "gakpo",
+    "fifa",
+    "lens",
+    "arsenal",
+    "wilson",
+    "matildas",
+    "golden",
+    "rwandan",
+    "premier"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1724,22 +1724,12 @@
     "0e93ac64726c",
     "4ba4b8b75708",
     "1e3d18fc81aa",
-    "67df0978b651"
+    "67df0978b651",
+    "f3e463a332c3"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-30",
    "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Will a Premier League club break record for transfer sales in one window?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "fa7dac5445af",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss",
-      "https://phys.org/news/2026-08-gambling-branding-dominates-premier-league.html"
-     ]
-    },
     {
      "date": "2026-08-28",
      "headline": "Premier League: 10 things to look out for this weekend",
@@ -2425,6 +2415,17 @@
       "https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss",
       "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players"
      ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Manchester City Premier League charges: What do they mean?",
+     "sources": 2,
+     "score": 48,
+     "event_id": "f3e463a332c3",
+     "links": [
+      "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts"
+     ]
     }
    ]
   },
@@ -2434,38 +2435,41 @@
    "section": "world",
    "entities": [
     "white",
-    "driscoll",
-    "crypto",
-    "america",
-    "china",
-    "kalshi's",
-    "jinping",
-    "judge",
     "trump",
+    "south",
     "politico",
-    "tetris",
-    "stewart",
-    "nabep",
-    "trump's",
-    "jersey",
-    "army",
-    "days",
-    "venezuela",
     "does",
-    "us-china",
-    "secretary",
-    "supreme",
-    "donald",
-    "company",
-    "force",
-    "house",
-    "journalists",
-    "court",
-    "tech",
-    "karoline",
-    "chinese",
+    "jersey",
+    "china",
     "press",
-    "leavitt"
+    "leavitt",
+    "secretary",
+    "us-china",
+    "judge",
+    "army",
+    "house",
+    "company",
+    "crypto",
+    "tetris",
+    "kalshi's",
+    "restaurant",
+    "korea",
+    "driscoll",
+    "america",
+    "venezuela",
+    "court",
+    "force",
+    "karoline",
+    "days",
+    "journalists",
+    "stewart",
+    "donald",
+    "trump's",
+    "chinese",
+    "tech",
+    "supreme",
+    "nabep",
+    "jinping"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -2506,7 +2510,8 @@
     "6b42ee2bd0f4",
     "0bbffa145260",
     "73aadc58464b",
-    "66a4394b14d4"
+    "66a4394b14d4",
+    "dc4087d2a219"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-09-30",
@@ -2953,6 +2958,17 @@
      "links": [
       "https://www.theguardian.com/culture/2026/sep/29/jon-stewart-trump-xi-jinping-visit",
       "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+     "sources": 2,
+     "score": 46,
+     "event_id": "dc4087d2a219",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+      "https://phys.org/news/2026-09-lost-shark-viral-star-south.html"
      ]
     }
    ]
@@ -3826,6 +3842,62 @@
       "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
       "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
       "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd5d0f2f7796",
+   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+   "section": "world",
+   "entities": [
+    "cristiano",
+    "world",
+    "jesus",
+    "ronaldo",
+    "portugal"
+   ],
+   "event_ids": [
+    "bd5d0f2f7796",
+    "43e6847f2fa0",
+    "f4be89c7badb"
+   ],
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-09-30",
+   "timeline": [
+    {
+     "date": "2026-09-18",
+     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+     "sources": 4,
+     "score": 71,
+     "event_id": "bd5d0f2f7796",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+     "sources": 3,
+     "score": 60,
+     "event_id": "43e6847f2fa0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "sources": 2,
+     "score": 46,
+     "event_id": "f4be89c7badb",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
      ]
     }
    ]
@@ -8065,48 +8137,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/swimming/articles/cq0lry2yjg2go?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bd5d0f2f7796",
-   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-   "section": "world",
-   "entities": [
-    "world",
-    "ronaldo",
-    "portugal"
-   ],
-   "event_ids": [
-    "bd5d0f2f7796",
-    "43e6847f2fa0"
-   ],
-   "first_seen": "2026-09-18",
-   "last_seen": "2026-09-23",
-   "timeline": [
-    {
-     "date": "2026-09-18",
-     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-     "sources": 4,
-     "score": 71,
-     "event_id": "bd5d0f2f7796",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
-     "sources": 3,
-     "score": 60,
-     "event_id": "43e6847f2fa0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
      ]
     }
    ]
@@ -12494,5 +12524,5 @@
    ]
   }
  ],
- "updated": "2026-09-30T12:43:32+00:00"
+ "updated": "2026-09-30T15:30:37+00:00"
 }
