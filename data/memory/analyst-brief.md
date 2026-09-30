@@ -1,10 +1,24 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-09-29
+# ANALYTICKÉ ZADÁNÍ — 2026-09-30
 
 Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 52 dní · 60 záznamů
+- časová osa:
+  - **2026-09-27** (2 zdrojů) Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
+  - **2026-09-27** (3 zdrojů) No handshakes between Republic of Ireland and Israel
+  - **2026-09-27** (2 zdrojů) Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
+  - **2026-09-28** (2 zdrojů) Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
+  - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
+  - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
+  - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
+  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
+  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
+  - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -19,20 +33,6 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 51 dní · 60 záznamů
-- časová osa:
-  - **2026-09-27** (2 zdrojů) Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
-  - **2026-09-27** (2 zdrojů) Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
-  - **2026-09-27** (3 zdrojů) No handshakes between Republic of Ireland and Israel
-  - **2026-09-27** (2 zdrojů) Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
-  - **2026-09-28** (2 zdrojů) Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
-  - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
-  - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
-  - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
-  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
-  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 42 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 48 dní · 38 záznamů
+- rubrika `world` · sledováno 49 dní · 39 záznamů
 - časová osa:
-  - **2026-09-25** (2 zdrojů) At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict
   - **2026-09-25** (2 zdrojů) US-China talks on trade, AI between Trump, Xi beckon
   - **2026-09-25** (2 zdrojů) US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?
   - **2026-09-25** (5 zdrojů) Supreme Court allows Trump to use controversial database to check voter citizenship
@@ -91,6 +90,7 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
   - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
   - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
+  - **2026-09-30** (2 zdrojů) Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’
 
 ---
 

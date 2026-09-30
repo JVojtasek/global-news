@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-29
+# ZADÁNÍ PRO REDAKCI — 2026-09-30
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -90,12 +90,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### phishing scam
+- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
+  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
 
 ---
 
@@ -115,7 +115,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+### 1. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
+  2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game
+  2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game
+  2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote
+  2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
+  2026-09-26  (2 zdrojů, síla 43)  England should stop trying to replicate Spain - Gordon
+  2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain
+  2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area
+  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
+  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
+  2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
+  2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
+  2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
+  2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
+  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
+  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
+  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
+  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
+  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
+  2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
+```
+
+### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -142,35 +171,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
-```
-
-### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-25  (2 zdrojů, síla 42)  Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
-  2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
-  2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game
-  2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game
-  2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote
-  2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
-  2026-09-26  (2 zdrojů, síla 43)  England should stop trying to replicate Spain - Gordon
-  2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain
-  2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area
-  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
-  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
-  2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
-  2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
-  2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
-  2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
-  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
-  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
-  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
-  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
-  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
 ```
 
 ---
