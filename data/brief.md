@@ -9,24 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Andy Burnham refuses to back third runway at Heathrow
-- id události: `a6788519913e`  ·  rubrika: `business`  ·  skóre: 70  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Business** — Andy Burnham refuses to back third runway at Heathrow
-    <https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss>
-    > Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn
-  - **BBC Health** — 'Broken social care will in the end break the NHS,' says Burnham
-    <https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss>
-    > Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
-  - **Guardian Business** — Tony Blair would like Andy Burnham to take his advice on rejoining the EU. Should he? | Tom Baldwin
-    <https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour>
-    > The former PM has been consulted by many who came after him – but Burnham might want to shake his New Labour past once and for all Tony Blair can, apparently, sound slightly wistful when he describes how he once had a cloak-and-dagger meeting with Andy Burnham, who wanted to talk
-  - **The Guardian World** — ‘Rip the plaster off’: Andy Burnham sets out vision for universal free social care
-    <https://www.theguardian.com/politics/2026/sep/27/andy-burnham-sets-out-vision-for-universal-free-social-care>
-    > PM says he will put proposals for NHS-style service funded by everybody into Labour’s next general election manifesto UK politics live – latest updates Andy Burnham has said that he is going to “rip the plaster off” to fix the broken social care system, as he set out a vision for
-
-### 2. Man City guilty of 'sham' contracts and misleading accounts
+### 1. Man City guilty of 'sham' contracts and misleading accounts
 - id události: `eb89ead0586a`  ·  rubrika: `sport`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -46,7 +29,7 @@
     <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
     > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
 
-### 3. Watch: SpaceX launches Starship rocket into orbit for first time
+### 2. Watch: SpaceX launches Starship rocket into orbit for first time
 - id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -66,7 +49,7 @@
     <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
     > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
 
-### 4. OpenAI scraps rollout of new model over safety concerns
+### 3. OpenAI scraps rollout of new model over safety concerns
 - id události: `fb9c5ac6a0fc`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -85,6 +68,26 @@
   - **Al Jazeera** — OpenAI cancels release of latest AI model over safety concerns
     <https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss>
     > AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
+
+### 4. Why Salisbury are 'bigger than many Premier League teams' in Kuwait
+- id události: `4ba4b8b75708`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Why Salisbury are 'bigger than many Premier League teams' in Kuwait
+    <https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&at_campaign=rss>
+    > Sixth-tier Salisbury FC have a unique relationship with Kuwait, where they are regarded as "bigger than many Premier League" clubs.
+  - **Al Jazeera** — Man City’s Premier League charges: What’s the latest and what comes next?
+    <https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss>
+    > Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.
+  - **Guardian Sport** — David Squires on … the Manchester City verdict and Nations League tensions
+    <https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland>
+    > Our cartoonist on the Premier League’s ruling finally being revealed and Israel v Republic of Ireland Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...
+  - **Guardian Sport** — How important is a fast start for teams chasing the Premier League title?
+    <https://www.theguardian.com/football/2026/sep/29/premier-league-fast-start-teams-manchester-city>
+    > Manchester City have kicked off the campaign with five victories in a row but the title race is a marathon not a sprint By Opta Analyst The first international window gives us time to take stock and make sense of what has happened in the early weeks of the Premier League season. 
+  - **Guardian Sport** — Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
+    <https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary>
+    > Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland Northern Ireland left frustrated by Hungary stalemate Michael Olise’s magnificent late strike gave France a 1-0 Nations League victory over Belgium in Brussels, as Zinedine Zidane made it two wins out of two since being name
 
 ---
 
@@ -122,7 +125,6 @@
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-25  (2 zdrojů, síla 44)  Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live
   2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game
   2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game
   2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote
@@ -142,6 +144,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
   2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
   2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
+  2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
 ```
 
 ### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
