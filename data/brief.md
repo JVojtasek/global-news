@@ -9,7 +9,29 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Man City guilty of 'sham' contracts and misleading accounts
+### 1. Google announces Gemini 4 Argon AI model, but you can't use it yet
+- id události: `556e1e4b03fe`  ·  rubrika: `tech`  ·  skóre: 72  ·  nezávislých zdrojů: 6
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **Ars Technica** — Google announces Gemini 4 Argon AI model, but you can't use it yet
+    <https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/>
+    > So much for Gemini 3.5 Pro.
+  - **Ars Technica AI** — Google announces Gemini 4 Argon AI model, but you can't use it yet
+    <https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/>
+    > So much for Gemini 3.5 Pro.
+  - **Google DeepMind** — Gemini 4 Argon: our next era of frontier intelligence
+    <https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/>
+  - **The Verge** — Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now
+    <https://www.theverge.com/tech/1002980/google-gemini-4-argon>
+    > Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers "frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense," according t
+  - **The Verge AI** — Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now
+    <https://www.theverge.com/tech/1002980/google-gemini-4-argon>
+    > Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers "frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense," according t
+  - **Hacker News Best** — Gemini 4 Argon
+    <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/>
+    > Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 453 # Comments: 232
+
+### 2. Man City guilty of 'sham' contracts and misleading accounts
 - id události: `eb89ead0586a`  ·  rubrika: `sport`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -29,7 +51,7 @@
     <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
     > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
 
-### 2. Watch: SpaceX launches Starship rocket into orbit for first time
+### 3. Watch: SpaceX launches Starship rocket into orbit for first time
 - id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -49,7 +71,7 @@
     <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
     > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
 
-### 3. OpenAI scraps rollout of new model over safety concerns
+### 4. OpenAI scraps rollout of new model over safety concerns
 - id události: `fb9c5ac6a0fc`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -69,26 +91,6 @@
     <https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss>
     > AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
 
-### 4. Why Salisbury are 'bigger than many Premier League teams' in Kuwait
-- id události: `4ba4b8b75708`  ·  rubrika: `sport`  ·  skóre: 63  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Why Salisbury are 'bigger than many Premier League teams' in Kuwait
-    <https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&at_campaign=rss>
-    > Sixth-tier Salisbury FC have a unique relationship with Kuwait, where they are regarded as "bigger than many Premier League" clubs.
-  - **Al Jazeera** — Man City’s Premier League charges: What’s the latest and what comes next?
-    <https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss>
-    > Swingeing sanctions against City for breaching financial fair play rules would send shockwaves through English football.
-  - **Guardian Sport** — David Squires on … the Manchester City verdict and Nations League tensions
-    <https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland>
-    > Our cartoonist on the Premier League’s ruling finally being revealed and Israel v Republic of Ireland Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading...
-  - **Guardian Sport** — How important is a fast start for teams chasing the Premier League title?
-    <https://www.theguardian.com/football/2026/sep/29/premier-league-fast-start-teams-manchester-city>
-    > Manchester City have kicked off the campaign with five victories in a row but the title race is a marathon not a sprint By Opta Analyst The first international window gives us time to take stock and make sense of what has happened in the early weeks of the Premier League season. 
-  - **Guardian Sport** — Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
-    <https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary>
-    > Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland Northern Ireland left frustrated by Hungary stalemate Michael Olise’s magnificent late strike gave France a 1-0 Nations League victory over Belgium in Brussels, as Zinedine Zidane made it two wins out of two since being name
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -98,7 +100,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Phishing — <https://en.wikipedia.org/wiki/Phishing>
   - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
 
 ---
 
