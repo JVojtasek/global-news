@@ -23,8 +23,6 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 50 dní · 60 záznamů
 - časová osa:
-  - **2026-09-23** (5 zdrojů) Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
-  - **2026-09-23** (2 zdrojů) Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
   - **2026-09-23** (2 zdrojů) Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
   - **2026-09-23** (2 zdrojů) UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
   - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
@@ -33,13 +31,14 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
   - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
   - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+  - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
+  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 43 dní · 60 záznamů
 - časová osa:
-  - **2026-09-26** (3 zdrojů) Manchester City verdict: what happens next, will club appeal and could they be relegated?
   - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
   - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
   - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
@@ -49,6 +48,7 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
   - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
   - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
+  - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
