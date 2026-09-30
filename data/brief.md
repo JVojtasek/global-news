@@ -46,27 +46,7 @@
     <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
     > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
 
-### 3. Two mass shootings in South Africa leave 27 dead
-- id události: `fa9c2e8e5738`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Two mass shootings in South Africa leave 27 dead
-    <https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss>
-    > The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.
-  - **The Guardian World** — At least 27 dead after two mass shootings in South Africa, police say
-    <https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town>
-    > Seventeen people killed at bar near Johannesburg and 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, police have said. The South African police service said on Sunday tha
-  - **DW News** — Gunmen kill 27 people in two mass shootings in South Africa
-    <https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf>
-    > South African police have launched a search for suspects after 17 people were found dead at a tavern southwest of Johannesburg. A separate tavern shooting near Cape Town left 10 dead.
-  - **Guardian Sport** — Australia v South Africa: international men’s rugby union Test – live
-    <https://www.theguardian.com/sport/live/2026/sep/27/aus-vs-sa-australia-wallabies-v-south-africa-springboks-rugby-union-test-live-updates>
-    > Updates from the Wallabies v Springboks match in Perth Kick-off at Optus Stadium is 5.45pm local/7.45pm AEST Any thoughts? Get in touch with an email The Wallabies are enjoying their first five-match unbeaten streak since 2021, a run that includes a morale boosting series victory
-  - **Guardian Sport** — South Africa v Australia: second men’s one-day cricket international – live
-    <https://www.theguardian.com/sport/live/2026/sep/27/south-africa-v-australia-second-mens-one-day-international-live>
-    > Updates from the match at the Wanderers Stadium Any thoughts? Get in touch with an email “The ball is going to ping through nicely,” says Shaun Pollock at the pitch inspection. He says bowling first was the right call. Continue reading...
-
-### 4. Watch: SpaceX launches Starship rocket into orbit for first time
+### 3. Watch: SpaceX launches Starship rocket into orbit for first time
 - id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -85,6 +65,26 @@
   - **Hacker News Best** — SpaceX's Starship launching to orbit for first time ever today
     <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
     > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
+
+### 4. OpenAI scraps rollout of new model over safety concerns
+- id události: `fb9c5ac6a0fc`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — OpenAI scraps rollout of new model over safety concerns
+    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
+    > The firm also issued an update on incidents in which its models accessed Australian government systems.
+  - **BBC Business** — OpenAI scraps rollout of new model over safety concerns
+    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
+    > The firm also issued an update on incidents in which its models accessed Australian government systems.
+  - **BBC Technology** — OpenAI scraps rollout of new model over safety concerns
+    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
+    > The firm also issued an update on incidents in which its models accessed Australian government systems.
+  - **France 24** — OpenAI cancels release of new AI model over safety concerns
+    <https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns>
+    > OpenAI will not release its latest artificial intelligence model, Astra 6.1, after internal tests found it fell short of safety standards, the ChatGPT maker confirmed on Monday. The decision comes ahead of its annual DevDay conference in San Francisco on Tuesday, where the compan
+  - **Al Jazeera** — OpenAI cancels release of latest AI model over safety concerns
+    <https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss>
+    > AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
 
 ---
 
@@ -144,33 +144,33 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
 ```
 
-### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-12  (2 zdrojů, síla 40)  BRICS leaders meet in India as wars and US tensions test the bloc
-  2026-09-12  (2 zdrojů, síla 50)  India’s Modi calls for empowerment of Global South at BRICS Summit
-  2026-09-13  (3 zdrojů, síla 54)  BRICS summit leaders urge 'maximum restraint' in Middle East
-  2026-09-13  (2 zdrojů, síla 43)  Iran war reshapes Brics ties but also exposes divisions
-  2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
-  2026-09-14  (4 zdrojů, síla 68)  Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
-  2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
-  2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
-  2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
-  2026-09-26  (2 zdrojů, síla 47)  Iran offers US deal to reopen Strait of Hormuz in seven days
-  2026-09-26  (2 zdrojů, síla 41)  Trump rejects Iran proposal to reopen Strait of Hormuz
-  2026-09-26  (2 zdrojů, síla 44)  ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
-  2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
-  2026-09-27  (2 zdrojů, síla 49)  Araghchi ignores Trump, waits for mediators’ response on Hormuz
-  2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
-  2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
-  2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
-  2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
-  2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
-  2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
+VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+rubrika: world · sledováno od 2026-08-11 · záznamů: 60
+  2026-09-14  (2 zdrojů, síla 42)  Ukraine, Russia set for new round of US-mediated talks
+  2026-09-14  (2 zdrojů, síla 44)  Ukraine and Russia have agreed not to hit energy targets, Trump claims – as it happened
+  2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
+  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
+  2026-09-20  (4 zdrojů, síla 63)  Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
+  2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
+  2026-09-20  (2 zdrojů, síla 40)  Ukraine launches heavy Moscow drone attack as Russia votes
+  2026-09-22  (2 zdrojů, síla 46)  EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
+  2026-09-22  (2 zdrojů, síla 44)  Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
+  2026-09-22  (2 zdrojů, síla 42)  Trump praises relations with Burnham despite tensions over AI and Iran
+  2026-09-23  (5 zdrojů, síla 84)  Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+  2026-09-23  (2 zdrojů, síla 46)  Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
+  2026-09-23  (2 zdrojů, síla 45)  Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
+  2026-09-23  (2 zdrojů, síla 47)  UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+  2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
+  2026-09-23  (2 zdrojů, síla 40)  US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  2026-09-24  (2 zdrojů, síla 46)  Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  2026-09-29  (3 zdrojů, síla 53)  Estonia blames Russia for arson at defence company supplying Ukraine
+  2026-09-29  (2 zdrojů, síla 40)  Estonia blames Russia for arson attack on defense company
+  2026-09-30  (2 zdrojů, síla 44)  Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
 ```
 
 ---

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-09-30
 
-Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
@@ -19,6 +19,22 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
   - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
   - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
+
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 50 dní · 60 záznamů
+- časová osa:
+  - **2026-09-23** (5 zdrojů) Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+  - **2026-09-23** (2 zdrojů) Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
+  - **2026-09-23** (2 zdrojů) Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
+  - **2026-09-23** (2 zdrojů) UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+  - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
+  - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
+  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
+  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -47,22 +63,6 @@ Paměť obsahuje **123 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
   - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
   - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 49 dní · 60 záznamů
-- časová osa:
-  - **2026-09-22** (2 zdrojů) Trump praises relations with Burnham despite tensions over AI and Iran
-  - **2026-09-23** (5 zdrojů) Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
-  - **2026-09-23** (2 zdrojů) Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
-  - **2026-09-23** (2 zdrojů) Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
-  - **2026-09-23** (2 zdrojů) UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
-  - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
-  - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
-  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
-  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
-  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 47 dní · 50 záznamů
