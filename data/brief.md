@@ -113,7 +113,36 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+rubrika: world · sledováno od 2026-08-11 · záznamů: 60
+  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
+  2026-09-20  (4 zdrojů, síla 63)  Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
+  2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
+  2026-09-20  (2 zdrojů, síla 40)  Ukraine launches heavy Moscow drone attack as Russia votes
+  2026-09-22  (2 zdrojů, síla 46)  EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
+  2026-09-22  (2 zdrojů, síla 44)  Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
+  2026-09-22  (2 zdrojů, síla 42)  Trump praises relations with Burnham despite tensions over AI and Iran
+  2026-09-23  (5 zdrojů, síla 84)  Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+  2026-09-23  (2 zdrojů, síla 46)  Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
+  2026-09-23  (2 zdrojů, síla 45)  Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
+  2026-09-23  (2 zdrojů, síla 47)  UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+  2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
+  2026-09-23  (2 zdrojů, síla 40)  US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  2026-09-24  (2 zdrojů, síla 46)  Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  2026-09-29  (3 zdrojů, síla 53)  Estonia blames Russia for arson at defence company supplying Ukraine
+  2026-09-29  (2 zdrojů, síla 40)  Estonia blames Russia for arson attack on defense company
+  2026-09-30  (2 zdrojů, síla 44)  Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+  2026-09-30  (2 zdrojů, síla 42)  ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
+  2026-09-30  (2 zdrojů, síla 41)  Questions remain over Iran’s link to alleged RAF Fairford bomb plot
+  2026-10-01  (2 zdrojů, síla 48)  Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
+```
+
+### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -140,35 +169,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
   2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
-```
-
-### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-15  (1 zdrojů, síla 43)  These Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found
-  2026-09-15  (1 zdrojů, síla 44)  World Maps Might Soon Get an Upgrade. The United Nations Votes to Endorse Global Charts That Better Represent Africa's True Size
-  2026-09-20  (4 zdrojů, síla 63)  Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow
-  2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
-  2026-09-20  (2 zdrojů, síla 40)  Ukraine launches heavy Moscow drone attack as Russia votes
-  2026-09-22  (2 zdrojů, síla 46)  EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
-  2026-09-22  (2 zdrojů, síla 44)  Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
-  2026-09-22  (2 zdrojů, síla 42)  Trump praises relations with Burnham despite tensions over AI and Iran
-  2026-09-23  (5 zdrojů, síla 84)  Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
-  2026-09-23  (2 zdrojů, síla 46)  Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
-  2026-09-23  (2 zdrojů, síla 45)  Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
-  2026-09-23  (2 zdrojů, síla 47)  UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
-  2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
-  2026-09-23  (2 zdrojů, síla 40)  US envoy walks out on Pezeshkian UN speech slamming war on Iran
-  2026-09-24  (2 zdrojů, síla 46)  Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
-  2026-09-29  (3 zdrojů, síla 53)  Estonia blames Russia for arson at defence company supplying Ukraine
-  2026-09-29  (2 zdrojů, síla 40)  Estonia blames Russia for arson attack on defense company
-  2026-09-30  (2 zdrojů, síla 44)  Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
-  2026-09-30  (2 zdrojů, síla 42)  ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
-  2026-09-30  (2 zdrojů, síla 41)  Questions remain over Iran’s link to alleged RAF Fairford bomb plot
 ```
 
 ---

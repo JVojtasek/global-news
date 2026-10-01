@@ -6,6 +6,22 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **41**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 51 dní · 60 záznamů
+- časová osa:
+  - **2026-09-23** (2 zdrojů) UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+  - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
+  - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
+  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
+  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+  - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
+  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
+  - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
+
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 52 dní · 60 záznamů
 - časová osa:
@@ -19,22 +35,6 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
   - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 50 dní · 60 záznamů
-- časová osa:
-  - **2026-09-23** (2 zdrojů) Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
-  - **2026-09-23** (2 zdrojů) UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
-  - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
-  - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
-  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
-  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
-  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
-  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
-  - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
-  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 43 dní · 60 záznamů
