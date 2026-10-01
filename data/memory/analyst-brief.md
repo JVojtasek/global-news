@@ -23,9 +23,8 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 52 dní · 60 záznamů
+- rubrika `world` · sledováno 53 dní · 60 záznamů
 - časová osa:
-  - **2026-09-27** (3 zdrojů) No handshakes between Republic of Ireland and Israel
   - **2026-09-27** (2 zdrojů) Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
   - **2026-09-28** (2 zdrojů) Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
   - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
@@ -35,11 +34,11 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
   - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
+  - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 43 dní · 60 záznamů
+- rubrika `sport` · sledováno 44 dní · 60 záznamů
 - časová osa:
-  - **2026-09-26** (2 zdrojů) WSL roundup: Greenwood maintains Manchester City’s 100% record
   - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
   - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
   - **2026-09-28** (2 zdrojů) Man City CEO defiant over Premier League charges
@@ -49,6 +48,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
   - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
   - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
+  - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 49 dní · 40 záznamů
+- rubrika `world` · sledováno 50 dní · 41 záznamů
 - časová osa:
-  - **2026-09-25** (2 zdrojů) US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?
   - **2026-09-25** (5 zdrojů) Supreme Court allows Trump to use controversial database to check voter citizenship
   - **2026-09-26** (2 zdrojů) White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’
   - **2026-09-26** (5 zdrojů) White House bars CNN from travelling with Trump on Air Force One
@@ -91,6 +90,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
   - **2026-09-30** (2 zdrojů) Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’
   - **2026-09-30** (2 zdrojů) Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea
+  - **2026-10-01** (2 zdrojů) Despite praise and White House visits, Trump avoids endorsing Netanyahu
 
 ---
 

@@ -149,7 +149,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-26  (3 zdrojů, síla 53)  Republic of Ireland news conference delayed before controversial Israel game
   2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game
   2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote
   2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
@@ -169,6 +168,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
   2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
+  2026-10-01  (2 zdrojů, síla 42)  Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
 ```
 
 ---
