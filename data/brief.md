@@ -69,25 +69,25 @@
     <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
     > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
 
-### 4. Watch: SpaceX launches Starship rocket into orbit for first time
-- id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+### 4. OpenAI scraps rollout of new model over safety concerns
+- id události: `fb9c5ac6a0fc`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Science** — Watch: SpaceX launches Starship rocket into orbit for first time
-    <https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss>
-    > Until now, all Starship flights have been suborbital, meaning the capsules did not complete a loop around the Earth.
-  - **BBC Science** — Watch: SpaceX launches Starship rocket into orbit for first time
-    <https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss>
-    > Until now, all Starship flights have been suborbital, meaning the capsules did not complete a loop around the Earth.
-  - **NPR News** — SpaceX's Starship launches on first orbital mission from Texas
-    <https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa>
-    > Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it reached orbit.
-  - **Phys.org** — SpaceX's supersized Starship launches toward orbit for the first time
-    <https://phys.org/news/2026-09-spacex-supersized-starship-orbit.html>
-    > SpaceX launched its enormous Starship toward orbit for the first time Monday, aiming for six full laps around Earth to prove its readiness for NASA's Artemis moon program.
-  - **Hacker News Best** — SpaceX's Starship launching to orbit for first time ever today
-    <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
-    > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
+  - **BBC World** — OpenAI scraps rollout of new model over safety concerns
+    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
+    > The firm also issued an update on incidents in which its models accessed Australian government systems.
+  - **BBC Business** — OpenAI scraps rollout of new model over safety concerns
+    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
+    > The firm also issued an update on incidents in which its models accessed Australian government systems.
+  - **BBC Technology** — OpenAI scraps rollout of new model over safety concerns
+    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
+    > The firm also issued an update on incidents in which its models accessed Australian government systems.
+  - **France 24** — OpenAI cancels release of new AI model over safety concerns
+    <https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns>
+    > OpenAI will not release its latest artificial intelligence model, Astra 6.1, after internal tests found it fell short of safety standards, the ChatGPT maker confirmed on Monday. The decision comes ahead of its annual DevDay conference in San Francisco on Tuesday, where the compan
+  - **Al Jazeera** — OpenAI cancels release of latest AI model over safety concerns
+    <https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss>
+    > AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
 
 ---
 
