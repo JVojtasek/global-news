@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-09-30
+# ZADÁNÍ PRO REDAKCI — 2026-10-01
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -31,7 +31,25 @@
     <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/>
     > Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 453 # Comments: 232
 
-### 2. Man City guilty of 'sham' contracts and misleading accounts
+### 2. US judge approves settlement allowing Paramount to acquire Warner Bros
+- id události: `a14295e93320`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **Al Jazeera** — US judge approves settlement allowing Paramount to acquire Warner Bros
+    <https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss>
+    > Mammoth deal has raised questions about corporate consolidation and editorial independence in media.
+  - **The Verge** — The new and huger Paramount has a new co-CEO
+    <https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez>
+    > Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, "Ellison will focu
+  - **France 24** — Paramount takeover of Warner Bros. Discovery clears legal hurdle
+    <https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle>
+    > A federal judge on Wednesday approved a settlement clearing Paramount’s takeover of Warner Bros. Discovery after 12 US states challenged the deal on antitrust grounds. The agreement includes safeguards for CNN’s editorial independence and requires the merged studio to release at 
+  - **Investing.com** — Paramount Skydance prices $42 billion debt for Warner Bros deal
+    <https://www.investing.com/news/company-news/paramount-skydance-prices-42-billion-debt-for-warner-bros-deal-93CH-4926156>
+  - **Investing.com** — Paramount gets court green light on Warner Bros deal, names Mattel’s Kreiz co-CEO
+    <https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773>
+
+### 3. Man City guilty of 'sham' contracts and misleading accounts
 - id události: `eb89ead0586a`  ·  rubrika: `sport`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -51,7 +69,7 @@
     <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
     > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
 
-### 3. Watch: SpaceX launches Starship rocket into orbit for first time
+### 4. Watch: SpaceX launches Starship rocket into orbit for first time
 - id události: `7fc5f077fca0`  ·  rubrika: `science`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -71,36 +89,11 @@
     <https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live>
     > Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live Comments URL: https://news.ycombinator.com/item?id=49875411 Points: 258 # Comments: 236
 
-### 4. OpenAI scraps rollout of new model over safety concerns
-- id události: `fb9c5ac6a0fc`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — OpenAI scraps rollout of new model over safety concerns
-    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
-    > The firm also issued an update on incidents in which its models accessed Australian government systems.
-  - **BBC Business** — OpenAI scraps rollout of new model over safety concerns
-    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
-    > The firm also issued an update on incidents in which its models accessed Australian government systems.
-  - **BBC Technology** — OpenAI scraps rollout of new model over safety concerns
-    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
-    > The firm also issued an update on incidents in which its models accessed Australian government systems.
-  - **France 24** — OpenAI cancels release of new AI model over safety concerns
-    <https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns>
-    > OpenAI will not release its latest artificial intelligence model, Astra 6.1, after internal tests found it fell short of safety standards, the ChatGPT maker confirmed on Monday. The decision comes ahead of its annual DevDay conference in San Francisco on Tuesday, where the compan
-  - **Al Jazeera** — OpenAI cancels release of latest AI model over safety concerns
-    <https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss>
-    > AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### phishing scam
-- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
-- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
-  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
+_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ---
 

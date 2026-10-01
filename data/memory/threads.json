@@ -1,6 +1,406 @@
 {
  "threads": [
   {
+   "id": "8d4f8a634705",
+   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+   "section": "world",
+   "entities": [
+    "ipos",
+    "kong",
+    "hong",
+    "moonshot",
+    "kimi",
+    "jailed",
+    "joshua",
+    "journal",
+    "nasdaq",
+    "shanghai",
+    "street",
+    "wong",
+    "wall"
+   ],
+   "event_ids": [
+    "8d4f8a634705",
+    "e2312c1237f9",
+    "323d97d785b5",
+    "555171a3d51e",
+    "90b187c3a547",
+    "110a86be6895",
+    "f4d95320390a",
+    "ae0f99b97c11"
+   ],
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-10-01",
+   "timeline": [
+    {
+     "date": "2026-09-02",
+     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+     "sources": 4,
+     "score": 68,
+     "event_id": "8d4f8a634705",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e2312c1237f9",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
+      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
+     "sources": 3,
+     "score": 62,
+     "event_id": "323d97d785b5",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+     "sources": 2,
+     "score": 46,
+     "event_id": "555171a3d51e",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+     "sources": 2,
+     "score": 48,
+     "event_id": "90b187c3a547",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
+     "sources": 1,
+     "score": 42,
+     "event_id": "110a86be6895",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
+      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
+     "sources": 1,
+     "score": 40,
+     "event_id": "f4d95320390a",
+     "links": [
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
+      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Hong Kong journalist arrested on sedition charge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ae0f99b97c11",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "blue",
+    "dish",
+    "muscle",
+    "boosts",
+    "artemis",
+    "president",
+    "open",
+    "science",
+    "services",
+    "investigations",
+    "sharing",
+    "contract",
+    "awards",
+    "network",
+    "data",
+    "starburst",
+    "glenn",
+    "three",
+    "event",
+    "space",
+    "detector",
+    "launch",
+    "flights",
+    "next-gen",
+    "adds",
+    "highest",
+    "moon",
+    "origin",
+    "crew",
+    "spacex",
+    "gamma-ray",
+    "deep",
+    "ribbon-cutting",
+    "award",
+    "base",
+    "station",
+    "accords",
+    "honors",
+    "nasa"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-10-01",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "elon",
+    "apple",
+    "grokipedia",
+    "openai",
+    "dots",
+    "musk"
+   ],
+   "event_ids": [
+    "95b4d8eb7452",
+    "1b1d0d455584",
+    "572dce99347e",
+    "5afad699a57c"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-01",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "1b1d0d455584",
+     "links": [
+      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+     "sources": 3,
+     "score": 45,
+     "event_id": "572dce99347e",
+     "links": [
+      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+     "sources": 3,
+     "score": 52,
+     "event_id": "5afad699a57c",
+     "links": [
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c613a75961a",
+   "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+   "section": "business",
+   "entities": [
+    "paramount",
+    "bros",
+    "warner"
+   ],
+   "event_ids": [
+    "5c613a75961a",
+    "cbc0576d2a34",
+    "a14295e93320"
+   ],
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-10-01",
+   "timeline": [
+    {
+     "date": "2026-09-21",
+     "headline": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+     "sources": 7,
+     "score": 80,
+     "event_id": "5c613a75961a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
+      "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "cbc0576d2a34",
+     "links": [
+      "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+      "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+     "sources": 4,
+     "score": 70,
+     "event_id": "a14295e93320",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+      "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+      "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle"
+     ]
+    }
+   ]
+  },
+  {
    "id": "6e0f12b732f6",
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
@@ -4100,118 +4500,6 @@
    ]
   },
   {
-   "id": "8d4f8a634705",
-   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-   "section": "world",
-   "entities": [
-    "jailed",
-    "wall",
-    "hong",
-    "kimi",
-    "wong",
-    "joshua",
-    "shanghai",
-    "kong",
-    "journal",
-    "nasdaq",
-    "street",
-    "moonshot",
-    "ipos"
-   ],
-   "event_ids": [
-    "8d4f8a634705",
-    "e2312c1237f9",
-    "323d97d785b5",
-    "555171a3d51e",
-    "90b187c3a547",
-    "110a86be6895",
-    "f4d95320390a"
-   ],
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-30",
-   "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-     "sources": 4,
-     "score": 68,
-     "event_id": "8d4f8a634705",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e2312c1237f9",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
-      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
-     "sources": 3,
-     "score": 62,
-     "event_id": "323d97d785b5",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
-     "sources": 2,
-     "score": 46,
-     "event_id": "555171a3d51e",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
-     "sources": 2,
-     "score": 48,
-     "event_id": "90b187c3a547",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
-      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
-     "sources": 1,
-     "score": 42,
-     "event_id": "110a86be6895",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
-      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
-     "sources": 1,
-     "score": 40,
-     "event_id": "f4d95320390a",
-     "links": [
-      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
-      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
-     ]
-    }
-   ]
-  },
-  {
    "id": "bd5d0f2f7796",
    "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
    "section": "world",
@@ -4276,63 +4564,6 @@
       "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
       "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "95b4d8eb7452",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "section": "tech",
-   "entities": [
-    "musk",
-    "elon",
-    "dots",
-    "apple",
-    "openai"
-   ],
-   "event_ids": [
-    "95b4d8eb7452",
-    "1b1d0d455584",
-    "572dce99347e"
-   ],
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-09-30",
-   "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "sources": 3,
-     "score": 55,
-     "event_id": "95b4d8eb7452",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "1b1d0d455584",
-     "links": [
-      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
      ]
     }
    ]
@@ -6392,142 +6623,6 @@
      "links": [
       "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
       "https://huggingface.co/blog/muse-glimmer"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "ribbon-cutting",
-    "dish",
-    "artemis",
-    "muscle",
-    "flights",
-    "spacex",
-    "gamma-ray",
-    "station",
-    "event",
-    "awards",
-    "glenn",
-    "crew",
-    "contract",
-    "president",
-    "sharing",
-    "space",
-    "honors",
-    "nasa",
-    "blue",
-    "services",
-    "next-gen",
-    "boosts",
-    "highest",
-    "three",
-    "award",
-    "deep",
-    "network",
-    "science",
-    "adds",
-    "launch",
-    "accords",
-    "origin",
-    "open",
-    "data",
-    "starburst",
-    "detector"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-09-29",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
      ]
     }
    ]
@@ -8682,47 +8777,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/europe/20260921-germany-merz-vows-to-keep-ruling-coalition-together-after-election-defeats"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5c613a75961a",
-   "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-   "section": "business",
-   "entities": [
-    "paramount",
-    "bros",
-    "warner"
-   ],
-   "event_ids": [
-    "5c613a75961a",
-    "cbc0576d2a34"
-   ],
-   "first_seen": "2026-09-21",
-   "last_seen": "2026-09-21",
-   "timeline": [
-    {
-     "date": "2026-09-21",
-     "headline": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-     "sources": 7,
-     "score": 80,
-     "event_id": "5c613a75961a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
-      "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
-     "sources": 2,
-     "score": 44,
-     "event_id": "cbc0576d2a34",
-     "links": [
-      "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-      "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370"
      ]
     }
    ]
@@ -12618,5 +12672,5 @@
    ]
   }
  ],
- "updated": "2026-09-30T21:27:47+00:00"
+ "updated": "2026-10-01T01:14:08+00:00"
 }
