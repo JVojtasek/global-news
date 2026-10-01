@@ -39,7 +39,6 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 44 dní · 60 záznamů
 - časová osa:
-  - **2026-09-27** (3 zdrojů) Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
   - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
   - **2026-09-28** (2 zdrojů) Man City CEO defiant over Premier League charges
   - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
@@ -49,6 +48,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
   - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
   - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
+  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -65,9 +65,8 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 47 dní · 50 záznamů
+- rubrika `world` · sledováno 49 dní · 51 záznamů
 - časová osa:
-  - **2026-09-20** (2 zdrojů) France’s Macron and Canada’s Carney announce plans to build stronger ties
   - **2026-09-21** (2 zdrojů) Macron and Carney announce closer France-Canada ties amid Trump tensions
   - **2026-09-21** (2 zdrojů) Trump to meet Macron in New York before UN General Assembly
   - **2026-09-21** (2 zdrojů) Burnham hails Greenland deal ahead of expected first Trump meeting
@@ -77,6 +76,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-28** (1 zdrojů) NASA Armstrong Celebrates 80 Years of Flight Innovation
   - **2026-09-29** (1 zdrojů) Israeli settlers attack Jalud village in occupied West Bank, torch homes
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
+  - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 50 dní · 41 záznamů

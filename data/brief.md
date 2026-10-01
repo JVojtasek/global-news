@@ -9,7 +9,30 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Google announces Gemini 4 Argon AI model, but you can't use it yet
+### 1. How success of Manchester City helped put Andy Burnham in power
+- id události: `e9c5b4c67393`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — How success of Manchester City helped put Andy Burnham in power
+    <https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power>
+    > PM has praised Abu Dhabi group as ‘huge partner’ in reshaping Manchester, but critics say this ignores public cost of city’s transformation In July 2016, the Manchester City player Yaya Touré ambled into a small bar near Beijing’s Workers’ Stadium and offered a bemused smile as d
+  - **Guardian Business** — Billionaire Sheiks and ‘sham’ contracts: the Manchester City scandal – podcast
+    <https://www.theguardian.com/news/audio/2026/oct/01/billionaire-sheiks-and-sham-contracts-the-manchester-city-scandal-podcast>
+    > Jonathan Liew explains the accusations against Manchester City – and Simon Hattenstone explains how it feels to be a fan Simon Hattenstone , a features writer for the Guardian, has been a Manchester City fan for more than 50 years. He was very young – and recovering from a childh
+  - **Guardian Business** — Andy Burnham’s big bold leap - podcast
+    <https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast>
+    > Helen Pidd reports from the Labour conference in Liverpool as Andy Burnham lays out his grand plans as prime minister. With deputy political editor Jessica Elgot Continue reading...
+  - **Guardian Sport** — Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil
+    <https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report>
+    > Manchester City played out a high-quality draw with Real Madrid in the Women’s Champions League after an unprecedented week of off-field tension at the English club. The result – which was a fair reflection of an even but entertaining game – left both sides with two points from t
+  - **Al Jazeera** — UK Parliament told answers on tax implications are needed in Manchester City ruling
+    <https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss>
+    > HM Revenue and Customs (HMRC) has been contacted in the United Kingdom about Man City's financial breaches.
+  - **Guardian Sport** — Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks
+    <https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status>
+    > Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, h
+
+### 2. Google announces Gemini 4 Argon AI model, but you can't use it yet
 - id události: `556e1e4b03fe`  ·  rubrika: `tech`  ·  skóre: 72  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -31,7 +54,7 @@
     <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/>
     > Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 453 # Comments: 232
 
-### 2. US judge approves settlement allowing Paramount to acquire Warner Bros
+### 3. US judge approves settlement allowing Paramount to acquire Warner Bros
 - id události: `a14295e93320`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -49,7 +72,7 @@
   - **Investing.com** — Paramount gets court green light on Warner Bros deal, names Mattel’s Kreiz co-CEO
     <https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773>
 
-### 3. Man City guilty of 'sham' contracts and misleading accounts
+### 4. Man City guilty of 'sham' contracts and misleading accounts
 - id události: `eb89ead0586a`  ·  rubrika: `sport`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -68,26 +91,6 @@
   - **Guardian Sport** — Wayne Rooney says Manchester City should not be stripped of titles for rules breach
     <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
     > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
-
-### 4. OpenAI scraps rollout of new model over safety concerns
-- id události: `fb9c5ac6a0fc`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — OpenAI scraps rollout of new model over safety concerns
-    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
-    > The firm also issued an update on incidents in which its models accessed Australian government systems.
-  - **BBC Business** — OpenAI scraps rollout of new model over safety concerns
-    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
-    > The firm also issued an update on incidents in which its models accessed Australian government systems.
-  - **BBC Technology** — OpenAI scraps rollout of new model over safety concerns
-    <https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss>
-    > The firm also issued an update on incidents in which its models accessed Australian government systems.
-  - **France 24** — OpenAI cancels release of new AI model over safety concerns
-    <https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns>
-    > OpenAI will not release its latest artificial intelligence model, Astra 6.1, after internal tests found it fell short of safety standards, the ChatGPT maker confirmed on Monday. The decision comes ahead of its annual DevDay conference in San Francisco on Tuesday, where the compan
-  - **Al Jazeera** — OpenAI cancels release of latest AI model over safety concerns
-    <https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss>
-    > AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
 
 ---
 
