@@ -401,6 +401,49 @@
    ]
   },
   {
+   "id": "863ad87729f5",
+   "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+   "section": "world",
+   "entities": [
+    "tennessee",
+    "gail",
+    "execution",
+    "pike",
+    "christa"
+   ],
+   "event_ids": [
+    "863ad87729f5",
+    "99393131b9ac"
+   ],
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-01",
+   "timeline": [
+    {
+     "date": "2026-10-01",
+     "headline": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+     "sources": 3,
+     "score": 57,
+     "event_id": "863ad87729f5",
+     "links": [
+      "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
+      "https://www.france24.com/en/americas/20261001-execution-of-convicted-us-killer-christa-pike-fails-despite-two-lethal-injections",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+     "sources": 2,
+     "score": 48,
+     "event_id": "99393131b9ac",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "6e0f12b732f6",
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
@@ -12672,5 +12715,5 @@
    ]
   }
  ],
- "updated": "2026-10-01T03:38:31+00:00"
+ "updated": "2026-10-01T06:45:11+00:00"
 }
