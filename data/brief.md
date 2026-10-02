@@ -72,25 +72,19 @@
   - **Investing.com** — Paramount gets court green light on Warner Bros deal, names Mattel’s Kreiz co-CEO
     <https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773>
 
-### 4. Man City guilty of 'sham' contracts and misleading accounts
-- id události: `eb89ead0586a`  ·  rubrika: `sport`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+### 4. ‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech
+- id události: `af201c60dedd`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — Man City guilty of 'sham' contracts and misleading accounts
-    <https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss>
-    > The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.
-  - **Guardian Business** — Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts
-    <https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches>
-    > Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline Manchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, a
-  - **Al Jazeera** — Man City guilty of all serious financial breach charges: Premier League
-    <https://www.aljazeera.com/sports/2026/9/29/man-city-guilty-of-all-serious-financial-breach-charges-premier-league?traffic_source=rss>
-    > Manchester City say they are 'disappointed and surprised' by the verdict and will appeal.
-  - **Guardian Sport** — Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts
-    <https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches>
-    > Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline Manchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, a
-  - **Guardian Sport** — Wayne Rooney says Manchester City should not be stripped of titles for rules breach
-    <https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules>
-    > ‘I wouldn’t feel comfortable … I don’t think we deserved it’ Manchester United finished second to City in 2011-12 Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him a
+  - **The Guardian World** — ‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech
+    <https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech>
+    > Prime minister’s pure political argument marks new era for party as he sets out his plans and priorities The hottest ticket at Labour conference – after Andy Burnham’s speech – was an afterparty in Liverpool’s Baltic Triangle, headlined with a set by the noughties girlband Sugaba
+  - **Guardian Sport** — Andy Burnham admits to ‘concern’ if Manchester City lose their owners after guilty verdicts
+    <https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league>
+    > Club ‘a huge partner in building modern Manchester’ Independent Football Regulator monitoring case Andy Burnham has said he would be “really concerned” to lose Manchester City’s owners as a result of the club being found guilty of more than 100 breaches of Premier League rules. O
+  - **Al Jazeera** — The Burnham bounce: Is Labour gaining ground against Farage’s Reform?
+    <https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss>
+    > British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips.
 
 ---
 

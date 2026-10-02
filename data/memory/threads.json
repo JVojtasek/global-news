@@ -2658,6 +2658,289 @@
    ]
   },
   {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "dish",
+    "space",
+    "next-gen",
+    "sharing",
+    "ambitious",
+    "event",
+    "highest",
+    "open",
+    "muscle",
+    "science",
+    "awards",
+    "experimental",
+    "test",
+    "ribbon-cutting",
+    "data",
+    "launch",
+    "google",
+    "starburst",
+    "send",
+    "centers",
+    "award",
+    "gamma-ray",
+    "network",
+    "flights",
+    "moon",
+    "boosts",
+    "satellite",
+    "adds",
+    "honors",
+    "deep",
+    "origin",
+    "whether",
+    "contract",
+    "base",
+    "crew",
+    "president",
+    "nasa",
+    "three",
+    "accords",
+    "services"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-10-02",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8a4f53de3494",
+   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+   "section": "world",
+   "entities": [
+    "clacton",
+    "farage",
+    "count",
+    "reform",
+    "nigel",
+    "binface",
+    "polls",
+    "futile"
+   ],
+   "event_ids": [
+    "8a4f53de3494",
+    "a7a35c7660a5",
+    "ad706d5a5e94",
+    "5a0bc875861a",
+    "8731e6398ae7",
+    "27e01e5e1d3c",
+    "a141279522fa",
+    "38c7b22ebddb"
+   ],
+   "first_seen": "2026-08-14",
+   "last_seen": "2026-10-02",
+   "timeline": [
+    {
+     "date": "2026-08-14",
+     "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+     "sources": 3,
+     "score": 60,
+     "event_id": "8a4f53de3494",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
+      "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a7a35c7660a5",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+      "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Clacton by-election: Farage may win the town, but can he win the country?",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad706d5a5e94",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Futile Clacton byelection has done Farage no favours",
+     "sources": 5,
+     "score": 75,
+     "event_id": "5a0bc875861a",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
+      "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
+      "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
+     "sources": 3,
+     "score": 58,
+     "event_id": "8731e6398ae7",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
+      "https://www.theguardian.com/commentisfree/2026/sep/04/nigel-farage-reform-shadowy-foreign-donor-establishment-stitch-up",
+      "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "The two-year trail of financial controversy dogging Reform and Farage",
+     "sources": 2,
+     "score": 43,
+     "event_id": "27e01e5e1d3c",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
+      "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Farage brushes aside Reform controversies in closing conference speech – UK politics as it happened",
+     "sources": 2,
+     "score": 43,
+     "event_id": "a141279522fa",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
+      "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "UK: Man charged with planning to attack Nigel Farage",
+     "sources": 2,
+     "score": 40,
+     "event_id": "38c7b22ebddb",
+     "links": [
+      "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/uk-news/2026/oct/02/ann-widdecombe-suspect-charged-with-planning-terror-act-against-nigel-farage"
+     ]
+    }
+   ]
+  },
+  {
    "id": "5c613a75961a",
    "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
    "section": "business",
@@ -2735,6 +3018,86 @@
      "links": [
       "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
       "https://www.investing.com/news/stock-market-news/david-ellison-says-combined-paramount-and-warner-bros-discovery-will-be-named-skydance-4930008"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "863ad87729f5",
+   "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+   "section": "world",
+   "entities": [
+    "gail",
+    "execution",
+    "tennessee",
+    "pike",
+    "christa"
+   ],
+   "event_ids": [
+    "863ad87729f5",
+    "99393131b9ac",
+    "833259a7be1f",
+    "de456bb36fbd",
+    "69e326080f67"
+   ],
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-02",
+   "timeline": [
+    {
+     "date": "2026-10-01",
+     "headline": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+     "sources": 3,
+     "score": 57,
+     "event_id": "863ad87729f5",
+     "links": [
+      "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
+      "https://www.france24.com/en/americas/20261001-execution-of-convicted-us-killer-christa-pike-fails-despite-two-lethal-injections",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+     "sources": 2,
+     "score": 48,
+     "event_id": "99393131b9ac",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Tennessee death row inmate Christa Pike survives two lethal injections",
+     "sources": 2,
+     "score": 47,
+     "event_id": "833259a7be1f",
+     "links": [
+      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections",
+      "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
+      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
+     "sources": 2,
+     "score": 47,
+     "event_id": "de456bb36fbd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+     "sources": 2,
+     "score": 42,
+     "event_id": "69e326080f67",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss"
      ]
     }
    ]
@@ -4768,157 +5131,6 @@
    ]
   },
   {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "blue",
-    "dish",
-    "muscle",
-    "boosts",
-    "artemis",
-    "president",
-    "open",
-    "science",
-    "services",
-    "investigations",
-    "sharing",
-    "contract",
-    "awards",
-    "network",
-    "data",
-    "starburst",
-    "glenn",
-    "three",
-    "event",
-    "space",
-    "detector",
-    "launch",
-    "flights",
-    "next-gen",
-    "adds",
-    "highest",
-    "moon",
-    "origin",
-    "crew",
-    "spacex",
-    "gamma-ray",
-    "deep",
-    "ribbon-cutting",
-    "award",
-    "base",
-    "station",
-    "accords",
-    "honors",
-    "nasa"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-10-01",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "bd5d0f2f7796",
    "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
    "section": "world",
@@ -5067,74 +5279,6 @@
       "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
       "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
       "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "863ad87729f5",
-   "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
-   "section": "world",
-   "entities": [
-    "gail",
-    "pike",
-    "christa",
-    "execution",
-    "tennessee"
-   ],
-   "event_ids": [
-    "863ad87729f5",
-    "99393131b9ac",
-    "833259a7be1f",
-    "de456bb36fbd"
-   ],
-   "first_seen": "2026-10-01",
-   "last_seen": "2026-10-01",
-   "timeline": [
-    {
-     "date": "2026-10-01",
-     "headline": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
-     "sources": 3,
-     "score": 57,
-     "event_id": "863ad87729f5",
-     "links": [
-      "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
-      "https://www.france24.com/en/americas/20261001-execution-of-convicted-us-killer-christa-pike-fails-despite-two-lethal-injections",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-     "sources": 2,
-     "score": 48,
-     "event_id": "99393131b9ac",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Tennessee death row inmate Christa Pike survives two lethal injections",
-     "sources": 2,
-     "score": 47,
-     "event_id": "833259a7be1f",
-     "links": [
-      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections",
-      "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
-      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
-     "sources": 2,
-     "score": 47,
-     "event_id": "de456bb36fbd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
      ]
     }
    ]
@@ -10785,114 +10929,6 @@
    ]
   },
   {
-   "id": "8a4f53de3494",
-   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
-   "section": "world",
-   "entities": [
-    "clacton",
-    "futile",
-    "reform",
-    "binface",
-    "polls",
-    "count",
-    "farage",
-    "nigel"
-   ],
-   "event_ids": [
-    "8a4f53de3494",
-    "a7a35c7660a5",
-    "ad706d5a5e94",
-    "5a0bc875861a",
-    "8731e6398ae7",
-    "27e01e5e1d3c",
-    "a141279522fa"
-   ],
-   "first_seen": "2026-08-14",
-   "last_seen": "2026-09-06",
-   "timeline": [
-    {
-     "date": "2026-08-14",
-     "headline": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
-     "sources": 3,
-     "score": 60,
-     "event_id": "8a4f53de3494",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
-      "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a7a35c7660a5",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-      "https://www.france24.com/en/europe/20260813-farage-and-count-binface-go-head-to-head-in-snap-uk-poll"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Clacton by-election: Farage may win the town, but can he win the country?",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ad706d5a5e94",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260812-uk-joke-candidate-count-binface-makes-serious-point-about-politics"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Futile Clacton byelection has done Farage no favours",
-     "sources": 5,
-     "score": 75,
-     "event_id": "5a0bc875861a",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/14/clacton-byelection-result-nigel-farage-binface-parliamentary-inquiry-analysis",
-      "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-      "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Has Reform UK donations exposé caused a split in Nigel Farage’s party?",
-     "sources": 3,
-     "score": 58,
-     "event_id": "8731e6398ae7",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/04/reform-uk-donations-expose-nigel-farage",
-      "https://www.theguardian.com/commentisfree/2026/sep/04/nigel-farage-reform-shadowy-foreign-donor-establishment-stitch-up",
-      "https://www.aljazeera.com/news/2026/9/4/why-is-farages-reform-accused-of-violating-the-uks-foreign-funding-rules?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "The two-year trail of financial controversy dogging Reform and Farage",
-     "sources": 2,
-     "score": 43,
-     "event_id": "27e01e5e1d3c",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
-      "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Farage brushes aside Reform controversies in closing conference speech – UK politics as it happened",
-     "sources": 2,
-     "score": 43,
-     "event_id": "a141279522fa",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-      "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage"
-     ]
-    }
-   ]
-  },
-  {
    "id": "572525ad51af",
    "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
    "section": "sport",
@@ -12915,5 +12951,5 @@
    ]
   }
  ],
- "updated": "2026-10-02T18:33:28+00:00"
+ "updated": "2026-10-02T21:25:50+00:00"
 }
