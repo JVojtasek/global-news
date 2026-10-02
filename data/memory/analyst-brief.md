@@ -23,7 +23,6 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 45 dní · 60 záznamů
 - časová osa:
-  - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
   - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
   - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
   - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
@@ -33,6 +32,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
   - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
   - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
+  - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 51 dní · 42 záznamů
+- rubrika `world` · sledováno 51 dní · 43 záznamů
 - časová osa:
-  - **2026-09-26** (2 zdrojů) White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’
   - **2026-09-26** (5 zdrojů) White House bars CNN from travelling with Trump on Air Force One
   - **2026-09-26** (2 zdrojů) China, US to open AI ‘communication channel’ after summit, White House says
   - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
@@ -91,6 +90,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-30** (2 zdrojů) Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea
   - **2026-10-01** (2 zdrojů) Despite praise and White House visits, Trump avoids endorsing Netanyahu
   - **2026-10-02** (2 zdrojů) South Korea demands Ukraine apology over POW disclosure
+  - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
 
 ---
 

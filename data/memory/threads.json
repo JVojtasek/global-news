@@ -817,44 +817,44 @@
    "entities": [
     "greenwood",
     "tottenham",
+    "carrick",
+    "tuchel",
+    "forest",
+    "phil",
+    "mccabe",
+    "andy",
+    "salisbury",
+    "michael",
     "scherpen",
+    "napoli",
+    "chris",
+    "sports",
+    "burnham",
+    "arsenal",
+    "fabregas",
+    "kuwait",
+    "fifa",
     "it's",
-    "manchester",
+    "burnham's",
+    "mason",
+    "salah",
+    "business",
+    "premier",
+    "london",
     "champions",
     "rwandan",
-    "salah",
-    "ever",
     "troy's",
-    "kuwait",
-    "business",
-    "chris",
-    "league",
-    "burnham",
-    "forest",
-    "madrid",
-    "city",
-    "andy",
-    "arsenal",
     "millionaire",
-    "gakpo",
-    "mccabe",
-    "salisbury",
     "villa",
-    "fifa",
-    "fabregas",
-    "sports",
+    "beckett",
+    "city",
     "women",
-    "michael",
-    "london",
-    "burnham's",
-    "wants",
-    "napoli",
-    "carrick",
-    "phil",
-    "premier",
-    "mason",
     "real",
-    "beckett"
+    "ever",
+    "league",
+    "manchester",
+    "england",
+    "gakpo"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -937,22 +937,12 @@
     "e9489905aec1",
     "e9c5b4c67393",
     "fb73dbee1490",
-    "dde1d964eb7c"
+    "dde1d964eb7c",
+    "25091917f855"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-02",
    "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb6c94972eaf",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/aug/29/tottenham-hotspur-v-newcastle-premier-league-live"
-     ]
-    },
     {
      "date": "2026-08-30",
      "headline": "Antonio helps young Ghanaians chase Premier League dreams",
@@ -1635,6 +1625,18 @@
       "https://www.theguardian.com/commentisfree/2026/oct/02/andy-burnham-labour-talk-big-changes",
       "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham"
      ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Manchester City’s England players are worried about their futures, admits Tuchel",
+     "sources": 2,
+     "score": 52,
+     "event_id": "25091917f855",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
+      "https://www.theguardian.com/football/2026/oct/02/manchester-city-football-daily-newsletter",
+      "https://www.france24.com/en/sport/20261002-manchester-city-appeal-judgement-that-club-breached-premier-league-financial-rules"
+     ]
     }
    ]
   },
@@ -1643,45 +1645,45 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "restaurant",
-    "jersey",
-    "supreme",
-    "white",
-    "tech",
-    "court",
-    "venezuela",
-    "jinping",
-    "nabep",
     "judge",
-    "driscoll",
-    "tetris",
-    "ukraine",
-    "force",
-    "netanyahu",
-    "house",
-    "kalshi's",
-    "donald",
-    "us-china",
-    "does",
-    "journalists",
-    "politico",
-    "leavitt",
-    "despite",
-    "america",
-    "company",
-    "karoline",
-    "stewart",
-    "crypto",
-    "south",
-    "days",
-    "press",
-    "army",
-    "secretary",
-    "trump's",
     "chinese",
+    "leavitt",
+    "karoline",
+    "company",
+    "does",
+    "netanyahu",
+    "army",
+    "house",
+    "us-china",
+    "stewart",
+    "restaurant",
+    "venezuela",
     "trump",
+    "tech",
+    "journalists",
     "china",
-    "korea"
+    "days",
+    "secretary",
+    "jinping",
+    "despite",
+    "crypto",
+    "white",
+    "nabep",
+    "driscoll",
+    "press",
+    "kalshi's",
+    "tetris",
+    "trump's",
+    "donald",
+    "jersey",
+    "court",
+    "force",
+    "politico",
+    "america",
+    "south",
+    "korea",
+    "ukraine",
+    "supreme"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -1725,7 +1727,8 @@
     "66a4394b14d4",
     "dc4087d2a219",
     "363f25d81e31",
-    "c1fa2f6ae218"
+    "c1fa2f6ae218",
+    "fcd1b322a9ec"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-10-02",
@@ -2207,6 +2210,17 @@
       "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html"
      ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+     "sources": 2,
+     "score": 40,
+     "event_id": "fcd1b322a9ec",
+     "links": [
+      "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
+     ]
     }
    ]
   },
@@ -2648,19 +2662,20 @@
    "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
    "section": "business",
    "entities": [
-    "bros",
-    "warner",
-    "skydance",
-    "ellison",
     "discovery",
+    "bros",
+    "paramount",
+    "skydance",
     "david",
-    "paramount"
+    "warner",
+    "ellison"
    ],
    "event_ids": [
     "5c613a75961a",
     "cbc0576d2a34",
     "a14295e93320",
-    "44f48c1adbc1"
+    "44f48c1adbc1",
+    "30a598ac2108"
    ],
    "first_seen": "2026-09-21",
    "last_seen": "2026-10-02",
@@ -2709,6 +2724,17 @@
      "links": [
       "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
       "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Paramount and Warner Bros. Discovery to become Skydance",
+     "sources": 2,
+     "score": 41,
+     "event_id": "30a598ac2108",
+     "links": [
+      "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "https://www.investing.com/news/stock-market-news/david-ellison-says-combined-paramount-and-warner-bros-discovery-will-be-named-skydance-4930008"
      ]
     }
    ]
@@ -12889,5 +12915,5 @@
    ]
   }
  ],
- "updated": "2026-10-02T15:28:57+00:00"
+ "updated": "2026-10-02T18:33:28+00:00"
 }

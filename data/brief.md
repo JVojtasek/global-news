@@ -152,7 +152,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-22  (2 zdrojů, síla 46)  Fulham vs Manchester United: Premier League – prediction, teams, lineups
   2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue
   2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms
   2026-09-25  (2 zdrojů, síla 56)  Manchester City reportedly found guilty of almost 115 financial charges
@@ -172,6 +171,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power
   2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
   2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
+  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
 ```
 
 ---
