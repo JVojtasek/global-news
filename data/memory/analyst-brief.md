@@ -20,6 +20,20 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
   - **2026-10-02** (3 zdrojů) Klopp wins first game as Germany coach, without 'top dogs'
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 45 dní · 60 záznamů
+- časová osa:
+  - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
+  - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
+  - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
+  - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
+  - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
+  - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
+  - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
+  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
+  - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+  - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
+
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 51 dní · 60 záznamů
 - časová osa:
@@ -35,20 +49,6 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 44 dní · 60 záznamů
-- časová osa:
-  - **2026-09-27** (2 zdrojů) How drawn-out saga of Manchester City’s alleged cheating came to this
-  - **2026-09-28** (2 zdrojů) Man City CEO defiant over Premier League charges
-  - **2026-09-29** (2 zdrojů) Aston Villa sack boss Arroyo after winless WSL start
-  - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
-  - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
-  - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
-  - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
-  - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
-  - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
-  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
