@@ -250,64 +250,6 @@
   ]
  },
  {
-  "id": "fb9c5ac6a0fc",
-  "headline": "OpenAI scraps rollout of new model over safety concerns",
-  "section": "world",
-  "score": 63,
-  "sources_count": 5,
-  "depth_signal": 0,
-  "created": "2026-09-29T03:33:23+00:00",
-  "event_time": "2026-09-29T02:29:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-    "published_at": "2026-09-29T02:29:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
-   },
-   {
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-    "published_at": "2026-09-29T02:29:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
-   },
-   {
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-    "published_at": "2026-09-29T02:29:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
-   },
-   {
-    "title": "OpenAI cancels release of new AI model over safety concerns",
-    "url": "https://www.france24.com/en/americas/20260929-openai-cancels-release-new-ai-model-safety-concerns",
-    "source": "France 24",
-    "summary": "OpenAI will not release its latest artificial intelligence model, Astra 6.1, after internal tests found it fell short of safety standards, the ChatGPT maker confirmed on Monday. The decision comes ahead of its annual DevDay conference in San Francisco on Tuesday, where the company is expected to announce new products.",
-    "published_at": "2026-09-29T02:54:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
-   },
-   {
-    "title": "OpenAI cancels release of latest AI model over safety concerns",
-    "url": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.",
-    "published_at": "2026-09-29T00:38:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
-   }
-  ]
- },
- {
   "id": "4ba4b8b75708",
   "headline": "Why Salisbury are 'bigger than many Premier League teams' in Kuwait",
   "section": "sport",
@@ -1153,6 +1095,46 @@
   ]
  },
  {
+  "id": "9755b951926c",
+  "headline": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+  "section": "world",
+  "score": 52,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-10-02T06:43:59+00:00",
+  "event_time": "2026-10-02T05:42:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+    "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+    "published_at": "2026-10-02T05:42:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   },
+   {
+    "title": "Ethiopia and Eritrea sever ties amid Tigray fighting",
+    "url": "https://www.dw.com/en/ethiopia-and-eritrea-sever-ties-amid-tigray-fighting/a-79507052?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Ethiopia said it was expelling Eritrean diplomats in response to Eritrea's \"direct and indirect acts of hostility.\" Eritrea said it had \"no choice but to reciprocate in kind.\"",
+    "published_at": "2026-10-01T16:57:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   },
+   {
+    "title": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Eritrea has severed diplomatic ties with Ethiopia after Addis Ababa closed its embassy in Asmara",
+    "published_at": "2026-10-02T04:40:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   }
+  ]
+ },
+ {
   "id": "e5a767179c02",
   "headline": "Malaysia repatriates Myanmar migrants despite UN warnings",
   "section": "world",
@@ -1819,33 +1801,42 @@
   ]
  },
  {
-  "id": "42d7d50a9109",
-  "headline": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-  "section": "safety",
-  "score": 47,
+  "id": "c1fa2f6ae218",
+  "headline": "South Korea demands Ukraine apology over POW disclosure",
+  "section": "world",
+  "score": 48,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-09-29T03:33:23+00:00",
-  "event_time": "2026-09-25T21:44:40+00:00",
+  "depth_signal": 0,
+  "created": "2026-10-02T06:43:59+00:00",
+  "event_time": "2026-10-02T06:33:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-    "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-    "source": "Krebs on Security",
-    "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-    "published_at": "2026-09-25T21:44:40+00:00",
+    "title": "South Korea demands Ukraine apology over POW disclosure",
+    "url": "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Ukrainian President Volodymyr Zelenskyy's disclosure of the transfer of North Korean prisoners of war (POWs) to Seoul has caused a major diplomatic spat between Seoul and Kyiv.",
+    "published_at": "2026-10-02T06:33:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
+    "seen_at": "2026-10-02T06:43:55+00:00"
    },
    {
-    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-    "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-    "source": "BleepingComputer",
-    "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-    "published_at": "2026-09-28T07:30:15+00:00",
+    "title": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
+    "url": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "A diplomatic scandal has erupted over two North Korean prisoners of war, with South Korea demanding an apology from Ukraine. What's been the reaction in Kyiv?",
+    "published_at": "2026-10-02T04:40:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   },
+   {
+    "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
+    "url": "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html",
+    "source": "CNBC Top",
+    "summary": "\"As this is a matter concerning the honor of the Republic of Korea's people and nation, we cannot overlook it,\" he said.",
+    "published_at": "2026-10-02T06:36:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
    }
   ]
  },
@@ -4211,6 +4202,37 @@
   ]
  },
  {
+  "id": "2ce567561bd7",
+  "headline": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-10-02T06:43:59+00:00",
+  "event_time": "2026-10-02T05:00:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
+    "url": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
+    "source": "The Guardian World",
+    "summary": "Redundancy process suggests home of Gavin and Stacey and Fleabag could go online-only again in £500m cuts push The BBC has started a redundancy process in its TV and streaming division, heightening staff fears that Matt Brittin will announce the closure of the poorly performing BBC Three and BBC Scotland channels next week. The corporation’s director general, who has repeatedly said that linear TV",
+    "published_at": "2026-10-02T05:00:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   },
+   {
+    "title": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
+    "url": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
+    "source": "Guardian Business",
+    "summary": "Redundancy process suggests home of Gavin and Stacey and Fleabag could go online-only again in £500m cuts push The BBC has started a redundancy process in its TV and streaming division, heightening staff fears that Matt Brittin will announce the closure of the poorly performing BBC Three and BBC Scotland channels next week. The corporation’s director general, who has repeatedly said that linear TV",
+    "published_at": "2026-10-02T05:00:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   }
+  ]
+ },
+ {
   "id": "5eba141f3348",
   "headline": "Spain announces new housing measures after protests over 87-year-old woman's eviction",
   "section": "world",
@@ -4583,50 +4605,6 @@
     "published_at": "2026-10-01T20:10:52+00:00",
     "source_countries": [],
     "seen_at": "2026-10-01T21:26:16+00:00"
-   }
-  ]
- },
- {
-  "id": "2564cf036abf",
-  "headline": "‘Looked like dried blood’: worker tells Beau Lamarre-Condon trial about finding suspicious belongings in skip",
-  "section": "world",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-09-29T03:33:23+00:00",
-  "event_time": "2026-09-29T01:28:59+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘Looked like dried blood’: worker tells Beau Lamarre-Condon trial about finding suspicious belongings in skip",
-    "url": "https://www.theguardian.com/australia-news/2026/sep/29/beau-lamarre-condon-murder-trial-greenkeeper-evidence-luke-davies-jesse-baird-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "Former Sydney police officer, 31, has pleaded not guilty to murdering AFL umpire Jesse Baird and flight attendant Luke Davies Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Brand new AFL shorts, a Qantas card and other bloodied belongings were found in a dumpster two days after football umpire Jesse Baird and flight attendant Luk",
-    "published_at": "2026-09-29T01:28:59+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
-   }
-  ]
- },
- {
-  "id": "3d6dd9aa91dc",
-  "headline": "Hitler Had an Intense, Mysterious Relationship With His Half-Niece. New Research Suggests His Alibi for Her Murder Might Not Hold Up",
-  "section": "culture",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-09-29T03:33:23+00:00",
-  "event_time": "2026-09-25T19:07:56+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hitler Had an Intense, Mysterious Relationship With His Half-Niece. New Research Suggests His Alibi for Her Murder Might Not Hold Up",
-    "url": "https://www.smithsonianmag.com/smart-news/hitler-had-an-intense-mysterious-relationship-with-his-half-niece-new-research-suggests-his-alibi-for-her-murder-might-not-hold-up-180989572/",
-    "source": "Smithsonian Mag",
-    "summary": "Recently uncovered documents about the timing of Geli Raubal’s death cast new doubt on the Nazi leader’s alibi, which had been considered reasonably sound for nearly a century",
-    "published_at": "2026-09-25T19:07:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
    }
   ]
  },
@@ -6206,33 +6184,33 @@
   ]
  },
  {
-  "id": "1bd5c0abf6ad",
-  "headline": "Fighter jets escort Pope Leo on final day of his France tour",
+  "id": "28b61d85094e",
+  "headline": "Almost half of Fayed abuse accusers are potential trafficking victims, MPs told",
   "section": "world",
-  "score": 38,
+  "score": 39,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-09-29T03:33:23+00:00",
-  "event_time": "2026-09-29T03:00:01+00:00",
+  "created": "2026-10-02T06:43:59+00:00",
+  "event_time": "2026-10-02T06:00:13+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Fighter jets escort Pope Leo on final day of his France tour",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
-    "published_at": "2026-09-29T03:00:01+00:00",
+    "title": "Almost half of Fayed abuse accusers are potential trafficking victims, MPs told",
+    "url": "https://www.theguardian.com/world/2026/oct/02/mohamed-al-fayed-abuse-claims-potential-trafficking-victims",
+    "source": "The Guardian World",
+    "summary": "Exclusive: Met police say 70 women’s accounts have hallmarks of trafficking, suggesting case numbers could rise Almost half of the women who reported allegations of sexual abuse by Mohamed Al Fayed to the Metropolitan police are potential victims of human trafficking, MPs have been told. In a briefing for the all-party parliamentary group (APPG) for the survivors of Fayed and Harrods in July, seni",
+    "published_at": "2026-10-02T06:00:13+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
+    "seen_at": "2026-10-02T06:43:55+00:00"
    },
    {
-    "title": "Leo the moderate? Pope in France defends EU values",
-    "url": "https://www.france24.com/en/tv-shows/the-debate/20260928-leo-the-moderate-pope-in-france-defends-eu-values",
-    "source": "France 24",
-    "summary": "There's a new Pope in town and he's got very different ideas on what France's far-right calls the defense of Christian civilization. Leo the 14th concluding his trip to France in the eastern city of Metz, hometown of a founding father of present-day European federalism Maurice Schumann. There, the head of the world's largest organized religion proudly stated fact, that Europe’s roots are Christian",
-    "published_at": "2026-09-28T18:49:50+00:00",
+    "title": "Almost half of Fayed abuse accusers are potential trafficking victims, MPs told",
+    "url": "https://www.theguardian.com/world/2026/oct/02/mohamed-al-fayed-abuse-claims-potential-trafficking-victims",
+    "source": "Guardian Business",
+    "summary": "Exclusive: Met police say 70 women’s accounts have hallmarks of trafficking, suggesting case numbers could rise Almost half of the women who reported allegations of sexual abuse by Mohamed Al Fayed to the Metropolitan police are potential victims of human trafficking, MPs have been told. In a briefing for the all-party parliamentary group (APPG) for the survivors of Fayed and Harrods in July, seni",
+    "published_at": "2026-10-02T06:00:13+00:00",
     "source_countries": [],
-    "seen_at": "2026-09-29T03:33:12+00:00"
+    "seen_at": "2026-10-02T06:43:55+00:00"
    }
   ]
  },
@@ -7803,6 +7781,28 @@
   ]
  },
  {
+  "id": "10ee893b5c5f",
+  "headline": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+  "section": "safety",
+  "score": 37,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-02T06:43:59+00:00",
+  "event_time": "2026-10-02T05:49:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+    "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system. \"An improper",
+    "published_at": "2026-10-02T05:49:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   }
+  ]
+ },
+ {
   "id": "bd162714a2f1",
   "headline": "Tuesday briefing: Inside the suspected bomb plot at RAF Fairford",
   "section": "world",
@@ -8982,6 +8982,28 @@
   ]
  },
  {
+  "id": "555c0760e8c3",
+  "headline": "Turkey's stock market scandal affects nearly half a million investors. Police have made several arrests and an AKP politician has resigned.",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-02T06:43:59+00:00",
+  "event_time": "2026-10-02T04:32:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Turkey's stock market scandal affects nearly half a million investors. Police have made several arrests and an AKP politician has resigned.",
+    "url": "https://www.dw.com/en/turkey-s-stock-market-scandal-affects-nearly-half-a-million-investors-police-have-made-several-arrests-and-an-akp-politician-has-resigned/a-79494710?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Nearly half a million investors are affected, arrests have been made, and a female politician from the ruling party has resigned. What is behind the stock market manipulation scandal in Turkey?",
+    "published_at": "2026-10-02T04:32:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-02T06:43:55+00:00"
+   }
+  ]
+ },
+ {
   "id": "4d4756d3f0bd",
   "headline": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
   "section": "world",
@@ -9114,46 +9136,24 @@
   ]
  },
  {
-  "id": "a9630aac0ba5",
-  "headline": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
+  "id": "2e5515d010f1",
+  "headline": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
   "section": "world",
-  "score": 33,
+  "score": 34,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-02T03:32:42+00:00",
-  "event_time": "2026-10-01T06:12:00+00:00",
+  "depth_signal": 2,
+  "created": "2026-10-02T06:43:59+00:00",
+  "event_time": "2026-10-02T04:00:10+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
-    "url": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "At a ceremony to honor NATO, the German chancellor warned that Russia will threaten the rest of Europe if it isn't stopped in Ukraine. In other news, the German military will set up its first drone regiment.",
-    "published_at": "2026-10-01T06:12:00+00:00",
+    "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+    "url": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+    "source": "The Guardian World",
+    "summary": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to Sunday A row of Biblical proportions has erupted in the run-up to Brazil’s presidential election, with the country’s patron saint, Our Lady of Aparecida, emerging as an unlikely kingmaker in the deadlocked race. Ahead of Sunday’s vote, the two frontrunners – the leftwing ",
+    "published_at": "2026-10-02T04:00:10+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
-   }
-  ]
- },
- {
-  "id": "26d2bd80c9e3",
-  "headline": "How to spend $25 billion on science: OpenAI’s staggeringly rich research charity gets under way",
-  "section": "science",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-02T03:32:42+00:00",
-  "event_time": "2026-09-30T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "How to spend $25 billion on science: OpenAI’s staggeringly rich research charity gets under way",
-    "url": "https://www.nature.com/articles/d41586-026-03015-0",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03015-0 Jacob Trefethen, who leads life sciences at the OpenAI Foundation, speaks to Nature about the organization’s ambition to cure disease.",
-    "published_at": "2026-09-30T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
+    "seen_at": "2026-10-02T06:43:55+00:00"
    }
   ]
  }
