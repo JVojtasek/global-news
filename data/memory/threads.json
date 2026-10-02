@@ -1,6 +1,816 @@
 {
  "threads": [
   {
+   "id": "6e0f12b732f6",
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "section": "world",
+   "entities": [
+    "croatia",
+    "uefa",
+    "nations",
+    "portugal",
+    "ngumoha",
+    "gaza's",
+    "czechia",
+    "board",
+    "israel",
+    "kushner",
+    "hungary",
+    "serbia",
+    "lamine",
+    "oyarzabal",
+    "denmark",
+    "macron",
+    "gakpo",
+    "kane",
+    "trump's",
+    "assembly",
+    "ireland",
+    "belgium",
+    "wales",
+    "houthis",
+    "israel-ireland",
+    "mamdani",
+    "irish",
+    "gordon",
+    "spain",
+    "drumcree",
+    "east-west",
+    "world",
+    "germany",
+    "olise",
+    "norway",
+    "klopp",
+    "iraq",
+    "hallgrimsson",
+    "jerusalem",
+    "league"
+   ],
+   "event_ids": [
+    "6e0f12b732f6",
+    "3677e9c2454f",
+    "2d4b21839f92",
+    "25ce347a430e",
+    "e3d7c0ac2a93",
+    "a3f7b5bea254",
+    "06df00086e0c",
+    "2ab296b93709",
+    "4038c9b998f5",
+    "9824ab06ba40",
+    "c2a40c5625c5",
+    "c72143066677",
+    "c1254dd22bde",
+    "c9117ee7b07b",
+    "c792fb242bf8",
+    "eed7ddd3265e",
+    "b240f0515ee8",
+    "dbb34488a1b8",
+    "1f7b444d993c",
+    "d85187b311c3",
+    "c5c795b9e1b1",
+    "84d31eadb0fe",
+    "3ac801265aa0",
+    "1db88ae782d0",
+    "6db70951bf71",
+    "72cd7d7d5454",
+    "63827be44619",
+    "9da759940a18",
+    "d0c9dac4e7a1",
+    "dbf103d247c1",
+    "97e39aa3ab00",
+    "02e522c8aff5",
+    "b7b3b3dcaafb",
+    "147ec0dad904",
+    "22a80d898a41",
+    "f49530af69f4",
+    "5351140b97ac",
+    "3a47e8b82a1b",
+    "c1ce1679f0dd",
+    "2a4b43d9f74a",
+    "9146f0df0ac0",
+    "4ea1d5b81c19",
+    "c4c26ff56cab",
+    "1c5e2ce6d622",
+    "9bac96c38c2d",
+    "89b9289758e8",
+    "8d24e87fed3d",
+    "f19892690f93",
+    "a3ff8fb0c0bf",
+    "7dafbb394886",
+    "14c89b8f46eb",
+    "a9ce1756d96e",
+    "7acf0398195c",
+    "894d7f8dfe90",
+    "c91cab7f8cf6",
+    "18134e6e91e2",
+    "270036fdbe37",
+    "c563a2313cfc",
+    "4cd689b48f1d",
+    "907c2a6f3e91",
+    "a26a58a3c7ed",
+    "ef2ebc4da5e1",
+    "9f913076d91c",
+    "610f4670ea21",
+    "fbfc5a15a361",
+    "140690335b8d",
+    "7f56be2ede9d",
+    "3f684c04ad36",
+    "a1712ca6131f",
+    "f801a598f3da",
+    "8357a50cd73d",
+    "4fd5c84e6bdf",
+    "8fe58766a567",
+    "6740ee374513",
+    "76a8c1d25417"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-10-02",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "eed7ddd3265e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Israel says it has destroyed major underground Hezbollah base",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b240f0515ee8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+     "sources": 4,
+     "score": 61,
+     "event_id": "dbb34488a1b8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
+      "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1f7b444d993c",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
+      "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d85187b311c3",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+      "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5c795b9e1b1",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
+     "sources": 2,
+     "score": 42,
+     "event_id": "84d31eadb0fe",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
+      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3ac801265aa0",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
+      "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks",
+     "sources": 1,
+     "score": 46,
+     "event_id": "1db88ae782d0",
+     "links": [
+      "http://www.france24.com/en/lebanon-emmanuel-macron-welcomes-joseph-aoun-to-paris-for-middle-east-talks",
+      "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
+      "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
+     "sources": 2,
+     "score": 45,
+     "event_id": "6db70951bf71",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
+      "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
+     "sources": 4,
+     "score": 70,
+     "event_id": "72cd7d7d5454",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+     "sources": 2,
+     "score": 46,
+     "event_id": "63827be44619",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+     "sources": 2,
+     "score": 49,
+     "event_id": "9da759940a18",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d0c9dac4e7a1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
+      "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+     "sources": 2,
+     "score": 48,
+     "event_id": "dbf103d247c1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+     "sources": 2,
+     "score": 46,
+     "event_id": "97e39aa3ab00",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Saudi Arabia says Houthis tried to attack its capital",
+     "sources": 2,
+     "score": 42,
+     "event_id": "02e522c8aff5",
+     "links": [
+      "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
+     "sources": 3,
+     "score": 64,
+     "event_id": "b7b3b3dcaafb",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
+      "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
+      "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+     "sources": 3,
+     "score": 65,
+     "event_id": "147ec0dad904",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
+     "sources": 2,
+     "score": 43,
+     "event_id": "22a80d898a41",
+     "links": [
+      "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Iran war spreads through region as Trump seeks way out",
+     "sources": 3,
+     "score": 61,
+     "event_id": "f49530af69f4",
+     "links": [
+      "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
+      "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5351140b97ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
+     "sources": 2,
+     "score": 40,
+     "event_id": "3a47e8b82a1b",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
+      "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
+     "sources": 4,
+     "score": 71,
+     "event_id": "c1ce1679f0dd",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
+      "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
+      "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Republic of Ireland braced for testing Nations League",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2a4b43d9f74a",
+     "links": [
+      "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9146f0df0ac0",
+     "links": [
+      "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
+     "sources": 2,
+     "score": 45,
+     "event_id": "4ea1d5b81c19",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c4c26ff56cab",
+     "links": [
+      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1c5e2ce6d622",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Israel facing water shortages caused by destruction of Gaza’s treatment plants",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9bac96c38c2d",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/24/israel-water-shortages-destruction-gaza-treatment-plants-pollution-sanitation-crisis",
+      "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+     "sources": 2,
+     "score": 41,
+     "event_id": "89b9289758e8",
+     "links": [
+      "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "8d24e87fed3d",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Felix gives Portugal win over Wales in Nations League opener",
+     "sources": 2,
+     "score": 48,
+     "event_id": "f19892690f93",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cq770gkr1zy2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Bellamy wants more from Wales after loss to Portugal",
+     "sources": 2,
+     "score": 60,
+     "event_id": "a3ff8fb0c0bf",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+     "sources": 2,
+     "score": 46,
+     "event_id": "7dafbb394886",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+      "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "UN General Assembly: Leaders discuss AI, global conflicts",
+     "sources": 2,
+     "score": 43,
+     "event_id": "14c89b8f46eb",
+     "links": [
+      "https://www.dw.com/en/un-general-assembly-leaders-discuss-ai-global-conflicts/live-79366211?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
+      "https://www.france24.com/en/un-general-assembly-enters-second-day-with-key-speeches-ahead"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a9ce1756d96e",
+     "links": [
+      "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+      "https://www.dw.com/en/unga-day-4-lebanese-on-deck-after-defiant-netanyahu-speech/live-79366211?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7acf0398195c",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Republic of Ireland news conference delayed before controversial Israel game",
+     "sources": 3,
+     "score": 53,
+     "event_id": "894d7f8dfe90",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Republic of Ireland to wear black armbands for Israel game",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c91cab7f8cf6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Israel-Ireland match to go ahead in Nations League after player vote",
+     "sources": 2,
+     "score": 42,
+     "event_id": "18134e6e91e2",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/26/how-to-watch-uefa-nations-league-england-spain"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
+     "sources": 2,
+     "score": 45,
+     "event_id": "270036fdbe37",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "England should stop trying to replicate Spain - Gordon",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c563a2313cfc",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Ngumoha not in England squad to face Spain",
+     "sources": 3,
+     "score": 54,
+     "event_id": "4cd689b48f1d",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
+      "https://www.aljazeera.com/sports/2026/9/26/england-vs-spain-uefa-nations-league-prediction-team-news-head-to-head?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Northern Ireland: Pro-UK march to go through Catholic area",
+     "sources": 3,
+     "score": 58,
+     "event_id": "907c2a6f3e91",
+     "links": [
+      "https://www.dw.com/en/northern-ireland-pro-uk-march-to-go-through-catholic-area/a-79447441?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/northern-ireland-court-allows-orange-order-march-through-catholic-area",
+      "https://www.france24.com/en/northern-ireland-disputed-parade-set-for-flashpoint-after-nearly-30-years"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a26a58a3c7ed",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+      "https://www.france24.com/en/irish-players-to-wear-black-armbands-to-boycott-israel"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace",
+     "sources": 2,
+     "score": 47,
+     "event_id": "ef2ebc4da5e1",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_northern-ireland-protesters-block-orange-order-270926?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9f913076d91c",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "No handshakes between Republic of Ireland and Israel",
+     "sources": 3,
+     "score": 56,
+     "event_id": "610f4670ea21",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
+      "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "fbfc5a15a361",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/27/denmark-wales-nations-league-group-a4-match-report",
+      "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt",
+     "sources": 2,
+     "score": 48,
+     "event_id": "140690335b8d",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal",
+      "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
+     "sources": 3,
+     "score": 60,
+     "event_id": "7f56be2ede9d",
+     "links": [
+      "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/sports/20260928-nations-league-with-mbapp%C3%A9-away-demb%C3%A9l%C3%A9-steps-into-new-role",
+      "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
+     "sources": 2,
+     "score": 40,
+     "event_id": "3f684c04ad36",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a1712ca6131f",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
+      "https://www.france24.com/en/sport/20260928-italy-rebound-in-turkey-as-france-win-late-in-belgium",
+      "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Czechia v England: Nations League football – live",
+     "sources": 2,
+     "score": 52,
+     "event_id": "f801a598f3da",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
+      "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Gordon and Kane fire England to Nations League victory against 10-man Czechia",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8357a50cd73d",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/29/czechia-england-nations-league-match-report",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4fd5c84e6bdf",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
+      "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Republic of Ireland will play second Israel game - Hallgrimsson",
+     "sources": 2,
+     "score": 51,
+     "event_id": "8fe58766a567",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cqd081x1mlvdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/rugby-union/articles/c6vgy2y49vzqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6740ee374513",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Klopp wins first game as Germany coach, without 'top dogs'",
+     "sources": 3,
+     "score": 55,
+     "event_id": "76a8c1d25417",
+     "links": [
+      "https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/football/2026/oct/01/nations-league-portugal-denmark-germany-serbia",
+      "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
@@ -793,814 +1603,6 @@
      "links": [
       "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
       "https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "6e0f12b732f6",
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "section": "world",
-   "entities": [
-    "uefa",
-    "drumcree",
-    "assembly",
-    "houthis",
-    "board",
-    "iraq",
-    "kane",
-    "gordon",
-    "portugal",
-    "trump's",
-    "hungary",
-    "gaza's",
-    "ireland",
-    "belgium",
-    "denmark",
-    "kushner",
-    "macron",
-    "wales",
-    "jerusalem",
-    "oyarzabal",
-    "nations",
-    "league",
-    "serbia",
-    "olise",
-    "israel",
-    "hallgrimsson",
-    "ngumoha",
-    "irish",
-    "israel-ireland",
-    "mamdani",
-    "gakpo",
-    "croatia",
-    "world",
-    "east-west",
-    "czechia",
-    "norway",
-    "klopp",
-    "lamine",
-    "germany",
-    "spain"
-   ],
-   "event_ids": [
-    "6e0f12b732f6",
-    "3677e9c2454f",
-    "2d4b21839f92",
-    "25ce347a430e",
-    "e3d7c0ac2a93",
-    "a3f7b5bea254",
-    "06df00086e0c",
-    "2ab296b93709",
-    "4038c9b998f5",
-    "9824ab06ba40",
-    "c2a40c5625c5",
-    "c72143066677",
-    "c1254dd22bde",
-    "c9117ee7b07b",
-    "c792fb242bf8",
-    "eed7ddd3265e",
-    "b240f0515ee8",
-    "dbb34488a1b8",
-    "1f7b444d993c",
-    "d85187b311c3",
-    "c5c795b9e1b1",
-    "84d31eadb0fe",
-    "3ac801265aa0",
-    "1db88ae782d0",
-    "6db70951bf71",
-    "72cd7d7d5454",
-    "63827be44619",
-    "9da759940a18",
-    "d0c9dac4e7a1",
-    "dbf103d247c1",
-    "97e39aa3ab00",
-    "02e522c8aff5",
-    "b7b3b3dcaafb",
-    "147ec0dad904",
-    "22a80d898a41",
-    "f49530af69f4",
-    "5351140b97ac",
-    "3a47e8b82a1b",
-    "c1ce1679f0dd",
-    "2a4b43d9f74a",
-    "9146f0df0ac0",
-    "4ea1d5b81c19",
-    "c4c26ff56cab",
-    "1c5e2ce6d622",
-    "9bac96c38c2d",
-    "89b9289758e8",
-    "8d24e87fed3d",
-    "f19892690f93",
-    "a3ff8fb0c0bf",
-    "7dafbb394886",
-    "14c89b8f46eb",
-    "a9ce1756d96e",
-    "7acf0398195c",
-    "894d7f8dfe90",
-    "c91cab7f8cf6",
-    "18134e6e91e2",
-    "270036fdbe37",
-    "c563a2313cfc",
-    "4cd689b48f1d",
-    "907c2a6f3e91",
-    "a26a58a3c7ed",
-    "ef2ebc4da5e1",
-    "9f913076d91c",
-    "610f4670ea21",
-    "fbfc5a15a361",
-    "140690335b8d",
-    "7f56be2ede9d",
-    "3f684c04ad36",
-    "a1712ca6131f",
-    "f801a598f3da",
-    "8357a50cd73d",
-    "4fd5c84e6bdf",
-    "8fe58766a567",
-    "6740ee374513"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-10-01",
-   "timeline": [
-    {
-     "date": "2026-09-10",
-     "headline": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c792fb242bf8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/10/nestle-ceo-says-middle-east-conflict-driving-inflation-supplier-costs.html"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-     "sources": 2,
-     "score": 44,
-     "event_id": "eed7ddd3265e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it has destroyed major underground Hezbollah base",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b240f0515ee8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-     "sources": 4,
-     "score": 61,
-     "event_id": "dbb34488a1b8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-      "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Saudi Arabia closes East-West pipeline as Houthis tighten grip on Red Sea",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1f7b444d993c",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
-      "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d85187b311c3",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5c795b9e1b1",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
-     "sources": 2,
-     "score": 42,
-     "event_id": "84d31eadb0fe",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
-      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3ac801265aa0",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html",
-      "http://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks",
-     "sources": 1,
-     "score": 46,
-     "event_id": "1db88ae782d0",
-     "links": [
-      "http://www.france24.com/en/lebanon-emmanuel-macron-welcomes-joseph-aoun-to-paris-for-middle-east-talks",
-      "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
-      "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
-     "sources": 2,
-     "score": 45,
-     "event_id": "6db70951bf71",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
-      "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
-     "sources": 4,
-     "score": 70,
-     "event_id": "72cd7d7d5454",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8vgy3p6k3y9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/motorsport/articles/cx980q97n765o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-     "sources": 2,
-     "score": 46,
-     "event_id": "63827be44619",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-     "sources": 2,
-     "score": 49,
-     "event_id": "9da759940a18",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Thick smoke seen near Riyadh airport after air-raid alerts in Saudi capital",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d0c9dac4e7a1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport",
-      "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-     "sources": 2,
-     "score": 48,
-     "event_id": "dbf103d247c1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-     "sources": 2,
-     "score": 46,
-     "event_id": "97e39aa3ab00",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
-      "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Saudi Arabia says Houthis tried to attack its capital",
-     "sources": 2,
-     "score": 42,
-     "event_id": "02e522c8aff5",
-     "links": [
-      "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
-      "https://www.investing.com/news/economy-news/iran-sets-terms-for-us-talks-as-houthis-step-up-attacks-on-saudi-arabia-4908144"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Inquest into British aid workers killed in Gaza may call on Israeli and UK military chiefs",
-     "sources": 3,
-     "score": 64,
-     "event_id": "b7b3b3dcaafb",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/21/inquest-british-aid-workers-killed-gaza-call-on-israeli-uk-military-chiefs",
-      "https://www.france24.com/en/west-bank-israeli-settler-palestinian-killed-in-latest-violence",
-      "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-     "sources": 3,
-     "score": 65,
-     "event_id": "147ec0dad904",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to refuel Saudi jets amid conflict with Yemen's Houthis",
-     "sources": 2,
-     "score": 43,
-     "event_id": "22a80d898a41",
-     "links": [
-      "https://www.dw.com/en/uk-to-refuel-saudi-jets-amid-conflict-with-yemen-s-houthis/a-79364964?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Iran war spreads through region as Trump seeks way out",
-     "sources": 3,
-     "score": 61,
-     "event_id": "f49530af69f4",
-     "links": [
-      "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-      "https://www.france24.com/en/video/20260922-macron-trump-hold-constructive-talks-ahead-of-un-general-assembly"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5351140b97ac",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Up to 169 killed in Yemen as Houthis battle for Red Sea coastal heights",
-     "sources": 2,
-     "score": 40,
-     "event_id": "3a47e8b82a1b",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/22/yemen-houthis-battle-strategic-red-sea-heights",
-      "https://www.aljazeera.com/news/2026/9/22/why-are-the-houthis-fighting-for-yemens-kahboub-mountains?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Trump’s threat to annihilate Iran to UN general assembly is stunning, even for him",
-     "sources": 4,
-     "score": 71,
-     "event_id": "c1ce1679f0dd",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/22/donald-trump-unga-speech",
-      "https://www.france24.com/en/americas/20260922-iran-ai-and-the-icc-trump-makes-threats-touts-policies-un-general-assembly",
-      "https://www.france24.com/en/video/20260922-iran-trump-believes-in-an-agreement-after-us-midterms"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Republic of Ireland braced for testing Nations League",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2a4b43d9f74a",
-     "links": [
-      "https://www.bbc.co.uk/sport/articles/c2071gdnv50o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/21/cole-palmer-injury-england-nations-league-rashford-kobbie-mainoo-spain-tuchel"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
-     "sources": 2,
-     "score": 46,
-     "event_id": "9146f0df0ac0",
-     "links": [
-      "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
-     "sources": 2,
-     "score": 45,
-     "event_id": "4ea1d5b81c19",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c4c26ff56cab",
-     "links": [
-      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1c5e2ce6d622",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Israel facing water shortages caused by destruction of Gaza’s treatment plants",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9bac96c38c2d",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/24/israel-water-shortages-destruction-gaza-treatment-plants-pollution-sanitation-crisis",
-      "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-     "sources": 2,
-     "score": 41,
-     "event_id": "89b9289758e8",
-     "links": [
-      "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-      "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
-     "sources": 2,
-     "score": 40,
-     "event_id": "8d24e87fed3d",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Felix gives Portugal win over Wales in Nations League opener",
-     "sources": 2,
-     "score": 48,
-     "event_id": "f19892690f93",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cq770gkr1zy2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Bellamy wants more from Wales after loss to Portugal",
-     "sources": 2,
-     "score": 60,
-     "event_id": "a3ff8fb0c0bf",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
-     "sources": 2,
-     "score": 46,
-     "event_id": "7dafbb394886",
-     "links": [
-      "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
-      "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "UN General Assembly: Leaders discuss AI, global conflicts",
-     "sources": 2,
-     "score": 43,
-     "event_id": "14c89b8f46eb",
-     "links": [
-      "https://www.dw.com/en/un-general-assembly-leaders-discuss-ai-global-conflicts/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/a-propos/20260923-un-general-assembly-to-discuss-war-climate-and-ai",
-      "https://www.france24.com/en/un-general-assembly-enters-second-day-with-key-speeches-ahead"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a9ce1756d96e",
-     "links": [
-      "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
-      "https://www.dw.com/en/unga-day-4-lebanese-on-deck-after-defiant-netanyahu-speech/live-79366211?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7acf0398195c",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Republic of Ireland news conference delayed before controversial Israel game",
-     "sources": 3,
-     "score": 53,
-     "event_id": "894d7f8dfe90",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/26/pressure-to-boycott-israel-game-grows-as-ireland-preparations-stall?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Republic of Ireland to wear black armbands for Israel game",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c91cab7f8cf6",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Israel-Ireland match to go ahead in Nations League after player vote",
-     "sources": 2,
-     "score": 42,
-     "event_id": "18134e6e91e2",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/26/how-to-watch-uefa-nations-league-england-spain"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
-     "sources": 2,
-     "score": 45,
-     "event_id": "270036fdbe37",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "England should stop trying to replicate Spain - Gordon",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c563a2313cfc",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Ngumoha not in England squad to face Spain",
-     "sources": 3,
-     "score": 54,
-     "event_id": "4cd689b48f1d",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cqn744el41d8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
-      "https://www.aljazeera.com/sports/2026/9/26/england-vs-spain-uefa-nations-league-prediction-team-news-head-to-head?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Northern Ireland: Pro-UK march to go through Catholic area",
-     "sources": 3,
-     "score": 58,
-     "event_id": "907c2a6f3e91",
-     "links": [
-      "https://www.dw.com/en/northern-ireland-pro-uk-march-to-go-through-catholic-area/a-79447441?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/northern-ireland-court-allows-orange-order-march-through-catholic-area",
-      "https://www.france24.com/en/northern-ireland-disputed-parade-set-for-flashpoint-after-nearly-30-years"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a26a58a3c7ed",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
-      "https://www.france24.com/en/irish-players-to-wear-black-armbands-to-boycott-israel"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace",
-     "sources": 2,
-     "score": 47,
-     "event_id": "ef2ebc4da5e1",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_northern-ireland-protesters-block-orange-order-270926?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9f913076d91c",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "No handshakes between Republic of Ireland and Israel",
-     "sources": 3,
-     "score": 56,
-     "event_id": "610f4670ea21",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
-      "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "fbfc5a15a361",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/27/denmark-wales-nations-league-group-a4-match-report",
-      "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt",
-     "sources": 2,
-     "score": 48,
-     "event_id": "140690335b8d",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal",
-      "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
-     "sources": 3,
-     "score": 60,
-     "event_id": "7f56be2ede9d",
-     "links": [
-      "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/sports/20260928-nations-league-with-mbapp%C3%A9-away-demb%C3%A9l%C3%A9-steps-into-new-role",
-      "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
-     "sources": 2,
-     "score": 40,
-     "event_id": "3f684c04ad36",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
-     "sources": 3,
-     "score": 53,
-     "event_id": "a1712ca6131f",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
-      "https://www.france24.com/en/sport/20260928-italy-rebound-in-turkey-as-france-win-late-in-belgium",
-      "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Czechia v England: Nations League football – live",
-     "sources": 2,
-     "score": 52,
-     "event_id": "f801a598f3da",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
-      "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Gordon and Kane fire England to Nations League victory against 10-man Czechia",
-     "sources": 2,
-     "score": 43,
-     "event_id": "8357a50cd73d",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/29/czechia-england-nations-league-match-report",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4fd5c84e6bdf",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
-      "https://www.aljazeera.com/sports/2026/9/29/yamal-stars-as-spain-thrash-croatia?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Republic of Ireland will play second Israel game - Hallgrimsson",
-     "sources": 2,
-     "score": 51,
-     "event_id": "8fe58766a567",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cqd081x1mlvdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/rugby-union/articles/c6vgy2y49vzqo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6740ee374513",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss"
      ]
     }
    ]
@@ -12843,5 +12845,5 @@
    ]
   }
  ],
- "updated": "2026-10-01T21:26:19+00:00"
+ "updated": "2026-10-02T01:03:47+00:00"
 }

@@ -1,10 +1,24 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-01
+# ANALYTICKÉ ZADÁNÍ — 2026-10-02
 
 Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 54 dní · 60 záznamů
+- časová osa:
+  - **2026-09-28** (2 zdrojů) Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
+  - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
+  - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
+  - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
+  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
+  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
+  - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
+  - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
+  - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
+  - **2026-10-02** (3 zdrojů) Klopp wins first game as Germany coach, without 'top dogs'
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 51 dní · 60 záznamů
@@ -21,20 +35,6 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 53 dní · 60 záznamů
-- časová osa:
-  - **2026-09-27** (2 zdrojů) Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
-  - **2026-09-28** (2 zdrojů) Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
-  - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
-  - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
-  - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
-  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
-  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
-  - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
-  - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
-  - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 44 dní · 60 záznamů
@@ -98,5 +98,6 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **42**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
 - **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů
 - **Typhoon Dolphin batters Japan's Okinawa before bearing down on China** — naposledy 2026-08-10, celkem 4 záznamů

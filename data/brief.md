@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-01
+# ZADÁNÍ PRO REDAKCI — 2026-10-02
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -116,7 +116,36 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+### 1. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote
+  2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
+  2026-09-26  (2 zdrojů, síla 43)  England should stop trying to replicate Spain - Gordon
+  2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain
+  2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area
+  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
+  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
+  2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
+  2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
+  2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
+  2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
+  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
+  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
+  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
+  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
+  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
+  2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
+  2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
+  2026-10-01  (2 zdrojů, síla 42)  Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
+  2026-10-02  (3 zdrojů, síla 55)  Klopp wins first game as Germany coach, without 'top dogs'
+```
+
+### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
 - id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -143,35 +172,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-09-30  (2 zdrojů, síla 42)  ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
   2026-09-30  (2 zdrojů, síla 41)  Questions remain over Iran’s link to alleged RAF Fairford bomb plot
   2026-10-01  (2 zdrojů, síla 48)  Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
-```
-
-### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-26  (2 zdrojů, síla 43)  Republic of Ireland to wear black armbands for Israel game
-  2026-09-26  (2 zdrojů, síla 42)  Israel-Ireland match to go ahead in Nations League after player vote
-  2026-09-26  (2 zdrojů, síla 45)  Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss
-  2026-09-26  (2 zdrojů, síla 43)  England should stop trying to replicate Spain - Gordon
-  2026-09-27  (3 zdrojů, síla 54)  Ngumoha not in England squad to face Spain
-  2026-09-27  (3 zdrojů, síla 58)  Northern Ireland: Pro-UK march to go through Catholic area
-  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
-  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
-  2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
-  2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
-  2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
-  2026-09-28  (2 zdrojů, síla 48)  Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt
-  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
-  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
-  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
-  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
-  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
-  2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
-  2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
-  2026-10-01  (2 zdrojů, síla 42)  Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
 ```
 
 ---
