@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-03
 
-Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 55 dní · 60 záznamů
 - časová osa:
-  - **2026-09-28** (3 zdrojů) Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
   - **2026-09-28** (2 zdrojů) Belgium v France, Northern Ireland v Hungary and more: Nations League – live
   - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
   - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
@@ -19,6 +18,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
   - **2026-10-02** (3 zdrojů) Klopp wins first game as Germany coach, without 'top dogs'
   - **2026-10-03** (2 zdrojů) Who has 'no ceiling' as Northern Ireland shine in Nations League?
+  - **2026-10-03** (2 zdrojů) LIVE: Croatia vs England – UEFA Nations League
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 46 dní · 60 záznamů

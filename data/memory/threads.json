@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "uefa",
-    "board",
-    "denmark",
-    "houthis",
-    "mamdani",
-    "irish",
-    "serbia",
+    "wales",
     "gaza's",
-    "spain",
-    "nations",
+    "croatia",
+    "board",
     "ireland",
-    "trump's",
-    "northern",
+    "gordon",
+    "drumcree",
+    "kane",
+    "jerusalem",
+    "houthis",
+    "irish",
+    "assembly",
+    "czechia",
+    "mamdani",
+    "denmark",
+    "league",
+    "england",
     "israel",
+    "nations",
+    "hallgrimsson",
     "norway",
     "lamine",
     "israel-ireland",
-    "belgium",
-    "klopp",
-    "kane",
-    "assembly",
+    "spain",
+    "world",
+    "germany",
+    "ngumoha",
+    "hungary",
+    "trump's",
+    "northern",
     "portugal",
     "east-west",
-    "league",
-    "world",
-    "czechia",
-    "hungary",
-    "kushner",
-    "ngumoha",
-    "jerusalem",
     "iraq",
-    "wales",
-    "olise",
-    "gordon",
-    "macron",
     "oyarzabal",
-    "croatia",
-    "drumcree",
-    "hallgrimsson",
-    "germany"
+    "belgium",
+    "macron",
+    "serbia",
+    "olise",
+    "uefa",
+    "klopp"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -122,22 +122,12 @@
     "8fe58766a567",
     "6740ee374513",
     "76a8c1d25417",
-    "d4cac2ed9550"
+    "d4cac2ed9550",
+    "5ff698d5e027"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-03",
    "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it has destroyed major underground Hezbollah base",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b240f0515ee8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260911-israel-says-destroys-hezbollah-tunnels-as-explosions-triggers-tremor"
-     ]
-    },
     {
      "date": "2026-09-12",
      "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -806,6 +796,18 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/cwjdmk3j5xleo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "LIVE: Croatia vs England – UEFA Nations League",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5ff698d5e027",
+     "links": [
+      "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/03/how-to-watch-nations-league-croatia-england",
+      "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates"
      ]
     }
    ]
@@ -2602,6 +2604,35 @@
      "links": [
       "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
       "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "53b6287820a2",
+   "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
+   "section": "sport",
+   "entities": [
+    "malaysia",
+    "bull",
+    "incredible"
+   ],
+   "event_ids": [
+    "53b6287820a2"
+   ],
+   "first_seen": "2026-10-03",
+   "last_seen": "2026-10-03",
+   "timeline": [
+    {
+     "date": "2026-10-03",
+     "headline": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
+     "sources": 3,
+     "score": 57,
+     "event_id": "53b6287820a2",
+     "links": [
+      "https://www.bbc.co.uk/sport/formula1/articles/c5vgj31224kmo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/oct/03/max-verstappen-first-pole-position-this-year-bahrain-grand-prix-formula-one"
      ]
     }
    ]
@@ -12992,5 +13023,5 @@
    ]
   }
  ],
- "updated": "2026-10-03T09:27:33+00:00"
+ "updated": "2026-10-03T13:58:04+00:00"
 }
