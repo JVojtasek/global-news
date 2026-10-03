@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **15**
+- Článků v zásobě: **16**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -146,7 +146,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-23  (2 zdrojů, síla 42)  Manchester United report seventh straight annual loss despite record revenue
   2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms
   2026-09-25  (2 zdrojů, síla 56)  Manchester City reportedly found guilty of almost 115 financial charges
   2026-09-26  (2 zdrojů, síla 54)  We Manchester City fans fear relegation and losing trophies … but club are bang to rights
@@ -166,6 +165,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
   2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
   2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
+  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
 ```
 
 ---

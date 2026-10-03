@@ -21,9 +21,8 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-03** (2 zdrojů) Who has 'no ceiling' as Northern Ireland shine in Nations League?
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 45 dní · 60 záznamů
+- rubrika `sport` · sledováno 46 dní · 60 záznamů
 - časová osa:
-  - **2026-09-29** (3 zdrojů) Why Salisbury are 'bigger than many Premier League teams' in Kuwait
   - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
   - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
   - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
@@ -33,11 +32,11 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
   - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
   - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
+  - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 51 dní · 60 záznamů
+- rubrika `world` · sledováno 53 dní · 60 záznamů
 - časová osa:
-  - **2026-09-23** (2 zdrojů) UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
   - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
   - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
   - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
@@ -47,6 +46,7 @@ Paměť obsahuje **124 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
   - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
   - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
+  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
