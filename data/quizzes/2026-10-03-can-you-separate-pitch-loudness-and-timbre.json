@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-03",
+  "slug": "can-you-separate-pitch-loudness-and-timbre",
+  "category": "science",
+  "mode": "knowledge",
+  "diagnostic": false,
+  "title": {
+    "en": "Can you separate pitch, loudness and timbre?",
+    "cs": "Dokážete rozlišit výšku, hlasitost a barvu zvuku?"
+  },
+  "description": {
+    "en": "Eight original questions about sound waves, hearing and the qualities we perceive.",
+    "cs": "Osm původních otázek o zvukových vlnách, sluchu a vlastnostech, které vnímáme."
+  },
+  "instructions": {
+    "en": "Choose the best answer. The explanations distinguish physical measurements from auditory perception.",
+    "cs": "Vyberte nejlepší odpověď. Vysvětlení odlišují fyzikální měření od sluchového vjemu."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": {"en": "Two pure tones travel through the same air. Which one is usually heard as higher in pitch?", "cs": "Dva čisté tóny se šíří stejným vzduchem. Který obvykle vnímáme jako vyšší?"},
+      "options": [
+        {"text": {"en": "The tone with the higher frequency", "cs": "Tón s vyšší frekvencí"}, "correct": true},
+        {"text": {"en": "The tone with the larger amplitude only", "cs": "Pouze tón s větší amplitudou"}, "correct": false},
+        {"text": {"en": "The tone that travels faster", "cs": "Tón, který se šíří rychleji"}, "correct": false}
+      ],
+      "explanation": {"en": "For simple tones, higher frequency generally produces higher perceived pitch. In the same medium, ordinary audible frequencies travel at essentially the same speed.", "cs": "U jednoduchých tónů vyšší frekvence obvykle vyvolává vyšší vnímanou výšku. Ve stejném prostředí se běžné slyšitelné frekvence šíří v podstatě stejnou rychlostí."}
+    },
+    {
+      "id": "q2",
+      "prompt": {"en": "What does increasing a sound wave's amplitude most directly increase?", "cs": "Co nejpřímočařeji roste se zvětšující se amplitudou zvukové vlny?"},
+      "options": [
+        {"text": {"en": "Its frequency", "cs": "Její frekvence"}, "correct": false},
+        {"text": {"en": "Its intensity", "cs": "Její intenzita"}, "correct": true},
+        {"text": {"en": "Its speed in air", "cs": "Její rychlost ve vzduchu"}, "correct": false}
+      ],
+      "explanation": {"en": "Greater amplitude carries greater intensity. Perceived loudness is related to intensity but also depends on frequency and the listener.", "cs": "Větší amplituda znamená větší intenzitu. Vnímaná hlasitost s intenzitou souvisí, ale závisí také na frekvenci a posluchači."}
+    },
+    {
+      "id": "q3",
+      "prompt": {"en": "A violin and a piano play the same note at similar loudness. Why can you still tell them apart?", "cs": "Housle a klavír zahrají stejný tón s podobnou hlasitostí. Proč je přesto rozeznáte?"},
+      "options": [
+        {"text": {"en": "They must have different speeds of sound", "cs": "Musejí mít různou rychlost zvuku"}, "correct": false},
+        {"text": {"en": "Their timbres contain different combinations of frequencies and intensities", "cs": "Jejich barvy zvuku tvoří různé kombinace frekvencí a intenzit"}, "correct": true},
+        {"text": {"en": "Only one instrument produces a wave", "cs": "Pouze jeden nástroj vytváří vlnu"}, "correct": false}
+      ],
+      "explanation": {"en": "Timbre is the perceived quality produced by a sound's mixture and evolution of frequencies and intensities. It helps distinguish instruments on the same note.", "cs": "Barva zvuku je vnímaná kvalita vytvořená směsí a průběhem frekvencí a intenzit. Pomáhá rozlišit nástroje hrající stejný tón."}
+    },
+    {
+      "id": "q4",
+      "prompt": {"en": "Can an ordinary sound wave from a loudspeaker travel through a perfect vacuum?", "cs": "Může se běžná zvuková vlna z reproduktoru šířit dokonalým vakuem?"},
+      "options": [
+        {"text": {"en": "Yes, at the speed of light", "cs": "Ano, rychlostí světla"}, "correct": false},
+        {"text": {"en": "Yes, but only above 20 kHz", "cs": "Ano, ale pouze nad 20 kHz"}, "correct": false},
+        {"text": {"en": "No, it needs matter whose particles can be disturbed", "cs": "Ne, potřebuje látku, jejíž částice se mohou rozkmitat"}, "correct": true}
+      ],
+      "explanation": {"en": "Sound is a mechanical disturbance transmitted through matter. With no particles to carry the disturbance, ordinary sound does not propagate.", "cs": "Zvuk je mechanické rozruchové vlnění přenášené látkou. Bez částic, které by rozruch nesly, se běžný zvuk nešíří."}
+    },
+    {
+      "id": "q5",
+      "prompt": {"en": "One tone has twice the frequency of another. Musically, what interval does that frequency ratio correspond to?", "cs": "Jeden tón má dvojnásobnou frekvenci než druhý. Jakému hudebnímu intervalu tento poměr odpovídá?"},
+      "options": [
+        {"text": {"en": "An octave", "cs": "Oktávě"}, "correct": true},
+        {"text": {"en": "A unison", "cs": "Unisonu"}, "correct": false},
+        {"text": {"en": "A change in loudness only", "cs": "Pouze změně hlasitosti"}, "correct": false}
+      ],
+      "explanation": {"en": "Doubling frequency corresponds to an octave. The higher tone has twice as many cycles per second.", "cs": "Zdvojnásobení frekvence odpovídá oktávě. Vyšší tón má dvojnásobný počet kmitů za sekundu."}
+    },
+    {
+      "id": "q6",
+      "prompt": {"en": "Why is a decibel value a level rather than a direct amount of sound intensity?", "cs": "Proč je hodnota v decibelech hladinou, nikoli přímým množstvím intenzity zvuku?"},
+      "options": [
+        {"text": {"en": "It expresses a logarithmic ratio to a reference intensity", "cs": "Vyjadřuje logaritmický poměr k referenční intenzitě"}, "correct": true},
+        {"text": {"en": "It counts sound waves one by one", "cs": "Počítá jednotlivé zvukové vlny"}, "correct": false},
+        {"text": {"en": "It is another name for hertz", "cs": "Je to jiný název pro hertz"}, "correct": false}
+      ],
+      "explanation": {"en": "The decibel scale reports a logarithmic ratio relative to a reference. Equal numerical steps therefore represent multiplicative, not equal additive, changes in intensity.", "cs": "Decibelová stupnice udává logaritmický poměr vůči referenci. Stejné číselné kroky proto představují násobné, nikoli stejné přírůstkové změny intenzity."}
+    },
+    {
+      "id": "q7",
+      "prompt": {"en": "Two sounds have the same measured intensity but different frequencies. Must an average listener perceive them as equally loud?", "cs": "Dva zvuky mají stejnou naměřenou intenzitu, ale rozdílné frekvence. Musí je průměrný posluchač vnímat jako stejně hlasité?"},
+      "options": [
+        {"text": {"en": "Yes, intensity and loudness are identical", "cs": "Ano, intenzita a hlasitost jsou totéž"}, "correct": false},
+        {"text": {"en": "No, loudness perception also varies with frequency", "cs": "Ne, vnímaná hlasitost se mění i s frekvencí"}, "correct": true},
+        {"text": {"en": "No, because frequency determines the speed of sound", "cs": "Ne, protože frekvence určuje rychlost zvuku"}, "correct": false}
+      ],
+      "explanation": {"en": "Equal-loudness curves show that the ear's sensitivity varies by frequency. Physical intensity and perceived loudness are related but not interchangeable.", "cs": "Křivky stejné hlasitosti ukazují, že citlivost ucha se mění s frekvencí. Fyzikální intenzita a vnímaná hlasitost spolu souvisejí, ale nejsou zaměnitelné."}
+    },
+    {
+      "id": "q8",
+      "prompt": {"en": "What makes ultrasound 'ultra'?", "cs": "Co činí ultrazvuk „ultra“?"},
+      "options": [
+        {"text": {"en": "It is always extremely loud", "cs": "Je vždy mimořádně hlasitý"}, "correct": false},
+        {"text": {"en": "Its frequency is above the usual upper range of human hearing", "cs": "Jeho frekvence leží nad obvyklou horní hranicí lidského sluchu"}, "correct": true},
+        {"text": {"en": "It can travel through a vacuum", "cs": "Může se šířit vakuem"}, "correct": false}
+      ],
+      "explanation": {"en": "Ultrasound is defined by frequency beyond the usual human hearing range, not by loudness. It remains a mechanical wave that needs a medium.", "cs": "Ultrazvuk je vymezen frekvencí nad obvyklým rozsahem lidského sluchu, nikoli hlasitostí. Stále jde o mechanickou vlnu, která potřebuje prostředí."}
+    }
+  ],
+  "scoring": {
+    "method": "sum_correct",
+    "min": 0,
+    "max": 8
+  },
+  "outcomes": [
+    {
+      "min": 0,
+      "max": 2,
+      "title": {"en": "Rebuild the sound map", "cs": "Obnovte si mapu zvuku"},
+      "summary": {"en": "The answers suggest that frequency, intensity and perception are still blending together. Review pitch, loudness and timbre, then retry; this is a learning snapshot, not a measure of hearing or scientific ability.", "cs": "Odpovědi naznačují, že se zatím směšují frekvence, intenzita a vnímání. Zopakujte si výšku, hlasitost a barvu zvuku a zkuste kvíz znovu; jde o okamžitý obraz učení, ne měření sluchu či vědeckých schopností."}
+    },
+    {
+      "min": 3,
+      "max": 5,
+      "title": {"en": "The distinctions are forming", "cs": "Rozdíly se začínají skládat"},
+      "summary": {"en": "You can separate some wave properties from perception but may lose the distinction in decibels or timbre. Revisit the missed explanations; the score covers only these eight original questions.", "cs": "Některé vlastnosti vln od vjemu odlišujete, ale rozdíl se může ztrácet u decibelů či barvy zvuku. Vraťte se k vynechaným vysvětlením; skóre se týká jen těchto osmi původních otázek."}
+    },
+    {
+      "min": 6,
+      "max": 7,
+      "title": {"en": "Strong working model", "cs": "Silný pracovní model"},
+      "summary": {"en": "You usually keep frequency, intensity, pitch, loudness and timbre in their proper roles. Review the one missed case and explain whether it describes a wave or a perception.", "cs": "Obvykle správně rozlišujete frekvenci, intenzitu, výšku, hlasitost a barvu zvuku. Projděte si vynechaný případ a určete, zda popisuje vlnu, nebo vjem."}
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "title": {"en": "Clear sound model", "cs": "Jasný model zvuku"},
+      "summary": {"en": "You consistently separated physical sound properties from auditory qualities. Extend the model by exploring harmonics and equal-loudness curves, while remembering that real perception varies among people.", "cs": "Důsledně jste odlišili fyzikální vlastnosti zvuku od sluchových kvalit. Model můžete rozšířit o harmonické složky a křivky stejné hlasitosti; skutečné vnímání se mezi lidmi liší."}
+    }
+  ],
+  "sources": [
+    {"name": "OpenStax Physics — Sound Intensity and Sound Level", "url": "https://openstax.org/books/physics/pages/14-2-sound-intensity-and-sound-level", "published": ""},
+    {"name": "OpenStax College Physics 2e — Hearing", "url": "https://openstax.org/books/college-physics-2e/pages/17-6-hearing", "published": ""},
+    {"name": "OpenStax College Physics — Introduction to the Physics of Hearing", "url": "https://openstax.org/books/college-physics/pages/17-introduction-to-the-physics-of-hearing", "published": "2022-03-03"}
+  ],
+  "disclaimers": {
+    "en": "This original educational quiz is not a licensed instrument, diagnosis, hearing test or personal assessment. It does not collect or store answers. OpenStax sources are openly licensed; no assessment items were reproduced.",
+    "cs": "Tento původní vzdělávací kvíz není licencovaný nástroj, diagnóza, sluchová zkouška ani osobní hodnocení. Odpovědi neshromažďuje ani neukládá. Zdroje OpenStax mají otevřenou licenci; žádné testové položky nebyly převzaty."
+  }
+}
