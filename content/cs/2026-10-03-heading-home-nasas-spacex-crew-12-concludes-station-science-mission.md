@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [health]
+  line: "Den ze dne se pro čtenáře nic nemění; podstatné je, že pokusy s kostmi, chrupavkou, kmenovými buňkami a krystaly léčiv jsou kroky výzkumu, které se jednou mohou promítnout do léčby na Zemi. Léčba to zatím není."
+  todo: "NASA popisuje každý pokus na vlastní stránce pod názvem jako Green Bone nebo IVGEN Mini; tam se dají hledat výsledky."
 sources:
 - name: NASA
   url: https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/

@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Přihlásit se mohou jen občané USA s vysokoškolským vzděláním v technice, přírodních vědách, informatice nebo matematice a se zkušeností s rozhodováním pod tlakem; dřívější práce v řídicím středisku podmínkou není. Ostatních se to netýká."
+  todo: "Přihlášky se podávají do pondělí 12. října přes USAJOBS (inzerát 886788000); výběr chce NASA oznámit do konce roku."
 sources:
 - name: NASA
   url: https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/

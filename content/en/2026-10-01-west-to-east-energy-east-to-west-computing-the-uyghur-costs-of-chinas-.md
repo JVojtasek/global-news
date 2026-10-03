@@ -23,6 +23,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day, little changes for readers outside China; the closest link is the supply chain, since research cited here traced state-imposed Uyghur labour through solar-panel production, from quartz mining to finished modules."
+  todo: "Anyone buying solar panels can ask the installer where the polysilicon and modules were made; Sheffield Hallam University publishes its supply-chain research openly."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/01/west-to-east-energy-east-to-west-computing-the-uyghur-costs-of-chinas-digital-order/

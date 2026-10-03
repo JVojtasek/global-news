@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [health]
+  line: "Day to day, nothing changes for readers; what matters is that the bone, cartilage, stem-cell and drug-crystal experiments are research steps that could feed into treatments on Earth, not treatments yet."
+  todo: "NASA describes each investigation on its own page, under names such as Green Bone or IVGEN Mini; that is where to look for results."
 sources:
 - name: NASA
   url: https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/

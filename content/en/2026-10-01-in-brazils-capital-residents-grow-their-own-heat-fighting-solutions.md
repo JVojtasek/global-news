@@ -21,6 +21,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [health, life]
+  line: "The heat-island effect described here applies to any dense, paved neighbourhood with few trees. The 3-30-300 rule gives a simple yardstick: three trees visible from the window, 30% tree cover, a park within 300 metres."
+  todo: "Check your own street against 3-30-300 and ask your city hall whether it publishes a tree-cover map or an urban tree-planting plan."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/09/30/in-brazils-capital-residents-grow-their-own-heat-fighting-solutions/

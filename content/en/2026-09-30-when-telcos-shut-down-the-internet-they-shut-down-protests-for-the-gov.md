@@ -23,6 +23,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [safety, life]
+  line: "Where governments order network shutdowns, people lose not only a way to organise but also calls to hospitals and police. Most readers are not directly affected; what matters is that telecom operators carry out these orders."
+  todo: "Ranking Digital Rights publishes how operators such as MTN and Vodafone handle shutdown orders and government data requests; check whether your provider's group is assessed."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/09/28/when-telcos-shut-down-the-internet-they-shut-down-protests-for-the-government/

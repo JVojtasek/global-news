@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Only US citizens can apply, and they need a degree in engineering, science, computing or maths plus experience of critical decisions under pressure; earlier mission-control work is not required. Everyone else is unaffected."
+  todo: "Applications close on Monday 12 October via USAJOBS (listing 886788000); NASA plans to announce its selections before the end of the year."
 sources:
 - name: NASA
   url: https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/
