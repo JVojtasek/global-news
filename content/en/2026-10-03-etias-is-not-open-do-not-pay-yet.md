@@ -1,13 +1,15 @@
 ---
 slug: etias-is-not-open-do-not-pay-yet
 title: ETIAS Is Not Open. Do Not Pay Yet
-dek: "Europe's future travel authorisation has a real fee and an official website, but it is not accepting applications. The useful rule is simpler than the speculation: wait for the EU to announce a start date."
+dek: 'Europe''s future travel authorisation has a real fee and an official website,
+  but it is not accepting applications. The useful rule is simpler than the speculation:
+  wait for the EU to announce a start date.'
 section: travel
 type: daily
 depth: open
 lang: en
 date: '2026-10-03'
-status: draft
+status: review
 confidence: 95
 load: 0
 topics:
@@ -22,7 +24,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: etias-not-operational-october-2026
 series: ''
-image_query: conceptual editorial illustration of a passport approaching two distinct abstract gates, one for travel authorisation and one for border control, amber and deep blue palette, no people, no text, no logo, no brand, no readable interface
+image_query: conceptual editorial illustration of a passport approaching two distinct
+  abstract gates, one for travel authorisation and one for border control, amber and
+  deep blue palette, no people, no text, no logo, no brand, no readable interface
 sources:
 - name: European Union — ETIAS is not in operation
   url: https://travel-europe.europa.eu/etias/ltr/not-operational.html
@@ -48,10 +52,13 @@ quiz:
   question: What should a visa-exempt traveller do about ETIAS on 3 October 2026?
   options:
   - Buy an authorisation from any website advertising immediate approval
-  - Wait for the EU to announce the start date and use the official EU channel once applications open
+  - Wait for the EU to announce the start date and use the official EU channel once
+    applications open
   - Treat an ETIAS approval as a guarantee of admission at the border
   answer: 1
-  explanation: The official EU portal says ETIAS is not operating and no applications are being collected. Once it starts, an authorisation will still not guarantee entry.
+  explanation: The official EU portal says ETIAS is not operating and no applications
+    are being collected. Once it starts, an authorisation will still not guarantee
+    entry.
 review_reason: ''
 ---
 

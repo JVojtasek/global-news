@@ -1,14 +1,15 @@
 ---
 slug: cloudy-tap-water-clearing-upward-is-usually-air
 title: Cloudy Tap Water That Clears Upward Is Usually Air
-dek: "A one-minute glass test can separate a common pressure effect from the colour, grit, taste or smell that deserves a call to the water supplier."
+dek: A one-minute glass test can separate a common pressure effect from the colour,
+  grit, taste or smell that deserves a call to the water supplier.
 section: mysteries
 type: analysis
 depth: open
 lang: en
 date: '2026-10-03'
-status: draft
-confidence: 95
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -18,7 +19,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: clear drinking glass with a milky cloud of tiny bubbles lifting upward and leaving clear water below, calm scientific editorial still life, no person, no text, no logo
+image_query: clear drinking glass with a milky cloud of tiny bubbles lifting upward
+  and leaving clear water below, calm scientific editorial still life, no person,
+  no text, no logo
 sources:
 - name: U.S. Geological Survey — Why is my drinking water cloudy?
   url: https://www.usgs.gov/water-science-school/science/water-qa-why-my-drinking-water-cloudy
@@ -32,13 +35,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What does it usually mean when cloudy tap water clears from the bottom of a glass upward within a few minutes?
+  question: What does it usually mean when cloudy tap water clears from the bottom
+    of a glass upward within a few minutes?
   options:
   - Sediment is sinking and the water is therefore safe
   - Tiny air bubbles are rising and leaving the water
   - Disinfectant is evaporating from the bottom first
   answer: 1
-  explanation: The upward-moving boundary is made by tiny bubbles rising out of the water. It is a useful clue, though persistent colour, particles, taste or odour still warrants a call to the supplier.
+  explanation: The upward-moving boundary is made by tiny bubbles rising out of the
+    water. It is a useful clue, though persistent colour, particles, taste or odour
+    still warrants a call to the supplier.
 review_reason: ''
 ---
 

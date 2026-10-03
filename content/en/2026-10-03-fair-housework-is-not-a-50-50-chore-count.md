@@ -1,14 +1,16 @@
 ---
 slug: fair-housework-is-not-a-50-50-chore-count
 title: Fair Housework Is Not a 50–50 Chore Count
-dek: New couple research shows why visible tasks tell only part of the story. Planning, monitoring and emotional care also consume attention, and partners often disagree about who carries them.
+dek: New couple research shows why visible tasks tell only part of the story. Planning,
+  monitoring and emotional care also consume attention, and partners often disagree
+  about who carries them.
 section: relationships
 type: analysis
 depth: open
 lang: en
 date: '2026-10-03'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics:
 - relationships
@@ -22,9 +24,12 @@ generator: chatgpt-work
 format: wider-lens
 event_id: household-tri-load-couple-fairness-2026
 series: ''
-image_query: conceptual editorial illustration of household tasks divided across visible objects and invisible planning threads, balanced but not perfectly symmetrical, no people, no text, no logo, no brand
+image_query: conceptual editorial illustration of household tasks divided across visible
+  objects and invisible planning threads, balanced but not perfectly symmetrical,
+  no people, no text, no logo, no brand
 sources:
-- name: Scientific Reports — A dyadic examination of household labor and relationship quality
+- name: Scientific Reports — A dyadic examination of household labor and relationship
+    quality
   url: https://www.nature.com/articles/s41598-026-60727-z
   published: '2026-07-22'
 - name: University of Queensland — How everyday household tasks impact relationships
@@ -33,7 +38,8 @@ sources:
 - name: Personality and Social Psychology Bulletin — Unequal Burdens, Unequal Benefits
   url: https://pubmed.ncbi.nlm.nih.gov/42630014/
   published: '2026-08-21'
-- name: Journal of Family Research — Perceived fairness of division of labor and relationship satisfaction
+- name: Journal of Family Research — Perceived fairness of division of labor and relationship
+    satisfaction
   url: https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/1377
   published: '2026-09-01'
 - name: American Sociological Review — The Cognitive Dimension of Household Labor
@@ -45,13 +51,17 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Which audit best captures the household “mental load” described in the research?
+  question: Which audit best captures the household “mental load” described in the
+    research?
   options:
   - Count only the minutes spent physically cleaning and cooking
   - Count how many chores each partner can name without discussing responsibility
-  - Track who anticipates needs, decides what must happen, completes the task and notices whether it worked
+  - Track who anticipates needs, decides what must happen, completes the task and
+    notices whether it worked
   answer: 2
-  explanation: Cognitive labor includes anticipating, identifying options, deciding and monitoring. A physical chore count can miss the person who owns that whole cycle.
+  explanation: Cognitive labor includes anticipating, identifying options, deciding
+    and monitoring. A physical chore count can miss the person who owns that whole
+    cycle.
 review_reason: ''
 ---
 

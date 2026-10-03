@@ -1,13 +1,15 @@
 ---
 slug: food-dates-were-never-one-national-safety-clock
 title: Food Dates Were Never One National Safety Clock
-dek: "California's new two-phrase system exposes an old problem: a printed date can describe quality, safety or shop rotation, and the same words have not meant the same thing everywhere."
+dek: 'California''s new two-phrase system exposes an old problem: a printed date can
+  describe quality, safety or shop rotation, and the same words have not meant the
+  same thing everywhere.'
 section: food
 type: analysis
 depth: open
 lang: en
 date: '2026-10-03'
-status: draft
+status: published
 confidence: 95
 load: 0
 topics: []
@@ -18,7 +20,9 @@ generator: chatgpt-work
 format: wider-lens
 event_id: california-ab660-food-date-labels-2026
 series: ''
-image_query: grocery shelf with two simple abstract date-stamp shapes separating quality from safety, paper and ink editorial still life, no readable words, no people, no logo, no brand
+image_query: grocery shelf with two simple abstract date-stamp shapes separating quality
+  from safety, paper and ink editorial still life, no readable words, no people, no
+  logo, no brand
 sources:
 - name: California Legislature — Assembly Bill 660
   url: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB660
@@ -29,7 +33,8 @@ sources:
 - name: Federal Register — Food Date Labeling Request for Information
   url: https://www.federalregister.gov/documents/2024/12/04/2024-27810/food-date-labeling
   published: '2024-12-04'
-- name: U.S. Food and Drug Administration — USDA-FDA seek information about food date labeling
+- name: U.S. Food and Drug Administration — USDA-FDA seek information about food date
+    labeling
   url: https://www.fda.gov/news-events/press-announcements/usda-fda-seek-information-about-food-date-labeling-aim-provide-further-clarity-transparency-and-cost
   published: '2024-12-03'
 - name: Food Standards Scotland — Use-by and best-before dates
@@ -38,13 +43,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Under California's rule for foods manufactured on or after 1 July 2026, which phrase communicates quality rather than safety?
+  question: Under California's rule for foods manufactured on or after 1 July 2026,
+    which phrase communicates quality rather than safety?
   options:
   - USE by
   - BEST if Used by
   - Sell by
   answer: 1
-  explanation: California reserves “BEST if Used by” for peak quality and “USE by” for safety, while consumer-facing “sell by” wording is prohibited for covered products.
+  explanation: California reserves “BEST if Used by” for peak quality and “USE by”
+    for safety, while consumer-facing “sell by” wording is prohibited for covered
+    products.
 review_reason: ''
 ---
 
