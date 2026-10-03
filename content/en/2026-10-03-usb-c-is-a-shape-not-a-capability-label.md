@@ -1,14 +1,15 @@
 ---
 slug: usb-c-is-a-shape-not-a-capability-label
 title: USB-C Is a Shape, Not a Capability Label
-dek: The reversible plug can carry power, data and video, but the connector alone does not tell you which of those jobs a port or cable can actually perform.
+dek: The reversible plug can carry power, data and video, but the connector alone
+  does not tell you which of those jobs a port or cable can actually perform.
 section: tech
 type: feature
 depth: open
 lang: en
 date: '2026-10-03'
 status: reserve
-confidence: 96
+confidence: 95
 load: 0
 topics:
 - USB-C
@@ -42,13 +43,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Two devices and a cable all have USB-C connectors. What can you safely conclude?
+  question: Two devices and a cable all have USB-C connectors. What can you safely
+    conclude?
   options:
   - They will support the fastest data, maximum charging power and video automatically.
-  - They can be physically connected, but their shared capabilities still depend on the ports, devices and cable.
+  - They can be physically connected, but their shared capabilities still depend on
+    the ports, devices and cable.
   - USB-C always means USB4 and 240-watt charging.
   answer: 1
-  explanation: USB-C defines the connector. Data rate, USB Power Delivery and display support are separate capabilities that manufacturers may implement differently.
+  explanation: USB-C defines the connector. Data rate, USB Power Delivery and display
+    support are separate capabilities that manufacturers may implement differently.
 ---
 
 ## BRIEFLY

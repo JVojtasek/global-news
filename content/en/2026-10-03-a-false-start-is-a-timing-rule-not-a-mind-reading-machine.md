@@ -1,14 +1,15 @@
 ---
 slug: a-false-start-is-a-timing-rule-not-a-mind-reading-machine
 title: A False Start Is a Timing Rule, Not a Mind-Reading Machine
-dek: Track's 0.100-second boundary turns a continuous human response into a clean verdict. The precision is useful, but it is not the same as certainty about anticipation.
+dek: Track's 0.100-second boundary turns a continuous human response into a clean
+  verdict. The precision is useful, but it is not the same as certainty about anticipation.
 section: sport
 type: analysis
 depth: open
 lang: en
 date: '2026-10-03'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics:
 - sprinting
@@ -36,19 +37,24 @@ sources:
 - name: PubMed — Sprint Start Regulation in Athletics, a Critical Review
   url: https://pubmed.ncbi.nlm.nih.gov/33125639/
   published: '2020-10-29'
-- name: arXiv — On Devon Allen's Disqualification at the 2022 World Track and Field Championships
+- name: arXiv — On Devon Allen's Disqualification at the 2022 World Track and Field
+    Championships
   url: https://arxiv.org/abs/2506.11460
   published: '2025-06-13'
 qma_path: ''
 tickers: []
 quiz:
-  question: What does a recorded reaction time below 0.100 seconds establish under the current rule?
+  question: What does a recorded reaction time below 0.100 seconds establish under
+    the current rule?
   options:
   - It proves the athlete consciously guessed the gun.
   - It triggers a possible false-start signal and an official decision under the rules.
   - It proves every timing system would record the same value.
   answer: 1
-  explanation: The threshold is an operational rule applied through a start information system and the starter's judgment. A number below it does not reveal the athlete's thoughts, and research has questioned both the physiological assumption and measurement comparability.
+  explanation: The threshold is an operational rule applied through a start information
+    system and the starter's judgment. A number below it does not reveal the athlete's
+    thoughts, and research has questioned both the physiological assumption and measurement
+    comparability.
 ---
 
 ## BRIEFLY

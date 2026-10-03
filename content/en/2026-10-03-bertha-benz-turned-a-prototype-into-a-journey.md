@@ -1,13 +1,14 @@
 ---
 slug: bertha-benz-turned-a-prototype-into-a-journey
 title: Bertha Benz Turned a Prototype into a Journey
-dek: In 1888, she drove a Patent Motor Car from Mannheim to Pforzheim and exposed what invention alone could not answer—whether a machine could survive ordinary distance.
+dek: In 1888, she drove a Patent Motor Car from Mannheim to Pforzheim and exposed
+  what invention alone could not answer—whether a machine could survive ordinary distance.
 section: motoring
 type: analysis
 depth: open
 lang: en
 date: '2026-10-03'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics:
@@ -39,13 +40,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: What did Bertha Benz's 1888 drive demonstrate that a workshop test could not?
+  question: What did Bertha Benz's 1888 drive demonstrate that a workshop test could
+    not?
   options:
   - That the car needed no fuel, water or repairs.
-  - That a motor vehicle could complete a practical long-distance journey while revealing problems to solve.
+  - That a motor vehicle could complete a practical long-distance journey while revealing
+    problems to solve.
   - That roads and filling stations were already designed for automobiles.
   answer: 1
-  explanation: The journey proved usefulness through demanding use, but it also exposed needs for fuel supply, cooling, braking, repair and better routes.
+  explanation: The journey proved usefulness through demanding use, but it also exposed
+    needs for fuel supply, cooling, braking, repair and better routes.
 ---
 
 ## BRIEFLY
