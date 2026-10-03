@@ -72,19 +72,24 @@
   - **Investing.com** — Paramount gets court green light on Warner Bros deal, names Mattel’s Kreiz co-CEO
     <https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773>
 
-### 4. ‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech
-- id události: `af201c60dedd`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Flydubai co-pilot attacked captain with axe, UAE official says
+- id události: `e70657906e72`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **The Guardian World** — ‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech
-    <https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech>
-    > Prime minister’s pure political argument marks new era for party as he sets out his plans and priorities The hottest ticket at Labour conference – after Andy Burnham’s speech – was an afterparty in Liverpool’s Baltic Triangle, headlined with a set by the noughties girlband Sugaba
-  - **Guardian Sport** — Andy Burnham admits to ‘concern’ if Manchester City lose their owners after guilty verdicts
-    <https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league>
-    > Club ‘a huge partner in building modern Manchester’ Independent Football Regulator monitoring case Andy Burnham has said he would be “really concerned” to lose Manchester City’s owners as a result of the club being found guilty of more than 100 breaches of Premier League rules. O
-  - **Al Jazeera** — The Burnham bounce: Is Labour gaining ground against Farage’s Reform?
-    <https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss>
-    > British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips.
+  - **BBC World** — Flydubai co-pilot attacked captain with axe, UAE official says
+    <https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss>
+    > The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.
+  - **DW News** — Flydubai co-pilot attempted 'terrorist attack,' UAE says
+    <https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf>
+    > The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.
+  - **The Guardian World** — Flydubai co-pilot used crash axe to attack captain, says UAE
+    <https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae>
+    > Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used a crash axe to attempt to carry out a “terrorist attack” during the flight, the United ⁠Ara
+  - **CNBC Top** — Flydubai co-pilot attacked pilot with axe, attempted 'terrorist' attack, UAE says
+    <https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html>
+    > The co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.
+  - **Investing.com** — Flydubai co-pilot attacked pilot with axe, attempted ’terrorist attack’, UAE says
+    <https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768>
 
 ---
 
