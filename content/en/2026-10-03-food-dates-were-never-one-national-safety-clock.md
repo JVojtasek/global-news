@@ -23,6 +23,10 @@ series: ''
 image_query: grocery shelf with two simple abstract date-stamp shapes separating quality
   from safety, paper and ink editorial still life, no readable words, no people, no
   logo, no brand
+impact:
+  areas: [health, money]
+  line: "Shoppers in California now see two phrases: 'BEST if Used by' for quality and 'USE by' for safety. Elsewhere nothing changes, but the same lesson holds: the wording, not the number, says whether a date is about taste or safety."
+  todo: "Read the phrase before the date, follow storage and after-opening instructions, and check your national food-safety regulator for what each phrase means where you shop."
 sources:
 - name: California Legislature — Assembly Bill 660
   url: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB660

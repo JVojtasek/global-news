@@ -22,6 +22,10 @@ series: ''
 image_query: clear drinking glass with a milky cloud of tiny bubbles lifting upward
   and leaving clear water below, calm scientific editorial still life, no person,
   no text, no logo
+impact:
+  areas: [health, life]
+  line: "Na dodávce vody se nic nezměnilo; jde o vysvětlení běžného jevu. Mléčná voda z kohoutku, která se během minut čistí ode dna nahoru, je obvykle zachycený vzduch; barva, zrnka, chuť nebo zápach jsou jiný signál."
+  todo: "Napusťte průhlednou sklenici studenou vodou a sledujte, kterým směrem se čistí; když zákal vydrží déle než 24 hodin, ozvěte se svému dodavateli vody."
 sources:
 - name: U.S. Geological Survey — Why is my drinking water cloudy?
   url: https://www.usgs.gov/water-science-school/science/water-qa-why-my-drinking-water-cloudy

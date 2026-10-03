@@ -24,6 +24,10 @@ format: wider-lens
 event_id: usb-c-shape-capability-label
 series: ''
 image_query: assortment USB-C cables ports capability symbols close up
+impact:
+  areas: [money, life]
+  line: "Day to day, nothing changes for most readers; what matters is that a fitting USB-C plug says nothing about speed, charging power or video. The wrong cable can quietly charge slowly, copy at USB 2.0 speed or leave a monitor blank."
+  todo: "Before buying a cable, check its printed wattage (60W or 240W) and data rate in Gbps, and confirm display support in your device's port specifications."
 sources:
 - name: USB-IF — USB Type-C language, product and packaging guidelines
   url: https://www.usb.org/sites/default/files/usb_type-c_language_product_and_packaging_guidelines_20230320.pdf

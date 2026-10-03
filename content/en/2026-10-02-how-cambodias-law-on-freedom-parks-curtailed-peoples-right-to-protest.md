@@ -22,6 +22,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day, nothing changes for most readers outside Cambodia; what matters is that Cambodian law confines protest to designated 'freedom parks', only one has been identified since 2009, and authorities repeatedly deny its use."
+  todo: "Watch whether the law is reviewed before the 2027 commune and 2028 national elections, as Cambodian human rights groups are urging."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/02/how-cambodias-law-on-freedom-parks-curtailed-the-peoples-right-to-protest/

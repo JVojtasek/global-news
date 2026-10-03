@@ -23,6 +23,10 @@ series: ''
 image_query: grocery shelf with two simple abstract date-stamp shapes separating quality
   from safety, paper and ink editorial still life, no readable words, no people, no
   logo, no brand
+impact:
+  areas: [health, money]
+  line: "Zákazníci v Kalifornii teď vidí dvě formulace: „BEST if Used by“ pro kvalitu a „USE by“ pro bezpečnost. Jinde se nic nemění, ale poučení platí i tam: o tom, zda jde o chuť, nebo bezpečnost, rozhoduje slovo, ne číslo."
+  todo: "Čtěte formulaci dřív než datum, řiďte se pokyny ke skladování a po otevření a význam formulací si ověřte u úřadu pro bezpečnost potravin v zemi, kde nakupujete."
 sources:
 - name: California Legislature — Assembly Bill 660
   url: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB660

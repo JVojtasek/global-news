@@ -22,6 +22,10 @@ series: ''
 image_query: clear drinking glass with a milky cloud of tiny bubbles lifting upward
   and leaving clear water below, calm scientific editorial still life, no person,
   no text, no logo
+impact:
+  areas: [health, life]
+  line: "Nothing in the water supply has changed; this explains an everyday sight. Milky tap water that clears from the bottom up within minutes is usually trapped air, while colour, grit, taste or smell is a different signal."
+  todo: "Fill a clear glass from the cold tap and watch which way it clears; if cloudiness lasts beyond 24 hours, contact your water supplier."
 sources:
 - name: U.S. Geological Survey — Why is my drinking water cloudy?
   url: https://www.usgs.gov/water-science-school/science/water-qa-why-my-drinking-water-cloudy

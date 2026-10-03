@@ -27,6 +27,10 @@ series: ''
 image_query: conceptual editorial illustration of a passport approaching two distinct
   abstract gates, one for travel authorisation and one for border control, amber and
   deep blue palette, no people, no text, no logo, no brand, no readable interface
+impact:
+  areas: [money, safety]
+  line: "Visa-exempt visitors to Europe cannot apply for ETIAS yet, so any site taking money for it now is not the official channel. When it opens, the fee will be EUR 20 and the EU will announce the date months ahead."
+  todo: "Check the status only on the EU portal travel-europe.europa.eu and ignore sites selling authorisations or countdowns before an official start date."
 sources:
 - name: European Union — ETIAS is not in operation
   url: https://travel-europe.europa.eu/etias/ltr/not-operational.html
