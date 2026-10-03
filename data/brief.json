@@ -74,74 +74,6 @@
    "depth": "open"
   },
   {
-   "id": "556e1e4b03fe",
-   "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-   "section": "tech",
-   "score": 72,
-   "sources_count": 6,
-   "depth_signal": 2,
-   "created": "2026-09-30T21:27:47+00:00",
-   "event_time": "2026-09-30T20:11:08+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-     "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-     "source": "Ars Technica",
-     "summary": "So much for Gemini 3.5 Pro.",
-     "published_at": "2026-09-30T20:11:08+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-30T21:27:44+00:00"
-    },
-    {
-     "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-     "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-     "source": "Ars Technica AI",
-     "summary": "So much for Gemini 3.5 Pro.",
-     "published_at": "2026-09-30T20:11:08+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-30T21:27:44+00:00"
-    },
-    {
-     "title": "Gemini 4 Argon: our next era of frontier intelligence",
-     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-     "source": "Google DeepMind",
-     "summary": "",
-     "published_at": "2026-09-30T20:01:45+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-30T21:27:44+00:00"
-    },
-    {
-     "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-     "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-     "source": "The Verge",
-     "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]",
-     "published_at": "2026-09-30T20:41:41+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-30T21:27:44+00:00"
-    },
-    {
-     "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-     "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-     "source": "The Verge AI",
-     "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]",
-     "published_at": "2026-09-30T20:41:41+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-30T21:27:44+00:00"
-    },
-    {
-     "title": "Gemini 4 Argon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-     "source": "Hacker News Best",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 453 # Comments: 232",
-     "published_at": "2026-09-30T20:04:37+00:00",
-     "source_countries": [],
-     "seen_at": "2026-09-30T21:27:44+00:00"
-    }
-   ],
-   "depth": "scripture"
-  },
-  {
    "id": "a14295e93320",
    "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
    "section": "world",
@@ -258,6 +190,65 @@
     }
    ],
    "depth": "scripture"
+  },
+  {
+   "id": "e60e1db5dbdb",
+   "headline": "Kim wins Asian Games gold to secure military exemption",
+   "section": "sport",
+   "score": 65,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-10-03T09:27:33+00:00",
+   "event_time": "2026-10-03T08:51:14+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Kim wins Asian Games gold to secure military exemption",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+     "published_at": "2026-10-03T08:51:14+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-03T09:27:30+00:00"
+    },
+    {
+     "title": "India beat Pakistan to take Asian Games gold",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.",
+     "published_at": "2026-10-03T09:22:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-03T09:27:30+00:00"
+    },
+    {
+     "title": "Kim wins Asian Games gold to secure military exemption",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+     "published_at": "2026-10-03T08:51:14+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-03T09:27:30+00:00"
+    },
+    {
+     "title": "India beat arch-rivals Pakistan in Japan to claim Asian Games cricket gold",
+     "url": "https://www.theguardian.com/sport/2026/oct/03/india-beat-pakistan-win-asian-games-cricket-gold-t20",
+     "source": "Guardian Sport",
+     "summary": "India 211-6; Pakistan 192-6 in Twenty20 cricket final Captains refuse traditional pre-match handshakes India beat their fierce rivals Pakistan by 19 runs to complete a golden double in the Asian Games cricket after a pulsating final in front of a small but raucous crowd in Nagoya, Japan. The T20 world champions posted 211 for six in their 20 overs with Abhishek Sharma scoring 61 and Tilak Varma 51",
+     "published_at": "2026-10-03T09:10:29+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-03T09:27:30+00:00"
+    },
+    {
+     "title": "India beat archrivals Pakistan to win Asian Games T20 cricket gold",
+     "url": "https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.",
+     "published_at": "2026-10-03T08:18:40+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-03T09:27:30+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [

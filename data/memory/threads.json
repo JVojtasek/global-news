@@ -2636,6 +2636,102 @@
    ]
   },
   {
+   "id": "bd5d0f2f7796",
+   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+   "section": "world",
+   "entities": [
+    "jesus",
+    "portugal",
+    "ronaldo",
+    "cristiano",
+    "world",
+    "fernandes"
+   ],
+   "event_ids": [
+    "bd5d0f2f7796",
+    "43e6847f2fa0",
+    "f4be89c7badb",
+    "4fbabe3bacfc",
+    "6985c1474d56",
+    "1bc51a1eb6c7"
+   ],
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-10-03",
+   "timeline": [
+    {
+     "date": "2026-09-18",
+     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+     "sources": 4,
+     "score": 71,
+     "event_id": "bd5d0f2f7796",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+     "sources": 3,
+     "score": 60,
+     "event_id": "43e6847f2fa0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "sources": 2,
+     "score": 46,
+     "event_id": "f4be89c7badb",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
+     "sources": 3,
+     "score": 52,
+     "event_id": "4fbabe3bacfc",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Cristiano Ronaldo walks out of Portugal camp",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6985c1474d56",
+     "links": [
+      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
+     "sources": 3,
+     "score": 53,
+     "event_id": "1bc51a1eb6c7",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league"
+     ]
+    }
+   ]
+  },
+  {
    "id": "f2d111d4fd57",
    "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
    "section": "science",
@@ -5341,88 +5437,6 @@
      "links": [
       "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
       "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bd5d0f2f7796",
-   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-   "section": "world",
-   "entities": [
-    "world",
-    "cristiano",
-    "ronaldo",
-    "portugal",
-    "jesus"
-   ],
-   "event_ids": [
-    "bd5d0f2f7796",
-    "43e6847f2fa0",
-    "f4be89c7badb",
-    "4fbabe3bacfc",
-    "6985c1474d56"
-   ],
-   "first_seen": "2026-09-18",
-   "last_seen": "2026-10-01",
-   "timeline": [
-    {
-     "date": "2026-09-18",
-     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-     "sources": 4,
-     "score": 71,
-     "event_id": "bd5d0f2f7796",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
-     "sources": 3,
-     "score": 60,
-     "event_id": "43e6847f2fa0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
-     "sources": 2,
-     "score": 46,
-     "event_id": "f4be89c7badb",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
-     "sources": 3,
-     "score": 52,
-     "event_id": "4fbabe3bacfc",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
-      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Cristiano Ronaldo walks out of Portugal camp",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6985c1474d56",
-     "links": [
-      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
      ]
     }
    ]
@@ -13038,5 +13052,5 @@
    ]
   }
  ],
- "updated": "2026-10-03T19:00:39+00:00"
+ "updated": "2026-10-03T22:13:08+00:00"
 }

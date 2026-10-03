@@ -32,29 +32,7 @@
     <https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status>
     > Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, h
 
-### 2. Google announces Gemini 4 Argon AI model, but you can't use it yet
-- id události: `556e1e4b03fe`  ·  rubrika: `tech`  ·  skóre: 72  ·  nezávislých zdrojů: 6
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **Ars Technica** — Google announces Gemini 4 Argon AI model, but you can't use it yet
-    <https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/>
-    > So much for Gemini 3.5 Pro.
-  - **Ars Technica AI** — Google announces Gemini 4 Argon AI model, but you can't use it yet
-    <https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/>
-    > So much for Gemini 3.5 Pro.
-  - **Google DeepMind** — Gemini 4 Argon: our next era of frontier intelligence
-    <https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/>
-  - **The Verge** — Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now
-    <https://www.theverge.com/tech/1002980/google-gemini-4-argon>
-    > Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers "frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense," according t
-  - **The Verge AI** — Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now
-    <https://www.theverge.com/tech/1002980/google-gemini-4-argon>
-    > Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers "frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense," according t
-  - **Hacker News Best** — Gemini 4 Argon
-    <https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/>
-    > Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 453 # Comments: 232
-
-### 3. US judge approves settlement allowing Paramount to acquire Warner Bros
+### 2. US judge approves settlement allowing Paramount to acquire Warner Bros
 - id události: `a14295e93320`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -72,7 +50,7 @@
   - **Investing.com** — Paramount gets court green light on Warner Bros deal, names Mattel’s Kreiz co-CEO
     <https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773>
 
-### 4. Flydubai co-pilot attacked captain with axe, UAE official says
+### 3. Flydubai co-pilot attacked captain with axe, UAE official says
 - id události: `e70657906e72`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -90,6 +68,26 @@
     > The co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.
   - **Investing.com** — Flydubai co-pilot attacked pilot with axe, attempted ’terrorist attack’, UAE says
     <https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768>
+
+### 4. Kim wins Asian Games gold to secure military exemption
+- id události: `e60e1db5dbdb`  ·  rubrika: `sport`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Kim wins Asian Games gold to secure military exemption
+    <https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss>
+    > Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.
+  - **BBC Sport** — India beat Pakistan to take Asian Games gold
+    <https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss>
+    > Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.
+  - **BBC Sport** — Kim wins Asian Games gold to secure military exemption
+    <https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss>
+    > Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.
+  - **Guardian Sport** — India beat arch-rivals Pakistan in Japan to claim Asian Games cricket gold
+    <https://www.theguardian.com/sport/2026/oct/03/india-beat-pakistan-win-asian-games-cricket-gold-t20>
+    > India 211-6; Pakistan 192-6 in Twenty20 cricket final Captains refuse traditional pre-match handshakes India beat their fierce rivals Pakistan by 19 runs to complete a golden double in the Asian Games cricket after a pulsating final in front of a small but raucous crowd in Nagoya
+  - **Al Jazeera** — India beat archrivals Pakistan to win Asian Games T20 cricket gold
+    <https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss>
+    > India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
 
 ---
 
