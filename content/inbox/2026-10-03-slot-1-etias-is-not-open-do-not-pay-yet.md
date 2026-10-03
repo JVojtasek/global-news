@@ -1,7 +1,7 @@
 ---
 slug: etias-is-not-open-do-not-pay-yet
 title: ETIAS Is Not Open. Do Not Pay Yet
-dek: Europe's future travel authorisation has a real fee and an official website, but it is not accepting applications. The useful rule is simpler than the speculation: wait for the EU to announce a start date.
+dek: "Europe's future travel authorisation has a real fee and an official website, but it is not accepting applications. The useful rule is simpler than the speculation: wait for the EU to announce a start date."
 section: travel
 type: daily
 depth: open
