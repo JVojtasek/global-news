@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "croatia",
     "uefa",
-    "nations",
-    "portugal",
-    "ngumoha",
-    "gaza's",
-    "czechia",
     "board",
-    "israel",
-    "kushner",
-    "hungary",
-    "serbia",
-    "lamine",
-    "oyarzabal",
     "denmark",
-    "macron",
-    "gakpo",
-    "kane",
-    "trump's",
-    "assembly",
-    "ireland",
-    "belgium",
-    "wales",
     "houthis",
-    "israel-ireland",
     "mamdani",
     "irish",
-    "gordon",
+    "serbia",
+    "gaza's",
     "spain",
-    "drumcree",
-    "east-west",
-    "world",
-    "germany",
-    "olise",
+    "nations",
+    "ireland",
+    "trump's",
+    "northern",
+    "israel",
     "norway",
+    "lamine",
+    "israel-ireland",
+    "belgium",
     "klopp",
-    "iraq",
-    "hallgrimsson",
+    "kane",
+    "assembly",
+    "portugal",
+    "east-west",
+    "league",
+    "world",
+    "czechia",
+    "hungary",
+    "kushner",
+    "ngumoha",
     "jerusalem",
-    "league"
+    "iraq",
+    "wales",
+    "olise",
+    "gordon",
+    "macron",
+    "oyarzabal",
+    "croatia",
+    "drumcree",
+    "hallgrimsson",
+    "germany"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -121,23 +121,12 @@
     "4fd5c84e6bdf",
     "8fe58766a567",
     "6740ee374513",
-    "76a8c1d25417"
+    "76a8c1d25417",
+    "d4cac2ed9550"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-10-02",
+   "last_seen": "2026-10-03",
    "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-     "sources": 2,
-     "score": 44,
-     "event_id": "eed7ddd3265e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260910-israel-hezbollah-tunnels-lebanon-earthquake",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-11",
      "headline": "Israel says it has destroyed major underground Hezbollah base",
@@ -806,6 +795,73 @@
       "https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-rdf",
       "https://www.theguardian.com/football/2026/oct/01/nations-league-portugal-denmark-germany-serbia",
       "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
+     "sources": 2,
+     "score": 46,
+     "event_id": "d4cac2ed9550",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cwjdmk3j5xleo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f2d111d4fd57",
+   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+   "section": "science",
+   "entities": [
+    "korea",
+    "north",
+    "seoul",
+    "south",
+    "drone"
+   ],
+   "event_ids": [
+    "f2d111d4fd57",
+    "20472af8545b",
+    "ff20ca98c7ed"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-10-03",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+     "sources": 2,
+     "score": 56,
+     "event_id": "f2d111d4fd57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "South Korea proposes talks to officially end war with North",
+     "sources": 2,
+     "score": 46,
+     "event_id": "20472af8545b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea fires ballistic missile into sea, Seoul says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ff20ca98c7ed",
+     "links": [
+      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
      ]
     }
    ]
@@ -12508,48 +12564,6 @@
    ]
   },
   {
-   "id": "f2d111d4fd57",
-   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-   "section": "science",
-   "entities": [
-    "drone",
-    "korea",
-    "south",
-    "north"
-   ],
-   "event_ids": [
-    "f2d111d4fd57",
-    "20472af8545b"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-15",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-     "sources": 2,
-     "score": 56,
-     "event_id": "f2d111d4fd57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "South Korea proposes talks to officially end war with North",
-     "sources": 2,
-     "score": 46,
-     "event_id": "20472af8545b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "8890d3817dfd",
    "title": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
    "section": "world",
@@ -12951,5 +12965,5 @@
    ]
   }
  ],
- "updated": "2026-10-02T21:25:50+00:00"
+ "updated": "2026-10-03T01:00:58+00:00"
 }
