@@ -1,14 +1,16 @@
 ---
 slug: taking-a-capital-is-a-battlefield-change-not-the-end-of-a-war
 title: Taking a Capital Is a Battlefield Change, Not the End of a War
-dek: Ethiopian federal forces have retaken Mekelle and the TPLF says it has moved Tigray's regional government elsewhere. The capture is a major reversal, but the next evidence concerns administration, roads and whether the fighting changes form.
+dek: Ethiopian federal forces have retaken Mekelle and the TPLF says it has moved
+  Tigray's regional government elsewhere. The capture is a major reversal, but the
+  next evidence concerns administration, roads and whether the fighting changes form.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
-confidence: 92
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -20,16 +22,19 @@ series: The Newsroom Table
 event_id: ethiopia-federal-forces-retake-mekelle-2026-10-04
 image_query: Mekelle Ethiopia city street neutral editorial photograph October 2026
 sources:
-- name: Reuters — Government forces seize capital of Ethiopia's Tigray region from rebels
+- name: Reuters — Government forces seize capital of Ethiopia's Tigray region from
+    rebels
   url: https://www.reuters.com/world/africa/government-forces-seize-capital-ethiopias-tigray-region-rebels-2026-10-04/
   published: '2026-10-04'
 - name: AFP — US urges restraint as Ethiopia's Tigray crisis rocks region
   url: https://www.afp.com/en/us-urges-restraint-ethiopias-tigray-crisis-rocks-region
   published: '2026-10-04'
-- name: Associated Press — Ethiopian federal forces retake Mekelle airport from Tigrayan fighters
+- name: Associated Press — Ethiopian federal forces retake Mekelle airport from Tigrayan
+    fighters
   url: https://apnews.com/article/ethiopia-tigray-airport-tplf-federal-forces-conflict-87740d41b686614b63ccdba54dbd3168
   published: '2026-10-03'
-- name: African Union — Call for restraint and immediate de-escalation in northern Ethiopia
+- name: African Union — Call for restraint and immediate de-escalation in northern
+    Ethiopia
   url: https://au.int/en/pressreleases/20260923/chairperson-calls-restraint-and-immediate-de-escalation-northern-ethiopia
   published: '2026-09-23'
 - name: Reuters — Why renewed fighting in Ethiopia's Tigray risks a regional war
@@ -40,18 +45,25 @@ impact:
   - civilian safety and public order in Mekelle
   - access, communications and aid in Tigray
   - Horn of Africa regional stability
-  line: Control of Mekelle gives the federal side the regional capital and its institutions, while the TPLF's declared withdrawal leaves open whether the conflict shifts outside the city rather than ends.
-  todo: Watch for independently verified control of roads and public institutions, restoration of communications and services, civilian protection reporting, and evidence that the parties enter talks or continue fighting from new positions.
+  line: Control of Mekelle gives the federal side the regional capital and its institutions,
+    while the TPLF's declared withdrawal leaves open whether the conflict shifts outside
+    the city rather than ends.
+  todo: Watch for independently verified control of roads and public institutions,
+    restoration of communications and services, civilian protection reporting, and
+    evidence that the parties enter talks or continue fighting from new positions.
 qma_path: ''
 tickers: []
 quiz:
   question: What does the federal capture of Mekelle establish most clearly?
   options:
   - The conflict in Tigray has ended and the Pretoria agreement is fully restored
-  - Federal forces control the regional capital, while the TPLF's wider military and political capacity remains unresolved
+  - Federal forces control the regional capital, while the TPLF's wider military and
+    political capacity remains unresolved
   - Every member of the opposition alliance has surrendered
   answer: 1
-  explanation: Multiple reports and the TPLF's own statement establish the loss of Mekelle. They do not establish the end of fighting, full implementation of Pretoria or the surrender of the broader alliance.
+  explanation: Multiple reports and the TPLF's own statement establish the loss of
+    Mekelle. They do not establish the end of fighting, full implementation of Pretoria
+    or the surrender of the broader alliance.
 ---
 
 ## BRIEFLY
