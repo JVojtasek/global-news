@@ -71,22 +71,23 @@
     <https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss>
     > India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
 
-### 4. Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
-- id události: `fb73dbee1490`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+### 4. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+- id události: `64aa4378c789`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
-    <https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss>
-    > The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.
-  - **Al Jazeera** — Manchester City to launch appeal as financial breach fallout grows
-    <https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss>
-    > Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.
-  - **Guardian Sport** — Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live
-    <https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live>
-    > Updates on Manchester City and Nations League news Fixtures | Get Football Daily | And you can email Luke That’s it from me for now. Luke McLaughlin is here to take over. Manchester City: Andy Burnham’s intervention in the Manchester City debate has revived tensions between the P
-  - **Guardian Sport** — Manchester City verdict has significant implications for game’s integrity, warns FA
-    <https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal>
-    > FA has the power to charge club and individuals It will assess action once appeal process is over The Football Association has confirmed it has powers to take disciplinary action against Manchester City and key individuals at the club in the governing body’s first comment since C
+  - **BBC World** — Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+    <https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss>
+    > Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.
+  - **France 24** — Russian strike hits Kyiv amid Chancellor Merz visit
+    <https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit>
+    > Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Germany’s support for Ukraine. France 24 correspondent Gulliver Cragg, reporting f
+  - **France 24** — Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities
+    <https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities>
+    > German Chancellor Friedrich Merz arrived in Ukraine's capital Kyiv on Sunday on an unannounced visit in a show of support for the country in its war with Russia. Merz's visit comes just a day after Russia warned foreigners and diplomats to leave the Ukrainian capital, saying that
+  - **Investing.com** — Russia hits Kyiv bridge for second day as infrastructure attacks intensify
+    <https://www.investing.com/news/economy-news/russia-hits-kyiv-bridge-for-second-day-as-infrastructure-attacks-intensify-4930918>
+  - **Investing.com** — Germany’s Merz arrives in Kyiv to the sound of sirens and explosions
+    <https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915>
 
 ---
 
@@ -112,7 +113,36 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+rubrika: world · sledováno od 2026-08-11 · záznamů: 60
+  2026-09-20  (2 zdrojů, síla 46)  Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia
+  2026-09-20  (2 zdrojů, síla 40)  Ukraine launches heavy Moscow drone attack as Russia votes
+  2026-09-22  (2 zdrojů, síla 46)  EU deadlocked on changes to Russia sanctions ahead of key Ukraine, Greenland talks - Europe live
+  2026-09-22  (2 zdrojů, síla 44)  Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA
+  2026-09-22  (2 zdrojů, síla 42)  Trump praises relations with Burnham despite tensions over AI and Iran
+  2026-09-23  (5 zdrojů, síla 84)  Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines
+  2026-09-23  (2 zdrojů, síla 46)  Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms
+  2026-09-23  (2 zdrojů, síla 45)  Wednesday briefing: ​Can Burnham ​seek a ​different ​path​ to Trump’s world order?
+  2026-09-23  (2 zdrojů, síla 47)  UN General Assembly live: Iran’s Pezeshkian, Ukraine’s Zelenskyy to speak
+  2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
+  2026-09-23  (2 zdrojů, síla 40)  US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  2026-09-24  (2 zdrojů, síla 46)  Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  2026-09-29  (3 zdrojů, síla 53)  Estonia blames Russia for arson at defence company supplying Ukraine
+  2026-09-29  (2 zdrojů, síla 40)  Estonia blames Russia for arson attack on defense company
+  2026-09-30  (2 zdrojů, síla 44)  Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+  2026-09-30  (2 zdrojů, síla 42)  ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
+  2026-09-30  (2 zdrojů, síla 41)  Questions remain over Iran’s link to alleged RAF Fairford bomb plot
+  2026-10-01  (2 zdrojů, síla 48)  Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
+  2026-10-03  (3 zdrojů, síla 56)  Russia strikes second major bridge in Kyiv, mayor says
+  2026-10-04  (2 zdrojů, síla 46)  Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
+```
+
+### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -139,35 +169,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-03  (2 zdrojů, síla 46)  Who has 'no ceiling' as Northern Ireland shine in Nations League?
   2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
   2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
-```
-
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-25  (2 zdrojů, síla 42)  Premier League joins call for Fifa reforms
-  2026-09-25  (2 zdrojů, síla 56)  Manchester City reportedly found guilty of almost 115 financial charges
-  2026-09-26  (2 zdrojů, síla 54)  We Manchester City fans fear relegation and losing trophies … but club are bang to rights
-  2026-09-26  (3 zdrojů, síla 65)  Manchester City verdict: what happens next, will club appeal and could they be relegated?
-  2026-09-26  (2 zdrojů, síla 40)  WSL roundup: Greenwood maintains Manchester City’s 100% record
-  2026-09-27  (3 zdrojů, síla 63)  Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
-  2026-09-27  (2 zdrojů, síla 44)  How drawn-out saga of Manchester City’s alleged cheating came to this
-  2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges
-  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start
-  2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait
-  2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League
-  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs
-  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?
-  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts
-  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live
-  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power
-  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
-  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
-  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
-  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
 ```
 
 ---

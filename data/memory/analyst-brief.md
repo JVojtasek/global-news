@@ -1,10 +1,26 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-04
 
-Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **41**.
+Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 54 dní · 60 záznamů
+- časová osa:
+  - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
+  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
+  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+  - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
+  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
+  - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
+  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
+  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 55 dní · 60 záznamů
@@ -33,22 +49,6 @@ Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
   - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
   - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 53 dní · 60 záznamů
-- časová osa:
-  - **2026-09-23** (2 zdrojů) Zelenskyy to present Ukraine’s case to UN general assembly – live
-  - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
-  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
-  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
-  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
-  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
-  - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
-  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
-  - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
-  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 51 dní · 60 záznamů
