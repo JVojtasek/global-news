@@ -1,13 +1,14 @@
 ---
 slug: mary-anderson-put-the-wiper-lever-inside-the-vehicle
-title: "Mary Anderson Put the Wiper Lever Inside the Vehicle"
-dek: "Her 1903 design did not automate bad weather; it moved the clearing action to where the driver could use it without surrendering the view."
+title: Mary Anderson Put the Wiper Lever Inside the Vehicle
+dek: Her 1903 design did not automate bad weather; it moved the clearing action to
+  where the driver could use it without surrendering the view.
 section: motoring
 type: analysis
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
+status: published
 confidence: 94
 load: 0
 topics: []
@@ -20,28 +21,32 @@ event_id: mary-anderson-window-cleaning-device-1903
 series: ''
 image_query: early twentieth century trolley windshield hand operated wiper patent
 sources:
-  - name: "U.S. Patent 743,801 — Window-cleaning device"
-    url: "https://patents.google.com/patent/US743801A/en"
-    published: '1903-11-10'
-  - name: "National Inventors Hall of Fame — Mary Anderson"
-    url: "https://www.invent.org/inductees/mary-anderson"
-    published: ''
-  - name: "Encyclopedia of Alabama — Mary Anderson"
-    url: "https://encyclopediaofalabama.org/article/mary-anderson/"
-    published: '2010-03-09'
-  - name: "NHTSA — Quick Reference Guide to Federal Motor Vehicle Safety Standards"
-    url: "https://www.nhtsa.gov/sites/nhtsa.gov/files/fmvss-quickrefguide-hs811439.pdf"
-    published: '2011-02-24'
+- name: U.S. Patent 743,801 — Window-cleaning device
+  url: https://patents.google.com/patent/US743801A/en
+  published: '1903-11-10'
+- name: National Inventors Hall of Fame — Mary Anderson
+  url: https://www.invent.org/inductees/mary-anderson
+  published: ''
+- name: Encyclopedia of Alabama — Mary Anderson
+  url: https://encyclopediaofalabama.org/article/mary-anderson/
+  published: '2010-03-09'
+- name: NHTSA — Quick Reference Guide to Federal Motor Vehicle Safety Standards
+  url: https://www.nhtsa.gov/sites/nhtsa.gov/files/fmvss-quickrefguide-hs811439.pdf
+  published: '2011-02-24'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What was the central human-factors change in Mary Anderson's 1903 window-cleaning design?"
+  question: What was the central human-factors change in Mary Anderson's 1903 window-cleaning
+    design?
   options:
-    - "It let a driver clear the front glass from inside while keeping attention near the driving task."
-    - "It made rain slide off every window without moving parts."
-    - "It used a camera to replace the driver's view through the glass."
+  - It let a driver clear the front glass from inside while keeping attention near
+    the driving task.
+  - It made rain slide off every window without moving parts.
+  - It used a camera to replace the driver's view through the glass.
   answer: 0
-  explanation: "Anderson's lever moved a rubber cleaner across the exterior glass while the motorman operated it from inside. The design reduced the need to stop, reach outside or open the window to restore visibility."
+  explanation: Anderson's lever moved a rubber cleaner across the exterior glass while
+    the motorman operated it from inside. The design reduced the need to stop, reach
+    outside or open the window to restore visibility.
 ---
 
 ## BRIEFLY

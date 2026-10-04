@@ -1,14 +1,15 @@
 ---
 slug: a-tennis-balls-fuzz-is-an-aerodynamic-surface-not-decoration
-title: "A Tennis Ball's Fuzz Is an Aerodynamic Surface, Not Decoration"
-dek: "The felt does more than make the ball easy to see and grip: it changes the air flow, drag and response to spin throughout a rally."
+title: A Tennis Ball's Fuzz Is an Aerodynamic Surface, Not Decoration
+dek: 'The felt does more than make the ball easy to see and grip: it changes the air
+  flow, drag and response to spin throughout a rally.'
 section: sport
 type: analysis
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -20,31 +21,35 @@ event_id: evergreen-tennis-ball-fuzz-aerodynamics
 series: ''
 image_query: close-up yellow tennis ball felt surface court
 sources:
-  - name: "International Tennis Federation — Ball Research"
-    url: "https://www.itftennis.com/media/2279/balls-ball-research.pdf"
-    published: '2019-11-01'
-  - name: "International Tennis Federation — Ball Manufacture"
-    url: "https://www.itftennis.com/media/2167/balls-ball-manufacture.pdf"
-    published: '2019-11-01'
-  - name: "International Tennis Federation — Approved Balls"
-    url: "https://www.itftennis.com/en/about-us/tennis-tech/approved-balls/"
-    published: ''
-  - name: "Sports Technology — Review of tennis ball aerodynamics"
-    url: "https://onlinelibrary.wiley.com/doi/full/10.1002/jst.11"
-    published: '2008-01-01'
-  - name: "NASA Glenn Research Center — Guide to Aerodynamics"
-    url: "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/learn-about-aerodynamics/"
-    published: ''
+- name: International Tennis Federation — Ball Research
+  url: https://www.itftennis.com/media/2279/balls-ball-research.pdf
+  published: '2019-11-01'
+- name: International Tennis Federation — Ball Manufacture
+  url: https://www.itftennis.com/media/2167/balls-ball-manufacture.pdf
+  published: '2019-11-01'
+- name: International Tennis Federation — Approved Balls
+  url: https://www.itftennis.com/en/about-us/tennis-tech/approved-balls/
+  published: ''
+- name: Sports Technology — Review of tennis ball aerodynamics
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/jst.11
+  published: '2008-01-01'
+- name: NASA Glenn Research Center — Guide to Aerodynamics
+  url: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/learn-about-aerodynamics/
+  published: ''
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why can two otherwise similar tennis balls fly differently after one has been heavily used?"
+  question: Why can two otherwise similar tennis balls fly differently after one has
+    been heavily used?
   options:
-    - "The worn ball has lost all of its internal pressure after one rally."
-    - "Changes in felt and surface condition can alter drag and the way spin shapes the flight."
-    - "The printed logo determines which side of the ball produces lift."
+  - The worn ball has lost all of its internal pressure after one rally.
+  - Changes in felt and surface condition can alter drag and the way spin shapes the
+    flight.
+  - The printed logo determines which side of the ball produces lift.
   answer: 1
-  explanation: "The felt is part of the ball's aerodynamic surface. Wear, fluffing and contamination can change that surface, while pressure and rubber elasticity affect the bounce in separate ways."
+  explanation: The felt is part of the ball's aerodynamic surface. Wear, fluffing
+    and contamination can change that surface, while pressure and rubber elasticity
+    affect the bounce in separate ways.
 ---
 
 ## BRIEFLY

@@ -1,13 +1,15 @@
 ---
 slug: margarine-changed-before-the-argument-did
-title: "Margarine Changed Before the Argument Did"
-dek: "The spread invented from beef fat in 1869, reformulated with vegetable oils and later stripped of partially hydrogenated oils cannot be judged by one inherited butter-versus-margarine verdict."
+title: Margarine Changed Before the Argument Did
+dek: The spread invented from beef fat in 1869, reformulated with vegetable oils and
+  later stripped of partially hydrogenated oils cannot be judged by one inherited
+  butter-versus-margarine verdict.
 section: food
 type: analysis
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
+status: published
 confidence: 95
 load: 0
 topics: []
@@ -18,36 +20,41 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: "timeline of unlabeled butter and margarine forms from ceramic crock to modern soft tub, conceptual food-history still life, no people, no text, no logos"
+image_query: timeline of unlabeled butter and margarine forms from ceramic crock to
+  modern soft tub, conceptual food-history still life, no people, no text, no logos
 sources:
-  - name: "Reuters — How food shaped Unilever for nearly a century"
-    url: "https://www.reuters.com/sustainability/sustainable-finance-reporting/how-food-shaped-unilever-nearly-century-2026-03-31/"
-    published: '2026-03-31'
-  - name: "FDA — Trans Fatty Acids in Nutrition Labeling Compliance Guide"
-    url: "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/small-entity-compliance-guide-trans-fatty-acids-nutrition-labeling-nutrient-content-claims-and"
-    published: '2003-07-11'
-  - name: "FDA — Final Determination Regarding Partially Hydrogenated Oils"
-    url: "https://www.fda.gov/food/food-additives-petitions/final-determination-regarding-partially-hydrogenated-oils-removing-trans-fat"
-    published: '2015-06-16'
-  - name: "FDA — Final Administrative Actions on Partially Hydrogenated Oils"
-    url: "https://www.fda.gov/food/hfp-constituent-updates/fda-completes-final-administrative-actions-partially-hydrogenated-oils-foods"
-    published: '2023-12-13'
-  - name: "World Health Organization — Trans fat"
-    url: "https://www.who.int/news-room/fact-sheets/detail/trans-fat/"
-    published: '2024-01-24'
-  - name: "World Health Organization — Healthy diet"
-    url: "https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet"
-    published: '2026-02-16'
+- name: Reuters — How food shaped Unilever for nearly a century
+  url: https://www.reuters.com/sustainability/sustainable-finance-reporting/how-food-shaped-unilever-nearly-century-2026-03-31/
+  published: '2026-03-31'
+- name: FDA — Trans Fatty Acids in Nutrition Labeling Compliance Guide
+  url: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/small-entity-compliance-guide-trans-fatty-acids-nutrition-labeling-nutrient-content-claims-and
+  published: '2003-07-11'
+- name: FDA — Final Determination Regarding Partially Hydrogenated Oils
+  url: https://www.fda.gov/food/food-additives-petitions/final-determination-regarding-partially-hydrogenated-oils-removing-trans-fat
+  published: '2015-06-16'
+- name: FDA — Final Administrative Actions on Partially Hydrogenated Oils
+  url: https://www.fda.gov/food/hfp-constituent-updates/fda-completes-final-administrative-actions-partially-hydrogenated-oils-foods
+  published: '2023-12-13'
+- name: World Health Organization — Trans fat
+  url: https://www.who.int/news-room/fact-sheets/detail/trans-fat/
+  published: '2024-01-24'
+- name: World Health Organization — Healthy diet
+  url: https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet
+  published: '2026-02-16'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why is the word ‘margarine’ alone a poor guide to the fat profile of a product today?"
+  question: Why is the word ‘margarine’ alone a poor guide to the fat profile of a
+    product today?
   options:
-    - "Because formulations changed, and products can differ in trans fat, saturated fat and unsaturated oils"
-    - "Because every margarine now has exactly the same composition as butter"
-    - "Because Nutrition Facts labels do not include any fats"
+  - Because formulations changed, and products can differ in trans fat, saturated
+    fat and unsaturated oils
+  - Because every margarine now has exactly the same composition as butter
+  - Because Nutrition Facts labels do not include any fats
   answer: 0
-  explanation: "Margarine has been repeatedly reformulated; the current ingredient list and fat lines describe the product better than an inherited verdict about the category."
+  explanation: Margarine has been repeatedly reformulated; the current ingredient
+    list and fat lines describe the product better than an inherited verdict about
+    the category.
 review_reason: ''
 ---
 
@@ -122,4 +129,3 @@ This is what evidence often asks of memory: neither amnesia nor loyalty. Remembe
 Which foods in your kitchen are still carrying a reputation earned by an older recipe?
 
 When advice changes, do you remember the new rule—or the reason that made revision necessary?
-

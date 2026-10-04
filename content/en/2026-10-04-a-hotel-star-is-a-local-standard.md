@@ -1,14 +1,16 @@
 ---
 slug: a-hotel-star-is-a-local-standard
-title: "A Hotel Star Is a Local Standard, Not a Universal Promise"
-dek: "Five stars can describe a government classification, an industry inspection or a booking platform’s own label, so compare the assessor and the criteria before the number."
+title: A Hotel Star Is a Local Standard, Not a Universal Promise
+dek: Five stars can describe a government classification, an industry inspection or
+  a booking platform’s own label, so compare the assessor and the criteria before
+  the number.
 section: travel
 type: analysis
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
-confidence: 93
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,33 +20,36 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "hotel key and five different measuring rulers, conceptual travel illustration, no text or brands"
+image_query: hotel key and five different measuring rulers, conceptual travel illustration,
+  no text or brands
 sources:
-  - name: "VisitEngland — Quality Schemes"
-    url: "https://www.visitengland.com/visitengland-quality-schemes"
-    published: '2026-10-04'
-  - name: "Hotelstars Union — Classification Scheme"
-    url: "https://www.hotelstars.eu/about-us/our-scheme"
-    published: '2024-04-24'
-  - name: "Atout France — Optimizing the Quality of Tourist Services"
-    url: "https://www.atout-france.fr/en/optimizing-quality-tourist-services"
-    published: '2024-10-21'
-  - name: "Forbes Travel Guide — About"
-    url: "https://www.forbestravelguide.com/about"
-    published: '2026-10-04'
-  - name: "AAA — Five Diamond Inspection Process"
-    url: "https://newsroom.aaa.com/2026/06/aaa-diamonds-top-10/"
-    published: '2026-06-12'
+- name: VisitEngland — Quality Schemes
+  url: https://www.visitengland.com/visitengland-quality-schemes
+  published: '2026-10-04'
+- name: Hotelstars Union — Classification Scheme
+  url: https://www.hotelstars.eu/about-us/our-scheme
+  published: '2024-04-24'
+- name: Atout France — Optimizing the Quality of Tourist Services
+  url: https://www.atout-france.fr/en/optimizing-quality-tourist-services
+  published: '2024-10-21'
+- name: Forbes Travel Guide — About
+  url: https://www.forbestravelguide.com/about
+  published: '2026-10-04'
+- name: AAA — Five Diamond Inspection Process
+  url: https://newsroom.aaa.com/2026/06/aaa-diamonds-top-10/
+  published: '2026-06-12'
 qma_path: ''
 tickers: []
 quiz:
-  question: "What should a traveller check first when comparing hotel star ratings across countries?"
+  question: What should a traveller check first when comparing hotel star ratings
+    across countries?
   options:
-    - "Whether the stars were awarded by the same system or assessor"
-    - "Whether both hotels display exactly five icons"
-    - "Whether the more expensive hotel has the higher guest-review score"
+  - Whether the stars were awarded by the same system or assessor
+  - Whether both hotels display exactly five icons
+  - Whether the more expensive hotel has the higher guest-review score
   answer: 0
-  explanation: "Star labels are produced by different national, industry and commercial systems; identifying the assessor tells you which criteria the number represents."
+  explanation: Star labels are produced by different national, industry and commercial
+    systems; identifying the assessor tells you which criteria the number represents.
 review_reason: ''
 ---
 

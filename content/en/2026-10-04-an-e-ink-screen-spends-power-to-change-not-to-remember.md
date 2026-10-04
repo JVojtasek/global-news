@@ -1,7 +1,8 @@
 ---
 slug: an-e-ink-screen-spends-power-to-change-not-to-remember
-title: "An E-Ink Screen Spends Power to Change, Not to Remember"
-dek: "Charged pigment particles hold their position after an update, giving electronic paper its long static life and its conspicuously slower refresh."
+title: An E-Ink Screen Spends Power to Change, Not to Remember
+dek: Charged pigment particles hold their position after an update, giving electronic
+  paper its long static life and its conspicuously slower refresh.
 section: tech
 type: feature
 depth: open
@@ -20,28 +21,33 @@ event_id: evergreen-electrophoretic-display-bistability
 series: ''
 image_query: macro close-up electronic paper e-reader black white pixels
 sources:
-  - name: "E Ink — How electronic ink works"
-    url: "https://www.eink.com/tech/detail/How_it_works"
-    published: ''
-  - name: "Microchip Developer Help — ePaper Display Fundamentals"
-    url: "https://developerhelp.microchip.com/xwiki/bin/view/software-tools/mgs/dev-kits/epd-ug/fundamentals/"
-    published: ''
-  - name: "Journal of Printing Science and Technology — Electrophoretic Electronic Paper Displays"
-    url: "https://www.jstage.jst.go.jp/article/nig/44/5/44_5_257/_article/-char/en"
-    published: '2007-01-01'
-  - name: "IEEE Spectrum — How E Ink Developed Full-Color e-Paper"
-    url: "https://spectrum.ieee.org/how-e-ink-developed-full-color-epaper"
-    published: '2022-01-25'
+- name: E Ink — How electronic ink works
+  url: https://www.eink.com/tech/detail/How_it_works
+  published: ''
+- name: Microchip Developer Help — ePaper Display Fundamentals
+  url: https://developerhelp.microchip.com/xwiki/bin/view/software-tools/mgs/dev-kits/epd-ug/fundamentals/
+  published: ''
+- name: Journal of Printing Science and Technology — Electrophoretic Electronic Paper
+    Displays
+  url: https://www.jstage.jst.go.jp/article/nig/44/5/44_5_257/_article/-char/en
+  published: '2007-01-01'
+- name: IEEE Spectrum — How E Ink Developed Full-Color e-Paper
+  url: https://spectrum.ieee.org/how-e-ink-developed-full-color-epaper
+  published: '2022-01-25'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why can text remain visible on a typical electrophoretic e-paper display after power is removed?"
+  question: Why can text remain visible on a typical electrophoretic e-paper display
+    after power is removed?
   options:
-    - "The screen keeps a hidden backlight running from stored charge."
-    - "The display prints a disposable film for each page."
-    - "Pigment particles remain in their last stable positions until another electric field moves them."
+  - The screen keeps a hidden backlight running from stored charge.
+  - The display prints a disposable film for each page.
+  - Pigment particles remain in their last stable positions until another electric
+    field moves them.
   answer: 2
-  explanation: "Electrophoretic e-paper is bistable: an update uses electric fields to rearrange charged pigment particles, and the resulting image can persist without continuous power to the display."
+  explanation: 'Electrophoretic e-paper is bistable: an update uses electric fields
+    to rearrange charged pigment particles, and the resulting image can persist without
+    continuous power to the display.'
 ---
 
 ## BRIEFLY

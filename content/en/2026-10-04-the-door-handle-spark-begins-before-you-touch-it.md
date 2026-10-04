@@ -1,14 +1,16 @@
 ---
 slug: the-door-handle-spark-begins-before-you-touch-it
-title: "The Door-Handle Spark Begins Before You Touch It"
-dek: "A tiny winter shock is usually the last step in a chain of contact, separation and dry air, so the useful clues are the floor, shoes, clothes and room—not the handle alone."
+title: The Door-Handle Spark Begins Before You Touch It
+dek: A tiny winter shock is usually the last step in a chain of contact, separation
+  and dry air, so the useful clues are the floor, shoes, clothes and room—not the
+  handle alone.
 section: mysteries
 type: analysis
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
-confidence: 94
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,33 +20,37 @@ generator: chatgpt-work
 format: wider-lens
 event_id: ''
 series: ''
-image_query: "finger near metal door handle with one tiny blue static spark, dry winter room, conceptual science illustration, no person, no text, no logo"
+image_query: finger near metal door handle with one tiny blue static spark, dry winter
+  room, conceptual science illustration, no person, no text, no logo
 sources:
-  - name: "American Physical Society — Electric Field and Humidity Trigger Contact Electrification"
-    url: "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011002"
-    published: '2015-01-13'
-  - name: "Canadian Centre for Occupational Health and Safety — Static Electricity"
-    url: "https://www.ccohs.ca/oshanswers/chemicals/static-electricity.html"
-    published: '2026-10-04'
-  - name: "EOS/ESD Association — An Introduction to ESD"
-    url: "https://www.esda.org/esd-overview/esd-fundamentals/part-1-an-introduction-to-esd/"
-    published: '2026-10-04'
-  - name: "NASA Goddard Space Flight Center — Static Electricity"
-    url: "https://pwg.gsfc.nasa.gov/Electric/-E15-static.htm"
-    published: '2010-07-25'
-  - name: "Apple Support — Earbuds and Static Electricity"
-    url: "https://support.apple.com/en-ca/102049"
-    published: '2025-03-26'
+- name: American Physical Society — Electric Field and Humidity Trigger Contact Electrification
+  url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011002
+  published: '2015-01-13'
+- name: Canadian Centre for Occupational Health and Safety — Static Electricity
+  url: https://www.ccohs.ca/oshanswers/chemicals/static-electricity.html
+  published: '2026-10-04'
+- name: EOS/ESD Association — An Introduction to ESD
+  url: https://www.esda.org/esd-overview/esd-fundamentals/part-1-an-introduction-to-esd/
+  published: '2026-10-04'
+- name: NASA Goddard Space Flight Center — Static Electricity
+  url: https://pwg.gsfc.nasa.gov/Electric/-E15-static.htm
+  published: '2010-07-25'
+- name: Apple Support — Earbuds and Static Electricity
+  url: https://support.apple.com/en-ca/102049
+  published: '2025-03-26'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which observation most strongly supports ordinary static buildup as the cause of a small door-handle shock?"
+  question: Which observation most strongly supports ordinary static buildup as the
+    cause of a small door-handle shock?
   options:
-    - "It follows walking across the same floor in dry air and disappears after one brief spark"
-    - "It continues while a powered appliance is being touched"
-    - "It occurs only when a breaker trips"
+  - It follows walking across the same floor in dry air and disappears after one brief
+    spark
+  - It continues while a powered appliance is being touched
+  - It occurs only when a breaker trips
   answer: 0
-  explanation: "Contact and separation can charge the body, especially in dry conditions; touching a conductor then releases the accumulated charge in one brief discharge."
+  explanation: Contact and separation can charge the body, especially in dry conditions;
+    touching a conductor then releases the accumulated charge in one brief discharge.
 review_reason: ''
 ---
 
@@ -119,4 +125,3 @@ The small spark therefore carries two kinds of humility. The first is causal: th
 Which detail do you usually blame because it is where an effect becomes visible?
 
 What would change if you reconstructed the quiet steps that came before it?
-

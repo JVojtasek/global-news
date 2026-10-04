@@ -1,14 +1,16 @@
 ---
 slug: praise-the-strategy-not-just-the-effort
-title: "Praise the Strategy, Not Just the Effort"
-dek: "Research supports feedback that makes learning visible, but the familiar command to praise effort can become empty when it ignores strategy, progress and the task itself."
+title: Praise the Strategy, Not Just the Effort
+dek: Research supports feedback that makes learning visible, but the familiar command
+  to praise effort can become empty when it ignores strategy, progress and the task
+  itself.
 section: parenting
 type: daily
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
-confidence: 89
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -18,36 +20,39 @@ generator: chatgpt-work
 format: ''
 event_id: ''
 series: ''
-image_query: "conceptual paper path showing several attempts becoming a solved pattern, warm editorial illustration, no people, no text"
+image_query: conceptual paper path showing several attempts becoming a solved pattern,
+  warm editorial illustration, no people, no text
 sources:
-  - name: "Journal of Personality and Social Psychology — Mueller and Dweck"
-    url: "https://pubmed.ncbi.nlm.nih.gov/9686450/"
-    published: '1998-07-01'
-  - name: "Developmental Psychology — Kamins and Dweck"
-    url: "https://pubmed.ncbi.nlm.nih.gov/10380873/"
-    published: '1999-05-01'
-  - name: "Child Development — Gunderson and colleagues"
-    url: "https://onlinelibrary.wiley.com/doi/10.1111/cdev.12064"
-    published: '2013-02-12'
-  - name: "Developmental Psychology — Gunderson and colleagues"
-    url: "https://pubmed.ncbi.nlm.nih.gov/29172567/"
-    published: '2017-11-27'
-  - name: "Psychological Bulletin — Macnamara and Burgoyne"
-    url: "https://pubmed.ncbi.nlm.nih.gov/36326645/"
-    published: '2022-11-07'
-  - name: "Psychological Bulletin — Tipton and colleagues"
-    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10495100/"
-    published: '2023-09-01'
+- name: Journal of Personality and Social Psychology — Mueller and Dweck
+  url: https://pubmed.ncbi.nlm.nih.gov/9686450/
+  published: '1998-07-01'
+- name: Developmental Psychology — Kamins and Dweck
+  url: https://pubmed.ncbi.nlm.nih.gov/10380873/
+  published: '1999-05-01'
+- name: Child Development — Gunderson and colleagues
+  url: https://onlinelibrary.wiley.com/doi/10.1111/cdev.12064
+  published: '2013-02-12'
+- name: Developmental Psychology — Gunderson and colleagues
+  url: https://pubmed.ncbi.nlm.nih.gov/29172567/
+  published: '2017-11-27'
+- name: Psychological Bulletin — Macnamara and Burgoyne
+  url: https://pubmed.ncbi.nlm.nih.gov/36326645/
+  published: '2022-11-07'
+- name: Psychological Bulletin — Tipton and colleagues
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10495100/
+  published: '2023-09-01'
 qma_path: ''
 tickers: []
 quiz:
-  question: "Which praise most clearly gives a child information they can use on the next difficult task?"
+  question: Which praise most clearly gives a child information they can use on the
+    next difficult task?
   options:
-    - "You're brilliant at this"
-    - "You kept testing different ways until the pattern worked"
-    - "You worked hard, so the answer must be right"
+  - You're brilliant at this
+  - You kept testing different ways until the pattern worked
+  - You worked hard, so the answer must be right
   answer: 1
-  explanation: "The second response names a repeatable process without turning ability into an identity or treating effort as proof that the result is correct."
+  explanation: The second response names a repeatable process without turning ability
+    into an identity or treating effort as proof that the result is correct.
 review_reason: ''
 ---
 
