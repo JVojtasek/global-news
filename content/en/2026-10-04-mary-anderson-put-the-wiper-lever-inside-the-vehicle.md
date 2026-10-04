@@ -33,6 +33,10 @@ sources:
 - name: NHTSA — Quick Reference Guide to Federal Motor Vehicle Safety Standards
   url: https://www.nhtsa.gov/sites/nhtsa.gov/files/fmvss-quickrefguide-hs811439.pdf
   published: '2011-02-24'
+impact:
+  areas: [safety]
+  line: "Nothing changes for most drivers today. The lasting point is that a control only helps if the driver can use it without losing sight of the road."
+  todo: "In your own vehicle, check that wiper and washer controls can be found by touch and that the blades clear the glass without streaks before bad weather."
 qma_path: ''
 tickers: []
 quiz:

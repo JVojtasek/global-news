@@ -38,6 +38,10 @@ sources:
 - name: Apple Support — Earbuds and Static Electricity
   url: https://support.apple.com/en-ca/102049
   published: '2025-03-26'
+impact:
+  areas: [safety, life]
+  line: "For most readers nothing changes: one snap after crossing a dry room is harmless. It matters more for people handling electronics or working near fuel, solvent vapour or combustible dust."
+  todo: "If a shock repeats with one powered appliance, or comes with heat, a burning smell or a tripped breaker, stop using it and have an electrician check it."
 qma_path: ''
 tickers: []
 quiz:

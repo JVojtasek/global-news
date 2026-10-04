@@ -36,6 +36,10 @@ sources:
 - name: NASA Glenn Research Center — Guide to Aerodynamics
   url: https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/learn-about-aerodynamics/
   published: ''
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers. What matters is that a ball's surface is part of how it flies, so worn, fluffed or damp balls genuinely play differently."
+  todo: "If you play, compare old and new balls on the same court with the same stroke, and check the ITF approved-ball list before buying."
 qma_path: ''
 tickers: []
 quiz:

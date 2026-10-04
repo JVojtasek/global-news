@@ -38,6 +38,10 @@ sources:
 - name: AAA — Five Diamond Inspection Process
   url: https://newsroom.aaa.com/2026/06/aaa-diamonds-top-10/
   published: '2026-06-12'
+impact:
+  areas: [money, life]
+  line: "Anyone booking a hotel in another country pays for stars that each scheme counts differently. The same number does not promise the same facilities or the same service."
+  todo: "Before booking, find who awarded the rating and check it in that scheme's register, then confirm directly the few features your stay really needs."
 qma_path: ''
 tickers: []
 quiz:

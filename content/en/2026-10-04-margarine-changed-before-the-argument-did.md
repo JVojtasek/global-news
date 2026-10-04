@@ -41,6 +41,10 @@ sources:
 - name: World Health Organization — Healthy diet
   url: https://www.who.int/en/news-room/fact-sheets/detail/healthy-diet
   published: '2026-02-16'
+impact:
+  areas: [health]
+  line: "For anyone choosing between spreads, the word margarine says little and the fat lines on the label say more. Where partially hydrogenated oils are still permitted, the old trans-fat warning may still apply."
+  todo: "Match serving sizes, compare saturated and trans fat, and look for partially hydrogenated oil in the ingredients; the national food authority publishes local rules."
 qma_path: ''
 tickers: []
 quiz:
