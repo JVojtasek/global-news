@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-04
 
-Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **44**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů
 - časová osa:
-  - **2026-09-23** (2 zdrojů) US envoy walks out on Pezeshkian UN speech slamming war on Iran
   - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
   - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
   - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
@@ -19,8 +18,23 @@ Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
   - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
   - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
+  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 56 dní · 60 záznamů
+- časová osa:
+  - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
+  - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
+  - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
+  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
+  - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
+  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
+  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
+  - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
+  - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
+  - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 55 dní · 60 záznamů
@@ -49,20 +63,6 @@ Paměť obsahuje **125 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
   - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
   - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 51 dní · 60 záznamů
-- časová osa:
-  - **2026-09-26** (2 zdrojů) Trump rejects Iran proposal to reopen Strait of Hormuz
-  - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
-  - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
-  - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
-  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
-  - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
-  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
-  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
-  - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
-  - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 49 dní · 51 záznamů
