@@ -1,14 +1,16 @@
 ---
 slug: a-war-aim-is-not-a-campaign-plan
 title: A War Aim Is Not a Campaign Plan
-dek: Yemen's internationally recognised government has declared an operation to recover all Houthi-held territory. The order sets the destination, but sequencing, coordination, territorial control and civilian administration remain separate tests.
+dek: Yemen's internationally recognised government has declared an operation to recover
+  all Houthi-held territory. The order sets the destination, but sequencing, coordination,
+  territorial control and civilian administration remain separate tests.
 section: world
 type: analysis
 depth: open
 lang: en
 date: '2026-10-04'
-status: draft
-confidence: 93
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -20,13 +22,16 @@ series: The Newsroom Table
 event_id: yemen-government-nationwide-counteroffensive-2026-10-04
 image_query: Yemen Taiz road government forces neutral editorial photograph 2026
 sources:
-- name: Reuters — Yemen leader announces major military operations against Iran-backed Houthis
+- name: Reuters — Yemen leader announces major military operations against Iran-backed
+    Houthis
   url: https://www.reuters.com/world/asia-pacific/head-yemens-presidential-council-announces-military-operations-retake-territory-2026-10-04/
   published: '2026-10-04'
-- name: Associated Press — Yemen's government declares a major operation against the Houthis
+- name: Associated Press — Yemen's government declares a major operation against the
+    Houthis
   url: https://apnews.com/article/israel-yemen-houthis-iran-gaza-hormuz-a37b24d446b3066d3b17441ac5bb0264
   published: '2026-10-04'
-- name: Office of Yemen's Presidential Leadership Council — Armed forces capable of regaining initiative
+- name: Office of Yemen's Presidential Leadership Council — Armed forces capable of
+    regaining initiative
   url: https://www.presidentalalimi.net/en/news2000.html
   published: '2026-09-24'
 - name: United Nations Geneva briefing — WFP on Yemen's accelerating hunger crisis
@@ -40,18 +45,27 @@ impact:
   - civilian safety and displacement in Yemen
   - food access around Taiz and Hodeidah
   - Red Sea shipping through Bab el-Mandeb
-  line: The declaration turns an escalating series of battles into an open-ended national campaign while food access, civilian movement and a critical maritime route are already under pressure.
-  todo: Over the next 72 hours to two weeks, watch independently verified control of the Taiz-Aden road and western coast, changes in humanitarian access, and evidence that government formations can hold and administer territory rather than only strike it.
+  line: The declaration turns an escalating series of battles into an open-ended national
+    campaign while food access, civilian movement and a critical maritime route are
+    already under pressure.
+  todo: Over the next 72 hours to two weeks, watch independently verified control
+    of the Taiz-Aden road and western coast, changes in humanitarian access, and evidence
+    that government formations can hold and administer territory rather than only
+    strike it.
 qma_path: ''
 tickers: []
 quiz:
-  question: What does Yemen's declaration of a nationwide counteroffensive establish most clearly?
+  question: What does Yemen's declaration of a nationwide counteroffensive establish
+    most clearly?
   options:
   - The government has already recovered all Houthi-held territory
-  - The leadership has set a national war aim and ordered a campaign, while execution and territorial recovery remain unproven
+  - The leadership has set a national war aim and ordered a campaign, while execution
+    and territorial recovery remain unproven
   - The 2022 truce has automatically returned
   answer: 1
-  explanation: The televised declaration establishes an objective and an order to act. How forces sequence, coordinate and sustain the campaign must still be observed, and current fighting shows that the truce has not returned.
+  explanation: The televised declaration establishes an objective and an order to
+    act. How forces sequence, coordinate and sustain the campaign must still be observed,
+    and current fighting shows that the truce has not returned.
 ---
 
 ## BRIEFLY
