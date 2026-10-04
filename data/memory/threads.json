@@ -1,6 +1,227 @@
 {
  "threads": [
   {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "mecca",
+    "yemen",
+    "western",
+    "president",
+    "saudi",
+    "houthis",
+    "houthi",
+    "israel-bound",
+    "arabia's",
+    "somalia",
+    "turkey",
+    "king",
+    "salman",
+    "pakistan",
+    "arabia"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace",
+    "86a5852bfef5",
+    "d4796b695f31",
+    "5308710e525c",
+    "180951c60255",
+    "9e9d8d1bd79d",
+    "44a648a1bb6f",
+    "d5228024545e",
+    "7f3db7dc3a67",
+    "8e64cbab11b6"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-10-04",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d16d38017cfe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "sources": 3,
+     "score": 54,
+     "event_id": "b203d9b44ace",
+     "links": [
+      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+     "sources": 3,
+     "score": 62,
+     "event_id": "86a5852bfef5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5308710e525c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+     "sources": 3,
+     "score": 56,
+     "event_id": "180951c60255",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e9d8d1bd79d",
+     "links": [
+      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "44a648a1bb6f",
+     "links": [
+      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
+      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d5228024545e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
+     "sources": 2,
+     "score": 53,
+     "event_id": "7f3db7dc3a67",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8e64cbab11b6",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e15c2775fec6",
+   "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+   "section": "world",
+   "entities": [
+    "merz",
+    "kyiv",
+    "germany's"
+   ],
+   "event_ids": [
+    "e15c2775fec6",
+    "eeaf29f080d5",
+    "966cba13b524"
+   ],
+   "first_seen": "2026-09-20",
+   "last_seen": "2026-10-04",
+   "timeline": [
+    {
+     "date": "2026-09-20",
+     "headline": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+     "sources": 3,
+     "score": 55,
+     "event_id": "e15c2775fec6",
+     "links": [
+      "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+      "https://www.dw.com/en/germany-s-merz-under-pressure-as-afd-eyes-second-state-win/live-79322092?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Merz vows to keep coalition together for Germany's 'democratic future'",
+     "sources": 2,
+     "score": 45,
+     "event_id": "eeaf29f080d5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20260921-germany-merz-vows-to-keep-ruling-coalition-together-after-election-defeats"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Germany's Merz arrives in Kyiv to pledge more support",
+     "sources": 3,
+     "score": 52,
+     "event_id": "966cba13b524",
+     "links": [
+      "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky",
+      "https://www.investing.com/news/economy-news/germanys-merz-arrives-in-kyiv-with-135bn-aid-package-drone-deal-in-focus-4930907"
+     ]
+    }
+   ]
+  },
+  {
    "id": "6e0f12b732f6",
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
@@ -5730,159 +5951,6 @@
    ]
   },
   {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "section": "world",
-   "entities": [
-    "saudi",
-    "arabia's",
-    "western",
-    "arabia",
-    "salman",
-    "houthis",
-    "pakistan",
-    "yemen",
-    "israel-bound",
-    "mecca",
-    "king",
-    "turkey",
-    "houthi"
-   ],
-   "event_ids": [
-    "d16d38017cfe",
-    "b203d9b44ace",
-    "86a5852bfef5",
-    "d4796b695f31",
-    "5308710e525c",
-    "180951c60255",
-    "9e9d8d1bd79d",
-    "44a648a1bb6f",
-    "d5228024545e",
-    "7f3db7dc3a67"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-09-30",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-     "sources": 3,
-     "score": 54,
-     "event_id": "b203d9b44ace",
-     "links": [
-      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4796b695f31",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5308710e525c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
-     "sources": 3,
-     "score": 56,
-     "event_id": "180951c60255",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
-      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e9d8d1bd79d",
-     "links": [
-      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "44a648a1bb6f",
-     "links": [
-      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
-      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d5228024545e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
-      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
-     "sources": 2,
-     "score": 53,
-     "event_id": "7f3db7dc3a67",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e138211becc3",
    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
    "section": "tech",
@@ -9458,46 +9526,6 @@
    ]
   },
   {
-   "id": "e15c2775fec6",
-   "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-   "section": "world",
-   "entities": [
-    "germany's",
-    "merz"
-   ],
-   "event_ids": [
-    "e15c2775fec6",
-    "eeaf29f080d5"
-   ],
-   "first_seen": "2026-09-20",
-   "last_seen": "2026-09-21",
-   "timeline": [
-    {
-     "date": "2026-09-20",
-     "headline": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
-     "sources": 3,
-     "score": 55,
-     "event_id": "e15c2775fec6",
-     "links": [
-      "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
-      "https://www.dw.com/en/germany-s-merz-under-pressure-as-afd-eyes-second-state-win/live-79322092?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Merz vows to keep coalition together for Germany's 'democratic future'",
-     "sources": 2,
-     "score": 45,
-     "event_id": "eeaf29f080d5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/europe/20260921-germany-merz-vows-to-keep-ruling-coalition-together-after-election-defeats"
-     ]
-    }
-   ]
-  },
-  {
    "id": "9ffb6bd91201",
    "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
    "section": "sport",
@@ -13052,5 +13080,5 @@
    ]
   }
  ],
- "updated": "2026-10-04T04:33:58+00:00"
+ "updated": "2026-10-04T08:21:19+00:00"
 }
