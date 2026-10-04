@@ -9,30 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. How success of Manchester City helped put Andy Burnham in power
-- id události: `e9c5b4c67393`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — How success of Manchester City helped put Andy Burnham in power
-    <https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power>
-    > PM has praised Abu Dhabi group as ‘huge partner’ in reshaping Manchester, but critics say this ignores public cost of city’s transformation In July 2016, the Manchester City player Yaya Touré ambled into a small bar near Beijing’s Workers’ Stadium and offered a bemused smile as d
-  - **Guardian Business** — Billionaire Sheiks and ‘sham’ contracts: the Manchester City scandal – podcast
-    <https://www.theguardian.com/news/audio/2026/oct/01/billionaire-sheiks-and-sham-contracts-the-manchester-city-scandal-podcast>
-    > Jonathan Liew explains the accusations against Manchester City – and Simon Hattenstone explains how it feels to be a fan Simon Hattenstone , a features writer for the Guardian, has been a Manchester City fan for more than 50 years. He was very young – and recovering from a childh
-  - **Guardian Business** — Andy Burnham’s big bold leap - podcast
-    <https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast>
-    > Helen Pidd reports from the Labour conference in Liverpool as Andy Burnham lays out his grand plans as prime minister. With deputy political editor Jessica Elgot Continue reading...
-  - **Guardian Sport** — Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil
-    <https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report>
-    > Manchester City played out a high-quality draw with Real Madrid in the Women’s Champions League after an unprecedented week of off-field tension at the English club. The result – which was a fair reflection of an even but entertaining game – left both sides with two points from t
-  - **Al Jazeera** — UK Parliament told answers on tax implications are needed in Manchester City ruling
-    <https://www.aljazeera.com/sports/2026/10/1/uk-parliament-told-tax-implication-answers-needed-in-manchester-city-ruling?traffic_source=rss>
-    > HM Revenue and Customs (HMRC) has been contacted in the United Kingdom about Man City's financial breaches.
-  - **Guardian Sport** — Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks
-    <https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status>
-    > Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, h
-
-### 2. Flydubai co-pilot attacked captain with axe, UAE official says
+### 1. Flydubai co-pilot attacked captain with axe, UAE official says
 - id události: `e70657906e72`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -51,7 +28,7 @@
   - **Investing.com** — Flydubai co-pilot attacked pilot with axe, attempted ’terrorist attack’, UAE says
     <https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768>
 
-### 3. Kim wins Asian Games gold to secure military exemption
+### 2. Kim wins Asian Games gold to secure military exemption
 - id události: `e60e1db5dbdb`  ·  rubrika: `sport`  ·  skóre: 65  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -71,7 +48,7 @@
     <https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss>
     > India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
 
-### 4. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+### 3. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
 - id události: `64aa4378c789`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -88,6 +65,29 @@
     <https://www.investing.com/news/economy-news/russia-hits-kyiv-bridge-for-second-day-as-infrastructure-attacks-intensify-4930918>
   - **Investing.com** — Germany’s Merz arrives in Kyiv to the sound of sirens and explosions
     <https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915>
+
+### 4. Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied
+- id události: `d92458626c90`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied
+    <https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf>
+    > Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.
+  - **France 24** — Brazil: Lula and Bolsonaro tied in polls
+    <https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls>
+    > Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Mara Nogueira, Senior Lecturer in Urban Geography at 
+  - **France 24** — Lula and Bolsonaro face off in Brazil presidential race
+    <https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race>
+    > Twelve candidates are on the ballot, but the presidential race is centred on two rivals: President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty is at stake amid pressure from Donald Trump. Bolsonaro, me
+  - **France 24** — Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro
+    <https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro>
+    > Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, s
+  - **Al Jazeera** — Brazil votes in deeply polarised election pitting Lula against Bolsonaro
+    <https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss>
+    > Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.
+  - **Al Jazeera** — Will Brazil’s Lula halt the right-wing wave sweeping Latin America?
+    <https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss>
+    > Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America.
 
 ---
 

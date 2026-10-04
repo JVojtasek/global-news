@@ -1904,6 +1904,76 @@
    ]
   },
   {
+   "id": "d92458626c90",
+   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+   "section": "world",
+   "entities": [
+    "brazil",
+    "voting",
+    "bolsonaro",
+    "brazil's",
+    "polls",
+    "lula"
+   ],
+   "event_ids": [
+    "d92458626c90",
+    "815bb45801bb",
+    "9d43071b47fc",
+    "85ac007f42df"
+   ],
+   "first_seen": "2026-10-04",
+   "last_seen": "2026-10-04",
+   "timeline": [
+    {
+     "date": "2026-10-04",
+     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+     "sources": 3,
+     "score": 65,
+     "event_id": "d92458626c90",
+     "links": [
+      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
+      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
+     "sources": 2,
+     "score": 46,
+     "event_id": "815bb45801bb",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
+      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
+      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9d43071b47fc",
+     "links": [
+      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+     "sources": 3,
+     "score": 57,
+     "event_id": "85ac007f42df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e15c2775fec6",
    "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
    "section": "world",
@@ -1953,62 +2023,6 @@
       "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky",
       "https://www.investing.com/news/economy-news/germanys-merz-arrives-in-kyiv-with-135bn-aid-package-drone-deal-in-focus-4930907"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d92458626c90",
-   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-   "section": "world",
-   "entities": [
-    "brazil's",
-    "brazil",
-    "voting",
-    "bolsonaro",
-    "lula"
-   ],
-   "event_ids": [
-    "d92458626c90",
-    "815bb45801bb",
-    "9d43071b47fc"
-   ],
-   "first_seen": "2026-10-04",
-   "last_seen": "2026-10-04",
-   "timeline": [
-    {
-     "date": "2026-10-04",
-     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-     "sources": 3,
-     "score": 65,
-     "event_id": "d92458626c90",
-     "links": [
-      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
-     "sources": 2,
-     "score": 46,
-     "event_id": "815bb45801bb",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
-      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
-      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9d43071b47fc",
-     "links": [
-      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
      ]
     }
    ]
@@ -13170,5 +13184,5 @@
    ]
   }
  ],
- "updated": "2026-10-04T19:23:52+00:00"
+ "updated": "2026-10-04T21:34:34+00:00"
 }
