@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "mode": "normal",
  "days_since_human": 0,
  "confidence_threshold": 82,
@@ -72,65 +72,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "a14295e93320",
-   "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-   "section": "world",
-   "score": 70,
-   "sources_count": 4,
-   "depth_signal": 2,
-   "created": "2026-10-01T01:14:08+00:00",
-   "event_time": "2026-09-30T23:15:00+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-     "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media.",
-     "published_at": "2026-09-30T23:15:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-01T01:13:51+00:00"
-    },
-    {
-     "title": "The new and huger Paramount has a new co-CEO",
-     "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-     "source": "The Verge",
-     "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, creative vision and direction, including its […]",
-     "published_at": "2026-09-30T23:08:49+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-01T01:13:51+00:00"
-    },
-    {
-     "title": "Paramount takeover of Warner Bros. Discovery clears legal hurdle",
-     "url": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle",
-     "source": "France 24",
-     "summary": "A federal judge on Wednesday approved a settlement clearing Paramount’s takeover of Warner Bros. Discovery after 12 US states challenged the deal on antitrust grounds. The agreement includes safeguards for CNN’s editorial independence and requires the merged studio to release at least 30 films a year for its first two years.",
-     "published_at": "2026-09-30T22:19:23+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-01T01:13:51+00:00"
-    },
-    {
-     "title": "Paramount Skydance prices $42 billion debt for Warner Bros deal",
-     "url": "https://www.investing.com/news/company-news/paramount-skydance-prices-42-billion-debt-for-warner-bros-deal-93CH-4926156",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-10-01T01:04:57+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-01T01:13:51+00:00"
-    },
-    {
-     "title": "Paramount gets court green light on Warner Bros deal, names Mattel’s Kreiz co-CEO",
-     "url": "https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-10-01T01:00:26+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-01T01:13:51+00:00"
-    }
-   ],
-   "depth": "scripture"
   },
   {
    "id": "e70657906e72",
@@ -246,6 +187,56 @@
      "published_at": "2026-10-03T08:18:40+00:00",
      "source_countries": [],
      "seen_at": "2026-10-03T09:27:30+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "fb73dbee1490",
+   "headline": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+   "section": "sport",
+   "score": 62,
+   "sources_count": 3,
+   "depth_signal": 0,
+   "created": "2026-10-02T09:31:08+00:00",
+   "event_time": "2026-10-01T22:22:43+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+     "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
+     "published_at": "2026-10-01T22:22:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-02T09:31:04+00:00"
+    },
+    {
+     "title": "Manchester City to launch appeal as financial breach fallout grows",
+     "url": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.",
+     "published_at": "2026-10-02T09:24:48+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-02T09:31:04+00:00"
+    },
+    {
+     "title": "Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+     "source": "Guardian Sport",
+     "summary": "Updates on Manchester City and Nations League news Fixtures | Get Football Daily | And you can email Luke That’s it from me for now. Luke McLaughlin is here to take over. Manchester City: Andy Burnham’s intervention in the Manchester City debate has revived tensions between the Premier League and the UK prime minister. Continue reading...",
+     "published_at": "2026-10-02T09:16:19+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-02T09:31:04+00:00"
+    },
+    {
+     "title": "Manchester City verdict has significant implications for game’s integrity, warns FA",
+     "url": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal",
+     "source": "Guardian Sport",
+     "summary": "FA has the power to charge club and individuals It will assess action once appeal process is over The Football Association has confirmed it has powers to take disciplinary action against Manchester City and key individuals at the club in the governing body’s first comment since City were found guilty of multiple breaches of financial regulations. The FA said the independent commission’s decision o",
+     "published_at": "2026-10-02T09:15:52+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-02T09:31:04+00:00"
     }
    ],
    "depth": "open"

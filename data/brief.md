@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-03
+# ZADÁNÍ PRO REDAKCI — 2026-10-04
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -32,25 +32,7 @@
     <https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status>
     > Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded places More than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, h
 
-### 2. US judge approves settlement allowing Paramount to acquire Warner Bros
-- id události: `a14295e93320`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **Al Jazeera** — US judge approves settlement allowing Paramount to acquire Warner Bros
-    <https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss>
-    > Mammoth deal has raised questions about corporate consolidation and editorial independence in media.
-  - **The Verge** — The new and huger Paramount has a new co-CEO
-    <https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez>
-    > Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, "Ellison will focu
-  - **France 24** — Paramount takeover of Warner Bros. Discovery clears legal hurdle
-    <https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle>
-    > A federal judge on Wednesday approved a settlement clearing Paramount’s takeover of Warner Bros. Discovery after 12 US states challenged the deal on antitrust grounds. The agreement includes safeguards for CNN’s editorial independence and requires the merged studio to release at 
-  - **Investing.com** — Paramount Skydance prices $42 billion debt for Warner Bros deal
-    <https://www.investing.com/news/company-news/paramount-skydance-prices-42-billion-debt-for-warner-bros-deal-93CH-4926156>
-  - **Investing.com** — Paramount gets court green light on Warner Bros deal, names Mattel’s Kreiz co-CEO
-    <https://www.investing.com/news/stock-market-news/us-judge-allows-paramount-to-close-warner-bros-acquisition-4925773>
-
-### 3. Flydubai co-pilot attacked captain with axe, UAE official says
+### 2. Flydubai co-pilot attacked captain with axe, UAE official says
 - id události: `e70657906e72`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -69,7 +51,7 @@
   - **Investing.com** — Flydubai co-pilot attacked pilot with axe, attempted ’terrorist attack’, UAE says
     <https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768>
 
-### 4. Kim wins Asian Games gold to secure military exemption
+### 3. Kim wins Asian Games gold to secure military exemption
 - id události: `e60e1db5dbdb`  ·  rubrika: `sport`  ·  skóre: 65  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -88,6 +70,23 @@
   - **Al Jazeera** — India beat archrivals Pakistan to win Asian Games T20 cricket gold
     <https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss>
     > India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
+
+### 4. Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+- id události: `fb73dbee1490`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+    <https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss>
+    > The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.
+  - **Al Jazeera** — Manchester City to launch appeal as financial breach fallout grows
+    <https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss>
+    > Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.
+  - **Guardian Sport** — Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live
+    <https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live>
+    > Updates on Manchester City and Nations League news Fixtures | Get Football Daily | And you can email Luke That’s it from me for now. Luke McLaughlin is here to take over. Manchester City: Andy Burnham’s intervention in the Manchester City debate has revived tensions between the P
+  - **Guardian Sport** — Manchester City verdict has significant implications for game’s integrity, warns FA
+    <https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal>
+    > FA has the power to charge club and individuals It will assess action once appeal process is over The Football Association has confirmed it has powers to take disciplinary action against Manchester City and key individuals at the club in the governing body’s first comment since C
 
 ---
 
