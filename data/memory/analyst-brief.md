@@ -9,7 +9,6 @@ Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů
 - časová osa:
-  - **2026-09-24** (2 zdrojů) Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
   - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
   - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
   - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
@@ -19,6 +18,7 @@ Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
   - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
   - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
+  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 

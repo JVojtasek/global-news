@@ -5,46 +5,46 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "moldova",
-    "wildberries",
-    "samara",
-    "footprints",
     "peace",
-    "made",
-    "better",
-    "zelenskyy",
-    "bear",
-    "ukraine",
-    "german",
-    "greenland",
     "maps",
-    "general",
+    "united",
+    "zelenskyy",
+    "strong",
+    "size",
+    "moldova",
+    "pezeshkian",
     "friedrich",
-    "overnight",
-    "zelensky",
+    "kyiv",
     "discovered",
-    "dakota",
-    "questions",
-    "europe",
-    "amnesty",
-    "upgrade",
+    "greenland",
+    "africa's",
+    "bear",
+    "samara",
     "unga",
     "cuban",
-    "united",
+    "upgrade",
     "merz",
-    "global",
-    "hormuz",
-    "kyiv",
-    "africa's",
-    "dinosaur",
-    "strong",
-    "pezeshkian",
-    "nato",
-    "iran",
-    "nations",
+    "questions",
     "kremlin",
+    "zelensky",
+    "europe",
+    "hormuz",
     "russia",
-    "size"
+    "amnesty",
+    "made",
+    "footprints",
+    "iran",
+    "dakota",
+    "general",
+    "nato",
+    "nations",
+    "wildberries",
+    "overnight",
+    "us-backed",
+    "german",
+    "global",
+    "dinosaur",
+    "better"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -125,22 +125,12 @@
     "b151a7e82ddf",
     "5f92289cd5a4",
     "46b2b9c32992",
-    "9d64ed8c92d1"
+    "9d64ed8c92d1",
+    "007b888322e8"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-10-04",
    "timeline": [
-    {
-     "date": "2026-08-23",
-     "headline": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-     "sources": 2,
-     "score": 40,
-     "event_id": "39ea562d9b81",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-08-23",
      "headline": "Zelensky rejects wartime elections, saying vote would 'split' Ukraine",
@@ -796,6 +786,17 @@
      "links": [
       "https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine",
       "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+     "sources": 2,
+     "score": 44,
+     "event_id": "007b888322e8",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
+      "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit"
      ]
     }
    ]
@@ -13169,5 +13170,5 @@
    ]
   }
  ],
- "updated": "2026-10-04T16:49:54+00:00"
+ "updated": "2026-10-04T19:23:52+00:00"
 }
