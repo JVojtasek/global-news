@@ -1,10 +1,38 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-04
+# ANALYTICKÉ ZADÁNÍ — 2026-10-05
 
-Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **44**.
+Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 57 dní · 60 záznamů
+- časová osa:
+  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
+  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
+  - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
+  - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
+  - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
+  - **2026-10-02** (3 zdrojů) Klopp wins first game as Germany coach, without 'top dogs'
+  - **2026-10-03** (2 zdrojů) Who has 'no ceiling' as Northern Ireland shine in Nations League?
+  - **2026-10-03** (2 zdrojů) LIVE: Croatia vs England – UEFA Nations League
+  - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
+  - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 48 dní · 60 záznamů
+- časová osa:
+  - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
+  - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
+  - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
+  - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
+  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
+  - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+  - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
+  - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
+  - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
+  - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů
@@ -35,34 +63,6 @@ Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
   - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 55 dní · 60 záznamů
-- časová osa:
-  - **2026-09-29** (3 zdrojů) Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
-  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
-  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
-  - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
-  - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
-  - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
-  - **2026-10-02** (3 zdrojů) Klopp wins first game as Germany coach, without 'top dogs'
-  - **2026-10-03** (2 zdrojů) Who has 'no ceiling' as Northern Ireland shine in Nations League?
-  - **2026-10-03** (2 zdrojů) LIVE: Croatia vs England – UEFA Nations League
-  - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 46 dní · 60 záznamů
-- časová osa:
-  - **2026-09-29** (2 zdrojů) The intricate web Man City spun to con the Premier League
-  - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
-  - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
-  - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
-  - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
-  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
-  - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
-  - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
-  - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
-  - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 49 dní · 51 záznamů
