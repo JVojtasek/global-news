@@ -79,9 +79,8 @@ Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 51 dní · 43 záznamů
+- rubrika `world` · sledováno 54 dní · 44 záznamů
 - časová osa:
-  - **2026-09-26** (5 zdrojů) White House bars CNN from travelling with Trump on Air Force One
   - **2026-09-26** (2 zdrojů) China, US to open AI ‘communication channel’ after summit, White House says
   - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
   - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
@@ -91,6 +90,7 @@ Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (2 zdrojů) Despite praise and White House visits, Trump avoids endorsing Netanyahu
   - **2026-10-02** (2 zdrojů) South Korea demands Ukraine apology over POW disclosure
   - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
+  - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
 
 ---
 

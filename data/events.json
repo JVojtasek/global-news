@@ -1968,37 +1968,6 @@
   ]
  },
  {
-  "id": "cbf3cfa45f59",
-  "headline": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-  "section": "safety",
-  "score": 42,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-02T03:32:42+00:00",
-  "event_time": "2026-09-28T19:18:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-    "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-    "source": "The Hacker News",
-    "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file. The iPhone maker said the",
-    "published_at": "2026-09-28T19:18:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
-   },
-   {
-    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-    "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-    "source": "The Hacker News",
-    "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget's wallet system. Exchanges keep most",
-    "published_at": "2026-09-28T17:42:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
-   }
-  ]
- },
- {
   "id": "2ce567561bd7",
   "headline": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
   "section": "world",
@@ -2473,6 +2442,37 @@
     "published_at": "2026-10-04T23:16:18+00:00",
     "source_countries": [],
     "seen_at": "2026-10-05T01:09:40+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e06269fd8cfc",
+  "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+  "section": "tech",
+  "score": 41,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-05T03:37:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+    "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+    "published_at": "2026-10-05T03:37:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   },
+   {
+    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+    "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+    "published_at": "2026-10-05T03:37:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
    }
   ]
  },
@@ -3893,37 +3893,6 @@
   ]
  },
  {
-  "id": "d19a7dc33090",
-  "headline": "When can we say AI made a scientific discovery?",
-  "section": "tech",
-  "score": 37,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-02T03:32:42+00:00",
-  "event_time": "2026-09-28T17:03:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "When can we say AI made a scientific discovery?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "source": "MIT TR — AI",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-    "published_at": "2026-09-28T17:03:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
-   },
-   {
-    "title": "When can we say AI made a scientific discovery?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-    "published_at": "2026-09-28T17:03:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
-   }
-  ]
- },
- {
   "id": "10ee893b5c5f",
   "headline": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
   "section": "safety",
@@ -4446,55 +4415,33 @@
   ]
  },
  {
-  "id": "381cf30bd5ec",
-  "headline": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-02T03:32:42+00:00",
-  "event_time": "2026-10-02T02:49:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-    "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
-    "published_at": "2026-10-02T02:49:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
-   }
-  ]
- },
- {
-  "id": "42948a16ea55",
-  "headline": "Michael Sheen campaign on toxic waste sites wins Senedd backing",
-  "section": "science",
-  "score": 36,
-  "sources_count": 1,
+  "id": "1b02c6267c03",
+  "headline": "The start-ups hoping to return battery making to the US",
+  "section": "business",
+  "score": 37,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-10-02T03:32:42+00:00",
-  "event_time": "2026-09-30T17:03:58+00:00",
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-09-29T23:06:50+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Michael Sheen campaign on toxic waste sites wins Senedd backing",
-    "url": "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
-    "published_at": "2026-09-30T17:03:58+00:00",
+    "title": "The start-ups hoping to return battery making to the US",
+    "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "published_at": "2026-09-29T23:06:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
+    "seen_at": "2026-10-05T03:40:53+00:00"
    },
    {
-    "title": "Michael Sheen campaign on toxic waste sites wins Senedd backing",
-    "url": "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
-    "published_at": "2026-09-30T17:03:58+00:00",
+    "title": "The start-ups hoping to return battery making to the US",
+    "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    "published_at": "2026-09-29T23:06:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-02T03:32:39+00:00"
+    "seen_at": "2026-10-05T03:40:53+00:00"
    }
   ]
  },
@@ -6774,6 +6721,103 @@
   ]
  },
  {
+  "id": "677c47da7b75",
+  "headline": "Rescuers suspend search for survivors after plane went missing off US coast",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-04T23:29:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Rescuers suspend search for survivors after plane went missing off US coast",
+    "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+    "published_at": "2026-10-04T23:29:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bd0d04dba0b4",
+  "headline": "The “glue” holding your cells together has a surprising second job",
+  "section": "science",
+  "score": 34,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-05T03:12:55+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The “glue” holding your cells together has a surprising second job",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+    "source": "ScienceDaily",
+    "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective ",
+    "published_at": "2026-10-05T03:12:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   },
+   {
+    "title": "The “glue” holding your cells together has a surprising second job",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective ",
+    "published_at": "2026-10-05T03:12:55+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6f680eb4c9be",
+  "headline": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+  "section": "science",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-04T21:13:07+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+    "source": "NASA",
+    "summary": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated with significant geological features. Our selected […]",
+    "published_at": "2026-10-04T21:13:07+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   }
+  ]
+ },
+ {
+  "id": "662a4b09ebb8",
+  "headline": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-09-30T08:24:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+    "source": "The Hacker News",
+    "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
+    "published_at": "2026-09-30T08:24:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   }
+  ]
+ },
+ {
   "id": "06d9f12ed17e",
   "headline": "NASA’s DAVINCI Probe Can Stand the Heat",
   "section": "science",
@@ -7896,6 +7940,72 @@
   ]
  },
  {
+  "id": "c24f8351148e",
+  "headline": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-01T06:04:17+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+    "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+    "source": "The Guardian World",
+    "summary": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday The lunchtime crowds drifted slowly back to their offices along central Seoul’s main boulevard, heads up and phones raised to the sky. High above, a narrow ribbon ran between the Koreana hotel and the Dong-A Media Center, a few hundred met",
+    "published_at": "2026-10-01T06:04:17+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0d27da7f686d",
+  "headline": "One Nation to establish headquarters in multimillion-dollar Brisbane office bought by Gina Rinehart",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-05T02:35:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "One Nation to establish headquarters in multimillion-dollar Brisbane office bought by Gina Rinehart",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/05/brisbane-one-nation-office-multimillion-gina-rinehart-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Barnaby Joyce defends move, saying party will lease space from mining billionaire’s company at commercial rates One Nation celebrated stunning success in Queensland in 1998 – then it all fell apart. What happened? Listen to episode 4 of The Populist podcast Get our new political email , free app or daily news podcast Barnaby Joyce has defended One Nation’s plan to move its headquarters to a multim",
+    "published_at": "2026-10-05T02:35:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fbe9393e9480",
+  "headline": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-04T09:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+    "url": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+    "source": "NPR News",
+    "summary": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
+    "published_at": "2026-10-04T09:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-05T03:40:53+00:00"
+   }
+  ]
+ },
+ {
   "id": "c464349ff4b2",
   "headline": "Watch: What we know about Russian strikes on Kyiv bridges",
   "section": "world",
@@ -8160,136 +8270,24 @@
   ]
  },
  {
-  "id": "cbc8079c5c4c",
-  "headline": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
+  "id": "7bbc3fb1be29",
+  "headline": "Gillian Anderson responds to backlash after telling ‘distracting’ fans to stop sitting in front row",
   "section": "world",
-  "score": 31,
+  "score": 32,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-10-04T16:49:54+00:00",
-  "event_time": "2026-10-04T14:00:32+00:00",
+  "created": "2026-10-05T03:40:59+00:00",
+  "event_time": "2026-10-05T01:02:01+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
-    "url": "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal",
+    "title": "Gillian Anderson responds to backlash after telling ‘distracting’ fans to stop sitting in front row",
+    "url": "https://www.theguardian.com/culture/2026/oct/05/fans-backlash-west-end-gillian-anderson",
     "source": "The Guardian World",
-    "summary": "Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuels Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The hosts of the next major United Nation climate conference, Turkey and Australia, are facing criticism for being partners in a coal supply chain while remaining near silent on the ne",
-    "published_at": "2026-10-04T14:00:32+00:00",
+    "summary": "The actor, who is performing on the West End, was filmed telling theatre fans ‘you can’t come 20 times and sit in the front row, it’ll drive me mad’ Gillian Anderson has come under fire after the actor was filmed telling a group of fans that they were “distracting” her by repeatedly sitting in the front row while she performs in London’s West End. The Sex Education and X-Files star was filmed outs",
+    "published_at": "2026-10-05T01:02:01+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-04T16:49:51+00:00"
-   }
-  ]
- },
- {
-  "id": "92a862822d9d",
-  "headline": "More than 400 schools in France to be closed on Monday as more protests planned",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-04T16:49:54+00:00",
-  "event_time": "2026-10-04T15:08:23+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "More than 400 schools in France to be closed on Monday as more protests planned",
-    "url": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned",
-    "source": "The Guardian World",
-    "summary": "Education minister says 24 schools have been burnt or ransacked and 78 staff members injured since student unrest began last week Europe live – latest updates More than 400 schools in France will be closed or partly closed on Monday as authorities brace for a second week of student protests. Lessons will be totally or partly suspended in 400 to 500 schools because security conditions “have not bee",
-    "published_at": "2026-10-04T15:08:23+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-04T16:49:51+00:00"
-   }
-  ]
- },
- {
-  "id": "bde3879f5d1a",
-  "headline": "Green party votes to adopt policy that equates Zionism with racism",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-04T16:49:54+00:00",
-  "event_time": "2026-10-04T15:43:41+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Green party votes to adopt policy that equates Zionism with racism",
-    "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
-    "source": "The Guardian World",
-    "summary": "Motion calling for single Palestinian state, which is opposed by most Green MPs and expected to be challenged, passes by 1,022 votes to 813 UK politics live – latest updates The Greens in England and Wales have formally adopted a policy that equates Zionism with racism and calls for Israel to be replaced by a single Palestinian state. The move is expected to be challenged by some party members und",
-    "published_at": "2026-10-04T15:43:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-04T16:49:51+00:00"
-   }
-  ]
- },
- {
-  "id": "ca76b0e74e7e",
-  "headline": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-04T19:23:52+00:00",
-  "event_time": "2026-10-04T18:00:34+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
-    "source": "The Guardian World",
-    "summary": "Home secretary warns people traffickers will exploit asylum seekers because they decide who comes to the UK Nearly all women who try to reach the UK in small boats from northern France have been raped on their journey, Shabana Mahmood has claimed. In an interview with The Rest Is Politics podcast, the home secretary said far-right, balaclava-wearing activists would “kill” or “kick me out of my own",
-    "published_at": "2026-10-04T18:00:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-04T19:23:48+00:00"
-   }
-  ]
- },
- {
-  "id": "8a4efe707d30",
-  "headline": "Pakistan: Imran Khan supporters demand ex-PM's release",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-04T19:23:52+00:00",
-  "event_time": "2026-10-04T18:22:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
-    "url": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
-    "published_at": "2026-10-04T18:22:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-04T19:23:48+00:00"
-   }
-  ]
- },
- {
-  "id": "4c2915be362a",
-  "headline": "Petr Pavel to Miss Local Elections After Trip Planning Error",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-04T19:23:52+00:00",
-  "event_time": "2026-10-03T07:23:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Petr Pavel to Miss Local Elections After Trip Planning Error",
-    "url": "https://praguemorning.cz/petr-pavel-miss-local-elections/",
-    "source": "Prague Morning",
-    "summary": "Czech President Petr Pavel will not vote in next week’s local elections in Černouček, the village in the Litoměřice region where he lives, because he will be abroad on a private trip. The Presidential Office confirmed on Friday that Pavel had left the Czech Republic and would not be able to participate in the municipal elections. The Castle said the president regrets the planning mistake. Pavel is",
-    "published_at": "2026-10-03T07:23:11+00:00",
-    "source_countries": [
-     "cz"
-    ],
-    "seen_at": "2026-10-04T19:23:48+00:00"
+    "seen_at": "2026-10-05T03:40:53+00:00"
    }
   ]
  }
