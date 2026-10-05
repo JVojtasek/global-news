@@ -65,9 +65,8 @@ Paměť obsahuje **128 vláken**. Aktivních za posledních 14 dní: **42**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 49 dní · 51 záznamů
+- rubrika `world` · sledováno 53 dní · 52 záznamů
 - časová osa:
-  - **2026-09-21** (2 zdrojů) Macron and Carney announce closer France-Canada ties amid Trump tensions
   - **2026-09-21** (2 zdrojů) Trump to meet Macron in New York before UN General Assembly
   - **2026-09-21** (2 zdrojů) Burnham hails Greenland deal ahead of expected first Trump meeting
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
@@ -77,6 +76,7 @@ Paměť obsahuje **128 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (1 zdrojů) Israeli settlers attack Jalud village in occupied West Bank, torch homes
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
+  - **2026-10-05** (1 zdrojů) Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 54 dní · 45 záznamů
