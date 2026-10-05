@@ -34,6 +34,20 @@ Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
   - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
 
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 57 dní · 60 záznamů
+- časová osa:
+  - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
+  - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
+  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
+  - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
+  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
+  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
+  - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
+  - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
+  - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
+  - **2026-10-05** (2 zdrojů) Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
+
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů
 - časová osa:
@@ -49,20 +63,6 @@ Paměť obsahuje **126 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 56 dní · 60 záznamů
-- časová osa:
-  - **2026-09-26** (2 zdrojů) ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
-  - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
-  - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
-  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
-  - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
-  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
-  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
-  - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
-  - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
-  - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 49 dní · 51 záznamů
