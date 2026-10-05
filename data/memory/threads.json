@@ -3197,12 +3197,12 @@
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
-    "voting",
-    "bolsonaro",
-    "brazil",
-    "lula",
     "brazil's",
-    "polls"
+    "brazil",
+    "bolsonaro",
+    "voting",
+    "polls",
+    "lula"
    ],
    "event_ids": [
     "d92458626c90",
@@ -3210,7 +3210,8 @@
     "9d43071b47fc",
     "85ac007f42df",
     "a52a65200ba2",
-    "f9c2830a1de0"
+    "f9c2830a1de0",
+    "e1556ad0fb1c"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-05",
@@ -3283,6 +3284,46 @@
      "links": [
       "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
       "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
+     "sources": 1,
+     "score": 45,
+     "event_id": "e1556ad0fb1c",
+     "links": [
+      "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
+      "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
+      "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "93c2b86a72e8",
+   "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
+   "section": "world",
+   "entities": [
+    "europe",
+    "spain"
+   ],
+   "event_ids": [
+    "93c2b86a72e8"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
+     "sources": 3,
+     "score": 61,
+     "event_id": "93c2b86a72e8",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+      "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss"
      ]
     }
    ]
@@ -13238,5 +13279,5 @@
    ]
   }
  ],
- "updated": "2026-10-05T07:00:57+00:00"
+ "updated": "2026-10-05T09:43:12+00:00"
 }
