@@ -8,7 +8,7 @@ type: analysis
 depth: open
 lang: en
 date: '2026-10-05'
-status: draft
+status: published
 confidence: 95
 load: 0
 topics: []
@@ -29,13 +29,15 @@ sources:
   url: https://support.microsoft.com/en-us/edge/browse-inprivate-in-microsoft-edge
 - name: Apple Support — Browse privately in Safari on Mac
   url: https://support.apple.com/en-ph/guide/safari/ibrw1069/mac
-- name: Abu-Salma and Livshits — Evaluating the End-User Experience of Private Browsing Mode
+- name: Abu-Salma and Livshits — Evaluating the End-User Experience of Private Browsing
+    Mode
   url: https://arxiv.org/html/1811.08460v2
   published: '2019-06-03'
 qma_path: ''
 tickers: []
 quiz:
-  question: Which item generally remains on the device after a private-browsing session ends?
+  question: Which item generally remains on the device after a private-browsing session
+    ends?
   options:
   - A file downloaded during the session
   - The session's ordinary browser-history entry

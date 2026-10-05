@@ -1,14 +1,15 @@
 ---
 slug: wash-your-hands-not-the-raw-chicken
-title: "Wash Your Hands, Not the Raw Chicken"
-dek: "Rinsing poultry feels like cleaning, but the safer kitchen routine is to contain the raw juices, clean your hands and tools, and let heat do the germ-killing."
+title: Wash Your Hands, Not the Raw Chicken
+dek: Rinsing poultry feels like cleaning, but the safer kitchen routine is to contain
+  the raw juices, clean your hands and tools, and let heat do the germ-killing.
 section: food
 type: analysis
 depth: open
 lang: en
 date: '2026-10-05'
-status: draft
-confidence: 94
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -16,32 +17,39 @@ edition_slot: 3
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "conceptual kitchen sink cutting board raw chicken food safety no people no text"
+event_id: ''
+series: ''
+image_query: conceptual kitchen sink cutting board raw chicken food safety no people
+  no text
 sources:
-  - name: "U.S. Centers for Disease Control and Prevention"
-    url: "https://www.cdc.gov/food-safety/foods/chicken.html"
-    published: "2024-04-29"
-  - name: "FoodSafety.gov"
-    url: "https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food"
-    published: "2019-06-18"
-  - name: "Health Canada"
-    url: "https://www.canada.ca/en/health-canada/services/meat-poultry-fish-seafood-safety/poultry-safety.html"
-    published: "2019-02-06"
-  - name: "Health Canada"
-    url: "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html"
-    published: "2020-05-29"
-  - name: "World Health Organization Regional Office for Europe"
-    url: "https://www.who.int/europe/news-room/fact-sheets/item/public-health-advice-on-food-safety-during-summer"
-    published: "2023-08-18"
-qma_path: ""
+- name: U.S. Centers for Disease Control and Prevention
+  url: https://www.cdc.gov/food-safety/foods/chicken.html
+  published: '2024-04-29'
+- name: FoodSafety.gov
+  url: https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food
+  published: '2019-06-18'
+- name: Health Canada
+  url: https://www.canada.ca/en/health-canada/services/meat-poultry-fish-seafood-safety/poultry-safety.html
+  published: '2019-02-06'
+- name: Health Canada
+  url: https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html
+  published: '2020-05-29'
+- name: World Health Organization Regional Office for Europe
+  url: https://www.who.int/europe/news-room/fact-sheets/item/public-health-advice-on-food-safety-during-summer
+  published: '2023-08-18'
+qma_path: ''
 tickers: []
 quiz:
-  question: "Which step is the reliable control for harmful germs in raw chicken?"
-  options: ["Rinsing the chicken under running water", "Cooking it to a verified safe internal temperature", "Judging whether the juices look clear"]
+  question: Which step is the reliable control for harmful germs in raw chicken?
+  options:
+  - Rinsing the chicken under running water
+  - Cooking it to a verified safe internal temperature
+  - Judging whether the juices look clear
   answer: 1
-  explanation: "Public-health agencies advise against washing raw poultry because splashing can spread germs; a food thermometer verifies that sufficient heat reached the meat."
+  explanation: Public-health agencies advise against washing raw poultry because splashing
+    can spread germs; a food thermometer verifies that sufficient heat reached the
+    meat.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY

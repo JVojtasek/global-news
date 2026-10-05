@@ -1,14 +1,16 @@
 ---
 slug: the-four-minute-mile-was-a-milestone-not-a-wall
-title: "The Four-Minute Mile Was a Milestone, Not a Wall"
-dek: "Roger Bannister's 3:59.4 mattered because a round number gathered years of training, rivalry and attention into one moment—not because human physiology changed at the finish line."
+title: The Four-Minute Mile Was a Milestone, Not a Wall
+dek: Roger Bannister's 3:59.4 mattered because a round number gathered years of training,
+  rivalry and attention into one moment—not because human physiology changed at the
+  finish line.
 section: sport
 type: analysis
 depth: open
 lang: en
 date: '2026-10-05'
-status: draft
-confidence: 93
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -16,32 +18,37 @@ edition_slot: 4
 automation_role: edition
 generator: chatgpt-work
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "vintage empty running track four laps stopwatch finish line conceptual no person no text"
+event_id: ''
+series: ''
+image_query: vintage empty running track four laps stopwatch finish line conceptual
+  no person no text
 sources:
-  - name: "Bodleian Libraries, University of Oxford"
-    url: "https://www.bodleian.ox.ac.uk/node/3883006"
-    published: "2024-05-02"
-  - name: "Oxford Alumni"
-    url: "https://alumni.ox.ac.uk/article/70-years-since-bannisters-4-minute-mile"
-    published: "2024-03-26"
-  - name: "England Athletics"
-    url: "https://www.englandathletics.org/news/sir-roger-bannister-1929-2018/"
-    published: "2018-03-05"
-  - name: "Commonwealth Sport"
-    url: "https://www.commonwealthsport.com/news/4071232/sir-roger-bannister-a-giant-of-commonwealth-sport"
-    published: "2024-07-30"
-  - name: "World Athletics"
-    url: "https://assets.aws.worldathletics.org/document/63f64eeaa443c39969164f34.pdf"
-    published: "2023-02-23"
-qma_path: ""
+- name: Bodleian Libraries, University of Oxford
+  url: https://www.bodleian.ox.ac.uk/node/3883006
+  published: '2024-05-02'
+- name: Oxford Alumni
+  url: https://alumni.ox.ac.uk/article/70-years-since-bannisters-4-minute-mile
+  published: '2024-03-26'
+- name: England Athletics
+  url: https://www.englandathletics.org/news/sir-roger-bannister-1929-2018/
+  published: '2018-03-05'
+- name: Commonwealth Sport
+  url: https://www.commonwealthsport.com/news/4071232/sir-roger-bannister-a-giant-of-commonwealth-sport
+  published: '2024-07-30'
+- name: World Athletics
+  url: https://assets.aws.worldathletics.org/document/63f64eeaa443c39969164f34.pdf
+  published: '2023-02-23'
+qma_path: ''
 tickers: []
 quiz:
-  question: "How long did Roger Bannister's 3:59.4 mile remain the world record?"
-  options: ["46 days", "Four years", "Until the 1956 Olympics"]
+  question: How long did Roger Bannister's 3:59.4 mile remain the world record?
+  options:
+  - 46 days
+  - Four years
+  - Until the 1956 Olympics
   answer: 0
-  explanation: "John Landy ran 3:57.9 in Turku on 21 June 1954, 46 days after Bannister's run in Oxford."
+  explanation: John Landy ran 3:57.9 in Turku on 21 June 1954, 46 days after Bannister's
+    run in Oxford.
 ---
 
 ## BRIEFLY

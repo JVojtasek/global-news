@@ -8,8 +8,8 @@ type: daily
 depth: open
 lang: en
 date: '2026-10-05'
-status: draft
-confidence: 93
+status: review
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
@@ -36,13 +36,15 @@ sources:
 - name: Educational Research Review — Fifty Years of Parental Involvement Research
   url: https://doi.org/10.1016/j.edurev.2022.100463
   published: '2022-11-01'
-- name: Education Endowment Foundation — Working with Parents to Support Children's Learning
+- name: Education Endowment Foundation — Working with Parents to Support Children's
+    Learning
   url: https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/supporting-parents
   published: '2018-12-07'
 qma_path: ''
 tickers: []
 quiz:
-  question: In the 2024 three-level meta-analysis, which kind of parental homework involvement was positively related to achievement?
+  question: In the 2024 three-level meta-analysis, which kind of parental homework
+    involvement was positively related to achievement?
   options:
   - Support for the student's autonomy
   - More frequent direct help with the content
