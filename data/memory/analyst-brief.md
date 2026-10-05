@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-05
 
-Paměť obsahuje **127 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **128 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
@@ -79,9 +79,8 @@ Paměť obsahuje **127 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 54 dní · 44 záznamů
+- rubrika `world` · sledováno 54 dní · 45 záznamů
 - časová osa:
-  - **2026-09-26** (2 zdrojů) China, US to open AI ‘communication channel’ after summit, White House says
   - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
   - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
   - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
@@ -91,6 +90,7 @@ Paměť obsahuje **127 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-02** (2 zdrojů) South Korea demands Ukraine apology over POW disclosure
   - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
   - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
+  - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
 
 ---
 

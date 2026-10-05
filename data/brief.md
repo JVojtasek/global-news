@@ -9,7 +9,35 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Brazil election: Bolsonaro and Lula head to runoff
+### 1. Nobel Prize awarded for showing inner workings of the brain
+- id události: `dc7779782bf4`  ·  rubrika: `world`  ·  skóre: 86  ·  nezávislých zdrojů: 7
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Nobel Prize awarded for showing inner workings of the brain
+    <https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss>
+    > US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.
+  - **BBC Health** — Nobel Prize awarded for showing inner workings of the brain
+    <https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss>
+    > US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.
+  - **Nature News** — Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates
+    <https://www.nature.com/articles/d41586-026-03091-2>
+    > Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2 Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.
+  - **NPR News** — Nobel medicine prize goes to 3 scientists for research into brain activity
+    <https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize>
+    > The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.
+  - **The Guardian World** — Nobel prize in medicine 2026 awarded for research into mysteries of brain
+    <https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner>
+    > Three scientists to share 12m Swedish kronor prize for their work on ‘light-gated ion channels and optogenetics’ The Nobel prize in physiology or medicine 2026 has been awarded to three scientists for their work on investigating the mysteries of the brain. Karl Deisseroth of both
+  - **DW News** — German and US scientists win Nobel Prize in medicine for research on brain activity
+    <https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-rdf>
+    > Karl Deisseroth, Peter Hegemann and Georg Nagel won the award for discoveries that provide new insights into how we might treat blindness, depression, addiction and dementia.
+  - **France 24** — 🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel
+    <https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel>
+  - **France 24** — Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel
+    <https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel>
+    > The Nobel Prize in Medicine was awarded Monday to Karl Deisseroth, Peter Hegemann and Georg Nagel for their research into light-gated ion channels and optogenetics. The prize money this year is 12 million Swedish kronor (about $1.2 million).
+
+### 2. Brazil election: Bolsonaro and Lula head to runoff
 - id události: `a52a65200ba2`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -31,7 +59,7 @@
     <https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula>
     > Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bolsonaro is the son of jailed former president Jair Bolsonaro. A runoff will take place October 25 if n
 
-### 2. Flydubai co-pilot attacked captain with axe, UAE official says
+### 3. Flydubai co-pilot attacked captain with axe, UAE official says
 - id události: `e70657906e72`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -50,7 +78,7 @@
   - **Investing.com** — Flydubai co-pilot attacked pilot with axe, attempted ’terrorist attack’, UAE says
     <https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768>
 
-### 3. Kim wins Asian Games gold to secure military exemption
+### 4. Kim wins Asian Games gold to secure military exemption
 - id události: `e60e1db5dbdb`  ·  rubrika: `sport`  ·  skóre: 65  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -69,24 +97,6 @@
   - **Al Jazeera** — India beat archrivals Pakistan to win Asian Games T20 cricket gold
     <https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss>
     > India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
-
-### 4. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
-- id události: `64aa4378c789`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
-    <https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss>
-    > Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.
-  - **France 24** — Russian strike hits Kyiv amid Chancellor Merz visit
-    <https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit>
-    > Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Germany’s support for Ukraine. France 24 correspondent Gulliver Cragg, reporting f
-  - **France 24** — Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities
-    <https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities>
-    > German Chancellor Friedrich Merz arrived in Ukraine's capital Kyiv on Sunday on an unannounced visit in a show of support for the country in its war with Russia. Merz's visit comes just a day after Russia warned foreigners and diplomats to leave the Ukrainian capital, saying that
-  - **Investing.com** — Russia hits Kyiv bridge for second day as infrastructure attacks intensify
-    <https://www.investing.com/news/economy-news/russia-hits-kyiv-bridge-for-second-day-as-infrastructure-attacks-intensify-4930918>
-  - **Investing.com** — Germany’s Merz arrives in Kyiv to the sound of sirens and explosions
-    <https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915>
 
 ---
 

@@ -2492,46 +2492,46 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "tech",
-    "karoline",
-    "despite",
-    "judge",
-    "china",
-    "jinping",
-    "jersey",
-    "white",
-    "politico",
-    "force",
-    "house",
-    "trump's",
-    "us-china",
-    "trump",
-    "super",
-    "court",
-    "army",
-    "chinese",
+    "country",
     "driscoll",
-    "does",
-    "journalists",
-    "netanyahu",
-    "nabep",
-    "crypto",
-    "south",
-    "supreme",
-    "intelligence",
-    "leavitt",
-    "company",
-    "kalshi's",
-    "days",
-    "korea",
     "ukraine",
-    "donald",
-    "venezuela",
+    "tube",
     "stewart",
-    "secretary",
+    "soldiers",
+    "land",
+    "judge",
+    "oldest",
+    "journalists",
+    "does",
+    "trump",
+    "mines",
+    "company",
     "press",
+    "china",
+    "kalshi's",
+    "jersey",
+    "restaurant",
+    "crypto",
+    "leavitt",
     "tetris",
-    "restaurant"
+    "sweeping",
+    "days",
+    "intelligence",
+    "supreme",
+    "army",
+    "white",
+    "inscribed",
+    "jinping",
+    "tech",
+    "venezuela",
+    "politico",
+    "netanyahu",
+    "secretary",
+    "force",
+    "despite",
+    "unearthed",
+    "karoline",
+    "chinese"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -2577,7 +2577,8 @@
     "363f25d81e31",
     "c1fa2f6ae218",
     "fcd1b322a9ec",
-    "e06269fd8cfc"
+    "e06269fd8cfc",
+    "0d54be219e97"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-10-05",
@@ -3081,6 +3082,17 @@
       "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
      ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube",
+     "sources": 2,
+     "score": 52,
+     "event_id": "0d54be219e97",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/soldiers-sweeping-for-land-mines-in-south-korea-have-unearthed-the-countrys-oldest-gun-a-600-year-old-inscribed-bronze-tube-180989610/",
+      "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html"
+     ]
     }
    ]
   },
@@ -3324,6 +3336,34 @@
       "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
       "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
       "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "entities": [
+    "nobel",
+    "prize"
+   ],
+   "event_ids": [
+    "dc7779782bf4"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-05",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Nobel Prize awarded for showing inner workings of the brain",
+     "sources": 7,
+     "score": 86,
+     "event_id": "dc7779782bf4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03091-2"
      ]
     }
    ]
@@ -13279,5 +13319,5 @@
    ]
   }
  ],
- "updated": "2026-10-05T09:43:12+00:00"
+ "updated": "2026-10-05T12:41:57+00:00"
 }

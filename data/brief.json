@@ -6,6 +6,92 @@
  "reserve_articles": 16,
  "news_assignments": [
   {
+   "id": "dc7779782bf4",
+   "headline": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "score": 86,
+   "sources_count": 7,
+   "depth_signal": 2,
+   "created": "2026-10-05T12:41:57+00:00",
+   "event_time": "2026-10-05T11:04:37+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Nobel Prize awarded for showing inner workings of the brain",
+     "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+     "published_at": "2026-10-05T11:04:37+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    },
+    {
+     "title": "Nobel Prize awarded for showing inner workings of the brain",
+     "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Health",
+     "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+     "published_at": "2026-10-05T11:04:37+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    },
+    {
+     "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+     "url": "https://www.nature.com/articles/d41586-026-03091-2",
+     "source": "Nature News",
+     "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2 Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.",
+     "published_at": "2026-10-05T00:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    },
+    {
+     "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+     "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+     "source": "NPR News",
+     "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
+     "published_at": "2026-10-05T10:11:33+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    },
+    {
+     "title": "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
+     "url": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner",
+     "source": "The Guardian World",
+     "summary": "Three scientists to share 12m Swedish kronor prize for their work on ‘light-gated ion channels and optogenetics’ The Nobel prize in physiology or medicine 2026 has been awarded to three scientists for their work on investigating the mysteries of the brain. Karl Deisseroth of both Howard Hughes Medical Institute and Stanford University, Peter Hegemann of the Humboldt University of Berlin, and Georg",
+     "published_at": "2026-10-05T09:52:07+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    },
+    {
+     "title": "German and US scientists win Nobel Prize in medicine for research on brain activity",
+     "url": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Karl Deisseroth, Peter Hegemann and Georg Nagel won the award for discoveries that provide new insights into how we might treat blindness, depression, addiction and dementia.",
+     "published_at": "2026-10-05T09:37:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    },
+    {
+     "title": "🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel",
+     "url": "https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel",
+     "source": "France 24",
+     "summary": "",
+     "published_at": "2026-10-05T09:47:22+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    },
+    {
+     "title": "Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel",
+     "url": "https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel",
+     "source": "France 24",
+     "summary": "The Nobel Prize in Medicine was awarded Monday to Karl Deisseroth, Peter Hegemann and Georg Nagel for their research into light-gated ion channels and optogenetics. The prize money this year is 12 million Swedish kronor (about $1.2 million).",
+     "published_at": "2026-10-05T09:44:01+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-05T12:41:54+00:00"
+    }
+   ],
+   "depth": "scripture"
+  },
+  {
    "id": "a52a65200ba2",
    "headline": "Brazil election: Bolsonaro and Lula head to runoff",
    "section": "world",
@@ -187,65 +273,6 @@
      "published_at": "2026-10-03T08:18:40+00:00",
      "source_countries": [],
      "seen_at": "2026-10-03T09:27:30+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
-   "id": "64aa4378c789",
-   "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-   "section": "world",
-   "score": 65,
-   "sources_count": 3,
-   "depth_signal": 0,
-   "created": "2026-10-04T11:04:18+00:00",
-   "event_time": "2026-10-04T10:11:32+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-     "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
-     "published_at": "2026-10-04T10:11:32+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-04T11:04:15+00:00"
-    },
-    {
-     "title": "Russian strike hits Kyiv amid Chancellor Merz visit",
-     "url": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
-     "source": "France 24",
-     "summary": "Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Germany’s support for Ukraine. France 24 correspondent Gulliver Cragg, reporting from Kyiv, says traffic has resumed on the bridge, though slowly. Video shows a large hole in the roadway. Experts say th",
-     "published_at": "2026-10-04T09:52:14+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-04T11:04:15+00:00"
-    },
-    {
-     "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
-     "url": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities",
-     "source": "France 24",
-     "summary": "German Chancellor Friedrich Merz arrived in Ukraine's capital Kyiv on Sunday on an unannounced visit in a show of support for the country in its war with Russia. Merz's visit comes just a day after Russia warned foreigners and diplomats to leave the Ukrainian capital, saying that \"massive\" new airstrikes would hit the city. FRANCE 24's correspondent in Kyiv Gulliver Cragg has more.",
-     "published_at": "2026-10-04T07:58:36+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-04T11:04:15+00:00"
-    },
-    {
-     "title": "Russia hits Kyiv bridge for second day as infrastructure attacks intensify",
-     "url": "https://www.investing.com/news/economy-news/russia-hits-kyiv-bridge-for-second-day-as-infrastructure-attacks-intensify-4930918",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-10-04T09:58:03+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-04T11:04:15+00:00"
-    },
-    {
-     "title": "Germany’s Merz arrives in Kyiv to the sound of sirens and explosions",
-     "url": "https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-10-04T09:06:27+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-04T11:04:15+00:00"
     }
    ],
    "depth": "open"
