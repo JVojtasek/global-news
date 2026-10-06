@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "trump's",
-    "israel",
-    "gaza's",
-    "klopp",
-    "portugal",
-    "east-west",
-    "ireland",
-    "mamdani",
-    "uefa",
-    "serbia",
-    "oyarzabal",
-    "hallgrimsson",
-    "irish",
-    "england",
-    "league",
-    "belgium",
-    "olise",
-    "nations",
-    "germany",
-    "wales",
-    "norway",
-    "board",
-    "assembly",
-    "macedonia",
-    "northern",
-    "jerusalem",
-    "kane",
+    "france",
     "denmark",
-    "croatia",
-    "hungary",
-    "north",
-    "houthis",
-    "lamine",
-    "czechia",
-    "ngumoha",
+    "mamdani",
+    "oyarzabal",
+    "irish",
+    "assembly",
+    "northern",
+    "kane",
+    "norway",
+    "jerusalem",
+    "portugal",
+    "world",
+    "board",
+    "olise",
+    "israel-ireland",
+    "wales",
+    "belgium",
     "gordon",
     "spain",
-    "world",
-    "israel-ireland",
-    "france"
+    "klopp",
+    "ngumoha",
+    "gaza's",
+    "east-west",
+    "lamine",
+    "israel",
+    "ireland",
+    "north",
+    "macedonia",
+    "houthis",
+    "hungary",
+    "trump's",
+    "croatia",
+    "nations",
+    "czechia",
+    "uefa",
+    "serbia",
+    "hallgrimsson",
+    "england",
+    "league",
+    "germany"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -129,23 +129,12 @@
     "094c71282636",
     "8f7cf9dc28a9",
     "8e16c4336df4",
-    "5e26d59e2a84"
+    "5e26d59e2a84",
+    "b8b296dae07e"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-06",
    "timeline": [
-    {
-     "date": "2026-09-17",
-     "headline": "Lebanon: Emmanuel Macron welcomes Joseph Aoun to Paris for Middle East talks",
-     "sources": 1,
-     "score": 46,
-     "event_id": "1db88ae782d0",
-     "links": [
-      "http://www.france24.com/en/lebanon-emmanuel-macron-welcomes-joseph-aoun-to-paris-for-middle-east-talks",
-      "http://www.france24.com/en/lebanon-macron-aoun-and-king-abdullah-ii-hold-security-talks-in-paris",
-      "http://www.france24.com/en/middle-east-trump-plans-2-8bn-arms-package-for-israel-amid-gaza-war"
-     ]
-    },
     {
      "date": "2026-09-17",
      "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
@@ -815,6 +804,18 @@
       "https://www.theguardian.com/football/live/2026/oct/06/scotland-slovenia-croatia-spain-nations-league-football-live-score-updates",
       "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Kane scores twice but who else was a 'real threat'? England player ratings",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b8b296dae07e",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cx7vp3lqv985o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/oct/06/england-czechia-nations-league-match-report",
+      "https://www.theguardian.com/football/2026/oct/06/harry-kane-wins-record-equalling-125th-england-cap-peter-shilton"
+     ]
     }
    ]
   },
@@ -1224,17 +1225,17 @@
    "section": "business",
    "entities": [
     "bros",
-    "skydance",
+    "ellison",
+    "berson",
+    "warner",
+    "silberwasser",
+    "hollywood",
+    "paramount",
     "david",
     "luis",
     "sports",
-    "ellison",
     "discovery",
-    "warner",
-    "hollywood",
-    "berson",
-    "paramount",
-    "silberwasser"
+    "skydance"
    ],
    "event_ids": [
     "5c613a75961a",
@@ -1244,7 +1245,8 @@
     "30a598ac2108",
     "7638b812e896",
     "687dc7f5c988",
-    "8da98e6a782b"
+    "8da98e6a782b",
+    "fdc2649b6560"
    ],
    "first_seen": "2026-09-21",
    "last_seen": "2026-10-06",
@@ -1338,6 +1340,17 @@
      "links": [
       "https://www.france24.com/en/americas/20261006-paramount-completes-takeover-of-warner-bros-creating-media-behemoth-skydance",
       "https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "From films to streaming prices - how the Warner Bros deal could affect you",
+     "sources": 2,
+     "score": 40,
+     "event_id": "fdc2649b6560",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -1458,6 +1471,127 @@
      "links": [
       "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
       "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd5d0f2f7796",
+   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+   "section": "world",
+   "entities": [
+    "world",
+    "cristiano",
+    "jesus",
+    "fernandes",
+    "ronaldo",
+    "portugal"
+   ],
+   "event_ids": [
+    "bd5d0f2f7796",
+    "43e6847f2fa0",
+    "f4be89c7badb",
+    "4fbabe3bacfc",
+    "6985c1474d56",
+    "1bc51a1eb6c7",
+    "3847220f4e53",
+    "d9a7dbf3e642"
+   ],
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-09-18",
+     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+     "sources": 4,
+     "score": 71,
+     "event_id": "bd5d0f2f7796",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+     "sources": 3,
+     "score": 60,
+     "event_id": "43e6847f2fa0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "sources": 2,
+     "score": 46,
+     "event_id": "f4be89c7badb",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
+     "sources": 3,
+     "score": 52,
+     "event_id": "4fbabe3bacfc",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Cristiano Ronaldo walks out of Portugal camp",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6985c1474d56",
+     "links": [
+      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
+     "sources": 3,
+     "score": 53,
+     "event_id": "1bc51a1eb6c7",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Portugal boss says door open for Ronaldo return",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3847220f4e53",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
+     "sources": 3,
+     "score": 54,
+     "event_id": "d9a7dbf3e642",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises"
      ]
     }
    ]
@@ -1816,6 +1950,93 @@
    ]
   },
   {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "entities": [
+    "cells",
+    "unravel",
+    "brain's",
+    "massive",
+    "nerve",
+    "ice-embedded",
+    "light",
+    "mysteries",
+    "particles",
+    "nobel",
+    "detects",
+    "developing",
+    "turn",
+    "literature",
+    "scientists",
+    "prize",
+    "ghostly",
+    "method",
+    "observatory",
+    "wins",
+    "cosmic",
+    "helping",
+    "medicine",
+    "trio",
+    "physicist"
+   ],
+   "event_ids": [
+    "dc7779782bf4",
+    "3c668b658642",
+    "b24f98ed0c74",
+    "be3ec8462606"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Nobel Prize awarded for showing inner workings of the brain",
+     "sources": 7,
+     "score": 86,
+     "event_id": "dc7779782bf4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03091-2"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
+     "sources": 3,
+     "score": 53,
+     "event_id": "3c668b658642",
+     "links": [
+      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
+      "https://www.nobelprize.org/prizes/physics/2026/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b24f98ed0c74",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
+      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
+     "sources": 1,
+     "score": 43,
+     "event_id": "be3ec8462606",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "10a1cf734426",
    "title": "Germany says Russia behind Leipzig airport drone attack",
    "section": "world",
@@ -1853,48 +2074,6 @@
      "links": [
       "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/tv-shows/spotlight/20261006-philip-ingram-sees-russia-china-and-iran-stepping-up-gray-zone-activities-across-uk-and-europe"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing inner workings of the brain",
-   "section": "world",
-   "entities": [
-    "prize",
-    "nobel",
-    "literature"
-   ],
-   "event_ids": [
-    "dc7779782bf4",
-    "3c668b658642"
-   ],
-   "first_seen": "2026-10-05",
-   "last_seen": "2026-10-06",
-   "timeline": [
-    {
-     "date": "2026-10-05",
-     "headline": "Nobel Prize awarded for showing inner workings of the brain",
-     "sources": 7,
-     "score": 86,
-     "event_id": "dc7779782bf4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.nature.com/articles/d41586-026-03091-2"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
-     "sources": 3,
-     "score": 53,
-     "event_id": "3c668b658642",
-     "links": [
-      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
-      "https://www.nobelprize.org/prizes/physics/2026/"
      ]
     }
    ]
@@ -5069,114 +5248,6 @@
       "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
       "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
       "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bd5d0f2f7796",
-   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-   "section": "world",
-   "entities": [
-    "jesus",
-    "world",
-    "cristiano",
-    "fernandes",
-    "ronaldo",
-    "portugal"
-   ],
-   "event_ids": [
-    "bd5d0f2f7796",
-    "43e6847f2fa0",
-    "f4be89c7badb",
-    "4fbabe3bacfc",
-    "6985c1474d56",
-    "1bc51a1eb6c7",
-    "3847220f4e53"
-   ],
-   "first_seen": "2026-09-18",
-   "last_seen": "2026-10-05",
-   "timeline": [
-    {
-     "date": "2026-09-18",
-     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-     "sources": 4,
-     "score": 71,
-     "event_id": "bd5d0f2f7796",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
-     "sources": 3,
-     "score": 60,
-     "event_id": "43e6847f2fa0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
-     "sources": 2,
-     "score": 46,
-     "event_id": "f4be89c7badb",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
-     "sources": 3,
-     "score": 52,
-     "event_id": "4fbabe3bacfc",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
-      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Cristiano Ronaldo walks out of Portugal camp",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6985c1474d56",
-     "links": [
-      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
-     "sources": 3,
-     "score": 53,
-     "event_id": "1bc51a1eb6c7",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Portugal boss says door open for Ronaldo return",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3847220f4e53",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss"
      ]
     }
    ]
@@ -13605,5 +13676,5 @@
    ]
   }
  ],
- "updated": "2026-10-06T18:33:40+00:00"
+ "updated": "2026-10-06T21:26:26+00:00"
 }
