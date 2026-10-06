@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "hallgrimsson",
-    "israel",
-    "england",
-    "world",
+    "jerusalem",
     "portugal",
-    "hungary",
-    "nations",
-    "klopp",
-    "board",
     "east-west",
     "wales",
     "serbia",
-    "oyarzabal",
-    "mamdani",
-    "norway",
+    "germany",
     "houthis",
-    "trump's",
-    "northern",
-    "israel-ireland",
-    "croatia",
-    "drumcree",
+    "belgium",
+    "israel",
+    "hallgrimsson",
+    "kane",
+    "ireland",
+    "gordon",
+    "klopp",
     "irish",
+    "israel-ireland",
+    "england",
+    "northern",
     "uefa",
     "macedonia",
-    "lamine",
-    "germany",
+    "gaza's",
     "ngumoha",
-    "gordon",
     "denmark",
-    "ireland",
-    "belgium",
-    "assembly",
-    "jerusalem",
-    "spain",
-    "north",
-    "czechia",
-    "scotland",
-    "kane",
     "olise",
-    "gaza's"
+    "board",
+    "north",
+    "norway",
+    "france",
+    "league",
+    "czechia",
+    "hungary",
+    "assembly",
+    "lamine",
+    "spain",
+    "croatia",
+    "mamdani",
+    "oyarzabal",
+    "world",
+    "trump's",
+    "nations"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -125,23 +125,12 @@
     "d4cac2ed9550",
     "5ff698d5e027",
     "a8ae6d5418b8",
-    "dceb3dc6a325"
+    "dceb3dc6a325",
+    "094c71282636"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-10-05",
+   "last_seen": "2026-10-06",
    "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d85187b311c3",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-      "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html"
-     ]
-    },
     {
      "date": "2026-09-15",
      "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
@@ -811,6 +800,85 @@
       "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
       "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal",
       "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nations League roundup: Olise leads late charge as France bowl over Belgium",
+     "sources": 2,
+     "score": 43,
+     "event_id": "094c71282636",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/05/nations-league-roundup-olise-leads-late-charge-as-france-bowl-over-belgium",
+      "https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e0d783f4ac39",
+   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+   "section": "safety",
+   "entities": [
+    "codex",
+    "openai",
+    "chatgpt",
+    "india"
+   ],
+   "event_ids": [
+    "e0d783f4ac39",
+    "762a25ddd63d",
+    "b32137f532da",
+    "158b0c0dc14e"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+     "sources": 3,
+     "score": 60,
+     "event_id": "e0d783f4ac39",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+     "sources": 4,
+     "score": 64,
+     "event_id": "762a25ddd63d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+     "sources": 2,
+     "score": 44,
+     "event_id": "b32137f532da",
+     "links": [
+      "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+     "sources": 3,
+     "score": 59,
+     "event_id": "158b0c0dc14e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
      ]
     }
    ]
@@ -12230,60 +12298,6 @@
    ]
   },
   {
-   "id": "e0d783f4ac39",
-   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-   "section": "safety",
-   "entities": [
-    "chatgpt",
-    "india",
-    "openai"
-   ],
-   "event_ids": [
-    "e0d783f4ac39",
-    "762a25ddd63d",
-    "b32137f532da"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-08-27",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-     "sources": 3,
-     "score": 60,
-     "event_id": "e0d783f4ac39",
-     "links": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-     "sources": 4,
-     "score": 64,
-     "event_id": "762a25ddd63d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-     "sources": 2,
-     "score": 44,
-     "event_id": "b32137f532da",
-     "links": [
-      "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "f0a2b81c016e",
    "title": "India news: India steps up efforts as hundreds missing in Nepal floods",
    "section": "world",
@@ -13373,5 +13387,5 @@
    ]
   }
  ],
- "updated": "2026-10-05T21:26:56+00:00"
+ "updated": "2026-10-06T01:03:28+00:00"
 }

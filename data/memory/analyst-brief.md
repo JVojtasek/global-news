@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-05
+# ANALYTICKÉ ZADÁNÍ — 2026-10-06
 
-Paměť obsahuje **128 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **128 vláken**. Aktivních za posledních 14 dní: **41**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 57 dní · 60 záznamů
+- rubrika `world` · sledováno 58 dní · 60 záznamů
 - časová osa:
-  - **2026-09-29** (2 zdrojů) Czechia v England: Nations League football – live
   - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
   - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
@@ -19,6 +18,7 @@ Paměť obsahuje **128 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-03** (2 zdrojů) LIVE: Croatia vs England – UEFA Nations League
   - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
   - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 48 dní · 60 záznamů
