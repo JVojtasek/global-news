@@ -37,7 +37,35 @@
     <https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel>
     > The Nobel Prize in Medicine was awarded Monday to Karl Deisseroth, Peter Hegemann and Georg Nagel for their research into light-gated ion channels and optogenetics. The prize money this year is 12 million Swedish kronor (about $1.2 million).
 
-### 2. Brazil election: Bolsonaro and Lula head to runoff
+### 2. 'Ghost particles' from space telescope wins physics Nobel
+- id události: `ca61885fb78b`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — 'Ghost particles' from space telescope wins physics Nobel
+    <https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss>
+    > Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.
+  - **BBC Science** — 'Ghost particles' from space telescope wins physics Nobel
+    <https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss>
+    > Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.
+  - **Nature News** — Nobel physics prize awarded for detection of cosmic neutrinos
+    <https://www.nature.com/articles/d41586-026-03092-1>
+    > Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03092-1 Francis Halzen wins the 2026 award for his work on a neutrino observatory at the South Pole that has helped to unlock mysteries of the Universe.
+  - **NPR News** — Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space
+    <https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics>
+    > The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.
+  - **DW News** — Nobel Physics Prize goes to Francis Halzen for neutrino work
+    <https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf>
+    > Halzen got the Nobel for his contributions to the IceCube neutrino Observatory and discovery of high-energy neutrinos, described as "ghostly messengers from space."
+  - **Phys.org** — Francis Halzen wins Nobel Prize in physics for work on mysterious ghost particles called neutrinos
+    <https://phys.org/news/2026-10-francis-halzen-nobel-prize-physics.html>
+    > Francis Halzen won the Nobel Prize in physics on Tuesday for his efforts to demystify a rare group of neutrinos, tiny cosmic particles that scientists believe offer clues to how the universe evolved.
+  - **France 24** — 🔴 Nobel Prize in Physics awarded to Francis Halzen for ice research
+    <https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research>
+  - **France 24** — Nobel Prize in Physics awarded to Francis Halzen for ice research
+    <https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research>
+    > Scientist Francis Halzen won the 2026 Nobel Prize in Physics for work on subatomic particles at the South Pole, the Royal Swedish Academy of Sciences in Stockholm announced on Tuesday.
+
+### 3. Brazil election: Bolsonaro and Lula head to runoff
 - id události: `a52a65200ba2`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -59,46 +87,22 @@
     <https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula>
     > Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bolsonaro is the son of jailed former president Jair Bolsonaro. A runoff will take place October 25 if n
 
-### 3. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
-- id události: `64aa4378c789`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
+### 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+- id události: `307bfda48464`  ·  rubrika: `safety`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
-    <https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss>
-    > Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.
-  - **France 24** — Russian strike hits Kyiv amid Chancellor Merz visit
-    <https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit>
-    > Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Germany’s support for Ukraine. France 24 correspondent Gulliver Cragg, reporting f
-  - **France 24** — Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities
-    <https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities>
-    > German Chancellor Friedrich Merz arrived in Ukraine's capital Kyiv on Sunday on an unannounced visit in a show of support for the country in its war with Russia. Merz's visit comes just a day after Russia warned foreigners and diplomats to leave the Ukrainian capital, saying that
-  - **Investing.com** — Russia hits Kyiv bridge for second day as infrastructure attacks intensify
-    <https://www.investing.com/news/economy-news/russia-hits-kyiv-bridge-for-second-day-as-infrastructure-attacks-intensify-4930918>
-  - **Investing.com** — Germany’s Merz arrives in Kyiv to the sound of sirens and explosions
-    <https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915>
-
-### 4. Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied
-- id události: `d92458626c90`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **DW News** — Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied
-    <https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf>
-    > Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.
-  - **France 24** — Brazil: Lula and Bolsonaro tied in polls
-    <https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls>
-    > Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Mara Nogueira, Senior Lecturer in Urban Geography at 
-  - **France 24** — Lula and Bolsonaro face off in Brazil presidential race
-    <https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race>
-    > Twelve candidates are on the ballot, but the presidential race is centred on two rivals: President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty is at stake amid pressure from Donald Trump. Bolsonaro, me
-  - **France 24** — Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro
-    <https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro>
-    > Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, s
-  - **Al Jazeera** — Brazil votes in deeply polarised election pitting Lula against Bolsonaro
-    <https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss>
-    > Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.
-  - **Al Jazeera** — Will Brazil’s Lula halt the right-wing wave sweeping Latin America?
-    <https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss>
-    > Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America.
+  - **Ars Technica** — OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+    <https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/>
+    > The reports of OpenAI agents harming 3rd party sites keep coming.
+  - **Ars Technica AI** — OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+    <https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/>
+    > The reports of OpenAI agents harming 3rd party sites keep coming.
+  - **BleepingComputer** — Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits
+    <https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/>
+    > The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]
+  - **The Hacker News** — Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies
+    <https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html>
+    > The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. "The unauthorized bot activities inc
 
 ---
 
@@ -131,7 +135,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
   2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
   2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
   2026-09-27  (2 zdrojů, síla 44)  Denmark dominate Wales in Nations League to leave Bellamy ‘really hurting’
@@ -151,6 +154,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
   2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
   2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
+  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

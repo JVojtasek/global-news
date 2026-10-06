@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "israel-ireland",
-    "uefa",
-    "east-west",
-    "serbia",
-    "world",
-    "mamdani",
-    "spain",
-    "germany",
-    "assembly",
-    "france",
-    "north",
-    "hungary",
-    "ngumoha",
-    "houthis",
-    "kane",
-    "nations",
     "israel",
-    "belgium",
     "lamine",
-    "england",
-    "jerusalem",
-    "denmark",
-    "gordon",
-    "wales",
-    "northern",
-    "hallgrimsson",
-    "czechia",
-    "macedonia",
-    "portugal",
-    "irish",
-    "olise",
-    "ireland",
     "norway",
-    "board",
-    "klopp",
+    "denmark",
     "gaza's",
-    "league",
+    "board",
     "trump's",
+    "france",
+    "ireland",
+    "hallgrimsson",
+    "macedonia",
+    "serbia",
+    "belgium",
     "oyarzabal",
-    "croatia"
+    "houthis",
+    "nations",
+    "league",
+    "england",
+    "klopp",
+    "irish",
+    "northern",
+    "kane",
+    "assembly",
+    "israel-ireland",
+    "spain",
+    "olise",
+    "gordon",
+    "germany",
+    "east-west",
+    "jerusalem",
+    "czechia",
+    "uefa",
+    "croatia",
+    "ngumoha",
+    "hungary",
+    "mamdani",
+    "portugal",
+    "north",
+    "world",
+    "wales"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -127,22 +127,12 @@
     "a8ae6d5418b8",
     "dceb3dc6a325",
     "094c71282636",
-    "8f7cf9dc28a9"
+    "8f7cf9dc28a9",
+    "8e16c4336df4"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-06",
    "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
-     "sources": 2,
-     "score": 42,
-     "event_id": "84d31eadb0fe",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/houthis-threaten-saudi-arabia-strikes-un-warning-humanitarian-crisis-yemen",
-      "http://www.france24.com/en/video/20260915-houthis-seize-red-sea-islands-attack-saudi-targets"
-     ]
-    },
     {
      "date": "2026-09-15",
      "headline": "Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline",
@@ -812,6 +802,17 @@
       "https://www.france24.com/en/tv-shows/sports/20261006-nations-league-france-defeat-belgium-in-second-half-comeback",
       "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "How promotion, relegation and knockouts work in Nations League",
+     "sources": 2,
+     "score": 47,
+     "event_id": "8e16c4336df4",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/crz65j3xyn9xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/oct/05/france-v-belgium-italy-v-turkey-northern-ireland-v-georgia-nations-league-live"
+     ]
     }
    ]
   },
@@ -1281,6 +1282,48 @@
    ]
   },
   {
+   "id": "10a1cf734426",
+   "title": "Germany says Russia behind Leipzig airport drone attack",
+   "section": "world",
+   "entities": [
+    "leipzig",
+    "china",
+    "russia",
+    "germany"
+   ],
+   "event_ids": [
+    "10a1cf734426",
+    "6f15f9a0c292"
+   ],
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-09-01",
+     "headline": "Germany says Russia behind Leipzig airport drone attack",
+     "sources": 5,
+     "score": 73,
+     "event_id": "10a1cf734426",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+      "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
+     "sources": 2,
+     "score": 49,
+     "event_id": "6f15f9a0c292",
+     "links": [
+      "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/spotlight/20261006-philip-ingram-sees-russia-china-and-iran-stepping-up-gray-zone-activities-across-uk-and-europe"
+     ]
+    }
+   ]
+  },
+  {
    "id": "26e8279a5a1f",
    "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
    "section": "world",
@@ -1305,6 +1348,62 @@
       "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
       "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
       "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ca61885fb78b",
+   "title": "'Ghost particles' from space telescope wins physics Nobel",
+   "section": "world",
+   "entities": [
+    "ghost",
+    "nobel"
+   ],
+   "event_ids": [
+    "ca61885fb78b"
+   ],
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-10-06",
+     "headline": "'Ghost particles' from space telescope wins physics Nobel",
+     "sources": 7,
+     "score": 82,
+     "event_id": "ca61885fb78b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03092-1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "307bfda48464",
+   "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+   "section": "safety",
+   "entities": [
+    "openai",
+    "wikipedia"
+   ],
+   "event_ids": [
+    "307bfda48464"
+   ],
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-10-06",
+     "headline": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+     "sources": 4,
+     "score": 66,
+     "event_id": "307bfda48464",
+     "links": [
+      "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
      ]
     }
    ]
@@ -11799,35 +11898,6 @@
    ]
   },
   {
-   "id": "10a1cf734426",
-   "title": "Germany says Russia behind Leipzig airport drone attack",
-   "section": "world",
-   "entities": [
-    "germany",
-    "leipzig",
-    "russia"
-   ],
-   "event_ids": [
-    "10a1cf734426"
-   ],
-   "first_seen": "2026-09-01",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-09-01",
-     "headline": "Germany says Russia behind Leipzig airport drone attack",
-     "sources": 5,
-     "score": 73,
-     "event_id": "10a1cf734426",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
-      "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
    "id": "b01a2d5e7018",
    "title": "Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock",
    "section": "business",
@@ -13455,5 +13525,5 @@
    ]
   }
  ],
- "updated": "2026-10-06T09:32:14+00:00"
+ "updated": "2026-10-06T12:39:35+00:00"
 }
