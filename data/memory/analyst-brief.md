@@ -9,7 +9,6 @@ Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 58 dní · 60 záznamů
 - časová osa:
-  - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
   - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
   - **2026-10-02** (3 zdrojů) Klopp wins first game as Germany coach, without 'top dogs'
   - **2026-10-03** (2 zdrojů) Who has 'no ceiling' as Northern Ireland shine in Nations League?
@@ -19,6 +18,7 @@ Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
   - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
   - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
+  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 48 dní · 60 záznamů
