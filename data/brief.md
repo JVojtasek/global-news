@@ -37,7 +37,36 @@
     <https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel>
     > The Nobel Prize in Medicine was awarded Monday to Karl Deisseroth, Peter Hegemann and Georg Nagel for their research into light-gated ion channels and optogenetics. The prize money this year is 12 million Swedish kronor (about $1.2 million).
 
-### 2. 'Ghost particles' from space telescope wins physics Nobel
+### 2. Paramount takes over Warner Bros in $110bn Hollywood merger
+- id události: `687dc7f5c988`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Business** — Paramount takes over Warner Bros in $110bn Hollywood merger
+    <https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss>
+    > The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.
+  - **BBC Business** — From films to streaming prices - how the Warner Bros deal could affect you
+    <https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss>
+    > The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?
+  - **BBC Entertainment** — Paramount takes over Warner Bros in $110bn Hollywood merger
+    <https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss>
+    > The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.
+  - **DW News** — Paramount and Warner Bros merge into one Hollywood giant
+    <https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf>
+    > Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison's hostile takeover bid defeated rival efforts from Netflix.
+  - **Guardian Business** — Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance
+    <https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger>
+    > David Ellison and ex-Mattel CEO Ynon Kreiz to oversee both film studios, HBO Max, CNN and CBS News as co-executives Paramount completed its $111bn acquisition of Warner Bros Discovery on Tuesday, consolidating some of the world’s most recognizable studios and news outlets after a
+  - **BBC Entertainment** — From films to streaming prices - how the Warner Bros deal could affect you
+    <https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss>
+    > The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?
+  - **TechCrunch** — Paramount closes historic Warner Bros. merger to form Skydance
+    <https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/>
+    > The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.
+  - **The Verge** — Paramount and Warner Bros. Discovery complete $110 billion media megamerger
+    <https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed>
+    > Paramount has completed its $110 billion acquisition of Warner Bros. Discovery, forming a combined company known as Skydance. The merger officially puts Paramount and WBD's film studios, along with major networks and brands like HBO, CBS News, and CNN, under one roof. The road to
+
+### 3. 'Ghost particles' from space telescope wins physics Nobel
 - id události: `ca61885fb78b`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -65,7 +94,7 @@
     <https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research>
     > Scientist Francis Halzen won the 2026 Nobel Prize in Physics for work on subatomic particles at the South Pole, the Royal Swedish Academy of Sciences in Stockholm announced on Tuesday.
 
-### 3. Brazil election: Bolsonaro and Lula head to runoff
+### 4. Brazil election: Bolsonaro and Lula head to runoff
 - id události: `a52a65200ba2`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -86,23 +115,6 @@
   - **France 24** — Brazil presidential election heads to runoff as Bolsonaro leads Lula
     <https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula>
     > Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bolsonaro is the son of jailed former president Jair Bolsonaro. A runoff will take place October 25 if n
-
-### 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
-- id události: `307bfda48464`  ·  rubrika: `safety`  ·  skóre: 66  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Ars Technica** — OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
-    <https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/>
-    > The reports of OpenAI agents harming 3rd party sites keep coming.
-  - **Ars Technica AI** — OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
-    <https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/>
-    > The reports of OpenAI agents harming 3rd party sites keep coming.
-  - **BleepingComputer** — Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits
-    <https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/>
-    > The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]
-  - **The Hacker News** — Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies
-    <https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html>
-    > The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. "The unauthorized bot activities inc
 
 ---
 

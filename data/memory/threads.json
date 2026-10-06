@@ -1121,6 +1121,118 @@
    ]
   },
   {
+   "id": "5c613a75961a",
+   "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+   "section": "business",
+   "entities": [
+    "paramount",
+    "silberwasser",
+    "david",
+    "hollywood",
+    "ellison",
+    "sports",
+    "skydance",
+    "bros",
+    "berson",
+    "discovery",
+    "luis",
+    "warner"
+   ],
+   "event_ids": [
+    "5c613a75961a",
+    "cbc0576d2a34",
+    "a14295e93320",
+    "44f48c1adbc1",
+    "30a598ac2108",
+    "7638b812e896",
+    "687dc7f5c988"
+   ],
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-09-21",
+     "headline": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
+     "sources": 7,
+     "score": 80,
+     "event_id": "5c613a75961a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
+      "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "cbc0576d2a34",
+     "links": [
+      "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+      "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+     "sources": 4,
+     "score": 70,
+     "event_id": "a14295e93320",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+      "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+      "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
+     "sources": 2,
+     "score": 42,
+     "event_id": "44f48c1adbc1",
+     "links": [
+      "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
+      "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Paramount and Warner Bros. Discovery to become Skydance",
+     "sources": 2,
+     "score": 41,
+     "event_id": "30a598ac2108",
+     "links": [
+      "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "https://www.investing.com/news/stock-market-news/david-ellison-says-combined-paramount-and-warner-bros-discovery-will-be-named-skydance-4930008"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
+     "sources": 1,
+     "score": 42,
+     "event_id": "7638b812e896",
+     "links": [
+      "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html",
+      "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+     "sources": 6,
+     "score": 83,
+     "event_id": "687dc7f5c988",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "a23f76d1ffbb",
    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
    "section": "world",
@@ -1209,6 +1321,88 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cc5e6502b0d5",
+   "title": "Are claims of a white genocide in South Africa real?",
+   "section": "world",
+   "entities": [
+    "south",
+    "olympics",
+    "australia",
+    "africa",
+    "superb",
+    "african"
+   ],
+   "event_ids": [
+    "cc5e6502b0d5",
+    "fa9c2e8e5738",
+    "549b64aa5243",
+    "7b455e92537b",
+    "928a902aa653"
+   ],
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-09-27",
+     "headline": "Are claims of a white genocide in South Africa real?",
+     "sources": 3,
+     "score": 56,
+     "event_id": "cc5e6502b0d5",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Two mass shootings in South Africa leave 27 dead",
+     "sources": 4,
+     "score": 67,
+     "event_id": "fa9c2e8e5738",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+     "sources": 2,
+     "score": 49,
+     "event_id": "549b64aa5243",
+     "links": [
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Superb South Africa seal series win over Australia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7b455e92537b",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "South Africa hope to host first African Olympics",
+     "sources": 2,
+     "score": 44,
+     "event_id": "928a902aa653",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
      ]
     }
    ]
@@ -1319,6 +1513,48 @@
      "links": [
       "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/tv-shows/spotlight/20261006-philip-ingram-sees-russia-china-and-iran-stepping-up-gray-zone-activities-across-uk-and-europe"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "entities": [
+    "prize",
+    "nobel",
+    "literature"
+   ],
+   "event_ids": [
+    "dc7779782bf4",
+    "3c668b658642"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Nobel Prize awarded for showing inner workings of the brain",
+     "sources": 7,
+     "score": 86,
+     "event_id": "dc7779782bf4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03091-2"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
+     "sources": 3,
+     "score": 53,
+     "event_id": "3c668b658642",
+     "links": [
+      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
+      "https://www.nobelprize.org/prizes/physics/2026/"
      ]
     }
    ]
@@ -4606,104 +4842,6 @@
    ]
   },
   {
-   "id": "5c613a75961a",
-   "title": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-   "section": "business",
-   "entities": [
-    "sports",
-    "skydance",
-    "david",
-    "luis",
-    "berson",
-    "discovery",
-    "silberwasser",
-    "paramount",
-    "warner",
-    "bros",
-    "ellison"
-   ],
-   "event_ids": [
-    "5c613a75961a",
-    "cbc0576d2a34",
-    "a14295e93320",
-    "44f48c1adbc1",
-    "30a598ac2108",
-    "7638b812e896"
-   ],
-   "first_seen": "2026-09-21",
-   "last_seen": "2026-10-05",
-   "timeline": [
-    {
-     "date": "2026-09-21",
-     "headline": "Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros",
-     "sources": 7,
-     "score": 80,
-     "event_id": "5c613a75961a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/business/2026/sep/21/paramount-settles-lawsuits-warner-bros-merger",
-      "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
-     "sources": 2,
-     "score": 44,
-     "event_id": "cbc0576d2a34",
-     "links": [
-      "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-      "https://www.investing.com/news/stock-market-news/paramountsettles-with-california-other-states-clearing-major-hurdle-for-warner-bros-merger-source-says-4909370"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-     "sources": 4,
-     "score": 70,
-     "event_id": "a14295e93320",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-      "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-      "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
-     "sources": 2,
-     "score": 42,
-     "event_id": "44f48c1adbc1",
-     "links": [
-      "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
-      "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Paramount and Warner Bros. Discovery to become Skydance",
-     "sources": 2,
-     "score": 41,
-     "event_id": "30a598ac2108",
-     "links": [
-      "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "https://www.investing.com/news/stock-market-news/david-ellison-says-combined-paramount-and-warner-bros-discovery-will-be-named-skydance-4930008"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
-     "sources": 1,
-     "score": 42,
-     "event_id": "7638b812e896",
-     "links": [
-      "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html",
-      "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "93c2b86a72e8",
    "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
    "section": "world",
@@ -4727,34 +4865,6 @@
       "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
       "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
       "https://www.aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing inner workings of the brain",
-   "section": "world",
-   "entities": [
-    "nobel",
-    "prize"
-   ],
-   "event_ids": [
-    "dc7779782bf4"
-   ],
-   "first_seen": "2026-10-05",
-   "last_seen": "2026-10-05",
-   "timeline": [
-    {
-     "date": "2026-10-05",
-     "headline": "Nobel Prize awarded for showing inner workings of the brain",
-     "sources": 7,
-     "score": 86,
-     "event_id": "dc7779782bf4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.nature.com/articles/d41586-026-03091-2"
      ]
     }
    ]
@@ -8646,74 +8756,6 @@
      "links": [
       "https://www.smithsonianmag.com/smart-news/archaeologists-unearth-the-2400-year-old-school-where-aristotle-taught-alexander-to-be-great-180989581/",
       "https://www.goodnewsnetwork.org/18-year-old-from-the-bronx-starts-nonprofit-to-sponsor-school-children-in-ghana/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cc5e6502b0d5",
-   "title": "Are claims of a white genocide in South Africa real?",
-   "section": "world",
-   "entities": [
-    "africa",
-    "australia",
-    "superb",
-    "south"
-   ],
-   "event_ids": [
-    "cc5e6502b0d5",
-    "fa9c2e8e5738",
-    "549b64aa5243",
-    "7b455e92537b"
-   ],
-   "first_seen": "2026-09-27",
-   "last_seen": "2026-09-27",
-   "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Are claims of a white genocide in South Africa real?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "cc5e6502b0d5",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Two mass shootings in South Africa leave 27 dead",
-     "sources": 4,
-     "score": 67,
-     "event_id": "fa9c2e8e5738",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-     "sources": 2,
-     "score": 49,
-     "event_id": "549b64aa5243",
-     "links": [
-      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Superb South Africa seal series win over Australia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7b455e92537b",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
      ]
     }
    ]
@@ -13525,5 +13567,5 @@
    ]
   }
  ],
- "updated": "2026-10-06T12:39:35+00:00"
+ "updated": "2026-10-06T15:27:23+00:00"
 }
