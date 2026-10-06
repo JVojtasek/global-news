@@ -9,7 +9,6 @@ Paměť obsahuje **129 vláken**. Aktivních za posledních 14 dní: **41**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 58 dní · 60 záznamů
 - časová osa:
-  - **2026-09-29** (2 zdrojů) Gordon and Kane fire England to Nations League victory against 10-man Czechia
   - **2026-09-30** (2 zdrojů) Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   - **2026-09-30** (2 zdrojů) Republic of Ireland will play second Israel game - Hallgrimsson
   - **2026-10-01** (2 zdrojů) Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
@@ -19,6 +18,7 @@ Paměť obsahuje **129 vláken**. Aktivních za posledních 14 dní: **41**.
   - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
   - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
   - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
+  - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 48 dní · 60 záznamů

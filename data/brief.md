@@ -129,7 +129,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-27  (2 zdrojů, síla 42)  Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live
   2026-09-27  (2 zdrojů, síla 47)  Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace
   2026-09-27  (2 zdrojů, síla 42)  Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live
   2026-09-27  (3 zdrojů, síla 56)  No handshakes between Republic of Ireland and Israel
@@ -149,6 +148,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
   2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
   2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
+  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

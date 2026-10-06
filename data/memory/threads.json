@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "jerusalem",
-    "portugal",
-    "east-west",
-    "wales",
-    "serbia",
-    "germany",
-    "houthis",
-    "belgium",
-    "israel",
-    "hallgrimsson",
-    "kane",
-    "ireland",
-    "gordon",
-    "klopp",
-    "irish",
     "israel-ireland",
-    "england",
-    "northern",
     "uefa",
-    "macedonia",
-    "gaza's",
-    "ngumoha",
-    "denmark",
-    "olise",
-    "board",
-    "north",
-    "norway",
-    "france",
-    "league",
-    "czechia",
-    "hungary",
-    "assembly",
-    "lamine",
-    "spain",
-    "croatia",
-    "mamdani",
-    "oyarzabal",
+    "east-west",
+    "serbia",
     "world",
+    "mamdani",
+    "spain",
+    "germany",
+    "assembly",
+    "france",
+    "north",
+    "hungary",
+    "ngumoha",
+    "houthis",
+    "kane",
+    "nations",
+    "israel",
+    "belgium",
+    "lamine",
+    "england",
+    "jerusalem",
+    "denmark",
+    "gordon",
+    "wales",
+    "northern",
+    "hallgrimsson",
+    "czechia",
+    "macedonia",
+    "portugal",
+    "irish",
+    "olise",
+    "ireland",
+    "norway",
+    "board",
+    "klopp",
+    "gaza's",
+    "league",
     "trump's",
-    "nations"
+    "oyarzabal",
+    "croatia"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -126,23 +126,12 @@
     "5ff698d5e027",
     "a8ae6d5418b8",
     "dceb3dc6a325",
-    "094c71282636"
+    "094c71282636",
+    "8f7cf9dc28a9"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-06",
    "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5c795b9e1b1",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-15",
      "headline": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen",
@@ -812,6 +801,17 @@
       "https://www.theguardian.com/football/2026/oct/05/nations-league-roundup-olise-leads-late-charge-as-france-bowl-over-belgium",
       "https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nations League: France defeat Belgium in second-half comeback",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8f7cf9dc28a9",
+     "links": [
+      "https://www.france24.com/en/tv-shows/sports/20261006-nations-league-france-defeat-belgium-in-second-half-comeback",
+      "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1005,6 +1005,99 @@
      "links": [
       "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
       "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a23f76d1ffbb",
+   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+   "section": "world",
+   "entities": [
+    "openai",
+    "medicare",
+    "australian",
+    "ceos",
+    "anthropic"
+   ],
+   "event_ids": [
+    "a23f76d1ffbb",
+    "90eb340ee81f",
+    "94821214578f",
+    "46e474f4f822",
+    "f734bb2140c4",
+    "e770d3f31a3b"
+   ],
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
+     "sources": 5,
+     "score": 65,
+     "event_id": "a23f76d1ffbb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "What you need to know about the OpenAI Australian government hack",
+     "sources": 4,
+     "score": 70,
+     "event_id": "90eb340ee81f",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
+      "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
+     "sources": 5,
+     "score": 68,
+     "event_id": "94821214578f",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+     "sources": 2,
+     "score": 48,
+     "event_id": "46e474f4f822",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+     "sources": 2,
+     "score": 40,
+     "event_id": "f734bb2140c4",
+     "links": [
+      "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
+      "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "OpenAI admits response to Australian government hacks 'not good enough'",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e770d3f31a3b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -8445,87 +8538,6 @@
    ]
   },
   {
-   "id": "a23f76d1ffbb",
-   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-   "section": "world",
-   "entities": [
-    "medicare",
-    "openai",
-    "ceos",
-    "anthropic",
-    "australian"
-   ],
-   "event_ids": [
-    "a23f76d1ffbb",
-    "90eb340ee81f",
-    "94821214578f",
-    "46e474f4f822",
-    "f734bb2140c4"
-   ],
-   "first_seen": "2026-09-24",
-   "last_seen": "2026-09-27",
-   "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
-     "sources": 5,
-     "score": 65,
-     "event_id": "a23f76d1ffbb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "What you need to know about the OpenAI Australian government hack",
-     "sources": 4,
-     "score": 70,
-     "event_id": "90eb340ee81f",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-rdf",
-      "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI hacked Australian Medicare govt site, probed data providers",
-     "sources": 5,
-     "score": 68,
-     "event_id": "94821214578f",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
-      "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-     "sources": 2,
-     "score": 48,
-     "event_id": "46e474f4f822",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
-      "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-     "sources": 2,
-     "score": 40,
-     "event_id": "f734bb2140c4",
-     "links": [
-      "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html",
-      "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "cc5e6502b0d5",
    "title": "Are claims of a white genocide in South Africa real?",
    "section": "world",
@@ -13429,5 +13441,5 @@
    ]
   }
  ],
- "updated": "2026-10-06T03:33:21+00:00"
+ "updated": "2026-10-06T06:44:43+00:00"
 }
