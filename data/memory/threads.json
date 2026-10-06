@@ -1010,6 +1010,116 @@
    ]
   },
   {
+   "id": "c64cc7683a93",
+   "title": "Sabalenka fights back to keep US Open defence alive",
+   "section": "sport",
+   "entities": [
+    "townsend",
+    "open",
+    "sabalenka",
+    "gauff",
+    "coco",
+    "bartunkova",
+    "china",
+    "aryna",
+    "rybakina",
+    "nikola"
+   ],
+   "event_ids": [
+    "c64cc7683a93",
+    "d289ddd8927e",
+    "955bafeb2989",
+    "321aa38e0ba3",
+    "5e8c1e803d75",
+    "db23ded2d188",
+    "0f3b85a7777d"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-10-06",
+   "timeline": [
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka fights back to keep US Open defence alive",
+     "sources": 3,
+     "score": 57,
+     "event_id": "c64cc7683a93",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
+      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d289ddd8927e",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Rybakina sets up blockbuster Sabalenka final at US Open",
+     "sources": 3,
+     "score": 60,
+     "event_id": "955bafeb2989",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss",
+      "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Rybakina wins US Open to inflict further pain on Sabalenka",
+     "sources": 3,
+     "score": 55,
+     "event_id": "321aa38e0ba3",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Rybakina beats Sabalenka to win US Open for the first time",
+     "sources": 2,
+     "score": 41,
+     "event_id": "5e8c1e803d75",
+     "links": [
+      "https://www.bbc.co.uk/sport/tennis/videos/cq63znqlq70o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/sep/12/aryna-sabalenka-v-elena-rybakina-us-open-2026-womens-singles-final-live"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Aryna Sabalenka swept out of China Open in straight-sets defeat by Nikola Bartunkova",
+     "sources": 2,
+     "score": 44,
+     "event_id": "db23ded2d188",
+     "links": [
+      "https://www.theguardian.com/sport/2026/oct/04/aryna-sabalenka-out-of-china-open-straight-sets-tennis-defeat-nikola-bartunkova",
+      "https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Coco Gauff says ‘insane’ wave of racist abuse followed disputed point at China Open",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0f3b85a7777d",
+     "links": [
+      "https://www.theguardian.com/sport/2026/oct/06/coco-gauff-racist-abuse-disputed-point-china-open-tennis",
+      "https://www.aljazeera.com/sports/2026/10/6/gauff-in-racial-abuse-controversy-at-china-open-after-replayed-point?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "a23f76d1ffbb",
    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
    "section": "world",
@@ -5347,102 +5457,6 @@
      "links": [
       "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy?traffic_source=rss",
       "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c64cc7683a93",
-   "title": "Sabalenka fights back to keep US Open defence alive",
-   "section": "sport",
-   "entities": [
-    "townsend",
-    "nikola",
-    "bartunkova",
-    "open",
-    "rybakina",
-    "aryna",
-    "sabalenka",
-    "china"
-   ],
-   "event_ids": [
-    "c64cc7683a93",
-    "d289ddd8927e",
-    "955bafeb2989",
-    "321aa38e0ba3",
-    "5e8c1e803d75",
-    "db23ded2d188"
-   ],
-   "first_seen": "2026-09-08",
-   "last_seen": "2026-10-04",
-   "timeline": [
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka fights back to keep US Open defence alive",
-     "sources": 3,
-     "score": 57,
-     "event_id": "c64cc7683a93",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c3v43p9r2qdo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/08/aryna-sabalenka-linda-noskova-us-open-tennis-quarter-finals",
-      "https://www.aljazeera.com/sports/2026/9/8/sabalenka-holds-off-noskova-to-keep-us-open-three-peat-bid-alive?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Sabalenka overcomes tricky Townsend test at US Open",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d289ddd8927e",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Rybakina sets up blockbuster Sabalenka final at US Open",
-     "sources": 3,
-     "score": 60,
-     "event_id": "955bafeb2989",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/cy9znnpnx5ro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/11/sabalenka-beats-pegula-to-set-up-rybakina-epic-in-us-open-final?traffic_source=rss",
-      "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates"
-     ]
-    },
-    {
-     "date": "2026-09-13",
-     "headline": "Rybakina wins US Open to inflict further pain on Sabalenka",
-     "sources": 3,
-     "score": 55,
-     "event_id": "321aa38e0ba3",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/sep/13/elena-rybakina-beats-aryna-sabalenka-us-open-title-tennis"
-     ]
-    },
-    {
-     "date": "2026-09-13",
-     "headline": "Rybakina beats Sabalenka to win US Open for the first time",
-     "sources": 2,
-     "score": 41,
-     "event_id": "5e8c1e803d75",
-     "links": [
-      "https://www.bbc.co.uk/sport/tennis/videos/cq63znqlq70o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/live/2026/sep/12/aryna-sabalenka-v-elena-rybakina-us-open-2026-womens-singles-final-live"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Aryna Sabalenka swept out of China Open in straight-sets defeat by Nikola Bartunkova",
-     "sources": 2,
-     "score": 44,
-     "event_id": "db23ded2d188",
-     "links": [
-      "https://www.theguardian.com/sport/2026/oct/04/aryna-sabalenka-out-of-china-open-straight-sets-tennis-defeat-nikola-bartunkova",
-      "https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss"
      ]
     }
    ]
@@ -13441,5 +13455,5 @@
    ]
   }
  ],
- "updated": "2026-10-06T06:44:43+00:00"
+ "updated": "2026-10-06T09:32:14+00:00"
 }

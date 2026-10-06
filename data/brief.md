@@ -59,44 +59,46 @@
     <https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula>
     > Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bolsonaro is the son of jailed former president Jair Bolsonaro. A runoff will take place October 25 if n
 
-### 3. Flydubai co-pilot attacked captain with axe, UAE official says
-- id události: `e70657906e72`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Flydubai co-pilot attacked captain with axe, UAE official says
-    <https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss>
-    > The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.
-  - **DW News** — Flydubai co-pilot attempted 'terrorist attack,' UAE says
-    <https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf>
-    > The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.
-  - **The Guardian World** — Flydubai co-pilot used crash axe to attack captain, says UAE
-    <https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae>
-    > Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used a crash axe to attempt to carry out a “terrorist attack” during the flight, the United ⁠Ara
-  - **CNBC Top** — Flydubai co-pilot attacked pilot with axe, attempted 'terrorist' attack, UAE says
-    <https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html>
-    > The co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.
-  - **Investing.com** — Flydubai co-pilot attacked pilot with axe, attempted ’terrorist attack’, UAE says
-    <https://www.investing.com/news/commodities-news/flydubai-copilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-4930768>
-
-### 4. Kim wins Asian Games gold to secure military exemption
-- id události: `e60e1db5dbdb`  ·  rubrika: `sport`  ·  skóre: 65  ·  nezávislých zdrojů: 4
+### 3. Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+- id události: `64aa4378c789`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Kim wins Asian Games gold to secure military exemption
-    <https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss>
-    > Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.
-  - **BBC Sport** — India beat Pakistan to take Asian Games gold
-    <https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss>
-    > Abhishek Sharma and Tilak Varma set India on their way to victory as they beat Pakistan to win gold at the Asian Games.
-  - **BBC Sport** — Kim wins Asian Games gold to secure military exemption
-    <https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss>
-    > Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.
-  - **Guardian Sport** — India beat arch-rivals Pakistan in Japan to claim Asian Games cricket gold
-    <https://www.theguardian.com/sport/2026/oct/03/india-beat-pakistan-win-asian-games-cricket-gold-t20>
-    > India 211-6; Pakistan 192-6 in Twenty20 cricket final Captains refuse traditional pre-match handshakes India beat their fierce rivals Pakistan by 19 runs to complete a golden double in the Asian Games cricket after a pulsating final in front of a small but raucous crowd in Nagoya
-  - **Al Jazeera** — India beat archrivals Pakistan to win Asian Games T20 cricket gold
-    <https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss>
-    > India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.
+  - **BBC World** — Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit
+    <https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss>
+    > Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.
+  - **France 24** — Russian strike hits Kyiv amid Chancellor Merz visit
+    <https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit>
+    > Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Germany’s support for Ukraine. France 24 correspondent Gulliver Cragg, reporting f
+  - **France 24** — Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities
+    <https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities>
+    > German Chancellor Friedrich Merz arrived in Ukraine's capital Kyiv on Sunday on an unannounced visit in a show of support for the country in its war with Russia. Merz's visit comes just a day after Russia warned foreigners and diplomats to leave the Ukrainian capital, saying that
+  - **Investing.com** — Russia hits Kyiv bridge for second day as infrastructure attacks intensify
+    <https://www.investing.com/news/economy-news/russia-hits-kyiv-bridge-for-second-day-as-infrastructure-attacks-intensify-4930918>
+  - **Investing.com** — Germany’s Merz arrives in Kyiv to the sound of sirens and explosions
+    <https://www.investing.com/news/commodities-news/germanys-merz-arrives-in-kyiv-to-the-sound-of-sirens-and-explosions-4930915>
+
+### 4. Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied
+- id události: `d92458626c90`  ·  rubrika: `world`  ·  skóre: 65  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied
+    <https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf>
+    > Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.
+  - **France 24** — Brazil: Lula and Bolsonaro tied in polls
+    <https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls>
+    > Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Mara Nogueira, Senior Lecturer in Urban Geography at 
+  - **France 24** — Lula and Bolsonaro face off in Brazil presidential race
+    <https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race>
+    > Twelve candidates are on the ballot, but the presidential race is centred on two rivals: President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty is at stake amid pressure from Donald Trump. Bolsonaro, me
+  - **France 24** — Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro
+    <https://www.france24.com/en/americas/20261004-brazilians-start-voting-in-tight-election-between-lula-and-flavio-bolsonaro>
+    > Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, s
+  - **Al Jazeera** — Brazil votes in deeply polarised election pitting Lula against Bolsonaro
+    <https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss>
+    > Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.
+  - **Al Jazeera** — Will Brazil’s Lula halt the right-wing wave sweeping Latin America?
+    <https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss>
+    > Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America.
 
 ---
 
