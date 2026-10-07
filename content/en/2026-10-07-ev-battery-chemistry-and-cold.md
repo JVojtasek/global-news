@@ -1,14 +1,16 @@
 ---
 slug: ev-battery-chemistry-and-cold
-title: "Before You Judge an Electric Car's Range, Ask What Its Battery Is Made Of"
-dek: "Battery size tells you how much energy is stored. Chemistry tells you how it behaves, what it costs and what it needs, and it is printed on a spec sheet most buyers never open."
+title: Before You Judge an Electric Car's Range, Ask What Its Battery Is Made Of
+dek: Battery size tells you how much energy is stored. Chemistry tells you how it
+  behaves, what it costs and what it needs, and it is printed on a spec sheet most
+  buyers never open.
 section: motoring
 type: analysis
 depth: open
 lang: en
 date: '2026-10-07'
-status: draft
-confidence: 72
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -30,17 +32,24 @@ sources:
   url: https://en.wikipedia.org/wiki/Electric_car
   published: '2026-10-07'
 impact:
-  areas: [money, life]
-  line: "Anyone shopping for or already driving an electric car gets a practical lens: the battery type, not only its size, shapes cold-weather behaviour, cost and how long the car stays useful."
-  todo: "Find the battery chemistry and usable capacity in the car's spec sheet or manual, and ask the seller what the warranty says about the battery."
+  areas:
+  - money
+  - life
+  line: 'Anyone shopping for or already driving an electric car gets a practical lens:
+    the battery type, not only its size, shapes cold-weather behaviour, cost and how
+    long the car stays useful.'
+  todo: Find the battery chemistry and usable capacity in the car's spec sheet or
+    manual, and ask the seller what the warranty says about the battery.
 quiz:
-  question: "According to the sources used here, which battery type reached about 41% of global battery-electric-vehicle capacity in 2023?"
+  question: According to the sources used here, which battery type reached about 41%
+    of global battery-electric-vehicle capacity in 2023?
   options:
   - Lithium iron phosphate (LFP)
   - Sodium-ion
   - Lead-acid
   answer: 0
-  explanation: "The article reports that lithium iron phosphate batteries reached 41% global market share by capacity for battery electric vehicles in 2023."
+  explanation: The article reports that lithium iron phosphate batteries reached 41%
+    global market share by capacity for battery electric vehicles in 2023.
 ---
 
 ## BRIEFLY
