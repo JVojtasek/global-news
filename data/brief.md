@@ -126,8 +126,8 @@
 ### electric car battery
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
   - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
   - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
