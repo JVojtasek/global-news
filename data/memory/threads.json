@@ -932,19 +932,22 @@
    "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
    "section": "world",
    "entities": [
-    "football",
+    "jeff",
     "argentina",
     "rueter",
-    "jeff",
-    "lionel",
-    "messi"
+    "every",
+    "football",
+    "messi",
+    "world",
+    "lionel"
    ],
    "event_ids": [
     "b041c95e70b8",
     "1f6476b20094",
     "f8faf685112c",
     "af6a6f301262",
-    "2e681e328b24"
+    "2e681e328b24",
+    "5258ae96e7a2"
    ],
    "first_seen": "2026-08-31",
    "last_seen": "2026-10-07",
@@ -1005,6 +1008,18 @@
       "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf",
       "https://www.theguardian.com/football/2026/oct/06/lionel-messi-argentina-benin-international-retirement",
       "https://www.france24.com/en/sport/20261007-messi-bids-farewell-to-argentina-fans-in-emotional-international-finale"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Watch: Every Messi World Cup goal for Argentina",
+     "sources": 3,
+     "score": 61,
+     "event_id": "5258ae96e7a2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c61kdn0nwld4o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss",
+      "https://www.france24.com/en/tv-shows/sports/20261007-lionel-messi-scores-as-argentina-beat-benin-for-his-last-international-game"
      ]
     }
    ]
@@ -13704,5 +13719,5 @@
    ]
   }
  ],
- "updated": "2026-10-07T03:36:07+00:00"
+ "updated": "2026-10-07T06:43:42+00:00"
 }
