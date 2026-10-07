@@ -94,27 +94,30 @@
     <https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research>
     > Scientist Francis Halzen won the 2026 Nobel Prize in Physics for work on subatomic particles at the South Pole, the Royal Swedish Academy of Sciences in Stockholm announced on Tuesday.
 
-### 4. Brazil election: Bolsonaro and Lula head to runoff
-- id události: `a52a65200ba2`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+### 4. Chemistry Nobel awarded for solving mystery of life's asymmetry
+- id události: `2b4add7b07af`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **DW News** — Brazil election: Bolsonaro and Lula head to runoff
-    <https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf>
-    > Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the country’s electoral court.
-  - **NPR News** — Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground
-    <https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro>
-    > Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely.
-  - **The Guardian World** — Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula
-    <https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro>
-    > Far-right challenger and son of disgraced ex-president Jair Bolsonaro will now face leftwing president in runoff vote Brazil’s presidential race will go to a second round after the far-right candidate, Flávio Bolsonaro, beat the incumbent leftwing president, Luiz Inácio Lula da S
-  - **NPR News** — Brazil votes, with Lula facing Bolsonaro's son
-    <https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son>
-    > In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.
-  - **France 24** — 🔴 Brazil presidential election heads to runoff with Bolsonaro ahead of Lula
-    <https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula>
-  - **France 24** — Brazil presidential election heads to runoff as Bolsonaro leads Lula
-    <https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula>
-    > Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bolsonaro is the son of jailed former president Jair Bolsonaro. A runoff will take place October 25 if n
+  - **BBC World** — Chemistry Nobel awarded for solving mystery of life's asymmetry
+    <https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss>
+    > The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
+  - **BBC Science** — Chemistry Nobel awarded for solving mystery of life's asymmetry
+    <https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss>
+    > The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
+  - **Nature News** — Chemistry Nobel for solving mystery of how ‘handed’ organic molecules can emerge
+    <https://www.nature.com/articles/d41586-026-03093-0>
+    > Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03093-0 Prize awarded to two chemists who probed why life favours one mirror-image molecule over another.
+  - **DW News** — Nobel Prize in Chemistry goes to Henri B. Kagan and Kenso Soai
+    <https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf>
+    > Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for their groundbreaking discoveries related to the origin of chirality and life's building blocks.
+  - **Phys.org** — Nobel Prize in chemistry awarded to Kagan and Soai for research solving 'mirror image' mystery
+    <https://phys.org/news/2026-10-nobel-prize-chemistry-awarded-kagan.html>
+    > Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their efforts to resolve mysterious mirror images in chemical molecules, a discovery that transformed modern medicine.
+  - **France 24** — 🔴Nobel Prize in chemistry awarded to France's Henri Kagan, Japan's Kenso Soai
+    <https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai>
+  - **France 24** — Nobel Prize in Chemistry awarded to France's Henri Kagan, Japan's Kenso Soai
+    <https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai>
+    > Henri Kagan and Kenso Soai were jointly awarded the Nobel Prize in Chemistry for solving a 100-year-old chemical mystery, the Royal Swedish Academy of Sciences said on Wednesday. Nobel Prize recipients receive a prize of 12 million Swedish kronor (about $1.2 million).
 
 ---
 
@@ -123,8 +126,8 @@
 ### electric car battery
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
   - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
   - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
@@ -181,8 +184,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-25  (2 zdrojů, síla 56)  Manchester City reportedly found guilty of almost 115 financial charges
-  2026-09-26  (2 zdrojů, síla 54)  We Manchester City fans fear relegation and losing trophies … but club are bang to rights
   2026-09-26  (3 zdrojů, síla 65)  Manchester City verdict: what happens next, will club appeal and could they be relegated?
   2026-09-26  (2 zdrojů, síla 40)  WSL roundup: Greenwood maintains Manchester City’s 100% record
   2026-09-27  (3 zdrojů, síla 63)  Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
@@ -201,6 +202,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
   2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
   2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager
+  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?
+  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77
 ```
 
 ---

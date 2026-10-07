@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-07
 
-Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **132 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
@@ -21,10 +21,8 @@ Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 48 dní · 60 záznamů
+- rubrika `sport` · sledováno 50 dní · 60 záznamů
 - časová osa:
-  - **2026-09-30** (2 zdrojů) Manchester City could be forced to pay Premier League up to £50m in legal costs
-  - **2026-09-30** (2 zdrojů) Manchester City Premier League charges: What do they mean?
   - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
   - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
   - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
@@ -33,11 +31,12 @@ Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
   - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
   - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
+  - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
+  - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 57 dní · 60 záznamů
+- rubrika `world` · sledováno 59 dní · 60 záznamů
 - časová osa:
-  - **2026-09-26** (2 zdrojů) Trump offers warm welcome as China's Xi arrives for US visit
   - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
   - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
   - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
@@ -47,6 +46,7 @@ Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
   - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
   - **2026-10-05** (2 zdrojů) Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
+  - **2026-10-07** (3 zdrojů) Trump to speak to Putin about plague lab worker's death in Russia
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů
