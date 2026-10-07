@@ -2841,12 +2841,12 @@
    "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
    "section": "world",
    "entities": [
-    "gail",
     "execution",
-    "pike",
-    "christa",
+    "tennessee's",
+    "gail",
     "tennessee",
-    "tennessee's"
+    "christa",
+    "pike"
    ],
    "event_ids": [
     "863ad87729f5",
@@ -2856,7 +2856,8 @@
     "69e326080f67",
     "da9bbddee958",
     "ec652c1f1e7b",
-    "d8a9ee221324"
+    "d8a9ee221324",
+    "6c49948b7fdf"
    ],
    "first_seen": "2026-10-01",
    "last_seen": "2026-10-07",
@@ -2952,6 +2953,17 @@
       "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/10/7/christa-pike-is-awake-after-surviving-execution-what-happens-now?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Christa Pike 'angry and confused' after botched execution",
+     "sources": 2,
+     "score": 40,
+     "event_id": "6c49948b7fdf",
+     "links": [
+      "https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved"
      ]
     }
    ]
@@ -3279,6 +3291,193 @@
       "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
       "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
       "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e0d783f4ac39",
+   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+   "section": "safety",
+   "entities": [
+    "chatgpt",
+    "openai",
+    "codex",
+    "india"
+   ],
+   "event_ids": [
+    "e0d783f4ac39",
+    "762a25ddd63d",
+    "b32137f532da",
+    "158b0c0dc14e",
+    "ee1064a6898c"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-10-07",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+     "sources": 3,
+     "score": 60,
+     "event_id": "e0d783f4ac39",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+     "sources": 4,
+     "score": 64,
+     "event_id": "762a25ddd63d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+     "sources": 2,
+     "score": 44,
+     "event_id": "b32137f532da",
+     "links": [
+      "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+     "sources": 3,
+     "score": 59,
+     "event_id": "158b0c0dc14e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ee1064a6898c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "entities": [
+    "literature",
+    "developing",
+    "nobel",
+    "nerve",
+    "observatory",
+    "medicine",
+    "drugmakers",
+    "wins",
+    "brain's",
+    "turn",
+    "medications",
+    "method",
+    "trio",
+    "develop",
+    "mysteries",
+    "chemists",
+    "light",
+    "handedness",
+    "ghostly",
+    "prize",
+    "physicist",
+    "molecular",
+    "unraveling",
+    "mystery",
+    "cosmic",
+    "ice-embedded",
+    "detects",
+    "particles",
+    "massive",
+    "cells",
+    "safer",
+    "scientists",
+    "helping",
+    "unravel"
+   ],
+   "event_ids": [
+    "dc7779782bf4",
+    "3c668b658642",
+    "b24f98ed0c74",
+    "be3ec8462606",
+    "d5cbc62e7cce"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-07",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Nobel Prize awarded for showing inner workings of the brain",
+     "sources": 7,
+     "score": 86,
+     "event_id": "dc7779782bf4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03091-2"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
+     "sources": 3,
+     "score": 53,
+     "event_id": "3c668b658642",
+     "links": [
+      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
+      "https://www.nobelprize.org/prizes/physics/2026/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b24f98ed0c74",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
+      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
+     "sources": 1,
+     "score": 43,
+     "event_id": "be3ec8462606",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Two Chemists Win Nobel Prize for Unraveling a Mystery of Molecular 'Handedness,' Helping Drugmakers Develop Safer Medications",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d5cbc62e7cce",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-chemists-win-nobel-prize-for-unraveling-a-mystery-of-molecular-handedness-helping-drugmakers-develop-safer-medications-180989643/"
      ]
     }
    ]
@@ -4067,161 +4266,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e0d783f4ac39",
-   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-   "section": "safety",
-   "entities": [
-    "codex",
-    "openai",
-    "chatgpt",
-    "india"
-   ],
-   "event_ids": [
-    "e0d783f4ac39",
-    "762a25ddd63d",
-    "b32137f532da",
-    "158b0c0dc14e"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-10-06",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-     "sources": 3,
-     "score": 60,
-     "event_id": "e0d783f4ac39",
-     "links": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-     "sources": 4,
-     "score": 64,
-     "event_id": "762a25ddd63d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-     "sources": 2,
-     "score": 44,
-     "event_id": "b32137f532da",
-     "links": [
-      "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-     "sources": 3,
-     "score": 59,
-     "event_id": "158b0c0dc14e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing inner workings of the brain",
-   "section": "world",
-   "entities": [
-    "cells",
-    "unravel",
-    "brain's",
-    "massive",
-    "nerve",
-    "ice-embedded",
-    "light",
-    "mysteries",
-    "particles",
-    "nobel",
-    "detects",
-    "developing",
-    "turn",
-    "literature",
-    "scientists",
-    "prize",
-    "ghostly",
-    "method",
-    "observatory",
-    "wins",
-    "cosmic",
-    "helping",
-    "medicine",
-    "trio",
-    "physicist"
-   ],
-   "event_ids": [
-    "dc7779782bf4",
-    "3c668b658642",
-    "b24f98ed0c74",
-    "be3ec8462606"
-   ],
-   "first_seen": "2026-10-05",
-   "last_seen": "2026-10-06",
-   "timeline": [
-    {
-     "date": "2026-10-05",
-     "headline": "Nobel Prize awarded for showing inner workings of the brain",
-     "sources": 7,
-     "score": 86,
-     "event_id": "dc7779782bf4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.nature.com/articles/d41586-026-03091-2"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
-     "sources": 3,
-     "score": 53,
-     "event_id": "3c668b658642",
-     "links": [
-      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
-      "https://www.nobelprize.org/prizes/physics/2026/"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b24f98ed0c74",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
-      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
-     "sources": 1,
-     "score": 43,
-     "event_id": "be3ec8462606",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
      ]
     }
    ]
@@ -13862,5 +13906,5 @@
    ]
   }
  ],
- "updated": "2026-10-07T18:34:56+00:00"
+ "updated": "2026-10-07T21:27:24+00:00"
 }
