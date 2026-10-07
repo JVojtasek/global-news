@@ -928,6 +928,88 @@
    ]
   },
   {
+   "id": "b041c95e70b8",
+   "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
+   "section": "world",
+   "entities": [
+    "football",
+    "argentina",
+    "rueter",
+    "jeff",
+    "lionel",
+    "messi"
+   ],
+   "event_ids": [
+    "b041c95e70b8",
+    "1f6476b20094",
+    "f8faf685112c",
+    "af6a6f301262",
+    "2e681e328b24"
+   ],
+   "first_seen": "2026-08-31",
+   "last_seen": "2026-10-07",
+   "timeline": [
+    {
+     "date": "2026-08-31",
+     "headline": "Lionel Messi says he's retiring from playing internationally for Argentina",
+     "sources": 4,
+     "score": 62,
+     "event_id": "b041c95e70b8",
+     "links": [
+      "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
+      "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+     "sources": 2,
+     "score": 48,
+     "event_id": "1f6476b20094",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
+      "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-records-argentina-international-retirement-football?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Lionel Messi in his 30s was one of the best international players ever | Jeff Rueter",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f8faf685112c",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/01/lionel-messi-argentina-international-career",
+      "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Messi in Argentina squad for farewell friendly",
+     "sources": 2,
+     "score": 40,
+     "event_id": "af6a6f301262",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/15/lionel-messi-called-up-argentina-farewell-appearance-friendly-benin"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Football: Lionel Messi plays final game for Argentina",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2e681e328b24",
+     "links": [
+      "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/football/2026/oct/06/lionel-messi-argentina-benin-international-retirement",
+      "https://www.france24.com/en/sport/20261007-messi-bids-farewell-to-argentina-fans-in-emotional-international-finale"
+     ]
+    }
+   ]
+  },
+  {
    "id": "d16d38017cfe",
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
@@ -10814,74 +10896,6 @@
    ]
   },
   {
-   "id": "b041c95e70b8",
-   "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-   "section": "world",
-   "entities": [
-    "argentina",
-    "lionel",
-    "jeff",
-    "messi",
-    "rueter"
-   ],
-   "event_ids": [
-    "b041c95e70b8",
-    "1f6476b20094",
-    "f8faf685112c",
-    "af6a6f301262"
-   ],
-   "first_seen": "2026-08-31",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-08-31",
-     "headline": "Lionel Messi says he's retiring from playing internationally for Argentina",
-     "sources": 4,
-     "score": 62,
-     "event_id": "b041c95e70b8",
-     "links": [
-      "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-      "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/sports/2026/8/31/argentina-legend-lionel-messi-retires-from-international-football?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-     "sources": 2,
-     "score": 48,
-     "event_id": "1f6476b20094",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement",
-      "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-records-argentina-international-retirement-football?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/31/lionel-messis-international-retirement-serves-as-a-reminder-watch-him-while-you-still-can"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Lionel Messi in his 30s was one of the best international players ever | Jeff Rueter",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f8faf685112c",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/01/lionel-messi-argentina-international-career",
-      "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Messi in Argentina squad for farewell friendly",
-     "sources": 2,
-     "score": 40,
-     "event_id": "af6a6f301262",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/15/lionel-messi-called-up-argentina-farewell-appearance-friendly-benin"
-     ]
-    }
-   ]
-  },
-  {
    "id": "94761ad38bf7",
    "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
    "section": "tech",
@@ -13690,5 +13704,5 @@
    ]
   }
  ],
- "updated": "2026-10-07T01:06:46+00:00"
+ "updated": "2026-10-07T03:36:07+00:00"
 }
