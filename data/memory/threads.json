@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "france",
-    "denmark",
-    "mamdani",
-    "oyarzabal",
-    "irish",
-    "assembly",
     "northern",
-    "kane",
-    "norway",
-    "jerusalem",
+    "harry",
     "portugal",
-    "world",
-    "board",
     "olise",
-    "israel-ireland",
-    "wales",
-    "belgium",
-    "gordon",
+    "croatia",
+    "hallgrimsson",
+    "jude",
+    "board",
+    "east-west",
     "spain",
     "klopp",
-    "ngumoha",
-    "gaza's",
-    "east-west",
-    "lamine",
+    "nations",
+    "norway",
+    "germany",
+    "france",
+    "serbia",
+    "oyarzabal",
+    "irish",
     "israel",
+    "assembly",
+    "wales",
     "ireland",
-    "north",
-    "macedonia",
-    "houthis",
     "hungary",
     "trump's",
-    "croatia",
-    "nations",
-    "czechia",
+    "ngumoha",
     "uefa",
-    "serbia",
-    "hallgrimsson",
-    "england",
+    "kane",
     "league",
-    "germany"
+    "houthis",
+    "macedonia",
+    "north",
+    "israel-ireland",
+    "gordon",
+    "lamine",
+    "bellingham",
+    "mamdani",
+    "czechia",
+    "belgium",
+    "england",
+    "jerusalem"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -130,22 +130,12 @@
     "8f7cf9dc28a9",
     "8e16c4336df4",
     "5e26d59e2a84",
-    "b8b296dae07e"
+    "b8b296dae07e",
+    "571f06d23de5"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-10-06",
+   "last_seen": "2026-10-07",
    "timeline": [
-    {
-     "date": "2026-09-17",
-     "headline": "Ireland to boycott Eurovision again over Israeli participation and ongoing Gaza deaths",
-     "sources": 2,
-     "score": 45,
-     "event_id": "6db70951bf71",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/sep/17/ireland-to-boycott-eurovision-again-over-ongoing-deaths-in-gaza",
-      "http://www.france24.com/en/europe/20260917-ireland-to-boycott-2027-eurovision-over-israel-s-participation"
-     ]
-    },
     {
      "date": "2026-09-17",
      "headline": "Verified video shows wreckage of Saudi fighter jet shot down over Yemen",
@@ -815,6 +805,124 @@
       "https://www.bbc.co.uk/sport/football/articles/cx7vp3lqv985o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/06/england-czechia-nations-league-match-report",
       "https://www.theguardian.com/football/2026/oct/06/harry-kane-wins-record-equalling-125th-england-cap-peter-shilton"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player",
+     "sources": 2,
+     "score": 42,
+     "event_id": "571f06d23de5",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/06/jude-bellingham-hails-harry-kane-as-englands-best-ever-player",
+      "https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "863ad87729f5",
+   "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+   "section": "world",
+   "entities": [
+    "gail",
+    "christa",
+    "pike",
+    "execution",
+    "tennessee's",
+    "tennessee"
+   ],
+   "event_ids": [
+    "863ad87729f5",
+    "99393131b9ac",
+    "833259a7be1f",
+    "de456bb36fbd",
+    "69e326080f67",
+    "da9bbddee958",
+    "ec652c1f1e7b"
+   ],
+   "first_seen": "2026-10-01",
+   "last_seen": "2026-10-07",
+   "timeline": [
+    {
+     "date": "2026-10-01",
+     "headline": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+     "sources": 3,
+     "score": 57,
+     "event_id": "863ad87729f5",
+     "links": [
+      "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
+      "https://www.france24.com/en/americas/20261001-execution-of-convicted-us-killer-christa-pike-fails-despite-two-lethal-injections",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+     "sources": 2,
+     "score": 48,
+     "event_id": "99393131b9ac",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Tennessee death row inmate Christa Pike survives two lethal injections",
+     "sources": 2,
+     "score": 47,
+     "event_id": "833259a7be1f",
+     "links": [
+      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections",
+      "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
+      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
+     "sources": 2,
+     "score": 47,
+     "event_id": "de456bb36fbd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+     "sources": 2,
+     "score": 42,
+     "event_id": "69e326080f67",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Tennessee's prison chief resigns after botched execution of murderer Christa Pike",
+     "sources": 3,
+     "score": 52,
+     "event_id": "da9bbddee958",
+     "links": [
+      "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261003-tennessee-prison-chief-who-oversaw-botched-christa-pike-execution-resigns"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Christa Pike awake after failed Tennessee execution: lawyers",
+     "sources": 3,
+     "score": 53,
+     "event_id": "ec652c1f1e7b",
+     "links": [
+      "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20261006-christa-pike-regains-consciousness-after-botched-tennessee-execution-attempt",
+      "https://www.aljazeera.com/news/2026/10/6/christa-pike-lawyers-say-she-is-speaking-one-week-after-failed-execution?traffic_source=rss"
      ]
     }
    ]
@@ -6273,100 +6381,6 @@
       "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/cricket/articles/c64g1dpgg247o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "863ad87729f5",
-   "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
-   "section": "world",
-   "entities": [
-    "tennessee's",
-    "execution",
-    "christa",
-    "gail",
-    "pike",
-    "tennessee"
-   ],
-   "event_ids": [
-    "863ad87729f5",
-    "99393131b9ac",
-    "833259a7be1f",
-    "de456bb36fbd",
-    "69e326080f67",
-    "da9bbddee958"
-   ],
-   "first_seen": "2026-10-01",
-   "last_seen": "2026-10-03",
-   "timeline": [
-    {
-     "date": "2026-10-01",
-     "headline": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
-     "sources": 3,
-     "score": 57,
-     "event_id": "863ad87729f5",
-     "links": [
-      "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
-      "https://www.france24.com/en/americas/20261001-execution-of-convicted-us-killer-christa-pike-fails-despite-two-lethal-injections",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/1/execution-of-us-woman-christa-pike-fails-after-botched-lethal-injection?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-     "sources": 2,
-     "score": 48,
-     "event_id": "99393131b9ac",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Tennessee death row inmate Christa Pike survives two lethal injections",
-     "sources": 2,
-     "score": 47,
-     "event_id": "833259a7be1f",
-     "links": [
-      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections",
-      "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
-      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
-     "sources": 2,
-     "score": 47,
-     "event_id": "de456bb36fbd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-execution-attempt"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-     "sources": 2,
-     "score": 42,
-     "event_id": "69e326080f67",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/2/christa-pike-unconscious-on-ventilator-after-botched-execution-lawyers?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "Tennessee's prison chief resigns after botched execution of murderer Christa Pike",
-     "sources": 3,
-     "score": 52,
-     "event_id": "da9bbddee958",
-     "links": [
-      "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261003-tennessee-prison-chief-who-oversaw-botched-christa-pike-execution-resigns"
      ]
     }
    ]
@@ -13676,5 +13690,5 @@
    ]
   }
  ],
- "updated": "2026-10-06T21:26:26+00:00"
+ "updated": "2026-10-07T01:06:46+00:00"
 }

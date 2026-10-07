@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-06
+# ANALYTICKÉ ZADÁNÍ — 2026-10-07
 
-Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **41**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 58 dní · 60 záznamů
+- rubrika `world` · sledováno 59 dní · 60 záznamů
 - časová osa:
-  - **2026-10-02** (3 zdrojů) Klopp wins first game as Germany coach, without 'top dogs'
   - **2026-10-03** (2 zdrojů) Who has 'no ceiling' as Northern Ireland shine in Nations League?
   - **2026-10-03** (2 zdrojů) LIVE: Croatia vs England – UEFA Nations League
   - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
@@ -19,6 +18,7 @@ Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
   - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
   - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
+  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 48 dní · 60 záznamů
@@ -98,6 +98,7 @@ Paměť obsahuje **131 vláken**. Aktivních za posledních 14 dní: **43**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
 - **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
 - **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů
 - **Typhoon Dolphin batters Japan's Okinawa before bearing down on China** — naposledy 2026-08-10, celkem 4 záznamů
