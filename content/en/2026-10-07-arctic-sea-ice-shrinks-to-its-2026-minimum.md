@@ -21,6 +21,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers; what matters is the trend. The 2026 minimum tied for 10th-lowest, and winter ice tied the record low, so the Arctic keeps losing thicker, older ice."
+  todo: "The National Snow and Ice Data Center publishes the daily extent for free; compare next March's maximum with the 2025 and 2026 record lows."
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/

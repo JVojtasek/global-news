@@ -24,6 +24,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers. What matters is the method: a small station gave old broadcasts a longer life by turning three programmes into podcasts, and found an audience waiting for them."
+  todo: "If a local club, parish or radio holds recordings in a minority language, ask whether they are archived anywhere people can actually listen."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/05/when-radio-finds-a-new-digital-voice-bringing-romani-language-and-culture-online-in-kosovo/

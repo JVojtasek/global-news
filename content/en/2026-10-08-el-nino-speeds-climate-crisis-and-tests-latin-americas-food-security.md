@@ -22,6 +22,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [money, life]
+  line: "Farming families in the drought and flood zones named here bear the loss first. For everyone else the likely channel is the shop: corn, beans, rice, cocoa and coffee may cost more if harvests shrink."
+  todo: "Watch coffee and cocoa prices over the coming months, and check the World Food Programme's regional updates on which countries have declared emergencies."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/08/el-nino-speeds-climate-crisis-and-tests-latin-americas-food-security/

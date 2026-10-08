@@ -24,6 +24,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life, safety]
+  line: "For people in countries that have cut the network before, a shutdown can come during protests, elections or exams. The author counts more than 70 episodes across 32 African countries since 2014."
+  todo: "Access Now's KeepItOn coalition publishes a public shutdown tracker; check whether your country appears on it and which law, if any, was cited."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/

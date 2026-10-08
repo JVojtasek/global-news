@@ -21,6 +21,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life, safety]
+  line: "For coastal families on small islands in the Pacific and the Caribbean, flooding is already routine. For readers elsewhere, the practical point concerns how help is given: short volunteer trips can displace local labour and skip consultation."
+  todo: "Before joining or funding a volunteer trip, ask who in the community requested the project, who finishes it, and how long the organisation stays."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/06/young-people-are-bridging-the-climate-divide-for-oceania-and-the-caribbean/
