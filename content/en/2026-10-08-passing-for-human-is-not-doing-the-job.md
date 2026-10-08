@@ -1,14 +1,15 @@
 ---
 slug: passing-for-human-is-not-doing-the-job
-title: "Passing for Human Is Not the Same as Doing the Job"
-dek: "AI now wins tests that once looked like the finish line. Here is what those wins measure, what they leave out, and why that gap matters for anyone asking about jobs."
+title: Passing for Human Is Not the Same as Doing the Job
+dek: AI now wins tests that once looked like the finish line. Here is what those wins
+  measure, what they leave out, and why that gap matters for anyone asking about jobs.
 section: tech
 type: analysis
 depth: open
 lang: en
-date: 2026-10-08
-status: draft
-confidence: 72
+date: '2026-10-08'
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -16,30 +17,42 @@ edition_slot: 2
 automation_role: edition
 generator: claude-code
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "empty exam desk office chair"
+event_id: ''
+series: ''
+image_query: empty exam desk office chair
 sources:
-  - name: "Wikipedia — Artificial general intelligence"
-    url: "https://en.wikipedia.org/wiki/Artificial_general_intelligence"
-    published: "2026-10-08"
-  - name: "Wikipedia — Artificial intelligence in healthcare"
-    url: "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare"
-    published: "2026-10-08"
-  - name: "Wikipedia — Hallucination (artificial intelligence)"
-    url: "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
-    published: "2026-10-08"
-qma_path: ""
+- name: Wikipedia — Artificial general intelligence
+  url: https://en.wikipedia.org/wiki/Artificial_general_intelligence
+  published: '2026-10-08'
+- name: Wikipedia — Artificial intelligence in healthcare
+  url: https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare
+  published: '2026-10-08'
+- name: Wikipedia — Hallucination (artificial intelligence)
+  url: https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
+  published: '2026-10-08'
+qma_path: ''
 tickers: []
 impact:
-  areas: [life, money]
-  line: "Nothing here measures how many jobs AI has taken or created. What changes is how to read the next claim that a machine 'beats' doctors, writers or analysts: a preferred answer is not yet a checked one."
-  todo: "When a headline says AI outperformed professionals, look for three things: who did the judging, whether accuracy was graded, and who checks the output when it is wrong."
+  areas:
+  - life
+  - money
+  line: 'Nothing here measures how many jobs AI has taken or created. What changes
+    is how to read the next claim that a machine ''beats'' doctors, writers or analysts:
+    a preferred answer is not yet a checked one.'
+  todo: 'When a headline says AI outperformed professionals, look for three things:
+    who did the judging, whether accuracy was graded, and who checks the output when
+    it is wrong.'
 quiz:
-  question: "In the 2023 study of medical questions from an online forum, what were ChatGPT's answers NOT graded on?"
-  options: ["The accuracy of the medical information", "Quality", "Empathy"]
+  question: In the 2023 study of medical questions from an online forum, what were
+    ChatGPT's answers NOT graded on?
+  options:
+  - The accuracy of the medical information
+  - Quality
+  - Empathy
   answer: 0
-  explanation: "Evaluators preferred ChatGPT's answers in 78.6% of 585 evaluations for quality and empathy, but the responses were not graded on whether the medical information was accurate."
+  explanation: Evaluators preferred ChatGPT's answers in 78.6% of 585 evaluations
+    for quality and empathy, but the responses were not graded on whether the medical
+    information was accurate.
 ---
 
 ## BRIEFLY
