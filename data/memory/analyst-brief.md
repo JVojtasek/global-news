@@ -6,6 +6,20 @@ Paměť obsahuje **132 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 60 dní · 60 záznamů
+- časová osa:
+  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
+  - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
+  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
+  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
+  - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
+  - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
+  - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
+  - **2026-10-05** (2 zdrojů) Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
+  - **2026-10-07** (3 zdrojů) Trump to speak to Putin about plague lab worker's death in Russia
+  - **2026-10-08** (2 zdrojů) South Korea threatens legal action if fuel shipments to Russia found to have broken law
+
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 59 dní · 60 záznamů
 - časová osa:
@@ -33,20 +47,6 @@ Paměť obsahuje **132 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
   - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
   - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 59 dní · 60 záznamů
-- časová osa:
-  - **2026-09-27** (2 zdrojů) Araghchi ignores Trump, waits for mediators’ response on Hormuz
-  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
-  - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
-  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
-  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
-  - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
-  - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
-  - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
-  - **2026-10-05** (2 zdrojů) Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
-  - **2026-10-07** (3 zdrojů) Trump to speak to Putin about plague lab worker's death in Russia
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů

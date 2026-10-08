@@ -148,7 +148,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-09-14  (3 zdrojů, síla 54)  Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?
+  2026-09-14  (4 zdrojů, síla 68)  Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
+  2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
+  2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
+  2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
+  2026-09-26  (2 zdrojů, síla 47)  Iran offers US deal to reopen Strait of Hormuz in seven days
+  2026-09-26  (2 zdrojů, síla 41)  Trump rejects Iran proposal to reopen Strait of Hormuz
+  2026-09-26  (2 zdrojů, síla 44)  ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
+  2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
+  2026-09-27  (2 zdrojů, síla 49)  Araghchi ignores Trump, waits for mediators’ response on Hormuz
+  2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
+  2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
+  2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
+  2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
+  2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
+  2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
+  2026-10-04  (2 zdrojů, síla 44)  More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
+  2026-10-05  (2 zdrojů, síla 43)  Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
+  2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia
+  2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
+```
+
+### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -175,35 +204,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
   2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
   2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-```
-
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-26  (3 zdrojů, síla 65)  Manchester City verdict: what happens next, will club appeal and could they be relegated?
-  2026-09-26  (2 zdrojů, síla 40)  WSL roundup: Greenwood maintains Manchester City’s 100% record
-  2026-09-27  (3 zdrojů, síla 63)  Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
-  2026-09-27  (2 zdrojů, síla 44)  How drawn-out saga of Manchester City’s alleged cheating came to this
-  2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges
-  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start
-  2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait
-  2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League
-  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs
-  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?
-  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts
-  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live
-  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power
-  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
-  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
-  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
-  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
-  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager
-  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?
-  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77
 ```
 
 ---
