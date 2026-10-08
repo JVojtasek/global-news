@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/05/too-young-to-run-old-enough-to-protest-west-africas-unfinished-democratic-bargain/
+impact:
+  areas: [life, money]
+  line: "Outside West Africa nothing changes day to day. Young Nigerians may legally run for more offices since 2018, but party nomination forms can cost up to 100 million naira, so the price, not the age limit, decides who stands."
+  todo: "Wherever you live, it is worth looking up what a party nomination or election deposit costs and who pays it; that number shows how open candidacy really is."
 ---
 
 Young Nigerians still face structural and financial barriers to contesting and winning elections

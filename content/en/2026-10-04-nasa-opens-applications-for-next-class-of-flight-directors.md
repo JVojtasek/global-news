@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: NASA
   url: https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/
+impact:
+  areas: [life]
+  line: "Most readers it does not affect: the posts are open only to U.S. citizens with a science, engineering or maths degree and experience of high-stakes decisions. Prior work in mission control is not required."
+  todo: "If you qualify, the deadline is Monday 12 October; the listing is on usajobs.gov. Everyone else can note how NASA describes the job: integration and risk management, not heroics."
 ---
 
 NASA is seeking leaders for one of the most esteemed positions on Earth for human spaceflight: flight director in mission control at the agency’s Johnson Space Center in Houston. This role is critical to advancing American leadership in space exploration, as NASA paves the way for a sustained human presence on the Moon.

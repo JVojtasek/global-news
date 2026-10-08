@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/07/digital-hopes-real-power-from-connection-to-collective-action/
+impact:
+  areas: [life, safety]
+  line: "Most readers' everyday internet use does not change. The point that travels: activists in West Asia and North Africa now treat dependence on a few foreign cloud and platform providers as a risk, because removed accounts can erase an organisation's records."
+  todo: "If a club, school or small organisation keeps its archive on one platform, check whether you hold an export or backup somewhere you control."
 ---
 
 Understanding how the digital rights movement evolved requires a closer look at the communities that shaped it

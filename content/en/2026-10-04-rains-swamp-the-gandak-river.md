@@ -24,6 +24,10 @@ syndicated:
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/
+impact:
+  areas: [safety, life]
+  line: "For people along the Gandak in Nepal and Bihar, late-monsoon rain breached embankments and displaced thousands. Elsewhere nothing changes day to day; the useful lesson is that free satellite images now show such floods within days."
+  todo: "To see a flood for yourself, NASA's free Worldview and GPM IMERG viewers show recent rainfall and satellite images; for local danger, follow the national hydrology or disaster agency."
 ---
 
 - Science

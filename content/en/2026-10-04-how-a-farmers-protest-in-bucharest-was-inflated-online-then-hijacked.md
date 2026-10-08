@@ -25,6 +25,10 @@ syndicated:
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/03/how-a-farmers-protest-in-bucharest-was-inflated-online-then-hijacked/
+impact:
+  areas: [life]
+  line: "Daily life outside Romania does not change. What carries over is the pattern: a real grievance can be inflated online within minutes by dozens of pages posting the same text, here promising almost 200,000 farmers when over 3,000 came."
+  todo: "When a post predicts a huge turnout, search a distinctive phrase from it. If many pages published it word for word within minutes, treat the number as unverified."
 ---
 
 A real economic grievance became fuel for pre-existing anti-system narratives in Romania
