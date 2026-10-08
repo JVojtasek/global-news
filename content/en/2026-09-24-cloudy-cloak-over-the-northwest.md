@@ -21,6 +21,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "This changes nothing for most readers. It is a clear example of a temperature inversion: cool, moist air trapped under warmer air, which is how coastal fog and low marine cloud form."
+  todo: "Where marine fog is common, the national weather service's local forecast discussion usually explains when an inversion is expected to form or break."
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/

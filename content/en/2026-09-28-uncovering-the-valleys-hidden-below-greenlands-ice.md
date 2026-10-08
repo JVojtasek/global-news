@@ -21,6 +21,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers; what matters is that a better map of the rock under Greenland's ice should sharpen projections of where its ice will flow faster as it retreats."
+  todo: "The study is Chartrand et al. (2026) in Geophysical Research Letters; watch for the next release of BedMachine Greenland, the terrain dataset it aims to improve."
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/
