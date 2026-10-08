@@ -128,7 +128,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Hallucination (artificial intelligence) — <https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)>
 
 ---
 
@@ -155,7 +155,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-14  (4 zdrojů, síla 68)  Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies
   2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
   2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
@@ -175,6 +174,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia
   2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
   2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
+  2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says

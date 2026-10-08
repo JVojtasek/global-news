@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-08
 
-Paměť obsahuje **133 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **133 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 60 dní · 60 záznamů
 - časová osa:
-  - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
   - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
@@ -19,6 +18,7 @@ Paměť obsahuje **133 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-07** (3 zdrojů) Trump to speak to Putin about plague lab worker's death in Russia
   - **2026-10-08** (2 zdrojů) South Korea threatens legal action if fuel shipments to Russia found to have broken law
   - **2026-10-08** (2 zdrojů) Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
+  - **2026-10-08** (3 zdrojů) South Korea recalls Ukraine envoy over prisoner-of-war row
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů

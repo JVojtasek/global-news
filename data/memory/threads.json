@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "gulf",
-    "yemen",
-    "houthi",
-    "strait",
-    "middle",
-    "ukraine",
     "russia",
-    "trump",
-    "indycar",
-    "macron",
-    "kuwait",
-    "donald",
-    "tuesday",
-    "modi",
-    "jong",
-    "korea",
-    "north",
-    "luckin",
-    "iran",
-    "d-day",
-    "lightning",
-    "taiz",
-    "french",
-    "persian",
-    "putin",
-    "groundhog",
-    "mideast",
-    "marib",
-    "brics",
-    "coffee",
-    "briton",
     "saudis",
-    "south",
-    "centcom",
-    "danger",
-    "iran's",
-    "lyon",
-    "times",
+    "indycar",
+    "brics",
+    "yemen",
+    "macron",
+    "north",
+    "marib",
     "araghchi",
-    "east"
+    "strait",
+    "taiz",
+    "middle",
+    "korea",
+    "tuesday",
+    "lightning",
+    "french",
+    "putin",
+    "briton",
+    "iran's",
+    "persian",
+    "donald",
+    "mideast",
+    "lyon",
+    "d-day",
+    "coffee",
+    "south",
+    "east",
+    "times",
+    "centcom",
+    "luckin",
+    "groundhog",
+    "houthi",
+    "iran",
+    "trump",
+    "kuwait",
+    "ukraine",
+    "gulf",
+    "jong",
+    "modi",
+    "danger"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -155,22 +155,12 @@
     "f8c68a4c7b7a",
     "3f34a122d1cc",
     "591b46c8fe7d",
-    "5a0b5a4a6229"
+    "5a0b5a4a6229",
+    "3d9a359c4b06"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-08",
    "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Is Scott Bessent the Fed chair Donald Trump always wanted?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "5746dd2a7a4f",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/23/is-scott-bessent-the-fed-chair-donald-trump-always-wanted",
-      "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller"
-     ]
-    },
     {
      "date": "2026-08-25",
      "headline": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
@@ -839,6 +829,18 @@
      "links": [
       "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
       "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+     "sources": 3,
+     "score": 59,
+     "event_id": "3d9a359c4b06",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+      "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon"
      ]
     }
    ]
@@ -2811,6 +2813,130 @@
    ]
   },
   {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "entities": [
+    "carson",
+    "wins",
+    "handedness",
+    "develop",
+    "prize",
+    "massive",
+    "nobel",
+    "cosmic",
+    "ice-embedded",
+    "safer",
+    "anne",
+    "ghostly",
+    "method",
+    "mystery",
+    "observatory",
+    "nerve",
+    "particles",
+    "drugmakers",
+    "cells",
+    "bold",
+    "medications",
+    "light",
+    "physicist",
+    "unravel",
+    "brain's",
+    "mysteries",
+    "canadian",
+    "developing",
+    "chemists",
+    "helping",
+    "medicine",
+    "scientists",
+    "detects",
+    "literature",
+    "trio",
+    "turn",
+    "molecular",
+    "unraveling"
+   ],
+   "event_ids": [
+    "dc7779782bf4",
+    "3c668b658642",
+    "b24f98ed0c74",
+    "be3ec8462606",
+    "d5cbc62e7cce",
+    "b68c227f1559"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-08",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Nobel Prize awarded for showing inner workings of the brain",
+     "sources": 7,
+     "score": 86,
+     "event_id": "dc7779782bf4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03091-2"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
+     "sources": 3,
+     "score": 53,
+     "event_id": "3c668b658642",
+     "links": [
+      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
+      "https://www.nobelprize.org/prizes/physics/2026/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b24f98ed0c74",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
+      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
+     "sources": 1,
+     "score": 43,
+     "event_id": "be3ec8462606",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Two Chemists Win Nobel Prize for Unraveling a Mystery of Molecular 'Handedness,' Helping Drugmakers Develop Safer Medications",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d5cbc62e7cce",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-chemists-win-nobel-prize-for-unraveling-a-mystery-of-molecular-handedness-helping-drugmakers-develop-safer-medications-180989643/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+     "sources": 4,
+     "score": 65,
+     "event_id": "b68c227f1559",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
    "id": "a5be263cd516",
    "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
    "section": "science",
@@ -2851,6 +2977,46 @@
       "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "16c67f2bd64e",
+   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+   "section": "world",
+   "entities": [
+    "russian",
+    "ukraine"
+   ],
+   "event_ids": [
+    "16c67f2bd64e",
+    "9bdb34782c42"
+   ],
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-08",
+   "timeline": [
+    {
+     "date": "2026-10-08",
+     "headline": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+     "sources": 5,
+     "score": 80,
+     "event_id": "16c67f2bd64e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9bdb34782c42",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
      ]
     }
    ]
@@ -4227,113 +4393,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing inner workings of the brain",
-   "section": "world",
-   "entities": [
-    "literature",
-    "developing",
-    "nobel",
-    "nerve",
-    "observatory",
-    "medicine",
-    "drugmakers",
-    "wins",
-    "brain's",
-    "turn",
-    "medications",
-    "method",
-    "trio",
-    "develop",
-    "mysteries",
-    "chemists",
-    "light",
-    "handedness",
-    "ghostly",
-    "prize",
-    "physicist",
-    "molecular",
-    "unraveling",
-    "mystery",
-    "cosmic",
-    "ice-embedded",
-    "detects",
-    "particles",
-    "massive",
-    "cells",
-    "safer",
-    "scientists",
-    "helping",
-    "unravel"
-   ],
-   "event_ids": [
-    "dc7779782bf4",
-    "3c668b658642",
-    "b24f98ed0c74",
-    "be3ec8462606",
-    "d5cbc62e7cce"
-   ],
-   "first_seen": "2026-10-05",
-   "last_seen": "2026-10-07",
-   "timeline": [
-    {
-     "date": "2026-10-05",
-     "headline": "Nobel Prize awarded for showing inner workings of the brain",
-     "sources": 7,
-     "score": 86,
-     "event_id": "dc7779782bf4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.nature.com/articles/d41586-026-03091-2"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
-     "sources": 3,
-     "score": 53,
-     "event_id": "3c668b658642",
-     "links": [
-      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
-      "https://www.nobelprize.org/prizes/physics/2026/"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b24f98ed0c74",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
-      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
-     "sources": 1,
-     "score": 43,
-     "event_id": "be3ec8462606",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Two Chemists Win Nobel Prize for Unraveling a Mystery of Molecular 'Handedness,' Helping Drugmakers Develop Safer Medications",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d5cbc62e7cce",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/two-chemists-win-nobel-prize-for-unraveling-a-mystery-of-molecular-handedness-helping-drugmakers-develop-safer-medications-180989643/"
      ]
     }
    ]
@@ -14055,5 +14114,5 @@
    ]
   }
  ],
- "updated": "2026-10-08T09:33:58+00:00"
+ "updated": "2026-10-08T12:41:34+00:00"
 }
