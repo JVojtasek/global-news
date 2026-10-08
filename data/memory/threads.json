@@ -5,46 +5,46 @@
    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
    "section": "science",
    "entities": [
-    "moon",
-    "contract",
-    "boosts",
-    "gamma-ray",
-    "flights",
-    "arrival",
-    "test",
-    "awards",
-    "highest",
-    "send",
-    "three",
-    "award",
-    "event",
-    "muscle",
-    "crew",
-    "starburst",
-    "origin",
-    "spacex",
-    "ambitious",
-    "next-gen",
-    "google",
-    "station",
-    "data",
-    "whether",
     "sharing",
-    "president",
-    "launch",
-    "ribbon-cutting",
-    "photo",
-    "deep",
-    "adds",
-    "centers",
-    "accords",
+    "splashdown",
+    "event",
+    "whether",
+    "station",
+    "satellite",
+    "return",
     "sets",
-    "science",
-    "annotations",
+    "three",
+    "google",
+    "test",
+    "gamma-ray",
+    "stream",
+    "president",
+    "adds",
+    "flights",
+    "muscle",
+    "next-gen",
+    "deep",
     "dish",
-    "nasa",
+    "award",
+    "moon",
+    "accords",
+    "photo",
+    "launch",
+    "science",
+    "highest",
+    "crew-",
+    "awards",
+    "centers",
+    "spacex",
+    "ribbon-cutting",
     "services",
-    "satellite"
+    "annotations",
+    "arrival",
+    "send",
+    "starburst",
+    "data",
+    "origin",
+    "boosts"
    ],
    "event_ids": [
     "117b4062144e",
@@ -57,7 +57,8 @@
     "a2c974f2ab73",
     "af69ac084ec6",
     "2dc282f1df7a",
-    "2d1ff4fb2acc"
+    "2d1ff4fb2acc",
+    "f33a490284d9"
    ],
    "first_seen": "2026-08-29",
    "last_seen": "2026-10-08",
@@ -184,6 +185,17 @@
      "links": [
       "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
       "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "sources": 1,
+     "score": 43,
+     "event_id": "f33a490284d9",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
      ]
     }
    ]
@@ -13945,5 +13957,5 @@
    ]
   }
  ],
- "updated": "2026-10-08T01:06:10+00:00"
+ "updated": "2026-10-08T03:35:55+00:00"
 }
