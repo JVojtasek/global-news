@@ -9,7 +9,6 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 60 dní · 60 záznamů
 - časová osa:
-  - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
@@ -19,6 +18,7 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-08** (2 zdrojů) South Korea threatens legal action if fuel shipments to Russia found to have broken law
   - **2026-10-08** (2 zdrojů) Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   - **2026-10-08** (3 zdrojů) South Korea recalls Ukraine envoy over prisoner-of-war row
+  - **2026-10-08** (2 zdrojů) South Korea warns of AI-aided hacking after bank data breaches
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
@@ -65,9 +65,8 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 53 dní · 52 záznamů
+- rubrika `world` · sledováno 56 dní · 53 záznamů
 - časová osa:
-  - **2026-09-21** (2 zdrojů) Trump to meet Macron in New York before UN General Assembly
   - **2026-09-21** (2 zdrojů) Burnham hails Greenland deal ahead of expected first Trump meeting
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
@@ -77,6 +76,7 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
   - **2026-10-05** (1 zdrojů) Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
+  - **2026-10-08** (2 zdrojů) Germany news: UK's Burnham visits Berlin for talks with Merz
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 54 dní · 45 záznamů

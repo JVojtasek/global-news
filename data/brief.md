@@ -9,35 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Nobel Prize awarded for showing inner workings of the brain
-- id události: `dc7779782bf4`  ·  rubrika: `world`  ·  skóre: 86  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Nobel Prize awarded for showing inner workings of the brain
-    <https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss>
-    > US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.
-  - **BBC Health** — Nobel Prize awarded for showing inner workings of the brain
-    <https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss>
-    > US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.
-  - **Nature News** — Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates
-    <https://www.nature.com/articles/d41586-026-03091-2>
-    > Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2 Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.
-  - **NPR News** — Nobel medicine prize goes to 3 scientists for research into brain activity
-    <https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize>
-    > The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.
-  - **The Guardian World** — Nobel prize in medicine 2026 awarded for research into mysteries of brain
-    <https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner>
-    > Three scientists to share 12m Swedish kronor prize for their work on ‘light-gated ion channels and optogenetics’ The Nobel prize in physiology or medicine 2026 has been awarded to three scientists for their work on investigating the mysteries of the brain. Karl Deisseroth of both
-  - **DW News** — German and US scientists win Nobel Prize in medicine for research on brain activity
-    <https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-rdf>
-    > Karl Deisseroth, Peter Hegemann and Georg Nagel won the award for discoveries that provide new insights into how we might treat blindness, depression, addiction and dementia.
-  - **France 24** — 🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel
-    <https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel>
-  - **France 24** — Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel
-    <https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel>
-    > The Nobel Prize in Medicine was awarded Monday to Karl Deisseroth, Peter Hegemann and Georg Nagel for their research into light-gated ion channels and optogenetics. The prize money this year is 12 million Swedish kronor (about $1.2 million).
-
-### 2. Paramount takes over Warner Bros in $110bn Hollywood merger
+### 1. Paramount takes over Warner Bros in $110bn Hollywood merger
 - id události: `687dc7f5c988`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -66,7 +38,7 @@
     <https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed>
     > Paramount has completed its $110 billion acquisition of Warner Bros. Discovery, forming a combined company known as Skydance. The merger officially puts Paramount and WBD's film studios, along with major networks and brands like HBO, CBS News, and CNN, under one roof. The road to
 
-### 3. 'Ghost particles' from space telescope wins physics Nobel
+### 2. 'Ghost particles' from space telescope wins physics Nobel
 - id události: `ca61885fb78b`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -94,7 +66,7 @@
     <https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research>
     > Scientist Francis Halzen won the 2026 Nobel Prize in Physics for work on subatomic particles at the South Pole, the Royal Swedish Academy of Sciences in Stockholm announced on Tuesday.
 
-### 4. Chemistry Nobel awarded for solving mystery of life's asymmetry
+### 3. Chemistry Nobel awarded for solving mystery of life's asymmetry
 - id události: `2b4add7b07af`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -119,6 +91,26 @@
     <https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai>
     > Henri Kagan and Kenso Soai were jointly awarded the Nobel Prize in Chemistry for solving a 100-year-old chemical mystery, the Royal Swedish Academy of Sciences said on Wednesday. Nobel Prize recipients receive a prize of 12 million Swedish kronor (about $1.2 million).
 
+### 4. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
+- id události: `16c67f2bd64e`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
+    <https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss>
+    > Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.
+  - **The Guardian World** — Russian attack on bus kills at least 30 people near Ukraine frontline
+    <https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk>
+    > Governor says Kremlin ‘deliberately targeting civilians’ after strike in Kramatorsk, which also wounded 18 and set second bus on fire Europe live – latest updates A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials said on 
+  - **DW News** — Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk
+    <https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf>
+    > Authorities in the eastern Ukrainian city of Kramatorsk have suspended public transport following the deadly attack near the front line.
+  - **Al Jazeera** — Russian attack on buses in Ukraine’s Kramatorsk kills at least 33 people
+    <https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss>
+    > Eighteen people were wounded in strike on the city in eastern Donetsk region, local authorities say.
+  - **France 24** — Dozens killed in Russian strike on buses in Ukraine's Kramatorsk as Kyiv targets data centre
+    <https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre>
+    > At least 30 people were killed in a Russian strike on two buses in the Ukrainian city of Kramatorsk in the eastern Donetsk region on Thursday. Earlier, a drone hit a data centre belonging to Russian technology company Yandex, causing a fire.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -128,7 +120,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Hallucination (artificial intelligence) — <https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
 
 ---
 
@@ -155,7 +147,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-14  (2 zdrojů, síla 43)  Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
   2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
   2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
   2026-09-26  (2 zdrojů, síla 47)  Iran offers US deal to reopen Strait of Hormuz in seven days
@@ -175,6 +166,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
   2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
+  2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
