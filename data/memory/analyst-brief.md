@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-08
 
-Paměť obsahuje **132 vláken**. Aktivních za posledních 14 dní: **42**.
+Paměť obsahuje **133 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **132 vláken**. Aktivních za posledních 14 dní: **42**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 60 dní · 60 záznamů
 - časová osa:
-  - **2026-09-27** (3 zdrojů) Iran sticks to Hormuz plan after Trump rejects it
   - **2026-09-28** (2 zdrojů) Trump expects Iran talks next week after rejecting seven-day truce proposal
   - **2026-09-28** (2 zdrojů) Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
@@ -19,11 +18,11 @@ Paměť obsahuje **132 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-05** (2 zdrojů) Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
   - **2026-10-07** (3 zdrojů) Trump to speak to Putin about plague lab worker's death in Russia
   - **2026-10-08** (2 zdrojů) South Korea threatens legal action if fuel shipments to Russia found to have broken law
+  - **2026-10-08** (2 zdrojů) Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 59 dní · 60 záznamů
+- rubrika `world` · sledováno 60 dní · 60 záznamů
 - časová osa:
-  - **2026-10-03** (2 zdrojů) Who has 'no ceiling' as Northern Ireland shine in Nations League?
   - **2026-10-03** (2 zdrojů) LIVE: Croatia vs England – UEFA Nations League
   - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
   - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
@@ -33,6 +32,7 @@ Paměť obsahuje **132 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
   - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
   - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 50 dní · 60 záznamů
