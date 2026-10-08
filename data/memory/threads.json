@@ -3737,46 +3737,46 @@
    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
    "section": "science",
    "entities": [
-    "three",
-    "satellite",
-    "photo",
-    "ribbon-cutting",
-    "station",
+    "launch",
+    "next-gen",
+    "highlight",
     "adds",
-    "arrival",
-    "boosts",
-    "send",
+    "services",
+    "three",
     "deep",
-    "sets",
-    "briefing",
     "mission",
+    "crew",
+    "send",
+    "boosts",
+    "arrival",
+    "satellite",
+    "origin",
+    "annotations",
+    "gamma-ray",
+    "sharing",
+    "station",
+    "data",
+    "down",
     "event",
     "splashdown",
-    "science",
-    "origin",
+    "crew-",
+    "moon",
+    "flights",
     "president",
     "stream",
-    "down",
-    "sharing",
-    "discuss",
-    "dish",
     "return",
-    "whether",
-    "centers",
-    "starburst",
-    "crew",
-    "next-gen",
-    "crew-",
-    "annotations",
-    "launch",
-    "gamma-ray",
-    "moon",
-    "nasa",
+    "briefing",
+    "dish",
     "muscle",
-    "flights",
-    "test",
-    "services",
-    "data"
+    "discuss",
+    "starburst",
+    "moons",
+    "sets",
+    "contributions",
+    "photo",
+    "nasa",
+    "ribbon-cutting",
+    "test"
    ],
    "event_ids": [
     "117b4062144e",
@@ -3791,7 +3791,8 @@
     "2dc282f1df7a",
     "2d1ff4fb2acc",
     "f33a490284d9",
-    "f57fd11d1f5b"
+    "f57fd11d1f5b",
+    "b85bd3d3a0d8"
    ],
    "first_seen": "2026-08-29",
    "last_seen": "2026-10-08",
@@ -3940,6 +3941,17 @@
      "links": [
       "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
       "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b85bd3d3a0d8",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
      ]
     }
    ]
@@ -4683,6 +4695,170 @@
    ]
   },
   {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "entities": [
+    "developing",
+    "prize",
+    "ancient",
+    "massive",
+    "mystery",
+    "nerve",
+    "brain's",
+    "mysteries",
+    "light",
+    "physicist",
+    "medications",
+    "medicine",
+    "turn",
+    "drugmakers",
+    "observatory",
+    "unravel",
+    "handedness",
+    "she's",
+    "ghostly",
+    "anne",
+    "unraveling",
+    "modern",
+    "trio",
+    "scientists",
+    "helping",
+    "method",
+    "literature",
+    "cosmic",
+    "poet",
+    "brings",
+    "molecular",
+    "carson",
+    "wisdom",
+    "nobel",
+    "detects",
+    "bold",
+    "particles",
+    "cells",
+    "canadian",
+    "chemists"
+   ],
+   "event_ids": [
+    "dc7779782bf4",
+    "3c668b658642",
+    "b24f98ed0c74",
+    "be3ec8462606",
+    "d5cbc62e7cce",
+    "b68c227f1559",
+    "aa8cf71474ea",
+    "8430a4f7c4dd",
+    "35ab5cab7d55"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-10-08",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Nobel Prize awarded for showing inner workings of the brain",
+     "sources": 7,
+     "score": 86,
+     "event_id": "dc7779782bf4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03091-2"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
+     "sources": 3,
+     "score": 53,
+     "event_id": "3c668b658642",
+     "links": [
+      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
+      "https://www.nobelprize.org/prizes/physics/2026/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b24f98ed0c74",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
+      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
+     "sources": 1,
+     "score": 43,
+     "event_id": "be3ec8462606",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Two Chemists Win Nobel Prize for Unraveling a Mystery of Molecular 'Handedness,' Helping Drugmakers Develop Safer Medications",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d5cbc62e7cce",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-chemists-win-nobel-prize-for-unraveling-a-mystery-of-molecular-handedness-helping-drugmakers-develop-safer-medications-180989643/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+     "sources": 4,
+     "score": 65,
+     "event_id": "b68c227f1559",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Nobel Prize winner Anne Carson: Where to start reading",
+     "sources": 2,
+     "score": 44,
+     "event_id": "aa8cf71474ea",
+     "links": [
+      "https://www.dw.com/en/nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "2026 Nobel Prize winner Anne Carson: Where to start reading",
+     "sources": 3,
+     "score": 59,
+     "event_id": "8430a4f7c4dd",
+     "links": [
+      "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Canadian Poet Anne Carson Brings Ancient Wisdom to Modern Audiences. Now, She's a Nobel Laureate in Literature",
+     "sources": 3,
+     "score": 58,
+     "event_id": "35ab5cab7d55",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/canadian-poet-anne-carson-brings-ancient-wisdom-to-modern-audiences-now-shes-a-nobel-laureate-in-literature-180989655/",
+      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026"
+     ]
+    }
+   ]
+  },
+  {
    "id": "3e261aa2591b",
    "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
    "section": "tech",
@@ -4809,150 +4985,96 @@
    ]
   },
   {
-   "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "id": "cc5e6502b0d5",
+   "title": "Are claims of a white genocide in South Africa real?",
    "section": "world",
    "entities": [
-    "anne",
-    "mystery",
-    "light",
-    "unravel",
-    "developing",
-    "chemists",
-    "handedness",
-    "ice-embedded",
-    "turn",
-    "particles",
-    "mysteries",
-    "physicist",
-    "drugmakers",
-    "medications",
-    "detects",
-    "nobel",
-    "cells",
-    "cosmic",
-    "literature",
-    "brain's",
-    "nerve",
-    "molecular",
-    "bold",
-    "method",
-    "wins",
-    "scientists",
-    "helping",
-    "unraveling",
-    "develop",
-    "safer",
-    "ghostly",
-    "observatory",
-    "canadian",
-    "medicine",
-    "prize",
-    "trio",
-    "carson",
-    "massive"
+    "olympics",
+    "african",
+    "australia",
+    "south",
+    "anti-migrant",
+    "africa",
+    "superb"
    ],
    "event_ids": [
-    "dc7779782bf4",
-    "3c668b658642",
-    "b24f98ed0c74",
-    "be3ec8462606",
-    "d5cbc62e7cce",
-    "b68c227f1559",
-    "aa8cf71474ea",
-    "8430a4f7c4dd"
+    "cc5e6502b0d5",
+    "fa9c2e8e5738",
+    "549b64aa5243",
+    "7b455e92537b",
+    "928a902aa653",
+    "e76bd5378246"
    ],
-   "first_seen": "2026-10-05",
+   "first_seen": "2026-09-27",
    "last_seen": "2026-10-08",
    "timeline": [
     {
-     "date": "2026-10-05",
-     "headline": "Nobel Prize awarded for showing inner workings of the brain",
-     "sources": 7,
-     "score": 86,
-     "event_id": "dc7779782bf4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.nature.com/articles/d41586-026-03091-2"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
+     "date": "2026-09-27",
+     "headline": "Are claims of a white genocide in South Africa real?",
      "sources": 3,
-     "score": 53,
-     "event_id": "3c668b658642",
+     "score": 56,
+     "event_id": "cc5e6502b0d5",
      "links": [
-      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
-      "https://www.nobelprize.org/prizes/physics/2026/"
+      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
      ]
     },
     {
-     "date": "2026-10-06",
-     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b24f98ed0c74",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
-      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
-     "sources": 1,
-     "score": 43,
-     "event_id": "be3ec8462606",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Two Chemists Win Nobel Prize for Unraveling a Mystery of Molecular 'Handedness,' Helping Drugmakers Develop Safer Medications",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d5cbc62e7cce",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/two-chemists-win-nobel-prize-for-unraveling-a-mystery-of-molecular-handedness-helping-drugmakers-develop-safer-medications-180989643/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+     "date": "2026-09-27",
+     "headline": "Two mass shootings in South Africa leave 27 dead",
      "sources": 4,
-     "score": 65,
-     "event_id": "b68c227f1559",
+     "score": 67,
+     "event_id": "fa9c2e8e5738",
      "links": [
-      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-      "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
      ]
     },
     {
-     "date": "2026-10-08",
-     "headline": "Nobel Prize winner Anne Carson: Where to start reading",
+     "date": "2026-09-27",
+     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+     "sources": 2,
+     "score": 49,
+     "event_id": "549b64aa5243",
+     "links": [
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Superb South Africa seal series win over Australia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7b455e92537b",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "South Africa hope to host first African Olympics",
      "sources": 2,
      "score": 44,
-     "event_id": "aa8cf71474ea",
+     "event_id": "928a902aa653",
      "links": [
-      "https://www.dw.com/en/nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature?traffic_source=rss"
+      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
      ]
     },
     {
      "date": "2026-10-08",
-     "headline": "2026 Nobel Prize winner Anne Carson: Where to start reading",
-     "sources": 3,
-     "score": 59,
-     "event_id": "8430a4f7c4dd",
+     "headline": "South Africa: Anti-migrant protests turn violent",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e76bd5378246",
      "links": [
-      "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature"
+      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
      ]
     }
    ]
@@ -5014,16 +5136,17 @@
    "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
    "section": "science",
    "entities": [
-    "apollo",
-    "nasa",
-    "moon",
-    "hamilton",
     "margaret",
-    "moment"
+    "hamilton",
+    "nasa",
+    "apollo",
+    "moment",
+    "moon"
    ],
    "event_ids": [
     "a5be263cd516",
-    "2ac7d1b928a8"
+    "2ac7d1b928a8",
+    "87023935733f"
    ],
    "first_seen": "2026-10-08",
    "last_seen": "2026-10-08",
@@ -5050,6 +5173,17 @@
       "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "sources": 2,
+     "score": 54,
+     "event_id": "87023935733f",
+     "links": [
+      "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "https://www.smithsonianmag.com/smart-news/margaret-hamilton-a-pioneering-software-engineer-who-made-the-first-human-moon-landing-possible-dies-at-90-180989653/"
      ]
     }
    ]
@@ -6027,88 +6161,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cc5e6502b0d5",
-   "title": "Are claims of a white genocide in South Africa real?",
-   "section": "world",
-   "entities": [
-    "south",
-    "olympics",
-    "australia",
-    "africa",
-    "superb",
-    "african"
-   ],
-   "event_ids": [
-    "cc5e6502b0d5",
-    "fa9c2e8e5738",
-    "549b64aa5243",
-    "7b455e92537b",
-    "928a902aa653"
-   ],
-   "first_seen": "2026-09-27",
-   "last_seen": "2026-10-06",
-   "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Are claims of a white genocide in South Africa real?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "cc5e6502b0d5",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Two mass shootings in South Africa leave 27 dead",
-     "sources": 4,
-     "score": 67,
-     "event_id": "fa9c2e8e5738",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-     "sources": 2,
-     "score": 49,
-     "event_id": "549b64aa5243",
-     "links": [
-      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Superb South Africa seal series win over Australia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7b455e92537b",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "South Africa hope to host first African Olympics",
-     "sources": 2,
-     "score": 44,
-     "event_id": "928a902aa653",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
      ]
     }
    ]
@@ -14228,5 +14280,5 @@
    ]
   }
  ],
- "updated": "2026-10-08T18:34:36+00:00"
+ "updated": "2026-10-08T21:27:27+00:00"
 }
