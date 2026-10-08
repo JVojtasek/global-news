@@ -1,14 +1,16 @@
 ---
 slug: seeing-through-clouds-floods-and-ice
-title: "Seeing Through Clouds, Floods and Three Kilometres of Ice"
-dek: "Four satellite stories we ran in the past three weeks share one quiet lesson: almost nothing in them was seen directly. Here is how the tricks work, and where they stop."
+title: Seeing Through Clouds, Floods and Three Kilometres of Ice
+dek: 'Four satellite stories we ran in the past three weeks share one quiet lesson:
+  almost nothing in them was seen directly. Here is how the tricks work, and where
+  they stop.'
 section: science
 type: analysis
 depth: open
 lang: en
-date: 2026-10-08
-status: draft
-confidence: 84
+date: '2026-10-08'
+status: published
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
@@ -16,32 +18,39 @@ edition_slot: 4
 automation_role: edition
 generator: claude-code
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "satellite view arctic sea ice"
+event_id: ''
+series: ''
+image_query: satellite view arctic sea ice
 sources:
-  - name: "NASA Earth Observatory — Arctic Sea Ice Shrinks to Its 2026 Minimum"
-    url: "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
-  - name: "NASA Earth Observatory — Uncovering the Valleys Hidden Below Greenland's Ice"
-    url: "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/"
-  - name: "NASA Earth Observatory — Rains Swamp the Gandak River"
-    url: "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/"
-  - name: "NASA Earth Observatory — Cloudy Cloak Over the Northwest"
-    url: "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/"
-qma_path: ""
+- name: NASA Earth Observatory — Arctic Sea Ice Shrinks to Its 2026 Minimum
+  url: https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/
+- name: NASA Earth Observatory — Uncovering the Valleys Hidden Below Greenland's Ice
+  url: https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/
+- name: NASA Earth Observatory — Rains Swamp the Gandak River
+  url: https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/
+- name: NASA Earth Observatory — Cloudy Cloak Over the Northwest
+  url: https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/
+qma_path: ''
 tickers: []
 impact:
-  areas: [life]
-  line: "Day to day this changes nothing for most readers. What changes is how to read the next satellite picture of a flood or melting ice: colours are often chosen, and some headline numbers rest on stated assumptions."
-  todo: "Next time a satellite image leads a news story, look in the caption for two things: which instrument took it, and whether the colours are true or false."
+  areas:
+  - life
+  line: 'Day to day this changes nothing for most readers. What changes is how to
+    read the next satellite picture of a flood or melting ice: colours are often chosen,
+    and some headline numbers rest on stated assumptions.'
+  todo: 'Next time a satellite image leads a news story, look in the caption for two
+    things: which instrument took it, and whether the colours are true or false.'
 quiz:
-  question: "Why can the satellites that measure Arctic sea ice keep watching on cloudy days?"
+  question: Why can the satellites that measure Arctic sea ice keep watching on cloudy
+    days?
   options:
-    - "Their sensors read microwave energy, which passes through clouds"
-    - "They fly below the cloud layer"
-    - "They only measure on clear days and fill the gaps by estimate"
+  - Their sensors read microwave energy, which passes through clouds
+  - They fly below the cloud layer
+  - They only measure on clear days and fill the gaps by estimate
   answer: 0
-  explanation: "Passive microwave sensors measure the microwave energy Earth naturally emits. Sea ice emits more of it than open water, and microwaves pass through clouds, so the record continues whatever the weather."
+  explanation: Passive microwave sensors measure the microwave energy Earth naturally
+    emits. Sea ice emits more of it than open water, and microwaves pass through clouds,
+    so the record continues whatever the weather.
 ---
 
 ## BRIEFLY
