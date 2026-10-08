@@ -1,6 +1,329 @@
 {
  "threads": [
   {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "moon",
+    "contract",
+    "boosts",
+    "gamma-ray",
+    "flights",
+    "arrival",
+    "test",
+    "awards",
+    "highest",
+    "send",
+    "three",
+    "award",
+    "event",
+    "muscle",
+    "crew",
+    "starburst",
+    "origin",
+    "spacex",
+    "ambitious",
+    "next-gen",
+    "google",
+    "station",
+    "data",
+    "whether",
+    "sharing",
+    "president",
+    "launch",
+    "ribbon-cutting",
+    "photo",
+    "deep",
+    "adds",
+    "centers",
+    "accords",
+    "sets",
+    "science",
+    "annotations",
+    "dish",
+    "nasa",
+    "services",
+    "satellite"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6",
+    "2dc282f1df7a",
+    "2d1ff4fb2acc"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-10-08",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Artemis II Crew Moon Photo Annotations",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2dc282f1df7a",
+     "links": [
+      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "https://www.nature.com/articles/d41586-026-03197-7",
+      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2d1ff4fb2acc",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d92458626c90",
+   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+   "section": "world",
+   "entities": [
+    "voting",
+    "polls",
+    "bolsonaro",
+    "lula",
+    "thousands",
+    "brazil",
+    "brazil's"
+   ],
+   "event_ids": [
+    "d92458626c90",
+    "815bb45801bb",
+    "9d43071b47fc",
+    "85ac007f42df",
+    "a52a65200ba2",
+    "f9c2830a1de0",
+    "e1556ad0fb1c",
+    "4c4ca491ca92",
+    "a4565fbd5c2a"
+   ],
+   "first_seen": "2026-10-04",
+   "last_seen": "2026-10-08",
+   "timeline": [
+    {
+     "date": "2026-10-04",
+     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+     "sources": 3,
+     "score": 65,
+     "event_id": "d92458626c90",
+     "links": [
+      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
+      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
+     "sources": 2,
+     "score": 46,
+     "event_id": "815bb45801bb",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
+      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
+      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9d43071b47fc",
+     "links": [
+      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+     "sources": 3,
+     "score": 57,
+     "event_id": "85ac007f42df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil election: Bolsonaro and Lula head to runoff",
+     "sources": 4,
+     "score": 71,
+     "event_id": "a52a65200ba2",
+     "links": [
+      "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f9c2830a1de0",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
+     "sources": 1,
+     "score": 45,
+     "event_id": "e1556ad0fb1c",
+     "links": [
+      "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
+      "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
+      "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
+     "sources": 3,
+     "score": 54,
+     "event_id": "4c4ca491ca92",
+     "links": [
+      "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
+      "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Brazil: Thousands of students march against Bolsonaro",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a4565fbd5c2a",
+     "links": [
+      "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil"
+     ]
+    }
+   ]
+  },
+  {
    "id": "6e0f12b732f6",
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
@@ -5694,127 +6017,6 @@
    ]
   },
   {
-   "id": "d92458626c90",
-   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-   "section": "world",
-   "entities": [
-    "polls",
-    "brazil",
-    "lula",
-    "brazil's",
-    "voting",
-    "bolsonaro"
-   ],
-   "event_ids": [
-    "d92458626c90",
-    "815bb45801bb",
-    "9d43071b47fc",
-    "85ac007f42df",
-    "a52a65200ba2",
-    "f9c2830a1de0",
-    "e1556ad0fb1c",
-    "4c4ca491ca92"
-   ],
-   "first_seen": "2026-10-04",
-   "last_seen": "2026-10-05",
-   "timeline": [
-    {
-     "date": "2026-10-04",
-     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-     "sources": 3,
-     "score": 65,
-     "event_id": "d92458626c90",
-     "links": [
-      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
-     "sources": 2,
-     "score": 46,
-     "event_id": "815bb45801bb",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
-      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
-      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9d43071b47fc",
-     "links": [
-      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-     "sources": 3,
-     "score": 57,
-     "event_id": "85ac007f42df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil election: Bolsonaro and Lula head to runoff",
-     "sources": 4,
-     "score": 71,
-     "event_id": "a52a65200ba2",
-     "links": [
-      "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
-      "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f9c2830a1de0",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
-     "sources": 1,
-     "score": 45,
-     "event_id": "e1556ad0fb1c",
-     "links": [
-      "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
-      "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
-      "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
-     "sources": 3,
-     "score": 54,
-     "event_id": "4c4ca491ca92",
-     "links": [
-      "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
-      "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "93c2b86a72e8",
    "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
    "section": "world",
@@ -7266,169 +7468,6 @@
       "https://www.dw.com/en/trump-macron-confirm-europe-will-release-diesel-stockpiles-after-us-requests/a-79522810?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "dish",
-    "space",
-    "next-gen",
-    "sharing",
-    "ambitious",
-    "event",
-    "highest",
-    "open",
-    "muscle",
-    "science",
-    "awards",
-    "experimental",
-    "test",
-    "ribbon-cutting",
-    "data",
-    "launch",
-    "google",
-    "starburst",
-    "send",
-    "centers",
-    "award",
-    "gamma-ray",
-    "network",
-    "flights",
-    "moon",
-    "boosts",
-    "satellite",
-    "adds",
-    "honors",
-    "deep",
-    "origin",
-    "whether",
-    "contract",
-    "base",
-    "crew",
-    "president",
-    "nasa",
-    "three",
-    "accords",
-    "services"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73",
-    "af69ac084ec6"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-10-02",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
-     "sources": 1,
-     "score": 44,
-     "event_id": "af69ac084ec6",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
      ]
     }
    ]
@@ -13906,5 +13945,5 @@
    ]
   }
  ],
- "updated": "2026-10-07T21:27:24+00:00"
+ "updated": "2026-10-08T01:06:10+00:00"
 }
