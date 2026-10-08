@@ -35,9 +35,8 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 50 dní · 60 záznamů
+- rubrika `sport` · sledováno 51 dní · 60 záznamů
 - časová osa:
-  - **2026-09-30** (2 zdrojů) 'Business as usual' for Man City Women despite Premier League guilty verdicts
   - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
   - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
   - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
@@ -47,6 +46,7 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
   - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
   - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
+  - **2026-10-08** (2 zdrojů) Glasner urges quick end to Manchester City saga and fears damage to Premier League
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů
