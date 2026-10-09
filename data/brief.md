@@ -63,7 +63,33 @@
     <https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai>
     > Henri Kagan and Kenso Soai were jointly awarded the Nobel Prize in Chemistry for solving a 100-year-old chemical mystery, the Royal Swedish Academy of Sciences said on Wednesday. Nobel Prize recipients receive a prize of 12 million Swedish kronor (about $1.2 million).
 
-### 3. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
+### 3. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+- id události: `2b3762f9568b`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+    <https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss>
+    > Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+  - **BBC Business** — Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+    <https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss>
+    > Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+  - **BBC Business** — Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+    <https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss>
+    > Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+  - **DW News** — Trump, Putin agree on deal to release Russian diesel to US, world markets
+    <https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf>
+    > Russia will supply diesel to global markets in a bid to lower prices, US President Donald Trump has said. The move reverses years of pressure on the Russian economy following the invasion of Ukraine.
+  - **CNBC Top** — Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets
+    <https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html>
+    > President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.
+  - **France 24** — Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war
+    <https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war>
+    > US President Donald Trump said Friday that Russia had agreed to immediately supply more than 300,000 tonnes of diesel to US and global markets in an effort to cut fuel prices before November's midterm elections. The move marks a stunning change of policy after the US and its alli
+  - **Al Jazeera** — Trump announces Russian diesel deal amid soaring US fuel prices
+    <https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss>
+    > Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
+
+### 4. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
 - id události: `16c67f2bd64e`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -83,28 +109,6 @@
     <https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre>
     > At least 30 people were killed in a Russian strike on two buses in the Ukrainian city of Kramatorsk in the eastern Donetsk region on Thursday. Earlier, a drone hit a data centre belonging to Russian technology company Yandex, causing a fire.
 
-### 4. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
-- id události: `d7c7a0654af4`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **The Guardian World** — Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
-    <https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates>
-    > The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...
-  - **DW News** — Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law
-    <https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf>
-    > South African judge Navanethem "Navi" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.
-  - **CNBC Top** — Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay
-    <https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html>
-    > Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
-  - **France 24** — 🔴 South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
-    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
-  - **France 24** — South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
-    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
-    > Former UN human rights chief and International Court of Justice judge Navanethem "Navi" Pillay has won the 2026 Nobel Peace Prize for her contributions to international law, the Nobel jury announced on Friday in Oslo, Norway.
-  - **France 24** — Canadian poet and author Anne Carson wins Nobel Prize in Literature
-    <https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature>
-    > Hailed for her "bold and inventive" work, "in playful dialogue with the classical tradition", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts th
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -112,9 +116,9 @@
 ### why relationships fail
 - rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
@@ -170,7 +174,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-14  (2 zdrojů, síla 48)  Why the Houthi advance towards Yemen’s Marib, Taiz matters
   2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
   2026-09-26  (2 zdrojů, síla 47)  Iran offers US deal to reopen Strait of Hormuz in seven days
   2026-09-26  (2 zdrojů, síla 41)  Trump rejects Iran proposal to reopen Strait of Hormuz
@@ -190,6 +193,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
   2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches
+  2026-10-09  (6 zdrojů, síla 81)  Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
 ```
 
 ---

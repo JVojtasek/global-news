@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-09
 
-Paměť obsahuje **137 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **138 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **137 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-09** (1 zdrojů) Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 60 dní · 60 záznamů
+- rubrika `world` · sledováno 61 dní · 60 záznamů
 - časová osa:
-  - **2026-09-29** (2 zdrojů) Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   - **2026-09-29** (2 zdrojů) Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   - **2026-09-29** (2 zdrojů) Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
   - **2026-10-04** (2 zdrojů) More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
@@ -33,6 +32,7 @@ Paměť obsahuje **137 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-08** (2 zdrojů) Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   - **2026-10-08** (3 zdrojů) South Korea recalls Ukraine envoy over prisoner-of-war row
   - **2026-10-08** (2 zdrojů) South Korea warns of AI-aided hacking after bank data breaches
+  - **2026-10-09** (6 zdrojů) Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
