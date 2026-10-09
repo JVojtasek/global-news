@@ -1293,18 +1293,20 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "dots",
-    "apple",
-    "openai",
-    "elon",
+    "india's",
     "techcrunch",
-    "embiricos",
-    "open",
     "musk",
-    "trump",
+    "starlink",
+    "grokipedia",
     "disrupt",
+    "openai",
+    "embiricos",
+    "elon",
+    "trump",
     "alexander",
-    "grokipedia"
+    "apple",
+    "open",
+    "dots"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -1313,7 +1315,8 @@
     "5afad699a57c",
     "814772bc922c",
     "bc11900335c3",
-    "5f6c0a4a0fa6"
+    "5f6c0a4a0fa6",
+    "1fcf8cc28156"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-09",
@@ -1399,6 +1402,125 @@
      "links": [
       "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
       "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1fcf8cc28156",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cc5e6502b0d5",
+   "title": "Are claims of a white genocide in South Africa real?",
+   "section": "world",
+   "entities": [
+    "africa",
+    "olympics",
+    "african",
+    "superb",
+    "anti-migrant",
+    "australia",
+    "south",
+    "cars"
+   ],
+   "event_ids": [
+    "cc5e6502b0d5",
+    "fa9c2e8e5738",
+    "549b64aa5243",
+    "7b455e92537b",
+    "928a902aa653",
+    "e76bd5378246",
+    "153b71c672c5"
+   ],
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-10-09",
+   "timeline": [
+    {
+     "date": "2026-09-27",
+     "headline": "Are claims of a white genocide in South Africa real?",
+     "sources": 3,
+     "score": 56,
+     "event_id": "cc5e6502b0d5",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Two mass shootings in South Africa leave 27 dead",
+     "sources": 4,
+     "score": 67,
+     "event_id": "fa9c2e8e5738",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+     "sources": 2,
+     "score": 49,
+     "event_id": "549b64aa5243",
+     "links": [
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Superb South Africa seal series win over Australia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7b455e92537b",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "South Africa hope to host first African Olympics",
+     "sources": 2,
+     "score": 44,
+     "event_id": "928a902aa653",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "South Africa: Anti-migrant protests turn violent",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e76bd5378246",
+     "links": [
+      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+     "sources": 2,
+     "score": 46,
+     "event_id": "153b71c672c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates"
      ]
     }
    ]
@@ -5260,101 +5382,6 @@
       "https://www.smithsonianmag.com/smart-news/canadian-poet-anne-carson-brings-ancient-wisdom-to-modern-audiences-now-shes-a-nobel-laureate-in-literature-180989655/",
       "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
       "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cc5e6502b0d5",
-   "title": "Are claims of a white genocide in South Africa real?",
-   "section": "world",
-   "entities": [
-    "olympics",
-    "african",
-    "australia",
-    "south",
-    "anti-migrant",
-    "africa",
-    "superb"
-   ],
-   "event_ids": [
-    "cc5e6502b0d5",
-    "fa9c2e8e5738",
-    "549b64aa5243",
-    "7b455e92537b",
-    "928a902aa653",
-    "e76bd5378246"
-   ],
-   "first_seen": "2026-09-27",
-   "last_seen": "2026-10-08",
-   "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Are claims of a white genocide in South Africa real?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "cc5e6502b0d5",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Two mass shootings in South Africa leave 27 dead",
-     "sources": 4,
-     "score": 67,
-     "event_id": "fa9c2e8e5738",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-     "sources": 2,
-     "score": 49,
-     "event_id": "549b64aa5243",
-     "links": [
-      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Superb South Africa seal series win over Australia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7b455e92537b",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "South Africa hope to host first African Olympics",
-     "sources": 2,
-     "score": 44,
-     "event_id": "928a902aa653",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "South Africa: Anti-migrant protests turn violent",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e76bd5378246",
-     "links": [
-      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
      ]
     }
    ]
@@ -14349,5 +14376,5 @@
    ]
   }
  ],
- "updated": "2026-10-09T03:37:08+00:00"
+ "updated": "2026-10-09T06:45:33+00:00"
 }
