@@ -1595,6 +1595,266 @@
    ]
   },
   {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "houthis",
+    "israel-bound",
+    "arabia",
+    "salman",
+    "riyadh",
+    "aden",
+    "yemen's",
+    "somalia",
+    "western",
+    "mecca",
+    "arabia's",
+    "yemen",
+    "houthi",
+    "king",
+    "saudi",
+    "three",
+    "turkey",
+    "york",
+    "saudi-backed",
+    "president",
+    "pakistan",
+    "yemeni"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace",
+    "86a5852bfef5",
+    "d4796b695f31",
+    "5308710e525c",
+    "180951c60255",
+    "9e9d8d1bd79d",
+    "44a648a1bb6f",
+    "d5228024545e",
+    "7f3db7dc3a67",
+    "8e64cbab11b6",
+    "3fd55062614f",
+    "b958bdde2297",
+    "b44b08189279",
+    "8ac4f979d690",
+    "f17ae9a73257",
+    "96e0059faecd",
+    "5808d99edbb7"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-10-09",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d16d38017cfe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "sources": 3,
+     "score": 54,
+     "event_id": "b203d9b44ace",
+     "links": [
+      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+     "sources": 3,
+     "score": 62,
+     "event_id": "86a5852bfef5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5308710e525c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+     "sources": 3,
+     "score": 56,
+     "event_id": "180951c60255",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e9d8d1bd79d",
+     "links": [
+      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "44a648a1bb6f",
+     "links": [
+      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
+      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d5228024545e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
+     "sources": 2,
+     "score": 53,
+     "event_id": "7f3db7dc3a67",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8e64cbab11b6",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+     "sources": 3,
+     "score": 52,
+     "event_id": "3fd55062614f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
+     "sources": 2,
+     "score": 41,
+     "event_id": "b958bdde2297",
+     "links": [
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
+      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b44b08189279",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+     "sources": 1,
+     "score": 42,
+     "event_id": "8ac4f979d690",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+     "sources": 2,
+     "score": 50,
+     "event_id": "f17ae9a73257",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+     "sources": 3,
+     "score": 56,
+     "event_id": "96e0059faecd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
+     "sources": 2,
+     "score": 46,
+     "event_id": "5808d99edbb7",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "7da4e07716c7",
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
@@ -1776,6 +2036,171 @@
       "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
       "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
       "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ffb6bd91201",
+   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+   "section": "sport",
+   "entities": [
+    "rodri's",
+    "enzo",
+    "perfect",
+    "rodri",
+    "deadlines",
+    "shield",
+    "manchester",
+    "he's",
+    "maresca",
+    "arsenal",
+    "fernandez",
+    "city",
+    "nightmare",
+    "community",
+    "gvardiol",
+    "bournemouth"
+   ],
+   "event_ids": [
+    "9ffb6bd91201",
+    "2fef58e0d72e",
+    "b5cc84461c06",
+    "cb7f47a5868f",
+    "c6aec83a4cd2",
+    "4a7b92cbd9ac",
+    "81646cf59625",
+    "b0c1fdbb2cf5",
+    "38c0310528f5",
+    "83839e21d41a",
+    "77eec3460b44"
+   ],
+   "first_seen": "2026-08-16",
+   "last_seen": "2026-10-09",
+   "timeline": [
+    {
+     "date": "2026-08-16",
+     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9ffb6bd91201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-16",
+     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
+     "sources": 2,
+     "score": 45,
+     "event_id": "2fef58e0d72e",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "'He's the professor' - Rodri's Manchester City journey",
+     "sources": 2,
+     "score": 49,
+     "event_id": "b5cc84461c06",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
+     "sources": 1,
+     "score": 41,
+     "event_id": "cb7f47a5868f",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
+      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City will 'try to find the new Rodri' - Maresca",
+     "sources": 2,
+     "score": 47,
+     "event_id": "c6aec83a4cd2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+     "sources": 2,
+     "score": 59,
+     "event_id": "4a7b92cbd9ac",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+      "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Man City 'completely deserved to win' - Maresca",
+     "sources": 2,
+     "score": 41,
+     "event_id": "81646cf59625",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+     "sources": 3,
+     "score": 56,
+     "event_id": "b0c1fdbb2cf5",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
+      "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Maresca criticises focus on controversial Manchester derby winner",
+     "sources": 2,
+     "score": 42,
+     "event_id": "38c0310528f5",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
+     "sources": 2,
+     "score": 43,
+     "event_id": "83839e21d41a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/20/enzo-maresca-manchester-city-sunderland-premier-league"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Man City titles 'absolutely not' tainted - Maresca",
+     "sources": 3,
+     "score": 65,
+     "event_id": "77eec3460b44",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/oct/09/maresca-refuses-to-confirm-he-will-stay-at-manchester-city-if-club-lose-appeal",
+      "https://www.aljazeera.com/sports/2026/10/9/manchester-city-charges-maresca-says-premier-league-club-will-win-appeal?traffic_source=rss"
      ]
     }
    ]
@@ -2255,14 +2680,15 @@
    "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
    "section": "world",
    "entities": [
-    "hood",
-    "pentagon",
     "world",
-    "fort"
+    "fort",
+    "pentagon",
+    "hood"
    ],
    "event_ids": [
     "26e8279a5a1f",
-    "7343e10e8dea"
+    "7343e10e8dea",
+    "176646be8a87"
    ],
    "first_seen": "2026-10-06",
    "last_seen": "2026-10-09",
@@ -2290,6 +2716,18 @@
       "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+     "sources": 2,
+     "score": 51,
+     "event_id": "176646be8a87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261009-us-to-livestream-army-execution-of-fort-hood-shooter-pentagon-official-says",
+      "https://www.france24.com/en/tv-shows/press-review/20261009-hegseth-says-fort-hood-shooter-s-military-execution-will-be-livestreamed"
+     ]
     }
    ]
   },
@@ -2299,11 +2737,12 @@
    "section": "world",
    "entities": [
     "nobel",
-    "navi",
-    "pillay"
+    "pillay",
+    "navi"
    ],
    "event_ids": [
-    "d7c7a0654af4"
+    "d7c7a0654af4",
+    "1f36d06a3b96"
    ],
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
@@ -2318,6 +2757,18 @@
       "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
       "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+     "sources": 3,
+     "score": 72,
+     "event_id": "1f36d06a3b96",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
      ]
     }
    ]
@@ -4684,238 +5135,6 @@
      "links": [
       "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "section": "world",
-   "entities": [
-    "mecca",
-    "york",
-    "israel-bound",
-    "western",
-    "yemen",
-    "arabia",
-    "arabia's",
-    "houthi",
-    "yemeni",
-    "saudi-backed",
-    "president",
-    "pakistan",
-    "turkey",
-    "houthis",
-    "three",
-    "king",
-    "saudi",
-    "salman",
-    "somalia"
-   ],
-   "event_ids": [
-    "d16d38017cfe",
-    "b203d9b44ace",
-    "86a5852bfef5",
-    "d4796b695f31",
-    "5308710e525c",
-    "180951c60255",
-    "9e9d8d1bd79d",
-    "44a648a1bb6f",
-    "d5228024545e",
-    "7f3db7dc3a67",
-    "8e64cbab11b6",
-    "3fd55062614f",
-    "b958bdde2297",
-    "b44b08189279",
-    "8ac4f979d690",
-    "f17ae9a73257"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-10-08",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-     "sources": 3,
-     "score": 54,
-     "event_id": "b203d9b44ace",
-     "links": [
-      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4796b695f31",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5308710e525c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
-     "sources": 3,
-     "score": 56,
-     "event_id": "180951c60255",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
-      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e9d8d1bd79d",
-     "links": [
-      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "44a648a1bb6f",
-     "links": [
-      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
-      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d5228024545e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
-      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
-     "sources": 2,
-     "score": 53,
-     "event_id": "7f3db7dc3a67",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-     "sources": 2,
-     "score": 43,
-     "event_id": "8e64cbab11b6",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
-     "sources": 3,
-     "score": 52,
-     "event_id": "3fd55062614f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
-      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
-     "sources": 2,
-     "score": 41,
-     "event_id": "b958bdde2297",
-     "links": [
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
-      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b44b08189279",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-     "sources": 1,
-     "score": 42,
-     "event_id": "8ac4f979d690",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-     "sources": 2,
-     "score": 50,
-     "event_id": "f17ae9a73257",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -11107,158 +11326,6 @@
    ]
   },
   {
-   "id": "9ffb6bd91201",
-   "title": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-   "section": "sport",
-   "entities": [
-    "arsenal",
-    "bournemouth",
-    "community",
-    "rodri",
-    "deadlines",
-    "perfect",
-    "nightmare",
-    "enzo",
-    "fernandez",
-    "rodri's",
-    "he's",
-    "shield",
-    "manchester",
-    "city",
-    "maresca",
-    "gvardiol"
-   ],
-   "event_ids": [
-    "9ffb6bd91201",
-    "2fef58e0d72e",
-    "b5cc84461c06",
-    "cb7f47a5868f",
-    "c6aec83a4cd2",
-    "4a7b92cbd9ac",
-    "81646cf59625",
-    "b0c1fdbb2cf5",
-    "38c0310528f5",
-    "83839e21d41a"
-   ],
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-09-20",
-   "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Nightmare Man City start for Maresca - are Arsenal really so far ahead?",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9ffb6bd91201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y449kwq14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-16",
-     "headline": "Arsenal cruise to win over Manchester City in Community Shield",
-     "sources": 2,
-     "score": 45,
-     "event_id": "2fef58e0d72e",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "'He's the professor' - Rodri's Manchester City journey",
-     "sources": 2,
-     "score": 49,
-     "event_id": "b5cc84461c06",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Enzo Maresca’s Manchester City opener was startlingly bad",
-     "sources": 1,
-     "score": 41,
-     "event_id": "cb7f47a5868f",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "https://www.theguardian.com/football/2026/aug/17/football-transfer-rumours-manchester-city-to-move-for-alexis-mac-allister"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City will 'try to find the new Rodri' - Maresca",
-     "sources": 2,
-     "score": 47,
-     "event_id": "c6aec83a4cd2",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
-     "sources": 2,
-     "score": 59,
-     "event_id": "4a7b92cbd9ac",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
-      "https://www.theguardian.com/football/2026/aug/23/manchester-city-agree-deal-lille-ayyoub-bouaddi-transfer"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Man City 'completely deserved to win' - Maresca",
-     "sources": 2,
-     "score": 41,
-     "event_id": "81646cf59625",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
-     "sources": 3,
-     "score": 56,
-     "event_id": "b0c1fdbb2cf5",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city",
-      "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Maresca criticises focus on controversial Manchester derby winner",
-     "sources": 2,
-     "score": 42,
-     "event_id": "38c0310528f5",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Perfect 24 hours for Maresca as Man City put pressure on Arsenal",
-     "sources": 2,
-     "score": 43,
-     "event_id": "83839e21d41a",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6z7z2we5lgwo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/20/enzo-maresca-manchester-city-sunderland-premier-league"
-     ]
-    }
-   ]
-  },
-  {
    "id": "46d1d18cff81",
    "title": "Parrott fires Real Betis to win over Real Madrid",
    "section": "sport",
@@ -14430,5 +14497,5 @@
    ]
   }
  ],
- "updated": "2026-10-09T09:34:38+00:00"
+ "updated": "2026-10-09T12:38:43+00:00"
 }
