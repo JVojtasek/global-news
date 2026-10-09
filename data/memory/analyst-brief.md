@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-09
 
-Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **135 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 52 dní · 60 záznamů
 - časová osa:
-  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
   - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
   - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
   - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
@@ -19,6 +18,7 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
   - **2026-10-08** (2 zdrojů) Glasner urges quick end to Manchester City saga and fears damage to Premier League
   - **2026-10-09** (2 zdrojů) Man City charges: Mourinho jokes Premier League case will outlast him
+  - **2026-10-09** (2 zdrojů) Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 60 dní · 60 záznamů

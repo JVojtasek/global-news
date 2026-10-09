@@ -147,7 +147,6 @@
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-27  (3 zdrojů, síla 63)  Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
   2026-09-27  (2 zdrojů, síla 44)  How drawn-out saga of Manchester City’s alleged cheating came to this
   2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges
   2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start
@@ -167,6 +166,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77
   2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League
   2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him
+  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
