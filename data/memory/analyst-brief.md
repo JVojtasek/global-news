@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-09
 
-Paměť obsahuje **136 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **137 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **136 vláken**. Aktivních za posledních 14 dní: **46**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 52 dní · 60 záznamů
 - časová osa:
-  - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
   - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
   - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
   - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
@@ -19,6 +18,7 @@ Paměť obsahuje **136 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-09** (2 zdrojů) Man City charges: Mourinho jokes Premier League case will outlast him
   - **2026-10-09** (2 zdrojů) Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   - **2026-10-09** (2 zdrojů) Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
+  - **2026-10-09** (1 zdrojů) Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 60 dní · 60 záznamů

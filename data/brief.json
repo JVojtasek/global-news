@@ -6,6 +6,92 @@
  "reserve_articles": 15,
  "news_assignments": [
   {
+   "id": "a690d09ebd85",
+   "headline": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
+   "section": "world",
+   "score": 86,
+   "sources_count": 6,
+   "depth_signal": 5,
+   "created": "2026-10-09T18:32:41+00:00",
+   "event_time": "2026-10-09T15:08:23+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
+     "url": "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson",
+     "source": "Guardian Culture",
+     "summary": "The French author discovered Carson on a bus while stranded in a snowstorm and has been enthralled by her fearless imagination ever since Where to start with Anne Carson ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson 1. Anne Carson is one of the greatest writers of our time. I discovered her work on a Peter Pan bus from New York to New England. I’d bought Antigoni",
+     "published_at": "2026-10-09T15:08:23+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    },
+    {
+     "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+     "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Entertainment",
+     "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+     "published_at": "2026-10-08T14:33:23+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    },
+    {
+     "title": "Nobel Prize in literature goes to Canada's Anne Carson",
+     "url": "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Carson won for her \"bold and inventive oeuvre.\" The decorated poet and essayist is known for her reverence for Latin and Greek classics.",
+     "published_at": "2026-10-08T11:02:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    },
+    {
+     "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
+     "published_at": "2026-10-09T15:59:04+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    },
+    {
+     "title": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay?",
+     "url": "https://www.france24.com/en/video/20261009-2026-nobel-peace-prize-who-is-navanethem-navi-pillay",
+     "source": "France 24",
+     "summary": "The 2026 Nobel Peace Prize was awarded to South African Navanethem “Navi” Pillay on Friday, October 9, 2026. The 85-year-old South Africa-born served as United Nations High Commissioner for Human Rights and chair of the Independent International Commission of Inquiry on the Occupied Palestinian Territories.",
+     "published_at": "2026-10-09T15:47:45+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    },
+    {
+     "title": "Israel a rare dissenting voice as praise pours in for Nobel Peace Prize winner Navi Pillay",
+     "url": "https://www.france24.com/en/europe/20261009-israel-a-rare-dissenting-voice-as-praise-pours-in-for-nobel-peace-prize-winner-navi-pillay",
+     "source": "France 24",
+     "summary": "Advocates of human rights and international justice cheered, even as Israeli officials fumed, after South African jurist and former UN human rights chief Navi Pillay won the Nobel Peace Prize on Friday. The 85-year-old drew wide praise for decades of work, including investigating crimes in Rwanda, Israel and the occupied Palestinian territories.",
+     "published_at": "2026-10-09T15:20:05+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    },
+    {
+     "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+     "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+     "source": "Hacker News Best",
+     "summary": "Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Points: 398 # Comments: 313",
+     "published_at": "2026-10-09T14:31:54+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    },
+    {
+     "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+     "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+     "source": "Hacker News Best",
+     "summary": "Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 331 # Comments: 166",
+     "published_at": "2026-10-09T10:12:11+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T18:32:38+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
    "id": "2b4add7b07af",
    "headline": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
    "section": "world",
@@ -208,83 +294,6 @@
     }
    ],
    "depth": "scripture"
-  },
-  {
-   "id": "1f36d06a3b96",
-   "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-   "section": "world",
-   "score": 72,
-   "sources_count": 3,
-   "depth_signal": 5,
-   "created": "2026-10-09T12:38:43+00:00",
-   "event_time": "2026-10-09T11:24:10+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-     "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-     "source": "The Guardian World",
-     "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is servin",
-     "published_at": "2026-10-09T11:24:10+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "Navi Pillay wins the Nobel Peace Prize for her work in international justice",
-     "url": "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
-     "source": "France 24",
-     "summary": "The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-profile rebuke to US President Trump and Israeli Prime Minister Benjamin Netanyahu, who have both rejected the findings of ",
-     "published_at": "2026-10-09T11:31:02+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.",
-     "published_at": "2026-10-09T11:07:52+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "Nobel chair admits they haven’t reached Peace Prize winner Pillay",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.",
-     "published_at": "2026-10-09T10:18:41+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "REPLAY: 2026 Nobel Peace Prize awarded to Navanethem ‘Navi’ Pillay",
-     "url": "https://www.france24.com/en/video/20261009-replay-2026-nobel-peace-prize-awarded-to-navanethem-navi-pillay",
-     "source": "France 24",
-     "summary": "Former UN human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway. The South Africa-born Pillay, 85 years old, was recognised for her efforts to promote peace and international law, said Jørgen Watne Frydnes, Chair of the Norwegian Nobel Committee. Watch our replay.",
-     "published_at": "2026-10-09T10:09:55+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "Navi Pillay wins Nobel Peace Prize",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
-     "published_at": "2026-10-09T09:28:18+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
-     "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.",
-     "published_at": "2026-10-09T09:06:43+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -304,7 +313,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges\n  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start\n  2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait\n  2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League\n  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs\n  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?\n  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts\n  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live\n  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power\n  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters\n  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett\n  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel\n  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth\n  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager\n  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?\n  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77\n  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League\n  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him\n  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma\n  2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start\n  2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait\n  2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League\n  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs\n  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?\n  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts\n  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live\n  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power\n  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters\n  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett\n  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel\n  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth\n  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager\n  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?\n  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77\n  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League\n  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him\n  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma\n  2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live\n  2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
    "thread_days": 60
   },
   {
