@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "england",
-    "tuchel",
-    "phil",
-    "fifa",
-    "league",
-    "city",
-    "andy",
-    "arsenal",
-    "women",
-    "ever",
-    "business",
-    "burnham",
-    "tottenham",
-    "chris",
-    "burnham's",
-    "forest",
-    "it's",
     "salah",
+    "fifa",
     "carrick",
-    "real",
-    "villa",
-    "zerbi's",
-    "kuwait",
-    "canada",
-    "scherpen",
-    "glasner",
-    "rwandan",
-    "sports",
-    "manchester",
-    "mason",
-    "gakpo",
-    "salisbury",
-    "premier",
-    "guess",
-    "michael",
-    "millionaire",
-    "troy's",
-    "napoli",
+    "beckett",
     "greenwood",
-    "beckett"
+    "liverpool",
+    "business",
+    "league",
+    "napoli",
+    "villa",
+    "chris",
+    "phil",
+    "sports",
+    "mason",
+    "city",
+    "millionaire",
+    "guess",
+    "kuwait",
+    "tuchel",
+    "michael",
+    "canada",
+    "women",
+    "scherpen",
+    "ever",
+    "isak",
+    "glasner",
+    "maresca",
+    "burnham",
+    "andy",
+    "gakpo",
+    "manchester",
+    "troy's",
+    "salisbury",
+    "rwandan",
+    "england",
+    "zerbi's",
+    "forest",
+    "tottenham",
+    "real",
+    "premier"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -135,23 +135,12 @@
     "123157f24b32",
     "9c931ace7e33",
     "a6b63becd633",
-    "109847f04471"
+    "109847f04471",
+    "faddee96db4e"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-09",
    "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Ranking the most game-changing transfers in Premier League history",
-     "sources": 2,
-     "score": 56,
-     "event_id": "ef63e47ed4c0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
-      "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-teenagers"
-     ]
-    },
     {
      "date": "2026-09-03",
      "headline": "The Premier League premium is £20m - and that worries European clubs",
@@ -833,6 +822,18 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/videos/cwp8g355me6no?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live",
+     "sources": 2,
+     "score": 60,
+     "event_id": "faddee96db4e",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/09/premier-league-resumes-manchester-city-in-spotlight-football-news-live",
+      "https://www.theguardian.com/football/2026/oct/09/manchester-united-tottenham-michael-carrick-premier-league",
+      "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss"
      ]
     }
    ]
@@ -2206,6 +2207,166 @@
    ]
   },
   {
+   "id": "341a230bd977",
+   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "section": "tech",
+   "entities": [
+    "chinese",
+    "astra",
+    "kong",
+    "hong",
+    "openai",
+    "startups",
+    "anthropic",
+    "researchers",
+    "claude"
+   ],
+   "event_ids": [
+    "341a230bd977",
+    "1db8587bd622",
+    "a8365cfa26c0",
+    "50c802e9ffe4",
+    "5618ffbe19d5",
+    "23b05835e46b",
+    "00f03c836310",
+    "fad16983d932",
+    "5473bde55aee",
+    "ba390530e9c6",
+    "27829b76e88b"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-10-09",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+     "sources": 4,
+     "score": 65,
+     "event_id": "341a230bd977",
+     "links": [
+      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1db8587bd622",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Researchers used Claude to hack OpenAI",
+     "sources": 3,
+     "score": 46,
+     "event_id": "a8365cfa26c0",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+     "sources": 2,
+     "score": 46,
+     "event_id": "50c802e9ffe4",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+     "sources": 3,
+     "score": 55,
+     "event_id": "5618ffbe19d5",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+     "sources": 2,
+     "score": 52,
+     "event_id": "23b05835e46b",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
+     "sources": 4,
+     "score": 62,
+     "event_id": "00f03c836310",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+     "sources": 2,
+     "score": 42,
+     "event_id": "fad16983d932",
+     "links": [
+      "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+      "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5473bde55aee",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-4937326"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+     "sources": 3,
+     "score": 48,
+     "event_id": "ba390530e9c6",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "27829b76e88b",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true?utm_source=rss_feed",
+      "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "3e261aa2591b",
    "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
    "section": "tech",
@@ -2349,19 +2510,25 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "india's",
     "techcrunch",
-    "musk",
-    "starlink",
     "grokipedia",
-    "disrupt",
-    "openai",
+    "side",
+    "open",
     "embiricos",
+    "starlink",
     "elon",
+    "apple",
+    "musk",
     "trump",
     "alexander",
-    "apple",
-    "open",
+    "parties",
+    "miss",
+    "disrupt",
+    "openai",
+    "beyond",
+    "networking",
+    "india's",
+    "events",
     "dots"
    ],
    "event_ids": [
@@ -2372,7 +2539,8 @@
     "814772bc922c",
     "bc11900335c3",
     "5f6c0a4a0fa6",
-    "1fcf8cc28156"
+    "1fcf8cc28156",
+    "d7a1c9894fff"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-09",
@@ -2469,6 +2637,18 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
       "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+     "sources": 1,
+     "score": 46,
+     "event_id": "d7a1c9894fff",
+     "links": [
+      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
      ]
     }
    ]
@@ -2676,6 +2856,83 @@
    ]
   },
   {
+   "id": "a5be263cd516",
+   "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
+   "section": "science",
+   "entities": [
+    "made",
+    "moment",
+    "pioneering",
+    "apollo",
+    "moon",
+    "nasa",
+    "human",
+    "hamilton",
+    "possible",
+    "first",
+    "margaret",
+    "engineer",
+    "software",
+    "landing",
+    "dies"
+   ],
+   "event_ids": [
+    "a5be263cd516",
+    "2ac7d1b928a8",
+    "87023935733f",
+    "04f4c04fff10"
+   ],
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-10-09",
+   "timeline": [
+    {
+     "date": "2026-10-08",
+     "headline": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
+     "sources": 3,
+     "score": 56,
+     "event_id": "a5be263cd516",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/nasa-apollo-program-pioneer-margaret-hamilton-dies/a-79589778?maca=en-rss-en-all-1573-rdf",
+      "https://phys.org/news/2026-10-margaret-hamilton-scientist-nasa-apollo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+     "sources": 2,
+     "score": 47,
+     "event_id": "2ac7d1b928a8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+     "sources": 2,
+     "score": 54,
+     "event_id": "87023935733f",
+     "links": [
+      "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "https://www.smithsonianmag.com/smart-news/margaret-hamilton-a-pioneering-software-engineer-who-made-the-first-human-moon-landing-possible-dies-at-90-180989653/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Margaret Hamilton, a Pioneering Software Engineer Who Made the First Human Moon Landing Possible, Dies at 90",
+     "sources": 1,
+     "score": 42,
+     "event_id": "04f4c04fff10",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/margaret-hamilton-a-pioneering-software-engineer-who-made-the-first-human-moon-landing-possible-dies-at-90-180989653/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "26e8279a5a1f",
    "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
    "section": "world",
@@ -2736,13 +2993,16 @@
    "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
    "section": "world",
    "entities": [
-    "nobel",
+    "peace",
     "pillay",
-    "navi"
+    "prize",
+    "navi",
+    "nobel"
    ],
    "event_ids": [
     "d7c7a0654af4",
-    "1f36d06a3b96"
+    "1f36d06a3b96",
+    "36dc6bd9a136"
    ],
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-09",
@@ -2769,6 +3029,60 @@
       "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
       "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+     "sources": 3,
+     "score": 55,
+     "event_id": "36dc6bd9a136",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ac693013f73",
+   "title": "Hurricane Isaias strengthens as it heads towards land",
+   "section": "business",
+   "entities": [
+    "hurricane",
+    "gulf",
+    "isaias",
+    "coast"
+   ],
+   "event_ids": [
+    "9ac693013f73",
+    "90b7ee8d1d5c"
+   ],
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-09",
+   "timeline": [
+    {
+     "date": "2026-10-09",
+     "headline": "Hurricane Isaias strengthens as it heads towards land",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9ac693013f73",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
+     "sources": 2,
+     "score": 40,
+     "event_id": "90b7ee8d1d5c",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
+      "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570"
      ]
     }
    ]
@@ -5820,153 +6134,6 @@
    ]
   },
   {
-   "id": "341a230bd977",
-   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-   "section": "tech",
-   "entities": [
-    "astra",
-    "startups",
-    "openai",
-    "researchers",
-    "claude",
-    "hong",
-    "anthropic",
-    "kong"
-   ],
-   "event_ids": [
-    "341a230bd977",
-    "1db8587bd622",
-    "a8365cfa26c0",
-    "50c802e9ffe4",
-    "5618ffbe19d5",
-    "23b05835e46b",
-    "00f03c836310",
-    "fad16983d932",
-    "5473bde55aee",
-    "ba390530e9c6"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-10-08",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
-     "sources": 4,
-     "score": 65,
-     "event_id": "341a230bd977",
-     "links": [
-      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1db8587bd622",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Researchers used Claude to hack OpenAI",
-     "sources": 3,
-     "score": 46,
-     "event_id": "a8365cfa26c0",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
-     "sources": 2,
-     "score": 46,
-     "event_id": "50c802e9ffe4",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
-      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-     "sources": 3,
-     "score": 55,
-     "event_id": "5618ffbe19d5",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-     "sources": 2,
-     "score": 52,
-     "event_id": "23b05835e46b",
-     "links": [
-      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
-     "sources": 4,
-     "score": 62,
-     "event_id": "00f03c836310",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-     "sources": 2,
-     "score": 42,
-     "event_id": "fad16983d932",
-     "links": [
-      "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-      "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5473bde55aee",
-     "links": [
-      "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-4937326"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-     "sources": 3,
-     "score": 48,
-     "event_id": "ba390530e9c6",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed"
-     ]
-    }
-   ]
-  },
-  {
    "id": "d92458626c90",
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
@@ -6313,63 +6480,6 @@
      "links": [
       "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
       "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a5be263cd516",
-   "title": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
-   "section": "science",
-   "entities": [
-    "margaret",
-    "hamilton",
-    "nasa",
-    "apollo",
-    "moment",
-    "moon"
-   ],
-   "event_ids": [
-    "a5be263cd516",
-    "2ac7d1b928a8",
-    "87023935733f"
-   ],
-   "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08",
-   "timeline": [
-    {
-     "date": "2026-10-08",
-     "headline": "Moment Nasa scientist Margaret Hamilton receives presidential medal of honour",
-     "sources": 3,
-     "score": 56,
-     "event_id": "a5be263cd516",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nasa-apollo-program-pioneer-margaret-hamilton-dies/a-79589778?maca=en-rss-en-all-1573-rdf",
-      "https://phys.org/news/2026-10-margaret-hamilton-scientist-nasa-apollo.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-     "sources": 2,
-     "score": 47,
-     "event_id": "2ac7d1b928a8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-     "sources": 2,
-     "score": 54,
-     "event_id": "87023935733f",
-     "links": [
-      "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-      "https://www.smithsonianmag.com/smart-news/margaret-hamilton-a-pioneering-software-engineer-who-made-the-first-human-moon-landing-possible-dies-at-90-180989653/"
      ]
     }
    ]
@@ -14497,5 +14607,5 @@
    ]
   }
  ],
- "updated": "2026-10-09T12:38:43+00:00"
+ "updated": "2026-10-09T15:27:43+00:00"
 }

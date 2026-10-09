@@ -9,64 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Paramount takes over Warner Bros in $110bn Hollywood merger
-- id události: `687dc7f5c988`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Business** — Paramount takes over Warner Bros in $110bn Hollywood merger
-    <https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss>
-    > The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.
-  - **BBC Business** — From films to streaming prices - how the Warner Bros deal could affect you
-    <https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss>
-    > The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?
-  - **BBC Entertainment** — Paramount takes over Warner Bros in $110bn Hollywood merger
-    <https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss>
-    > The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.
-  - **DW News** — Paramount and Warner Bros merge into one Hollywood giant
-    <https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf>
-    > Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison's hostile takeover bid defeated rival efforts from Netflix.
-  - **Guardian Business** — Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance
-    <https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger>
-    > David Ellison and ex-Mattel CEO Ynon Kreiz to oversee both film studios, HBO Max, CNN and CBS News as co-executives Paramount completed its $111bn acquisition of Warner Bros Discovery on Tuesday, consolidating some of the world’s most recognizable studios and news outlets after a
-  - **BBC Entertainment** — From films to streaming prices - how the Warner Bros deal could affect you
-    <https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss>
-    > The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?
-  - **TechCrunch** — Paramount closes historic Warner Bros. merger to form Skydance
-    <https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/>
-    > The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.
-  - **The Verge** — Paramount and Warner Bros. Discovery complete $110 billion media megamerger
-    <https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed>
-    > Paramount has completed its $110 billion acquisition of Warner Bros. Discovery, forming a combined company known as Skydance. The merger officially puts Paramount and WBD's film studios, along with major networks and brands like HBO, CBS News, and CNN, under one roof. The road to
-
-### 2. 'Ghost particles' from space telescope wins physics Nobel
-- id události: `ca61885fb78b`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — 'Ghost particles' from space telescope wins physics Nobel
-    <https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss>
-    > Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.
-  - **BBC Science** — 'Ghost particles' from space telescope wins physics Nobel
-    <https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss>
-    > Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.
-  - **Nature News** — Nobel physics prize awarded for detection of cosmic neutrinos
-    <https://www.nature.com/articles/d41586-026-03092-1>
-    > Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03092-1 Francis Halzen wins the 2026 award for his work on a neutrino observatory at the South Pole that has helped to unlock mysteries of the Universe.
-  - **NPR News** — Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space
-    <https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics>
-    > The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.
-  - **DW News** — Nobel Physics Prize goes to Francis Halzen for neutrino work
-    <https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf>
-    > Halzen got the Nobel for his contributions to the IceCube neutrino Observatory and discovery of high-energy neutrinos, described as "ghostly messengers from space."
-  - **Phys.org** — Francis Halzen wins Nobel Prize in physics for work on mysterious ghost particles called neutrinos
-    <https://phys.org/news/2026-10-francis-halzen-nobel-prize-physics.html>
-    > Francis Halzen won the Nobel Prize in physics on Tuesday for his efforts to demystify a rare group of neutrinos, tiny cosmic particles that scientists believe offer clues to how the universe evolved.
-  - **France 24** — 🔴 Nobel Prize in Physics awarded to Francis Halzen for ice research
-    <https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research>
-  - **France 24** — Nobel Prize in Physics awarded to Francis Halzen for ice research
-    <https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research>
-    > Scientist Francis Halzen won the 2026 Nobel Prize in Physics for work on subatomic particles at the South Pole, the Royal Swedish Academy of Sciences in Stockholm announced on Tuesday.
-
-### 3. Chemistry Nobel awarded for solving mystery of life's asymmetry
+### 1. Chemistry Nobel awarded for solving mystery of life's asymmetry
 - id události: `2b4add7b07af`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -91,7 +34,7 @@
     <https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai>
     > Henri Kagan and Kenso Soai were jointly awarded the Nobel Prize in Chemistry for solving a 100-year-old chemical mystery, the Royal Swedish Academy of Sciences said on Wednesday. Nobel Prize recipients receive a prize of 12 million Swedish kronor (about $1.2 million).
 
-### 4. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
+### 2. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
 - id události: `16c67f2bd64e`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -110,6 +53,54 @@
   - **France 24** — Dozens killed in Russian strike on buses in Ukraine's Kramatorsk as Kyiv targets data centre
     <https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre>
     > At least 30 people were killed in a Russian strike on two buses in the Ukrainian city of Kramatorsk in the eastern Donetsk region on Thursday. Earlier, a drone hit a data centre belonging to Russian technology company Yandex, causing a fire.
+
+### 3. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
+- id události: `d7c7a0654af4`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **The Guardian World** — Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
+    <https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates>
+    > The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...
+  - **DW News** — Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law
+    <https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf>
+    > South African judge Navanethem "Navi" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.
+  - **CNBC Top** — Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay
+    <https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html>
+    > Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
+  - **France 24** — 🔴 South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
+    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
+  - **France 24** — South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
+    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
+    > Former UN human rights chief and International Court of Justice judge Navanethem "Navi" Pillay has won the 2026 Nobel Peace Prize for her contributions to international law, the Nobel jury announced on Friday in Oslo, Norway.
+  - **France 24** — Canadian poet and author Anne Carson wins Nobel Prize in Literature
+    <https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature>
+    > Hailed for her "bold and inventive" work, "in playful dialogue with the classical tradition", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts th
+
+### 4. ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
+- id události: `1f36d06a3b96`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
+    <https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize>
+    > Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN co
+  - **France 24** — Navi Pillay wins the Nobel Peace Prize for her work in international justice
+    <https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice>
+    > The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-pro
+  - **Al Jazeera** — ‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss>
+    > International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.
+  - **Al Jazeera** — Nobel chair admits they haven’t reached Peace Prize winner Pillay
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss>
+    > The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.
+  - **France 24** — REPLAY: 2026 Nobel Peace Prize awarded to Navanethem ‘Navi’ Pillay
+    <https://www.france24.com/en/video/20261009-replay-2026-nobel-peace-prize-awarded-to-navanethem-navi-pillay>
+    > Former UN human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway. The South Africa-born Pillay, 85 years old, was recognised for her efforts to promote peace and international law, said Jørge
+  - **Al Jazeera** — Navi Pillay wins Nobel Peace Prize
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss>
+    > International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.
+  - **Al Jazeera** — 2026 Nobel Peace Prize awarded to Navi Pillay
+    <https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss>
+    > Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.
 
 ---
 
@@ -147,7 +138,6 @@
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-27  (2 zdrojů, síla 44)  How drawn-out saga of Manchester City’s alleged cheating came to this
   2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges
   2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start
   2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait
@@ -167,6 +157,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League
   2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him
   2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
+  2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait

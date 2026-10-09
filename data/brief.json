@@ -6,178 +6,6 @@
  "reserve_articles": 15,
  "news_assignments": [
   {
-   "id": "687dc7f5c988",
-   "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-   "section": "business",
-   "score": 83,
-   "sources_count": 6,
-   "depth_signal": 0,
-   "created": "2026-10-06T15:27:23+00:00",
-   "event_time": "2026-10-06T14:37:38+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-     "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-     "published_at": "2026-10-06T14:37:38+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    },
-    {
-     "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-     "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-     "published_at": "2026-10-06T13:00:54+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    },
-    {
-     "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-     "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
-     "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-     "published_at": "2026-10-06T14:37:38+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    },
-    {
-     "title": "Paramount and Warner Bros merge into one Hollywood giant",
-     "url": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison's hostile takeover bid defeated rival efforts from Netflix.",
-     "published_at": "2026-10-06T14:18:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    },
-    {
-     "title": "Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance",
-     "url": "https://www.theguardian.com/business/2026/oct/06/paramount-warner-bros-skydance-merger",
-     "source": "Guardian Business",
-     "summary": "David Ellison and ex-Mattel CEO Ynon Kreiz to oversee both film studios, HBO Max, CNN and CBS News as co-executives Paramount completed its $111bn acquisition of Warner Bros Discovery on Tuesday, consolidating some of the world’s most recognizable studios and news outlets after a bidding war with Netflix and months of legal turmoil. The new company, now called Skydance, will have David Ellison, th",
-     "published_at": "2026-10-06T14:14:56+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    },
-    {
-     "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-     "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Entertainment",
-     "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-     "published_at": "2026-10-06T13:00:54+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    },
-    {
-     "title": "Paramount closes historic Warner Bros. merger to form Skydance",
-     "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
-     "source": "TechCrunch",
-     "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
-     "published_at": "2026-10-06T13:57:32+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    },
-    {
-     "title": "Paramount and Warner Bros. Discovery complete $110 billion media megamerger",
-     "url": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed",
-     "source": "The Verge",
-     "summary": "Paramount has completed its $110 billion acquisition of Warner Bros. Discovery, forming a combined company known as Skydance. The merger officially puts Paramount and WBD's film studios, along with major networks and brands like HBO, CBS News, and CNN, under one roof. The road to the media megamerger has been a rocky one for Paramount, […]",
-     "published_at": "2026-10-06T13:32:43+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T15:27:10+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
-   "id": "ca61885fb78b",
-   "headline": "'Ghost particles' from space telescope wins physics Nobel",
-   "section": "world",
-   "score": 82,
-   "sources_count": 7,
-   "depth_signal": 0,
-   "created": "2026-10-06T12:39:35+00:00",
-   "event_time": "2026-10-06T11:24:19+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "'Ghost particles' from space telescope wins physics Nobel",
-     "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-     "published_at": "2026-10-06T11:24:19+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    },
-    {
-     "title": "'Ghost particles' from space telescope wins physics Nobel",
-     "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Science",
-     "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-     "published_at": "2026-10-06T11:24:19+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    },
-    {
-     "title": "Nobel physics prize awarded for detection of cosmic neutrinos",
-     "url": "https://www.nature.com/articles/d41586-026-03092-1",
-     "source": "Nature News",
-     "summary": "Nature, Published online: 06 October 2026; doi:10.1038/d41586-026-03092-1 Francis Halzen wins the 2026 award for his work on a neutrino observatory at the South Pole that has helped to unlock mysteries of the Universe.",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    },
-    {
-     "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-     "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-     "source": "NPR News",
-     "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
-     "published_at": "2026-10-06T10:16:28+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    },
-    {
-     "title": "Nobel Physics Prize goes to Francis Halzen for neutrino work",
-     "url": "https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Halzen got the Nobel for his contributions to the IceCube neutrino Observatory and discovery of high-energy neutrinos, described as \"ghostly messengers from space.\"",
-     "published_at": "2026-10-06T09:54:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    },
-    {
-     "title": "Francis Halzen wins Nobel Prize in physics for work on mysterious ghost particles called neutrinos",
-     "url": "https://phys.org/news/2026-10-francis-halzen-nobel-prize-physics.html",
-     "source": "Phys.org",
-     "summary": "Francis Halzen won the Nobel Prize in physics on Tuesday for his efforts to demystify a rare group of neutrinos, tiny cosmic particles that scientists believe offer clues to how the universe evolved.",
-     "published_at": "2026-10-06T10:12:06+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    },
-    {
-     "title": "🔴 Nobel Prize in Physics awarded to Francis Halzen for ice research",
-     "url": "https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research",
-     "source": "France 24",
-     "summary": "",
-     "published_at": "2026-10-06T09:52:44+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    },
-    {
-     "title": "Nobel Prize in Physics awarded to Francis Halzen for ice research",
-     "url": "https://www.france24.com/en/science/20261006-nobel-prize-in-physics-awarded-to-francis-halzen-for-ice-research",
-     "source": "France 24",
-     "summary": "Scientist Francis Halzen won the 2026 Nobel Prize in Physics for work on subatomic particles at the South Pole, the Royal Swedish Academy of Sciences in Stockholm announced on Tuesday.",
-     "published_at": "2026-10-06T09:52:16+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-06T12:39:32+00:00"
-    }
-   ],
-   "depth": "scripture"
-  },
-  {
    "id": "2b4add7b07af",
    "headline": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
    "section": "world",
@@ -312,6 +140,151 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "d7c7a0654af4",
+   "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+   "section": "world",
+   "score": 74,
+   "sources_count": 4,
+   "depth_signal": 2,
+   "created": "2026-10-09T09:34:38+00:00",
+   "event_time": "2026-10-09T09:14:29+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+     "url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+     "source": "The Guardian World",
+     "summary": "The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...",
+     "published_at": "2026-10-09T09:14:29+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T09:34:27+00:00"
+    },
+    {
+     "title": "Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law",
+     "url": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "South African judge Navanethem \"Navi\" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.",
+     "published_at": "2026-10-09T07:40:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T09:34:27+00:00"
+    },
+    {
+     "title": "Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay",
+     "url": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+     "source": "CNBC Top",
+     "summary": "Navanethem \"Navi\" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.",
+     "published_at": "2026-10-09T09:21:14+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T09:34:27+00:00"
+    },
+    {
+     "title": "🔴 South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize",
+     "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+     "source": "France 24",
+     "summary": "",
+     "published_at": "2026-10-09T09:04:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T09:34:27+00:00"
+    },
+    {
+     "title": "South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize",
+     "url": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+     "source": "France 24",
+     "summary": "Former UN human rights chief and International Court of Justice judge Navanethem \"Navi\" Pillay has won the 2026 Nobel Peace Prize for her contributions to international law, the Nobel jury announced on Friday in Oslo, Norway.",
+     "published_at": "2026-10-09T09:03:34+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T09:34:27+00:00"
+    },
+    {
+     "title": "Canadian poet and author Anne Carson wins Nobel Prize in Literature",
+     "url": "https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature",
+     "source": "France 24",
+     "summary": "Hailed for her \"bold and inventive\" work, \"in playful dialogue with the classical tradition\", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts that have inspired her writing. We also discuss the significance of the prize itself, as the Nobel Academy tries to move b",
+     "published_at": "2026-10-09T08:30:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T09:34:27+00:00"
+    }
+   ],
+   "depth": "scripture"
+  },
+  {
+   "id": "1f36d06a3b96",
+   "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+   "section": "world",
+   "score": 72,
+   "sources_count": 3,
+   "depth_signal": 5,
+   "created": "2026-10-09T12:38:43+00:00",
+   "event_time": "2026-10-09T11:24:10+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+     "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+     "source": "The Guardian World",
+     "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is servin",
+     "published_at": "2026-10-09T11:24:10+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T12:38:40+00:00"
+    },
+    {
+     "title": "Navi Pillay wins the Nobel Peace Prize for her work in international justice",
+     "url": "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
+     "source": "France 24",
+     "summary": "The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-profile rebuke to US President Trump and Israeli Prime Minister Benjamin Netanyahu, who have both rejected the findings of ",
+     "published_at": "2026-10-09T11:31:02+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T12:38:40+00:00"
+    },
+    {
+     "title": "‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.",
+     "published_at": "2026-10-09T11:07:52+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T12:38:40+00:00"
+    },
+    {
+     "title": "Nobel chair admits they haven’t reached Peace Prize winner Pillay",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.",
+     "published_at": "2026-10-09T10:18:41+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T12:38:40+00:00"
+    },
+    {
+     "title": "REPLAY: 2026 Nobel Peace Prize awarded to Navanethem ‘Navi’ Pillay",
+     "url": "https://www.france24.com/en/video/20261009-replay-2026-nobel-peace-prize-awarded-to-navanethem-navi-pillay",
+     "source": "France 24",
+     "summary": "Former UN human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway. The South Africa-born Pillay, 85 years old, was recognised for her efforts to promote peace and international law, said Jørgen Watne Frydnes, Chair of the Norwegian Nobel Committee. Watch our replay.",
+     "published_at": "2026-10-09T10:09:55+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T12:38:40+00:00"
+    },
+    {
+     "title": "Navi Pillay wins Nobel Peace Prize",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
+     "published_at": "2026-10-09T09:28:18+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T12:38:40+00:00"
+    },
+    {
+     "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
+     "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.",
+     "published_at": "2026-10-09T09:06:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-09T12:38:40+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -331,7 +304,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-09-27  (2 zdrojů, síla 44)  How drawn-out saga of Manchester City’s alleged cheating came to this\n  2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges\n  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start\n  2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait\n  2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League\n  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs\n  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?\n  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts\n  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live\n  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power\n  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters\n  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett\n  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel\n  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth\n  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager\n  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?\n  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77\n  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League\n  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him\n  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges\n  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start\n  2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait\n  2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League\n  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs\n  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?\n  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts\n  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live\n  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power\n  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters\n  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett\n  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel\n  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth\n  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager\n  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?\n  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77\n  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League\n  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him\n  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma\n  2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live",
    "thread_days": 60
   },
   {
