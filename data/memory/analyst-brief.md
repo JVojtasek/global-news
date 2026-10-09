@@ -1,10 +1,24 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-08
+# ANALYTICKÉ ZADÁNÍ — 2026-10-09
 
-Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
+Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 52 dní · 60 záznamů
+- časová osa:
+  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
+  - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+  - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
+  - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
+  - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
+  - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
+  - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
+  - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
+  - **2026-10-08** (2 zdrojů) Glasner urges quick end to Manchester City saga and fears damage to Premier League
+  - **2026-10-09** (2 zdrojů) Man City charges: Mourinho jokes Premier League case will outlast him
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 60 dní · 60 záznamů
@@ -33,20 +47,6 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
   - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 51 dní · 60 záznamů
-- časová osa:
-  - **2026-10-01** (1 zdrojů) Manchester City v Real Madrid: Women’s Champions League – live
-  - **2026-10-01** (4 zdrojů) How success of Manchester City helped put Andy Burnham in power
-  - **2026-10-02** (3 zdrojů) Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
-  - **2026-10-02** (2 zdrojů) For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
-  - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
-  - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
-  - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
-  - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
-  - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
-  - **2026-10-08** (2 zdrojů) Glasner urges quick end to Manchester City saga and fears damage to Premier League
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 54 dní · 60 záznamů
@@ -98,6 +98,7 @@ Paměť obsahuje **134 vláken**. Aktivních za posledních 14 dní: **44**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
 - **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
 - **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
 - **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů

@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-08
+# ZADÁNÍ PRO REDAKCI — 2026-10-09
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -115,12 +115,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### why relationships fail
+- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
@@ -140,7 +140,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-09-27  (3 zdrojů, síla 63)  Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson
+  2026-09-27  (2 zdrojů, síla 44)  How drawn-out saga of Manchester City’s alleged cheating came to this
+  2026-09-28  (2 zdrojů, síla 48)  Man City CEO defiant over Premier League charges
+  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start
+  2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait
+  2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League
+  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs
+  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?
+  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts
+  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live
+  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power
+  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
+  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
+  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
+  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager
+  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?
+  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77
+  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League
+  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him
+```
+
+### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -167,35 +196,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
   2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches
-```
-
-### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-28  (3 zdrojů, síla 60)  Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy
-  2026-09-28  (2 zdrojů, síla 40)  Belgium v France, Northern Ireland v Hungary and more: Nations League – live
-  2026-09-29  (3 zdrojů, síla 53)  Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey
-  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
-  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
-  2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
-  2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
-  2026-10-01  (2 zdrojů, síla 42)  Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
-  2026-10-02  (3 zdrojů, síla 55)  Klopp wins first game as Germany coach, without 'top dogs'
-  2026-10-03  (2 zdrojů, síla 46)  Who has 'no ceiling' as Northern Ireland shine in Nations League?
-  2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
-  2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
-  2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-  2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
-  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
-  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
-  2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
-  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
-  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 ```
 
 ---
