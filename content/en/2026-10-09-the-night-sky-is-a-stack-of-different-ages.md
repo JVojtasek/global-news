@@ -1,14 +1,16 @@
 ---
 slug: the-night-sky-is-a-stack-of-different-ages
-title: "The Night Sky Is a Stack of Different Ages"
-dek: "A meteor, the Moon's bright highlands and the faint wreckage of old supernovas can share one view. Each runs on a different clock, and you can read part of it with your own eyes."
+title: The Night Sky Is a Stack of Different Ages
+dek: A meteor, the Moon's bright highlands and the faint wreckage of old supernovas
+  can share one view. Each runs on a different clock, and you can read part of it
+  with your own eyes.
 section: science
 type: analysis
 depth: open
 lang: en
-date: 2026-10-09
-status: draft
-confidence: 84
+date: '2026-10-09'
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -16,30 +18,41 @@ edition_slot: 3
 automation_role: edition
 generator: claude-code
 format: wider-lens
-event_id: ""
-series: ""
-image_query: "full moon highlands night sky"
+event_id: ''
+series: ''
+image_query: full moon highlands night sky
 sources:
-  - name: "NASA Earth Observatory — Moon-Like Madagascar"
-    url: "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/"
-    published: "2026-10-05"
-  - name: "NASA APOD — Mirrored Meteor and Milky Way"
-    url: "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/"
-    published: "2026-09-26"
-  - name: "NASA APOD — The Ghosts of Five Supernovas"
-    url: "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/"
-    published: "2026-09-24"
+- name: NASA Earth Observatory — Moon-Like Madagascar
+  url: https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/
+  published: '2026-10-05'
+- name: NASA APOD — Mirrored Meteor and Milky Way
+  url: https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/
+  published: '2026-09-26'
+- name: NASA APOD — The Ghosts of Five Supernovas
+  url: https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/
+  published: '2026-09-24'
 impact:
-  areas: [life]
-  line: "Day to day this changes nothing. It changes how a clear night reads: the Moon's pale patches, the Milky Way's dark lanes and a passing meteor are different ages seen at once."
-  todo: "On the next clear night, find the Moon's bright highlands with the naked eye, then compare NASA's Astronomy Picture of the Day for the same objects in long exposures."
-qma_path: ""
+  areas:
+  - life
+  line: 'Day to day this changes nothing. It changes how a clear night reads: the
+    Moon''s pale patches, the Milky Way''s dark lanes and a passing meteor are different
+    ages seen at once.'
+  todo: On the next clear night, find the Moon's bright highlands with the naked eye,
+    then compare NASA's Astronomy Picture of the Day for the same objects in long
+    exposures.
+qma_path: ''
 tickers: []
 quiz:
-  question: "According to NASA, which rock forms the bright, reflective highlands visible on the Moon with the unaided eye?"
-  options: ["Anorthosite", "Granite", "Water ice"]
+  question: According to NASA, which rock forms the bright, reflective highlands visible
+    on the Moon with the unaided eye?
+  options:
+  - Anorthosite
+  - Granite
+  - Water ice
   answer: 0
-  explanation: "NASA's Earth Observatory notes that anorthosite, common on the lunar surface, shows up as the light-coloured highlands. The same rock type also occurs on Earth, including in southern Madagascar."
+  explanation: NASA's Earth Observatory notes that anorthosite, common on the lunar
+    surface, shows up as the light-coloured highlands. The same rock type also occurs
+    on Earth, including in southern Madagascar.
 ---
 
 ## BRIEFLY
