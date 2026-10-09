@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life, safety]
+  line: "Nothing changes on your next flight yet. These are field tests and a routing tool handed to the US aviation regulator; the aim is fewer verbal mix-ups on taxiways, fewer holding patterns and fewer delays."
+  todo: "Watch whether airlines report fewer holding patterns or taxi delays after testing NASA's rerouting tool; announcements from the FAA and airlines are the place to check."
 sources:
 - name: NASA
   url: https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/

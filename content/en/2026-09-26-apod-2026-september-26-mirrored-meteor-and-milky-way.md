@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Nothing changes in daily life. The picture pairs a Perseid meteor with a telescope built to catch gamma-ray flashes lasting about a billionth of a second."
+  todo: "Under a dark sky, note that the Milky Way's dark lanes are dust clouds, not gaps; check a meteor-shower calendar before the next major shower."
 sources:
 - name: NASA
   url: https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/

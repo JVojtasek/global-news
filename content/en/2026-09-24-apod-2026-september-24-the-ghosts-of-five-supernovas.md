@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing. The image shows what about 200 hours of collected light reveals: five remnants of stellar explosions in Auriga, invisible to the naked eye."
+  todo: "Find the constellation Auriga on a clear night and compare it with this long-exposure image; the remnants will not show, which is the point."
 sources:
 - name: NASA
   url: https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/

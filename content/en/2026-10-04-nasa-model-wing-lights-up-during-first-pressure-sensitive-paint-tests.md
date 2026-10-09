@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers. It is a wind-tunnel measuring technique; what matters is that it worked on a freely moving model, a step towards testing flexible, more efficient wings."
+  todo: "Look for NASA Langley's follow-up tests on flexible aircraft models; they will show whether the paint delivers data that improves computer simulations."
 sources:
 - name: NASA
   url: https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/

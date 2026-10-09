@@ -21,6 +21,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Daily life is unaffected. The useful part is that anyone can see the same rock type: the Moon's bright highlands are anorthosite, and Earth rocks like this help scientists study lunar history."
+  todo: "On the next bright Moon, find the pale highlands with the naked eye; NASA's Gateway to Astronaut Photography of Earth has the Madagascar image free to view."
 sources:
 - name: NASA
   url: https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/
