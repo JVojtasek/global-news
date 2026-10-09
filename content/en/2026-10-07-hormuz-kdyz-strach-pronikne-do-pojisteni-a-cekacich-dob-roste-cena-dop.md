@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-kdyz-strach-pronikne-do-pojisteni-a-cekacich-dob-rost-analyza-382687
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Oil is still flowing through Hormuz, but dearer war-risk insurance and tanker rates are a cost. With a delay, it can reach fuel prices, airfares and energy-heavy goods far from the Gulf."
+  todo: "Watch whether pump prices and airfares move over the coming weeks, and whether reports show fewer ships passing Hormuz, not just more attacks."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-kdyz-strach-pronikne-do-pojisteni-a-cekacich-dob-rost-analyza-382687

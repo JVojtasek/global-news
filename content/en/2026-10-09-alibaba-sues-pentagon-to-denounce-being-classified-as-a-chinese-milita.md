@@ -22,6 +22,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [money]
+  line: "Day to day this changes nothing for shoppers or cloud customers: the Pentagon list bars Alibaba only from US defence supply chains. What matters is whether the court upholds it and other US agencies follow."
+  todo: "Watch for a court ruling and for any follow-up measures from the US Commerce or Treasury departments, which would reach further than the Defense Department list."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/08/alibaba-sues-pentagon-to-denounce-being-classified-as-a-chinese-military-affiliate/

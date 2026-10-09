@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-medi-nestaci-sledovat-cenu-comex-vs-lme-shfe-odhali-realno-analyza-382535
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Day to day this changes little for most readers: copper hides in cables, cars and houses, so price jumps reach shoppers slowly. The sharpest effect is in the United States, where tariff fears pull metal in."
+  todo: "Watch the gap between the US COMEX and London LME copper prices; a widening gap points to tariff stockpiling rather than a real rise in industrial demand."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-medi-nestaci-sledovat-cenu-comex-vs-lme-shfe-odhali-realno-analyza-382535

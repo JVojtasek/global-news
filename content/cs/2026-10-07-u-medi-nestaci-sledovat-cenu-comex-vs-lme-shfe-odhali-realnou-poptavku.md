@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-medi-nestaci-sledovat-cenu-comex-vs-lme-shfe-odhali-realno-analyza-382535
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Ve všedním dni to většině čtenářů změní málo: měď je schovaná v kabelech, autech a domech, takže skoky její ceny docházejí k zákazníkům pomalu. Nejsilněji to působí ve Spojených státech, kam strach z cel kov táhne."
+  todo: "Sledujte rozdíl mezi americkou cenou mědi na COMEX a londýnskou na LME; když se rozevírá, jde spíš o předzásobení kvůli clům než o skutečný růst průmyslové poptávky."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-medi-nestaci-sledovat-cenu-comex-vs-lme-shfe-odhali-realno-analyza-382535

@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-kdyz-strach-pronikne-do-pojisteni-a-cekacich-dob-rost-analyza-382687
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Ropa Hormuzem pořád teče, ale dražší válečné pojištění a tankerové sazby jsou náklad. S odstupem se může propsat do cen pohonných hmot, letenek a zboží náročného na energii daleko od Perského zálivu."
+  todo: "Sledujte, jestli se v příštích týdnech pohnou ceny u pump a letenek a jestli zprávy ukazují méně lodí v Hormuzu, ne jen víc útoků."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-kdyz-strach-pronikne-do-pojisteni-a-cekacich-dob-rost-analyza-382687

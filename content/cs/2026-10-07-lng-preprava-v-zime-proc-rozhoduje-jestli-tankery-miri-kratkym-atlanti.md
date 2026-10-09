@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lng-preprava-v-zime-proc-rozhoduje-jestli-tankery-miri-kratk-analyza-382540
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Doprava je jen jedna položka účtu za plyn, takže zatím se nic nemění. Když se ale Asie začne o tytéž náklady přetahovat, tankery zmizí na dlouhých plavbách a země dovážející plyn mohou zaplatit víc za plyn i elektřinu."
+  todo: "Sledujte letos v zimě rozdíl mezi asijskou (JKM) a evropskou (TTF) cenou plynu a v oznámeních dodavatele energie, zda promítá velkoobchodní náklady do ceníku."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lng-preprava-v-zime-proc-rozhoduje-jestli-tankery-miri-kratk-analyza-382540

@@ -23,6 +23,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers; what matters is that the undersea cables behind international internet links are owned and routed by a small group of companies and governments."
+  todo: "Look up which undersea cables land in your country on TeleGeography’s public Submarine Cable Map, and who owns them."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/10/09/subsea-cables-and-oil-pipelines-the-infrastructure-linking-ai-empire-and-occupation/

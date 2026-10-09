@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lng-preprava-v-zime-proc-rozhoduje-jestli-tankery-miri-kratk-analyza-382540
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Shipping is only one line on a gas bill, so nothing changes yet. If Asia starts bidding hard for the same cargoes, tankers vanish on long voyages and gas-importing countries may pay more for gas and electricity."
+  todo: "Watch the gap between Asian (JKM) and European (TTF) gas prices this winter, and read your energy supplier’s tariff notices for pass-through of wholesale costs."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lng-preprava-v-zime-proc-rozhoduje-jestli-tankery-miri-kratk-analyza-382540
