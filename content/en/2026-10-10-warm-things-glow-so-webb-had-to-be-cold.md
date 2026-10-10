@@ -1,14 +1,16 @@
 ---
 slug: warm-things-glow-so-webb-had-to-be-cold
 title: Warm Things Glow, So Webb Had to Be Cold
-dek: An infrared telescope at room temperature would mostly photograph itself. That single fact explains Webb's gold mirror, its five-layer sunshield and its address 1.5 million kilometres from Earth.
+dek: An infrared telescope at room temperature would mostly photograph itself. That
+  single fact explains Webb's gold mirror, its five-layer sunshield and its address
+  1.5 million kilometres from Earth.
 section: science
 type: analysis
 depth: open
 lang: en
 date: '2026-10-10'
-status: draft
-confidence: 78
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -20,9 +22,13 @@ event_id: ''
 series: ''
 image_query: space telescope sunshield infrared
 impact:
-  areas: [life]
-  line: "Day to day this changes nothing for most readers. It changes how a Webb picture reads: it shows light no human eye can see, collected by a machine kept colder than minus 223 degrees Celsius."
-  todo: "Next time a Webb image appears, look in its caption for the words near-infrared or mid-infrared. That tells you which invisible light the picture was built from."
+  areas:
+  - life
+  line: 'Day to day this changes nothing for most readers. It changes how a Webb picture
+    reads: it shows light no human eye can see, collected by a machine kept colder
+    than minus 223 degrees Celsius.'
+  todo: Next time a Webb image appears, look in its caption for the words near-infrared
+    or mid-infrared. That tells you which invisible light the picture was built from.
 sources:
 - name: Wikipedia — James Webb Space Telescope
   url: https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
@@ -36,13 +42,16 @@ sources:
 qma_path: ''
 tickers: []
 quiz:
-  question: Below roughly what temperature must the James Webb Space Telescope be kept so that its own infrared glow does not overwhelm its instruments?
+  question: Below roughly what temperature must the James Webb Space Telescope be
+    kept so that its own infrared glow does not overwhelm its instruments?
   options:
   - About 50 kelvin, or minus 223 degrees Celsius
   - About 0 degrees Celsius, the freezing point of water
   - About 15 degrees Celsius, the temperature of Hubble's mirror
   answer: 0
-  explanation: Webb must stay under 50 K (about −223 °C). Hubble's mirror sits at about 15 °C, warm enough to radiate strongly in the infrared bands Webb was built to study.
+  explanation: Webb must stay under 50 K (about −223 °C). Hubble's mirror sits at
+    about 15 °C, warm enough to radiate strongly in the infrared bands Webb was built
+    to study.
 ---
 
 ## BRIEFLY
