@@ -38,32 +38,7 @@
     <https://www.nobelprize.org/prizes/peace/2026/press-release/>
     > Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 331 # Comments: 166
 
-### 2. Chemistry Nobel awarded for solving mystery of life's asymmetry
-- id události: `2b4add7b07af`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Chemistry Nobel awarded for solving mystery of life's asymmetry
-    <https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss>
-    > The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
-  - **BBC Science** — Chemistry Nobel awarded for solving mystery of life's asymmetry
-    <https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss>
-    > The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.
-  - **Nature News** — Chemistry Nobel for solving mystery of how ‘handed’ organic molecules can emerge
-    <https://www.nature.com/articles/d41586-026-03093-0>
-    > Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03093-0 Prize awarded to two chemists who probed why life favours one mirror-image molecule over another.
-  - **DW News** — Nobel Prize in Chemistry goes to Henri B. Kagan and Kenso Soai
-    <https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf>
-    > Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for their groundbreaking discoveries related to the origin of chirality and life's building blocks.
-  - **Phys.org** — Nobel Prize in chemistry awarded to Kagan and Soai for research solving 'mirror image' mystery
-    <https://phys.org/news/2026-10-nobel-prize-chemistry-awarded-kagan.html>
-    > Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their efforts to resolve mysterious mirror images in chemical molecules, a discovery that transformed modern medicine.
-  - **France 24** — 🔴Nobel Prize in chemistry awarded to France's Henri Kagan, Japan's Kenso Soai
-    <https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai>
-  - **France 24** — Nobel Prize in Chemistry awarded to France's Henri Kagan, Japan's Kenso Soai
-    <https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai>
-    > Henri Kagan and Kenso Soai were jointly awarded the Nobel Prize in Chemistry for solving a 100-year-old chemical mystery, the Royal Swedish Academy of Sciences said on Wednesday. Nobel Prize recipients receive a prize of 12 million Swedish kronor (about $1.2 million).
-
-### 3. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+### 2. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
 - id události: `2b3762f9568b`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -89,7 +64,7 @@
     <https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss>
     > Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
 
-### 4. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
+### 3. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
 - id události: `16c67f2bd64e`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -109,6 +84,28 @@
     <https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre>
     > At least 30 people were killed in a Russian strike on two buses in the Ukrainian city of Kramatorsk in the eastern Donetsk region on Thursday. Earlier, a drone hit a data centre belonging to Russian technology company Yandex, causing a fire.
 
+### 4. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
+- id události: `d7c7a0654af4`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **The Guardian World** — Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
+    <https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates>
+    > The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...
+  - **DW News** — Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law
+    <https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf>
+    > South African judge Navanethem "Navi" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.
+  - **CNBC Top** — Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay
+    <https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html>
+    > Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
+  - **France 24** — 🔴 South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
+    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
+  - **France 24** — South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
+    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
+    > Former UN human rights chief and International Court of Justice judge Navanethem "Navi" Pillay has won the 2026 Nobel Peace Prize for her contributions to international law, the Nobel jury announced on Friday in Oslo, Norway.
+  - **France 24** — Canadian poet and author Anne Carson wins Nobel Prize in Literature
+    <https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature>
+    > Hailed for her "bold and inventive" work, "in playful dialogue with the classical tradition", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts th
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -117,8 +114,8 @@
 - rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
   - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -145,9 +142,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-26  (2 zdrojů, síla 44)  ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
-  2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
-  2026-09-27  (2 zdrojů, síla 49)  Araghchi ignores Trump, waits for mediators’ response on Hormuz
   2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
   2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
   2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
@@ -165,6 +159,9 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-10  (2 zdrojů, síla 44)  Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
   2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel
   2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
+  2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
+  2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says
+  2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -174,7 +171,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-29  (2 zdrojů, síla 42)  Aston Villa sack boss Arroyo after winless WSL start
   2026-09-29  (3 zdrojů, síla 63)  Why Salisbury are 'bigger than many Premier League teams' in Kuwait
   2026-09-29  (2 zdrojů, síla 49)  The intricate web Man City spun to con the Premier League
   2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs
@@ -194,6 +190,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
   2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
+  2026-10-10  (2 zdrojů, síla 56)  Manchester United v Tottenham: Premier League – live
 ```
 
 ---

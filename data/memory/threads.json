@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "brics",
-    "d-day",
-    "russia",
-    "taiz",
-    "macron",
-    "south",
-    "north",
-    "houthi",
-    "saudis",
-    "persian",
-    "gulf",
-    "middle",
-    "donald",
-    "groundhog",
-    "lightning",
-    "modi",
-    "marib",
-    "google",
-    "iran's",
-    "luckin",
-    "lyon",
-    "ai-aided",
-    "zelenskyy",
     "ukraine",
-    "coffee",
-    "putin",
-    "centcom",
+    "persian",
+    "tuesday",
+    "donald",
+    "marib",
     "french",
     "araghchi",
+    "ai-aided",
+    "gulf",
+    "putin",
+    "macron",
+    "iran",
     "moscow",
-    "tuesday",
-    "strait",
-    "russian",
-    "trump",
-    "east",
-    "briton",
+    "google",
+    "houthi",
     "korea",
+    "middle",
+    "lyon",
+    "lightning",
+    "russia",
+    "east",
+    "north",
+    "germany",
+    "ukrainian",
+    "luckin",
+    "centcom",
+    "groundhog",
     "kuwait",
-    "times",
-    "zelensky"
+    "saudis",
+    "south",
+    "taiz",
+    "zelensky",
+    "iran's",
+    "brics",
+    "zelenskyy",
+    "trump",
+    "briton",
+    "d-day",
+    "modi",
+    "times"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -161,45 +161,14 @@
     "2b3762f9568b",
     "8c1e4d4a5747",
     "504e0e5c8170",
-    "5df45c581313"
+    "5df45c581313",
+    "71ab3bd9de8b",
+    "bd67e8f7c237",
+    "0f4ac4de3969"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-10",
    "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Celtic deficiencies laid bare on another night of Champions League pain",
-     "sources": 3,
-     "score": 60,
-     "event_id": "d00029b2e66b",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cjdv5xvgv9lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/aug/26/martin-oneill-celtic-champions-league-collapse-lask-painful"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions",
-     "sources": 2,
-     "score": 40,
-     "event_id": "95584f14b3e1",
-     "links": [
-      "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-      "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-     "sources": 2,
-     "score": 46,
-     "event_id": "033193ef8aba",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-26",
      "headline": "How to follow Thursday's Champions League draw - and who is in each pot?",
@@ -847,366 +816,38 @@
       "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
       "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
      ]
-    }
-   ]
-  },
-  {
-   "id": "95b4d8eb7452",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "section": "tech",
-   "entities": [
-    "embiricos",
-    "trump",
-    "beyond",
-    "grokipedia",
-    "open",
-    "parties",
-    "musk",
-    "india's",
-    "events",
-    "elon",
-    "openai",
-    "miss",
-    "dots",
-    "side",
-    "disrupt",
-    "techcrunch",
-    "starlink",
-    "india",
-    "networking",
-    "alexander",
-    "ambani",
-    "apple"
-   ],
-   "event_ids": [
-    "95b4d8eb7452",
-    "1b1d0d455584",
-    "572dce99347e",
-    "5afad699a57c",
-    "814772bc922c",
-    "bc11900335c3",
-    "5f6c0a4a0fa6",
-    "1fcf8cc28156",
-    "d7a1c9894fff",
-    "467cf97b1acf"
-   ],
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-10-10",
-   "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "sources": 3,
-     "score": 55,
-     "event_id": "95b4d8eb7452",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
     },
     {
-     "date": "2026-09-30",
-     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "1b1d0d455584",
-     "links": [
-      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-     "sources": 3,
-     "score": 52,
-     "event_id": "5afad699a57c",
-     "links": [
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-     "sources": 1,
-     "score": 42,
-     "event_id": "814772bc922c",
-     "links": [
-      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-     "sources": 1,
-     "score": 46,
-     "event_id": "bc11900335c3",
-     "links": [
-      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "date": "2026-10-10",
+     "headline": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
      "sources": 2,
      "score": 44,
-     "event_id": "5f6c0a4a0fa6",
+     "event_id": "71ab3bd9de8b",
      "links": [
-      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
-      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1fcf8cc28156",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-     "sources": 1,
-     "score": 46,
-     "event_id": "d7a1c9894fff",
-     "links": [
-      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+      "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
      ]
     },
     {
      "date": "2026-10-10",
-     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+     "headline": "Putin relayed Iran war proposal to Trump, Kremlin says",
      "sources": 2,
-     "score": 45,
-     "event_id": "467cf97b1acf",
+     "score": 42,
+     "event_id": "bd67e8f7c237",
      "links": [
-      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d7c7a0654af4",
-   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
-   "section": "world",
-   "entities": [
-    "norway",
-    "prize",
-    "trump",
-    "navi",
-    "stain",
-    "peace",
-    "gaza",
-    "pillay",
-    "board",
-    "nobel",
-    "navanethem"
-   ],
-   "event_ids": [
-    "d7c7a0654af4",
-    "1f36d06a3b96",
-    "36dc6bd9a136",
-    "1e8bc4bbe1cf",
-    "86a510043ce8",
-    "0cf138feb61b",
-    "e5d483192c24"
-   ],
-   "first_seen": "2026-10-09",
-   "last_seen": "2026-10-10",
-   "timeline": [
-    {
-     "date": "2026-10-09",
-     "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
-     "sources": 4,
-     "score": 74,
-     "event_id": "d7c7a0654af4",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-      "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-     "sources": 3,
-     "score": 72,
-     "event_id": "1f36d06a3b96",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-     "sources": 3,
-     "score": 55,
-     "event_id": "36dc6bd9a136",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
-      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-     "sources": 4,
-     "score": 72,
-     "event_id": "1e8bc4bbe1cf",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss"
+      "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+      "https://www.investing.com/news/commodities-news/neither-putin-nor-trump-wanted-to-hang-up-first-kremlin-aide-says-after-very-friendly-call-4942108"
      ]
     },
     {
      "date": "2026-10-10",
-     "headline": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-     "sources": 2,
-     "score": 47,
-     "event_id": "86a510043ce8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-     "sources": 2,
-     "score": 45,
-     "event_id": "0cf138feb61b",
-     "links": [
-      "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-     "sources": 2,
-     "score": 49,
-     "event_id": "e5d483192c24",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/10/trump-norway-has-indelible-stain-nobel-peace-prize-snub.html",
-      "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9ac693013f73",
-   "title": "Hurricane Isaias strengthens as it heads towards land",
-   "section": "business",
-   "entities": [
-    "coast",
-    "florida",
-    "hurricane",
-    "isaias",
-    "life-threatening",
-    "gulf"
-   ],
-   "event_ids": [
-    "9ac693013f73",
-    "90b7ee8d1d5c",
-    "50c38b06fc65"
-   ],
-   "first_seen": "2026-10-09",
-   "last_seen": "2026-10-10",
-   "timeline": [
-    {
-     "date": "2026-10-09",
-     "headline": "Hurricane Isaias strengthens as it heads towards land",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9ac693013f73",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
+     "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
      "sources": 2,
      "score": 40,
-     "event_id": "90b7ee8d1d5c",
+     "event_id": "0f4ac4de3969",
      "links": [
-      "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
-      "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Life-threatening Hurricane Isaias makes landfall in Florida",
-     "sources": 3,
-     "score": 48,
-     "event_id": "50c38b06fc65",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f9d9678cd800",
-   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-   "section": "business",
-   "entities": [
-    "analysis",
-    "russia",
-    "trump's"
-   ],
-   "event_ids": [
-    "f9d9678cd800"
-   ],
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10",
-   "timeline": [
-    {
-     "date": "2026-10-10",
-     "headline": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-     "sources": 3,
-     "score": 58,
-     "event_id": "f9d9678cd800",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
+      "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss"
      ]
     }
    ]
@@ -1216,46 +857,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "league",
-    "women",
-    "andy",
-    "salisbury",
-    "maresca",
-    "tottenham",
-    "scherpen",
-    "sports",
-    "michael",
-    "guess",
-    "business",
     "manchester",
+    "real",
+    "salisbury",
+    "andy",
     "forest",
+    "greenwood",
+    "ever",
+    "women",
+    "villa",
+    "carrick",
+    "liverpool",
+    "premier",
+    "napoli",
+    "salah",
+    "millionaire",
+    "scherpen",
+    "league",
+    "canada",
+    "glasner",
+    "jamie",
+    "jackson",
+    "guess",
     "beckett",
     "phil",
     "burnham",
-    "liverpool",
     "chris",
-    "glasner",
-    "premier",
-    "fifa",
-    "greenwood",
-    "troy's",
-    "salah",
-    "ever",
-    "isak",
-    "city",
-    "kuwait",
-    "canada",
-    "real",
-    "napoli",
-    "villa",
-    "millionaire",
     "mason",
-    "gakpo",
+    "tuchel",
+    "michael",
+    "kuwait",
     "rwandan",
-    "jackson",
-    "jamie",
-    "carrick",
-    "tuchel"
+    "business",
+    "united",
+    "isak",
+    "troy's",
+    "city",
+    "fifa",
+    "gakpo",
+    "sports",
+    "maresca"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1348,22 +989,12 @@
     "a6b63becd633",
     "109847f04471",
     "faddee96db4e",
-    "c8655c8f4915"
+    "c8655c8f4915",
+    "9bdd0a68599f"
    ],
    "first_seen": "2026-08-18",
-   "last_seen": "2026-10-09",
+   "last_seen": "2026-10-10",
    "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "Matildas midfielder breaks A-League transfer record in move to Nottingham Forest",
-     "sources": 1,
-     "score": 41,
-     "event_id": "9d185633198c",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/04/melbourne-city-nottingham-forest-leticia-mckenna-a-league-women-transfer-record",
-      "https://www.theguardian.com/football/2026/sep/04/nottingham-forests-liam-delap-i-play-at-my-best-on-the-edge-of-being-horrible"
-     ]
-    },
     {
      "date": "2026-09-04",
      "headline": "Ipswich Town v Liverpool: Premier League – live",
@@ -2045,6 +1676,379 @@
      "links": [
       "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
       "https://www.theguardian.com/football/2026/oct/09/maresca-refuses-to-confirm-he-will-stay-at-manchester-city-if-club-lose-appeal"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Manchester United v Tottenham: Premier League – live",
+     "sources": 2,
+     "score": 56,
+     "event_id": "9bdd0a68599f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
+      "https://www.theguardian.com/football/live/2026/oct/10/arsenal-v-leeds-premier-league-live"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "embiricos",
+    "trump",
+    "beyond",
+    "grokipedia",
+    "open",
+    "parties",
+    "musk",
+    "india's",
+    "events",
+    "elon",
+    "openai",
+    "miss",
+    "dots",
+    "side",
+    "disrupt",
+    "techcrunch",
+    "starlink",
+    "india",
+    "networking",
+    "alexander",
+    "ambani",
+    "apple"
+   ],
+   "event_ids": [
+    "95b4d8eb7452",
+    "1b1d0d455584",
+    "572dce99347e",
+    "5afad699a57c",
+    "814772bc922c",
+    "bc11900335c3",
+    "5f6c0a4a0fa6",
+    "1fcf8cc28156",
+    "d7a1c9894fff",
+    "467cf97b1acf"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-10",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "1b1d0d455584",
+     "links": [
+      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+     "sources": 3,
+     "score": 45,
+     "event_id": "572dce99347e",
+     "links": [
+      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+     "sources": 3,
+     "score": 52,
+     "event_id": "5afad699a57c",
+     "links": [
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+     "sources": 1,
+     "score": 42,
+     "event_id": "814772bc922c",
+     "links": [
+      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+     "sources": 1,
+     "score": 46,
+     "event_id": "bc11900335c3",
+     "links": [
+      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5f6c0a4a0fa6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1fcf8cc28156",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+     "sources": 1,
+     "score": 46,
+     "event_id": "d7a1c9894fff",
+     "links": [
+      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+     "sources": 2,
+     "score": 45,
+     "event_id": "467cf97b1acf",
+     "links": [
+      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d7c7a0654af4",
+   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+   "section": "world",
+   "entities": [
+    "norway",
+    "prize",
+    "trump",
+    "navi",
+    "stain",
+    "peace",
+    "gaza",
+    "pillay",
+    "board",
+    "nobel",
+    "navanethem"
+   ],
+   "event_ids": [
+    "d7c7a0654af4",
+    "1f36d06a3b96",
+    "36dc6bd9a136",
+    "1e8bc4bbe1cf",
+    "86a510043ce8",
+    "0cf138feb61b",
+    "e5d483192c24"
+   ],
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-10",
+   "timeline": [
+    {
+     "date": "2026-10-09",
+     "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+     "sources": 4,
+     "score": 74,
+     "event_id": "d7c7a0654af4",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+      "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+     "sources": 3,
+     "score": 72,
+     "event_id": "1f36d06a3b96",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+     "sources": 3,
+     "score": 55,
+     "event_id": "36dc6bd9a136",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+     "sources": 4,
+     "score": 72,
+     "event_id": "1e8bc4bbe1cf",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+     "sources": 2,
+     "score": 47,
+     "event_id": "86a510043ce8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
+     "sources": 2,
+     "score": 45,
+     "event_id": "0cf138feb61b",
+     "links": [
+      "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+     "sources": 2,
+     "score": 49,
+     "event_id": "e5d483192c24",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/10/trump-norway-has-indelible-stain-nobel-peace-prize-snub.html",
+      "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9ac693013f73",
+   "title": "Hurricane Isaias strengthens as it heads towards land",
+   "section": "business",
+   "entities": [
+    "coast",
+    "florida",
+    "hurricane",
+    "isaias",
+    "life-threatening",
+    "gulf"
+   ],
+   "event_ids": [
+    "9ac693013f73",
+    "90b7ee8d1d5c",
+    "50c38b06fc65"
+   ],
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-10",
+   "timeline": [
+    {
+     "date": "2026-10-09",
+     "headline": "Hurricane Isaias strengthens as it heads towards land",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9ac693013f73",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hurricane-isaias-intensifies-en-route-to-us-gulf-coast/a-79612756?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
+     "sources": 2,
+     "score": 40,
+     "event_id": "90b7ee8d1d5c",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/hurricane-isaias-charges-towards-the-us-gulf-coast-with-dangerous-winds?traffic_source=rss",
+      "https://www.investing.com/news/stock-market-news/hurricane-isaias-strengthens-as-us-gulf-coast-prepares-for-landfall-4939570"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Life-threatening Hurricane Isaias makes landfall in Florida",
+     "sources": 3,
+     "score": 48,
+     "event_id": "50c38b06fc65",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f9d9678cd800",
+   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+   "section": "business",
+   "entities": [
+    "analysis",
+    "russia",
+    "trump's"
+   ],
+   "event_ids": [
+    "f9d9678cd800"
+   ],
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-10",
+   "timeline": [
+    {
+     "date": "2026-10-10",
+     "headline": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+     "sources": 3,
+     "score": 58,
+     "event_id": "f9d9678cd800",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
      ]
     }
    ]
@@ -14807,5 +14811,5 @@
    ]
   }
  ],
- "updated": "2026-10-10T12:36:27+00:00"
+ "updated": "2026-10-10T15:26:10+00:00"
 }

@@ -9,9 +9,6 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 62 dní · 60 záznamů
 - časová osa:
-  - **2026-10-05** (2 zdrojů) Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
-  - **2026-10-07** (3 zdrojů) Trump to speak to Putin about plague lab worker's death in Russia
-  - **2026-10-08** (2 zdrojů) South Korea threatens legal action if fuel shipments to Russia found to have broken law
   - **2026-10-08** (2 zdrojů) Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   - **2026-10-08** (3 zdrojů) South Korea recalls Ukraine envoy over prisoner-of-war row
   - **2026-10-08** (2 zdrojů) South Korea warns of AI-aided hacking after bank data breaches
@@ -19,11 +16,13 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-10** (2 zdrojů) Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
   - **2026-10-10** (2 zdrojů) Zelenskyy furious as Trump announces deal to buy Russian diesel
   - **2026-10-10** (2 zdrojů) Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
+  - **2026-10-10** (2 zdrojů) As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
+  - **2026-10-10** (2 zdrojů) Putin relayed Iran war proposal to Trump, Kremlin says
+  - **2026-10-10** (2 zdrojů) Germany sticks to Russia sanctions after Trump diesel deal
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 52 dní · 60 záznamů
+- rubrika `sport` · sledováno 53 dní · 60 záznamů
 - časová osa:
-  - **2026-10-02** (2 zdrojů) Manchester City’s England players are worried about their futures, admits Tuchel
   - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
   - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
   - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
@@ -33,6 +32,7 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-09** (2 zdrojů) Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   - **2026-10-09** (2 zdrojů) Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
   - **2026-10-09** (1 zdrojů) Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
+  - **2026-10-10** (2 zdrojů) Manchester United v Tottenham: Premier League – live
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
