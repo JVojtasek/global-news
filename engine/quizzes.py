@@ -179,16 +179,26 @@ def load_all(today: str | None = None) -> list[dict]:
     if not QUIZ_DIR.exists():
         return []
     quizzes = []
+    errors = []
     for path in sorted(QUIZ_DIR.glob("*.json")):
         try:
             raw = json.loads(path.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError) as exc:
-            raise QuizValidationError(f"{path.name}: invalid JSON") from exc
+            errors.append(f"{path.name}: invalid JSON ({exc})")
+            continue
         if not isinstance(raw, dict):
-            raise QuizValidationError(f"{path.name}: root must be an object")
-        quiz = _validate(raw, path)
+            errors.append(f"{path.name}: root must be an object")
+            continue
+        try:
+            quiz = _validate(raw, path)
+        except QuizValidationError as exc:
+            errors.append(str(exc))
+            continue
         if quiz["date"] <= cutoff:
             quizzes.append(quiz)
+    if errors:
+        joined = "\n- ".join(errors)
+        raise QuizValidationError(f"quiz files failed validation:\n- {joined}")
     quizzes.sort(key=lambda item: (item["date"], item["slug"]), reverse=True)
     return quizzes
 

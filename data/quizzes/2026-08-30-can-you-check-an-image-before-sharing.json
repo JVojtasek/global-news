@@ -83,9 +83,9 @@
         "cs": "Objeví se šokující obrázek s textem „Sdílejte, než to smažou.“ Co uděláte nejdřív?"
       },
       "options": [
-        {"text": {"en": "Share it privately so at least someone has a copy", "cs": "Soukromě ho přepošlu, aby měl alespoň někdo kopii"}, "score": 0},
-        {"text": {"en": "Read the comments to see whether people believe it", "cs": "Přečtu komentáře, zda tomu lidé věří"}, "score": 1},
-        {"text": {"en": "Pause and identify the exact claim, source and date before reacting", "cs": "Zastavím se a před reakcí určím přesné tvrzení, zdroj a datum"}, "score": 3}
+        {"label": {"en": "Share it privately so at least someone has a copy", "cs": "Soukromě ho přepošlu, aby měl alespoň někdo kopii"}, "score": 0},
+        {"label": {"en": "Read the comments to see whether people believe it", "cs": "Přečtu komentáře, zda tomu lidé věří"}, "score": 1},
+        {"label": {"en": "Pause and identify the exact claim, source and date before reacting", "cs": "Zastavím se a před reakcí určím přesné tvrzení, zdroj a datum"}, "score": 3}
       ]
     },
     {
@@ -96,9 +96,9 @@
         "cs": "Fotografie silně potvrzuje, co jste si už mysleli o veřejně známé osobě. Která reakce je vám nejbližší?"
       },
       "options": [
-        {"text": {"en": "I treat agreement with my prior view as a reason to slow down", "cs": "Shodu se svým předchozím názorem beru jako důvod zpomalit"}, "score": 3},
-        {"text": {"en": "I check only whether the account usually posts things I like", "cs": "Ověřím jen, zda účet obvykle zveřejňuje věci, které se mi líbí"}, "score": 1},
-        {"text": {"en": "I assume the image is probably right because it fits a known pattern", "cs": "Předpokládám, že obrázek je asi pravý, protože zapadá do známého vzorce"}, "score": 0}
+        {"label": {"en": "I treat agreement with my prior view as a reason to slow down", "cs": "Shodu se svým předchozím názorem beru jako důvod zpomalit"}, "score": 3},
+        {"label": {"en": "I check only whether the account usually posts things I like", "cs": "Ověřím jen, zda účet obvykle zveřejňuje věci, které se mi líbí"}, "score": 1},
+        {"label": {"en": "I assume the image is probably right because it fits a known pattern", "cs": "Předpokládám, že obrázek je asi pravý, protože zapadá do známého vzorce"}, "score": 0}
       ]
     },
     {
@@ -109,9 +109,9 @@
         "cs": "Virální obrázek nemá uvedeného fotografa. Jaký je nejužitečnější další krok?"
       },
       "options": [
-        {"text": {"en": "Run a reverse-image search and follow results toward the earliest credible publication", "cs": "Spustím reverzní vyhledávání a sleduji výsledky k nejstaršímu důvěryhodnému zveřejnění"}, "score": 3},
-        {"text": {"en": "Zoom in until editing becomes obvious", "cs": "Přibližuji obrázek, dokud nebude úprava zjevná"}, "score": 1},
-        {"text": {"en": "Trust the largest account that reposted it", "cs": "Věřím největšímu účtu, který obrázek sdílel"}, "score": 0}
+        {"label": {"en": "Run a reverse-image search and follow results toward the earliest credible publication", "cs": "Spustím reverzní vyhledávání a sleduji výsledky k nejstaršímu důvěryhodnému zveřejnění"}, "score": 3},
+        {"label": {"en": "Zoom in until editing becomes obvious", "cs": "Přibližuji obrázek, dokud nebude úprava zjevná"}, "score": 1},
+        {"label": {"en": "Trust the largest account that reposted it", "cs": "Věřím největšímu účtu, který obrázek sdílel"}, "score": 0}
       ]
     },
     {
@@ -122,9 +122,9 @@
         "cs": "Obrázek má platné Content Credentials se jménem důvěryhodného vydavatele. Co lze bezpečně vyvodit?"
       },
       "options": [
-        {"text": {"en": "Every caption attached to the image is true", "cs": "Každý popisek připojený k obrázku je pravdivý"}, "score": 0},
-        {"text": {"en": "The recorded provenance can be checked, but the present claim still needs context", "cs": "Zaznamenaný původ lze ověřit, ale současné tvrzení stále potřebuje kontext"}, "score": 3},
-        {"text": {"en": "The picture cannot have been cropped or edited", "cs": "Obrázek nemohl být oříznut ani upraven"}, "score": 1}
+        {"label": {"en": "Every caption attached to the image is true", "cs": "Každý popisek připojený k obrázku je pravdivý"}, "score": 0},
+        {"label": {"en": "The recorded provenance can be checked, but the present claim still needs context", "cs": "Zaznamenaný původ lze ověřit, ale současné tvrzení stále potřebuje kontext"}, "score": 3},
+        {"label": {"en": "The picture cannot have been cropped or edited", "cs": "Obrázek nemohl být oříznut ani upraven"}, "score": 1}
       ]
     },
     {
@@ -135,9 +135,9 @@
         "cs": "Příspěvek tvrdí, že fotografie zachycuje dnešní povodeň ve vašem městě. Reverzní hledání najde stejný snímek ve zprávě před třemi lety. Co dál?"
       },
       "options": [
-        {"text": {"en": "Treat the current caption as unsupported and compare the older source's place and date", "cs": "Současný popisek považuji za nepodložený a porovnám místo a datum staršího zdroje"}, "score": 3},
-        {"text": {"en": "Assume both floods simply looked identical", "cs": "Předpokládám, že obě povodně prostě vypadaly stejně"}, "score": 0},
-        {"text": {"en": "Share it with a note that the date might be wrong", "cs": "Sdílím ho s poznámkou, že datum možná nesedí"}, "score": 1}
+        {"label": {"en": "Treat the current caption as unsupported and compare the older source's place and date", "cs": "Současný popisek považuji za nepodložený a porovnám místo a datum staršího zdroje"}, "score": 3},
+        {"label": {"en": "Assume both floods simply looked identical", "cs": "Předpokládám, že obě povodně prostě vypadaly stejně"}, "score": 0},
+        {"label": {"en": "Share it with a note that the date might be wrong", "cs": "Sdílím ho s poznámkou, že datum možná nesedí"}, "score": 1}
       ]
     },
     {
@@ -148,9 +148,9 @@
         "cs": "Pravá fotografie ukazuje přeplněnou ulici, ale ořez skrývá konec fronty. Která kontrola nejlépe doplní kontext?"
       },
       "options": [
-        {"text": {"en": "Find the uncropped frame or sequence and read the original caption", "cs": "Najdu neoříznutý snímek nebo celou sérii a přečtu původní popisek"}, "score": 3},
-        {"text": {"en": "Count only the people still visible", "cs": "Spočítám pouze stále viditelné lidi"}, "score": 1},
-        {"text": {"en": "Judge the photographer's motive from the crop", "cs": "Z ořezu posoudím motiv fotografa"}, "score": 0}
+        {"label": {"en": "Find the uncropped frame or sequence and read the original caption", "cs": "Najdu neoříznutý snímek nebo celou sérii a přečtu původní popisek"}, "score": 3},
+        {"label": {"en": "Count only the people still visible", "cs": "Spočítám pouze stále viditelné lidi"}, "score": 1},
+        {"label": {"en": "Judge the photographer's motive from the crop", "cs": "Z ořezu posoudím motiv fotografa"}, "score": 0}
       ]
     },
     {
@@ -161,9 +161,9 @@
         "cs": "Šest účtů zveřejní stejný obrázek a stejný text. Kolik je to nezávislých potvrzení?"
       },
       "options": [
-        {"text": {"en": "Six, because the accounts are different", "cs": "Šest, protože jde o různé účty"}, "score": 0},
-        {"text": {"en": "At least two if some accounts are verified", "cs": "Alespoň dvě, pokud jsou některé účty ověřené"}, "score": 1},
-        {"text": {"en": "Possibly only one; I need to trace whether they share a common source", "cs": "Možná jen jedno; musím zjistit, zda všechny čerpají ze stejného zdroje"}, "score": 3}
+        {"label": {"en": "Six, because the accounts are different", "cs": "Šest, protože jde o různé účty"}, "score": 0},
+        {"label": {"en": "At least two if some accounts are verified", "cs": "Alespoň dvě, pokud jsou některé účty ověřené"}, "score": 1},
+        {"label": {"en": "Possibly only one; I need to trace whether they share a common source", "cs": "Možná jen jedno; musím zjistit, zda všechny čerpají ze stejného zdroje"}, "score": 3}
       ]
     },
     {
@@ -174,9 +174,9 @@
         "cs": "Tvrzenou událost nenajdete ve velkých médiích. Jaká reakce je nejsilnější?"
       },
       "options": [
-        {"text": {"en": "Declare it false because major outlets missed it", "cs": "Prohlásím ji za nepravdivou, protože ji velká média nemají"}, "score": 1},
-        {"text": {"en": "Keep the claim unverified and check relevant local, official and independent sources", "cs": "Tvrzení ponechám jako neověřené a zkontroluji relevantní místní, oficiální a nezávislé zdroje"}, "score": 3},
-        {"text": {"en": "Assume a cover-up explains the silence", "cs": "Předpokládám, že mlčení vysvětluje utajování"}, "score": 0}
+        {"label": {"en": "Declare it false because major outlets missed it", "cs": "Prohlásím ji za nepravdivou, protože ji velká média nemají"}, "score": 1},
+        {"label": {"en": "Keep the claim unverified and check relevant local, official and independent sources", "cs": "Tvrzení ponechám jako neověřené a zkontroluji relevantní místní, oficiální a nezávislé zdroje"}, "score": 3},
+        {"label": {"en": "Assume a cover-up explains the silence", "cs": "Předpokládám, že mlčení vysvětluje utajování"}, "score": 0}
       ]
     }
   ],
