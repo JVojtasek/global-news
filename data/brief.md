@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-09
+# ZADÁNÍ PRO REDAKCI — 2026-10-10
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -113,12 +113,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### why relationships fail
-- rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -138,7 +138,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-09-26  (2 zdrojů, síla 44)  ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
+  2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
+  2026-09-27  (2 zdrojů, síla 49)  Araghchi ignores Trump, waits for mediators’ response on Hormuz
+  2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
+  2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
+  2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
+  2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
+  2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
+  2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
+  2026-10-04  (2 zdrojů, síla 44)  More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
+  2026-10-05  (2 zdrojů, síla 43)  Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
+  2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia
+  2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
+  2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
+  2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
+  2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches
+  2026-10-09  (6 zdrojů, síla 81)  Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+  2026-10-10  (2 zdrojů, síla 44)  Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
+  2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel
+  2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
+```
+
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
 - id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -165,35 +194,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
   2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
-```
-
-### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-18  (2 zdrojů, síla 51)  Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine
-  2026-09-26  (2 zdrojů, síla 47)  Iran offers US deal to reopen Strait of Hormuz in seven days
-  2026-09-26  (2 zdrojů, síla 41)  Trump rejects Iran proposal to reopen Strait of Hormuz
-  2026-09-26  (2 zdrojů, síla 44)  ‘We hope he’ll accept’: US invites Putin to G20 summit at Trump golf club
-  2026-09-26  (2 zdrojů, síla 44)  Trump offers warm welcome as China's Xi arrives for US visit
-  2026-09-27  (2 zdrojů, síla 49)  Araghchi ignores Trump, waits for mediators’ response on Hormuz
-  2026-09-27  (3 zdrojů, síla 53)  Iran sticks to Hormuz plan after Trump rejects it
-  2026-09-28  (2 zdrojů, síla 42)  Trump expects Iran talks next week after rejecting seven-day truce proposal
-  2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
-  2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
-  2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
-  2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
-  2026-10-04  (2 zdrojů, síla 44)  More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
-  2026-10-05  (2 zdrojů, síla 43)  Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
-  2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia
-  2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
-  2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
-  2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
-  2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches
-  2026-10-09  (6 zdrojů, síla 81)  Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
 ```
 
 ---
