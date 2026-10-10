@@ -47,9 +47,13 @@ jobs:
         run: python -m engine.edition
 
       - name: Ověřit agendu a šest veřejných slotů
-        # Push z poslední ranní úlohy nesmí vydat neúplnou sadu. Denní
-        # záložní cron smí bezpečné hotové články přijmout i při výpadku
-        # jednoho slotu — kvalita má přednost před slepým plněním kvóty.
+        # Push, který přidal dnešní kvíz, nesmí vydat neúplnou sadu.
+        # Denní cron je záloha: díru ohlásí a díky continue-on-error
+        # doběhne, aby se hotové články nepřijímaly až další den.
+        # Ten řádek musí zůstat. Bez něj by tenké ráno shodilo celý běh.
+        # Sloučení opravy starších kvízů nebo kódu taky spustí tenhle
+        # workflow (filtr cest je širší než ranní signál). Jestli takový
+        # běh blokuje, rozhoduje engine.edition_guard podle události.
         continue-on-error: ${{ github.event_name == 'schedule' }}
         run: python -m engine.edition_guard
 

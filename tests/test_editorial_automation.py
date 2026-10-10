@@ -1,5 +1,6 @@
 import datetime as dt
 import json
+import os
 import tempfile
 import unittest
 from pathlib import Path
@@ -189,6 +190,104 @@ class EditionCompletenessTests(unittest.TestCase):
         body = "useful " * int(spec["min_words"])
         problems = inbox._edition_check(meta, body)
         self.assertTrue(any("status: draft" in problem for problem in problems))
+
+
+class EditionGuardTriggerTests(unittest.TestCase):
+    """Kdy smí hlídač shodit běh a kdy jen ohlásí díru.
+
+    10. října 2026 sloučení opravy starých kvízů spustilo ``2 · Redakce``
+    pushem. Datum i checkout seděly, sloty v repozitáři chyběly. Ranní
+    cron téhož dne ty díry taky viděl a díky continue-on-error doběhl.
+    """
+
+    DAY = dt.date(2026, 10, 10)
+    GAPS = (["chybí automatický slot 1 (parenting/daily)"], ["chybí výzkumná agenda"])
+
+    def test_prague_day_matches_the_morning_cron_instant(self):
+        # cron „35 9 * * *“ je 09:35 UTC. V říjnu je v Praze UTC+2, tedy 11:35
+        # téhož kalendářního dne. Zítřejší ranní běh musí soudit zítřek.
+        instant = dt.datetime(2026, 10, 11, 9, 35, tzinfo=dt.timezone.utc)
+        self.assertEqual(dt.date(2026, 10, 11), edition_guard.edition_day(instant))
+
+    def test_late_utc_evening_is_already_the_next_prague_day(self):
+        instant = dt.datetime(2026, 10, 10, 23, 30, tzinfo=dt.timezone.utc)
+        self.assertEqual(dt.date(2026, 10, 11), edition_guard.edition_day(instant))
+
+    def test_afternoon_push_clock_stays_on_10_october(self):
+        # Selhaný běh 38062617265 začal v 15:11 UTC, v Praze 17:11.
+        instant = dt.datetime(2026, 10, 10, 15, 11, tzinfo=dt.timezone.utc)
+        self.assertEqual(self.DAY, edition_guard.edition_day(instant))
+
+    def test_historical_quiz_fix_is_not_the_morning_signal(self):
+        event = {"commits": [{"added": [], "modified": [
+            "data/quizzes/2026-08-27-can-your-household-find-the-shutoffs.json",
+            "data/quizzes/2026-10-03-can-you-separate-pitch-loudness-and-timbre.json",
+        ], "removed": []}], "head_commit": {"added": [], "modified": [
+            "data/quizzes/2026-10-03-can-you-separate-pitch-loudness-and-timbre.json",
+        ]}}
+        self.assertFalse(edition_guard.push_adds_todays_quiz(event, self.DAY))
+        self.assertFalse(edition_guard.should_block("push", event, self.DAY))
+
+    def test_added_quiz_for_the_edition_day_is_the_morning_signal(self):
+        event = {"head_commit": {"added": [
+            "data/quizzes/2026-10-10-can-you-read-a-map.json",
+        ]}}
+        self.assertTrue(edition_guard.push_adds_todays_quiz(event, self.DAY))
+        self.assertTrue(edition_guard.should_block("push", event, self.DAY))
+
+    def test_rewriting_todays_quiz_does_not_reopen_the_hard_gate(self):
+        event = {"commits": [{"added": [], "modified": [
+            "data/quizzes/2026-10-10-can-you-read-a-map.json",
+        ]}]}
+        self.assertFalse(edition_guard.push_adds_todays_quiz(event, self.DAY))
+
+    def test_offplan_push_reports_gaps_and_exits_clean(self):
+        event = {"commits": [{"modified": [
+            "data/quizzes/2026-09-26-can-you-keep-mass-and-weight-apart.json",
+        ]}]}
+        with mock.patch.object(edition_guard, "inspect", return_value=self.GAPS):
+            code = edition_guard.run(self.DAY, event_name="push", event=event)
+        self.assertEqual(0, code)
+
+    def test_workflow_dispatch_does_not_block(self):
+        with mock.patch.object(edition_guard, "inspect", return_value=self.GAPS):
+            code = edition_guard.run(self.DAY, event_name="workflow_dispatch", event={})
+        self.assertEqual(0, code)
+
+    def test_schedule_still_fails_a_thin_edition(self):
+        with mock.patch.object(edition_guard, "inspect", return_value=self.GAPS):
+            code = edition_guard.run(
+                dt.date(2026, 10, 11), event_name="schedule", event={"schedule": "35 9 * * *"},
+            )
+        self.assertEqual(1, code)
+
+    def test_schedule_passes_when_the_six_slots_are_present(self):
+        with mock.patch.object(edition_guard, "inspect", return_value=([], [])):
+            code = edition_guard.run(
+                dt.date(2026, 10, 11), event_name="schedule", event={},
+            )
+        self.assertEqual(0, code)
+
+    def test_local_run_without_github_event_still_blocks(self):
+        cleaned = {key: value for key, value in os.environ.items()
+                   if key not in {"GITHUB_EVENT_NAME", "GITHUB_EVENT_PATH"}}
+        with mock.patch.dict(os.environ, cleaned, clear=True):
+            with mock.patch.object(edition_guard, "inspect", return_value=self.GAPS):
+                code = edition_guard.run(self.DAY)
+        self.assertEqual(1, code)
+
+    def test_morning_job_stays_alive_when_the_guard_step_fails(self):
+        # Krok smí skončit chybou. Celý ranní běh ne: continue-on-error
+        # je vázané na schedule a zítřejší cron na tom stojí.
+        text = Path(".github/workflows/2-redakce.yml").read_text(encoding="utf-8")
+        executable = "\n".join(
+            line for line in text.splitlines() if not line.lstrip().startswith("#")
+        )
+        self.assertIn(
+            "continue-on-error: ${{ github.event_name == 'schedule' }}",
+            executable,
+        )
+        self.assertIn('- cron: "35 9 * * *"', executable)
 
 
 class QmaAndQuizTests(unittest.TestCase):

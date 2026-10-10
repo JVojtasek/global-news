@@ -2,17 +2,104 @@
 
 The guard never invents content and never publishes it. It gives GitHub
 Actions a clear failing signal when the research agenda or public slots are
-missing, while treating the reserve slot as a warning rather than filler.
+missing on a planned close, while treating the reserve slot as a warning
+rather than filler.
+
+The edition day is Europe/Prague, the same clock frozen into
+``data/edition-plan.json``. A GitHub runner's clock is UTC. Those two
+dates differ only around midnight, never at the 09:35 UTC morning cron.
+
+Not every run of workflow ``2 · Redakce`` is that close. The push filter
+also matches a merge that rewrites older quizzes or the newsroom code.
+On those runs the guard still reports the real gaps and then exits 0,
+so inbox, release and the rest of the job can continue. A failing exit
+is reserved for the daily cron and for a push that added today's quiz
+file — the free signal that the morning hand-off is ready to publish.
 """
 from __future__ import annotations
 
 import datetime as dt
+import json
+import os
+import re
+from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from . import article, config, edition, inbox
 
+# Stejné pásmo jako ``timezone`` v plánu vydání a v ``engine.morning``.
+PRAGUE = ZoneInfo("Europe/Prague")
+_UNSET = object()
+_QUIZ_ADDED = re.compile(r"^data/quizzes/(\d{4}-\d{2}-\d{2})-[^/]+\.json$")
+
+
+def edition_day(now: dt.datetime | None = None) -> dt.date:
+    """Kalendářní den vydání podle hodin v Praze.
+
+    Naivní čas se bere jako pražský. Čas s pásmem se do Prahy přepočte.
+    """
+    if now is None:
+        now = dt.datetime.now(PRAGUE)
+    elif now.tzinfo is None:
+        now = now.replace(tzinfo=PRAGUE)
+    return now.astimezone(PRAGUE).date()
+
+
+def push_adds_todays_quiz(event: dict | None, day: dt.date) -> bool:
+    """Push přidal soubor ``data/quizzes/<den>-*.json``.
+
+    To je signál poslední ranní úlohy. Úprava staršího kvízu, i když
+    leží ve stejné složce, ten signál není.
+    """
+    date = day.isoformat()
+    commits = []
+    for commit in (event or {}).get("commits") or []:
+        if isinstance(commit, dict):
+            commits.append(commit)
+    head = (event or {}).get("head_commit")
+    if isinstance(head, dict):
+        commits.append(head)
+    for commit in commits:
+        added = commit.get("added") or []
+        if isinstance(added, str):
+            added = [added]
+        for path in added:
+            normalized = str(path).replace("\\", "/").lstrip("./")
+            match = _QUIZ_ADDED.match(normalized)
+            if match and match.group(1) == date:
+                return True
+    return False
+
+
+def should_block(event_name: str | None, event: dict | None, day: dt.date) -> bool:
+    """Má chybějící veřejný slot shodit proces?
+
+    Plánovaná uzávěrka je denní cron a push, který přidal dnešní kvíz.
+    Lokální spuštění bez události GitHubu se chová jako dřív a blokuje.
+    Všechno ostatní (sloučení opravy, ruční spuštění) jen ohlásí díry.
+    """
+    if not event_name:
+        return True
+    if event_name == "schedule":
+        return True
+    if event_name == "push":
+        return push_adds_todays_quiz(event, day)
+    return False
+
+
+def _github_event() -> dict:
+    path = os.environ.get("GITHUB_EVENT_PATH")
+    if not path:
+        return {}
+    try:
+        loaded = json.loads(Path(path).read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    return loaded if isinstance(loaded, dict) else {}
+
 
 def inspect(day: dt.date | None = None) -> tuple[list[str], list[str]]:
-    day = day or dt.date.today()
+    day = day or edition_day()
     date = day.isoformat()
     errors, warnings = [], []
     # Agenda je vstup pro pisatele, ne výstup vydání. Když sloty nakonec
@@ -107,10 +194,35 @@ def inspect(day: dt.date | None = None) -> tuple[list[str], list[str]]:
     return errors, warnings
 
 
-def run(day: dt.date | None = None) -> int:
+def run(day: dt.date | None = None, event_name: str | None | object = _UNSET,
+        event: dict | None | object = _UNSET) -> int:
+    day = day or edition_day()
+    if event_name is _UNSET:
+        event_name = os.environ.get("GITHUB_EVENT_NAME") or None
+    if event is _UNSET:
+        event = _github_event()
     errors, warnings = inspect(day)
+    # 10. října 2026 sloučení opravy starých kvízů spustilo workflow pushem,
+    # protože filtr cest hlídá celé ``data/quizzes/**``. Checkout byl celý
+    # a datum sedělo na 2026-10-10 — sloty v repozitáři opravdu chyběly.
+    # Ranní cron téhož dne ty díry jen ohlásil. Push mimo ranní kvíz proto
+    # nesmí uzávěrku shodit.
+    blocking = should_block(
+        None if event_name is None else str(event_name),
+        event if isinstance(event, dict) else {},
+        day,
+    )
     for warning in warnings:
         config.log(f"⚠️  {warning}")
+    if errors and not blocking:
+        config.log(
+            "Běh mimo plánovanou uzávěrku. Chybějící sloty se hlásí "
+            "a redakce pokračuje. Blokuje jen denní cron a push, "
+            "který přidal dnešní kvíz."
+        )
+        for error in errors:
+            config.log(f"⚠️  {error}")
+        return 0
     for error in errors:
         config.log(f"✗ {error}")
     if not errors:
