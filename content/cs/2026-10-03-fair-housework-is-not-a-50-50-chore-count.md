@@ -27,6 +27,10 @@ series: ''
 image_query: conceptual editorial illustration of household tasks divided across visible
   objects and invisible planning threads, balanced but not perfectly symmetrical,
   no people, no text, no logo, no brand
+impact:
+  areas: [life]
+  line: "Pro páry ve společné domácnosti: spravedlivý počet úkolů může zakrýt, kdo si všímá, plánuje a kontroluje. Ve studiích z roku 2026 šla sporná nebo nerovná mentální zátěž ruku v ruce s horší kvalitou vztahu."
+  todo: "Týden si zapisujte oblasti domácnosti a u každé, kdo si všimne, naplánuje, rozhodne, udělá a zkontroluje; pak seznamy porovnejte s partnerem."
 sources:
 - name: Scientific Reports — A dyadic examination of household labor and relationship
     quality

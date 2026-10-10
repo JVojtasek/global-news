@@ -27,6 +27,10 @@ series: ''
 image_query: conceptual editorial illustration of household tasks divided across visible
   objects and invisible planning threads, balanced but not perfectly symmetrical,
   no people, no text, no logo, no brand
+impact:
+  areas: [life]
+  line: "For couples sharing a home: a fair chore count can still hide who notices, plans and checks. In 2026 studies, disputed or uneven mental load went with lower relationship quality."
+  todo: "For one week, list household domains and write down who notices, plans, decides, does and checks each one; then compare lists with your partner."
 sources:
 - name: Scientific Reports — A dyadic examination of household labor and relationship
     quality

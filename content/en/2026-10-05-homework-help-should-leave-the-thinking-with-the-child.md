@@ -23,6 +23,10 @@ image_query: conceptual editorial illustration of a half-built paper bridge conn
   a small study desk to a completed path, one pencil resting before the unfinished
   section and a second pencil placed aside, no people, no hands, no text, no logo,
   no readable interface, no brand
+impact:
+  areas: [life]
+  line: "For parents of school-age children: in a 2024 review of 28 studies, only autonomy support was positively linked to achievement. Correcting every line or finishing the hard part was not."
+  todo: "Tonight, try asking what the task asks, what your child has tried and what the next step is. If they repeatedly cannot start, tell the teacher exactly where it stopped."
 sources:
 - name: Psicothema — Parental Homework Involvement and Students' Achievement
   url: https://pubmed.ncbi.nlm.nih.gov/38227295/

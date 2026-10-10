@@ -20,6 +20,10 @@ event_id: ''
 series: ''
 image_query: conceptual kitchen sink cutting board raw chicken food safety no people
   no text
+impact:
+  areas: [health, life]
+  line: "Kdo oplachuje syrové kuře, otevírá bakteriím cestu do dřezu, na kohoutek a do salátu, a maso tím bezpečnější nebude. Nejvíc ohrožení bývají hosté: malé děti, starší příbuzní, těhotné."
+  todo: "Najděte si, jakou vnitřní teplotu drůbeže uvádí národní úřad pro bezpečnost potravin, a zkontrolujte, jestli máte v kuchyni teploměr, kterým ji ověříte."
 sources:
 - name: U.S. Centers for Disease Control and Prevention
   url: https://www.cdc.gov/food-safety/foods/chicken.html

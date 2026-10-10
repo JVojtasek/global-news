@@ -23,6 +23,10 @@ image_query: conceptual editorial illustration of a half-built paper bridge conn
   a small study desk to a completed path, one pencil resting before the unfinished
   section and a second pencil placed aside, no people, no hands, no text, no logo,
   no readable interface, no brand
+impact:
+  areas: [life]
+  line: "Pro rodiče školáků: v přehledu 28 studií z roku 2024 souvisela s lepšími výsledky jen podpora samostatnosti. Opravování každého řádku ani dodělávání těžké části ne."
+  todo: "Zkuste se dnes zeptat, na co se úloha ptá, co už dítě zkusilo a jaký je další krok. Když opakovaně nemůže začít, napište učiteli, kde přesně se zaseklo."
 sources:
 - name: Psicothema — Parental Homework Involvement and Students' Achievement
   url: https://pubmed.ncbi.nlm.nih.gov/38227295/

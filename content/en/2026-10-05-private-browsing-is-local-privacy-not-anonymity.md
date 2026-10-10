@@ -20,6 +20,10 @@ format: wider-lens
 event_id: ''
 series: ''
 image_query: ''
+impact:
+  areas: [safety, life]
+  line: "A private window hides your session from the next person using the same browser, not from websites, signed-in accounts, employers, schools or internet providers. Downloads and bookmarks stay behind."
+  todo: "Before relying on private mode, name who you want privacy from, and read your browser's own help page on what Incognito, InPrivate or Private Browsing keeps."
 sources:
 - name: Google Chrome Help — Browse in Incognito mode
   url: https://support.google.com/chrome/answer/95464/browse-in-private-computer?hl=en-GB

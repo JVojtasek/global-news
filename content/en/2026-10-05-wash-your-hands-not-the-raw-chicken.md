@@ -21,6 +21,10 @@ event_id: ''
 series: ''
 image_query: conceptual kitchen sink cutting board raw chicken food safety no people
   no text
+impact:
+  areas: [health, life]
+  line: "Anyone who rinses raw chicken adds a way for germs to reach the sink, tap and salad without making the meat safer. The people most exposed are often guests: young children, older relatives, pregnant people."
+  todo: "Look up the safe internal temperature your national food-safety agency lists for poultry, and check whether your kitchen has a food thermometer that can confirm it."
 sources:
 - name: U.S. Centers for Disease Control and Prevention
   url: https://www.cdc.gov/food-safety/foods/chicken.html

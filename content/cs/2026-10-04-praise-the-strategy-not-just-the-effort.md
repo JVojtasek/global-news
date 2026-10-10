@@ -21,6 +21,10 @@ event_id: ''
 series: ''
 image_query: conceptual paper path showing several attempts becoming a solved pattern,
   warm editorial illustration, no people, no text
+impact:
+  areas: [life]
+  line: "V zákonech ani penězích se nic nemění; mění se, jak dospělí mluví s dětmi o jejich práci. Pochvala, která pojmenuje postup, dá dítěti něco k zopakování, nálepka „chytrý“ může z nezdaru udělat rozsudek."
+  todo: "Až vám dítě příště ukáže hotovou práci, popište jednu konkrétní věc, kterou udělalo, a zeptejte se, kde se zaseklo."
 sources:
 - name: Journal of Personality and Social Psychology — Mueller and Dweck
   url: https://pubmed.ncbi.nlm.nih.gov/9686450/

@@ -22,6 +22,10 @@ event_id: ''
 series: ''
 image_query: conceptual paper path showing several attempts becoming a solved pattern,
   warm editorial illustration, no people, no text
+impact:
+  areas: [life]
+  line: "Nothing changes in law or money; what changes is how adults talk to children about their work. Praise that names a strategy gives a child something to reuse, while labels like smart can make setbacks feel like verdicts."
+  todo: "Next time a child shows you finished work, describe one specific thing they did, then ask where they got stuck."
 sources:
 - name: Journal of Personality and Social Psychology — Mueller and Dweck
   url: https://pubmed.ncbi.nlm.nih.gov/9686450/

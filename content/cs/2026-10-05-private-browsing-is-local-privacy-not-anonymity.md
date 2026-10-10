@@ -19,6 +19,10 @@ format: wider-lens
 event_id: ''
 series: ''
 image_query: ''
+impact:
+  areas: [safety, life]
+  line: "Anonymní okno skryje relaci před dalším člověkem u stejného prohlížeče, ne před weby, přihlášenými účty, zaměstnavatelem, školou nebo poskytovatelem internetu. Stažené soubory a záložky zůstávají."
+  todo: "Než se na anonymní režim spolehnete, řekněte si, před kým chcete soukromí, a přečtěte si v nápovědě svého prohlížeče, co anonymní okno uchovává."
 sources:
 - name: Google Chrome Help — Browse in Incognito mode
   url: https://support.google.com/chrome/answer/95464/browse-in-private-computer?hl=en-GB
