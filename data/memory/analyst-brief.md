@@ -9,7 +9,6 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 62 dní · 60 záznamů
 - časová osa:
-  - **2026-10-08** (3 zdrojů) South Korea recalls Ukraine envoy over prisoner-of-war row
   - **2026-10-08** (2 zdrojů) South Korea warns of AI-aided hacking after bank data breaches
   - **2026-10-09** (6 zdrojů) Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
   - **2026-10-10** (2 zdrojů) Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
@@ -19,12 +18,11 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-10** (2 zdrojů) Putin relayed Iran war proposal to Trump, Kremlin says
   - **2026-10-10** (2 zdrojů) Germany sticks to Russia sanctions after Trump diesel deal
   - **2026-10-10** (2 zdrojů) 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+  - **2026-10-10** (4 zdrojů) Watch: 'Time for Ukraine to get a new president', says Trump
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 53 dní · 60 záznamů
 - časová osa:
-  - **2026-10-03** (2 zdrojů) Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
-  - **2026-10-05** (2 zdrojů) Manchester City must be relegated, says Canada’s ex-Leeds manager
   - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
   - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
   - **2026-10-08** (2 zdrojů) Glasner urges quick end to Manchester City saga and fears damage to Premier League
@@ -33,6 +31,8 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-09** (2 zdrojů) Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
   - **2026-10-09** (1 zdrojů) Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
   - **2026-10-10** (2 zdrojů) Manchester United v Tottenham: Premier League – live
+  - **2026-10-10** (2 zdrojů) Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
+  - **2026-10-10** (2 zdrojů) Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů

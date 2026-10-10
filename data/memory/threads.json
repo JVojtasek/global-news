@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "houthi",
-    "brics",
-    "zelenskyy",
-    "french",
-    "putin",
-    "kuwait",
     "trump",
-    "south",
-    "lightning",
-    "russia",
-    "donald",
-    "lyon",
-    "araghchi",
+    "french",
     "gulf",
+    "google",
+    "d-day",
+    "brics",
+    "kuwait",
+    "north",
+    "tuesday",
+    "araghchi",
+    "centcom",
+    "zelenskyy",
+    "modi",
+    "times",
+    "time",
+    "lightning",
+    "groundhog",
+    "lyon",
+    "taiz",
+    "marib",
+    "south",
+    "ai-aided",
+    "ukraine",
+    "persian",
+    "zelensky",
+    "russia",
+    "ukrainian",
+    "korea",
+    "germany",
     "luckin",
     "east",
-    "time",
-    "middle",
-    "ai-aided",
-    "ukrainian",
-    "times",
-    "iran",
-    "taiz",
-    "ukraine",
-    "groundhog",
-    "iran's",
     "moscow",
-    "centcom",
-    "north",
-    "marib",
-    "tuesday",
-    "korea",
-    "modi",
-    "d-day",
-    "persian",
-    "saudis",
-    "google",
-    "germany",
+    "iran",
+    "putin",
+    "iran's",
+    "donald",
     "briton",
-    "zelensky"
+    "saudis",
+    "houthi",
+    "middle"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -165,22 +165,12 @@
     "71ab3bd9de8b",
     "bd67e8f7c237",
     "0f4ac4de3969",
-    "8fd635139c0b"
+    "8fd635139c0b",
+    "bfb42042cd71"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-10",
    "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Trump says all mines cleared from Strait of Hormuz",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6c6b7d488472",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html"
-     ]
-    },
     {
      "date": "2026-08-27",
      "headline": "Chaos mars Fenerbahce’s Champions League qualifying win over Lyon",
@@ -849,6 +839,18 @@
       "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf"
      ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Watch: 'Time for Ukraine to get a new president', says Trump",
+     "sources": 4,
+     "score": 72,
+     "event_id": "bfb42042cd71",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html"
+     ]
     }
    ]
   },
@@ -858,45 +860,45 @@
    "section": "sport",
    "entities": [
     "manchester",
-    "real",
-    "salisbury",
-    "andy",
-    "forest",
-    "greenwood",
-    "ever",
-    "women",
-    "villa",
-    "carrick",
-    "liverpool",
-    "premier",
-    "napoli",
-    "salah",
-    "millionaire",
-    "scherpen",
-    "league",
-    "canada",
-    "glasner",
-    "jamie",
-    "jackson",
-    "guess",
-    "beckett",
-    "phil",
-    "burnham",
     "chris",
+    "jonathan",
+    "salisbury",
+    "wilson",
     "mason",
-    "tuchel",
-    "michael",
-    "kuwait",
-    "rwandan",
+    "jackson",
+    "ever",
+    "liverpool",
+    "jamie",
     "business",
-    "united",
+    "kuwait",
+    "villa",
     "isak",
-    "troy's",
     "city",
-    "fifa",
-    "gakpo",
+    "forest",
+    "canada",
+    "united",
     "sports",
-    "maresca"
+    "andy",
+    "premier",
+    "carrick",
+    "salah",
+    "burnham",
+    "phil",
+    "millionaire",
+    "spurs",
+    "greenwood",
+    "napoli",
+    "gakpo",
+    "glasner",
+    "beckett",
+    "maresca",
+    "troy's",
+    "real",
+    "rwandan",
+    "fifa",
+    "michael",
+    "women",
+    "tuchel"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -990,35 +992,13 @@
     "109847f04471",
     "faddee96db4e",
     "c8655c8f4915",
-    "9bdd0a68599f"
+    "9bdd0a68599f",
+    "6a62004872d3",
+    "0481a649943e"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-10",
    "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "Ipswich Town v Liverpool: Premier League – live",
-     "sources": 2,
-     "score": 51,
-     "event_id": "b2ce06d6a200",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/4/live-ipswich-town-vs-liverpool-premier-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Isak shines at last but Scherpen suffers - Ipswich v Liverpool player ratings",
-     "sources": 3,
-     "score": 60,
-     "event_id": "a0428a510351",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham"
-     ]
-    },
     {
      "date": "2026-09-05",
      "headline": "Isak finally arrives as Gakpo proves value to Liverpool",
@@ -1688,6 +1668,29 @@
       "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
       "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
       "https://www.theguardian.com/football/live/2026/oct/10/arsenal-v-leeds-premier-league-live"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Carrick ‘massively disappointed’ after United drop points against 10-man Spurs",
+     "sources": 2,
+     "score": 49,
+     "event_id": "6a62004872d3",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/10/michael-carrick-manchester-united-tottenham-roberto-de-zerbi",
+      "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
+     "sources": 2,
+     "score": 40,
+     "event_id": "0481a649943e",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich",
+      "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
      ]
     }
    ]
@@ -2525,15 +2528,17 @@
    "entities": [
     "coast",
     "florida",
+    "gulf",
     "hurricane",
     "isaias",
     "life-threatening",
-    "gulf"
+    "four"
    ],
    "event_ids": [
     "9ac693013f73",
     "90b7ee8d1d5c",
-    "50c38b06fc65"
+    "50c38b06fc65",
+    "b2308317d69b"
    ],
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-10",
@@ -2571,6 +2576,17 @@
       "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+     "sources": 2,
+     "score": 41,
+     "event_id": "b2308317d69b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -14850,5 +14866,5 @@
    ]
   }
  ],
- "updated": "2026-10-10T18:31:50+00:00"
+ "updated": "2026-10-10T21:25:59+00:00"
 }
