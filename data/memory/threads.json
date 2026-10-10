@@ -1017,21 +1017,23 @@
    "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
    "section": "world",
    "entities": [
-    "navi",
     "stain",
-    "norway",
     "nobel",
-    "peace",
+    "navi",
+    "prize",
     "pillay",
+    "navanethem",
     "trump",
-    "prize"
+    "peace",
+    "norway"
    ],
    "event_ids": [
     "d7c7a0654af4",
     "1f36d06a3b96",
     "36dc6bd9a136",
     "1e8bc4bbe1cf",
-    "86a510043ce8"
+    "86a510043ce8",
+    "0cf138feb61b"
    ],
    "first_seen": "2026-10-09",
    "last_seen": "2026-10-10",
@@ -1093,6 +1095,17 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
+     "sources": 2,
+     "score": 45,
+     "event_id": "0cf138feb61b",
+     "links": [
+      "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss"
      ]
     }
    ]
@@ -14779,5 +14792,5 @@
    ]
   }
  ],
- "updated": "2026-10-10T06:41:32+00:00"
+ "updated": "2026-10-10T09:28:34+00:00"
 }
