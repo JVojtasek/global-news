@@ -14,25 +14,25 @@
   },
   "dimensions": [
     {
-      "id": "next_step",
+      "id": "next-step",
       "label": {"en": "A clear next step", "cs": "Jasný další krok"},
       "why": {"en": "Momentum often returns when you can name the next observable action and its cue.", "cs": "Tempo se vám často vrátí, když dokážete pojmenovat další pozorovatelnou činnost a její spouštěč."},
       "action": {"en": "Turn one intention into an if-then plan for the next 24 hours.", "cs": "Převeďte jeden záměr na plán „když–pak“ pro příštích 24 hodin."}
     },
     {
-      "id": "visible_evidence",
+      "id": "visible-evidence",
       "label": {"en": "Visible evidence", "cs": "Viditelný důkaz"},
       "why": {"en": "You regain energy when a count, draft, comparison or test shows that effort changed something.", "cs": "Energii znovu získáváte, když počet, návrh, srovnání nebo test ukáže, že úsilí něco změnilo."},
       "action": {"en": "Choose one lightweight measure that can change within a week and record a baseline.", "cs": "Zvolte jedno jednoduché měřítko, které se může změnit během týdne, a zaznamenejte výchozí stav."}
     },
     {
-      "id": "closed_loop",
+      "id": "closed-loop",
       "label": {"en": "A closed loop", "cs": "Uzavřený celek"},
       "why": {"en": "Completion matters to you; finishing a bounded piece releases attention for the next one.", "cs": "Záleží vám na dokončení; uzavření ohraničené části uvolní pozornost pro další."},
       "action": {"en": "Define a version small enough to finish today, including what you will deliberately leave out.", "cs": "Určete verzi dost malou na dnešní dokončení, včetně toho, co záměrně vynecháte."}
     },
     {
-      "id": "shared_movement",
+      "id": "shared-movement",
       "label": {"en": "Shared movement", "cs": "Společný postup"},
       "why": {"en": "Progress feels real when another person can see it, respond to it or move alongside you.", "cs": "Pokrok pro vás působí skutečně, když ho druhý člověk může vidět, reagovat na něj nebo postupovat s vámi."},
       "action": {"en": "Arrange one brief check-in focused on evidence, obstacles and the next commitment.", "cs": "Domluvte jedno krátké setkání zaměřené na důkazy, překážky a další závazek."}
@@ -43,106 +43,106 @@
       "id": "long-project",
       "text": {"en": "A useful project still has months to run. What makes this week feel worthwhile?", "cs": "Užitečný projekt potrvá ještě několik měsíců. Co dá tomuto týdnu pocit smyslu?"},
       "options": [
-        {"label": {"en": "Knowing the first concrete move for Monday morning", "cs": "Vědět, jaký bude první konkrétní krok v pondělí ráno"}, "scores": {"next_step": 3, "visible_evidence": 0, "closed_loop": 1, "shared_movement": 0}},
-        {"label": {"en": "Seeing one measure move from its starting point", "cs": "Vidět, jak se jedno měřítko posunulo od výchozího stavu"}, "scores": {"next_step": 0, "visible_evidence": 3, "closed_loop": 0, "shared_movement": 1}},
-        {"label": {"en": "Shipping one complete, deliberately limited piece", "cs": "Odevzdat jednu úplnou, záměrně omezenou část"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "Reviewing gains and obstacles with someone involved", "cs": "Projít zlepšení a překážky s někým zapojeným"}, "scores": {"next_step": 0, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 3}}
+        {"label": {"en": "Knowing the first concrete move for Monday morning", "cs": "Vědět, jaký bude první konkrétní krok v pondělí ráno"}, "scores": {"next-step": 3, "visible-evidence": 0, "closed-loop": 1, "shared-movement": 0}},
+        {"label": {"en": "Seeing one measure move from its starting point", "cs": "Vidět, jak se jedno měřítko posunulo od výchozího stavu"}, "scores": {"next-step": 0, "visible-evidence": 3, "closed-loop": 0, "shared-movement": 1}},
+        {"label": {"en": "Shipping one complete, deliberately limited piece", "cs": "Odevzdat jednu úplnou, záměrně omezenou část"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "Reviewing gains and obstacles with someone involved", "cs": "Projít zlepšení a překážky s někým zapojeným"}, "scores": {"next-step": 0, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 3}}
       ]
     },
     {
       "id": "messy-draft",
       "text": {"en": "Your first draft is messy and motivation drops. You are most likely to recover by…", "cs": "První návrh je neuspořádaný a motivace klesá. Nejpravděpodobněji se vzchopíte tak, že…"},
       "options": [
-        {"label": {"en": "Mark the next paragraph that needs one clear decision", "cs": "Označím další odstavec, který potřebuje jedno jasné rozhodnutí"}, "scores": {"next_step": 3, "visible_evidence": 0, "closed_loop": 1, "shared_movement": 0}},
-        {"label": {"en": "Compare it with the blank page and list what now exists", "cs": "Porovnám ho s prázdnou stránkou a sepíšu, co už existuje"}, "scores": {"next_step": 0, "visible_evidence": 3, "closed_loop": 0, "shared_movement": 1}},
-        {"label": {"en": "Finish one section to a shareable standard", "cs": "Dokončím jednu část do podoby vhodné ke sdílení"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "Send the rough version to a trusted reader for one reaction", "cs": "Pošlu hrubou verzi důvěryhodnému čtenáři pro jednu reakci"}, "scores": {"next_step": 0, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 3}}
+        {"label": {"en": "Mark the next paragraph that needs one clear decision", "cs": "Označím další odstavec, který potřebuje jedno jasné rozhodnutí"}, "scores": {"next-step": 3, "visible-evidence": 0, "closed-loop": 1, "shared-movement": 0}},
+        {"label": {"en": "Compare it with the blank page and list what now exists", "cs": "Porovnám ho s prázdnou stránkou a sepíšu, co už existuje"}, "scores": {"next-step": 0, "visible-evidence": 3, "closed-loop": 0, "shared-movement": 1}},
+        {"label": {"en": "Finish one section to a shareable standard", "cs": "Dokončím jednu část do podoby vhodné ke sdílení"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "Send the rough version to a trusted reader for one reaction", "cs": "Pošlu hrubou verzi důvěryhodnému čtenáři pro jednu reakci"}, "scores": {"next-step": 0, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 3}}
       ]
     },
     {
       "id": "new-routine",
       "text": {"en": "You want a new routine to survive a busy month. Which signal would help most?", "cs": "Chcete, aby nový návyk přežil rušný měsíc. Který signál by nejvíc pomohl?"},
       "options": [
-        {"label": {"en": "A specific cue that tells you exactly when to start", "cs": "Konkrétní podnět, který přesně řekne, kdy začít"}, "scores": {"next_step": 3, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 0}},
-        {"label": {"en": "A simple record showing how often it happened", "cs": "Jednoduchý záznam ukazující, jak často k tomu došlo"}, "scores": {"next_step": 1, "visible_evidence": 3, "closed_loop": 0, "shared_movement": 0}},
-        {"label": {"en": "A minimum version you can fully complete on hard days", "cs": "Minimální verze, kterou lze plně dokončit i v náročných dnech"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "A partner who checks in without policing you", "cs": "Partner, který se ozve, ale nebude vás hlídat"}, "scores": {"next_step": 0, "visible_evidence": 0, "closed_loop": 1, "shared_movement": 3}}
+        {"label": {"en": "A specific cue that tells you exactly when to start", "cs": "Konkrétní podnět, který přesně řekne, kdy začít"}, "scores": {"next-step": 3, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 0}},
+        {"label": {"en": "A simple record showing how often it happened", "cs": "Jednoduchý záznam ukazující, jak často k tomu došlo"}, "scores": {"next-step": 1, "visible-evidence": 3, "closed-loop": 0, "shared-movement": 0}},
+        {"label": {"en": "A minimum version you can fully complete on hard days", "cs": "Minimální verze, kterou lze plně dokončit i v náročných dnech"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "A partner who checks in without policing you", "cs": "Partner, který se ozve, ale nebude vás hlídat"}, "scores": {"next-step": 0, "visible-evidence": 0, "closed-loop": 1, "shared-movement": 3}}
       ]
     },
     {
       "id": "team-stalled",
       "text": {"en": "A team has worked hard, but the project feels stalled. Your instinct is to…", "cs": "Tým tvrdě pracoval, ale projekt působí zaseknutě. Instinktivně…"},
       "options": [
-        {"label": {"en": "Name the next decision, owner and deadline", "cs": "Pojmenuji další rozhodnutí, odpovědnou osobu a termín"}, "scores": {"next_step": 3, "visible_evidence": 0, "closed_loop": 0, "shared_movement": 1}},
-        {"label": {"en": "Put completed and remaining work side by side", "cs": "Položím dokončenou a zbývající práci vedle sebe"}, "scores": {"next_step": 0, "visible_evidence": 3, "closed_loop": 1, "shared_movement": 0}},
-        {"label": {"en": "Close one overdue workstream before opening another", "cs": "Uzavřu jeden opožděný pracovní proud, než otevřu další"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "Hold a short review where each person names movement and blockage", "cs": "Uspořádám krátké hodnocení, kde každý pojmenuje posun a překážku"}, "scores": {"next_step": 0, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 3}}
+        {"label": {"en": "Name the next decision, owner and deadline", "cs": "Pojmenuji další rozhodnutí, odpovědnou osobu a termín"}, "scores": {"next-step": 3, "visible-evidence": 0, "closed-loop": 0, "shared-movement": 1}},
+        {"label": {"en": "Put completed and remaining work side by side", "cs": "Položím dokončenou a zbývající práci vedle sebe"}, "scores": {"next-step": 0, "visible-evidence": 3, "closed-loop": 1, "shared-movement": 0}},
+        {"label": {"en": "Close one overdue workstream before opening another", "cs": "Uzavřu jeden opožděný pracovní proud, než otevřu další"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "Hold a short review where each person names movement and blockage", "cs": "Uspořádám krátké hodnocení, kde každý pojmenuje posun a překážku"}, "scores": {"next-step": 0, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 3}}
       ]
     },
     {
       "id": "learning-skill",
       "text": {"en": "A new skill still feels awkward after two weeks. What would reassure you?", "cs": "Nová dovednost působí po dvou týdnech stále neohrabaně. Co vás uklidní?"},
       "options": [
-        {"label": {"en": "A clearly chosen exercise for the next session", "cs": "Jasně zvolené cvičení pro příští lekci"}, "scores": {"next_step": 3, "visible_evidence": 0, "closed_loop": 1, "shared_movement": 0}},
-        {"label": {"en": "A recording or result that can be compared with day one", "cs": "Nahrávka nebo výsledek, který lze porovnat s prvním dnem"}, "scores": {"next_step": 0, "visible_evidence": 3, "closed_loop": 0, "shared_movement": 1}},
-        {"label": {"en": "Completing one small task from start to finish", "cs": "Dokončení jednoho malého úkolu od začátku do konce"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "A coach or peer noticing one specific improvement", "cs": "Trenér nebo kolega, který si všimne jednoho konkrétního zlepšení"}, "scores": {"next_step": 0, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 3}}
+        {"label": {"en": "A clearly chosen exercise for the next session", "cs": "Jasně zvolené cvičení pro příští lekci"}, "scores": {"next-step": 3, "visible-evidence": 0, "closed-loop": 1, "shared-movement": 0}},
+        {"label": {"en": "A recording or result that can be compared with day one", "cs": "Nahrávka nebo výsledek, který lze porovnat s prvním dnem"}, "scores": {"next-step": 0, "visible-evidence": 3, "closed-loop": 0, "shared-movement": 1}},
+        {"label": {"en": "Completing one small task from start to finish", "cs": "Dokončení jednoho malého úkolu od začátku do konce"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "A coach or peer noticing one specific improvement", "cs": "Trenér nebo kolega, který si všimne jednoho konkrétního zlepšení"}, "scores": {"next-step": 0, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 3}}
       ]
     },
     {
       "id": "too-many-open-items",
       "text": {"en": "Your list has many half-finished items. What brings the fastest sense of movement?", "cs": "Seznam obsahuje mnoho napůl hotových položek. Co nejrychleji přinese pocit pohybu?"},
       "options": [
-        {"label": {"en": "Choosing the very next physical action for the most important item", "cs": "Zvolit úplně další fyzický krok u nejdůležitější položky"}, "scores": {"next_step": 3, "visible_evidence": 0, "closed_loop": 1, "shared_movement": 0}},
-        {"label": {"en": "Counting what changed since the last review", "cs": "Spočítat, co se změnilo od poslední kontroly"}, "scores": {"next_step": 0, "visible_evidence": 3, "closed_loop": 0, "shared_movement": 1}},
-        {"label": {"en": "Finishing or deliberately cancelling one small item", "cs": "Dokončit nebo záměrně zrušit jednu malou položku"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "Agreeing with a colleague on what each of you will move today", "cs": "Dohodnout se s kolegou, co dnes každý z vás posune"}, "scores": {"next_step": 0, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 3}}
+        {"label": {"en": "Choosing the very next physical action for the most important item", "cs": "Zvolit úplně další fyzický krok u nejdůležitější položky"}, "scores": {"next-step": 3, "visible-evidence": 0, "closed-loop": 1, "shared-movement": 0}},
+        {"label": {"en": "Counting what changed since the last review", "cs": "Spočítat, co se změnilo od poslední kontroly"}, "scores": {"next-step": 0, "visible-evidence": 3, "closed-loop": 0, "shared-movement": 1}},
+        {"label": {"en": "Finishing or deliberately cancelling one small item", "cs": "Dokončit nebo záměrně zrušit jednu malou položku"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "Agreeing with a colleague on what each of you will move today", "cs": "Dohodnout se s kolegou, co dnes každý z vás posune"}, "scores": {"next-step": 0, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 3}}
       ]
     },
     {
       "id": "invisible-maintenance",
       "text": {"en": "Important maintenance work prevents problems but produces no obvious launch. You value it more when…", "cs": "Důležitá údržba předchází problémům, ale nepřináší viditelné spuštění. Víc si jí ceníte, když…"},
       "options": [
-        {"label": {"en": "The next maintenance action is scheduled before you stop", "cs": "Další krok údržby je naplánován ještě před skončením"}, "scores": {"next_step": 3, "visible_evidence": 0, "closed_loop": 1, "shared_movement": 0}},
-        {"label": {"en": "A trend shows fewer failures, delays or repeated fixes", "cs": "Trend ukazuje méně poruch, zpoždění nebo opakovaných oprav"}, "scores": {"next_step": 0, "visible_evidence": 3, "closed_loop": 0, "shared_movement": 1}},
-        {"label": {"en": "One component is inspected, documented and signed off", "cs": "Jedna součást je zkontrolována, zdokumentována a uzavřena"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "The people protected by the work understand what changed", "cs": "Lidé, které práce chrání, rozumějí tomu, co se změnilo"}, "scores": {"next_step": 0, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 3}}
+        {"label": {"en": "The next maintenance action is scheduled before you stop", "cs": "Další krok údržby je naplánován ještě před skončením"}, "scores": {"next-step": 3, "visible-evidence": 0, "closed-loop": 1, "shared-movement": 0}},
+        {"label": {"en": "A trend shows fewer failures, delays or repeated fixes", "cs": "Trend ukazuje méně poruch, zpoždění nebo opakovaných oprav"}, "scores": {"next-step": 0, "visible-evidence": 3, "closed-loop": 0, "shared-movement": 1}},
+        {"label": {"en": "One component is inspected, documented and signed off", "cs": "Jedna součást je zkontrolována, zdokumentována a uzavřena"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "The people protected by the work understand what changed", "cs": "Lidé, které práce chrání, rozumějí tomu, co se změnilo"}, "scores": {"next-step": 0, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 3}}
       ]
     },
     {
       "id": "setback",
       "text": {"en": "A setback erases part of last week's work. What helps you restart?", "cs": "Nezdar smaže část práce z minulého týdne. Co vám pomůže znovu začít?"},
       "options": [
-        {"label": {"en": "A small action you can take before analysing everything", "cs": "Malý krok, který lze udělat ještě před úplnou analýzou"}, "scores": {"next_step": 3, "visible_evidence": 0, "closed_loop": 1, "shared_movement": 0}},
-        {"label": {"en": "Evidence showing which gains survived the setback", "cs": "Důkaz ukazující, které přínosy nezdar přežily"}, "scores": {"next_step": 0, "visible_evidence": 3, "closed_loop": 0, "shared_movement": 1}},
-        {"label": {"en": "Closing the failed attempt with a written lesson", "cs": "Uzavřít neúspěšný pokus písemným poučením"}, "scores": {"next_step": 1, "visible_evidence": 0, "closed_loop": 3, "shared_movement": 0}},
-        {"label": {"en": "A candid conversation that resets expectations and support", "cs": "Upřímný rozhovor, který znovu nastaví očekávání a podporu"}, "scores": {"next_step": 0, "visible_evidence": 1, "closed_loop": 0, "shared_movement": 3}}
+        {"label": {"en": "A small action you can take before analysing everything", "cs": "Malý krok, který lze udělat ještě před úplnou analýzou"}, "scores": {"next-step": 3, "visible-evidence": 0, "closed-loop": 1, "shared-movement": 0}},
+        {"label": {"en": "Evidence showing which gains survived the setback", "cs": "Důkaz ukazující, které přínosy nezdar přežily"}, "scores": {"next-step": 0, "visible-evidence": 3, "closed-loop": 0, "shared-movement": 1}},
+        {"label": {"en": "Closing the failed attempt with a written lesson", "cs": "Uzavřít neúspěšný pokus písemným poučením"}, "scores": {"next-step": 1, "visible-evidence": 0, "closed-loop": 3, "shared-movement": 0}},
+        {"label": {"en": "A candid conversation that resets expectations and support", "cs": "Upřímný rozhovor, který znovu nastaví očekávání a podporu"}, "scores": {"next-step": 0, "visible-evidence": 1, "closed-loop": 0, "shared-movement": 3}}
       ]
     }
   ],
   "outcomes": {
-    "next_step": {
+    "next-step": {
       "title": {"en": "You regain momentum through a clear next step", "cs": "Tempo znovu získáváte díky jasnému dalšímu kroku"},
       "summary": {"en": "Vague work becomes manageable when you can link a concrete action to a time or cue. This is a current preference, not a fixed personality type.", "cs": "Nejasná práce se stává zvládnutelnou, když spojíte konkrétní činnost s časem nebo podnětem. Jde o současnou preferenci, ne pevný typ osobnosti."},
       "strength": {"en": "You can reduce the friction between intention and action.", "cs": "Dokážete snížit tření mezi záměrem a činností."},
       "watch": {"en": "A crisp next step can create motion without proving that the direction is still right.", "cs": "Přesný další krok může vytvořit pohyb, aniž by dokazoval, že směr je stále správný."},
       "action": {"en": "Pair the next action with one sentence explaining what larger outcome it serves.", "cs": "Spojte další činnost s jednou větou vysvětlující, jakému většímu výsledku slouží."}
     },
-    "visible_evidence": {
+    "visible-evidence": {
       "title": {"en": "You regain momentum through visible evidence", "cs": "Tempo znovu získáváte díky viditelnému důkazu"},
       "summary": {"en": "You prefer proof that effort changed a result, behaviour or artefact. This is a current preference, not a fixed personality type.", "cs": "Dáváte přednost důkazu, že úsilí změnilo výsledek, chování nebo výstup. Jde o současnou preferenci, ne pevný typ osobnosti."},
       "strength": {"en": "A baseline and repeat measure can reveal progress that memory misses.", "cs": "Výchozí stav a opakované měření mohou odhalit pokrok, který paměť přehlédne."},
       "watch": {"en": "The easiest number to move may not represent the outcome that matters.", "cs": "Nejsnáze posunutelné číslo nemusí představovat výsledek, na kterém záleží."},
       "action": {"en": "Add one qualitative check that tests whether the measured change is genuinely useful.", "cs": "Přidejte jednu kvalitativní kontrolu, která ověří, zda je měřená změna skutečně užitečná."}
     },
-    "closed_loop": {
+    "closed-loop": {
       "title": {"en": "You regain momentum by closing a loop", "cs": "Tempo znovu získáváte uzavřením celku"},
       "summary": {"en": "A bounded finish releases attention and makes progress tangible for you. This is a current preference, not a fixed personality type.", "cs": "Ohraničené dokončení vám uvolní pozornost a učiní pokrok hmatatelným. Jde o současnou preferenci, ne pevný typ osobnosti."},
       "strength": {"en": "You can turn sprawling work into deliverable units and reduce lingering obligations.", "cs": "Dokážete proměnit rozlehlou práci v odevzdatelné celky a omezit přetrvávající závazky."},
       "watch": {"en": "Finishing small tasks can become avoidance when a difficult open question deserves priority.", "cs": "Dokončování malých úkolů se může stát vyhýbáním, když si obtížná otevřená otázka zaslouží prioritu."},
       "action": {"en": "Before choosing what to finish, name the most consequential unfinished question.", "cs": "Než zvolíte, co dokončit, pojmenujte nejzávažnější nedořešenou otázku."}
     },
-    "shared_movement": {
+    "shared-movement": {
       "title": {"en": "You regain momentum through shared movement", "cs": "Tempo znovu získáváte díky společnému postupu"},
       "summary": {"en": "Progress feels stronger when another person witnesses, responds to or joins it. This is a current preference, not a fixed personality type.", "cs": "Pokrok působí silněji, když ho druhý člověk vidí, reaguje na něj nebo se připojí. Jde o současnou preferenci, ne pevný typ osobnosti."},
       "strength": {"en": "You can turn private effort into coordination, support and useful feedback.", "cs": "Dokážete proměnit soukromé úsilí v koordinaci, podporu a užitečnou zpětnou vazbu."},

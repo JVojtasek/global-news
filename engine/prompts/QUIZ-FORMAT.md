@@ -49,10 +49,13 @@ The root object uses `schema_version: 1`, `diagnostic: false`, a unique kebab-ca
 `slug`, Europe/Prague `date`, one allowed `category`, `mode`, and an integer
 `estimated_minutes` from 2 to 10. It contains:
 
-- bilingual `copy.title`, `copy.dek`, `copy.intro`, `copy.disclaimer`;
-- 3–7 `dimensions` for assessment/profile quizzes, each with `id` and bilingual
+- bilingual `copy.title`, `copy.dek`, `copy.intro`, `copy.disclaimer`
+  (these four fields live under `copy`, not at the root);
+- 3–7 `dimensions` for assessment/profile quizzes, each with a kebab-case `id`
+  (letters, digits and hyphens only — the same rule as `slug`) and bilingual
   `label`, `why`, `action`;
-- 6–20 `questions`, unique `id`, bilingual `text`, and 3–5 bilingual options;
+- 6–20 `questions`, unique kebab-case `id`, bilingual `text`, and 3–5 options
+  whose bilingual wording is `label` (`{"en","cs"}`), never `text` or `prompt`;
 - `outcomes` that cover every possible score, or one profile outcome for every
   dimension;
 - at least two unique direct-HTTPS `sources` with `name`, `url`, honest

@@ -41,6 +41,25 @@ class DailyQuizTests(unittest.TestCase):
         with self.assertRaises(quizzes.QuizValidationError):
             quizzes._validate(broken, FIXTURE)
 
+    def test_every_quiz_file_passes_the_publication_gate(self):
+        files = list(Path("data/quizzes").glob("*.json"))
+        loaded = quizzes.load_all("9999-12-31")
+        self.assertEqual(len(files), len(loaded))
+        self.assertEqual(len({item["slug"] for item in loaded}), len(loaded))
+        for item in loaded:
+            for lang in ("en", "cs"):
+                view = quizzes.view(item, lang)
+                self.assertTrue(view["title"])
+                self.assertTrue(view["disclaimer"])
+                self.assertTrue(view["questions"])
+                labels = [
+                    option["label"]
+                    for question in view["questions"]
+                    for option in question["options"]
+                ]
+                self.assertTrue(labels)
+                self.assertTrue(all(labels))
+
 
 if __name__ == "__main__":
     unittest.main()

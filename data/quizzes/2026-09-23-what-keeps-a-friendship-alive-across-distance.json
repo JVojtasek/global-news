@@ -26,13 +26,13 @@
       "action": {"en": "For one important subject, ask for a focused call or voice exchange rather than stretching it across fragments.", "cs": "U jednoho důležitého tématu požádejte o soustředěný hovor či hlasovou výměnu místo jeho natahování přes útržky."}
     },
     {
-      "id": "shared_time",
+      "id": "shared-time",
       "label": {"en": "Create shared time", "cs": "Vytvářet společný čas"},
       "why": {"en": "You often protect closeness by doing something together, not only reporting separate lives to each other.", "cs": "Blízkost často chráníte tím, že něco děláte společně, nejen vzájemným hlášením oddělených životů."},
       "action": {"en": "Put one small shared activity or future visit on the calendar with an easy fallback.", "cs": "Zapište do kalendáře jednu malou společnou aktivitu či budoucí návštěvu s jednoduchou náhradní variantou."}
     },
     {
-      "id": "follow_through",
+      "id": "follow-through",
       "label": {"en": "Turn care into follow-through", "cs": "Převést péči do činu"},
       "why": {"en": "You often show continuity by remembering what mattered and returning with a specific question, resource or practical act.", "cs": "Návaznost často ukazujete tím, že si zapamatujete, na čem záleželo, a vrátíte se s konkrétní otázkou, zdrojem nebo praktickým činem."},
       "action": {"en": "Note one detail to revisit, then follow up at the time it will matter rather than only when it is convenient.", "cs": "Poznamenejte si jeden detail, ke kterému se vrátíte, a ozvěte se ve chvíli, kdy na tom bude záležet, ne jen když je to pohodlné."}
@@ -43,80 +43,80 @@
       "id": "busy-month",
       "text": {"en": "A close friend enters a very busy month and long calls are unlikely. What do you do first?", "cs": "Blízkému příteli začíná velmi rušný měsíc a dlouhé hovory jsou nepravděpodobné. Co uděláte nejdřív?"},
       "options": [
-        {"label": {"en": "Suggest a brief weekly check-in with no pressure for an immediate reply", "cs": "Navrhnu krátké týdenní ozvání bez tlaku na okamžitou odpověď"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 0, "follow_through": 1}},
-        {"label": {"en": "Ask which one issue deserves protected time for a real conversation", "cs": "Zeptám se, které jedno téma si zaslouží chráněný čas na skutečný rozhovor"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
-        {"label": {"en": "Book one low-effort shared evening for after the deadline", "cs": "Naplánuji jeden nenáročný společný večer po termínu"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
-        {"label": {"en": "Write down the key date and check in specifically when it arrives", "cs": "Poznamenám si klíčové datum a konkrétně se ozvu, až nastane"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+        {"label": {"en": "Suggest a brief weekly check-in with no pressure for an immediate reply", "cs": "Navrhnu krátké týdenní ozvání bez tlaku na okamžitou odpověď"}, "scores": {"rhythm": 3, "depth": 0, "shared-time": 0, "follow-through": 1}},
+        {"label": {"en": "Ask which one issue deserves protected time for a real conversation", "cs": "Zeptám se, které jedno téma si zaslouží chráněný čas na skutečný rozhovor"}, "scores": {"rhythm": 0, "depth": 3, "shared-time": 0, "follow-through": 1}},
+        {"label": {"en": "Book one low-effort shared evening for after the deadline", "cs": "Naplánuji jeden nenáročný společný večer po termínu"}, "scores": {"rhythm": 0, "depth": 0, "shared-time": 3, "follow-through": 1}},
+        {"label": {"en": "Write down the key date and check in specifically when it arrives", "cs": "Poznamenám si klíčové datum a konkrétně se ozvu, až nastane"}, "scores": {"rhythm": 1, "depth": 0, "shared-time": 0, "follow-through": 3}}
       ]
     },
     {
       "id": "important-news",
       "text": {"en": "A friend sends a short message that hints at important news. Your natural first move is to…", "cs": "Přítel pošle krátkou zprávu naznačující důležitou novinu. Vaším přirozeným prvním krokem je…"},
       "options": [
-        {"label": {"en": "Reply now so they know the line is open, even if a fuller answer comes later", "cs": "Odpovím hned, aby věděli, že je spojení otevřené, i když podrobnější odpověď přijde později"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
-        {"label": {"en": "Offer a call where tone and pauses will not be flattened into text", "cs": "Nabídnu hovor, v němž se tón a pauzy neztratí v textu"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
-        {"label": {"en": "Suggest talking while you both take a walk or share another simple activity", "cs": "Navrhnu rozhovor při společné procházce na dálku nebo jiné jednoduché aktivitě"}, "scores": {"rhythm": 0, "depth": 1, "shared_time": 3, "follow_through": 0}},
-        {"label": {"en": "Ask one concrete question now and return to the answer at the promised time", "cs": "Položím jednu konkrétní otázku hned a k odpovědi se vrátím ve slíbenou dobu"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+        {"label": {"en": "Reply now so they know the line is open, even if a fuller answer comes later", "cs": "Odpovím hned, aby věděli, že je spojení otevřené, i když podrobnější odpověď přijde později"}, "scores": {"rhythm": 3, "depth": 1, "shared-time": 0, "follow-through": 0}},
+        {"label": {"en": "Offer a call where tone and pauses will not be flattened into text", "cs": "Nabídnu hovor, v němž se tón a pauzy neztratí v textu"}, "scores": {"rhythm": 0, "depth": 3, "shared-time": 0, "follow-through": 1}},
+        {"label": {"en": "Suggest talking while you both take a walk or share another simple activity", "cs": "Navrhnu rozhovor při společné procházce na dálku nebo jiné jednoduché aktivitě"}, "scores": {"rhythm": 0, "depth": 1, "shared-time": 3, "follow-through": 0}},
+        {"label": {"en": "Ask one concrete question now and return to the answer at the promised time", "cs": "Položím jednu konkrétní otázku hned a k odpovědi se vrátím ve slíbenou dobu"}, "scores": {"rhythm": 1, "depth": 0, "shared-time": 0, "follow-through": 3}}
       ]
     },
     {
       "id": "messages-thinning",
       "text": {"en": "Messages have gradually become less frequent, but there has been no conflict. What comes first?", "cs": "Zprávy postupně řídnou, ale nedošlo ke konfliktu. Co přijde jako první?"},
       "options": [
-        {"label": {"en": "Restart with a small recurring exchange that is easy to keep", "cs": "Začnu znovu malou opakovanou výměnou, kterou lze snadno udržet"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 1, "follow_through": 0}},
-        {"label": {"en": "Ask directly how the friendship feels to them now", "cs": "Přímo se zeptám, jak nyní přátelství vnímají"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
-        {"label": {"en": "Invite them to a specific game, film or planned visit", "cs": "Pozvu je ke konkrétní hře, filmu nebo plánované návštěvě"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
-        {"label": {"en": "Return to something they mentioned before and ask what happened next", "cs": "Vrátím se k něčemu, co dříve zmínili, a zeptám se, jak to pokračovalo"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+        {"label": {"en": "Restart with a small recurring exchange that is easy to keep", "cs": "Začnu znovu malou opakovanou výměnou, kterou lze snadno udržet"}, "scores": {"rhythm": 3, "depth": 0, "shared-time": 1, "follow-through": 0}},
+        {"label": {"en": "Ask directly how the friendship feels to them now", "cs": "Přímo se zeptám, jak nyní přátelství vnímají"}, "scores": {"rhythm": 0, "depth": 3, "shared-time": 0, "follow-through": 1}},
+        {"label": {"en": "Invite them to a specific game, film or planned visit", "cs": "Pozvu je ke konkrétní hře, filmu nebo plánované návštěvě"}, "scores": {"rhythm": 0, "depth": 0, "shared-time": 3, "follow-through": 1}},
+        {"label": {"en": "Return to something they mentioned before and ask what happened next", "cs": "Vrátím se k něčemu, co dříve zmínili, a zeptám se, jak to pokračovalo"}, "scores": {"rhythm": 1, "depth": 0, "shared-time": 0, "follow-through": 3}}
       ]
     },
     {
       "id": "time-zones",
       "text": {"en": "Time zones make live conversation difficult. Which adjustment would you try first?", "cs": "Časová pásma ztěžují živý rozhovor. Kterou úpravu zkusíte nejdřív?"},
       "options": [
-        {"label": {"en": "Use short asynchronous updates at a predictable pace", "cs": "Použiji krátké asynchronní zprávy v předvídatelném rytmu"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
-        {"label": {"en": "Exchange longer voice notes when an issue needs nuance", "cs": "Vyměníme si delší hlasové zprávy, když téma potřebuje nuance"}, "scores": {"rhythm": 1, "depth": 3, "shared_time": 0, "follow_through": 0}},
-        {"label": {"en": "Choose one occasional overlap for a shared meal, walk or watch-along", "cs": "Zvolím občasný společný čas na jídlo, procházku či sledování něčeho"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
-        {"label": {"en": "Keep a note of what they are awaiting and follow up across the gap", "cs": "Poznamenám si, na co čekají, a přes časový rozdíl se k tomu vrátím"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+        {"label": {"en": "Use short asynchronous updates at a predictable pace", "cs": "Použiji krátké asynchronní zprávy v předvídatelném rytmu"}, "scores": {"rhythm": 3, "depth": 1, "shared-time": 0, "follow-through": 0}},
+        {"label": {"en": "Exchange longer voice notes when an issue needs nuance", "cs": "Vyměníme si delší hlasové zprávy, když téma potřebuje nuance"}, "scores": {"rhythm": 1, "depth": 3, "shared-time": 0, "follow-through": 0}},
+        {"label": {"en": "Choose one occasional overlap for a shared meal, walk or watch-along", "cs": "Zvolím občasný společný čas na jídlo, procházku či sledování něčeho"}, "scores": {"rhythm": 0, "depth": 0, "shared-time": 3, "follow-through": 1}},
+        {"label": {"en": "Keep a note of what they are awaiting and follow up across the gap", "cs": "Poznamenám si, na co čekají, a přes časový rozdíl se k tomu vrátím"}, "scores": {"rhythm": 1, "depth": 0, "shared-time": 0, "follow-through": 3}}
       ]
     },
     {
       "id": "visit-cancelled",
       "text": {"en": "A long-planned visit must be cancelled for practical reasons. Your first repair to the connection is to…", "cs": "Dlouho plánovaná návštěva musí být z praktických důvodů zrušena. Jak nejdřív opravíte spojení?"},
       "options": [
-        {"label": {"en": "Keep the date with a short check-in so it does not disappear entirely", "cs": "Zachovám datum alespoň krátkým ozváním, aby úplně nezmizelo"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 1, "follow_through": 0}},
-        {"label": {"en": "Talk about the disappointment rather than jumping straight to logistics", "cs": "Promluvím o zklamání místo okamžitého skoku k logistice"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
-        {"label": {"en": "Replace part of the visit with an activity you can still do together", "cs": "Nahradím část návštěvy aktivitou, kterou lze stále udělat společně"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 3, "follow_through": 1}},
-        {"label": {"en": "Take responsibility for finding two realistic new dates and send them", "cs": "Převezmu odpovědnost za nalezení dvou realistických nových termínů a pošlu je"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 1, "follow_through": 3}}
+        {"label": {"en": "Keep the date with a short check-in so it does not disappear entirely", "cs": "Zachovám datum alespoň krátkým ozváním, aby úplně nezmizelo"}, "scores": {"rhythm": 3, "depth": 0, "shared-time": 1, "follow-through": 0}},
+        {"label": {"en": "Talk about the disappointment rather than jumping straight to logistics", "cs": "Promluvím o zklamání místo okamžitého skoku k logistice"}, "scores": {"rhythm": 0, "depth": 3, "shared-time": 0, "follow-through": 1}},
+        {"label": {"en": "Replace part of the visit with an activity you can still do together", "cs": "Nahradím část návštěvy aktivitou, kterou lze stále udělat společně"}, "scores": {"rhythm": 0, "depth": 0, "shared-time": 3, "follow-through": 1}},
+        {"label": {"en": "Take responsibility for finding two realistic new dates and send them", "cs": "Převezmu odpovědnost za nalezení dvou realistických nových termínů a pošlu je"}, "scores": {"rhythm": 0, "depth": 0, "shared-time": 1, "follow-through": 3}}
       ]
     },
     {
       "id": "ordinary-week",
       "text": {"en": "Nothing dramatic has happened in either life this week. What most naturally keeps the friendship warm?", "cs": "Tento týden se v žádném životě nestalo nic dramatického. Co nejpřirozeněji udrží přátelství v teple?"},
       "options": [
-        {"label": {"en": "Send a small sign of life instead of waiting for news", "cs": "Pošlu malý signál života místo čekání na novinky"}, "scores": {"rhythm": 3, "depth": 0, "shared_time": 0, "follow_through": 1}},
-        {"label": {"en": "Ask one question that invites more than a status report", "cs": "Položím jednu otázku, která zve k něčemu hlubšímu než hlášení stavu"}, "scores": {"rhythm": 1, "depth": 3, "shared_time": 0, "follow_through": 0}},
-        {"label": {"en": "Share a small experience at the same time, such as a recipe, match or episode", "cs": "Sdílím ve stejný čas malý zážitek, například recept, zápas či epizodu"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 3, "follow_through": 0}},
-        {"label": {"en": "Send the link or answer you promised in an earlier conversation", "cs": "Pošlu odkaz nebo odpověď slíbenou v dřívějším rozhovoru"}, "scores": {"rhythm": 0, "depth": 0, "shared_time": 0, "follow_through": 3}}
+        {"label": {"en": "Send a small sign of life instead of waiting for news", "cs": "Pošlu malý signál života místo čekání na novinky"}, "scores": {"rhythm": 3, "depth": 0, "shared-time": 0, "follow-through": 1}},
+        {"label": {"en": "Ask one question that invites more than a status report", "cs": "Položím jednu otázku, která zve k něčemu hlubšímu než hlášení stavu"}, "scores": {"rhythm": 1, "depth": 3, "shared-time": 0, "follow-through": 0}},
+        {"label": {"en": "Share a small experience at the same time, such as a recipe, match or episode", "cs": "Sdílím ve stejný čas malý zážitek, například recept, zápas či epizodu"}, "scores": {"rhythm": 1, "depth": 0, "shared-time": 3, "follow-through": 0}},
+        {"label": {"en": "Send the link or answer you promised in an earlier conversation", "cs": "Pošlu odkaz nebo odpověď slíbenou v dřívějším rozhovoru"}, "scores": {"rhythm": 0, "depth": 0, "shared-time": 0, "follow-through": 3}}
       ]
     },
     {
       "id": "hard-decision",
       "text": {"en": "A distant friend is facing a hard decision. What is your most likely first contribution?", "cs": "Vzdálený přítel stojí před těžkým rozhodnutím. Jaký bude nejspíš váš první příspěvek?"},
       "options": [
-        {"label": {"en": "Check in briefly at several stages so they are not left alone between conversations", "cs": "Krátce se ozvu v několika fázích, aby mezi rozhovory nezůstali sami"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
-        {"label": {"en": "Make space for a focused conversation without rushing to advice", "cs": "Vytvořím prostor pro soustředěný rozhovor bez spěchu k radě"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 0, "follow_through": 1}},
-        {"label": {"en": "Offer to stay connected while they complete one difficult step", "cs": "Nabídnu spojení během jednoho obtížného kroku"}, "scores": {"rhythm": 0, "depth": 1, "shared_time": 3, "follow_through": 0}},
-        {"label": {"en": "Ask what concrete help would matter and complete the part you accept", "cs": "Zeptám se, jaká konkrétní pomoc by měla význam, a splním část, kterou přijmu"}, "scores": {"rhythm": 0, "depth": 1, "shared_time": 0, "follow_through": 3}}
+        {"label": {"en": "Check in briefly at several stages so they are not left alone between conversations", "cs": "Krátce se ozvu v několika fázích, aby mezi rozhovory nezůstali sami"}, "scores": {"rhythm": 3, "depth": 1, "shared-time": 0, "follow-through": 0}},
+        {"label": {"en": "Make space for a focused conversation without rushing to advice", "cs": "Vytvořím prostor pro soustředěný rozhovor bez spěchu k radě"}, "scores": {"rhythm": 0, "depth": 3, "shared-time": 0, "follow-through": 1}},
+        {"label": {"en": "Offer to stay connected while they complete one difficult step", "cs": "Nabídnu spojení během jednoho obtížného kroku"}, "scores": {"rhythm": 0, "depth": 1, "shared-time": 3, "follow-through": 0}},
+        {"label": {"en": "Ask what concrete help would matter and complete the part you accept", "cs": "Zeptám se, jaká konkrétní pomoc by měla význam, a splním část, kterou přijmu"}, "scores": {"rhythm": 0, "depth": 1, "shared-time": 0, "follow-through": 3}}
       ]
     },
     {
       "id": "different-habits",
       "text": {"en": "You like frequent messages; your friend prefers rare, long conversations. How do you adapt first?", "cs": "Vy máte rádi časté zprávy; přítel dává přednost vzácným dlouhým rozhovorům. Jak se nejdřív přizpůsobíte?"},
       "options": [
-        {"label": {"en": "Agree on a light minimum rhythm that neither person has to guess", "cs": "Domluvím lehký minimální rytmus, který nikdo nemusí hádat"}, "scores": {"rhythm": 3, "depth": 1, "shared_time": 0, "follow_through": 0}},
-        {"label": {"en": "Protect fewer conversations from multitasking so they can go deeper", "cs": "Ochraním méně rozhovorů před multitaskingem, aby mohly jít do hloubky"}, "scores": {"rhythm": 0, "depth": 3, "shared_time": 1, "follow_through": 0}},
-        {"label": {"en": "Build contact around a shared ritual rather than message frequency alone", "cs": "Postavím kontakt kolem společného rituálu, ne jen četnosti zpráv"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 3, "follow_through": 0}},
-        {"label": {"en": "Clarify what each person promises to remember and return to", "cs": "Vyjasním, co si každý slibuje zapamatovat a k čemu se vrátit"}, "scores": {"rhythm": 1, "depth": 0, "shared_time": 0, "follow_through": 3}}
+        {"label": {"en": "Agree on a light minimum rhythm that neither person has to guess", "cs": "Domluvím lehký minimální rytmus, který nikdo nemusí hádat"}, "scores": {"rhythm": 3, "depth": 1, "shared-time": 0, "follow-through": 0}},
+        {"label": {"en": "Protect fewer conversations from multitasking so they can go deeper", "cs": "Ochraním méně rozhovorů před multitaskingem, aby mohly jít do hloubky"}, "scores": {"rhythm": 0, "depth": 3, "shared-time": 1, "follow-through": 0}},
+        {"label": {"en": "Build contact around a shared ritual rather than message frequency alone", "cs": "Postavím kontakt kolem společného rituálu, ne jen četnosti zpráv"}, "scores": {"rhythm": 1, "depth": 0, "shared-time": 3, "follow-through": 0}},
+        {"label": {"en": "Clarify what each person promises to remember and return to", "cs": "Vyjasním, co si každý slibuje zapamatovat a k čemu se vrátit"}, "scores": {"rhythm": 1, "depth": 0, "shared-time": 0, "follow-through": 3}}
       ]
     }
   ],
@@ -135,14 +135,14 @@
       "watch": {"en": "Waiting for a deep conversation can create long silence when schedules never become ideal.", "cs": "Čekání na hluboký rozhovor může vytvořit dlouhé ticho, pokud se rozvrhy nikdy nestanou ideálními."},
       "action": {"en": "Add one small asynchronous signal between the conversations you protect for depth.", "cs": "Přidejte jeden malý asynchronní signál mezi rozhovory, které chráníte pro hloubku."}
     },
-    "shared_time": {
+    "shared-time": {
       "title": {"en": "You often create shared time", "cs": "Často vytváříte společný čas"},
       "summary": {"en": "You tend to keep the friendship active by doing something together rather than only exchanging updates. This is a current maintenance preference, not a measure of affection or a fixed type.", "cs": "Máte sklon udržovat přátelství aktivní společnou činností místo pouhé výměny novinek. Jde o současnou preferenci udržování vztahu, ne míru náklonnosti ani pevný typ."},
       "strength": {"en": "Shared activity creates new material for a relationship instead of asking memory to carry it alone.", "cs": "Společná aktivita vytváří nový materiál pro vztah místo toho, aby jej nesla jen paměť."},
       "watch": {"en": "Plans can become elaborate enough that cancellation feels like evidence the friendship is failing.", "cs": "Plány mohou být natolik složité, že zrušení začne působit jako důkaz selhávání přátelství."},
       "action": {"en": "Give the next plan a ten-minute fallback so contact survives a disrupted schedule.", "cs": "Dejte příštímu plánu desetiminutovou náhradní variantu, aby kontakt přežil narušený rozvrh."}
     },
-    "follow_through": {
+    "follow-through": {
       "title": {"en": "You often turn care into follow-through", "cs": "Často převádíte péči do činu"},
       "summary": {"en": "You tend to remember details and return when a question, promise or practical act will matter. This is a current maintenance preference, not a measure of affection or a fixed type.", "cs": "Máte sklon pamatovat si detaily a vracet se ve chvíli, kdy bude záležet na otázce, slibu či praktickém činu. Jde o současnou preferenci udržování vztahu, ne míru náklonnosti ani pevný typ."},
       "strength": {"en": "Specific follow-through makes continuity visible across time and distance.", "cs": "Konkrétní navázání činí kontinuitu viditelnou napříč časem a vzdáleností."},
