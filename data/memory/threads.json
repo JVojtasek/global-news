@@ -1013,6 +1013,91 @@
    ]
   },
   {
+   "id": "d7c7a0654af4",
+   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+   "section": "world",
+   "entities": [
+    "navi",
+    "stain",
+    "norway",
+    "nobel",
+    "peace",
+    "pillay",
+    "trump",
+    "prize"
+   ],
+   "event_ids": [
+    "d7c7a0654af4",
+    "1f36d06a3b96",
+    "36dc6bd9a136",
+    "1e8bc4bbe1cf",
+    "86a510043ce8"
+   ],
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-10",
+   "timeline": [
+    {
+     "date": "2026-10-09",
+     "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+     "sources": 4,
+     "score": 74,
+     "event_id": "d7c7a0654af4",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+      "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+     "sources": 3,
+     "score": 72,
+     "event_id": "1f36d06a3b96",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+     "sources": 3,
+     "score": 55,
+     "event_id": "36dc6bd9a136",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+     "sources": 4,
+     "score": 72,
+     "event_id": "1e8bc4bbe1cf",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+     "sources": 2,
+     "score": 47,
+     "event_id": "86a510043ce8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9ac693013f73",
    "title": "Hurricane Isaias strengthens as it heads towards land",
    "section": "business",
@@ -4291,76 +4376,6 @@
      "event_id": "04f4c04fff10",
      "links": [
       "https://www.smithsonianmag.com/smart-news/margaret-hamilton-a-pioneering-software-engineer-who-made-the-first-human-moon-landing-possible-dies-at-90-180989653/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d7c7a0654af4",
-   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
-   "section": "world",
-   "entities": [
-    "navi",
-    "peace",
-    "pillay",
-    "prize",
-    "nobel"
-   ],
-   "event_ids": [
-    "d7c7a0654af4",
-    "1f36d06a3b96",
-    "36dc6bd9a136",
-    "1e8bc4bbe1cf"
-   ],
-   "first_seen": "2026-10-09",
-   "last_seen": "2026-10-09",
-   "timeline": [
-    {
-     "date": "2026-10-09",
-     "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
-     "sources": 4,
-     "score": 74,
-     "event_id": "d7c7a0654af4",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-      "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-     "sources": 3,
-     "score": 72,
-     "event_id": "1f36d06a3b96",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-     "sources": 3,
-     "score": 55,
-     "event_id": "36dc6bd9a136",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
-      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-     "sources": 4,
-     "score": 72,
-     "event_id": "1e8bc4bbe1cf",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss"
      ]
     }
    ]
@@ -14764,5 +14779,5 @@
    ]
   }
  ],
- "updated": "2026-10-10T03:34:58+00:00"
+ "updated": "2026-10-10T06:41:32+00:00"
 }
