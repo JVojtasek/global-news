@@ -9,7 +9,6 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 63 dní · 60 záznamů
 - časová osa:
-  - **2026-10-10** (2 zdrojů) Putin relayed Iran war proposal to Trump, Kremlin says
   - **2026-10-10** (2 zdrojů) Germany sticks to Russia sanctions after Trump diesel deal
   - **2026-10-10** (2 zdrojů) 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
   - **2026-10-10** (4 zdrojů) Watch: 'Time for Ukraine to get a new president', says Trump
@@ -19,11 +18,13 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-11** (4 zdrojů) Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
   - **2026-10-11** (3 zdrojů) Trump announces 'energy ceasefire' between Russia and Ukraine
   - **2026-10-11** (2 zdrojů) Saudi capital airport hit by second Houthi strike in two days
+  - **2026-10-11** (4 zdrojů) Trump claims Russia and Ukraine agreed to 'energy ceasefire'
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 54 dní · 60 záznamů
 - časová osa:
-  - **2026-10-08** (2 zdrojů) Glasner urges quick end to Manchester City saga and fears damage to Premier League
   - **2026-10-09** (2 zdrojů) Man City charges: Mourinho jokes Premier League case will outlast him
   - **2026-10-09** (2 zdrojů) Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   - **2026-10-09** (2 zdrojů) Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
@@ -33,6 +34,7 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-10** (2 zdrojů) Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
   - **2026-10-11** (2 zdrojů) Manchester City face hostile Liverpool reception after guilty verdict – matchday live
   - **2026-10-11** (3 zdrojů) Who 'simply has to do better'? Liverpool v Man City player ratings
+  - **2026-10-11** (4 zdrojů) Andy Burnham to publish all details of his dealings with Manchester City
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů

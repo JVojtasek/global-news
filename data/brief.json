@@ -1,7 +1,7 @@
 {
  "date": "2026-10-11",
  "mode": "normal",
- "days_since_human": 0,
+ "days_since_human": 1,
  "confidence_threshold": 82,
  "reserve_articles": 14,
  "news_assignments": [
@@ -169,6 +169,83 @@
    "depth": "open"
   },
   {
+   "id": "c0618218c018",
+   "headline": "Andy Burnham to publish all details of his dealings with Manchester City",
+   "section": "sport",
+   "score": 76,
+   "sources_count": 4,
+   "depth_signal": 2,
+   "created": "2026-10-11T21:26:03+00:00",
+   "event_time": "2026-10-11T19:49:28+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Andy Burnham to publish all details of his dealings with Manchester City",
+     "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
+     "source": "The Guardian World",
+     "summary": "Move comes after criticism of remarks in support of football club’s owners following financial regulations breach ruling Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the football club’s owners raised eyebrows. Kemi Badenoch, the Conservative party leader, had urged the prime minister to publ",
+     "published_at": "2026-10-11T19:49:28+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-11T21:26:00+00:00"
+    },
+    {
+     "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.",
+     "published_at": "2026-10-11T18:59:19+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-11T21:26:00+00:00"
+    },
+    {
+     "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
+     "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+     "source": "The Guardian World",
+     "summary": "PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered Downing Street. Burnham said he had asked whether Moscow had attempted to influence the referendum and received a confirmation th",
+     "published_at": "2026-10-11T15:33:15+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-11T21:26:00+00:00"
+    },
+    {
+     "title": "Impervious City shrug off chaos and controversy to silence Anfield | Andy Hunter",
+     "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
+     "source": "Guardian Sport",
+     "summary": "What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”, any favourable decision is considered proof of further conspiracy and every victory hollow. But Welcome to Hell this was not. The only body of irrefutable eviden",
+     "published_at": "2026-10-11T20:02:08+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-11T21:26:00+00:00"
+    },
+    {
+     "title": "‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph",
+     "url": "https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league",
+     "source": "Guardian Sport",
+     "summary": "‘You cannot imagine how happy I am … I’m here to win’ City win 3-0 at Anfield in first game since guilty verdict Enzo Maresca praised Manchester City for “making their own noise” at Liverpool as they brushed aside the controversy and threats surrounding the club with a comprehensive 3-0 win at Anfield. City, in their first outing since the club were found guilty on 114 charges relating to Premier ",
+     "published_at": "2026-10-11T19:43:59+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-11T21:26:00+00:00"
+    },
+    {
+     "title": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+     "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
+     "source": "France 24",
+     "summary": "British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of \"clear\" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the Brexit vote, while former British leader Boris Johnson 2020 also said there was no evidence of interference. Burnham made",
+     "published_at": "2026-10-11T19:42:09+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-11T21:26:00+00:00"
+    },
+    {
+     "title": "Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson",
+     "url": "https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day",
+     "source": "Guardian Sport",
+     "summary": "Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to work, eat, drink, plan as usual. The White Walkers are approaching the Wall, but the squabbles between the great houses go on. Everyone in the Premier League kn",
+     "published_at": "2026-10-11T19:11:36+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-11T21:26:00+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
    "id": "d7c7a0654af4",
    "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
    "section": "world",
@@ -235,83 +312,6 @@
     }
    ],
    "depth": "scripture"
-  },
-  {
-   "id": "1f36d06a3b96",
-   "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-   "section": "world",
-   "score": 72,
-   "sources_count": 3,
-   "depth_signal": 5,
-   "created": "2026-10-09T12:38:43+00:00",
-   "event_time": "2026-10-09T11:24:10+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-     "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-     "source": "The Guardian World",
-     "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is servin",
-     "published_at": "2026-10-09T11:24:10+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "Navi Pillay wins the Nobel Peace Prize for her work in international justice",
-     "url": "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
-     "source": "France 24",
-     "summary": "The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-profile rebuke to US President Trump and Israeli Prime Minister Benjamin Netanyahu, who have both rejected the findings of ",
-     "published_at": "2026-10-09T11:31:02+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.",
-     "published_at": "2026-10-09T11:07:52+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "Nobel chair admits they haven’t reached Peace Prize winner Pillay",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.",
-     "published_at": "2026-10-09T10:18:41+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "REPLAY: 2026 Nobel Peace Prize awarded to Navanethem ‘Navi’ Pillay",
-     "url": "https://www.france24.com/en/video/20261009-replay-2026-nobel-peace-prize-awarded-to-navanethem-navi-pillay",
-     "source": "France 24",
-     "summary": "Former UN human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway. The South Africa-born Pillay, 85 years old, was recognised for her efforts to promote peace and international law, said Jørgen Watne Frydnes, Chair of the Norwegian Nobel Committee. Watch our replay.",
-     "published_at": "2026-10-09T10:09:55+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "Navi Pillay wins Nobel Peace Prize",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
-     "published_at": "2026-10-09T09:28:18+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    },
-    {
-     "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
-     "url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.",
-     "published_at": "2026-10-09T09:06:43+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-09T12:38:40+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -331,7 +331,7 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia\n  2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law\n  2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live\n  2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row\n  2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches\n  2026-10-09  (6 zdrojů, síla 81)  Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'\n  2026-10-10  (2 zdrojů, síla 44)  Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms\n  2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel\n  2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"\n  2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?\n  2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says\n  2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal\n  2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal\n  2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump\n  2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says\n  2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh\n  2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine\n  2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport\n  2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine\n  2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days",
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law\n  2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live\n  2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row\n  2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches\n  2026-10-09  (6 zdrojů, síla 81)  Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'\n  2026-10-10  (2 zdrojů, síla 44)  Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms\n  2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel\n  2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"\n  2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?\n  2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says\n  2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal\n  2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal\n  2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump\n  2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says\n  2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh\n  2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine\n  2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport\n  2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine\n  2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days\n  2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
    "thread_days": 60
   },
   {
@@ -339,7 +339,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts\n  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live\n  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power\n  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters\n  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett\n  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel\n  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth\n  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager\n  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?\n  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77\n  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League\n  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him\n  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma\n  2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live\n  2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson\n  2026-10-10  (2 zdrojů, síla 56)  Manchester United v Tottenham: Premier League – live\n  2026-10-10  (2 zdrojů, síla 49)  Carrick ‘massively disappointed’ after United drop points against 10-man Spurs\n  2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson\n  2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live\n  2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live\n  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power\n  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters\n  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett\n  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel\n  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth\n  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager\n  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?\n  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77\n  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League\n  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him\n  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma\n  2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live\n  2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson\n  2026-10-10  (2 zdrojů, síla 56)  Manchester United v Tottenham: Premier League – live\n  2026-10-10  (2 zdrojů, síla 49)  Carrick ‘massively disappointed’ after United drop points against 10-man Spurs\n  2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson\n  2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live\n  2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings\n  2026-10-11  (4 zdrojů, síla 76)  Andy Burnham to publish all details of his dealings with Manchester City",
    "thread_days": 60
   }
  ],

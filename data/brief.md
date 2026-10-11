@@ -64,7 +64,33 @@
     <https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss>
     > Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
 
-### 3. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
+### 3. Andy Burnham to publish all details of his dealings with Manchester City
+- id události: `c0618218c018`  ·  rubrika: `sport`  ·  skóre: 76  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Andy Burnham to publish all details of his dealings with Manchester City
+    <https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city>
+    > Move comes after criticism of remarks in support of football club’s owners following financial regulations breach ruling Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the fo
+  - **BBC Sport** — Doku delights as Manchester City cruise past 10-man Liverpool
+    <https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss>
+    > In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.
+  - **The Guardian World** — Andy Burnham says it is clear Russia interfered in Brexit referendum
+    <https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote>
+    > PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered Downing S
+  - **Guardian Sport** — Impervious City shrug off chaos and controversy to silence Anfield | Andy Hunter
+    <https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield>
+    > What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”, any favourable decision is considered pro
+  - **Guardian Sport** — ‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph
+    <https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league>
+    > ‘You cannot imagine how happy I am … I’m here to win’ City win 3-0 at Anfield in first game since guilty verdict Enzo Maresca praised Manchester City for “making their own noise” at Liverpool as they brushed aside the controversy and threats surrounding the club with a comprehens
+  - **France 24** — UK PM Burnham warns French voters of Russian political influence on back of Brexit vote
+    <https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote>
+    > British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of "clear" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the B
+  - **Guardian Sport** — Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson
+    <https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day>
+    > Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to work, eat, drink, plan as usual. The Whi
+
+### 4. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
 - id události: `d7c7a0654af4`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -85,32 +111,6 @@
   - **France 24** — Canadian poet and author Anne Carson wins Nobel Prize in Literature
     <https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature>
     > Hailed for her "bold and inventive" work, "in playful dialogue with the classical tradition", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts th
-
-### 4. ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
-- id události: `1f36d06a3b96`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
-    <https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize>
-    > Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN co
-  - **France 24** — Navi Pillay wins the Nobel Peace Prize for her work in international justice
-    <https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice>
-    > The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-pro
-  - **Al Jazeera** — ‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news
-    <https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss>
-    > International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.
-  - **Al Jazeera** — Nobel chair admits they haven’t reached Peace Prize winner Pillay
-    <https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss>
-    > The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.
-  - **France 24** — REPLAY: 2026 Nobel Peace Prize awarded to Navanethem ‘Navi’ Pillay
-    <https://www.france24.com/en/video/20261009-replay-2026-nobel-peace-prize-awarded-to-navanethem-navi-pillay>
-    > Former UN human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway. The South Africa-born Pillay, 85 years old, was recognised for her efforts to promote peace and international law, said Jørge
-  - **Al Jazeera** — Navi Pillay wins Nobel Peace Prize
-    <https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss>
-    > International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.
-  - **Al Jazeera** — 2026 Nobel Peace Prize awarded to Navi Pillay
-    <https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss>
-    > Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.
 
 ---
 
@@ -148,7 +148,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia
   2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
   2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
@@ -168,6 +167,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
   2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine
   2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days
+  2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -177,7 +177,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts
   2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live
   2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power
   2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
@@ -197,6 +196,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
   2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live
   2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings
+  2026-10-11  (4 zdrojů, síla 76)  Andy Burnham to publish all details of his dealings with Manchester City
 ```
 
 ---
