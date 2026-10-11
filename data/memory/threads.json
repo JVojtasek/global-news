@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "north",
-    "kuwait",
-    "lightning",
-    "houthis",
-    "donald",
-    "d-day",
+    "araghchi",
     "trump",
     "iran",
-    "luckin",
-    "araghchi",
-    "zelenskyy",
-    "marib",
-    "ai-aided",
-    "iran's",
-    "streeting",
-    "time",
-    "britain",
     "moscow",
-    "south",
-    "centcom",
-    "ukraine",
-    "briton",
-    "google",
     "saudis",
-    "lyon",
-    "russia",
-    "groundhog",
-    "persian",
-    "middle",
-    "saudi",
-    "gulf",
     "putin",
-    "modi",
-    "brics",
     "french",
-    "korea",
+    "donald",
+    "zelenskyy",
     "germany",
-    "houthi",
+    "kuwait",
+    "middle",
+    "korea",
+    "south",
+    "north",
+    "centcom",
+    "gulf",
+    "marib",
+    "d-day",
+    "brics",
+    "riyadh",
+    "lyon",
+    "streeting",
+    "groundhog",
+    "google",
     "times",
-    "riyadh"
+    "modi",
+    "luckin",
+    "briton",
+    "houthi",
+    "russia",
+    "lightning",
+    "ai-aided",
+    "houthis",
+    "saudi",
+    "iran's",
+    "persian",
+    "ukraine",
+    "time",
+    "britain"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -171,22 +171,12 @@
     "930efb8254ec",
     "d7703b915525",
     "1b0d7222026b",
-    "a351cca01b88"
+    "a351cca01b88",
+    "a4f40d791855"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-11",
    "timeline": [
-    {
-     "date": "2026-08-28",
-     "headline": "O'Neill hopeful on transfers despite Champions League play-off exit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "5a30adc8d141",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c790zjlw2v0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa"
-     ]
-    },
     {
      "date": "2026-08-28",
      "headline": "The economic costs of Donald Trump’s immigration crackdown",
@@ -855,6 +845,18 @@
       "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
       "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire"
      ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Saudi capital airport hit by second Houthi strike in two days",
+     "sources": 2,
+     "score": 53,
+     "event_id": "a4f40d791855",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
+     ]
     }
    ]
   },
@@ -863,46 +865,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
+    "tuchel",
     "wilson",
-    "troy's",
-    "kuwait",
-    "forest",
-    "isak",
-    "fifa",
-    "manchester",
-    "women",
-    "villa",
-    "canada",
-    "ever",
-    "mason",
-    "maresca",
-    "beckett",
-    "michael",
+    "spurs",
+    "andy",
     "rwandan",
-    "phil",
+    "troy's",
+    "forest",
+    "kuwait",
+    "premier",
+    "jamie",
+    "michael",
+    "canada",
+    "maresca",
     "napoli",
-    "jackson",
-    "real",
-    "chris",
-    "carrick",
+    "salah",
+    "glasner",
+    "phil",
     "greenwood",
-    "sports",
+    "gakpo",
+    "jonathan",
+    "millionaire",
+    "villa",
+    "salisbury",
+    "carrick",
+    "jackson",
+    "beckett",
     "city",
     "liverpool",
-    "tuchel",
-    "salah",
-    "premier",
-    "glasner",
-    "salisbury",
-    "gakpo",
+    "ever",
+    "fifa",
+    "women",
     "burnham",
-    "millionaire",
-    "jonathan",
-    "spurs",
+    "real",
+    "chris",
+    "sports",
+    "united",
+    "isak",
     "business",
-    "andy",
-    "jamie",
-    "united"
+    "mason",
+    "manchester"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -999,23 +1001,12 @@
     "9bdd0a68599f",
     "6a62004872d3",
     "0481a649943e",
-    "c2d5900f3fee"
+    "c2d5900f3fee",
+    "cdf632758e28"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-11",
    "timeline": [
-    {
-     "date": "2026-09-05",
-     "headline": "Hull City v Aston Villa: Premier League – live",
-     "sources": 2,
-     "score": 48,
-     "event_id": "7c74ae10e984",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report"
-     ]
-    },
     {
      "date": "2026-09-05",
      "headline": "'It's not Chelsea's standard' - McCabe on 'frustrating' draw against Aston Villa",
@@ -1695,6 +1686,18 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/oct/11/manchester-city-face-hostile-liverpool-reception-after-guilty-verdict-matchday-live",
       "https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Who 'simply has to do better'? Liverpool v Man City player ratings",
+     "sources": 3,
+     "score": 68,
+     "event_id": "cdf632758e28",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report"
      ]
     }
    ]
@@ -15019,5 +15022,5 @@
    ]
   }
  ],
- "updated": "2026-10-11T15:26:26+00:00"
+ "updated": "2026-10-11T18:32:36+00:00"
 }

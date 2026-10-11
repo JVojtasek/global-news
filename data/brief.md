@@ -148,7 +148,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-05  (2 zdrojů, síla 43)  Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
   2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia
   2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
   2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
@@ -168,6 +167,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
   2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
   2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine
+  2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -177,7 +177,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?
   2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts
   2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live
   2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power
@@ -197,6 +196,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-10  (2 zdrojů, síla 49)  Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
   2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
   2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live
+  2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings
 ```
 
 ---
