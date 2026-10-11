@@ -142,7 +142,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
   2026-10-04  (2 zdrojů, síla 44)  More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
   2026-10-05  (2 zdrojů, síla 43)  Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
@@ -162,6 +161,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump
   2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says
   2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
+  2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

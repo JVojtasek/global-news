@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-11
 
-Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
+Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 63 dní · 60 záznamů
 - časová osa:
-  - **2026-10-10** (2 zdrojů) Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
   - **2026-10-10** (2 zdrojů) Zelenskyy furious as Trump announces deal to buy Russian diesel
   - **2026-10-10** (2 zdrojů) Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
   - **2026-10-10** (2 zdrojů) As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
@@ -19,6 +18,7 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-10** (4 zdrojů) Watch: 'Time for Ukraine to get a new president', says Trump
   - **2026-10-11** (2 zdrojů) Middle East live: Riyadh airport attack 'not acceptable,' Trump says
   - **2026-10-11** (2 zdrojů) Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
+  - **2026-10-11** (2 zdrojů) Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 54 dní · 60 záznamů

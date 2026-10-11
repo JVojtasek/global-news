@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "houthi",
-    "marib",
-    "kuwait",
-    "south",
-    "trump",
-    "iran",
-    "putin",
-    "groundhog",
     "iran's",
-    "donald",
-    "modi",
-    "brics",
-    "lightning",
-    "ai-aided",
     "tuesday",
-    "middle",
-    "lyon",
-    "google",
-    "germany",
-    "ukraine",
-    "saudi",
-    "d-day",
-    "araghchi",
-    "saudis",
-    "korea",
-    "gulf",
-    "taiz",
-    "houthis",
-    "north",
-    "zelenskyy",
-    "times",
     "moscow",
-    "french",
-    "centcom",
-    "zelensky",
+    "lyon",
+    "donald",
+    "korea",
+    "kuwait",
+    "saudi",
+    "ai-aided",
+    "araghchi",
+    "germany",
+    "lightning",
     "briton",
+    "brics",
+    "google",
+    "zelenskyy",
+    "groundhog",
+    "putin",
+    "south",
+    "houthi",
+    "north",
+    "french",
+    "marib",
+    "time",
+    "d-day",
+    "saudis",
     "riyadh",
-    "luckin",
+    "streeting",
+    "britain",
+    "iran",
     "persian",
-    "time"
+    "luckin",
+    "trump",
+    "houthis",
+    "middle",
+    "ukraine",
+    "gulf",
+    "centcom",
+    "times",
+    "modi"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -168,23 +168,12 @@
     "8fd635139c0b",
     "bfb42042cd71",
     "718ebaf26ade",
-    "930efb8254ec"
+    "930efb8254ec",
+    "d7703b915525"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-11",
    "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Man City and Aston Villa to face holders PSG in Champions League",
-     "sources": 4,
-     "score": 71,
-     "event_id": "f9dbbedd95e4",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c07ln9jj2n7o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/27/chelsea-agree-deal-sign-emiliano-martinez-aston-villa-enzo-fernandez"
-     ]
-    },
     {
      "date": "2026-08-27",
      "headline": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
@@ -851,6 +840,17 @@
       "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
       "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response",
       "https://www.france24.com/en/video/20261011-at-least-twelve-killed-multiple-people-wounded-in-attack-on-riyadh-airport-1"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+     "sources": 2,
+     "score": 43,
+     "event_id": "d7703b915525",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war"
      ]
     }
    ]
@@ -1701,31 +1701,31 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "taiz",
+    "salman",
+    "saudi",
+    "three",
+    "president",
+    "somalia",
+    "aden",
+    "western",
+    "mecca",
+    "arabia's",
     "saudi-backed",
+    "king",
+    "arabia",
+    "trump",
     "houthis",
-    "israel-bound",
+    "pakistan",
     "yemen",
     "yemeni",
-    "arabia's",
-    "somalia",
-    "three",
-    "aden",
-    "king",
-    "salman",
-    "houthi",
-    "riyadh",
-    "pakistan",
-    "president",
-    "mecca",
-    "western",
-    "trump",
     "attack",
-    "york",
+    "houthi",
     "yemen's",
-    "saudi",
-    "arabia",
-    "turkey"
+    "israel-bound",
+    "riyadh",
+    "turkey",
+    "york",
+    "taiz"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -1750,7 +1750,8 @@
     "3581328646f8",
     "dcc48233c883",
     "09ea0a7a9571",
-    "4d155da59089"
+    "4d155da59089",
+    "d4fd36f35bd9"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-11",
@@ -2017,6 +2018,18 @@
       "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
       "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway"
      ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Yemen's Houthis warn passengers not to use Saudi airports",
+     "sources": 3,
+     "score": 60,
+     "event_id": "d4fd36f35bd9",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -2118,6 +2131,120 @@
      "links": [
       "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
       "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "19c83ca53546",
+   "title": "People escape historic Kyiv building hit by Russian drone",
+   "section": "world",
+   "entities": [
+    "people",
+    "russian",
+    "ukrainian",
+    "kyiv",
+    "german",
+    "trump"
+   ],
+   "event_ids": [
+    "19c83ca53546",
+    "64aa4378c789",
+    "62c6f7ec541a"
+   ],
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-10-11",
+   "timeline": [
+    {
+     "date": "2026-09-28",
+     "headline": "People escape historic Kyiv building hit by Russian drone",
+     "sources": 3,
+     "score": 58,
+     "event_id": "19c83ca53546",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
+      "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+     "sources": 3,
+     "score": 65,
+     "event_id": "64aa4378c789",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
+      "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Kyiv pushes back on Trump’s call for a new Ukrainian president as drones hit Russian data hub",
+     "sources": 2,
+     "score": 44,
+     "event_id": "62c6f7ec541a",
+     "links": [
+      "https://www.cnbc.com/2026/10/11/kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president.html",
+      "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f3ddaf1587c4",
+   "title": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
+   "section": "world",
+   "entities": [
+    "vladimir",
+    "russia",
+    "yandex"
+   ],
+   "event_ids": [
+    "f3ddaf1587c4"
+   ],
+   "first_seen": "2026-10-11",
+   "last_seen": "2026-10-11",
+   "timeline": [
+    {
+     "date": "2026-10-11",
+     "headline": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
+     "sources": 4,
+     "score": 66,
+     "event_id": "f3ddaf1587c4",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss",
+      "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "https://www.investing.com/news/company-news/russian-tech-giant-yandex-halts-vladimir-data-center-after-fresh-drone-attack-4942599"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "75b455dbe9e5",
+   "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+   "section": "world",
+   "entities": [
+    "children",
+    "djibouti"
+   ],
+   "event_ids": [
+    "75b455dbe9e5"
+   ],
+   "first_seen": "2026-10-11",
+   "last_seen": "2026-10-11",
+   "timeline": [
+    {
+     "date": "2026-10-11",
+     "headline": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+     "sources": 3,
+     "score": 57,
+     "event_id": "75b455dbe9e5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss"
      ]
     }
    ]
@@ -9283,49 +9410,6 @@
    ]
   },
   {
-   "id": "19c83ca53546",
-   "title": "People escape historic Kyiv building hit by Russian drone",
-   "section": "world",
-   "entities": [
-    "people",
-    "kyiv",
-    "german",
-    "russian"
-   ],
-   "event_ids": [
-    "19c83ca53546",
-    "64aa4378c789"
-   ],
-   "first_seen": "2026-09-28",
-   "last_seen": "2026-10-04",
-   "timeline": [
-    {
-     "date": "2026-09-28",
-     "headline": "People escape historic Kyiv building hit by Russian drone",
-     "sources": 3,
-     "score": 58,
-     "event_id": "19c83ca53546",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
-      "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-     "sources": 3,
-     "score": 65,
-     "event_id": "64aa4378c789",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
-      "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
-     ]
-    }
-   ]
-  },
-  {
    "id": "f2d111d4fd57",
    "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
    "section": "science",
@@ -14932,5 +15016,5 @@
    ]
   }
  ],
- "updated": "2026-10-11T09:29:05+00:00"
+ "updated": "2026-10-11T12:38:07+00:00"
 }
