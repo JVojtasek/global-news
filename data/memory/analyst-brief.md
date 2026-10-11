@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-10
+# ANALYTICKÉ ZADÁNÍ — 2026-10-11
 
-Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
+Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
 
 ---
 
@@ -98,6 +98,7 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **46**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
 - **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
 - **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
 - **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
