@@ -9,7 +9,6 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 63 dní · 60 záznamů
 - časová osa:
-  - **2026-10-09** (6 zdrojů) Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
   - **2026-10-10** (2 zdrojů) Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
   - **2026-10-10** (2 zdrojů) Zelenskyy furious as Trump announces deal to buy Russian diesel
   - **2026-10-10** (2 zdrojů) Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
@@ -19,11 +18,11 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-10** (2 zdrojů) 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
   - **2026-10-10** (4 zdrojů) Watch: 'Time for Ukraine to get a new president', says Trump
   - **2026-10-11** (2 zdrojů) Middle East live: Riyadh airport attack 'not acceptable,' Trump says
+  - **2026-10-11** (2 zdrojů) Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 53 dní · 60 záznamů
+- rubrika `sport` · sledováno 54 dní · 60 záznamů
 - časová osa:
-  - **2026-10-07** (3 zdrojů) Could Manchester City be expelled from the Premier League?
   - **2026-10-07** (2 zdrojů) Who am I? Guess Premier League star No 77
   - **2026-10-08** (2 zdrojů) Glasner urges quick end to Manchester City saga and fears damage to Premier League
   - **2026-10-09** (2 zdrojů) Man City charges: Mourinho jokes Premier League case will outlast him
@@ -33,6 +32,7 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-10** (2 zdrojů) Manchester United v Tottenham: Premier League – live
   - **2026-10-10** (2 zdrojů) Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
   - **2026-10-10** (2 zdrojů) Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
+  - **2026-10-11** (2 zdrojů) Manchester City face hostile Liverpool reception after guilty verdict – matchday live
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů

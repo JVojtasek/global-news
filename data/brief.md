@@ -142,7 +142,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
   2026-10-04  (2 zdrojů, síla 44)  More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
@@ -162,6 +161,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
   2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump
   2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says
+  2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -171,7 +171,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-09-30  (2 zdrojů, síla 49)  Manchester City could be forced to pay Premier League up to £50m in legal costs
   2026-09-30  (2 zdrojů, síla 48)  Manchester City Premier League charges: What do they mean?
   2026-09-30  (2 zdrojů, síla 48)  'Business as usual' for Man City Women despite Premier League guilty verdicts
   2026-10-01  (1 zdrojů, síla 41)  Manchester City v Real Madrid: Women’s Champions League – live
@@ -191,6 +190,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-10  (2 zdrojů, síla 56)  Manchester United v Tottenham: Premier League – live
   2026-10-10  (2 zdrojů, síla 49)  Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
   2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
+  2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live
 ```
 
 ---
