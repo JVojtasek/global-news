@@ -7,9 +7,8 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 62 dní · 60 záznamů
+- rubrika `world` · sledováno 63 dní · 60 záznamů
 - časová osa:
-  - **2026-10-08** (2 zdrojů) South Korea warns of AI-aided hacking after bank data breaches
   - **2026-10-09** (6 zdrojů) Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
   - **2026-10-10** (2 zdrojů) Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
   - **2026-10-10** (2 zdrojů) Zelenskyy furious as Trump announces deal to buy Russian diesel
@@ -19,6 +18,7 @@ Paměť obsahuje **139 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-10** (2 zdrojů) Germany sticks to Russia sanctions after Trump diesel deal
   - **2026-10-10** (2 zdrojů) 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
   - **2026-10-10** (4 zdrojů) Watch: 'Time for Ukraine to get a new president', says Trump
+  - **2026-10-11** (2 zdrojů) Middle East live: Riyadh airport attack 'not acceptable,' Trump says
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 53 dní · 60 záznamů

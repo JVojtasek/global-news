@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **15**
+- Článků v zásobě: **14**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -142,7 +142,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-28  (2 zdrojů, síla 42)  Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’
   2026-09-29  (2 zdrojů, síla 46)  Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets
   2026-09-29  (2 zdrojů, síla 46)  Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz
   2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
@@ -162,6 +161,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal
   2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
   2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump
+  2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
