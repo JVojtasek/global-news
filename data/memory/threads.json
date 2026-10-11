@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "iran's",
-    "tuesday",
-    "moscow",
-    "lyon",
-    "donald",
-    "korea",
-    "kuwait",
-    "saudi",
-    "ai-aided",
-    "araghchi",
-    "germany",
-    "lightning",
-    "briton",
-    "brics",
-    "google",
-    "zelenskyy",
-    "groundhog",
-    "putin",
-    "south",
-    "houthi",
     "north",
-    "french",
-    "marib",
-    "time",
-    "d-day",
-    "saudis",
-    "riyadh",
-    "streeting",
-    "britain",
-    "iran",
-    "persian",
-    "luckin",
-    "trump",
+    "kuwait",
+    "lightning",
     "houthis",
-    "middle",
-    "ukraine",
-    "gulf",
+    "donald",
+    "d-day",
+    "trump",
+    "iran",
+    "luckin",
+    "araghchi",
+    "zelenskyy",
+    "marib",
+    "ai-aided",
+    "iran's",
+    "streeting",
+    "time",
+    "britain",
+    "moscow",
+    "south",
     "centcom",
+    "ukraine",
+    "briton",
+    "google",
+    "saudis",
+    "lyon",
+    "russia",
+    "groundhog",
+    "persian",
+    "middle",
+    "saudi",
+    "gulf",
+    "putin",
+    "modi",
+    "brics",
+    "french",
+    "korea",
+    "germany",
+    "houthi",
     "times",
-    "modi"
+    "riyadh"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -169,34 +169,13 @@
     "bfb42042cd71",
     "718ebaf26ade",
     "930efb8254ec",
-    "d7703b915525"
+    "d7703b915525",
+    "1b0d7222026b",
+    "a351cca01b88"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-11",
    "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
-     "sources": 2,
-     "score": 43,
-     "event_id": "628e327cc7dc",
-     "links": [
-      "https://www.cnbc.com/2026/08/27/trump-jr-told-gop-state-attorneys-general-dont-fight-prediction-markets-nyt-reports.html",
-      "https://www.aljazeera.com/news/longform/2026/8/27/how-california-is-preparing-to-fight-trumps-criticisms-of-the-midterm-vote?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9a4bcff8ff4",
-     "links": [
-      "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
-      "https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz?traffic_source=rss",
-      "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-28",
      "headline": "O'Neill hopeful on transfers despite Champions League play-off exit",
@@ -851,6 +830,30 @@
      "links": [
       "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
       "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
+     "sources": 4,
+     "score": 69,
+     "event_id": "1b0d7222026b",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+      "https://www.france24.com/en/video/20261011-strike-on-riyadh-trump-signals-us-could-join-action-against-houthis"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+     "sources": 3,
+     "score": 58,
+     "event_id": "a351cca01b88",
+     "links": [
+      "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
+      "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire"
      ]
     }
    ]
@@ -15016,5 +15019,5 @@
    ]
   }
  ],
- "updated": "2026-10-11T12:38:07+00:00"
+ "updated": "2026-10-11T15:26:26+00:00"
 }

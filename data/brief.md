@@ -64,27 +64,7 @@
     <https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss>
     > Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
 
-### 3. Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
-- id události: `16c67f2bd64e`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge
-    <https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss>
-    > Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.
-  - **The Guardian World** — Russian attack on bus kills at least 30 people near Ukraine frontline
-    <https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk>
-    > Governor says Kremlin ‘deliberately targeting civilians’ after strike in Kramatorsk, which also wounded 18 and set second bus on fire Europe live – latest updates A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials said on 
-  - **DW News** — Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk
-    <https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf>
-    > Authorities in the eastern Ukrainian city of Kramatorsk have suspended public transport following the deadly attack near the front line.
-  - **Al Jazeera** — Russian attack on buses in Ukraine’s Kramatorsk kills at least 33 people
-    <https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss>
-    > Eighteen people were wounded in strike on the city in eastern Donetsk region, local authorities say.
-  - **France 24** — Dozens killed in Russian strike on buses in Ukraine's Kramatorsk as Kyiv targets data centre
-    <https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre>
-    > At least 30 people were killed in a Russian strike on two buses in the Ukrainian city of Kramatorsk in the eastern Donetsk region on Thursday. Earlier, a drone hit a data centre belonging to Russian technology company Yandex, causing a fire.
-
-### 4. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
+### 3. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
 - id události: `d7c7a0654af4`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -105,6 +85,32 @@
   - **France 24** — Canadian poet and author Anne Carson wins Nobel Prize in Literature
     <https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature>
     > Hailed for her "bold and inventive" work, "in playful dialogue with the classical tradition", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts th
+
+### 4. ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
+- id události: `1f36d06a3b96`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
+    <https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize>
+    > Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN co
+  - **France 24** — Navi Pillay wins the Nobel Peace Prize for her work in international justice
+    <https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice>
+    > The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-pro
+  - **Al Jazeera** — ‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss>
+    > International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.
+  - **Al Jazeera** — Nobel chair admits they haven’t reached Peace Prize winner Pillay
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss>
+    > The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.
+  - **France 24** — REPLAY: 2026 Nobel Peace Prize awarded to Navanethem ‘Navi’ Pillay
+    <https://www.france24.com/en/video/20261009-replay-2026-nobel-peace-prize-awarded-to-navanethem-navi-pillay>
+    > Former UN human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway. The South Africa-born Pillay, 85 years old, was recognised for her efforts to promote peace and international law, said Jørge
+  - **Al Jazeera** — Navi Pillay wins Nobel Peace Prize
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss>
+    > International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.
+  - **Al Jazeera** — 2026 Nobel Peace Prize awarded to Navi Pillay
+    <https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss>
+    > Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.
 
 ---
 
@@ -142,8 +148,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-29  (2 zdrojů, síla 44)  Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory
-  2026-10-04  (2 zdrojů, síla 44)  More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz
   2026-10-05  (2 zdrojů, síla 43)  Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks
   2026-10-07  (3 zdrojů, síla 62)  Trump to speak to Putin about plague lab worker's death in Russia
   2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
@@ -162,6 +166,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says
   2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
   2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
+  2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
+  2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

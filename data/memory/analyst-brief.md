@@ -9,8 +9,6 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 63 dní · 60 záznamů
 - časová osa:
-  - **2026-10-10** (2 zdrojů) Zelenskyy furious as Trump announces deal to buy Russian diesel
-  - **2026-10-10** (2 zdrojů) Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
   - **2026-10-10** (2 zdrojů) As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
   - **2026-10-10** (2 zdrojů) Putin relayed Iran war proposal to Trump, Kremlin says
   - **2026-10-10** (2 zdrojů) Germany sticks to Russia sanctions after Trump diesel deal
@@ -19,6 +17,8 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-11** (2 zdrojů) Middle East live: Riyadh airport attack 'not acceptable,' Trump says
   - **2026-10-11** (2 zdrojů) Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
   - **2026-10-11** (2 zdrojů) Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
+  - **2026-10-11** (4 zdrojů) Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
+  - **2026-10-11** (3 zdrojů) Trump announces 'energy ceasefire' between Russia and Ukraine
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 54 dní · 60 záznamů
