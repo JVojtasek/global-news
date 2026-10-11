@@ -8,8 +8,8 @@ section: travel
 type: feature
 depth: open
 lang: en
-date: '2026-09-07'
-status: reserve
+date: '2026-10-11'
+status: published
 confidence: 95
 load: 0
 topics: []
