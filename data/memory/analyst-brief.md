@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-11
+# ANALYTICKÉ ZADÁNÍ — 2026-10-12
 
 Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
 
@@ -67,9 +67,8 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 56 dní · 53 záznamů
+- rubrika `world` · sledováno 60 dní · 54 záznamů
 - časová osa:
-  - **2026-09-21** (2 zdrojů) Burnham hails Greenland deal ahead of expected first Trump meeting
   - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
   - **2026-09-28** (2 zdrojů) Israel strips Dutch diplomats of status in West Bank
@@ -79,6 +78,7 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
   - **2026-10-05** (1 zdrojů) Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
   - **2026-10-08** (2 zdrojů) Germany news: UK's Burnham visits Berlin for talks with Merz
+  - **2026-10-12** (2 zdrojů) UK's Burnham accuses Russia of meddling in Brexit vote
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 54 dní · 45 záznamů
@@ -100,9 +100,9 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Yayoi Kusama’s psychedelic art was at its best when taken in high doses** — naposledy 2026-08-27, celkem 5 záznamů
 - **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
 - **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
 - **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
 - **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
 - **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů
-- **Typhoon Dolphin batters Japan's Okinawa before bearing down on China** — naposledy 2026-08-10, celkem 4 záznamů
