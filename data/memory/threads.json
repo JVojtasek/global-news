@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "persian",
-    "google",
-    "brics",
-    "houthis",
-    "groundhog",
-    "russia",
-    "luckin",
-    "time",
-    "gulf",
-    "french",
-    "d-day",
+    "riyadh",
     "ukraine",
-    "kuwait",
-    "britain",
-    "seoul's",
-    "streeting",
-    "lyon",
-    "iran's",
-    "lightning",
-    "saudi",
-    "trump",
-    "modi",
-    "korea",
-    "araghchi",
-    "times",
-    "north",
+    "houthi",
     "moscow",
-    "saudis",
-    "zelenskyy",
-    "putin",
+    "streeting",
     "centcom",
     "marib",
-    "houthi",
+    "gulf",
+    "russia",
+    "times",
+    "persian",
+    "putin",
+    "saudis",
+    "trump",
+    "french",
     "donald",
-    "ai-aided",
-    "germany",
-    "iran",
     "south",
-    "riyadh",
-    "briton"
+    "time",
+    "saudi",
+    "korea",
+    "araghchi",
+    "groundhog",
+    "zelenskyy",
+    "lyon",
+    "lightning",
+    "google",
+    "russian",
+    "modi",
+    "kuwait",
+    "germany",
+    "briton",
+    "seoul's",
+    "luckin",
+    "iran's",
+    "houthis",
+    "brics",
+    "ai-aided",
+    "north",
+    "iran",
+    "britain"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -174,45 +174,14 @@
     "a351cca01b88",
     "a4f40d791855",
     "69c315300acc",
-    "c4e640b4ccfd"
+    "c4e640b4ccfd",
+    "c146a77e72f0",
+    "f3ea112b90f7",
+    "bb8b71d6f954"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-12",
    "timeline": [
-    {
-     "date": "2026-08-31",
-     "headline": "Trump threatens further action as US and Iran exchange fire in new flare-up",
-     "sources": 2,
-     "score": 48,
-     "event_id": "20436c3fa08b",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/31/trump-threatens-further-action-us-iran-exchange-fire",
-      "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
-     "sources": 2,
-     "score": 40,
-     "event_id": "4d6c783b648a",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-     "sources": 2,
-     "score": 40,
-     "event_id": "91e593197e15",
-     "links": [
-      "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-02",
      "headline": "Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people",
@@ -860,6 +829,886 @@
       "https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
       "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+     "sources": 5,
+     "score": 82,
+     "event_id": "c146a77e72f0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
+     "sources": 4,
+     "score": 71,
+     "event_id": "f3ea112b90f7",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+      "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
+      "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
+     "sources": 2,
+     "score": 50,
+     "event_id": "bb8b71d6f954",
+     "links": [
+      "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e8a425cbff50",
+   "title": "Premier League to publish verdicts on referee and VAR decisions",
+   "section": "sport",
+   "entities": [
+    "mason",
+    "wilson",
+    "rwandan",
+    "business",
+    "forest",
+    "gakpo",
+    "isak",
+    "beckett",
+    "canada",
+    "jonathan",
+    "salah",
+    "greenwood",
+    "michael",
+    "chris",
+    "maresca",
+    "napoli",
+    "troy's",
+    "spurs",
+    "united",
+    "ever",
+    "fifa",
+    "villa",
+    "manchester",
+    "phil",
+    "city",
+    "kuwait",
+    "carrick",
+    "premier",
+    "sports",
+    "liverpool",
+    "women",
+    "police",
+    "tuchel",
+    "andy",
+    "glasner",
+    "jackson",
+    "burnham",
+    "real",
+    "salisbury",
+    "millionaire"
+   ],
+   "event_ids": [
+    "e8a425cbff50",
+    "41179a85b0d9",
+    "3ff3a046513a",
+    "e7e4d04839a4",
+    "dfde3543e4ba",
+    "d94ad932442f",
+    "e0b2bb707b45",
+    "ca9b3648741f",
+    "7647b16128ca",
+    "3ed1a03ec11c",
+    "4774e258c054",
+    "3d51e83a35a8",
+    "aa48b1799b4d",
+    "f0a55f3207b0",
+    "6302b95a195e",
+    "fa7dac5445af",
+    "158c46bf8a36",
+    "48e10bd0f355",
+    "95f3edbe9e13",
+    "0eb6f99b53b6",
+    "44a656893df0",
+    "eb6c94972eaf",
+    "0818c2669ed5",
+    "d5134ea0c398",
+    "733eca9e3ba8",
+    "8e3412e5f1ca",
+    "2496eadc17a6",
+    "af484d739144",
+    "90399fab0687",
+    "ef63e47ed4c0",
+    "02d3ac75a53a",
+    "9d185633198c",
+    "b2ce06d6a200",
+    "a0428a510351",
+    "684081a81f31",
+    "7c74ae10e984",
+    "d4276895c857",
+    "234d20391d20",
+    "7d15ece97d42",
+    "088768f3341d",
+    "0120f35abded",
+    "33a46b0b933c",
+    "1be024e4d355",
+    "5f9b78c423de",
+    "be719f609eab",
+    "7f171825c70f",
+    "dc57fa6c3d03",
+    "9dcec27cdc51",
+    "f71dc622bba1",
+    "30cd0ba61903",
+    "783e368ae671",
+    "14c2e442517a",
+    "7cdb67f78253",
+    "4c6ccd194e47",
+    "d0dea84a661a",
+    "279242dc331f",
+    "90ef59a92533",
+    "ba630c69b7ba",
+    "cdb8565456a3",
+    "2d8d15ed5868",
+    "c4b3d527d3fd",
+    "33be681c2dab",
+    "5d0511adfb2d",
+    "df28328dc599",
+    "67e288b5b99c",
+    "9825e4caaa27",
+    "a46264ed02f0",
+    "ff0270be93d1",
+    "03c4565d185b",
+    "76f2aa1f6b70",
+    "4deb38f1b39b",
+    "0e93ac64726c",
+    "4ba4b8b75708",
+    "1e3d18fc81aa",
+    "67df0978b651",
+    "f3e463a332c3",
+    "fa19e735d50f",
+    "e9489905aec1",
+    "e9c5b4c67393",
+    "fb73dbee1490",
+    "dde1d964eb7c",
+    "25091917f855",
+    "a5941bf4db1a",
+    "d004835b9395",
+    "c4747e2f02c6",
+    "123157f24b32",
+    "9c931ace7e33",
+    "a6b63becd633",
+    "109847f04471",
+    "faddee96db4e",
+    "c8655c8f4915",
+    "9bdd0a68599f",
+    "6a62004872d3",
+    "0481a649943e",
+    "c2d5900f3fee",
+    "cdf632758e28",
+    "c0618218c018",
+    "df7687e929ae"
+   ],
+   "first_seen": "2026-08-18",
+   "last_seen": "2026-10-12",
+   "timeline": [
+    {
+     "date": "2026-09-08",
+     "headline": "Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7d15ece97d42",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
+      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Club Brugge v Aston Villa: Champions League – live",
+     "sources": 2,
+     "score": 54,
+     "event_id": "088768f3341d",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+      "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
+     "sources": 3,
+     "score": 66,
+     "event_id": "0120f35abded",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "The Rwandan eyeing Champions League history against Man Utd",
+     "sources": 3,
+     "score": 62,
+     "event_id": "33a46b0b933c",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c4g7zxezj9lo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Napoli v Arsenal: Champions League – live",
+     "sources": 2,
+     "score": 52,
+     "event_id": "1be024e4d355",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
+      "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
+     "sources": 2,
+     "score": 41,
+     "event_id": "5f9b78c423de",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
+      "https://www.france24.com/en/sport/20260910-psg-make-perfect-start-to-champions-league-title-defence"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Europe's next great coach? How Fabregas led Como into Champions League",
+     "sources": 3,
+     "score": 58,
+     "event_id": "be719f609eab",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/sports/20260910-psg-make-perfect-start-to-champions-league-title-defence",
+      "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Manchester United v Sabah: Champions League – live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "7f171825c70f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Man United put four past Sabah on Champions League return",
+     "sources": 2,
+     "score": 43,
+     "event_id": "dc57fa6c3d03",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Champions League new boys Como dominate Leipzig",
+     "sources": 4,
+     "score": 68,
+     "event_id": "9dcec27cdc51",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut",
+      "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Lens secure an epic comeback win to kick off their Champions League campaign",
+     "sources": 2,
+     "score": 42,
+     "event_id": "f71dc622bba1",
+     "links": [
+      "https://www.france24.com/en/lens-secure-an-epic-comeback-win-to-kick-off-their-champions-league-campaign",
+      "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Manchester United vs Man City: Premier League – predictions, teams, lineups",
+     "sources": 2,
+     "score": 55,
+     "event_id": "30cd0ba61903",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/12/how-to-watch-spurs-everton-premier-league",
+      "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "Manchester United v Manchester City: Premier League – live",
+     "sources": 2,
+     "score": 45,
+     "event_id": "783e368ae671",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
+      "https://www.theguardian.com/football/2026/sep/13/manchester-united-chelsea-wsl-match-report-womens-super-league",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Is the Premier League already a two-team title race?",
+     "sources": 2,
+     "score": 48,
+     "event_id": "14c2e442517a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cqlwkzde10qo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/14/haalands-cutting-edge-separates-the-manchester-clubs"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Who has made Troy's Premier League team of the week?",
+     "sources": 3,
+     "score": 56,
+     "event_id": "7cdb67f78253",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/14/manchester-derby-var-official-stood-down-from-weekend-premier-league-games?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse",
+     "sources": 2,
+     "score": 46,
+     "event_id": "4c6ccd194e47",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton",
+      "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "London City's new training centre 'better than most Premier League clubs' - Kang",
+     "sources": 2,
+     "score": 51,
+     "event_id": "d0dea84a661a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
+      "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
+     "sources": 2,
+     "score": 46,
+     "event_id": "279242dc331f",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/18/premier-league-news-carrick-brushes-aside-questions-over-future-arteta-salutes-extraordinary-dowman"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Tottenham v Aston Villa: Premier League – live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "90ef59a92533",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
+     "sources": 3,
+     "score": 66,
+     "event_id": "ba630c69b7ba",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cdb8565456a3",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/19/mikel-arteta-arsenal-humbled-brighton-defeat"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Arteta agrees new deal with Premier League champions Arsenal",
+     "sources": 2,
+     "score": 41,
+     "event_id": "2d8d15ed5868",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
+     "sources": 3,
+     "score": 52,
+     "event_id": "c4b3d527d3fd",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+     "sources": 2,
+     "score": 46,
+     "event_id": "33be681c2dab",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Manchester United report seventh straight annual loss despite record revenue",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5d0511adfb2d",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results",
+      "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Premier League joins call for Fifa reforms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "df28328dc599",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Manchester City reportedly found guilty of almost 115 financial charges",
+     "sources": 2,
+     "score": 56,
+     "event_id": "67e288b5b99c",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto",
+      "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
+     "sources": 2,
+     "score": 54,
+     "event_id": "9825e4caaa27",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies",
+      "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
+      "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Manchester City verdict: what happens next, will club appeal and could they be relegated?",
+     "sources": 3,
+     "score": 65,
+     "event_id": "a46264ed02f0",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/manchester-city-verdict-what-happens-next-appeal-relegated",
+      "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
+      "https://www.aljazeera.com/sports/2026/9/26/manchester-city-found-guilty-what-we-know-what-could-the-punishment-be?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "WSL roundup: Greenwood maintains Manchester City’s 100% record",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ff0270be93d1",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
+      "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
+     "sources": 3,
+     "score": 63,
+     "event_id": "03c4565d185b",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
+      "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "How drawn-out saga of Manchester City’s alleged cheating came to this",
+     "sources": 2,
+     "score": 44,
+     "event_id": "76f2aa1f6b70",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi",
+      "https://www.theguardian.com/football/2026/sep/27/tony-pulis-says-he-and-stoke-were-cheated-in-2011-fa-cup-final-after-manchester-city-verdict"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Man City CEO defiant over Premier League charges",
+     "sources": 2,
+     "score": 48,
+     "event_id": "4deb38f1b39b",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Aston Villa sack boss Arroyo after winless WSL start",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0e93ac64726c",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6zxzv84dn5xo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/29/aston-villa-women-sack-manager-natalia-arroyo-wsl"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Why Salisbury are 'bigger than many Premier League teams' in Kuwait",
+     "sources": 3,
+     "score": 63,
+     "event_id": "4ba4b8b75708",
+     "links": [
+      "https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
+      "https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "The intricate web Man City spun to con the Premier League",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1e3d18fc81aa",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sounds/play/p0pd2w9y?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/29/manchester-city-ceo-soriano-says-guilty-verdicts-are-a-premier-league-conspiracy-theory"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Manchester City could be forced to pay Premier League up to £50m in legal costs",
+     "sources": 2,
+     "score": 49,
+     "event_id": "67df0978b651",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/30/manchester-city-premier-league-legal-costs",
+      "https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Manchester City Premier League charges: What do they mean?",
+     "sources": 2,
+     "score": 48,
+     "event_id": "f3e463a332c3",
+     "links": [
+      "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "'Business as usual' for Man City Women despite Premier League guilty verdicts",
+     "sources": 2,
+     "score": 48,
+     "event_id": "fa19e735d50f",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6kgxrr94dyno?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
+     "sources": 1,
+     "score": 41,
+     "event_id": "e9489905aec1",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
+      "https://www.theguardian.com/football/2026/oct/01/manchester-city-la-clippers-ultra-rich-accountability"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "How success of Manchester City helped put Andy Burnham in power",
+     "sources": 4,
+     "score": 74,
+     "event_id": "e9c5b4c67393",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power",
+      "https://www.theguardian.com/news/audio/2026/oct/01/billionaire-sheiks-and-sham-contracts-the-manchester-city-scandal-podcast",
+      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+     "sources": 3,
+     "score": 62,
+     "event_id": "fb73dbee1490",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
+      "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett",
+     "sources": 2,
+     "score": 46,
+     "event_id": "dde1d964eb7c",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/02/andy-burnham-labour-talk-big-changes",
+      "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Manchester City’s England players are worried about their futures, admits Tuchel",
+     "sources": 2,
+     "score": 52,
+     "event_id": "25091917f855",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
+      "https://www.theguardian.com/football/2026/oct/02/manchester-city-football-daily-newsletter",
+      "https://www.france24.com/en/sport/20261002-manchester-city-appeal-judgement-that-club-breached-premier-league-financial-rules"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a5941bf4db1a",
+     "links": [
+      "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
+      "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+     "sources": 2,
+     "score": 46,
+     "event_id": "d004835b9395",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Could Manchester City be expelled from the Premier League?",
+     "sources": 3,
+     "score": 66,
+     "event_id": "c4747e2f02c6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cm70p48l9v8vo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/7/arsenal-boss-mikel-arteta-signs-new-contract-with-premier-league-champions?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Who am I? Guess Premier League star No 77",
+     "sources": 2,
+     "score": 40,
+     "event_id": "123157f24b32",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cr3eqepqqq7po?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/5/premier-league-viewership-in-us-up-20-percent-among-young-americans?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Glasner urges quick end to Manchester City saga and fears damage to Premier League",
+     "sources": 2,
+     "score": 49,
+     "event_id": "9c931ace7e33",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/08/glasner-urges-quick-end-to-manchester-city-saga-and-fears-damage-to-premier-league",
+      "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Man City charges: Mourinho jokes Premier League case will outlast him",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a6b63becd633",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
+      "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Yet to gel or same old struggles? - De Zerbi's Premier League dilemma",
+     "sources": 2,
+     "score": 40,
+     "event_id": "109847f04471",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cwp8g355me6no?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live",
+     "sources": 2,
+     "score": 60,
+     "event_id": "faddee96db4e",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/09/premier-league-resumes-manchester-city-in-spotlight-football-news-live",
+      "https://www.theguardian.com/football/2026/oct/09/manchester-united-tottenham-michael-carrick-premier-league",
+      "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
+     "sources": 1,
+     "score": 42,
+     "event_id": "c8655c8f4915",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
+      "https://www.theguardian.com/football/2026/oct/09/maresca-refuses-to-confirm-he-will-stay-at-manchester-city-if-club-lose-appeal"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Manchester United v Tottenham: Premier League – live",
+     "sources": 2,
+     "score": 56,
+     "event_id": "9bdd0a68599f",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
+      "https://www.theguardian.com/football/live/2026/oct/10/arsenal-v-leeds-premier-league-live"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Carrick ‘massively disappointed’ after United drop points against 10-man Spurs",
+     "sources": 2,
+     "score": 49,
+     "event_id": "6a62004872d3",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/10/michael-carrick-manchester-united-tottenham-roberto-de-zerbi",
+      "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
+     "sources": 2,
+     "score": 40,
+     "event_id": "0481a649943e",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich",
+      "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Manchester City face hostile Liverpool reception after guilty verdict – matchday live",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c2d5900f3fee",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/11/manchester-city-face-hostile-liverpool-reception-after-guilty-verdict-matchday-live",
+      "https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Who 'simply has to do better'? Liverpool v Man City player ratings",
+     "sources": 3,
+     "score": 68,
+     "event_id": "cdf632758e28",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Andy Burnham to publish all details of his dealings with Manchester City",
+     "sources": 4,
+     "score": 76,
+     "event_id": "c0618218c018",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
+      "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Police officer injured as 10 arrests made at tense Liverpool v Manchester City match",
+     "sources": 2,
+     "score": 56,
+     "event_id": "df7687e929ae",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/12/police-officer-injured-as-10-arrests-made-at-tense-liverpool-v-manchester-city-match",
+      "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/12/virgil-van-dijk-warns-manchester-city-players-to-get-used-to-hostile-atmospheres"
      ]
     }
    ]
@@ -1939,844 +2788,331 @@
    ]
   },
   {
-   "id": "e8a425cbff50",
-   "title": "Premier League to publish verdicts on referee and VAR decisions",
-   "section": "sport",
+   "id": "d7c7a0654af4",
+   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+   "section": "world",
    "entities": [
-    "women",
-    "kuwait",
-    "carrick",
-    "sports",
-    "ever",
-    "jackson",
-    "isak",
-    "tuchel",
-    "burnham",
-    "beckett",
-    "salah",
-    "premier",
-    "maresca",
-    "napoli",
-    "forest",
-    "gakpo",
-    "millionaire",
-    "phil",
-    "greenwood",
-    "chris",
-    "spurs",
-    "michael",
-    "salisbury",
-    "glasner",
-    "mason",
-    "jonathan",
-    "wilson",
-    "villa",
-    "liverpool",
-    "manchester",
-    "jamie",
-    "rwandan",
-    "troy's",
-    "united",
-    "real",
-    "canada",
-    "business",
-    "andy",
-    "fifa",
-    "city"
+    "stain",
+    "board",
+    "nobel",
+    "hall",
+    "navanethem",
+    "trump",
+    "navi",
+    "prize",
+    "peace",
+    "gaza",
+    "pillay",
+    "norway",
+    "woodford"
    ],
    "event_ids": [
-    "e8a425cbff50",
-    "41179a85b0d9",
-    "3ff3a046513a",
-    "e7e4d04839a4",
-    "dfde3543e4ba",
-    "d94ad932442f",
-    "e0b2bb707b45",
-    "ca9b3648741f",
-    "7647b16128ca",
-    "3ed1a03ec11c",
-    "4774e258c054",
-    "3d51e83a35a8",
-    "aa48b1799b4d",
-    "f0a55f3207b0",
-    "6302b95a195e",
-    "fa7dac5445af",
-    "158c46bf8a36",
-    "48e10bd0f355",
-    "95f3edbe9e13",
-    "0eb6f99b53b6",
-    "44a656893df0",
-    "eb6c94972eaf",
-    "0818c2669ed5",
-    "d5134ea0c398",
-    "733eca9e3ba8",
-    "8e3412e5f1ca",
-    "2496eadc17a6",
-    "af484d739144",
-    "90399fab0687",
-    "ef63e47ed4c0",
-    "02d3ac75a53a",
-    "9d185633198c",
-    "b2ce06d6a200",
-    "a0428a510351",
-    "684081a81f31",
-    "7c74ae10e984",
-    "d4276895c857",
-    "234d20391d20",
-    "7d15ece97d42",
-    "088768f3341d",
-    "0120f35abded",
-    "33a46b0b933c",
-    "1be024e4d355",
-    "5f9b78c423de",
-    "be719f609eab",
-    "7f171825c70f",
-    "dc57fa6c3d03",
-    "9dcec27cdc51",
-    "f71dc622bba1",
-    "30cd0ba61903",
-    "783e368ae671",
-    "14c2e442517a",
-    "7cdb67f78253",
-    "4c6ccd194e47",
-    "d0dea84a661a",
-    "279242dc331f",
-    "90ef59a92533",
-    "ba630c69b7ba",
-    "cdb8565456a3",
-    "2d8d15ed5868",
-    "c4b3d527d3fd",
-    "33be681c2dab",
-    "5d0511adfb2d",
-    "df28328dc599",
-    "67e288b5b99c",
-    "9825e4caaa27",
-    "a46264ed02f0",
-    "ff0270be93d1",
-    "03c4565d185b",
-    "76f2aa1f6b70",
-    "4deb38f1b39b",
-    "0e93ac64726c",
-    "4ba4b8b75708",
-    "1e3d18fc81aa",
-    "67df0978b651",
-    "f3e463a332c3",
-    "fa19e735d50f",
-    "e9489905aec1",
-    "e9c5b4c67393",
-    "fb73dbee1490",
-    "dde1d964eb7c",
-    "25091917f855",
-    "a5941bf4db1a",
-    "d004835b9395",
-    "c4747e2f02c6",
-    "123157f24b32",
-    "9c931ace7e33",
-    "a6b63becd633",
-    "109847f04471",
-    "faddee96db4e",
-    "c8655c8f4915",
-    "9bdd0a68599f",
-    "6a62004872d3",
-    "0481a649943e",
-    "c2d5900f3fee",
-    "cdf632758e28",
-    "c0618218c018"
+    "d7c7a0654af4",
+    "1f36d06a3b96",
+    "36dc6bd9a136",
+    "1e8bc4bbe1cf",
+    "86a510043ce8",
+    "0cf138feb61b",
+    "e5d483192c24",
+    "03ca3f1ff781"
    ],
-   "first_seen": "2026-08-18",
-   "last_seen": "2026-10-11",
+   "first_seen": "2026-10-09",
+   "last_seen": "2026-10-12",
    "timeline": [
     {
-     "date": "2026-09-05",
-     "headline": "Aston Villa still winless after stalemate at Hull",
-     "sources": 2,
-     "score": 41,
-     "event_id": "234d20391d20",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c9w48xp5g14o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7d15ece97d42",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
-      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Club Brugge v Aston Villa: Champions League – live",
-     "sources": 2,
-     "score": 54,
-     "event_id": "088768f3341d",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
-     "sources": 3,
-     "score": 66,
-     "event_id": "0120f35abded",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "The Rwandan eyeing Champions League history against Man Utd",
-     "sources": 3,
-     "score": 62,
-     "event_id": "33a46b0b933c",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c4g7zxezj9lo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Napoli v Arsenal: Champions League – live",
-     "sources": 2,
-     "score": 52,
-     "event_id": "1be024e4d355",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
-     "sources": 2,
-     "score": 41,
-     "event_id": "5f9b78c423de",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
-      "https://www.france24.com/en/sport/20260910-psg-make-perfect-start-to-champions-league-title-defence"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Europe's next great coach? How Fabregas led Como into Champions League",
-     "sources": 3,
-     "score": 58,
-     "event_id": "be719f609eab",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/sports/20260910-psg-make-perfect-start-to-champions-league-title-defence",
-      "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Manchester United v Sabah: Champions League – live",
-     "sources": 2,
-     "score": 46,
-     "event_id": "7f171825c70f",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Man United put four past Sabah on Champions League return",
-     "sources": 2,
-     "score": 43,
-     "event_id": "dc57fa6c3d03",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Champions League new boys Como dominate Leipzig",
+     "date": "2026-10-09",
+     "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
      "sources": 4,
-     "score": 68,
-     "event_id": "9dcec27cdc51",
+     "score": 74,
+     "event_id": "d7c7a0654af4",
      "links": [
-      "https://www.bbc.co.uk/sport/football/videos/czxzwwdz19zo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/sport/20260910-manchester-united-sabah-champions-league-fabregas-como-european-debut",
-      "https://www.theguardian.com/football/2026/sep/10/champions-league-bayern-bodo-como-leipzig"
+      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+      "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
      ]
     },
     {
-     "date": "2026-09-11",
-     "headline": "Lens secure an epic comeback win to kick off their Champions League campaign",
-     "sources": 2,
-     "score": 42,
-     "event_id": "f71dc622bba1",
+     "date": "2026-10-09",
+     "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+     "sources": 3,
+     "score": 72,
+     "event_id": "1f36d06a3b96",
      "links": [
-      "https://www.france24.com/en/lens-secure-an-epic-comeback-win-to-kick-off-their-champions-league-campaign",
-      "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks"
+      "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
      ]
     },
     {
-     "date": "2026-09-12",
-     "headline": "Manchester United vs Man City: Premier League – predictions, teams, lineups",
-     "sources": 2,
+     "date": "2026-10-09",
+     "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+     "sources": 3,
      "score": 55,
-     "event_id": "30cd0ba61903",
+     "event_id": "36dc6bd9a136",
      "links": [
-      "https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/12/how-to-watch-spurs-everton-premier-league",
-      "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club"
+      "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel"
      ]
     },
     {
-     "date": "2026-09-13",
-     "headline": "Manchester United v Manchester City: Premier League – live",
+     "date": "2026-10-09",
+     "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+     "sources": 4,
+     "score": 72,
+     "event_id": "1e8bc4bbe1cf",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+     "sources": 2,
+     "score": 47,
+     "event_id": "86a510043ce8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
      "sources": 2,
      "score": 45,
-     "event_id": "783e368ae671",
+     "event_id": "0cf138feb61b",
      "links": [
-      "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "https://www.theguardian.com/football/2026/sep/13/manchester-united-chelsea-wsl-match-report-womens-super-league",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss"
+      "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss"
      ]
     },
     {
-     "date": "2026-09-14",
-     "headline": "Is the Premier League already a two-team title race?",
+     "date": "2026-10-10",
+     "headline": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
      "sources": 2,
-     "score": 48,
-     "event_id": "14c2e442517a",
+     "score": 49,
+     "event_id": "e5d483192c24",
      "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cqwyzxx96wnwo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cqlwkzde10qo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/14/haalands-cutting-edge-separates-the-manchester-clubs"
+      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/10/trump-norway-has-indelible-stain-nobel-peace-prize-snub.html",
+      "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+     "sources": 7,
+     "score": 77,
+     "event_id": "03ca3f1ff781",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9739585c4084",
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "section": "world",
+   "entities": [
+    "trump's",
+    "verizon",
+    "court",
+    "thousands",
+    "indian",
+    "supreme"
+   ],
+   "event_ids": [
+    "9739585c4084",
+    "bead7cd93cfe",
+    "be7b7e3d8994",
+    "246b3636a67b",
+    "ca9a582da53c",
+    "a957e56e03fd",
+    "37f7a7a40e7d"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-10-12",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9739585c4084",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "sources": 3,
+     "score": 56,
+     "event_id": "bead7cd93cfe",
+     "links": [
+      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be7b7e3d8994",
+     "links": [
+      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
+     "sources": 2,
+     "score": 43,
+     "event_id": "246b3636a67b",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
+      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
      ]
     },
     {
      "date": "2026-09-15",
-     "headline": "Who has made Troy's Premier League team of the week?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "7cdb67f78253",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/c6pwlk0kjqwqo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/14/manchester-derby-var-official-stood-down-from-weekend-premier-league-games?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse",
+     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
      "sources": 2,
      "score": 46,
-     "event_id": "4c6ccd194e47",
+     "event_id": "ca9a582da53c",
      "links": [
-      "https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton",
-      "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report"
+      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
      ]
     },
     {
-     "date": "2026-09-18",
-     "headline": "London City's new training centre 'better than most Premier League clubs' - Kang",
+     "date": "2026-09-15",
+     "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
      "sources": 2,
-     "score": 51,
-     "event_id": "d0dea84a661a",
+     "score": 44,
+     "event_id": "a957e56e03fd",
      "links": [
-      "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us"
+      "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
      ]
     },
     {
-     "date": "2026-09-19",
-     "headline": "Brighton vs Arsenal: Premier League – predictions, teams, lineups",
+     "date": "2026-10-12",
+     "headline": "Thousands march to Indian Supreme Court to demand election chief resign",
      "sources": 2,
      "score": 46,
-     "event_id": "279242dc331f",
+     "event_id": "37f7a7a40e7d",
      "links": [
-      "https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/18/premier-league-news-carrick-brushes-aside-questions-over-future-arteta-salutes-extraordinary-dowman"
+      "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "94761ad38bf7",
+   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+   "section": "tech",
+   "entities": [
+    "android",
+    "edge",
+    "google",
+    "pixel",
+    "fitbit"
+   ],
+   "event_ids": [
+    "94761ad38bf7",
+    "cf70bce2fbbe",
+    "706b05ecb86e",
+    "e288f767d754"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-10-12",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+     "sources": 5,
+     "score": 81,
+     "event_id": "94761ad38bf7",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
      ]
     },
     {
-     "date": "2026-09-19",
-     "headline": "Tottenham v Aston Villa: Premier League – live",
+     "date": "2026-08-19",
+     "headline": "Google Pixel 11 series review: Is the magic fading?",
      "sources": 2,
-     "score": 46,
-     "event_id": "90ef59a92533",
+     "score": 43,
+     "event_id": "cf70bce2fbbe",
      "links": [
-      "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/19/live-brighton-vs-arsenal-premier-league?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us"
+      "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
      ]
     },
     {
-     "date": "2026-09-19",
-     "headline": "'Stay humble' - Hurzeler's plea to Brighton after huge Arsenal win",
-     "sources": 3,
-     "score": 66,
-     "event_id": "ba630c69b7ba",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cqx2zd858d7xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cdb8565456a3",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/19/mikel-arteta-arsenal-humbled-brighton-defeat"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Arteta agrees new deal with Premier League champions Arsenal",
-     "sources": 2,
-     "score": 41,
-     "event_id": "2d8d15ed5868",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
-     "sources": 3,
-     "score": 52,
-     "event_id": "c4b3d527d3fd",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
-     "sources": 2,
-     "score": 46,
-     "event_id": "33be681c2dab",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Manchester United report seventh straight annual loss despite record revenue",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5d0511adfb2d",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results",
-      "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Premier League joins call for Fifa reforms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "df28328dc599",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Manchester City reportedly found guilty of almost 115 financial charges",
-     "sources": 2,
-     "score": 56,
-     "event_id": "67e288b5b99c",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/25/manchester-city-guilty-verdict-a-historic-decision-says-whistleblower-rui-pinto",
-      "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "We Manchester City fans fear relegation and losing trophies … but club are bang to rights",
+     "date": "2026-09-16",
+     "headline": "Google fixes actively exploited Android zero-day on Pixel devices",
      "sources": 2,
      "score": 54,
-     "event_id": "9825e4caaa27",
+     "event_id": "706b05ecb86e",
      "links": [
-      "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies",
-      "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
-      "https://www.theguardian.com/football/2026/sep/25/manchester-city-fans-fear-relegation-losing-trophies"
+      "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
      ]
     },
     {
-     "date": "2026-09-26",
-     "headline": "Manchester City verdict: what happens next, will club appeal and could they be relegated?",
-     "sources": 3,
-     "score": 65,
-     "event_id": "a46264ed02f0",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/26/manchester-city-verdict-what-happens-next-appeal-relegated",
-      "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
-      "https://www.aljazeera.com/sports/2026/9/26/manchester-city-found-guilty-what-we-know-what-could-the-punishment-be?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "WSL roundup: Greenwood maintains Manchester City’s 100% record",
+     "date": "2026-10-12",
+     "headline": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
      "sources": 2,
      "score": 40,
-     "event_id": "ff0270be93d1",
+     "event_id": "e288f767d754",
      "links": [
-      "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
-      "https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss"
+      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "7ed420153ea5",
+   "title": "US federal agents search home of Trump critic Omar",
+   "section": "world",
+   "entities": [
+    "omar",
+    "trump"
+   ],
+   "event_ids": [
+    "7ed420153ea5"
+   ],
+   "first_seen": "2026-10-12",
+   "last_seen": "2026-10-12",
+   "timeline": [
     {
-     "date": "2026-09-27",
-     "headline": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
-     "sources": 3,
-     "score": 63,
-     "event_id": "03c4565d185b",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
-      "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "How drawn-out saga of Manchester City’s alleged cheating came to this",
-     "sources": 2,
-     "score": 44,
-     "event_id": "76f2aa1f6b70",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi",
-      "https://www.theguardian.com/football/2026/sep/27/tony-pulis-says-he-and-stoke-were-cheated-in-2011-fa-cup-final-after-manchester-city-verdict"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Man City CEO defiant over Premier League charges",
-     "sources": 2,
-     "score": 48,
-     "event_id": "4deb38f1b39b",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Aston Villa sack boss Arroyo after winless WSL start",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0e93ac64726c",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6zxzv84dn5xo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/29/aston-villa-women-sack-manager-natalia-arroyo-wsl"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Why Salisbury are 'bigger than many Premier League teams' in Kuwait",
-     "sources": 3,
-     "score": 63,
-     "event_id": "4ba4b8b75708",
-     "links": [
-      "https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/29/man-citys-premier-league-charges-whats-the-latest-and-what-comes-next?traffic_source=rss",
-      "https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "The intricate web Man City spun to con the Premier League",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1e3d18fc81aa",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sounds/play/p0pd2w9y?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/29/manchester-city-ceo-soriano-says-guilty-verdicts-are-a-premier-league-conspiracy-theory"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Manchester City could be forced to pay Premier League up to £50m in legal costs",
-     "sources": 2,
-     "score": 49,
-     "event_id": "67df0978b651",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/30/manchester-city-premier-league-legal-costs",
-      "https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Manchester City Premier League charges: What do they mean?",
-     "sources": 2,
-     "score": 48,
-     "event_id": "f3e463a332c3",
-     "links": [
-      "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "'Business as usual' for Man City Women despite Premier League guilty verdicts",
-     "sources": 2,
-     "score": 48,
-     "event_id": "fa19e735d50f",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6kgxrr94dyno?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
-     "sources": 1,
-     "score": 41,
-     "event_id": "e9489905aec1",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
-      "https://www.theguardian.com/football/2026/oct/01/manchester-city-la-clippers-ultra-rich-accountability"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "How success of Manchester City helped put Andy Burnham in power",
+     "date": "2026-10-12",
+     "headline": "US federal agents search home of Trump critic Omar",
      "sources": 4,
-     "score": 74,
-     "event_id": "e9c5b4c67393",
+     "score": 63,
+     "event_id": "7ed420153ea5",
      "links": [
-      "https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power",
-      "https://www.theguardian.com/news/audio/2026/oct/01/billionaire-sheiks-and-sham-contracts-the-manchester-city-scandal-podcast",
-      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
-     "sources": 3,
-     "score": 62,
-     "event_id": "fb73dbee1490",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
-      "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett",
-     "sources": 2,
-     "score": 46,
-     "event_id": "dde1d964eb7c",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/oct/02/andy-burnham-labour-talk-big-changes",
-      "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Manchester City’s England players are worried about their futures, admits Tuchel",
-     "sources": 2,
-     "score": 52,
-     "event_id": "25091917f855",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
-      "https://www.theguardian.com/football/2026/oct/02/manchester-city-football-daily-newsletter",
-      "https://www.france24.com/en/sport/20261002-manchester-city-appeal-judgement-that-club-breached-premier-league-financial-rules"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a5941bf4db1a",
-     "links": [
-      "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
-      "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
-     "sources": 2,
-     "score": 46,
-     "event_id": "d004835b9395",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Could Manchester City be expelled from the Premier League?",
-     "sources": 3,
-     "score": 66,
-     "event_id": "c4747e2f02c6",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cm70p48l9v8vo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/7/arsenal-boss-mikel-arteta-signs-new-contract-with-premier-league-champions?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Who am I? Guess Premier League star No 77",
-     "sources": 2,
-     "score": 40,
-     "event_id": "123157f24b32",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cr3eqepqqq7po?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/5/premier-league-viewership-in-us-up-20-percent-among-young-americans?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Glasner urges quick end to Manchester City saga and fears damage to Premier League",
-     "sources": 2,
-     "score": 49,
-     "event_id": "9c931ace7e33",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/08/glasner-urges-quick-end-to-manchester-city-saga-and-fears-damage-to-premier-league",
-      "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Man City charges: Mourinho jokes Premier League case will outlast him",
-     "sources": 2,
-     "score": 46,
-     "event_id": "a6b63becd633",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-mourinho-jokes-premier-league-case-will-outlast-him?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
-      "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Yet to gel or same old struggles? - De Zerbi's Premier League dilemma",
-     "sources": 2,
-     "score": 40,
-     "event_id": "109847f04471",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cwp8g355me6no?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live",
-     "sources": 2,
-     "score": 60,
-     "event_id": "faddee96db4e",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/oct/09/premier-league-resumes-manchester-city-in-spotlight-football-news-live",
-      "https://www.theguardian.com/football/2026/oct/09/manchester-united-tottenham-michael-carrick-premier-league",
-      "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
-     "sources": 1,
-     "score": 42,
-     "event_id": "c8655c8f4915",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
-      "https://www.theguardian.com/football/2026/oct/09/maresca-refuses-to-confirm-he-will-stay-at-manchester-city-if-club-lose-appeal"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Manchester United v Tottenham: Premier League – live",
-     "sources": 2,
-     "score": 56,
-     "event_id": "9bdd0a68599f",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
-      "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
-      "https://www.theguardian.com/football/live/2026/oct/10/arsenal-v-leeds-premier-league-live"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Carrick ‘massively disappointed’ after United drop points against 10-man Spurs",
-     "sources": 2,
-     "score": 49,
-     "event_id": "6a62004872d3",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/10/michael-carrick-manchester-united-tottenham-roberto-de-zerbi",
-      "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
-     "sources": 2,
-     "score": 40,
-     "event_id": "0481a649943e",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich",
-      "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Manchester City face hostile Liverpool reception after guilty verdict – matchday live",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c2d5900f3fee",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/oct/11/manchester-city-face-hostile-liverpool-reception-after-guilty-verdict-matchday-live",
-      "https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Who 'simply has to do better'? Liverpool v Man City player ratings",
-     "sources": 3,
-     "score": 68,
-     "event_id": "cdf632758e28",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Andy Burnham to publish all details of his dealings with Manchester City",
-     "sources": 4,
-     "score": 76,
-     "event_id": "c0618218c018",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
-      "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote"
+      "https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-omar/a-79643360?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+      "https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar"
      ]
     }
    ]
@@ -3433,119 +3769,6 @@
      "links": [
       "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
       "https://www.theguardian.com/sport/2026/oct/10/south-africa-australia-first-test-second-day-match-report"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d7c7a0654af4",
-   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
-   "section": "world",
-   "entities": [
-    "norway",
-    "prize",
-    "trump",
-    "navi",
-    "stain",
-    "peace",
-    "gaza",
-    "pillay",
-    "board",
-    "nobel",
-    "navanethem"
-   ],
-   "event_ids": [
-    "d7c7a0654af4",
-    "1f36d06a3b96",
-    "36dc6bd9a136",
-    "1e8bc4bbe1cf",
-    "86a510043ce8",
-    "0cf138feb61b",
-    "e5d483192c24"
-   ],
-   "first_seen": "2026-10-09",
-   "last_seen": "2026-10-10",
-   "timeline": [
-    {
-     "date": "2026-10-09",
-     "headline": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
-     "sources": 4,
-     "score": 74,
-     "event_id": "d7c7a0654af4",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-      "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-     "sources": 3,
-     "score": 72,
-     "event_id": "1f36d06a3b96",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-      "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-     "sources": 3,
-     "score": 55,
-     "event_id": "36dc6bd9a136",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
-      "https://www.france24.com/en/video/20261009-no-peace-without-international-law-the-message-behind-navi-pillay-s-nobel"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-     "sources": 4,
-     "score": 72,
-     "event_id": "1e8bc4bbe1cf",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/raised-in-apartheid-south-africa-2026-nobel-peace-prize-winner-navi-pillay-is-one-of-the-worlds-leading-human-rights-jurists-180989667/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-     "sources": 2,
-     "score": 47,
-     "event_id": "86a510043ce8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-     "sources": 2,
-     "score": 45,
-     "event_id": "0cf138feb61b",
-     "links": [
-      "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-     "sources": 2,
-     "score": 49,
-     "event_id": "e5d483192c24",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/10/trump-norway-has-indelible-stain-nobel-peace-prize-snub.html",
-      "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss"
      ]
     }
    ]
@@ -12257,61 +12480,6 @@
    ]
   },
   {
-   "id": "94761ad38bf7",
-   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-   "section": "tech",
-   "entities": [
-    "pixel",
-    "google",
-    "android"
-   ],
-   "event_ids": [
-    "94761ad38bf7",
-    "cf70bce2fbbe",
-    "706b05ecb86e"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-09-16",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-     "sources": 5,
-     "score": 81,
-     "event_id": "94761ad38bf7",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Google Pixel 11 series review: Is the magic fading?",
-     "sources": 2,
-     "score": 43,
-     "event_id": "cf70bce2fbbe",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Google fixes actively exploited Android zero-day on Pixel devices",
-     "sources": 2,
-     "score": 54,
-     "event_id": "706b05ecb86e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "3bd82fdf31ce",
    "title": "Von der Leyen eyes Canada as EU's first 'associate member'",
    "section": "world",
@@ -12349,97 +12517,6 @@
      "links": [
       "http://www.france24.com/en/video/20260916-von-der-leyen-pitches-associate-member-status-for-canada-what-does-it-mean-for-eu-us-ties",
       "https://www.aljazeera.com/news/2026/9/16/eu-chief-von-der-leyen-proposes-associate-member-status-for-canada?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9739585c4084",
-   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-   "section": "world",
-   "entities": [
-    "supreme",
-    "court",
-    "trump's",
-    "verizon"
-   ],
-   "event_ids": [
-    "9739585c4084",
-    "bead7cd93cfe",
-    "be7b7e3d8994",
-    "246b3636a67b",
-    "ca9a582da53c",
-    "a957e56e03fd"
-   ],
-   "first_seen": "2026-08-17",
-   "last_seen": "2026-09-15",
-   "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9739585c4084",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "sources": 3,
-     "score": 56,
-     "event_id": "bead7cd93cfe",
-     "links": [
-      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be7b7e3d8994",
-     "links": [
-      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
-     "sources": 2,
-     "score": 43,
-     "event_id": "246b3636a67b",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ca9a582da53c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a957e56e03fd",
-     "links": [
-      "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
-      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
      ]
     }
    ]
@@ -15065,5 +15142,5 @@
    ]
   }
  ],
- "updated": "2026-10-12T09:46:38+00:00"
+ "updated": "2026-10-12T15:30:49+00:00"
 }

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-12
 
-Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
+Paměť obsahuje **142 vláken**. Aktivních za posledních 14 dní: **49**.
 
 ---
 
@@ -9,9 +9,6 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 64 dní · 60 záznamů
 - časová osa:
-  - **2026-10-10** (2 zdrojů) 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
-  - **2026-10-10** (4 zdrojů) Watch: 'Time for Ukraine to get a new president', says Trump
-  - **2026-10-11** (2 zdrojů) Middle East live: Riyadh airport attack 'not acceptable,' Trump says
   - **2026-10-11** (2 zdrojů) Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
   - **2026-10-11** (2 zdrojů) Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
   - **2026-10-11** (4 zdrojů) Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
@@ -19,13 +16,15 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-11** (2 zdrojů) Saudi capital airport hit by second Houthi strike in two days
   - **2026-10-11** (4 zdrojů) Trump claims Russia and Ukraine agreed to 'energy ceasefire'
   - **2026-10-12** (3 zdrojů) North Korea fires missiles after Seoul's hypersonic test
+  - **2026-10-12** (5 zdrojů) Saudi minister vows 'serious response' to Houthi attacks on airports
+  - **2026-10-12** (4 zdrojů) Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
+  - **2026-10-12** (2 zdrojů) Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 54 dní · 60 záznamů
+- rubrika `sport` · sledováno 55 dní · 60 záznamů
 - časová osa:
-  - **2026-10-09** (2 zdrojů) Man City charges: Mourinho jokes Premier League case will outlast him
   - **2026-10-09** (2 zdrojů) Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   - **2026-10-09** (2 zdrojů) Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
   - **2026-10-09** (1 zdrojů) Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
@@ -35,6 +34,7 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-11** (2 zdrojů) Manchester City face hostile Liverpool reception after guilty verdict – matchday live
   - **2026-10-11** (3 zdrojů) Who 'simply has to do better'? Liverpool v Man City player ratings
   - **2026-10-11** (4 zdrojů) Andy Burnham to publish all details of his dealings with Manchester City
+  - **2026-10-12** (2 zdrojů) Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
