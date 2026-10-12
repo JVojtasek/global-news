@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "riyadh",
-    "ukraine",
-    "houthi",
-    "moscow",
-    "streeting",
     "centcom",
-    "marib",
-    "gulf",
-    "russia",
-    "times",
-    "persian",
-    "putin",
-    "saudis",
-    "trump",
-    "french",
-    "donald",
-    "south",
-    "time",
-    "saudi",
-    "korea",
-    "araghchi",
-    "groundhog",
-    "zelenskyy",
-    "lyon",
-    "lightning",
+    "luckin",
+    "streeting",
     "google",
-    "russian",
+    "araghchi",
     "modi",
-    "kuwait",
     "germany",
     "briton",
-    "seoul's",
-    "luckin",
+    "britain",
+    "kuwait",
+    "south",
     "iran's",
-    "houthis",
+    "times",
+    "lightning",
+    "persian",
     "brics",
-    "ai-aided",
+    "korea",
+    "ukrainian",
+    "saudis",
     "north",
+    "ukraine",
+    "houthis",
+    "zelenskyy",
+    "riyadh",
+    "donald",
+    "moscow",
+    "marib",
+    "gulf",
+    "french",
+    "seoul's",
     "iran",
-    "britain"
+    "groundhog",
+    "trump",
+    "russian",
+    "russia",
+    "putin",
+    "zelensky",
+    "time",
+    "saudi",
+    "lyon"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -177,22 +177,12 @@
     "c4e640b4ccfd",
     "c146a77e72f0",
     "f3ea112b90f7",
-    "bb8b71d6f954"
+    "bb8b71d6f954",
+    "410eece1f601"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-12",
    "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "Middle East live: Iran launches retaliatory strikes after fresh US bombing kills 11 people",
-     "sources": 2,
-     "score": 41,
-     "event_id": "57a1d77ee48e",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
-      "https://www.investing.com/news/commodities-news/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes-4885234"
-     ]
-    },
     {
      "date": "2026-09-02",
      "headline": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
@@ -865,6 +855,17 @@
       "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
       "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport"
      ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+     "sources": 2,
+     "score": 48,
+     "event_id": "410eece1f601",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html"
+     ]
     }
    ]
   },
@@ -873,46 +874,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "mason",
-    "wilson",
-    "rwandan",
     "business",
-    "forest",
-    "gakpo",
-    "isak",
-    "beckett",
-    "canada",
-    "jonathan",
-    "salah",
-    "greenwood",
-    "michael",
-    "chris",
-    "maresca",
-    "napoli",
-    "troy's",
-    "spurs",
-    "united",
-    "ever",
-    "fifa",
-    "villa",
-    "manchester",
-    "phil",
-    "city",
-    "kuwait",
-    "carrick",
     "premier",
-    "sports",
-    "liverpool",
+    "gakpo",
+    "salisbury",
+    "rwandan",
+    "troy's",
     "women",
+    "united",
+    "wilson",
+    "fifa",
+    "real",
     "police",
     "tuchel",
-    "andy",
-    "glasner",
-    "jackson",
+    "phil",
+    "beckett",
+    "newcastle",
+    "napoli",
+    "mason",
+    "maresca",
+    "millionaire",
+    "salah",
+    "michael",
+    "liverpool",
+    "carrick",
+    "ever",
+    "spurs",
+    "manchester",
+    "city",
+    "coventry",
     "burnham",
-    "real",
-    "salisbury",
-    "millionaire"
+    "glasner",
+    "sports",
+    "isak",
+    "andy",
+    "greenwood",
+    "jonathan",
+    "forest",
+    "chris",
+    "jackson",
+    "villa"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1012,34 +1013,13 @@
     "c2d5900f3fee",
     "cdf632758e28",
     "c0618218c018",
-    "df7687e929ae"
+    "df7687e929ae",
+    "4bf6fc2f6288",
+    "6575afdd7ce7"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-12",
    "timeline": [
-    {
-     "date": "2026-09-08",
-     "headline": "Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7d15ece97d42",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
-      "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Club Brugge v Aston Villa: Champions League – live",
-     "sources": 2,
-     "score": 54,
-     "event_id": "088768f3341d",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
-      "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
-      "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live"
-     ]
-    },
     {
      "date": "2026-09-09",
      "headline": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
@@ -1709,6 +1689,29 @@
       "https://www.theguardian.com/football/2026/oct/12/police-officer-injured-as-10-arrests-made-at-tense-liverpool-v-manchester-city-match",
       "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss",
       "https://www.theguardian.com/football/2026/oct/12/virgil-van-dijk-warns-manchester-city-players-to-get-used-to-hostile-atmospheres"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
+     "sources": 2,
+     "score": 51,
+     "event_id": "4bf6fc2f6288",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/12/football-daily-email-manchester-city-liverpool"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Coventry City v Newcastle United: Premier League – live",
+     "sources": 2,
+     "score": 45,
+     "event_id": "6575afdd7ce7",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
+      "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss"
      ]
     }
    ]
@@ -2429,32 +2432,35 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "arabia's",
-    "houthis",
-    "yemeni",
-    "attack",
-    "turkey",
-    "second",
-    "yemen's",
-    "three",
-    "salman",
-    "taiz",
-    "pakistan",
-    "president",
-    "houthi",
-    "york",
-    "arabia",
-    "somalia",
-    "saudi",
-    "trump",
-    "aden",
-    "mecca",
     "israel-bound",
-    "king",
-    "saudi-backed",
+    "houthis",
+    "somalia",
     "riyadh",
     "yemen",
-    "western"
+    "salman",
+    "middle",
+    "arabia",
+    "attack",
+    "arabia's",
+    "yemeni",
+    "yemen's",
+    "taiz",
+    "york",
+    "turkey",
+    "president",
+    "saudi-backed",
+    "deadly",
+    "trump",
+    "east",
+    "mecca",
+    "three",
+    "aden",
+    "king",
+    "western",
+    "pakistan",
+    "saudi",
+    "houthi",
+    "second"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -2482,7 +2488,8 @@
     "4d155da59089",
     "d4fd36f35bd9",
     "5611b93eb435",
-    "8a7ec0826a1f"
+    "8a7ec0826a1f",
+    "da1b9627385a"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-12",
@@ -2784,6 +2791,346 @@
       "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
       "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
+     "sources": 3,
+     "score": 64,
+     "event_id": "da1b9627385a",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
+      "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "republican",
+    "grokipedia",
+    "india's",
+    "openai",
+    "beyond",
+    "networking",
+    "disrupt",
+    "miss",
+    "india",
+    "ambani",
+    "parties",
+    "elon",
+    "side",
+    "open",
+    "musk",
+    "dots",
+    "alexander",
+    "techcrunch",
+    "trump",
+    "embiricos",
+    "apple",
+    "starlink",
+    "events"
+   ],
+   "event_ids": [
+    "95b4d8eb7452",
+    "1b1d0d455584",
+    "572dce99347e",
+    "5afad699a57c",
+    "814772bc922c",
+    "bc11900335c3",
+    "5f6c0a4a0fa6",
+    "1fcf8cc28156",
+    "d7a1c9894fff",
+    "467cf97b1acf",
+    "4f05eeb200ed"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-12",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "1b1d0d455584",
+     "links": [
+      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+     "sources": 3,
+     "score": 45,
+     "event_id": "572dce99347e",
+     "links": [
+      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+     "sources": 3,
+     "score": 52,
+     "event_id": "5afad699a57c",
+     "links": [
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+     "sources": 1,
+     "score": 42,
+     "event_id": "814772bc922c",
+     "links": [
+      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+     "sources": 1,
+     "score": 46,
+     "event_id": "bc11900335c3",
+     "links": [
+      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5f6c0a4a0fa6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1fcf8cc28156",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+     "sources": 1,
+     "score": 46,
+     "event_id": "d7a1c9894fff",
+     "links": [
+      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+     "sources": 2,
+     "score": 45,
+     "event_id": "467cf97b1acf",
+     "links": [
+      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4f05eeb200ed",
+     "links": [
+      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3e261aa2591b",
+   "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+   "section": "tech",
+   "entities": [
+    "tamagotchi",
+    "zuckerberg",
+    "muse",
+    "glasses",
+    "mark",
+    "charm",
+    "china",
+    "wonder",
+    "meta",
+    "youtuber",
+    "meta's",
+    "everything"
+   ],
+   "event_ids": [
+    "3e261aa2591b",
+    "c134bbfcc899",
+    "5f9b2dff770e",
+    "6374a69076e5",
+    "e84d98e81ae7",
+    "7cd7dfe3ad5e",
+    "16c4b876e19d",
+    "a147983331c7",
+    "148d33ec138b",
+    "80d24e118917"
+   ],
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-10-12",
+   "timeline": [
+    {
+     "date": "2026-09-24",
+     "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+     "sources": 6,
+     "score": 79,
+     "event_id": "3e261aa2591b",
+     "links": [
+      "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+      "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
+     "sources": 3,
+     "score": 51,
+     "event_id": "c134bbfcc899",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
+      "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "https://mouse.dev/blog/muse-runtime-export/"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Everything new coming to Meta’s AI agent Muse",
+     "sources": 3,
+     "score": 44,
+     "event_id": "5f9b2dff770e",
+     "links": [
+      "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+     "sources": 4,
+     "score": 69,
+     "event_id": "6374a69076e5",
+     "links": [
+      "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Meta makes the Muse filesystem even more accessible",
+     "sources": 3,
+     "score": 46,
+     "event_id": "e84d98e81ae7",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+     "sources": 3,
+     "score": 46,
+     "event_id": "7cd7dfe3ad5e",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Meta is expanding its AI agent Muse to small businesses",
+     "sources": 2,
+     "score": 40,
+     "event_id": "16c4b876e19d",
+     "links": [
+      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "https://huggingface.co/blog/muse-glimmer"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Can China match up with Meta’s Muse in race to harness AI agents?",
+     "sources": 3,
+     "score": 51,
+     "event_id": "a147983331c7",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
+      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+     "sources": 2,
+     "score": 40,
+     "event_id": "148d33ec138b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Meta releases its first frontier model, Muse Wonder",
+     "sources": 3,
+     "score": 50,
+     "event_id": "80d24e118917",
+     "links": [
+      "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+     ]
     }
    ]
   },
@@ -3026,16 +3373,17 @@
    "section": "tech",
    "entities": [
     "android",
-    "edge",
     "google",
-    "pixel",
-    "fitbit"
+    "fitbit",
+    "edge",
+    "pixel"
    ],
    "event_ids": [
     "94761ad38bf7",
     "cf70bce2fbbe",
     "706b05ecb86e",
-    "e288f767d754"
+    "e288f767d754",
+    "57c9de67bce4"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-10-12",
@@ -3086,6 +3434,17 @@
       "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
       "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker"
      ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+     "sources": 2,
+     "score": 40,
+     "event_id": "57c9de67bce4",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
+     ]
     }
    ]
   },
@@ -3112,6 +3471,35 @@
      "links": [
       "https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-omar/a-79643360?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+      "https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "80c57603dc06",
+   "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+   "section": "world",
+   "entities": [
+    "federal",
+    "omar's",
+    "ilhan"
+   ],
+   "event_ids": [
+    "80c57603dc06"
+   ],
+   "first_seen": "2026-10-12",
+   "last_seen": "2026-10-12",
+   "timeline": [
+    {
+     "date": "2026-10-12",
+     "headline": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+     "sources": 3,
+     "score": 55,
+     "event_id": "80c57603dc06",
+     "links": [
+      "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+      "https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-ilhan-omar/a-79643360?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar"
      ]
     }
@@ -3486,168 +3874,6 @@
       "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution",
       "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "95b4d8eb7452",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "section": "tech",
-   "entities": [
-    "embiricos",
-    "trump",
-    "beyond",
-    "grokipedia",
-    "open",
-    "parties",
-    "musk",
-    "india's",
-    "events",
-    "elon",
-    "openai",
-    "miss",
-    "dots",
-    "side",
-    "disrupt",
-    "techcrunch",
-    "starlink",
-    "india",
-    "networking",
-    "alexander",
-    "ambani",
-    "apple"
-   ],
-   "event_ids": [
-    "95b4d8eb7452",
-    "1b1d0d455584",
-    "572dce99347e",
-    "5afad699a57c",
-    "814772bc922c",
-    "bc11900335c3",
-    "5f6c0a4a0fa6",
-    "1fcf8cc28156",
-    "d7a1c9894fff",
-    "467cf97b1acf"
-   ],
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-10-10",
-   "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "sources": 3,
-     "score": 55,
-     "event_id": "95b4d8eb7452",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "1b1d0d455584",
-     "links": [
-      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-     "sources": 3,
-     "score": 52,
-     "event_id": "5afad699a57c",
-     "links": [
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-     "sources": 1,
-     "score": 42,
-     "event_id": "814772bc922c",
-     "links": [
-      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-     "sources": 1,
-     "score": 46,
-     "event_id": "bc11900335c3",
-     "links": [
-      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
-     "sources": 2,
-     "score": 44,
-     "event_id": "5f6c0a4a0fa6",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
-      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1fcf8cc28156",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-     "sources": 1,
-     "score": 46,
-     "event_id": "d7a1c9894fff",
-     "links": [
-      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-     "sources": 2,
-     "score": 45,
-     "event_id": "467cf97b1acf",
-     "links": [
-      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
      ]
     }
    ]
@@ -5549,145 +5775,6 @@
       "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson",
       "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3e261aa2591b",
-   "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
-   "section": "tech",
-   "entities": [
-    "meta's",
-    "meta",
-    "everything",
-    "charm",
-    "youtuber",
-    "mark",
-    "tamagotchi",
-    "glasses",
-    "zuckerberg",
-    "muse",
-    "china"
-   ],
-   "event_ids": [
-    "3e261aa2591b",
-    "c134bbfcc899",
-    "5f9b2dff770e",
-    "6374a69076e5",
-    "e84d98e81ae7",
-    "7cd7dfe3ad5e",
-    "16c4b876e19d",
-    "a147983331c7",
-    "148d33ec138b"
-   ],
-   "first_seen": "2026-09-24",
-   "last_seen": "2026-10-09",
-   "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
-     "sources": 6,
-     "score": 79,
-     "event_id": "3e261aa2591b",
-     "links": [
-      "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
-     "sources": 3,
-     "score": 51,
-     "event_id": "c134bbfcc899",
-     "links": [
-      "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
-      "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "https://mouse.dev/blog/muse-runtime-export/"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Everything new coming to Meta’s AI agent Muse",
-     "sources": 3,
-     "score": 44,
-     "event_id": "5f9b2dff770e",
-     "links": [
-      "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-     "sources": 4,
-     "score": 69,
-     "event_id": "6374a69076e5",
-     "links": [
-      "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Meta makes the Muse filesystem even more accessible",
-     "sources": 3,
-     "score": 46,
-     "event_id": "e84d98e81ae7",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-     "sources": 3,
-     "score": 46,
-     "event_id": "7cd7dfe3ad5e",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Meta is expanding its AI agent Muse to small businesses",
-     "sources": 2,
-     "score": 40,
-     "event_id": "16c4b876e19d",
-     "links": [
-      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "https://huggingface.co/blog/muse-glimmer"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Can China match up with Meta’s Muse in race to harness AI agents?",
-     "sources": 3,
-     "score": 51,
-     "event_id": "a147983331c7",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
-      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-     "sources": 2,
-     "score": 40,
-     "event_id": "148d33ec138b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -15142,5 +15229,5 @@
    ]
   }
  ],
- "updated": "2026-10-12T15:30:49+00:00"
+ "updated": "2026-10-12T18:34:54+00:00"
 }

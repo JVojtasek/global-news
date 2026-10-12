@@ -9,36 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. ‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson
-- id události: `a690d09ebd85`  ·  rubrika: `world`  ·  skóre: 86  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Guardian Culture** — ‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson
-    <https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson>
-    > The French author discovered Carson on a bus while stranded in a snowstorm and has been enthralled by her fearless imagination ever since Where to start with Anne Carson ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson 1. Anne Carson is one of the 
-  - **BBC Entertainment** — 'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize
-    <https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss>
-    > Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.
-  - **DW News** — Nobel Prize in literature goes to Canada's Anne Carson
-    <https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf>
-    > Carson won for her "bold and inventive oeuvre." The decorated poet and essayist is known for her reverence for Latin and Greek classics.
-  - **Al Jazeera** — ‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
-    <https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss>
-    > US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.
-  - **France 24** — 2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay?
-    <https://www.france24.com/en/video/20261009-2026-nobel-peace-prize-who-is-navanethem-navi-pillay>
-    > The 2026 Nobel Peace Prize was awarded to South African Navanethem “Navi” Pillay on Friday, October 9, 2026. The 85-year-old South Africa-born served as United Nations High Commissioner for Human Rights and chair of the Independent International Commission of Inquiry on the Occup
-  - **France 24** — Israel a rare dissenting voice as praise pours in for Nobel Peace Prize winner Navi Pillay
-    <https://www.france24.com/en/europe/20261009-israel-a-rare-dissenting-voice-as-praise-pours-in-for-nobel-peace-prize-winner-navi-pillay>
-    > Advocates of human rights and international justice cheered, even as Israeli officials fumed, after South African jurist and former UN human rights chief Navi Pillay won the Nobel Peace Prize on Friday. The 85-year-old drew wide praise for decades of work, including investigating
-  - **Hacker News Best** — US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize
-    <https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/>
-    > Article URL: https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50021066 Points: 398 # Comments: 313
-  - **Hacker News Best** — Nobel Peace Prize for 2026 to Navanethem Pillay
-    <https://www.nobelprize.org/prizes/peace/2026/press-release/>
-    > Article URL: https://www.nobelprize.org/prizes/peace/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=50018420 Points: 331 # Comments: 166
-
-### 2. Saudi minister vows 'serious response' to Houthi attacks on airports
+### 1. Saudi minister vows 'serious response' to Houthi attacks on airports
 - id události: `c146a77e72f0`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -61,7 +32,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss>
     > New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.
 
-### 3. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+### 2. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
 - id události: `2b3762f9568b`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -87,7 +58,7 @@
     <https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss>
     > Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
 
-### 4. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
+### 3. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
 - id události: `03ca3f1ff781`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -113,6 +84,32 @@
     <https://phys.org/news/2026-10-americans-hall-woodford-economics-nobel.html>
     > Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize Monday for their work on how monetary and fiscal policy can better stabilize disruptive economic fluctuations.
 
+### 4. Andy Burnham to publish all details of his dealings with Manchester City
+- id události: `c0618218c018`  ·  rubrika: `sport`  ·  skóre: 76  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Andy Burnham to publish all details of his dealings with Manchester City
+    <https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city>
+    > Move comes after criticism of remarks in support of football club’s owners following financial regulations breach ruling Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the fo
+  - **BBC Sport** — Doku delights as Manchester City cruise past 10-man Liverpool
+    <https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss>
+    > In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.
+  - **The Guardian World** — Andy Burnham says it is clear Russia interfered in Brexit referendum
+    <https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote>
+    > PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered Downing S
+  - **Guardian Sport** — Impervious City shrug off chaos and controversy to silence Anfield | Andy Hunter
+    <https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield>
+    > What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”, any favourable decision is considered pro
+  - **Guardian Sport** — ‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph
+    <https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league>
+    > ‘You cannot imagine how happy I am … I’m here to win’ City win 3-0 at Anfield in first game since guilty verdict Enzo Maresca praised Manchester City for “making their own noise” at Liverpool as they brushed aside the controversy and threats surrounding the club with a comprehens
+  - **France 24** — UK PM Burnham warns French voters of Russian political influence on back of Brexit vote
+    <https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote>
+    > British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of "clear" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the B
+  - **Guardian Sport** — Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson
+    <https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day>
+    > Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to work, eat, drink, plan as usual. The Whi
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -125,8 +122,8 @@
   - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
   - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - Learn to Earn — <https://en.wikipedia.org/wiki/Learn_to_Earn>
 
 ---
 
@@ -153,7 +150,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-09  (6 zdrojů, síla 81)  Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
   2026-10-10  (2 zdrojů, síla 44)  Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
   2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel
   2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
@@ -173,6 +169,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-12  (5 zdrojů, síla 82)  Saudi minister vows 'serious response' to Houthi attacks on airports
   2026-10-12  (4 zdrojů, síla 71)  Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
   2026-10-12  (2 zdrojů, síla 50)  Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
+  2026-10-12  (2 zdrojů, síla 48)  Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -182,8 +179,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-01  (4 zdrojů, síla 74)  How success of Manchester City helped put Andy Burnham in power
-  2026-10-02  (3 zdrojů, síla 62)  Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
   2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
   2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
   2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
@@ -202,6 +197,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings
   2026-10-11  (4 zdrojů, síla 76)  Andy Burnham to publish all details of his dealings with Manchester City
   2026-10-12  (2 zdrojů, síla 56)  Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
+  2026-10-12  (2 zdrojů, síla 51)  UK PM Andy Burnham met Man City chairman during time as Manchester mayor
+  2026-10-12  (2 zdrojů, síla 45)  Coventry City v Newcastle United: Premier League – live
 ```
 
 ---
