@@ -123,7 +123,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
   - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
-  - Learn to Earn — <https://en.wikipedia.org/wiki/Learn_to_Earn>
+  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
 
 ---
 

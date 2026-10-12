@@ -2432,35 +2432,35 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "israel-bound",
-    "houthis",
-    "somalia",
-    "riyadh",
-    "yemen",
     "salman",
-    "middle",
-    "arabia",
     "attack",
-    "arabia's",
-    "yemeni",
-    "yemen's",
-    "taiz",
-    "york",
-    "turkey",
-    "president",
-    "saudi-backed",
-    "deadly",
-    "trump",
-    "east",
-    "mecca",
-    "three",
     "aden",
-    "king",
-    "western",
+    "taiz",
+    "yemen",
     "pakistan",
-    "saudi",
+    "arabia",
+    "york",
+    "east",
+    "turkey",
+    "western",
+    "mecca",
+    "yemeni",
+    "deadly",
     "houthi",
-    "second"
+    "riyadh",
+    "arabia's",
+    "middle",
+    "saudi",
+    "three",
+    "king",
+    "yemen's",
+    "second",
+    "president",
+    "israel-bound",
+    "saudi-backed",
+    "trump",
+    "somalia",
+    "houthis"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -2489,7 +2489,8 @@
     "d4fd36f35bd9",
     "5611b93eb435",
     "8a7ec0826a1f",
-    "da1b9627385a"
+    "da1b9627385a",
+    "df06a837dc2b"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-12",
@@ -2803,6 +2804,18 @@
       "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
       "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
      ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
+     "sources": 2,
+     "score": 48,
+     "event_id": "df06a837dc2b",
+     "links": [
+      "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
+      "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+      "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
+     ]
     }
    ]
   },
@@ -2811,28 +2824,28 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "republican",
-    "grokipedia",
-    "india's",
-    "openai",
-    "beyond",
-    "networking",
-    "disrupt",
-    "miss",
+    "embiricos",
     "india",
+    "republican",
+    "musk",
+    "networking",
+    "apple",
+    "open",
+    "disrupt",
     "ambani",
     "parties",
+    "openai",
+    "grokipedia",
+    "alexander",
+    "dots",
     "elon",
     "side",
-    "open",
-    "musk",
-    "dots",
-    "alexander",
-    "techcrunch",
+    "beyond",
     "trump",
-    "embiricos",
-    "apple",
     "starlink",
+    "india's",
+    "techcrunch",
+    "miss",
     "events"
    ],
    "event_ids": [
@@ -2846,7 +2859,8 @@
     "1fcf8cc28156",
     "d7a1c9894fff",
     "467cf97b1acf",
-    "4f05eeb200ed"
+    "4f05eeb200ed",
+    "98c90d114a62"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-12",
@@ -2977,6 +2991,18 @@
      "links": [
       "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
       "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+     "sources": 3,
+     "score": 50,
+     "event_id": "98c90d114a62",
+     "links": [
+      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
      ]
     }
    ]
@@ -3444,6 +3470,47 @@
      "links": [
       "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
       "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f9d9678cd800",
+   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+   "section": "business",
+   "entities": [
+    "trump's",
+    "analysis",
+    "russia"
+   ],
+   "event_ids": [
+    "f9d9678cd800",
+    "c9f82ed9d46e"
+   ],
+   "first_seen": "2026-10-10",
+   "last_seen": "2026-10-12",
+   "timeline": [
+    {
+     "date": "2026-10-10",
+     "headline": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+     "sources": 3,
+     "score": 58,
+     "event_id": "f9d9678cd800",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+     "sources": 2,
+     "score": 50,
+     "event_id": "c9f82ed9d46e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -4065,35 +4132,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f9d9678cd800",
-   "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-   "section": "business",
-   "entities": [
-    "analysis",
-    "russia",
-    "trump's"
-   ],
-   "event_ids": [
-    "f9d9678cd800"
-   ],
-   "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10",
-   "timeline": [
-    {
-     "date": "2026-10-10",
-     "headline": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-     "sources": 3,
-     "score": 58,
-     "event_id": "f9d9678cd800",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
      ]
     }
    ]
@@ -15229,5 +15267,5 @@
    ]
   }
  ],
- "updated": "2026-10-12T18:34:54+00:00"
+ "updated": "2026-10-12T21:25:24+00:00"
 }
