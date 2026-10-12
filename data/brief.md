@@ -90,27 +90,31 @@
     <https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day>
     > Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to work, eat, drink, plan as usual. The Whi
 
-### 4. Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
-- id události: `d7c7a0654af4`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
+- id události: `1f36d06a3b96`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live
-    <https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates>
-    > The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...
-  - **DW News** — Nobel Peace Prize 2026 goes to Navanethem 'Navi' Pillay for her efforts to promote peace and international law
-    <https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf>
-    > South African judge Navanethem "Navi" Pillay has won this year's Nobel Peace Prize for her efforts to promote peace and international law. Follow DW live.
-  - **CNBC Top** — Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay
-    <https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html>
-    > Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
-  - **France 24** — 🔴 South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
-    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
-  - **France 24** — South Africa's Navanethem ‘Navi’ Pillay wins 2026 Nobel Peace Prize
-    <https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize>
-    > Former UN human rights chief and International Court of Justice judge Navanethem "Navi" Pillay has won the 2026 Nobel Peace Prize for her contributions to international law, the Nobel jury announced on Friday in Oslo, Norway.
-  - **France 24** — Canadian poet and author Anne Carson wins Nobel Prize in Literature
-    <https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature>
-    > Hailed for her "bold and inventive" work, "in playful dialogue with the classical tradition", the Canadian poet, translator and essayist Anne Carson has won the Nobel Prize in Literature. We take a look at her hybrid, lyrical body of work, and the ancient Greek and Latin texts th
+  - **The Guardian World** — ICJ judge Navi Pillay wins Nobel peace prize for promoting international law
+    <https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize>
+    > Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN co
+  - **France 24** — Navi Pillay wins the Nobel Peace Prize for her work in international justice
+    <https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice>
+    > The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-pro
+  - **Al Jazeera** — ‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss>
+    > International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.
+  - **Al Jazeera** — Nobel chair admits they haven’t reached Peace Prize winner Pillay
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss>
+    > The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.
+  - **France 24** — REPLAY: 2026 Nobel Peace Prize awarded to Navanethem ‘Navi’ Pillay
+    <https://www.france24.com/en/video/20261009-replay-2026-nobel-peace-prize-awarded-to-navanethem-navi-pillay>
+    > Former UN human rights chief Navanethem “Navi” Pillay, a judge on the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway. The South Africa-born Pillay, 85 years old, was recognised for her efforts to promote peace and international law, said Jørge
+  - **Al Jazeera** — Navi Pillay wins Nobel Peace Prize
+    <https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss>
+    > International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.
+  - **Al Jazeera** — 2026 Nobel Peace Prize awarded to Navi Pillay
+    <https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss>
+    > Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.
 
 ---
 
