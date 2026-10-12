@@ -124,8 +124,8 @@
   - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
   - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - Learn to Earn — <https://en.wikipedia.org/wiki/Learn_to_Earn>
 
 ---
 
@@ -152,7 +152,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-08  (2 zdrojů, síla 42)  South Korea threatens legal action if fuel shipments to Russia found to have broken law
   2026-10-08  (2 zdrojů, síla 48)  Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live
   2026-10-08  (3 zdrojů, síla 59)  South Korea recalls Ukraine envoy over prisoner-of-war row
   2026-10-08  (2 zdrojů, síla 44)  South Korea warns of AI-aided hacking after bank data breaches
@@ -172,6 +171,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine
   2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days
   2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'
+  2026-10-12  (3 zdrojů, síla 51)  North Korea fires missiles after Seoul's hypersonic test
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

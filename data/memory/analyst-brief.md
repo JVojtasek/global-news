@@ -7,9 +7,8 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 63 dní · 60 záznamů
+- rubrika `world` · sledováno 64 dní · 60 záznamů
 - časová osa:
-  - **2026-10-10** (2 zdrojů) Germany sticks to Russia sanctions after Trump diesel deal
   - **2026-10-10** (2 zdrojů) 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
   - **2026-10-10** (4 zdrojů) Watch: 'Time for Ukraine to get a new president', says Trump
   - **2026-10-11** (2 zdrojů) Middle East live: Riyadh airport attack 'not acceptable,' Trump says
@@ -19,6 +18,7 @@ Paměť obsahuje **141 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-11** (3 zdrojů) Trump announces 'energy ceasefire' between Russia and Ukraine
   - **2026-10-11** (2 zdrojů) Saudi capital airport hit by second Houthi strike in two days
   - **2026-10-11** (4 zdrojů) Trump claims Russia and Ukraine agreed to 'energy ceasefire'
+  - **2026-10-12** (3 zdrojů) North Korea fires missiles after Seoul's hypersonic test
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
