@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-12
+# ZADÁNÍ PRO REDAKCI — 2026-10-13
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -32,33 +32,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss>
     > New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.
 
-### 2. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-- id události: `2b3762f9568b`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-    <https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss>
-    > Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
-  - **BBC Business** — Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-    <https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss>
-    > Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
-  - **BBC Business** — Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-    <https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss>
-    > Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
-  - **DW News** — Trump, Putin agree on deal to release Russian diesel to US, world markets
-    <https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf>
-    > Russia will supply diesel to global markets in a bid to lower prices, US President Donald Trump has said. The move reverses years of pressure on the Russian economy following the invasion of Ukraine.
-  - **CNBC Top** — Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets
-    <https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html>
-    > President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.
-  - **France 24** — Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war
-    <https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war>
-    > US President Donald Trump said Friday that Russia had agreed to immediately supply more than 300,000 tonnes of diesel to US and global markets in an effort to cut fuel prices before November's midterm elections. The move marks a stunning change of policy after the US and its alli
-  - **Al Jazeera** — Trump announces Russian diesel deal amid soaring US fuel prices
-    <https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss>
-    > Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
-
-### 3. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
+### 2. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
 - id události: `03ca3f1ff781`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -84,7 +58,7 @@
     <https://phys.org/news/2026-10-americans-hall-woodford-economics-nobel.html>
     > Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize Monday for their work on how monetary and fiscal policy can better stabilize disruptive economic fluctuations.
 
-### 4. Andy Burnham to publish all details of his dealings with Manchester City
+### 3. Andy Burnham to publish all details of his dealings with Manchester City
 - id události: `c0618218c018`  ·  rubrika: `sport`  ·  skóre: 76  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -110,20 +84,36 @@
     <https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day>
     > Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to work, eat, drink, plan as usual. The Whi
 
+### 4. Watch: 'Time for Ukraine to get a new president', says Trump
+- id události: `bfb42042cd71`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Watch: 'Time for Ukraine to get a new president', says Trump
+    <https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss>
+    > The US president's said President Volodymyr Zelensky "wants to make problems for the world".
+  - **Al Jazeera** — Trump says Ukraine needs a new president who will agree to end the war
+    <https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss>
+    > US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.
+  - **CNBC Top** — Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices
+    <https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html>
+    > Ukrainian and European officials on Saturday reacted to Trump's Russian diesel deal with dismay, saying it will help pay for Putin's war efforts.
+  - **Al Jazeera** — Trump calls for new president in Ukraine
+    <https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss>
+    > US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.
+  - **France 24** — Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children
+    <https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children>
+    > US President Donald Trump on Saturday told reporters that Ukraine should "get a new president", adding that his Ukrainian counterpart Volodymyr Zelensky had disobeyed his orders not to strike Russian refineries. This comes after Washington moved to ease sanctions on Russian diese
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### investing for beginners
-- rubrika: `meaning`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „how does investing work for beginners“
-  - „how much to start investing for beginners“
-  - „how much should i invest as a beginner“
+### ancient rome
+- rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
-  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
+  - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
+  - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
+  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
 
 ---
 
