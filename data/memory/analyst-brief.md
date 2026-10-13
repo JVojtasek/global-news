@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-13
 
-Paměť obsahuje **144 vláken**. Aktivních za posledních 14 dní: **51**.
+Paměť obsahuje **147 vláken**. Aktivních za posledních 14 dní: **51**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 64 dní · 60 záznamů
+- rubrika `world` · sledováno 65 dní · 60 záznamů
 - časová osa:
-  - **2026-10-11** (2 zdrojů) Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
   - **2026-10-11** (4 zdrojů) Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
   - **2026-10-11** (3 zdrojů) Trump announces 'energy ceasefire' between Russia and Ukraine
   - **2026-10-11** (2 zdrojů) Saudi capital airport hit by second Houthi strike in two days
@@ -19,14 +18,13 @@ Paměť obsahuje **144 vláken**. Aktivních za posledních 14 dní: **51**.
   - **2026-10-12** (4 zdrojů) Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
   - **2026-10-12** (2 zdrojů) Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
   - **2026-10-12** (2 zdrojů) Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
+  - **2026-10-13** (2 zdrojů) Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 55 dní · 60 záznamů
+- rubrika `sport` · sledováno 56 dní · 60 záznamů
 - časová osa:
-  - **2026-10-09** (1 zdrojů) Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
-  - **2026-10-10** (2 zdrojů) Manchester United v Tottenham: Premier League – live
   - **2026-10-10** (2 zdrojů) Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
   - **2026-10-10** (2 zdrojů) Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
   - **2026-10-11** (2 zdrojů) Manchester City face hostile Liverpool reception after guilty verdict – matchday live
@@ -35,6 +33,22 @@ Paměť obsahuje **144 vláken**. Aktivních za posledních 14 dní: **51**.
   - **2026-10-12** (2 zdrojů) Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
   - **2026-10-12** (2 zdrojů) UK PM Andy Burnham met Man City chairman during time as Manchester mayor
   - **2026-10-12** (2 zdrojů) Coventry City v Newcastle United: Premier League – live
+  - **2026-10-13** (2 zdrojů) Atletico Madrid vs Manchester United LIVE: Champions League
+  - **2026-10-13** (2 zdrojů) Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
+
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 63 dní · 60 záznamů
+- časová osa:
+  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
+  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+  - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
+  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
+  - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
+  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
+  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
+  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
+  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
+  - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
@@ -49,22 +63,6 @@ Paměť obsahuje **144 vláken**. Aktivních za posledních 14 dní: **51**.
   - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
   - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 54 dní · 60 záznamů
-- časová osa:
-  - **2026-09-29** (3 zdrojů) Estonia blames Russia for arson at defence company supplying Ukraine
-  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
-  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
-  - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
-  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
-  - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
-  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
-  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
-  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
-  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-08-23 → 2026-09-08: „Ukraine’s prosecutor general resigns after corruption allegations as Russia resumes strike“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 60 dní · 54 záznamů

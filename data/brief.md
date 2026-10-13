@@ -32,7 +32,27 @@
     <https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss>
     > New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.
 
-### 2. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
+### 2. Rusty or something more? South Africa's concern after Australia loss
+- id události: `435629369d73`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Rusty or something more? South Africa's concern after Australia loss
+    <https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss>
+    > Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?
+  - **Smithsonian Mag** — Did Industrialization Gut Our Microbiomes? A New Study on Rural Foraging Communities in South America and Africa Hints the Answer Is Yes
+    <https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/>
+    > Two groups—the Tsimane forager-horticulturists in Bolivia and the Hadza hunter-gatherers in Tanzania—remarkably share more than 1,200 gut microbe species. However, around 60 percent of them are rare or absent in people living in industrialized places, according to researchers
+  - **France 24** — South Africa suspends asylum applications amid renewed anti-immigrant protests
+    <https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests>
+    > Tensions have flared in South Africa after a court ruling prompted the government to open its application system to all foreign nationals, regardless of their legal status. Despite applications remaining subject to approval, anti-immigrant protests erupted outside several Home Af
+  - **Guardian Sport** — Josh Hazlewood reminds Australia of his worth with 6-49 to see off South Africa
+    <https://www.theguardian.com/sport/2026/oct/13/josh-hazlewood-reminds-australia-of-his-worth-with-6-49-to-see-off-south-africa>
+    > After every stunning Scott Boland performance of recent years, many of them in place of an injured Josh Hazlewood, a reasonable question does the rounds: why isn’t Boland the automatic pick in the Test side, and why does Hazlewood take precedence when fit? In truth, Hazlewood has
+  - **Al Jazeera** — Australia bowl out South Africa to win first cricket Test in Durban
+    <https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss>
+    > Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.
+
+### 3. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
 - id události: `03ca3f1ff781`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -58,7 +78,7 @@
     <https://phys.org/news/2026-10-americans-hall-woodford-economics-nobel.html>
     > Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize Monday for their work on how monetary and fiscal policy can better stabilize disruptive economic fluctuations.
 
-### 3. Andy Burnham to publish all details of his dealings with Manchester City
+### 4. Andy Burnham to publish all details of his dealings with Manchester City
 - id události: `c0618218c018`  ·  rubrika: `sport`  ·  skóre: 76  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -83,26 +103,6 @@
   - **Guardian Sport** — Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson
     <https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day>
     > Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to work, eat, drink, plan as usual. The Whi
-
-### 4. Watch: 'Time for Ukraine to get a new president', says Trump
-- id události: `bfb42042cd71`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Watch: 'Time for Ukraine to get a new president', says Trump
-    <https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss>
-    > The US president's said President Volodymyr Zelensky "wants to make problems for the world".
-  - **Al Jazeera** — Trump says Ukraine needs a new president who will agree to end the war
-    <https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss>
-    > US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.
-  - **CNBC Top** — Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices
-    <https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html>
-    > Ukrainian and European officials on Saturday reacted to Trump's Russian diesel deal with dismay, saying it will help pay for Putin's war efforts.
-  - **Al Jazeera** — Trump calls for new president in Ukraine
-    <https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss>
-    > US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.
-  - **France 24** — Trump, Zelensky clash over diesel deal as Russian strikes on Ukraine kill 21, including children
-    <https://www.france24.com/en/europe/20261010-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-on-ukraine-kill-21-including-children>
-    > US President Donald Trump on Saturday told reporters that Ukraine should "get a new president", adding that his Ukrainian counterpart Volodymyr Zelensky had disobeyed his orders not to strike Russian refineries. This comes after Washington moved to ease sanctions on Russian diese
 
 ---
 
@@ -140,7 +140,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 44)  Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms
   2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel
   2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
   2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
@@ -160,6 +159,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-12  (4 zdrojů, síla 71)  Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
   2026-10-12  (2 zdrojů, síla 50)  Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
   2026-10-12  (2 zdrojů, síla 48)  Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
+  2026-10-13  (2 zdrojů, síla 40)  Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -169,8 +169,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-02  (2 zdrojů, síla 46)  For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett
-  2026-10-02  (2 zdrojů, síla 52)  Manchester City’s England players are worried about their futures, admits Tuchel
   2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
   2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager
   2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?
@@ -189,6 +187,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-12  (2 zdrojů, síla 56)  Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
   2026-10-12  (2 zdrojů, síla 51)  UK PM Andy Burnham met Man City chairman during time as Manchester mayor
   2026-10-12  (2 zdrojů, síla 45)  Coventry City v Newcastle United: Premier League – live
+  2026-10-13  (2 zdrojů, síla 57)  Atletico Madrid vs Manchester United LIVE: Champions League
+  2026-10-13  (2 zdrojů, síla 45)  Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
 ```
 
 ---
