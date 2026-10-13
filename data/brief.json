@@ -1,7 +1,7 @@
 {
  "date": "2026-10-13",
  "mode": "normal",
- "days_since_human": 2,
+ "days_since_human": 3,
  "confidence_threshold": 82,
  "reserve_articles": 14,
  "news_assignments": [
@@ -72,6 +72,65 @@
     }
    ],
    "depth": "scripture"
+  },
+  {
+   "id": "8cd415cc4ee6",
+   "headline": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+   "section": "world",
+   "score": 82,
+   "sources_count": 5,
+   "depth_signal": 8,
+   "created": "2026-10-13T21:23:14+00:00",
+   "event_time": "2026-10-13T19:51:14+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+     "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+     "published_at": "2026-10-13T19:51:14+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-13T21:23:10+00:00"
+    },
+    {
+     "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+     "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Entertainment",
+     "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+     "published_at": "2026-10-13T19:51:14+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-13T21:23:10+00:00"
+    },
+    {
+     "title": "Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder",
+     "url": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+     "source": "Guardian Culture",
+     "summary": "‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentenced Tupac trial spotlights decades of US police failures in solving the case Duane “Keffe D” Davis, the former California gang leader convicted of murder for orchestrating the 1996 fatal shooting of rapper Tupac Shakur , has been sentenced to 40 years to life in prison. “For three yea",
+     "published_at": "2026-10-13T19:43:45+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-13T21:23:10+00:00"
+    },
+    {
+     "title": "Tupac Shakur killer sentenced to 40 years in prison",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
+     "published_at": "2026-10-13T20:46:22+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-13T21:23:10+00:00"
+    },
+    {
+     "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
+     "url": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
+     "source": "France 24",
+     "summary": "Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday.",
+     "published_at": "2026-10-13T19:57:31+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-13T21:23:10+00:00"
+    }
+   ],
+   "depth": "open"
   },
   {
    "id": "884ebf3c3978",
@@ -217,83 +276,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "03ca3f1ff781",
-   "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-   "section": "world",
-   "score": 77,
-   "sources_count": 7,
-   "depth_signal": 0,
-   "created": "2026-10-12T15:30:49+00:00",
-   "event_time": "2026-10-12T14:20:53+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-     "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-     "source": "The Guardian World",
-     "summary": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation. Robert Hall of Stanford University, Californ",
-     "published_at": "2026-10-12T14:20:53+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-12T15:30:45+00:00"
-    },
-    {
-     "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-     "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-     "source": "Guardian Business",
-     "summary": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation. Robert Hall of Stanford University, Californ",
-     "published_at": "2026-10-12T14:20:53+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-12T15:30:45+00:00"
-    },
-    {
-     "title": "Nobel Prize in Economics goes to pair of US economists",
-     "url": "https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Robert E. Hall and Michael Woodford got the Nobel for developing economic models that help governments and central banks respond more effectively to booms and recessions.",
-     "published_at": "2026-10-12T09:55:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-12T15:30:45+00:00"
-    },
-    {
-     "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
-     "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
-     "source": "NPR News",
-     "summary": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
-     "published_at": "2026-10-12T08:35:16+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-12T15:30:45+00:00"
-    },
-    {
-     "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-     "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-     "source": "CNBC Top",
-     "summary": "The U.S. economists were awarded for work that underpins the models used by central banks and governments to stabilize the economy.",
-     "published_at": "2026-10-12T14:09:02+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-12T15:30:45+00:00"
-    },
-    {
-     "title": "Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
-     "url": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The Swedish academy says the academics' models are 'now used by central banks and ​governments around the world'.",
-     "published_at": "2026-10-12T12:35:08+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-12T15:30:45+00:00"
-    },
-    {
-     "title": "Americans Hall and Woodford win economics Nobel for stabilization models",
-     "url": "https://phys.org/news/2026-10-americans-hall-woodford-economics-nobel.html",
-     "source": "Phys.org",
-     "summary": "Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize Monday for their work on how monetary and fiscal policy can better stabilize disruptive economic fluctuations.",
-     "published_at": "2026-10-12T11:02:09+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-12T15:30:45+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -313,7 +295,7 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel\n  2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"\n  2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?\n  2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says\n  2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal\n  2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal\n  2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump\n  2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says\n  2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh\n  2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine\n  2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport\n  2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine\n  2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days\n  2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'\n  2026-10-12  (3 zdrojů, síla 51)  North Korea fires missiles after Seoul's hypersonic test\n  2026-10-12  (5 zdrojů, síla 82)  Saudi minister vows 'serious response' to Houthi attacks on airports\n  2026-10-12  (4 zdrojů, síla 71)  Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue\n  2026-10-12  (2 zdrojů, síla 50)  Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'\n  2026-10-12  (2 zdrojů, síla 48)  Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says\n  2026-10-13  (2 zdrojů, síla 40)  Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US",
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"\n  2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?\n  2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says\n  2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal\n  2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal\n  2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump\n  2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says\n  2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh\n  2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine\n  2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport\n  2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine\n  2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days\n  2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'\n  2026-10-12  (3 zdrojů, síla 51)  North Korea fires missiles after Seoul's hypersonic test\n  2026-10-12  (5 zdrojů, síla 82)  Saudi minister vows 'serious response' to Houthi attacks on airports\n  2026-10-12  (4 zdrojů, síla 71)  Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue\n  2026-10-12  (2 zdrojů, síla 50)  Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'\n  2026-10-12  (2 zdrojů, síla 48)  Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says\n  2026-10-13  (2 zdrojů, síla 40)  Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US\n  2026-10-13  (2 zdrojů, síla 44)  Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
    "thread_days": 60
   },
   {

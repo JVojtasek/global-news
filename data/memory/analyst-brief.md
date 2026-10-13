@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-13
 
-Paměť obsahuje **149 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **55**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **149 vláken**. Aktivních za posledních 14 dní: **54**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 65 dní · 60 záznamů
 - časová osa:
-  - **2026-10-11** (4 zdrojů) Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
   - **2026-10-11** (3 zdrojů) Trump announces 'energy ceasefire' between Russia and Ukraine
   - **2026-10-11** (2 zdrojů) Saudi capital airport hit by second Houthi strike in two days
   - **2026-10-11** (4 zdrojů) Trump claims Russia and Ukraine agreed to 'energy ceasefire'
@@ -19,6 +18,7 @@ Paměť obsahuje **149 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-12** (2 zdrojů) Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
   - **2026-10-12** (2 zdrojů) Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   - **2026-10-13** (2 zdrojů) Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
+  - **2026-10-13** (2 zdrojů) Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 

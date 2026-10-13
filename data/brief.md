@@ -32,7 +32,27 @@
     <https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss>
     > New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.
 
-### 2. Gemini 4 Argon for Robotics
+### 2. Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
+- id události: `8cd415cc4ee6`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
+    <https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss>
+    > Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.
+  - **BBC Entertainment** — Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
+    <https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss>
+    > Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.
+  - **Guardian Culture** — Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder
+    <https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder>
+    > ‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentenced Tupac trial spotlights decades of US police failures in solving the case Duane “Keffe D” Davis, the former California gang leader convicted of murder for orchest
+  - **Al Jazeera** — Tupac Shakur killer sentenced to 40 years in prison
+    <https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss>
+    > Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.
+  - **France 24** — Former gang leader sentenced to 40 years to life for Tupac Shakur murder
+    <https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder>
+    > Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday.
+
+### 3. Gemini 4 Argon for Robotics
 - id události: `884ebf3c3978`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -58,7 +78,7 @@
     <https://deepmind.google/models/gemini/>
     > Article URL: https://deepmind.google/models/gemini/ Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 447 # Comments: 340
 
-### 3. Rusty or something more? South Africa's concern after Australia loss
+### 4. Rusty or something more? South Africa's concern after Australia loss
 - id události: `435629369d73`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -77,32 +97,6 @@
   - **Al Jazeera** — Australia bowl out South Africa to win first cricket Test in Durban
     <https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss>
     > Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.
-
-### 4. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
-- id události: `03ca3f1ff781`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 7
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
-    <https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models>
-    > US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to
-  - **Guardian Business** — Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
-    <https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models>
-    > US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to
-  - **DW News** — Nobel Prize in Economics goes to pair of US economists
-    <https://www.dw.com/en/nobel-prize-in-economics-goes-to-pair-of-us-economists/a-79638025?maca=en-rss-en-all-1573-rdf>
-    > Robert E. Hall and Michael Woodford got the Nobel for developing economic models that help governments and central banks respond more effectively to booms and recessions.
-  - **NPR News** — 2 Americans win Nobel Prize in economics for work on boom-bust cycles
-    <https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics>
-    > Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.
-  - **CNBC Top** — Nobel prize in economics awarded to Robert E. Hall and Michael Woodford
-    <https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html>
-    > The U.S. economists were awarded for work that underpins the models used by central banks and governments to stabilize the economy.
-  - **Al Jazeera** — Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford
-    <https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss>
-    > The Swedish academy says the academics' models are 'now used by central banks and ​governments around the world'.
-  - **Phys.org** — Americans Hall and Woodford win economics Nobel for stabilization models
-    <https://phys.org/news/2026-10-americans-hall-woodford-economics-nobel.html>
-    > Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize Monday for their work on how monetary and fiscal policy can better stabilize disruptive economic fluctuations.
 
 ---
 
@@ -140,7 +134,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 42)  Zelenskyy furious as Trump announces deal to buy Russian diesel
   2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
   2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
   2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says
@@ -160,6 +153,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-12  (2 zdrojů, síla 50)  Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
   2026-10-12  (2 zdrojů, síla 48)  Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   2026-10-13  (2 zdrojů, síla 40)  Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
+  2026-10-13  (2 zdrojů, síla 44)  Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

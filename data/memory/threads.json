@@ -5,45 +5,45 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "saudi",
-    "luckin",
-    "kuwait",
-    "russian",
-    "french",
-    "araghchi",
-    "lightning",
-    "time",
-    "north",
-    "korea",
-    "modi",
-    "germany",
-    "iran",
-    "groundhog",
-    "houthis",
-    "britain",
-    "lyon",
+    "poland",
     "brics",
-    "moscow",
-    "donald",
-    "times",
-    "iran's",
-    "zelenskyy",
-    "centcom",
+    "korea",
     "briton",
-    "putin",
-    "marib",
-    "seoul's",
     "google",
+    "groundhog",
+    "putin",
+    "french",
     "persian",
-    "russia",
+    "starlink",
+    "zelenskyy",
+    "time",
     "streeting",
-    "trump",
+    "marib",
+    "russian",
+    "moscow",
+    "houthis",
+    "iran's",
     "ukrainian",
-    "saudis",
-    "south",
-    "gulf",
-    "ukraine",
     "zelensky",
+    "south",
+    "lightning",
+    "saudi",
+    "times",
+    "russia",
+    "araghchi",
+    "seoul's",
+    "germany",
+    "luckin",
+    "britain",
+    "kuwait",
+    "saudis",
+    "gulf",
+    "north",
+    "lyon",
+    "centcom",
+    "trump",
+    "iran",
+    "modi",
     "riyadh"
    ],
    "event_ids": [
@@ -179,22 +179,12 @@
     "f3ea112b90f7",
     "bb8b71d6f954",
     "410eece1f601",
-    "f88358e8d0dc"
+    "f88358e8d0dc",
+    "96f44a71c15e"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-13",
    "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-     "sources": 2,
-     "score": 45,
-     "event_id": "fb351b7c92cd",
-     "links": [
-      "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-      "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-03",
      "headline": "Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?",
@@ -865,6 +855,17 @@
      "links": [
       "https://www.france24.com/en/trump-s-use-of-russian-diesel-fuel-at-ukraine-s-expense-sparks-controversy-in-the-us",
       "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "96f44a71c15e",
+     "links": [
+      "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
      ]
     }
    ]
@@ -3975,18 +3976,19 @@
    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
    "section": "tech",
    "entities": [
-    "deepmind",
-    "flash",
-    "avatar",
-    "google",
-    "transcribe",
-    "friday",
-    "googlebook",
-    "gemini",
     "robotics",
-    "ai-powered",
+    "deepmind",
+    "google",
+    "developing",
+    "googlebook",
     "argon",
-    "meet"
+    "avatar",
+    "meet",
+    "gemini",
+    "transcribe",
+    "ai-powered",
+    "flash",
+    "friday"
    ],
    "event_ids": [
     "e138211becc3",
@@ -4000,7 +4002,8 @@
     "f79a067193d7",
     "556e1e4b03fe",
     "47672f48bba9",
-    "884ebf3c3978"
+    "884ebf3c3978",
+    "471508c04c30"
    ],
    "first_seen": "2026-08-26",
    "last_seen": "2026-10-13",
@@ -4142,6 +4145,17 @@
       "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
       "https://deepmind.google/blog/introducing-gemini-4-argon/",
       "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Developing Gemini 4 Argon responsibly and safely",
+     "sources": 2,
+     "score": 40,
+     "event_id": "471508c04c30",
+     "links": [
+      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
      ]
     }
    ]
@@ -4575,6 +4589,126 @@
    ]
   },
   {
+   "id": "5ef0205965a4",
+   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+   "section": "world",
+   "entities": [
+    "kimberly",
+    "white",
+    "trump",
+    "greece",
+    "inside",
+    "guilfoyle",
+    "house",
+    "zacharia's",
+    "ambassador",
+    "katie"
+   ],
+   "event_ids": [
+    "5ef0205965a4",
+    "d0ee4a2b0e2a",
+    "b91386fcbef1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "timeline": [
+    {
+     "date": "2026-10-13",
+     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5ef0205965a4",
+     "links": [
+      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Inside Katie Zacharia's very brief White House briefing",
+     "sources": 2,
+     "score": 46,
+     "event_id": "d0ee4a2b0e2a",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+     "sources": 2,
+     "score": 48,
+     "event_id": "b91386fcbef1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "03db067f9792",
+   "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+   "section": "world",
+   "entities": [
+    "shakur's",
+    "davis",
+    "duane",
+    "ex-gang",
+    "shakur",
+    "tupac",
+    "moment",
+    "keffe",
+    "former"
+   ],
+   "event_ids": [
+    "03db067f9792",
+    "8cd415cc4ee6",
+    "c8477331a026"
+   ],
+   "first_seen": "2026-09-01",
+   "last_seen": "2026-10-13",
+   "timeline": [
+    {
+     "date": "2026-09-01",
+     "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+     "sources": 3,
+     "score": 58,
+     "event_id": "03db067f9792",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+     "sources": 5,
+     "score": 82,
+     "event_id": "8cd415cc4ee6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Tupac Shakur murder trial: Former gang leader Duane Davis sentenced to 40 years",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c8477331a026",
+     "links": [
+      "https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/former-gang-leader-sentenced-to-minimum-40-years-for-tupac-killing"
+     ]
+    }
+   ]
+  },
+  {
    "id": "80c57603dc06",
    "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
    "section": "world",
@@ -4655,53 +4789,6 @@
       "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
       "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
       "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5ef0205965a4",
-   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-   "section": "world",
-   "entities": [
-    "greece",
-    "ambassador",
-    "zacharia's",
-    "katie",
-    "kimberly",
-    "white",
-    "house",
-    "inside",
-    "guilfoyle"
-   ],
-   "event_ids": [
-    "5ef0205965a4",
-    "d0ee4a2b0e2a"
-   ],
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13",
-   "timeline": [
-    {
-     "date": "2026-10-13",
-     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5ef0205965a4",
-     "links": [
-      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Inside Katie Zacharia's very brief White House briefing",
-     "sources": 2,
-     "score": 46,
-     "event_id": "d0ee4a2b0e2a",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
      ]
     }
    ]
@@ -4818,6 +4905,34 @@
       "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/video/20261013-student-protesters-tell-police-to-join-them-in-paris-demonstrations",
       "https://www.france24.com/en/france-student-anger-rages-as-tear-gas-and-fires-hit-paris"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c695e021eed1",
+   "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+   "section": "tech",
+   "entities": [
+    "saudi",
+    "openai"
+   ],
+   "event_ids": [
+    "c695e021eed1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "timeline": [
+    {
+     "date": "2026-10-13",
+     "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+     "sources": 5,
+     "score": 68,
+     "event_id": "c695e021eed1",
+     "links": [
+      "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
      ]
     }
    ]
@@ -13965,38 +14080,6 @@
    ]
   },
   {
-   "id": "03db067f9792",
-   "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
-   "section": "world",
-   "entities": [
-    "tupac",
-    "moment",
-    "shakur's",
-    "davis",
-    "duane",
-    "keffe"
-   ],
-   "event_ids": [
-    "03db067f9792"
-   ],
-   "first_seen": "2026-09-01",
-   "last_seen": "2026-09-01",
-   "timeline": [
-    {
-     "date": "2026-09-01",
-     "headline": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
-     "sources": 3,
-     "score": 58,
-     "event_id": "03db067f9792",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder"
-     ]
-    }
-   ]
-  },
-  {
    "id": "90341f43f40f",
    "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
    "section": "world",
@@ -15653,5 +15736,5 @@
    ]
   }
  ],
- "updated": "2026-10-13T18:36:12+00:00"
+ "updated": "2026-10-13T21:23:14+00:00"
 }
