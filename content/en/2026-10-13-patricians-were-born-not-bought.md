@@ -1,41 +1,46 @@
 ---
 slug: patricians-were-born-not-bought
-title: "In Rome, You Could Be Rich and Still Not Be a Patrician"
-dek: "Rome's old ruling families were defined by birth, not by money, and the two-century fight over their privileges is a useful test for any reform."
+title: In Rome, You Could Be Rich and Still Not Be a Patrician
+dek: Rome's old ruling families were defined by birth, not by money, and the two-century
+  fight over their privileges is a useful test for any reform.
 section: history
 type: analysis
 depth: scripture
 lang: en
-date: 2026-10-13
-status: draft
-confidence: 70
+date: '2026-10-13'
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
-image_query: "Roman Forum ruins marble columns"
+format: ''
+event_id: ''
+series: ''
+image_query: Roman Forum ruins marble columns
 sources:
-  - name: "Wikipedia — Patrician (ancient Rome)"
-    url: "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)"
-    published: ""
-  - name: "Wikipedia — Ancient Rome"
-    url: "https://en.wikipedia.org/wiki/Ancient_Rome"
-    published: ""
-  - name: "Wikipedia — Sexuality in ancient Rome"
-    url: "https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome"
-    published: ""
-qma_path: ""
+- name: Wikipedia — Patrician (ancient Rome)
+  url: https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)
+  published: ''
+- name: Wikipedia — Ancient Rome
+  url: https://en.wikipedia.org/wiki/Ancient_Rome
+  published: ''
+- name: Wikipedia — Sexuality in ancient Rome
+  url: https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "According to the sources, what separated a patrician from a plebeian?"
-  options: ["Wealth", "Birth", "Military rank"]
+  question: According to the sources, what separated a patrician from a plebeian?
+  options:
+  - Wealth
+  - Birth
+  - Military rank
   answer: 1
-  explanation: "The Patrician article states that the distinction was based purely on birth, and that no amount of wealth could change one's class."
+  explanation: The Patrician article states that the distinction was based purely
+    on birth, and that no amount of wealth could change one's class.
 ---
 
 ## BRIEFLY
