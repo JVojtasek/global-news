@@ -32,7 +32,33 @@
     <https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss>
     > New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.
 
-### 2. Rusty or something more? South Africa's concern after Australia loss
+### 2. Gemini 4 Argon for Robotics
+- id události: `884ebf3c3978`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Google DeepMind** — Gemini 4 Argon for Robotics
+    <https://deepmind.google/blog/gemini-4-argon-for-robotics/>
+  - **Google DeepMind** — Gemini 4 Argon: Built to solve your hardest problems
+    <https://deepmind.google/blog/introducing-gemini-4-argon/>
+  - **Ars Technica** — Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay
+    <https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/>
+    > Developers will get 50 percent discounted API rates through November.
+  - **Ars Technica AI** — Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay
+    <https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/>
+    > Developers will get 50 percent discounted API rates through November.
+  - **Google DeepMind** — Gemini 4 Argon: our next era of frontier intelligence
+    <https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/>
+  - **Google DeepMind** — Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration
+    <https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/>
+    > Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
+  - **The Verge AI** — Google finally releases Gemini 4 Argon
+    <https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon>
+    > After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers "frontier reasoning and improved performance across comple
+  - **Hacker News Best** — Gemini 4 Argon
+    <https://deepmind.google/models/gemini/>
+    > Article URL: https://deepmind.google/models/gemini/ Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 447 # Comments: 340
+
+### 3. Rusty or something more? South Africa's concern after Australia loss
 - id události: `435629369d73`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -52,7 +78,7 @@
     <https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss>
     > Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.
 
-### 3. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
+### 4. Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises
 - id události: `03ca3f1ff781`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -78,32 +104,6 @@
     <https://phys.org/news/2026-10-americans-hall-woodford-economics-nobel.html>
     > Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize Monday for their work on how monetary and fiscal policy can better stabilize disruptive economic fluctuations.
 
-### 4. Andy Burnham to publish all details of his dealings with Manchester City
-- id události: `c0618218c018`  ·  rubrika: `sport`  ·  skóre: 76  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Andy Burnham to publish all details of his dealings with Manchester City
-    <https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city>
-    > Move comes after criticism of remarks in support of football club’s owners following financial regulations breach ruling Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the fo
-  - **BBC Sport** — Doku delights as Manchester City cruise past 10-man Liverpool
-    <https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss>
-    > In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League.
-  - **The Guardian World** — Andy Burnham says it is clear Russia interfered in Brexit referendum
-    <https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote>
-    > PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered Downing S
-  - **Guardian Sport** — Impervious City shrug off chaos and controversy to silence Anfield | Andy Hunter
-    <https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield>
-    > What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”, any favourable decision is considered pro
-  - **Guardian Sport** — ‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph
-    <https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league>
-    > ‘You cannot imagine how happy I am … I’m here to win’ City win 3-0 at Anfield in first game since guilty verdict Enzo Maresca praised Manchester City for “making their own noise” at Liverpool as they brushed aside the controversy and threats surrounding the club with a comprehens
-  - **France 24** — UK PM Burnham warns French voters of Russian political influence on back of Brexit vote
-    <https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote>
-    > British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of "clear" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the B
-  - **Guardian Sport** — Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson
-    <https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day>
-    > Football felt secondary on the first weekend of action since club were found guilty of breaking financial rules The Cimbri are heading menacingly south, but in Rome life goes on. The asteroid is definitely coming this way, but people go to work, eat, drink, plan as usual. The Whi
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -113,7 +113,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
   - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
-  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
+  - Homosexuality in ancient Rome — <https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Rome>
 
 ---
 
