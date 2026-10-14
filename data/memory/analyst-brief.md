@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-13
+# ANALYTICKÉ ZADÁNÍ — 2026-10-14
 
-Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **55**.
+Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 65 dní · 60 záznamů
+- rubrika `world` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-11** (3 zdrojů) Trump announces 'energy ceasefire' between Russia and Ukraine
   - **2026-10-11** (2 zdrojů) Saudi capital airport hit by second Houthi strike in two days
   - **2026-10-11** (4 zdrojů) Trump claims Russia and Ukraine agreed to 'energy ceasefire'
   - **2026-10-12** (3 zdrojů) North Korea fires missiles after Seoul's hypersonic test
@@ -19,14 +18,13 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-12** (2 zdrojů) Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   - **2026-10-13** (2 zdrojů) Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
   - **2026-10-13** (2 zdrojů) Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
+  - **2026-10-14** (2 zdrojů) Russian strikes hit key power plant in Kyiv, Zelensky says
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 56 dní · 60 záznamů
+- rubrika `sport` · sledováno 57 dní · 60 záznamů
 - časová osa:
-  - **2026-10-10** (2 zdrojů) Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
-  - **2026-10-10** (2 zdrojů) Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
   - **2026-10-11** (2 zdrojů) Manchester City face hostile Liverpool reception after guilty verdict – matchday live
   - **2026-10-11** (3 zdrojů) Who 'simply has to do better'? Liverpool v Man City player ratings
   - **2026-10-11** (4 zdrojů) Andy Burnham to publish all details of his dealings with Manchester City
@@ -35,6 +33,8 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-12** (2 zdrojů) Coventry City v Newcastle United: Premier League – live
   - **2026-10-13** (2 zdrojů) Atletico Madrid vs Manchester United LIVE: Champions League
   - **2026-10-13** (2 zdrojů) Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
+  - **2026-10-14** (3 zdrojů) Manchester United’s Martinez blasts board’s lack of investment
+  - **2026-10-14** (2 zdrojů) Man City vs PSG: Champions League – teams, predictions, line ups
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 63 dní · 60 záznamů

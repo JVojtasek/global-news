@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-13
+# ZADÁNÍ PRO REDAKCI — 2026-10-14
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -102,12 +102,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### ancient rome
-- rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+### sleep
+- rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
-  - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
-  - Homosexuality in ancient Rome — <https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Rome>
+  - Sleep — <https://en.wikipedia.org/wiki/Sleep>
+  - No Sleep — <https://en.wikipedia.org/wiki/No_Sleep>
+  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
 
 ---
 
@@ -134,7 +134,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 42)  Ukraine’s drones knock out AI data center belonging to "Russia’s Google"
   2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
   2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says
   2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal
@@ -154,6 +153,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-12  (2 zdrojů, síla 48)  Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   2026-10-13  (2 zdrojů, síla 40)  Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
   2026-10-13  (2 zdrojů, síla 44)  Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
+  2026-10-14  (2 zdrojů, síla 42)  Russian strikes hit key power plant in Kyiv, Zelensky says
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -163,8 +163,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-03  (2 zdrojů, síla 44)  Manchester City’s guilty verdict brings football’s great sell-off crashing to earth
-  2026-10-05  (2 zdrojů, síla 46)  Manchester City must be relegated, says Canada’s ex-Leeds manager
   2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?
   2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77
   2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League
@@ -183,6 +181,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-12  (2 zdrojů, síla 45)  Coventry City v Newcastle United: Premier League – live
   2026-10-13  (2 zdrojů, síla 57)  Atletico Madrid vs Manchester United LIVE: Champions League
   2026-10-13  (2 zdrojů, síla 45)  Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
+  2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
+  2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
 ```
 
 ---

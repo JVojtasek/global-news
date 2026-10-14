@@ -5,45 +5,45 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "poland",
-    "brics",
-    "korea",
-    "briton",
-    "google",
-    "groundhog",
     "putin",
-    "french",
-    "persian",
-    "starlink",
-    "zelenskyy",
-    "time",
-    "streeting",
+    "kyiv",
+    "kuwait",
+    "google",
     "marib",
     "russian",
-    "moscow",
-    "houthis",
-    "iran's",
-    "ukrainian",
+    "saudis",
+    "trump",
+    "gulf",
+    "persian",
+    "lyon",
+    "north",
+    "germany",
+    "modi",
+    "starlink",
+    "britain",
+    "brics",
+    "briton",
     "zelensky",
     "south",
-    "lightning",
+    "houthis",
     "saudi",
-    "times",
+    "lightning",
     "russia",
-    "araghchi",
-    "seoul's",
-    "germany",
-    "luckin",
-    "britain",
-    "kuwait",
-    "saudis",
-    "gulf",
-    "north",
-    "lyon",
-    "centcom",
-    "trump",
     "iran",
-    "modi",
+    "times",
+    "seoul's",
+    "poland",
+    "iran's",
+    "time",
+    "araghchi",
+    "zelenskyy",
+    "moscow",
+    "french",
+    "groundhog",
+    "korea",
+    "streeting",
+    "centcom",
+    "luckin",
     "riyadh"
    ],
    "event_ids": [
@@ -180,22 +180,12 @@
     "bb8b71d6f954",
     "410eece1f601",
     "f88358e8d0dc",
-    "96f44a71c15e"
+    "96f44a71c15e",
+    "515fc0abcfb0"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-10-13",
+   "last_seen": "2026-10-14",
    "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Has Iran modified its rocket systems to fire mines into the Strait of Hormuz?",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3061213d46d8",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260903-has-iran-modified-its-rocket-systems-to-fire-mines-into-the-strait-of-hormuz",
-      "https://www.aljazeera.com/economy/2026/9/3/asia-looks-to-store-oil-gas-closer-to-home-after-strait-of-hormuz-crisis?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-03",
      "headline": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
@@ -867,6 +857,17 @@
       "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
       "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
      ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "515fc0abcfb0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
+     ]
     }
    ]
   },
@@ -875,46 +876,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "gakpo",
-    "greenwood",
-    "spurs",
-    "manchester",
-    "premier",
-    "isak",
-    "city",
+    "forest",
+    "women",
+    "martinez",
+    "maresca",
+    "police",
+    "sports",
+    "troy's",
+    "wilson",
     "fifa",
     "burnham",
-    "sports",
-    "jonathan",
-    "united",
-    "newcastle",
-    "phil",
-    "liverpool",
-    "wilson",
-    "beckett",
-    "madrid",
-    "salisbury",
-    "ever",
-    "forest",
-    "league",
-    "champions",
-    "tuchel",
-    "atletico",
-    "business",
-    "police",
-    "andy",
-    "glasner",
     "napoli",
-    "coventry",
     "salah",
-    "women",
-    "carrick",
-    "rwandan",
+    "spurs",
     "jackson",
-    "villa",
+    "coventry",
+    "champions",
+    "isak",
     "chris",
-    "troy's",
-    "maresca"
+    "newcastle",
+    "manchester",
+    "andy",
+    "beckett",
+    "tuchel",
+    "business",
+    "greenwood",
+    "gakpo",
+    "united",
+    "liverpool",
+    "city",
+    "salisbury",
+    "madrid",
+    "premier",
+    "ever",
+    "carrick",
+    "league",
+    "phil",
+    "glasner",
+    "atletico",
+    "jonathan",
+    "villa"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1018,34 +1019,13 @@
     "4bf6fc2f6288",
     "6575afdd7ce7",
     "f26438f7e168",
-    "12da6d8133c2"
+    "12da6d8133c2",
+    "539b4704ebee",
+    "61ad266a2dfc"
    ],
    "first_seen": "2026-08-18",
-   "last_seen": "2026-10-13",
+   "last_seen": "2026-10-14",
    "timeline": [
-    {
-     "date": "2026-09-09",
-     "headline": "Napoli v Arsenal: Champions League – live",
-     "sources": 2,
-     "score": 52,
-     "event_id": "1be024e4d355",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/09/napoli-v-arsenal-champions-league-live-updates",
-      "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
-     "sources": 2,
-     "score": 41,
-     "event_id": "5f9b78c423de",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
-      "https://www.france24.com/en/sport/20260910-psg-make-perfect-start-to-champions-league-title-defence"
-     ]
-    },
     {
      "date": "2026-09-10",
      "headline": "Europe's next great coach? How Fabregas led Como into Champions League",
@@ -1714,6 +1694,71 @@
      "links": [
       "https://www.theguardian.com/football/2026/oct/13/viking-stavanger-morten-jensen-bjarte-lunde-aarsheim-champions-league-bayern-munich",
       "https://www.france24.com/en/tv-shows/sports/20261013-champions-league-olivier-giroud-makes-arsenal-return-with-lille"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Manchester United’s Martinez blasts board’s lack of investment",
+     "sources": 3,
+     "score": 60,
+     "event_id": "539b4704ebee",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid",
+      "https://www.france24.com/en/sport/20261013-arsenal-thrash-lille-as-atletico-madrid-beat-manchester-united"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Man City vs PSG: Champions League – teams, predictions, line ups",
+     "sources": 2,
+     "score": 53,
+     "event_id": "61ad266a2dfc",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/13/champions-league-lens-sporting-inter-barcelona-bayern-napoli",
+      "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c695e021eed1",
+   "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+   "section": "tech",
+   "entities": [
+    "openai",
+    "saudi"
+   ],
+   "event_ids": [
+    "c695e021eed1",
+    "aa337c25492c"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-14",
+   "timeline": [
+    {
+     "date": "2026-10-13",
+     "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+     "sources": 5,
+     "score": 68,
+     "event_id": "c695e021eed1",
+     "links": [
+      "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "sources": 6,
+     "score": 74,
+     "event_id": "aa337c25492c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
      ]
     }
    ]
@@ -4905,34 +4950,6 @@
       "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/video/20261013-student-protesters-tell-police-to-join-them-in-paris-demonstrations",
       "https://www.france24.com/en/france-student-anger-rages-as-tear-gas-and-fires-hit-paris"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c695e021eed1",
-   "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-   "section": "tech",
-   "entities": [
-    "saudi",
-    "openai"
-   ],
-   "event_ids": [
-    "c695e021eed1"
-   ],
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13",
-   "timeline": [
-    {
-     "date": "2026-10-13",
-     "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-     "sources": 5,
-     "score": 68,
-     "event_id": "c695e021eed1",
-     "links": [
-      "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
      ]
     }
    ]
@@ -15736,5 +15753,5 @@
    ]
   }
  ],
- "updated": "2026-10-13T21:23:14+00:00"
+ "updated": "2026-10-14T00:55:33+00:00"
 }
