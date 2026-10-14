@@ -9,7 +9,6 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-12** (3 zdrojů) North Korea fires missiles after Seoul's hypersonic test
   - **2026-10-12** (5 zdrojů) Saudi minister vows 'serious response' to Houthi attacks on airports
   - **2026-10-12** (4 zdrojů) Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
   - **2026-10-12** (2 zdrojů) Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
@@ -19,6 +18,7 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-14** (2 zdrojů) Russian strikes hit key power plant in Kyiv, Zelensky says
   - **2026-10-14** (5 zdrojů) Russian strikes leave 600,000 without power in Ukraine, Zelensky says
   - **2026-10-14** (3 zdrojů) Watch: Block of flats destroyed in Russian strikes on Ukraine
+  - **2026-10-14** (3 zdrojů) Ukraine says Musk's SpaceX limits Kyiv's Starlink access
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
@@ -37,9 +37,8 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-14** (3 zdrojů) Striker swaps Sunday league for Champions League
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 63 dní · 60 záznamů
+- rubrika `world` · sledováno 64 dní · 60 záznamů
 - časová osa:
-  - **2026-09-29** (2 zdrojů) Estonia blames Russia for arson attack on defense company
   - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
   - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
   - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
@@ -49,6 +48,7 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
   - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
   - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
+  - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
