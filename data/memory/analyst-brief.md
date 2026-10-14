@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-14
 
-Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
+Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-12** (2 zdrojů) Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
   - **2026-10-12** (2 zdrojů) Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   - **2026-10-13** (2 zdrojů) Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
   - **2026-10-13** (2 zdrojů) Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
@@ -19,6 +18,7 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-14** (3 zdrojů) Ukraine says Musk's SpaceX limits Kyiv's Starlink access
   - **2026-10-14** (3 zdrojů) Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
   - **2026-10-14** (2 zdrojů) How Trump’s diesel deal with Russia will impact the United States and Ukraine
+  - **2026-10-14** (2 zdrojů) Why is Starlink internet so important on the battlefield in Ukraine?
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
