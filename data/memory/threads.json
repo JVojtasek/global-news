@@ -2154,6 +2154,282 @@
    ]
   },
   {
+   "id": "e138211becc3",
+   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+   "section": "tech",
+   "entities": [
+    "robotics",
+    "cyber",
+    "argon",
+    "google",
+    "developing",
+    "avatar",
+    "gemini",
+    "googlebook",
+    "transcribe",
+    "meet",
+    "flash-lite",
+    "friday",
+    "deepmind",
+    "introducing",
+    "ai-powered",
+    "flash"
+   ],
+   "event_ids": [
+    "e138211becc3",
+    "cf3951101d71",
+    "b0c60d5e22ba",
+    "29ae84aa2a01",
+    "b27fb7cf6534",
+    "b6a7c3b080e8",
+    "26792917d6d7",
+    "ee9698a7fdb9",
+    "f79a067193d7",
+    "556e1e4b03fe",
+    "47672f48bba9",
+    "884ebf3c3978",
+    "471508c04c30",
+    "edd884e3eb65"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-10-14",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+     "sources": 4,
+     "score": 59,
+     "event_id": "e138211becc3",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cf3951101d71",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+     "sources": 3,
+     "score": 49,
+     "event_id": "b0c60d5e22ba",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29ae84aa2a01",
+     "links": [
+      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google says its Gemini AI model hacked three other companies",
+     "sources": 2,
+     "score": 51,
+     "event_id": "b27fb7cf6534",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google’s Gemini is the latest AI model to hack other companies",
+     "sources": 3,
+     "score": 46,
+     "event_id": "b6a7c3b080e8",
+     "links": [
+      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+     "sources": 3,
+     "score": 54,
+     "event_id": "26792917d6d7",
+     "links": [
+      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+     "sources": 3,
+     "score": 46,
+     "event_id": "ee9698a7fdb9",
+     "links": [
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Google confirms Gemini models hacked three companies in May 2026",
+     "sources": 2,
+     "score": 45,
+     "event_id": "f79a067193d7",
+     "links": [
+      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+     "sources": 6,
+     "score": 72,
+     "event_id": "556e1e4b03fe",
+     "links": [
+      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Google brings agentic AI to Gemini, starting with businesses",
+     "sources": 2,
+     "score": 40,
+     "event_id": "47672f48bba9",
+     "links": [
+      "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Gemini 4 Argon for Robotics",
+     "sources": 5,
+     "score": 80,
+     "event_id": "884ebf3c3978",
+     "links": [
+      "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Developing Gemini 4 Argon responsibly and safely",
+     "sources": 2,
+     "score": 40,
+     "event_id": "471508c04c30",
+     "links": [
+      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+     "sources": 1,
+     "score": 40,
+     "event_id": "edd884e3eb65",
+     "links": [
+      "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5ef0205965a4",
+   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+   "section": "world",
+   "entities": [
+    "white",
+    "greece",
+    "guilfoyle",
+    "katie",
+    "house",
+    "zacharia's",
+    "ambassador",
+    "inside",
+    "kimberly",
+    "trump"
+   ],
+   "event_ids": [
+    "5ef0205965a4",
+    "d0ee4a2b0e2a",
+    "b91386fcbef1",
+    "c2b2b6ae53ff"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-14",
+   "timeline": [
+    {
+     "date": "2026-10-13",
+     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5ef0205965a4",
+     "links": [
+      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Inside Katie Zacharia's very brief White House briefing",
+     "sources": 2,
+     "score": 46,
+     "event_id": "d0ee4a2b0e2a",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+     "sources": 2,
+     "score": 48,
+     "event_id": "b91386fcbef1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "US judge extends media outlets' White House access",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2b2b6ae53ff",
+     "links": [
+      "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "c695e021eed1",
    "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
    "section": "tech",
@@ -4030,195 +4306,6 @@
    ]
   },
   {
-   "id": "e138211becc3",
-   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-   "section": "tech",
-   "entities": [
-    "robotics",
-    "deepmind",
-    "google",
-    "developing",
-    "googlebook",
-    "argon",
-    "avatar",
-    "meet",
-    "gemini",
-    "transcribe",
-    "ai-powered",
-    "flash",
-    "friday"
-   ],
-   "event_ids": [
-    "e138211becc3",
-    "cf3951101d71",
-    "b0c60d5e22ba",
-    "29ae84aa2a01",
-    "b27fb7cf6534",
-    "b6a7c3b080e8",
-    "26792917d6d7",
-    "ee9698a7fdb9",
-    "f79a067193d7",
-    "556e1e4b03fe",
-    "47672f48bba9",
-    "884ebf3c3978",
-    "471508c04c30"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-10-13",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-     "sources": 4,
-     "score": 59,
-     "event_id": "e138211becc3",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cf3951101d71",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-     "sources": 3,
-     "score": 49,
-     "event_id": "b0c60d5e22ba",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-     "sources": 2,
-     "score": 44,
-     "event_id": "29ae84aa2a01",
-     "links": [
-      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google says its Gemini AI model hacked three other companies",
-     "sources": 2,
-     "score": 51,
-     "event_id": "b27fb7cf6534",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google’s Gemini is the latest AI model to hack other companies",
-     "sources": 3,
-     "score": 46,
-     "event_id": "b6a7c3b080e8",
-     "links": [
-      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-     "sources": 3,
-     "score": 54,
-     "event_id": "26792917d6d7",
-     "links": [
-      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-     "sources": 3,
-     "score": 46,
-     "event_id": "ee9698a7fdb9",
-     "links": [
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Google confirms Gemini models hacked three companies in May 2026",
-     "sources": 2,
-     "score": 45,
-     "event_id": "f79a067193d7",
-     "links": [
-      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-     "sources": 6,
-     "score": 72,
-     "event_id": "556e1e4b03fe",
-     "links": [
-      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Google brings agentic AI to Gemini, starting with businesses",
-     "sources": 2,
-     "score": 40,
-     "event_id": "47672f48bba9",
-     "links": [
-      "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Gemini 4 Argon for Robotics",
-     "sources": 5,
-     "score": 80,
-     "event_id": "884ebf3c3978",
-     "links": [
-      "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Developing Gemini 4 Argon responsibly and safely",
-     "sources": 2,
-     "score": 40,
-     "event_id": "471508c04c30",
-     "links": [
-      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
-     ]
-    }
-   ]
-  },
-  {
    "id": "8d4f8a634705",
    "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
    "section": "world",
@@ -4642,66 +4729,6 @@
       "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
       "https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/",
       "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5ef0205965a4",
-   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-   "section": "world",
-   "entities": [
-    "kimberly",
-    "white",
-    "trump",
-    "greece",
-    "inside",
-    "guilfoyle",
-    "house",
-    "zacharia's",
-    "ambassador",
-    "katie"
-   ],
-   "event_ids": [
-    "5ef0205965a4",
-    "d0ee4a2b0e2a",
-    "b91386fcbef1"
-   ],
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13",
-   "timeline": [
-    {
-     "date": "2026-10-13",
-     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5ef0205965a4",
-     "links": [
-      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Inside Katie Zacharia's very brief White House briefing",
-     "sources": 2,
-     "score": 46,
-     "event_id": "d0ee4a2b0e2a",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-     "sources": 2,
-     "score": 48,
-     "event_id": "b91386fcbef1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal"
      ]
     }
    ]
@@ -15766,5 +15793,5 @@
    ]
   }
  ],
- "updated": "2026-10-14T03:30:44+00:00"
+ "updated": "2026-10-14T06:40:59+00:00"
 }
