@@ -13,6 +13,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: Trump’s ‘Agreements on Reciprocal Trade’ (ARTs)
+impact:
+  areas: [money, life]
+  line: "In the ten countries that signed these deals, the supplier clause could slow and raise the cost of new mobile and internet networks. Elsewhere nothing changes for now."
+  todo: "Readers in a signatory country can watch whether their telecom regulator announces supplier restrictions or delays to 5G rollout."
 syndicated:
   source: Global Voices
   author: EngageMedia

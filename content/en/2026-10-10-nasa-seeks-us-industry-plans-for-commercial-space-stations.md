@@ -12,6 +12,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: NASA Seeks US Industry Plans for
+impact:
+  areas: [money]
+  line: "Daily life does not change for most readers. For space companies it sets a timetable: proposals are due 8 December, with contract awards expected in spring 2027."
+  todo: "Watch nasa.gov in spring 2027 for which companies win the contracts and how many are chosen."
 syndicated:
   source: NASA
   author: Jessica Taveau

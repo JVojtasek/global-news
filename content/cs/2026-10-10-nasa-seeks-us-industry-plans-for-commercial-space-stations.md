@@ -11,6 +11,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: NASA Seeks US Industry Plans for
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nic nemění. Vesmírným firmám to dává harmonogram: nabídky se podávají do 8. prosince a smlouvy mají být uděleny na jaře 2027."
+  todo: "Sledujte na jaře 2027 na nasa.gov, které firmy smlouvy získají a kolik jich bude."
 syndicated:
   source: NASA
   author: Jessica Taveau

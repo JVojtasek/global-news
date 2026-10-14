@@ -20,6 +20,10 @@ format: ''
 event_id: ''
 series: ''
 image_query: Roman Forum ruins marble columns
+impact:
+  areas: [life]
+  line: "Nothing changes in daily life. The useful part is a question to bring to any reform: what did the law formally open, and who actually walked through?"
+  todo: "Pick one recent reform and look up official figures on how many people have actually used the new right or office."
 sources:
 - name: Wikipedia — Patrician (ancient Rome)
   url: https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)

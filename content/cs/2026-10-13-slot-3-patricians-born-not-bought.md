@@ -19,6 +19,10 @@ format: ""
 event_id: ""
 series: ""
 image_query: "Roman Forum ruins marble columns"
+impact:
+  areas: [life]
+  line: "V běžném životě se tím nic nemění. Užitečná je otázka, kterou si čtenář může položit u každé reformy: co zákon formálně otevřel a kdo tou cestou opravdu prošel."
+  todo: "Vyberte si jednu nedávnou reformu a dohledejte oficiální čísla o tom, kolik lidí nové právo nebo úřad skutečně využilo."
 sources:
   - name: "Wikipedia — Patrician (ancient Rome)"
     url: "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)"

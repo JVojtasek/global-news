@@ -12,6 +12,10 @@ date: '2026-10-13'
 status: published
 confidence: 0
 image_query: Poetry book promotes Chabacano, Asia’s only
+impact:
+  areas: [life]
+  line: "Nothing practical changes for most readers. The story shows how a small language stays alive: its speakers keep writing new things in it, not only preserving old ones."
+  todo: "If a regional language or dialect is spoken near you, check whether a local library or publisher collects new writing in it."
 syndicated:
   source: Global Voices
   author: Mong Palatino

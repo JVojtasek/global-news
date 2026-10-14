@@ -12,6 +12,10 @@ date: '2026-10-13'
 status: published
 confidence: 0
 image_query: What African elections can learn from
+impact:
+  areas: [life]
+  line: "Day to day, this changes nothing for most readers. What it offers is a test that works anywhere: is a limit on power written into the rules, or does it depend on one leader's promise?"
+  todo: "Look up how long a head of government may serve where you live and how that rule can be changed; the constitution is usually online."
 syndicated:
   source: Global Voices
   author: Peace News
