@@ -7,8 +7,8 @@ section: mysteries
 type: feature
 depth: open
 lang: en
-date: '2026-09-08'
-status: reserve
+date: '2026-10-14'
+status: published
 confidence: 94
 load: 0
 topics:
