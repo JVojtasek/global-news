@@ -9,7 +9,6 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-11** (4 zdrojů) Trump claims Russia and Ukraine agreed to 'energy ceasefire'
   - **2026-10-12** (3 zdrojů) North Korea fires missiles after Seoul's hypersonic test
   - **2026-10-12** (5 zdrojů) Saudi minister vows 'serious response' to Houthi attacks on airports
   - **2026-10-12** (4 zdrojů) Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
@@ -19,6 +18,7 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-13** (2 zdrojů) Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
   - **2026-10-14** (2 zdrojů) Russian strikes hit key power plant in Kyiv, Zelensky says
   - **2026-10-14** (5 zdrojů) Russian strikes leave 600,000 without power in Ukraine, Zelensky says
+  - **2026-10-14** (3 zdrojů) Watch: Block of flats destroyed in Russian strikes on Ukraine
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
@@ -65,9 +65,8 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 60 dní · 54 záznamů
+- rubrika `world` · sledováno 62 dní · 55 záznamů
 - časová osa:
-  - **2026-09-21** (1 zdrojů) The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
   - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
   - **2026-09-28** (2 zdrojů) Israel strips Dutch diplomats of status in West Bank
   - **2026-09-28** (1 zdrojů) NASA Armstrong Celebrates 80 Years of Flight Innovation
@@ -77,6 +76,7 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-05** (1 zdrojů) Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
   - **2026-10-08** (2 zdrojů) Germany news: UK's Burnham visits Berlin for talks with Merz
   - **2026-10-12** (2 zdrojů) UK's Burnham accuses Russia of meddling in Brexit vote
+  - **2026-10-14** (1 zdrojů) Do any of these Israeli candidates support a Palestinian state?
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 54 dní · 45 záznamů

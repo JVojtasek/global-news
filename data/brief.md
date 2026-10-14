@@ -136,7 +136,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says
   2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal
   2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
   2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump
@@ -156,6 +155,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-13  (2 zdrojů, síla 44)  Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
   2026-10-14  (2 zdrojů, síla 42)  Russian strikes hit key power plant in Kyiv, Zelensky says
   2026-10-14  (5 zdrojů, síla 79)  Russian strikes leave 600,000 without power in Ukraine, Zelensky says
+  2026-10-14  (3 zdrojů, síla 56)  Watch: Block of flats destroyed in Russian strikes on Ukraine
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
