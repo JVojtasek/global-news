@@ -11,6 +11,10 @@ date: '2026-10-14'
 status: published
 confidence: 0
 image_query: In Kyrgyzstan, persons with disabilities are
+impact:
+  areas: [life]
+  line: "Outside Kyrgyzstan nothing changes directly. The method travels well: in Bishkek, users audited 350 buildings and found a ramp-related barrier at 60.3 percent, often where a checklist would have shown a ramp."
+  todo: "Look at the entrance of your nearest town hall, clinic or station and ask whether a wheelchair user could get in alone, and ask your local council who handles accessibility complaints."
 syndicated:
   source: Global Voices
   author: Nurbek Bekmurzaev

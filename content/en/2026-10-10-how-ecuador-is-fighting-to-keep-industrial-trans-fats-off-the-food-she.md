@@ -11,6 +11,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: How Ecuador is fighting to keep
+impact:
+  areas: [health]
+  line: "Industrial trans fats are linked by the WHO to more than 278,000 deaths a year. Where a country's limit does not cover every processed food, margarines, biscuits and fried snacks can still carry them."
+  todo: "Check whether your country limits industrial trans fats to 2 g per 100 g of fat, and look for 'partially hydrogenated oil' in ingredient lists."
 syndicated:
   source: Global Voices
   author: Carlos E. Flores

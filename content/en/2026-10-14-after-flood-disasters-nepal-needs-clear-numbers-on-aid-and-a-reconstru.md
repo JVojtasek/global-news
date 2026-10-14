@@ -13,6 +13,10 @@ date: '2026-10-14'
 status: published
 confidence: 0
 image_query: After flood disasters, Nepal needs clear
+impact:
+  areas: [money, life]
+  line: "Outside Nepal, daily life does not change. The useful lesson is the gap the article shows: USD 50.47 million was pledged, while the finance ministry's tracker records USD 24.89 million received."
+  todo: "Before donating to any disaster appeal, check whether the organisation publishes how much it has received and spent, not only what was pledged."
 syndicated:
   source: Global Voices
   author: Susmita Aryal

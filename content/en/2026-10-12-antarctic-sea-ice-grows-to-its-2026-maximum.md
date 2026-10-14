@@ -11,6 +11,10 @@ date: '2026-10-12'
 status: published
 confidence: 0
 image_query: Antarctic Sea Ice Grows to Its
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers. What matters is the trend: Antarctic winter ice peaked at 17.59 million square kilometres, the third-lowest maximum since satellite records began in 1978."
+  todo: "Watch whether next year's maximum stays below normal; NASA and the National Snow and Ice Data Center publish the figure each September."
 syndicated:
   source: NASA
   author: the original author

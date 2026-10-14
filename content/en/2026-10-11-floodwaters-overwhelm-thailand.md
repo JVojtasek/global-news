@@ -11,6 +11,10 @@ date: '2026-10-11'
 status: published
 confidence: 0
 image_query: Floodwaters Overwhelm Thailand
+impact:
+  areas: [safety, life]
+  line: "Over 4 million people in 50 Thai provinces have been affected, and about 270,000 hectares of farmland damaged. Anyone travelling to Thailand in the coming weeks faces flooded low-lying areas."
+  todo: "If you are heading to Thailand, check your government's travel advice and the provincial situation before setting off, and keep an eye on ReliefWeb flood updates."
 syndicated:
   source: NASA
   author: the original author
