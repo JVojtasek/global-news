@@ -109,7 +109,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Sleep — <https://en.wikipedia.org/wiki/Sleep>
   - No Sleep — <https://en.wikipedia.org/wiki/No_Sleep>
-  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
+  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
 
 ---
 
@@ -136,8 +136,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
-  2026-10-10  (4 zdrojů, síla 72)  Watch: 'Time for Ukraine to get a new president', says Trump
   2026-10-11  (2 zdrojů, síla 44)  Middle East live: Riyadh airport attack 'not acceptable,' Trump says
   2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
   2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
@@ -156,6 +154,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-14  (5 zdrojů, síla 79)  Russian strikes leave 600,000 without power in Ukraine, Zelensky says
   2026-10-14  (3 zdrojů, síla 56)  Watch: Block of flats destroyed in Russian strikes on Ukraine
   2026-10-14  (3 zdrojů, síla 60)  Ukraine says Musk's SpaceX limits Kyiv's Starlink access
+  2026-10-14  (3 zdrojů, síla 60)  Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
+  2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -165,8 +165,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77
-  2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League
   2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him
   2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
@@ -185,6 +183,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
   2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
   2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
+  2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
+  2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
 ```
 
 ---

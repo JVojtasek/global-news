@@ -9,8 +9,6 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-12** (5 zdrojů) Saudi minister vows 'serious response' to Houthi attacks on airports
-  - **2026-10-12** (4 zdrojů) Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
   - **2026-10-12** (2 zdrojů) Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
   - **2026-10-12** (2 zdrojů) Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   - **2026-10-13** (2 zdrojů) Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
@@ -19,14 +17,14 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-14** (5 zdrojů) Russian strikes leave 600,000 without power in Ukraine, Zelensky says
   - **2026-10-14** (3 zdrojů) Watch: Block of flats destroyed in Russian strikes on Ukraine
   - **2026-10-14** (3 zdrojů) Ukraine says Musk's SpaceX limits Kyiv's Starlink access
+  - **2026-10-14** (3 zdrojů) Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
+  - **2026-10-14** (2 zdrojů) How Trump’s diesel deal with Russia will impact the United States and Ukraine
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 57 dní · 60 záznamů
 - časová osa:
-  - **2026-10-11** (3 zdrojů) Who 'simply has to do better'? Liverpool v Man City player ratings
-  - **2026-10-11** (4 zdrojů) Andy Burnham to publish all details of his dealings with Manchester City
   - **2026-10-12** (2 zdrojů) Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
   - **2026-10-12** (2 zdrojů) UK PM Andy Burnham met Man City chairman during time as Manchester mayor
   - **2026-10-12** (2 zdrojů) Coventry City v Newcastle United: Premier League – live
@@ -35,6 +33,8 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-14** (3 zdrojů) Manchester United’s Martinez blasts board’s lack of investment
   - **2026-10-14** (2 zdrojů) Man City vs PSG: Champions League – teams, predictions, line ups
   - **2026-10-14** (3 zdrojů) Striker swaps Sunday league for Champions League
+  - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
+  - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů
