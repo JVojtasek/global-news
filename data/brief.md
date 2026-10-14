@@ -78,25 +78,27 @@
     <https://deepmind.google/models/gemini/>
     > Article URL: https://deepmind.google/models/gemini/ Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 447 # Comments: 340
 
-### 4. Rusty or something more? South Africa's concern after Australia loss
-- id události: `435629369d73`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
+### 4. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
+- id události: `191e7f6ed1f6`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — Rusty or something more? South Africa's concern after Australia loss
-    <https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss>
-    > Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?
-  - **Smithsonian Mag** — Did Industrialization Gut Our Microbiomes? A New Study on Rural Foraging Communities in South America and Africa Hints the Answer Is Yes
-    <https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/>
-    > Two groups—the Tsimane forager-horticulturists in Bolivia and the Hadza hunter-gatherers in Tanzania—remarkably share more than 1,200 gut microbe species. However, around 60 percent of them are rare or absent in people living in industrialized places, according to researchers
-  - **France 24** — South Africa suspends asylum applications amid renewed anti-immigrant protests
-    <https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests>
-    > Tensions have flared in South Africa after a court ruling prompted the government to open its application system to all foreign nationals, regardless of their legal status. Despite applications remaining subject to approval, anti-immigrant protests erupted outside several Home Af
-  - **Guardian Sport** — Josh Hazlewood reminds Australia of his worth with 6-49 to see off South Africa
-    <https://www.theguardian.com/sport/2026/oct/13/josh-hazlewood-reminds-australia-of-his-worth-with-6-49-to-see-off-south-africa>
-    > After every stunning Scott Boland performance of recent years, many of them in place of an injured Josh Hazlewood, a reasonable question does the rounds: why isn’t Boland the automatic pick in the Test side, and why does Hazlewood take precedence when fit? In truth, Hazlewood has
-  - **Al Jazeera** — Australia bowl out South Africa to win first cricket Test in Durban
-    <https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss>
-    > Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.
+  - **BBC World** — Russian strikes leave 600,000 without power in Ukraine, Zelensky says
+    <https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss>
+    > Ukraine's president says "critical" infrastructure was hit overnight, while emergency services say at least three were killed.
+  - **The Guardian World** — Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live
+    <https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe>
+    > Zelenskyy says Russia attacked ‘infrastructure covered by the ceasefire announced by the American president’ Ukrainian soldiers have access to Starlink satellite internet restricted in Berlin A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the mo
+  - **CNBC Top** — Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure
+    <https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html>
+    > A ballistic missile has struck energy infrastructure supposedly covered by the "energy ceasefire" announced by Trump on Sunday, Zelenskyy said.
+  - **Al Jazeera** — ‘Massive’ Russian attack on Ukraine kills at least six, damages power sites
+    <https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss>
+    > Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.
+  - **France 24** — 🔴Ukraine live: Russia's 'targeted' strikes on energy leave 600,000 without power, Zelensky says
+    <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
+  - **France 24** — Ukraine live: Zelensky advisor says Starlink restrictions ‘depriving’ Ukraine of defence
+    <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
+    > An advisor to Ukraine’s President Volodymyr Zelensky said on Wednesday that unannounced restrictions to the Starlink satellite system were “depriving” Ukraine of its means of defence. Ukraine uses the network owned by Elon Musk to conduct battlefield operations including drone fl
 
 ---
 
@@ -134,7 +136,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 44)  As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?
   2026-10-10  (2 zdrojů, síla 42)  Putin relayed Iran war proposal to Trump, Kremlin says
   2026-10-10  (2 zdrojů, síla 40)  Germany sticks to Russia sanctions after Trump diesel deal
   2026-10-10  (2 zdrojů, síla 45)  'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
@@ -154,6 +155,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-13  (2 zdrojů, síla 40)  Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
   2026-10-13  (2 zdrojů, síla 44)  Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
   2026-10-14  (2 zdrojů, síla 42)  Russian strikes hit key power plant in Kyiv, Zelensky says
+  2026-10-14  (5 zdrojů, síla 79)  Russian strikes leave 600,000 without power in Ukraine, Zelensky says
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -163,7 +165,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-07  (3 zdrojů, síla 66)  Could Manchester City be expelled from the Premier League?
   2026-10-07  (2 zdrojů, síla 40)  Who am I? Guess Premier League star No 77
   2026-10-08  (2 zdrojů, síla 49)  Glasner urges quick end to Manchester City saga and fears damage to Premier League
   2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him
@@ -183,6 +184,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-13  (2 zdrojů, síla 45)  Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
   2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
   2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
+  2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
 ```
 
 ---
