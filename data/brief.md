@@ -107,9 +107,9 @@
 ### why relationships fail
 - rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
@@ -165,7 +165,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
   2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
   2026-10-10  (2 zdrojů, síla 56)  Manchester United v Tottenham: Premier League – live
@@ -185,6 +184,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
   2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
   2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
+  2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
 ```
 
 ---

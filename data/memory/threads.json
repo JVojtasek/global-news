@@ -886,46 +886,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "wilson",
-    "jackson",
-    "carrick",
-    "india",
-    "champions",
-    "martinez",
-    "madrid",
-    "manchester",
-    "striker",
-    "liverpool",
-    "business",
-    "greenwood",
-    "sunday",
-    "isak",
-    "atletico",
-    "glasner",
-    "andy",
-    "troy's",
-    "aston",
-    "city",
-    "villa",
-    "phil",
-    "burnham",
-    "premier",
-    "league",
-    "chris",
-    "police",
-    "united",
     "sports",
-    "forest",
-    "jason",
     "tuchel",
-    "gakpo",
-    "napoli",
-    "beckett",
     "ever",
     "coventry",
-    "women",
+    "martinez",
+    "wilson",
+    "troy's",
+    "india",
+    "atletico",
+    "chris",
+    "police",
+    "glasner",
+    "jonathan",
     "newcastle",
-    "jonathan"
+    "premier",
+    "isak",
+    "liverpool",
+    "aston",
+    "forest",
+    "carrick",
+    "united",
+    "city",
+    "andy",
+    "burnham",
+    "striker",
+    "league",
+    "women",
+    "business",
+    "gakpo",
+    "phil",
+    "napoli",
+    "jason",
+    "champions",
+    "uk's",
+    "villa",
+    "madrid",
+    "manchester",
+    "jackson",
+    "greenwood",
+    "beckett"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1035,22 +1035,12 @@
     "3d214fd0b59a",
     "5f43dc60af4f",
     "dac680495b9d",
-    "a127fe2ea199"
+    "a127fe2ea199",
+    "0d7461e92364"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-15",
    "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Lens secure an epic comeback win to kick off their Champions League campaign",
-     "sources": 2,
-     "score": 42,
-     "event_id": "f71dc622bba1",
-     "links": [
-      "https://www.france24.com/en/lens-secure-an-epic-comeback-win-to-kick-off-their-champions-league-campaign",
-      "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks"
-     ]
-    },
     {
      "date": "2026-09-12",
      "headline": "Manchester United vs Man City: Premier League – predictions, teams, lineups",
@@ -1732,6 +1722,17 @@
       "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report"
      ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Manchester City, the UAE and the UK's OM in a political tangle",
+     "sources": 2,
+     "score": 43,
+     "event_id": "0d7461e92364",
+     "links": [
+      "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league"
+     ]
     }
    ]
   },
@@ -1740,32 +1741,34 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "ambani",
-    "embiricos",
+    "musk",
     "events",
-    "miss",
-    "elon",
-    "ukraine's",
-    "billionaire",
     "networking",
+    "alexander",
     "india",
     "parties",
+    "miss",
+    "grokipedia",
     "dots",
-    "starlink",
+    "elon",
+    "embiricos",
+    "ambani",
+    "ukraine",
+    "inside",
+    "trump",
     "openai",
     "side",
-    "grokipedia",
-    "apple",
-    "disrupt",
-    "musk",
-    "alexander",
     "open",
-    "trump",
-    "india's",
     "beyond",
-    "inside",
+    "republican",
     "techcrunch",
-    "republican"
+    "ukraine's",
+    "billionaire",
+    "europe",
+    "disrupt",
+    "starlink",
+    "india's",
+    "apple"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -1782,7 +1785,8 @@
     "98c90d114a62",
     "c53837b319d6",
     "714d1f0b729f",
-    "490a23f57428"
+    "490a23f57428",
+    "869772203883"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-15",
@@ -1960,6 +1964,18 @@
       "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
       "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
      ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+     "sources": 3,
+     "score": 56,
+     "event_id": "869772203883",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
+     ]
     }
    ]
   },
@@ -2075,6 +2091,34 @@
       "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/14/enzo-maresca-insists-manchester-city-are-close-to-psg-despite-home-defeat",
       "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "51d25dbff751",
+   "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+   "section": "world",
+   "entities": [
+    "pakistan",
+    "school"
+   ],
+   "event_ids": [
+    "51d25dbff751"
+   ],
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15",
+   "timeline": [
+    {
+     "date": "2026-10-15",
+     "headline": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+     "sources": 4,
+     "score": 65,
+     "event_id": "51d25dbff751",
+     "links": [
+      "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
+      "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-27-students-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss"
      ]
     }
    ]
@@ -15967,5 +16011,5 @@
    ]
   }
  ],
- "updated": "2026-10-15T06:41:31+00:00"
+ "updated": "2026-10-15T09:30:26+00:00"
 }

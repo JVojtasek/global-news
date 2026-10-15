@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-15
 
-Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **54**.
 
 ---
 
@@ -25,7 +25,6 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 58 dní · 60 záznamů
 - časová osa:
-  - **2026-10-12** (2 zdrojů) UK PM Andy Burnham met Man City chairman during time as Manchester mayor
   - **2026-10-12** (2 zdrojů) Coventry City v Newcastle United: Premier League – live
   - **2026-10-13** (2 zdrojů) Atletico Madrid vs Manchester United LIVE: Champions League
   - **2026-10-13** (2 zdrojů) Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
@@ -35,6 +34,7 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
   - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
   - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
+  - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů
