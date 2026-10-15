@@ -891,46 +891,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "sports",
-    "tuchel",
-    "ever",
-    "coventry",
+    "manchester",
     "martinez",
-    "wilson",
+    "madrid",
+    "newcastle",
+    "glasner",
     "troy's",
     "india",
-    "atletico",
-    "chris",
-    "police",
-    "glasner",
-    "jonathan",
-    "newcastle",
-    "premier",
-    "isak",
-    "liverpool",
-    "aston",
-    "forest",
-    "carrick",
-    "united",
-    "city",
-    "andy",
-    "burnham",
-    "striker",
-    "league",
     "women",
-    "business",
-    "gakpo",
-    "phil",
-    "napoli",
-    "jason",
-    "champions",
-    "uk's",
-    "villa",
-    "madrid",
-    "manchester",
-    "jackson",
     "greenwood",
-    "beckett"
+    "striker",
+    "guardiola",
+    "wilson",
+    "tuchel",
+    "premier",
+    "forest",
+    "league",
+    "champions",
+    "jackson",
+    "carrick",
+    "daily",
+    "chris",
+    "uk's",
+    "sports",
+    "villa",
+    "burnham",
+    "football",
+    "phil",
+    "ever",
+    "andy",
+    "atletico",
+    "coventry",
+    "isak",
+    "city",
+    "gakpo",
+    "beckett",
+    "aston",
+    "jonathan",
+    "jason",
+    "liverpool",
+    "united"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1041,23 +1041,12 @@
     "5f43dc60af4f",
     "dac680495b9d",
     "a127fe2ea199",
-    "0d7461e92364"
+    "0d7461e92364",
+    "e53bf4d4c729"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-15",
    "timeline": [
-    {
-     "date": "2026-09-12",
-     "headline": "Manchester United vs Man City: Premier League – predictions, teams, lineups",
-     "sources": 2,
-     "score": 55,
-     "event_id": "30cd0ba61903",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/12/how-to-watch-spurs-everton-premier-league",
-      "https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club"
-     ]
-    },
     {
      "date": "2026-09-13",
      "headline": "Manchester United v Manchester City: Premier League – live",
@@ -1736,6 +1725,17 @@
      "event_id": "0d7461e92364",
      "links": [
       "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG",
+     "sources": 1,
+     "score": 40,
+     "event_id": "e53bf4d4c729",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg",
       "https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league"
      ]
     }
@@ -2676,6 +2676,76 @@
      "event_id": "5de024c22981",
      "links": [
       "https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "26e8279a5a1f",
+   "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+   "section": "world",
+   "entities": [
+    "trump",
+    "fort",
+    "pentagon",
+    "hood",
+    "world"
+   ],
+   "event_ids": [
+    "26e8279a5a1f",
+    "7343e10e8dea",
+    "176646be8a87",
+    "4732b5d0bc28"
+   ],
+   "first_seen": "2026-10-06",
+   "last_seen": "2026-10-15",
+   "timeline": [
+    {
+     "date": "2026-10-06",
+     "headline": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+     "sources": 3,
+     "score": 61,
+     "event_id": "26e8279a5a1f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
+      "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+     "sources": 5,
+     "score": 69,
+     "event_id": "7343e10e8dea",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+     "sources": 2,
+     "score": 51,
+     "event_id": "176646be8a87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261009-us-to-livestream-army-execution-of-fort-hood-shooter-pentagon-official-says",
+      "https://www.france24.com/en/tv-shows/press-review/20261009-hegseth-says-fort-hood-shooter-s-military-execution-will-be-livestreamed"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+     "sources": 5,
+     "score": 67,
+     "event_id": "4732b5d0bc28",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20261015-fort-hood-shooter-s-firing-squad-execution-will-not-be-livestreamed-trump-says"
      ]
     }
    ]
@@ -8556,62 +8626,6 @@
      "event_id": "04f4c04fff10",
      "links": [
       "https://www.smithsonianmag.com/smart-news/margaret-hamilton-a-pioneering-software-engineer-who-made-the-first-human-moon-landing-possible-dies-at-90-180989653/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "26e8279a5a1f",
-   "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
-   "section": "world",
-   "entities": [
-    "world",
-    "fort",
-    "pentagon",
-    "hood"
-   ],
-   "event_ids": [
-    "26e8279a5a1f",
-    "7343e10e8dea",
-    "176646be8a87"
-   ],
-   "first_seen": "2026-10-06",
-   "last_seen": "2026-10-09",
-   "timeline": [
-    {
-     "date": "2026-10-06",
-     "headline": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
-     "sources": 3,
-     "score": 61,
-     "event_id": "26e8279a5a1f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
-      "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-     "sources": 5,
-     "score": 69,
-     "event_id": "7343e10e8dea",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-     "sources": 2,
-     "score": 51,
-     "event_id": "176646be8a87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261009-us-to-livestream-army-execution-of-fort-hood-shooter-pentagon-official-says",
-      "https://www.france24.com/en/tv-shows/press-review/20261009-hegseth-says-fort-hood-shooter-s-military-execution-will-be-livestreamed"
      ]
     }
    ]
@@ -16053,5 +16067,5 @@
    ]
   }
  ],
- "updated": "2026-10-15T12:37:34+00:00"
+ "updated": "2026-10-15T15:29:02+00:00"
 }
