@@ -11,6 +11,10 @@ date: '2026-10-15'
 status: published
 confidence: 0
 image_query: Norway’s Telenor telecom faces lawsuit for
+impact:
+  areas: [safety, life]
+  line: "Most readers outside Myanmar are not directly affected. The case tests whether a phone company can be held liable at home for handing customer data to a regime abroad: at least 1,253 numbers, with call logs and locations, says the complaint."
+  todo: "If your mobile operator publishes a transparency report, look up how many government requests for customer data it received last year and how many it refused."
 syndicated:
   source: Global Voices
   author: Mong Palatino

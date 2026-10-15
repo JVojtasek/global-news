@@ -19,6 +19,10 @@ format: ''
 event_id: 2026-09-07-slot-7-kumano-kodo-living-pilgrimage
 series: ''
 image_query: mossy cobblestone Kumano Kodo pilgrimage path cedar forest Japan respectful travel no people no text
+impact:
+  areas: [life, safety]
+  line: "Týká se jen těch, kdo chystají pěší cestu v japonských horách Kii. Kumano Kodo je síť tras velmi různé obtížnosti s málo záchody, řídkými autobusy a malými penziony, takže o výpravě rozhoduje volba trasy."
+  todo: "Před vyražením si ověřte aktuální uzavírky, počasí a poslední autobusy u turistické kanceláře města Tanabe nebo prefektury Wakajama, ne na sociálních sítích."
 sources:
 - name: UNESCO World Heritage Centre — Sacred Sites and Pilgrimage Routes in the Kii Mountain Range
   url: https://whc.unesco.org/en/list/1142/

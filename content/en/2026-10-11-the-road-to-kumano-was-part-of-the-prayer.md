@@ -22,6 +22,10 @@ event_id: 2026-09-07-slot-7-kumano-kodo-living-pilgrimage
 series: ''
 image_query: mossy cobblestone Kumano Kodo pilgrimage path cedar forest Japan respectful
   travel no people no text
+impact:
+  areas: [life, safety]
+  line: "Only people planning to walk in Japan's Kii Mountains are affected. The Kumano Kodo is a network of routes of very different difficulty, with scarce toilets, limited buses and small inns, so the route choice decides the trip."
+  todo: "Before walking, check current route closures, weather and last-bus times with the Tanabe City Kumano Tourism Bureau or Wakayama Prefecture, not social media."
 sources:
 - name: UNESCO World Heritage Centre — Sacred Sites and Pilgrimage Routes in the Kii
     Mountain Range

@@ -11,6 +11,10 @@ date: '2026-10-11'
 status: published
 confidence: 0
 image_query: NASA Demonstrates Next-Generation Heat Shield Technologies
+impact:
+  areas: [life]
+  line: "V běžném životě se čtenářům nic nemění. Za pozornost stojí metoda: 12 studentských pouzder se veze na nákladní lodi, která stejně shoří, a nové materiály tepelných štítů tak levně získají data ze skutečného návratu do atmosféry."
+  todo: "Pokud sledujete kosmonautiku, hlídejte zveřejněné výsledky KREPE-3; otevřená otázka je, zda levnější a rychleji vyrobitelné plstěné krytí MERINO vydrží skutečný návrat."
 syndicated:
   source: NASA
   author: Tara Friesen

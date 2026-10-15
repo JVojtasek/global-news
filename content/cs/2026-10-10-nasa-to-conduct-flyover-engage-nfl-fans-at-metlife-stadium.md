@@ -12,6 +12,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: NASA to Conduct Flyover, Engage NFL
+impact:
+  areas: [life]
+  line: "Čtenářům se nic nemění. Jde o propagační akci: šéf NASA pilotuje stíhačku F-5 před zápasem Jets v rámci turné, které vyvrcholí výstavou MAX POWER v Kennedyho vesmírném středisku 7.–8. listopadu."
+  todo: "Podrobnosti o výstavě MAX POWER odkazuje tisková zpráva NASA na nasa.gov/maxpower."
 syndicated:
   source: NASA
   author: Jessica Taveau

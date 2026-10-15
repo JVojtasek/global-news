@@ -12,6 +12,10 @@ date: '2026-10-11'
 status: published
 confidence: 0
 image_query: NASA Demonstrates Next-Generation Heat Shield Technologies
+impact:
+  areas: [life]
+  line: "Day to day, nothing changes for readers. What is worth knowing is the method: 12 student-built capsules ride a cargo ship that burns up anyway, so new heat-shield materials get real re-entry data at low cost."
+  todo: "If you follow spaceflight, watch for published KREPE-3 results; the open question is whether the felt-like MERINO coverings, cheaper and faster to make, hold up in real re-entry."
 syndicated:
   source: NASA
   author: Tara Friesen

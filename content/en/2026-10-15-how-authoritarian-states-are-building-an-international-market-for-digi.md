@@ -11,6 +11,10 @@ date: '2026-10-15'
 status: published
 confidence: 0
 image_query: How authoritarian states are building an
+impact:
+  areas: [safety, life]
+  line: "For most readers nothing changes today. The piece shows that facial recognition, video analytics and internet-traffic inspection are traded as ready-made “smart city” packages, so any government that buys them can identify people after the fact."
+  todo: "Find out whether your city runs facial recognition on public cameras, who operates it and how long footage is kept; ask the city hall or the national data-protection authority."
 syndicated:
   source: Global Voices
   author: Daria Dergacheva

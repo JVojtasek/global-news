@@ -12,6 +12,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: NASA to Conduct Flyover, Engage NFL
+impact:
+  areas: [life]
+  line: "Nothing changes for readers. This is a public-relations event: NASA's administrator flies an F-5 before a Jets game as part of a tour that ends with the MAX POWER exhibition at Kennedy Space Center on 7–8 November."
+  todo: "For details of MAX POWER, NASA's release points to nasa.gov/maxpower."
 syndicated:
   source: NASA
   author: Jessica Taveau
