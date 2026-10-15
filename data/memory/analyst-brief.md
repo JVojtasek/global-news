@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-14
+# ANALYTICKÉ ZADÁNÍ — 2026-10-15
 
 Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
 
@@ -7,9 +7,8 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 66 dní · 60 záznamů
+- rubrika `world` · sledováno 67 dní · 60 záznamů
 - časová osa:
-  - **2026-10-12** (2 zdrojů) Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   - **2026-10-13** (2 zdrojů) Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
   - **2026-10-13** (2 zdrojů) Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
   - **2026-10-14** (2 zdrojů) Russian strikes hit key power plant in Kyiv, Zelensky says
@@ -19,13 +18,13 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-14** (3 zdrojů) Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
   - **2026-10-14** (2 zdrojů) How Trump’s diesel deal with Russia will impact the United States and Ukraine
   - **2026-10-14** (2 zdrojů) Why is Starlink internet so important on the battlefield in Ukraine?
+  - **2026-10-15** (2 zdrojů) North Korea says it tested cruise missiles to be launched from sub
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 57 dní · 60 záznamů
+- rubrika `sport` · sledováno 58 dní · 60 záznamů
 - časová osa:
-  - **2026-10-12** (2 zdrojů) Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
   - **2026-10-12** (2 zdrojů) UK PM Andy Burnham met Man City chairman during time as Manchester mayor
   - **2026-10-12** (2 zdrojů) Coventry City v Newcastle United: Premier League – live
   - **2026-10-13** (2 zdrojů) Atletico Madrid vs Manchester United LIVE: Champions League
@@ -35,6 +34,7 @@ Paměť obsahuje **150 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-14** (3 zdrojů) Striker swaps Sunday league for Champions League
   - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
   - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
+  - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů

@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-14
+# ZADÁNÍ PRO REDAKCI — 2026-10-15
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -104,12 +104,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### sleep
-- rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### why relationships fail
+- rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Sleep — <https://en.wikipedia.org/wiki/Sleep>
-  - No Sleep — <https://en.wikipedia.org/wiki/No_Sleep>
-  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
@@ -136,7 +136,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-11  (2 zdrojů, síla 50)  Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh
   2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
   2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
   2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine
@@ -156,6 +155,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-14  (3 zdrojů, síla 60)  Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
   2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine
   2026-10-14  (2 zdrojů, síla 48)  Why is Starlink internet so important on the battlefield in Ukraine?
+  2026-10-15  (2 zdrojů, síla 40)  North Korea says it tested cruise missiles to be launched from sub
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -165,7 +165,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-09  (2 zdrojů, síla 46)  Man City charges: Mourinho jokes Premier League case will outlast him
   2026-10-09  (2 zdrojů, síla 40)  Yet to gel or same old struggles? - De Zerbi's Premier League dilemma
   2026-10-09  (2 zdrojů, síla 60)  Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live
   2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
@@ -185,6 +184,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
   2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
   2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
+  2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
 ```
 
 ---
