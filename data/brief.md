@@ -107,9 +107,9 @@
 ### why relationships fail
 - rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
@@ -136,9 +136,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-11  (2 zdrojů, síla 43)  Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine
-  2026-10-11  (4 zdrojů, síla 69)  Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport
-  2026-10-11  (3 zdrojů, síla 58)  Trump announces 'energy ceasefire' between Russia and Ukraine
   2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days
   2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'
   2026-10-12  (3 zdrojů, síla 51)  North Korea fires missiles after Seoul's hypersonic test
@@ -156,6 +153,9 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine
   2026-10-14  (2 zdrojů, síla 48)  Why is Starlink internet so important on the battlefield in Ukraine?
   2026-10-15  (2 zdrojů, síla 40)  North Korea says it tested cruise missiles to be launched from sub
+  2026-10-15  (4 zdrojů, síla 73)  Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
+  2026-10-15  (2 zdrojů, síla 48)  North Korea and China open new bridge after 12-year delay
+  2026-10-15  (2 zdrojů, síla 41)  Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

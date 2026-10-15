@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "centcom",
-    "north",
-    "block",
-    "times",
-    "south",
-    "britain",
-    "musk's",
-    "starlink",
     "moscow",
-    "iran's",
+    "brics",
+    "block",
     "russian",
-    "lyon",
-    "ukraine",
-    "modi",
-    "gulf",
-    "time",
-    "iran",
-    "saudis",
-    "states",
+    "iran's",
+    "zelensky",
+    "zelenskyy",
+    "starlink",
+    "spacex",
     "marib",
     "korea",
-    "luckin",
-    "russia",
-    "seoul's",
-    "putin",
-    "kyiv's",
-    "spacex",
-    "germany",
-    "google",
-    "zelensky",
     "united",
-    "brics",
-    "kuwait",
-    "zelenskyy",
-    "riyadh",
+    "china",
+    "seoul's",
+    "kyiv's",
     "saudi",
+    "google",
+    "riyadh",
     "trump",
+    "iran",
+    "poland",
+    "luckin",
+    "putin",
+    "south",
+    "north",
+    "kuwait",
+    "britain",
+    "gulf",
+    "saudis",
+    "times",
+    "centcom",
+    "germany",
     "persian",
+    "time",
     "briton",
-    "poland"
+    "musk's",
+    "ukraine",
+    "lyon",
+    "russia",
+    "modi"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -188,44 +188,14 @@
     "0bcda70fdea0",
     "f8ad768d13c3",
     "1938d0f50d7c",
-    "53b42798e408"
+    "53b42798e408",
+    "98fb856ff261",
+    "48d7144fded9",
+    "1b581b375ed4"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-15",
    "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "India news: Putin, Modi to hold talks ahead of BRICS Summit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "fb1f421ffe26",
-     "links": [
-      "https://www.dw.com/en/india-news-putin-modi-to-hold-talks-ahead-of-brics-summit/live-79224239?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0314dd692504",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/brics-summit-2026-putin-modi-reaffirm-partnership/live-79224239?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "BRICS leaders meet in India as wars and US tensions test the bloc",
-     "sources": 2,
-     "score": 40,
-     "event_id": "df9f8f527c03",
-     "links": [
-      "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-      "https://www.france24.com/en/asia-pacific/20260912-brics-summit-set-to-be-dominated-by-wars-in-ukraine-and-iran"
-     ]
-    },
     {
      "date": "2026-09-12",
      "headline": "India’s Modi calls for empowerment of Global South at BRICS Summit",
@@ -877,6 +847,41 @@
      "links": [
       "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+     "sources": 4,
+     "score": 73,
+     "event_id": "98fb856ff261",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "North Korea and China open new bridge after 12-year delay",
+     "sources": 2,
+     "score": 48,
+     "event_id": "48d7144fded9",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/business/20261015-china-north-korea-open-long-delayed-trade-bridge",
+      "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+     "sources": 2,
+     "score": 41,
+     "event_id": "1b581b375ed4",
+     "links": [
+      "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
      ]
     }
    ]
@@ -1737,6 +1742,462 @@
    ]
   },
   {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "president",
+    "somalia",
+    "king",
+    "western",
+    "yemen's",
+    "east",
+    "saudi-backed",
+    "arabia's",
+    "aden",
+    "arabia",
+    "turkey",
+    "pakistan",
+    "taiz",
+    "houthi",
+    "second",
+    "asian",
+    "salman",
+    "attack",
+    "aramco",
+    "york",
+    "middle",
+    "deadly",
+    "houthis",
+    "yemen",
+    "yemeni",
+    "israel-bound",
+    "mecca",
+    "three",
+    "saudi",
+    "riyadh",
+    "trump"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace",
+    "86a5852bfef5",
+    "d4796b695f31",
+    "5308710e525c",
+    "180951c60255",
+    "9e9d8d1bd79d",
+    "44a648a1bb6f",
+    "d5228024545e",
+    "7f3db7dc3a67",
+    "8e64cbab11b6",
+    "3fd55062614f",
+    "b958bdde2297",
+    "b44b08189279",
+    "8ac4f979d690",
+    "f17ae9a73257",
+    "96e0059faecd",
+    "5808d99edbb7",
+    "a35bb8180e8c",
+    "3581328646f8",
+    "dcc48233c883",
+    "09ea0a7a9571",
+    "4d155da59089",
+    "d4fd36f35bd9",
+    "5611b93eb435",
+    "8a7ec0826a1f",
+    "da1b9627385a",
+    "df06a837dc2b",
+    "a9fd93822637",
+    "3da26f09f6ff",
+    "df452091ea46",
+    "9e6334d33a16",
+    "168af5f2abe2"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-10-15",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d16d38017cfe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "sources": 3,
+     "score": 54,
+     "event_id": "b203d9b44ace",
+     "links": [
+      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+     "sources": 3,
+     "score": 62,
+     "event_id": "86a5852bfef5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5308710e525c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+     "sources": 3,
+     "score": 56,
+     "event_id": "180951c60255",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e9d8d1bd79d",
+     "links": [
+      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "44a648a1bb6f",
+     "links": [
+      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
+      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d5228024545e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
+     "sources": 2,
+     "score": 53,
+     "event_id": "7f3db7dc3a67",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8e64cbab11b6",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+     "sources": 3,
+     "score": 52,
+     "event_id": "3fd55062614f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
+     "sources": 2,
+     "score": 41,
+     "event_id": "b958bdde2297",
+     "links": [
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
+      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b44b08189279",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+     "sources": 1,
+     "score": 42,
+     "event_id": "8ac4f979d690",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+     "sources": 2,
+     "score": 50,
+     "event_id": "f17ae9a73257",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+     "sources": 3,
+     "score": 56,
+     "event_id": "96e0059faecd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
+     "sources": 2,
+     "score": 46,
+     "event_id": "5808d99edbb7",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a35bb8180e8c",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3581328646f8",
+     "links": [
+      "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "dcc48233c883",
+     "links": [
+      "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "09ea0a7a9571",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+     "sources": 2,
+     "score": 41,
+     "event_id": "4d155da59089",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Yemen's Houthis warn passengers not to use Saudi airports",
+     "sources": 3,
+     "score": 60,
+     "event_id": "d4fd36f35bd9",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5611b93eb435",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
+     "sources": 2,
+     "score": 52,
+     "event_id": "8a7ec0826a1f",
+     "links": [
+      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
+      "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
+      "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
+     "sources": 3,
+     "score": 64,
+     "event_id": "da1b9627385a",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
+      "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
+     "sources": 2,
+     "score": 48,
+     "event_id": "df06a837dc2b",
+     "links": [
+      "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
+      "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+      "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a9fd93822637",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
+      "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3da26f09f6ff",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+     "sources": 2,
+     "score": 52,
+     "event_id": "df452091ea46",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e6334d33a16",
+     "links": [
+      "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
+      "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+     "sources": 2,
+     "score": 44,
+     "event_id": "168af5f2abe2",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile"
+     ]
+    }
+   ]
+  },
+  {
    "id": "95b4d8eb7452",
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
@@ -2091,6 +2552,130 @@
       "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/14/enzo-maresca-insists-manchester-city-are-close-to-psg-despite-home-defeat",
       "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c873f6019692",
+   "title": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
+   "section": "culture",
+   "entities": [
+    "construction",
+    "infinity",
+    "governor's",
+    "mirror",
+    "dakota",
+    "dating",
+    "original",
+    "decade",
+    "world's",
+    "became",
+    "accidentally",
+    "location",
+    "pull",
+    "volunteers",
+    "back",
+    "state's",
+    "fantastical",
+    "yayoi",
+    "keep",
+    "created",
+    "kusama",
+    "coffins",
+    "famous",
+    "counterculture",
+    "unearthed",
+    "backdrops",
+    "castle",
+    "north",
+    "rooms",
+    "japanese",
+    "spanned",
+    "early",
+    "work",
+    "seven",
+    "restoration",
+    "residence",
+    "cosmos",
+    "settlement",
+    "toward"
+   ],
+   "event_ids": [
+    "c873f6019692",
+    "0b04db51a003",
+    "8c7c5944f603",
+    "60b5bbdb12c5",
+    "3878d84c9fb9",
+    "5de024c22981"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-15",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
+     "sources": 3,
+     "score": 56,
+     "event_id": "c873f6019692",
+     "links": [
+      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art",
+      "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/artanddesign/gallery/2026/aug/27/yayoi-kusama-gallery-life-in-pictures"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Yayoi Kusama, high priestess of polka dots, has died",
+     "sources": 3,
+     "score": 51,
+     "event_id": "0b04db51a003",
+     "links": [
+      "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
+      "https://www.dw.com/en/japanese-artist-yayoi-kusama-dies-at-97/a-78518473?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Japanese polka dot artist Yayoi Kusama dies aged 97",
+     "sources": 3,
+     "score": 50,
+     "event_id": "8c7c5944f603",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260827-japanese-avant-garde-artist-yayoi-kusama-dies-at-97"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Yayoi Kusama Created Fantastical 'Infinity Mirror Rooms' That Became the Art World's Most Famous Backdrops. Her Work Spanned Counterculture to the Cosmos",
+     "sources": 1,
+     "score": 44,
+     "event_id": "60b5bbdb12c5",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/yayoi-kusama-created-fantastical-infinity-mirror-rooms-that-became-the-most-famous-backdrops-of-the-art-world-her-work-spanned-from-counterculture-to-cosmos-180989409/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "1,800 Volunteers Pull a 400-Ton Japanese Castle Keep Back Toward Its Original Location After a Decade of Restoration Work",
+     "sources": 1,
+     "score": 40,
+     "event_id": "3878d84c9fb9",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/1800-people-pull-a-400-ton-japanese-castle-keep-back-toward-its-original-location-after-a-decade-of-restoration-work-180989401/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Construction Work on the North Dakota Governor's Residence Accidentally Unearthed Seven Coffins Dating Back to the State's Early Settlement",
+     "sources": 1,
+     "score": 46,
+     "event_id": "5de024c22981",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/"
      ]
     }
    ]
@@ -3645,449 +4230,6 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
       "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "section": "world",
-   "entities": [
-    "arabia",
-    "aden",
-    "houthi",
-    "riyadh",
-    "middle",
-    "israel-bound",
-    "trump",
-    "mecca",
-    "york",
-    "yemen",
-    "attack",
-    "aramco",
-    "king",
-    "president",
-    "saudi-backed",
-    "second",
-    "deadly",
-    "arabia's",
-    "pakistan",
-    "yemeni",
-    "saudi",
-    "yemen's",
-    "east",
-    "salman",
-    "somalia",
-    "turkey",
-    "three",
-    "taiz",
-    "western",
-    "houthis"
-   ],
-   "event_ids": [
-    "d16d38017cfe",
-    "b203d9b44ace",
-    "86a5852bfef5",
-    "d4796b695f31",
-    "5308710e525c",
-    "180951c60255",
-    "9e9d8d1bd79d",
-    "44a648a1bb6f",
-    "d5228024545e",
-    "7f3db7dc3a67",
-    "8e64cbab11b6",
-    "3fd55062614f",
-    "b958bdde2297",
-    "b44b08189279",
-    "8ac4f979d690",
-    "f17ae9a73257",
-    "96e0059faecd",
-    "5808d99edbb7",
-    "a35bb8180e8c",
-    "3581328646f8",
-    "dcc48233c883",
-    "09ea0a7a9571",
-    "4d155da59089",
-    "d4fd36f35bd9",
-    "5611b93eb435",
-    "8a7ec0826a1f",
-    "da1b9627385a",
-    "df06a837dc2b",
-    "a9fd93822637",
-    "3da26f09f6ff",
-    "df452091ea46",
-    "9e6334d33a16"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-10-14",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-     "sources": 3,
-     "score": 54,
-     "event_id": "b203d9b44ace",
-     "links": [
-      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4796b695f31",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5308710e525c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
-     "sources": 3,
-     "score": 56,
-     "event_id": "180951c60255",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
-      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e9d8d1bd79d",
-     "links": [
-      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "44a648a1bb6f",
-     "links": [
-      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
-      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d5228024545e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
-      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
-     "sources": 2,
-     "score": 53,
-     "event_id": "7f3db7dc3a67",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-     "sources": 2,
-     "score": 43,
-     "event_id": "8e64cbab11b6",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
-     "sources": 3,
-     "score": 52,
-     "event_id": "3fd55062614f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
-      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
-     "sources": 2,
-     "score": 41,
-     "event_id": "b958bdde2297",
-     "links": [
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
-      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b44b08189279",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-     "sources": 1,
-     "score": 42,
-     "event_id": "8ac4f979d690",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-     "sources": 2,
-     "score": 50,
-     "event_id": "f17ae9a73257",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-     "sources": 3,
-     "score": 56,
-     "event_id": "96e0059faecd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
-      "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
-     "sources": 2,
-     "score": 46,
-     "event_id": "5808d99edbb7",
-     "links": [
-      "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
-     "sources": 3,
-     "score": 53,
-     "event_id": "a35bb8180e8c",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3581328646f8",
-     "links": [
-      "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "dcc48233c883",
-     "links": [
-      "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "09ea0a7a9571",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-     "sources": 2,
-     "score": 41,
-     "event_id": "4d155da59089",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Yemen's Houthis warn passengers not to use Saudi airports",
-     "sources": 3,
-     "score": 60,
-     "event_id": "d4fd36f35bd9",
-     "links": [
-      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-      "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
-     "sources": 2,
-     "score": 43,
-     "event_id": "5611b93eb435",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
-     "sources": 2,
-     "score": 52,
-     "event_id": "8a7ec0826a1f",
-     "links": [
-      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
-      "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
-      "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
-     "sources": 3,
-     "score": 64,
-     "event_id": "da1b9627385a",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
-      "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
-     "sources": 2,
-     "score": 48,
-     "event_id": "df06a837dc2b",
-     "links": [
-      "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
-      "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-      "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a9fd93822637",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
-      "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
-     "sources": 2,
-     "score": 44,
-     "event_id": "3da26f09f6ff",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
-      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-     "sources": 2,
-     "score": 52,
-     "event_id": "df452091ea46",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e6334d33a16",
-     "links": [
-      "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
-      "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
      ]
     }
    ]
@@ -14822,106 +14964,6 @@
    ]
   },
   {
-   "id": "c873f6019692",
-   "title": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
-   "section": "culture",
-   "entities": [
-    "backdrops",
-    "yayoi",
-    "fantastical",
-    "infinity",
-    "keep",
-    "cosmos",
-    "volunteers",
-    "spanned",
-    "counterculture",
-    "became",
-    "created",
-    "mirror",
-    "castle",
-    "japanese",
-    "toward",
-    "work",
-    "decade",
-    "back",
-    "original",
-    "restoration",
-    "pull",
-    "kusama",
-    "world's",
-    "rooms",
-    "famous",
-    "location"
-   ],
-   "event_ids": [
-    "c873f6019692",
-    "0b04db51a003",
-    "8c7c5944f603",
-    "60b5bbdb12c5",
-    "3878d84c9fb9"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-08-27",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Yayoi Kusama’s psychedelic art was at its best when taken in high doses",
-     "sources": 3,
-     "score": 56,
-     "event_id": "c873f6019692",
-     "links": [
-      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-art",
-      "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/artanddesign/gallery/2026/aug/27/yayoi-kusama-gallery-life-in-pictures"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Yayoi Kusama, high priestess of polka dots, has died",
-     "sources": 3,
-     "score": 51,
-     "event_id": "0b04db51a003",
-     "links": [
-      "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
-      "https://www.dw.com/en/japanese-artist-yayoi-kusama-dies-at-97/a-78518473?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Japanese polka dot artist Yayoi Kusama dies aged 97",
-     "sources": 3,
-     "score": 50,
-     "event_id": "8c7c5944f603",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/27/yayoi-kusama-japans-queen-of-polka-dots-dies-at-97?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20260827-japanese-avant-garde-artist-yayoi-kusama-dies-at-97"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Yayoi Kusama Created Fantastical 'Infinity Mirror Rooms' That Became the Art World's Most Famous Backdrops. Her Work Spanned Counterculture to the Cosmos",
-     "sources": 1,
-     "score": 44,
-     "event_id": "60b5bbdb12c5",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/yayoi-kusama-created-fantastical-infinity-mirror-rooms-that-became-the-most-famous-backdrops-of-the-art-world-her-work-spanned-from-counterculture-to-cosmos-180989409/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "1,800 Volunteers Pull a 400-Ton Japanese Castle Keep Back Toward Its Original Location After a Decade of Restoration Work",
-     "sources": 1,
-     "score": 40,
-     "event_id": "3878d84c9fb9",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/1800-people-pull-a-400-ton-japanese-castle-keep-back-toward-its-original-location-after-a-decade-of-restoration-work-180989401/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "f0a2b81c016e",
    "title": "India news: India steps up efforts as hundreds missing in Nepal floods",
    "section": "world",
@@ -16011,5 +16053,5 @@
    ]
   }
  ],
- "updated": "2026-10-15T09:30:26+00:00"
+ "updated": "2026-10-15T12:37:34+00:00"
 }

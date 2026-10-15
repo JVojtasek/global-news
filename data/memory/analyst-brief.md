@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-15
 
-Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **55**.
 
 ---
 
@@ -9,9 +9,6 @@ Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **54**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 67 dní · 60 záznamů
 - časová osa:
-  - **2026-10-13** (2 zdrojů) Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
-  - **2026-10-13** (2 zdrojů) Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
-  - **2026-10-14** (2 zdrojů) Russian strikes hit key power plant in Kyiv, Zelensky says
   - **2026-10-14** (5 zdrojů) Russian strikes leave 600,000 without power in Ukraine, Zelensky says
   - **2026-10-14** (3 zdrojů) Watch: Block of flats destroyed in Russian strikes on Ukraine
   - **2026-10-14** (3 zdrojů) Ukraine says Musk's SpaceX limits Kyiv's Starlink access
@@ -19,6 +16,9 @@ Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-14** (2 zdrojů) How Trump’s diesel deal with Russia will impact the United States and Ukraine
   - **2026-10-14** (2 zdrojů) Why is Starlink internet so important on the battlefield in Ukraine?
   - **2026-10-15** (2 zdrojů) North Korea says it tested cruise missiles to be launched from sub
+  - **2026-10-15** (4 zdrojů) Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
+  - **2026-10-15** (2 zdrojů) North Korea and China open new bridge after 12-year delay
+  - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
@@ -98,9 +98,9 @@ Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **54**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
-- **Yayoi Kusama’s psychedelic art was at its best when taken in high doses** — naposledy 2026-08-27, celkem 5 záznamů
 - **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
 - **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
 - **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
 - **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
 - **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů
+- **Typhoon Dolphin batters Japan's Okinawa before bearing down on China** — naposledy 2026-08-10, celkem 4 záznamů
