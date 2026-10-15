@@ -9,30 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Saudi minister vows 'serious response' to Houthi attacks on airports
-- id události: `c146a77e72f0`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Saudi minister vows 'serious response' to Houthi attacks on airports
-    <https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss>
-    > It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
-  - **The Guardian World** — Saudi Arabia further suspends flights after latest deadly Houthi attack on airport
-    <https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport>
-    > Energy minister says ‘fear has no place in the Saudi lexicon’ as paramilitary group again breaches stretched defences Why are the Houthis attacking Saudi airports and how are the missiles getting through? Saudi Arabia was forced to extend the suspension of all flights to and from
-  - **DW News** — Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict
-    <https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf>
-    > Deadly Houthi attacks on Saudi airports have disrupted flights and raised fears of a wider regional conflict, as the US considers military action.
-  - **CNBC Top** — FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks
-    <https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html>
-    > The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.
-  - **Al Jazeera** — Why are the Houthis striking Saudi airports?
-    <https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss>
-    > The attacks mark the deadliest assault on Saudi soil in more than a decade.
-  - **Al Jazeera** — Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport
-    <https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss>
-    > New footage shows a Houthi strike on Riyadh’s airport as Saudi Arabia reaffirms its resilience.
-
-### 2. Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
+### 1. Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
 - id události: `8cd415cc4ee6`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -52,7 +29,7 @@
     <https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder>
     > Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday.
 
-### 3. Gemini 4 Argon for Robotics
+### 2. Gemini 4 Argon for Robotics
 - id události: `884ebf3c3978`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -78,7 +55,7 @@
     <https://deepmind.google/models/gemini/>
     > Article URL: https://deepmind.google/models/gemini/ Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 447 # Comments: 340
 
-### 4. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
+### 3. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
 - id události: `191e7f6ed1f6`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -100,6 +77,26 @@
     <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
     > An advisor to Ukraine’s President Volodymyr Zelensky said on Wednesday that unannounced restrictions to the Starlink satellite system were “depriving” Ukraine of its means of defence. Ukraine uses the network owned by Elon Musk to conduct battlefield operations including drone fl
 
+### 4. Rusty or something more? South Africa's concern after Australia loss
+- id události: `435629369d73`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Rusty or something more? South Africa's concern after Australia loss
+    <https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss>
+    > Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?
+  - **Smithsonian Mag** — Did Industrialization Gut Our Microbiomes? A New Study on Rural Foraging Communities in South America and Africa Hints the Answer Is Yes
+    <https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/>
+    > Two groups—the Tsimane forager-horticulturists in Bolivia and the Hadza hunter-gatherers in Tanzania—remarkably share more than 1,200 gut microbe species. However, around 60 percent of them are rare or absent in people living in industrialized places, according to researchers
+  - **France 24** — South Africa suspends asylum applications amid renewed anti-immigrant protests
+    <https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests>
+    > Tensions have flared in South Africa after a court ruling prompted the government to open its application system to all foreign nationals, regardless of their legal status. Despite applications remaining subject to approval, anti-immigrant protests erupted outside several Home Af
+  - **Guardian Sport** — Josh Hazlewood reminds Australia of his worth with 6-49 to see off South Africa
+    <https://www.theguardian.com/sport/2026/oct/13/josh-hazlewood-reminds-australia-of-his-worth-with-6-49-to-see-off-south-africa>
+    > After every stunning Scott Boland performance of recent years, many of them in place of an injured Josh Hazlewood, a reasonable question does the rounds: why isn’t Boland the automatic pick in the Test side, and why does Hazlewood take precedence when fit? In truth, Hazlewood has
+  - **Al Jazeera** — Australia bowl out South Africa to win first cricket Test in Durban
+    <https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss>
+    > Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -107,9 +104,9 @@
 ### why relationships fail
 - rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
@@ -165,7 +162,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-09  (1 zdrojů, síla 42)  Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson
   2026-10-10  (2 zdrojů, síla 56)  Manchester United v Tottenham: Premier League – live
   2026-10-10  (2 zdrojů, síla 49)  Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
   2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
@@ -185,6 +181,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
   2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
   2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
+  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
 ```
 
 ---

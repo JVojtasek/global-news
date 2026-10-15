@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-15
 
-Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **55**.
+Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **56**.
 
 ---
 
@@ -25,7 +25,6 @@ Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **55**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 58 dní · 60 záznamů
 - časová osa:
-  - **2026-10-13** (2 zdrojů) Atletico Madrid vs Manchester United LIVE: Champions League
   - **2026-10-13** (2 zdrojů) Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
   - **2026-10-14** (3 zdrojů) Manchester United’s Martinez blasts board’s lack of investment
   - **2026-10-14** (2 zdrojů) Man City vs PSG: Champions League – teams, predictions, line ups
@@ -35,6 +34,7 @@ Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
   - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
   - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
+  - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-14** (1 zdrojů) Do any of these Israeli candidates support a Palestinian state?
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 54 dní · 45 záznamů
+- rubrika `world` · sledováno 64 dní · 46 záznamů
 - časová osa:
-  - **2026-09-26** (4 zdrojů) The truth behind Donald Trump’s ‘biggest oil deal in world history’
   - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
   - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
   - **2026-09-30** (2 zdrojů) Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’
@@ -91,6 +90,7 @@ Paměť obsahuje **151 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
   - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
   - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
+  - **2026-10-15** (1 zdrojů) London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
 
 ---
 
