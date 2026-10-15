@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/omezeni-dovozu-cinskych-aut-v-eu-proc-nerozhoduje-jen-procen-analyza-384253
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "EU a Čína se dohodly na režimu, který může vývoz čínských hybridů a plug-in hybridů do EU snížit o víc než polovinu. Kupujícím v EU to může zúžit výběr levnějších verzí."
+  todo: "Vybíráte hybrid v EU? Sledujte v příštích měsících ceny a nabídku modelů a také absolutní počet aut, na který se dohoda vztahuje."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/omezeni-dovozu-cinskych-aut-v-eu-proc-nerozhoduje-jen-procen-analyza-384253

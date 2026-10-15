@@ -16,6 +16,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizke-zasoby-plynu-a-citlivost-cen-na-pocasi-co-ji-zvysuje-analyza-381751
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Evropa má v zásobnících málo plynu, takže mráz, výpadek LNG terminálu nebo silnější poptávka v Asii pohnou cenou víc než obvykle. Domácnostem a firmám v Evropě se to může časem propsat do cen elektřiny, tepla a energeticky náročného zboží."
+  todo: "Sledujte na začátku zimy naplněnost evropských zásobníků plynu; pokud kupujete energie v Evropě, ověřte si, zda a dokdy máte cenu zafixovanou."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizke-zasoby-plynu-a-citlivost-cen-na-pocasi-co-ji-zvysuje-analyza-381751

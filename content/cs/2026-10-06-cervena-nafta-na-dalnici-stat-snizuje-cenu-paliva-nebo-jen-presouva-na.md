@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cervena-nafta-na-dalnici-stat-snizuje-cenu-paliva-nebo-jen-p-analyza-381607
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Ve Spojených státech smí levnější barvená nafta, jinak vyhrazená farmám a stavbám, nově i na silnice, protože průměrná cena nafty přesáhla 6 dolarů za galon. Paliva tím nepřibude, takže úleva u pumpy může být krátká."
+  todo: "V USA sledujte, zda ceny nafty u pump a palivové příplatky dopravců opravdu klesnou; mimo USA se přímo nic nemění."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cervena-nafta-na-dalnici-stat-snizuje-cenu-paliva-nebo-jen-p-analyza-381607

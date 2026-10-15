@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizke-zasoby-plynu-a-citlivost-cen-na-pocasi-co-ji-zvysuje-analyza-381751
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Europe's gas storage is low, so cold weather, an LNG terminal outage or stronger Asian demand can move prices more sharply than usual. For households and firms in Europe, that can eventually reach electricity, heating and energy-heavy goods."
+  todo: "Watch the fill level of European gas storage as winter starts; if you buy energy in Europe, check whether your price is fixed and until when."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizke-zasoby-plynu-a-citlivost-cen-na-pocasi-co-ji-zvysuje-analyza-381751

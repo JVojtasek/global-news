@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trumpova-iranska-pauza-a-ropa-projevi-se-v-doprave-pojisteni-analyza-383962
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Trump oznámil, že po jednáních s Íránem jsou další údery pozastavené. Pokud klid vydrží, může z cen ropy zmizet část přirážky za strach a ulevit palivům, letenkám i přepravě zboží. Riziko je ale odložené, ne zažehnané."
+  todo: "Sledujte, zda vedle rétoriky zlevní i pojištění lodní dopravy a přepravné; když se uklidní jen slova, trh pauze plně nevěří."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trumpova-iranska-pauza-a-ropa-projevi-se-v-doprave-pojisteni-analyza-383962

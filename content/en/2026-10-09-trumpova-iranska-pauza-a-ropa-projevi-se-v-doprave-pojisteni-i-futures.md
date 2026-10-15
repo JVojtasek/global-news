@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trumpova-iranska-pauza-a-ropa-projevi-se-v-doprave-pojisteni-analyza-383962
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Trump says further strikes on Iran are paused after talks. If the calm holds, part of the fear surcharge in oil prices could fade, easing fuel, airfares and goods transport for most readers. The risk is postponed, not removed."
+  todo: "Watch whether shipping insurance and freight costs fall as well as the rhetoric; if only the words calm down, the market does not fully believe the pause."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trumpova-iranska-pauza-a-ropa-projevi-se-v-doprave-pojisteni-analyza-383962

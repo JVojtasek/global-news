@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cervena-nafta-na-dalnici-stat-snizuje-cenu-paliva-nebo-jen-p-analyza-381607
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "In the United States, cheaper dyed diesel, normally reserved for farms and building sites, may now be used on roads after average diesel passed $6 a gallon. It adds no new fuel, so relief at the pump may be short-lived."
+  todo: "In the US, watch whether diesel pump prices and carriers' fuel surcharges actually fall; outside the US, nothing changes directly."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cervena-nafta-na-dalnici-stat-snizuje-cenu-paliva-nebo-jen-p-analyza-381607

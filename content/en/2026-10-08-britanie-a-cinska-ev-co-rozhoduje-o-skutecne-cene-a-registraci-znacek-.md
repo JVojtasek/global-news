@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/britanie-a-cinska-ev-co-rozhoduje-o-skutecne-cene-a-registra-analyza-383164
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Britain is weighing whether to follow the US and EU with tariffs on Chinese electric cars. In the UK, that decides whether cheaper Chinese EVs stay cheap, and it can also move lease payments and used-EV values."
+  todo: "Considering an EV in the UK? Compare monthly lease payments rather than list prices, and watch the SMMT's monthly registration figures by brand."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/britanie-a-cinska-ev-co-rozhoduje-o-skutecne-cene-a-registra-analyza-383164

@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/britanie-a-cinska-ev-co-rozhoduje-o-skutecne-cene-a-registra-analyza-383164
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Británie zvažuje, zda po vzoru USA a EU zavede cla na čínská elektroauta. Ve Spojeném království to rozhodne, zda levná čínská EV zůstanou levná, a může to pohnout i leasingovými splátkami a cenami ojetých elektromobilů."
+  todo: "Zvažujete elektromobil ve Spojeném království? Porovnávejte měsíční leasingové splátky místo ceníkových cen a sledujte měsíční registrace podle značek od SMMT."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/britanie-a-cinska-ev-co-rozhoduje-o-skutecne-cene-a-registra-analyza-383164

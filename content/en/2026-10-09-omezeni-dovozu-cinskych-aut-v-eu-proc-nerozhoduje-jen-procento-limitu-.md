@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/omezeni-dovozu-cinskych-aut-v-eu-proc-nerozhoduje-jen-procen-analyza-384253
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "The EU and China have agreed a regime that could cut Chinese hybrid and plug-in hybrid car exports to the EU by more than half. For buyers in the EU, that may mean fewer cheaper versions to choose from."
+  todo: "Shopping for a hybrid in the EU? Compare prices and model choice over the coming months, and watch for the absolute number of cars the deal covers."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/omezeni-dovozu-cinskych-aut-v-eu-proc-nerozhoduje-jen-procen-analyza-384253
