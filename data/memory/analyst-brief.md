@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-15
+# ANALYTICKÉ ZADÁNÍ — 2026-10-16
 
-Paměť obsahuje **152 vláken**. Aktivních za posledních 14 dní: **56**.
+Paměť obsahuje **152 vláken**. Aktivních za posledních 14 dní: **54**.
 
 ---
 
@@ -98,9 +98,9 @@ Paměť obsahuje **152 vláken**. Aktivních za posledních 14 dní: **56**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock** — naposledy 2026-08-31, celkem 3 záznamů
 - **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
 - **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
 - **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
 - **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
 - **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů
-- **Typhoon Dolphin batters Japan's Okinawa before bearing down on China** — naposledy 2026-08-10, celkem 4 záznamů
