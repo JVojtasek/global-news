@@ -12,6 +12,10 @@ date: '2026-10-16'
 status: published
 confidence: 0
 image_query: Hong Kong police launch AI-powered national
+impact:
+  areas: [life]
+  line: "Most readers are not directly affected; this concerns pupils in Hong Kong schools. It shows that a chatbot for children can be a tool of state education, not only a homework helper."
+  todo: "When a school offers your child an AI app, find out who built it and who decides what it is allowed to tell stories about."
 syndicated:
   source: Global Voices
   author: Hong Kong Free Press

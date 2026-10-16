@@ -12,6 +12,10 @@ date: '2026-10-16'
 status: published
 confidence: 0
 image_query: Peru’s Indigenous people in Cutivireni and
+impact:
+  areas: [life]
+  line: "Day to day, this changes nothing for most readers. What matters is that small local fire crews in the Amazon can tame a blaze early, before it destroys forest that helps slow warming."
+  todo: "If you donate to rainforest protection, check whether the organisation also funds fire prevention and training for local people."
 syndicated:
   source: Global Voices
   author: Cool Earth
