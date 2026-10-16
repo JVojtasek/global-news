@@ -1,6 +1,34 @@
 {
  "threads": [
   {
+   "id": "41d2a43ff64d",
+   "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+   "section": "tech",
+   "entities": [
+    "tesla",
+    "roadster"
+   ],
+   "event_ids": [
+    "41d2a43ff64d"
+   ],
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16",
+   "timeline": [
+    {
+     "date": "2026-10-16",
+     "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+     "sources": 3,
+     "score": 56,
+     "event_id": "41d2a43ff64d",
+     "links": [
+      "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
@@ -16232,5 +16260,5 @@
    ]
   }
  ],
- "updated": "2026-10-16T00:54:35+00:00"
+ "updated": "2026-10-16T03:30:46+00:00"
 }
