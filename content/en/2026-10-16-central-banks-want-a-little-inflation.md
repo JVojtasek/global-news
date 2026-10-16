@@ -1,45 +1,56 @@
 ---
 slug: central-banks-want-a-little-inflation
-title: "Why Central Banks Want a Little Inflation, Not None"
-dek: "Falling inflation means prices climb more slowly, not that they come back down. Most economists prefer it that way, and the reasons are less obvious than they sound."
+title: Why Central Banks Want a Little Inflation, Not None
+dek: Falling inflation means prices climb more slowly, not that they come back down.
+  Most economists prefer it that way, and the reasons are less obvious than they sound.
 section: business
 type: analysis
 depth: scripture
 lang: en
-date: 2026-10-16
-status: draft
-confidence: 84
+date: '2026-10-16'
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
-image_query: "supermarket price tags shelf"
+format: ''
+event_id: ''
+series: ''
+image_query: supermarket price tags shelf
 impact:
-  areas: [money]
-  line: "Anyone holding cash or waiting for a yearly pay rise loses buying power between adjustments. Inflation falling back to target still means prices rising, only more slowly."
-  todo: "Look up your central bank's inflation target and the latest official inflation figure, then set them next to your last pay rise and your savings rate."
+  areas:
+  - money
+  line: Anyone holding cash or waiting for a yearly pay rise loses buying power between
+    adjustments. Inflation falling back to target still means prices rising, only
+    more slowly.
+  todo: Look up your central bank's inflation target and the latest official inflation
+    figure, then set them next to your last pay rise and your savings rate.
 sources:
-  - name: "Wikipedia — Inflation"
-    url: "https://en.wikipedia.org/wiki/Inflation"
-    published: ""
-  - name: "Wikipedia — 2021–2023 inflation surge"
-    url: "https://en.wikipedia.org/wiki/2021–2023_inflation_surge"
-    published: ""
-  - name: "Wikipedia — Cosmic inflation"
-    url: "https://en.wikipedia.org/wiki/Cosmic_inflation"
-    published: ""
-qma_path: ""
+- name: Wikipedia — Inflation
+  url: https://en.wikipedia.org/wiki/Inflation
+  published: ''
+- name: Wikipedia — 2021–2023 inflation surge
+  url: https://en.wikipedia.org/wiki/2021–2023_inflation_surge
+  published: ''
+- name: Wikipedia — Cosmic inflation
+  url: https://en.wikipedia.org/wiki/Cosmic_inflation
+  published: ''
+qma_path: ''
 tickers: []
 quiz:
-  question: "According to economists cited in the article, what would usually be needed for prices to return to pre-pandemic levels?"
-  options: ["Inflation settling at the 2% target", "A period of deflation, usually associated with recession", "Faster growth of the money supply"]
+  question: According to economists cited in the article, what would usually be needed
+    for prices to return to pre-pandemic levels?
+  options:
+  - Inflation settling at the 2% target
+  - A period of deflation, usually associated with recession
+  - Faster growth of the money supply
   answer: 1
-  explanation: "The 2021–2023 inflation surge article says a return to pre-pandemic prices would require a deflationary period, which is usually associated with recession. Hitting the target only slows the rise."
+  explanation: The 2021–2023 inflation surge article says a return to pre-pandemic
+    prices would require a deflationary period, which is usually associated with recession.
+    Hitting the target only slows the rise.
 ---
 
 ## BRIEFLY
