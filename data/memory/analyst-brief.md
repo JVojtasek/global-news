@@ -79,9 +79,8 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-16** (4 zdrojů) Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 65 dní · 47 záznamů
+- rubrika `world` · sledováno 65 dní · 48 záznamů
 - časová osa:
-  - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
   - **2026-09-30** (2 zdrojů) Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’
   - **2026-09-30** (2 zdrojů) Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea
   - **2026-10-01** (2 zdrojů) Despite praise and White House visits, Trump avoids endorsing Netanyahu
@@ -91,6 +90,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
   - **2026-10-15** (1 zdrojů) London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
   - **2026-10-16** (2 zdrojů) New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
+  - **2026-10-16** (3 zdrojů) White House press secretary Zacharia exiting role after short tenure
 
 ---
 

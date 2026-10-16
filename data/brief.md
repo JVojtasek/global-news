@@ -29,33 +29,7 @@
     <https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder>
     > Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday.
 
-### 2. Gemini 4 Argon for Robotics
-- id události: `884ebf3c3978`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Google DeepMind** — Gemini 4 Argon for Robotics
-    <https://deepmind.google/blog/gemini-4-argon-for-robotics/>
-  - **Google DeepMind** — Gemini 4 Argon: Built to solve your hardest problems
-    <https://deepmind.google/blog/introducing-gemini-4-argon/>
-  - **Ars Technica** — Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay
-    <https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/>
-    > Developers will get 50 percent discounted API rates through November.
-  - **Ars Technica AI** — Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay
-    <https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/>
-    > Developers will get 50 percent discounted API rates through November.
-  - **Google DeepMind** — Gemini 4 Argon: our next era of frontier intelligence
-    <https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/>
-  - **Google DeepMind** — Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration
-    <https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/>
-    > Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.
-  - **The Verge AI** — Google finally releases Gemini 4 Argon
-    <https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon>
-    > After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers "frontier reasoning and improved performance across comple
-  - **Hacker News Best** — Gemini 4 Argon
-    <https://deepmind.google/models/gemini/>
-    > Article URL: https://deepmind.google/models/gemini/ Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 447 # Comments: 340
-
-### 3. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
+### 2. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
 - id události: `191e7f6ed1f6`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -77,7 +51,7 @@
     <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
     > An advisor to Ukraine’s President Volodymyr Zelensky said on Wednesday that unannounced restrictions to the Starlink satellite system were “depriving” Ukraine of its means of defence. Ukraine uses the network owned by Elon Musk to conduct battlefield operations including drone fl
 
-### 4. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+### 3. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
 - id události: `aa337c25492c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -99,6 +73,29 @@
   - **Hacker News Best** — OpenAI engineer arrested in bugging of executive conference room
     <https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/>
     > https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 366 # Comments: 337
+
+### 4. Real Madrid stun Roma after dramatic late comeback
+- id události: `ead21b3fa34a`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Real Madrid stun Roma after dramatic late comeback
+    <https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss>
+    > Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the final seven minutes to earn manager Jose Mourinho a win on his return to Roma.
+  - **Guardian Sport** — Enzo Maresca insists Manchester City are ‘close’ to PSG despite home defeat
+    <https://www.theguardian.com/football/2026/oct/14/enzo-maresca-insists-manchester-city-are-close-to-psg-despite-home-defeat>
+    > Luis Enrique admits ‘luck was on our side’ in 4-2 win Maresca denies players were affected by guilty verdicts Enzo Maresca felt Manchester City proved they were close to the level of Paris Saint-Germain after losing out to them in a Champions League thriller at the Etihad Stadium
+  - **Al Jazeera** — Real Madrid come from 3-1 down to beat Roma on Champions League travels
+    <https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss>
+    > Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.
+  - **France 24** — PSG beat Manchester City in Champions League after financial rules verdict
+    <https://www.france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league>
+    > Defending champions Paris Saint-Germain held off a second-half comeback to beat Manchester City 4-2 away in the Champions League on Wednesday. Goals from Desire Doue, Ousmane Dembele and Vitinha gave PSG a 3-0 lead before Erling Haaland struck twice. Maghnes Akliouche added a fou
+  - **Guardian Sport** — Champions League: Mourinho’s Real Madrid stage wild comeback on Roma return
+    <https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return>
+    > Mourinho’s side score three late goals from 3-1 deficit Dortmund latest team beaten in Norway by Bodø/Glimt José Mourinho enjoyed a Roma reunion to remember as Real Madrid completed an astonishing comeback by scoring three late goals to claim a 4-3 away win in the Champions Leagu
+  - **Al Jazeera** — PSG beat Man City 4-2 in Champions League thriller
+    <https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss>
+    > PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.
 
 ---
 
