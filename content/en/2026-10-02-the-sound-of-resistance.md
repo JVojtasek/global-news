@@ -12,6 +12,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: The sound of resistance
+impact:
+  areas: [life]
+  line: "Most readers' daily lives don't change. What matters is the pattern: from Kyrgyz improvising poets to a Togolese rapper, governments still treat songs as threats, and singers have been dropped from concerts, detained or worse over lyrics."
+  todo: "Look up Hum Dekhenge, sung by Iqbal Bano in Lahore in 1986, and read Faiz's lyrics in translation; it shows why a poem could frighten a government."
 syndicated:
   source: Global Voices
   author: Sydney Allen

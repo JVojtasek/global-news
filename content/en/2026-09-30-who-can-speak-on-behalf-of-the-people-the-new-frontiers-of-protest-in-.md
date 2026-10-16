@@ -13,6 +13,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: Who can speak on behalf of
+impact:
+  areas: [safety, life]
+  line: "For people in Mali, Burkina Faso and Niger, political parties are dissolved, over a thousand civic groups suspended and critics arrested, so open disagreement now carries real personal risk. For most readers elsewhere, daily life doesn't change."
+  todo: "Before any travel to the central Sahel, read your own government's travel advisory; the CIVICUS Monitor tracks civic-space restrictions in Mali, Burkina Faso and Niger."
 syndicated:
   source: Global Voices
   author: Jean Sovon

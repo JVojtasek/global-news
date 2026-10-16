@@ -10,6 +10,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: Who can speak on behalf of
+impact:
+  areas: [safety, life]
+  line: "Lidem v Mali, Burkině Faso a Nigeru byly rozpuštěny politické strany, přes tisíc občanských organizací pozastaveno a kritici zatýkáni, takže otevřený nesouhlas dnes nese skutečné osobní riziko. Většině čtenářů jinde se běžný den nemění."
+  todo: "Před jakoukoli cestou do středního Sahelu si přečtěte cestovní doporučení vlastního státu; omezování občanského prostoru v Mali, Burkině Faso a Nigeru sleduje CIVICUS Monitor."
 syndicated:
   source: Global Voices
   author: Jean Sovon

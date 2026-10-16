@@ -12,6 +12,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: NASA Astronaut Christina Koch to Join
+impact:
+  areas: [life]
+  line: "Většině čtenářů se běžný den nemění. Šlo o propagační zastávku NASA na zápase 4. října ve Filadelfii; další veřejný termín, který tisková zpráva uvádí, je MAX POWER, letecká a kosmická výstava v Kennedyho vesmírném středisku 7. a 8. listopadu."
+  todo: "Pokud zvažujete návštěvu MAX POWER na Floridě, ověřte si termíny, místo a podmínky vstupu na nasa.gov/maxpower dřív, než cokoli zarezervujete."
 syndicated:
   source: NASA
   author: Jessica Taveau

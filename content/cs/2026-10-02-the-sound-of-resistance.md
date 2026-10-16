@@ -12,6 +12,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: The sound of resistance
+impact:
+  areas: [life]
+  line: "Většině čtenářů se běžný den nemění. Podstatný je vzorec: od kyrgyzských improvizujících básníků po tožského rappera berou vlády písně pořád jako hrozbu a zpěváci kvůli textům přicházejí o koncerty, končí ve vazbě nebo hůř."
+  todo: "Najděte si Hum Dekhenge, kterou Iqbal Bano zpívala roku 1986 v Láhauru, a přečtěte si Faizův text v překladu; ukáže, proč se vláda mohla bát básně."
 syndicated:
   source: Global Voices
   author: Sydney Allen

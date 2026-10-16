@@ -10,6 +10,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'Equating protest with terrorism: A narrative'
+impact:
+  areas: [safety, life]
+  line: "Ve Spojených státech označují představitelé vlády demonstranty proti ICE za domácí teroristy a kritici varují, že prezidentské memorandum z roku 2025 může za podporu považovat i rozdávání vody na protestu. Podobnou nálepku použily Srí Lanka, Tunisko, Venezuela i Británie."
+  todo: "Když někdo protest nazve terorismem, ptejte se, jaký zákon cituje a jaký čin klade za vinu; mezinárodní měřítko stanoví Obecný komentář č. 37 Výboru OSN pro lidská práva z roku 2020."
 syndicated:
   source: Global Voices
   author: Civic Media Observatory

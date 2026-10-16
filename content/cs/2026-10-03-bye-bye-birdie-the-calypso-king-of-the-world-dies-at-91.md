@@ -11,6 +11,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: 'Bye-bye, Birdie: The Calypso King of'
+impact:
+  areas: [life]
+  line: "Většině čtenářů se běžný den nemění. Mění se kulturní paměť Karibiku: Mighty Sparrow, osminásobný vítěz soutěží Calypso Monarch i Road March, zemřel v New Yorku ve 91 letech po sedmi desetiletích, kdy z politiky dělal písně."
+  todo: "Pusťte si za sebou Jean and Dinah (1956) a The Slave; dohromady ukážou jeho rozpětí, od karnevalové satiry po žalozpěv za zotročené Afričany."
 syndicated:
   source: Global Voices
   author: Janine Mendes-Franco

@@ -11,6 +11,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: 'Bye-bye, Birdie: The Calypso King of'
+impact:
+  areas: [life]
+  line: "Most readers' daily lives don't change. What changes is the Caribbean's cultural memory: the Mighty Sparrow, eight-time Calypso Monarch and Road March winner, died in New York at 91 after seven decades of turning politics into song."
+  todo: "Listen to Jean and Dinah (1956) and The Slave back to back; together they show his range, from Carnival satire to a lament for enslaved Africans."
 syndicated:
   source: Global Voices
   author: Janine Mendes-Franco

@@ -12,6 +12,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: NASA Astronaut Christina Koch to Join
+impact:
+  areas: [life]
+  line: "Most readers' daily lives don't change. This was a NASA outreach stop at a 4 October game in Philadelphia; the next public date the release names is MAX POWER, an air and space expo at Kennedy Space Center on 7 and 8 November."
+  todo: "If you are thinking of going to MAX POWER in Florida, check dates, location and entry details at nasa.gov/maxpower before booking anything."
 syndicated:
   source: NASA
   author: Jessica Taveau

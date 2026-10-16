@@ -11,6 +11,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'Equating protest with terrorism: A narrative'
+impact:
+  areas: [safety, life]
+  line: "In the United States, officials have called anti-ICE protesters domestic terrorists, and critics say a 2025 presidential memo could treat handing out water at a protest as support. Similar labels have been used in Sri Lanka, Tunisia, Venezuela and the UK."
+  todo: "When a protest is called terrorism, ask which law is cited and what act is alleged; the UN Human Rights Committee's 2020 General Comment 37 sets the international baseline."
 syndicated:
   source: Global Voices
   author: Civic Media Observatory
