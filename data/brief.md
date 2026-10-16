@@ -140,7 +140,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-11  (2 zdrojů, síla 53)  Saudi capital airport hit by second Houthi strike in two days
   2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'
   2026-10-12  (3 zdrojů, síla 51)  North Korea fires missiles after Seoul's hypersonic test
   2026-10-12  (5 zdrojů, síla 82)  Saudi minister vows 'serious response' to Houthi attacks on airports
@@ -160,6 +159,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-15  (4 zdrojů, síla 73)  Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
   2026-10-15  (2 zdrojů, síla 48)  North Korea and China open new bridge after 12-year delay
   2026-10-15  (2 zdrojů, síla 41)  Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
+  2026-10-16  (2 zdrojů, síla 46)  Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
