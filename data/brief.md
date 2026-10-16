@@ -77,25 +77,28 @@
     <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
     > An advisor to Ukraine’s President Volodymyr Zelensky said on Wednesday that unannounced restrictions to the Starlink satellite system were “depriving” Ukraine of its means of defence. Ukraine uses the network owned by Elon Musk to conduct battlefield operations including drone fl
 
-### 4. Rusty or something more? South Africa's concern after Australia loss
-- id události: `435629369d73`  ·  rubrika: `world`  ·  skóre: 78  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+- id události: `aa337c25492c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 6
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC Sport** — Rusty or something more? South Africa's concern after Australia loss
-    <https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss>
-    > Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?
-  - **Smithsonian Mag** — Did Industrialization Gut Our Microbiomes? A New Study on Rural Foraging Communities in South America and Africa Hints the Answer Is Yes
-    <https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/>
-    > Two groups—the Tsimane forager-horticulturists in Bolivia and the Hadza hunter-gatherers in Tanzania—remarkably share more than 1,200 gut microbe species. However, around 60 percent of them are rare or absent in people living in industrialized places, according to researchers
-  - **France 24** — South Africa suspends asylum applications amid renewed anti-immigrant protests
-    <https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests>
-    > Tensions have flared in South Africa after a court ruling prompted the government to open its application system to all foreign nationals, regardless of their legal status. Despite applications remaining subject to approval, anti-immigrant protests erupted outside several Home Af
-  - **Guardian Sport** — Josh Hazlewood reminds Australia of his worth with 6-49 to see off South Africa
-    <https://www.theguardian.com/sport/2026/oct/13/josh-hazlewood-reminds-australia-of-his-worth-with-6-49-to-see-off-south-africa>
-    > After every stunning Scott Boland performance of recent years, many of them in place of an injured Josh Hazlewood, a reasonable question does the rounds: why isn’t Boland the automatic pick in the Test side, and why does Hazlewood take precedence when fit? In truth, Hazlewood has
-  - **Al Jazeera** — Australia bowl out South Africa to win first cricket Test in Durban
-    <https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss>
-    > Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.
+  - **BBC World** — Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+    <https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss>
+    > Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
+  - **BBC Business** — Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+    <https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss>
+    > Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
+  - **BleepingComputer** — OpenAI engineer arrested for allegedly planting spy device in office
+    <https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/>
+    > A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]
+  - **DW News** — OpenAI says employee caught planting listening device
+    <https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-rdf>
+    > A Saudi national employed by the artificial intelligence lab has been arrested after a listening device was planted in a company conference room.
+  - **Al Jazeera** — OpenAI engineer charged after listening device found in meeting room
+    <https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss>
+    > US authorities say a Saudi national was arrested and charged after allegedly planting a concealed surveillance device.
+  - **Hacker News Best** — OpenAI engineer arrested in bugging of executive conference room
+    <https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/>
+    > https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 366 # Comments: 337
 
 ---
 
@@ -140,7 +143,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-11  (4 zdrojů, síla 67)  Trump claims Russia and Ukraine agreed to 'energy ceasefire'
   2026-10-12  (3 zdrojů, síla 51)  North Korea fires missiles after Seoul's hypersonic test
   2026-10-12  (5 zdrojů, síla 82)  Saudi minister vows 'serious response' to Houthi attacks on airports
   2026-10-12  (4 zdrojů, síla 71)  Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
@@ -160,6 +162,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-15  (2 zdrojů, síla 48)  North Korea and China open new bridge after 12-year delay
   2026-10-15  (2 zdrojů, síla 41)  Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
   2026-10-16  (2 zdrojů, síla 46)  Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
+  2026-10-16  (1 zdrojů, síla 41)  Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -169,7 +172,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 56)  Manchester United v Tottenham: Premier League – live
   2026-10-10  (2 zdrojů, síla 49)  Carrick ‘massively disappointed’ after United drop points against 10-man Spurs
   2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
   2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live
@@ -189,6 +191,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
   2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
+  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
 ```
 
 ---

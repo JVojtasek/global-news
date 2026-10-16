@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-16
 
-Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 68 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (3 zdrojů) Watch: Block of flats destroyed in Russian strikes on Ukraine
   - **2026-10-14** (3 zdrojů) Ukraine says Musk's SpaceX limits Kyiv's Starlink access
   - **2026-10-14** (3 zdrojů) Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
   - **2026-10-14** (2 zdrojů) How Trump’s diesel deal with Russia will impact the United States and Ukraine
@@ -19,13 +18,13 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-15** (2 zdrojů) North Korea and China open new bridge after 12-year delay
   - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
   - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
+  - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 58 dní · 60 záznamů
+- rubrika `sport` · sledováno 59 dní · 60 záznamů
 - časová osa:
-  - **2026-10-13** (2 zdrojů) Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
   - **2026-10-14** (3 zdrojů) Manchester United’s Martinez blasts board’s lack of investment
   - **2026-10-14** (2 zdrojů) Man City vs PSG: Champions League – teams, predictions, line ups
   - **2026-10-14** (3 zdrojů) Striker swaps Sunday league for Champions League
@@ -35,6 +34,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
   - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
+  - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-16** (4 zdrojů) Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 64 dní · 46 záznamů
+- rubrika `world` · sledováno 65 dní · 47 záznamů
 - časová osa:
-  - **2026-09-29** (3 zdrojů) Tech leaders arrive at White House for AI luncheon with Trump
   - **2026-09-29** (2 zdrojů) U.S. Supreme Court sides with Trump administration in third-country deportations
   - **2026-09-30** (2 zdrojů) Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’
   - **2026-09-30** (2 zdrojů) Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea
@@ -91,6 +90,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
   - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
   - **2026-10-15** (1 zdrojů) London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
+  - **2026-10-16** (2 zdrojů) New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
 
 ---
 
