@@ -65,9 +65,8 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 62 dní · 55 záznamů
+- rubrika `world` · sledováno 64 dní · 56 záznamů
 - časová osa:
-  - **2026-09-22** (1 zdrojů) For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
   - **2026-09-28** (2 zdrojů) Israel strips Dutch diplomats of status in West Bank
   - **2026-09-28** (1 zdrojů) NASA Armstrong Celebrates 80 Years of Flight Innovation
   - **2026-09-29** (1 zdrojů) Israeli settlers attack Jalud village in occupied West Bank, torch homes
@@ -77,6 +76,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-08** (2 zdrojů) Germany news: UK's Burnham visits Berlin for talks with Merz
   - **2026-10-12** (2 zdrojů) UK's Burnham accuses Russia of meddling in Brexit vote
   - **2026-10-14** (1 zdrojů) Do any of these Israeli candidates support a Palestinian state?
+  - **2026-10-16** (2 zdrojů) Repairing Brexit economic damage should be Burnham’s top priority, business chief says
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 64 dní · 46 záznamů
