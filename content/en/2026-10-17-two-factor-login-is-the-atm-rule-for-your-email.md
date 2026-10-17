@@ -1,14 +1,16 @@
 ---
 slug: two-factor-login-is-the-atm-rule-for-your-email
-title: "Two-Factor Login Is the Cash Machine Rule, Applied to Your Email"
-dek: "A card and a PIN have guarded cash for decades. The same idea now guards your accounts, and knowing which second factor you use matters more than whether you have one."
+title: Two-Factor Login Is the Cash Machine Rule, Applied to Your Email
+dek: A card and a PIN have guarded cash for decades. The same idea now guards your
+  accounts, and knowing which second factor you use matters more than whether you
+  have one.
 section: culture
 type: analysis
 depth: open
 lang: en
 date: '2026-10-17'
-status: draft
-confidence: 80
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
@@ -20,29 +22,37 @@ event_id: ''
 series: ''
 image_query: hardware security key laptop keyboard
 impact:
-  areas: [safety, money]
-  line: "Anyone whose email or bank login rests on a password alone can lose the account to whoever learns that password. A second factor stops that person, though codes sent by text message have known weak points."
-  todo: "Open the security settings of your main email account, see which second factor is switched on, and check how you would get back in if your phone were lost."
+  areas:
+  - safety
+  - money
+  line: Anyone whose email or bank login rests on a password alone can lose the account
+    to whoever learns that password. A second factor stops that person, though codes
+    sent by text message have known weak points.
+  todo: Open the security settings of your main email account, see which second factor
+    is switched on, and check how you would get back in if your phone were lost.
 sources:
-  - name: "Wikipedia — Multi-factor authentication"
-    url: "https://en.wikipedia.org/wiki/Multi-factor_authentication"
-    published: ""
-  - name: "Wikipedia — Authentication"
-    url: "https://en.wikipedia.org/wiki/Authentication"
-    published: ""
-  - name: "Wikipedia — Comparison of OTP applications"
-    url: "https://en.wikipedia.org/wiki/Comparison_of_OTP_applications"
-    published: ""
+- name: Wikipedia — Multi-factor authentication
+  url: https://en.wikipedia.org/wiki/Multi-factor_authentication
+  published: ''
+- name: Wikipedia — Authentication
+  url: https://en.wikipedia.org/wiki/Authentication
+  published: ''
+- name: Wikipedia — Comparison of OTP applications
+  url: https://en.wikipedia.org/wiki/Comparison_of_OTP_applications
+  published: ''
 qma_path: ''
 tickers: []
 quiz:
-  question: "Why is a card number plus the three-digit code on the back not two-factor authentication?"
+  question: Why is a card number plus the three-digit code on the back not two-factor
+    authentication?
   options:
-    - "Both are things you know, so they are the same type of evidence"
-    - "The three-digit code is too short to count as a factor"
-    - "Only banks may use more than one factor"
+  - Both are things you know, so they are the same type of evidence
+  - The three-digit code is too short to count as a factor
+  - Only banks may use more than one factor
   answer: 0
-  explanation: "Two-factor means two different types of evidence. A card number and its code are both pieces of knowledge, which the MFA article classes as simple authentication."
+  explanation: Two-factor means two different types of evidence. A card number and
+    its code are both pieces of knowledge, which the MFA article classes as simple
+    authentication.
 ---
 
 ## BRIEFLY
