@@ -9,7 +9,6 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 69 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (2 zdrojů) Why is Starlink internet so important on the battlefield in Ukraine?
   - **2026-10-15** (2 zdrojů) North Korea says it tested cruise missiles to be launched from sub
   - **2026-10-15** (4 zdrojů) Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
   - **2026-10-15** (2 zdrojů) North Korea and China open new bridge after 12-year delay
@@ -19,13 +18,13 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
   - **2026-10-17** (4 zdrojů) Russia wants blackout in Ukraine as winter comes — Zelenskyy
   - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
+  - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 59 dní · 60 záznamů
+- rubrika `sport` · sledováno 60 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (3 zdrojů) Manchester United’s Martinez blasts board’s lack of investment
   - **2026-10-14** (2 zdrojů) Man City vs PSG: Champions League – teams, predictions, line ups
   - **2026-10-14** (3 zdrojů) Striker swaps Sunday league for Champions League
   - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
@@ -35,6 +34,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
   - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
+  - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů
@@ -65,9 +65,8 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 64 dní · 57 záznamů
+- rubrika `world` · sledováno 65 dní · 58 záznamů
 - časová osa:
-  - **2026-09-28** (1 zdrojů) NASA Armstrong Celebrates 80 Years of Flight Innovation
   - **2026-09-29** (1 zdrojů) Israeli settlers attack Jalud village in occupied West Bank, torch homes
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
@@ -77,6 +76,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-14** (1 zdrojů) Do any of these Israeli candidates support a Palestinian state?
   - **2026-10-16** (2 zdrojů) Repairing Brexit economic damage should be Burnham’s top priority, business chief says
   - **2026-10-16** (4 zdrojů) Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+  - **2026-10-17** (2 zdrojů) 🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 66 dní · 49 záznamů
