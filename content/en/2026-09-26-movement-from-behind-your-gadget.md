@@ -11,6 +11,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: Movement from behind your gadget
+impact:
+  areas: [life]
+  line: "Nothing changes in any one country. The practical point concerns anyone on social media: recommendation algorithms keep showing causes you already engaged with, so online campaigns mostly reach people who are already connected and like-minded."
+  todo: "Look at the last few causes or petitions your feeds suggested and count how many differ from ones you already liked or shared."
 syndicated:
   source: Global Voices
   author: Juliana Harsianti

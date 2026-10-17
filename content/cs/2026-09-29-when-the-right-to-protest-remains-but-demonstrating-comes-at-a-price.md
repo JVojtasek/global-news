@@ -10,6 +10,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: When the right to protest remains,
+impact:
+  areas: [life]
+  line: "Pro většinu čtenářů se v běžném dni nic nemění. Ve 46 zemích Rady Evropy ale štrasburský rozsudek Ludes dovoluje odsoudit pokojné klimatické aktivisty, když jejich akce zároveň porušuje běžné trestní právo, třeba jako krádež."
+  todo: "Přečtěte si shrnutí rozsudku Ludes a ostatní proti Francii v databázi HUDOC Evropského soudu pro lidská práva, včetně důvodů dvou nesouhlasících soudců."
 syndicated:
   source: Global Voices
   author: Elmira Lyapina

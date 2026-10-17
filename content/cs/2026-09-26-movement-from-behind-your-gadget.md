@@ -10,6 +10,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: Movement from behind your gadget
+impact:
+  areas: [life]
+  line: "V žádné konkrétní zemi se nic nemění. Praktická pointa se týká každého na sociálních sítích: algoritmy doporučují hlavně kauzy, kterým už jste věnovali pozornost, takže online kampaně zasahují spíš lidi už propojené a stejně smýšlející."
+  todo: "Projděte posledních pár kauz nebo petic, které vám sítě nabídly, a spočítejte, kolik z nich se liší od těch, které jste už lajkovali nebo sdíleli."
 syndicated:
   source: Global Voices
   author: Juliana Harsianti

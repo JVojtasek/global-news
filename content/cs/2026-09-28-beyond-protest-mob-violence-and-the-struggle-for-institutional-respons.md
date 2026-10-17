@@ -10,6 +10,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'Beyond protest: Mob violence and the'
+impact:
+  areas: [safety]
+  line: "Mimo Bangladéš se v běžném dni nic nemění. V zemi samotné napočítala organizace ASK od ledna do srpna 2026 nejméně 154 lidí ubitých davem; aspoň jednomu smrtelnému útoku předcházelo video šířené na Facebooku."
+  todo: "Než nasdílíte příspěvek, který obviňuje konkrétního člověka, ověřte, kdo ho zveřejnil první a zda policie nebo soud cokoli potvrdily."
 syndicated:
   source: Global Voices
   author: Maksuda Akter

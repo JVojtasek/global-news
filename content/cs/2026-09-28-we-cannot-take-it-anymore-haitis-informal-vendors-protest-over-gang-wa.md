@@ -10,6 +10,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: '‘We cannot take it anymore’: Haiti’s'
+impact:
+  areas: [safety, money]
+  line: "Mimo Haiti se pro většinu čtenářů nic nemění. V Port-au-Prince, kde gangy ovládají přes 70 procent města, přišli pouliční prodavači, většinou ženy, o tržiště i zásobovací cesty a tvrdí, že z obnovovacího programu PRECOP nedostali nic."
+  todo: "Sledujte, zda se na Haiti 13. prosince skutečně konají všeobecné volby a zda protikorupční úřad ULCC zveřejní, jak bylo utraceno 21 miliard gourdů."
 syndicated:
   source: Global Voices
   author: Jude Pierre Louis

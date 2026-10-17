@@ -13,6 +13,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'Beyond protest: Mob violence and the'
+impact:
+  areas: [safety]
+  line: "Outside Bangladesh nothing changes day to day. Inside, the rights group ASK counted at least 154 people beaten to death by mobs from January to August 2026; at least one deadly attack followed a video spread on Facebook."
+  todo: "Before sharing a post that accuses a named person, check who first posted it and whether police or a court have confirmed anything."
 syndicated:
   source: Global Voices
   author: Maksuda Akter

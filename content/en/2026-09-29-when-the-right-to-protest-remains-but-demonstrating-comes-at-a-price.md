@@ -12,6 +12,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: When the right to protest remains,
+impact:
+  areas: [life]
+  line: "For most readers nothing changes day to day. In the 46 Council of Europe countries, the Strasbourg court's Ludes ruling lets peaceful climate protesters be convicted when their action also breaks ordinary criminal law, such as theft."
+  todo: "Read the summary of Ludes and Others v. France in the court's HUDOC database, including the reasons of the two dissenting judges."
 syndicated:
   source: Global Voices
   author: Elmira Lyapina

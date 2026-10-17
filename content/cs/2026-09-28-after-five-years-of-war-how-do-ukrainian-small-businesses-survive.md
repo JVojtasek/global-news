@@ -10,6 +10,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: After five years of war, how
+impact:
+  areas: [money, life]
+  line: "Mimo Ukrajinu se v běžném dni skoro nic nemění. V zemi samotné ženy na začátku roku 2026 založily téměř 60 procent nových živností a mnoho drobných firem přežívá díky prodeji online zákazníkům v zahraničí, navzdory výpadkům proudu a rozbité logistice."
+  todo: "Když nakupujete online od malého ukrajinského prodejce, ověřte uvedené místo odeslání a dobu doručení; článek jako hlavní příčiny zdržení jmenuje výpadky proudu a logistiku."
 syndicated:
   source: Global Voices
   author: Nevena Borisova

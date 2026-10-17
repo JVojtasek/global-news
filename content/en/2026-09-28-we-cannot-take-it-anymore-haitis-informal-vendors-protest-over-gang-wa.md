@@ -12,6 +12,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: '‘We cannot take it anymore’: Haiti’s'
+impact:
+  areas: [safety, money]
+  line: "Outside Haiti nothing changes for most readers. In Port-au-Prince, where gangs control over 70 percent of the capital, informal vendors, mostly women, have lost markets and supply roads, and say none of the PRECOP recovery money reached them."
+  todo: "Watch whether Haiti's general election still takes place on December 13, and whether the anti-corruption unit ULCC publishes how the 21 billion gourdes were spent."
 syndicated:
   source: Global Voices
   author: Jude Pierre Louis

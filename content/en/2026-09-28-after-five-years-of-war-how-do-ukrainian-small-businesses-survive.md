@@ -12,6 +12,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: After five years of war, how
+impact:
+  areas: [money, life]
+  line: "Outside Ukraine little changes day to day. Inside, women registered nearly 60 percent of new sole proprietorships in early 2026, and many tiny firms survive by selling online to customers abroad despite power cuts and broken logistics."
+  todo: "If you buy from a small Ukrainian seller online, check the stated shipping origin and delivery time; power cuts and logistics are the delays the article names."
 syndicated:
   source: Global Voices
   author: Nevena Borisova
