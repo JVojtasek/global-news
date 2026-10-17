@@ -25,7 +25,6 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 60 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (2 zdrojů) Man City vs PSG: Champions League – teams, predictions, line ups
   - **2026-10-14** (3 zdrojů) Striker swaps Sunday league for Champions League
   - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
   - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
@@ -35,6 +34,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
   - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
   - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
+  - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů

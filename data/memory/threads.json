@@ -894,46 +894,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "burnham",
-    "gakpo",
+    "football",
+    "liverpool",
+    "league",
+    "women",
+    "atletico",
+    "troy's",
+    "jonathan",
     "sports",
     "villa",
-    "daily",
-    "andy",
-    "india",
     "tuchel",
-    "troy's",
-    "coventry",
-    "premier",
-    "forest",
-    "wilson",
-    "isak",
-    "women",
-    "champions",
+    "phil",
+    "carrick",
     "martinez",
     "newcastle",
+    "glasner",
     "jackson",
+    "burnham",
+    "daily",
+    "coventry",
+    "manzambi",
+    "uk's",
+    "gakpo",
+    "andy",
+    "india",
+    "champions",
+    "striker",
+    "forest",
+    "guardiola",
+    "manchester",
+    "wilson",
+    "greenwood",
+    "premier",
     "aston",
     "chris",
-    "united",
-    "greenwood",
-    "league",
-    "striker",
-    "madrid",
-    "guardiola",
-    "atletico",
-    "glasner",
-    "city",
+    "isak",
     "jason",
-    "jonathan",
-    "beckett",
-    "phil",
-    "uk's",
-    "liverpool",
-    "carrick",
-    "manchester",
-    "football",
-    "ever"
+    "madrid",
+    "city",
+    "ever",
+    "beckett"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1048,23 +1048,12 @@
     "e53bf4d4c729",
     "207919ef21a5",
     "4b17fe4557a1",
-    "de67d0bbc316"
+    "de67d0bbc316",
+    "bfc71b211f22"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-17",
    "timeline": [
-    {
-     "date": "2026-09-17",
-     "headline": "‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse",
-     "sources": 2,
-     "score": 46,
-     "event_id": "4c6ccd194e47",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton",
-      "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report"
-     ]
-    },
     {
      "date": "2026-09-18",
      "headline": "London City's new training centre 'better than most Premier League clubs' - Kang",
@@ -1741,6 +1730,17 @@
      "links": [
       "https://www.theguardian.com/football/live/2026/oct/17/newcastle-v-aston-villa-premier-league-live",
       "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Manzambi heads Villa to victory at Newcastle",
+     "sources": 2,
+     "score": 42,
+     "event_id": "bfc71b211f22",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report"
      ]
     }
    ]
@@ -16457,5 +16457,5 @@
    ]
   }
  ],
- "updated": "2026-10-17T18:27:41+00:00"
+ "updated": "2026-10-17T21:22:21+00:00"
 }

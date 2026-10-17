@@ -101,7 +101,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
   - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
+  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
 
 ---
 
@@ -157,7 +157,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-10  (2 zdrojů, síla 40)  Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson
   2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live
   2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings
   2026-10-11  (4 zdrojů, síla 76)  Andy Burnham to publish all details of his dealings with Manchester City
@@ -177,6 +176,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
   2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
   2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
+  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
 ```
 
 ---
