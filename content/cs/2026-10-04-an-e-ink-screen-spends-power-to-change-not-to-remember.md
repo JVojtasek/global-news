@@ -20,6 +20,10 @@ format: wider-lens
 event_id: evergreen-electrophoretic-display-bistability
 series: ''
 image_query: macro close-up electronic paper e-reader black white pixels
+impact:
+  areas: [money, life]
+  line: "Pro každého, kdo vybírá čtečku, cenovku do regálu nebo informační panel: elektronický papír spotřebovává energii hlavně při změně obrazu, takže výdrž baterie závisí na počtu otočených stránek, rádiích a podsvícení, ne jen na displeji."
+  todo: "Při srovnávání zařízení si ověřte, jestli údaj o výdrži počítá s vypnutou Wi-Fi a podsvícením a s kolika otočenými stránkami denně."
 sources:
 - name: E Ink — How electronic ink works
   url: https://www.eink.com/tech/detail/How_it_works

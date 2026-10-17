@@ -24,6 +24,10 @@ format: wider-lens
 event_id: evergreen-track-false-start-100ms-rule
 series: ''
 image_query: sprinters in starting blocks close view track stadium
+impact:
+  areas: [life]
+  line: "Většině čtenářů se každodenní život nemění. Sprinterům, trenérům a fanouškům vysvětluje, že ulitý start je pravidlo uplatněné na údaj ze snímače, ne důkaz, že závodník výstřel odhadl."
+  todo: "Až bude příště start prohlášen za ulitý, najděte reakční čas, který rozhodčí zveřejní, a porovnejte ho s hranicí 0,100 sekundy z pravidel."
 sources:
 - name: World Athletics — Competition and Technical Rules, 2026 edition
   url: https://worldathletics.org/download/download?filename=e7faf2e8-0385-4686-bbd0-acdb5d958e8f.pdf&urlslug=Competition+and+Technical+Rules+%E2%80%93+2026+Edition

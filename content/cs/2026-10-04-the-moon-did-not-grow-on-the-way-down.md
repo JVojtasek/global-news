@@ -21,6 +21,10 @@ event_id: evergreen-moon-illusion-horizon-perceived-size
 series: The Wider Lens
 image_query: large full moon rising behind distant trees human silhouettes realistic
   scale documentary
+impact:
+  areas: [life]
+  line: "Každodenní život se nemění. Opravuje to ale rozšířený omyl: atmosféra nízký Měsíc nezvětšuje. Rozdíl ve velikosti dělá hlavně mozek, a to se hodí vědět každému, kdo východ Měsíce fotí nebo popisuje."
+  todo: "Při příštím východu Měsíce ho zakryjte nehtem na natažené ruce a zopakujte to, až bude vysoko. Porovnejte, jestli ho nehet pořád zakryje."
 sources:
 - name: NASA Science — The Moon Illusion
   url: https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/

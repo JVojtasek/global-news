@@ -12,6 +12,10 @@ date: '2026-10-17'
 status: published
 confidence: 0
 image_query: At the UN, plans for a
+impact:
+  areas: [life, health]
+  line: "Nothing changes yet: the proposed group does not exist, and core groups have no binding power. If it forms, it could weaken wording on reproductive health and LGBTQ+ protections in UN resolutions that many governments cite."
+  todo: "Check whether your country has signed the Geneva Consensus Declaration, and watch how its UN delegation votes on resolutions that mention sexual orientation or reproductive health."
 syndicated:
   source: Global Voices
   author: Uncloseted MEdia

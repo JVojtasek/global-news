@@ -24,6 +24,10 @@ format: wider-lens
 event_id: evergreen-track-false-start-100ms-rule
 series: ''
 image_query: sprinters in starting blocks close view track stadium
+impact:
+  areas: [life]
+  line: "Daily life does not change for most readers. For sprinters, coaches and fans, it explains that a false-start call is a rule applied to a sensor reading, not proof that an athlete guessed the gun."
+  todo: "Next time a start is ruled false, look for the reaction time the officials publish and compare it with the 0.100-second boundary in the rules."
 sources:
 - name: World Athletics — Competition and Technical Rules, 2026 edition
   url: https://worldathletics.org/download/download?filename=e7faf2e8-0385-4686-bbd0-acdb5d958e8f.pdf&urlslug=Competition+and+Technical+Rules+%E2%80%93+2026+Edition

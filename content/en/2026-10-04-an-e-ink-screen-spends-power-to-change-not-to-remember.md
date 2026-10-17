@@ -20,6 +20,10 @@ format: wider-lens
 event_id: evergreen-electrophoretic-display-bistability
 series: ''
 image_query: macro close-up electronic paper e-reader black white pixels
+impact:
+  areas: [money, life]
+  line: "For anyone choosing an e-reader, shelf label or signage display: e-paper uses energy mainly when the image changes, so battery life depends on how often pages turn and on radios and lights, not on the screen alone."
+  todo: "When comparing devices, check whether a battery claim assumes Wi-Fi and the front light are off, and how many page turns per day it counts."
 sources:
 - name: E Ink — How electronic ink works
   url: https://www.eink.com/tech/detail/How_it_works

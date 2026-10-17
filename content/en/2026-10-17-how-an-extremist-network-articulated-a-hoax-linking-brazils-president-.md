@@ -13,6 +13,10 @@ date: '2026-10-17'
 status: published
 confidence: 0
 image_query: How an extremist network articulated a
+impact:
+  areas: [safety, life]
+  line: "Daily life does not change for most readers. The case shows how a clipped quote and a manipulated chatbot answer became a trending accusation within hours, which concerns anyone who shares political posts during an election."
+  todo: "Before sharing a shocking quote, find the full speech or video and check whether a fact-checking agency has already examined the clip."
 syndicated:
   source: Global Voices
   author: Fernanda Canofre

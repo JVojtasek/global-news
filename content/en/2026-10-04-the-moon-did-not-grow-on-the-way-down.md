@@ -21,6 +21,10 @@ event_id: evergreen-moon-illusion-horizon-perceived-size
 series: The Wider Lens
 image_query: large full moon rising behind distant trees human silhouettes realistic
   scale documentary
+impact:
+  areas: [life]
+  line: "Daily life does not change. It corrects a common belief: the atmosphere does not magnify the low Moon. The size difference is mostly made by the brain, which matters to anyone photographing or describing a moonrise."
+  todo: "At the next moonrise, cover the Moon with a fingernail at arm's length, then repeat when it is high. Compare whether the fingernail still covers it."
 sources:
 - name: NASA Science — The Moon Illusion
   url: https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/
