@@ -1550,26 +1550,28 @@
    "section": "world",
    "entities": [
     "sanchez",
-    "starmer",
-    "heathrow",
-    "tory",
-    "macron",
-    "thames",
-    "guardian",
     "editorial",
-    "crace",
-    "healey",
-    "water",
+    "thames",
+    "starmer",
     "wednesday",
-    "spain's",
-    "pmqs",
-    "burnham",
-    "france's",
-    "john",
+    "crace",
     "labour",
+    "john",
     "hospitality",
+    "heathrow",
+    "healey",
+    "stinky",
+    "france's",
+    "tory",
+    "u-turn",
     "andy",
-    "u-turn"
+    "burnham",
+    "water",
+    "spain's",
+    "macron",
+    "pmqs",
+    "guardian",
+    "london"
    ],
    "event_ids": [
     "eca0fc692bc0",
@@ -1587,7 +1589,8 @@
     "5d1a9e0758ac",
     "8c89e651a54b",
     "04d1070ede74",
-    "23dc0dc71791"
+    "23dc0dc71791",
+    "62a29032f7f4"
    ],
    "first_seen": "2026-09-03",
    "last_seen": "2026-10-17",
@@ -1771,6 +1774,17 @@
      "links": [
       "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
       "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "62a29032f7f4",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill"
      ]
     }
    ]
@@ -16376,5 +16390,5 @@
    ]
   }
  ],
- "updated": "2026-10-17T06:36:47+00:00"
+ "updated": "2026-10-17T09:24:57+00:00"
 }
