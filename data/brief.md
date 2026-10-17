@@ -9,29 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
-- id události: `191e7f6ed1f6`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Russian strikes leave 600,000 without power in Ukraine, Zelensky says
-    <https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss>
-    > Ukraine's president says "critical" infrastructure was hit overnight, while emergency services say at least three were killed.
-  - **The Guardian World** — Russian attacks on Ukraine leave 600,000 without power as Zelenskyy says Moscow ‘disrespecting’ US – Europe live
-    <https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe>
-    > Zelenskyy says Russia attacked ‘infrastructure covered by the ceasefire announced by the American president’ Ukrainian soldiers have access to Starlink satellite internet restricted in Berlin A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the mo
-  - **CNBC Top** — Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure
-    <https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html>
-    > A ballistic missile has struck energy infrastructure supposedly covered by the "energy ceasefire" announced by Trump on Sunday, Zelenskyy said.
-  - **Al Jazeera** — ‘Massive’ Russian attack on Ukraine kills at least six, damages power sites
-    <https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss>
-    > Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.
-  - **France 24** — 🔴Ukraine live: Russia's 'targeted' strikes on energy leave 600,000 without power, Zelensky says
-    <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
-  - **France 24** — Ukraine live: Zelensky advisor says Starlink restrictions ‘depriving’ Ukraine of defence
-    <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
-    > An advisor to Ukraine’s President Volodymyr Zelensky said on Wednesday that unannounced restrictions to the Starlink satellite system were “depriving” Ukraine of its means of defence. Ukraine uses the network owned by Elon Musk to conduct battlefield operations including drone fl
-
-### 2. Real Madrid stun Roma after dramatic late comeback
+### 1. Real Madrid stun Roma after dramatic late comeback
 - id události: `ead21b3fa34a`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -54,7 +32,7 @@
     <https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss>
     > PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.
 
-### 3. At least 33 pupils and teacher killed after school roof collapses in Pakistan
+### 2. At least 33 pupils and teacher killed after school roof collapses in Pakistan
 - id události: `4dfeead038ca`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -71,7 +49,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss>
     > At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.
 
-### 4. Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
+### 3. Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
 - id události: `98fb856ff261`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -94,6 +72,26 @@
     <https://www.france24.com/en/video/20261015-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war>
     > Restrictions reported by Ukraine on its use of the US satellite internet system Starlink have exposed Kyiv's reliance on the technology for both offensive and defensive operations in its fight against Russia'a invasion, analysts and observers say. A senior Ukrainian official, who
 
+### 4. Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+- id události: `363fbc099b39`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+    <https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss>
+    > The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.
+  - **The Guardian World** — Israeli settlers attack olive farmers and Washington Post journalist in West Bank
+    <https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine>
+    > Settlers hurl rocks at Palestinians and beat photographer Heidi Levine as part of yearly attacks to disrupt harvest Israeli settlers have attacked Palestinians across the occupied West Bank in a coordinated movement to disrupt the annual olive harvest, burning cars and trees and 
+  - **France 24** — US journalist injured during Israeli settler attack on West Bank olive harvest
+    <https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest>
+    > About 80 Israeli settlers set fire to olive trees and threw stones at Palestinians in a West Bank village Friday, injuring at least two people, including a US photojournalist with The Washington Post. The coordinated attack came as violence by settlers is on the rise during the o
+  - **Al Jazeera** — Palestinians, US journalist attacked in West Bank pogrom: What we know
+    <https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss>
+    > Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.
+  - **Al Jazeera** — Israeli settlers continue pogrom amid olive harvest in occupied West Bank
+    <https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss>
+    > At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -103,7 +101,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
   - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
+  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
 
 ---
 
@@ -130,8 +128,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-12  (5 zdrojů, síla 82)  Saudi minister vows 'serious response' to Houthi attacks on airports
-  2026-10-12  (4 zdrojů, síla 71)  Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue
   2026-10-12  (2 zdrojů, síla 50)  Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'
   2026-10-12  (2 zdrojů, síla 48)  Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
   2026-10-13  (2 zdrojů, síla 40)  Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US
@@ -150,6 +146,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-16  (2 zdrojů, síla 46)  Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
   2026-10-16  (1 zdrojů, síla 41)  Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
   2026-10-17  (3 zdrojů, síla 52)  Trump waives several Russia sanctions as new US law takes effect
+  2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy
+  2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
