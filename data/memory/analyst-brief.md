@@ -7,9 +7,8 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 68 dní · 60 záznamů
+- rubrika `world` · sledováno 69 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (3 zdrojů) Ukraine says Musk's SpaceX limits Kyiv's Starlink access
   - **2026-10-14** (3 zdrojů) Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
   - **2026-10-14** (2 zdrojů) How Trump’s diesel deal with Russia will impact the United States and Ukraine
   - **2026-10-14** (2 zdrojů) Why is Starlink internet so important on the battlefield in Ukraine?
@@ -19,6 +18,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
   - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
   - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
+  - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
