@@ -21,6 +21,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life, money]
+  line: "Outside Tunisia, nothing changes day to day. For Tunisians the test is whether the government implements Law No. 18 of 2025, which promises public-sector jobs to long-term unemployed graduates."
+  todo: "Watch whether implementing orders for Law No. 18 of 2025 are issued, and whether the Tunisian General Labour Union goes ahead with a general strike."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/09/22/from-north-to-south-protests-sweep-across-tunisia-is-change-at-hand/

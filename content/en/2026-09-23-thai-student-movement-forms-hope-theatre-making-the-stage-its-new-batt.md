@@ -22,6 +22,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life, safety]
+  line: "Most readers will see no change. It shows how far a ban can sit from practice: Thailand outlawed corporal punishment in schools in March 2025, yet one student group logged over 200 rights-violation reports in a year."
+  todo: "If you have a child in school, ask where the discipline rules are written down and to whom a student can report a teacher."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/09/23/thai-student-movement-forms-hope-theatre-making-the-stage-its-new-battleground/

@@ -22,6 +22,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers. It shows a quieter kind of propaganda: soldiers killed in the war against Ukraine painted into icons in a UNESCO-listed Pskov church, their deaths given sacred meaning."
+  todo: "When war imagery appears in a church or memorial, ask who commissioned or donated it and when; in Pskov it was a municipal deputy."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/09/23/pskovs-medieval-religious-art-is-being-appropriated-by-the-russian-state-to-support-the-invasion-of-ukraine/

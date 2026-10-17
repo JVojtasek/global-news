@@ -22,6 +22,10 @@ syndicated:
     NASA material is generally not subject to copyright protection.
   may_translate: true
   may_edit: true
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing. One useful correction: day and night are not exactly equal on the equinox, because the atmosphere bends sunlight and adds minutes of daylight; the equal day falls a few days off, depending on latitude."
+  todo: "Look up a sunrise and sunset table for your town and find the date when day and night come closest to twelve hours each."
 sources:
 - name: NASA
   url: https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/

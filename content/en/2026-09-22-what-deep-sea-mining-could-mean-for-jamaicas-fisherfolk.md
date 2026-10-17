@@ -22,6 +22,10 @@ syndicated:
     Voices</a> and is republished here under a Creative Commons Attribution licence.
   may_translate: true
   may_edit: true
+impact:
+  areas: [money, life]
+  line: "No commercial deep-sea mining is happening yet; the International Seabed Authority says current work is exploration only. The rules negotiated in Kingston will decide whether coastal fishers carry the risks without sharing the revenue."
+  todo: "Follow the International Seabed Authority's Mining Code talks; its official website publishes session agendas and draft regulations."
 sources:
 - name: Global Voices
   url: https://globalvoices.org/2026/09/21/what-deep-sea-mining-could-mean-for-jamaicas-fisherfolk/
