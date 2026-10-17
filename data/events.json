@@ -620,55 +620,6 @@
   ]
  },
  {
-  "id": "9a941508d7e3",
-  "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-  "section": "world",
-  "score": 60,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T11:07:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-    "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Ukraine accused SpaceX of restricting use of its Starlink system, impacting Kyiv's ability to control its drones as Russian attacks continue unabated.",
-    "published_at": "2026-10-14T11:07:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Ukraine claims Starlink is suddenly disrupting service for its military",
-    "url": "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
-    "source": "The Verge",
-    "summary": "Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from Reuters and the Financial Times. The move comes just days after Musk wrote on X that Ukrainian President Volodymyr Zelenskyy \"has gone too far,\" in response […]",
-    "published_at": "2026-10-14T15:06:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
-    "url": "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen",
-    "source": "France 24",
-    "summary": "Ukraine accused Elon Musk's SpaceX on Wednesday of limiting Starlink services, crippling its drones, as Russian missiles knocked out power stations in attacks President Volodymyr Zelensky called \"ostentatious disrespect\" to Donald Trump. Kyiv's relationship with Washington has taken a sharp turn for the worse since US President Trump abruptly lifted sanctions on Russian diesel last week and public",
-    "published_at": "2026-10-14T13:57:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Ukraine asking US, SpaceX and NATO to clarify Starlink limitations",
-    "url": "https://www.france24.com/en/video/20261014-ukraine-asking-us-spacex-and-nato-to-clarify-starlink-limitations",
-    "source": "France 24",
-    "summary": "⁠Ukraine is ​in contact ​with the US, SpaceX and NATO to seek ​clarification ‌over ⁠limitations imposed on its access ‌to the Starlink satellite ⁠internet system, a source in the ​country's Defence Ministry ‌said on Wednesday. Ukrainian troops have reported that the Starlink ​connection is being shut off when travelling at ​higher speeds, causing major ​disruption to ​Ukrainian drone operations, m",
-    "published_at": "2026-10-14T13:52:20+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
   "id": "0bcda70fdea0",
   "headline": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
   "section": "world",
@@ -950,46 +901,6 @@
     "published_at": "2026-10-16T01:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-10-16T03:30:41+00:00"
-   }
-  ]
- },
- {
-  "id": "835a57efab96",
-  "headline": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-  "section": "safety",
-  "score": 54,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T12:58:07+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-    "source": "BleepingComputer",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-    "published_at": "2026-10-14T12:58:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-    "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-    "source": "The Hacker News",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
-    "published_at": "2026-10-14T12:30:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-    "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-    "source": "The Hacker News",
-    "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity. Volexity, which reported the flaws to Ivanti,",
-    "published_at": "2026-10-13T17:33:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
    }
   ]
  },
@@ -1740,68 +1651,6 @@
   ]
  },
  {
-  "id": "0a6f84d89444",
-  "headline": "The Legend of Zelda: Ocarina of Time preview – Link faces his scariest challenge yet: the 4K era",
-  "section": "world",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T13:00:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The Legend of Zelda: Ocarina of Time preview – Link faces his scariest challenge yet: the 4K era",
-    "url": "https://www.theguardian.com/games/2026/oct/14/the-legend-of-zelda-ocarina-of-time-preview-4k-era-switch-2-remake",
-    "source": "Guardian Culture",
-    "summary": "The kingdom of Hyrule has been prettified, the soundtrack is newly orchestrated and our hero feels strikingly different under the thumbs … we play a hands-on demo of Nintendo’s Switch 2 remake of a 1998 game-changer When beloved art is revisited and revised, a familiar cry is often heard: “You’re ruining my childhood!” But with Nintendo’s Switch 2 remake of Ocarina of Time, there are also liveliho",
-    "published_at": "2026-10-14T13:00:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
-    "source": "NPR News",
-    "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
-    "published_at": "2026-10-14T13:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "fac7cd6e29f5",
-  "headline": "Microsoft fixes VPN issues caused by September Windows updates",
-  "section": "safety",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T14:27:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Microsoft fixes VPN issues caused by September Windows updates",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-    "source": "BleepingComputer",
-    "summary": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
-    "published_at": "2026-10-14T14:27:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-    "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-    "source": "The Hacker News",
-    "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code",
-    "published_at": "2026-10-14T04:34:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
   "id": "5f43dc60af4f",
   "headline": "Manchester City staff invited on government trade trip to India",
   "section": "sport",
@@ -2050,37 +1899,6 @@
   ]
  },
  {
-  "id": "550aa79730b3",
-  "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-  "section": "science",
-  "score": 45,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T14:41:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-    "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-    "source": "NASA",
-    "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
-    "published_at": "2026-10-14T14:41:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-    "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-    "source": "NASA",
-    "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
-    "published_at": "2026-10-14T13:32:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
   "id": "76de81fb62e3",
   "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
   "section": "world",
@@ -2143,33 +1961,42 @@
   ]
  },
  {
-  "id": "5555e6fcbf7f",
-  "headline": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
+  "id": "9edf563710cc",
+  "headline": "Israeli settlers attack European diplomats in West Bank",
   "section": "world",
-  "score": 44,
+  "score": 45,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T14:15:00+00:00",
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T18:20:11+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-    "url": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that.",
-    "published_at": "2026-10-14T14:15:00+00:00",
+    "title": "Israeli settlers attack European diplomats in West Bank",
+    "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+    "source": "The Guardian World",
+    "summary": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt to prevent Palestinians from harvesting olives on their own land. Bernard Baudoux",
+    "published_at": "2026-10-17T18:20:11+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
+    "seen_at": "2026-10-17T18:27:38+00:00"
    },
    {
-    "title": "Trump's diesel dilemma — by the numbers",
-    "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
-    "source": "CNBC Top",
-    "summary": "Conflicts in Ukraine and Iran have created major ripple effects across global energy markets causing major price swings.",
-    "published_at": "2026-10-14T13:35:46+00:00",
+    "title": "Masked settlers attack European diplomats in occupied West Bank",
+    "url": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
+    "source": "The Guardian World",
+    "summary": "Belgian foreign minister urges further EU sanctions and links attack to Israel’s ‘illegal settlement policy’ Masked settlers attacked a group of European diplomats during a visit to the occupied West Bank on Saturday, Belgium’s foreign minister said, on a second day of high-profile assaults on Palestinians and others during the sensitive olive harvest. At least four people have been killed and mor",
+    "published_at": "2026-10-17T17:02:14+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   },
+   {
+    "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+    "url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank. Belgium has condemned the attack.",
+    "published_at": "2026-10-17T16:29:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
    }
   ]
  },
@@ -2816,33 +2643,33 @@
   ]
  },
  {
-  "id": "de1130e6e1d2",
-  "headline": "Russell Brand was ruthless, calculated and manipulative sexual predator, court told",
+  "id": "c4c3730905e3",
+  "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
   "section": "world",
-  "score": 43,
+  "score": 44,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T14:30:35+00:00",
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T17:49:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Russell Brand was ruthless, calculated and manipulative sexual predator, court told",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/14/russell-brand-was-ruthless-calculated-and-manipulative-sexual-predator-court-told",
-    "source": "The Guardian World",
-    "summary": "Comedian faces three charges of rape, three of sexual assault and one of indecent assault against six women Russell Brand rape and sexual assault trial – latest updates Russell Brand was a ruthless, calculated and manipulative sexual predator who boasted about wanting to have sex with 5,000 women, a court has heard. The 51-year-old comedian is alleged to have had an “insatiable desire” to get what",
-    "published_at": "2026-10-14T14:30:35+00:00",
+    "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+    "url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks.",
+    "published_at": "2026-10-17T17:49:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
+    "seen_at": "2026-10-17T18:27:38+00:00"
    },
    {
-    "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
-    "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "The comedian and actor faces charges including rape and sexual assault from six female complainants who have never met each other, a court is told.",
-    "published_at": "2026-10-14T13:42:43+00:00",
+    "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks.",
+    "published_at": "2026-10-17T16:49:07+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
+    "seen_at": "2026-10-17T18:27:38+00:00"
    }
   ]
  },
@@ -3206,68 +3033,6 @@
     "published_at": "2026-10-15T13:22:28+00:00",
     "source_countries": [],
     "seen_at": "2026-10-16T18:30:27+00:00"
-   }
-  ]
- },
- {
-  "id": "ff0a810e278d",
-  "headline": "Inflation sizzled in September — and Social Security benefits will get a boost",
-  "section": "business",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T13:33:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
-    "url": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
-    "source": "NPR News",
-    "summary": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
-    "published_at": "2026-10-14T13:33:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-    "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-    "source": "CNBC Top",
-    "summary": "With a 3.6% COLA for 2027, Social Security retirement benefit checks will go up by $75 per month, on average, the agency said.",
-    "published_at": "2026-10-14T15:25:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "9e6334d33a16",
-  "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T14:00:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-    "url": "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
-    "source": "France 24",
-    "summary": "Yemen's Houthis said Wednesday they had targeted facilities belonging to Saudi Aramco, after Saudi officials reported a strike on a building in an area housing the energy giant's operations centre. Powerful explosions meanwhile rattled the Saudi capital, as the coalition fighting the Houthis said it had intercepted a missile fired by the Iran-backed group towards Riyadh.",
-    "published_at": "2026-10-14T14:00:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Yemen’s Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-    "url": "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-10-14T15:06:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
    }
   ]
  },
@@ -3693,73 +3458,33 @@
   ]
  },
  {
-  "id": "221c6cb39d0d",
-  "headline": "Pope walking and recovering 'as expected' after surgery, doctors say",
-  "section": "world",
-  "score": 41,
+  "id": "2c7971a303cc",
+  "headline": "Arsenal held at home by Birmingham",
+  "section": "sport",
+  "score": 42,
   "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T15:12:46+00:00",
+  "depth_signal": 2,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T17:46:41+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
-    "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-    "published_at": "2026-10-14T15:12:46+00:00",
+    "title": "Arsenal held at home by Birmingham",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
+    "published_at": "2026-10-17T17:46:41+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
+    "seen_at": "2026-10-17T18:27:38+00:00"
    },
    {
-    "title": "Pope Leo recovering well after cancer surgery, Vatican says",
-    "url": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "The 71-year-old pontiff is recovering in Rome’s Gemelli hospital after surgery to remove a cancerous growth on his lung.",
-    "published_at": "2026-10-14T15:09:48+00:00",
+    "title": "Boos for Arsenal as draw with Birmingham extends winless WSL run",
+    "url": "https://www.theguardian.com/football/2026/oct/17/arsenal-birmingham-wsl-match-report",
+    "source": "Guardian Sport",
+    "summary": "An equaliser from Olivia Smith averted defeat for Arsenal, but a home draw with Birmingham did little to calm fears for Renée Slegers’s future as Gunners coach. Boos accompanied the final whistle at the Emirates Stadium, as the result left Arsenal on six points from six matches and without a win in five Women’s Super League matches, the club’s longest winless run in WSL history. They are eighth in",
+    "published_at": "2026-10-17T15:44:19+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "928277f3a9d0",
-  "headline": "US inflation rises more than expected - here's what is happening with prices",
-  "section": "business",
-  "score": 41,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T15:26:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US inflation rises more than expected - here's what is happening with prices",
-    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-    "published_at": "2026-10-14T15:26:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "US inflation rises more than expected - here's what is happening with prices",
-    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-    "published_at": "2026-10-14T15:26:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "US inflation rises more than expected - here's what is happening with prices",
-    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-    "published_at": "2026-10-14T15:26:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
+    "seen_at": "2026-10-17T18:27:38+00:00"
    }
   ]
  },
@@ -4091,37 +3816,6 @@
     "published_at": "2026-10-17T01:36:40+00:00",
     "source_countries": [],
     "seen_at": "2026-10-17T03:28:26+00:00"
-   }
-  ]
- },
- {
-  "id": "e07bcc7bc0b6",
-  "headline": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T13:57:03+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
-    "url": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-    "source": "The Guardian World",
-    "summary": "Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry across the bloc, the head of Mercedes-Benz has said. Speaking in his capacity as president of the European Automobile Manufact",
-    "published_at": "2026-10-14T13:57:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
-    "url": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-    "source": "Guardian Business",
-    "summary": "Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry across the bloc, the head of Mercedes-Benz has said. Speaking in his capacity as president of the European Automobile Manufact",
-    "published_at": "2026-10-14T13:57:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
    }
   ]
  },
@@ -4874,6 +4568,77 @@
   ]
  },
  {
+  "id": "bd80281f64b2",
+  "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T16:48:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Kenya confirms four more Ebola cases, bringing total to seven",
+    "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases.",
+    "published_at": "2026-10-17T16:48:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   },
+   {
+    "title": "Kenya reports third Ebola case, contact tracing continues",
+    "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues",
+    "source": "France 24",
+    "summary": "Kenya has confirmed a third case of Ebola, a relative of a man who died earlier this month after travelling from the Democratic Republic of the Congo. The health ministry said the 65-year-old woman tested positive while in quarantine, where she has been since 5 October. The second patient, a 39-year-old man from the same family, is in a stable condition. Health officials say there is no evidence o",
+    "published_at": "2026-10-17T10:56:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "344c8f05b519",
+  "headline": "Tonga stun England in World Cup opener",
+  "section": "sport",
+  "score": 40,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T17:59:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tonga stun England in World Cup opener",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
+    "published_at": "2026-10-17T17:59:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   },
+   {
+    "title": "Brown scores stunner as England thrash World Cup debutants Wales",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cw62ydry8kj2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "England beat Women;s Rugby League World Cup debutants Wales 70-6 in their Group A opening game in Perth, Australia.",
+    "published_at": "2026-10-17T14:30:03+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   },
+   {
+    "title": "England crush Women's World Cup debutants Wales",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
+    "published_at": "2026-10-17T12:32:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
   "id": "a610633e75dc",
   "headline": "Winter Storm Warning: Up to 12 Inches of Snow and 45 MPH Gusts Threaten I-80",
   "section": "motoring",
@@ -5299,68 +5064,6 @@
     "published_at": "2026-08-28T00:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-10-16T21:23:03+00:00"
-   }
-  ]
- },
- {
-  "id": "7ac941dfe1ec",
-  "headline": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T13:58:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
-    "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-    "source": "The Guardian World",
-    "summary": "Exclusive: Douglas Alexander, on trade delegation to India, talks up economic benefits of joint trading arrangements with Europe UK politics live – latest updates Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to negotiate free trade agreements, the Scotland secretary has said. Douglas Alexander helped negotiate deals with India and the",
-    "published_at": "2026-10-14T13:58:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
-    "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-    "source": "Guardian Business",
-    "summary": "Exclusive: Douglas Alexander, on trade delegation to India, talks up economic benefits of joint trading arrangements with Europe UK politics live – latest updates Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to negotiate free trade agreements, the Scotland secretary has said. Douglas Alexander helped negotiate deals with India and the",
-    "published_at": "2026-10-14T13:58:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "3ba64607633c",
-  "headline": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-  "section": "business",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T08:27:17+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-    "published_at": "2026-10-14T08:27:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-    "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-    "published_at": "2026-10-14T08:27:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
    }
   ]
  },
@@ -6114,81 +5817,6 @@
   ]
  },
  {
-  "id": "b8af8fcaffbb",
-  "headline": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-  "section": "world",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T04:21:25+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-    "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
-    "published_at": "2026-10-14T04:21:25+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "7923e9fedadd",
-  "headline": "Anthropic warns small AI models could self-replicate through IoT devices",
-  "section": "ai",
-  "score": 37,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T12:55:06+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "source": "Ars Technica",
-    "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-    "published_at": "2026-10-14T12:55:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   },
-   {
-    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "source": "Ars Technica AI",
-    "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-    "published_at": "2026-10-14T12:55:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "b57cd0141594",
-  "headline": "Ply by Hernan Diaz review – Pulitzer winner’s dry vision of far-future America",
-  "section": "culture",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T08:00:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ply by Hernan Diaz review – Pulitzer winner’s dry vision of far-future America",
-    "url": "https://www.theguardian.com/books/2026/oct/14/ply-by-hernan-diaz-review-pulitzer-winners-dry-vision-of-far-future-america",
-    "source": "Guardian Culture",
-    "summary": "There are shades of JG Ballard in this tale of survival in a decaying metropolis, but big ideas and lengthy exposition crowd out the human drama Hernan Diaz’s last novel, the formally inventive Trust , narrated the biography of a successful financier from four different viewpoints to investigate themes of memory, representation, fiction and the fictitiousness of money. It was both critically and c",
-    "published_at": "2026-10-14T08:00:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
   "id": "51a6285b42ab",
   "headline": "See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature",
   "section": "culture",
@@ -6604,50 +6232,6 @@
     "published_at": "2026-10-17T11:21:32+00:00",
     "source_countries": [],
     "seen_at": "2026-10-17T12:31:36+00:00"
-   }
-  ]
- },
- {
-  "id": "6f50d2fe7572",
-  "headline": "Cheap weapons, growing fears: Inside the Taliban’s drone campaign against Pakistan",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-14T12:52:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Cheap weapons, growing fears: Inside the Taliban’s drone campaign against Pakistan",
-    "url": "https://www.france24.com/en/asia-pacific/20261014-taliban-suicide-drone-attacks-pakistan",
-    "source": "France 24",
-    "summary": "Pakistan says it intercepted 23 suicide drones launched from Afghanistan into Pakistani airspace in September alone. Since the conflict began in February 2026, the Taliban have increasingly used drones to attack Pakistan, raising concerns in Islamabad.",
-    "published_at": "2026-10-14T12:52:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
-   }
-  ]
- },
- {
-  "id": "d8e8aaa1156a",
-  "headline": "New global guidelines warn against obesity drugs for children under 10",
-  "section": "health",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-10-14T15:29:19+00:00",
-  "event_time": "2026-10-07T08:07:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "New global guidelines warn against obesity drugs for children under 10",
-    "url": "https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Health",
-    "summary": "Care should focus on healthy eating and exercise, not medicines such as weight-loss injections, says the World Health Organization",
-    "published_at": "2026-10-07T08:07:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-14T15:29:16+00:00"
    }
   ]
  },
@@ -8629,6 +8213,94 @@
   ]
  },
  {
+  "id": "304b5f13ef5a",
+  "headline": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-16T14:42:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
+    "url": "https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Opposition parties have forced a debate in the Bundestag on the early-20th-century genocide Germany carried out in Namibia. Will this finally spur progress in addressing colonial crimes?",
+    "published_at": "2026-10-16T14:42:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "0dd4d26037fa",
+  "headline": "Energy bills through the roof? Five signs your house is leaking heat",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-14T06:00:47+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Energy bills through the roof? Five signs your house is leaking heat",
+    "url": "https://www.theguardian.com/money/2026/oct/14/energy-bills-roof-house-leaking-heat",
+    "source": "Guardian Business",
+    "summary": "From finding draughts to buying a thermal leak detector – there are simple, cost-effective ways to start sorting heat loss How to storm-proof your home, from roof tiles to garden fences Pick a day when there is a good breeze, and heat the house to its usual temperature. Then wander around with a candle or smoke pen (about £20). Alternatively, buy a thermal leak detector. This flashes blue for cold",
+    "published_at": "2026-10-14T06:00:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5703a075afd5",
+  "headline": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
+  "section": "sport",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T16:08:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
+    "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats”, but they were able to forget the cacophony of noise around the club as Enzo Maresca became the first manager to win his first seven games in charge of a team. Ip",
+    "published_at": "2026-10-17T16:08:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1291a473e837",
+  "headline": "Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death",
+  "section": "goodnews",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-11T15:20:19+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death",
+    "url": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
+    "source": "Good News Network",
+    "summary": "Statins may be protecting people from more than just cholesterol, suggests new research from the University of California in San Diego. Patients with glaucoma who take the cholesterol-busting pills appear less likely to need surgery—and have a reduced chance of the condition worsening, according to the findings. Called the “silent thief of sight” because the […] The post Statins May Protect People",
+    "published_at": "2026-10-11T15:20:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
   "id": "8d691fdb102f",
   "headline": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
   "section": "world",
@@ -8933,6 +8605,226 @@
     "published_at": "2026-10-17T11:00:30+00:00",
     "source_countries": [],
     "seen_at": "2026-10-17T12:31:36+00:00"
+   }
+  ]
+ },
+ {
+  "id": "184ed1696874",
+  "headline": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+  "section": "business",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-14T11:57:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+    "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+    "published_at": "2026-10-14T11:57:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "58e4191fcfe4",
+  "headline": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-14T02:00:14+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "Google DeepMind",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "published_at": "2026-10-14T02:00:14+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c7e7ad60970c",
+  "headline": "Microsoft Plugs Nearly 1,000 Security Holes",
+  "section": "safety",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-09-08T21:44:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+    "source": "Krebs on Security",
+    "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and d",
+    "published_at": "2026-09-08T21:44:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9d913ba171e7",
+  "headline": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T16:00:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+    "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+    "source": "The Guardian World",
+    "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an investigation has been launched into why the cars, funded by ",
+    "published_at": "2026-10-17T16:00:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "da1157992e09",
+  "headline": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T16:45:15+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+    "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+    "source": "CNBC Top",
+    "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+    "published_at": "2026-10-17T16:45:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "6327bf4d2077",
+  "headline": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+  "section": "tech",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-15T19:55:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+    "source": "Hacker News Best",
+    "summary": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 398 # Comments: 282",
+    "published_at": "2026-10-15T19:55:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "912e4aafdafa",
+  "headline": "Disability burden linked to alcohol-related cirrhosis and heart failure projected to rise sharply by 2050",
+  "section": "health",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-16T22:10:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Disability burden linked to alcohol-related cirrhosis and heart failure projected to rise sharply by 2050",
+    "url": "https://medicalxpress.com/news/2026-10-disability-burden-linked-alcohol-cirrhosis.html",
+    "source": "Medical Xpress",
+    "summary": "The disability burden associated with alcohol-related cirrhosis complicated by heart failure is projected to rise substantially by 2050 across Central Europe, Eastern Europe and the United States (US), according to new research presented at UEG Week 2026.",
+    "published_at": "2026-10-16T22:10:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "eeb20f19fcc6",
+  "headline": "Street Fighter review – nostalgia only goes so far in junky fighting game movie",
+  "section": "culture",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-15T16:00:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Street Fighter review – nostalgia only goes so far in junky fighting game movie",
+    "url": "https://www.theguardian.com/film/2026/oct/15/street-fighter-movie-review",
+    "source": "Guardian Culture",
+    "summary": "There are brief, simple pleasures in the inevitable new big screen take on the classic game but like the recent Mortal Kombat movies, it’s a largely incoherent mess We just had Resident Evil , Zach Cregger’s giddy, nasty, devilishly fun spin on Capcom’s popular zombie franchise. It gave us renewed hope (after Sonic the Hedgehog, The Last of Us and Fallout) that video game adaptations could be good",
+    "published_at": "2026-10-15T16:00:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "54b02ca0da3c",
+  "headline": "My Rasta father showed me the real Jamaica. After he died, I wanted to share it with my kids",
+  "section": "travel",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2024-02-29T07:00:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "My Rasta father showed me the real Jamaica. After he died, I wanted to share it with my kids",
+    "url": "https://www.theguardian.com/travel/2024/feb/29/family-road-trip-jamaica-blue-mountains-kingston",
+    "source": "Guardian Travel",
+    "summary": "I had no idea where I was heading when we set sail from Jamaica in the 70s, but I’m glad I’ve returned with my children to remember their grandfather this way As we bump along terrible roads in my dad’s hot, noisy buttermilk-coloured Beetle, I’m unable to take in the beauty of Jamaica’s north coast – its waterfalls and gin-clear sea, its lush fern-quilted interior and the majestic Blue Mountains m",
+    "published_at": "2024-02-29T07:00:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
+   }
+  ]
+ },
+ {
+  "id": "37e50a197816",
+  "headline": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-17T18:27:41+00:00",
+  "event_time": "2026-10-17T16:08:39+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Pressure on Arbeloa lifted after Alex Iwobi sinks Hull for Fulham’s first win",
+    "url": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
+    "source": "Guardian Sport",
+    "summary": "After such a dominant performance against a team so blunt going forward, it almost felt inevitable that Álvaro Arbeloa was going to be denied his first Premier League win as Fulham head coach in similar fashion as the weeks and games before. After all their chances and possession, Craven Cottage should not have been a place of nerves when Mohamed Belloumi lined up a free-kick as three minutes of s",
+    "published_at": "2026-10-17T16:08:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-17T18:27:38+00:00"
    }
   ]
  }

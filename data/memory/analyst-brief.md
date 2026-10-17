@@ -65,9 +65,8 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 65 dní · 58 záznamů
+- rubrika `world` · sledováno 65 dní · 59 záznamů
 - časová osa:
-  - **2026-09-29** (1 zdrojů) Israeli settlers attack Jalud village in occupied West Bank, torch homes
   - **2026-09-29** (2 zdrojů) Israeli settlers attack West Bank village and block Palestinian family's return home
   - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
   - **2026-10-05** (1 zdrojů) Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
@@ -77,6 +76,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-10-16** (2 zdrojů) Repairing Brexit economic damage should be Burnham’s top priority, business chief says
   - **2026-10-16** (4 zdrojů) Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
   - **2026-10-17** (2 zdrojů) 🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
+  - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 66 dní · 49 záznamů
