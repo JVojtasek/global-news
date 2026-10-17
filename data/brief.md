@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-16
+# ZADÁNÍ PRO REDAKCI — 2026-10-17
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,27 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
-- id události: `8cd415cc4ee6`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
-    <https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss>
-    > Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.
-  - **BBC Entertainment** — Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder
-    <https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss>
-    > Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.
-  - **Guardian Culture** — Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder
-    <https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder>
-    > ‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentenced Tupac trial spotlights decades of US police failures in solving the case Duane “Keffe D” Davis, the former California gang leader convicted of murder for orchest
-  - **Al Jazeera** — Tupac Shakur killer sentenced to 40 years in prison
-    <https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss>
-    > Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.
-  - **France 24** — Former gang leader sentenced to 40 years to life for Tupac Shakur murder
-    <https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder>
-    > Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday.
-
-### 2. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
+### 1. Russian strikes leave 600,000 without power in Ukraine, Zelensky says
 - id události: `191e7f6ed1f6`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -51,7 +31,7 @@
     <https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead>
     > An advisor to Ukraine’s President Volodymyr Zelensky said on Wednesday that unannounced restrictions to the Starlink satellite system were “depriving” Ukraine of its means of defence. Ukraine uses the network owned by Elon Musk to conduct battlefield operations including drone fl
 
-### 3. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+### 2. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
 - id události: `aa337c25492c`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -74,7 +54,7 @@
     <https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/>
     > https://x.com/OpenAINewsroom/status/2110095403198849132 Comments URL: https://news.ycombinator.com/item?id=50078141 Points: 366 # Comments: 337
 
-### 4. Real Madrid stun Roma after dramatic late comeback
+### 3. Real Madrid stun Roma after dramatic late comeback
 - id události: `ead21b3fa34a`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -97,23 +77,33 @@
     <https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss>
     > PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.
 
+### 4. At least 33 pupils and teacher killed after school roof collapses in Pakistan
+- id události: `4dfeead038ca`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — At least 33 pupils and teacher killed after school roof collapses in Pakistan
+    <https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss>
+    > Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.
+  - **DW News** — School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher
+    <https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf>
+    > Local authorities said more than 50 other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.
+  - **NPR News** — School roof collapse kills at least 29, injures more than 3 dozen in Pakistan
+    <https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan>
+    > The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.
+  - **Al Jazeera** — Dozens of children killed after roof collapses in Pakistani school
+    <https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss>
+    > At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### inflation
-- rubrika: `business`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „why does inflation occur“
-  - „why does inflation exist“
-  - „why does inflation keep going up“
-  - „why is inflation so high“
-  - „why is inflation a thing“
-  - „why is inflation good“
+### two factor authentication
+- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Inflation — <https://en.wikipedia.org/wiki/Inflation>
-  - 2021–2023 inflation surge — <https://en.wikipedia.org/wiki/2021–2023_inflation_surge>
-  - Cosmic inflation — <https://en.wikipedia.org/wiki/Cosmic_inflation>
+  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
+  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
+  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
 
 ---
 
