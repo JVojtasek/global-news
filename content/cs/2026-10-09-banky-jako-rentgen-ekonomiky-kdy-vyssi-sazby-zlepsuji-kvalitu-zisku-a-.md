@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/banky-jako-rentgen-ekonomiky-kdy-vyssi-sazby-zlepsuji-kvalit-analyza-384246
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Většině čtenářů se přes noc nic nezmění. Klienti bank s úsporami nebo úvěry to pocítí později: jak rychle banky promítají vyšší sazby do úroků pro střadatele, rozhoduje o úrocích z úspor i o tom, jak snadno půjčují."
+  todo: "Porovnejte úrok na svém spořicím účtu s tím, co banka nabízí novým klientům; když se rozejdou, zeptejte se banky nebo se podívejte do jejího sazebníku."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/banky-jako-rentgen-ekonomiky-kdy-vyssi-sazby-zlepsuji-kvalit-analyza-384246

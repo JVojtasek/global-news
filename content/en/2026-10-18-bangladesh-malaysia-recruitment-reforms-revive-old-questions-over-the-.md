@@ -13,6 +13,10 @@ date: '2026-10-18'
 status: published
 confidence: 0
 image_query: Bangladesh-Malaysia recruitment reforms revive old questions
+impact:
+  areas: [money, life]
+  line: "Most readers are not affected directly. It matters to anyone seeking work abroad through recruiters: in this corridor, investigators allege workers were charged up to five times the government-approved fee, often via intermediaries without receipts."
+  todo: "Before paying a recruiter, check the official fee with your government's labour-migration office and insist on receipts; here, hand over no money or passport before formal instructions."
 syndicated:
   source: Global Voices
   author: Maksuda Akter

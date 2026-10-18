@@ -17,6 +17,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-openai-prepocita-pribeh-co-to-znamena-pro-cipy-cloud-a--analyza-383956
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Většině čtenářů se v každodenním životě nic nemění. Týká se to těch, kdo drží technologické fondy: zpráva o tržbách jedné soukromé firmy pohnula akciemi výrobců čipů a cloudu, přičemž velikost revize podle analýzy zatím známá není."
+  todo: "Když držíte technologický fond, podívejte se na jeho největší pozice; pak sledujte, zda příští čtvrtletní výsledky čipových a cloudových firem ukážou změnu objednávek, ne jen cen akcií."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-openai-prepocita-pribeh-co-to-znamena-pro-cipy-cloud-a--analyza-383956

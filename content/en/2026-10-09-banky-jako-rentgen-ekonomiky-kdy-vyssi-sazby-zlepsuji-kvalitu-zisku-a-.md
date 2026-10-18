@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/banky-jako-rentgen-ekonomiky-kdy-vyssi-sazby-zlepsuji-kvalit-analyza-384246
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Nothing changes overnight for most readers. Bank customers with savings or loans feel it later: how fast banks pass higher rates on to savers decides both savings interest and how easily loans are granted."
+  todo: "Compare the rate on your savings account with what your bank offers new customers; if a gap opens, ask the bank or check its published rate sheet."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/banky-jako-rentgen-ekonomiky-kdy-vyssi-sazby-zlepsuji-kvalit-analyza-384246

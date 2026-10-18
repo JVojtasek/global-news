@@ -12,6 +12,10 @@ date: '2026-10-18'
 status: published
 confidence: 0
 image_query: Activists push for Pakistan to recognise
+impact:
+  areas: [health, life]
+  line: "Most readers' lives do not change. For families living with albinism anywhere, the article names what helps: sun protection, early eye care and simple classroom adjustments, which WHO says reduce many complications."
+  todo: "If a child in your family has albinism, ask the school about seating near the board, large print and extra exam time; WHO publishes guidance on sun protection."
 syndicated:
   source: Global Voices
   author: Mahpara Zulqadar

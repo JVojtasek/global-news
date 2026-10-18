@@ -14,6 +14,10 @@ origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-openai-prepocita-pribeh-co-to-znamena-pro-cipy-cloud-a--analyza-383956
   note: Originally published on QMA.
+impact:
+  areas: [money]
+  line: "Most readers' daily life does not change. It matters to anyone holding technology funds: a report on one private company's revenue moved listed chip and cloud shares, and the analysis says the size of the revision is still unknown."
+  todo: "If you hold a technology fund, check its top holdings; then watch whether chip and cloud companies' next quarterly reports show orders changing, not just share prices."
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-openai-prepocita-pribeh-co-to-znamena-pro-cipy-cloud-a--analyza-383956
