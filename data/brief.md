@@ -68,25 +68,24 @@
     <https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery>
     > Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.
 
-### 4. Trump calls off livestream for Fort Hood shooter's execution by firing squad
-- id události: `4732b5d0bc28`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
+### 4. Meta and Apple team up to make Muse AI models run better on Macs
+- id události: `c7cea461bd6d`  ·  rubrika: `tech`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC World** — Trump calls off livestream for Fort Hood shooter's execution by firing squad
-    <https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss>
-    > Trump said some would "rather not watch" the execution of Nidal Hasan, the first military execution in over 60 years.
-  - **DW News** — Trump says execution of Fort Hood shooter will not be livestreamed
-    <https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf>
-    > Trump said the execution of the Fort Hood shooter can be viewed in person by families of the victims if they wish. The decision comes after bipartisan backlash regarding the Pentagon's plans to livestream the execution.
-  - **France 24** — Fort Hood shooter’s firing squad execution will not be livestreamed, Trump says
-    <https://www.france24.com/en/americas/20261015-fort-hood-shooter-s-firing-squad-execution-will-not-be-livestreamed-trump-says>
-    > US President Donald Trump said Thursday that he was cancelling plans to livestream the firing squad execution of a convicted military base shooter – a project that had sparked outrage in the United States. Nidal Hasan is scheduled to be executed on December 3 at Fort Hood in Texa
-  - **The Verge** — Trump calls off livestream of execution
-    <https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming>
-    > The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming the execution for all to see might have been a strong deterr
-  - **Al Jazeera** — Trump says Fort Hood US shooter execution will not be livestreamed
-    <https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss>
-    > US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.
+  - **The Verge** — Meta and Apple team up to make Muse AI models run better on Macs
+    <https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx>
+    > Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra
+  - **The Verge AI** — Meta and Apple team up to make Muse AI models run better on Macs
+    <https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx>
+    > Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra
+  - **CNBC Top** — Apple and Meta team up to make Muse AI model run on Mac computers
+    <https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html>
+    > Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.
+  - **The Verge** — Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom
+    <https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom>
+    > We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how 
+  - **Hugging Face** — Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta
+    <https://huggingface.co/blog/meta-muse-spark-open>
 
 ---
 
@@ -96,8 +95,8 @@
 - rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
   - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
 
 ---
 
@@ -124,7 +123,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-21  (2 zdrojů, síla 44)  Macron and Carney announce closer France-Canada ties amid Trump tensions
   2026-09-21  (2 zdrojů, síla 43)  Trump to meet Macron in New York before UN General Assembly
   2026-09-21  (2 zdrojů, síla 46)  Burnham hails Greenland deal ahead of expected first Trump meeting
   2026-09-21  (1 zdrojů, síla 44)  The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
@@ -144,6 +142,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
   2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
   2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
+  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -153,7 +152,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-11  (4 zdrojů, síla 76)  Andy Burnham to publish all details of his dealings with Manchester City
   2026-10-12  (2 zdrojů, síla 56)  Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
   2026-10-12  (2 zdrojů, síla 51)  UK PM Andy Burnham met Man City chairman during time as Manchester mayor
   2026-10-12  (2 zdrojů, síla 45)  Coventry City v Newcastle United: Premier League – live
@@ -173,6 +171,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
   2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League
   2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated
+  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick
 ```
 
 ---

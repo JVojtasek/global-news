@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-18
 
-Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **154 vláken**. Aktivních za posledních 14 dní: **54**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-05** (1 zdrojů) Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
   - **2026-10-08** (2 zdrojů) Germany news: UK's Burnham visits Berlin for talks with Merz
   - **2026-10-12** (2 zdrojů) UK's Burnham accuses Russia of meddling in Brexit vote
   - **2026-10-14** (1 zdrojů) Do any of these Israeli candidates support a Palestinian state?
@@ -19,11 +18,11 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
   - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
   - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
+  - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 61 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
   - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
   - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
   - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
@@ -33,6 +32,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
   - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
   - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
+  - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 69 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 66 dní · 49 záznamů
+- rubrika `world` · sledováno 67 dní · 50 záznamů
 - časová osa:
-  - **2026-09-30** (2 zdrojů) Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea
   - **2026-10-01** (2 zdrojů) Despite praise and White House visits, Trump avoids endorsing Netanyahu
   - **2026-10-02** (2 zdrojů) South Korea demands Ukraine apology over POW disclosure
   - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
@@ -91,6 +90,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-16** (2 zdrojů) New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
   - **2026-10-16** (3 zdrojů) White House press secretary Zacharia exiting role after short tenure
   - **2026-10-17** (2 zdrojů) Katie Zacharia leaving her White House role less than five days on the job
+  - **2026-10-18** (3 zdrojů) Trump endorses Netanyahu in Israeli legislative elections
 
 ---
 
