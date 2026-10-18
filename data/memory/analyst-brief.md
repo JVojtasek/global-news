@@ -20,6 +20,20 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
   - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 61 dní · 60 záznamů
+- časová osa:
+  - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
+  - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
+  - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
+  - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
+  - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
+  - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
+  - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
+  - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
+  - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
+  - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
+
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 69 dní · 60 záznamů
 - časová osa:
@@ -35,20 +49,6 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 60 dní · 60 záznamů
-- časová osa:
-  - **2026-10-14** (3 zdrojů) Striker swaps Sunday league for Champions League
-  - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
-  - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
-  - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
-  - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
-  - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
-  - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
-  - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
-  - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
-  - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů
