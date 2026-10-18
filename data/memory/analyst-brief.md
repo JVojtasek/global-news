@@ -9,7 +9,6 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-01** (2 zdrojů) PM warned Rosebank oil field could breach West Bank sanctions
   - **2026-10-05** (1 zdrojů) Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
   - **2026-10-08** (2 zdrojů) Germany news: UK's Burnham visits Berlin for talks with Merz
   - **2026-10-12** (2 zdrojů) UK's Burnham accuses Russia of meddling in Brexit vote
@@ -19,11 +18,11 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-17** (2 zdrojů) 🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
   - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
   - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
+  - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 61 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (2 zdrojů) Manchester City staff invited on government trade trip to India
   - **2026-10-14** (2 zdrojů) Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
   - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
   - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
@@ -33,6 +32,7 @@ Paměť obsahuje **153 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
   - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
   - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
+  - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 69 dní · 60 záznamů

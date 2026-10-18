@@ -9,47 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. At least 33 pupils and teacher killed after school roof collapses in Pakistan
-- id události: `4dfeead038ca`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — At least 33 pupils and teacher killed after school roof collapses in Pakistan
-    <https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss>
-    > Rescue officials fear more people are buried under the debris in the north-western city of Peshawar.
-  - **DW News** — School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher
-    <https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf>
-    > Local authorities said more than 50 other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.
-  - **NPR News** — School roof collapse kills at least 29, injures more than 3 dozen in Pakistan
-    <https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan>
-    > The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.
-  - **Al Jazeera** — Dozens of children killed after roof collapses in Pakistani school
-    <https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss>
-    > At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.
-
-### 2. Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
-- id události: `98fb856ff261`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
-    <https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss>
-    > Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.
-  - **The Guardian World** — Russia and Ukraine resume energy strikes despite Trump warnings
-    <https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses>
-    > Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries Europe live – latest updates The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collaps
-  - **France 24** — Ukraine's Zelensky defies Trump with Russian refinery strikes
-    <https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes>
-    > Ukraine will no longer abide by US President Donald Trump's demands not to strike Russian oil refineries, President Volodymyr Zelensky said in remarks published Thursday, amid deepening tensions between the two leaders over a US-Russia diesel agreement. Relations between Kyiv and
-  - **France 24** — 'American abandonment' threatens Ukraine's civilians in war against Russia
-    <https://www.france24.com/en/tv-shows/press-review/20261015-american-abandonment-threatens-ukraine-s-civilians-in-war-against-russia>
-    > PRESS REVIEW – Thursday, October 15: First, reported Starlink disruptions in Ukraine make the European front pages. Next, US papers go into more detail about the situation. Also, an unusual alliance forms in Germany between far-right and far-left parties. Meanwhile, the winners o
-  - **Al Jazeera** — Russia says Ukraine resumes attacks on oil refineries
-    <https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss>
-    > Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.
-  - **France 24** — Restrictions expose Ukraine's Starlink dependency in Russia war
-    <https://www.france24.com/en/video/20261015-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war>
-    > Restrictions reported by Ukraine on its use of the US satellite internet system Starlink have exposed Kyiv's reliance on the technology for both offensive and defensive operations in its fight against Russia'a invasion, analysts and observers say. A senior Ukrainian official, who
-
-### 3. Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+### 1. Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
 - id události: `363fbc099b39`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -69,7 +29,7 @@
     <https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss>
     > At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.
 
-### 4. Watch: Will Ukraine get the support needed as tensions with US rise?
+### 2. Watch: Will Ukraine get the support needed as tensions with US rise?
 - id události: `de00db75434b`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -85,6 +45,49 @@
   - **Investing.com** — Trump says neither he nor Musk responsible for Ukraine loss of Starlink access
     <https://www.investing.com/news/commodities-news/trump-says-neither-he-nor-musk-responsible-for-ukraine-starlink-access-4954681>
 
+### 3. Pope discharged from hospital days after lung cancer surgery
+- id události: `4e7ca8650904`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Pope discharged from hospital days after lung cancer surgery
+    <https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss>
+    > The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.
+  - **BBC Health** — Pope discharged from hospital days after lung cancer surgery
+    <https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss>
+    > The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.
+  - **NPR News** — Pope Leo XIV leaves hospital days after lung cancer surgery
+    <https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery>
+    > The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.
+  - **DW News** — Pope Leo leaves hospital after cancer surgery
+    <https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf>
+    > Four days after undergoing surgery for lung cancer, Pope Leo left the hospital in Rome. His doctors said he was well enough to return home.
+  - **The Guardian World** — Pope Leo discharged from hospital after cancer operation
+    <https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation>
+    > Doctors say pontiff is ‘fit for discharge’ after operation to remove cancerous tumour from his lung Pope Leo lung cancer surgery: what kind of operation did he have and what happens next? Pope Leo has been discharged from hospital in Rome after undergoing an operation to remove a
+  - **France 24** — Pope Leo returns to Vatican four days after lung cancer surgery
+    <https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery>
+    > Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.
+
+### 4. Trump calls off livestream for Fort Hood shooter's execution by firing squad
+- id události: `4732b5d0bc28`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Trump calls off livestream for Fort Hood shooter's execution by firing squad
+    <https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss>
+    > Trump said some would "rather not watch" the execution of Nidal Hasan, the first military execution in over 60 years.
+  - **DW News** — Trump says execution of Fort Hood shooter will not be livestreamed
+    <https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-rdf>
+    > Trump said the execution of the Fort Hood shooter can be viewed in person by families of the victims if they wish. The decision comes after bipartisan backlash regarding the Pentagon's plans to livestream the execution.
+  - **France 24** — Fort Hood shooter’s firing squad execution will not be livestreamed, Trump says
+    <https://www.france24.com/en/americas/20261015-fort-hood-shooter-s-firing-squad-execution-will-not-be-livestreamed-trump-says>
+    > US President Donald Trump said Thursday that he was cancelling plans to livestream the firing squad execution of a convicted military base shooter – a project that had sparked outrage in the United States. Nidal Hasan is scheduled to be executed on December 3 at Fort Hood in Texa
+  - **The Verge** — Trump calls off livestream of execution
+    <https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming>
+    > The execution of Fort Hood shooter Nidal Hasan will not be livestreamed as Secretary of Defense Pete Hegseth had previously announced. Donald Trump announced the plan was off in a post on Truth Social: I think streaming the execution for all to see might have been a strong deterr
+  - **Al Jazeera** — Trump says Fort Hood US shooter execution will not be livestreamed
+    <https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss>
+    > US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -93,8 +96,8 @@
 - rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
   - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -121,7 +124,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-20  (2 zdrojů, síla 49)  France’s Macron and Canada’s Carney announce plans to build stronger ties
   2026-09-21  (2 zdrojů, síla 44)  Macron and Carney announce closer France-Canada ties amid Trump tensions
   2026-09-21  (2 zdrojů, síla 43)  Trump to meet Macron in New York before UN General Assembly
   2026-09-21  (2 zdrojů, síla 46)  Burnham hails Greenland deal ahead of expected first Trump meeting
@@ -141,6 +143,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
   2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
   2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
+  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -150,7 +153,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings
   2026-10-11  (4 zdrojů, síla 76)  Andy Burnham to publish all details of his dealings with Manchester City
   2026-10-12  (2 zdrojů, síla 56)  Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
   2026-10-12  (2 zdrojů, síla 51)  UK PM Andy Burnham met Man City chairman during time as Manchester mayor
@@ -170,6 +172,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
   2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
   2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League
+  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated
 ```
 
 ---
