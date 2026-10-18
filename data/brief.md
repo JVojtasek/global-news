@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-17
+# ZADÁNÍ PRO REDAKCI — 2026-10-18
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,30 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Real Madrid stun Roma after dramatic late comeback
-- id události: `ead21b3fa34a`  ·  rubrika: `sport`  ·  skóre: 74  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Real Madrid stun Roma after dramatic late comeback
-    <https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss>
-    > Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the final seven minutes to earn manager Jose Mourinho a win on his return to Roma.
-  - **Guardian Sport** — Enzo Maresca insists Manchester City are ‘close’ to PSG despite home defeat
-    <https://www.theguardian.com/football/2026/oct/14/enzo-maresca-insists-manchester-city-are-close-to-psg-despite-home-defeat>
-    > Luis Enrique admits ‘luck was on our side’ in 4-2 win Maresca denies players were affected by guilty verdicts Enzo Maresca felt Manchester City proved they were close to the level of Paris Saint-Germain after losing out to them in a Champions League thriller at the Etihad Stadium
-  - **Al Jazeera** — Real Madrid come from 3-1 down to beat Roma on Champions League travels
-    <https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss>
-    > Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.
-  - **France 24** — PSG beat Manchester City in Champions League after financial rules verdict
-    <https://www.france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league>
-    > Defending champions Paris Saint-Germain held off a second-half comeback to beat Manchester City 4-2 away in the Champions League on Wednesday. Goals from Desire Doue, Ousmane Dembele and Vitinha gave PSG a 3-0 lead before Erling Haaland struck twice. Maghnes Akliouche added a fou
-  - **Guardian Sport** — Champions League: Mourinho’s Real Madrid stage wild comeback on Roma return
-    <https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return>
-    > Mourinho’s side score three late goals from 3-1 deficit Dortmund latest team beaten in Norway by Bodø/Glimt José Mourinho enjoyed a Roma reunion to remember as Real Madrid completed an astonishing comeback by scoring three late goals to claim a 4-3 away win in the Champions Leagu
-  - **Al Jazeera** — PSG beat Man City 4-2 in Champions League thriller
-    <https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss>
-    > PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.
-
-### 2. At least 33 pupils and teacher killed after school roof collapses in Pakistan
+### 1. At least 33 pupils and teacher killed after school roof collapses in Pakistan
 - id události: `4dfeead038ca`  ·  rubrika: `world`  ·  skóre: 74  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -49,7 +26,7 @@
     <https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss>
     > At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.
 
-### 3. Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
+### 2. Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
 - id události: `98fb856ff261`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -72,7 +49,7 @@
     <https://www.france24.com/en/video/20261015-restrictions-expose-ukraine-s-starlink-dependency-in-russia-war>
     > Restrictions reported by Ukraine on its use of the US satellite internet system Starlink have exposed Kyiv's reliance on the technology for both offensive and defensive operations in its fight against Russia'a invasion, analysts and observers say. A senior Ukrainian official, who
 
-### 4. Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+### 3. Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
 - id události: `363fbc099b39`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -92,16 +69,32 @@
     <https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss>
     > At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.
 
+### 4. Watch: Will Ukraine get the support needed as tensions with US rise?
+- id události: `de00db75434b`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Watch: Will Ukraine get the support needed as tensions with US rise?
+    <https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss>
+    > Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
+  - **CNBC Top** — Trump says White House didn't order Starlink restrictions in Ukraine
+    <https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html>
+    > Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.
+  - **Al Jazeera** — EU rallies in support of Ukraine amid Trump standoff
+    <https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss>
+    > Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.
+  - **Investing.com** — Trump says neither he nor Musk responsible for Ukraine loss of Starlink access
+    <https://www.investing.com/news/commodities-news/trump-says-neither-he-nor-musk-responsible-for-ukraine-starlink-access-4954681>
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### two factor authentication
-- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
-  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
 
 ---
 
@@ -121,7 +114,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+### 1. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
+- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
+rubrika: world · sledováno od 2026-08-13 · záznamů: 60
+  2026-09-20  (2 zdrojů, síla 49)  France’s Macron and Canada’s Carney announce plans to build stronger ties
+  2026-09-21  (2 zdrojů, síla 44)  Macron and Carney announce closer France-Canada ties amid Trump tensions
+  2026-09-21  (2 zdrojů, síla 43)  Trump to meet Macron in New York before UN General Assembly
+  2026-09-21  (2 zdrojů, síla 46)  Burnham hails Greenland deal ahead of expected first Trump meeting
+  2026-09-21  (1 zdrojů, síla 44)  The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
+  2026-09-22  (1 zdrojů, síla 46)  For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
+  2026-09-28  (2 zdrojů, síla 42)  Israel strips Dutch diplomats of status in West Bank
+  2026-09-28  (1 zdrojů, síla 50)  NASA Armstrong Celebrates 80 Years of Flight Innovation
+  2026-09-29  (1 zdrojů, síla 44)  Israeli settlers attack Jalud village in occupied West Bank, torch homes
+  2026-09-29  (2 zdrojů, síla 51)  Israeli settlers attack West Bank village and block Palestinian family's return home
+  2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
+  2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
+  2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
+  2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
+  2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
+  2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
+  2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+  2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
+  2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
+  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
+```
+
+### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -148,35 +170,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy
   2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
   2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
-```
-
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-11  (2 zdrojů, síla 46)  Manchester City face hostile Liverpool reception after guilty verdict – matchday live
-  2026-10-11  (3 zdrojů, síla 68)  Who 'simply has to do better'? Liverpool v Man City player ratings
-  2026-10-11  (4 zdrojů, síla 76)  Andy Burnham to publish all details of his dealings with Manchester City
-  2026-10-12  (2 zdrojů, síla 56)  Police officer injured as 10 arrests made at tense Liverpool v Manchester City match
-  2026-10-12  (2 zdrojů, síla 51)  UK PM Andy Burnham met Man City chairman during time as Manchester mayor
-  2026-10-12  (2 zdrojů, síla 45)  Coventry City v Newcastle United: Premier League – live
-  2026-10-13  (2 zdrojů, síla 57)  Atletico Madrid vs Manchester United LIVE: Champions League
-  2026-10-13  (2 zdrojů, síla 45)  Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
-  2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
-  2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
-  2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
-  2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
-  2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
-  2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
-  2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
-  2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
-  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
-  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
-  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
-  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
 ```
 
 ---
